@@ -1,57 +1,53 @@
-> *The following text is extracted and transformed from the allthingsnuclear.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627220052id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsnuclear.org privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216133829id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
 
 # UCS Privacy Statement | Union of Concerned Scientists
 
-The Union of Concerned Scientists (UCS) respects your right to privacy and is committed to maintaining your confidence and trust. We have created the following privacy policy to inform you about the ways in which we collect and use information across our website.
+The Union of Concerned Scientists (UCS) respects your right to privacy and is committed to maintaining your confidence and trust. We have created the following privacy policy to inform you about the ways in which the Union of Concerned Scientists collects data about you, why we do it, how we use it and your ability to make choices about your personal information. Rest assured that no personally identifiable information is collected automatically when you visit our website, and we provide a number of mechanisms for you to manage information you provide to us voluntarily.
 
- UCS does not collect any information from you without your knowledge and permission, and we do not ask that you enter any personal information to access or use most areas of the UCS website. In order to use some of the tools and functions, however, such as the online action center, you must enter some identifying information. UCS does not disclose this information to anyone except 1) to identify you, as described in the following paragraphs, to those you contact through our website and 2) to manage our website and database with the help of service providers, who are subject to a non-disclosure agreement. Information you provide UCS is stored in a secure location and is accessible only by designated staff. 
+## How we collect visitor information
 
-We do not sell or rent any information you provide us through our website.
+**Automatic tracking via cookies.** Like most websites, UCS places a "cookie," or small text file, in the browser files of visitors to our site. This allows us to collect information on website traffic or other online behavior, which we use to improve user experience. These cookies do not collect personally identifiable information about users nor are they linked to any personally identifiable information on our site. Likewise, our site records IP address of visitors for purely functional reasons (e.g. logging geography of visitors).
 
-### Website Usage
+UCS also uses cookies to display advertising to visitors to our site who subsequently visit third party websites. Users retain the right to reject cookies and can do so through their cookie settings or by using a browser plugin. If you accept the use of cookies on the UCS website, that acceptance will be stored for a period of three years.
 
-Most areas of our site are accessible without having to provide personal information of any kind. Some of our services do, however, require some form of identification, which the user is free to provide (or withhold) voluntarily. 
+**Voluntary information you provide via forms.** We collect personally identifying information when you submit your name or other information through the mail, phone, or a form on our website—for example, when contacting us, donating, purchasing, subscribing to UCS email or text messages, RSVPing for an event, signing a petition, or sending an email to an action target. The exact information can vary, but may include identifying information—such as name, address, and other voluntarily provided data. By submitting this information, you are consenting to the processing of that information for the purposes identified on the form.
 
-UCS uses Google Analytics to collect aggregate website browsing information including (but not limited to) IP address, domain name, page views, and Internet browser. This information is used to improve our website and will not be disclosed to third parties. Google may use the data collected to contextualize and personalize the ads of its own advertising network. [You can find Google's privacy policy here](http://www.google.com/policies/privacy/).
+When you take certain actions on our site that involve third parties, such as submitting comments to a government agency or to the office of an elected official, your comments and identifying information become subject to their privacy rules, and may also be recorded or published in accordance with public records policies. UCS is not responsible for the privacy practices of any such third party.
 
-### Cookies
+When you donate to UCS via the phone, mail, or our website, your donation information is encrypted and transmitted via a secure connection to our payment processors. UCS uses your credit card information only for the purpose of processing your donation. We will not disclose this information except as necessary to process your one-time or recurring donation.
 
-Like most websites, UCS places a "cookie," or small text file, in the browser files of visitors to our site. This cookie is used to collect website traffic information. Additionally, UCS uses services to advertise on third party websites to UCS supporters as well as previous visitors of our site. These cookies do not collect personal information about users. Data collected is used in accordance with our privacy policy. Users retain the right to reject cookies and can opt out from interest-based advertising through their cookie settings or by using a browser plugin.
+**Information Third Parties share with us.** This website also uses third-party services such as Google Analytics (to monitor and assess our web traffic), and social networking platforms such as Facebook and Twitter (as engagement platforms for our visitors). Although UCS does not collect personally identifying information through these services, we do collect and view aggregate, anonymized information, such as the pages that users visit, the countries they visit from, and the devices they use to access them.
 
-### Collection of Personal Information
+From time to time we supplement data on individuals in our database with information from publicly available sources or third-party vendors for the purpose of improving UCS supporter communications and evaluation of our supporter base. For example, we periodically use a “national change of address” database to update mailing and email addresses.
 
-UCS may collect personal information when it is voluntarily submitted through our websites. Submission of such information that includes the user's phone number, email, or mailing address implies the user's consent to being contacted by UCS, but we do not share emails or phone numbers with third parties.
+## How we use collected data
 
-### Secure Transactions
+Your data is stored on a secure database on secure servers and is accessible only by designated staff or approved vendors, as described in this policy. This information enables us to provide you with updates on our work and opportunities to get involved in our campaigns and to support our work through donations.
 
-When you donate to UCS via our website your donation information is encrypted and transmitted via a secure connection. UCS uses your credit card information only for the purpose of processing your donation. We will not disclose this information except as necessary to process your donation and we do not store it once your donation has been processed. UCS stores all member information on secure servers.
+We may use this information to customize your experience online and offline. For example, we may send you opportunities to take action or attend events in the city, state, or region in which you reside, or prepopulate a form on our website for your convenience.
 
-If you become a financial contributor to UCS, your mailing address may be exchanged with other organizations. We do not sell or exchange email addresses or phone numbers. Exchanging members mailing addresses with other like-minded groups extends the reach of our work by helping us recruit new members. Members may opt out of such list exchanges at any time by sending an email including your full name and address to our membership department at [member@ucsusa.org](mailto:member@ucsusa.org).
+Automatically collected information is only viewed in the aggregate and used to help us improve website experiences. For example, we may run tests on our websites and display slightly different versions to different visitors. Generally, these tests are randomized, but may be influenced by factors such as type of device or whether or not a user is recognized as a donor.
 
-### Online Activism
+We never rent or sell your information. We occasionally exchange mailing addresses of donors with like-minded organizations, though we don’t exchange phone or email addresses. Otherwise, we never share your information with others, unless you request that we do so (e.g., an email sent to your senator through our website action center which you signed).
 
-To send a message from our online action center to government officials and other decision makers you must identify yourself by name, address, email address, and in some cases, phone number. UCS includes this information when we send your message to the target of the action. This is necessary for your message to be effective, and in many cases, is required for submission of your letter to target’s web forms.  
-If you use the UCS action center to submit comments to a government agency your comments, name, mailing and email address may be posted on the agency's web site in accordance with agency public records policies.
+## Your Rights and Choices
 
-### Ecards and "Tell Your Friends" Pages
+Users retain the right to reject cookies and can do so through their cookie settings or by using a browser plugin.
 
-To forward an article or action alert, send an ecard, or invite friends to a house party you must enter your name, your email address, and the email address(es) of anyone you are sending information to. UCS includes your name and email address when we send your message, but the email addresses of the people you send the information to are not stored in the UCS database or added to our mailing list.
+Members can opt-out of having their mailing address shared by emailing member@ucsusa.org.
 
-### Other Places Information May Be Requested
+Recipients can opt-out of email or text communications via the "unsubscribe" link at the bottom of all UCS emails or the STOP command via text messages.
 
-In addition to information you enter when sending messages to friends and decision makers from UCS's website, you may submit information directly to UCS for purposes including donating, subscribing to emails, or entering a contest. UCS will not disclose this information except as described above.
+Additionally, you can request to be removed from any email, phone, text, or mail communications through our [Contact Us form](https://www.ucsusa.org/about/contact-us).
 
-### Communications from UCS
+By submitting information through the UCS website, users consent to having this information transferred to UCS database systems located in the United States. The European Commission does not deem United States laws sufficiently protective of data (though our database providers certify their data practices meet the frameworks principles to receive the personal information of EU residents through the EU-US Privacy Shield). Transfer of personal data to the United States in the absence of adequate protection and without safeguards considered appropriate by the European Commission may pose certain risks, including that United States law may not provide for data processing principles, data subject rights, or enforcement of those rights analogous to those in the European Union.
 
-If you have opted to receive email from UCS you may unsubscribe at any time by clicking the link that appears in bottom of all email communications sent by UCS or by sending an email to [ucsaction@ucsusa.org](mailto:ucsaction@ucsusa.org).
+Donation information is stored on UCS databases permanently, as needed for financial record-keeping purposes. Advocacy, survey, contest, and event information is stored on UCS databases as long as the user is an active UCS supporter for the purpose of evaluating the efficacy of our campaigns and tailoring future communications. This data will be removed from UCS databases after a period of three years of user inactivity.
 
-If you have provided UCS with your mailing address or phone number, we may contact you by phone or mail. You can choose not to receive such communications by contacting our membership department at [member@ucsusa.org](mailto:member@ucsusa.org) or UCS, Two Brattle Square, Cambridge, MA  02138.
+Individuals have the right to withdraw their consent to UCS’s storage of their data at any time. Requests for data removal can be made [here](https://secure.ucsusa.org/onlineactions/WTSB-vwZIkybHDvgxrhaiA2). Users in the European Union also have the right to lodge a complaint with a supervisory authority.
 
-### Privacy Policy Changes
+UCS works with various data vendors who assist us with fundraising and analytics services and who have access to user data. UCS ensures that vendors who have access to user data are in compliance with applicable laws and regulations, including, as applicable, the European Union’s General Data Protection Regulation (GDPR).
 
-UCS continually examines the best options for maintaining a high level of privacy on our site. From time to time, therefore, this privacy policy may be changed. Your use of the UCS website after the date specified below constitutes your agreement to our terms.
+## Updating this policy
 
-## We Need Your Support  
-to Make Change Happen
-
-We _can_ reduce global warming emissions and ensure communities have the resources they need to withstand the effects of climate change—but not without you. Your generous support helps develop science-based solutions for a healthy, safe, and sustainable future.
+From time to time, this privacy policy may be updated without notice. Your use of the UCS website after the date specified below constitutes your agreement to our terms.
