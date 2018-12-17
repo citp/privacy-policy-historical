@@ -1,16 +1,31 @@
-> *The following text is extracted and transformed from the dogsnpawz.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611010804id_/http%3A//www.dogsnpawz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsnpawz.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217205309id_/http%3A//dogsnpawz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how Dogs N Pawz uses and protects any information that you give Dogs N Pawz when you use this website.
+This privacy policy sets out how Dogs N Pawz collects, uses, maintains, and discloses any information collected when you use this website.
 
-Dogs N Pawz is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+_**This policy was last updated 6/27/2018.**_
 
-Dogs N Pawz may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12th August, 2011.
+Dogs N Pawz is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
-Our website address is:  http://dogsnpawz.com and you can contact us at dogsnpawz@yahoo.com.
+You agree to the terms of this policy when you use this website. Dogs N Pawz may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. If any changes are made, you will be notified by revising the date at the top of this page.  
 
-## What we collect
+
+Our website address is:  http://dogsnpawz.com and you can contact us at dogsnpawz@yahoo.com.  Dogs N Pawz was founded in 2011 and is based in the United States.  It is an independently operated blog run by Lisa Brown.  This website provides product reviews, pet news, and tips about taking care of your pet.  
+
+
+##  How information is collected
+
+Here is how your information is collected on Dogs N Pawz:
+
+  * if you leave a comment on the blog
+  * if you purchase a product from one of our affiliates through this site or by using our discount codes
+  * through website cookies and file logs
+  * through Google Analytics
+  * signing up for email delivery via Feedburner and Bloglovin’
+  * any contact forms or contest entries
+
+
 
 We may collect the following information:
 
@@ -23,30 +38,28 @@ We may collect the following information:
 
 ## What we do with the information we gather
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We require this information to understand your needs and to provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
 
 
 
+_**Your email and name are never sold or given away to a third party.**_
+
 ## Comments
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+When visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help with spam detection.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-## Media
+With that being said, I absolutely love to read your comments!  If you choose to leave a comment on one of my blog posts, please be aware that your comment is then public and visible to anyone who reads the comment section.  When you leave a comment, your name and comment will be visible to others.  _***I highly recommended that you don’t leave personal information in the comment section.**_
 
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+Dogs N Pawz reserves the right to remove comments that we feel are inappropriate, threatening, profane or spammy without notice.
 
-## Contact forms
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-When submitting your information to the contact form, the information is kept for a year.  The information is kept for customer service purposes, but the information is not used for marketing purposes.
-
-## Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Comments may be checked through an automated spam detection service.
 
 ## How we use cookies
 
@@ -58,35 +71,37 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+I use the following cookies on Dogs N Pawz:
+
+  * Google Analytics (for tracking website traffic and user behavior).  You can read how their cookies work [here.](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+  * AddThis which is used for social media sharing.
+
+
+
+Google Analytics is used to track website performance and user behavior.  It provides information on page views, referral sources, and other valuable information that helps me improve my website.  Google Analytics captures anonymous data about location, age, gender, and interests, but there isn’t any way that I can get that information and specifically identify that it is you.  Google Analytics may also capture your IP address as you look at articles on this website.  User and event data is retained for 26 months.  It is then automatically deleted.
+
 ## Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.  Dogs N Pawz is not responsible for the privacy policies of other websites or the third-party applications it uses.
 
-## Controlling your personal information
+## Advertisements on Dogs N Pawz
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+To support this website, third party advertisements are used. Dogs N Pawz currently runs advertisements via Google Adsense and Commission Junction. They may use cookies or web beacons when they advertise here on Dogs N Pawz in order to show tailored ads to you.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at **dogsnpawz [AT] yahoo [DOT] com**
+## Social Media Privacy
 
+Dogs N Pawz uses several different social media platforms.  Dogs N Pawz is not responsible for what you post on our social media channels.
 
+## Parental Consent
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+You must have parental permission to use our website and to enter personal information if you are under 16 years old.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above email address. We will promptly correct any information found to be incorrect.
+## Last But Not Least!
 
-## How long we retain your data
+Hopefully, the policy above adequately explains how your data is being used.  Even so, you have the right to access your personal data and know how it is being processed.  We will not transfer personal information unless we are legally obligated to do so. 
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+If you would like your information removed from our systems, you may contact dogsnpawz@yahoo.com.  You can request to have your information removed at any time.
 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
-
-## What rights you have over your data
-
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-
-## Where we send your data
-
-Visitor comments may be checked through an automated spam detection service.
+If you have any questions or concerns about Dogs N Pawz’s privacy policy, you may contact us at dogsnpawz@yahoo.com. 
