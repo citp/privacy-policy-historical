@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codesdope.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126082040id_/https%3A//www.codesdope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesdope.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217101745id_/https%3A//www.codesdope.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for codesdope
 
@@ -75,7 +75,56 @@ Google Analytics - [Privacy Policy](https://www.google.com/policies/technologie
 
 #### Advertising Cookies
 
-We don't use any kind of advertisment on our website right now. You will be informed about the policy on this page when we will start using advertisments. 
+Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. 
+
+You can learn more about online advertising, or opt-out of almost all advertising cookies at [https://www.youronlinechoices.com](https://www.youronlinechoices.com/). 
+
+We use:  
+
+
+  * Google Adsense [Privacy Policy](https://policies.google.com/technologies/ads) owned by Google.
+  * Double Click [Privacy Policy](https://policies.google.com/technologies/ads) owned by Google.
+  * appnexus.com
+  * districtm.io
+  * freewheel.tv
+  * adtech.com
+  * coxmt.com
+  * Openx.com
+  * indexexchange.com
+  * sonobi.com
+  * sovrn.com
+  * lijit.com
+  * openx.com
+  * pubmatic.com
+  * contextweb.com
+  * gumgum.com
+  * 33across.com
+  * Advertising.com
+  * aolcloud.net
+  * bidtellect.com
+  * criteo.com
+  * lkqd.com
+  * lkqd.net
+  * outbrain.com
+  * revcontent.com
+  * rhythmone.com
+  * smaato.com
+  * spotx.tv
+  * spotxchange.com
+  * springserve.com
+  * sekindo.com
+  * adform.com
+  * improvedigital.com
+  * smartclip.net
+  * loopme.com
+  * aps.amazon.com
+  * rubiconproject.com
+  * yldbt.com
+  * lockerdome.com
+
+
+
+Opting out of advertising cookies will not disable ads, they will just no longer be tailored to you. 
 
 ### Miscellaneous
 
@@ -94,4 +143,4 @@ Our website contains links to other websites. The users need to take notice of t
 #### Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below or visit our [contact us page](https://web.archive.org/contact-us/).   
-help@codesdope.com
+help@codesdope.com 
