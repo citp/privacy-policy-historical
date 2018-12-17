@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puresight.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615225418id_/http%3A//puresight.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D219%26Itemid%3D212) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puresight.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217192703id_/http%3A//puresight.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D219%26Itemid%3D212) for the most accurate reproduction.*
 
 # Privacy Policy | PureSight
 
