@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webtraffic4u.net privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618171436id_/http%3A//webtraffic4u.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtraffic4u.net privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217222949id_/http%3A//webtraffic4u.net/privacy.php) for the most accurate reproduction.*
 
 # Web Traffic 4 U! Free Traffic Exchange | Free Advertising Free Web Traffic
 
-Verified Members: **1787**
+Verified Members: **1626**
 
 Web Traffic 4 U Privacy Policy
 
@@ -34,5 +34,5 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-"Web Traffic, Clicks And Sales 4 U!" [Terms|Conditions|Refunds](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [_Site of The Day_](https://web.archive.org/recommends.php) | [Founding Members](https://web.archive.org/founders.php)   
+[Terms|Conditions|Refunds](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [_Site of The Day_](https://web.archive.org/recommends.php) | [Founding Members](https://web.archive.org/founders.php)   
 
