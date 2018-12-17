@@ -1,159 +1,130 @@
-> *The following text is extracted and transformed from the playfps.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfps.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217134127id_/http%3A//www.playpark.com/en-sg/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# privacy-policy
 
-Privacy Policy  
+* * *
 
+Please carefully read and considered the following Privacy Policy (hereinafter called "Policy") before used any service on this website.  
+ **1.Definition**   **"ASIASOFT"**  means Asiasoft Corporation Public Company Limited.  
+ **"USER or USERS"**  means person or people who used serviced on ASIASOFT websites or any affiliate websites.  
+ **"Personal Data"**  or **  "personal data" **means data, whether true or not, about an individual who can be identified from that data, or from that data and other information to which an organisation has or is likely to have access. Common examples of personal data could include name, identification number and contact information.  
+ **"Website"  **means any website from ASIASOFT or affiliate.  
+ **"Service"  **means any services from ASIASOFT or affiliate.  
+ **"Cookies"**  means identifiers which ASIASOFT transfer to USER computer that allow ASIASOFT to recognize USER computer and tell ASIASOFT how and when the Services or website are used or visited, by how many people and to track movements within our website. ASIASOFT may link cookie information to personal data. 
 
-  
-Updated September 30, 2004  
-Version 2.4
+ **2\. WHEN WILL ASIASOFT COLLECT PERSONAL DATA?**
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+2.1 ASIASOFT will/may collect personal data about USER:
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+2.1.1 when USER register and/or use ASIASOFT Services or Site, or open an account with ASIASOFT.
 
-**This Privacy Policy protects your privacy by:**
+2.1.2 when USER submit any form, including, but not limited to, application forms or other forms relating to any of ASIASOFT products and services, whether online or by way of a physical form.
 
-**Informing you about:**
+2.1.3 when USER interact with ASIASOFT, such as via telephone calls, letters, fax, emails or other channels.
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+2.1.4 when USER carry out transactions through ASIASOFT website or Services.
 
-**Empowering you to choose:**  
+2.1.5 when USER submit personal data to ASIASOFT for any reason.
 
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
+2.2 When USER visit, use or interact with Website , ASIASOFT will collect certain information by automated or passive means using a variety of technologies such as USER Internet Protocol (IP) address, computer operating system and browser type, and etc.
 
   
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+**3\. ASIASOFT will collect the Personal data as follows.**
 
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+3.1 Name and Surname
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
+3.2 Gender
 
-  2. Click “Edit User Info” in the left menu;  
+3.3 address
 
-  3. Scroll to the bottom of the page;  
+3.4 Email Address
 
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
+3.5 Date of birth
 
-  5. Click “SAVE.”   
+3.6 Debit, Credit card or any payment method information
 
+3.7 Telephone number
 
+3.8 any other information about the user when the user signs up to use our Services or website, and when the user uses the Services or website, as well as information related to how the user uses our Services or website.
 
+3.9 aggregate data on content the user engages with.
 
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+In case USER do not want us to collect the aforementioned information/personal data, USER must be cancel the registered for used any services in this Website.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+ **4\. SETTING UP AN ACCOUNT**  
+In order to use certain functionalities of the Services, USER will have to create a user account which requires USER to submit certain personal data. When USER register and create an account, ASIASOFT require USER to provide with USER name surname and email address as well as other information. USER will select the Account ID and Password. USER Account ID and Password will be used so you can securely access and maintain your account.
 
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+ **5\. VIEWING WEB PAGES**  
+USER computer sends information which may include personal data about USER that gets logged by a Website server when USER browse ASIASOFT Website. This typically includes without limitation USER computer's IP address, operating system, browser name/version, the referring web page, requested page, date/time, and sometimes a "cookie" to help Website remember USER last visit. If USER are logged in, this information is associated with your personal account. The information is also included in anonymous statistics to allow us to understand how visitors use our site.  
+ **6\. COOKIES**
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+6.1 ASIASOFT may from time to time implement "cookies" or other features to allow us or third parties to collect or share information that will help us improve ASIASOFT Website and the Services ASIASOFT offer, or help us offer new services and features.
 
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+6.2 USER may refuse the use of cookies by selecting the appropriate settings on USER browser. However, please note that if USER do this you may not be able to use the full functionality of ASIASOFT website or the Services.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+**7\. COMMUNITY & SUPPORT**  
+ASIASOFT provide customer service support through any channels. In order to provide customer support, ASIASOFT will ask for your Personel Data. ASIASOFT only use information received from customer support requests for customer support services and ASIASOFT do not transfer to or share this information with any third parties.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+ **8\. HOW DO ASIASOFT USE THE INFORMATION YOU PROVIDE as follows**
 
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+8.1 ASIASOFT may collect, use, disclose and/or process USER personal data for one or more of the following purposes.
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+(a) to consider and/or process USER application/transaction with ASIASOFT or USER transactions or communications with third parties via the Services.
+
+(b) to manage, operate, provide and/or administer USER use of and/or access to ASIASOFT Services and ASIASOFT website, as well as USER relationship and user account with ASIASOFT.
+
+(c) to manage, operate, administer and provide USER with as well as to facilitate the provision of ASIASOFT Services, including, without limitation, remembering USER preferences.
+
+(d) to tailor USER experience through the Services by displaying content according to USER interests and preferences, providing a faster method for USER to access USER account and submit information to ASIASOFT and allowing ASIASOFT to contact USER, if necessary.
+
+(e) to respond to, process, deal with or complete a transaction and/or to fulfil USER requests for certain products and services and notify USER of service issues and unusual account actions.
+
+(f) to enforce ASIASOFT Terms of Service or any applicable end user license agreements.
+
+(g) to protect personal safety and the rights, property or safety of others.
+
+(h) for identification and/or verification.
+
+(i) to maintain and administer any software updates and/or other updates and support that may be required from time to time to ensure the smooth running of our Services.
+
+(j) to deal with or facilitate customer service, carry out USER instructions, deal with or respond to any enquiries given by (or purported to be given by) USER or on USER behalf.
+
+(k) to contact USER or communicate with USER via voice call, text message and/or fax message, email and/or postal mail or otherwise for the purposes of administering and/or managing USER relationship with ASIASOFT or USER use of ASIASOFT Services, such as but not limited to communicating administrative information to USER relating to ASIASOFT Services. USER acknowledge and agree that such communication by us could be by way of the mailing of correspondence, documents or notices to USER, which could involve disclosure of certain personal data about USER to bring about delivery of the same as well as on the external cover of envelopes/mail packages.
+
+(l) to conduct research, analysis and development activities (including, but not limited to, data analytics, surveys, product and service development and/or profiling), to analyse how USER use ASIASOFT Services, to improve ASIASOFT Services or products and/or to enhance USER customer experience.
+
+(m) to respond to legal processes or to comply with or as required by any applicable law, governmental or regulatory requirements of any relevant jurisdiction, including, without limitation, meeting the requirements to make disclosure under the requirements of any law binding on ASIASOFT or on its related corporations or affiliates.
+
+(n) to produce statistics and research for internal and statutory reporting and/or record-keeping requirements.
+
+(o) to carry out due diligence or other screening activities (including, without limitation, background checks) in accordance with legal or regulatory obligations or our risk management procedures that may be required by law or that may have been put in place by us.
+
+(p) to audit our Services or ASIASOFT's business.
+
+q) to prevent or investigate any fraud, unlawful activity, omission or misconduct, whether relating to USER use of ASIASOFT's Services or any other matter arising from USER relationship with ASIASOFT, and whether or not there is any suspicion of the aforementioned.
+
+(s) to store, host, back up (whether for disaster recovery or otherwise) of USER personal data, whether within or outside of USER jurisdiction.
+
+(t) any other purposes which we notify you of at the time of obtaining your consent. (collectively, the "Purposes").
+
+8.2 As the purposes for which we will/may collect, use, disclose or process USER personal data depend on the circumstances at hand, such purpose may not appear above. However, ASIASOFT will notify USER of such other purpose at the time of obtaining USER consent, unless processing of the applicable data without USER consent is permitted by the Privacy Laws.
+
+**9\. The mothod for protect Personel Data**  
+ASIASOFT implement a variety of security measures to ensure the security of USER personal data on our systems. USER personal data is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. ASIASOFT will retain personal data in accordance with the Privacy Laws and/or other applicable laws. That is, ASIASOFT will destroy or anonymize your personal data as soon as it is reasonable to assume that (i) the purpose for which that personal data was collected is no longer being served by the retention of such personal data; and (ii) retention is no longer necessary for any legal or business purposes. If USER cease using Website, or USER permission to use Website and/or the Services is terminated, ASIASOFT may continue storing, using and/or disclosing USER personal data in accordance with this Privacy Policy and USER obligations under the Privacy Laws. Subject to applicable law, ASIASOFT may securely dispose of USER personal data without prior notice to you.
+
+ **10\. DISCLAIMER REGARDING SECURITY AND THIRD PARTY WEBSITES**
+
+10.1 ASIASOFT DO NOT GUARANTEE THE SECURITY OF PERSONAL DATA AND/OR OTHER INFORMATION THAT USER PROVIDE ON THIRD PARTY WEBSITES. ASIASOFT do implement a variety of security measures to maintain the safety of USER personal data that is in our possession or under ASIASOFT control. USER personal data is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the personal data confidential. When USER place orders or access USER personal data, we offer the use of a secure server. All personal data or sensitive information USER supply is encrypted into our databases to be only accessed as stated above.
+
+10.2 In an attempt to provide USER with increased value, ASIASOFT may choose various third party websites to link to, and frame within, the Site. ASIASOFT may also participate in co-branding and other relationships to offer other services and features to ASIASOFT visitors. These linked websites have separate and independent privacy policies as well as security arrangements. Even if the third party is affiliated with ASIASOFT, ASIASOFT have no control over these linked websites, each of which has separate privacy and data collection practices independent of us. Data collected by ASIASOFT co-brand partners or third party websites (even if offered on or through our Site) may not be received by ASIASOFT.
+
+10.3 ASIASOFT therefore have no responsibility or liability for the content, security arrangements (or lack thereof) and activities of these linked sites. These linked sites are only for USER convenience and USER therefore access them at USER own risk. Nonetheless, ASIASOFT seek to protect the integrity of ASIASOFT Website and the links placed upon each of them and therefore welcome any feedback about these linked sites (including, without limitation, if a specific link does not work).
+
+**11\. Amendment**  
+Asiasoft reserves the right to amend, modify, change, add or terminate the Terms and Conditions at any time in its sole discretion without any claim from USER.
+
+ **12\. TERMS AND CONDITIONS**  
+Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Services and other related policies.
+
+  
+
