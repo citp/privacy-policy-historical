@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the componentbuy.com privacy policy that was archived on 2018-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617105459id_/http%3A//www.componentbuy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the componentbuy.com privacy policy that was archived on 2018-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217095133id_/http%3A//www.componentbuy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -30,7 +30,51 @@
 
 <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" type="text/css">
 <link href="http://www.componentbuy.com/assets/css/jquery.toast.css" rel="stylesheet" type="text/css">
+<!--
+                            
+<script type="text/javascript">
+    (function () {
+        var head = document.getElementsByTagName("head").item(0);
+        var script = document.createElement("script");
+        
+        var src = (document.location.protocol == 'https:' 
+            ? 'https://www.formilla.com/scripts/feedback.js' 
+            : 'http://www.formilla.com/scripts/feedback.js');
+        
+        script.setAttribute("type", "text/javascript"); 
+        script.setAttribute("src", src); script.setAttribute("async", true);        
 
+        var complete = false;
+        
+        script.onload = script.onreadystatechange = function () {
+            if (!complete && (!this.readyState 
+                    || this.readyState == 'loaded' 
+                    || this.readyState == 'complete')) {
+                complete = true;
+                Formilla.guid = 'csdedab7-c59b-47b1-bc06-30a7e708b151';
+                Formilla.loadWidgets();                
+            }
+        };
+
+        head.appendChild(script);
+    })();
+</script> -->
+    
+<!-- Start of  Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3904a125-6274-4a35-808e-56230cde6cac"> </script>
+<!-- End of  Zendesk Widget script -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-122838636-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122838636-1');
+</script>
+                                
 
 <style>
     .ui-autocomplete {
@@ -44,10 +88,11 @@
         height: 100px;
     }
 </style>
+
 </head>
-<body onload="DrawCaptcha();DrawCaptchas();">
+<!--<body onload="DrawCaptcha();DrawCaptchas();">-->
 <!-- ======================================Header Starts===================================== -->
-<section style="background-color:#197abe;">
+<body><section style="background-color:#197abe;">
     <div class="container-fluid">
         <div class="row fn-head">
             <div class="col l2 offset-l7">
@@ -284,7 +329,7 @@
        </div>
    
 </section>
-<!-- ======================================Footer Starts===================================== -->
+﻿<!-- ======================================Footer Starts===================================== -->
 <div class="page-footer custom-footer">
     <div class="container">
         <div class="row nomargin">
@@ -296,7 +341,7 @@
                         </a>
                     </div>
                     <div class="col s12 no-padding">
-                        <p><i class="fa fa-mail-forward"></i> &nbsp;sales@componentbuy.com</p>
+                        <p><i class="fa fa-mail-forward"></i> &nbsp;<a href="mailto:sales@componentbuy.com">sales@componentbuy.com</a></p>
                     </div>
                 </div>
             </div>
@@ -334,20 +379,24 @@
                 <div>
                     <form class="col s12" name="foot" id="newsemailid" action="http://www.componentbuy.com/newsletter/index.php?action=newslettersubscibe" method="post">
                         <div class="row">
+
                             <div class="input-field col s10 m7 newsemailid">
                             <label for="email">Email</label>
                                     <input id="newsemail" name="newsemail2" type="email" class="validate newsemails" autocomplete="off" onkeypress="if(this.value.length==35) return false;" required="">
-                                  
+
                                     <span class="qtyerrorss">Invalid Email address</span>
-                                  
+
                             </div>
-                            <div class="input-field col s10 m5 recaptchas " style="display:none">
-                            <input type="text" id="txtCaptcha" style="background-image:url(../assets/img/captcha-img.JPG);text-align:center; border:none;color:grey;
+                            <div id="div1-wrapper">
+                                <div class="input-field col s10 m5 recaptchas " style="display:none">
+                                    <input type="text" id="displayimgs" style="background-image:url(includes/captcha.php);text-align:center; border:none;color:grey;
                                         font-weight:bold; font-family:Modern" readonly="">
-                            <input type="button" id="btnrefresh" value="Refresh" onclick="DrawCaptcha();ValidCaptcha();">
-                                  
-                            <input type="text" id="txtInput" class="validate" autocomplete="off" placeholder="Enter Captcha‎" onkeypress="if(this.value.length==7) return false;" onkeyup="ValidCaptcha();" required="">    
+                                    <!--<input type="button" id="btnrefresh" value="Refresh" onclick="DrawCaptchamm();" />-->
+
+                                    <input type="text" id="txtInput" class="validate" autocomplete="off" placeholder="Enter Captcha‎" onkeypress="if(this.value.length==7) return false;" name="captcha" value="" required="">
+                                </div>
                             </div>
+
                             <button type="sumbit" class="waves-effect waves-light btn sbt right bopen" id="bopens" disabled="">Submit</button>
                         </div>
                     </form>
@@ -674,16 +723,16 @@
     }
     else
     {
-            if (reg.test(value) == false) 
+            if (reg.test(value) === false)
         {
-			$(this).find('.qtyerrorss').show()
-            $('.recaptchas').hide()
+			$(this).find('.qtyerrorss').show();
+            $('.recaptchas').hide();
             $('.bopen').prop('disabled', true);
             return false;
         
         }
-            $(this).find('.qtyerrorss').hide()
-            $('.recaptchas').show()
+            $(this).find('.qtyerrorss').hide();
+            $('.recaptchas').show();
             $('.bopen').prop('disabled', false);
             return true;
     }         
@@ -692,13 +741,13 @@
    
     
 </script>
-<script src="//code.tidio.co/6mufhq3w2z2nzsgbuebga5mjlyg3webe.js"></script>
+<script src="//code.tidio.co/lbk4tbofu3tr7xfyck6zndd9ewl5p5vi.js"></script>
 
   
 <script type="text/javascript">
 
    //Created / Generates the captcha function    
-    function DrawCaptcha()
+    /*function DrawCaptcha()
     {
         var a = Math.ceil(Math.random() * 9)+ '';
         var b = Math.ceil(Math.random() * 9)+ '';       
@@ -708,15 +757,31 @@
         var f = Math.ceil(Math.random() * 9)+ '';  
         var g = Math.ceil(Math.random() * 9)+ '';  
         var code = a + ' ' + b + ' ' + c + ' ' + ' ' + d + ' ' + e + ' '+ f + ' ' + g;
-        document.getElementById("txtCaptcha").value = code
-    }
+        document.getElementById("txtCaptcha").value = code;
+    }*/
+   function DrawCaptchamm()
+   {
+       console.log('inside');
+       var url = 'includes/captcha.php';
+       //var url = window.location.origin+'';
+       console.log(window.location);
+       console.log(window.location.origin);
 
-    // Validate the Entered input aganist the generated security code function   
-    function ValidCaptcha(){
-        var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
-       
+       $('#div1-wrapper').load(url+'#displayimgs');
+   }
+   /*function captcha(){
+       console.log('inside');
+       var url = 'footer.php';
+
+       $('#div1-wrapper').load(url + ' #displayimgs');
+   }*/
+
+        // Validate the Entered input aganist the generated security code function
+        function ValidCaptcha(){
+            var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
+        //console.log('org = '+str1);
         var str2 = removeSpaces(document.getElementById('txtInput').value);
-
+        //console.log('input = '+str2);
         if ((str1 == str2) == true){
            
            document.getElementById("bopens").disabled = false;
@@ -739,37 +804,8 @@
     </script>
 
 <script type="text/javascript">
+//Not Used
 
-   //Created / Generates the captcha function    
-    function DrawCaptchas()
-    {
-        var a = Math.ceil(Math.random() * 9)+ '';
-        var b = Math.ceil(Math.random() * 9)+ '';       
-        var c = Math.ceil(Math.random() * 9)+ '';  
-        var d = Math.ceil(Math.random() * 9)+ '';  
-        var e = Math.ceil(Math.random() * 9)+ '';  
-        var f = Math.ceil(Math.random() * 9)+ '';  
-        var g = Math.ceil(Math.random() * 9)+ '';  
-        var code = a + ' ' + b + ' ' + c + ' ' + ' ' + d + ' ' + e + ' '+ f + ' ' + g;
-        document.getElementById("txtCaptchas").value = code
-    }
-
-    // Validate the Entered input aganist the generated security code function   
-    function ValidCaptchas(){
-        var str1 = removeSpacess(document.getElementById('txtCaptchas').value);
-        var str2 = removeSpacess(document.getElementById('txtInputs').value);
-        if ((str1 == str2) == true){
-            
-            document.getElementById("bopenss").disabled = false;
-             return true;
-            
-         }else{
-             document.getElementById("bopenss").disabled = true;
-             return false;
-         }       
-       
-        
-    }
 
     // Remove the spaces from the entered and generated code
     function removeSpacess(string)
