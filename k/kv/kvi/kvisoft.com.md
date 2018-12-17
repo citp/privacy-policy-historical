@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvisoft.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818220756id_/http%3A//www.kvisoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvisoft.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217044637id_/http%3A//www.kvisoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kvisoft
 
