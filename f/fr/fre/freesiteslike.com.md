@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesiteslike.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072853id_/http%3A//freesiteslike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesiteslike.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217193831id_/https%3A//freesiteslike.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Free Sites Like
+# Privacy - FreeSitesLike
 
 Last updated: May 15, 2016
 
