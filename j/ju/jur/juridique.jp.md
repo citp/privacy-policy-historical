@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juridique.jp privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027051636id_/http%3A//juridique.jp/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juridique.jp privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217214315id_/https%3A//www.juridique.jp/privacypolicy.php) for the most accurate reproduction.*
 
 # JAPAN : visa, immigration, incorporation, privacy policy
 
