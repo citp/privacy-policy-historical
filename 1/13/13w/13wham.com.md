@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 13wham.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621035507id_/http%3A//13wham.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13wham.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217191504id_/https%3A//13wham.com/station/privacy) for the most accurate reproduction.*
 
 # Rochester Privacy | News, Weather, Sports, Breaking News | WHAM
 
