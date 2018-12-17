@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemechic.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614112536id_/http%3A//www.makemechic.com/Privacy-Policy-a-633.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemechic.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217074507id_/http%3A//www.makemechic.com/Privacy-Policy-a-633.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
