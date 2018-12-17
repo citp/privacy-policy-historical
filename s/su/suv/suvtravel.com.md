@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suvtravel.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615224630id_/http%3A//www.suvtravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suvtravel.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217162336id_/http%3A//www.suvtravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | suvtravel
 
@@ -49,6 +49,6 @@ You may notify Us of any updates, amendments and corrections to previously colle
 We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
 
 **Contact**  
-Any queries or comments about this policy should be forwarded [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Any queries or comments about this policy should be forwarded admin@suvtravel.com
 
 Any site that you may connect to from here is not covered by this Privacy Policy.
