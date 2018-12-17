@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613010738id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218000026id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
 
 # ShareCash
 
@@ -70,4 +70,4 @@ We reserve the right to modify this privacy policy at any time without prior not
 
 ### 13\. Additional Information
 
-If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20180613010738id_/http%3A//sharecash.org/contact.php).
+If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20181218000026id_/http%3A//sharecash.org/contact.php).
