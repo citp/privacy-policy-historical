@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxebook.net privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615043412id_/http%3A//foxebook.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxebook.net privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217125856id_/http%3A//www.foxebook.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fox eBook
 
