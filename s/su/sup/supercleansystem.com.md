@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercleansystem.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608205153id_/https%3A//www.supercleansystem.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercleansystem.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217151550id_/http%3A//www.supercleansystem.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Super Clean System
 
@@ -13,8 +13,8 @@
   9. We may allow third parties to serve advertisements and provide analytics services in connection with our Website and Product. These entities may use cookies and other tracing technologies to collect information about your use of our Services, including your IP address, device identifiers, software and hardware information, browser information, time zone and usage information. This information may be used by Woggle and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your activity on our Services. 
   10. Third-party ad serving and analytics technologies are integrated into our Product and Website, so if you do not want to be subject to these technologies, do not use or access our Product and Website. 
   11. Woggle takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. 
-  12. You may request to view the information collected about you by sending an email to [ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#4b383e3b3b24393f0b383e3b2e3928272e2a253832383f2e2665282426) In case you do not want to share information with Woggle, please do not use the Website or Product – information collected about you prior to ceasing the use of the Website or Product will still be used by Woggle. 
+  12. You may request to view the information collected about you by sending an email to [ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#b0c3c5c0c0dfc2c4f0c3c5c0d5c2d3dcd5d1dec3c9c3c4d5dd9ed3dfdd) In case you do not want to share information with Woggle, please do not use the Website or Product – information collected about you prior to ceasing the use of the Website or Product will still be used by Woggle. 
   13. Most device browsers are set to accept cookies by default. If you prefer, you can usually choose to set your device browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of certain features of our Product. 
-  14. If you have any questions about this Privacy Policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#50232520203f2224102325203522333c35313e23292324353d7e333f3d). 
+  14. If you have any questions about this Privacy Policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9deee8ededf2efe9ddeee8edf8effef1f8fcf3eee4eee9f8f0b3fef2f0). 
 
 
