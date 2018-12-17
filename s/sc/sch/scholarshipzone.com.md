@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608195037id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217073901id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
 
 # Scholarship Zone Privacy Statement
 
-scholarshipzone.com ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by registering and using this site, you are agreeing and accepting this policy.
+scholarshipzone.com ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by entering and using this site, you are agreeing and accepting this policy.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -10,13 +10,13 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### Information Collected:
 
-The site only collects information that is volunteered during the registration process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms and surveys such as name, email address, personal financial or demographic information, telephone numbers and addresses. We may also collect third party personal information such as a referral's name. We only use this information for the purpose in which it was intended. We may also collect your IP address and information through the use of electronic 'cookies'. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business.
+The site only collects information that is volunteered during the entry process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms and surveys such as name, email address, personal financial or demographic information, telephone numbers and addresses. We may also collect third party personal information such as a referral's name. We only use this information for the purpose in which it was intended. We may also collect your IP address and information through the use of electronic 'cookies'. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business.
 
 ### How We Use That Information:
 
 ScholarshipZone reserves the right to use this information provided by you for:
 
-  * The specific purpose for which such information was provided (including matching registrants with the education providers and other advertisers on our site);
+  * The specific purpose for which such information was provided (including matching entrants with the education providers and other advertisers on our site);
   * Personal, demographic and profile data to improve our site;
   * Our marketing and promotional purposes;
   * As disclosed at the time such information is provided; and/or as disclosed in this Policy.
@@ -70,7 +70,7 @@ Our website includes Widgets, which are interactive mini-programs that run on ou
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Info@scholarshipzone.com](mailto:info@scholarshipzone.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### Registry Compliance:
+### Entry Compliance:
 
 By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from scholarshipzone.com, our affiliates, and our partners for contact via telephone.
 
@@ -88,11 +88,11 @@ If applicable, this website, scholarshipzone.com, websites linking to scholarshi
 
 ### We do not collect Information from Children:
 
-The information and services provided by us are not intended for children under the age of eighteen (18) years old. Additionally, we do not direct our Website to, nor do we knowingly collect any personal information from children under the age of thirteen (13) years old. If scholarshipzone.com learns of a person who registers on this site who is under the age of thirteen (13) years old, we will immediately delete that person's information.
+The information and services provided by us are not intended for children under the age of eighteen (18) years old. Additionally, we do not direct our Website to, nor do we knowingly collect any personal information from children under the age of thirteen (13) years old. If scholarshipzone.com learns of a person who enters on this site who is under the age of thirteen (13) years old, we will immediately delete that person's information.
 
 ### Anti-Spam Policy and Your Opt-Out Rights:
 
-scholarshipzone.com has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). scholarshipzone.com reserves the right to send its subscribers registration confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a scholarshipzone.com promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global [Unsubscribe Page](https://web.archive.org/unsubscribe).
+scholarshipzone.com has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). scholarshipzone.com reserves the right to send its subscribers entry confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a scholarshipzone.com promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global [Unsubscribe Page](https://web.archive.org/unsubscribe).
 
 ### Help scholarshipzone.com Eliminate Spam
 
@@ -118,7 +118,7 @@ We will retain your information for as long as your account is active or as need
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: June 1, 2017
+Effective: August 24, 2018
 
 ### Contact Information
 
