@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211165507id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217152339id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.*
 
 # ClickBetter
 
@@ -46,7 +46,7 @@ ClickBetter.com has implemented this Privacy Policy to protect personal informat
 
 
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+The email address you provide for transaction processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -76,7 +76,7 @@ ClickBetter.com will use reasonable efforts to keep customer personal informatio
 **8\. Security Safeguards**  
 ClickBetter.com will use reasonable efforts to protect customers’ personal information.
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place a transaction or access your personal information.
 
 These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
@@ -88,10 +88,9 @@ After a transaction, your private information (credit cards, social security num
 **ClickBetter.com will afford you a reasonable opportunity to review the personal information in your file, if you so request by faxing us at: 480-393-5100 or mailing us at:**
 
 ClickBetter Ltd  
-79 Chichester Street  
-Belfast  
-BT1 4JE  
-United Kingdom
+Forsyth House Cromac Sq.  
+Belfast, BT2 8LA  
+United Kingdom 
 
 If ClickBetter.com is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual. 
 
@@ -114,10 +113,9 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 **14\. Contacting Us**   
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.ClickBetter.com  
-79 Chichester Street  
-Belfast  
-BT1 4JE  
+ClickBetter LTD  
+Forsyth House Cromac Sq.  
+Belfast, BT2 8LA  
 United Kingdom  
 support@clickbetter.com
 
