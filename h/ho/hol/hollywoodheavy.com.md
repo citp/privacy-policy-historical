@@ -1,23 +1,27 @@
-> *The following text is extracted and transformed from the hollywoodheavy.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603100934id_/http%3A//www.hollywoodheavy.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodheavy.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217103242id_/http%3A//www.hollywoodheavy.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy || HollywoodHeavy.com
+# Privacy Policy – HollywoodHeavy.com
 
-**Third Party Advertising / Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Security measures. We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. 
+Home » Privacy policy  
+PRIVACY POLICY  
+Privacy Policy
 
-**Data Retention**  
-HollywoodHeavy.com will not retain your personal information longer than is necessary for the purposes for which it was collected. 
+HollywoodHeavy.com take your privacy seriously. We want you to know what information we gather on our web sites, how we use it, and who we share it with, how we safeguard your information, and how you can control its use.  
+COLLECTING INFORMATION
 
-**Linked web sites**  
-We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. Children's privacy We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Hollywood Heavy.com encourages parents to go online with their kids. 
+We collect information on our web sites in a variety of ways, depending upon how you use our sites. We collect information that you voluntarily submit to us, and we also gather information anonymously to help us better understand how our sites are being used and how we can better server our customers (including information provided through the use of “cookies“). In addition, “third party” web sites that you can link to from our web site may also collect and use your information.
 
-**Here are a few tips to help make a child's online experience safer:**   
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
+Cookies – Cookies are small files that can store data on your computer. The data can include your computer’s Internet Protocol address, information about how you use our site, and information about your preferences and past selections. DrewReports.com sets and accesses cookies on your computer. We use this information to keep track of your information for your own convenience, help us optimize your online experience, and help us understand how you use our web pages.
 
-Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. 
+Third Party Links – You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
-Know how your child's information is treated. Check out the FTC's site(1) for more tips on protecting children's privacy online. 
+We partner with various AdNetworks who serve ads and/or collect certain information when you visit our website. These Ad companies may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. That is known as “behavioral advertising”…
 
-We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. Third Party Advertising These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+Notice Regarding Online Behavioral Advertising.
 
-It is our strict policy to never knowingly work in association with any infringing entity's unlawful use of a lawful trademark or lawful copyright. Remember, Hollywood Heavy is simply a site that provides its readers with reporting of urban media & hip hop news and opinions.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+
+ALWAYS FEEL FREE TO CONTACT US.
+
+If you have any questions about this Privacy Policy or any other matter, please contact us at:  
+Email:info@hollywoodheavy.com
