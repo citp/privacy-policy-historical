@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epyk.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616122600id_/http%3A//www.epyk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epyk.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217094027id_/http%3A//www.epyk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
