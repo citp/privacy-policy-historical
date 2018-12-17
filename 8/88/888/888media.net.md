@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 888media.net privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612063510id_/http%3A//www.888media.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 888media.net privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217175735id_/http%3A//www.888media.net/privacy_policy.html) for the most accurate reproduction.*
 
 # 888 Media
 
