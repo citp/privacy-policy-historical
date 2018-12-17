@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top101news.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524142922id_/http%3A//top101news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top101news.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217110219id_/http%3A//top101news.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Top 101 News
+# Privacy Policy – Top 101 News
 
 **Privacy on top101news.com**
 
@@ -114,7 +114,7 @@ Please update your information if it changes as soon as you can by signing in to
 
 Users in certain countries are able to ask for a copy of the information we hold about them (for which, where allowed by law, we may charge a small fee). This needs to be done in writing and using our contact form: Feedback. We will let you know what else we need from you before we send you a copy of your personal information.
 
-If any user wants to deactivate its respective account, user has to write us to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Our team will deactivate the user account including user all posts, comments, Expressions and other related information from public view. User can activate their account at any stage in future by writing us to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) our team will activate user account and restore all information including all posts, comments, Expressions and other related information.
+If any user wants to deactivate its respective account, user has to write us to weeklyviralnews@gmail.com. Our team will deactivate the user account including user all posts, comments, Expressions and other related information from public view. User can activate their account at any stage in future by writing us to weeklyviralnews@gmail.com our team will activate user account and restore all information including all posts, comments, Expressions and other related information.
 
 *** Changes and updates to this Privacy Notice**
 
@@ -126,6 +126,6 @@ Date Last Modified: This Privacy Notice was last modified March 18, 2015.
 
 *** Contact us:**
 
-If you have any question related to Privacy Policy of top101news.com, Please use our contact form or write us to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any question related to Privacy Policy of top101news.com, Please use our contact form or write us to: weeklyviralnews@gmail.com
 
-For any Complain, feedback and Suggestions, please use our contact form or write us to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will appreciate your feedback and suggestions and try to provide you the best service.
+For any Complain, feedback and Suggestions, please use our contact form or write us to: weeklyviralnews@gmail.com We will appreciate your feedback and suggestions and try to provide you the best service.
