@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the scheels.com privacy policy that was archived on 2017-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171029130733id_/http%3A//www.scheels.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scheels.com privacy policy that was archived on 2018-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217041434id_/https%3A//www.scheels.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5PKGTV6"></script><script>dataLayer=[];</script>
+<meta name="msvalidate.01" content="4C6C81C229059265D6382CD98BD3F749">
+<meta name="google-site-verification" content="NNUYPr0C2kWEFSeQKQimTmAoA-LzcKoowcKQPL0uK0Q">
+
+<script type="text/javascript" async="" src="https://static.www.turnto.com/traServer4_3/trajs/TXOE2FrZzlhkSdesite/tra.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5PKGTV6"></script><script>dataLayer=[];</script>
 <script>
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -29,14 +32,36 @@ s.parentNode.insertBefore(wf, s);
 })();
 </script>
 <title>Privacy Policy</title>
-<link href="/on/demandware.static/Sites-scheels-Site/-/default/dw4a89c735/images/favicon.ico" rel="shortcut icon">
+<link id="addJqueryUi" rel="stylesheet" href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/ui/jquery-ui.min.css" type="text/css"><link href="/on/demandware.static/Sites-scheels-Site/-/default/dw70a2642b/images/scheelsfavicon.ico" rel="shortcut icon">
 <meta name="description" content=" Learn more about the Privacy Policy at SCHEELS where you'll find a Terms of Use agreement that applies to your access and use of our site. SCHEELS">
 <meta name="keywords" content="  SCHEELS">
-<link href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/css/pr_tabs.css" type="text/css" rel="stylesheet">
+<noscript id="deferred-styles">
+<link href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet" />
+</noscript>
+<script>
+var loadDeferredStyles = function() {
+var addJqueryMin = document.createElement('link');
+addJqueryMin.setAttribute("id", "addJqueryUi");
+addJqueryMin.rel = 'stylesheet';
+addJqueryMin.href = '/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/ui/jquery-ui.min.css';
+addJqueryMin.type = 'text/css';
+var defer = document.getElementsByTagName('link')[0];
+defer.parentNode.insertBefore(addJqueryMin, defer);
+};
+var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+if (raf) {
+window.setTimeout(loadDeferredStyles, 0);
+} else {
+window.addEventListener('load', loadDeferredStyles)
+};
+</script>
+
+<link href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/css/pr_tabs.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/css/reviews.css" type="text/css" rel="stylesheet">
+<script src="//ui.powerreviews.com/stable/4.0/ui.js"></script></head><body>;
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/lib/html5.js"></script>
 <![endif]-->
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -52,7 +77,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -98,11 +129,52 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/css/style.css">
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.agent='pldemandware';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1531751647079870');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1531751647079870&ev=PageView&noscript=1"
+/></noscript>
+
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -111,18 +183,19 @@ CQuotient.getCQUserId = function () {
 if (window.jQuery) {
 jQuery(document).ready(function(){
 if(screen.width < 768){
-jQuery('#footer').append('<a href="/on/demandware.store/Sites-scheels-Site/en_US/Home-Show" class="mobile-site-link">View Mobile Site</a>');
-jQuery('.mobile-site-link')
-.attr('href', '/on/demandware.store/Sites-scheels-Site/en_US/Home-MobileSite')
+jQuery('#footer').append('<a href="/on/demandware.store/Sites-scheels-Site/en_US/Home-Show" class="full-site-link">View Full Site</a>');
+jQuery('.full-site-link')
+.attr('href', '/on/demandware.store/Sites-scheels-Site/en_US/Home-FullSite')
 .click(function(e) {
 e.preventDefault();
 jQuery.ajax({
-url: '/on/demandware.store/Sites-scheels-Site/en_US/Home-MobileSite',
+url: '/on/demandware.store/Sites-scheels-Site/en_US/Home-FullSite',
 success: function(){
 window.location.reload();
 }
 });
-});
+}
+);
 }
 });
 }
@@ -137,34 +210,56 @@ window.location.reload();
 		top.location = self.location;
 	}
 	</script>
+<link rel="stylesheet" href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/css/braintree.css">
+<script type="text/javascript"><!--
+if(document.location.href.indexOf('orderconfirmation') < 0){	
+ 	var turnToConfig = {
+ 		siteKey: "TXOE2FrZzlhkSdesite",
+ 		localProxyUrl:"https://www.scheels.com/on/demandware.static/Sites-scheels-Site/-/default/dwe18b5563/tra/turntoproxy.html"
+ 	};
+
+ 	(function() {
+     	var tt = document.createElement('script'); tt.type = 'text/javascript'; 
+     	tt.async = true;
+     	tt.src = document.location.protocol + "//static.www.turnto.com/traServer4_3/trajs/" + turnToConfig.siteKey + "/tra.js";
+      	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tt, s);
+ 	})();
+}
+//--></script>
+<link href="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/css/turnto.css" type="text/css" rel="stylesheet">
 <script type="text/javascript">
 /*jQuery(document).ready(function() {
 util.clearDynamicCss();
 
 });*/
 </script>
-<link rel="stylesheet" type="text/css" href="https://d36mpcpuzc4ztk.cloudfront.net/css/visitor.css"></head>
-<body>
+
+
 <div id="wrapper" class="pt_customer-service">
 <header id="header">
+<div id="skip-navigation">
+<a class="btt-btn visually-hidden" tabindex="1"><span>Skip to Main Content</span></a>
+</div>
 <div class="header-top">
 <div class="wrap-desktop">
 <div class="header-promo">
-<div class="homepage-espot-banner"><a class="shipping-info-link" href="http://www.scheels.com/shipping-info.html" title="Free Shipping on Orders Over $25*" id="current-flyers-3-shipping-header"><span style="font-weight:bold; text-transform:uppercase">Free Shipping</span> Over $25*</a>
-<a class="flyer-link" href="http://www.scheels.com/current-flyers-3.html" title="View the Current Flyer" id="current-flyers-3-shipping-header">Shop Sales Flyers</a></div>
-<script type="text/javascript">
-var elem1 = document.getElementsByClassName('homepage-espot-banner')[0];
-//console.log(elem1);
-var a_elem1 = elem1.getElementsByTagName("a");
-//console.log(a_elem1);
-for (var i = 0; i < a_elem1.length; i++){
-a_elem1[i].id = 'current-flyers-3-shipping-header';
+<a class="shipping-info-link header-link" href="https://www.scheels.com/shipping-info.html" title="Free Shipping on Qualifying Orders"><span style="font-weight:bold; text-transform:uppercase;">Free Shipping</span> over $50*</a>
+<a class="flyer-link header-link" style="width: 8.125rem;" href="https://www.scheels.com/c/all/christmasflyer2%7Ciceandpredator" title="View the Current Flyer">Shop Sales Flyer</a>
+<style type="text/css">
+@media screen and (min-width: 1024px) {
+.level-1>li>a {
+    letter-spacing: 0;
 }
-</script>
+}
+
+.level-1>li>a {
+font-size: 1.2em;
+}
+</style>
 </div>
 <div class="user-info">
-<a class="user-account hasMenu" href="#" title="Sign In/Register">
-<i class="fa fa-user loggedout"></i>
+<a aria-expanded="false" class="user-account hasMenu" href="#" title="Sign In/Register">
+<i class="fal fa-user loggedout"></i>
 <span class="desktop-only">Sign In/Register</span>
 <span class="mobile-only loggedout">
 <span class="red">Sign In</span> or <span class="red">Create</span>
@@ -185,42 +280,196 @@ a_elem1[i].id = 'current-flyers-3-shipping-header';
 </div>
 <div class="header-top-links">
 <div class="content-asset" id="header-top-links">
-<style>
-.header-top .dropdown-content {
-    box-shadow: 0px 3px 15px 1px #2e2e2e;
-}
-
-.header-top .cu-link.active .cu-content .links li.button-link a {
-    color:#1d1d1d;
-}
-
-.header-top .cu-link.active .cu-content .links li.button-link a:hover {
-    text-decoration:underline;
-}
-</style>
 <div id="contact-us" class="cu-link hasMenu">
 <span><span class="icon"><i class="fa fa-comment"></i></span> Contact Us </span>
 <div class="dropdown-content cu-content">
-<p>Contact Our SCHEELS.com Team <br><strong>Monday-Friday, 8am-5pm CST.</strong></p>
+<div class="cs-hours-header">
+
+<table class="cs-hours-header">
+<tbody><tr><th colspan="2" style="text-align:center">Contact Our SCHEELS.com Team</th>
+</tr><tr>
+<td>Monday - Friday</td>
+<td>8am - 10pm CST</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td>10am - 8pm CST</td>
+</tr>
+<tr>
+<td>Sunday</td>
+<td>12pm - 8pm CST</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center">
+<strong><a class="header-link" href="https://www.scheels.com/stores">Check Local Stores for Store Hours</a></strong>
+</td>
+</tr>
+</tbody></table>
+</div>
 
 
 
 </div>
 </div>
-<div id="credit-card" class="cc-link hasMenu">
-<span><span class="icon"><i class="fa fa-cc-visa"></i> SCHEELS Visa </span></span>
+<div id="tracking-returns" class="cc-link hasMenu">
+<span><span class="icon"><i class="fas fa-truck"></i> Tracking/Returns</span></span>
 <div class="dropdown-content cc-content">
 <ul class="links">
-<li class="apply-link"><a href="https://www.firstnational.com/dynapp/da/S75BSGCC2DN3Q" target="_blank">Apply Now</a></li>
-<li class="more-link"><a href="https://www.firstbankcard.com/scheels/landingpage/index.html" target="_blank">Learn More</a></li>
-<li class="account-link"><a href="https://www.firstbankcard.com/scheels/site/customer_manage/personal.fhtml" target="_blank">My Account</a></li>
+<li class="more-link"><a class="tracking-returns-link header-link" href="https://www.scheels.com/tracking"><i class="fas fa-truck"></i> Track Your Order</a></li>
+<li class="account-link"><a class="tracking-returns-link header-link" href="https://www.scheels.com/returns"><i class="fas fa-box-open"></i> Returns/Exchanges</a></li>
 </ul>
 </div>
 </div>
-<a id="gift-card" class="gc-link" title="Gift Cards" href="http://www.scheels.com/p/gift-card/GiftCard.html">
+<div id="credit-card" class="cc-link hasMenu">
+<span><span class="icon"><i class="fab fa-cc-visa"></i> SCHEELS Visa </span></span>
+<div class="dropdown-content cc-content">
+<ul class="links">
+<li class="more-link"><a class="header-link" href="/visacard.html" target="_blank">Learn More</a></li>
+<li class="account-link"><a class="header-link" href="https://www.firstbankcard.com/scheels/site/customer_manage/personal.fhtml" target="_blank">My Account</a></li>
+</ul>
+</div>
+</div>
+<a id="gift-card" class="gc-link header-link" title="Gift Cards" href="https://www.scheels.com/p/gift-card/GiftCard.html">
 <span class="icon"><i class="fa fa-credit-card"></i></span>
 Gift Cards
 </a>
+<script type="text/javascript">
+    addIcons();
+    function addIcons() {
+    // Script depends on jQuery being there.
+    if( window.$ ) {
+      $('.mega-menu-11').find('a').html('<i class="fa fa-star"></i>' + ' ' + 'Stars & Stripes' );
+      $('.mega-menu-14').find('a').html('<i class="fal fa-snowflake"></i>' + ' ' + 'Cold Weather HQ' );
+      $('.giftguide').find('a').html('<i class="fal fa-gift"></i>' + ' ' + 'Gift Guide' );
+    } else {
+        // wait 50 milliseconds and try again.
+        window.setTimeout( addIcons, 50 );
+      }
+    }
+  </script>
+<script type="text/javascript">
+    removeRebateBanner();
+    function removeRebateBanner() {
+    // Script depends on jQuery being there.
+    if( window.$ ) {
+      if(window.location.href.indexOf("prefn1=rebate") > -1) {
+       $('#header_holder').css('display', 'none');
+     };
+
+   } else {
+        // wait 50 milliseconds and try again.
+        window.setTimeout( removeRebateBanner, 50 );
+      }
+    }
+  </script>
+<style>
+  .container-popup {
+    display: none !important;
+  }
+  .ui-dialog {
+    min-width: 320px !important;
+  }
+  .header-top .cc-link .cc-content .links {
+    display: none;
+  }
+  .header-top .cc-link.active .cc-content .links {
+    display: block;
+  }
+  .header-top .cu-link.active .cu-content {
+    max-height: initial;
+  }
+  .header-top .cu-link.active .cu-content .links li.button-link a {
+    color:#1d1d1d;
+  }
+
+  .header-top .cu-link.active .cu-content .links li.button-link a:hover {
+    text-decoration:underline;
+  }
+  li.mega-menu-11.no-sub-menu > a .fa {
+    color: #0c4b7f;
+  }
+  li.mega-menu-9.no-sub-menu > a .fa {
+    color: #328586;
+  }
+  .level-1>li>a {
+    font-size: 1.1em;
+  }
+  @media only screen and (min-width: 1024px)  {
+    nav#navigation {
+      background: none;
+    }
+  }
+  @media all and (max-width: 1210px) and (min-width: 1024px) {
+    .level-1>li>a {
+      font-size: 0.8em;
+    }
+  }
+  .swatch-toggle i.fa.fa-plus-square-o:before {
+    font: normal normal normal 16px/1 "font awesome 5 pro";
+    content: "\f0fe";
+    font-weight: 300;
+  }
+  .product-tile .product-image img {
+    max-height: 215px;
+  }
+  .level-1 > li > a {
+   padding: 0 0.5rem;
+ }
+ @media screen and (min-width: 1024px) {
+  .item-added-wrapper {
+    width: 100%;
+  }
+}
+</style>
+<style type="text/css">
+div.cs-hours-header {
+  margin:10px 0;
+}
+
+.cs-hours-header table {
+  width:auto;
+  margin:auto;
+  text-align:left;
+}
+.cs-hours-header td {
+  width:50%;
+  padding:5px 15px;
+}
+
+.cs-hours-header td:nth-child(even){
+  text-align:center;
+}
+
+.cs-hours-header th {
+  border:none;
+}
+
+.cs-hours-header td {
+  border:1px solid #c1c1c1;
+}
+
+@media screen and (max-width: 1024px) {
+  .cs-hours-header table {
+    margin:20px auto;
+  }
+}
+li.mega-menu-12.no-sub-menu > a {
+  color: #39495f;
+}
+li.mega-menu-12.no-sub-menu > a > i {
+  color: #fbae44;
+}
+
+.dropdown-content.cc-content {
+  width:auto !important;
+}
+
+.header-top .cc-link .cc-content .links li a:hover {
+  text-decoration: underline;
+  background-color: initial;
+  color:initial; 
+}
+</style>
 </div> 
 </div>
 </div>
@@ -229,8 +478,8 @@ Gift Cards
 <div class="wrap-desktop">
 <h1 class="visually-hidden">SCHEELS.com</h1>
 <div class="primary-logo">
-<a href="http://www.scheels.com" title="SCHEELS Home">
-<img src="/on/demandware.static/Sites-scheels-Site/-/default/dw0fca584a/images/logo.png" alt="SCHEELS">
+<a href="https://www.scheels.com" title="SCHEELS Home">
+<img src="/on/demandware.static/Sites-scheels-Site/-/default/dw6a06fe5c/images/logo-update.png" alt="SCHEELS">
 <span class="visually-hidden">SCHEELS</span>
 </a>
 </div>
@@ -240,13 +489,13 @@ Gift Cards
 <label class="visually-hidden" for="q">Search Catalog</label>
 <input type="text" id="q" name="q" value="" placeholder="Search your passion" onchange="this.value=this.value.toLowerCase();" tabindex="1">
 <input type="hidden" name="lang" value="en_US">
-<button type="submit" tabindex="2"><span class="visually-hidden">Search</span><i class="fa fa-search"></i></button>
+<button type="submit" tabindex="2"><span class="visually-hidden">Search</span><i class="fal fa-search"></i></button>
 </fieldset>
 </form>
 </div>
 <div class="stores desktop-only">
-<a href="http://www.scheels.com/stores" title="Find a Store">
-<i class="fa fa-map-marker"></i>
+<a href="https://www.scheels.com/stores" title="Find a Store">
+<i class="fal fa-map-marker-alt"></i>
 <span>Find a Store</span>
 </a>
 </div>
@@ -255,9 +504,18 @@ Gift Cards
 
 <div class="mini-cart-total">
 <a class="mini-cart-link mini-cart-empty" href="https://www.scheels.com/cart" title="View Cart">
-<i class="fa fa-shopping-cart"></i>
+<i class="fal fa-shopping-cart"></i>
 <span class="minicart-quantity">0</span>
 </a>
+</div>
+<div class="mini-cart-content">
+<div class="mini-cart-header">
+<h2>Your Cart is Empty</h2>
+</div>
+<div class="empty-cart">
+<p>Have an account? Sign in to see your cart.</p>
+<a href="https://www.scheels.com/account" class="button">Sign In</a>
+</div>
 </div>
 </div>
 <button class="menu-toggle">
@@ -266,9 +524,10 @@ Gift Cards
 <span class="visually-hidden">Menu</span>
 </button>
 <nav id="navigation" role="navigation">
+
 <div class="mobile-menu-content">
 <div class="stores mobile-only">
-<a href="http://www.scheels.com/stores" title="Find a Store Near You">
+<a href="https://www.scheels.com/stores" title="Find a Store Near You">
 <i class="fa fa-map-marker"></i>
 <span class="desktop-only">Find a Store</span>
 <span class="mobile-only">Find a Store Near You</span>
@@ -276,176 +535,148 @@ Gift Cards
 </div>
 <ul class="menu-category level-1">
 <li class="mega-menu-1 has-sub-menu">
-<a class=" has-sub-menu " data-info="http://www.scheels.com/c/all/men" target="" href="http://www.scheels.com/c/all/men"> Men
+<a class=" has-sub-menu " data-info="https://www.scheels.com/c/all/men" target="" href="https://www.scheels.com/c/all/men"> Men
 </a>
 <i class="menu-item-toggle fa fa-plus"></i>
 <div class="level-2">
 <div class="wrap-desktop">
 <ul class="sub-categories menu-vertical">
 <li class="mega-menu-1-header-1">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/apparel/men" href="http://www.scheels.com/c/apparel/men">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/apparel/men" href="https://www.scheels.com/c/apparel/men">
 Apparel
 </a>
 <ul class="level-3">
 <li>
-<a class="Hoodies &amp; Sweaters" data-info="http://www.scheels.com/c/hoodies-sweaters/men" href="http://www.scheels.com/c/hoodies-sweaters/men">
-Hoodies &amp; Sweaters
+<a class="Jackets &amp; Coats" data-info="https://www.scheels.com/c/jackets-coats/men" href="https://www.scheels.com/c/jackets-coats/men"> Jackets &amp; Coats
 </a>
 </li>
 <li>
-<a class="Jackets &amp; Coats" data-info="http://www.scheels.com/c/jackets-coats/men" href="http://www.scheels.com/c/jackets-coats/men">
-Jackets &amp; Coats
+<a class="Hoodies &amp; Sweaters" data-info="https://www.scheels.com/c/hoodies-sweaters/men" href="https://www.scheels.com/c/hoodies-sweaters/men"> Hoodies &amp; Sweaters
 </a>
 </li>
 <li>
-<a class="Jerseys &amp; Fan Apparel" data-info="http://fanshop.scheels.com/" href="http://fanshop.scheels.com/">
-Jerseys &amp; Fan Apparel
+<a class="Vests" data-info="https://www.scheels.com/c/vests/men" href="https://www.scheels.com/c/vests/men"> Vests
 </a>
 </li>
 <li>
-<a class="Shirts" data-info="http://www.scheels.com/c/shirts/men" href="http://www.scheels.com/c/shirts/men">
-Shirts
+<a class="Shirts" data-info="https://www.scheels.com/c/shirts/men" href="https://www.scheels.com/c/shirts/men"> Shirts
 </a>
 </li>
 <li>
-<a class="Pants" data-info="http://www.scheels.com/c/pants/men" href="http://www.scheels.com/c/pants/men">
-Pants
+<a class="Pants" data-info="https://www.scheels.com/c/pants/men" href="https://www.scheels.com/c/pants/men"> Pants
 </a>
 </li>
 <li>
-<a class="Jeans" data-info="http://www.scheels.com/c/jeans/men" href="http://www.scheels.com/c/jeans/men">
-Jeans
+<a class="Jeans" data-info="https://www.scheels.com/c/jeans/men" href="https://www.scheels.com/c/jeans/men"> Jeans
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/apparel/men" href="http://www.scheels.com/c/apparel/men">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/apparel/men" href="https://www.scheels.com/c/apparel/men"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-1-header-2">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/footwear/men" href="http://www.scheels.com/c/footwear/men">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/footwear/men" href="https://www.scheels.com/c/footwear/men">
 Footwear
 </a>
 <ul class="level-3">
 <li>
-<a class="Shoes" data-info="http://www.scheels.com/c/shoes/men" href="http://www.scheels.com/c/shoes/men">
-Shoes
+<a class="Shoes" data-info="https://www.scheels.com/c/shoes/men" href="https://www.scheels.com/c/shoes/men"> Shoes
 </a>
 </li>
 <li>
-<a class="Boots" data-info="http://www.scheels.com/c/boots/men" href="http://www.scheels.com/c/boots/men">
-Boots
+<a class="Boots" data-info="https://www.scheels.com/c/boots/men" href="https://www.scheels.com/c/boots/men"> Boots
 </a>
 </li>
 <li>
-<a class="Sandals" data-info="http://www.scheels.com/c/sandals/men" href="http://www.scheels.com/c/sandals/men">
-Sandals
+<a class="Sandals" data-info="https://www.scheels.com/c/sandals/men" href="https://www.scheels.com/c/sandals/men"> Sandals
 </a>
 </li>
 <li>
-<a class="Cleats" data-info="http://www.scheels.com/c/cleats/men" href="http://www.scheels.com/c/cleats/men">
-Cleats
+<a class="Cleats" data-info="https://www.scheels.com/c/cleats/men" href="https://www.scheels.com/c/cleats/men"> Cleats
 </a>
 </li>
 <li>
-<a class="Slippers" data-info="http://www.scheels.com/c/slippers/men" href="http://www.scheels.com/c/slippers/men">
-Slippers
+<a class="Slippers" data-info="https://www.scheels.com/c/slippers/men" href="https://www.scheels.com/c/slippers/men"> Slippers
 </a>
 </li>
 <li>
-<a class="Socks" data-info="http://www.scheels.com/c/socks/men" href="http://www.scheels.com/c/socks/men">
-Socks
+<a class="Socks" data-info="https://www.scheels.com/c/socks/men" href="https://www.scheels.com/c/socks/men"> Socks
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/footwear/men" href="http://www.scheels.com/c/footwear/men">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/footwear/men" href="https://www.scheels.com/c/footwear/men"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-1-header-3">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/accessories/men" href="http://www.scheels.com/c/accessories/men">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/accessories/men" href="https://www.scheels.com/c/accessories/men">
 Accessories
 </a>
 <ul class="level-3">
 <li>
-<a class="Sunglasses" data-info="http://www.scheels.com/c/sunglasses/men" href="http://www.scheels.com/c/sunglasses/men">
-Sunglasses
+<a class="Hats &amp; Caps" data-info="https://www.scheels.com/c/hats-caps/men" href="https://www.scheels.com/c/hats-caps/men"> Hats &amp; Caps
 </a>
 </li>
 <li>
-<a class="Wallets" data-info="http://www.scheels.com/c/wallets/men" href="http://www.scheels.com/c/wallets/men">
-Wallets
+<a class="Sunglasses" data-info="https://www.scheels.com/c/sunglasses/men" href="https://www.scheels.com/c/sunglasses/men"> Sunglasses
 </a>
 </li>
 <li>
-<a class="Watches" data-info="http://www.scheels.com/c/watches/men" href="http://www.scheels.com/c/watches/men">
-Watches
+<a class="Underwear" data-info="https://www.scheels.com/c/underwear/men" href="https://www.scheels.com/c/underwear/men"> Underwear
 </a>
 </li>
 <li>
-<a class="Hats &amp; Caps" data-info="http://www.scheels.com/c/hats-caps/men" href="http://www.scheels.com/c/hats-caps/men">
-Hats &amp; Caps
+<a class="Gloves" data-info="https://www.scheels.com/c/gloves/men" href="https://www.scheels.com/c/gloves/men"> Gloves
 </a>
 </li>
 <li>
-<a class="Gloves" data-info="http://www.scheels.com/c/gloves/men" href="http://www.scheels.com/c/gloves/men">
-Gloves
+<a class="Wallets" data-info="https://www.scheels.com/c/wallets/men" href="https://www.scheels.com/c/wallets/men"> Wallets
 </a>
 </li>
 <li>
-<a class="Belts" data-info="http://www.scheels.com/c/belts/men" href="http://www.scheels.com/c/belts/men">
-Belts
+<a class="Belts" data-info="https://www.scheels.com/c/belts/men" href="https://www.scheels.com/c/belts/men"> Belts
 </a>
 </li>
 <li class="more-cat">
-<a class="more..." data-info="http://www.scheels.com/c/accessories/men" href="http://www.scheels.com/c/accessories/men">
-more...
+<a class="more..." data-info="https://www.scheels.com/c/accessories/men" href="https://www.scheels.com/c/accessories/men"> more...
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-1-header-4">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/activities/men" href="http://www.scheels.com/c/activities/men">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/activities/men" href="https://www.scheels.com/c/activities/men">
 Activities
 </a>
 <ul class="level-3">
 <li>
-<a class="Hunting Apparel" data-info="http://www.scheels.com/c/apparel/men/hunting" href="http://www.scheels.com/c/apparel/men/hunting">
-Hunting Apparel
+<a class="Hunting Apparel" data-info="https://www.scheels.com/c/apparel/men/hunting" href="https://www.scheels.com/c/apparel/men/hunting"> Hunting Apparel
 </a>
 </li>
 <li>
-<a class="Fishing Apparel" data-info="http://www.scheels.com/c/apparel/men/fishing" href="http://www.scheels.com/c/apparel/men/fishing">
-Fishing Apparel
+<a class="Fishing Apparel" data-info="https://www.scheels.com/c/apparel/men/fishing" href="https://www.scheels.com/c/apparel/men/fishing"> Fishing Apparel
 </a>
 </li>
 <li>
-<a class="Running Apparel" data-info="http://www.scheels.com/c/apparel/men/running" href="http://www.scheels.com/c/apparel/men/running">
-Running Apparel
+<a class="Running Apparel" data-info="https://www.scheels.com/c/apparel/men/running" href="https://www.scheels.com/c/apparel/men/running"> Running Apparel
 </a>
 </li>
 <li>
-<a class="Golf Apparel" data-info="http://www.scheels.com/c/apparel/men/golf" href="http://www.scheels.com/c/apparel/men/golf">
-Golf Apparel
+<a class="Golf Apparel" data-info="https://www.scheels.com/c/apparel/men/golf" href="https://www.scheels.com/c/apparel/men/golf"> Golf Apparel
 </a>
 </li>
 <li>
-<a class="Baseball Apparel" data-info="http://www.scheels.com/c/apparel/men/baseball" href="http://www.scheels.com/c/apparel/men/baseball">
-Baseball Apparel
+<a class="Baseball Apparel" data-info="https://www.scheels.com/c/apparel/men/baseball" href="https://www.scheels.com/c/apparel/men/baseball"> Baseball Apparel
 </a>
 </li>
 <li>
-<a class="Basketball Apparel" data-info="http://www.scheels.com/c/apparel/men/basketball" href="http://www.scheels.com/c/apparel/men/basketball">
-Basketball Apparel
+<a class="Basketball Apparel" data-info="https://www.scheels.com/c/apparel/men/basketball" href="https://www.scheels.com/c/apparel/men/basketball"> Basketball Apparel
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/apparel/men" href="http://www.scheels.com/c/apparel/men">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/apparel/men" href="https://www.scheels.com/c/apparel/men"> more…
 </a>
 </li>
 </ul>
@@ -454,19 +685,18 @@ more…
 <div class="flyout-promos right">
 <div class="flyout-promo flyout-promo-right-1 left">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/hoodies-sweaters/men/under-armour"><img alt="25% Off Select Styles" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwb9234eb4/images/Homepage_Espots/2017_October/Oct 28-Nov 3/Catspot_Mens_UA.jpg" title=""><p class="menu-banner-link-copy">Under Armour Hoodies</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/c/all/men/sale"><img class="lozad" alt="gifts for everylist" data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwd1bf2908/images/Homepage_Espots/2018_December/Christmas_1/catspot_AllSaleDD_CPP.jpg" title=""><p class="menu-banner-link-copy">Save Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-2 right">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/all/men/sale"><img alt="Men's Sale" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw35e73aa6/images/category/Catspot_SALE.gif" title="">
-<p class="menu-banner-link-copy">Men's Sale</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/visacard.html" target="blank"><img class="lozad" alt="Enjoy $50 off when instantly approved and use your Scheels visa today! " data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwcea3e70c/images/Homepage_Espots/2018_November/Winter/VISA_Holiday_Espot_2018_REVISED.jpg" title=""><p class="menu-banner-link-copy">Apply Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-3 clear">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gift-card/GiftCard.html">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
+<a class="menu-banner-link" href="https://www.scheels.com/p/gift-card/GiftCard.html">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
 <p class="menu-banner-link-copy">THE PERFECT GIFT <br>Shop all Gift Cards <i class="fa fa-angle-right"></i></p>
 </a>
 </div>
@@ -476,176 +706,148 @@ more…
 </div>
 </li>
 <li class="mega-menu-2 has-sub-menu">
-<a class=" has-sub-menu " data-info="http://www.scheels.com/c/all/women" target="" href="http://www.scheels.com/c/all/women"> Women
+<a class=" has-sub-menu " data-info="https://www.scheels.com/c/all/women" target="" href="https://www.scheels.com/c/all/women"> Women
 </a>
 <i class="menu-item-toggle fa fa-plus"></i>
 <div class="level-2">
 <div class="wrap-desktop">
 <ul class="sub-categories menu-vertical">
 <li class="mega-menu-2-header-1">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/apparel/women" href="http://www.scheels.com/c/apparel/women">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/apparel/women" href="https://www.scheels.com/c/apparel/women">
 Apparel
 </a>
 <ul class="level-3">
 <li>
-<a class="Jackets &amp; Coats" data-info="http://www.scheels.com/c/jackets-coats/women" href="http://www.scheels.com/c/jackets-coats/women">
-Jackets &amp; Coats
+<a class="Jackets &amp; Coats" data-info="https://www.scheels.com/c/jackets-coats/women" href="https://www.scheels.com/c/jackets-coats/women"> Jackets &amp; Coats
 </a>
 </li>
 <li>
-<a class="Jerseys &amp; Fan Apparel" data-info="http://fanshop.scheels.com/genderagegroup/Ladies" href="http://fanshop.scheels.com/genderagegroup/Ladies">
-Jerseys &amp; Fan Apparel
+<a class="Hoodies &amp; Sweaters" data-info="https://www.scheels.com/c/hoodies-sweaters/women" href="https://www.scheels.com/c/hoodies-sweaters/women"> Hoodies &amp; Sweaters
 </a>
 </li>
 <li>
-<a class="Hoodies &amp; Sweaters" data-info="http://www.scheels.com/c/hoodies-sweaters/women" href="http://www.scheels.com/c/hoodies-sweaters/women">
-Hoodies &amp; Sweaters
+<a class="Vests" data-info="https://www.scheels.com/c/vests/women" href="https://www.scheels.com/c/vests/women"> Vests
 </a>
 </li>
 <li>
-<a class="Vests" data-info="http://www.scheels.com/c/vests/women" href="http://www.scheels.com/c/vests/women">
-Vests
+<a class="Shirts" data-info="https://www.scheels.com/c/shirts/women" href="https://www.scheels.com/c/shirts/women"> Shirts
 </a>
 </li>
 <li>
-<a class="Shirts" data-info="http://www.scheels.com/c/shirts/women" href="http://www.scheels.com/c/shirts/women">
-Shirts
+<a class="Pants" data-info="https://www.scheels.com/c/pants/women" href="https://www.scheels.com/c/pants/women"> Pants
 </a>
 </li>
 <li>
-<a class="Pants" data-info="http://www.scheels.com/c/pants/women" href="http://www.scheels.com/c/pants/women">
-Pants
+<a class="Jeans" data-info="https://www.scheels.com/c/jeans/women" href="https://www.scheels.com/c/jeans/women"> Jeans
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/apparel/women" href="http://www.scheels.com/c/apparel/women">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/apparel/women" href="https://www.scheels.com/c/apparel/women"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-2-header-2">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/footwear/women" href="http://www.scheels.com/c/footwear/women">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/footwear/women" href="https://www.scheels.com/c/footwear/women">
 Footwear
 </a>
 <ul class="level-3">
 <li>
-<a class="Shoes" data-info="/s/scheels/c/shoes/women" href="/s/scheels/c/shoes/women">
-Shoes
+<a class="Shoes" data-info="https://www.scheels.com/c/shoes/women" href="https://www.scheels.com/c/shoes/women"> Shoes
 </a>
 </li>
 <li>
-<a class="Boots" data-info="http://www.scheels.com/c/boots/women" href="http://www.scheels.com/c/boots/women">
-Boots
+<a class="Boots" data-info="https://www.scheels.com/c/boots/women" href="https://www.scheels.com/c/boots/women"> Boots
 </a>
 </li>
 <li>
-<a class="Sandals" data-info="http://www.scheels.com/c/sandals/women" href="http://www.scheels.com/c/sandals/women">
-Sandals
+<a class="Sandals" data-info="https://www.scheels.com/c/sandals/women" href="https://www.scheels.com/c/sandals/women"> Sandals
 </a>
 </li>
 <li>
-<a class="Cleats" data-info="http://www.scheels.com/c/cleats/women" href="http://www.scheels.com/c/cleats/women">
-Cleats
+<a class="Cleats" data-info="https://www.scheels.com/c/cleats/women" href="https://www.scheels.com/c/cleats/women"> Cleats
 </a>
 </li>
 <li>
-<a class="Slippers" data-info="http://www.scheels.com/c/slippers/women" href="http://www.scheels.com/c/slippers/women">
-Slippers
+<a class="Slippers" data-info="https://www.scheels.com/c/slippers/women" href="https://www.scheels.com/c/slippers/women"> Slippers
 </a>
 </li>
 <li>
-<a class="Socks" data-info="http://www.scheels.com/c/socks/women" href="http://www.scheels.com/c/socks/women">
-Socks
+<a class="Socks" data-info="https://www.scheels.com/c/socks/women" href="https://www.scheels.com/c/socks/women"> Socks
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/footwear/women" href="http://www.scheels.com/c/footwear/women">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/footwear/women" href="https://www.scheels.com/c/footwear/women"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-2-header-3">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/accessories/women" href="http://www.scheels.com/c/accessories/women">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/accessories/women" href="https://www.scheels.com/c/accessories/women">
 Accessories
 </a>
 <ul class="level-3">
 <li>
-<a class="Sunglasses" data-info="http://www.scheels.com/c/sunglasses/women" href="http://www.scheels.com/c/sunglasses/women">
-Sunglasses
+<a class="Sunglasses" data-info="https://www.scheels.com/c/sunglasses/women" href="https://www.scheels.com/c/sunglasses/women"> Sunglasses
 </a>
 </li>
 <li>
-<a class="Wallets" data-info="http://www.scheels.com/c/wallets/women" href="http://www.scheels.com/c/wallets/women">
-Wallets
+<a class="Hats &amp; Caps" data-info="https://www.scheels.com/c/hats-caps/women" href="https://www.scheels.com/c/hats-caps/women"> Hats &amp; Caps
 </a>
 </li>
 <li>
-<a class="Watches" data-info="http://www.scheels.com/c/watches/women" href="http://www.scheels.com/c/watches/women">
-Watches
+<a class="Gloves" data-info="https://www.scheels.com/c/gloves/women" href="https://www.scheels.com/c/gloves/women"> Gloves
 </a>
 </li>
 <li>
-<a class="Jewelry" data-info="http://www.scheels.com/c/jewelry/women" href="http://www.scheels.com/c/jewelry/women">
-Jewelry
+<a class="Backpacks" data-info="https://www.scheels.com/c/backpacks?prefn1=Gender&amp;prefv1=Women" href="https://www.scheels.com/c/backpacks?prefn1=Gender&amp;prefv1=Women"> Backpacks
 </a>
 </li>
 <li>
-<a class="Scarves" data-info="http://www.scheels.com/c/scarves/women" href="http://www.scheels.com/c/scarves/women">
-Scarves
+<a class="Duffels, Bags &amp; Totes" data-info="https://www.scheels.com/c/duffels-bags-totes/women" href="https://www.scheels.com/c/duffels-bags-totes/women"> Duffels, Bags &amp; Totes
 </a>
 </li>
 <li>
-<a class="Headbands" data-info="http://www.scheels.com/c/headbands/women" href="http://www.scheels.com/c/headbands/women">
-Headbands
+<a class="Headbands" data-info="https://www.scheels.com/c/headbands/women" href="https://www.scheels.com/c/headbands/women"> Headbands
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/accessories/women" href="http://www.scheels.com/c/accessories/women">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/accessories/women" href="https://www.scheels.com/c/accessories/women"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-2-header-4">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/activities/women" href="http://www.scheels.com/c/activities/women">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/activities/women" href="https://www.scheels.com/c/activities/women">
 Activities
 </a>
 <ul class="level-3">
 <li>
-<a class="Running Apparel" data-info="http://www.scheels.com/c/apparel/women/running" href="http://www.scheels.com/c/apparel/women/running">
-Running Apparel
+<a class="Running Apparel" data-info="https://www.scheels.com/c/apparel/women/running" href="https://www.scheels.com/c/apparel/women/running"> Running Apparel
 </a>
 </li>
 <li>
-<a class="Softball Apparel" data-info="http://www.scheels.com/c/apparel/women/softball" href="http://www.scheels.com/c/apparel/women/softball">
-Softball Apparel
+<a class="Softball Apparel" data-info="https://www.scheels.com/c/apparel/women/softball" href="https://www.scheels.com/c/apparel/women/softball"> Softball Apparel
 </a>
 </li>
 <li>
-<a class="Golf Apparel" data-info="http://www.scheels.com/c/apparel/women/golf" href="http://www.scheels.com/c/apparel/women/golf">
-Golf Apparel
+<a class="Golf Apparel" data-info="https://www.scheels.com/c/apparel/women/golf" href="https://www.scheels.com/c/apparel/women/golf"> Golf Apparel
 </a>
 </li>
 <li>
-<a class="Volleyball Apparel" data-info="http://www.scheels.com/c/apparel/women/volleyball" href="http://www.scheels.com/c/apparel/women/volleyball">
-Volleyball Apparel
+<a class="Volleyball Apparel" data-info="https://www.scheels.com/c/apparel/women/volleyball" href="https://www.scheels.com/c/apparel/women/volleyball"> Volleyball Apparel
 </a>
 </li>
 <li>
-<a class="Hunting Apparel" data-info="http://www.scheels.com/c/apparel/women/hunting" href="http://www.scheels.com/c/apparel/women/hunting">
-Hunting Apparel
+<a class="Hunting Apparel" data-info="https://www.scheels.com/c/apparel/women/hunting" href="https://www.scheels.com/c/apparel/women/hunting"> Hunting Apparel
 </a>
 </li>
 <li>
-<a class="Fishing Apparel" data-info="http://www.scheels.com/c/apparel/women/fishing" href="http://www.scheels.com/c/apparel/women/fishing">
-Fishing Apparel
+<a class="Fishing Apparel" data-info="https://www.scheels.com/c/apparel/women/fishing" href="https://www.scheels.com/c/apparel/women/fishing"> Fishing Apparel
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/apparel/women" href="http://www.scheels.com/c/apparel/women">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/apparel/women" href="https://www.scheels.com/c/apparel/women"> more…
 </a>
 </li>
 </ul>
@@ -654,18 +856,18 @@ more…
 <div class="flyout-promos right">
 <div class="flyout-promo flyout-promo-right-1 left">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://experience.scheels.com/2017/09/22/how-to-layer/?utm_medium=blog&amp;utm_source=website&amp;utm_campaign=092217_sieragage_howtolayer&amp;utm_content=womensdropdown" target="blank"><img alt="Inspire Your Winter Style with Outerwear Expert Siera Gage" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwc48a27c3/images/Homepage_Espots/2017_September/Sept_24-30/Catspot_WomensDD_Siera.jpg" title=""><p class="menu-banner-link-copy">Our Favorite Outerwear</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/c/all/women/sale"><img class="lozad" alt="gifts for everylist" data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwd1bf2908/images/Homepage_Espots/2018_December/Christmas_1/catspot_AllSaleDD_CPP.jpg" title=""><p class="menu-banner-link-copy">Save Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-2 right">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/all/women/sale"><img alt="Women's Sale" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw35e73aa6/images/category/Catspot_SALE.gif" title=""><p class="menu-banner-link-copy">Women's Sale</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/visacard.html" target="blank"><img class="lozad" alt="Enjoy $50 off when instantly approved and use your Scheels visa today! " data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwcea3e70c/images/Homepage_Espots/2018_November/Winter/VISA_Holiday_Espot_2018_REVISED.jpg" title=""><p class="menu-banner-link-copy">Apply Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-3 clear">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gift-card/GiftCard.html">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
+<a class="menu-banner-link" href="https://www.scheels.com/p/gift-card/GiftCard.html">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
 <p class="menu-banner-link-copy">THE PERFECT GIFT <br>Shop all Gift Cards <i class="fa fa-angle-right"></i></p>
 </a>
 </div>
@@ -675,166 +877,148 @@ more…
 </div>
 </li>
 <li class="mega-menu-3 has-sub-menu">
-<a class=" has-sub-menu " data-info="http://www.scheels.com/c/all/boys%7Cgirls" target="" href="http://www.scheels.com/c/all/boys%7Cgirls"> Youth
+<a class=" has-sub-menu " data-info="https://www.scheels.com/c/all/boys%7Cgirls" target="" href="https://www.scheels.com/c/all/boys%7Cgirls"> Youth
 </a>
 <i class="menu-item-toggle fa fa-plus"></i>
 <div class="level-2">
 <div class="wrap-desktop">
 <ul class="sub-categories menu-vertical">
 <li class="mega-menu-3-header-1">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/apparel/boys" href="http://www.scheels.com/c/apparel/boys">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/apparel/boys" href="https://www.scheels.com/c/apparel/boys">
 Boys Apparel
 </a>
 <ul class="level-3">
 <li>
-<a class="Jackets &amp; Coats" data-info="http://www.scheels.com/c/jackets-coats/boys" href="http://www.scheels.com/c/jackets-coats/boys">
-Jackets &amp; Coats
+<a class="Jackets &amp; Coats" data-info="https://www.scheels.com/c/jackets-coats/boys" href="https://www.scheels.com/c/jackets-coats/boys"> Jackets &amp; Coats
 </a>
 </li>
 <li>
-<a class="Hoodies" data-info="http://www.scheels.com/c/hoodies-sweaters/boys" href="http://www.scheels.com/c/hoodies-sweaters/boys">
-Hoodies
+<a class="Hats &amp; Caps" data-info="https://www.scheels.com/c/hats-caps/boys" href="https://www.scheels.com/c/hats-caps/boys"> Hats &amp; Caps
 </a>
 </li>
 <li>
-<a class="Shirts" data-info="http://www.scheels.com/c/shirts/boys" href="http://www.scheels.com/c/shirts/boys">
-Shirts
+<a class="Pants" data-info="https://www.scheels.com/c/pants/boys" href="https://www.scheels.com/c/pants/boys"> Pants
 </a>
 </li>
 <li>
-<a class="Shorts" data-info="http://www.scheels.com/c/shorts/boys" href="http://www.scheels.com/c/shorts/boys">
-Shorts
+<a class="Shirts" data-info="https://www.scheels.com/c/shirts/boys" href="https://www.scheels.com/c/shirts/boys"> Shirts
 </a>
 </li>
 <li>
-<a class="Pants" data-info="http://www.scheels.com/c/pants/boys" href="http://www.scheels.com/c/pants/boys">
-Pants
+<a class="Hoodies &amp; Sweaters" data-info="https://www.scheels.com/c/hoodies-sweaters/boys" href="https://www.scheels.com/c/hoodies-sweaters/boys"> Hoodies &amp; Sweaters
 </a>
 </li>
 <li>
-<a class="Accessories" data-info="http://www.scheels.com/c/accessories/boys" href="http://www.scheels.com/c/accessories/boys">
-Accessories
+<a class="Jeans" data-info="https://www.scheels.com/c/jeans/boys" href="https://www.scheels.com/c/jeans/boys"> Jeans
 </a>
 </li>
-<li>
-<a class="Jerseys &amp; Fan Apparel" data-info="http://fanshop.scheels.com/genderagegroup/Kids" href="http://fanshop.scheels.com/genderagegroup/Kids">
-Jerseys &amp; Fan Apparel
+<li class="more-cat">
+<a class="more..." data-info="https://www.scheels.com/c/apparel/boys" href="https://www.scheels.com/c/apparel/boys"> more...
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-3-header-2">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/footwear/boys" href="http://www.scheels.com/c/footwear/boys">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/footwear/boys" href="https://www.scheels.com/c/footwear/boys">
 Boys Footwear
 </a>
 <ul class="level-3">
 <li>
-<a class="Shoes" data-info="http://www.scheels.com/c/shoes/boys" href="http://www.scheels.com/c/shoes/boys">
-Shoes
+<a class="Shoes" data-info="https://www.scheels.com/c/shoes/boys" href="https://www.scheels.com/c/shoes/boys"> Shoes
 </a>
 </li>
 <li>
-<a class="Boots" data-info="http://www.scheels.com/c/boots/boys" href="http://www.scheels.com/c/boots/boys">
-Boots
+<a class="Boots" data-info="https://www.scheels.com/c/boots/boys" href="https://www.scheels.com/c/boots/boys"> Boots
 </a>
 </li>
 <li>
-<a class="Cleats" data-info="http://www.scheels.com/c/cleats/boys" href="http://www.scheels.com/c/cleats/boys">
-Cleats
+<a class="Cleats" data-info="https://www.scheels.com/c/cleats/boys" href="https://www.scheels.com/c/cleats/boys"> Cleats
 </a>
 </li>
 <li>
-<a class="Sandals" data-info="http://www.scheels.com/c/sandals/boys" href="http://www.scheels.com/c/sandals/boys">
-Sandals
+<a class="Sandals" data-info="https://www.scheels.com/c/sandals/boys" href="https://www.scheels.com/c/sandals/boys"> Sandals
 </a>
 </li>
 <li>
-<a class="Slippers" data-info="http://www.scheels.com/c/slippers/boys" href="http://www.scheels.com/c/slippers/boys">
-Slippers
+<a class="Slippers" data-info="https://www.scheels.com/c/slippers/boys" href="https://www.scheels.com/c/slippers/boys"> Slippers
 </a>
 </li>
 <li>
-<a class="Socks" data-info="http://www.scheels.com/c/socks/boys" href="http://www.scheels.com/c/socks/boys">
-Socks
+<a class="Socks" data-info="https://www.scheels.com/c/socks/boys" href="https://www.scheels.com/c/socks/boys"> Socks
+</a>
+</li>
+<li class="more-cat">
+<a class="more..." data-info="https://www.scheels.com/c/footwear/boys" href="https://www.scheels.com/c/footwear/boys"> more...
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-3-header-3">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/apparel/girls" href="http://www.scheels.com/c/apparel/girls">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/apparel/girls" href="https://www.scheels.com/c/apparel/girls">
 Girls Apparel
 </a>
 <ul class="level-3">
 <li>
-<a class="Jackets &amp; Coats" data-info="http://www.scheels.com/c/jackets-coats/girls" href="http://www.scheels.com/c/jackets-coats/girls">
-Jackets &amp; Coats
+<a class="Jackets &amp; Coats" data-info="https://www.scheels.com/c/jackets-coats/girls" href="https://www.scheels.com/c/jackets-coats/girls"> Jackets &amp; Coats
 </a>
 </li>
 <li>
-<a class="Hoodies" data-info="http://www.scheels.com/c/hoodies-sweaters/girls" href="http://www.scheels.com/c/hoodies-sweaters/girls">
-Hoodies
+<a class="Hats &amp; Caps" data-info="https://www.scheels.com/c/hats-caps/girls" href="https://www.scheels.com/c/hats-caps/girls"> Hats &amp; Caps
 </a>
 </li>
 <li>
-<a class="Shirts" data-info="http://www.scheels.com/c/shirts/girls" href="http://www.scheels.com/c/shirts/girls">
-Shirts
+<a class="Pants" data-info="https://www.scheels.com/c/pants/girls" href="https://www.scheels.com/c/pants/girls"> Pants
 </a>
 </li>
 <li>
-<a class="Shorts" data-info="http://www.scheels.com/c/shorts/girls" href="http://www.scheels.com/c/shorts/girls">
-Shorts
+<a class="Shirts" data-info="https://www.scheels.com/c/shirts/girls" href="https://www.scheels.com/c/shirts/girls"> Shirts
 </a>
 </li>
 <li>
-<a class="Pants" data-info="http://www.scheels.com/c/pants/girls" href="http://www.scheels.com/c/pants/girls">
-Pants
+<a class="Hoodies &amp; Sweaters" data-info="https://www.scheels.com/c/hoodies-sweaters/girls" href="https://www.scheels.com/c/hoodies-sweaters/girls"> Hoodies &amp; Sweaters
 </a>
 </li>
 <li>
-<a class="Accessories" data-info="http://www.scheels.com/c/accessories/girls" href="http://www.scheels.com/c/accessories/girls">
-Accessories
+<a class="Jeans" data-info="https://www.scheels.com/c/jeans/girls" href="https://www.scheels.com/c/jeans/girls"> Jeans
 </a>
 </li>
-<li>
-<a class="Jerseys &amp; Fan Apparel" data-info="http://fanshop.scheels.com/genderagegroup/Kids" href="http://fanshop.scheels.com/genderagegroup/Kids">
-Jerseys &amp; Fan Apparel
+<li class="more-cat">
+<a class="more..." data-info="https://www.scheels.com/c/apparel/girls" href="https://www.scheels.com/c/apparel/girls"> more...
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-3-header-4">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/footwear/girls" href="http://www.scheels.com/c/footwear/girls">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/footwear/girls" href="https://www.scheels.com/c/footwear/girls">
 Girls Footwear
 </a>
 <ul class="level-3">
 <li>
-<a class="Shoes" data-info="http://www.scheels.com/c/shoes/girls" href="http://www.scheels.com/c/shoes/girls">
-Shoes
+<a class="Shoes" data-info="https://www.scheels.com/c/shoes/girls" href="https://www.scheels.com/c/shoes/girls"> Shoes
 </a>
 </li>
 <li>
-<a class="Boots" data-info="http://www.scheels.com/c/boots/girls" href="http://www.scheels.com/c/boots/girls">
-Boots
+<a class="Boots" data-info="https://www.scheels.com/c/boots/girls" href="https://www.scheels.com/c/boots/girls"> Boots
 </a>
 </li>
 <li>
-<a class="Cleats" data-info="http://www.scheels.com/c/cleats/girls" href="http://www.scheels.com/c/cleats/girls">
-Cleats
+<a class="Cleats" data-info="https://www.scheels.com/c/cleats/girls" href="https://www.scheels.com/c/cleats/girls"> Cleats
 </a>
 </li>
 <li>
-<a class="Sandals" data-info="http://www.scheels.com/c/sandals/girls" href="http://www.scheels.com/c/sandals/girls">
-Sandals
+<a class="Sandals" data-info="https://www.scheels.com/c/sandals/girls" href="https://www.scheels.com/c/sandals/girls"> Sandals
 </a>
 </li>
 <li>
-<a class="Slippers" data-info="http://www.scheels.com/c/slippers/girls" href="http://www.scheels.com/c/slippers/girls">
-Slippers
+<a class="Slippers" data-info="https://www.scheels.com/c/slippers/girls" href="https://www.scheels.com/c/slippers/girls"> Slippers
 </a>
 </li>
 <li>
-<a class="Socks" data-info="http://www.scheels.com/c/socks/girls" href="http://www.scheels.com/c/socks/girls">
-Socks
+<a class="Socks" data-info="https://www.scheels.com/c/socks/girls" href="https://www.scheels.com/c/socks/girls"> Socks
+</a>
+</li>
+<li class="more-cat">
+<a class="more..." data-info="https://www.scheels.com/c/footwear/girls" href="https://www.scheels.com/c/footwear/girls"> more...
 </a>
 </li>
 </ul>
@@ -843,18 +1027,18 @@ Socks
 <div class="flyout-promos right">
 <div class="flyout-promo flyout-promo-right-1 left">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://experience.scheels.com/2017/09/22/youth-outerwear-technology/?utm_medium=blog&amp;utm_source=website&amp;utm_campaign=092217_sieragage_youthtechnology" target="blank"><img alt="Outerwear Designed to Grow with Your Child" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwba5de79c/images/Homepage_Espots/2017_September/Sept_24-30/Catspot_YouthDD_Siera.jpg" title=""><p class="menu-banner-link-copy">Learn More</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/c/all/boys%7Cgirls/sale"><img class="lozad" alt="gifts for everylist" data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwd1bf2908/images/Homepage_Espots/2018_December/Christmas_1/catspot_AllSaleDD_CPP.jpg" title=""><p class="menu-banner-link-copy">Save Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-2 right">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/all/boys%7Cgirls/sale"><img alt="Youth Sale" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw35e73aa6/images/category/Catspot_SALE.gif" title=""><p class="menu-banner-link-copy">Youth Sale</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/visacard.html" target="blank"><img class="lozad" alt="Enjoy $50 off when instantly approved and use your Scheels visa today! " data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwcea3e70c/images/Homepage_Espots/2018_November/Winter/VISA_Holiday_Espot_2018_REVISED.jpg" title=""><p class="menu-banner-link-copy">Apply Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-3 clear">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gift-card/GiftCard.html">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
+<a class="menu-banner-link" href="https://www.scheels.com/p/gift-card/GiftCard.html">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
 <p class="menu-banner-link-copy">THE PERFECT GIFT <br>Shop all Gift Cards <i class="fa fa-angle-right"></i></p>
 </a>
 </div>
@@ -864,176 +1048,148 @@ Socks
 </div>
 </li>
 <li class="mega-menu-4 has-sub-menu">
-<a class=" has-sub-menu " data-info="http://www.scheels.com/c/activities/fishing%7Chunting%7Cshooting" target="" href="http://www.scheels.com/c/activities/fishing%7Chunting%7Cshooting"> Hunt &amp; Fish
+<a class=" has-sub-menu " data-info="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Hunting%7CFishing%7CShooting" target="" href="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Hunting%7CFishing%7CShooting"> Hunt &amp; Fish
 </a>
 <i class="menu-item-toggle fa fa-plus"></i>
 <div class="level-2">
 <div class="wrap-desktop">
 <ul class="sub-categories menu-vertical">
 <li class="mega-menu-4-header-1">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/hunting" href="http://www.scheels.com/c/hunting">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/hunting" href="https://www.scheels.com/c/hunting">
 Hunt
 </a>
 <ul class="level-3">
 <li>
-<a class="Apparel" data-info="http://www.scheels.com/c/apparel/hunting" href="http://www.scheels.com/c/apparel/hunting">
-Apparel
+<a class="Apparel" data-info="https://www.scheels.com/c/apparel/hunting" href="https://www.scheels.com/c/apparel/hunting"> Apparel
 </a>
 </li>
 <li>
-<a class="Footwear" data-info="http://www.scheels.com/c/footwear/hunting" href="http://www.scheels.com/c/footwear/hunting">
-Footwear
+<a class="Footwear" data-info="https://www.scheels.com/c/footwear/hunting" href="https://www.scheels.com/c/footwear/hunting"> Footwear
 </a>
 </li>
 <li>
-<a class="Decoys" data-info="http://www.scheels.com/c/decoys" href="http://www.scheels.com/c/decoys">
-Decoys
+<a class="Decoys" data-info="https://www.scheels.com/c/decoys" href="https://www.scheels.com/c/decoys"> Decoys
 </a>
 </li>
 <li>
-<a class="Game Calls" data-info="http://www.scheels.com/c/game-calls" href="http://www.scheels.com/c/game-calls">
-Game Calls
+<a class="Game Calls" data-info="https://www.scheels.com/c/game-calls" href="https://www.scheels.com/c/game-calls"> Game Calls
 </a>
 </li>
 <li>
-<a class="Knives &amp; Tools" data-info="http://www.scheels.com/c/knives-tools" href="http://www.scheels.com/c/knives-tools">
-Knives &amp; Tools
+<a class="Knives &amp; Tools" data-info="https://www.scheels.com/c/knives-tools" href="https://www.scheels.com/c/knives-tools"> Knives &amp; Tools
 </a>
 </li>
 <li>
-<a class="Trail Cameras" data-info="http://www.scheels.com/c/trail-cameras" href="http://www.scheels.com/c/trail-cameras">
-Trail Cameras
+<a class="Trail Cameras" data-info="https://www.scheels.com/c/trail-cameras" href="https://www.scheels.com/c/trail-cameras"> Trail Cameras
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/hunting" href="http://www.scheels.com/c/hunting">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/hunting" href="https://www.scheels.com/c/hunting"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-4-header-2">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/archery" href="http://www.scheels.com/c/archery">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/archery" href="https://www.scheels.com/c/archery">
 Archery
 </a>
 <ul class="level-3">
 <li>
-<a class="Bows" data-info="http://www.scheels.com/c/bows" href="http://www.scheels.com/c/bows">
-Bows
+<a class="Bows" data-info="https://www.scheels.com/c/bows" href="https://www.scheels.com/c/bows"> Bows
 </a>
 </li>
 <li>
-<a class="Arrows" data-info="http://www.scheels.com/c/arrows-components" href="http://www.scheels.com/c/arrows-components">
-Arrows
+<a class="Arrows" data-info="https://www.scheels.com/c/arrows-components" href="https://www.scheels.com/c/arrows-components"> Arrows
 </a>
 </li>
 <li>
-<a class="Broadheads" data-info="http://www.scheels.com/c/broadheads" href="http://www.scheels.com/c/broadheads">
-Broadheads
+<a class="Broadheads" data-info="https://www.scheels.com/c/broadheads" href="https://www.scheels.com/c/broadheads"> Broadheads
 </a>
 </li>
 <li>
-<a class="Blinds &amp; Treestands" data-info="http://www.scheels.com/c/blinds-treestands" href="http://www.scheels.com/c/blinds-treestands">
-Blinds &amp; Treestands
+<a class="Blinds &amp; Treestands" data-info="https://www.scheels.com/c/blinds-treestands" href="https://www.scheels.com/c/blinds-treestands"> Blinds &amp; Treestands
 </a>
 </li>
 <li>
-<a class="Cases &amp; Quivers" data-info="http://www.scheels.com/c/cases-quivers" href="http://www.scheels.com/c/cases-quivers">
-Cases &amp; Quivers
+<a class="Cases &amp; Quivers" data-info="https://www.scheels.com/c/cases-quivers" href="https://www.scheels.com/c/cases-quivers"> Cases &amp; Quivers
 </a>
 </li>
 <li>
-<a class="Scent Control" data-info="http://www.scheels.com/c/scent-control" href="http://www.scheels.com/c/scent-control">
-Scent Control
+<a class="Scent Control" data-info="https://www.scheels.com/c/scent-control" href="https://www.scheels.com/c/scent-control"> Scent Control
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/archery" href="http://www.scheels.com/c/archery">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/archery" href="https://www.scheels.com/c/archery"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-4-header-3">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/fishing" href="http://www.scheels.com/c/fishing">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/fishing" href="https://www.scheels.com/c/fishing">
 Fish
 </a>
 <ul class="level-3">
 <li>
-<a class="Ice Fishing" data-info="http://www.scheels.com/c/ice-fishing" href="http://www.scheels.com/c/ice-fishing">
-Ice Fishing
+<a class="Ice Fishing" data-info="https://www.scheels.com/c/ice-fishing" href="https://www.scheels.com/c/ice-fishing"> Ice Fishing
 </a>
 </li>
 <li>
-<a class="Ice Augers" data-info="http://www.scheels.com/c/ice-fishing-augers" href="http://www.scheels.com/c/ice-fishing-augers">
-Ice Augers
+<a class="Locators" data-info="https://www.scheels.com/c/fishing-locators" href="https://www.scheels.com/c/fishing-locators"> Locators
 </a>
 </li>
 <li>
-<a class="Ice Fishing Electronics" data-info="http://www.scheels.com/c/ice-fishing-electronics" href="http://www.scheels.com/c/ice-fishing-electronics">
-Ice Fishing Electronics
+<a class="Ice Shelters" data-info="https://www.scheels.com/c/ice-fishing-shelters" href="https://www.scheels.com/c/ice-fishing-shelters"> Ice Shelters
 </a>
 </li>
 <li>
-<a class="Ice Shelters" data-info="http://www.scheels.com/c/ice-fishing-shelters" href="http://www.scheels.com/c/ice-fishing-shelters">
-Ice Shelters
+<a class="Augers" data-info="https://www.scheels.com/c/ice-fishing-augers" href="https://www.scheels.com/c/ice-fishing-augers"> Augers
 </a>
 </li>
 <li>
-<a class="Open Water Fishing" data-info="http://www.scheels.com/c/fishing" href="http://www.scheels.com/c/fishing">
-Open Water Fishing
+<a class="Rod &amp; Reel Combos" data-info="https://www.scheels.com/c/fishing-rod-reel-combos" href="https://www.scheels.com/c/fishing-rod-reel-combos"> Rod &amp; Reel Combos
 </a>
 </li>
 <li>
-<a class="Fishing Motors" data-info="http://www.scheels.com/c/fishing-motors" href="http://www.scheels.com/c/fishing-motors">
-Fishing Motors
+<a class="Fishing Apparel" data-info="https://www.scheels.com/c/fishing-apparel" href="https://www.scheels.com/c/fishing-apparel"> Fishing Apparel
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/fishing" href="http://www.scheels.com/c/fishing">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/fishing" href="https://www.scheels.com/c/fishing"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-4-header-4">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/shooting" href="http://www.scheels.com/c/shooting">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/shooting" href="https://www.scheels.com/c/shooting">
 Shooting
 </a>
 <ul class="level-3">
 <li>
-<a class="Guns" data-info="http://www.scheels.com/c/guns" href="http://www.scheels.com/c/guns">
-Guns
+<a class="Guns" data-info="https://www.scheels.com/c/guns" href="https://www.scheels.com/c/guns"> Guns
 </a>
 </li>
 <li>
-<a class="Optics &amp; Scopes" data-info="http://www.scheels.com/c/optics-scopes" href="http://www.scheels.com/c/optics-scopes">
-Optics &amp; Scopes
+<a class="Black Powder" data-info="https://www.scheels.com/c/black-powder" href="https://www.scheels.com/c/black-powder"> Black Powder
 </a>
 </li>
 <li>
-<a class="Reloading" data-info="http://www.scheels.com/c/reloading" href="http://www.scheels.com/c/reloading">
-Reloading
+<a class="Optics &amp; Scopes" data-info="https://www.scheels.com/c/optics-scopes" href="https://www.scheels.com/c/optics-scopes"> Optics &amp; Scopes
 </a>
 </li>
 <li>
-<a class="Gun Cases &amp; Safes" data-info="http://www.scheels.com/c/gun-cases-safes" href="http://www.scheels.com/c/gun-cases-safes">
-Gun Cases &amp; Safes
+<a class="Gun Accessories" data-info="https://www.scheels.com/c/gun-accessories" href="https://www.scheels.com/c/gun-accessories"> Gun Accessories
 </a>
 </li>
 <li>
-<a class="Ammunition" data-info="http://www.scheels.com/c/ammunition" href="http://www.scheels.com/c/ammunition">
-Ammunition
+<a class="Gun Cases &amp; Safes" data-info="https://www.scheels.com/c/gun-cases-safes" href="https://www.scheels.com/c/gun-cases-safes"> Gun Cases &amp; Safes
 </a>
 </li>
 <li>
-<a class="Gun Cleaning" data-info="http://www.scheels.com/c/gun-cleaning" href="http://www.scheels.com/c/gun-cleaning">
-Gun Cleaning
+<a class="Ammunition" data-info="https://www.scheels.com/c/ammunition" href="https://www.scheels.com/c/ammunition"> Ammunition
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/shooting" href="http://www.scheels.com/c/shooting">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/shooting" href="https://www.scheels.com/c/shooting"> more…
 </a>
 </li>
 </ul>
@@ -1042,18 +1198,18 @@ more…
 <div class="flyout-promos right">
 <div class="flyout-promo flyout-promo-right-1 left">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/otter-pro-led-shelter-light/60914221113.html"><img alt="You Need This" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw2d3ff95f/images/Homepage_Espots/2017_October/Oct 28-Nov 3/Catspot_HuntFish_Otter.jpg" title=""><p class="menu-banner-link-copy">Otter Pro LED Shelter Light</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/p/yeti-boomer-8-dog-bowl/14394-21071500000.html"><img alt="YETI Boomer Bowl" src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw15eff8c2/images/Homepage_Espots/2018_December/Christmas_1/catspot_huntfishDD_BoomerBowl.jpg" title=""><p class="menu-banner-link-copy">Shop Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-2 right">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/activities/fishing%7Chunting%7Cshooting/sale"><img alt="Hunt &amp; Fish Sale" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw35e73aa6/images/category/Catspot_SALE.gif" title=""><p class="menu-banner-link-copy">Hunt &amp; Fish Sale</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/visacard.html" target="blank"><img class="lozad" alt="Enjoy $50 off when instantly approved and use your Scheels visa today! " data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwcea3e70c/images/Homepage_Espots/2018_November/Winter/VISA_Holiday_Espot_2018_REVISED.jpg" title=""><p class="menu-banner-link-copy">Apply Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-3 clear">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gift-card/GiftCard.html">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
+<a class="menu-banner-link" href="https://www.scheels.com/p/gift-card/GiftCard.html">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
 <p class="menu-banner-link-copy">THE PERFECT GIFT <br>Shop all Gift Cards <i class="fa fa-angle-right"></i></p>
 </a>
 </div>
@@ -1063,176 +1219,148 @@ more…
 </div>
 </li>
 <li class="mega-menu-5 has-sub-menu">
-<a class=" has-sub-menu " data-info="http://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Baseball%7CBasketball%7CFootball%7CGolf%7CHockey%7CRacquetball%7CSoccer%7CSoftball%7CTennis%7CVolleyball%7CWrestling%7CCamping%7CCycling%7CFitness%7CWater%20Activities%7CSkiing%7CPaddel%7CDisc%20Golf%7CSnowboarding%7CIn-Line%20Skating%7CBoxing%20%26%20MMA%7CFigure%20Skating%7CWinter%20Activities%7CSnowmobiling" target="" href="http://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Baseball%7CBasketball%7CFootball%7CGolf%7CHockey%7CRacquetball%7CSoccer%7CSoftball%7CTennis%7CVolleyball%7CWrestling%7CCamping%7CCycling%7CFitness%7CWater%20Activities%7CSkiing%7CPaddel%7CDisc%20Golf%7CSnowboarding%7CIn-Line%20Skating%7CBoxing%20%26%20MMA%7CFigure%20Skating%7CWinter%20Activities%7CSnowmobiling"> Sports &amp; Outdoors
+<a class=" has-sub-menu " data-info="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Baseball%7CBasketball%7CFootball%7CGolf%7CHockey%7CRacquetball%7CSoccer%7CSoftball%7CTennis%7CVolleyball%7CWrestling%7CCamping%7CCycling%7CFitness%7CWater%20Activities%7CSkiing%7CPaddle%7CDisc%20Golf%7CSnowboarding%7CIn-Line%20Skating%7CBoxing%20%26%20MMA%7CFigure%20Skating%7CWinter%20Activities%7CSnowmobiling%7CRunning%7CWater%20Skiing%7CWinter%7CYoga%7CWakeboarding%7CTrack%20%26%20Field%7CSkateboarding%7CPickleball%7CLacrosse%7CHiking%7CGymnastics%7CGames%20%26%20Toys%7CCross-country%20Skiing%7CCross%20Training" target="" href="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Baseball%7CBasketball%7CFootball%7CGolf%7CHockey%7CRacquetball%7CSoccer%7CSoftball%7CTennis%7CVolleyball%7CWrestling%7CCamping%7CCycling%7CFitness%7CWater%20Activities%7CSkiing%7CPaddle%7CDisc%20Golf%7CSnowboarding%7CIn-Line%20Skating%7CBoxing%20%26%20MMA%7CFigure%20Skating%7CWinter%20Activities%7CSnowmobiling%7CRunning%7CWater%20Skiing%7CWinter%7CYoga%7CWakeboarding%7CTrack%20%26%20Field%7CSkateboarding%7CPickleball%7CLacrosse%7CHiking%7CGymnastics%7CGames%20%26%20Toys%7CCross-country%20Skiing%7CCross%20Training"> Sports &amp; Outdoors
 </a>
 <i class="menu-item-toggle fa fa-plus"></i>
 <div class="level-2">
 <div class="wrap-desktop">
 <ul class="sub-categories menu-vertical">
 <li class="mega-menu-5-header-1">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/activities/baseball%7Cbasketball%7Cfootball%7Cgolf%7Chockey%7Cracquetball%7Csoccer%7Csoftball%7Ctennis%7Cvolleyball%7Cwrestling" href="http://www.scheels.com/c/activities/baseball%7Cbasketball%7Cfootball%7Cgolf%7Chockey%7Cracquetball%7Csoccer%7Csoftball%7Ctennis%7Cvolleyball%7Cwrestling">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Baseball%7CBasketball%7CFootball%7CGolf%7CHockey%7CRacquetball%7CSoccer%7CSoftball%7CTennis%7CVolleyball%7CWrestling" href="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Baseball%7CBasketball%7CFootball%7CGolf%7CHockey%7CRacquetball%7CSoccer%7CSoftball%7CTennis%7CVolleyball%7CWrestling">
 All Sports
 </a>
 <ul class="level-3">
 <li>
-<a class="Hockey" data-info="http://www.scheels.com/c/hockey" href="http://www.scheels.com/c/hockey">
-Hockey
+<a class="Basketball" data-info="https://www.scheels.com/c/basketball" href="https://www.scheels.com/c/basketball"> Basketball
 </a>
 </li>
 <li>
-<a class="Football" data-info="http://www.scheels.com/c/football" href="http://www.scheels.com/c/football">
-Football
+<a class="Hockey" data-info="https://www.scheels.com/c/hockey" href="https://www.scheels.com/c/hockey"> Hockey
 </a>
 </li>
 <li>
-<a class="Basketball" data-info="http://www.scheels.com/c/basketball" href="http://www.scheels.com/c/basketball">
-Basketball
+<a class="Golf" data-info="https://www.scheels.com/c/golf" href="https://www.scheels.com/c/golf"> Golf
 </a>
 </li>
 <li>
-<a class="Wrestling" data-info="http://www.scheels.com/c/wrestling" href="http://www.scheels.com/c/wrestling">
-Wrestling
+<a class="Football" data-info="https://www.scheels.com/c/football" href="https://www.scheels.com/c/football"> Football
 </a>
 </li>
 <li>
-<a class="Soccer" data-info="http://www.scheels.com/c/soccer" href="http://www.scheels.com/c/soccer">
-Soccer
+<a class="Baseball" data-info="https://www.scheels.com/c/baseball" href="https://www.scheels.com/c/baseball"> Baseball
 </a>
 </li>
 <li>
-<a class="Golf" data-info="http://www.scheels.com/c/golf" href="http://www.scheels.com/c/golf">
-Golf
+<a class="Wrestling" data-info="https://www.scheels.com/c/wrestling" href="https://www.scheels.com/c/wrestling"> Wrestling
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/activities" href="http://www.scheels.com/c/activities">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/activities" href="https://www.scheels.com/c/activities"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-5-header-2">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/fitness" href="http://www.scheels.com/c/fitness">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/fitness" href="https://www.scheels.com/c/fitness">
 Fitness
 </a>
 <ul class="level-3">
 <li>
-<a class="Toning &amp; Weight Training" data-info="http://www.scheels.com/c/toning-weight-training" href="http://www.scheels.com/c/toning-weight-training">
-Toning &amp; Weight Training
+<a class="Toning &amp; Weight Training" data-info="https://www.scheels.com/c/toning-weight-training" href="https://www.scheels.com/c/toning-weight-training"> Toning &amp; Weight Training
 </a>
 </li>
 <li>
-<a class="Exercise Machines" data-info="http://www.scheels.com/c/exercise-machines" href="http://www.scheels.com/c/exercise-machines">
-Exercise Machines
+<a class="Exercise Machines" data-info="https://www.scheels.com/c/exercise-machines" href="https://www.scheels.com/c/exercise-machines"> Exercise Machines
 </a>
 </li>
 <li>
-<a class="Running Watches" data-info="http://www.scheels.com/c/watches/fitness%7Crunning" href="http://www.scheels.com/c/watches/fitness%7Crunning">
-Running Watches
+<a class="Water Bottles &amp; Packs" data-info="https://www.scheels.com/c/water-bottles-packs" href="https://www.scheels.com/c/water-bottles-packs"> Water Bottles &amp; Packs
 </a>
 </li>
 <li>
-<a class="Water Bottles &amp; Packs" data-info="http://www.scheels.com/c/water-bottles-packs" href="http://www.scheels.com/c/water-bottles-packs">
-Water Bottles &amp; Packs
+<a class="Nutrition &amp; Wellness" data-info="https://www.scheels.com/c/nutrition" href="https://www.scheels.com/c/nutrition"> Nutrition &amp; Wellness
 </a>
 </li>
 <li>
-<a class="Nutrition &amp; Wellness" data-info="http://www.scheels.com/c/nutrition" href="http://www.scheels.com/c/nutrition">
-Nutrition &amp; Wellness
+<a class="Sports Medicine" data-info="https://www.scheels.com/c/sports-medicine" href="https://www.scheels.com/c/sports-medicine"> Sports Medicine
 </a>
 </li>
 <li>
-<a class="Sports Medicine" data-info="http://www.scheels.com/c/sports-medicine" href="http://www.scheels.com/c/sports-medicine">
-Sports Medicine
+<a class="Smart Watches" data-info="https://www.scheels.com/c/watches/fitness%7Crunning" href="https://www.scheels.com/c/watches/fitness%7Crunning"> Smart Watches
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/fitness" href="http://www.scheels.com/c/fitness">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/fitness" href="https://www.scheels.com/c/fitness"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-5-header-3">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/camp-hike" href="http://www.scheels.com/c/camp-hike">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/camp-hike" href="https://www.scheels.com/c/camp-hike">
 Camp &amp; Hike
 </a>
 <ul class="level-3">
 <li>
-<a class="Tents" data-info="http://www.scheels.com/c/tents" href="http://www.scheels.com/c/tents">
-Tents
+<a class="Tents" data-info="https://www.scheels.com/c/tents" href="https://www.scheels.com/c/tents"> Tents
 </a>
 </li>
 <li>
-<a class="Packs" data-info="http://www.scheels.com/c/packs" href="http://www.scheels.com/c/packs">
-Packs
+<a class="Packs" data-info="https://www.scheels.com/c/camping-accessories-packs" href="https://www.scheels.com/c/camping-accessories-packs"> Packs
 </a>
 </li>
 <li>
-<a class="Sleeping Bags &amp; Pads" data-info="http://www.scheels.com/c/sleeping-bags-pads" href="http://www.scheels.com/c/sleeping-bags-pads">
-Sleeping Bags &amp; Pads
+<a class="Camp Cooking" data-info="https://www.scheels.com/c/camp-cooking" href="https://www.scheels.com/c/camp-cooking"> Camp Cooking
 </a>
 </li>
 <li>
-<a class="Coolers" data-info="http://www.scheels.com/c/coolers" href="http://www.scheels.com/c/coolers">
-Coolers
+<a class="Sleeping" data-info="https://www.scheels.com/c/camp-sleeping" href="https://www.scheels.com/c/camp-sleeping"> Sleeping
 </a>
 </li>
 <li>
-<a class="Camping Cooking" data-info="http://www.scheels.com/c/camp-cooking" href="http://www.scheels.com/c/camp-cooking">
-Camping Cooking
+<a class="Chairs &amp; Hammocks" data-info="https://www.scheels.com/c/chairs-hammocks" href="https://www.scheels.com/c/chairs-hammocks"> Chairs &amp; Hammocks
 </a>
 </li>
 <li>
-<a class="Chairs &amp; Hammocks" data-info="http://www.scheels.com/c/chairs-hammocks" href="http://www.scheels.com/c/chairs-hammocks">
-Chairs &amp; Hammocks
+<a class="Coolers" data-info="https://www.scheels.com/c/coolers" href="https://www.scheels.com/c/coolers"> Coolers
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/camp-hike" href="http://www.scheels.com/c/camp-hike">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/camp-hike" href="https://www.scheels.com/c/camp-hike"> more…
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-5-header-4">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/activities/cycling%7Cdisc-golf%7Cfigure-skating%7Cin-line-skating%7Cpaddle%7Cpickleball%7Cracquetball%7Cskiing%7Csnowboarding%7Csnowmobiling%7Cwakeboarding%7Cwater-activities%7Cwater-skiing%7Cwinter-activities" href="http://www.scheels.com/c/activities/cycling%7Cdisc-golf%7Cfigure-skating%7Cin-line-skating%7Cpaddle%7Cpickleball%7Cracquetball%7Cskiing%7Csnowboarding%7Csnowmobiling%7Cwakeboarding%7Cwater-activities%7Cwater-skiing%7Cwinter-activities">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Cycling%7CWinter%20Activities%7CSnowboarding%7CSkiing%7CWater%20Activities%7CPaddle%7CDisc%20Golf%7CIn-Line%20Skating%7CFigure%20Skating%7CSnowmobiling%7CWakeboarding%7CWater%20Skiing%7CPickleball%7CRacquetball" href="https://www.scheels.com/c/activities?prefn1=Activity&amp;prefv1=Cycling%7CWinter%20Activities%7CSnowboarding%7CSkiing%7CWater%20Activities%7CPaddle%7CDisc%20Golf%7CIn-Line%20Skating%7CFigure%20Skating%7CSnowmobiling%7CWakeboarding%7CWater%20Skiing%7CPickleball%7CRacquetball">
 Activities
 </a>
 <ul class="level-3">
 <li>
-<a class="Winter Activities" data-info="http://www.scheels.com/c/winter-activities" href="http://www.scheels.com/c/winter-activities">
-Winter Activities
+<a class="Ski &amp; Snowboard" data-info="https://www.scheels.com/c/winter-activities?prefn1=Activity&amp;prefv1=Skiing%7CSnowboarding" href="https://www.scheels.com/c/winter-activities?prefn1=Activity&amp;prefv1=Skiing%7CSnowboarding"> Ski &amp; Snowboard
 </a>
 </li>
 <li>
-<a class="Snowboarding" data-info="http://www.scheels.com/c/snowboarding" href="http://www.scheels.com/c/snowboarding">
-Snowboarding
+<a class="Snowmobile" data-info="https://www.scheels.com/c/all/snowmobiling" href="https://www.scheels.com/c/all/snowmobiling"> Snowmobile
 </a>
 </li>
 <li>
-<a class="Bikes" data-info="http://www.scheels.com/c/bikes" href="http://www.scheels.com/c/bikes">
-Bikes
+<a class="Sleds &amp; Winter Toys" data-info="https://www.scheels.com/c/winter-activities-sleds-winter-toys" href="https://www.scheels.com/c/winter-activities-sleds-winter-toys"> Sleds &amp; Winter Toys
 </a>
 </li>
 <li>
-<a class="Water Activities" data-info="http://www.scheels.com/c/water-activities" href="http://www.scheels.com/c/water-activities">
-Water Activities
+<a class="Inline Skates, Skateboards &amp; Scooters" data-info="https://www.scheels.com/c/inline-skates-skateboards" href="https://www.scheels.com/c/inline-skates-skateboards"> Inline Skates, Skateboards &amp; Scooters
 </a>
 </li>
 <li>
-<a class="Paddle" data-info="http://www.scheels.com/c/paddle" href="http://www.scheels.com/c/paddle">
-Paddle
+<a class="Cycling" data-info="https://www.scheels.com/c/cycling" href="https://www.scheels.com/c/cycling"> Cycling
 </a>
 </li>
 <li>
-<a class="Yard Games" data-info="http://www.scheels.com/c/yard-games" href="http://www.scheels.com/c/yard-games">
-Yard Games
+<a class="Yard  Games" data-info="https://www.scheels.com/c/yard-games" href="https://www.scheels.com/c/yard-games"> Yard Games
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/c/activities" href="http://www.scheels.com/c/activities">
-more…
+<a class="more…" data-info="https://www.scheels.com/c/activities" href="https://www.scheels.com/c/activities"> more…
 </a>
 </li>
 </ul>
@@ -1241,18 +1369,18 @@ more…
 <div class="flyout-promos right">
 <div class="flyout-promo flyout-promo-right-1 left">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/all/icon-health-and-fitness"><img alt="Flat Rate Shipping on ICON" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw04f4ed51/images/Homepage_Espots/2017_October/Oct_1-8/Catspot_SportsOutdoorsDD_Icon.jpg" title=""></a><p class="menu-banner-link-copy"><a class="menu-banner-link" href="http://www.scheels.com/c/all/icon-health-and-fitness">ICON Flat Rate Shipping</a>
-</p></div>
+<a class="menu-banner-link" href="https://www.scheels.com/c/all/hydro-flask"><img class="lozad" alt="Shop Hydro Flask" data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw2ce05f33/images/Homepage_Espots/2018_December/Green_Monday/catspot_SportsOutdoorsDD_Hydro_12-18.jpg" title=""><p class="menu-banner-link-copy">Shop Now</p></a>
+</div>
 </div>
 <div class="flyout-promo flyout-promo-right-2 right">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/all/sale?prefn1=Activity&amp;prefv1=Baseball%7CBasketball%7CBoxing%20%26amp%3B%20MMA%7CCamping%7CCycling%7CDisc%20Golf%7CFitness%7CFootball%7CGolf%7CHiking%7CHockey%7CIn-Line%20Skating%7CPaddle%7CRacquetball%7CRunning%7CSkateboarding%7CSkiing%7CSnowboarding%7CSnowmobiling%7CSoccer%7CSoftball%7CTennis%7CTrack%20%26amp%3B%20Field%7CVolleyball%7CWakeboarding%7CWater%20Activities%7CWater%20Skiing%7CWinter%20Activities%7CWrestling"><img alt="Sports &amp; Outdoors Sale" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw35e73aa6/images/category/Catspot_SALE.gif" title=""><p class="menu-banner-link-copy">Sports &amp; Outdoors Sale</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/visacard.html" target="blank"><img class="lozad" alt="Enjoy $50 off when instantly approved and use your Scheels visa today! " data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwcea3e70c/images/Homepage_Espots/2018_November/Winter/VISA_Holiday_Espot_2018_REVISED.jpg" title=""><p class="menu-banner-link-copy">Apply Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-3 clear">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gift-card/GiftCard.html">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
+<a class="menu-banner-link" href="https://www.scheels.com/p/gift-card/GiftCard.html">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
 <p class="menu-banner-link-copy">THE PERFECT GIFT <br>Shop all Gift Cards <i class="fa fa-angle-right"></i></p>
 </a>
 </div>
@@ -1260,178 +1388,151 @@ more…
 </div>
 </div>
 </div>
+
 </li>
 <li class="mega-menu-6 has-sub-menu">
-<a class=" has-sub-menu fanshopalert" data-info="http://fanshop.scheels.com/" target="_blank" href="/fanshop-alert.html"> Fan Gear
+<a class=" has-sub-menu fanshopalert" data-info="http://fanshop.scheels.com/source/BM-Scheels_Web_Navigation_FanGear" target="_blank" href="/fanshop-alert.html"> Fan Gear
 </a>
 <i class="menu-item-toggle fa fa-plus"></i>
 <div class="level-2">
 <div class="wrap-desktop">
 <ul class="sub-categories menu-vertical">
 <li class="mega-menu-6-header-1">
-<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/MLB" href="/fanshop-alert.html">
+<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/MLB/source/BM-Scheels_Web_Navigation_MLB" href="/fanshop-alert.html">
 MLB
 </a>
 <ul class="level-3">
 <li>
-<a class="Chicago Cubs fanshopalert" data-info="http://fanshop.scheels.com/MLB_Chicago_Cubs" href="/fanshop-alert.html">
-Chicago Cubs
+<a class="Chicago Cubs fanshopalert" data-info="http://fanshop.scheels.com/MLB_Chicago_Cubs/source/BM-Scheels_Web_Navigation_MLB_Chicago_Cubs" href="/fanshop-alert.html"> Chicago Cubs
 </a>
 </li>
 <li>
-<a class="Kansas City Royals fanshopalert" data-info="http://fanshop.scheels.com/MLB_Kansas_City_Royals" href="/fanshop-alert.html">
-Kansas City Royals
+<a class="Kansas City Royals fanshopalert" data-info="http://fanshop.scheels.com/MLB_Kansas_City_Royals/source/BM-Scheels_Web_Navigation_MLB_Kansas_City_Royals" href="/fanshop-alert.html"> Kansas City Royals
 </a>
 </li>
 <li>
-<a class="St. Louis Cardinals fanshopalert" data-info="http://fanshop.scheels.com/MLB_St_Louis_Cardinals" href="/fanshop-alert.html">
-St. Louis Cardinals
+<a class="St. Louis Cardinals fanshopalert" data-info="http://fanshop.scheels.com/MLB_St_Louis_Cardinals/source/BM-Scheels_Web_Navigation_MLB_St_Louis_Cardinals" href="/fanshop-alert.html"> St. Louis Cardinals
 </a>
 </li>
 <li>
-<a class="Minnesota Twins fanshopalert" data-info="http://fanshop.scheels.com/MLB_Minnesota_Twins" href="/fanshop-alert.html">
-Minnesota Twins
+<a class="Minnesota Twins fanshopalert" data-info="http://fanshop.scheels.com/MLB_Minnesota_Twins/source/BM-Scheels_Web_Navigation_MLB_Minnesota_Twins" href="/fanshop-alert.html"> Minnesota Twins
 </a>
 </li>
 <li>
-<a class="Boston Red Sox fanshopalert" data-info="http://fanshop.scheels.com/MLB_Boston_Red_Sox" href="/fanshop-alert.html">
-Boston Red Sox
+<a class="Boston Red Sox fanshopalert" data-info="http://fanshop.scheels.com/MLB_Boston_Red_Sox/source/BM-Scheels_Web_Navigation_MLB_Boston_Red_Sox" href="/fanshop-alert.html"> Boston Red Sox
 </a>
 </li>
 <li>
-<a class="New York Yankees fanshopalert" data-info="http://fanshop.scheels.com/MLB_New_York_Yankees" href="/fanshop-alert.html">
-New York Yankees
+<a class="Milwaukee Brewers fanshopalert" data-info="http://fanshop.scheels.com/MLB_Milwaukee_Brewers" href="/fanshop-alert.html"> Milwaukee Brewers
 </a>
 </li>
 <li>
-<a class="All MLB fanshopalert" data-info="http://fanshop.scheels.com/MLB" href="/fanshop-alert.html">
-All MLB
+<a class="All MLB fanshopalert" data-info="https://www.scheels.com/c/fan-gear-mlb" href="/fanshop-alert.html"> All MLB
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-6-header-2">
-<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/NHL" href="/fanshop-alert.html">
+<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/NHL/source/BM-Scheels_Web_Navigation_NHL" href="/fanshop-alert.html">
 NHL
 </a>
 <ul class="level-3">
 <li>
-<a class="Minnesota Wild fanshopalert" data-info="http://fanshop.scheels.com/NHL_Minnesota_Wild" href="/fanshop-alert.html">
-Minnesota Wild
+<a class="Minnesota Wild fanshopalert" data-info="http://fanshop.scheels.com/NHL_Minnesota_Wild/source/BM-Scheels_Web_Navigation_NHL_Minnesota_Wild" href="/fanshop-alert.html"> Minnesota Wild
 </a>
 </li>
 <li>
-<a class="Chicago Blackhawks fanshopalert" data-info="http://fanshop.scheels.com/NHL_Chicago_Blackhawks" href="/fanshop-alert.html">
-Chicago Blackhawks
+<a class="Chicago Blackhawks fanshopalert" data-info="http://fanshop.scheels.com/NHL_Chicago_Blackhawks/source/BM-Scheels_Web_Navigation_NHL_Chicago_Blackhawks" href="/fanshop-alert.html"> Chicago Blackhawks
 </a>
 </li>
 <li>
-<a class="Colorado Avalanche fanshopalert" data-info="http://fanshop.scheels.com/NHL_Colorado_Avalanche" href="/fanshop-alert.html">
-Colorado Avalanche
+<a class="Colorado Avalanche fanshopalert" data-info="http://fanshop.scheels.com/NHL_Colorado_Avalanche/source/BM-Scheels_Web_Navigation_NHL_Colorado_Avalanche" href="/fanshop-alert.html"> Colorado Avalanche
 </a>
 </li>
 <li>
-<a class="St. Louis Blues fanshopalert" data-info="http://fanshop.scheels.com/NHL_St._Louis_Blues" href="/fanshop-alert.html">
-St. Louis Blues
+<a class="St. Louis Blues fanshopalert" data-info="http://fanshop.scheels.com/NHL_St._Louis_Blues/source/BM-Scheels_Web_Navigation_NHL_St._Louis_Blues" href="/fanshop-alert.html"> St. Louis Blues
 </a>
 </li>
 <li>
-<a class="Washington Capitals fanshopalert" data-info="http://fanshop.scheels.com/NHL_Washington_Capitals" href="/fanshop-alert.html">
-Washington Capitals
+<a class="Vegas Golden Knights fanshopalert" data-info="http://fanshop.scheels.com/NHL_Vegas_Golden_Knights" href="/fanshop-alert.html"> Vegas Golden Knights
 </a>
 </li>
 <li>
-<a class="Pittsburgh Penguins fanshopalert" data-info="http://fanshop.scheels.com/NHL_Pittsburgh_Penguins" href="/fanshop-alert.html">
-Pittsburgh Penguins
+<a class="Pittsburgh Penguins fanshopalert" data-info="http://fanshop.scheels.com/NHL_Pittsburgh_Penguins/source/BM-Scheels_Web_Navigation_NHL_Pittsburgh_Penguins" href="/fanshop-alert.html"> Pittsburgh Penguins
 </a>
 </li>
 <li>
-<a class="All NHL fanshopalert" data-info="http://fanshop.scheels.com/NHL" href="/fanshop-alert.html">
-All NHL
+<a class="All NHL fanshopalert" data-info="http://fanshop.scheels.com/NHL/source/BM-Scheels_Web_Navigation_All_NHL" href="/fanshop-alert.html"> All NHL
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-6-header-3">
-<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/NBA" href="/fanshop-alert.html">
+<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/NBA/source/BM-Scheels_Web_Navigation_NBA" href="/fanshop-alert.html">
 NBA
 </a>
 <ul class="level-3">
 <li>
-<a class="Golden State Warriors fanshopalert" data-info="http://fanshop.scheels.com/NBA_Golden_State_Warriors" href="/fanshop-alert.html">
-Golden State Warriors
+<a class="Golden State Warriors fanshopalert" data-info="http://fanshop.scheels.com/NBA_Golden_State_Warriors/source/BM-Scheels_Web_Navigation_NBA_Golden_State_Warriors" href="/fanshop-alert.html"> Golden State Warriors
 </a>
 </li>
 <li>
-<a class="Cleveland Cavaliers fanshopalert" data-info="http://fanshop.scheels.com/NBA_Cleveland_Cavaliers" href="/fanshop-alert.html">
-Cleveland Cavaliers
+<a class="Los Angeles Lakers fanshopalert" data-info="http://fanshop.scheels.com/NBA_Los_Angeles_Lakers" href="/fanshop-alert.html"> Los Angeles Lakers
 </a>
 </li>
 <li>
-<a class="Minnesota Timberwolves fanshopalert" data-info="http://fanshop.scheels.com/NBA_Minnesota_Timberwolves" href="/fanshop-alert.html">
-Minnesota Timberwolves
+<a class="Minnesota Timberwolves fanshopalert" data-info="http://fanshop.scheels.com/NBA_Minnesota_Timberwolves/source/BM-Scheels_Web_Navigation_NBA_Minnesota_Timberwolves" href="/fanshop-alert.html"> Minnesota Timberwolves
 </a>
 </li>
 <li>
-<a class="Chicago Bulls fanshopalert" data-info="http://fanshop.scheels.com/NBA_Chicago_Bulls" href="/fanshop-alert.html">
-Chicago Bulls
+<a class="Chicago Bulls fanshopalert" data-info="http://fanshop.scheels.com/NBA_Chicago_Bulls/source/BM-Scheels_Web_Navigation_NBA_Chicago_Bulls" href="/fanshop-alert.html"> Chicago Bulls
 </a>
 </li>
 <li>
-<a class="Milwaukee Bucks fanshopalert" data-info="http://fanshop.scheels.com/NBA_Milwaukee_Bucks" href="/fanshop-alert.html">
-Milwaukee Bucks
+<a class="Milwaukee Bucks fanshopalert" data-info="http://fanshop.scheels.com/NBA_Milwaukee_Bucks/source/BM-Scheels_Web_Navigation_NBA_Milwaukee_Bucks" href="/fanshop-alert.html"> Milwaukee Bucks
 </a>
 </li>
 <li>
-<a class="Utah Jazz fanshopalert" data-info="http://fanshop.scheels.com/NBA_Utah_Jazz" href="/fanshop-alert.html">
-Utah Jazz
+<a class="Utah Jazz fanshopalert" data-info="http://fanshop.scheels.com/NBA_Utah_Jazz/source/BM-Scheels_Web_Navigation_NBA_Utah_Jazz" href="/fanshop-alert.html"> Utah Jazz
 </a>
 </li>
 <li>
-<a class="All NBA fanshopalert" data-info="http://fanshop.scheels.com/NBA" href="/fanshop-alert.html">
-All NBA
+<a class="All NBA fanshopalert" data-info="http://fanshop.scheels.com/NBA/source/BM-Scheels_Web_Navigation_All_NBA" href="/fanshop-alert.html"> All NBA
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-6-header-4">
-<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/NFL" href="/fanshop-alert.html">
+<a class="sub-cat-title fanshopalert" data-info="http://fanshop.scheels.com/NFL/source/BM-Scheels_Web_Navigation_NFL" href="/fanshop-alert.html">
 NFL
 </a>
 <ul class="level-3">
 <li>
-<a class="Minnesota Vikings fanshopalert" data-info="http://fanshop.scheels.com/NFL_Minnesota_Vikings" href="/fanshop-alert.html">
-Minnesota Vikings
+<a class="Minnesota Vikings fanshopalert" data-info="http://fanshop.scheels.com/NFL_Minnesota_Vikings/source/BM-Scheels_Web_Navigation_NFL_Minnesota_Vikings" href="/fanshop-alert.html"> Minnesota Vikings
 </a>
 </li>
 <li>
-<a class="Green Bay Packers fanshopalert" data-info="http://fanshop.scheels.com/NFL_Green_Bay_Packers" href="/fanshop-alert.html">
-Green Bay Packers
+<a class="Green Bay Packers fanshopalert" data-info="http://fanshop.scheels.com/NFL_Green_Bay_Packers/source/BM-Scheels_Web_Navigation_NFL_Green_Bay_Packers" href="/fanshop-alert.html"> Green Bay Packers
 </a>
 </li>
 <li>
-<a class="Dallas Cowboys fanshopalert" data-info="http://fanshop.scheels.com/NFL_Dallas_Cowboys" href="/fanshop-alert.html">
-Dallas Cowboys
+<a class="Dallas Cowboys fanshopalert" data-info="http://fanshop.scheels.com/NFL_Dallas_Cowboys/source/BM-Scheels_Web_Navigation_NFL_Dallas_Cowboys" href="/fanshop-alert.html"> Dallas Cowboys
 </a>
 </li>
 <li>
-<a class="Denver Broncos fanshopalert" data-info="http://fanshop.scheels.com/NFL_Denver_Broncos" href="/fanshop-alert.html">
-Denver Broncos
+<a class="Denver Broncos fanshopalert" data-info="http://fanshop.scheels.com/NFL_Denver_Broncos/source/BM-Scheels_Web_Navigation_NFL_Denver_Broncos" href="/fanshop-alert.html"> Denver Broncos
 </a>
 </li>
 <li>
-<a class="Kansas City Chiefs fanshopalert" data-info="http://fanshop.scheels.com/NFL_Kansas_City_Chiefs" href="/fanshop-alert.html">
-Kansas City Chiefs
+<a class="Kansas City Chiefs fanshopalert" data-info="http://fanshop.scheels.com/NFL_Kansas_City_Chiefs/source/BM-Scheels_Web_Navigation_NFL_Kansas_City_Chiefs" href="/fanshop-alert.html"> Kansas City Chiefs
 </a>
 </li>
 <li>
-<a class="Oakland Raiders fanshopalert" data-info="http://fanshop.scheels.com/NFL_Oakland_Raiders" href="/fanshop-alert.html">
-Oakland Raiders
+<a class="Philadelphia Eagles fanshopalert" data-info="http://fanshop.scheels.com/NFL_Philadelphia_Eagles" href="/fanshop-alert.html"> Philadelphia Eagles
 </a>
 </li>
 <li>
-<a class="All NFL fanshopalert" data-info="http://fanshop.scheels.com/NFL" href="/fanshop-alert.html">
-All NFL
+<a class="All NFL fanshopalert" data-info="http://fanshop.scheels.com/NFL/source/BM-Scheels_Web_Navigation_All_NFL" href="/fanshop-alert.html"> All NFL
 </a>
 </li>
 </ul>
@@ -1440,20 +1541,12 @@ All NFL
 <div class="flyout-promos right">
 <div class="flyout-promo flyout-promo-right-1 left">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://fanshop.scheels.com/NHL_Adidas_Jerseys/source/bm-referral_NHL_Jersey_Email" target="blank"><img alt="Adidas NHL Jerseys" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwbb65e462/images/Homepage_Espots/2017_September/Sept_24-30/Catspot_FanGearDD_NHL.jpg" title=""><p class="menu-banner-link-copy">New Arrivals</p></a>
+<a class="menu-banner-link fanshopalert" data-info="http://fanshop.scheels.com/pages/Outlet/source/BM-Scheels_Web_Navigation_FanGear/source/BM-Scheels_Web_FGDD_CLRNC" data-widget="image" href="https://www.scheels.com/fanshop-alert.html" target="blank"><img class="lozad" alt="img alt=" scheels="" fanshop="" save="" 15%="" with="" orders="" over$65"="" data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwa27d2c92/images/Homepage_Espots/2018_December/Christmas_1/catspot_fangear_markdown.jpg" title=""><p class="menu-banner-link-copy">Save Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-2 right">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://fanshop.scheels.com/on_sale/yes" target="_blank"><img alt="Clearance" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw35e73aa6/images/category/Catspot_SALE.gif" title=""><p class="menu-banner-link-copy">Clearance</p></a>
-</div>
-</div>
-<div class="flyout-promo flyout-promo-right-3 clear">
-<div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gift-card/GiftCard.html">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
-<p class="menu-banner-link-copy">THE PERFECT GIFT <br>Shop all Gift Cards <i class="fa fa-angle-right"></i></p>
-</a>
+<a class="menu-banner-link" href="https://www.scheels.com/visacard.html" target="blank"><img class="lozad" alt="Enjoy $50 off when instantly approved and use your Scheels visa today! " data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwcea3e70c/images/Homepage_Espots/2018_November/Winter/VISA_Holiday_Espot_2018_REVISED.jpg" title=""><p class="menu-banner-link-copy">Apply Now</p></a>
 </div>
 </div>
 </div>
@@ -1461,161 +1554,136 @@ All NFL
 </div>
 </li>
 <li class="mega-menu-7 has-sub-menu">
-<a class=" has-sub-menu " data-info="http://www.scheels.com/c/home-yard" target="" href="http://www.scheels.com/c/home-yard"> More
+<a class=" has-sub-menu " data-info="https://www.scheels.com/c/home-yard" target="" href="https://www.scheels.com/c/home-yard"> More
 </a>
 <i class="menu-item-toggle fa fa-plus"></i>
 <div class="level-2">
 <div class="wrap-desktop">
 <ul class="sub-categories menu-vertical">
 <li class="mega-menu-7-header-1">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/games-toys" href="http://www.scheels.com/c/games-toys">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/games-toys" href="https://www.scheels.com/c/games-toys">
 Games &amp; Toys
 </a>
 <ul class="level-3">
 <li>
-<a class="Lego &amp; Building Sets" data-info="http://www.scheels.com/c/lego-building-sets" href="http://www.scheels.com/c/lego-building-sets">
-Lego &amp; Building Sets
+<a class="Lego &amp; Building Sets" data-info="https://www.scheels.com/c/lego-building-sets" href="https://www.scheels.com/c/lego-building-sets"> Lego &amp; Building Sets
 </a>
 </li>
 <li>
-<a class="Vehicles &amp; Remote Control Vehicles" data-info="http://www.scheels.com/c/vehicles-remote-control-vehicles" href="http://www.scheels.com/c/vehicles-remote-control-vehicles">
-Vehicles &amp; Remote Control Vehicles
+<a class="Vehicles &amp; Remote Control Vehicles" data-info="https://www.scheels.com/c/vehicles-remote-control-vehicles" href="https://www.scheels.com/c/vehicles-remote-control-vehicles"> Vehicles &amp; Remote Control Vehicles
 </a>
 </li>
 <li>
-<a class="Figures &amp; Plush" data-info="http://www.scheels.com/c/figures-plush" href="http://www.scheels.com/c/figures-plush">
-Figures &amp; Plush
+<a class="Figures &amp; Plush" data-info="https://www.scheels.com/c/figures-plush" href="https://www.scheels.com/c/figures-plush"> Figures &amp; Plush
 </a>
 </li>
 <li>
-<a class="Game Room" data-info="http://www.scheels.com/c/game-room" href="http://www.scheels.com/c/game-room">
-Game Room
+<a class="Game Room" data-info="https://www.scheels.com/c/game-room" href="https://www.scheels.com/c/game-room"> Game Room
 </a>
 </li>
 <li>
-<a class="Card Games" data-info="http://www.scheels.com/c/card-games" href="http://www.scheels.com/c/card-games">
-Card Games
+<a class="Card Games" data-info="https://www.scheels.com/c/card-games" href="https://www.scheels.com/c/card-games"> Card Games
 </a>
 </li>
 <li>
-<a class="Dartboards" data-info="http://www.scheels.com/c/dartboards" href="http://www.scheels.com/c/dartboards">
-Dartboards
+<a class="Dartboards" data-info="https://www.scheels.com/c/dartboards" href="https://www.scheels.com/c/dartboards"> Dartboards
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-7-header-2">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/home-yard" href="http://www.scheels.com/c/home-yard">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/home-yard" href="https://www.scheels.com/c/home-yard">
 Home &amp; Yard
 </a>
 <ul class="level-3">
 <li>
-<a class="Outdoor Games" data-info="http://www.scheels.com/c/outdoor-games" href="http://www.scheels.com/c/outdoor-games">
-Outdoor Games
+<a class="Outdoor Play" data-info="https://www.scheels.com/c/outdoor-games" href="https://www.scheels.com/c/outdoor-games"> Outdoor Play
 </a>
 </li>
 <li>
-<a class="Yard Games" data-info="http://www.scheels.com/c/yard-games" href="http://www.scheels.com/c/yard-games">
-Yard Games
+<a class="Yard Games" data-info="https://www.scheels.com/c/yard-games" href="https://www.scheels.com/c/yard-games"> Yard Games
 </a>
 </li>
 <li>
-<a class="Grills &amp; Smokers" data-info="http://www.scheels.com/c/grills-smokers" href="http://www.scheels.com/c/grills-smokers">
-Grills &amp; Smokers
+<a class="Grills &amp; Smokers" data-info="https://www.scheels.com/c/grills-smokers" href="https://www.scheels.com/c/grills-smokers"> Grills &amp; Smokers
 </a>
 </li>
 <li>
-<a class="Dog Supplies" data-info="http://www.scheels.com/c/dog-supplies" href="http://www.scheels.com/c/dog-supplies">
-Dog Supplies
+<a class="Dog Supplies" data-info="https://www.scheels.com/c/dog-supplies" href="https://www.scheels.com/c/dog-supplies"> Dog Supplies
 </a>
 </li>
 <li>
-<a class="Home Accents" data-info="http://www.scheels.com/c/home-accents" href="http://www.scheels.com/c/home-accents">
-Home Accents
+<a class="Home Accents" data-info="https://www.scheels.com/c/home-accents" href="https://www.scheels.com/c/home-accents"> Home Accents
 </a>
 </li>
 <li>
-<a class="Box Signs &amp; Boards" data-info="http://www.scheels.com/c/box-signs-boards" href="http://www.scheels.com/c/box-signs-boards">
-Box Signs &amp; Boards
+<a class="Box Signs &amp; Boards" data-info="https://www.scheels.com/c/box-signs-boards" href="https://www.scheels.com/c/box-signs-boards"> Box Signs &amp; Boards
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-7-header-3">
-<a class="sub-cat-title " data-info="http://www.scheels.com/c/electronics" href="http://www.scheels.com/c/electronics">
+<a class="sub-cat-title " data-info="https://www.scheels.com/c/electronics" href="https://www.scheels.com/c/electronics">
 Electronics
 </a>
 <ul class="level-3">
 <li>
-<a class="Cameras &amp; Drones" data-info="http://www.scheels.com/c/camera-drones" href="http://www.scheels.com/c/camera-drones">
-Cameras &amp; Drones
+<a class="Cameras &amp; Drones" data-info="https://www.scheels.com/c/camera-drones" href="https://www.scheels.com/c/camera-drones"> Cameras &amp; Drones
 </a>
 </li>
 <li>
-<a class="Running Watches" data-info="http://www.scheels.com/c/watches/fitness%7Crunning" href="http://www.scheels.com/c/watches/fitness%7Crunning">
-Running Watches
+<a class="Running Watches" data-info="https://www.scheels.com/c/watches/fitness%7Crunning" href="https://www.scheels.com/c/watches/fitness%7Crunning"> Running Watches
 </a>
 </li>
 <li>
-<a class="Headphones" data-info="http://www.scheels.com/c/headphones" href="http://www.scheels.com/c/headphones">
-Headphones
+<a class="Headphones" data-info="https://www.scheels.com/c/headphones" href="https://www.scheels.com/c/headphones"> Headphones
 </a>
 </li>
 <li>
-<a class="Metal Detectors" data-info="http://www.scheels.com/c/metal-detectors" href="http://www.scheels.com/c/metal-detectors">
-Metal Detectors
+<a class="Metal Detectors" data-info="https://www.scheels.com/c/metal-detectors" href="https://www.scheels.com/c/metal-detectors"> Metal Detectors
 </a>
 </li>
 <li>
-<a class="GPS" data-info="http://www.scheels.com/c/gps" href="http://www.scheels.com/c/gps">
-GPS
+<a class="GPS" data-info="https://www.scheels.com/c/gps" href="https://www.scheels.com/c/gps"> GPS
 </a>
 </li>
 <li>
-<a class="Locators" data-info="http://www.scheels.com/c/fishing-locators" href="http://www.scheels.com/c/fishing-locators">
-Locators
+<a class="Locators" data-info="https://www.scheels.com/c/fishing-locators" href="https://www.scheels.com/c/fishing-locators"> Locators
 </a>
 </li>
 </ul>
 </li>
 <li class="mega-menu-7-header-4">
-<a class="sub-cat-title " data-info="http://www.scheels.com/brands" href="http://www.scheels.com/brands">
+<a class="sub-cat-title " data-info="https://www.scheels.com/brands" href="https://www.scheels.com/brands">
 All Brands
 </a>
 <ul class="level-3">
 <li>
-<a class="The North Face" data-info="http://www.scheels.com/c/all/the-north-face" href="http://www.scheels.com/c/all/the-north-face">
-The North Face
+<a class="The North Face" data-info="https://www.scheels.com/c/all/the-north-face" href="https://www.scheels.com/c/all/the-north-face"> The North Face
 </a>
 </li>
 <li>
-<a class="Patagonia" data-info="http://www.scheels.com/c/all/patagonia" href="http://www.scheels.com/c/all/patagonia">
-Patagonia
+<a class="Patagonia" data-info="https://www.scheels.com/c/all/patagonia" href="https://www.scheels.com/c/all/patagonia"> Patagonia
 </a>
 </li>
 <li>
-<a class="Vortex" data-info="http://www.scheels.com/c/all/vortex" href="http://www.scheels.com/c/all/vortex">
-Vortex
+<a class="Vortex" data-info="https://www.scheels.com/c/all/vortex" href="https://www.scheels.com/c/all/vortex"> Vortex
 </a>
 </li>
 <li>
-<a class="Humminbird" data-info="http://www.scheels.com/c/all/humminbird" href="http://www.scheels.com/c/all/humminbird">
-Humminbird
+<a class="Humminbird" data-info="https://www.scheels.com/c/all/humminbird" href="https://www.scheels.com/c/all/humminbird"> Humminbird
 </a>
 </li>
 <li>
-<a class="Yeti" data-info="http://www.scheels.com/c/all/yeti" href="http://www.scheels.com/c/all/yeti">
-Yeti
+<a class="Yeti" data-info="https://www.scheels.com/c/all/yeti" href="https://www.scheels.com/c/all/yeti"> Yeti
 </a>
 </li>
 <li>
-<a class="Fuji" data-info="http://www.scheels.com/c/all?prefn1=brand&amp;prefv1=Fuji" href="http://www.scheels.com/c/all?prefn1=brand&amp;prefv1=Fuji">
-Fuji
+<a class="Traeger Pellet Grills" data-info="https://www.scheels.com/c/all/traeger-pellet-grills" href="https://www.scheels.com/c/all/traeger-pellet-grills"> Traeger Pellet Grills
 </a>
 </li>
 <li class="more-cat">
-<a class="more…" data-info="http://www.scheels.com/brands" href="http://www.scheels.com/brands">
-more…
+<a class="more…" data-info="https://www.scheels.com/brands" href="https://www.scheels.com/brands"> more…
 </a>
 </li>
 </ul>
@@ -1624,18 +1692,18 @@ more…
 <div class="flyout-promos right">
 <div class="flyout-promo flyout-promo-right-1 left">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gopro-hero6-black-with-memory-card/81827902258.html"><img alt="New GoPro Hero6 with Quik Stories" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw39295c06/images/Homepage_Espots/2017_October/Oct_1-8/Catspot_MoreDD_GoPro.jpg" title=""><p class="menu-banner-link-copy">New Hero6</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/c/games-toys/sale"><img class="lozad" alt="Up to 25% off Toys" data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw828aa8c9/images/Homepage_Espots/2018_December/Christmas_2/catspot_moreDD_toys25.jpg" title=""><p class="menu-banner-link-copy">Save On Toys</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-2 right">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/c/food-treats?prefn1=brand&amp;prefv1=SCHEELS%7CRuckers"><img alt="SCHEELS Candy" src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw34faefea/images/Homepage_Espots/2017_September/Sept_3-9/Catspot_MoreDD_Candy.jpg" title="SCHEELS Candy"><p class="menu-banner-link-copy">Sweet Treats</p></a>
+<a class="menu-banner-link" href="https://www.scheels.com/visacard.html" target="blank"><img class="lozad" alt="Enjoy $50 off when instantly approved and use your Scheels visa today! " data-src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwcea3e70c/images/Homepage_Espots/2018_November/Winter/VISA_Holiday_Espot_2018_REVISED.jpg" title=""><p class="menu-banner-link-copy">Apply Now</p></a>
 </div>
 </div>
 <div class="flyout-promo flyout-promo-right-3 clear">
 <div class="menu-slot">
-<a class="menu-banner-link" href="http://www.scheels.com/p/gift-card/GiftCard.html">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
+<a class="menu-banner-link" href="https://www.scheels.com/p/gift-card/GiftCard.html">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw95630e11/images/ScheelsGiftCard_Dropdown.jpg" alt="SCHEELS Gift Card">
 <p class="menu-banner-link-copy">THE PERFECT GIFT <br>Shop all Gift Cards <i class="fa fa-angle-right"></i></p>
 </a>
 </div>
@@ -1644,8 +1712,25 @@ more…
 </div>
 </div>
 </li>
+<li class="mega-menu-14 no-sub-menu">
+<a class=" no-sub-menu " data-info="https://www.scheels.com/coldweatherhq" target="" href="https://www.scheels.com/coldweatherhq"> Cold Weather HQ
+</a>
+<i class="menu-item-toggle fa fa-chevron-right"></i>
+</li>
+<li class="giftguide no-sub-menu">
+<a class=" no-sub-menu " data-info="https://www.scheels.com/giftguide" target="" href="https://www.scheels.com/giftguide"> Gift Guide
+</a>
+<i class="menu-item-toggle fa fa-chevron-right"></i>
+</li>
+<li class="toyland no-sub-menu">
+<a href="https://www.scheels.com/toyland" class="no-sub-menu" title="SCHEELS Toyland">
+<img class="toyland-mega-menu" src="/on/demandware.static/-/Sites-scheels-Library/default/veefbb408d466d17e846d4ed3beba3c2b6caec087/images/ToylandMenu.gif" alt="SCHEELS Toyland">
+<span class="visually-hidden">Toyland</span>
+</a>
+<i class="menu-item-toggle fa fa-chevron-right"></i>
+</li>
 <li class="mega-menu-8 no-sub-menu">
-<a class=" no-sub-menu sale-cat" data-info="http://www.scheels.com/daily-deals" target="" href="http://www.scheels.com/daily-deals"><i class="fa fa-tag"></i> Sale
+<a class=" no-sub-menu sale-cat" data-info="https://www.scheels.com/daily-deals" target="" href="https://www.scheels.com/daily-deals"><i class="fal fa-tag"></i> Sale
 </a>
 <i class="menu-item-toggle fa fa-chevron-right"></i>
 </li>
@@ -1653,8 +1738,8 @@ more…
 <div class="mobile-only">
 <div class="account">
 <div class="user-info">
-<a class="user-account hasMenu" href="#" title="Sign In/Register">
-<i class="fa fa-user loggedout"></i>
+<a aria-expanded="false" class="user-account hasMenu" href="#" title="Sign In/Register">
+<i class="fal fa-user loggedout"></i>
 <span class="desktop-only">Sign In/Register</span>
 <span class="mobile-only loggedout">
 <span class="red">Sign In</span> or <span class="red">Create</span>
@@ -1676,26 +1761,83 @@ more…
 </div>
 <div class="content-asset" id="mobilemenu-contact-us">
 <div class="dropdown-content cu-content">
-<p>Get help from our experts <br><strong>Monday-Friday, 8am-5pm CST.</strong></p>
+<div class="cs-hours-nav">
+<table class="cs-hours-nav">
+<tbody><tr><th colspan="2" style="text-align:center">Contact Our SCHEELS.com Team</th>
+</tr><tr>
+<td>Monday - Friday</td>
+<td>8am - 10pm CST</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td>10am - 8pm CST</td>
+</tr>
+<tr>
+<td>Sunday</td>
+<td>12pm - 10pm CST</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><strong><a href="https://www.scheels.com/stores">Check Local Stores for Store Hours</a></strong></td>
+</tr>
+</tbody></table>
+</div>
 
 <ul class="links">
+<li style="width:100%" class="button-link"><a class="contact-us-link" href="https://www.scheels.com/tracking"><i class="fas fa-truck"></i> Track Your Order</a></li>
+<li style="width:100%" class="button-link"><a class="contact-us-link" href="https://www.scheels.com/returns"><i class="fas fa-box-open"></i> Returns/Exchanges</a></li>
 
-<li style="width:100%" class="chat-link button-link"><a id="call-web" href="/s/scheels/customer-service.html"><i class="fa fa-phone"></i> Call Us</a></li>
+<li style="width:100%" class="chat-link button-link"><a id="call-web" class="contact-us-link" href="/s/scheels/customer-service.html"><i class="fa fa-phone"></i> Call Us</a></li>
 
-<li class="chat-link button-link"><a id="chat-widget" class="chat-widget" href="#"><i class="fa fa-comments"></i> Live Chat</a><a id="chat-unavailable" class="chat-unavailable"><i class="fa fa-comments"></i> Live Chat</a></li>
-<li class="email-link button-link"><a href="https://contactus.scheels.com/support/tickets/new" target="_blank"><i class="fa fa-envelope"></i> Email Us</a></li>
-<li class="returns-link"><a href="http://www.scheels.com/return-policy.html">Return Policy</a></li>
-<li class="shipping-link"><a href="http://www.scheels.com/shipping-info.html">Shipping Information</a></li>
+
+<li style="width:100%" class="email-link button-link"><a class="contact-us-link" href="https://www.scheels.com/submit-ticket.html"><i class="fa fa-envelope"></i> Email Us</a></li>
+
+
 </ul>
 </div>
 <style type="text/css">
-    .cu-content .links li.button-link a {
+	div.cs-hours-nav {
+		margin:20px 0;
+	}
+
+	.cs-hours-nav table {
+  		width:auto;
+                margin:auto;
+                text-align:left;
+	}
+	.cs-hours-nav td {
+  		width:50%;
+        padding:5px 5px;
+        font-size: .8em;
+	}
+
+	.cs-hours-nav td:nth-child(even){
+  		text-align:center;
+	}
+
+	.cs-hours-nav th {
+		border:none;
+	}
+
+	.cs-hours-nav td {
+  		border:1px solid #c1c1c1;
+	}
+
+
+	@media screen and (max-width: 1024px) {
+  		.cs-hours-nav table {
+  			margin:20px auto;
+  		}
+	}
+
+
+</style>
+<style type="text/css">
+.cu-content .links li.button-link a {
         color:#1d1d1d;
 }
-
-    .cu-content .links li.button-link a:hover {
+.cu-content .links li.button-link a:hover {
         text-decoration:underline;
-    }
+}
 </style>
 </div> 
 </div>
@@ -1706,12 +1848,12 @@ more…
 </header> 
 <div id="main" role="main" class="page-content clearfix">
 <div class="wrap">
-<div class="breadcrumb">
+<div class="breadcrumb" itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
 <a class="breadcrumb-element" href="/on/demandware.store/Sites-scheels-Site/en_US/Home-Show"><span>Home</span></a>
-<a class="breadcrumb-element" href="/on/demandware.store/Sites-scheels-Site/en_US/CustomerService-Show" title="Go to Customer Service"><span>Customer Service</span></a>
+<a class="breadcrumb-element" href="/customer-service" title="Go to Customer Service"><span>Customer Service</span></a>
 <a class="breadcrumb-element" title="Privacy Policy"><span>Privacy Policy</span></a>
 </div>
-<div id="secondary" class="nav">
+<div id="secondaryhelp" class="nav">
 <nav>
 <h1 class="visually-hidden">Secondary Navigation</h1>
 <div class="secondary-navigation">
@@ -1720,19 +1862,16 @@ more…
 <span class="toggle"><i class="fa fa-angle-up" aria-hidden="true"></i>help</span>
 <ul>
 <li>
-<a class="direct" href="https://contactus.scheels.com/support/solutions" target="_blank">Help/FAQ</a>
+<a class="direct" href="https://www.scheels.com/submit-ticket.html">Contact Us</a>
 </li>
 <li>
-<a class="direct" href="https://contactus.scheels.com/support/solutions" target="_blank">Contact Us</a>
-</li>
-<li>
-<a class="direct" href="http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Account-GCBalance">Gift Card Balance</a>
+<a class="direct" href="https://www.scheels.com/gift-card-balance-lookup">Gift Card Balance</a>
 </li>
 <li>
 <a class="direct" href="http://careers.scheels.com/" target="_blank">Careers</a>
 </li>
 <li>
-<a class="direct" href="http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/SiteMap-Start">Site Map</a>
+<a class="direct" href="https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/SiteMap-Start">Site Map</a>
 </li>
 </ul>
 <span class="toggle"><i class="fa fa-angle-up" aria-hidden="true"></i>company info</span>
@@ -1753,11 +1892,16 @@ Community Involvement
 </a>
 </li>
 <li>
-<a class="direct" href="http://www.scheels.com/stores">Locations</a>
+<a class="direct" href="https://www.scheels.com/stores">Locations</a>
 </li>
 </ul>
 <span class="toggle"><i class="fa fa-angle-up" aria-hidden="true"></i>policies</span>
 <ul>
+<li>
+<a href="/privacy-policy-old.html" title="Privacy Policy - Expired">
+Privacy Policy - Expired
+</a>
+</li>
 <li>
 <a href="/privacy-policy.html" title="Privacy Policy">
 Privacy Policy
@@ -1769,40 +1913,40 @@ Return Policy
 </a>
 </li>
 <li>
+<a href="/shipping-info.html" title="Shipping Policy">
+Shipping Policy
+</a>
+</li>
+<li>
+<a href="/gift-card-policy.html" title="Gift Card Policy">
+Gift Card Policy
+</a>
+</li>
+<li>
 <a href="/terms-and-conditions.html" title="Terms &amp; Conditions">
 Terms &amp; Conditions
-</a>
-</li>
-<li>
-<a href="/shipping-info.html" title="Shipping Information">
-Shipping Information
-</a>
-</li>
-<li>
-<a href="/gift-card-policy.html" title="SCHEELS Gift Card Policy">
-SCHEELS Gift Card Policy
 </a>
 </li>
 </ul>
 <span class="toggle"><i class="fa fa-angle-up" aria-hidden="true"></i>community</span>
 <ul>
 <li>
-<a class="direct" href="http://experience.scheels.com/" target="_blank">Blog</a>
+<a class="direct" href="http://experience.scheels.com/events/" target="_blank">Events</a>
 </li>
 <li>
-<a class="direct" href="http://experience.scheels.com/events/" target="_blank">Events</a>
+<a class="direct" href="http://experience.scheels.com/" target="_blank">Blog</a>
 </li>
 </ul>
 <span class="toggle"><i class="fa fa-angle-up" aria-hidden="true"></i>store services</span>
 <ul>
 <li>
-<a href="/service-shops.html" title="Service Shops">
-Service Shops
+<a href="/gunsmithing.html" title="Gunsmithing">
+Gunsmithing
 </a>
 </li>
 <li>
-<a href="/gunsmithing.html" title="Gunsmithing">
-Gunsmithing
+<a href="/service-shops.html" title="Service Shops">
+Service Shops
 </a>
 </li>
 </ul>
@@ -1871,6 +2015,8 @@ Gunsmithing
 <li>Communications with SCHEELS customer service experts, such as phone, e-mail, and online chat conversations.</li>
 <li>Device and location information provided by a device connected to SCHEELS’ in-store Wi-Fi services.Additional third parties, including legal requirements as required or allowed by applicable law to prevent theft, crime and fraud to protect SCHEELS, you, our customers or additional third parties. </li>
 <li>Videos and photographs obtained by surveillance systems inside and outside of our stores.</li>
+<li>SCHEELS VISA information related to a SCHEELS credit card is <i>ONLY</i> approved or denied by our banking partners. Sensitive information relating to your VISA account, including personal information, balance, payments and credit card limits, are only given through our secure VISA bank partners, <i>NOT</i> SCHEELS stores or SCHEELS.com.</li>
+<li>Social Media Platforms, including Facebook, Twitter, Instagram, and YouTube, are used on our website through features, such as the Twitter “share this” button. With these features, information may be collected including your IP address, the page you’re visiting, and cookies may be set to enable the features to function properly. Interactions with these social media features is governed by the privacy policy of the social media company providing the feature.</li>
 </ol>
 </div>
 <br>
@@ -1880,7 +2026,16 @@ Gunsmithing
 <div>
 <p>With varying frequency, SCHEELS may additionally employ the following technological means used to analyze and process customer data:</p>
 <ol class="outer">
-<li><span style="text-decoration:underline;">Cookies.</span> Cookies are strings of information that a website stores on a visitor’s computer, which the visitor’s browser provides to the website each time the visitor returns.</li>
+<li>
+<span style="text-decoration:underline;">Cookies.</span> Cookies are strings of information that a website stores on a visitor’s computer, which the visitor’s browser provides to the website each time the visitor returns.
+<ol>
+<li>Analyze trends in accordance to site performance to determine which features on our site are effective and which features can be improved;</li>
+<li>Administer the site to ensure features are functioning properly and efficiently for a better customer service experience;</li>
+<li>Track visits to our site and pages to determine customer interaction;</li>
+<li>Tailor your visits to our site based of settings and preferences to create a personalized shopping experience; and</li>
+<li>To help identify and prevent security risks to ensure a safe and secure site.</li>
+</ol>
+</li>
 <li><span style="text-decoration:underline;">Web Beacons and Pixel Tags.</span> Web beacons and pixel tags are virtually transparent images and blocks of code which are typically used in combination with cookies, and which monitor the behavior of a visitor to SCHEELS online stores.</li>
 <li><span style="text-decoration:underline;">Log Files.</span> Log files are files maintained by our servers which contain a history of page requests.</li>
 <li><span style="text-decoration:underline;">Flash Software.</span> Software which may be installed by Adobe Systems, Inc., that is required to access certain online store functions which require the Flash platform to function.</li>
@@ -1923,7 +2078,8 @@ Gunsmithing
 <h5 id="more6">[+] More</h5>
 <div>
 <p>If you have questions about what personal information we have collected, or wish to make specific requests regarding our use of that information, we encourage you to take advantage of the following options:</p>
-<ol class="outer">
+ <ol class="outer">
+<li>Cookie settings, for most browsers, are set to enable cookies by default. If you would like to disable cookies change the settings of your web browser to remove or reject cookies automatically. For further cookie browser details, <a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies">click here for PC settings</a> and <a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/12.0/mac/10.14">click here for Apple settings.</a></li>
 <li>If you are receiving promotional materials from us via e-mail, you may unsubscribe from our e-mail list at any time. Please click the “UNSUBSCRIBE” link at the bottom of an e-mail, or contact our customer service experts at the address below.</li>
 <li>If you are receiving promotional materials from us via standard mail, you may unsubscribe from such mailings at any time by contacting our customer service experts at the address below.</li>
 <li>Manage your user profile settings to control what information may be made public, such as “wish list” items.</li>
@@ -1941,14 +2097,55 @@ Fargo, ND 58103 <br>
 </ol>
 </div>
 <br>
-<h2>9. Miscellaneous</h2>
+<h2>9. What are my California Privacy Rights?</h2>
+<p>SCHEELS Privacy Policy describes how we collect, use and share personal information that you, the customer, provide to us. As a California resident and SCHEELS customer, you have the right to request personal information from SCHEELS that we distribute to third parties. California law provides once a year you have the right to submit a request to SCHEELS designated address and receive the following: </p>
+<h5 id="more7">[+] More</h5>
+<div>
+<ol class="outer">
+<li>The categories of information SCHEELS disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year.</li>
+<li>The names and addresses of third parties that received such information</li>
+<li>If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed.</li>
+</ol>
+<p>You are entitled to receive a copy of information in a standardized format and the information will not be specific to you individually. For further details, SCHEELS designated email address for such a request is privacy@scheels.com.</p>
+</div>
+<br>
+<h2>10. What are the California 65 and 67 Propositions?</h2>
+<p>The following propositions are to be followed accordingly by the state of California:</p>
+<h5 id="more8">[+] More</h5>
+<div>
+<ol class="outer">
+<li>Proposition 65: <br>Proposition 65, officially known as The Safe Drinking Water and Toxic Enforcement Act of 1986, addresses the concerns about the exposure of toxic chemicals. This requires that all businesses place a warning label on all products containing toxic chemicals found by the California Air Resources Board considered to cause cancer or reproductive toxicity. Wordage may vary depending on products and certain chemicals, through a general Proposition 65 notice is as follows:
+<p>WARNING: You have purchased an item that contains a chemical known to the state of California to cause, birth defects or other reproductive harm.</p>
+<p>For further detail on Proposition 65, <a href="https://www.p65warnings.ca.gov/new-proposition-65-warnings">click here for warnings</a> and <a href="https://oehha.ca.gov/proposition-65/law/proposition-65-law-and-regulations">click here for regulations</a>.</p>
+</li>
+<li>Proposition 67: <br>Proposition 67, officially known as the Single-Use Carryout Bag Ban (SB 270), was approved by voters in the state of California on November 8th, 2016 to help reduce waste and pollution. This ban prohibits the use of single-use plastic bags by most grocery stores, retail stores with a pharmacy, convenience stores, food marts, and liquor stores. These stores should instead provide an option for customers to purchase reusable bags or recycled bags at the point of purchase for at least 10 cents.
+<p><a href="https://www.calrecycle.ca.gov/Plastics/CarryOutBags/">For more information on Proposition 67, click here</a>
+</p></li>
+</ol>
+</div>
+<br>
+<h2>11. What is the General Data Protection Regulation (GDPR)?</h2>
+<p>The General Data Protection Regulation (GDPR) is a legal framework requiring a business to protect the privacy of an individual, a company or an organization of personal data relating to European Union (EU) citizens. Under this law, personal data that should remain protected includes the following:</p>
+<h5 id="more9">[+] More</h5>
+<div>
+<ol class="outer">
+<li>Information that can identify any individual, including any information that has been de-identified, encrypted or pseudonymized.</li>
+<li>Rendered anonymous, irreversible data that can no longer identify an individual is not considered personal data. </li>
+<li>Automated and manually processed information in pre-defined criteria, including all data stored systems. </li>
+<li>Wholly or partly processed personal data that’s automated as well as non-automated processing, if it’s part of a structured filing system. </li>
+<li>Information containing a name or surname, home address, email address, identification card number, location data, Internet Protocol (IP) address, cookie ID, and advertising identifier of your phone. </li>
+</ol>
+<p><a href="https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en">Click here to learn more about GDPR</a>
+</p></div>
+<br>
+<h2>12. Miscellaneous</h2>
 <ol class="outer">
 <li>Our online stores and websites are intended for a general audience and not directed to children. We abide by the Children’s Online Privacy Protection Act (COPPA) and do not knowingly accept information from children under the age of 13, unless there has been verified parental consent. If you, the parent, believe your child may have provided unverified information without your consent at one of our physical or online stores, please contact us immediately at <a href="mailto:privacy@scheels.com">privacy@scheels.com</a>, or <a href="tel:+1-701-356-8264">701-356-8264</a>.</li>
 <li>In the course of improving our services and products for you, we will change this policy to meet those ends. We will notify you when we update this policy by posting the updated policy on our websites and online stores, and by sending you an e-mail with an updated policy notice. We encourage you to review the policy to stay informed about how we continue to strive to create a personalized and safe shopping experience at SCHEELS.</li>
-<li>This policy is effective October, 2017.</li>
+<li>This policy is effective November 5, 2018.</li>
 </ol>
 <br>
-<p>Click to view our <a href="http://www.scheels.com/privacy-policy-old.html">previous privacy policy</a>.</p>
+<p>Click to view our <a href="https://www.scheels.com/privacy-policy-old.html">previous privacy policy</a>.</p>
 </div>
 </div>
 <script>
@@ -1971,22 +2168,34 @@ Fargo, ND 58103 <br>
 
 					$('#more3').click(function() {
 						$('#more3').hide();
-						$('#more1,#more2,#more4,#more5,#more6,#more7,#more8').show();
+						$('#more1,#more2,#more4,#more5,#more6,#more7,#more8,#more9').show();
 					});
 
 					$('#more4').click(function() {
 						$('#more4').hide();
-						$('#more1,#more2,#more3,#more5,#more6,#more7,#more8').show();
+						$('#more1,#more2,#more3,#more5,#more6,#more7,#more8,#more9').show();
 					});
 
 					$('#more5').click(function() {
 						$('#more5').hide();
-						$('#more1,#more2,#more3,#more4,#more6,#more7,#more8').show();
+						$('#more1,#more2,#more3,#more4,#more6,#more7,#more8,#more9').show();
 					});
 
 					$('#more6').click(function() {
 						$('#more6').hide();
-						$('#more1,#more2,#more3,#more4,#more5,#more7,#more8').show();
+						$('#more1,#more2,#more3,#more4,#more5,#more7,#more8,#more9').show();
+					});
+					$('#more7').click(function() {
+						$('#more7').hide();
+						$('#more1,#more2,#more3,#more4,#more5,#more6,#more8,#more9').show();
+					});
+					$('#more8').click(function() {
+						$('#more8').hide();
+						$('#more1,#more2,#more3,#more4,#more5,#more6,#more7,#more9').show();
+					});
+					$('#more9').click(function() {
+						$('#more9').hide();
+						$('#more1,#more2,#more3,#more4,#more5,#more6,#more7,#more8').show();
 					});
 
 
@@ -2001,31 +2210,52 @@ Fargo, ND 58103 <br>
 </div>
 </div>
 </div>
+<div id="back-to-top">
+<a class="btt-btn" tabindex="0"><span>Back to Top</span><i class="fal fa-angle-up" aria-hidden="true"></i></a>
+</div>
 <footer id="footer">
 <div class="container-popup this-element-appended" role="dialog" aria-label="Email Signup" style="display: none;">
 <div class="emailwrapper">
 <div class="close_btn"><i class="fa fa-times"></i></div>
 <div class="emailcontainer">
-<div class="content-asset" id="newsletter-popup">
-<div class="on-top-of-image"><h4 class="signup">Be the first to know about promotions, special offers and product releases.</h4></div>
-<form method="POST" action="http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/ExactTarget-Subscribe">
-<input type="text" name="email" title="Newsletter Signup Email" placeholder="Enter Email">
-<input name="ContactSource" type="hidden" value="066_website_pop-up">
-<button class="subscribe_btn" type="submit">Subscribe</button></form>
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw4389db3d/images/emailbg_3_28.jpg" height="100%" class="background-image" alt="Email Background Image">
-</div> 
 </div>
 </div>
 </div>
 <div class="wrap-desktop footer-container">
 <div class=" footer-section top">
 <div class="content-asset" id="footer-customer-service">
+<style type="text/css">
+#footer #footer-customer-service h3 {
+    font-size: 1.1rem;
+    margin: 0;
+}
+#footer #footer-customer-service ul li {
+    float: left;
+    width: 24.3333%;
+    text-align: center;
+}
+@media screen and (max-width: 600px) {
+#footer #footer-customer-service a {
+font-size: 0.8em;
+line-height: 1em;
+}
+}
+@media screen and (min-width: 1024px) {
+#footer #footer-customer-service ul li {
+    width: 20%;
+}
+#footer #footer-customer-service a {
+font-size: 1.1rem;
+}
+}
+</style>
 <ul>
-<li class="label"><a href="https://contactus.scheels.com/support/solutions" target="_blank"><h3>Customer Service</h3></a></li>
-<li><a href="https://contactus.scheels.com/support/tickets/new" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i>Email Us</a></li>
-<li><a href="http://www.scheels.com/customer-service.html"><i class="fa fa-phone" aria-hidden="true"></i>Call Us</a></li>
+<li class="label"><a class="footer-link" href="https://www.scheels.com/submit-ticket.html"><h3>Customer Service</h3></a></li>
+<li><a class="footer-link" href="https://www.scheels.com/submit-ticket.html"><i class="fa fa-envelope" aria-hidden="true"></i>Email Us</a></li>
+<li><a class="footer-link" href="https://www.scheels.com/customer-service.html"><i class="fa fa-phone" aria-hidden="true"></i>Call Us</a></li>
 
-<li><a href="https://contactus.scheels.com/support/solutions" target="_blank"><i class="fa fa-question-circle" aria-hidden="true"></i>Questions</a></li>
+<li><a class="footer-link" href="https://www.scheels.com/returns"><i class="fa fa-question-circle" aria-hidden="true"></i>Returns</a></li>
+<li><a class="footer-link" href="https://www.scheels.com/tracking"><i class="fa fa-truck" aria-hidden="true"></i>Track Your Order</a></li>
 </ul>
 </div> 
 </div>
@@ -2034,36 +2264,154 @@ Fargo, ND 58103 <br>
 <div class="content-asset" id="footer-newsletter-signup">
 <h3>Email Exclusives:</h3>
 <p>Receive special offers &amp; promotions</p>
-<form method="POST" action="http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/ExactTarget-Subscribe">
-<input type="text" name="email" title="Newsletter Signup Email">
+<form method="POST" action="https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/ExactTarget-Subscribe">
+<input style="height:43px; vertical-align:middle" type="text" name="email" title="Newsletter Signup Email">
 <input name="ContactSource" type="hidden" value="066_website_footer">
 <button type="submit">Subscribe</button></form>
 </div> 
 </div>
 <div class="footer-item">
-<div class="content-asset" id="footer-social">
+<div class="content-asset" id="footer-social-update">
 <h3>Connect with Us</h3>
 <ul>
-<li class="social-icon"><a href="https://www.facebook.com/scheels" target="_blank"><i class="fa fa-facebook"></i><span style="display:none">Facebook</span></a></li>
-<li class="social-icon"><a href="https://twitter.com/scheels" target="_blank"><i class="fa fa-twitter"></i><span style="display:none">Twitter</span></a></li>
-<li class="social-icon"><a href="https://www.instagram.com/scheelssports/" target="_blank"><i class="fa fa-instagram"></i><span style="display:none">Instagram</span></a></li>
-<li class="social-icon"><a href="https://www.youtube.com/user/scheelsadmin" target="_blank"><i class="fa fa-youtube-play"></i><span style="display:none">YouTube</span></a></li>
+<li class="social-icon"><a href="https://www.facebook.com/scheels" target="_blank"><i class="fab fa-facebook-f"></i><span style="display:none">Facebook</span></a></li>
+<li class="social-icon"><a href="https://twitter.com/scheels" target="_blank"><i class="fab fa-twitter"></i><span style="display:none">Twitter</span></a></li>
+<li class="social-icon"><a href="https://www.instagram.com/scheelssports/" target="_blank"><i class="fab fa-instagram"></i><span style="display:none">Instagram</span></a></li>
+<li class="social-icon"><a href="https://www.youtube.com/user/scheelsadmin" target="_blank"><i class="fab fa-youtube"></i><span style="display:none">YouTube</span></a></li>
 </ul>
 <a href="http://experience.scheels.com/" class="blog-link" target="_blank">Check out our blog: experiencescheels.com</a>
 </div> 
 </div>
 <div class="footer-item">
 <div class="content-asset" id="footer-credit">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw490bfb1f/images/footer/scheelsvisa.png" alt="SCHEELS Visa">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dwa6c84e26/images/footer/scheelsvisa_1_3.png" alt="SCHEELS Visa Reward Your Passion">
 <div class="credit-links">
-<a href="https://www.firstnational.com/dynapp/da/S75BSGCC2DN3Q" class="footer-btn" target="_blank">Apply Now</a>
-<a href="https://www.firstbankcard.com/scheels/landingpage/index.html" class="footer-btn" target="_blank">Learn More</a>
+<a href="/visacard.html" class="footer-btn" target="_blank">Learn More</a>
 <a href="https://www.firstbankcard.com/scheels/site/customer_manage/personal.fhtml" class="footer-btn" target="_blank">My Account</a>
 </div>
+<style>
+	@media screen and (min-width: 1024px) {
+		#footer #footer-credit .footer-btn {
+			width:49%;
+		}
+	}
+	#footer #footer-credit .credit-links{max-width:90%; margin:0 auto;}
+</style>
 </div> 
 </div>
 </div>
 <div class="footer-section bottom">
+<div class="footer-item guarantee">
+<div class="content-asset" id="footer-guarantee">
+<style type="text/css">
+
+.s7panleftbutton:after, .s7thumbnailpagebutton:after, .s7fullscreenbutton:after, .s7panrightbutton:after {
+font: normal normal normal 18px/1 "font awesome 5 pro";
+}
+.s7imagemapeffect .s7mapoverlay:before {
+font: normal normal normal 30px/1 "font awesome 5 pro";
+font-weight: 900;
+}
+.s7imagemapeffect .s7mapoverlay:after {
+font: normal normal normal 18px/1 "font awesome 5 pro";
+font-weight: 900;
+}
+#giftCardSection .error {
+margin-top: 0;
+text-align: left;
+margin: 0 0 1em 0;
+}
+</style>
+<div class="guarantee-img">
+<img src="https://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw80e5cda5/images/footer/guaranteebadge.png" alt="SCHEELS Guarantee">
+</div>
+<div class="guarantee-text">
+<h3>SCHEELS Guarantee</h3>
+<p>Everything you buy at SCHEELS, on sale or otherwise, is guaranteed satisfactory or your money back. You don't take chances at SCHEELS ... ever.</p>
+</div>
+<script type="text/javascript">
+runZipConfirm();
+function runZipConfirm() {
+    // Script depends on jQuery being there.
+    if( window.$ ) {
+    	if ( $( ".zipCodeConfirm" ).length ) {
+    		var fullZipConfirm = $(".zipCodeConfirm").html();
+    		if($('#dwfrm_billing_billingAddress_addressFields_postal').val()) {
+    		var loadedZipValue = $("#dwfrm_billing_billingAddress_addressFields_postal").val();
+    		$('.zipCodeConfirm').show();
+			} else {
+				$('.zipCodeConfirm').hide();
+			}
+    	$("#dwfrm_billing_billingAddress_addressFields_postal").on('change', function() {
+        var updatedZipValue = $("#dwfrm_billing_billingAddress_addressFields_postal").val();
+        var updateZipConfirm = '<p><strong>Before Continuing:</strong> Please confirm the zip code ' + '(<strong>' + updatedZipValue + '</strong>)' + ' matches the billing address on your credit card.<a id="updateZip">Update Zip</a></p>'
+    	$(".zipCodeConfirm").html(updateZipConfirm);
+    	$('.zipCodeConfirm').show();
+    	        function scrollToLink(aid){
+        		var aTag = $("input[id='"+ aid +"']");
+        		$('html,body').animate({scrollTop: aTag.offset().top - 200},'slow');
+    			}
+    			$('#updateZip').click(function(){
+        		$("#billing-populated").accordion({active:0});
+       			 scrollToLink('dwfrm_billing_billingAddress_addressFields_postal');
+        		$('#dwfrm_billing_billingAddress_addressFields_postal').focus();
+        		$('.zipCodeConfirm').show();
+  			});
+    });
+		}
+    } else {
+        // wait 50 milliseconds and try again.
+        window.setTimeout( runZipConfirm, 50 );
+    }
+}
+
+</script>
+<script type="text/javascript">
+addFanShop();
+function addFanShop() {
+    // Script depends on jQuery being there.
+    if( window.$ ) {
+        $('.mega-menu-10').find('a').attr('class','no-sub-menu fanshopalert');
+        $('.mega-menu-10').find('a').attr('href','/s/scheels/fanshop-alert.html');
+    } else {
+        // wait 50 milliseconds and try again.
+        window.setTimeout( addFanShop, 50 );
+    }
+}
+</script>
+<script type="text/javascript">
+openCategory();
+function openCategory() {
+    // Script depends on jQuery being there.
+    if( window.$ ) {
+        if($('#wrapper').outerWidth() > 1023){
+            setTimeout(function() {
+            $("#Category").trigger('click');
+            },50);
+        }
+    } else {
+        // wait 50 milliseconds and try again.
+        window.setTimeout( openCategory, 500 );
+    }
+}
+</script>
+<script type="text/javascript">
+updateVisaIcon();
+function updateVisaIcon() {
+    // Script depends on jQuery being there.
+    if( window.$ ) {
+            if($(".remote-logo").attr('alt') == 'Google Pay') {
+        		$(".remote-logo").attr('src', '/on/demandware.static/Sites-scheels-Site/-/default/dw363941c2/images/Google-Pay-Mark.svg'); 
+    };
+
+    } else {
+        // wait 50 milliseconds and try again.
+        window.setTimeout( updateVisaIcon, 50 );
+    }
+}
+</script>
+</div> 
+</div>
 <div class="footer-item nav">
 <div class="content-asset" id="footer-nav">
 <div class="footer-nav-links">
@@ -2071,12 +2419,12 @@ Fargo, ND 58103 <br>
 <h3 class="footer-nav-toggle">Company &amp; Site Info<i class="fa fa-angle-down" aria-hidden="true"></i></h3>
 <div class="footer-nav-wrap">
 <div class="footer-nav-inner">
-<a href="http://careers.scheels.com/" class="footer-link" target="_blank">Careers</a>
-<a href="http://www.scheels.com/about-us.html" class="footer-link">About Us</a>
-<a href="http://www.scheels.com/associations.html" class="footer-link">Associations</a>
-<a href="http://www.scheels.com/community-involvement.html" class="footer-link">Community Involvement</a>
-<a href="http://www.scheels.com/stores" class="footer-link">Locations</a>
-<a href="http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/SiteMap-Start" class="footer-link">Site Map</a>
+<a class="footer-link" href="https://scheelssports.applicantstack.com/x/search" target="_blank">Careers</a>
+<a class="footer-link" href="https://www.scheels.com/about-us">About Us</a>
+<a class="footer-link" href="https://www.scheels.com/associations.html">Associations</a>
+<a class="footer-link" href="https://www.scheels.com/community-involvement.html">Community Involvement</a>
+<a class="footer-link" href="https://www.scheels.com/stores">Locations</a>
+<a class="footer-link" href="https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/SiteMap-Start">Site Map</a>
 </div>
 </div>
 </div>
@@ -2084,11 +2432,13 @@ Fargo, ND 58103 <br>
 <h3 class="footer-nav-toggle">Policies<i class="fa fa-angle-down" aria-hidden="true"></i></h3>
 <div class="footer-nav-wrap">
 <div class="footer-nav-inner">
-<a href="http://www.scheels.com/privacy-policy.html" class="footer-link">Privacy Policy</a>
-<a href="http://www.scheels.com/return-policy.html" class="footer-link">Return Policy</a>
-<a href="http://www.scheels.com/terms-and-conditions.html" class="footer-link">Terms &amp; Conditions</a>
-<a href="http://www.scheels.com/shipping-info.html" class="footer-link">Shipping Information</a>
-<a href="http://www.scheels.com/gift-card-policy.html" class="footer-link">Gift Card Policy</a>
+<a class="footer-link" href="https://www.scheels.com/privacy-policy.html">Privacy Policy</a>
+<a class="footer-link" href="https://www.scheels.com/return-policy.html">Return Policy</a>
+<a class="footer-link" href="https://www.scheels.com/shipping-info.html">Shipping Policy</a>
+<a class="footer-link" href="https://www.scheels.com/gift-card-policy.html">Gift Card Policy</a>
+<a class="footer-link" href="https://www.scheels.com/returns">Returns</a>
+<a class="footer-link" href="https://www.scheels.com/tracking">Track Your Order</a>
+<a class="footer-link" href="https://www.scheels.com/terms-and-conditions.html">Terms &amp; Conditions</a>
 </div>
 </div>
 </div>
@@ -2096,25 +2446,14 @@ Fargo, ND 58103 <br>
 <h3 class="footer-nav-toggle">Store Services<i class="fa fa-angle-down" aria-hidden="true"></i></h3>
 <div class="footer-nav-wrap">
 <div class="footer-nav-inner">
-<a href="http://www.scheels.com/gunsmithing.html" class="footer-link">Gunsmithing</a>
-<a href="http://www.scheels.com/service-shops.html" class="footer-link">Service Shops</a>
-<a href="http://experience.scheels.com/events/" class="footer-link" target="_blank">Events</a>
-<a href="http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Account-GCBalance" class="footer-link">Gift Card Balance</a>
-<a href="http://www.scheels.com/rebates.html" class="footer-link">Rebates</a>
+<a class="footer-link" href="https://www.scheels.com/gunsmithing.html">Gunsmithing</a>
+<a class="footer-link" href="https://www.scheels.com/service-shops.html">Service Shops</a>
+<a class="footer-link" href="http://experience.scheels.com/events/" target="_blank">Events</a>
+<a class="footer-link" href="https://www.scheels.com/gift-card-balance-lookup">Gift Card Balance</a>
+<a class="footer-link" href="https://www.scheels.com/rebates.html">Rebates</a>
 </div>
 </div>
 </div>
-</div>
-</div> 
-</div>
-<div class="footer-item guarantee">
-<div class="content-asset" id="footer-guarantee">
-<div class="guarantee-img">
-<img src="http://www.scheels.com/on/demandware.static/-/Sites-scheels-Library/default/dw80e5cda5/images/footer/guaranteebadge.png" alt="SCHEELS Guarantee">
-</div>
-<div class="guarantee-text">
-<h3>SCHEELS Guarantee</h3>
-<p>Everything you buy at SCHEELS, on sale or otherwise, is guaranteed satisfactory or your money back. You don't take chances at SCHEELS ... ever.</p>
 </div>
 </div> 
 </div>
@@ -2125,17 +2464,81 @@ var today = new Date()
 var year = today.getFullYear()
 document.write(year)
 </script>2020 Scheels Sports</div>
+
+<script>
+	removeDollarSign();
+	function removeDollarSign(){
+		// check to see if jquery is there
+		if( window.$ ) {
+
+			$('#dwfrm_billing_giftCertAmount').change(function() {
+				var giftcard_amount = $(this).val();
+				// console.log(giftcard_amount);
+				giftcard_amount = giftcard_amount.replace(/[^\d.-]/g, '');
+				$(this).val(giftcard_amount);
+				// console.log($(this).val());
+			});
+		}
+
+		else {
+		        // wait 50 milliseconds and try again.
+		        window.setTimeout( removeDollarSign, 50 );
+		}
+	}
+</script>
+<script>	
+hideRefinement();
+function hideRefinement(){
+	// check to see if jquery is there
+	if( window.$ ) {
+		$(document).ready(function() {
+            $( "div.refinement.Shop_Number" ).hide();
+            $( "div.refinement.ID" ).hide();
+	    $( "div.refinement.Ad_Board" ).hide();
+		});
+	}else { 
+		window.setTimeout( hideRefinement, 50 );
+	}
+}
+</script>
+<script>	
+hideAdd2Cart();
+function hideAdd2Cart(){
+	// check to see if jquery is there
+	if( window.$ ) {
+		$(document).ready(function() {
+            $('.wishlist-table .option-add-to-cart').hide();
+		});
+	}else { 
+		window.setTimeout( hideAdd2Cart, 50 );
+	}
+}
+</script>
+
+<style type="text/css">
+	.product-set-item .product-add-to-cart.add-sub-product {display: none !important;}
+	.product-set-actions {float:left; width:100%;}
+	.pdp-main .product-set .product-add-to-cart .product-set-actions {justify-content: initial}
+	.product-set-actions #add-all-to-cart {width:100%;}
+	.product-set-actions div:first-child {width:100%;}
+	.product-set-actions .salesprice {display:inline !important;}
+	.pdp-main .product-set .product-add-to-cart .product-set-actions label {font-size:1.5rem; line-height: 3rem;}
+	.pdp-main .product-set .product-add-to-cart .product-price {line-height: 3rem;}
+</style>
+
+<style type="text/css">
+    #TurnToChatterContent, #TurnToReviewsContent, .header-text.bgrule {
+        clear:both;
+    }
+</style>
 </div> 
 </div>
 </footer>
-<div id="back-to-top">
-<a href="" class="btt-btn"><span>Back to Top</span><i class="fa fa-caret-up" aria-hidden="true"></i></a>
-</div>
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -2143,71 +2546,201 @@ document.write(year)
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/lib/jquery/ui/jquery-ui.min.js" type="text/javascript" defer=""></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/ui/jquery-ui.min.js" type="text/javascript" defer=""></script>
 
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/lib/jquery/jquery.zoom.min.js" defer=""></script>
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/lib/jquery/slick/slick.min.js"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/jquery.zoom.min.js" defer=""></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/jquery/slick/slick.min.js"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search your passion","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Your current gift certificate balance is $0","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code and pin.","ORDER_RETURN_MISSING":"Input is incomplete","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","PICKUP_AVAILABLE":"Available for pickup today at: ","PICKUP_UNAVAILABLE":"In Store Pickup Unavailable","PICKUP_UNAVAILABLEAT":"In Store Pickup Unavailable at:","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","ADD_TO_CART_INSTORE_PICKUP":"Add to Cart for In Store Pick Up","CHECK_STORE_AVAILABILITY":"Check Store Availability","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","CANCEL":"Cancel","SEARCH":"Search","CHANGE_LOCATION":"Change Location","SEE_MORE_STORES":"See More Stores","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-scheels-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-scheels-Site/en_US/Page-Include","continueUrl":"http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/","addGiftCert":"/on/demandware.store/Sites-scheels-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-scheels-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/PaymentInstruments-List","addressesList":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Address-List","wishlistAddress":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-scheels-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-scheels-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-scheels-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-scheels-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-scheels-Site/en_US/Product-Detail","productShow":"http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Product-Show","getAvailability":"/on/demandware.store/Sites-scheels-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-scheels-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-scheels-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-scheels-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-scheels-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-scheels-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-scheels-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-scheels-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-scheels-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-scheels-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-GetGiftCertificateBalance","giftCardCheckBalanceScheels":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-GetScheelsGiftCertificateBalance","redeemGiftCert":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-RedeemGiftCertificateJson","redeemScheelGiftCert":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-RedeemScheelGiftCertificateJson","addCoupon":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-scheels-Site/en_US/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-scheels-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-scheels-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-scheels-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-scheels-Site/en_US/CSRF-Failed","summaryURL":"/on/demandware.store/Sites-scheels-Site/en_US/COSummary-Start","minicartshow":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-MiniCart","retrieveOrder":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Order-RetrieveOrder"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search your passion","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"<span class=\"visually-hidden\">Error:</span> Specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Your current gift certificate balance is $0","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code and pin.","ORDER_RETURN_MISSING":"Input is incomplete","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available to ship.","INIFINITESCROLL":"Show All","PICKUP_AVAILABLE":"In Stock at ","PICKUP_UNAVAILABLE":"In Store Pickup Unavailable","PICKUP_UNAVAILABLEAT":"Unavailable at","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","ADD_TO_CART_INSTORE_PICKUP":"Add to Cart for In Store Pick Up","CHECK_STORE_AVAILABILITY":"Check Store Availability","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","CHECKAVAILABLECONTENT":"Please Note: Inventory levels can change quickly and are not always guaranteed. To check for store availability or to place an item(s) on hold, please contact the SCHEELS location of interest.","CANCEL":"Cancel","SEARCH":"Search","CHANGE_LOCATION":"Change Location","SEE_MORE_STORES":"See More Stores","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quickview","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","KIOSK_EMAIL_HEADER":"Email Your Cart","KIOSK_SUCCESS_HEADER":"Success","VISA_INSTANT_HEADER":"SCHEELS Visa Offer Details","ITEM_ADDED_HEADER":"Item Added To Cart","VALIDATE_REQUIRED":"<span class=\"visually-hidden\">Error:</span> Required field","VALIDATE_REMOTE":"<span class=\"visually-hidden\">Error:</span> Please fix this field.","VALIDATE_EMAIL":"<span class=\"visually-hidden\">Error:</span> Please enter a valid email address.","VALIDATE_URL":"<span class=\"visually-hidden\">Error:</span> Please enter a valid URL.","VALIDATE_DATE":"<span class=\"visually-hidden\">Error:</span> Please enter a valid date.","VALIDATE_DATEISO":"<span class=\"visually-hidden\">Error:</span> Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"<span class=\"visually-hidden\">Error:</span> Please enter a valid number.","VALIDATE_DIGITS":"<span class=\"visually-hidden\">Error:</span> Please enter only digits.","VALIDATE_CREDITCARD":"<span class=\"visually-hidden\">Error:</span> Please enter a valid credit card number.","VALIDATE_EQUALTO":"<span class=\"visually-hidden\">Error:</span> Please enter the same value again.","VALIDATE_MAXLENGTH":"<span class=\"visually-hidden\">Error:</span> Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"<span class=\"visually-hidden\">Error:</span> <span class=\"zipcode\">Min. {0} char.</span>","VALIDATE_RANGELENGTH":"<span class=\"visually-hidden\">Error:</span> Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"<span class=\"visually-hidden\">Error:</span> Please enter a value between {0} and {1}.","VALIDATE_MAX":"<span class=\"visually-hidden\">Error:</span> Please enter a value less than or equal to {0}.","VALIDATE_MIN":"<span class=\"visually-hidden\">Error:</span> Please enter a value greater than or equal to {0}.","VALIDATE_CONTAINSERRORS":"The form above contains errors, please fix to continue.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available to ship.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-scheels-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-scheels-Site/en_US/Page-Include","continueUrl":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/","addGiftCert":"/on/demandware.store/Sites-scheels-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-scheels-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","kioskSuccess":"/on/demandware.store/Sites-scheels-Site/en_US/Kiosk-Success","giftRegAdd":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.scheels.com/account-payment-settings","addressesList":"https://www.scheels.com/account-address-list","wishlistAddress":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-scheels-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-scheels-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-scheels-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-scheels-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-scheels-Site/en_US/Product-Detail","productShow":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Product-Show","getAvailability":"/on/demandware.store/Sites-scheels-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-scheels-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-scheels-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-scheels-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-scheels-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-scheels-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-scheels-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-scheels-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-scheels-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-scheels-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-GetGiftCertificateBalance","giftCardCheckBalanceScheels":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-GetScheelsGiftCertificateBalance","redeemGiftCert":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-RedeemGiftCertificateJson","redeemScheelGiftCert":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/COBilling-RedeemScheelGiftCertificateJson","addCoupon":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-scheels-Site/en_US/StoreInventory-GetZipCode","billing":"/checkout-billing","setSessionCurrency":"/on/demandware.store/Sites-scheels-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-scheels-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-scheels-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-scheels-Site/en_US/CSRF-Failed","summaryURL":"/checkout-order-review","minicartshow":"/on/demandware.store/Sites-scheels-Site/en_US/Cart-MiniCart","kioskCODialog":"/on/demandware.store/Sites-scheels-Site/en_US/Kiosk-KioskCODialog","retrieveOrder":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Order-RetrieveOrder","retrieveTrackingOrder":"https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/Order-RetrieveTrackingOrder"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false};
 }());
 </script>
 <script type="text/javascript">
-
 (function(){
 window.SessionAttributes = {"SHOW_CAPTCHA":null};
-window.User = {"zip":"20149","storeId":null};
+window.User = {"zip":null,"storeId":null,"source":"withsession"};
 }());
 </script>
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/js/app.js"></script>
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/js/powerreviews.js" defer=""></script>
-<script type="text/javascript" src="https://js.braintreegateway.com/js/braintree-2.24.0.min.js" defer=""></script>
-<script type="text/javascript" src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/js/braintreeUtils.js" defer=""></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/app.js"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/powerreviews.js" defer=""></script>
 <script>pageContext = {"title":"Customer Service","type":"customerservice","ns":"account"};</script>
 <script>
 var meta = "Learn more about the Privacy Policy at SCHEELS where you'll find a Terms of Use agreement that applies to your access and use of our site.";
 var keywords = "";
 </script>
 
+<style type="text/css">
+	.embeddedServiceHelpButton .helpButton .uiButton { background-color: #dc1e33; font-family: "Salesforce Sans", sans-serif; }
+	.embeddedServiceHelpButton .helpButton .uiButton:focus { outline: 1px solid #dc1e33; }
+	@font-face {
+	font-family: 'Salesforce Sans';
+	src: url('https://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.woff') format('woff'),
+	url('https://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.ttf') format('truetype');
+	}
+	.message {
+		text-transform: none;
+	}
+	#headerTextLabel {
+		text-transform: none;
+	}
+	.bBody {
+		text-transform: none;
+		line-height: 20px;
+	}
+	.helpButtonDisabled {
+		display: none !important;
+	}
+	.helpButton {
+		position: fixed !important;
+		left: 3% !important;
+		width: 20%;
+	}
+	div.chatContent a {
+       text-decoration: underline !important;
+	}
+	.closeButton .x-small {
+		padding-left: 40% !important;
+	}
+	.minimizeButton .x-small {
+		padding-left: 40% !important;
+	}
+	.messageContent .x-small {
+		padding-left: 0px !important;
+	}
+	.sidebarBody {
+		height: calc(100% - 34px) !important;
+	}
+	.embeddedServiceSidebar.layout-docked .dockableContainer {
+		left: 3% !important;
+	}
+	.embeddedServiceSidebarMinimizedDefaultUI {
+		left: 3% !important;
+		padding: 0px;
+	}
+        @media only screen and (max-width: 600px) {
+            .message {
+                display: none;
+            }
+            .embeddedServiceHelpButton .uiButton {
+                min-width: 4em;
+                padding-left: 16px !important;
+            }
+            .embeddedServiceSidebarMinimizedDefaultUI {
+                 min-width: 4em !important;
+                 width: 4em !important;
+                 border-radius: 23px !important;
+                 padding-left: 9px !important;
+             }
+        }
+        button.rich-menu-item.embeddedServiceLiveAgentStateChatRichItem { 
+              text-transform: none !important;
+        }
+        button.rich-menu-itemOptionIsClicked.embeddedServiceLiveAgentStateChatRichItem {
+              text-transform: none !important;   
+        }
+</style>
+<script type="text/javascript" src="https://service.force.com/embeddedservice/5.0/esw.min.js"></script>
 <script type="text/javascript">
-var d = new Date();
-if(d.getHours() >= 8 && d.getHours() <= 16 ){
-$(".chat-widget").show();
-$(".chat-unavailable").hide();
-} else {
-$(".chat-unavailable").show();
-$(".chat-widget").hide();
-}
-</script>
+var initESW = function(gslbBaseURL) {
+embedded_svc.settings.displayHelpButton = true; //Or false
+embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
+embedded_svc.settings.enabledFeatures = ['LiveAgent'];
+embedded_svc.settings.entryFeature = 'LiveAgent';
+embedded_svc.settings.avatarImgURL = 'https://scheels.scene7.com/is/image/Scheels/liveagentdefault';
+embedded_svc.settings.chatbotAvatarImgURL = 'https://scheels-na59--c.na59.visual.force.com/resource/1542211672000/Ferris_Delayed';
+embedded_svc.settings.storageDomain = "scheels.com"; 
 
+embedded_svc.init('https://na59.salesforce.com', 'https://scheels.secure.force.com', gslbBaseURL, '00Df4000003mvV8', 'Customer_Support_Chat', { baseLiveAgentContentURL: 'https://c.la4-c1-dfw.salesforceliveagent.com/content', deploymentId: '572f4000000lThq', buttonId: '573f4000000lRJe', baseLiveAgentURL: 'https://d.la4-c1-dfw.salesforceliveagent.com/chat', eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04If4000000bph9EAA_165ce18e084', isOfflineSupportEnabled: false}); };if (!window.embedded_svc) { var s = document.createElement('script'); s.setAttribute('src', 'https://na59.salesforce.com/embeddedservice/5.0/esw.min.js'); s.onload = function() { initESW(null); }; document.body.appendChild(s); } else { initESW('https://service.force.com'); }</script>
+<script>
+        $("body").on("DOMSubtreeModified", "#headerTextLabel", function(){
+            var x = $("#headerTextLabel").text();
+            if(x != "Live Chat" && x != "" && x != "Agent" && x != "Ferris W")
+
+            {
+                $(".avatarImg").attr("style", "background-image: url(https://scheels.scene7.com/is/image/Scheels/liveagent" + $("#headerTextLabel").text());
+
+            }
+        });
+
+        $("body").on("DOMSubtreeModified", ".messageArea", function(){
+		if($("#headerTextLabel").text() != "Ferris W")
+		{
+            		$(".avatar").last().attr("style", "background-image: url(https://scheels.scene7.com/is/image/Scheels/liveagent" + $("#headerTextLabel").text());
+		}
+		else
+		{
+			$(".chasitorText.textarea").blur();
+		}
+		document.querySelector(".messageArea").scrollTop = document.querySelector(".messageArea").scrollHeight;
+
+        });
+
+	$("body").on("click", ".rich-menu-items li", function(e){
+		
+		setTimeout(function(){
+			$(".chasitorText.textarea").blur();
+		}, 200);
+		
+	});
+        
+</script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/intersection-observer.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/lib/lozad.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var fc_isSecured = (window.location && window.location.protocol == 'https:');var fc_lang = document.getElementsByTagName('html')[0].getAttribute('lang'); var fc_rtlLanguages = ['ar','he']; var fc_rtlSuffix = (fc_rtlLanguages.indexOf(fc_lang) >= 0) ? '-rtl' : '';fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((fc_isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor'+fc_rtlSuffix+'.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script'); fc_JS.type='text/javascript'; fc_JS.defer=true;fc_JS.src=((fc_isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.livechat_setting= 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJzY2hlZWxzY3VzdG9tZXJzZXJ2aWNlLmZyZXNoZGVzay5jb20iLCJwcm9kdWN0X2lkIjpudWxsLCJuYW1lIjoiU2NoZWVscyBDdXN0b21lciBTZXJ2aWNlIiwid2lkZ2V0X2V4dGVybmFsX2lkIjpudWxsLCJ3aWRnZXRfaWQiOiJmNzJiYWFmNC1mYzcyLTQ0Y2MtOTFjNS01ZjM3NDY5OGEwYWIiLCJzaG93X29uX3BvcnRhbCI6dHJ1ZSwicG9ydGFsX2xvZ2luX3JlcXVpcmVkIjpmYWxzZSwibGFuZ3VhZ2UiOm51bGwsInRpbWV6b25lIjpudWxsLCJpZCI6NTAwMDAxNDAxNiwibWFpbl93aWRnZXQiOjEsImZjX2lkIjoiODIwNTdhMmZmOTgyOGNlZjcyZWE5OWJjYWU4ZjlkNzEiLCJzaG93IjoxLCJyZXF1aXJlZCI6MiwiaGVscGRlc2tuYW1lIjoiU2NoZWVscyBDdXN0b21lciBTZXJ2aWNlIiwibmFtZV9sYWJlbCI6Ik5hbWUiLCJtZXNzYWdlX2xhYmVsIjoiTWVzc2FnZSIsInBob25lX2xhYmVsIjoiUGhvbmUiLCJ0ZXh0ZmllbGRfbGFiZWwiOiJUZXh0ZmllbGQiLCJkcm9wZG93bl9sYWJlbCI6IkRyb3Bkb3duIiwid2VidXJsIjoic2NoZWVsc2N1c3RvbWVyc2VydmljZS5mcmVzaGRlc2suY29tIiwibm9kZXVybCI6ImNoYXQuZnJlc2hkZXNrLmNvbSIsImRlYnVnIjoxLCJtZSI6Ik1lIiwiZXhwaXJ5IjowLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJlbmRfY2hhdF90aGFua19tc2ciOiJUaGFuayB5b3UhISEiLCJlbmRfY2hhdF9lbmRfdGl0bGUiOiJFbmQiLCJlbmRfY2hhdF9jYW5jZWxfdGl0bGUiOiJDYW5jZWwiLCJzaXRlX2lkIjoiODIwNTdhMmZmOTgyOGNlZjcyZWE5OWJjYWU4ZjlkNzEiLCJhY3RpdmUiOjEsInJvdXRpbmciOnsiY2hvaWNlcyI6eyJsaXN0MSI6WyIwIl0sImxpc3QyIjpbIjAiXSwibGlzdDMiOlsiMCJdLCJkZWZhdWx0IjpbIjUwMDAwODk4ODAiXX0sImRyb3Bkb3duX2Jhc2VkIjoidHJ1ZSJ9LCJwcmVjaGF0X2Zvcm0iOjEsImJ1c2luZXNzX2NhbGVuZGFyIjp7ImhvbGlkYXlfZGF0YSI6WyJKdWwgMDQiLCJJbmRlcGVuZGVuY2UgRGF5IiwiTm92IDIyIiwiVGhhbmtzZ2l2aW5nIERheSIsIkRlYyAyNSIsIkNocmlzdG1hcyBEYXkiLCJEZWMgMjQiLCJDaHJpc3RtYXMgRXZlIiwiRGVjIDMxIiwiTmV3IFllYXIncyBFdmUiLCJNYXkgMzAiLCJNZW1vcmlhbCBEYXkiLCJKYW4gMSIsIk5ldyBZZWFycyBEYXkuIl0sInRpbWVfem9uZSI6IkNlbnRyYWwgVGltZSAoVVMgJiBDYW5hZGEpIiwiYnVzaW5lc3NfdGltZV9kYXRhIjp7IndlZWtkYXlzIjpbIjEiLCIyIiwiMyIsIjQiLCI1Il0sImZ1bGx3ZWVrIjoiZmFsc2UiLCJ3b3JraW5nX2hvdXJzIjpbbnVsbCx7ImJlZ2lubmluZ19vZl93b3JrZGF5IjoiODowMCBhbSIsImVuZF9vZl93b3JrZGF5IjoiNjowMCBwbSJ9LHsiYmVnaW5uaW5nX29mX3dvcmtkYXkiOiI4OjAwIGFtIiwiZW5kX29mX3dvcmtkYXkiOiI2OjAwIHBtIn0seyJiZWdpbm5pbmdfb2Zfd29ya2RheSI6Ijg6MDAgYW0iLCJlbmRfb2Zfd29ya2RheSI6IjY6MDAgcG0ifSx7ImJlZ2lubmluZ19vZl93b3JrZGF5IjoiODowMCBhbSIsImVuZF9vZl93b3JrZGF5IjoiNjowMCBwbSJ9LHsiYmVnaW5uaW5nX29mX3dvcmtkYXkiOiI4OjAwIGFtIiwiZW5kX29mX3dvcmtkYXkiOiI2OjAwIHBtIn1dfX0sInByb2FjdGl2ZV9jaGF0IjowLCJwcm9hY3RpdmVfdGltZSI6MTUsInNpdGVfdXJsIjoic2NoZWVsc2N1c3RvbWVyc2VydmljZS5mcmVzaGRlc2suY29tIiwiZXh0ZXJuYWxfaWQiOm51bGwsImRlbGV0ZWQiOjAsIm1vYmlsZSI6MSwiYWNjb3VudF9pZCI6bnVsbCwiY3JlYXRlZF9hdCI6IjIwMTQtMTAtMzBUMTI6NTE6MTUuMDAwWiIsInVwZGF0ZWRfYXQiOiIyMDE2LTA3LTA2VDE4OjQyOjMxLjAwMFoiLCJjYkRlZmF1bHRNZXNzYWdlcyI6eyJjb2Jyb3dzaW5nX3N0YXJ0X21zZyI6IllvdXIgc2NyZWVuc2hhcmUgc2Vzc2lvbiBoYXMgc3RhcnRlZCIsImNvYnJvd3Npbmdfc3RvcF9tc2ciOiJZb3VyIHNjcmVlbnNoYXJpbmcgc2Vzc2lvbiBoYXMgZW5kZWQiLCJjb2Jyb3dzaW5nX2RlbnlfbXNnIjoiWW91ciByZXF1ZXN0IHdhcyBkZWNsaW5lZCIsImNvYnJvd3Npbmdfdmlld2luZ19zY3JlZW4iOiJZb3UgYXJlIHZpZXdpbmcgdGhlIHZpc2l0b3LigJlzIHNjcmVlbiIsImNvYnJvd3NpbmdfY29udHJvbGxpbmdfc2NyZWVuIjoiWW91IGFyZSBjb250cm9sbGluZyB0aGUgdmlzaXRvcuKAmXMgc2NyZWVuIiwiY29icm93c2luZ19yZXF1ZXN0X2NvbnRyb2wiOiJSZXF1ZXN0IHZpc2l0b3IgZm9yIGNvbnRyb2wiLCJjb2Jyb3dzaW5nX3N0b3BfcmVxdWVzdCI6IkVuZCB5b3VyIHNjcmVlbnNoYXJpbmcgc2Vzc2lvbiIsImNvYnJvd3NpbmdfcmVxdWVzdF9jb250cm9sX3JlamVjdGVkIjoiWW91ciByZXF1ZXN0IHdhcyBkZWNsaW5lZCIsImNvYnJvd3NpbmdfY2FuY2VsX3Zpc2l0b3JfbXNnIjoiU2NyZWVuc2hhcmluZyBpcyBjdXJyZW50bHkgdW5hdmFpbGFibGUiLCJjYl92aWV3aW5nX3NjcmVlbl92aSI6IkFnZW50IGNhbiB2aWV3IHlvdXIgc2NyZWVuICIsImNiX2NvbnRyb2xsaW5nX3NjcmVlbl92aSI6IkFnZW50IGNhbiBjb250cm9sIHlvdXIgc2NyZWVuIiwiY2JfZ2l2ZV9jb250cm9sX3ZpIjoiQWxsb3cgYWdlbnQgdG8gY29udHJvbCB5b3VyIHNjcmVlbiIsImNiX3Zpc2l0b3Jfc2Vzc2lvbl9yZXF1ZXN0IjoiQ2FuIGFnZW50IGNvbnRyb2wgeW91ciBjdXJyZW50IHNjcmVlbj8ifX0=';
+//Initialize library
+document.onready = function() {
+var pictureObserver = lozad('.lozad-picture', {
+threshold: 0.1
+});
+pictureObserver.observe();
+}
+lozad('.lozad', {
+load: function(el) {
+el.src = el.dataset.src;
+el.onload = function() {
+el.classList.add('fade')
+}
+}
+}).observe();
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PKGTV6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-
-<span id="_GUARANTEE_SealSpan"></span>
-<img src="//nsg.symantec.com/Web/Seal/AltSealInfo.aspx?S=Large&amp;T=M&amp;Elem=ImgTagSeal&amp;HASH=7iUV1al%2FfDg8Uw0Ujs0a%2BciTjl3ZEx7m%2BDO0TZF0%2BAvmE7htw9x0sk8G5osQP4y2y%2B8il%2BKJaVHv2d4w2dkrPQ%3D%3D&amp;CBF=AB&amp;AB=1&amp;DP=fn=;src=ImgTagSeal;grt=true" style="display:none;">
-<script src="//nsg.symantec.com/Web/Seal/gjs.aspx?SN=929171968" type="text/javascript"></script>
 <script type="text/javascript">
-if(window._GUARANTEE && _GUARANTEE.Loaded)
-{ _GUARANTEE.Hash = "7iUV1al%2FfDg8Uw0Ujs0a%2BciTjl3ZEx7m%2BDO0TZF0%2BAvmE7htw9x0sk8G5osQP4y2y%2B8il%2BKJaVHv2d4w2dkrPQ%3D%3D"; _GUARANTEE.WriteSeal("_GUARANTEE_SealSpan", "GuaranteedSeal"); }
+$("#buysafeseal_1_a").removeAttr("tabindex");
 </script>
-
-</div><script type="text/javascript" defer="" src="https://d36mpcpuzc4ztk.cloudfront.net/js/visitor.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/apple-pay.min.js"></script>
+<script type="text/javascript" src="https://www.paypalobjects.com/api/checkout.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/paypal.min.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/paypal-checkout.min.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/hosted-fields.min.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/three-d-secure.min.js"></script>
+<script type="text/javascript" src="https://assets.secure.checkout.visa.com/checkout-widget/resources/js/integration/v1/sdk.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/visa-checkout.min.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/client.min.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/data-collector.min.js"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/braintreeUtils.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/braintreeCreditCard.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/braintreePaypal.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/braintreeApplepay.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.38.1/js/google-payment.min.js"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/braintreeGooglepay.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://pay.google.com/gp/p/js/pay.js"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/braintreeVisaCO.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/js/braintreeSG.js" type="text/javascript"></script>
+</div><script src="https://na59.salesforce.com/embeddedservice/5.0/esw.min.js"></script>
 
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/__Analytics-Tracking";
+        var trackingUrl = "https://www.scheels.com/on/demandware.store/Sites-scheels-Site/en_US/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -2219,9 +2752,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1509257058287/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-scheels-Site/-/en_US/v1544939148149/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
