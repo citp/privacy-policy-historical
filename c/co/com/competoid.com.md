@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the competoid.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311072237id_/http%3A//competoid.com/privacyPolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competoid.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217081920id_/http%3A//www.competoid.com/privacyPolicy.xhtml) for the most accurate reproduction.*
 
-# Feedback - Competoid, participate and win
+# About us - Competoid.com
 
 This Privacy Policy is effective immediately for users registering accounts after that date.
 
@@ -60,7 +60,7 @@ We may share information about you with third parties as follows:
 
 Competoid does not guarantee the accuracy, completeness, or usefulness of any content, nor its merchantability or fitness for any particular. In many instances, the content available through this Website represents the opinions and judgements of the respective information provider, User, or other users not under contract with Competoid. Competoid neither endorses nor is responsible for the accuracy or reliability of any opinion, advice or statement made on the Website by anyone other than authorized Competoid employee / spokespersons while acting in official capacities.
 
-Under no circumstances will Competoid be liable for any loss or damage caused by Users reliance on information obtained through the Website. It is the responsibility of User to evaluate the accuracy, completeness or usefulness of any information, opinion, advice etc. or other content available through the Website.
+Under no circumstances will Competoid be liable for any loss or damage caused by User's reliance on information obtained through the Website. It is the responsibility of User to evaluate the accuracy, completeness or usefulness of any information, opinion, advice etc. or other content available through the Website.
 
 Unless you have executed a written agreement with Competoid expressly permitting you to do so, you may not provide a hyperlink to the Website from any other website. Competoid reserves the right to revoke its consent to any link at any time in its sole discretion.
 
@@ -78,7 +78,7 @@ We shall be relieved of its obligation(s) to the extent that fulfilment of such 
 
 This policy and all questions of its interpretation shall be construed in accordance with the laws of India. Any dispute or difference between us and yourself arising out of or relating to the existence, validity, interpretation, performance or termination of, or otherwise in connection with these terms and conditions ("Dispute"), shall at first instance be attempted to be amicably settled between the parties through good faith negotiations. Either party shall be entitled to invoke such negotiations by giving to the other party a notice to that effect ("Dispute Notice"). If a Dispute is not resolved by way of good faith negotiations within a period of Fort five (45) days from the date when the Dispute Notice was received by the receiving party then either party shall be entitled to refer the Dispute to Arbitration and the provisions of the Arbitration and Conciliation Act, 1996, as amended ("Arbitration Act"), will apply to such arbitration. Such Arbitration proceedings shall be conducted in Chennai and the courts in Chennai shall have exclusive jurisdiction to entertain any dispute arising out of this policy. The arbitration proceedings shall be conducted in English language.
 
-If you believe that Competoid has not adhered to this Privacy Policy you may contact us online by clicking [here](https://web.archive.org/web/20180311072237id_/http%3A//competoid.com/contactUs.xhtml). or write to us at the following address:
+If you believe that Competoid has not adhered to this Privacy Policy you may contact us online by clicking [here](https://web.archive.org/web/20181217081920id_/http%3A//www.competoid.com/contactUs.xhtml). or write to us at the following address:
 
 Competoid  
 No 1, Sathyamoorthy Street,  
