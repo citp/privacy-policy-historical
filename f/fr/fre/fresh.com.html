@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fresh.com privacy policy that was archived on 2018-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629181404id_/http%3A//www.fresh.com/US/customer-service-links/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fresh.com privacy policy that was archived on 2018-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217083431id_/http%3A//www.fresh.com/US/customer-service-links/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -168,16 +168,14 @@
 
 
 
-	
-	
-
-	
 
 
 
 
 	
+	
 
+	
 
 
 
@@ -188,11 +186,7 @@
 
 
 
-
-
-
 	
-
 
 
 
@@ -211,6 +205,23 @@
 
 
 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 
@@ -254,19 +265,19 @@
 <!-- Webfont -->
 <link href="//cloud.webtype.com/css/f9006702-0c02-43b1-b13f-537f592f320d.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/css/MyFontsWebfontsKit_unhinted.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/css/MyFontsWebfontsKit_helvetica.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/css/webfonts/base64_fonts.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/css/MyFontsWebfontsKit_unhinted.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/css/MyFontsWebfontsKit_helvetica.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/css/webfonts/base64_fonts.css">
 
 
-	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/css/unified_min.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/lib/fancybox/jquery.fancybox.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/lib/jquery/tooltip/jquery.tooltip.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/css/unified_min.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/lib/fancybox/jquery.fancybox.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/lib/jquery/tooltip/jquery.tooltip.css">
 
 
 
 
-	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/css/mobile.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/css/mobile.css">
 	
 	
 	
@@ -279,17 +290,17 @@
 
 
 
-<script>window.jQuery || document.write('<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/lib/jquery/jquery-1.11.1.min.js">\x3C/script>')</script><script src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/lib/jquery/jquery-1.11.1.min.js"></script>
+<script>window.jQuery || document.write('<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/lib/jquery/jquery-1.11.1.min.js">\x3C/script>')</script><script src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/lib/jquery/jquery-1.11.1.min.js"></script>
 <script type="text/javascript">
 if (typeof jQuery.migrateWarnings == 'undefined') { // or typeof jQuery.fn.live == 'undefined'
-    document.write(unescape('<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/lib/jquery/jquery-migrate-1.2.1.min.js" type="text/javascript">\x3C/script>'));
+    document.write(unescape('<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/lib/jquery/jquery-migrate-1.2.1.min.js" type="text/javascript">\x3C/script>'));
 }
 </script>
 
 <script>var app={};</script>
 
 
-<link href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/lib/bxslider/jquery.bxslider.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/lib/bxslider/jquery.bxslider.css" type="text/css" rel="stylesheet">
 
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -305,7 +316,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -351,6 +368,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -369,8 +413,44 @@ src="https://www.facebook.com/tr?id=140304920034548&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+	
+<script type="text/javascript">
+	// ShopRunner related settings
+	var endpoint = '';
+	var protocol = document.location.protocol;
 
-    <meta name="google-site-verification" content="L38My7pnBsJKBeMOzCP6UUJQmntcuf60eGMVWjXtPr8">
+	if( protocol == 'http:' ) {
+		endpoint = "http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/ShopRunner-PayrunnerAPI";
+	} else {
+		endpoint = "https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/ShopRunner-PayrunnerAPI";
+	}
+	
+	var _shoprunner_com = new Object();
+  	_shoprunner_com.enabled = true;
+	_shoprunner_com.retailerID = "FRESH";
+    _shoprunner_com.loginValidationURL = "https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/ShopRunner-ValidateToken";
+ 	_shoprunner_com.environmentID = 2;
+
+ 	/*
+	 * ---------------------------------------- 
+	 * PayRunner Configuration
+	 *  ----------------------------------------
+	 */
+ 	_shoprunner_com.checkout = new Object();
+	_shoprunner_com.checkout.enabled = null;
+	_shoprunner_com.checkout.singleProductBuyNowEnabled = false;
+	_shoprunner_com.checkout.cartBuyNowEnabled = true;  
+	_shoprunner_com.checkout.partnerAPIEndPoint = endpoint;
+	
+	_shoprunner_com.checkout.mixedCart = "downgrade";
+</script>
+
+<script type="text/javascript" src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/js/shoprunner_init.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/js/pr_functions.js"></script>
+
+
+
+    <meta name="google-site-verification" content="IboUfAY82AST4rYvfzd2gHJXcdHYS59RjDi4-_Wq-JY">
 
 
 
@@ -384,7 +464,7 @@ src="https://www.facebook.com/tr?id=140304920034548&ev=PageView&noscript=1"
 			sr.src = window.location.protocol + "//d1n00d49gkbray.cloudfront.net/js/fresh.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(sr, s);
 	    })();
 	</script>
-	<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/js/sr_app.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/js/sr_app.js" type="text/javascript"></script>
 
 
     
@@ -398,6 +478,8 @@ src="https://www.facebook.com/tr?id=140304920034548&ev=PageView&noscript=1"
 	
 	
 
+
+	<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/css/holidayOverride.css">
  
 	
 <script type="text/javascript">
@@ -577,16 +659,14 @@ src="https://www.facebook.com/tr?id=140304920034548&ev=PageView&noscript=1"
 
 
 
-	
-	
-
-	
 
 
 
 
 	
+	
 
+	
 
 
 
@@ -597,11 +677,7 @@ src="https://www.facebook.com/tr?id=140304920034548&ev=PageView&noscript=1"
 
 
 
-
-
-
 	
-
 
 
 
@@ -620,6 +696,23 @@ src="https://www.facebook.com/tr?id=140304920034548&ev=PageView&noscript=1"
 
 
 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 
@@ -632,10 +725,10 @@ src="https://www.facebook.com/tr?id=140304920034548&ev=PageView&noscript=1"
 
 
 <script>
-dataLayer = [{"demandwareID":"bcfcd80DD8Tsi2UU4KjN0a3Qdv","loggedInState":false,"pageLanguage":"en_US","currencyCode":"USD"},{}];
+dataLayer = [{"demandwareID":"afBAUipP6zScbudjs25eJupQaF","loggedInState":false,"pageLanguage":"en_US","currencyCode":"USD"},{}];
 </script>
 
-<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/js/tagmanager-min.js"></script>
+<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/js/tagmanager-min.js"></script>
 
 <!-- Google Tag Manager -->
 <noscript>
@@ -647,7 +740,7 @@ function initGTM(){
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M8DG9RG');
 }
 </script>
-<input id="GTM_General_Data" type="hidden" data-generalgtmdata="{&quot;demandwareID&quot;:&quot;bcfcd80DD8Tsi2UU4KjN0a3Qdv&quot;,&quot;loggedInState&quot;:false,&quot;pageLanguage&quot;:&quot;en_US&quot;,&quot;currencyCode&quot;:&quot;USD&quot;}">
+<input id="GTM_General_Data" type="hidden" data-generalgtmdata="{&quot;demandwareID&quot;:&quot;afBAUipP6zScbudjs25eJupQaF&quot;,&quot;loggedInState&quot;:false,&quot;pageLanguage&quot;:&quot;en_US&quot;,&quot;currencyCode&quot;:&quot;USD&quot;}">
 <input id="GTMPromoCode" type="hidden" value="">
 
 <!-- End Google Tag Manager -->
@@ -658,6 +751,8 @@ function initGTM(){
 
 
 
+<a href="#wrapper" id="skip" aria-label="Skip to Main Content">Skip to Main Content</a>
+
 
 
 
@@ -670,32 +765,6 @@ function initGTM(){
 
 
 	
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -729,6 +798,36 @@ function initGTM(){
 
 
 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -871,21 +970,29 @@ function initGTM(){
 
 
 
+	
 
 
 
 
 
 
-<section class="side-nav-wrapper">
+
+
+
+
+
+
+<section class="side-nav-wrapper" role="navigation" aria-label="sidenavigationwrapper">
 	<div class="side-nav">
 		<div class="side-header">
 			<img src="/on/demandware.static/Sites-fresh-Site/-/default/dw96415197/images/navigation/svg/Store Pin Mobile/store_locator_icons_fresh_boutiques.svg" alt="Fresh, Inc.">
-			<a class="uppercase find-store" href="/US/stores#?prevPage=menu" title="Find A Shop">
+			<a aria-label="Side Navigation Find a Shop Link" class="uppercase find-store" href="/US/stores#?prevPage=menu" title="Find A Shop">
 				Find A Shop
 			</a>
 			<span class="close"><img class="close-button" src="/on/demandware.static/Sites-fresh-Site/-/default/dw3c3b4fa9/images/close.png" alt="Close menu"></span>
 		</div>
+		
 			<ul class="side-nav-additional additional-top">
 			
 				
@@ -905,9 +1012,10 @@ function initGTM(){
 			
 			
 		</ul>
-		<div id="side-navigation" role="navigation" class="clearfix">
+		
+		<div id="side-navigation" role="navigation" class="clearfix" aria-label="sidenavheading">
 	
-			<h1 class="visually-hidden navigation-header">Catalog Navigation</h1>
+			<h1 id="sidenavheading" class="visually-hidden navigation-header">Catalog Navigation</h1>
 			
 			
 			
@@ -921,8 +1029,9 @@ function initGTM(){
 							
 							
 							
-							<a class="level-1-categoryname " href="http://www.fresh.com/US/new/#?prevPage=menu">
-								NEW!
+							
+							<a aria-label="Side Navigation Level 1 Link New &amp; Now" class="level-1-categoryname " href="http://www.fresh.com/US/new/#?prevPage=menu">
+								New &amp; Now
 							</a>
 						</li>
 						
@@ -946,8 +1055,8 @@ function initGTM(){
 					<a href="http://www.fresh.com/US/new/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwe3ecd0d1/nav/Handcreams_NavPromo_01.jpg" media="(min-width: 768px)">
-								<img title="New">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw1deefb0c/responsive-homepages/New%20Navs/H18_NavPromo_New_New.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
@@ -964,12 +1073,12 @@ function initGTM(){
 					<a href="http://www.fresh.com/US/award-winners/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw4f7d8c01/responsive-homepages/New%20Navs/PDP-Lotus-Rescue_mask_100ml_490_w_Badge.jpg" media="(min-width: 768px)">
-								<img title="Award-Winners">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwf896fe20/responsive-homepages/New%20Navs/H18_NavPromo_New_AwardWinner.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Award-Winners</span>
+							<span>Award Winners</span>
 						</div>
 					</a>
 				</div>
@@ -982,12 +1091,12 @@ function initGTM(){
 					<a href="http://www.fresh.com/US/best-sellers/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw24ab632f/responsive-homepages/New%20Navs/SFC_Limited_NavPromo.jpg" media="(min-width: 768px)">
-								<img title="Best-Sellers">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwf9aa10e1/responsive-homepages/New%20Navs/H18_NavPromo_New_BestSellers.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Best-Sellers</span>
+							<span>Best Sellers</span>
 						</div>
 					</a>
 				</div>
@@ -1005,7 +1114,8 @@ function initGTM(){
 							
 							
 							
-							<a class="level-1-categoryname " href="http://www.fresh.com/US/skincare/#?prevPage=menu">
+							
+							<a aria-label="Side Navigation Level 1 Link Skincare" class="level-1-categoryname " href="http://www.fresh.com/US/skincare/#?prevPage=menu">
 								Skincare
 							</a>
 						</li>
@@ -1015,147 +1125,170 @@ function initGTM(){
 								
 							<div class="level-2 category-1">
 								
-					
-												
-								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/skincare/cleanse/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 1 Cleanse" href="http://www.fresh.com/US/skincare/cleanse/#?prevPage=menu">
 													
 												Cleanse
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/skincare/mask/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 1 Mask" href="http://www.fresh.com/US/skincare/mask/#?prevPage=menu">
 													
 												Mask
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/skincare/moisturize/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 1 Moisturize" href="http://www.fresh.com/US/skincare/moisturize/#?prevPage=menu">
 													
 												Moisturize
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first subcategory-expandable">
 											
 											
-												<a href="http://www.fresh.com/US/skincare/shop-concern/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 1 Shop Concern" href="http://www.fresh.com/US/skincare/shop-concern/#?prevPage=menu">
 													
 												Shop Concern
 											</a>
 											
-										
 											
 												<ul class="shop-concern">
 													
 														
-															<li>
-																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/loss-of-firmness/#?prevPage=menu">																	
-																	Loss of Firmness
-							 									</a>
-															</li>
-														
-													
+																											
 														
 															<li>
 																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/pollution/#?prevPage=menu">																	
-																	Pollution
-							 									</a>
-															</li>
-														
-													
-														
-															<li>
-																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/dull-skin/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Dull Skin" href="http://www.fresh.com/US/skincare/shop-concern/dull-skin/#?prevPage=menu">																	
 																	Dull Skin
 							 									</a>
 															</li>
 														
 													
 														
-															<li>
-																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/uneven-skin-tone/#?prevPage=menu">																	
-																	Uneven Skin Tone
-							 									</a>
-															</li>
-														
-													
+																											
 														
 															<li>
 																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/oil-control/#?prevPage=menu">																	
-																	Oil Control
-							 									</a>
-															</li>
-														
-													
-														
-															<li>
-																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/dry-skin/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Dry Skin" href="http://www.fresh.com/US/skincare/shop-concern/dry-skin/#?prevPage=menu">																	
 																	Dry Skin
 							 									</a>
 															</li>
 														
 													
 														
-															<li>
-																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/sun-protection/#?prevPage=menu">																	
-																	Sun Protection
-							 									</a>
-															</li>
-														
-													
+																											
 														
 															<li>
 																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/fine-lines-wrinkles/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Fine Lines &amp; Wrinkles" href="http://www.fresh.com/US/skincare/shop-concern/fine-lines-wrinkles/#?prevPage=menu">																	
 																	Fine Lines &amp; Wrinkles
 							 									</a>
 															</li>
 														
 													
 														
+																											
+														
 															<li>
 																
-																<a href="http://www.fresh.com/US/skincare/shop-concern/youth-preserve/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Loss of Firmness" href="http://www.fresh.com/US/skincare/shop-concern/loss-of-firmness/#?prevPage=menu">																	
+																	Loss of Firmness
+							 									</a>
+															</li>
+														
+													
+														
+																											
+														
+															<li>
+																
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Oil Control" href="http://www.fresh.com/US/skincare/shop-concern/oil-control/#?prevPage=menu">																	
+																	Oil Control
+							 									</a>
+															</li>
+														
+													
+														
+																											
+														
+															<li>
+																
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Pollution" href="http://www.fresh.com/US/skincare/shop-concern/pollution/#?prevPage=menu">																	
+																	Pollution
+							 									</a>
+															</li>
+														
+													
+														
+																											
+														
+															<li>
+																
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Sun Protection" href="http://www.fresh.com/US/skincare/shop-concern/sun-protection/#?prevPage=menu">																	
+																	Sun Protection
+							 									</a>
+															</li>
+														
+													
+														
+																											
+														
+															<li>
+																
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Uneven Skin Tone" href="http://www.fresh.com/US/skincare/shop-concern/uneven-skin-tone/#?prevPage=menu">																	
+																	Uneven Skin Tone
+							 									</a>
+															</li>
+														
+													
+														
+																											
+														
+															<li>
+																
+																<a aria-label="Side Navigation Level 3 Link ada.category 1 Youth Preserve" href="http://www.fresh.com/US/skincare/shop-concern/youth-preserve/#?prevPage=menu">																	
 																	Youth Preserve
 							 									</a>
 															</li>
@@ -1167,29 +1300,21 @@ function initGTM(){
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first subcategory-expandable">
 											
 											
-												<a href="http://www.fresh.com/US/skincare/discover/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 1 Discover" href="http://www.fresh.com/US/skincare/discover/#?prevPage=menu">
 													
 												Discover
 											</a>
 											
-										
 											
 												<ul class="collections">
-													
-														
-															<li class="discover">
-																
-																<a href="http://www.fresh.com/US/soyfacecleanser.html#?prevPage=menu">	
-																	<div class="thumbnail"><img src="/on/demandware.static/-/Sites-live/default/dw28b25ccf/Parallax Assets/Soy/Soy-ingredient.jpg" alt="null"></div>																
-																	Soy Limited-Edition
-																</a>
-															</li>
-														
 													
 														
 															<li class="discover">
@@ -1214,9 +1339,9 @@ function initGTM(){
 														
 															<li class="discover">
 																
-																<a href="http://www.fresh.com/US/mask-collection/#?prevPage=menu">	
-																	<div class="thumbnail"><img src="/on/demandware.static/-/Sites-live/default/dw23b55aba/icon_mask.png" alt="null"></div>																
-																	Mask Menu
+																<a href="http://www.fresh.com/US/hyaluronic-acid/#?prevPage=menu">	
+																	<div class="thumbnail"><img src="null" alt="null"></div>																
+																	Hyaluronic Acid
 																</a>
 															</li>
 														
@@ -1224,9 +1349,9 @@ function initGTM(){
 														
 															<li class="discover">
 																
-																<a href="http://www.fresh.com/US/moisturizer-menu/#?prevPage=menu">	
-																	<div class="thumbnail"><img src="/on/demandware.static/-/Sites-live/default/dw01c5a971/Parallax Assets/Moisturizer/icon_moisturizer.png" alt="null"></div>																
-																	Moisturizer Menu
+																<a href="http://www.fresh.com/US/Lotus_Rescue.html#?prevPage=menu">	
+																	<div class="thumbnail"><img src="null" alt="null"></div>																
+																	Lotus
 																</a>
 															</li>
 														
@@ -1237,6 +1362,16 @@ function initGTM(){
 																<a href="http://www.fresh.com/US/collection/rose-hydrating-skincare/#?prevPage=menu">	
 																	<div class="thumbnail"><img src="/on/demandware.static/-/Sites-live/default/dw9a7bd8e8/icon_rose2.png" alt="null"></div>																
 																	Rose
+																</a>
+															</li>
+														
+													
+														
+															<li class="discover">
+																
+																<a href="http://www.fresh.com/US/soyfacecleanser.html#?prevPage=menu">	
+																	<div class="thumbnail"><img src="/on/demandware.static/-/Sites-live/default/dw28b25ccf/Parallax Assets/Soy/Soy-ingredient.jpg" alt="null"></div>																
+																	Soy Limited-Edition
 																</a>
 															</li>
 														
@@ -1264,31 +1399,23 @@ function initGTM(){
 														
 															<li class="discover">
 																
-																<a href="http://www.fresh.com/US/skincare/discover/collection-umbrianclay/#?prevPage=menu">	
-																	<div class="thumbnail"><img src="/on/demandware.static/-/Sites-live/default/dwe6614d0b/icon_UC.png" alt="null"></div>																
-																	Umbrian Clay
-																</a>
-															</li>
-														
-													
-														
-															<li class="discover">
-																
-																<a href="http://www.fresh.com/US/zodiac.html#?prevPage=menu">	
-																	<div class="thumbnail"><img src="/on/demandware.static/-/Sites-live/default/dw45255ec1/Parallax Assets/Oval-Soap/icon_ZODIAC-2018.jpg" alt="null"></div>																
-																	Zodiac 2018
-																</a>
-															</li>
-														
-													
-														
-															<li class="discover">
-																
-																<a href="http://www.fresh.com/US/Lotus_Rescue.html#?prevPage=menu">	
+																<a href="http://www.fresh.com/US/power-your-glow-vitamin-c.html#?prevPage=menu">	
 																	<div class="thumbnail"><img src="null" alt="null"></div>																
-																	Lotus
+																	Vitamin Nectar
 																</a>
 															</li>
+														
+													
+														
+															<li class="discover">
+																
+																<a href="http://www.fresh.com/US/Zodiac-2019.html#?prevPage=menu">	
+																	<div class="thumbnail"><img src="null" alt="null"></div>																
+																	Zodiac 2019
+																</a>
+															</li>
+														
+													
 														
 													
 												</ul>
@@ -1297,6 +1424,9 @@ function initGTM(){
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
@@ -1307,7 +1437,6 @@ function initGTM(){
 												View All Skincare
 											</a>
 											
-										
 											
 										</li>
 										
@@ -1321,7 +1450,8 @@ function initGTM(){
 							
 							
 							
-							<a class="level-1-categoryname " href="http://www.fresh.com/US/lipcare/#?prevPage=menu">
+							
+							<a aria-label="Side Navigation Level 1 Link Lip Care" class="level-1-categoryname " href="http://www.fresh.com/US/lipcare/#?prevPage=menu">
 								Lip Care
 							</a>
 						</li>
@@ -1331,102 +1461,115 @@ function initGTM(){
 								
 							<div class="level-2 category-2">
 								
-					
-												
-								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/lipcare/prep/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 2 Prep" href="http://www.fresh.com/US/lipcare/prep/#?prevPage=menu">
 													
 												Prep
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/lipcare/treat-nourish/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 2 Treat" href="http://www.fresh.com/US/lipcare/treat-nourish/#?prevPage=menu">
 													
 												Treat
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/lipcare/tint-shine/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 2 Tint" href="http://www.fresh.com/US/lipcare/tint-shine/#?prevPage=menu">
 													
 												Tint
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first subcategory-expandable">
 											
 											
-												<a href="http://www.fresh.com/US/lipcare/shop-concern/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 2 Shop Concern" href="http://www.fresh.com/US/lipcare/shop-concern/#?prevPage=menu">
 													
 												Shop Concern
 											</a>
 											
-										
 											
 												<ul class="shop-concern">
 													
 														
+																											
+														
 															<li>
 																
-																<a href="http://www.fresh.com/US/lipcare/shop-concern/dry-lips/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 2 Dry Lips" href="http://www.fresh.com/US/lipcare/shop-concern/dry-lips/#?prevPage=menu">																	
 																	Dry Lips
 							 									</a>
 															</li>
 														
 													
 														
+																											
+														
 															<li>
 																
-																<a href="http://www.fresh.com/US/lipcare/shop-concern/sun-protection/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 2 Sun Protection" href="http://www.fresh.com/US/lipcare/shop-concern/sun-protection/#?prevPage=menu">																	
 																	Sun Protection
 							 									</a>
 															</li>
 														
 													
 														
+																											
+														
 															<li>
 																
-																<a href="http://www.fresh.com/US/lipcare/shop-concern/signs-aging/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 2 Signs of Aging" href="http://www.fresh.com/US/lipcare/shop-concern/signs-aging/#?prevPage=menu">																	
 																	Signs of Aging
 							 									</a>
 															</li>
 														
 													
 														
+																											
+														
 															<li>
 																
-																<a href="http://www.fresh.com/US/skincare/discover/collection-sugarlip/#?prevPage=menu">																	
+																<a aria-label="Side Navigation Level 3 Link ada.category 2 Explore Our Lip Care Collection" href="http://www.fresh.com/US/skincare/discover/collection-sugarlip/#?prevPage=menu">																	
 																	Explore Our Lip Care Collection
 							 									</a>
 															</li>
@@ -1438,6 +1581,9 @@ function initGTM(){
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
@@ -1448,7 +1594,6 @@ function initGTM(){
 												View All Lip Care
 											</a>
 											
-										
 											
 										</li>
 										
@@ -1462,7 +1607,8 @@ function initGTM(){
 							
 							
 							
-							<a class="level-1-categoryname " href="http://www.fresh.com/US/bodycare/#?prevPage=menu">
+							
+							<a aria-label="Side Navigation Level 1 Link Bodycare" class="level-1-categoryname " href="http://www.fresh.com/US/bodycare/#?prevPage=menu">
 								Bodycare
 							</a>
 						</li>
@@ -1472,73 +1618,81 @@ function initGTM(){
 								
 							<div class="level-2 category-3">
 								
-					
-												
-								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/bodycare/cleanse/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 3 Cleanse" href="http://www.fresh.com/US/bodycare/cleanse/#?prevPage=menu">
 													
 												Cleanse
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/bodycare/exfoliate/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 3 Exfoliate" href="http://www.fresh.com/US/bodycare/exfoliate/#?prevPage=menu">
 													
 												Exfoliate
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/bodycare/moisturize/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 3 Moisturize" href="http://www.fresh.com/US/bodycare/moisturize/#?prevPage=menu">
 													
 												Moisturize
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/bodycare/specialty/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 3 Specialty" href="http://www.fresh.com/US/bodycare/specialty/#?prevPage=menu">
 													
 												Specialty
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
@@ -1549,7 +1703,6 @@ function initGTM(){
 												View All Bodycare
 											</a>
 											
-										
 											
 										</li>
 										
@@ -1563,7 +1716,8 @@ function initGTM(){
 							
 							
 							
-							<a class="level-1-categoryname " href="http://www.fresh.com/US/fragrance/#?prevPage=menu">
+							
+							<a aria-label="Side Navigation Level 1 Link Fragrance" class="level-1-categoryname " href="http://www.fresh.com/US/fragrance/#?prevPage=menu">
 								Fragrance
 							</a>
 						</li>
@@ -1573,9 +1727,9 @@ function initGTM(){
 								
 							<div class="level-2 category-4">
 								
-					
-												
-								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
@@ -1586,44 +1740,32 @@ function initGTM(){
 												Fragrance
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
 											
 											
-												<a href="http://www.fresh.com/US/fragrance/gifts/#?prevPage=menu">
-													
-												Gifts
-											</a>
-											
-										
-											
-										</li>
-										
-									</ul>			
-								
-									<ul class="subcategory-group clearfix">
-										
-											<li class="first">
-											
-											
-												<a href="http://www.fresh.com/US/fragrance/scents/#?prevPage=menu">
+												<a aria-label="Side Navigation Level 2 Link ada.category 4 Scents" href="http://www.fresh.com/US/fragrance/scents/#?prevPage=menu">
 													
 												Scents
 											</a>
 											
-										
 											
 										</li>
 										
 									</ul>			
 								
+									
+									
+									
 									<ul class="subcategory-group clearfix">
 										
 											<li class="first">
@@ -1634,7 +1776,6 @@ function initGTM(){
 												View All Fragrance
 											</a>
 											
-										
 											
 										</li>
 										
@@ -1648,7 +1789,8 @@ function initGTM(){
 							
 							
 							
-							<a class="level-1-categoryname " href="http://www.fresh.com/US/gift-finder/#?prevPage=menu">
+							
+							<a aria-label="Side Navigation Level 1 Link Gift Bar" class="level-1-categoryname " href="http://www.fresh.com/US/gift-finder/#?prevPage=menu">
 								Gift Bar
 							</a>
 						</li>
@@ -1671,33 +1813,15 @@ function initGTM(){
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/the-wedding-shop/#?prevPage=menu">
+					<a href="http://www.fresh.com/US/gifting/gifts/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw0fc0a804/nav/giftbardropnav/Bridal_NavPromo_3.gif" media="(min-width: 768px)">
-								<img title="Wedding Shop">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw4d748715/nav/giftbardropnav/H18_NavPromo_PerfectGiftFinder.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Wedding Shop</span>
-						</div>
-					</a>
-				</div>
-			
-		
-			
-				
-				<div class="nav-cta">
-					
-					<a href="http://www.fresh.com/US/the-perfect-gift#?prevPage=menu">
-						
-							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw225015fc/nav/giftbardropnav/GiftFinder_01_18.jpg" media="(min-width: 768px)">
-								<img title="Gift Finder">
-							</picture>
-						
-						<div class="cta-text">
-							<span>Gift Finder</span>
+							<span>Personalized Gifting</span>
 						</div>
 					</a>
 				</div>
@@ -1710,8 +1834,8 @@ function initGTM(){
 					<a href="http://www.fresh.com/US/gift-sets/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw8b055656/nav/giftbardropnav/GiftSets-nav-0118.gif" media="(min-width: 768px)">
-								<img title="Gift Sets">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw3fd4b3a0/nav/giftbardropnav/H18_NavPromo_Giftsets_Mask_1.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
@@ -1725,15 +1849,15 @@ function initGTM(){
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/bodycare/specialty/travel/#?prevPage=menu">
+					<a href="http://www.fresh.com/US/gifting/gifts-under-25/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw9cf50640/nav/giftbardropnav/New_Travel_2018_NavPromo.jpg" media="(min-width: 768px)">
-								<img title="Pack ‘Em &amp; Go">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwb9157cc9/nav/giftbardropnav/H18_NavPromo_Travel.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Pack ‘Em &amp; Go</span>
+							<span>Gifts $25 &amp; Under</span>
 						</div>
 					</a>
 				</div>
@@ -1751,8 +1875,9 @@ function initGTM(){
 							
 							
 							
-							<a class="level-1-categoryname " href="http://www.fresh.com/US/about/#?prevPage=menu">
-								About Us
+							
+							<a aria-label="Side Navigation Level 1 Link Blog" class="level-1-categoryname " href="http://www.fresh.com/US/about/#?prevPage=menu">
+								Blog
 							</a>
 						</li>
 						
@@ -1774,15 +1899,15 @@ function initGTM(){
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/about#?prevPage=menu">
+					<a href="http://www.fresh.com/US/search?cgid=Tipsntricks#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw6cb581ae/nav/about%20fresh/about_us_about_fresh_081516-min.jpg" media="(min-width: 768px)">
-								<img title="About Fresh">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw48bf80d7/nav/freshmoments/tips_and_tricks1%20(003).jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>About Fresh</span>
+							<span>Tips &amp; Tricks</span>
 						</div>
 					</a>
 				</div>
@@ -1795,12 +1920,12 @@ function initGTM(){
 					<a href="http://www.fresh.com/US/freshdish#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwed590e98/nav/freshmoments/FreshDish-nav-promo.gif" media="(min-width: 768px)">
-								<img title="Fresh Dish">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw82ead93e/FreshMoments/thelatest-1.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Fresh Dish</span>
+							<span>The Latest</span>
 						</div>
 					</a>
 				</div>
@@ -1810,15 +1935,15 @@ function initGTM(){
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/our_picks/#?prevPage=menu">
+					<a href="http://www.fresh.com/US/search?cgid=freshevents#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw547ec1d5/nav/about%20fresh/about_us_staff_favorites_081516-min.jpg" media="(min-width: 768px)">
-								<img title="Our Picks">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwefdb6021/nav/freshmoments/event2%20002.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Our Picks</span>
+							<span>Events</span>
 						</div>
 					</a>
 				</div>
@@ -1843,50 +1968,51 @@ function initGTM(){
 
 
 	<div class="dropup country-select">
-		<section class="flag flag-null"></section>
-		<a class="initial" href="javascript:void(0);">United States</a>
+		<section aria-label="countryselection" class="flag flag-null" role="contentinfo"></section>
+		
+		<a aria-label="Country Select Drop Up United States" class="initial" href="javascript:void(0);">United States</a>
 		<div class="dropup-menu">
 			<ul>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/CountrySelect-SetPreferredCountrySite?countryCode=US&amp;location=Home-Show"><i class="flag flag-us"></i> United States</a></li>
+				<li><a aria-label="Country Select Drop Up United States0" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/CountrySelect-SetPreferredCountrySite?countryCode=US&amp;location=Home-Show"><span class="flag flag-us"></span> United States</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://cn.fresh.com/on/demandware.store/Sites-fresh-cn-Site/zh_CN/CountrySelect-SetPreferredCountrySite?countryCode=CN&amp;location=Home-Show"><i class="flag flag-cn"></i> China</a></li>
+				<li><a aria-label="Country Select Drop Up United States1" class="site" href="http://cn.fresh.com/on/demandware.store/Sites-fresh-cn-Site/zh_CN/CountrySelect-SetPreferredCountrySite?countryCode=CN&amp;location=Home-Show"><span class="flag flag-cn"></span> China</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-Fresh-KR-Site/ko_KR/CountrySelect-SetPreferredCountrySite?countryCode=KR&amp;location=Home-Show"><i class="flag flag-kr"></i> Korea</a></li>
+				<li><a aria-label="Country Select Drop Up United States2" class="site" href="http://www.fresh.com/on/demandware.store/Sites-Fresh-KR-Site/ko_KR/CountrySelect-SetPreferredCountrySite?countryCode=KR&amp;location=Home-Show"><span class="flag flag-kr"></span> Korea</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-hk-Site/zh_HK/CountrySelect-SetPreferredCountrySite?countryCode=HK&amp;location=Home-Show"><i class="flag flag-hk"></i> Hong Kong</a></li>
+				<li><a aria-label="Country Select Drop Up United States3" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-hk-Site/zh_HK/CountrySelect-SetPreferredCountrySite?countryCode=HK&amp;location=Home-Show"><span class="flag flag-hk"></span> Hong Kong</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-sg-Site/en_SG/CountrySelect-SetPreferredCountrySite?countryCode=SG&amp;location=Home-Show"><i class="flag flag-sg"></i> Singapore</a></li>
+				<li><a aria-label="Country Select Drop Up United States4" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-sg-Site/en_SG/CountrySelect-SetPreferredCountrySite?countryCode=SG&amp;location=Home-Show"><span class="flag flag-sg"></span> Singapore</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-uk-Site/en_GB/CountrySelect-SetPreferredCountrySite?countryCode=UK&amp;location=Home-Show"><i class="flag flag-uk"></i> United Kingdom</a></li>
+				<li><a aria-label="Country Select Drop Up United States5" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-uk-Site/en_GB/CountrySelect-SetPreferredCountrySite?countryCode=UK&amp;location=Home-Show"><span class="flag flag-uk"></span> United Kingdom</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-fr-Site/fr_FR/CountrySelect-SetPreferredCountrySite?countryCode=FR&amp;location=Home-Show"><i class="flag flag-fr"></i> France</a></li>
+				<li><a aria-label="Country Select Drop Up United States6" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-fr-Site/fr_FR/CountrySelect-SetPreferredCountrySite?countryCode=FR&amp;location=Home-Show"><span class="flag flag-fr"></span> France</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-TH-Site/th_TH/CountrySelect-SetPreferredCountrySite?countryCode=TH&amp;location=Home-Show"><i class="flag flag-th"></i> Thailand</a></li>
+				<li><a aria-label="Country Select Drop Up United States7" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-TH-Site/th_TH/CountrySelect-SetPreferredCountrySite?countryCode=TH&amp;location=Home-Show"><span class="flag flag-th"></span> Thailand</a></li>
 			
 			</ul>
 		</div>
@@ -1916,25 +2042,25 @@ function initGTM(){
 </p><div class="html-slot-container">
 	
 		
-			<p><a href="http://www.fresh.com/US/customer-service-links/Promotions.html">Free 6-piece gift set and standard shipping with $125 purchase. Use code: FIREWORKS </a></p>	
+			<p><a href="http://www.fresh.com/US/customer-service-links/Promotions.html">Choice of one rollerball or soap and get free Second-Day Shipping with any $75 purchase.*</a></p>	
 		
 	
 </div> 
 	
 <p></p>
 </div>
-<div id="header" role="banner">
-<header>
+<div id="header" role="banner" aria-label="ada.label.header">
+<header role="banner" aria-label="headerelement">
+
 <div class="menu-trigger">
 <a class="nav-trigger" href="#" title="side-navigation"></a>
 <span class="nav-trigger-shop">SHOP</span>
 </div>
+
 <div class="left-header">
 <div id="store-finder-wrapper">
-<a href="/US/stores#?prevPage=header" title="Find A Shop">
-<img src="/on/demandware.static/Sites-fresh-Site/-/default/dwf1e7f6c2/images/navigation/svg/Store Locator Icon/32x32_SotreLocatorIcon-01.svg" alt="Fresh, Inc.">
-</a>
-<a class="uppercase find-store" href="/US/stores#?prevPage=header" title="Find A Shop">
+<a class="find-store-icon" href="/US/stores#?prevPage=header" title="Find A Shop"></a>
+<a aria-label="Header Find a Shop Link" class="uppercase find-store" href="/US/stores#?prevPage=header" title="Find A Shop">
 Find A Shop
 </a>
 </div>
@@ -1952,7 +2078,7 @@ Find A Shop
 <div class="logo-wrapper">
 <h1 class="primary-logo">
 <a href="/US/home#?prevPage=header" title="Fresh, Inc. Home">
-<img class="hide-on-mobile" src="/on/demandware.static/Sites-fresh-Site/-/default/dw158295a1/images/navigation/svg/fresh_logo_178x94.svg" alt="Fresh, Inc.">
+<img class="hide-on-mobile" src="/on/demandware.static/Sites-fresh-Site/-/default/dw158295a1/images/navigation/svg/fresh_logo_178x94.svg" alt="">
 <span class="visually-hidden">Fresh, Inc.</span>
 </a>
 </h1>
@@ -1965,17 +2091,22 @@ Find A Shop
 <div class="right-header">
 
 
-<div class="header-search">
-<form role="search" action="/US/search" method="get" name="simpleSearch">
+
+
+<div class="header-search mobile-custom-search">
+<form role="search" action="/US/search" method="get" name="simpleSearch" aria-label="simplesearchform">
 	<fieldset>
+
 		<legend class="visually-hidden">Search Catalog</legend>
-		<input type="text" id="q" name="q" value="" placeholder="Search" aria-label="Search Catalog">	
+		<input type="text" class="q" name="q" value="" placeholder="Search" aria-label="Search Catalog">	
+
 		<button class="siteSearch" type="submit">Search</button>
 	</fieldset>
 	<div class="clearSearchFormMobile"></div>
 </form>
 <span class="search-text">SEARCH</span>
 </div>
+
 
 <div id="mini-cart-trigger">
 
@@ -2143,16 +2274,14 @@ Find A Shop
 
 
 
-	
-	
-
-	
 
 
 
 
 	
+	
 
+	
 
 
 
@@ -2163,11 +2292,7 @@ Find A Shop
 
 
 
-
-
-
 	
-
 
 
 
@@ -2186,6 +2311,23 @@ Find A Shop
 
 
 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 
@@ -2384,16 +2526,14 @@ Find A Shop
 
 
 
-	
-	
-
-	
 
 
 
 
 	
+	
 
+	
 
 
 
@@ -2404,11 +2544,7 @@ Find A Shop
 
 
 
-
-
-
 	
-
 
 
 
@@ -2427,6 +2563,23 @@ Find A Shop
 
 
 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 
@@ -2467,7 +2620,7 @@ Find A Shop
 <div class="html-slot-container">
 	
 		
-			Please <a href="http://www.fresh.com/US/our_picks/" class="emptyBagLink">click here</a> to see our Fresh Favorites.	
+			Please <a href="http://www.fresh.com/US/our_picks/" class="emptyBagLink" aria-label="Please click here to see our Fresh Favorites">click here</a> to see our Fresh Favorites.	
 		
 	
 </div> 
@@ -2483,7 +2636,8 @@ Find A Shop
 <div class="html-slot-container">
 	
 		
-			<div style="margin: 10px; padding: 15px 10px; text-align: center; background-color: rgb(200, 16, 46);"><span style="color: rgb(255, 255, 255); font-family: &quot;Helvetica Neue&quot;; font-size: 12px;">Free 6-piece gift set and standard shipping with $125 purchase. Use code: FIREWORKS<span></span></span></div>	
+			<div style="margin: 10px; padding: 15px 10px; text-align: center; background-color: rgb(200, 16, 46);"><span style="color: rgb(255, 255, 255); font-family: &quot;Helvetica Neue&quot;; font-size: 12px;">Choice of one rollerball or soap and free Second-Day Shipping with any $75 purchase.*
+<span></span></span></div>	
 		
 	
 </div> 
@@ -2504,9 +2658,9 @@ Find A Shop
 </div>
 
 </header>
-<div id="navigation" role="navigation">
+<div id="navigation" role="navigation" aria-label="navigationmainwrapper">
 <div id="nav-wrapper">
-<nav class="okayNav">
+<nav class="okayNav" aria-label="navigationmaincontainer">
 <a class="logoWrap" href="/US/home#?prevPage=header" title="Fresh, Inc.">
 <img class="collapsed-logo" src="/on/demandware.static/Sites-fresh-Site/-/default/dw9950f75d/images/nav/collapsed-logo.png" alt="Fresh, Inc.">
 </a>
@@ -2677,16 +2831,14 @@ Find A Shop
 
 
 
-	
-	
-
-	
 
 
 
 
 	
+	
 
+	
 
 
 
@@ -2697,11 +2849,7 @@ Find A Shop
 
 
 
-
-
-
 	
-
 
 
 
@@ -2720,12 +2868,29 @@ Find A Shop
 
 
 
+	
 
 
 
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/css/nav_style.css">
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/css/nav_style.css">
 
 
 
@@ -2738,9 +2903,11 @@ Find A Shop
 
 
 
-<a class="topLevel" href="http://www.fresh.com/US/new/">
+
+
+<a aria-label="Header Menu Level 1 Link New &amp; Now" class="topLevel" href="http://www.fresh.com/US/new/">
 <span class="level-1-categoryname ">
-NEW!
+New &amp; Now
 </span>
 </a>
 <div class="level-2 category-0 cta-wrapper">
@@ -2761,8 +2928,8 @@ NEW!
 					<a href="http://www.fresh.com/US/new/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwe3ecd0d1/nav/Handcreams_NavPromo_01.jpg" media="(min-width: 768px)">
-								<img title="New">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw1deefb0c/responsive-homepages/New%20Navs/H18_NavPromo_New_New.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
@@ -2779,12 +2946,12 @@ NEW!
 					<a href="http://www.fresh.com/US/award-winners/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw4f7d8c01/responsive-homepages/New%20Navs/PDP-Lotus-Rescue_mask_100ml_490_w_Badge.jpg" media="(min-width: 768px)">
-								<img title="Award-Winners">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwf896fe20/responsive-homepages/New%20Navs/H18_NavPromo_New_AwardWinner.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Award-Winners</span>
+							<span>Award Winners</span>
 						</div>
 					</a>
 				</div>
@@ -2797,12 +2964,12 @@ NEW!
 					<a href="http://www.fresh.com/US/best-sellers/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw24ab632f/responsive-homepages/New%20Navs/SFC_Limited_NavPromo.jpg" media="(min-width: 768px)">
-								<img title="Best-Sellers">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwf9aa10e1/responsive-homepages/New%20Navs/H18_NavPromo_New_BestSellers.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Best-Sellers</span>
+							<span>Best Sellers</span>
 						</div>
 					</a>
 				</div>
@@ -2821,7 +2988,9 @@ NEW!
 
 
 
-<a class="topLevel level-1-categoryname " href="http://www.fresh.com/US/skincare/">
+
+
+<a aria-label="Header Menu Level 1 Link Skincare" class="topLevel level-1-categoryname " href="http://www.fresh.com/US/skincare/">
 Skincare
 </a>
 <div class="category-1">
@@ -2835,6 +3004,8 @@ Skincare
 
 
 
+
+	
 
 
 <div class="level-2 ltr  ">
@@ -2851,14 +3022,14 @@ Skincare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/skincare/cleanse/#?prevPage=menu">
+					<a aria-label="Parent Category Skincare Sub Category Cleanse" class="topLevel " href="http://www.fresh.com/US/skincare/cleanse/#?prevPage=menu">
 						<p>Cleanse</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -2866,7 +3037,8 @@ Skincare
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/skincare/cleanse/all-cleansers/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category All Cleansers " class="all-category" href="http://www.fresh.com/US/skincare/cleanse/all-cleansers/#?prevPage=menu">
 										
 											All Cleansers
 										</a>
@@ -2881,7 +3053,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/cleanse/cleansers/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category Cleansers " href="http://www.fresh.com/US/skincare/cleanse/cleansers/#?prevPage=menu">
 										
 											Cleansers
 										</a>
@@ -2896,7 +3069,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/cleanse/exfoliants/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category Exfoliants " href="http://www.fresh.com/US/skincare/cleanse/exfoliants/#?prevPage=menu">
 										
 											Exfoliants
 										</a>
@@ -2911,7 +3085,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/cleanse/toners/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category Toners " href="http://www.fresh.com/US/skincare/cleanse/toners/#?prevPage=menu">
 										
 											Toners
 										</a>
@@ -2931,14 +3106,14 @@ Skincare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/skincare/mask/#?prevPage=menu">
+					<a aria-label="Parent Category Skincare Sub Category Mask" class="topLevel " href="http://www.fresh.com/US/skincare/mask/#?prevPage=menu">
 						<p>Mask</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -2946,7 +3121,8 @@ Skincare
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/skincare/mask/all-masks/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Mask Sub Category All Masks " class="all-category" href="http://www.fresh.com/US/skincare/mask/all-masks/#?prevPage=menu">
 										
 											All Masks
 										</a>
@@ -2961,7 +3137,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/mask/day-masks/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Mask Sub Category Day Masks " href="http://www.fresh.com/US/skincare/mask/day-masks/#?prevPage=menu">
 										
 											Day Masks
 										</a>
@@ -2976,7 +3153,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/mask/overnight-masks/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Mask Sub Category Overnight Masks " href="http://www.fresh.com/US/skincare/mask/overnight-masks/#?prevPage=menu">
 										
 											Overnight Masks
 										</a>
@@ -2991,7 +3169,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/mask/mini-masks/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Mask Sub Category Mini Masks " href="http://www.fresh.com/US/skincare/mask/mini-masks/#?prevPage=menu">
 										
 											Mini Masks
 										</a>
@@ -3006,7 +3185,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/mask-finder/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Mask Sub Category Mask Finder " href="http://www.fresh.com/US/finders/#?prevPage=menu">
 										
 											Mask Finder
 										</a>
@@ -3021,7 +3201,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/mask-collection/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Mask Sub Category Mask Menu " href="http://www.fresh.com/US/mask-collection/#?prevPage=menu">
 										
 											Mask Menu
 										</a>
@@ -3041,14 +3222,14 @@ Skincare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/skincare/moisturize/#?prevPage=menu">
+					<a aria-label="Parent Category Skincare Sub Category Moisturize" class="topLevel " href="http://www.fresh.com/US/skincare/moisturize/#?prevPage=menu">
 						<p>Moisturize</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -3056,7 +3237,8 @@ Skincare
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/skincare/moisturize/all-moistuirzers/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category All Moisturizers " class="all-category" href="http://www.fresh.com/US/skincare/moisturize/all-moistuirzers/#?prevPage=menu">
 										
 											All Moisturizers
 										</a>
@@ -3071,7 +3253,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/moisturize/moisturizers/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Moisturizers " href="http://www.fresh.com/US/skincare/moisturize/moisturizers/#?prevPage=menu">
 										
 											Moisturizers
 										</a>
@@ -3086,7 +3269,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/moisturize/essences-and-mists/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Essences &amp; Mists " href="http://www.fresh.com/US/skincare/moisturize/essences-and-mists/#?prevPage=menu">
 										
 											Essences &amp; Mists
 										</a>
@@ -3101,7 +3285,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/moisturize/serums/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Serums " href="http://www.fresh.com/US/skincare/moisturize/serums/#?prevPage=menu">
 										
 											Serums
 										</a>
@@ -3116,22 +3301,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/moisturize/toners/#?prevPage=menu">
 										
-											Toners
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/skincare/moisturize/eye-treatments/#?prevPage=menu">
+											<a aria-label="Parent Category Moisturize Sub Category Eye Treatments " href="http://www.fresh.com/US/skincare/moisturize/eye-treatments/#?prevPage=menu">
 										
 											Eye Treatments
 										</a>
@@ -3146,7 +3317,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/moisturize/face-oils/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Face Oils " href="http://www.fresh.com/US/skincare/moisturize/face-oils/#?prevPage=menu">
 										
 											Face Oils
 										</a>
@@ -3161,7 +3333,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/moisturize/spf-protection/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Sun Protection " href="http://www.fresh.com/US/skincare/moisturize/spf-protection/#?prevPage=menu">
 										
 											Sun Protection
 										</a>
@@ -3176,9 +3349,26 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/moisturize/luminizers/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Luminizers " href="http://www.fresh.com/US/skincare/moisturize/luminizers/#?prevPage=menu">
 										
 											Luminizers
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Moisturize Sub Category Moisturizer Menu " href="http://www.fresh.com/US/moisturizer-menu/#?prevPage=menu">
+										
+											Moisturizer Menu
 										</a>
 									</li>
 								
@@ -3196,52 +3386,23 @@ Skincare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/skincare/shop-concern/#?prevPage=menu">
+					<a aria-label="Parent Category Skincare Sub Category Shop Concern" class="topLevel " href="http://www.fresh.com/US/skincare/shop-concern/#?prevPage=menu">
 						<p>Shop Concern</p>
 					</a>
 				</li>
 				
 					
-					
 						
 							
 								
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/loss-of-firmness/#?prevPage=menu">
 										
-											Loss of Firmness
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/pollution/#?prevPage=menu">
-										
-											Pollution
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/dull-skin/#?prevPage=menu">
+											<a aria-label="Parent Category Shop Concern Sub Category Dull Skin " href="http://www.fresh.com/US/skincare/shop-concern/dull-skin/#?prevPage=menu">
 										
 											Dull Skin
 										</a>
@@ -3256,37 +3417,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/uneven-skin-tone/#?prevPage=menu">
 										
-											Uneven Skin Tone
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/oil-control/#?prevPage=menu">
-										
-											Oil Control
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/dry-skin/#?prevPage=menu">
+											<a aria-label="Parent Category Shop Concern Sub Category Dry Skin " href="http://www.fresh.com/US/skincare/shop-concern/dry-skin/#?prevPage=menu">
 										
 											Dry Skin
 										</a>
@@ -3301,22 +3433,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/sun-protection/#?prevPage=menu">
 										
-											Sun Protection
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/fine-lines-wrinkles/#?prevPage=menu">
+											<a aria-label="Parent Category Shop Concern Sub Category Fine Lines &amp; Wrinkles " href="http://www.fresh.com/US/skincare/shop-concern/fine-lines-wrinkles/#?prevPage=menu">
 										
 											Fine Lines &amp; Wrinkles
 										</a>
@@ -3331,7 +3449,88 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/shop-concern/youth-preserve/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Loss of Firmness " href="http://www.fresh.com/US/skincare/shop-concern/loss-of-firmness/#?prevPage=menu">
+										
+											Loss of Firmness
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Oil Control " href="http://www.fresh.com/US/skincare/shop-concern/oil-control/#?prevPage=menu">
+										
+											Oil Control
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Pollution " href="http://www.fresh.com/US/skincare/shop-concern/pollution/#?prevPage=menu">
+										
+											Pollution
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Sun Protection " href="http://www.fresh.com/US/skincare/shop-concern/sun-protection/#?prevPage=menu">
+										
+											Sun Protection
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Uneven Skin Tone " href="http://www.fresh.com/US/skincare/shop-concern/uneven-skin-tone/#?prevPage=menu">
+										
+											Uneven Skin Tone
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Youth Preserve " href="http://www.fresh.com/US/skincare/shop-concern/youth-preserve/#?prevPage=menu">
 										
 											Youth Preserve
 										</a>
@@ -3351,37 +3550,23 @@ Skincare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/skincare/discover/#?prevPage=menu">
+					<a aria-label="Parent Category Skincare Sub Category Discover" class="topLevel " href="http://www.fresh.com/US/skincare/discover/#?prevPage=menu">
 						<p>Discover</p>
 					</a>
 				</li>
 				
 					
-					
 						
 							
 								
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/soyfacecleanser.html#?prevPage=menu">
 										
-											Soy Limited-Edition
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/collection/black-tea-age-delay-skincare/#?prevPage=menu">
+											<a aria-label="Parent Category Discover Sub Category Black Tea " href="http://www.fresh.com/US/collection/black-tea-age-delay-skincare/#?prevPage=menu">
 										
 											Black Tea
 										</a>
@@ -3396,7 +3581,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/collection/creme-ancienne/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Discover Sub Category Crème Ancienne " href="http://www.fresh.com/US/collection/creme-ancienne/#?prevPage=menu">
 										
 											Crème Ancienne
 										</a>
@@ -3411,9 +3597,10 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/mask-collection/#?prevPage=menu">
 										
-											Mask Menu
+											<a aria-label="Parent Category Discover Sub Category Hyaluronic Acid " href="http://www.fresh.com/US/hyaluronic-acid/#?prevPage=menu">
+										
+											Hyaluronic Acid
 										</a>
 									</li>
 								
@@ -3426,9 +3613,10 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/moisturizer-menu/#?prevPage=menu">
 										
-											Moisturizer Menu
+											<a aria-label="Parent Category Discover Sub Category Lotus " href="http://www.fresh.com/US/Lotus_Rescue.html#?prevPage=menu">
+										
+											Lotus
 										</a>
 									</li>
 								
@@ -3441,7 +3629,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/collection/rose-hydrating-skincare/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Discover Sub Category Rose " href="http://www.fresh.com/US/collection/rose-hydrating-skincare/#?prevPage=menu">
 										
 											Rose
 										</a>
@@ -3456,7 +3645,24 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/discover/collection-seaberry/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Discover Sub Category Soy Limited-Edition " href="http://www.fresh.com/US/soyfacecleanser.html#?prevPage=menu">
+										
+											Soy Limited-Edition
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Discover Sub Category Seaberry " href="http://www.fresh.com/US/skincare/discover/collection-seaberry/#?prevPage=menu">
 										
 											Seaberry
 										</a>
@@ -3471,7 +3677,8 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/discover/collection-sugarlip/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Discover Sub Category Sugar Lip Care " href="http://www.fresh.com/US/skincare/discover/collection-sugarlip/#?prevPage=menu">
 										
 											Sugar Lip Care
 										</a>
@@ -3486,9 +3693,10 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/skincare/discover/collection-umbrianclay/#?prevPage=menu">
 										
-											Umbrian Clay
+											<a aria-label="Parent Category Discover Sub Category Vitamin Nectar " href="http://www.fresh.com/US/power-your-glow-vitamin-c.html#?prevPage=menu">
+										
+											Vitamin Nectar
 										</a>
 									</li>
 								
@@ -3501,28 +3709,16 @@ Skincare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/zodiac.html#?prevPage=menu">
 										
-											Zodiac 2018
+											<a aria-label="Parent Category Discover Sub Category Zodiac 2019 " href="http://www.fresh.com/US/Zodiac-2019.html#?prevPage=menu">
+										
+											Zodiac 2019
 										</a>
 									</li>
 								
 							
 						
 					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/Lotus_Rescue.html#?prevPage=menu">
-										
-											Lotus
-										</a>
-									</li>
-								
-							
 						
 					
 				
@@ -3538,9 +3734,10 @@ Skincare
 			
 				
 			
+			
 			<ul class="level-2-group view-all clearfix">
 				<li class="first">
-					<a class="topLevel viewAllLink" href="http://www.fresh.com/US/skincare/view-all-skincare/#?prevPage=menu">
+					<a aria-label="Parent Category Skincare Sub Category View All Skincare" class="topLevel viewAllLink" href="http://www.fresh.com/US/skincare/view-all-skincare/#?prevPage=menu">
 						<p>View All Skincare</p>
 					</a>
 				</li>
@@ -3548,6 +3745,7 @@ Skincare
 			</ul>
 			
 			
+		
 		
 		
 		
@@ -3572,7 +3770,9 @@ Skincare
 
 
 
-<a class="topLevel level-1-categoryname " href="http://www.fresh.com/US/lipcare/">
+
+
+<a aria-label="Header Menu Level 1 Link Lip Care" class="topLevel level-1-categoryname " href="http://www.fresh.com/US/lipcare/">
 Lip Care
 </a>
 <div class="category-2">
@@ -3587,6 +3787,7 @@ Lip Care
 
 
 
+	
 	
 
 
@@ -3604,14 +3805,14 @@ Lip Care
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/lipcare/prep/#?prevPage=menu">
+					<a aria-label="Parent Category Lip Care Sub Category Prep" class="topLevel " href="http://www.fresh.com/US/lipcare/prep/#?prevPage=menu">
 						<p>Prep</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -3619,7 +3820,8 @@ Lip Care
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/lipcare/prep/all-prep/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Prep Sub Category All Prep Show Call to Action" class="all-category" href="http://www.fresh.com/US/lipcare/prep/all-prep/#?prevPage=menu">
 										
 											All Prep
 										</a>
@@ -3634,7 +3836,8 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/prep/lip-exfoliants/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Prep Sub Category Lip Exfoliants Show Call to Action" href="http://www.fresh.com/US/lipcare/prep/lip-exfoliants/#?prevPage=menu">
 										
 											Lip Exfoliants
 										</a>
@@ -3654,14 +3857,14 @@ Lip Care
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/lipcare/treat-nourish/#?prevPage=menu">
+					<a aria-label="Parent Category Lip Care Sub Category Treat" class="topLevel " href="http://www.fresh.com/US/lipcare/treat-nourish/#?prevPage=menu">
 						<p>Treat</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -3669,7 +3872,8 @@ Lip Care
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/lipcare/treat-nourish/all-treat/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Treat Sub Category All Treat Show Call to Action" class="all-category" href="http://www.fresh.com/US/lipcare/treat-nourish/all-treat/#?prevPage=menu">
 										
 											All Treat
 										</a>
@@ -3684,7 +3888,8 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/treat-nourish/lip-serums/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Treat Sub Category Lip Serums Show Call to Action" href="http://www.fresh.com/US/lipcare/treat-nourish/lip-serums/#?prevPage=menu">
 										
 											Lip Serums
 										</a>
@@ -3699,7 +3904,24 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/treat-nourish/advanced-treatments/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Treat Sub Category Lip Balms Show Call to Action" href="http://www.fresh.com/US/lipcare/treat-nourish/lip-balm/#?prevPage=menu">
+										
+											Lip Balms
+										</a>
+									</li>
+								
+							
+						
+					
+						
+							
+								
+									<li>
+										
+										
+										
+											<a aria-label="Parent Category Treat Sub Category Advanced Therapy Show Call to Action" href="http://www.fresh.com/US/lipcare/treat-nourish/advanced-treatments/#?prevPage=menu">
 										
 											Advanced Therapy
 										</a>
@@ -3714,9 +3936,10 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/treat-nourish/lip-balm/#?prevPage=menu">
 										
-											Lip Balms
+											<a aria-label="Parent Category Treat Sub Category Zodiac Sugar Lip Treatments Show Call to Action" href="http://www.fresh.com/US/lipcare/treat-nourish/slt-zodiac/#?prevPage=menu">
+										
+											Zodiac Sugar Lip Treatments
 										</a>
 									</li>
 								
@@ -3734,14 +3957,14 @@ Lip Care
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/lipcare/tint-shine/#?prevPage=menu">
+					<a aria-label="Parent Category Lip Care Sub Category Tint" class="topLevel " href="http://www.fresh.com/US/lipcare/tint-shine/#?prevPage=menu">
 						<p>Tint</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -3749,7 +3972,8 @@ Lip Care
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/lipcare/tint-shine/all-tint/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Tint Sub Category All Tint Show Call to Action" class="all-category" href="http://www.fresh.com/US/lipcare/tint-shine/all-tint/#?prevPage=menu">
 										
 											All Tint
 										</a>
@@ -3764,7 +3988,8 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/tint-shine/tinted-lip-treatments/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Tint Sub Category Tinted Lip Treatments Show Call to Action" href="http://www.fresh.com/US/lipcare/tint-shine/tinted-lip-treatments/#?prevPage=menu">
 										
 											Tinted Lip Treatments
 										</a>
@@ -3779,7 +4004,8 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/tint-shine/cream-lip-treatments/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Tint Sub Category Cream Lip Treatments Show Call to Action" href="http://www.fresh.com/US/lipcare/tint-shine/cream-lip-treatments/#?prevPage=menu">
 										
 											Cream Lip Treatments
 										</a>
@@ -3802,14 +4028,14 @@ Lip Care
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/lipcare/shop-concern/#?prevPage=menu">
+					<a aria-label="Parent Category Lip Care Sub Category Shop Concern" class="topLevel " href="http://www.fresh.com/US/lipcare/shop-concern/#?prevPage=menu">
 						<p>Shop Concern</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -3817,7 +4043,8 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/shop-concern/dry-lips/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Dry Lips Show Call to Action" href="http://www.fresh.com/US/lipcare/shop-concern/dry-lips/#?prevPage=menu">
 										
 											Dry Lips
 										</a>
@@ -3832,7 +4059,8 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/shop-concern/sun-protection/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Sun Protection Show Call to Action" href="http://www.fresh.com/US/lipcare/shop-concern/sun-protection/#?prevPage=menu">
 										
 											Sun Protection
 										</a>
@@ -3847,7 +4075,8 @@ Lip Care
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/lipcare/shop-concern/signs-aging/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Shop Concern Sub Category Signs of Aging Show Call to Action" href="http://www.fresh.com/US/lipcare/shop-concern/signs-aging/#?prevPage=menu">
 										
 											Signs of Aging
 										</a>
@@ -3875,9 +4104,10 @@ Lip Care
 			
 				
 			
+			
 			<ul class="level-2-group view-all clearfix">
 				<li class="first">
-					<a class="topLevel viewAllLink" href="http://www.fresh.com/US/lipcare/view-all-lipcare/#?prevPage=menu">
+					<a aria-label="Parent Category Lip Care Sub Category View All Lip Care" class="topLevel viewAllLink" href="http://www.fresh.com/US/lipcare/view-all-lipcare/#?prevPage=menu">
 						<p>View All Lip Care</p>
 					</a>
 				</li>
@@ -3887,9 +4117,11 @@ Lip Care
 			
 		
 		
+		
+			
 			<ul class="level-2-group clearfix">
 				<li class="first">
-					<a class="topLevel hoverUnderline clickable" href="http://www.fresh.com/US/skincare/discover/collection-sugarlip/#?prevPage=menu">
+					<a aria-label="Parent Category Shop Concern Sub Category Explore Our Lip Care Collection" class="topLevel hoverUnderline clickable" href="http://www.fresh.com/US/skincare/discover/collection-sugarlip/#?prevPage=menu">
 						<p>Explore Our Lip Care Collection</p>
 					</a>
 					
@@ -3902,25 +4134,24 @@ Lip Care
 		
 
 			
-
+			
+			
 			<div class="category-cta-wrapper">
-				<a class="imageLink" href="US/lipcare/treat-nourish/lip-balm/#?prevPage=menu?prevPage=menu&amp;src=LipBalms_NavPromo_images-20">
+				<a class="imageLink" href="http://www.fresh.com/US/Zodiac-2019.html#?prevPage=menu&amp;src=ZodiacSLT_NavPromo_SusanMiller">
 					<picture>
-						<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-live/default/dwf70ee4bd/nav/lipcare/New_LipBalms_NavPromo_images-20.jpg" media="(min-width: 768px)">
-						<img title="GIVE YOUR LIPS" alt="">
+						<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-live/default/dw1349ce86/nav/lipcare/H18_NavPromo_LipCare.jpg" media="(min-width: 768px)">
+						<img alt="Lip CareImage">
 					</picture>
 				</a>
 				
-					<h2>GIVE YOUR LIPS</h2>
+					<h2>LET IT SNOW SUGAR</h2>
 				
-				
-					<h2>WHAT THEY WANT</h2>
 				
 				
 								
 				
-				<a href="US/lipcare/treat-nourish/lip-balm/#?prevPage=menu?prevPage=menu&amp;src=LipBalms_NavPromo_images-20">
-					<button>SHOP BALMS</button>
+				<a aria-label="Lip Care Button" href="http://www.fresh.com/US/Zodiac-2019.html#?prevPage=menu&amp;src=ZodiacSLT_NavPromo_SusanMiller">
+					<button>START SHOPPING</button>
 				</a>
 			</div>
 		
@@ -3942,7 +4173,9 @@ Lip Care
 
 
 
-<a class="topLevel level-1-categoryname " href="http://www.fresh.com/US/bodycare/">
+
+
+<a aria-label="Header Menu Level 1 Link Bodycare" class="topLevel level-1-categoryname " href="http://www.fresh.com/US/bodycare/">
 Bodycare
 </a>
 <div class="category-3">
@@ -3957,6 +4190,7 @@ Bodycare
 
 
 
+	
 	
 
 
@@ -3974,14 +4208,14 @@ Bodycare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/bodycare/cleanse/#?prevPage=menu">
+					<a aria-label="Parent Category Bodycare Sub Category Cleanse" class="topLevel " href="http://www.fresh.com/US/bodycare/cleanse/#?prevPage=menu">
 						<p>Cleanse</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -3989,7 +4223,8 @@ Bodycare
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/bodycare/cleanse/all-cleansers/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category All Cleansers Show Call to Action" class="all-category" href="http://www.fresh.com/US/bodycare/cleanse/all-cleansers/#?prevPage=menu">
 										
 											All Cleansers
 										</a>
@@ -4004,7 +4239,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/cleanse/soap/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category Soaps Show Call to Action" href="http://www.fresh.com/US/bodycare/cleanse/soap/#?prevPage=menu">
 										
 											Soaps
 										</a>
@@ -4019,7 +4255,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/cleanse/bath-soaks/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category Bath Soaks Show Call to Action" href="http://www.fresh.com/US/bodycare/cleanse/bath-soaks/#?prevPage=menu">
 										
 											Bath Soaks
 										</a>
@@ -4034,7 +4271,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/cleanse/bath-and-showergel/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category Bath &amp; Shower Gels Show Call to Action" href="http://www.fresh.com/US/bodycare/cleanse/bath-and-showergel/#?prevPage=menu">
 										
 											Bath &amp; Shower Gels
 										</a>
@@ -4049,7 +4287,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/cleanse/zodiac-oval-soap/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Cleanse Sub Category Zodiac Oval Soaps Show Call to Action" href="http://www.fresh.com/US/bodycare/cleanse/zodiac-oval-soap/#?prevPage=menu">
 										
 											Zodiac Oval Soaps
 										</a>
@@ -4069,14 +4308,14 @@ Bodycare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/bodycare/exfoliate/#?prevPage=menu">
+					<a aria-label="Parent Category Bodycare Sub Category Exfoliate" class="topLevel " href="http://www.fresh.com/US/bodycare/exfoliate/#?prevPage=menu">
 						<p>Exfoliate</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -4084,7 +4323,8 @@ Bodycare
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/bodycare/exfoliate/all-exfoliants/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Exfoliate Sub Category All Exfoliants Show Call to Action" class="all-category" href="http://www.fresh.com/US/bodycare/exfoliate/all-exfoliants/#?prevPage=menu">
 										
 											All Exfoliants
 										</a>
@@ -4099,7 +4339,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/exfoliate/exfoliating-scrubs/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Exfoliate Sub Category Exfoliating Scrubs Show Call to Action" href="http://www.fresh.com/US/bodycare/exfoliate/exfoliating-scrubs/#?prevPage=menu">
 										
 											Exfoliating Scrubs
 										</a>
@@ -4114,7 +4355,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/exfoliate/exfoliating-soaps/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Exfoliate Sub Category Exfoliating Soaps Show Call to Action" href="http://www.fresh.com/US/bodycare/exfoliate/exfoliating-soaps/#?prevPage=menu">
 										
 											Exfoliating Soaps
 										</a>
@@ -4134,14 +4376,14 @@ Bodycare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/bodycare/moisturize/#?prevPage=menu">
+					<a aria-label="Parent Category Bodycare Sub Category Moisturize" class="topLevel " href="http://www.fresh.com/US/bodycare/moisturize/#?prevPage=menu">
 						<p>Moisturize</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -4149,7 +4391,8 @@ Bodycare
 									<li>
 										
 										
-											<a class="all-category" href="http://www.fresh.com/US/bodycare/moisturize/all-moisturizers/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category All Moisturizers Show Call to Action" class="all-category" href="http://www.fresh.com/US/bodycare/moisturize/all-moisturizers/#?prevPage=menu">
 										
 											All Moisturizers
 										</a>
@@ -4164,7 +4407,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/moisturize/creams-lotions/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Creams &amp; Lotions Show Call to Action" href="http://www.fresh.com/US/bodycare/moisturize/creams-lotions/#?prevPage=menu">
 										
 											Creams &amp; Lotions
 										</a>
@@ -4179,7 +4423,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/moisturize/hand-creams/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Hand Creams Show Call to Action" href="http://www.fresh.com/US/bodycare/moisturize/hand-creams/#?prevPage=menu">
 										
 											Hand Creams
 										</a>
@@ -4194,7 +4439,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/moisturize/body-oil/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Moisturize Sub Category Body Oils Show Call to Action" href="http://www.fresh.com/US/bodycare/moisturize/body-oil/#?prevPage=menu">
 										
 											Body Oils
 										</a>
@@ -4217,14 +4463,14 @@ Bodycare
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/bodycare/specialty/#?prevPage=menu">
+					<a aria-label="Parent Category Bodycare Sub Category Specialty" class="topLevel " href="http://www.fresh.com/US/bodycare/specialty/#?prevPage=menu">
 						<p>Specialty</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -4232,7 +4478,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/specialty/deodorant/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Specialty Sub Category Deodorant Show Call to Action" href="http://www.fresh.com/US/bodycare/specialty/deodorant/#?prevPage=menu">
 										
 											Deodorant
 										</a>
@@ -4247,7 +4494,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/specialty/haircare/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Specialty Sub Category Haircare Show Call to Action" href="http://www.fresh.com/US/bodycare/specialty/haircare/#?prevPage=menu">
 										
 											Haircare
 										</a>
@@ -4262,7 +4510,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/specialty/shaving/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Specialty Sub Category Shaving Show Call to Action" href="http://www.fresh.com/US/bodycare/specialty/shaving/#?prevPage=menu">
 										
 											Shaving
 										</a>
@@ -4277,7 +4526,8 @@ Bodycare
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/bodycare/specialty/travel/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Specialty Sub Category Travel Show Call to Action" href="http://www.fresh.com/US/bodycare/specialty/travel/#?prevPage=menu">
 										
 											Travel
 										</a>
@@ -4299,9 +4549,10 @@ Bodycare
 			
 				
 			
+			
 			<ul class="level-2-group view-all clearfix">
 				<li class="first">
-					<a class="topLevel viewAllLink" href="http://www.fresh.com/US/bodycare/view-all-bodycare/#?prevPage=menu">
+					<a aria-label="Parent Category Bodycare Sub Category View All Bodycare" class="topLevel viewAllLink" href="http://www.fresh.com/US/bodycare/view-all-bodycare/#?prevPage=menu">
 						<p>View All Bodycare</p>
 					</a>
 				</li>
@@ -4312,30 +4563,32 @@ Bodycare
 		
 		
 		
+		
 			
 			</div>
 		
 
 			
-
+			
+			
 			<div class="category-cta-wrapper">
-				<a class="imageLink" href="http://www.fresh.com/US/bodycare/cleanse/zodiac-oval-soap/#?prevPage=menu&amp;src=menubodycare_1_Zodiac_Jan2018">
+				<a class="imageLink" href="http://www.fresh.com/US/bodycare/view-all-bodycare/#?prevPage=menu&amp;src=Handcreams_NavPromo_01">
 					<picture>
-						<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-live/default/dwe9165b23/nav/bodycare/Zodiac_2017-nav-promo-soaps-2.gif" media="(min-width: 768px)">
-						<img title="ZODIAC OVAL SOAPS" alt="">
+						<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-live/default/dw5a4038d7/nav/BodyCare/H18_NavPromo_BodyCare.jpg" media="(min-width: 768px)">
+						<img alt="BodycareImage">
 					</picture>
 				</a>
 				
-					<h2>ZODIAC OVAL SOAPS</h2>
+					<h2>WRAP UP BODY</h2>
 				
 				
-					<h2>ARE BACK!</h2>
+					<h2>INDULGENCES</h2>
 				
 				
 								
 				
-				<a href="http://www.fresh.com/US/bodycare/cleanse/zodiac-oval-soap/#?prevPage=menu&amp;src=menubodycare_1_Zodiac_Jan2018">
-					<button>SHOP NOW</button>
+				<a aria-label="Bodycare Button" href="http://www.fresh.com/US/bodycare/view-all-bodycare/#?prevPage=menu&amp;src=Handcreams_NavPromo_01">
+					<button>START SHOPPING</button>
 				</a>
 			</div>
 		
@@ -4357,7 +4610,9 @@ Bodycare
 
 
 
-<a class="topLevel level-1-categoryname " href="http://www.fresh.com/US/fragrance/">
+
+
+<a aria-label="Header Menu Level 1 Link Fragrance" class="topLevel level-1-categoryname " href="http://www.fresh.com/US/fragrance/">
 Fragrance
 </a>
 <div class="category-4">
@@ -4372,6 +4627,7 @@ Fragrance
 
 
 
+	
 	
 
 
@@ -4389,14 +4645,14 @@ Fragrance
 			
 			
 			
+			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/fragrance/all-fragrance/#?prevPage=menu">
+					<a aria-label="Parent Category Fragrance Sub Category Fragrance" class="topLevel " href="http://www.fresh.com/US/fragrance/all-fragrance/#?prevPage=menu">
 						<p>Fragrance</p>
 					</a>
 				</li>
 				
-					
 					
 						
 							
@@ -4404,7 +4660,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/all-fragrance/candles/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Fragrance Sub Category Candles Show Call to Action" href="http://www.fresh.com/US/fragrance/all-fragrance/candles/#?prevPage=menu">
 										
 											Candles
 										</a>
@@ -4419,7 +4676,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/all-fragrance/eau-de-parfum-fragrance/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Fragrance Sub Category Eau de Parfums Show Call to Action" href="http://www.fresh.com/US/fragrance/all-fragrance/eau-de-parfum-fragrance/#?prevPage=menu">
 										
 											Eau de Parfums
 										</a>
@@ -4434,7 +4692,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/all-fragrance/soaps/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Fragrance Sub Category Soaps Show Call to Action" href="http://www.fresh.com/US/fragrance/all-fragrance/soaps/#?prevPage=menu">
 										
 											Soaps
 										</a>
@@ -4454,87 +4713,23 @@ Fragrance
 			
 			
 			
-			<ul class="level-2-group  clearfix">
-				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/fragrance/gifts/#?prevPage=menu">
-						<p>Gifts</p>
-					</a>
-				</li>
-				
-					
-					
-						
-							
-								
-									<li>
-										
-										
-											<a class="all-category" href="http://www.fresh.com/US/fragrance/gifts/all-gifts/#?prevPage=menu">
-										
-											All Gifts
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/fragrance/gifts/for-the-home/#?prevPage=menu">
-										
-											For the Home
-										</a>
-									</li>
-								
-							
-						
-					
-						
-							
-								
-									<li>
-										
-										
-											<a href="http://www.fresh.com/US/fragrance/gifts/for-a-host/#?prevPage=menu">
-										
-											For a Host
-										</a>
-									</li>
-								
-							
-						
-					
-				
-			</ul>
-			
-			
-		
-			
-			
-			
-			
-			
 			
 			<ul class="level-2-group  clearfix">
 				<li class="first">
-					<a class="topLevel " href="http://www.fresh.com/US/fragrance/scents/#?prevPage=menu">
+					<a aria-label="Parent Category Fragrance Sub Category Scents" class="topLevel " href="http://www.fresh.com/US/fragrance/scents/#?prevPage=menu">
 						<p>Scents</p>
 					</a>
 				</li>
 				
 					
-					
 						
 							
 								
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/citron-de-vigne/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Citron de Vigne Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/citron-de-vigne/#?prevPage=menu">
 										
 											Citron de Vigne
 										</a>
@@ -4549,7 +4744,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/hesperides-grapefruit/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Hesperides Grapefruit Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/hesperides-grapefruit/#?prevPage=menu">
 										
 											Hesperides Grapefruit
 										</a>
@@ -4564,7 +4760,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/fresh-honeysuckle/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Fresh Honeysuckle Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/fresh-honeysuckle/#?prevPage=menu">
 										
 											Fresh Honeysuckle
 										</a>
@@ -4579,7 +4776,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/freshlife/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Fresh Life Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/freshlife/#?prevPage=menu">
 										
 											Fresh Life
 										</a>
@@ -4594,7 +4792,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/sugar/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Sugar Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/sugar/#?prevPage=menu">
 										
 											Sugar
 										</a>
@@ -4609,7 +4808,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/sugarlemon/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Sugar Lemon Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/sugarlemon/#?prevPage=menu">
 										
 											Sugar Lemon
 										</a>
@@ -4624,7 +4824,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/brownsugar/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Brown Sugar Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/brownsugar/#?prevPage=menu">
 										
 											Brown Sugar
 										</a>
@@ -4639,7 +4840,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/sugarlychee/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Sugar Lychee Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/sugarlychee/#?prevPage=menu">
 										
 											Sugar Lychee
 										</a>
@@ -4654,7 +4856,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/cannabis-santal/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Cannabis Santal Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/cannabis-santal/#?prevPage=menu">
 										
 											Cannabis Santal
 										</a>
@@ -4669,7 +4872,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/cannabis-rose/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Cannabis Rose Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/cannabis-rose/#?prevPage=menu">
 										
 											Cannabis Rose
 										</a>
@@ -4684,7 +4888,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/sake/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Sake Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/sake/#?prevPage=menu">
 										
 											Sake
 										</a>
@@ -4699,7 +4904,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/fig-apricot/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Fig Apricot Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/fig-apricot/#?prevPage=menu">
 										
 											Fig Apricot
 										</a>
@@ -4714,7 +4920,8 @@ Fragrance
 									<li>
 										
 										
-											<a href="http://www.fresh.com/US/fragrance/scents/pink_jasmine/#?prevPage=menu">
+										
+											<a aria-label="Parent Category Scents Sub Category Pink Jasmine Show Call to Action" href="http://www.fresh.com/US/fragrance/scents/pink_jasmine/#?prevPage=menu">
 										
 											Pink Jasmine
 										</a>
@@ -4727,9 +4934,6 @@ Fragrance
 			</ul>
 			
 			
-				</div>
-				<div class="category-wrapper cta-enabled row-2">
-			
 		
 			
 			
@@ -4739,9 +4943,10 @@ Fragrance
 			
 				
 			
+			
 			<ul class="level-2-group view-all clearfix">
 				<li class="first">
-					<a class="topLevel viewAllLink" href="http://www.fresh.com/US/fragrance/view-all-fragrance/#?prevPage=menu">
+					<a aria-label="Parent Category Fragrance Sub Category View All Fragrance" class="topLevel viewAllLink" href="http://www.fresh.com/US/fragrance/view-all-fragrance/#?prevPage=menu">
 						<p>View All Fragrance</p>
 					</a>
 				</li>
@@ -4749,6 +4954,10 @@ Fragrance
 			</ul>
 			
 			
+				</div>
+				<div class="category-wrapper cta-enabled row-2">
+			
+		
 		
 		
 		
@@ -4757,25 +4966,24 @@ Fragrance
 		
 
 			
-
+			
+			
 			<div class="category-cta-wrapper">
-				<a class="imageLink" href="/US/eau-de-parfum/hesperides-grapefruit-eau-de-parfum/hesperidesmasteredp.html/H00001198.html#?prevPage=menu&amp;src=menufragrance_1_Hesperides_Jan2018">
+				<a class="imageLink" href="http://www.fresh.com/US/fragrance/view-all-fragrance/#?prevPage=menu&amp;src=Rose_Morning_EDP_NavPromo">
 					<picture>
-						<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-live/default/dw57d59320/nav/fragrance/fragrance.png" media="(min-width: 768px)">
-						<img title="AN ADDICTIVE" alt="">
+						<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-live/default/dw419da0cc/nav/fragrance/H18_NavPromo_Fragrance.jpg" media="(min-width: 768px)">
+						<img alt="FragranceImage">
 					</picture>
 				</a>
 				
-					<h2>AN ADDICTIVE</h2>
+					<h2>SPRITZ UP THEIR HOLIDAY</h2>
 				
-				
-					<h2>CITRUS SCENT</h2>
 				
 				
 								
 				
-				<a href="/US/eau-de-parfum/hesperides-grapefruit-eau-de-parfum/hesperidesmasteredp.html/H00001198.html#?prevPage=menu&amp;src=menufragrance_1_Hesperides_Jan2018">
-					<button>SHOP NOW</button>
+				<a aria-label="Fragrance Button" href="http://www.fresh.com/US/fragrance/view-all-fragrance/#?prevPage=menu&amp;src=Rose_Morning_EDP_NavPromo">
+					<button>START SHOPPING</button>
 				</a>
 			</div>
 		
@@ -4797,7 +5005,9 @@ Fragrance
 
 
 
-<a class="topLevel" href="http://www.fresh.com/US/gift-finder/">
+
+
+<a aria-label="Header Menu Level 1 Link Gift Bar" class="topLevel" href="http://www.fresh.com/US/gift-finder/">
 <span class="level-1-categoryname ">
 Gift Bar
 </span>
@@ -4817,33 +5027,15 @@ Gift Bar
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/the-wedding-shop/#?prevPage=menu">
+					<a href="http://www.fresh.com/US/gifting/gifts/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw0fc0a804/nav/giftbardropnav/Bridal_NavPromo_3.gif" media="(min-width: 768px)">
-								<img title="Wedding Shop">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw4d748715/nav/giftbardropnav/H18_NavPromo_PerfectGiftFinder.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Wedding Shop</span>
-						</div>
-					</a>
-				</div>
-			
-		
-			
-				
-				<div class="nav-cta">
-					
-					<a href="http://www.fresh.com/US/the-perfect-gift#?prevPage=menu">
-						
-							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw225015fc/nav/giftbardropnav/GiftFinder_01_18.jpg" media="(min-width: 768px)">
-								<img title="Gift Finder">
-							</picture>
-						
-						<div class="cta-text">
-							<span>Gift Finder</span>
+							<span>Personalized Gifting</span>
 						</div>
 					</a>
 				</div>
@@ -4856,8 +5048,8 @@ Gift Bar
 					<a href="http://www.fresh.com/US/gift-sets/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw8b055656/nav/giftbardropnav/GiftSets-nav-0118.gif" media="(min-width: 768px)">
-								<img title="Gift Sets">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw3fd4b3a0/nav/giftbardropnav/H18_NavPromo_Giftsets_Mask_1.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
@@ -4871,15 +5063,15 @@ Gift Bar
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/bodycare/specialty/travel/#?prevPage=menu">
+					<a href="http://www.fresh.com/US/gifting/gifts-under-25/#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw9cf50640/nav/giftbardropnav/New_Travel_2018_NavPromo.jpg" media="(min-width: 768px)">
-								<img title="Pack ‘Em &amp; Go">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwb9157cc9/nav/giftbardropnav/H18_NavPromo_Travel.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Pack ‘Em &amp; Go</span>
+							<span>Gifts $25 &amp; Under</span>
 						</div>
 					</a>
 				</div>
@@ -4898,9 +5090,14 @@ Gift Bar
 
 
 
-<a class="topLevel" href="http://www.fresh.com/US/about/">
+
+
+
+
+
+<a aria-label="Header Menu Level 1 Link Blog" class="topLevel" href="http://www.fresh.com/US/about/">
 <span class="level-1-categoryname ">
-About Us
+Blog
 </span>
 </a>
 <div class="level-2 category-6 cta-wrapper">
@@ -4918,15 +5115,15 @@ About Us
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/about#?prevPage=menu">
+					<a href="http://www.fresh.com/US/search?cgid=Tipsntricks#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw6cb581ae/nav/about%20fresh/about_us_about_fresh_081516-min.jpg" media="(min-width: 768px)">
-								<img title="About Fresh">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw48bf80d7/nav/freshmoments/tips_and_tricks1%20(003).jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>About Fresh</span>
+							<span>Tips &amp; Tricks</span>
 						</div>
 					</a>
 				</div>
@@ -4939,12 +5136,12 @@ About Us
 					<a href="http://www.fresh.com/US/freshdish#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwed590e98/nav/freshmoments/FreshDish-nav-promo.gif" media="(min-width: 768px)">
-								<img title="Fresh Dish">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw82ead93e/FreshMoments/thelatest-1.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Fresh Dish</span>
+							<span>The Latest</span>
 						</div>
 					</a>
 				</div>
@@ -4954,15 +5151,15 @@ About Us
 				
 				<div class="nav-cta">
 					
-					<a href="http://www.fresh.com/US/our_picks/#?prevPage=menu">
+					<a href="http://www.fresh.com/US/search?cgid=freshevents#?prevPage=menu">
 						
 							<picture>
-								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dw547ec1d5/nav/about%20fresh/about_us_staff_favorites_081516-min.jpg" media="(min-width: 768px)">
-								<img title="Our Picks">
+								<source srcset="http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/default/dwefdb6021/nav/freshmoments/event2%20002.jpg" media="(min-width: 768px)">
+								<img alt="">
 							</picture>
 						
 						<div class="cta-text">
-							<span>Our Picks</span>
+							<span>Events</span>
 						</div>
 					</a>
 				</div>
@@ -5013,8 +5210,9 @@ About Us
 
 </ol>
 
-			<div id="secondary" class="nav hide-on-mobile">
-				<nav>
+			<div class="secondary nav hide-on-mobile">
+				<nav aria-label="secondarynonmobilenavigation">
+
 					<h1 class="visually-hidden">Secondary Navigation</h1>	
 					<div class="secondary-navigation">
 						
@@ -5122,14 +5320,6 @@ About Us
 								</a>
 							
 						</li>
-						
-						<li>
-							
-								<a href="/US/customer-service-links/the-jetsetter-sweepstakes.html" title="the-jetsetter-sweepstakes">
-									The Jetsetter Sweepstakes
-								</a>
-							
-						</li>
 					
 				</ul>
 		
@@ -5196,7 +5386,7 @@ About Us
 
 <p>&nbsp;</p>
 
-<p>This privacy policy (“Privacy Policy”) describes our policies regarding the collection, use and disclosure of information on or through the Website and when applying for or using your membership in the Fresh Family Rewards Program (the “Membership”) in our retail store locations. By visiting this Website or applying for Membership, and/or using the services offered on or through this Website, you agree to the terms of this Privacy Policy as they may be amended from time to time. If you do not agree with any term in this Privacy Policy, you should not use this Website or apply for Membership. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Website Terms of Use, which governs your use of this Website. You can read our Terms of Use by clicking <u><strong><a href="https://www.fresh.com/customer-service-links/TermsOfUse.html">here</a>.</strong></u></p>
+<p>This privacy policy (“Privacy Policy”) describes our policies regarding the collection, use and disclosure of information on or through the Website and when applying for or using your membership in the Fresh Family Rewards Program (the “Membership”) in our retail store locations. By visiting this Website or applying for Membership, and/or using the services offered on or through this Website, you agree to the terms of this Privacy Policy as they may be amended from time to time. If you do not agree with any term in this Privacy Policy, you should not use this Website or apply for Membership. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Website Terms of Use, which governs your use of this Website. You can read our Terms of Use by clicking <strong><a class="underline" href="https://www.fresh.com/customer-service-links/TermsOfUse.html">here</a>.</strong></p>
 
 <p>&nbsp;</p>
 
@@ -5322,7 +5512,7 @@ About Us
 
 <p>&nbsp;</p>
 
-<p>Instructions for blocking cookies in other browsers are available at <u><strong><a href="http://www.allaboutcookies.org/manage-cookies/">http://www.allaboutcookies.org/manage-cookies/</a></strong></u>.</p>
+<p>Instructions for blocking cookies in other browsers are available at <strong><a class="underline" href="http://www.allaboutcookies.org/manage-cookies/">http://www.allaboutcookies.org/manage-cookies/</a></strong>.</p>
 
 <p>&nbsp;</p>
 
@@ -5562,7 +5752,7 @@ About Us
 
 <p>&nbsp;</p>
 
-<p>We may from time to time provide interactive services on our Website, including, without limitation, Ratings &amp; Reviews, blogs, chat rooms, bulletin boards and discussion groups. Your use of such interactive services are at your own risk. Personal Information that you post on or through the public areas of the Website are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. You should not provide Personal Information about yourself in public or interactive areas of the Website. Such Personal Information is not covered under this Privacy Policy. For additional terms of using any of our interactive services, please see our Terms of Use located at <a href="https://www.fresh.com/customer-service-links/TermsOfUse.html"><u><strong>https://www.fresh.com/customer-service-links/TermsOfUse.html</strong></u></a></p>
+<p>We may from time to time provide interactive services on our Website, including, without limitation, Ratings &amp; Reviews, blogs, chat rooms, bulletin boards and discussion groups. Your use of such interactive services are at your own risk. Personal Information that you post on or through the public areas of the Website are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. You should not provide Personal Information about yourself in public or interactive areas of the Website. Such Personal Information is not covered under this Privacy Policy. For additional terms of using any of our interactive services, please see our Terms of Use located at <a class="underline" href="https://www.fresh.com/customer-service-links/TermsOfUse.html"><strong>https://www.fresh.com/customer-service-links/TermsOfUse.html</strong></a></p>
 
 <p>&nbsp;</p>
 
@@ -5574,7 +5764,7 @@ About Us
 
 <p>&nbsp;</p>
 
-<p>Do Not Track is a privacy preference that users can set in some of their web browsers. This Website does not currently respond to Do Not Track signals, but we may do so in the future. For more information about Do Not Track, please go to <u><strong><a href="http://www.allaboutdnt.com">http://www.allaboutdnt.com</a>.</strong></u> Third parties may collect personally identifiable information about your online activities over time and across different websites when you use our Website.</p>
+<p>Do Not Track is a privacy preference that users can set in some of their web browsers. This Website does not currently respond to Do Not Track signals, but we may do so in the future. For more information about Do Not Track, please go to <strong><a class="underline" href="http://www.allaboutdnt.com">http://www.allaboutdnt.com</a>.</strong> Third parties may collect personally identifiable information about your online activities over time and across different websites when you use our Website.</p>
 
 <p>&nbsp;</p>
 
@@ -5598,7 +5788,7 @@ About Us
 
 <p>&nbsp;</p>
 
-<p>You may have the right to “opt in” and/or “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to: (1) receive promotional correspondence from us, or (2) have your Personal Information shared with other entities for their marketing purposes. You may also edit your preferences by visiting the “My Account” Web page, e-mailing us at <u><strong><a href="mailto:mailpreferences@fresh.com">mailpreferences@fresh.com</a></strong></u> or calling our Customer Service (see “Contact Us” section below).</p>
+<p>You may have the right to “opt in” and/or “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to: (1) receive promotional correspondence from us, or (2) have your Personal Information shared with other entities for their marketing purposes. You may also edit your preferences by visiting the “My Account” Web page, e-mailing us at <strong><a class="underline" href="mailto:mailpreferences@fresh.com">mailpreferences@fresh.com</a></strong>or calling our Customer Service (see “Contact Us” section below).</p>
 
 <p>&nbsp;</p>
 
@@ -5640,7 +5830,7 @@ About Us
 
 <p>&nbsp;</p>
 
-<p>If you have any questions or comments regarding our privacy practices, you may contact us at <u><strong><a href="mailto:inquiries@fresh.com">inquiries@fresh.com</a></strong></u> or call our Customer Service at 1 800 FRESH20 ( 1800 373 7420).</p>
+<p>If you have any questions or comments regarding our privacy practices, you may contact us at <strong><a class="underline" href="mailto:inquiries@fresh.com">inquiries@fresh.com</a></strong> or call our Customer Service at 1 800 FRESH20 ( 1800 373 7420).</p>
 
 <p>&nbsp;</p>
 
@@ -5683,8 +5873,8 @@ jQuery(document).ready(function() {
 				</section>
 			</div>
 			
-			<div id="secondary" class="nav hide-on-desktop">
-				<nav>
+			<div class="secondary nav hide-on-desktop">
+				<nav aria-label="secondarymobilenavigation">
 					<h1 class="visually-hidden">Secondary Navigation</h1>	
 					<div class="secondary-navigation">
 						
@@ -5789,14 +5979,6 @@ jQuery(document).ready(function() {
 							
 								<a href="/US/customer-service-links/Careers.html" title="Careers">
 									Careers
-								</a>
-							
-						</li>
-						
-						<li>
-							
-								<a href="/US/customer-service-links/the-jetsetter-sweepstakes.html" title="the-jetsetter-sweepstakes">
-									The Jetsetter Sweepstakes
 								</a>
 							
 						</li>
@@ -5979,16 +6161,14 @@ jQuery(document).ready(function() {
 
 
 
-	
-	
-
-	
 
 
 
 
 	
+	
 
+	
 
 
 
@@ -5999,11 +6179,7 @@ jQuery(document).ready(function() {
 
 
 
-
-
-
 	
-
 
 
 
@@ -6022,13 +6198,32 @@ jQuery(document).ready(function() {
 
 
 
+	
 
 
 
 
 
-<div id="footer" role="footer">
-<footer>
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<div id="footer" role="contentinfo" aria-label="footercontainer">
+<footer aria-label="footerelement">
 <div class="footer-bar">
 <div class="footer-bar-content">
 <div class="footer-social">
@@ -6060,50 +6255,51 @@ jQuery(document).ready(function() {
 
 
 	<div class="dropup country-select">
-		<section class="flag flag-null"></section>
-		<a class="initial" href="javascript:void(0);">United States</a>
+		<section aria-label="countryselection" class="flag flag-null" role="contentinfo"></section>
+		
+		<a aria-label="Country Select Drop Up United States" class="initial" href="javascript:void(0);">United States</a>
 		<div class="dropup-menu">
 			<ul>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/CountrySelect-SetPreferredCountrySite?countryCode=US&amp;location=Home-Show"><i class="flag flag-us"></i> United States</a></li>
+				<li><a aria-label="Country Select Drop Up United States0" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/CountrySelect-SetPreferredCountrySite?countryCode=US&amp;location=Home-Show"><span class="flag flag-us"></span> United States</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://cn.fresh.com/on/demandware.store/Sites-fresh-cn-Site/zh_CN/CountrySelect-SetPreferredCountrySite?countryCode=CN&amp;location=Home-Show"><i class="flag flag-cn"></i> China</a></li>
+				<li><a aria-label="Country Select Drop Up United States1" class="site" href="http://cn.fresh.com/on/demandware.store/Sites-fresh-cn-Site/zh_CN/CountrySelect-SetPreferredCountrySite?countryCode=CN&amp;location=Home-Show"><span class="flag flag-cn"></span> China</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-Fresh-KR-Site/ko_KR/CountrySelect-SetPreferredCountrySite?countryCode=KR&amp;location=Home-Show"><i class="flag flag-kr"></i> Korea</a></li>
+				<li><a aria-label="Country Select Drop Up United States2" class="site" href="http://www.fresh.com/on/demandware.store/Sites-Fresh-KR-Site/ko_KR/CountrySelect-SetPreferredCountrySite?countryCode=KR&amp;location=Home-Show"><span class="flag flag-kr"></span> Korea</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-hk-Site/zh_HK/CountrySelect-SetPreferredCountrySite?countryCode=HK&amp;location=Home-Show"><i class="flag flag-hk"></i> Hong Kong</a></li>
+				<li><a aria-label="Country Select Drop Up United States3" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-hk-Site/zh_HK/CountrySelect-SetPreferredCountrySite?countryCode=HK&amp;location=Home-Show"><span class="flag flag-hk"></span> Hong Kong</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-sg-Site/en_SG/CountrySelect-SetPreferredCountrySite?countryCode=SG&amp;location=Home-Show"><i class="flag flag-sg"></i> Singapore</a></li>
+				<li><a aria-label="Country Select Drop Up United States4" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-sg-Site/en_SG/CountrySelect-SetPreferredCountrySite?countryCode=SG&amp;location=Home-Show"><span class="flag flag-sg"></span> Singapore</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-uk-Site/en_GB/CountrySelect-SetPreferredCountrySite?countryCode=UK&amp;location=Home-Show"><i class="flag flag-uk"></i> United Kingdom</a></li>
+				<li><a aria-label="Country Select Drop Up United States5" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-uk-Site/en_GB/CountrySelect-SetPreferredCountrySite?countryCode=UK&amp;location=Home-Show"><span class="flag flag-uk"></span> United Kingdom</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-fr-Site/fr_FR/CountrySelect-SetPreferredCountrySite?countryCode=FR&amp;location=Home-Show"><i class="flag flag-fr"></i> France</a></li>
+				<li><a aria-label="Country Select Drop Up United States6" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-fr-Site/fr_FR/CountrySelect-SetPreferredCountrySite?countryCode=FR&amp;location=Home-Show"><span class="flag flag-fr"></span> France</a></li>
 			
 				
 					
 				
-				<li><a class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-TH-Site/th_TH/CountrySelect-SetPreferredCountrySite?countryCode=TH&amp;location=Home-Show"><i class="flag flag-th"></i> Thailand</a></li>
+				<li><a aria-label="Country Select Drop Up United States7" class="site" href="http://www.fresh.com/on/demandware.store/Sites-fresh-TH-Site/th_TH/CountrySelect-SetPreferredCountrySite?countryCode=TH&amp;location=Home-Show"><span class="flag flag-th"></span> Thailand</a></li>
 			
 			</ul>
 		</div>
@@ -6118,16 +6314,16 @@ Email Sign Up
 <h5>JOIN FRESH.COM</h5>
 <p>Enter your email address to receive special offers, new product previews and our latest looks and trends.</p>
 <form id="email-signup-header" class="email-signup" name="email-signup-header">
-<input type="text" id="email-address" name="email-address" class="email-address" placeholder="Email Address">
+<input type="text" id="email-address" name="email-address" class="email-address" placeholder="Email Address" aria-label="Email Sign Up">
 
 <input type="hidden" id="base-url" value="http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Cheetahmail-Subscribe">
 
-<button type="button" id="submit">SUBMIT</button>
+<button type="submit" id="submit">Submit</button>
 </form>
 <span class="messaging"></span>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 <div class="footer-container">
@@ -6146,10 +6342,11 @@ Email Sign Up
 		<div class="content-asset"><!-- dwMarker="content" dwContentID="8e3b1ce0b24e9691d90ae722ba" -->
 			<ul>
 	<li>About Fresh</li>
+        <li><a href="http://www.fresh.com/US/about" title="About Us">About Us</a></li>
 	<li><a href="http://www.fresh.com/US/customer-service-links/privacy-policy.html" title="privacy-policy">Privacy Policy</a></li>
 	<li><a href="http://www.fresh.com/US/customer-service-links/TermsOfUse.html" title="Terms of Use">Terms of Use</a></li>
 	<li><a href="http://www.fresh.com/US/customer-service-links/supply_chain_transparency.html" title="Supply Chain Transparency">Supply Chain Transparency</a></li>
-</ul>
+     </ul>
 		</div> <!-- End content-asset -->
 	
 
@@ -6178,8 +6375,7 @@ Email Sign Up
 	<li><a href="http://www.fresh.com/US/customer-service-links/billing.html" title="Shipping &amp; Return Policy">Billing Policy</a></li>
 	<li><a href="https://www.fresh.com/US/contactus" title="Contact Us">Contact Us</a></li>
 	<li><a href="http://www.fresh.com/US/customer-service-links/faq.html" title="Frequently Asked Questions">F.A.Q.</a></li>
-</ul>
-		</div> <!-- End content-asset -->
+		</ul></div> <!-- End content-asset -->
 	
 
 
@@ -6203,8 +6399,6 @@ Email Sign Up
 			<ul>
 <li>OUR SHOPS</li>
 <li><a href="http://www.fresh.com/US/stores" title="Store Locations">Find a Shop</a></li>
-
-
 </ul>
 		</div> <!-- End content-asset -->
 	
@@ -6305,12 +6499,12 @@ app.isMobileUserAgent = false;
 app.zoomViewerEnabled = true;
 app.constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE"};
 app.resources = {"HEADER_STORES":"Find A Shop","HEADER_STORES_MOBILE":"STORES","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Keyword","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","INVALID_GIFT_MESSAGE_EMOJI":"Emoji symbols are not allowed in gift messaging.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of $5 and maximum of $5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","COUPON_CODE_MISSING":"Please Enter a Promotional Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","GET_DIRECTIONS":"GET DIRECTIONS","STORE":"Store","STORE_HOURS":"storelocator.store_hours","MILES":"storelocator.searchbar.mi","SHOW_ALL":"Show All","SEARCH_ERROR":"Sorry, your search could not be performed at this time","NO_SEARCH_RESULTS":"Sorry, there are no stores near you.","FRESHWISHES_THISHOLIDAY":"this holiday season","FRESHWISHES_IMWISHINGFOR":"I'm wishing for","SAMPLES_CLOSE":"done","SAMPLES_Choose":"Choose up to 3 samples","checkoutEmail":"Email","bonusPopupError":"There was an error selecting your bonus products.","taxNumberValidationError":"taxpayerregistrationnumber.charlimit-error","taxNumberRegExp":null,"gtmWebsiteVersion":"fresh.com","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-app.urls = {"appResources":"/on/demandware.store/Sites-fresh-Site/en/Resources-Load","pageInclude":"/on/demandware.store/Sites-fresh-Site/en/Page-Include","continueUrl":"http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Page-Show/C1461097745","staticPath":"/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/","addGiftCert":"/US/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-fresh-Site/en/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddProduct","minicarttrigger":"/on/demandware.store/Sites-fresh-Site/en/Cart-MiniCartTrigger","minicart":"/on/demandware.store/Sites-fresh-Site/en/Cart-MiniAddProduct","cartShow":"/US/cart","giftRegAdd":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Address-GetAddressDetails?addressID=","paymentsList":"https://www.fresh.com/US/wallet","addressesList":"https://www.fresh.com/US/addressbook","wishlistAddress":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Wishlist-SetShippingAddress","addToWishlist":"/on/demandware.store/Sites-fresh-Site/en/Wishlist-Add","getMiniWishList":"/on/demandware.store/Sites-fresh-Site/en/Wishlist-MiniWishList","deleteAddress":"/on/demandware.store/Sites-fresh-Site/en/Address-Delete","getProductUrl":"/on/demandware.store/Sites-fresh-Site/en/Product-Show","getBonusProducts":"/on/demandware.store/Sites-fresh-Site/en/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-fresh-Site/en/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-fresh-Site/en/Product-Detail","getAvailability":"/on/demandware.store/Sites-fresh-Site/en/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-fresh-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-fresh-Site/en/Search-GetSuggestions","richsearchsuggest":"/on/demandware.store/Sites-fresh-Site/en/Search-GetRichSuggestions","productNav":"/on/demandware.store/Sites-fresh-Site/en/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-fresh-Site/en/COBilling-UpdateSummary","billingSelectCC":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COBilling-SelectCreditCard","updateAddressDetails":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-fresh-Site/en/COBilling-ResetPaymentForms","compareShow":"/US/compare","compareAdd":"/on/demandware.store/Sites-fresh-Site/en/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-fresh-Site/en/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-fresh-Site/-/default/dwe90f5a28/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Cart-AddCoupon","loyaltyCRM":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Loyalty-Flag","powerReviewsFullJs":"/on/demandware.static/-/Sites-live/en/v1530286396364/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-live/en/v1530286396364","splashEmailForm":"/on/demandware.store/Sites-fresh-Site/en/Splash-AddEmail","getGiftSet":"/on/demandware.store/Sites-fresh-Site/en/Holiday2015-GetGiftSet","holidayGiftFinder":"/on/demandware.store/Sites-fresh-Site/en/Holiday2015-GiftFinder","newHolidayGiftFinder":"/on/demandware.store/Sites-fresh-Site/en/Holiday2017-GiftFinder","selectshippingaddress":"/on/demandware.store/Sites-fresh-Site/en/COShipping-SelectShippingAddress","sendVerificationCode":"/on/demandware.store/Sites-fresh-Site/en/VerificationCodeGenerator-Start","getMemberinfo":"/on/demandware.store/Sites-fresh-Site/en/Account-GetMemberInfo","addSample":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddSample","emailFinderResults":"/on/demandware.store/Sites-fresh-Site/en/Finder-EmailResults","emailLookup":"/on/demandware.store/Sites-fresh-Site/en/Login-LookupEmail","emailProcess":"/on/demandware.store/Sites-fresh-Site/en/Login-LookupEmail","cartSamples":"/on/demandware.store/Sites-fresh-Site/en/Cart-Samples","addSamples":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddSamples","removeSamples":"/on/demandware.store/Sites-fresh-Site/en/Cart-RemoveSamples","updateCartShippingMethod":"/on/demandware.store/Sites-fresh-Site/en/COShipping-CartTotal","getCoupon":"/on/demandware.store/Sites-fresh-Site/en/GetCouponCode-GetCode","getCoupon2":"/on/demandware.store/Sites-fresh-Site/en/GetCouponCode-SendCouponSMS","tweenMax":"http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/en/v1530286396364/fresh-PDPCampaign/TweenMax.js?$staticlink$","checkRandomNumber":"/on/demandware.store/Sites-fresh-Site/en/VerificationCodeGenerator-CheckRandomNumber","clearRandomNumber":"/on/demandware.store/Sites-fresh-Site/en/VerificationCodeGenerator-ClearRandomNumber","setFapiaoDetails":"/on/demandware.store/Sites-fresh-Site/en/COBilling-SetFapiao","saveInvoicetype":"/on/demandware.store/Sites-fresh-Site/en/COBilling-SaveInvoicetype"};
+app.urls = {"appResources":"/on/demandware.store/Sites-fresh-Site/en/Resources-Load","pageInclude":"/on/demandware.store/Sites-fresh-Site/en/Page-Include","continueUrl":"http://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Page-Show/C1645613248","staticPath":"/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/","addGiftCert":"/US/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-fresh-Site/en/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddProduct","minicarttrigger":"/on/demandware.store/Sites-fresh-Site/en/Cart-MiniCartTrigger","minicart":"/on/demandware.store/Sites-fresh-Site/en/Cart-MiniAddProduct","cartShow":"/US/cart","giftRegAdd":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Address-GetAddressDetails?addressID=","paymentsList":"https://www.fresh.com/US/wallet","addressesList":"https://www.fresh.com/US/addressbook","wishlistAddress":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Wishlist-SetShippingAddress","addToWishlist":"/on/demandware.store/Sites-fresh-Site/en/Wishlist-Add","getMiniWishList":"/on/demandware.store/Sites-fresh-Site/en/Wishlist-MiniWishList","deleteAddress":"/on/demandware.store/Sites-fresh-Site/en/Address-Delete","getProductUrl":"/on/demandware.store/Sites-fresh-Site/en/Product-Show","getBonusProducts":"/on/demandware.store/Sites-fresh-Site/en/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-fresh-Site/en/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-fresh-Site/en/Product-Detail","getAvailability":"/on/demandware.store/Sites-fresh-Site/en/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-fresh-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-fresh-Site/en/Search-GetSuggestions","richsearchsuggest":"/on/demandware.store/Sites-fresh-Site/en/Search-GetRichSuggestions","productNav":"/on/demandware.store/Sites-fresh-Site/en/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-fresh-Site/en/COBilling-UpdateSummary","billingSelectCC":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COBilling-SelectCreditCard","updateAddressDetails":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-fresh-Site/en/COBilling-ResetPaymentForms","compareShow":"/US/compare","compareAdd":"/on/demandware.store/Sites-fresh-Site/en/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-fresh-Site/en/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-fresh-Site/-/default/dwe90f5a28/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Cart-AddCoupon","loyaltyCRM":"https://www.fresh.com/on/demandware.store/Sites-fresh-Site/en/Loyalty-Flag","powerReviewsFullJs":"/on/demandware.static/-/Sites-live/en/v1544809455785/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-live/en/v1544809455785","splashEmailForm":"/on/demandware.store/Sites-fresh-Site/en/Splash-AddEmail","getGiftSet":"/on/demandware.store/Sites-fresh-Site/en/Holiday2015-GetGiftSet","holidayGiftFinder":"/on/demandware.store/Sites-fresh-Site/en/Holiday2015-GiftFinder","newHolidayGiftFinder":"/on/demandware.store/Sites-fresh-Site/en/Holiday2017-GiftFinder","selectshippingaddress":"/on/demandware.store/Sites-fresh-Site/en/COShipping-SelectShippingAddress","sendVerificationCode":"/on/demandware.store/Sites-fresh-Site/en/VerificationCodeGenerator-Start","getMemberinfo":"/on/demandware.store/Sites-fresh-Site/en/Account-GetMemberInfo","addSample":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddSample","emailFinderResults":"/on/demandware.store/Sites-fresh-Site/en/Finder-EmailResults","emailLookup":"/on/demandware.store/Sites-fresh-Site/en/Login-LookupEmail","emailProcess":"/on/demandware.store/Sites-fresh-Site/en/Login-LookupEmail","cartSamples":"/on/demandware.store/Sites-fresh-Site/en/Cart-Samples","addSamples":"/on/demandware.store/Sites-fresh-Site/en/Cart-AddSamples","removeSamples":"/on/demandware.store/Sites-fresh-Site/en/Cart-RemoveSamples","updateCartShippingMethod":"/on/demandware.store/Sites-fresh-Site/en/COShipping-CartTotal","getCoupon":"/on/demandware.store/Sites-fresh-Site/en/GetCouponCode-GetCode","getCoupon2":"/on/demandware.store/Sites-fresh-Site/en/GetCouponCode-SendCouponSMS","tweenMax":"http://www.fresh.com/on/demandware.static/-/Sites-fresh-Library/en/v1544809455785/fresh-PDPCampaign/TweenMax.js?$staticlink$","checkRandomNumber":"/on/demandware.store/Sites-fresh-Site/en/VerificationCodeGenerator-CheckRandomNumber","clearRandomNumber":"/on/demandware.store/Sites-fresh-Site/en/VerificationCodeGenerator-ClearRandomNumber","setFapiaoDetails":"/on/demandware.store/Sites-fresh-Site/en/COBilling-SetFapiao","saveInvoicetype":"/on/demandware.store/Sites-fresh-Site/en/COBilling-SaveInvoicetype"};
 app.sampleProductMessgae = {"SAMPLE_MESSAGE":"","DELETE_MESSAGE":"","LOGOUT_MESSAGE":""};
 app.eCommerceEnabled = true;
 }(window.app = window.app || {}));
 </script>
-	<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/js/unified-min.js"></script>
+	<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/js/unified-min.js"></script>
 		
 	
 
@@ -6380,9 +6574,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1530286396364/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-fresh-Site/-/en/v1544809455785/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 </body></html>
