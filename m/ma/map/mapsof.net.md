@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610112143id_/http%3A//mapsof.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218005256id_/http%3A//mapsof.net/privacy) for the most accurate reproduction.*
 
 # Pricacy • Mapsof.net
 
