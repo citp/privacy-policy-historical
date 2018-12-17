@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i2symbol.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614104144id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i2symbol.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217091501id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.*
 
 # Twitter Emoticons ヽ(^o^)ノ Facebook Emoticons . Facebook Symbols
 
