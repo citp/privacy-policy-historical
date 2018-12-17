@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hola.org privacy policy that was archived on 2018-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180531145631id_/http%3A//hola.org/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hola.org privacy policy that was archived on 2018-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217215524id_/http%3A//hola.org/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title translate="{{title ? title : 'Privacy Policy – Hola' || 'Hola - Free VPN, Secure Browsing, Unrestricted Access'}}">Privacy Policy – Hola</title>
@@ -30,7 +30,7 @@
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" href="//w5t6c5u8.map2.ssl.hwcdn.net/www/hola/pub/css/hola.css?md5=280447-c9556588">
+<link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/hola.css?md5=286183-98fbd3e9">
 <link rel="publisher" href="https://plus.google.com/113076818286953987497">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gkojfkhlekighikafcpjkiklfbnlmeio">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/lalfpjdbhpmnhfofkckdpkljeilmogfl">
@@ -40,8 +40,9 @@
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto+Sans:400,700">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Asap:400,700">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,500,600,700">
 
-<link rel="stylesheet" href="//f9t5n3y6.map2.ssl.hwcdn.net/www/hola/pub/css/wbm_flags.css?md5=98451-ca20dde6">
+<link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/wbm_flags.css?md5=98451-ca20dde6">
 
 
 
@@ -56,7 +57,7 @@ else
 </script>
 
 
-    <link rel="stylesheet" href="//s6m9m3g5.map2.ssl.hwcdn.net/www/hola/pub/css/hola_ab.css?md5=66648-9e039df0">
+    <link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/hola_ab.css?md5=66512-c13a34d4">
   </head>
   <body>
     <div class="wrap">
@@ -75,9 +76,12 @@ else
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/" target="_self">
-        <img src="//f9t5n3y6.map2.ssl.hwcdn.net/www/hola/pub/img/hola_logo.svg?md5=3571-1b6f7d94">
-      </a>
+      <span class="navbar-brand-container">
+        <a class="navbar-brand" href="/" target="_self">
+          <img src="//cdn4.hola.org/www/hola/pub/img/hola_logo.svg?md5=3571-1b6f7d94">
+        </a>
+        
+      </span>
       <label class="env-label"><div class="label"></div></label>
     </div>
     <div class="collapse navbar-collapse">
@@ -88,68 +92,83 @@ else
           </li>
         </ul>
       </div>
-      <ul class="links_nav_container nav navbar-nav navbar-right">
-        <li class="dropdown-item prom-vpn"><a href="/">VPN</a>
-          <a href="/" class="prom-popover detect-install2-vpn" data-source="tooltip">
-            <div class="prom-icon"></div>
-            <div class="prom-action">
-              <div class="prom-content">
-                <h1>Hola VPN</h1>
-                <p>Access any website</p>
-              </div>
-              <span class="link">Start</span>
+      <ul class="links_nav_container nav navbar-nav navbar-right" ng-if="!app_mode">
+        <li class="products-dropdown-container dropdown-item">
+          <a translate="">Other products</a>
+          <div class="products-dropdown">
+            
+            <div class="prom-vpn">
+              <a href="/download" class="prom-popover detect-install2-vpn" data-source="tooltip" data-product="vpn" rel="windows" data-simple_download_initialized="true">
+                <div class="prom-icon"></div>
+                <div class="prom-action">
+                  <div class="prom-content">
+                    <h1>Hola VPN</h1>
+                    <p>Access any website</p>
+                  </div>
+                  <span class="link">Start</span>
+                </div>
+              </a>
             </div>
-          </a>
-        </li>
-        <li class="dropdown-item prom-ab"><a href="/adblocker" translate="">Ad blocker</a>
-          <a href="/adblocker" class="prom-popover detect-install2-adblock" data-source="tooltip">
-            <div class="prom-icon"></div>
-            <div class="prom-action">
-              <div class="prom-content">
-                <h1>Hola ad blocker</h1>
-                <p>Block annoying ads, malware and tracking</p>
-              </div>
-              <span class="link">Start</span>
+            
+            
+            <div class="prom-ab">
+              <a href="/download" class="prom-popover detect-install2-adblock" data-source="tooltip" data-product="vpn" rel="windows" data-simple_download_initialized="true">
+                <div class="prom-icon"></div>
+                <div class="prom-action">
+                  <div class="prom-content">
+                    <h1>Hola ad blocker</h1>
+                    <p>Block annoying ads, malware and tracking</p>
+                  </div>
+                  <span class="link">Start</span>
+                </div>
+              </a>
             </div>
-          </a>
-        </li>
-        <li class="dropdown-item prom-va"><a href="/accelerator" translate="">Accelerator</a>
-          <a href="/accelerator" data-source="tooltip" class="prom-popover detect-install2-accelerator">
-            <div class="prom-icon"></div>
-            <div class="prom-action">
-              <div class="prom-content">
-                <h1>Hola accelerator</h1>
-                <p>Stream videos faster</p>
-              </div>
-              <span class="link">Start</span>
+            
+            
+            <div class="prom-va">
+              <a href="/download" data-source="tooltip" class="prom-popover detect-install2-accelerator" data-product="vpn" rel="windows" data-simple_download_initialized="true">
+                <div class="prom-icon"></div>
+                <div class="prom-action">
+                  <div class="prom-content">
+                    <h1>Hola accelerator</h1>
+                    <p>Stream videos faster</p>
+                  </div>
+                  <span class="link">Start</span>
+                </div>
+              </a>
             </div>
-          </a>
-        </li>
-        <li class="dropdown-item prom-gps"><a href="/gps" translate="">GPS location</a>
-          <a href="https://play.google.com/store/apps/details?id=org.hola.gpslocation&amp;referrer=utm_source%3Dhola_web_navbar" class="prom-popover detect-install2-gps" target="_blank" data-source="tooltip">
-            <div class="prom-icon"></div>
-            <div class="prom-action">
-              <div class="prom-content">
-                <h1>Hola change GPS location</h1>
-                <p>
-                  Change your GPS location to wherever you want in the world
-                </p>
-              </div>
-              <span class="link">Start</span>
+            
+            
+            <div class="prom-gps">
+              <a href="https://play.google.com/store/apps/details?id=org.hola.gpslocation&amp;referrer=utm_source%3Dhola_web_navbar" class="prom-popover detect-install2-gps" target="_blank" data-source="tooltip">
+                <div class="prom-icon"></div>
+                <div class="prom-action">
+                  <div class="prom-content">
+                    <h1>Hola change GPS location</h1>
+                    <p>
+                      Change your GPS location to wherever you want in the world
+                    </p>
+                  </div>
+                  <span class="link">Start</span>
+                </div>
+              </a>
             </div>
-          </a>
-        </li>
-        <li class="dropdown-item prom-browser"><a href="/browser" translate="">Browser</a>
-          <a href="/browser" class="prom-popover detect-install2-browser" data-source="tooltip">
-            <div class="prom-icon"></div>
-            <div class="prom-action">
-              <div class="prom-content">
-                <h1>Hola browser</h1>
-                <p>VPN, ad blocker and video accelerator in one</p>
-              </div>
-              <span class="link">Start</span>
+            
+            
+            <div class="prom-browser">
+              <a href="/download" class="prom-popover detect-install2-browser" data-source="tooltip" data-product="vpn" rel="windows" data-simple_download_initialized="true">
+                <div class="prom-icon"></div>
+                <div class="prom-action">
+                  <div class="prom-content">
+                    <h1>Hola browser</h1>
+                    <p>VPN, ad blocker and video accelerator in one</p>
+                  </div>
+                  <span class="link">Start</span>
+                </div>
+              </a>
             </div>
-          </a>
+            
+          </div>
         </li>
         <li><a href="/faq" translate="">FAQ</a></li>
         
@@ -377,6 +396,1015 @@ else
     </div>
     <div id="spacer" style="height:200px"></div>
     <script>
+    (function(){
+        // LICENSE_CODE ZON
+'use strict'; /*jslint browser:true*/
+(function(){
+var E = window.hola_min_require = {};
+E.module_registry = {};
+
+function get_args(requirements){
+    var args = [], t;
+    for (var i=0; i<requirements.length; i++)
+    {
+        if (!(t = E.module_registry[requirements[i]]))
+            throw new Error('min_require: missing module: '+requirements[i]);
+        args.push(t);
+    }
+    return args;
+}
+
+function define(name, requirements, init){
+    // XXX mark hack: this needs to be changed
+    if (arguments.length==1 && typeof name=='function')
+    {
+        requirements = name;
+        name = '/util/user_agent.js';
+    }
+    if (typeof name!='string')
+        throw new Error('min_require: module name is needed');
+    if (init===undefined && requirements.pop===undefined)
+    {
+        init = requirements;
+        requirements = [];
+    }
+    if (typeof init!='function')
+        return void(E.module_registry[name] = init);
+    E.module_registry[name] = init.apply(null, get_args(requirements));
+}
+
+define.amd = define.min_require = true;
+
+function require(requirements, fn){
+    fn.apply(null, get_args(requirements)); }
+require.min_require = true;
+require.undef = function(name){
+    delete E.module_registry[name]; };
+
+E.give_modules = function(){
+    if (!window.define||window.define.min_require)
+        throw new Error('min_require: cannot give modules');
+    for (var m in E.module_registry)
+    {
+        if (!E.module_registry.hasOwnProperty(m))
+            continue;
+        window.define(m, (function(n){
+            return function(){ return E.module_registry[n]; }; })(m));
+    }
+};
+
+E.uninstall = function(){
+    if (window.define.min_require)
+        delete window.define;
+    if (window.require.min_require)
+        delete window.require;
+};
+window.define = window.define||define;
+window.require = window.require||require;
+}());
+
+        // LICENSE_CODE ZON
+'use strict'; /*jslint browser:true*/
+define('hola_opt', function(){
+    var opt;
+    // jshint ignore:start
+    opt = {"version":"1.116.381","user_ip":3488737465,"user_country":"US","notify_upgrade_min_version":"1.2.676","enable_new_installer":true,"www_hola":{"faq_support_active":false,"purechat_active":false,"vpn_signup_require":false,"download_flow":"blue","svc_check":false,"exclude_rating":[],"pages_override":{"/plus.html":"order.html","/premium.html":"order.html","/trialsignup.html":"order.html","/uninstall.html":"uninstall_premium.html"},"enable_new_installer":true,"www_hide_plans":false,"homepage_plus_top":true,"plus_timer_sec":34749,"price_widget":0,"test_placebo":0.5}};
+    // jshint ignore:end
+    if (typeof window.ga=='function')
+    {
+        window.ga(function(tracker){
+            opt.ga_client_id = tracker.get('clientId'); });
+    }
+    return opt;
+});
+
+        // LICENSE_CODE ZON
+'use strict'; /*jslint browser:true*/
+require.undef('/www/util/pub/inc_config.js');
+define('/www/util/pub/inc_config.js', function(){
+var E = {};
+var ua = /[( ]MSIE ([789]|10).\d[);]/.exec(navigator.userAgent||'');
+var default_callbacks = {
+    after_init: function(){
+        define('virt_jquery_all', ['jquery', '/util/jquery_ajax_ie.js',
+            'jquery_url_parser'], function(j){ return j; });
+    },
+};
+E.get_config = function(params, callbacks){
+    var _E = {config: config};
+    if (Object.assign)
+        callbacks = Object.assign({}, default_callbacks, callbacks);
+    else
+    {
+        var _callbacks = {};
+        for (var dprop in default_callbacks)
+        {
+            if (default_callbacks.hasOwnProperty(dprop))
+                _callbacks[dprop] = default_callbacks[dprop];
+        }
+        for (var prop in callbacks)
+        {
+            if (callbacks.hasOwnProperty(prop))
+                _callbacks[prop] = callbacks[prop];
+        }
+        callbacks = _callbacks;
+    }
+    for (var param in params)
+        _E.config[param] = params[param];
+    var es6_require;
+    // jshint ignore:start
+    es6_require = ["regenerator-runtime"];
+    // jshint ignore:end
+    _E.init = function(opt, dependencies, setup){
+        opt = opt||{};
+        if (_E.inited)
+            return void console.error('Config already initialized');
+        _E.inited = true;
+        _E.ver = _E.config.ver = opt.ver;
+        _E.cdn_path = _E.config.cdn_path = opt.cdn_path;
+        if (callbacks.before_init)
+            callbacks.before_init(_E.config, opt);
+        require.config(_E.config);
+        if (callbacks.after_init)
+            callbacks.after_init(_E.config, opt);
+        require(['/util/es6_shim.js'], function(){
+            es6_require = es6_require.filter(function(k){
+                return _E.config.paths[k]; });
+            if (Array.isArray(es6_require) && es6_require.length)
+                require(es6_require, function(){});
+            if (Array.isArray(dependencies) && typeof setup=='function')
+                require(dependencies, setup);
+        });
+    };
+    _E.url2md5 = function(url){
+        if (_E.config.paths[url])
+            return _E.config.paths[url];
+        return url;
+    };
+    _E.init_angular_config = function(mod){
+        mod.factory('$exceptionHandler', ['$log', function($log){
+            var sent = [];
+            return function(err, cause){
+                $log.error(err, cause);
+                var info = err.message+(cause ? '\n'+cause : '');
+                if (err.name=='TypeError' && !sent.includes(info))
+                {
+                    sent.push(info);
+                    E.perr({id: 'www_uncaught_error', info: info,
+                        bt: err.stack});
+                }
+            };
+        }]);
+        // ie 9 and below do not support CORS
+        if (ua && ua.length && ua[1]<10)
+            return;
+        mod.factory('md5_cache_factory', function(){
+            return {
+                request: function(config){
+                    config.url = _E.url2md5(config.url);
+                    return config;
+                }
+            };
+        }).config(['$httpProvider', function($httpProvider){
+            $httpProvider.interceptors.push('md5_cache_factory');
+        }]).directive('md5Src', function(){
+            return {
+                restrict: 'A', priority: 99,
+                link: function(scope, element, attr){
+                    attr.$observe('md5Src', function(url){
+                        element.attr('src', _E.url2md5(url));
+                    });
+                },
+            };
+        });
+    };
+    return _E;
+};
+
+var config = {
+    baseUrl: '/', urlArgs: '', paths: {}, shim: {}, map: {},
+    config: {
+        text: {
+            // requirejs text plugin will use <script> and not xhr when
+            // trying to load html from another domain. we force always
+            // to use xhr for loading html files
+            useXhr: function(url, protocol, hostname, port){
+                return true; },
+            createXhr: get_create_xhr(),
+        },
+    },
+};
+define('login_config', {url_prefix: ''});
+E.inject = function(static_conf, config, skip_cdn){
+    var cmap = config.map = config.map||{};
+    for (var key in static_conf)
+    {
+        var cfg = static_conf[key];
+        if (cfg.map && !cmap[key])
+           cmap[key] = cfg.map;
+        if (!config.paths[key])
+            config.paths[key] = get_static_path(cfg, skip_cdn);
+        if (!config.shim[key] && cfg.shim)
+            config.shim[key] = cfg.shim;
+    }
+};
+function get_static_path(data, skip_cdn){
+    if (typeof data.file!='string')
+        throw '"local" should exist for alt_cdn cases';
+    var cdn = data.link+data.remote;
+    if (cdn && !skip_cdn)
+        return [cdn, data.file];
+    return data.file;
+}
+function get_create_xhr(){
+    if (typeof window=='object' && window.XDomainRequest && +ua[1]<10)
+    {
+        // IE doesn't support CORS, use XDomainRequest instead
+        return function(){
+            var xdr = new window.XDomainRequest();
+            xdr.onload = function(){
+                xdr.readyState = 4;
+                xdr.status = 200;
+                if (xdr.onreadystatechange)
+                    xdr.onreadystatechange();
+            };
+            xdr.onerror = function(){
+                xdr.readyState = 4;
+                xdr.status = 500;
+                if (xdr.onreadystatechange)
+                    xdr.onreadystatechange();
+            };
+            // request will be aborted if onprogress missing
+            xdr.onprogress = function(){};
+            return xdr;
+        };
+    }
+}
+function uri_comp(s){
+    return encodeURIComponent(s).replace(/%20/g, '+'); }
+function qs(param, opt){
+    var uri = '';
+    if (!param)
+        return uri;
+    opt = opt||{};
+    var _uri_comp = opt.space_plus ? uri_comp : encodeURIComponent;
+    for (var i in param)
+    {
+        var val = param[i];
+        if (val===null||val===undefined)
+            continue;
+        uri += (!uri ? '' : '&')+_uri_comp(i)+'='+_uri_comp(val);
+    }
+    return uri;
+}
+function get_conf(){
+    return typeof window=='object' && window.conf || defaults.conf; }
+function raw_perr(opt){
+    try {
+        var url = get_conf().url_perr+'/perr';
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', url+'?'+qs(opt, {space_plus: true}));
+        xhr.send(null);
+    } catch(e){ console.error('raw_perr failed '+e.stack); }
+}
+function perr_prepare(opt){
+    var build = build_info();
+    /* XXX antonp: better to do deep copy of opt before changing it */
+    try {
+        opt.uuid = opt.uuid ||
+            (window.hola_extension_info&&window.hola_extension_info.uuid) ||
+            localStorage.getItem('uuid');
+    } catch(err){ console.error('perr failed '+err.stack); }
+    opt.cid = opt.cid||(window.hola_svc_info&&window.hola_svc_info.cid);
+    opt.rmt_ver = build.server_version;
+    opt.ver = build.version;
+    opt.browser = opt.browser||E.browser();
+    opt.build = opt.build||build_str();
+    return opt;
+}
+/* XXX antonp: sync pre_loader.js <-> util.js (need to rm code duplication) */
+function build_info(){
+    var rmt, mode;
+    if (window.RMT)
+        rmt = window.RMT;
+    else if (window.ui_popup)
+        rmt = window.ui_popup.R;
+    mode = rmt && rmt.be_mode;
+    var zconf = window.zon_config||defaults.zon_config;
+    var info = {version: zconf.ZON_VERSION};
+    if (rmt)
+    {
+        info.server_version = rmt.get('ver')+
+            (!rmt.get('inited') ? ' Not initialized' : '');
+    }
+    if (mode && mode.get('svc.version'))
+        info.svc_version = mode.get('svc.version');
+    if (mode && mode.get('plugin.enabled'))
+        info.plugin_enabled = true;
+    info.makeflags = zconf.CONFIG_MAKEFLAGS;
+    if (chrome)
+        info.product_type = get_conf().type;
+    info.id = chrome ? chrome.runtime&&chrome.runtime.id :
+        'jid1-4P0kohSJxU1qGg@jetpack';
+    info.browser = E.browser();
+    info.browser_build = window.conf && window.conf.browser.name;
+    info.platform = navigator.platform;
+    info.user_agent = navigator.userAgent;
+    info.url = location.href;
+    if (window.is_tpopup)
+        info.is_tpopup = window.is_tpopup;
+    return info;
+}
+/* XXX antonp: sync pre_loader.js <-> util.js (need to rm code duplication) */
+function build_str(){
+    var info = build_info(), s = '';
+    for (var f in info)
+        s += (s ? '\n' : '')+f+': '+info[f];
+    return s;
+}
+E.perr = function perr(opt){
+    return raw_perr(perr_prepare(opt)); };
+var chrome = typeof window=='object' && window.chrome;
+E.is_be = function(){
+    return self.is_tpopup ||
+        /^(chrome-extension|moz-extension|resource|file):\/\//
+        .test(location.href);
+};
+var chrome_details = typeof window=='object' && window.chrome
+&& window.chrome.app && window.chrome.app.getDetails
+&& window.chrome.app.getDetails();
+var perr_url = 'perr.hola.org';
+var defaults = {
+    conf: {url_ccgi: 'https://client.hola.org/client_cgi',
+        url_perr: 'https://'+perr_url+'/client_cgi', type: 'unknown',
+        browser: {firefox: !chrome}},
+    zon_config: {CONFIG_MAKEFLAGS: '',
+        ZON_VERSION: chrome_details ? chrome_details.version : '0.0.0'}
+};
+/* XXX antonp: sync pre_loader.js <-> util.js (need to rm code duplication) */
+var check_opera = /\bOPR\b\/(\d+)/i;
+E.browser = function(){
+    var conf = get_conf();
+    var ua = navigator.userAgent;
+    var opera = check_opera.exec(ua);
+    return conf.browser.firefox ? 'firefox' :
+        conf.browser.torch ? 'torch' :
+        conf.browser.opera||(opera && !!opera[1]) ? 'opera' : 'chrome';
+};
+require.onError = function(err){
+    var mods = err.requireModules||[], _mods = mods.join(' ');
+    var id = (E.is_be() ? 'be_int' : 'www')+'_require_err';
+    // errors with old require is final too
+    if (!err.fallback)
+        id += '_fin';
+    console.error('require fatal error, modules: '+_mods+'\n'+err.stack);
+    err.require_handled = true;
+    var perr_sent = require.perr_sent||(require.perr_sent = []);
+    // sent perr only once for each error
+    if (perr_sent.indexOf(id)<0)
+    {
+        var fh = mods.map(function(m){ return require.toUrl(m); }).join('\n');
+        E.perr({id: id, info: _mods||(''+err), bt: err.stack, filehead: fh});
+        perr_sent.push(id);
+    }
+    if (!err.fallback)
+        throw err;
+};
+return E; });
+
+        // LICENSE_CODE ZON
+'use strict'; /*zlint node, br*/
+(function(){
+var define;
+var is_node_ff = typeof module=='object' && module.exports;
+if (!is_node_ff)
+    define = self.define;
+else
+    define = function(setup){ module.exports = setup(); };
+define(function(){
+var E = {};
+
+// XXX arik: sync: util/user_agent.js <-> svc/cdn/pub/play_loader.js
+var win_versions = {
+    '10.0': '10.0',
+    '6.3': '8.1',
+    '6.2': '8',
+    '6.1': '7',
+    '6.0': 'vista',
+    '5.2': '2003',
+    '5.1': 'xp',
+    '5.0': '2000',
+};
+
+var arch_mapping = {
+    x86_64: '64',
+    i686: '32',
+    arm: 'arm',
+};
+
+var check_hola = /\bhola_android\b/i;
+var check_android_cdn = /Android.* CDNService\/([0-9\.]+)$/;
+var check_ios_cdn = / CDNService\/([0-9\.]+)$/;
+var check_hola_player_app = / (Spark|Hola)Player/;
+var check_opera = /\bOPR\b\/(\d+)/i;
+var check_edge = /\bEdge\b\/(\d+)/i;
+var check_xbox = /\bxbox\b/i;
+var check_ucbrowser = /\bUCBrowser\b\/(\d+)/i;
+var check_webview = / Version\/(\d+)(\.\d)/;
+
+var is_browser = !is_node_ff && typeof window!='undefined';
+
+function ios_ua(ua, safari_ver){
+    var res;
+    if (res = /(?:iPhone|iPad|iPod|iPod touch);.*?OS ([\d._]+)/.exec(ua))
+    {
+        var ios_ver = res[1];
+        var is_chrome = /CriOS/.test(ua);
+        var is_firefox = /FxiOS/.test(ua);
+        var is_hola_ios = is_browser&&(window.hola_cdn_sdk||
+            window.spark_ios_sdk) || check_ios_cdn.test(ua);
+        var ucbrowser_ver = (check_ucbrowser.exec(ua)||[])[1];
+        var is_ucbrowser = !!ucbrowser_ver;
+        return {
+            browser: 'safari',
+            version: safari_ver||ios_ver,
+            ios: ios_ver,
+            hola_ios: is_hola_ios,
+            chrome: is_chrome,
+            firefox: is_firefox,
+            ucbrowser: is_ucbrowser,
+            ucbrowser_version: ucbrowser_ver,
+            webview: /Twitter/.test(ua) ? 'twitter' :
+                /GSA\/\d+/.test(ua) ? 'googlesearch' :
+                /FBAV\/\d+/.test(ua) ? 'facebook' :
+                !safari_ver && !is_chrome && !is_firefox && !is_ucbrowser &&
+                !is_hola_ios,
+        };
+    }
+    if (/HolaCDN iOS/.exec(ua))
+        return {browser: 'safari', hola_ios: true};
+}
+
+function check_chromium(ua){
+    if (check_webview.test(ua) || /Android/.test(ua) || / Mobile /.test(ua) ||
+        check_opera.test(ua))
+    {
+        return false;
+    }
+    var group = '(?: (\\w*)\\/)?', ver = '\\/[\\d\\.]+';
+    var res = new RegExp('AppleWebKit'+ver+'(?: \\(.*\\))?'+group+'.* Chrome'+
+        ver+group+'.* Safari'+ver+group).exec(ua);
+    return res && (res[1]||res[2]||res[3]);
+}
+
+E.guess_browser = function(ua){
+    var res;
+    ua = ua || (is_browser ? window.navigator&&navigator.userAgent : '');
+    if (res = /\bOpera Mini\/(\d+)/.exec(ua))
+        return {browser: 'opera_mini', version: res[1]};
+    var ucbrowser = check_ucbrowser.exec(ua);
+    if (res = /[( ]MSIE ([6789]|10).\d[);]/.exec(ua))
+        return {browser: 'ie', version: res[1], xbox: check_xbox.test(ua)};
+    if (res = /[( ]Trident\/\d+(\.\d)+.*rv:(\d\d)(\.\d)+[);]/.exec(ua))
+        return {browser: 'ie', version: res[2], xbox: check_xbox.test(ua)};
+    if (res = / Chrome\/(\d+)(\.\d+)+.* Safari\/\d+(\.\d+)+/.exec(ua))
+    {
+        var opera = check_opera.exec(ua);
+        var edge;
+        if (edge = check_edge.exec(ua))
+            return {browser: 'edge', version: edge[1]};
+        return {browser: 'chrome', version: res[1],
+            android: ua.match(/Android/),
+            webview: ua.match(check_webview),
+            hola_android: check_hola.test(ua),
+            hola_app: check_android_cdn.test(ua),
+            hola_player_app: check_hola_player_app.test(ua),
+            chromium_based: check_chromium(ua),
+            opera: opera && !!opera[1],
+            opera_version: opera ? opera[1] : undefined,
+            ucbrowser: ucbrowser && !!ucbrowser[1],
+            ucbrowser_version: ucbrowser ? ucbrowser[1] : undefined,
+            webos_app: /Web0S/.test(ua),
+            samsung_browser: /SamsungBrowser/.test(ua)};
+    }
+    if (res = / QupZilla\/(\d+\.\d+\.\d+).* Safari\/\d+.\d+/.exec(ua))
+        return {browser: 'qupzilla', version: res[1]};
+    if (res = /\(PlayStation (\d+) (\d+\.\d+)\).* AppleWebKit\/\d+.\d+/
+        .exec(ua))
+    {
+        return {browser: 'playstation'+res[1], version: res[2]};
+    }
+    if (res = /\(SMART-TV; Linux; Tizen ([0-9.]+)\) AppleWebkit\//.exec(ua))
+        return {browser: 'samsung_tizen', version: res[1]};
+    if (res = / Version\/(\d+)(\.\d)+.* Safari\/\d+.\d+/.exec(ua))
+    {
+        if (!ua.match(/Android/))
+            return ios_ua(ua, res[1])||{browser: 'safari', version: res[1]};
+        return {browser: 'chrome', version: res[1], android: true,
+            webview: true, hola_android: check_hola.test(ua),
+            hola_app: check_android_cdn.test(ua),
+            hola_player_app: check_hola_player_app.test(ua),
+            ucbrowser: ucbrowser && !!ucbrowser[1],
+            ucbrowser_version: ucbrowser ? ucbrowser[1] : undefined,
+            samsung_browser: /SamsungBrowser/.test(ua)};
+    }
+    if (res = / (Firefox|PaleMoon)\/(\d+).\d/.exec(ua))
+    {
+        return {browser: 'firefox', version: res[2],
+            palemoon: res[1]=='PaleMoon'};
+    }
+    if (/Hola\/\d+\.\d+.*?(?:iPhone|iPad|iPod)/.exec(ua))
+        return {browser: 'safari', version: 'Hola'};
+    if (res = ios_ua(ua))
+        return res;
+    return {};
+};
+
+E.browser_to_string = function(browser){
+    if (typeof browser!='object' || !browser.browser)
+        return 'unknown';
+    var s = browser.browser=='ie' && browser.version>11
+        ? 'edge' : browser.browser;
+    if (browser.version)
+        s += ' '+browser.version;
+    if (browser.chrome)
+        s += ' chrome';
+    if (browser.firefox)
+        s += ' firefox';
+    if (browser.xbox)
+        s += ' xbox';
+    if (browser.android)
+        s += ' android';
+    if (browser.webview)
+    {
+        s += ' webview';
+        if (typeof browser.webview=='string')
+            s+='-'+browser.webview;
+    }
+    if (browser.chromium_based)
+        s += ' chromium_based';
+    if (browser.samsung_browser)
+        s += ' samsung';
+    if (browser.opera)
+    {
+        s += ' opera';
+        if (browser.opera_version)
+            s += '-'+browser.opera_version;
+    }
+    if (browser.hola_android)
+        s += ' hola_android';
+    if (browser.hola_app)
+        s += ' hola_app';
+    if (browser.hola_player_app)
+        s += ' hola_player_app';
+    if (browser.ucbrowser)
+    {
+        s += ' ucbrowser';
+        if (browser.ucbrowser_version)
+            s += '-'+browser.ucbrowser_version;
+    }
+    if (browser.palemoon)
+        s += ' palemoon';
+    if (browser.ios)
+        s += ' ios';
+    if (browser.webos_app)
+        s += ' webos_app';
+    return s ? s : 'unknown';
+};
+
+E.guess = function(ua, platform){
+    var res;
+    ua = ua || (is_browser ? navigator.userAgent : '');
+    platform = platform || (is_browser ? navigator.platform : '');
+    if (check_xbox.exec(ua))
+        return {os: 'xbox', mobile: false};
+    if (res = /Windows(?: NT(?: (.*?))?)?[);]/.exec(ua))
+    {
+        return {
+            os: 'windows',
+            version: win_versions[res[1]],
+            release_version: res[1],
+            arch: ua.match(/WOW64|Win64|x64/) ? '64' : '32',
+            mobile: false,
+        };
+    }
+    if (/Windows Phone/.exec(ua))
+        return {os: 'winphone', mobile: true};
+    if (res = /Macintosh.*; (?:Intel|PPC) Mac OS X (\d+[._]\d+)/.exec(ua))
+        return {os: 'macos', version: res[1].replace('_', '.'), mobile: false};
+    if (/Macintosh/.exec(ua))
+        return {os: 'macos', mobile: false};
+    if (/Web0S.*SmartTV/.exec(ua))
+    {
+        return {os: 'webos', version: /Chrome/.test(ua) ? '3' : '2',
+            mobile: false, tv: true};
+    }
+    if (res = /(Android|Andr0id)(?: (\d+\.\d+))?/.exec(ua))
+        return {os: 'android', version: res[2], mobile: true};
+    if (res = /(Linux|CrOS|OpenBSD|FreeBSD)(?: (x86_64|i686|arm))?/.exec(ua))
+    {
+        if (check_opera.test(ua) && res[1]=='Linux' && res[2]=='x86_64' &&
+            /^Linux arm/.test(platform))
+        {
+            // Opera Mobile bug
+            return {os: 'android', mobile: true};
+        }
+        return {
+            os: res[1].toLowerCase(),
+            arch: arch_mapping[res[2]],
+            nix: true,
+            mobile: false,
+        };
+    }
+    if (res = /(?:iPhone|iPad|iPod|iPod touch);.*?OS (\d+[._]\d+)/.exec(ua))
+        return {os: 'ios', version: res[1].replace('_', '.'), mobile: true};
+    if (/iPhone|iPad|iPod|HolaCDN iOS/.exec(ua))
+        return {os: 'ios', mobile: true};
+    if (/PLAYSTATION/.exec(ua))
+        return {os: 'ps', mobile: false};
+    // HitLeap Viewer (whatever it is) is Windows-only
+    if (/HitLeap Viewer/.exec(ua))
+        return {os: 'windows', mobile: false};
+    return {};
+};
+
+E.guess_device = function(ua){
+    var res;
+    ua = ua || (is_browser ? navigator.userAgent : '');
+    if (res = /(iPhone|iPad|iPod)/.exec(ua))
+        return {device: res[1].toLowerCase()};
+    return {};
+};
+
+E.support_fullscreen = function(){
+    return !!(is_browser && typeof document!='undefined' &&
+        (document.fullscreenEnabled||document.mozFullScreenEnabled||
+        document.webkitFullscreenEnabled||document.msFullscreenEnabled));
+};
+
+E.support_hover = function(){
+    if (!is_browser)
+        return false;
+    if (window.matchMedia && window.matchMedia('(hover: hover)').matches)
+        return true;
+    return !E.guess().mobile;
+};
+return E; }); }());
+
+        'use strict'; /*jslint node:true*//*global define*/
+let hola_versions = {
+    "windows": "1.114.353",
+    "windows_beta": "1.114.353",
+    "windows_0_percent": "1.114.353",
+    "windows_5_percent": "1.114.353",
+    "windows_20_percent": "1.114.353",
+    "windows_50_percent": "1.114.353",
+    "opera": "1.103.340",
+    "chrome": "1.115.990",
+    "chrome_dll": "1.7.333",
+    "torch_dll": "1.94.972",
+    "firefox_bootstrap_last": "1.31.414",
+    "firefox_signed0": "1.72.142",
+    "firefox_web_ext": "1.107.986",
+    "android": "1.115.515",
+    "android_5_percent": "1.115.966",
+    "android_premium": "1.115.515",
+    "android_premium_5_percent": "1.115.966",
+    "lum_android_sdk": "1.115.890",
+    "lum_android_sdk_beta": "1.115.890",
+    "lum_windows_sdk": "1.115.519",
+    "lum_windows_sdk_beta": "1.101.793",
+    "lum_windows_sdk_5_percent": "1.115.519",
+    "lum_net_svc": "1.116.230",
+    "lum_net_svc_beta": "1.116.230",
+    "lum_net_svc_5_percent": "1.116.230",
+    "android_vpn_api": "1.114.449",
+    "android_vpn_api_beta": "1.114.449",
+    "android_vpn_api_5_percent": "1.114.449",
+    "android_va": "1.115.890",
+    "android_va_5_percent": "1.115.890",
+    "android_phone_0_percent": "1.90.363",
+    "android_lum_va": "1.79.556",
+    "android_lum_va_md5": "10404971-2ede46d4",
+    "android_lum_va_5_percent": "1.79.556",
+    "android_lum_va_5_percent_md5": "10403095-de713a88",
+    "android_gps": "1.115.890",
+    "android_phone": "1.90.363",
+    "android_gps_5_percent": "1.115.890",
+    "ios": "2.04",
+    "chromium_br": "68.0.3440.75.7",
+    "web_installer": "1.0.6501.19545",
+    "chrome_adblock": "1.21.624",
+    "chrome_va": "1.103.95",
+    "lumext_chrome": "1.102.192",
+    "lumext_chrome_www": "1.56.287",
+    "mac": "1.0.21",
+    "mac_signature": "MCwCFG0tStpUfym55JlZvfViRNhl5h+gAhR/mp7WNjmD0idLlWmUDbdR9ngltg==",
+    "mac_svc": "1.102.617",
+    "cdn_hap_hls": "1.0.150",
+    "cdn_hola_player": "1.0.165",
+    "lum_local": "1.116.320",
+    "lum_local_md5": "c2ba6f743a8f73168da55466e960bff6"
+}
+;
+if (typeof define=='function')
+    define('/svc/versions.js', hola_versions);
+else
+    module.exports = hola_versions;
+
+        // LICENSE_CODE ZON
+'use strict'; /*jslint browser:true*/
+define('/www/hola/pub/site_load.js', ['/util/user_agent.js', 'hola_opt',
+    '/www/util/pub/inc_config.js', '/svc/versions.js'],
+    function(user_agent, hopt, inc_config, hola_versions){
+var perr = inc_config.perr||function(){};
+var E = {};
+E.cdn4 = 'cdn4.hola.org';
+E.GDL = {
+    firefox_signed: {
+        name: 'Firefox Signed',
+        cls: 'firefox_signed',
+        url: '/firefox_signed_last.xpi',
+    }, chrome: {
+        name: 'Chrome',
+        cls: 'chrome',
+        url: 'https://chrome.google.com/webstore/detail/hola-better-internet'
+        +'/gkojfkhlekighikafcpjkiklfbnlmeio',
+        adblock_url: 'https://chrome.google.com/webstore/detail/hola-adblock'
+        +'/lalfpjdbhpmnhfofkckdpkljeilmogfl',
+        va_url: 'https://chrome.google.com/webstore/detail/hola-video-'
+        +'accelerator/chgpmaaockmdehmidghebcjafhihlgha',
+    }, opera: {
+        name: 'Opera',
+        cls: 'opera',
+        url: '/opera_last.crx',
+        id: 'ekmmelpnmfdegjhnmadddcfjcahpajnm',
+    }, cws_plugin: {
+        name: 'Chrome',
+        cls: 'chrome',
+        url: 'https://chrome.google.com/webstore/detail/hola-better-internet'
+        +'/mhcmfkkjmkcfgelgdpndepmimbmkbpfp',
+    }, android: {
+        name: 'Android',
+        cls: 'android',
+        url: 'market://details?id=org.hola',
+    }, android_premium: {
+        name: 'Android',
+        cls: 'android',
+        url: 'market://details?id=org.hola.prem',
+    }, android_va: {
+        name: 'Android',
+        cls: 'android',
+        url: 'market://details?id=org.hola.va',
+    }, windows: {
+        name: 'Windows',
+        cls: 'windows',
+        url: '/download',
+    }, mac: {
+        name: 'Mac OS',
+        cls: 'mac',
+        url: '/mac',
+    }, ios: {
+        name: 'iPhone/iPad',
+        cls: 'ios',
+        url: 'https://itunes.apple.com/il/app/hola-privacy-vpn/'
+        +'id903869356?mt=8',
+    }, xbox: {
+        name: 'Xbox/Xbox 360/Xbox One',
+        cls: 'xbox',
+        url: '/plus?ref=xbox',
+    }, ps: {
+        name: 'Playstation/Playstation 2/Playstation 3/Playstation 4',
+        cls: 'ps',
+        url: '/plus?ref=playstation',
+    },
+};
+function ga_send(type, category, action, label, non_interaction){
+    window.ga(function(){
+        window.ga('send', {hitType: type, eventCategory: category,
+            eventAction: action, eventLabel: label,
+            nonInteraction: non_interaction});
+    });
+}
+E.get_inline_url = function(url){
+    var tokens = /\/(?:hola-adblock|hola-better-internet|hola-video-accelerator)/gi;
+    return url.replace(tokens, ''); };
+E.inline_install_url = E.get_inline_url(E.GDL.chrome.url);
+E.inline_adblock_url = E.get_inline_url(E.GDL.chrome.adblock_url);
+E.inline_va_url = E.get_inline_url(E.GDL.chrome.va_url);
+
+function use_new_setup(_hopt, sys){
+    return _hopt.enable_new_installer &&
+        ['7', '8', '8.1', '10.0'].includes(sys.version);
+}
+
+E.get_exe_link = function(_hopt, sys, versions){
+    var static_path = use_new_setup(_hopt, sys) ?
+        '/setup/'+versions.web_installer : '';
+    return '//'+E.cdn4+'/static'+static_path+'/'+
+        E.get_exe_filename(_hopt, sys, versions);
+};
+
+E.get_exe_filename = function(hopts, sys, versions){
+    if (sys.os=='macos')
+        return 'HolaVPN-'+versions.mac+'.dmg';
+    return E.get_windows_exe_filename(hopts, sys, versions);
+};
+
+E.get_windows_exe_filename = function(_hopt, sys, versions){
+    var prefix = 'Hola-Setup';
+    if (use_new_setup(_hopt, sys))
+        return prefix+'.exe';
+    var suffix = '-'+versions.windows+'.exe';
+    if (sys.arch=='64')
+        return prefix+'-x64'+suffix;
+    return prefix+suffix;
+};
+
+var b = user_agent.guess_browser();
+E.select_dl = function(install_cws_plugin, flow, premium){
+    var os = user_agent.guess().os;
+    if (os=='android')
+    {
+        return flow=='accelerator' ? E.GDL.android_va : premium ?
+            E.GDL.android_premium : E.GDL.android;
+    }
+    if (os=='ios')
+        return E.GDL.ios;
+    if (os=='ps')
+        return E.GDL.ps;
+    if (os=='xbox')
+        return E.GDL.xbox;
+    if (b.browser=='firefox')
+        return E.GDL.firefox_signed;
+    if (b.browser=='chrome' && !!b.opera)
+        return E.GDL.opera;
+    if (b.browser=='chrome')
+    {
+        if (os=='windows')
+            return E.GDL.windows;
+        return install_cws_plugin ? E.GDL.cws_plugin : E.GDL.chrome;
+    }
+    if (os=='macos')
+        return E.GDL.mac;
+    return E.GDL.windows;
+};
+
+E.install_chrome = function(event, url, inline_url){
+    if (!window.chrome||!window.chrome.webstore||+b.version<31)
+        return;
+    if (event)
+        event.preventDefault();
+    if (E.install_chrome.pending)
+        return;
+    if (E.redirect_to_store_needed())
+        return location.href = url;
+    E.install_chrome.pending = true;
+    function success(){}
+    function error(msg, code){
+        E.install_chrome.pending = false;
+        if (msg=='User cancelled install')
+            return;
+        location.href = url;
+    }
+    window.chrome.webstore.install(inline_url, success, error);
+};
+
+E.install_chrome_ext = function(event){
+    E.install_chrome.call(this, event, E.GDL.chrome.url, E.inline_install_url);
+};
+
+E.install_chrome_adblock = function(event){
+    if (document.documentElement.attributes.hola_adblocker_ext_present)
+    {
+        if (event)
+            event.preventDefault();
+        location.href='/adblocker';
+    }
+    else
+    {
+        E.install_chrome.call(this, event, E.GDL.chrome.adblock_url,
+            E.inline_adblock_url);
+    }
+};
+
+E.install_chrome_va = function(event){
+    if (document.documentElement.attributes.hola_va_ext_present)
+    {
+        if (event)
+            event.preventDefault();
+        location.href='/accelerator';
+    }
+    else
+    {
+        E.install_chrome.call(this, event, E.GDL.chrome.va_url,
+            E.inline_va_url);
+    }
+};
+
+E.init_simple_download = function(){
+    E.init_simple_download_by_class('detect-install2-vpn');
+    E.init_simple_download_by_class('detect-install2-browser');
+    E.init_simple_download_by_class('detect-install2-adblock');
+    E.init_simple_download_by_class('detect-install2-accelerator');
+    E.init_simple_download_by_class('detect-install2-windows');
+};
+
+function mousedown_cb(evt){
+    var el = evt.currentTarget;
+    var product = el.getAttribute('data-product');
+    var source = el.getAttribute('data-source');
+    ga_send('event', 'www_site_load', 'click_'+product, source);
+    perr({id: 'www_site_load_clicked', info: location.href,
+        product_type: product, source: source});
+}
+
+E.init_simple_download_by_class = function(_class){
+    var dl = E.select_dl();
+    var tags = document.getElementsByClassName(_class);
+    var is_adblock = /adblock/.test(_class) && b.browser=='chrome';
+    var is_va = /accelerator/.test(_class) && b.browser=='chrome';
+    var product = is_adblock ? 'ab' : is_va ? 'va' : 'vpn';
+    var exe_link;
+    if (/windows/.test(_class))
+        exe_link = E.get_exe_link(hopt, user_agent.guess(), hola_versions);
+    var tag;
+    for (var i=0; i<tags.length; i++)
+    {
+        tag = tags[i];
+        if (tag.tagName!='A'
+            || tag.getAttribute('data-simple_download_initialized'))
+        {
+            continue;
+        }
+        if (exe_link)
+        {
+            tag.href = exe_link;
+            tag.setAttribute('data-simple_download_initialized', true);
+            continue;
+        }
+        tag.setAttribute('data-product', tag.getAttribute('data-product')
+            ||product);
+        tag.setAttribute('data-source', tag.getAttribute('data-source')
+            ||tag.getAttribute('id')||'');
+        tag.addEventListener('mousedown', mousedown_cb, false);
+        if (is_adblock)
+            tag.href = E.GDL.chrome.adblock_url;
+        else if (is_va)
+            tag.href = E.GDL.chrome.va_url;
+        else
+            tag.href = dl.url;
+        tag.rel = dl.cls;
+        if (dl.cls=='chrome'||is_adblock||is_va)
+        {
+            var install_chrome = E.install_chrome_ext;
+            if (is_adblock)
+                install_chrome = E.install_chrome_adblock;
+            else if (is_va)
+                install_chrome = E.install_chrome_va;
+            tag.addEventListener('click', install_chrome, false);
+        }
+        tag.setAttribute('data-simple_download_initialized', true);
+    }
+    init_reinstall_hover_behavior(_class);
+};
+
+function init_reinstall_hover_behavior(_class){
+    var reinstall_btn=document.querySelector('.link.'+_class);
+    var icon_el =document.querySelector('.reinstall-icon-container');
+    if (!reinstall_btn||!icon_el)
+        return;
+    reinstall_btn.addEventListener('mouseenter', function(){
+        icon_el.classList.add('hovered');
+    });
+    reinstall_btn.addEventListener('mouseleave', function(){
+        icon_el.classList.remove('hovered');
+    });
+}
+
+E.uninit_simple_download = function(a){
+    for (var i=0; i<a.length; i++)
+    {
+        a[i].removeEventListener('click', E.install_chrome_ext, false);
+        a[i].removeEventListener('click', E.install_chrome_adblock, false);
+        a[i].removeEventListener('click', E.install_chrome_va, false);
+        a[i].removeEventListener('mousedown', mousedown_cb, false);
+        a[i].removeAttribute('data-simple_download_initialized');
+    }
+};
+
+E.redirect_to_store_needed = function(){
+    return b.browser=='chrome' && !b.opera && !window.opr; };
+
+return E; });
+
+    }());
+    require(['/www/hola/pub/site_load.js'], function(site_load){
+        site_load.init_simple_download(); });
+    window.hola_min_require.uninstall();
+</script>
+
+<script>
   
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -394,14 +1422,14 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   window.ga('send', 'pageview');
 </script>
 
-<script src="//f9t5n3y6.map2.ssl.hwcdn.net/require.js?md5=87196-3d508f85"></script>
+<script src="//cdn4.hola.org/require.js?md5=87196-3d508f85"></script>
 <script>
 // LICENSE_CODE ZON
 'use strict'; /*jslint browser:true*/
 define('hola_opt', function(){
     var opt;
     // jshint ignore:start
-    opt = {"version":"1.97.456","user_ip":916798215,"user_country":"US","notify_upgrade_min_version":"1.2.676","enable_new_installer":true,"www_hola":{"faq_support_active":false,"purechat_active":false,"vpn_signup_require":false,"download_flow":"blue","svc_check":false,"exclude_rating":[],"pages_override":{"/premium.html":"order.html","/uninstall.html":"uninstall_premium.html"},"enable_new_installer":true,"mac_exp":true}};
+    opt = {"version":"1.116.381","user_ip":3488737465,"user_country":"US","notify_upgrade_min_version":"1.2.676","enable_new_installer":true,"www_hola":{"faq_support_active":false,"purechat_active":false,"vpn_signup_require":false,"download_flow":"blue","svc_check":false,"exclude_rating":[],"pages_override":{"/plus.html":"order.html","/premium.html":"order.html","/trialsignup.html":"order.html","/uninstall.html":"uninstall_premium.html"},"enable_new_installer":true,"www_hide_plans":false,"homepage_plus_top":true,"plus_timer_sec":34749,"price_widget":0,"test_placebo":0.5}};
     // jshint ignore:end
     if (typeof window.ga=='function')
     {
@@ -414,8 +1442,8 @@ define('hola_opt', function(){
 </script>
 
     <script>
-  require(['//s6m9m3g5.map2.ssl.hwcdn.net/www/hola/pub/config.js?md5=107253-fcc876ba'], function(config){
-      config.init({"ver":"1.97.456","cdn_path":"//ajax.cdnjs.com/ajax/libs"});
+  require(['//cdn4.hola.org/www/hola/pub/config.js?md5=103719-8ae5cd4a'], function(config){
+      config.init({"ver":"1.116.381","cdn_path":"//ajax.cdnjs.com/ajax/libs"});
       require(['/www/hola/pub/site.js'], function(site){
           site.generic_page({"country_code":"US","template":"/legal/privacy.html"});
       });
