@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526050143id_/http%3A//leadoutcome.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217194704id_/http%3A//leadoutcome.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -29,6 +29,6 @@ The LeadOutcome import wizard uses a technology called Context.IO. When you use
 
 You can learn more about how we use anonymous data in our Privacy FAQ (<https://context.io/privacy-faq>). Basically, we redact all personally identifiable information and then use the anonymous and aggregated reports to improve spam filters, report phishing attacks, improve deliverability, etc.
 
-  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.leadoutcome.com%2Flegal%2Fprivacy&linkname=Privacy%20Statement)
+  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fleadoutcome.com%2Flegal%2Fprivacy&linkname=Privacy%20Statement)
 
 
