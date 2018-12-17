@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boagworld.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615173702id_/https%3A//boagworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boagworld.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217090658id_/https%3A//boagworld.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy on Boagworld, Explained in Plain English
 
@@ -77,7 +77,3 @@ If any of the above concerns you, [let me know](mailto:paul@boagworld.com). I wi
 
 
 I hope you can see, I am as open and transparent as I can be about your privacy, but if you have any questions please [drop me an email](mailto:paul@boagworld.com).
-
-[](https://boagworld.academy/p/conversion-rate-optimisation/?product_id=639215&coupon_code=CRO)
-
-Preorder my self-learning video course for $100 off!
