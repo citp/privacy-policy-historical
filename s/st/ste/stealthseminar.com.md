@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stealthseminar.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527115218id_/http%3A//www.stealthseminar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthseminar.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217091359id_/http%3A//www.stealthseminar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stealth Seminar | Stealth Seminar
 
