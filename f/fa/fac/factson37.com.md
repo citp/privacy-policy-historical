@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factson37.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611024918id_/http%3A//factson37.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factson37.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217033214id_/http%3A//factson37.com/privacy) for the most accurate reproduction.*
 
 # [Privacy Policy] | Factson37.com
 
