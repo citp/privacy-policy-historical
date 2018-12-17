@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611024851id_/http%3A//www.pointsoflight.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217194920id_/http%3A//www.pointsoflight.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Points of Light
 
@@ -67,16 +67,13 @@ This website contains links to other websites. We have no control over, and are 
 **How does Points of Light protect children's information?**  
 Points of Light respects the sensitive nature of children's privacy online. We are a general audience site, and do not direct our content specifically at children under thirteen (13) years of age. If Points of Light learns that a user is under age 13, Points of Light will delete the child's information from our systems.
 
-**Can I opt out of allowing Points of Light to use my personally identifiable information?**  
-Points of Light allows you to remove your information from our database in order to stop receiving future communications from Points of Light at [www.pointsoflight.org/preference-center/opt-out](http://www.pointsoflight.org/preference-center/opt-out).
-
 **What type of security does the website employ?**  
 The website uses encrypted authentication technology when you login to the website in an effort to provide a secure environment that is protected from third party access, alteration, theft or misuse of the personal information gathered or confirmed at registration.
 
 **How can I update my information?**  
-Points of Light gives you the opportunity to change or modify information you have previously provided by sending an e-mail to [listen@pointsoflight.org](mailto:privacy@pointsoflight.org).
+Points of Light gives you the opportunity to change or modify information you have previously provided by sending an e-mail to [info@pointsoflight.org](mailto:info@pointsoflight.org).
 
 **How can I contact Points of Light?**  
-If you have any questions about this privacy statement, the practices of this site, or your interaction with website, please feel free to contact us at [listen@pointsoflight.org](mailto:privacy@pointsoflight.org).
+If you have any questions about this privacy statement, the practices of this site, or your interaction with website, please feel free to contact us at [info@pointsoflight.org](mailto:info@pointsoflight.org).
 
 Any of the policies or procedures above may be changed at any time without prior notice.
