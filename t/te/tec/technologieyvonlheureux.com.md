@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologieyvonlheureux.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618010144id_/http%3A//www.technologieyvonlheureux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologieyvonlheureux.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217163628id_/http%3A//technologieyvonlheureux.com/privacy) for the most accurate reproduction.*
 
 # Social2Search.com | Privacy
 
