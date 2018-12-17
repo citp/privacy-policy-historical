@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familysurvivalsystem.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614123233id_/http%3A//familysurvivalsystem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familysurvivalsystem.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217113719id_/http%3A//www.familysurvivalsystem.com/privacy.html) for the most accurate reproduction.*
 
 # FSS Privacy
 
@@ -36,4 +36,4 @@ We may disclose and use personally identifiable information in special circumsta
 **5\. CHANGES TO THIS POLICY** FamilySurvivalSystem.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
   
-**6\. CONTACT INFORMATION** : For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/cdn-cgi/l/email-protection#6444171114140b1610240205090d081d171116120d120508171d17100109171114140b16104a070b09).
+**6\. CONTACT INFORMATION** : For questions regarding this Privacy Policy please [Contact us](mailto:%20support@familysurvivalsystemsupport.com).
