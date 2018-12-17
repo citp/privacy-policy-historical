@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609154810id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217034339id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # linkroll - collaborative web bookmarks and link blogs
 
 ADVERTISEMENT
 
-No promo codes required. Save $3 when you spend $20, Save $5 when you spend $30
+Willkommen bei Newchic.comDie Geschichte:2015 startete Newchic.com mit der Vision junge Mode bezahlbar zu machen. Inzwischen ist Newchic.com eine globale Marke, welche weltweit die neuesten Styles anbietet.Sortiment:NewChick bietet eine große Auswahl der neuesten Trends im Bereich Mode Accessoires s
 
-Unser Zubehör für das nagelneue iPhone X ist eingetroffen!
+Code: SDKWANKO. $20-$3,$50-$7.5,$60-$9,$80-$12,$100-$15,$120-$18,$150-$22.5,$180-$27,$240-$36,$300-$45
 
-Code: FEMMEDL1. 3.5€ de remise dès 26.6€, 6.2€ de remise dès 44.3€, 8.8€ de remise dès 70.9€ sur les vêtements femme. Valide jusqu'au 30/03/2018.
+Bei BH Cosmetics gibt es die Produktreihe Illuminate by Ashley Tisdale. Jetzt die stylishen Farben und Paletten entdecken!
 
 This is the web site of  **LinkRoll.com**.
 
 Our postal address is   
   
-We can be reached via e-mail [here](https://web.archive.org/web/20180609154810id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
+We can be reached via e-mail [here](https://web.archive.org/web/20181217034339id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
@@ -55,8 +55,8 @@ If you feel that this site is not following its stated information policy, you m
 
 ADVERTISEMENT
 
-Code: GBTE. -15% sur les outiles @GearBest
+Code: BEMINE214. Super Presente Para Dia dos Namorados Sobre a coleção de moda (Jóias, relogios, prata esterlina)
 
-Code: СРОЖДЕСТВОМ2018. Promo code requires. The deal applies to all categories of goods. The deal is not available for goods on sale.(45$ for Order $ 300 +,20-3,50-7.5,60-9,80-12,100-15,120-18,150-22.5,180-27,240-36,300-45)
+Code: MAISONRG1. 2,55 € de réduction dès 17,02€; 3.4 € de réduction dès 25.54€; 6.81€ de réduction dès 51.07€ sur les articles maison et jardin.
 
-Code: SMART888. promo code required
+Liquid Web, LLC. is a managed web hosting company providing the best hosting products and support. With over 15 years of experience, 24/7/365 on-site Heroic Support® and 3 wholly-owned data centers. We offer fast and reliable VPS, Storm Cloud, Dedicated Server, HIPAA Server and Word Press plans, wit
