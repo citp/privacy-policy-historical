@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615155718id_/http%3A//www.animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217031014id_/http%3A//www.animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
 
 # Anime Boston - The Northeast's Largest Anime Convention
 
@@ -27,7 +27,7 @@ _Anime Boston and the New England Anime Society will not distribute your informa
   * Anime Boston Registration Customer Service and Outreach Staff and Anime Boston Executives have access to pre-registration information which is required to perform their staff duties.
   * Our pre-registration database is stored with our hosting provider, Expologic. They do not share any information with third parties.
   * Expologic provides our on-site registration services. Anime Boston retains full ownership of all registration information and will not permit subcontractors to distribute any information.
-  * Your emergency contact phone number may be provided to police and EMS if they have need to communicate with your emergency contact. Your emergency contact phone number will be removed from the Anime Boston database within seven (7) days of Anime Boston .
+  * Your emergency contact phone number may be provided to police and EMS if they have need to communicate with your emergency contact.
   * Your birthdate is used to determine your membership rate, required registration information, and for demographic purposes. Your age is stored, but not your birthdate.
   * Your gender is used solely for demographic purposes.
   * As enumerated above in "How This Information is Used," limited information may be provided to the general public.
@@ -46,6 +46,8 @@ Children under the age of 13 are given special rates for admission to Anime Bost
 
 All child attendees must submit a permission form, which is provided in the registration process. A parent or legal guardian must sign to confirm permission to use the child's personal data as outlined in this policy.
 
-Sixty days after the conclusion of Anime Boston , the first name, last name, street address (but not city), and email address for any child attendee will be wiped from our database.
+Sixty days after the conclusion of the current convention year of Anime Boston, the first name, last name, street address (but not city), and email address for any child attendee will be wiped from our database.
+
+**These policies may be modified at any time deemed necessary by Anime Boston Staff.**
 
 **Registrations are non-refundable, non-replaceable, and non-transferable.** See our [Registration Policies](https://web.archive.org/registration/registration_policy/) for details. Pre-registrants will receive their badges at the convention. Bring a photo ID (driver's license, passport, etc.) to the convention when you pick up your badge. Hotel accommodations are not included with registration - [contact the hotel directly](https://web.archive.org/location/hotel_info/) to reserve a room.
