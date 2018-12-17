@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondtherack.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605061917id_/http%3A//www.beyondtherack.com/info/privacy/simple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondtherack.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217075124id_/http%3A//www.beyondtherack.com/info/privacy/simple) for the most accurate reproduction.*
 
 # Privacy - Beyond the Rack
 
@@ -10,7 +10,7 @@ Last Updated on 03/02/2017
 
 _
 
-Your privacy is important to Beyond the Rack . So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions by either: 
+Beyond the Rack is owned and operated by 9721444 Canada Inc. Your privacy is important to Beyond the Rack . So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions by either: 
 
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
   * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET or
@@ -210,11 +210,11 @@ We use the information that we collect to allow advertising to be targeted to th
 
 We may use demographic and preference information to allow advertising on the BTR Service to be targeted, in aggregate, to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We disclose information to third parties only in aggregate form. 
 
-BTR will periodically send you promotional emails about services offered by Beyond the Rack and its advertisers. For details about Beyond the Rack’s mail policy, please see the section labeled "Email and Telephone Policy" below. 
+BTR will periodically send you promotional emails about services offered by Beyond the Rack. For details about Beyond the Rack’s mail policy, please see the section labeled "Email and Telephone Policy" below. 
 
-BTR will periodically call you to explain emails about services offered by Beyond the Rack and its advertisers. For details about Beyond the Rack’s telephone policy, please see the section labeled "Email and Telephone Policy" below. 
+BTR will periodically call you to explain emails about services offered by Beyond the Rack. For details about Beyond the Rack’s telephone policy, please see the section labeled "Email and Telephone Policy" below. 
 
-If you have registered to use the BTR Services, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form. 
+If you have registered to use the BTR Services, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you. We do, however, share information about our audience in aggregate form. 
 
 We contract with other companies to provide services on our behalf, including hosting the Website, operating various features made available on the Website, sending emails, analyzing data, providing search results and links, credit-card and payment processing, shipping, email distribution, list processing and analytics, customer service through live chat software, order fulfillment or promotions management. 
 
