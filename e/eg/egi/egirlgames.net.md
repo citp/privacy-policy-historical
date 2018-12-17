@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egirlgames.net privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608184650id_/https%3A//www.egirlgames.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egirlgames.net privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217040021id_/https%3A//www.egirlgames.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eGirlGames.net
 
