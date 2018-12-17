@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029130733id_/http%3A//www.scheels.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217041434id_/https%3A//www.scheels.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,8 @@ SCHEELS may gather and store the following information:
   6. Communications with SCHEELS customer service experts, such as phone, e-mail, and online chat conversations.
   7. Device and location information provided by a device connected to SCHEELS’ in-store Wi-Fi services.Additional third parties, including legal requirements as required or allowed by applicable law to prevent theft, crime and fraud to protect SCHEELS, you, our customers or additional third parties. 
   8. Videos and photographs obtained by surveillance systems inside and outside of our stores.
+  9. SCHEELS VISA information related to a SCHEELS credit card is _ONLY_ approved or denied by our banking partners. Sensitive information relating to your VISA account, including personal information, balance, payments and credit card limits, are only given through our secure VISA bank partners, _NOT_ SCHEELS stores or SCHEELS.com.
+  10. Social Media Platforms, including Facebook, Twitter, Instagram, and YouTube, are used on our website through features, such as the Twitter “share this” button. With these features, information may be collected including your IP address, the page you’re visiting, and cookies may be set to enable the features to function properly. Interactions with these social media features is governed by the privacy policy of the social media company providing the feature.
 
 
 
@@ -68,7 +70,12 @@ In addition to the means previously described in this policy, SCHEELS may collec
 
 With varying frequency, SCHEELS may additionally employ the following technological means used to analyze and process customer data:
 
-  1. Cookies. Cookies are strings of information that a website stores on a visitor’s computer, which the visitor’s browser provides to the website each time the visitor returns.
+  1. Cookies. Cookies are strings of information that a website stores on a visitor’s computer, which the visitor’s browser provides to the website each time the visitor returns. 
+    1. Analyze trends in accordance to site performance to determine which features on our site are effective and which features can be improved;
+    2. Administer the site to ensure features are functioning properly and efficiently for a better customer service experience;
+    3. Track visits to our site and pages to determine customer interaction;
+    4. Tailor your visits to our site based of settings and preferences to create a personalized shopping experience; and
+    5. To help identify and prevent security risks to ensure a safe and secure site.
   2. Web Beacons and Pixel Tags. Web beacons and pixel tags are virtually transparent images and blocks of code which are typically used in combination with cookies, and which monitor the behavior of a visitor to SCHEELS online stores.
   3. Log Files. Log files are files maintained by our servers which contain a history of page requests.
   4. Flash Software. Software which may be installed by Adobe Systems, Inc., that is required to access certain online store functions which require the Flash platform to function.
@@ -125,10 +132,11 @@ We are committed to providing transparency to our customers regarding the collec
 
 If you have questions about what personal information we have collected, or wish to make specific requests regarding our use of that information, we encourage you to take advantage of the following options:
 
-  1. If you are receiving promotional materials from us via e-mail, you may unsubscribe from our e-mail list at any time. Please click the “UNSUBSCRIBE” link at the bottom of an e-mail, or contact our customer service experts at the address below.
-  2. If you are receiving promotional materials from us via standard mail, you may unsubscribe from such mailings at any time by contacting our customer service experts at the address below.
-  3. Manage your user profile settings to control what information may be made public, such as “wish list” items.
-  4. If you have any questions about what personal information we have collected and/or shared, who your information has been shared with, the nature of any third-party recipient’s business, or have any concerns about how your information is being used, please contact our customer service experts:
+  1. Cookie settings, for most browsers, are set to enable cookies by default. If you would like to disable cookies change the settings of your web browser to remove or reject cookies automatically. For further cookie browser details, [click here for PC settings](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) and [click here for Apple settings.](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/12.0/mac/10.14)
+  2. If you are receiving promotional materials from us via e-mail, you may unsubscribe from our e-mail list at any time. Please click the “UNSUBSCRIBE” link at the bottom of an e-mail, or contact our customer service experts at the address below.
+  3. If you are receiving promotional materials from us via standard mail, you may unsubscribe from such mailings at any time by contacting our customer service experts at the address below.
+  4. Manage your user profile settings to control what information may be made public, such as “wish list” items.
+  5. If you have any questions about what personal information we have collected and/or shared, who your information has been shared with, the nature of any third-party recipient’s business, or have any concerns about how your information is being used, please contact our customer service experts:
     1. By phone: [701-356-8264](tel:+1-701-356-8264)
     2. By e-mail: [privacy@scheels.com](mailto:privacy@scheels.com)
     3. By mail:   
@@ -143,15 +151,75 @@ Fargo, ND 58103
   
 
 
-## 9\. Miscellaneous
+## 9\. What are my California Privacy Rights?
+
+SCHEELS Privacy Policy describes how we collect, use and share personal information that you, the customer, provide to us. As a California resident and SCHEELS customer, you have the right to request personal information from SCHEELS that we distribute to third parties. California law provides once a year you have the right to submit a request to SCHEELS designated address and receive the following: 
+
+##### [+] More
+
+  1. The categories of information SCHEELS disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year.
+  2. The names and addresses of third parties that received such information
+  3. If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed.
+
+
+
+You are entitled to receive a copy of information in a standardized format and the information will not be specific to you individually. For further details, SCHEELS designated email address for such a request is privacy@scheels.com.
+
+  
+
+
+## 10\. What are the California 65 and 67 Propositions?
+
+The following propositions are to be followed accordingly by the state of California:
+
+##### [+] More
+
+  1. Proposition 65:   
+Proposition 65, officially known as The Safe Drinking Water and Toxic Enforcement Act of 1986, addresses the concerns about the exposure of toxic chemicals. This requires that all businesses place a warning label on all products containing toxic chemicals found by the California Air Resources Board considered to cause cancer or reproductive toxicity. Wordage may vary depending on products and certain chemicals, through a general Proposition 65 notice is as follows: 
+
+WARNING: You have purchased an item that contains a chemical known to the state of California to cause, birth defects or other reproductive harm.
+
+For further detail on Proposition 65, [click here for warnings](https://www.p65warnings.ca.gov/new-proposition-65-warnings) and [click here for regulations](https://oehha.ca.gov/proposition-65/law/proposition-65-law-and-regulations).
+
+  2. Proposition 67:   
+Proposition 67, officially known as the Single-Use Carryout Bag Ban (SB 270), was approved by voters in the state of California on November 8th, 2016 to help reduce waste and pollution. This ban prohibits the use of single-use plastic bags by most grocery stores, retail stores with a pharmacy, convenience stores, food marts, and liquor stores. These stores should instead provide an option for customers to purchase reusable bags or recycled bags at the point of purchase for at least 10 cents. 
+
+[For more information on Proposition 67, click here](https://www.calrecycle.ca.gov/Plastics/CarryOutBags/)
+
+
+
+
+  
+
+
+## 11\. What is the General Data Protection Regulation (GDPR)?
+
+The General Data Protection Regulation (GDPR) is a legal framework requiring a business to protect the privacy of an individual, a company or an organization of personal data relating to European Union (EU) citizens. Under this law, personal data that should remain protected includes the following:
+
+##### [+] More
+
+  1. Information that can identify any individual, including any information that has been de-identified, encrypted or pseudonymized.
+  2. Rendered anonymous, irreversible data that can no longer identify an individual is not considered personal data. 
+  3. Automated and manually processed information in pre-defined criteria, including all data stored systems. 
+  4. Wholly or partly processed personal data that’s automated as well as non-automated processing, if it’s part of a structured filing system. 
+  5. Information containing a name or surname, home address, email address, identification card number, location data, Internet Protocol (IP) address, cookie ID, and advertising identifier of your phone. 
+
+
+
+[Click here to learn more about GDPR](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en)
+
+  
+
+
+## 12\. Miscellaneous
 
   1. Our online stores and websites are intended for a general audience and not directed to children. We abide by the Children’s Online Privacy Protection Act (COPPA) and do not knowingly accept information from children under the age of 13, unless there has been verified parental consent. If you, the parent, believe your child may have provided unverified information without your consent at one of our physical or online stores, please contact us immediately at [privacy@scheels.com](mailto:privacy@scheels.com), or [701-356-8264](tel:+1-701-356-8264).
   2. In the course of improving our services and products for you, we will change this policy to meet those ends. We will notify you when we update this policy by posting the updated policy on our websites and online stores, and by sending you an e-mail with an updated policy notice. We encourage you to review the policy to stay informed about how we continue to strive to create a personalized and safe shopping experience at SCHEELS.
-  3. This policy is effective October, 2017.
+  3. This policy is effective November 5, 2018.
 
 
 
-Click to view our [previous privacy policy](http://www.scheels.com/privacy-policy-old.html).
+Click to view our [previous privacy policy](https://www.scheels.com/privacy-policy-old.html).
 
   
 
