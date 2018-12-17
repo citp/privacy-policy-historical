@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresh.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629181404id_/http%3A//www.fresh.com/US/customer-service-links/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresh.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217083431id_/http%3A//www.fresh.com/US/customer-service-links/privacy-policy.html) for the most accurate reproduction.*
 
 # Fresh - Privacy Policy
 
@@ -6,7 +6,7 @@ PRIVACY POLICY
 
 Fresh.com (the “Website”) is published and maintained by Fresh, Inc., with offices located at 19 East 57th Street, New York, NY (“Fresh,” “we” or “us”).
 
-This privacy policy (“Privacy Policy”) describes our policies regarding the collection, use and disclosure of information on or through the Website and when applying for or using your membership in the Fresh Family Rewards Program (the “Membership”) in our retail store locations. By visiting this Website or applying for Membership, and/or using the services offered on or through this Website, you agree to the terms of this Privacy Policy as they may be amended from time to time. If you do not agree with any term in this Privacy Policy, you should not use this Website or apply for Membership. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Website Terms of Use, which governs your use of this Website. You can read our Terms of Use by clicking _**[here](https://www.fresh.com/customer-service-links/TermsOfUse.html).**_
+This privacy policy (“Privacy Policy”) describes our policies regarding the collection, use and disclosure of information on or through the Website and when applying for or using your membership in the Fresh Family Rewards Program (the “Membership”) in our retail store locations. By visiting this Website or applying for Membership, and/or using the services offered on or through this Website, you agree to the terms of this Privacy Policy as they may be amended from time to time. If you do not agree with any term in this Privacy Policy, you should not use this Website or apply for Membership. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Website Terms of Use, which governs your use of this Website. You can read our Terms of Use by clicking **[here](https://www.fresh.com/customer-service-links/TermsOfUse.html).**
 
 This Privacy Policy only applies to Personal Information (as defined below) that we collect through this Website and your online interactions with us via email, online forms, or other online communications as well as Personal Information you provide to us, or that we may obtain, in person at one of our retail stores, provided that this Privacy Policy does not apply to any Personal Information that you provide in one of our public or interactive areas of the Website (see the “Public and Interactive Areas of Our Website; Ratings & Reviews” section below). This Privacy Policy also does not apply to information that you may provide to us, or that we may obtain, other than through this Website or in person at our retail stores, such as by phone, through postal mail or through other live and print media. We may interact with you on third party sites where we post content or invite your feedback, such as Facebook or Twitter. This Privacy Policy does not cover the privacy policies of these third party websites. You are responsible for viewing and abiding by the privacy policies and terms of use posted on these third party sites. See also “Links to Third Party Websites” below).
 
@@ -48,7 +48,7 @@ For managing cookies and your choices, the configuration of each browser is diff
 
 You can also click on Advanced for specialized cookie treatment.
 
-Instructions for blocking cookies in other browsers are available at _**<http://www.allaboutcookies.org/manage-cookies/>**_.
+Instructions for blocking cookies in other browsers are available at **<http://www.allaboutcookies.org/manage-cookies/>**.
 
 Clear GIFs
 
@@ -128,11 +128,11 @@ In the unlikely event that we believe that the security of your Personal Informa
 
 Public and Interactive Areas of Our Website; Ratings & Reviews
 
-We may from time to time provide interactive services on our Website, including, without limitation, Ratings & Reviews, blogs, chat rooms, bulletin boards and discussion groups. Your use of such interactive services are at your own risk. Personal Information that you post on or through the public areas of the Website are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. You should not provide Personal Information about yourself in public or interactive areas of the Website. Such Personal Information is not covered under this Privacy Policy. For additional terms of using any of our interactive services, please see our Terms of Use located at [_**https://www.fresh.com/customer-service-links/TermsOfUse.html**_](https://www.fresh.com/customer-service-links/TermsOfUse.html)
+We may from time to time provide interactive services on our Website, including, without limitation, Ratings & Reviews, blogs, chat rooms, bulletin boards and discussion groups. Your use of such interactive services are at your own risk. Personal Information that you post on or through the public areas of the Website are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. You should not provide Personal Information about yourself in public or interactive areas of the Website. Such Personal Information is not covered under this Privacy Policy. For additional terms of using any of our interactive services, please see our Terms of Use located at [**https://www.fresh.com/customer-service-links/TermsOfUse.html**](https://www.fresh.com/customer-service-links/TermsOfUse.html)
 
 California Do Not Track Disclosure
 
-Do Not Track is a privacy preference that users can set in some of their web browsers. This Website does not currently respond to Do Not Track signals, but we may do so in the future. For more information about Do Not Track, please go to _**[http://www.allaboutdnt.com](http://www.allaboutdnt.com/).**_ Third parties may collect personally identifiable information about your online activities over time and across different websites when you use our Website.
+Do Not Track is a privacy preference that users can set in some of their web browsers. This Website does not currently respond to Do Not Track signals, but we may do so in the future. For more information about Do Not Track, please go to **[http://www.allaboutdnt.com](http://www.allaboutdnt.com/).** Third parties may collect personally identifiable information about your online activities over time and across different websites when you use our Website.
 
 Consent to Processing
 
@@ -140,7 +140,7 @@ By providing Personal Information to this Website, you understand and consent to
 
 Your Right to Opt In and/or Opt Out
 
-You may have the right to “opt in” and/or “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to: (1) receive promotional correspondence from us, or (2) have your Personal Information shared with other entities for their marketing purposes. You may also edit your preferences by visiting the “My Account” Web page, e-mailing us at _**[mailpreferences@fresh.com](mailto:mailpreferences@fresh.com)**_ or calling our Customer Service (see “Contact Us” section below).
+You may have the right to “opt in” and/or “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to: (1) receive promotional correspondence from us, or (2) have your Personal Information shared with other entities for their marketing purposes. You may also edit your preferences by visiting the “My Account” Web page, e-mailing us at **[mailpreferences@fresh.com](mailto:mailpreferences@fresh.com)** or calling our Customer Service (see “Contact Us” section below).
 
 Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
 
@@ -154,6 +154,6 @@ Fresh reserves the right to change, revise or update this Privacy Policy, or any
 
 Contact Us
 
-If you have any questions or comments regarding our privacy practices, you may contact us at _**[inquiries@fresh.com](mailto:inquiries@fresh.com)**_ or call our Customer Service at 1 800 FRESH20 ( 1800 373 7420).
+If you have any questions or comments regarding our privacy practices, you may contact us at **[inquiries@fresh.com](mailto:inquiries@fresh.com)** or call our Customer Service at 1 800 FRESH20 ( 1800 373 7420).
 
 Effective Date: May 2014
