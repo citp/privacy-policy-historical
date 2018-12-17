@@ -1,150 +1,154 @@
-<!--The following is the downloaded HTML source of the beemtube.com privacy policy that was archived on 2017-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170118102704id_/https%3A//beemtube.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beemtube.com privacy policy that was archived on 2018-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217190429id_/https%3A//beemtube.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="language-en"><head>
 	<title>Privacy policy - BeemTube.com</title>
     <meta name="description" content="">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+	<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
     <link rel="dns-prefetch" href="//ajax.googleapis.com/">
-    <link rel="dns-prefetch" href="//beemcdn.com">
     <link rel="dns-prefetch" href="//media.beemtube.com">
     <link rel="dns-prefetch" href="//media2.beemtube.com">
 	<link rel="dns-prefetch" href="//media3.beemtube.com">
     <link rel="dns-prefetch" href="//media4.beemtube.com">
     <link rel="dns-prefetch" href="//media5.beemtube.com">
     <link rel="dns-prefetch" href="//media6.beemtube.com">
-    <link rel="publisher" href="https://plus.google.com/101162638965792454142">
-	<link href="http://beemtube.com/static/privacy" rel="canonical">
-	<link rel="alternate" type="application/rss+xml" title="Beemtube.com RSS Feed" href="http://beemtube.com/rss">
-	<link rel="shortcut icon" href="http://beemtube.com/favicon.ico" type="image/x-icon">
-    <link type="text/css" href="https://beemcdn.com/css/style.css?v=1.91" rel="stylesheet" media="all">
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	<script type="text/javascript" src="//ajax.googleapis.com//ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="https://beemcdn.com/js/beem.js?v=1.1"></script>
-   <script>
+    <link rel="dns-prefetch" href="//media7.beemtube.com">
+    <link rel="publisher" href="https://plus.google.com/+BeemTubeOfficial">
+        <link href="https://beemtube.com/static/privacy" rel="canonical">
+    	<link rel="alternate" type="application/rss+xml" title="Beemtube.com RSS Feed" href="https://beemtube.com/rss">
+	<link rel="shortcut icon" href="https://beemtube.com/favicon.ico" type="image/x-icon">
+    <link type="text/css" href="https://beemtube.com/static_files/css/main.css?v=3122018135" rel="stylesheet" media="all">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://beemtube.com/static_files/js/jquery-3.3.1.min.js"></script>
+	<script src="https://beemtube.com/static_files/js/beem.js?v=3122018135"></script>
+	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-6807150-38', 'auto');
   ga('send', 'pageview');
-
+	$(document).ready(function(){
+		$('.dropdown_select_gender a').click(function(){
+			var value_gender = $(this).children('span').text();
+			ga('send', 'event', 'Select Gender', value_gender);
+			return true;
+		});
+	});
+if ('serviceWorker' in navigator) {
+	window.addEventListener('load', function() {
+		navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
+		console.log('ServiceWorker scope: ', registration.scope, " Expected version: 3122018135");
+		if (localStorage){
+			if (localStorage.getItem("sw-version") !== "3122018135") {
+				try {
+					registration.update();
+					localStorage.setItem("sw-version", "3122018135");
+					console.log('ServiceWorker is updated to version 3122018135');
+				} catch(e) {
+					console.log('Service Worker needs to be updated to version 3122018135');
+				}
+			}
+		} else {
+			console.log('Service Worker needs to be updated to version 3122018135');
+		}
+		}, function(err) {
+			console.log('ServiceWorker registration failed: ', err);
+		});
+	});
+	} else if ('serviceWorker' in navigator) {
+		navigator.serviceWorker.getRegistrations().then(function(registrations) {
+	if (registrations.length > 0) {
+	for(var i=0; i< registrations.length; i++) {
+	registrations[i].unregister();
+	}
+		window.location.reload(true);
+	}
+	})
+}
 </script>	
 </head>
-<body>
+<body class="_isPrimary">
 	<div id="wrapper">
-		<header id="header-wrapper">
-<div id="top">
-	<div class="left">
-     </div>
-        <div class="right">
-        <ul id="nav">  
-        <li class="ch_thumbs"></li>
-   
-    <li><a href="http://beemtube.com/community/">Community</a></li>
-	<li><a href="/signup">Sign up</a></li>
-    <li><a href="#popup" class="beem">Log in</a></li>
-		</ul>          
-<!-- id="account" --></div>
-<!-- id="top" --></div>
-        
-        <div id="header">
-			<h1 class="logo"><a title="BeemTube" href="http://beemtube.com">BeemTube</a></h1>	
-            
-		<div class="hAds" id="hAds"></div>
-   </div>
-<div id="cbp-hrmenu" class="cbp-hrmenu">
-    <ul>
-    <li class="small_logo"><a href="http://beemtube.com">Beem Tube</a></li>
-		<li class="project"><a href="http://beemtube.com">Videos</a></li>
-		<li><a href="http://beemtube.com/most-recent/">Newest</a></li>
-		<li id="dropdown_categories"><a href="http://beemtube.com/categories/">Categories</a>
-            <div class="dropdown_categories">
-                <ul>
-                    <li>
-                        <a alt="Amateur" href="http://beemtube.com/category/1/amateur/">
-                            <img width="120" height="90" alt="Amateur" src="https://beemcdn.com/images/category_small/cat1.jpg">
-                            <span>Amateur</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a alt="Anal" href="http://beemtube.com/category/2/anal/">
-                            <img width="120" height="90" alt="Anal" src="https://beemcdn.com/images/category_small/cat2.jpg">
-                            <span>Anal</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a alt="Babes" href="http://beemtube.com/category/5/babes/">
-                            <img width="120" height="90" alt="Babes" src="https://beemcdn.com/images/category_small/cat5.jpg">
-                            <span>Babes</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a alt="Blowjob" href="http://beemtube.com/category/12/blowjob/">
-                            <img width="120" height="90" alt="Blowjob" src="https://beemcdn.com/images/category_small/cat12.jpg">
-                            <span>Blowjob</span>
-                        </a>
-                    </li>                
-                    <li>
-                        <a alt="Hardcore" href="http://beemtube.com/category/22/hardcore/">
-                            <img width="120" height="90" alt="Hardcore" src="https://beemcdn.com/images/category_small/cat22.jpg">
-                            <span>Hardcore</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a alt="Japanese" href="http://beemtube.com/category/29/japanese/">
-                            <img width="120" height="90" alt="Japanese" src="https://beemcdn.com/images/category_small/cat29.jpg">
-                            <span>Japanese</span>
-                        </a>
-                    </li>
-                    <li class="hiden">
-                        <a alt="Teens" href="http://beemtube.com/category/47/teens/">
-                            <img width="120" height="90" alt="Teens" src="https://beemcdn.com/images/category_small/cat47.jpg">
-                            <span>Teens</span>
-                        </a>
-                    </li>
-                    <li class="hiden">
-                        <a alt="Threesome" href="http://beemtube.com/category/48/threesome/">
-                            <img width="120" height="90" alt="Teens" src="https://beemcdn.com/images/category_small/cat48.jpg">
-                            <span>Threesome</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a alt="See All Categories" href="http://beemtube.com/categories/">
-                            <img width="120" height="90" alt="See All Categories" src="https://beemcdn.com/images/category_small/see_all.jpg">
-                            <span>See All</span>
-                        </a>
-                    </li>
+		<header id="header-wrapper">       
+	<div id="header">
+		<h1 class="logo">
+			<a title="BeemTube" href="https://beemtube.com">BeemTube</a>
+		</h1>        
+        		<div class="gender-hover">
+            <i class="select_gender">
+                <span class="i1"></span><span class="i2"></span>            </i>
+            <ul class="dropdown_menu dropdown_select_gender">
+                <li><a href="/"><span class="i_group"><i class="i1"></i><i class="i2"></i></span><span class="title">Straight</span></a></li>
+                <li><a href="/category/17/gay/"><i class="gay"></i><span class="title">Gay</span></a></li>
+                <li><a href="/category/42/shemale/"><i class="shemale"></i><span class="title">Shemale</span></a></li>
+            </ul>
+        </div>
+		        <div class="search_section">
+            <form method="get" action="/search">
+                <input type="hidden" name="mode" value="search">
+                <input type="hidden" name="type" id="type" value="videos">
+                <input type="text" placeholder="Search Porn Videos..." aria-label="search" name="q" value="" id="s_input" autocomplete="off">
+                <div class="search_type"><i class="video"></i><span></span></div>
+                <ul class="dropdown_search dropdown_menu">
+                    <li class="empty"><span>What are you looking for?</span></li>
+                    <li class="video" data-search-type="videos"><i></i><span>Video</span></li>
+                    <li class="photos" data-search-type="photos"><i></i><span>Photos</span></li>
+                    <li class="members" data-search-type="members"><i></i><span>Members</span></li>
+                    <li class="pornstars" data-search-type="pornstars"><i></i><span>Pornstars</span></li>
+                    <li class="cam_models" data-search-type="cam_models"><i></i><span>Cam Models</span></li>
                 </ul>
-            </div>
-        </li>
-		<li><a href="http://beemtube.com/photos/">Pictures</a></li>
-        <li><a href="http://beemtube.com/playlists/">Playlists</a></li>
-        <li><a href="http://beemtube.com/pornstars/">Pornstars</a></li>
-        <li class="channels"><a href="http://beemtube.com/channels/">Channels</a></li>
-		   
-        <li class="up"><a title="Upload" href="#popup" class="beem">Upload</a></li>
-                       
-       <li style="float:right" id="header-search">
-        <form method="get" action="http://beemtube.com/search.php">
-        <input type="hidden" name="mode" value="search">
-		<input type="hidden" name="type" value="videos"><input type="text" placeholder="Search Porn Videos..." name="q" value="" id="s_input" autocomplete="off">
-		<input type="submit" value="" id="s_button">
-        </form>
-	</li>
-    </ul>
-</div>
+                <button type="submit" aria-label="search" id="s_button"><i></i></button>
+            </form>
+        </div>
+		<div class="logos_"></div>
+          
+        <div class="user_section"><span class="signin"><a href="/login" rel="nofollow">Log in</a></span><span class="signup"><a href="/signup" rel="nofollow">Sign up for FREE</a></span></div>
+        	</div>
+
+<nav itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+	<div id="cbp-hrmenu" class="cbp-hrmenu">
+        <ul>
+        <li class="small_logo"><a href="https://beemtube.com">Beem Tube</a></li>
+            <li itemprop="name" class="project">
+                <a href="https://beemtube.com" itemprop="url" rel="" target="_self">Home</a>
+            </li>
+            <li itemprop="name">
+                <a href="https://beemtube.com/most-recent/" itemprop="url" rel="" target="_self">Newest</a>
+            </li>
+            <li id="dropdown_categories" itemprop="name">
+                <a href="https://beemtube.com/categories/" itemprop="url" rel="" target="_self">Categories</a>
+            </li>
+            <li itemprop="name">
+                <a href="https://beemtube.com/photos/" itemprop="url" rel="" target="_self">Photos</a>
+            </li>
+            <li itemprop="name"> 
+                <a href="https://beemtube.com/playlists/" itemprop="url" rel="" target="_self">Playlists</a>
+            </li>
+            <li id="dropdown_pornstars" itemprop="name">
+                <a href="https://beemtube.com/pornstars/" itemprop="url" rel="" target="_self">Pornstars</a>
+            </li>
+            <li class="channels" itemprop="name">
+                <a href="https://beemtube.com/channels/" itemprop="url" rel="" target="_self">Channels</a>
+            </li>
+               
+            <li class="up"><a title="Upload" href="/login" rel="nofollow" class="beem">Upload</a></li>
+                               
+
+        </ul>
+	</div>
+</nav>
 <div class="clear"></div>
-<!-- id="header-wrapper" --></header>	<div id="main">
-		 		 
-<div class="clear"></div><div class="subscribe_block"><div class="first"><span>Add subscriptions to get started!</span><br>Subscribe to the <a href="http://beemtube.com/channels/">porn channels</a> and this area will show you their latest uploads.</div><div class="second"><a href="http://beemtube.com/channels/" class="btn2 lbtn">View Our All Channels</a></div></div><div class="clear"></div>
-                 
+</header>
+        	<div id="main">
+		         
+		
+            
     	<div class="htext">
     		<h2>Privacy policy</h2>
 						            					</div>
-                        	<div class="contents videos"> 
-		        		<div id="pages"><div class="terms">
+                                	<div class="contents videos"> 
+		                		<div id="pages"><div class="terms">
 
 
 <h4><span>I. </span>General </h4>
@@ -189,7 +193,7 @@
 </ul>
 
 <h4><span>VII. </span>Transmittals from Us </h4>
-<p>We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by contacting <img style="vertical-align: middle" src="http://i.imgur.com/1QOchvG.png"> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. </p>
+<p>We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by contacting <img style="vertical-align: middle" src="https://i.imgur.com/1QOchvG.png"> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. </p>
 <p>If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. </p>
 
 <h4><span>VIII. </span>Public areas </h4>
@@ -202,93 +206,78 @@
 <p>We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page. </p>
 
 <h4><span>XI. </span>Where to direct questions about Our privacy policy </h4>
-<p>If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at <img style="vertical-align: middle" src="http://i.imgur.com/1QOchvG.png"> </p>
+<p>If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at <img style="vertical-align: middle" src="https://i.imgur.com/1QOchvG.png"> </p>
 
 </div></div><!-- div id="contents" --></div>
   
   
  
-<div class="htext"><h2>Advertising</h2></div>
-<div class="ads">
-	<div class="box frstbox" id="adsbox1">
-</div>
-
-<div class="box" id="adsbox2">
-</div>
-
-<div class="box" id="adsbox3">
-</div>   
-
-<div class="box lstBox" id="adsbox4">
-</div> 
-
-
-<script type="text/javascript">
-$(window).load(function(){
-  $("#adsbox1").hide().append('<iframe style="border:none; margin:0" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="300" height="250" src="https://beemcdn.com/ads/f.html"></iframe>').fadeIn();
-  $("#adsbox2").hide().append('<iframe style="border:none; margin:0" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="300" height="250" src="http://adserver.juicyads.com/adshow.php?adzone=240406"></iframe>').fadeIn();
-  $("#adsbox3").hide().append('<iframe style="border:none; margin:0" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="300" height="250" src="https://beemcdn.com/ads/f.html"></iframe>').fadeIn();
-  $("#adsbox4").hide().append('<iframe style="border:none; margin:0" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="300" height="250" src="http://adserver.juicyads.com/adshow.php?adzone=285533"></iframe>').fadeIn();
-});
-</script></div>
-
-<!-- id="main" --></div>
+	<!-- id="main" --></div>
 <!-- id="wrapper" --></div>
 <footer>
 	<div id="footer-wrapper">
-    <strong class="logo-footer"><a href="/">BeemTube.com</a></strong>
 		<div id="footer-links">
-    		<a href="/contact">Contact</a>|<a href="http://beemtube.com/static/dmca">DMCA</a>|<a href="http://beemtube.com/static/tos">Terms of Use</a>|<a href="http://beemtube.com/static/2257">18 U.S.C. 2257</a>|<a href="http://beemtube.com/static/privacy">Privacy policy</a>|<a href="http://beemtube.com/content-removal">Content Removal</a>|<a href="http://beemtube.com/rss" target="_blank">RSS Updates</a>
-            <br><a href="http://beemtube.com/static/partner">Partner Program</a>|<a href="http://beemtube.com/contact?subject=advertising">Advertising</a>|<a href="http://beemtube.uservoice.com" rel="nofollow" title="Feedback Forum">Feedback Forum</a>|<a href="http://beemtube.com/static/export">Webmasters</a>|<a target="_blank" href="http://twitter.com/BeemTube/">Twitter</a>
+                <ul class="column-menu">
+                	<li>
+                    	<ul class="_zs">
+                        	<li class="_title">Beemtube</li>
+                            <li><a href="https://beemtube.com/sitemap">Sitemap</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/rss" target="_blank">RSS Updates</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/static/partner">Partner Program</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/static/webmasters">Webmasters</a></li>
+                            
+                        </ul>
+                   	</li>
+                    
+                    <li>
+                    	<ul class="_zs">
+                           <li class="_title">Help &amp; Contact</li>
+                            <li><a rel="nofollow" href="/contact">Contact</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/static/faq">FAQ</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/content-removal">Content Removal</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/contact?subject=report_video">Report video</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                    	<ul class="_zs">
+                        	<li class="_title">Legal</li>
+                            <li><a rel="nofollow" href="https://beemtube.com/static/dmca">DMCA</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/static/tos">Terms of Use</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/static/2257">18 U.S.C. 2257</a></li>
+                            <li><a rel="nofollow" href="https://beemtube.com/static/privacy">Privacy policy</a></li>
+                        </ul>
+                    </li>
+                </ul>
+ 				<div class="_zsl"></div>
+                <div class="_zsn">
+                	<a class="twitter" rel="nofollow" href="https://twitter.com/BeemTube/" title="BeemTube on twitter" target="_blank"></a>
+                    <a class="facebook" rel="nofollow" href="https://www.facebook.com/beemtubeofficial/" title="BeemTube on facebook" target="_blank"></a>
+                    <a class="gplus" rel="nofollow" href="https://plus.google.com/+BeemTubeOfficial" title="BeemTube on google plus" target="_blank"></a>
+                    <a class="instagram" rel="nofollow" href="https://www.instagram.com/beemtube.official/" title="BeemTube on instagram" target="_blank"></a>
+                </div>
 			<!-- id="footer-links" --></div>
-            <p class="copyright">© 2012-2017 BEEMTUBE.COM ALL RIGHTS RESERVED<br>
-            Users are prohibited from posting any material depicting individuals under the age of 18</p>
-<!-- id="popup" -->
-		<div id="popup" class="loginPop">
-			<div id="popup-ct">
-				<div id="popup-header">
-					<h4>Member Login</h4>
-					<p><span id="msgbox">Login to access your account.</span></p>
-					<a class="modal_close" href="javascript:void(0)"></a>
-				</div>
-				
-				<form id="formLogin" name="formLogin" method="post" style="float:left">
-     
-				<div class="txt-fld">
-				    <label for="username">Username</label>
-				    <input id="username" class="good_input" name="username" type="text" value="">
-				</div>
-				<div class="txt-fld">
-				    <label for="password">Password</label>
-				    <input id="password" name="password" type="password" value="">
-				  </div>
-               <!-- <div class="txt-fld"> 
-                  	<label for="remember">Remember Me:</label>
-					<input type="checkbox" id="remember_me" name="remember" value="yes">
-                </div> -->
-                  
-				  <div class="btn-fld">
-				  <button class="btn2 lbtn login" type="submit" id="submit">Click To Login</button>
-</div>
-<div class="c2">
-<a href="http://beemtube.com/forgot-pass">Forgot Username or Password?</a>
-<a href="http://beemtube.com/resend-activation">Did not receive confirmation email?</a>
-<a href="http://beemtube.com/contact">Other problem with login?</a>
-</div>
- </form>
-<div class="log_info"><a href="http://beemtube.com/signup"><img alt="Register At BeemTube" src="https://beemcdn.com/images/login_info.png"></a></div>
-			</div>
-            
-           
-            
-		</div>
-<!-- id="popup" -->    
+             <p class="copyright">© Beemtube.com 2018, All Rights Reserved.</p>
 
-
+<div id="popup">
+	<div id="popup-ct">
+	<a class="modal_close"></a>
+	<div class="playlistLoad"></div>       
+	</div>
+</div>      
 <!-- id="footer" --></div>
 </footer>
-    <script type="text/javascript">juicy_code='348433y2y256y2q2p2a403';</script>
-<script type="text/javascript" defer="defer" src="http://js.juicyads.com/jac.js" charset="utf-8"></script>
-<script type="text/javascript" defer="defer" src="http://syndication.exoclick.com/splash.php?idzone=1351880&amp;type=3"></script>
+    <script src="https://beemtube.com/static_files/js/beem_navigation.js?v=1" async="async"></script>
+<script>
+var ad_idzone = "1351880",
+      ad_popup_fallback = false,
+      ad_frequency_period = 720,
+      ad_frequency_count = 1,
+      ad_trigger_method = 3;
+</script>
+<script src="https://ads.exosrv.com/popunder1000.js"></script>
+<noscript>
+    <div class="javascript-warning">JavaScript is required for this website. Please turn it on in your browser and reload the page</div>
+    <style type="text/css">header { padding-top: 40px; }</style>
+</noscript>
 
 </body></html>
