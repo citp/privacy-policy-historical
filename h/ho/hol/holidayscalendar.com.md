@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayscalendar.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524132419id_/http%3A//www.holidayscalendar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayscalendar.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218000037id_/http%3A//www.holidayscalendar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
