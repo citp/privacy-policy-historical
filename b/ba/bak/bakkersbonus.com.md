@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakkersbonus.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608192728id_/http%3A//bakkersbonus.com/sbprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakkersbonus.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217140141id_/http%3A//bakkersbonus.com/sbprivacypolicy) for the most accurate reproduction.*
 
 # BakkersBonus | Sam Bakker
 
