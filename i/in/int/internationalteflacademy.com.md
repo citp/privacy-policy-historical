@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalteflacademy.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505221935id_/https%3A//www.internationalteflacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalteflacademy.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217213929id_/https%3A//www.internationalteflacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # International TEFL Academy Privacy Policy
 
@@ -8,4 +8,6 @@ All information given to us is used by us only. Your phone number will only be u
 
 Your email address is used to provide you requested brochures, literature and information about TEFL Certification and English teaching. At some point we may send out emails mentioning special sales. 
 
-If you receive one of these emails and would not like to receive any more, you may opt out at any time by emailing us the request. 
+If you would like to opt out of email communication, you may unsubscribe by clicking the link found in any of the emails you received from us.  
+
+If you would like to have your data permanently  deleted from our database, please email info@internationalteflacademy.com
