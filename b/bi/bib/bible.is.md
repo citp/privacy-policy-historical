@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bible.is privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615143704id_/http%3A//www.bible.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bible.is privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217171055id_/http%3A//www.bible.is/privacy) for the most accurate reproduction.*
 
 # Bible.is
 
