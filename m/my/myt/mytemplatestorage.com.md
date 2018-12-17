@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytemplatestorage.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610210553id_/http%3A//www.mytemplatestorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytemplatestorage.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217173136id_/http%3A//www.mytemplatestorage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - MyTemplateStorage
 
@@ -16,7 +16,7 @@ You may visit our websites without disclosing any personal information. However,
 
 ## **Children’s privacy**
 
-Children under 13 years old are not intended to use Templatemonster.com websites, blogs and services. Their personal  information cannot be provided to or on our websites or collected for them. You may not use any of our sites, make purchases from our marketplace, leave comments in our blog and social media posts, or provide the personal information including your name, address, email and phone number if you are under 13. In case this term is violated we preserve the right to terminate your account and delete the information. In case your child’s information could be provided to us as you believe, please, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#68181a011e090b11281c0d051804091c0d0507061b1c0d1a460b0705).
+Children under 13 years old are not intended to use Templatemonster.com websites, blogs and services. Their personal  information cannot be provided to or on our websites or collected for them. You may not use any of our sites, make purchases from our marketplace, leave comments in our blog and social media posts, or provide the personal information including your name, address, email and phone number if you are under 13. In case this term is violated we preserve the right to terminate your account and delete the information. In case your child’s information could be provided to us as you believe, please, email us at [privacy@templatemonster.com](mailto:privacy@templatemonster.com).
 
 ## Routine Erasure and Personal Data Blocking
 
@@ -58,7 +58,7 @@ We find that your actions on our websites violate our Terms of Use document or a
 
 ## Consent
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to us. If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, please notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to us. If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, please notify us at support@mytemplatestorage.com.
 
 ## Security
 
@@ -70,4 +70,4 @@ We may at any time, without notice to you and in its sole discretion, amend this
 
 ## Questions and Suggestions
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at support@mytemplatestorage.com. 
