@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabiantravelmarket.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613185339id_/http%3A//arabiantravelmarket.wtm.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabiantravelmarket.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217184102id_/http%3A//arabiantravelmarket.wtm.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arabian Travel Market
 
