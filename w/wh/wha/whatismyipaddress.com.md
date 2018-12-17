@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626040301id_/https%3A//whatismyipaddress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217092113id_/https%3A//whatismyipaddress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
