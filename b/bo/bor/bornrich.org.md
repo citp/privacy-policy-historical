@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bornrich.org privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506231355id_/http%3A//www.bornrich.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bornrich.org privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217064323id_/http%3A//www.bornrich.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bornrich
 
