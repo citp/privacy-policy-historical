@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatus.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612130313id_/http%3A//www.boatus.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatus.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218000055id_/http%3A//www.boatus.com/about/privacy) for the most accurate reproduction.*
 
 # BoatUS Privacy Policy | BoatUS
 
@@ -19,7 +19,7 @@ If you are not a Member of BoatUS, the non-financial information you share with 
 Should you provide personal information to any third party from our site or any other information provided to you from BoatUS, you agree that BoatUS is not responsible for the third party’s handling of your personal information. We do offer links to other sites giving you access to information that we think may be of interest to you or may benefit you in some way.
 
 **Use and Handling of Data**  
-Through the use of "cookies" when you visit BoatUS.com or the Members only site, my.boatus.com, a limited amount of data is stored on your computer unless you have disabled cookies in your browser. The information we collect from cookies is not comprised of individually recognizable data about you and is not usable to distinguish you personally. The use of cookies helps us track what you like the most about our site and personalize the material shown based on your preferences.
+Through the use of "cookies" when you visit BoatUS.com or the Members only site, [BoatUS.com/Account](https://www.boatus.com/account), a limited amount of data is stored on your computer unless you have disabled cookies in your browser. The information we collect from cookies is not comprised of individually recognizable data about you and is not usable to distinguish you personally. The use of cookies helps us track what you like the most about our site and personalize the material shown based on your preferences.
 
 **Acceptance of Privacy Policy**  
 When using our website and providing us with your information, you are agreeing to the terms and conditions of our privacy policy. You should not use our site if you do not agree with this policy. We will update our policy as needed to safeguard the privacy of our Members and visitors and to keep up with changing technology. We may make these changes to the policy without providing you notice.
@@ -30,7 +30,7 @@ We value your trust in us and your permission to communicate with you about how 
 You may opt-out of any future communications with BoatUS by sending an e-mail, calling or writing us at the following:
 
 BoatUS  
-880 S. Pickett St.  
-Alexandria, VA 22304  
+5323 Port Royal Rd.  
+Springfield, VA 22151  
 Email: [Membership@BoatUS.com](mailto:Membership@BoatUS.com)  
 Phone: 800-395-2628 
