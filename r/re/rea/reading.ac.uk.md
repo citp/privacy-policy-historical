@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reading.ac.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604081131id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reading.ac.uk privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217213024id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and cookies information – University of Reading
 
@@ -296,6 +296,28 @@ Allows you to "+1" our content via the Google+ social network. Google may use th
 | 
 
 Data on how you use the internet, which might be linked to your Google username  
+  
+**Hotjar cookie** | _hjClosedSurveyInvites | For one year | 
+
+This cookie is set once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown
+
+|   
+**Hotjar cookie** | _hjDonePolls | For one year | 
+
+This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in. 
+
+|   
+**Hotjar cookie** | _hjDoneTestersWidgets | For one year | 
+
+This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in. 
+
+|   
+**Hotjar cooke** | _hjIncludedInSample | For one year | This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.   
+|    
+**Hotjar cookie** | _hjMinimizedPolls | For one year | This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  |    
+**Hotjar cookie** | _hjMinimizedTestersWidgets | For one year | This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  |    
+**Hotjar cookie** | _hjShownFeedbackMessage | For one year | This cookie is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.   
+|    
   
 **Share This**
 
