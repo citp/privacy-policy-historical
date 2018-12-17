@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clickbetter.com privacy policy that was archived on 2016-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211165507id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clickbetter.com privacy policy that was archived on 2018-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217152339id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js flexbox flexboxlegacy canvas canvastext hashchange draganddrop rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransitions fontface generatedcontent video audio applicationcache"><head>
     <meta charset="utf-8">
@@ -59,8 +59,11 @@
   <!--popupform2-->
   
   
-    <!--Implementing Kount Access for -->
-			  	
+    <!-- Below code is for font awesome -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<!--Implementing Kount Access for -->
+<link href="https://clickbetter.com/css/linear.css" rel="stylesheet">
+<link href="https://clickbetter.com/css/font-awesome.css" rel="stylesheet">
 			  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 				<script type="application/javascript" src="https://sandbox02.kaxsdc.com/collect/sdk?m=121000"></script>
 			
@@ -93,39 +96,70 @@
 
                                 
                                 <form onsubmit="return validate_form(this)" method="post" action="signupdo.php" name="myForm" style="margin:10px 0 0 0;">
-                                <input type="hidden" name="kountSessionID" id="kountSessionID">
-                                <div class="bgdiv"><img src="/images1/signup_bg.png" alt=""></div>
-                                <a href="http://clickbetter.support/cbfacebook/fbsignup.php"><img src="/images/fb_connect.png" alt="" class="fb_conn"></a>
-                                <img src="/images/or.png" alt="" class="or_button">
                                 
+                                <div class="bgdiv"><img src="/images1/signup_bg.png" alt=""></div>
+                                <input type="hidden" name="kountSessionID" id="kountSessionID">
+                                
+
+                                <div class="su-options">
+                                  <label for="affiliateuser" class="sulabel afflabel-pop">
+                                    <a href="javascript:void();" class="affiliatebutton active" id="affbuttonmain-pop">
+                                      <span class="sicon"><span class="fa fa-check"></span></span>
+                                      <span class="sinfo">
+                                        <span class="buttontext1">Affiliate Sign Up</span> 
+                                      </span>
+                                    </a>
+                                    <input type="radio" value="Affiiate" name="usertype" id="affiliateuser">
+                                  </label>
+                                    
+
+                                  <label for="vendoruser" class="sulabel vendorlabel-pop">
+                                    <a href="javascript:void();" class="affiliatebutton vendorbutton" id="vendbuttonmain-pop">
+                                      <span class="sicon"><span class="fa"></span></span>
+                                      <span class="sinfo">
+                                        <span class="buttontext1">Vendor Sign Up</span> 
+                                      </span>
+                                    </a>
+                                    <input type="radio" value="Vendor" name="usertype" id="vendoruser">
+                                  </label>
+                                </div>
+
                                 <label>
                                  <img src="/images/login/user.png" alt="" class="face">
-                                <input type="text" name="name" value="Enter Your First Name" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+                                <input type="text" name="name" placeholder="Enter Your First Name" required="required">
                                 
                                 </label>
                                 
                                 <label>
                                  <img src="/images/login/user.png" alt="" class="face">
-                                <input type="text" name="lname" value="Enter Your Last Name" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+                                <input type="text" name="lname" placeholder="Enter Your Last Name" required="required">
                                 </label>
                                 
                                 
                                 <label>
                                  <img src="/images/login/username_icon.png" alt="" class="face">
-                                <input type="text" name="uname" value="Choose A Username" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+                                <input type="text" name="uname" placeholder="Choose A Username" required="required">
                                 </label>
                                 
                                 
                                 <label>
                                  <img src="/images/login/email_icon.png" alt="" class="face">
-                                <input type="text" name="email" value="Enter Your Email Address" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+                                <input type="text" name="email" placeholder="Enter Your Email Address" required="required">
                                 <span class="info">(password will be emailed to this address)</span>
                                 </label>
                                 
                                 <div class="submit_div"><input type="submit" name="" value="SIGN UP"></div>
                                 
                                 
-                                <label style="width: 272px;"><input type="checkbox" name="chk" checked="checked" style="float:left;">  &nbsp;  I agree to have read &amp; accepted <a href="/terms.php" target="_blank">Terms &amp; Conditons</a></label>
+                                <label style="width: 272px;" class="suterms">
+                                  <input type="checkbox" name="chk" style="float:left;" id="tcp" required="required">
+                                  <input type="hidden" name="agreets" class="agreetspopup">
+                                  <div class="sutermsright">
+                                    I agree to have read &amp; accepted 
+                                    <a href="https://clickbetter.com/affiliate-agreement.php" target="_blank" id="affterms-pop">Affiliate Agreement</a>
+                                    <a href="https://clickbetter.com/vendor-agreement.php" target="_blank" id="vendterms-pop">Vendor Advertising Agreement</a>
+                                  </div>
+                                </label>
                                 
                                 </form>
                                 </div><!--signuppop-->
@@ -180,7 +214,7 @@ function displayUser()
 	var userName = $('#uname1').val();
 	$.ajax
     ({
-          url: "https://clickbetter.com/kunal/redirect.php",
+          url: "https://clickbetter.com/redirect.php",
           type:"POST",
           data: 
           {
@@ -355,7 +389,7 @@ ClickBetter.com has implemented this Privacy Policy to protect personal informat
 <li> To process transactions </li>
 <li> To send periodic emails, newsletters and other communications</li>
 </ul>
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.<br><br>
+The email address you provide for transaction processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.<br><br>
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br><br>
 
@@ -396,7 +430,7 @@ ClickBetter.com will use reasonable efforts to keep customer personal informatio
 
 ClickBetter.com will use reasonable efforts to protect customers’ personal information.<br><br>
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.<br><br>
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place a transaction or access your personal information.<br><br>
 
 These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
 <br><br>
@@ -409,10 +443,10 @@ After a transaction, your private information (credit cards, social security num
 <strong>ClickBetter.com will afford you a reasonable opportunity to review the personal information in your file, if you so request by faxing us at: 480-393-5100 or mailing us at:</strong><br><br>
 
 ClickBetter Ltd<br>
-79 Chichester Street<br>
-Belfast<br>
-BT1 4JE<br>
-United Kingdom<br><br>
+Forsyth House Cromac Sq.<br>
+Belfast, BT2 8LA<br>
+United Kingdom
+<br><br>
 
 If ClickBetter.com is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 <br><br>
@@ -440,10 +474,9 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 <br>
 If there are any questions regarding this privacy policy you may contact us using the information below.<br><br>
 
-www.ClickBetter.com<br>
-79 Chichester Street<br>
-Belfast<br>
-BT1 4JE<br>
+ClickBetter LTD<br>
+Forsyth House Cromac Sq.<br>
+Belfast, BT2 8LA<br>
 United Kingdom<br>
 support@clickbetter.com<br><br>
 
@@ -499,7 +532,7 @@ www.ClickBetter.com   <br>
                                                                     </ul>
                                                              
 <p class="text-center" style="margin-top: 10px;">
-Copyright © 2012 - 2016 ClickBetter LTD 
+Copyright © 2012 - 2018 ClickBetter LTD 
 </p>                
                 
             
