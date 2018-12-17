@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523063543id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217142018id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
