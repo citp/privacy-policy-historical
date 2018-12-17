@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611084914id_/http%3A//www.poems-and-quotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217211728id_/http%3A//www.poems-and-quotes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
