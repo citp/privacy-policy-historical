@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608132917id_/http%3A//help.mysupermarket.co.uk/index.php/knowledgebase/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217054755id_/http%3A//help.mysupermarket.co.uk/index.php/knowledgebase/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – How can we help you
 
@@ -186,7 +186,8 @@ An overview of our data sharing activities is as follows:
 ---|---  
 Operating purposes| We share information with third parties who provide us with services that help us to operate our Sites or our business. In this case, information is provided to the extent necessary for the third party to provide their services and any information provided to them may only be used as we instruct. They aren’t allowed to go and use it for their own purposes!   
 Corporate and statutory purposes| We share information when we are required to by law. We may also transfer our databases (which might include information relating to you) if we sell our business or part of it.   
-Third parties with whom we have a commercial relationship|  **(£)** We may share information with third parties with whom we have a commercial relationship. In certain cases, we will need to obtain your consent before providing information to these third parties.   
+Third parties with whom we have a commercial relationship|  **(£)** We may share information with third parties with whom we have a commercial relationship. In certain cases, we will need to obtain your consent before providing information to these third parties.  
+If you have given consent, you can change your mind and change your consent choices at any time from the My Account page. Look for the “Privacy Settings” button on the bottom right corner of the screen.   
   
 A list of the companies with whom we currently share data as part of a commercial relationship appear below.
 
@@ -209,11 +210,38 @@ Criteo collects some activity data so as to understand how users in general shop
 [Criteo Privacy Policy](https://www.criteo.com/privacy/)
 
 | Activity data   
+Teads| Teads provides a technology platform that is used to buy, sell, and deliver online interactive and personalized video and image advertising on mySupermarket, as well as for the collection, processing and use of data used as a basis for targeted and content-based media campaigns. The platform can be used both by Teads and by its third party partners to deliver advertising on mySupermarket. 
+
+[Teads Privacy Policy](https://www.teads.tv/privacy-policy/)
+
+| Activity data  
+IP address  
+Internet network data  
+Geolocation data (Country and city)  
+Browser type  
+Device information  
+Other non-personal information  
+  
 Tradedoubler| We participate in affiliate marketing programs set up by Supermarkets and run on their behalf by Tradedoubler
 
 [Tradedoubler Privacy Policy](http://www.tradedoubler.com/en/privacy-policy/)
 
 |   
+Online advertisers/ Data companies| mySupermarket, our media partners and our advertising networks work with a number of companies offering technology platforms that are used to buy, sell, and deliver online advertising, as well as for the collection, processing and use of data used as a basis for targeted and content-based media campaigns. These platforms may themselves buy, sell, or deliver ads, or they may solely provide technology or services (e.g. data collection, market research and audience building) that their clients use for those purposes. mySupermarket also works with data companies that collect and process data for research purposes. 
+
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other third-party websites in order to provide advertisements about goods and services of interest to you. The information collected can also be used to infer things about you, such as your demographics (age, gender etc.) 
+
+We will need to obtain your consent before providing information to these third parties or allowing them to collect data from this site. You can see a list of third party vendors and manage your consent choices at any time. Simply go to the My Account page and look for the “Privacy Settings” button on the bottom right corner of the screen. 
+
+| Information collected will vary from partner to partner. The key categories of data collected are:   
+Activity data  
+IP address  
+Internet network data  
+Geolocation data  
+Browser type  
+Device information  
+Other non-personal information  
+  
   
 We, our service providers and other partners use cookies and other technology both to provide Services and to collect personal data and activity data.  You can find more information on the cookies used by mySupermarket, our service providers and other partners as well as how to manage your cookie choices in our [Cookie Policy.](http://help.mysupermarket.co.uk/index.php/knowledgebase/mysupermarket-cookie-policy/) 
 
