@@ -1,51 +1,69 @@
-> *The following text is extracted and transformed from the stahls.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003202650id_/https%3A//www.stahls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stahls.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217201940id_/https%3A//www.stahls.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Stahls'
 
-## Our Commitment
+We (“Company”) welcome you to a website (“Site”) associated with Stahls’ Inc. d/b/a GroupeSTAHL, a leading international manufacturer, distributor and direct supplier in the field of custom textile printing. For the purposes of this Privacy Policy, “Company” shall have the same meaning as in the “Terms and Conditions” of this Site. 
 
-Stahls, Inc. (“We”) is committed to protecting your privacy, and the security of your online transactions at our web site; stahls.com, stahlsid.com (the "Site").
+The Company respects the privacy of our users and has created this Privacy Policy to describe our policy about the collection, use, security and disclosure of information we obtain from users of the Site. We encourage you to take time to read and understand this Privacy Policy, and to contact us if you have any questions or concerns regarding this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the “Terms and Conditions” for this Site. By using the Site, you consent to our collection, use and disclosure of your information, including personally identifiable information, as described in this Policy. 
 
-## What Information Is Covered?
+##  Information Collected by the Company 
 
-In shopping at our site, you may provide us with various personal information. For example, when you place orders at our site, you'll provide your name, e-mail address, mailing address, credit card number and expiration date on our order form. In addition, when you browse our site, the choices you make may provide information concerning your interests. We may also collect your IP address to provide us with the geographical location of our shoppers. This information will allow us to better provide products for shoppers from particular areas of the world. No personal information is associated with the IP address and this information is used only for the administration of our site. Finally, you may wish to send us e-mail with your personal comments on the site or our products. Or you may decide to participate in an online discussion. Our privacy policy explains how we protect and treat personal information you provide to us. Our security policy explains how we safeguard this information. Our terms of use govern your use of our site generally. Please read on to learn more about these policies and terms.
+_Automatically Collected Information_  
+We may automatically receive and store certain types of non-personally identifiable information, including information about your use of our Site, your interactions with other users on the Site, the type of web browser you are using, the website that led you to our Site, the website you go to after leaving our Site, the pages you view on our Site, the dates and times you access our Site, and information about any orders you place, such as your order identification number, items ordered and the cost of your order. We may collect Site visitation statistical information through cookies, tools such as Google Analytics, and other technology, to speed navigation of the Site by allowing the Site to recognize each user and his or her access privileges and to track the user’s usage of the Site. 
 
-## We Keep Personal Information Private
+_Log Files_  
+The Site server automatically recognizes the Internet Uniform Resource Locator (“URL”) from which you access the Site. We may also log your Internet protocol ("IP") address, which may be helpful, for example, for system administration and troubleshooting purposes. (An IP address indicates the location of your computer on the Internet.) 
 
-We do not share with third parties any personal information you provide to us. By "personal information" we mean information that can be used by someone to identify or contact you, such as your name, e-mail address, or mailing address, and by "third parties" we mean any party, other than Stahls, Inc. and GroupeSTAHL companies, that are not directly involved in the processing, payment, or fulfillment of your order. Each of our employees abides by our privacy policy, and only authorized employees have access to our customers' personal information. Our vendors, who assist in the ordering and fulfillment process, have similarly agreed to respect our privacy policy. 
+_Information Collected from Other Sources_  
+If you access the Site through a third-party social media account (such as OpenID, Google+, Facebook. LinkedIn, Twitter), we may access information about you from that third-party source, including your user ID for the third-party source and certain information from your profile for that third-party source. The Site may combine information that we collect with information from all third-party sources. 
 
-## We Limit Our Use Of Personal Information
+##  How The Company Uses and Discloses the Information it Collects 
 
-We use personal information you provide to process your orders, to notify you of the status of your order, and for other purposes specific to purchases you may make at our Stahls, Inc. site. In addition, unless you prefer that we not contact you in the future, we may use your e-mail address, for example, to notify you about new products or new services we are offering. If you would prefer not to receive these e-mails from us, simply send an e-mail to info@stahlsid.com and type "REMOVE" in the subject line. To measure our visitors' interest in and use of various areas of our Stahls’, Inc. site, including any advertising, we will rely upon aggregate information -- which is information that does not identify you. With this aggregate information, we may undertake statistical and other summary analyses of our visitors' behavior and characteristics. Although we may share this aggregate information with third parties, please rest assured that no information we provide to third parties will allow anyone to identify you, or determine anything personal about you. 
+We use and may disclose your information to our employees, contractors and other third parties to facilitate the services you request, to create accounts and allow use of services and ordering of products on the Site. We use your information to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. We may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze Site usage, improve our content and product offerings, and customize the Site's content, layout and services. 
 
-## We Allow You To Update, Correct, Or Delete Your Personal Information
+The Company may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests and relevant to your use of the Site. In addition to sending you promotional emails about our services, from time to time, we may send you promotional emails about our affiliates, subsidiaries or other third parties. 
 
-Upon your request, and to the extent your request does not compromise our privacy or security policies, we will update and correct personal information you have previously provided to us. In addition, if you request, we use commercially reasonable efforts to remove your name and personal information from our database. Please understand, however, that it may be impossible to remove this information completely, due to backups and records of deletions. If you wish to update your information, you may do so by revising the information you previously submitted, as reflected on the Registration page. If you wish to remove your name from our database, simply send an e-mail to info@stahlsid.com and type "REMOVE PERSONAL INFORMATION" in the subject line. 
+Without limitation to the foregoing, We may modify your personally identifiable information such that it is not identifiable as yours, and we may store, analyze, manipulate, aggregate, display, disclose, distribute, retain and otherwise use such unidentifiable information without restriction. 
 
-## We Use "Cookies" Judiciously
+The Company will not sell or rent personally identifiable information about you to a third party. 
 
-Unless you have chosen to disable it, your Internet web browser has a feature called a "cookie." Cookies are small text files that a web site can use to recognize repeat users, to facilitate the user's ongoing access to and use of the site, and to compile aggregate data to improve the site and focus advertising. Cookies work as follows: a web site will send a cookie to your browser that uniquely associates your computer with information the site can store for you. Your browser places the cookie in its cookie file. When you next access that site on your computer, the site recognizes the cookie, and makes the stored information available to you. We use cookies to pass access privileges from page to page and to provide you with certain features at our site, such as allowing you to place items in a shopping cart, and to help us better understand and respond to our visitors' interests and preferences. Cookies are required for access to the site. Just as with other information, we do not share with third parties any personal information provided through the use of cookies. 
+We may use Google AdSense, Google AdMob and other third-party advertising companies to serve advertising when you visit the Site. We may use web analytics tools, such as Google Analytics, to analyze your use of the Services. These third-party advertising companies may use information about your use of the Services in order to provide advertisements for goods and services that are targeted to you. 
 
-## Exceptions
+In some case it is possible to opt-out from personally targeted advertising. 
 
-There are two exceptions to our privacy policy. First, we may release or use personal information in connection with legal proceedings, or in response to a subpoena or court order.
+  * With Google you can set preferences for how Google advertises to you using the Google Ad Preferences page at: <https://www.google.com/settings/u/0/ads/authenticated>
+  * Another example is the DoubleClick opt-out page at: [https://www.google.com/settings/u/0/ads/anonymous?sig=ACi0TCj_XDmT8bSGTOqn3mSeIfTYdyz6GkqmR9oUNwOCKND_h9kxXvQkOJJlKL5fEwscSpV6L1dM8dAIJYRj8SEec2S1oAgoOCFx06hOHTyTNGIKe0Fxf30&hl=en#display_optout](https://www.google.com/settings/u/0/ads/anonymous?sig=ACi0TCj_XDmT8bSGTOqn3mSeIfTYdyz6GkqmR9oUNwOCKND_h9kxXvQkOJJlKL5fEwscSpV6L1dM8dAIJYRj8SEec2S1oAgoOCFx06hOHTyTNGIKe0Fxf30&hl=en#display_optout)
+  * A further example is the Network Advertising Initiative Opt-Out page at: <http://www.networkadvertising.org/choices/>
 
-Second, our policy only applies to information you provide to us. You may provide third parties with information if you, for example, choose to participate in an online discussion, or click on third-party advertising at our site. We cannot be responsible for the conduct of these third parties. They may have policies concerning privacy and the use of cookies that differ substantially from ours, and you may receive unsolicited messages due to this conduct.
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. The Company may disclose any information about you if required by law or under the compulsion of legal process, or in connection with any licensing, sale, merger, transfer or other disposition associated with all or a portion of its business. We may also disclose information about you if, in our sole discretion, we believe such disclosure is necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, or other activity that is illegal or may expose us or you to legal consequences. 
 
-## Email We Send Out
+## Security
 
-The email address you provide will only be used to send you newsletters, new product announcements, confirmation of your orders, and notification when your orders ship. Below is a description of what type of message is for and how often you may expect to receive them.
+No computer system or information can ever be fully protected against every possible hazard. In order to help protect your information and the information and data contained on our Site, The Company employs reasonable and appropriate technical, physical and administrative security measures. Communications with our Site are encrypted through Secured Socket Layer (“SSL”) connections. We also follow industry-accepted security procedures such as encrypted administrative communication, restricted access to underlying machines, and firewalls at network access points. 
 
-## Order confirmations are sent when you place an order.
+**THE COMPANY CANNOT GUARANTEE SECURITY. THE COMPANY ASSUMES NO RESPONSIBILITY OR LIABILITY FOR DISCLOSURE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION THAT OCCURS BY NEGLIGENCE OF THE COMPANY, ERRORS IN TRANSMISSION, UNAUTHORIZED OR ILLEGAL ACCESS, OR ANY OTHER VEHICLE FOR DISCLOSURE.
 
-These emails help you insure that your order has been placed accurately, the spelling is correct, the quantity is right, and the colors are correct. A link is provided so you may view the full details of the order on our web site. 
+THE SITE CONTAINS LINKS TO OTHER WEBSITES. THE COMPANY IS NOT RESPONSIBLE FOR THE CONTENT, TERMS OF USE, OR PRIVACY POLICIES ON ANY THIRD-PARTY WEBSITES, OR PRIVACY PRACTICES BY ANY THIRD PARTIES.
 
-## Shipment notifications are sent when your order has shipped.
+**
 
-These emails let you know when your orders have shipped, how they shipped, how you paid for the orders, the tracking number, and how much the final cost was including shipping and any COD charges. Links are provided so you may check each invoice on our web site, and track your package. 
+Company’s obligations under this Privacy Policy do not apply to any information or data that: (a) is not identifiable as yours; (b) is or becomes entirely in the public domain with a breach of this Privacy Policy by Company; (c) was known to Company prior to its access to the information or data through this Site; (d) received lawfully from a third party through no breach of any obligation of confidentiality owed to you; and/or (e) created by Company independently of its access to or use of your personally identifiable information. 
 
-Initially you are set up to receive all three types of messages. If you wish, you may customize the way notification of shipments, order confirmations, or newsletters are handled by visiting our web site or by calling Customer Services at 1-800-4-STAHLS.
+## Children Under Thirteen
 
-## Your Consent
+The Company does not knowingly accept personal information from anyone under the age of 13. By using the Site and/or providing personal information, you represent and warrant that you are over the age of 13. 
 
-By using our web site, you consent to our collection and use of information, in accordance with this privacy policy. We may in the future decide to change our privacy policy. If we decide to change our privacy policy, we will post the changes on this page, so that you may always be aware of what information we collect, how we use it, and the circumstances under which we disclose it. Any changes in our privacy policy will only affect information you provide after the changed policy becomes effective. 
+## Updating Your Information/Opting Out
+
+You may contact us at [info@stahls.com](mailto:info@stahls.com) at any time to update and/or correct your information, to opt-out of receiving future communications from us or to deactivate your account. Additionally, you may automatically review and change the information you submit to the Company by logging into the Site and updating your account information yourself. When the Company receives a request to deactivate or cancel your account, we will take commercially reasonable efforts to remove your personally identifiable information from our databases, but we cannot guarantee that your information will be completely deleted due to the necessity of redundancy inherent in the electronic storage and management of data. We also may retain copies of your personally identifiable information as required by our record retention policies. When you deactivate your account, your member profile will be deactivated, but your public comments may remain on the Site. The Company has no responsibility to take down or remove any of your public activities or submissions.
+
+## Changes to Our Privacy Policy
+
+The Company may amend this Privacy Policy from time to time by posting the amended terms on this Site. You are responsible for regularly reviewing this Privacy Policy and all such amended terms. By viewing, using or accessing the Site after any amended terms have been posted, you consent to the Privacy Policy and Terms and Conditions of the Site then in effect.
+
+## Contact Information
+
+If you have any questions, comments, complaints or concerns about this Privacy Policy or your privacy, contact us at [Legal@stahls.com](mailto:legal@stahls.com).
+
+
+
