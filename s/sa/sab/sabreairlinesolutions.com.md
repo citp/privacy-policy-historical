@@ -1,121 +1,257 @@
-> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211115154id_/https%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218042730id_/https%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Sabre
+# Privacy Statement « Sabre
 
-Sabre GLBL Inc. (the “ **Company** ”) operates this website, various other websites, and various services, including the Sabre global distribution system, the SynXis hotel central reservation system, and the SabreSonic airline reservations system (collectively, the “ **Sites** ”), each of which offers unique information, products or services.
+_Effective May 25, 2018_
 
-## Introduction
+This Privacy Statement applies to the websites and services (collectively, the “Services”) provided by Sabre GLBL Inc. and its affiliates (“Sabre”) to you, unless there is a separately posted privacy statement or description for such Services. This statement also applies to other Sabre Services that display this Privacy Statement.
 
-We respect your privacy and are committed to protecting it as discussed herein. Please take a moment to familiarize yourself with our privacy practices. By accessing any of the Sites, you agree to our privacy practices as set out in this privacy statement.
+This Privacy Statement explains generally how we receive personal information about you, and what we do with that personal information once we have it. This Privacy Statement does not apply to information which does not permit identification of an individual. This Privacy Statement applies regardless of the type of device you use to access our Services. You may choose not to provide certain information to us but doing so may restrict your ability to use our Services.
 
-This privacy statement describes the information that we collect and how that information may be used by us. You are not required to provide any personal information to us unless and until you choose to make a purchase, sign up for one of our e-mail newsletters or other products, or otherwise use one of our services. This privacy statement does not apply to information collected on any third-party site that may link to or be accessible from any of the Sites, nor does this privacy statement extend to any travel supply company (e.g., airline, hotel, etc.) from whom an individual has purchased or reserved travel services via a travel agency using the _Sabre®_ global distribution system or the _SynXis_ central reservation system. We encourage you to learn about the privacy practices of those third parties. The majority of our systems, servers and data centers are located in the U.S. If you are accessing any of the Sites from outside the U.S., you agree that your personal information may be transferred to the U.S., a jurisdiction which may have different privacy and data security protections than those of your own jurisdiction, to be processed and stored.
+## How do you learn information about me?
 
-## Collection of personal information
+We learn information about you when you or other businesses interact with us and use our services, including when:
 
-Personal information is data that can be used to uniquely identify or contact a single person. We collect several types of personal information from and about users of the Sites, including, but not limited to:
-
-  * Personal information that is provided to us by travel agencies or online travel sites using the _Sabre®_ global distribution system;
-  * Personal information that is provided to us by airlines using the _SabreSonic_ ® airline reservation system;
-  * Personal information that is provided to us by a hotel or travel agency using the _SynXis_ central reservation system;
-  * Personal information you provide to us directly on a Site;
-  * Personal information included in any messaging you undertake through any of the Sites, such as sharing via our online blog or using one of our travel management tools or apps; and
-  * If you contact us, personal information you provide to us that details the nature of your question or problem.
-  * Please note that this privacy statement does not apply to the collection of routine business contact information by our employees. Such information, however, will only be used for purposes of our business relationship.
+  * you give it to us directly (e.g., when you choose to contact us, or make a request for information);
+  * we collect it automatically through our products and Services (e.g., through your use of the Services); or
+  * someone else provides us information about you (e.g., when our client or a third party (such as an employer, travel agency, global distribution system, travel supplier, etc.) provides us your information in order for us to perform Services for them.
 
 
 
-## Use of personal information
+## What do you do with the information you gather?
 
-We use personal information in the following ways:
+Generally, we use your information to help us operate our business, and to provide and improve our products and Services for you and our clients with which you have a business or employment relationship. Sometimes we try to understand more about you based on information you’ve given to us (e.g., when we use your IP address, browser navigator language, or other techniques to customize languages for some of our Services). When permitted by law or elected by you, we may also use the information to provide you information on additional or new Services and features offered by Sabre or its strategic partners, or important information regarding Sabre.
 
-  * To provide you with information, products or services that you request from us;
-  * To present the Sites and their contents in a suitable and effective manner;
-  * To allow you to utilize sharing and messaging features of the Sites, if and when you choose to do so.
+**If you have provided information to our client or a third party who shares your information with us or instructs us to collect or process your information, their privacy statement may also apply. You may also have access to other sites through the Sabre websites. These sites may have different privacy practices, and you should read any privacy notices provided on those sites.**
 
+## Whose information may be processed in connection with the Services?
 
+In connection with the Services, we process information about different types of individuals. As discussed further below, the information that we process about an individual may depend on how he or she interacts with the Services. These different types of individuals include:
 
-## Disclosure of personal information to third parties
+**Travelers and Those Acting on Their Behalf.** Individual consumers and business travelers (“Travelers”) who book tickets, make reservations, or use other travel-related products or services offered by Sabre Subscribers or Travel Suppliers using the Services. Subscribers and Travel Suppliers may collect and send Sabre information about Travelers. Subscribers and Travel Suppliers may have collected such information directly from the Traveler, or from another individual who acts on the Traveler’s behalf. Sabre also may receive information about assistants, or other representatives who book travel-related products or services on behalf of other individuals.
 
-We may from time-to-time make certain personal information available to strategic partners that work with the Company, such as the following:
+**Subscriber and Travel Supplier Staff.**  Sabre may collect information about employees and other individuals associated with Sabre Subscribers and Travel Suppliers.  “Subscribers” are travel agents, individuals at travel management companies, corporate travel departments, online travel websites, hoteliers, airlines, and others who subscribe to our Services to search, price, book, ticket, and manage travel services provided by a variety of participating travel suppliers, such as airlines, hotels, cruise lines, car rental companies, rail providers, tour operators, and others (“Travel Suppliers”). For example, if a certain travel agency subscribes to our Services, Sabre might process information about individual travel agents at that agency to help agencies evaluate efficiency.
 
-  * Various affiliates of the Company;
-  * Travel supply companies through which you have arranged travel, but only that personal information needed for successful access to or processing of your travel arrangements;
-  * Service providers we use to support our business who provide services such as information processing, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys; and
-  * In the event of merger, acquisition, or any form of sale of some or all of the Company’s assets, in which case personal information held by the Company about its customers will be among the assets transferred to the buyer.
+**Other individuals who use our Services or contact us, and certain other individuals (such as sales leads).**
 
+## When do you share my information with others?
 
-
-If we engage a third party to process an individual’s personal data on our behalf, that third party will be bound by our data privacy policies.
-
-We may also disclose your personal information to third parties to:
-
-  * Comply with any court order or other legal obligation or when data is requested by government or law enforcement authorities;
-  * Enforce or apply our terms of use and any other agreements; or
-  * Protect the rights, property, or safety of the Company, our customers, or others. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-
-
-
-## Collection and use of non-personal information
-
-We also collect non-personal information, or data in a form that cannot be used to uniquely identify or contact a single person. We may collect, use, transfer, and disclose non-personal information for any purposes. Non-personal information that we collect may include information regarding your activities on any of the Sites, which may be aggregated and used to help us provide more useful information to our customers and to understand which parts of the Sites are of most interest.
-
-If we combine non-personal information with personal information the combined information will be treated as personal information for the purposes of this privacy statement.
-
-## Cookies and other technologies
-
-The Sites and certain Company email messages may use “cookies” and other technologies such as pixel tags and web beacons. These technologies help us to improve and to deliver a better and more personalized service by enabling us to:
-
-  * Estimate our audience size and usage patterns;
-  * Store information about your preferences, allowing us to better customize the Sites according to your individual interests;
-  * Speed up your searches; and
-  * Recognize you when you return to any of the Sites.
+  * When we have asked and received your permission to share it.
+  * When we’re required to provide it to our client or a third party from whom we received your information, or with whom you have a business or employment relationship. (One such example is when we receive your information from a travel agent with whom you do business, and we provide your information on their behalf to a Travel Supplier, such as an airline.)
+  * For processing or providing products and Services to Sabre or to you.
+  * When we provide information to our business partners to enhance the products and Services we offer.
+  * We may use and share the information we gather to comply with law (including cooperation with regulators or officials), legal process or legal advice.
+  * We may share your information when permitted by law if we believe it is reasonably necessary to protect the rights, property or safety of you, our other users, Sabre or the public.
+  * If our organizational structure or status changes (e.g., if we undergo a restructuring, are acquired, or go bankrupt), we may transfer your information to a successor or affiliate.
+  * We may share information we gather to third parties that our clients have a relationship with such as loyalty providers, hotel property management systems, and other designated businesses that are affiliated with our client, in order to provide Services.
+  * We may share information we gather to otherwise operate our business, including to provide travel marketplace and travel management services. For example, information we gather may be shared with travel agents, travel management companies, corporate travel departments, online travel websites, and others, and with Travel Suppliers, such as airlines, hotels, cruise lines, car rental companies, rail providers, tour operators, and others.
 
 
 
-You may refuse to accept cookies by activating the appropriate settings on your browser. Check with your provider to find out how to disable cookies. Please note that certain features of the Sites may not be available if cookies are disabled.
+## How do you store and protect information about me?
 
-We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this privacy statement.
+We implement physical, administrative and technical security measures designed to protect your personal information. Sabre is not responsible for unauthorized access to such information by hackers or others that obtain access through illegal measures.
 
-## Accessing your personal information
+The safety and security of your information also depends on you.  Any content, including information, that you contribute to be shared, published, or displayed on the Services, or transmitted to other users of the Services, either via the Services or via social networking or other third party sites available through the Services, is visible to other users and can be read, collected, or used by them.  We urge you to be careful about giving out information in public areas of the Services.  You understand and acknowledge that, even after removal, copies of your content, including information, that you contribute to be shared, published, or displayed on the Services, or transmitted to other users of the Service, may remain viewable in cached and archived pages, or might have been copied or stored by other users.
 
-We strive to maintain accurate, complete, and relevant personal information for the purposes identified in this privacy statement. We make good faith efforts to make available for your review of personal information and to process requests for modification of inaccurate personal information provided to us through one of the Sites. However, we may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Personal information that is provided to us by a travel agency, airline, or other travel provider will likely be available for review through the organization that made the booking and pursuant to that organization’s policies.
+## How do you use cookies and similar website technology?
 
-## Data security
+Sabre uses cookies or other similar tracking technologies to provide you with better Services. We may collect information about your activities on our Services through the use of cookies, clear GIFs or web beacons, local shared objects or Flash cookies, or through other similar identifiers and technologies (“Cookies”). Cookies are pieces of information a website transfers to your computer’s hard disk for record-keeping purposes. We use both session and persistent Cookies. Cookies can either be persistent (i.e., they remain on your computer or device until you delete them) or temporary (i.e., they last only until you close your browser). We use first-party and third-party Cookies. First-party Cookies are used and controlled by us. Third-party Cookies are controlled by third parties, mostly for the purpose of analytics.
 
-We have implemented reasonable measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
+Cookies can make the Web more useful by storing information about your preferences for a particular site. The use of Cookies is an industry standard, and many major websites use them to provide useful features for their customers. By using our websites, you consent to our use of Cookies and our processing of information collected through such Cookies, in accordance with this Privacy Statement. You can withdraw your consent at any time by deleting placed Cookies and disabling Cookies in your browser (consult your browser ‘help’ files or visit www.aboutcookies.org or www.allaboutcookies.org to learn more about Cookies and their management). However, if you refuse to accept Cookies, you may not be able to take full advantage of the functionality of the websites or Services. We currently do not respond to “do not track” browser headers with respect to the Services.
 
-The safety and security of your information also depends on you. Any content, including personal information, that you contribute to be shared, published or displayed on any of the Sites, or transmitted to other users of a Site, is visible to other users and can be read, collected, or used by them. We urge you to be careful about giving out information in public areas of any of the Sites. You understand and acknowledge that, even after removal, copies of your content, including personal information, that you contribute to be shared, published or displayed on a Site, or transmitted to other users of a Site, may remain viewable in cached and archived pages. Although we take efforts to protect your personal information, we cannot guarantee the security of your personal information transmitted to a Site. Any transmission of personal information is at your own risk.
+Below is a list of Cookies that may be set by our Sabre owned or licensed websites which display this Privacy Statement, and a description of what each is used for. This list may change over time.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality. By using our Services you consent to the cookies you permit.
 
-## Children under the age of 13
+**PARTY** | **COOKIES / SERVICES** | **PURPOSE** | **THIRD PARTY HELP**  
+---|---|---|---  
+Sabre | 
 
-We do not knowingly collect personal information from children under age 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will take steps to delete that personal information as soon as possible.
+  * **Cookies**
+  * _ga
+  * _gid
+  * _gat
 
-## Recruiting Statement
+| Google Analytics to track page views, session times, and other basic analytics to help create a better experience for our users | [Learn more](https://support.google.com/analytics/answer/6004245) about Google Analytics, including Google’s [opt-out option](https://tools.google.com/dlpage/gaoptout).  
+Sabre | 
 
-Your privacy is important to us. This Statement aims to inform you of how we will use the information you submit when applying for a position via our website (the “Site”), [sabre.com/careers/](http://www.sabre.com/careers/).  Sabre GLBL Inc. (“Sabre”), a Delaware, United States corporation, operates the Site. By submitting your resume or other personal information through the Site you acknowledge and consent to the uses and transfers of data described in this Statement.
+  * **Cookies**
+  * JSESSIONID
+  * RegisterDIB.LOGIN_INFO
+  * sessionExpirationUrl
 
-**Collecting personal information**
+| GetThere application | N/A  
+Adobe Analytics | 
 
-You may provide personal information to Sabre via the Site. The Site may ask for personal information related to education, employment, contacts, preferences, job qualifications, and jobs when you submit an application. You may also choose to provide Sabre with additional information, such as resumes, CVs, transcripts, references, and compensation requests. We recommend that you do not disclose sensitive personal information (e.g., height, weight, religion, philosophical or political beliefs, financial data, sexual orientation, membership in a trade union or political party) in your resume/CV or any materials in support of your application. To the extent information you provide sensitive personal information you expressly authorize Sabre to handle such details as specified in this Statement.
+  * **Cookies**
+  * s_cc – *
+  * s_sq – *
+  * s_fid – *
+  * s_nr
+  * s_vmonthnum
+  * s_monthinvisit
+  * frame
+  * gpv
+  * ttc
+  * _sdsat_Access Type
+  * _sdsat_ORD Key
+  * _sdsat_Site Language
+  * _sdsat_User Type
+  * _sdsat_site_Name
+  * _sdsat_subSite_Name
 
-**Use of personal information**
+| GetThere application. Analytics of application usage – aggregated at the customer level or above. | N/A  
+User Replay | 
 
-We will use your personal information for recruitment purposes, and if you are offered a job or become employed by Sabre or one of its direct or indirect subsidiaries (collectively “ **us** “), we will use it for other employment-related purposes.  These purposes include, but are not limited to: verifying past employment and/or education, checking references, confirming ability to legally work in the relevant country, contacting you and/or your emergency contacts at home if necessary, setting/adjusting compensation, job duties and titles, administering benefits, including health insurance, administering savings and pension plans, managing performance, withholding and payment of applicable taxes and complying with legal and regulatory obligations.
+  * **Cookies**
+  * UrCapture
+  * _urDomainCheck
 
-**Retention**
+| GetThere Application. Used to assist in trouble shooting. | N/A  
+SBE | 
 
-We may also retain your information after the recruitment process is complete to contact you about potential future opportunities or for record keeping purposes but we will delete your information when we no longer need it. However, we may retain your information for longer in an anonymized form for statistical purposes. If you provide information about others (i.e. reference contact details), please ensure you have informed them that you will be providing their information.
+  * **Cookies**
+  * apisession
 
-**Consent to use and transfer**
+| Sabre Hospitality Solutions. Verify User validity to access SHS services. (Services fail without a valid cookie). Store reservation and profile details for application refresh and validation of confirming and search reservations. | N/A  
+Sabre Community Portal | 
 
-By submitting your resume/CV or other information and any subsequent application materials to us, you agree that we may use such information for recruitment, hiring and employment purposes.
+  * **Services**
+  * Application access
+  * Documentation access
+  * Contractual metrics reporting
+  * Invoice delivery
+  * SR submission
+  * Cookies
+  * 1 – iPlanetDirectoryPro
+  * 2 – JSESSIONID
+  * 3 – BIGipServeremg-***
 
-## Changes to our privacy statement
+| The Sabre Community Portal is a web application used by Sabre customers to access applications, documentation and invoices. The portal is also a point of entry tool for contractual metrics and service requests. 
 
-It is our policy to post any changes we make to our privacy practices on this page. The date the privacy statement was last revised is identified at the top of the privacy statement.
+  1. Distinguishing end users for session management.
+  2. Used for session management in J2EE web application for HTTP protocol.
+  3. Used for load balancing
 
-## Contact information
+| N/A  
+YouTube | 
 
-Please direct any questions or comments about this privacy statement and our privacy practices to us at: [privacy@sabre.com](mailto:privacy@sabre.com) or 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Office
+  * **Cookies**
+  * nextId
+  * requests
 
-Effective Date: 09/22/2017
+| Video embed service we use to host video content. YouTube is part of the Google product suite. | Learn more about YouTube’s [privacy policy](https://support.google.com/youtube/answer/7671399?hl=en).  
+Google | 
+
+  * **Services**
+  * Google Analytics
+  * Google Dynamic Remarketing
+
+| Google Analytics is a web analytics service provided by Google, Inc. Google Analytics helps evaluate your use of our websites and compiles reports for us on activity on our websites. | [Learn more](https://support.google.com/analytics/answer/6004245) about Google Analytics, including Google’s [opt-out option](https://tools.google.com/dlpage/gaoptout).  
+LinkedIn | 
+
+  * **Cookies**
+  * UserMatchHistory
+  * lang
+  * **Services**
+  * LinkedIn Analytics
+  * LinkedIn Advertising
+
+| LinkedIn provides professional networking services. LinkedIn’s services allows Sabre to track activity of those who access Sabre websites and services. | [Learn more](https://www.linkedin.com/legal/privacy-policy) about LinkedIn privacy, including opt-out options.  
+Twitter | 
+
+  * **Services**
+  * Twitter Analytics
+  * Twitter Advertising
+  * Twitter Conversion Tracking
+
+| Twitter is a social network and communication platform. Twitter’s services enable Sabre to track activity and the effectiveness of communications through the Twitter platform, as well as providing insight into Sabre’s Twitter followers. | [Learn more](https://twitter.com/en/privacy) about Twitter privacy.  
+DoubleClick | 
+
+  * **Services**
+  * DoubleClick
+
+| DoubleClick is a digital marketing and advertising platform. | [Learn more](https://support.google.com/dfp_premium/answer/2839090?hl=en) about DoubleClick’s use of cookies, including certain opt-out options.  
+Facebook | 
+
+  * **Services**
+  * Facebook Pixel
+
+| Facebook is a social media platform which enables people to connect and share information. | [Learn more](https://www.facebook.com/full_data_use_policy) about Facebook privacy.  
+HubSpot | 
+
+  * **Services**
+  * Hs-analytics.net
+  * Hs-scripts.com
+  * hubspot.com
+
+| HubSpot is a Customer Relationship Management tool for email communications and content hosting. | [Learn more](https://legal.hubspot.com/privacy-policy?_ga=2.48908646.1563309619.1526911917-1978702589.1474049309) about HubSpot privacy policy.  
+Vimeo | 
+
+  * **Cookies**
+  * __gads
+  * __qca
+  * __ssid
+  * _abexps
+  * player
+  * vuid
+
+| Video embed service we use to host video content. Vimeo provides player embed functionality to show videos from their platform on our domains. | [Learn more](https://vimeo.com/privacy) about Vimeo’s privacy policy.  
+  
+Besides Cookies, we may use other technologies, such as web logs, scripts, or other applications that recognize your computer and gather information, such as your internet protocol address and type of browser, the type of operating system you are using, the domain name of your Internet service provider, the web pages you have visited, and the type of mobile device and provider used to utilize the Service. We may use this information to manage our websites and online services, including to provide you appropriate and better service. We and others may collect personal information about your online activities over time and across different Web sites.
+
+## What if you change this Privacy Statement?
+
+We may need to change this Statement and our notices. The updates will be posted online. If the changes are material to the way we process your personal information, we will announce the update through Sabre’s websites by including a “NEWLY UPDATED” label with the Privacy Statement link on our websites for 30 days after material changes are made. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page containing the Privacy Statement.
+
+## How may I control information about me?
+
+You may access and control the information provided to us in a number of ways.
+
+If you maintain an account with us directly, you may update certain information provided to us in your online account (such as contact details) by logging in to your account and editing that information. To the extent that an employer, travel agency or other entity maintains or manages information on your behalf in an online account with us, you may not be able to update such information yourself but may be able to request that such entity do so for you.
+
+You may accept Cookies or change your Cookies settings by activating the appropriate settings on your browser. Check your browser help to find out how to adjust these settings. Please note that certain features of the Service may not be available once cookies are disabled.
+
+If you have another request regarding your personal information, or if you have any questions or comments about this privacy statement and our privacy practices, please direct such inquiries or requests to Sabre’s Data Protection Officer and the privacy team at: privacy@sabre.com or Sabre GLBL Inc., 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Office
+
+If you are dissatisfied, we ask that you contact us first to see if we can resolve the issue.  However, if you are an individual in Europe or certain other jurisdictions, you may have the right to lodge a complaint with the supervisory authority in the country in which you live, in which you work, or in the place of the alleged infringement of your privacy rights.
+
+## EU-Specific Notice
+
+These terms apply to personal information collected by Sabre through the Services if you are an EU resident. Where Sabre collects information directly from you through its Services, such personal information is controlled by Sabre GLBL, Inc., which is headquartered in the United States at 3150 Sabre Drive, Southlake, Texas 76092.
+
+The legal basis for processing of your data includes the purposes set forth above in this Privacy Statement. In some cases, we may additionally process your information based on your consent.
+
+Your personal information will not be stored for longer than necessary for the purposes for which they were collected, or in accordance with applicable law.
+
+Subject to applicable law, you have (i) the right to access and request personal information controlled by Sabre, (ii) the right to request the transmission of the personal information you have provided to us to you or another company, (iii) the right to object to uses or disclosures of your personal information, (iv) the right to withdraw your consent in relation to our processing of your personal information based on your consent (however, such withdrawal of consent will not affect the lawfulness of processing based on consent before such withdrawal), (v) the right to request deletion of your personal information and (vi) the right to request that we restrict processing of your personal information.
+
+You may exercise these rights free of charge unless the request is unfounded, excessive, or otherwise unreasonable, for instance, because it is repetitive. In some situations, we may refuse to act or may impose limitations on your rights, as permitted by law. Before Sabre is able to provide you with any information or correct any inaccuracies, we may ask you to verify your identity and/or provide other details to help us respond to your request. For the exercise of your rights, please contact Sabre’s Representative and/or Data Protection Officer at the location of your choice, below.
+
+If you are dissatisfied, we ask that you contact us first to see if we can resolve the issue.  However, if you are an individual in in Europe or certain other jurisdictions, you may have the right to lodge a complaint with an appropriate supervisory authority. Sabre has identified the Information Commissioner’s Office (“ICO”) in the UK as its lead supervisory authority. The ICO may be contacted at: <https://ico.org.uk/>.
+
+Sabre’s Data Protection Officer can be contacted at:
+
+  * [Privacy@sabre.com](mailto:Privacy@sabre.com); or
+  * Sabre GLBL Inc., 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Office.
+
+
+
+Sabre’s Representative under the GDPR is Sabre Global Technologies Limited, and can be contacted at [Privacy@sabre.com](mailto:Privacy@sabre.com).
+
+## Your California Privacy Rights
+
+California law permits users of our Services that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, California residents should send an e-mail to [privacy@sabre.com](mailto:privacy@sabre.com) or write us at: Sabre Inc., 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Office.
+
+## International Transfers
+
+We’re a global organization headquartered in the United States, and our information systems are in several countries around the world. We also use service providers whose information systems may also be in various countries. This means your personal information might end up in one of those information systems in another country, and that country may have a different level of data protection regulation than yours. By giving us personal information, you expressly consent, or the company from whom we received your personal information consents to the processing of your personal information as described in this document.
+
+No matter what country your personal information is in, we comply with applicable law and will also abide by the commitments we make in this Privacy Statement. Sabre Travel Network is Sabre’s global business-to-business travel marketplace and related solutions for subscribing travel agents, travel management companies, corporate travel departments, online travel websites, and others can use to search, price, book, ticket, and manage travel services provided by a variety of participating travel suppliers, such as airlines, hotels, cruise lines, car rental companies, rail providers, tour operators, and others. For our European operations, the personal and other information that we process about you as part of the Sabre Travel Network is controlled by a Sabre affiliate, sometimes jointly, with our client.
+
+For our non-European operations, and services provided by Sabre’s Hospitality Solutions or Sabre’s Airline Solutions, we are a processor (or subprocessor) of your personal and other information, and our client is the controller (or processor, if Sabre is a subprocessor) of such information.
+
+With respect to sales leads created by Sabre, and information received from individuals directly contacting us, Sabre is typically a controller of such specific personal information.
+
+## Children’s Information
+
+If you are a parent and believe your child who is under 16 has provided us with personal information without your express consent, please contact us at privacy@sabre.com to have your child’s information removed.
