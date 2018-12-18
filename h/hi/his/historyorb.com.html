@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the historyorb.com privacy policy that was archived on 2018-01-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180123063543id_/https%3A//www.onthisday.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the historyorb.com privacy policy that was archived on 2018-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181218035033id_/https%3A//www.onthisday.com/privacy.php) for the most accurate reproduction.-->
 
 <html class="no-js wf-loading" lang="en"><head>
 <title>Privacy Statement - On This Day</title>
@@ -7,7 +7,7 @@
 <link rel="canonical" href="https://www.onthisday.com/privacy.php">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/_assets/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="/_assets/css/main.css" type="text/css" media="all">
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -76,7 +76,7 @@
 <ul class="site-nav__social-menu">
 <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.onthisday.com/privacy.php" class="facebook" target="_blank" rel="noopener"><span class="accessibility">Facebook</span></a></li><li><a href="https://twitter.com/intent/tweet?text=&amp;url=https://www.onthisday.com/privacy.php&amp;via=OnThisDaycom" class="twitter" target="_blank" rel="noopener"><span class="accessibility">Twitter</span></a></li></ul>
 <div class="new-nav-wrap">
-<p class="site-nav__title">Browse</p>
+<p class="site-nav__title">Explore</p>
 <ul class="site-nav__list site-nav__list--categories">
 <li class="site-nav__item"><a href="/" class="site-nav__link">Today</a></li>
 <li class="site-nav__item"><a href="/calendar.php" class="site-nav__link">Calendar</a></li>
@@ -84,6 +84,7 @@
 <li class="site-nav__item"><a href="/articles.php" class="site-nav__link">Articles</a></li>
 <li class="site-nav__item"><a href="/countries.php" class="site-nav__link">Countries</a></li>
 <li class="site-nav__item"><a href="/famous-people.php" class="site-nav__link">Famous People</a></li>
+<li class="site-nav__item"><a href="/photos/" class="site-nav__link">Historical Photos</a></li>
 </ul>
 <p class="site-nav__title">Channels</p>
 <ul class="site-nav__list site-nav__list--channels" id="channels">
@@ -113,13 +114,14 @@
 <nav class="site-nav site-nav--categories site-nav--categories-2" id="nav">
 <div class="wrapper">
 <ul class="site-nav__list site-nav__list--categories">
-<li class="site-nav__item site-nav__item--heading"><a href="#" class="site-nav__link">Browse</a></li>
+<li class="site-nav__item site-nav__item--heading"><a href="#" class="site-nav__link">Explore</a></li>
 <li class="site-nav__item"><a href="/" class="site-nav__link">Today</a></li>
 <li class="site-nav__item"><a href="/calendar.php" class="site-nav__link">Calendar</a></li>
 <li class="site-nav__item"><a href="/dates-by-year.php" class="site-nav__link">Years</a></li>
 <li class="site-nav__item"><a href="/articles.php" class="site-nav__link">Articles</a></li>
 <li class="site-nav__item"><a href="/countries.php" class="site-nav__link">Countries</a></li>
 <li class="site-nav__item"><a href="/famous-people.php" class="site-nav__link">Famous People</a></li>
+<li class="site-nav__item"><a href="/photos/" class="site-nav__link">Historical Photos</a></li>
 </ul>
 </div>
 </nav>
@@ -127,8 +129,8 @@
 <div class="wrapper">
 <form method="post" action="/search.php">
 <ul class="search__list">
-<li class="search__item"><input name="text" type="text" placeholder="Enter Date, Event or Person" value="" class="search__text" aria-label="Date, Event or Person"></li>
-<li class="search__item"><select name="day" class="search__select">
+<li class="search__item"><input name="text" type="text" minlength="4" placeholder="Enter Date, Event or Person" value="" class="search__text" aria-label="Date, Event or Person"></li>
+<li class="search__item"><select name="day" class="search__select" aria-label="Day">
 <option>All Days</option>
 <option value="1">1</option>
 <option value="2">2</option>
@@ -163,7 +165,7 @@
 <option value="31">31</option>
 </select></li>
 <li class="search__item">
-<select name="month" class="search__select">
+<select name="month" class="search__select" aria-label="Month">
 <option value="all" selected="selected">All Months</option>
 <option value="1">January</option>
 <option value="2">February</option>
@@ -180,14 +182,14 @@
 </select></li>
 <li class="search__item"><input name="year" type="number" placeholder="All Years" min="1" max="2018" aria-label="Year"></li>
 <li class="search__item">
-<select name="type" class="search__select">
+<select name="type" class="search__select" aria-label="Entry Type">
 <option value="all" selected="selected">All Types</option>
 <option value="e">Events</option>
 <option value="b">Birthdays</option>
 <option value="w">Weddings &amp; Divorces</option>
 <option value="d">Deaths</option>
 </select></li>
-<li class="search__item"><button class="search__button"><span class="button-label">Search</span></button></li>
+<li class="search__item"><button aria-label="search" class="search__button"><span class="button-label">Search</span></button></li>
 </ul>
 <input type="hidden" name="channel" value="">
 <input type="hidden" name="searchBox" value="2"></form></div>
@@ -241,76 +243,76 @@ This information is shared with advertisers on an aggregate basis. We use this d
 <div class="wrapper">
 <header>
 <ul class="calendar-nav">
-<li class="calendar-nav__item"><a href="/day/december/31" class="calendar-nav__link calendar-nav__link--left">Dec</a></li>
-<li class="calendar-nav__item"><a href="#" class="calendar-nav__link">January</a></li>
-<li class="calendar-nav__item"><a href="/day/february/1" class="calendar-nav__link calendar-nav__link--right">Feb</a></li>
+<li class="calendar-nav__item"><a href="/day/november/30" class="calendar-nav__link calendar-nav__link--left">Nov</a></li>
+<li class="calendar-nav__item"><a href="#" class="calendar-nav__link">December</a></li>
+<li class="calendar-nav__item"><a href="/day/january/1" class="calendar-nav__link calendar-nav__link--right">Jan</a></li>
 </ul>
 </header>
 <ul class="full-calendar__list">
-<li class="full-calendar__item"><a href="/day/january/1">1</a></li>
-<li class="full-calendar__item"><a href="/day/january/2">2</a></li>
-<li class="full-calendar__item"><a href="/day/january/3">3</a></li>
-<li class="full-calendar__item"><a href="/day/january/4">4</a></li>
-<li class="full-calendar__item"><a href="/day/january/5">5</a></li>
-<li class="full-calendar__item"><a href="/day/january/6">6</a></li>
-<li class="full-calendar__item"><a href="/day/january/7">7</a></li>
-<li class="full-calendar__item"><a href="/day/january/8">8</a></li>
-<li class="full-calendar__item"><a href="/day/january/9">9</a></li>
-<li class="full-calendar__item"><a href="/day/january/10">10</a></li>
-<li class="full-calendar__item"><a href="/day/january/11">11</a></li>
-<li class="full-calendar__item"><a href="/day/january/12">12</a></li>
-<li class="full-calendar__item"><a href="/day/january/13">13</a></li>
-<li class="full-calendar__item"><a href="/day/january/14">14</a></li>
-<li class="full-calendar__item"><a href="/day/january/15">15</a></li>
-<li class="full-calendar__item"><a href="/day/january/16">16</a></li>
-<li class="full-calendar__item"><a href="/day/january/17">17</a></li>
-<li class="full-calendar__item"><a href="/day/january/18">18</a></li>
-<li class="full-calendar__item"><a href="/day/january/19">19</a></li>
-<li class="full-calendar__item"><a href="/day/january/20">20</a></li>
-<li class="full-calendar__item"><a href="/day/january/21">21</a></li>
-<li class="full-calendar__item"><a href="/day/january/22">22</a></li>
-<li class="full-calendar__item"><a href="/day/january/23">23</a></li>
-<li class="full-calendar__item"><a href="/day/january/24">24</a></li>
-<li class="full-calendar__item"><a href="/day/january/25">25</a></li>
-<li class="full-calendar__item"><a href="/day/january/26">26</a></li>
-<li class="full-calendar__item"><a href="/day/january/27">27</a></li>
-<li class="full-calendar__item"><a href="/day/january/28">28</a></li>
-<li class="full-calendar__item"><a href="/day/january/29">29</a></li>
-<li class="full-calendar__item"><a href="/day/january/30">30</a></li>
-<li class="full-calendar__item"><a href="/day/january/31">31</a></li>
+<li class="full-calendar__item"><a href="/day/december/1">1</a></li>
+<li class="full-calendar__item"><a href="/day/december/2">2</a></li>
+<li class="full-calendar__item"><a href="/day/december/3">3</a></li>
+<li class="full-calendar__item"><a href="/day/december/4">4</a></li>
+<li class="full-calendar__item"><a href="/day/december/5">5</a></li>
+<li class="full-calendar__item"><a href="/day/december/6">6</a></li>
+<li class="full-calendar__item"><a href="/day/december/7">7</a></li>
+<li class="full-calendar__item"><a href="/day/december/8">8</a></li>
+<li class="full-calendar__item"><a href="/day/december/9">9</a></li>
+<li class="full-calendar__item"><a href="/day/december/10">10</a></li>
+<li class="full-calendar__item"><a href="/day/december/11">11</a></li>
+<li class="full-calendar__item"><a href="/day/december/12">12</a></li>
+<li class="full-calendar__item"><a href="/day/december/13">13</a></li>
+<li class="full-calendar__item"><a href="/day/december/14">14</a></li>
+<li class="full-calendar__item"><a href="/day/december/15">15</a></li>
+<li class="full-calendar__item"><a href="/day/december/16">16</a></li>
+<li class="full-calendar__item"><a href="/day/december/17">17</a></li>
+<li class="full-calendar__item"><a href="/day/december/18">18</a></li>
+<li class="full-calendar__item"><a href="/day/december/19">19</a></li>
+<li class="full-calendar__item"><a href="/day/december/20">20</a></li>
+<li class="full-calendar__item"><a href="/day/december/21">21</a></li>
+<li class="full-calendar__item"><a href="/day/december/22">22</a></li>
+<li class="full-calendar__item"><a href="/day/december/23">23</a></li>
+<li class="full-calendar__item"><a href="/day/december/24">24</a></li>
+<li class="full-calendar__item"><a href="/day/december/25">25</a></li>
+<li class="full-calendar__item"><a href="/day/december/26">26</a></li>
+<li class="full-calendar__item"><a href="/day/december/27">27</a></li>
+<li class="full-calendar__item"><a href="/day/december/28">28</a></li>
+<li class="full-calendar__item"><a href="/day/december/29">29</a></li>
+<li class="full-calendar__item"><a href="/day/december/30">30</a></li>
+<li class="full-calendar__item"><a href="/day/december/31">31</a></li>
 </ul>
 <select class="calendar-date-select calendar-select" onchange="location = this.options[this.selectedIndex].value;">
-<option value="/day/january/1">1</option>
-<option value="/day/january/2">2</option>
-<option value="/day/january/3">3</option>
-<option value="/day/january/4">4</option>
-<option value="/day/january/5">5</option>
-<option value="/day/january/6">6</option>
-<option value="/day/january/7">7</option>
-<option value="/day/january/8">8</option>
-<option value="/day/january/9">9</option>
-<option value="/day/january/10">10</option>
-<option value="/day/january/11">11</option>
-<option value="/day/january/12">12</option>
-<option value="/day/january/13">13</option>
-<option value="/day/january/14">14</option>
-<option value="/day/january/15">15</option>
-<option value="/day/january/16">16</option>
-<option value="/day/january/17">17</option>
-<option value="/day/january/18">18</option>
-<option value="/day/january/19">19</option>
-<option value="/day/january/20">20</option>
-<option value="/day/january/21">21</option>
-<option value="/day/january/22">22</option>
-<option value="/day/january/23" selected="">23</option>
-<option value="/day/january/24">24</option>
-<option value="/day/january/25">25</option>
-<option value="/day/january/26">26</option>
-<option value="/day/january/27">27</option>
-<option value="/day/january/28">28</option>
-<option value="/day/january/29">29</option>
-<option value="/day/january/30">30</option>
-<option value="/day/january/31">31</option>
+<option value="/day/december/1">1</option>
+<option value="/day/december/2">2</option>
+<option value="/day/december/3">3</option>
+<option value="/day/december/4">4</option>
+<option value="/day/december/5">5</option>
+<option value="/day/december/6">6</option>
+<option value="/day/december/7">7</option>
+<option value="/day/december/8">8</option>
+<option value="/day/december/9">9</option>
+<option value="/day/december/10">10</option>
+<option value="/day/december/11">11</option>
+<option value="/day/december/12">12</option>
+<option value="/day/december/13">13</option>
+<option value="/day/december/14">14</option>
+<option value="/day/december/15">15</option>
+<option value="/day/december/16">16</option>
+<option value="/day/december/17" selected="">17</option>
+<option value="/day/december/18">18</option>
+<option value="/day/december/19">19</option>
+<option value="/day/december/20">20</option>
+<option value="/day/december/21">21</option>
+<option value="/day/december/22">22</option>
+<option value="/day/december/23">23</option>
+<option value="/day/december/24">24</option>
+<option value="/day/december/25">25</option>
+<option value="/day/december/26">26</option>
+<option value="/day/december/27">27</option>
+<option value="/day/december/28">28</option>
+<option value="/day/december/29">29</option>
+<option value="/day/december/30">30</option>
+<option value="/day/december/31">31</option>
 </select>
 <select class="calendar-type-select calendar-select" onchange="location = this.options[this.selectedIndex].value;">
 <option value="/" selected="">All</option>
@@ -331,8 +333,8 @@ This information is shared with advertisers on an aggregate basis. We use this d
 <div class="wrapper">
 <form method="post" action="/search.php">
 <ul class="search__list">
-<li class="search__item"><input name="text" type="text" placeholder="Enter Date, Event or Person" value="" class="search__text" aria-label="Date, Event or Person"></li>
-<li class="search__item"><select name="day" class="search__select">
+<li class="search__item"><input name="text" type="text" minlength="4" placeholder="Enter Date, Event or Person" value="" class="search__text" aria-label="Date, Event or Person"></li>
+<li class="search__item"><select name="day" class="search__select" aria-label="Day">
 <option>All Days</option>
 <option value="1">1</option>
 <option value="2">2</option>
@@ -367,7 +369,7 @@ This information is shared with advertisers on an aggregate basis. We use this d
 <option value="31">31</option>
 </select></li>
 <li class="search__item">
-<select name="month" class="search__select">
+<select name="month" class="search__select" aria-label="Month">
 <option value="all" selected="selected">All Months</option>
 <option value="1">January</option>
 <option value="2">February</option>
@@ -384,14 +386,14 @@ This information is shared with advertisers on an aggregate basis. We use this d
 </select></li>
 <li class="search__item"><input name="year" type="number" placeholder="All Years" min="1" max="2018" aria-label="Year"></li>
 <li class="search__item">
-<select name="type" class="search__select">
+<select name="type" class="search__select" aria-label="Entry Type">
 <option value="all" selected="selected">All Types</option>
 <option value="e">Events</option>
 <option value="b">Birthdays</option>
 <option value="w">Weddings &amp; Divorces</option>
 <option value="d">Deaths</option>
 </select></li>
-<li class="search__item"><button class="search__button"><span class="button-label">Search</span></button></li>
+<li class="search__item"><button aria-label="search" class="search__button"><span class="button-label">Search</span></button></li>
 </ul>
 <input type="hidden" name="channel" value="">
 <input type="hidden" name="searchBox" value="2"></form>&nbsp;
@@ -402,8 +404,8 @@ This information is shared with advertisers on an aggregate basis. We use this d
 <header><h4>Search the world's largest, most accurate site for today in history.</h4></header>
 <form method="post" action="/search.php">
 <ul class="search__list">
-<li class="search__item"><input name="text" type="text" placeholder="Enter Date, Event or Person" value="" class="search__text" aria-label="Date, Event or Person"></li>
-<li class="search__item"><select name="day" class="search__select">
+<li class="search__item"><input name="text" type="text" minlength="4" placeholder="Enter Date, Event or Person" value="" class="search__text" aria-label="Date, Event or Person"></li>
+<li class="search__item"><select name="day" class="search__select" aria-label="Day">
 <option>All Days</option>
 <option value="1">1</option>
 <option value="2">2</option>
@@ -438,7 +440,7 @@ This information is shared with advertisers on an aggregate basis. We use this d
 <option value="31">31</option>
 </select></li>
 <li class="search__item">
-<select name="month" class="search__select">
+<select name="month" class="search__select" aria-label="Month">
 <option value="all" selected="selected">All Months</option>
 <option value="1">January</option>
 <option value="2">February</option>
@@ -455,14 +457,14 @@ This information is shared with advertisers on an aggregate basis. We use this d
 </select></li>
 <li class="search__item"><input name="year" type="number" placeholder="All Years" min="1" max="2018" aria-label="Year"></li>
 <li class="search__item">
-<select name="type" class="search__select">
+<select name="type" class="search__select" aria-label="Entry Type">
 <option value="all" selected="selected">All Types</option>
 <option value="e">Events</option>
 <option value="b">Birthdays</option>
 <option value="w">Weddings &amp; Divorces</option>
 <option value="d">Deaths</option>
 </select></li>
-<li class="search__item"><button class="search__button"><span class="button-label">Search</span></button></li>
+<li class="search__item"><button aria-label="search" class="search__button"><span class="button-label">Search</span></button></li>
 </ul>
 <input type="hidden" name="channel" value="">
 <input type="hidden" name="searchBox" value="2"></form>&nbsp;
@@ -506,7 +508,7 @@ This information is shared with advertisers on an aggregate basis. We use this d
 <p class="footer__copyright">© 2000-2018 <a href="/">OnThisDay.com</a></p>
 </div>
 </footer>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="/_assets/js/plugins.js"></script>
 <script src="/_assets/js/functions-2.js"></script>
 </body></html>
