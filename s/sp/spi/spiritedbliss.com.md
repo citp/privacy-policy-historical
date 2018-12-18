@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritedbliss.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611033819id_/http%3A//spiritedbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritedbliss.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218062512id_/https%3A//spiritedbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spirited Bliss
 
@@ -32,9 +32,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Third Party Vendors:**
 
-We use third party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.networkadvertising.org/managing/opt_out.asp). 
 
-Third party advertising companies, including Google, use cookies to serve ads to you based on a your prior web site visits to Boredom Therapy and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+Third party advertising companies, including Google, use cookies to serve ads to you based on a your prior web site visits to Boredom Therapy and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). 
 
 **Links To Third Party Websites:**
 
