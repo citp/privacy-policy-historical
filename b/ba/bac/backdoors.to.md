@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330122853id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218194813id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
 
 # Backdoors.To Privacy Policy
 
@@ -8,7 +8,7 @@
 
 At Backdoors.To we recognize that privacy is important. This Policy applies to all the products and services offered by Backdoors.To.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20180330122853id_/http%3A//www.backdoors.to/backdoors/contact.asp).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20181218194813id_/http%3A//www.backdoors.to/backdoors/contact.asp).
 
 **Information we collect and how we use it:**
 
