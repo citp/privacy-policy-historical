@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701200013id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218175428id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
 
-# RegattaCentral - Staff
+# RegattaCentral - Privacy Policy
 
-**RegattaCentral Privacy Policy**   
+**SPay, Inc d/b/a Stack Sports Star Sports Privacy Policy**   
 ****   
-**Effective Date: 28 October 2016**   
+**Effective Date: 28 September 2017**   
 ****   
 **Introduction**
 
-At RegattaCentral we understand that your privacy is important to you and we are committed to complying with the applicable privacy laws in relation to all Personal Information and Sensitive Information that we collect from you. This policy describes our Privacy and Information handling practices. 
+At SPay, Inc. (SPay) we understand that your privacy is important to you and we are committed to complying with the applicable privacy laws in relation to all Personal Information and Sensitive Information that we collect from you. This policy describes our Privacy and Information handling practices. 
 
-By accessing and using this website (www.regattacentral.com) or other websites owned and operated by RegattaCentral, you accept and agree to RegattaCentral’s Privacy Policy without limitation or qualification.   
+By accessing and using this website (www.regattacentral.com) or other websites owned and operated by SPay, you accept and agree to SPay’s Privacy Policy without limitation or qualification.   
 Definitions of specific terms referred to in this Policy can be found under the heading ‘Glossary’ at the end of this document.   
 ****   
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
@@ -68,7 +68,7 @@ o volunteer roles.
 
 **4.** **The way in which we use and disclose Personal Information**   
 ****   
-We will use or disclose your Personal Information only for the purposes for which it was collected. If you register for a particular event or program, we will share your information with the applicable host organisation, governing body, club or event organiser for that event or program, and with any other party which furthers the purpose of your registration. These parties are authorized to use your Personal Information only as necessary to provide these services to us. We will use or disclose your information for a secondary purpose only if you have consented or if you would reasonably expect us to do so or if required by law, such as to comply with a subpoena, or similar legal process. In certain situations, RegattaCentral, LLC may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If RegattaCentral is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information. 
+We will use or disclose your Personal Information only for the purposes for which it was collected. If you register for a particular event or program, we will share your information with the applicable host organisation, governing body, club or event organiser for that event or program, and with any other party which furthers the purpose of your registration. These parties are authorized to use your Personal Information only as necessary to provide these services to us. We will use or disclose your information for a secondary purpose only if you have consented or if you would reasonably expect us to do so or if required by law, such as to comply with a subpoena, or similar legal process. In certain situations, SPay, Inc. may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If SPay is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information. 
 
 We may use your Personal Information for the purposes of our own direct marketing, however we will ensure you have an ability to opt out of future such communications by following the unsubscribe instructions included in these emails or you can contact us at support@regattacentral.com. 
 
@@ -114,9 +114,9 @@ Valid reasons include where:
 
 · giving access would be unlawful. 
 
-Upon request, RegattaCentral, LLC will provide you with information about whether we hold any of your personal information. If your personal details change, or you believe the information we hold about you is incorrect, incomplete or out-of-date, please contact us so that we can correct our records or you can make the change on your Account Information page. 
+Upon request, SPay will provide you with information about whether we hold any of your personal information. If your personal details change, or you believe the information we hold about you is incorrect, incomplete or out-of-date, please contact us so that we can correct our records or you can make the change on your Account Information page. 
 
-Requests for access, deletion or correction to Personal Information should be addressed to the RegattaCentral Privacy Officer. All requests for access, deletion or correction to Personal Information will be responded to in writing within a reasonable period of time. As part of this process we will verify the identity of the individual requesting the information prior to providing access or making any changes. If access, deletion or correction to your Personal Information is refused we will provide reasons for our refusal. 
+Requests for access, deletion or correction to Personal Information should be addressed to the SPay Inc. Privacy Officer. All requests for access, deletion or correction to Personal Information will be responded to in writing within a reasonable period of time. As part of this process we will verify the identity of the individual requesting the information prior to providing access or making any changes. If access, deletion or correction to your Personal Information is refused we will provide reasons for our refusal. 
 
 **7.** **Mechanisms for complaint if you are unhappy about how we have dealt with or are dealing with your Personal Information**   
 ****   
@@ -124,13 +124,13 @@ We have procedures in place to deal with your inquiries or complaints.
 
 If you have any questions about our policy or any complaint regarding the treatment of your privacy by us, please contact us at the respective addresses below. 
 
-**_Complaints to RegattaCentral_**
+**_Complaints to SPay Inc._**
 
  __   
 _By post:_
 
 Attn: Privacy Officer  
-RegattaCentral, LLC  
+SPay, Inc. re: RegattaCentral  
 2029 Riverside Dr, Suite 201  
 Columbus, OH, 43221   
 United States of America 
@@ -143,8 +143,7 @@ support@regattacentral.com
 __   
 _By phone:_
 
-(614) 360-2922 (US & Canada)   
-+61 2 6100 4216 (Australia) 
++1 (614) 360-2922
 
 We will endeavour to respond to you within a reasonable time. If you are still not satisfied with the way your complaint is handled by us, you may be entitled to have your complaint reviewed under an applicable privacy law. 
 
@@ -155,7 +154,7 @@ We will endeavour to respond to you within a reasonable time. If you are still n
 
 
 
-Our website includes links to other websites whose privacy practices may differ from those of RegattaCentral. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
+Our website includes links to other websites whose privacy practices may differ from those of SPay, Inc. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
 
   * _Collection and Use of 3 rd Party Personal Information _
 
@@ -181,19 +180,19 @@ We reserve the right to amend this Policy from time to time. Any revisions to th
 1\. **_Personal Information_** means information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion is true or not, and whether the information or opinion is recorded in a material form or not.  
 ---  
   
-2\. **_RegattaCentral_** means RegattaCentral, LLC.  
+2\. **_SPay_** means SPay, Inc. d/b/a Stack Sports  
   
 3\. **_Sensitive Information_** includes information or an opinion about an individual’s racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual orientation or practices, or criminal record that is also personal information, or health information about an individual, or genetic information about an individual that is not otherwise health information, or biometric information used for the purpose of automated biometric verification or identification, or biometric templates.  
   
-4\. **_We_** , **_us_ **and **_our_** refers to RegattaCentral.  
+4\. **_We_** , **_us_ **and **_our_** refers to SPay.  
   
 **Website usage and other information collected on this website**
 
-By accessing and using this website or other websites owned and operated by RegattaCentral, you accept and agree to RegattaCentral’s Privacy Policy without limitation or qualification. 
+By accessing and using this website (www.regattacentral.com) owned and operated by SPay, Inc. you accept and agree to SPay, Inc’s Privacy Policy without limitation or qualification. 
 
 We do not sell, rent or trade your Personal Information to any other third parties except if required by law or permitted under an applicable privacy law. 
 
-RegattaCentral’s Privacy Policy applies solely to information collected by us and may differ from the policies of other companies’ or organisations’ websites that you link to from this website. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that we are not responsible for the content of third party websites linked to our website nor are we responsible for the privacy policy or practices of any third parties whose website is linked to our website. We recommend that you read the privacy policy of any other companies’ or organisations’ website that you link to from our website.   
+SPay’s Privacy Policy applies solely to information collected by us and may differ from the policies of other companies’ or organisations’ websites that you link to from this website. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that we are not responsible for the content of third party websites linked to our website nor are we responsible for the privacy policy or practices of any third parties whose website is linked to our website. We recommend that you read the privacy policy of any other companies’ or organisations’ website that you link to from our website.   
 ****   
 **Cookies/Tracking Technology**
 
@@ -201,7 +200,7 @@ Cookies are small data files that are sent from a website and stored in a user�
 
 If you wish to disable the cookies on this website you will need to follow the steps required for your preferred browser but your ability to use some features or areas of our website may be limited.
 
-Technologies such as: cookies, beacons, tags and scripts are used by RegattaCentral and our marketing partners, partners, affiliates, and analytics/monitoring service providers. These technologies are used in analyzing trends, administering the website, identifying the number of visitors and page views (or page impressions) that occur on our website and how visitors use the website (e.g. how long these visitors (on average) spend on our website and common entry and exit points to our website). We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.   
+Technologies such as: cookies, beacons, tags and scripts are used by SPay and our marketing partners, partners, affiliates, and analytics/monitoring service providers. These technologies are used in analyzing trends, administering the website, identifying the number of visitors and page views (or page impressions) that occur on our website and how visitors use the website (e.g. how long these visitors (on average) spend on our website and common entry and exit points to our website). We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.   
 · _Log Files_
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you. We do this to improve services we offer, improve marketing and assist with analytics and site monitoring functinality. 
