@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentguru.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605162245id_/http%3A//investmentguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentguru.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218145159id_/http%3A//investmentguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Investment Guru
 
