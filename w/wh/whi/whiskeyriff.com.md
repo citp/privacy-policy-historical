@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611110131id_/http%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218202614id_/http%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Whiskey Riff
-
-## Privacy Policy
+# Terms And Conditions | Whiskey Riff
 
 _Effective as of May 24, 2018_
 
@@ -50,7 +48,7 @@ Advertising Privacy Statement
 
 This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
 For European Economic Area Residents
 
@@ -74,7 +72,7 @@ If you are a resident of a country in the European Economic Area (EEA), please r
 
 **Transactional Data**
 
-We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our shop site **[www.shop.whiskeyriff.com](https://shop.whiskeyriff.com/), **(“Shop”). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  Payment processing on the Shop is handled by our payment services providers, _Google Pay, PayPal, or Shopify Payments._  We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at <https://www.shopify.com/legal/privacy>
+We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our shop site  **[www.shop.whiskeyriff.com](https://shop.whiskeyriff.com/), **(“Shop”). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  Payment processing on the Shop is handled by our payment services providers,  _Google Pay, PayPal, or Shopify Payments._  We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at <https://www.shopify.com/legal/privacy>
 
 **Additional Rights of EEA (European Economic Area) Residents**
 
@@ -110,7 +108,7 @@ We may change this Privacy Policy from time to time. The most recent version of 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at  **wes@whiskeyriff.com**
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at  **wes@ whiskeyriff.com**
 
 Or write to us at:
 
