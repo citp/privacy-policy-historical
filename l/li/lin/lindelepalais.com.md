@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611010206id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218101122id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
 
 # lindelepalais.com :: Policy and more
 
@@ -166,7 +166,7 @@ For purchases from countries using currencies other than the euro, the total cha
 
 **5\. Promotional Codes**
 
-5.1 Customers who sign up for the lindelepalais.com newsletter will receive updates on special offers together with promotional codes that may be added to their carts during the purchasing process. Each code has a starting date and an expiry date, and this time limit will not be extended in any way. Discount offers cannot be used together unless otherwise specified.
+5.1 Customers who sign up for the lindelepalais.com newsletter will receive updates on special offers together with promotional codes that may be added to their carts during the purchasing process. Each code has a starting date and an expiry date, and this time limit will not be extended in any way. Discount offers cannot be used together unless otherwise specified, promocodes will only work for full-priced items if not differently specified.
 
 5.2 In the event that a customer intends to exercise the right of withdrawal, as stated in art. 52 of the Consumer Code and return an item to which a promotional code was applied, the standard returns process is will be applied, as stated in the Returns section.
 
@@ -511,13 +511,15 @@ Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark, Estonia, F
 
 **Shipping Costs and Times**
 
-As soon as payment has been authorised and items are available, orders will be shipped in the shortest amount of time possible. Delivery times depend on the time at which orders are received.
+As soon as payment has been authorised and items are available, orders will be shipped in 2 business days.
 
-  * Italy FREE EXPRESS DELIVERY: delivery is expected 24-48 hours from the time of dispatch.
-  * Europe FREE EXPRESS DELIVERY: for orders above 250 euro, or at a charge of 15 euro. Delivery is expected within three working days.
-  * United States, Canada, Japan, South Korea FREE EXPRESS DELIVERY.
-  * Non EU countries: FREE EXPRESS DELIVERY: for orders above 250 euro, or at a charge of 25 euro. Customs duty to be paid by the customer.
-  * RUSSIA is a different case: shipping is free but not express. Delivery is usually expected within 5-7 days from the date of shipping. 
+Shipping time depends on destination country of the order:
+
+  * Italy (FREE EXPRESS DELIVERY): in 2 business days
+  * Europe (FREE EXPRESS DELIVERY for orders above 250 euro, otherwise 15 euro):  in 4 business days
+  * United States, Canada, Japan, South Korea (FREE EXPRESS DELIVERY): in 5 business days
+  * Non EU countries (FREE EXPRESS DELIVERY for orders above 250 euro, otherwise 25 euro - customs duty to be paid by the customer): in 5 business days
+  * RUSSIA (FREE STANDARD DELIVERY): from 7 to 20 business days
 
 
 
