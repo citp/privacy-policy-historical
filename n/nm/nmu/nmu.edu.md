@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601000926id_/http%3A//www.nmu.edu/mc/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218090151id_/http%3A//www.nmu.edu/mc/PrivacyStatement) for the most accurate reproduction.*
 
 # Web Site Privacy Statement | University Marketing and Communications at NMU
 
@@ -26,7 +26,7 @@ Northern Michigan University also uses Google Custom Search for the keyword sear
 
 #### Opting Out
 
-Users may opt out of Google’s use of cookies by visiting the Google Advertising opt-out page (<https://support.google.com/ads/answer/2662922?hl=en>) or by installing the Google Analytics opt-out browser add-on (<https://tools.google.com/dlpage/gaoptout/>).
+Users may opt out of Google’s use of cookies by visiting the [Google Advertising opt-out page](https://support.google.com/ads/answer/2662922?hl=en) or by installing the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 ### Information You Provide to Us
 
