@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630093053id_/https%3A//www.bidorbuy.co.za/help/446/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218035918id_/https%3A//www.bidorbuy.co.za/help/446/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) / [bobPay User Agreement](https://web.archive.org/help/1021/bobPay_User_Agreement) / [Billing Statement](https://web.archive.org/help/442/Billing_Statement) / [Rating Rules](https://web.archive.org/help/443/Rating_Rules) / [Listing Policy](https://web.archive.org/help/444/Listing_Policy) / [Verified User Agreement](https://web.archive.org/help/445/Verified_User_Agreement) / Privacy Statement / [Vulnerability Reporting](https://web.archive.org/help/6743/Vulnerability_Disclosure) / [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) / [SMS Terms & Conditions](https://web.archive.org/help/4643/SMS_Terms_&_Conditions) / [Mobile Device Terms & Conditions](https://web.archive.org/help/6181/Mobile_Device_Terms_Conditions) / [Stores Terms & Conditions](https://web.archive.org/help/6273/bidorbuy_Stores_Terms_and_Conditions) / [Buyer Protection Programme Terms & Conditions](https://web.archive.org/help/6600/bidorbuy_Buyer_Protection_Programme) / [bobBucks Terms & Conditions](https://web.archive.org/help/6331/bobBucks_Terms_Conditions)
+[Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) | [bobPay User Agreement](https://web.archive.org/help/1021/bobPay_User_Agreement) | [Billing Statement](https://web.archive.org/help/442/Billing_Statement) | [Rating Rules](https://web.archive.org/help/443/Rating_Rules) | [Listing Policy](https://web.archive.org/help/444/Listing_Policy) | [Verified User Agreement](https://web.archive.org/help/445/Verified_User_Agreement) | Privacy Statement | [Vulnerability Reporting](https://web.archive.org/help/6743/Vulnerability_Disclosure) | [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) | [SMS Terms & Conditions](https://web.archive.org/help/4643/SMS_Terms_&_Conditions) | [Mobile Device Terms & Conditions](https://web.archive.org/help/6181/Mobile_Device_Terms_Conditions) | [Stores Terms & Conditions](https://web.archive.org/help/6273/bidorbuy_Stores_Terms_and_Conditions) | [Buyer Protection Programme Terms & Conditions](https://web.archive.org/help/6600/bidorbuy_Buyer_Protection_Programme) | [bobBucks Terms & Conditions](https://web.archive.org/help/6331/bobBucks_Terms_Conditions)
 
-This Privacy Statement was last revised on **22 August 2014**.
+This Privacy Statement was last revised on **28 September 2018**.
 
 This privacy statement discloses the privacy practices for the **bidorbuy.co.za site**.
 
@@ -64,7 +64,9 @@ There are two sorts of cookies used on our site: session cookies and persistent 
 
 Bidorbuy may make use of other tracking technologies including, but not limited to, web beacons which are small graphic images or other web-programming code included in webpages and email messages and/or embedded scripts placed on the website designed to collect information about your interactions with any given website. These technologies are used in order to collect certain information which may also include personally identifiable information for purposes such as fraud detection and improvement of our website amongst others.
 
-Bidorbuy employs the services of a third party in its use of the above technologies and whilst Bidorbuy takes every precaution to ensure the loss, misuse, alteration and confidentiality of all information in our possession we have little control over information not in our possession.
+Bidorbuy employs the services of third parties in its use of the above technologies and whilst Bidorbuy takes every precaution to ensure the loss, misuse, alteration and confidentiality of all information in our possession we have little control over information not in our possession.
+
+Bidorbuy makes use of anonymous UID tracking to allow Google and its services to personalise the advertisements that are shown to you. You can opt out of Google's use of cookies by installing the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout)
 
 #### Log Files
 
@@ -108,9 +110,9 @@ We will also share information, including personally identifiable information ab
 
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices or content of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
 
-#### Newsletter
+#### Newsletters
 
-If you wish to subscribe to our newsletter, we ask for contact information such as email addresses. However, it is completely at your discretion to be removed from such a list as set out in our choice and opt-out section below.
+If you wish to subscribe to our newsletters, we ask for contact information such as email addresses. However, it is completely at your discretion to be removed from such a list as set out in our choice and opt-out section below.
 
 #### Site And Services Updates
 
@@ -156,11 +158,11 @@ Should you wish us to remove your personal data provided to us, we will delete y
 
 #### Choice/Opt-out
 
-If you no longer wish to receive our newsletter, information about products and services and special deals, surveys, or promotional materials from us or our partners you may opt-out of receiving these communications by following the unsubscribe instructions in the relevant email or by emailing us at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za).
+If you no longer wish to receive our newsletters, information about products and services and special deals, surveys, or promotional materials from us or our partners you may opt-out of receiving these communications by following the unsubscribe instructions in the relevant email or by emailing us at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za).
 
-To update your registration information log onto our Members Area, or [click here](https://web.archive.org/jsp/registration/UserRegistration.jsp?action=Modify).
+To update your registration information log onto our Members Area, or [click here](https://web.archive.org/jsp/registration/UserAccount.jsp).
 
-To subscribe to our newsletter, [click here](https://web.archive.org/jsp/registration/UserRegistration.jsp?action=Modify).
+To subscribe to our newsletter, [click here](https://web.archive.org/jsp/newsletters/NewsletterSignUp.jsp).
 
 #### Anti-Spam Policy
 
@@ -168,7 +170,7 @@ bidorbuy (Pty) Ltd is committed to **permission-based** email marketing practice
 
 Spam is commercial email or unsolicited bulk email, including junk mail, which has not been requested by the recipient. Spam is the opposite of permission-based email
 
-If you believe that you have received Spam connected to bidorbuy (Pty) Ltd in any way, send a complaint including the unsolicited email, to[bidorbuy abuse](mailto:abuse@bidorbuy.co.za?subject=bidorbuy%20abuse%20report). You may also provide any other information that you believe may help a bidorbuy (Pty) Ltd investigation. bidorbuy (Pty) Ltd does not investigate or take any action based on anonymous Spam complaints.
+If you believe that you have received Spam connected to bidorbuy (Pty) Ltd in any way, send a complaint including the unsolicited email, to [bidorbuy abuse](mailto:abuse@bidorbuy.co.za?subject=bidorbuy%20abuse%20report). You may also provide any other information that you believe may help a bidorbuy (Pty) Ltd investigation. bidorbuy (Pty) Ltd does not investigate or take any action based on anonymous Spam complaints.
 
 Individuals who register on bidorbuy (Pty) Ltd, and provide their email address, give bidorbuy (Pty) Ltd permission to send information on bidorbuy (Pty) Ltd related information, products and services to said email address. In order to protect your privacy, bidorbuy (Pty) Ltd does not sell, share or trade our subscriber list with anyone for any reason and you may unsubscribe at any time.
 
@@ -184,4 +186,4 @@ If you have any questions about this privacy statement, any questions regarding 
 
 * * *
 
-[Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) / [bobPay User Agreement](https://web.archive.org/help/1021/bobPay_User_Agreement) / [Billing Statement](https://web.archive.org/help/442/Billing_Statement) / [Rating Rules](https://web.archive.org/help/443/Rating_Rules) / [Listing Policy](https://web.archive.org/help/444/Listing_Policy) / [Verified User Agreement](https://web.archive.org/help/445/Verified_User_Agreement) / Privacy Statement / [Vulnerability Reporting](https://web.archive.org/help/6743/Vulnerability_Disclosure) / [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) / [SMS Terms & Conditions](https://web.archive.org/help/4643/SMS_Terms_&_Conditions) / [Mobile Device Terms & Conditions](https://web.archive.org/help/6181/Mobile_Device_Terms_Conditions) / [Stores Terms & Conditions](https://web.archive.org/help/6273/bidorbuy_Stores_Terms_and_Conditions) / [Buyer Protection Programme Terms & Conditions](https://web.archive.org/help/6600/bidorbuy_Buyer_Protection_Programme) / [bobBucks Terms & Conditions](https://web.archive.org/help/6331/bobBucks_Terms_Conditions)
+[Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) | [bobPay User Agreement](https://web.archive.org/help/1021/bobPay_User_Agreement) | [Billing Statement](https://web.archive.org/help/442/Billing_Statement) | [Rating Rules](https://web.archive.org/help/443/Rating_Rules) | [Listing Policy](https://web.archive.org/help/444/Listing_Policy) | [Verified User Agreement](https://web.archive.org/help/445/Verified_User_Agreement) | Privacy Statement | [Vulnerability Reporting](https://web.archive.org/help/6743/Vulnerability_Disclosure) | [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) | [SMS Terms & Conditions](https://web.archive.org/help/4643/SMS_Terms_&_Conditions) | [Mobile Device Terms & Conditions](https://web.archive.org/help/6181/Mobile_Device_Terms_Conditions) | [Stores Terms & Conditions](https://web.archive.org/help/6273/bidorbuy_Stores_Terms_and_Conditions) | [Buyer Protection Programme Terms & Conditions](https://web.archive.org/help/6600/bidorbuy_Buyer_Protection_Programme) | [bobBucks Terms & Conditions](https://web.archive.org/help/6331/bobBucks_Terms_Conditions)
