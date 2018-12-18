@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ookla.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618153924id_/https%3A//www.ookla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ookla.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218215019id_/https%3A//www.ookla.com/privacy) for the most accurate reproduction.*
 
 # Ookla Privacy Policy
 
@@ -8,28 +8,28 @@ If you have any questions about our Privacy Policy, you can contact us at [priva
 
 Ziff Davis, LLC, with its affiliates and its subsidiaries (collectively,  **"Ziff Davis"** ,  **"us"** , **"our"**  or  **"we"** ), owns, operates, or provides access to, several interactive websites, mobile and connected applications, and other online interactive features and services, including, but not limited to, emails, newsletters, chat areas, forums, communities, sweepstakes and contests (collectively  **"Services"** ). This Privacy Policy applies to all information collected about you by Ziff Davis, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
 
-Except as otherwise noted in this Privacy Policy, Ziff Davis is a data controller (as that term is used under the [EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (" **GDPR** ")), which means that we decide how and why the information you provide to us is processed. Contact details are provided in Section 17 below. This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
+Except as otherwise noted in this Privacy Policy, Ziff Davis is a data controller (as that term is used under the [EU General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (" **GDPR** ")), which means that we decide how and why the information you provide to us is processed. Contact details are provided in Section 17 below. This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
 This Privacy Policy covers information collected through the following websites and mobile applications:
 
-  * [Ziff Davis](http://www.ziffdavis.com/)
-  * [IGN](http://www.ign.com/), [IGN Canada](http://ca.ign.com/), [IGN UK](http://uk.ign.com/), [IGN Australia](http://au.ign.com/)
-  * [AskMen](http://www.askmen.com/), [AskMen Canada](http://ca.askmen.com/), [AskMen UK](http://uk.askmen.com/), [AskMen Australia](http://au.askmen.com/)
-  * [PCMag](http://www.pcmag.com/), [PCMag UK](http://uk.pcmag.com/), [PCMag Australia](http://au.pcmag.com/)
-  * [Geek](http://www.geek.com/)
-  * [ExtremeTech](http://www.extremetech.com/)
-  * [Computer Shopper](http://www.computershopper.com/)
-  * [TechBargains](http://www.techbargains.com/)
-  * [Mashable](http://mashable.com/)
-  * [Offers.com](http://www.offers.com/)
+  * [Ziff Davis](https://www.ziffdavis.com/)
+  * [IGN](https://www.ign.com/), [IGN Canada](https://ca.ign.com/), [IGN UK](https://uk.ign.com/), [IGN Australia](https://au.ign.com/)
+  * [AskMen](https://www.askmen.com/), [AskMen Canada](https://ca.askmen.com/), [AskMen UK](https://uk.askmen.com/), [AskMen Australia](https://au.askmen.com/)
+  * [PCMag](https://www.pcmag.com/), [PCMag UK](https://uk.pcmag.com/), [PCMag Australia](https://au.pcmag.com/)
+  * [Geek](https://www.geek.com/)
+  * [ExtremeTech](https://www.extremetech.com/)
+  * [Computer Shopper](https://www.computershopper.com/)
+  * [TechBargains](https://www.techbargains.com/)
+  * [Mashable](https://mashable.com/)
+  * [Offers.com](https://www.offers.com/)
   * [Credit Cards Explained](https://www.creditcardsexplained.com/)
-  * [Tippit](http://www.tippit.com/)
-  * [CouponCodes.com](http://www.couponcodes.com/)
+  * [Tippit](https://www.tippit.com/)
+  * [CouponCodes.com](https://www.couponcodes.com/)
   * [Black Friday](https://blackfriday.com/)
-  * [Ookla](http://www.ookla.com/), [Speedtest.net](http://www.speedtest.net/), [Speedtest Custom](http://www.speedtestcustom.com/)
+  * [Ookla](https://www.ookla.com/), [Speedtest.net](https://www.speedtest.net/), [Speedtest Custom](https://www.speedtestcustom.com/)
   * [ZiffDavisB2B](http://b2b.ziffdavis.com/pages/index?), [Toolbox.com](http://www.toolbox.com/), [Inside CRM](http://www.insidecrm.com/), [Inside-Erp](http://www.inside-erp.com/), [IT Management](http://www.itmanagement.com/), [IT Security](http://www.itsecurity.com/), [VoIP-News](http://www.voip-news.com/)
-  * [emedia.com](http://www.emedia.com/), [emedia.co.uk](http://www.emedia.co.uk/)
-  * [Salesify](http://www.salesify.com/), [B2BSignals](http://www.b2bsignals.com/)
+  * [emedia.com](http://www.emedia.com/), [emedia.co.uk](https://www.emedia.co.uk/)
+  * [Salesify](https://www.salesify.com/), [B2BSignals](https://www.b2bsignals.com/)
   * [Ziff Davis Data](http://www.ziffdavisdata.net/)
 
 
@@ -158,13 +158,13 @@ You may unsubscribe from our newsletter lists at any time by following the unsub
 
 * ## Cookies, Similar Technologies and Online Behavioral Advertising
 
-Ziff Davis and its partners may use cookies and other tracking technologies to analyze trends, administer Services, track users' movements around the Services and on third party sites, devices and applications, and to gather demographic information about our user base. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on the Services. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Please see our [Cookie Policy](http://www.ziffdavis.com/cookie-policy) for more information, including a more in-depth explanation of what cookies are, the different types of cookies used on the Services, and how to change or delete them.
+Ziff Davis and its partners may use cookies and other tracking technologies to analyze trends, administer Services, track users' movements around the Services and on third party sites, devices and applications, and to gather demographic information about our user base. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on the Services. To manage Flash cookies, please click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Please see our [Cookie Policy](https://www.ziffdavis.com/cookie-policy) for more information, including a more in-depth explanation of what cookies are, the different types of cookies used on the Services, and how to change or delete them.
 
 Tracking technologies on the Services may be deployed by Ziff Davis and/or by our service providers or partners. Certain tracking technologies enable us to assign a unique identifier to you, and relate information about your use of the Services to other information about you, including your User Information. We may match information collected from you through different means or at different times and use such information along with offline and online information obtained from other sources (including from third parties), including, but not limited to, demographic information and updated contact information, for the purposes of learning more about you so we can provide you with relevant content and advertising.
 
 When you receive email messages or newsletters from us, we may use web beacons, customized links, clear GIFs or similar technologies to determine whether the email has been opened and which links you click in order to provide you with more focused email communications or other information, and/or to aggregate that information with other data we collect to use for some or all of the purposes outlined in this Privacy Policy.
 
-We and our partners (including but not limited to e-commerce partners, affiliates, and analytics providers) also may use technologies such as pixel tags, e-tags, IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to analyze trends; administer the Services; collect and store information such as user settings, anonymous browser identifiers and video viewing history; supplement our server logs and other methods of traffic and response measurement; track users' location and movements around the Services; gather demographic information about our user base; and to improve our understanding of traffic on the Services, visitor behavior, and responses to promotional campaigns. We may receive reports based on the use of these technologies by these third party companies on an individual and aggregated basis. For example, we may connect information about your IP address to known corporate or User Information and use the associated information related to aggregate content preferences to assist in our efforts to market services to you or the originating corporation(s). Various browsers may offer their own management tools for removing Local Storage. To manage Flash Local Shared Objects please click [here](http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We and our partners (including but not limited to e-commerce partners, affiliates, and analytics providers) also may use technologies such as pixel tags, e-tags, IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to analyze trends; administer the Services; collect and store information such as user settings, anonymous browser identifiers and video viewing history; supplement our server logs and other methods of traffic and response measurement; track users' location and movements around the Services; gather demographic information about our user base; and to improve our understanding of traffic on the Services, visitor behavior, and responses to promotional campaigns. We may receive reports based on the use of these technologies by these third party companies on an individual and aggregated basis. For example, we may connect information about your IP address to known corporate or User Information and use the associated information related to aggregate content preferences to assist in our efforts to market services to you or the originating corporation(s). Various browsers may offer their own management tools for removing Local Storage. To manage Flash Local Shared Objects please click [here](https://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 We may use mobile analytics software to collect data and to better understand the functionality of our mobile software, devices and applications on your phone and other devices. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We may link this information to User Information.
 
@@ -172,7 +172,7 @@ Ziff Davis and/or certain third parties may collect information about you for on
 
 Ziff Davis displays ads on both the Services and on the Channels. We may use Online Data as well as other User Information to send you OBA. For example, if you read an article about a particular subject on the Services, we may use cookies from a vendor to later serve you an advertisement for a particular product or service related to the viewed article. These third party vendors may connect information about pages you visit on the Services with information about pages you visit on other Channels and show you advertising based on this combined information. These advertisements may appear when you are visiting a different section of the Services or on another Channel. Likewise, third party vendors may serve you advertisements when you visit the Services based on your interaction with the Services and other Channels.
 
-**The specific providers we use for OBA are subject to change.**  For a list of some of the applicable providers, [click here](http://l3.evidon.com/site/660/190/1). For information about how to opt out of tracking methods for these entities and others, [click here](http://www.aboutads.info/choices/). For more details about OBA and opting out, see Section 15 below.
+**The specific providers we use for OBA are subject to change.**  For a list of some of the applicable providers, [click here](https://l3.evidon.com/site/660/190/1). For information about how to opt out of tracking methods for these entities and others, [click here](https://www.aboutads.info/choices/). For more details about OBA and opting out, see Section 15 below.
 
 Online Data is aggregated with the Other Information and data we collect as described in this Privacy Policy and/or similar data collected by partners to create groups of users and certain general-interest categories or segments that we have inferred based on (a) demographic or interest data and GeoIP Data, (b) the pages you view and links you click when viewing an email or using the Services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests. We store page views, clicks and search terms used for ad personalization targeting separately from your Personal Information.
 
@@ -240,7 +240,7 @@ Where we transfer your Personal Information from the EEA to recipients located o
 
 Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
-Ziff Davis privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (" **APEC** ") Cross Border Privacy Rules System. To learn more about this program, please click [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx).
+Ziff Davis privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (" **APEC** ") Cross Border Privacy Rules System. To learn more about this program, please click [here](https://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx).
 
 Please note that we may use data collected by a third party operator/licensee of localized versions or editions of Services.
 
@@ -276,9 +276,9 @@ _OBA_. Ziff Davis is a member of the Digital Advertising Alliance ( **"DAA"** )
 
 The DAA Ad Marker Icon   provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon , which can be found on most of our webpages and mobile applications.
 
-  * European Union and Switzerland residents should visit the European DAA by [clicking here](http://www.youronlinechoices.eu/).
-  * Canadian residents should visit the DAA of Canada by [clicking here.](http://youradchoices.ca/choices)
-  * U.S. residents and residents of all other countries or territories not listed above can [click here](http://www.aboutads.info/) for the DAA site to learn more about the use of cookies, your opt-out choices, and more.
+  * European Union and Switzerland residents should visit the European DAA by [clicking here](https://www.youronlinechoices.eu/).
+  * Canadian residents should visit the DAA of Canada by [clicking here.](https://youradchoices.ca/choices)
+  * U.S. residents and residents of all other countries or territories not listed above can [click here](https://www.aboutads.info/) for the DAA site to learn more about the use of cookies, your opt-out choices, and more.
 
 
 
@@ -296,7 +296,7 @@ _EU Residents._ GDPR provides certain rights for EU residents. You may decline t
 
 For more information concerning your use of the websites and services of Ookla (including Speedtest and Speedtest Custom), please visit the [Ookla Terms of Use](https://www.ookla.com/terms). The [Ookla Terms of Use](https://www.ookla.com/terms) is incorporated by reference into this Privacy Policy.
 
-For more information concerning your use of all other Services, please visit the [Ziff Davis Terms of Use](http://www.ziffdavis.com/terms-of-use). The [Ziff Davis Terms of Use](http://www.ziffdavis.com/terms-of-use) is incorporated by reference into this Privacy Policy.
+For more information concerning your use of all other Services, please visit the [Ziff Davis Terms of Use](https://www.ziffdavis.com/terms-of-use). The [Ziff Davis Terms of Use](https://www.ziffdavis.com/terms-of-use) is incorporated by reference into this Privacy Policy.
 
 We recommend that you review our Terms of Use regularly, in order to review any changes we might make from time to time.
 
