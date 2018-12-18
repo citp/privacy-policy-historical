@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvnetwork.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620014433id_/http%3A//www.rvnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvnetwork.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218225050id_/http%3A//www.rvnetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Escapees Discussion Forum
 
@@ -11,3 +11,13 @@ Protecting the privacy of the very young is especially important. For that reaso
 
  **Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
+
+### Third Parties
+
+**Spam Defense**
+
+The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
+
+**reCAPTCHA V2**
+
+This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
