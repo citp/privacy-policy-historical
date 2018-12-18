@@ -1,300 +1,286 @@
-> *The following text is extracted and transformed from the totalwararena.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000709id_/http%3A//www.sega.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalwararena.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218175230id_/http%3A//legal.eu.wargaming.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | SEGA
+# Legal Documentation | Wargaming.net
 
-## SEGA of AMERICA'S ONLINE PRIVACY POLICY
+Effective 12 November 2018
 
-[](http://www.esrb.org/confirm/sega-confirmation.jsp?)SEGA of America, Inc. (collectively, "SEGA" or "we") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
+Previous version: [Wargaming Privacy Policy before 12 November 2018](https://content.wgcdn.co/web/docs/legal/PP_En_25.05.2018.docx).
 
-This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy/index.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
+We are committed to protecting and respecting your privacy. This Privacy Policy (“ **Policy** ”) describes how we treat information that you provide to us or that we collect about you.
 
-Because the website you have come from displays the ESRB Privacy Online certification seal, this Privacy Policy will tell you:
+By “ **Personal Data** ”, we refer to data that relates to you as an identified or identifiable natural person. The term “Personal Data” may include your name, your address, your telephone number, your e-mail address, your age, your gender, your game preferences, for instance. Anonymous information, which we are not in a position to relate to you, does not qualify as “Personal Data”.
 
-  * The scope of this Privacy Policy;
-  * Exactly what information SEGA may collect from you online;
-  * How SEGA will use the information it collects;
-  * What are the consequences if you refuse to provide your personal information to SEGA when requested;
-  * Whether SEGA uses cookies, tracks IP addresses, or uses other passive means to collect information about your visit our websites;
-  * Who collects the information that you disclose on a SEGA website;
-  * SEGA's policy regarding links to websites operated by other companies;
-  * How you can view, and if necessary, update or delete the personal information SEGA has already collected and stored about you;
-  * The steps SEGA takes to ensure the security, quality, and integrity of the personal information it collects from online visitors;
-  * The information you need to ask a question or file a complaint regarding this Privacy Policy or SEGA's online information practices;
-  * How will I know if this privacy policy has changed? and,
-  * SEGA's policy regarding the collection of information from children under 13.
+**1\. CONTROLLER’S NAME AND CONTACT DETAILS**
 
+Controller in the sense of the General Data Protection Regulation (GDPR) and other data protection or data privacy laws in the Member States of the European Union and other guidelines with a data protection nature regarding our online and mobile games including, but not limited to, “ **World of Tanks** “, “ **World of Warplanes** “, “ **World of Warships** “, “ **World of Tanks Blitz** “, “ **World of Warships Blitz** “, “ **Total War: Arena** “, **“Gods & Glory” **, associated web-sites as [http://worldoftanks.eu](http://worldoftanks.eu/), [http://worldofwarplanes.eu](http://worldofwarplanes.eu/), [http://worldofwarships.eu](http://worldofwarships.eu/), [https://wotblitz.eu](https://wotblitz.eu/), [https://wowsblitz.com](https://wowsblitz.com/), [http://totalwararena.net](http://totalwararena.net/), [http://wargaming.net](http://wargaming.net/), [https://godsandglory.com](https://godsandglory.com/), as well as any other Wargaming games and any other websites owned or operated by Wargaming: 
 
+**Wargaming Group Limited**
 
- 
+105, Agion Omologiton Avenue
 
-In addition, SEGA may own several other domain names that point to the websites listed above. From time to time, we may add new websites and will take reasonable steps to update the list. Please note that this Privacy Policy applies only to information submitted and collected by SEGA online through the websites listed above, and does not apply to information that may be collected by SEGA offline. In addition, this Privacy Policy applies to SEGA only, and not to websites maintained by our international affiliates or by other companies or organizations to which we link. When you link to these websites or to any other sites from a website operated by SEGA (as listed above), this Privacy Policy no longer applies. SEGA is therefore not responsible for the content or activities provided on such sites.
+Nicosia 1080
 
-By using and submitting personal information to any of our websites, you signify your assent to SEGA's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our websites will signify your acceptance of these changes.
+Cyprus
 
-## SOCIAL MEDIA INTERACTION
+Email: [privacy@wargaming.net](mailto:privacy@wargaming.net)
 
-You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
+Controller in the sense of the GDPR and other data protection or data privacy laws in the Member States of the European Union and other guidelines with a data protection nature regarding “World of Tanks” on Xbox 360 and Xbox One, “World of Tanks” on PlayStation®4 (“Console Games”), for example, in relation to the <https://console.worldoftanks.com/> website, is:
 
-When you provide information from your social media account, it can help enable SEGA to do things like (1) give you exclusive content, (2) personalize your online experience with SEGA within and outside SEGA's websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to SEGA through an application, on SEGA's websites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+**Wargaming World Limited**
 
-Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+105, Agion Omologiton Avenue
 
-## WHAT TYPES OF INFORMATION DOES SEGA COLLECT?
+Nicosia 1080
 
-In order to give you the best experience on our websites, SEGA may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information if you decide to:
+Cyprus
 
-  * Register on one of our websites (which includes registering for Phantasy Star Universe to obtain a username and password);
-  * Subscribe to a SEGA newsletter (e.g., SEGA NewsBlast);
-  * Access and participate in message boards;
-  * Participate in an online contest, beta test, tournament, or other event;
-  * Email a question to our customer service desk;
-  * Register a product online; and/or,
-  * Purchase a product or service online (e.g., Phantasy Star Online subscription).
-  * Register for Polls, Surveys or Questionnaires E-Cards or "Send-to-a-Friend" emails
+Email: [privacy@wargaming.net](mailto:privacy@wargaming.net)
 
+Both entities are referred to as “Wargaming”, “we”, “our” and “us” in this Policy. The term “ **Services** ” refers to the act of providing you with the opportunity to use the named games (“ **Games** ”), websites (“ **Sites** ”), Wargaming account (“ **Account** “), any of our other products and services (including support services, forums) related to the Games (“ **Ancillary Services** “), for example, the “World of Tanks Assistant”, “Wargaming Check” and “Wargaming Game Center” applications.
 
+**2\. CONTACT DETAILS OF THE DATA PROTECTION OFFICER (DPO)**
 
-Please note that before you can use some of the activities above, you may be required to register. The ability to access certain areas and features of our websites by simply logging in is only available to those web users that have already created a username and password during an earlier visit to one of our websites.The types of personal information collected in conjunction with the activities listed above will vary depending on the activity. The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, (v) credit card and billing information.
+The contact details of Data Protection Officer of Wargaming are:
 
-For some activities, we may also ask you to create a username and password and to provide other non-personal information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or the game you may have recently purchased; (v) your favorite quotes, websites, and fan pages; and, (vi) other game-related information (collectively referred to as "demographic information"). If demographic information is collected for an activity that also requires personal information, we may combine your demographic information with your personal information.
+**Wargaming Data Protection Officer**
 
-## HOW DOES SEGA USE THE INFORMATION IT COLLECTS?
+105, Agion Omologiton Avenue
 
-Generally, information that we collect for a particular purpose is used for that purpose only. For example, if you email us a question using our online Customer Service form, your personal information will only be used to provide a response to your inquiry. Similarly, information collected from those who register on one of our websites account is used to provide registrants the benefits that come along with registration, which often include a subscription to our newsletter, access to the latest game news and special offers, contests, and other features. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your email address added to our newsletter mailing list when entering a contest). If you choose to receive these additional services, we will use your information to provide them to you. If you choose to opt-in to receive e-mails from one of our partner companies (during registration for or participation in one of these events), we encourage you to visit such partner's website and read their policy before agreeing to provide your information to them.
+Nicosia 1080
 
-Any email addresses collected from you during the use of the E-Cards or "Send-to-a-Friend" email feature on any SEGA website are not retained by SEGA and are only used to send a one-time email notification on your behalf.
+Cyprus
 
-From time to time, we are approached by third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personal information to send out notices on their behalf. We strive to limit the notices and communications to those that we think you would appreciate receiving.
+Email: [dpo@wargaming.net](mailto:dpo@wargaming.net)
 
-We may use your email address to send you service announcements that tell you about updates to our Privacy Policy, changes in pricing, changes to our online service or customer service policies, and other related service changes.
+**3\. GENERAL INFORMATION IN BRIEF**
 
-In addition, personal and/or demographic information collected through one of the activities set forthabove may be used for our internal marketing and demographic studies, so we can constantly improve the online products and services we provide you and better meet your needs. Additionally, we may use information that we collect to ensure that someone who is cheating is excluded, and to enforce our rights under our Terms of Service.
+We process personal data only when necessary for the performance of a contract with you, for compliance with a legal obligation to which we are subject, or based on our legitimate interests, except where such interests are overridden by the interests or fundamental rights and freedoms for which require the protection of your Personal Data.
 
-No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.
+Our legitimate interests are to render and improve our Services in an effective, safe and harmless manner. We want to provide everyone with a fair and balanced experience when using our Services.
 
-Please be advised that information submitted by individuals acting solely in a business capacity (e.g., resume from job applicant) is not subject to this Privacy Policy. However, we want to assure you that information obtained from your resume will be used solely for the purpose of accepting and evaluating your submission for a job opening.
+**3.1. YOUR PREFERENCES**
 
-**A Special Note about our Message Boards**
+You can choose how we use your Personal Data using our Account Management Tool. As we need to verify your identity before we follow your instructions on Personal Data use, you need to have a registered Account in order to access the Account Management Tool. This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. 
 
-Please note that whenever you give out personal information in public areas such as on our message board, that information can be collected and used by people you don't know. While we strive to protect those who wish to participate in these activities, we cannot guarantee the security and privacy of any information that you post in these areas.
+For example, through the Account Management Tool you can: 
 
-## WHAT HAPPENS IF I REFUSE TO PROVIDE MY PERSONAL INFORMATION TO SEGA?
+  * opt-out of receiving direct marketing, offered via email, within Games and online. Read more below in Section 7.2 “Opt-Out of Direct Marketing and Right to Object”; 
+  * access the Personal Data we store about you. Read more below in Section 7.1 “Right of Access”; 
+  * have your Account, and the related Personal Data, deleted. Read more below in Section 7.4 “Right to erasure”. 
 
-If you choose not to submit personal information when requested, you may not be able to use many of the features offered on our websites. For example, if you were to refuse to disclose your name or email address, you would not be able to register a product online or submit a question to customer service. However, to simply browse and view certain content on our websites, you do not need to give us any personal information.
 
-## DOES SEGA USE COOKIES, TRACK IP ADDRESSES, OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?
 
-**Cookies**
+**3.2. INFORMATION SECURITY**
 
-We may use cookies on our websites. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies are typically used to quickly identify a user's computer and to "remember" things about the user's visit. For example, SEGA uses cookies to keep track of your preferences and your username and password. Information contained in a cookie may be linked to your personal information for this purpose. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to use many of the features on our websites.
+We and our employees understand the need for user privacy, and we maintain reasonable and appropriate security procedures to protect your information from loss, misuse and unauthorised access, disclosure, alteration and destruction, taking into due account the risks involved in the processing and the nature of the Personal Data. 
 
-**IP Addresses**
+**3.3. PROCESSING INFORMATION BY THIRD PARTIES**
 
-An Internet Protocol (IP) address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. Although we do not generally collect IP addresses, we may collect and use your IP address when we feel it is necessary to protect our service, websites, customers, or others.
+We may share Personal Data with our affiliates, subsidiaries, vendors or agents working on our behalf for the purposes described in this Policy. For example, we may hire companies to assist with protecting and securing our systems or services. Any vendor or agent that we retain must comply with our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose. Those companies may be located outside of the European Economic Area. Read more in Section 6 “How we share your information”.
 
-**MAC Addresses**
+**3.4. CHILDREN**
 
-If you play a SEGA video game online, we may collect your MAC address, which is a unique number associated with a computer's identity on a network.
+We recognise that we have a special obligation to protect personal information obtained from children. We will not knowingly collect Personal Data from any child, or process such information, without parental consent. For the purpose of this Policy, a child means any individual who is under the age of 18 (or the minimum legal age to consent to the collection and processing of Personal Data where this is different under applicable law).
 
-**Log Files**
+**3.5. DATA RETENTION**
 
-The only other information that may be passively collected by SEGA is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a. "navigational data"). These entries are generated anonymously, and enable SEGA to gather statistics about users' browsing habits, assess overall website activity, track interest in advertised sales, and maintain website security. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and may be combined with data collected via cookies to help us aggregate behavior patterns of registered users.
+We keep most of your Personal Data gathered and processed for the purposes described in this Policy for as long as you continue to use our Services, e.g. you have an activated Account in one of our Games. We will delete your Personal Data after you request your Account deletion and the grace period of 45 (forty-five) calendar days, during which we can restore your Account, expires. The process of erasing your Personal Data can take up to one month from expiry of the grace period and, considering the complexity and number of requests, may be extended by a further two months. Read more in Section 7.4 “Right to erasure”.
 
-## WHO IS COLLECTING MY PERSONAL INFORMATION AND IS IT SHARED WITH ANYONE?
+**3.6. GAMES NOT USING THE ACCOUNT**  
+Some of the Games do not use the Account. You will not be able to exercise your rights with regard to those Games through the Account Management. For this reason, we are offering you other tools to export your Personal Data, delete it, and object to our use of your Personal Data in accordance with Section 7 “Your rights”, as well as to manage your subscriptions.  
+Also, there are some differences in the Personal Data that we collect about users of the Games for which the Account is created and users of other Games, for example, for “World of Warships Blitz”. For example, we do not collect your phone number and email address if you use the Games for which the Account is not created.  
+With regard to the Games that do not use the Account, you can exercise your rights by filing a request to that effect to Customer Support or as otherwise indicated in the respective Game.  
+Where such function is available, you may link to your Account some of the Games that do not use the Account. Please note that control over your Personal Data in such Games is separate from control over your Personal Data relating to your Account. So, to delete your Personal Data in “World of Warships Blitz” you will need to contact Player Support as suggested in this Game, while deletion of the Personal Data relating to your Account shall be performed through the Account Management.
 
-Generally, the information that you disclose on a SEGA website is collected by SEGA or by a vendor on SEGA's behalf, and is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our websites and who only use the information we share with them for the purpose of carrying out the service you've requested (e.g., newsletter delivery and fulfillment of online purchases and contest entries).
+**4\. INFORMATION WE COLLECT**
 
-From time to time, we may run contests, tournaments, or other events or activities ("events") on our websites. Information collected for these events may include personal information such as your email address and may be collected by or shared with a third party sponsor or co-sponsor or shared with other reputable third party (that provides products or services that may be of interest to you). While we have no control over the third party's use of such information, we will attempt to ensure that they agree to protect the confidentiality, security, and integrity of any personal information collected through our website. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time the information is collected.
+In relation to your use of our Services, we gather information either directly from you (when you provide information to us) or indirectly (e.g. through our Site’s technology).
 
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
+**4.1. INFORMATION WE COLLECT DIRECTLY**
 
-In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, SEGA's customer information may be transferred to its successor or assign, if permitted by and done in accordance with applicable law.
+We collect Personal Data and other information that you voluntarily provide. It is entirely your decision to provide the requested information. However, your use of certain Services is possible only if you provide required information, e.g. while creating an Account.
 
-SEGA may also share aggregate information about our visitors within the SEGA family such as with SEGA Mobile. For example, we may say a particular game title's audience is X% female and Y% male. This data is used to customize the content and advertising of SEGA's websites to deliver better experience for our visitors. It can also help tailor SEGA's products and services to meet the needs of our customers.
+**Account Data**
 
-SEGA sends to your web browser most of the advertisements you see when you visit our websites. However, SEGA may allow other companies, called third party ad servers, to serve advertisements within our web pages. This Privacy Policy does not apply to, and cannot control the activities of, these other companies. If you want to prevent a third party ad server from sending or reading cookies on your computer, you must visit each of the company's websites individually and opt-out.
+When setting up an Account, you may be asked to provide Personal Data including, but not limited to, your name, email address and telephone number.
 
-## WHAT IS SEGA'S POLICY REGARDING LINKS TO THIRD PARTY SITES?
+**Content Data**
 
-You should be aware that while you are browsing one of our websites, you may be directed to other sites that are beyond our control and for which we are not responsible. Because we cannot guarantee that the privacy policies of such sites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.
+We may obtain your Personal Data when you register for and use our other Services, e.g. game forums, chats, or when you provide feedback about our Services. This data includes: 
 
-## CAN I CHOOSE HOW MY PERSONAL INFORMATION IS USED?
+  * Information that you post, comment or like in any of the Games-related forums owned or operated by Wargaming (“Forums”), on the pages of social network groups operated by Wargaming, and on the Sites; 
+  * Information sent through the “game-chat” functionality in the Games, including through in-Game voice chat; 
+  * Information you provide when you request information or support from us or purchase a product or service from us, including information necessary to process your orders with the relevant payment merchant, which may include the amount of any transaction, but will not include your financial information, which will only be submitted directly to the payment merchant under secure protocols; 
+  * Information other than the Account Data you provide to us when participating in competitions, contests, tournaments, at offline events, responding to surveys, e.g. your contact details; 
+  * Information that you provide to us to become a participant of alpha-tests, super tests, and UX tests. 
 
-Your California Privacy Rights
 
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us:
 
-SEGA  
-Customer Service Department  
-350 Rhode Island Street  
-Suite 400  
-San Francisco, CA 94103  
-[privacy@segaamerica.com](mailto:privacy@segaamerica.com)
+**4.2. INFORMATION WE COLLECT INDIRECTLY**
 
-If you do not want to receive our newsletters (such as the SEGA NewsBlast) or other email communications from SEGA, please opt-out from these services at the time of registration or information collection. If you have opted-in and, at a later time, wish to opt-out, please use one of the following two methods to opt-out:
+We indirectly collect a variety of information through your interaction with and use of our Games, Sites and other Services.  
+This information may include, but is not limited to, anonymized browser and device information (both software and hardware), data collected through automated electronic interactions, application usage data, demographic information, geographic, geo-location information, statistical and aggregated information (“ **Other Information** ”). Statistical or aggregated information does not directly identify a specific person, but it may be derived from Personal Data. For example, we may aggregate Personal Data to calculate the percentage of users in a particular country. If Other Information is combined with Personal Data, we will treat the combined information as Personal Data.
 
-  * To opt-out of receiving emails, simply go to the site (either SEGA.com or SEGAmobile.com) and follow the instructions on that particular site.
-  * Click the "unsubscribe" link at the bottom of your most current email from SEGA. You will either be presented with an email to send us your unsubscribe request, or be taken to a web page on which you can confirm your unsubscribe request. On the web page, click the appropriate link to unsubscribe from the SEGA email list. Either of these methods will unsubscribe you from the SEGA email list. If you are experiencing problems with opting out, please contact SEGA at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
+**4.2.1. Tracking Data and Cookies**
 
+We and our partners, such as marketing partners and analytics providers, use “ **Cookies** ”, which are text files placed on your computer, to help us analyse how users use our Services, and similar technologies (e.g. web beacons, pixels, ad tags and device identifiers) to recognise you and/or your device(s) on, off and across different devices and our Services, as well as to improve the Services we are offering, to improve marketing, analytics or website functionality. The use of Cookies is standard on the internet. Although most web browsers automatically accept cookies, the decision of whether to accept or not is yours. You may adjust your browser settings to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to access the full functionality of our Sites.
 
+Website traffic volume and patterns, such as the number of visitors to a given website or page on a daily basis is typically referred to as “ **Tracking Data** ”. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that “serve up” web pages, automatically identify your computer by its IP address. When you visit any of our Sites, our servers log your computer’s IP address.
 
-## HOW CAN I ACCESS MY PERSONAL INFORMATION?
+For more information about the names of the cookies used on our Sites, the cookie provider (Wargaming, third-party analytics partner, or third-party advertising partner), the purpose of the cookie (necessary for website to function, performance, or marketing), and the cookie life cycle please see <http://legal.eu.wargaming.net/en/cookies/>.
 
-If you wish to view, correct, or delete the personal information collected about you, or you wish to subscribe or cancel your subscription to our promotional emails and newsletters, you can easily do so online. To modify your Phantasy Star Online (PSO) or Phantasy Star Universe (PSU) account info, please go to the PSO or PSU website, log in using your current username and password, select the areas you wish to change, and edit or delete your information. The information you delete online will be immediately removed from our database. If you are experiencing problems with changing your information online, you may contact us at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
+**4.2.1.2. How to delete cookies and opt out of targeted advertising and analytics**
 
-## WHAT SAFEGUARDS DOES SEGA USE TO PROTECT MY PERSONAL INFORMATION?
+Like most online services, we and our partners use cookies and similar technologies to provide and personalize the Service, analyse use, target advertisements and prevent fraud. You can disable cookies in your browser settings, but some parts of the Service may then not function properly.
 
-SEGA maintains appropriate safeguards that ensure the security, integrity, and privacy of the personal information we collect and store about you. These safeguards include, among other things, limiting access to such data to those employees performing a legitimate business function; technical security measures, such as encryption or passwords, to prevent unauthorized access; and the storage of data on secure servers or computers inaccessible by modem.
+If you wish to limit behaviourally targeted advertising, you can do so by limiting ad tracking in your device settings. Please note that opt-outs are specific to each browser and device and it may take a little bit of time before your opt-out will take effect.
 
-We also have security measures in place to protect the loss, misuse, and alteration of the information under our control (i.e., maintain data quality). Before we allow web users to access their personal information, for example, we verify their identity by requesting that they submit information such as their username and password. We also take reasonable steps to ensure that third parties to whom we transfer personal information provide sufficient protection of such data.
+For mobile advertising in apps, you can reset your Advertising Identifier and depending on your device, select to opt out of interest-based ads (Android) or turn on the Limit Ad Tracking setting (iOS).
 
-## HOW DO I ASK A QUESTION OR FILE A COMPLAINT? (CONTACT INFORMATION)
+For display advertising on the Web, you can also adjust your browser settings to limit certain tracking by means of cookies (e.g. [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en) for Chrome), and by visiting the following sites: <http://www.aboutads.info/choices> and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at (800) 872-7342, via email [atprivacy@segaamerica.com](mailto:atprivacy@segaamerica.com), or by writing to:
+We also work with a number of other analytics and ad serving partners within our mobile apps and websites. These partners can use cookies, web beacons, and other tracking technologies to collect or receive data about you and might claim controller rights over your personal data. For more information about their privacy practices and opt-out possibilities, please visit the links below.
 
-SEGA  
-Customer Service Department  
-350 Rhode Island Street  
-Suite 400  
-San Francisco, CA 94103
+Google  
+Privacy Policy: <https://policies.google.com/privacy>
 
-SEGA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>.
+Facebook  
+Privacy Policy: <https://www.facebook.com/about/privacy>
 
-Attn: Privacy Online Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-[privacy@esrb.org](mailto:privacy@esrb.org)
+Yandex  
+<https://yandex.com/support/metrica/general/opt-out.xml>
 
-## HOW WILL I KNOW IF THIS PRIVACY POLICY HAS CHANGED?
+Unity Technologies  
+Privacy Policy: <https://unity3d.com/legal/privacy-policy>
 
-We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+**4.2.2. Game-Related Information**
 
-Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+In order to provide you with efficient services, we need to collect, store and use various information about your activity in our Games. “ **Game-Related Information** ” includes your in-game identifier, which for most of our Games is known as “Wargaming ID”, as well as what is usually referred to as “game statistics”. By “game statistics” we mean information about your Games preferences, progress in the Games, participation and performance in clans, frequency of playing.
 
-## SEGA'S POLICY REGARDING CHILDREN UNDER 13:
+**4.2.3. Device Information and Geo-Location**
 
-We do not knowingly collect personal information such as name and email address from children under 13. From time to time, certain portions of our websites (e.g., a contest entry form) may allow all users (including children under 13) to disclose a limited amount of personal information without first telling us their age or parental permission. Such portions of our sites operate activities or provide services in a way that does not require prior parental consent. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
+In order to fix crashes and other technical issues that may arise while you are installing the Games and using our Services, as well as to make our Services more suitable for you, we collect, store and use information about the device you are using the Services on, including what type of device it is, what hardware and operating system you are using, the device settings, unique device identifiers, and crash data (if any). Whether we collect some or all of this information often depends on what type of device you are using and its settings. You may also install applications collecting and using additional data required for fixing crashes, errors and other technical issues arising during your use of the Services, e.g., Wargaming Game Center and Wargaming Check.
 
-## PARENTS OF SEGA FANS -- WELCOME TO SEGA.COM!
+To make Services more suitable for you and only upon your permission we can also collect your precise GPS location from mobile devices is collected only with your permission. Wi-Fi and IP addresses received from your browser or device may be used to determine approximate location.
 
-We want to reassure you that SEGA.com is a safe website for your children to visit. We take privacy issues very seriously for all our site visitors, and particularly for our younger visitors. Please take a moment to read about the specific measures we've taken to insure your child's safety while exploring our site.
+**4.2.3. Information required for fraud and violations detection**
 
-If a child states that he or she is under 13 years old, we do not collect or store any contact information for them. This is in compliance with current Federal Trade Commission regulations. Children under 13 are allowed to enter contests and provide contact information should they win, however we delete this information once the contest is over. We do not collect any information that is not necessary to operate our site and we do not sell the data we collect to outside parties.
+We may also collect certain data (like IP address, username, etc.) that is required for our detection, investigation and prevention of cheating in the Game and EULA violations. This data, being used only for the purposes of detection, investigation and prevention of frauds and cheating in the Game is deleted six months after its collection, unless the data can be used to prove that cheating has occurred. If the data can be used to prove that cheating or another fraud or EULA violation has occurred, we will further store the data for the establishment, exercise or defence of legal claims during the applicable statute of limitations. Please note that the specific data stored for this purpose may not be disclosed to you or any third parties, since the disclosure will compromise the mechanism through which we detect, investigate and prevent frauds and cheating in the Game, as well as other EULA violations. 
 
-Children of all ages are encouraged to send their artwork for posting in our Sonic Fan Art Gallery. We protect the privacy of our users by posting only their first name and last initial. After the artwork is posted, their e-mail is deleted.
+**4.2.4. Information from publicly available online resources**
 
-All SEGA games are rated by the Entertainment Software Ratings Board (ESRB) for their appropriateness for different age groups. Game information on SEGA.com includes the ESRB ratingplus information about the ESRB rating system. You may wish to check the SEGA.com site for such game information before buying games for your children. The SEGA.com website itself carries the ESRB Privacy Certification seal, and is considered a "safe harbor" website.
+We may use the information made publicly available, e.g. through YouTube, vk.com, Facebook, Instagram and Twitter, in order to find out your opinion about Games and Services, so that we could take them into account while improving our Services. Such data collection can be carried by Wargaming independently, or received from our partners making analysis of public sentiments on various issues, e.g., from Hootsuite Media Inc.
 
-We hope this page has answered many of your questions about our site. For more detailed information, see our [Privacy Policy](http://www.sega.com/privacy "Privacy Policy") and [Terms of Use](http://www.sega.com/terms "Terms of Use"). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](https://segaofamerica.zendesk.com/home "Customer Support Online Form") and a customer support representative will answer your question shortly.
+**4.2.5. Information from our partners**
 
-## ESRB RATING CATEGORIES
+In some cases, Wargaming receives your personal data as a data processor, which means that the data is controlled by our partners and we use it only in accordance with their instructions and applicable laws. We use this data in order to fulfil our obligation under the EULA, improve the Servcies, and when processing is required in order to comply with a legal obligation to which we are subject.
 
-The following are ratings given to video games by the Entertainment Software Rating Board (ESRB) based upon the type of game content. For more information about the ESRB and their ratings system, please see their website at: [www.esrb.org](http://www.esrb.org/ "www.esrb.org").
+**Payment partners.** When you purchase virtual items, virtual currency, or time-limited premium memberships with your credit card, we may receive from our payment partners and process a part of your credit card number, information about your credit card issuer, as well as your full address for billing purposes;
 
-Early Childhood Titles rated "Early Childhood (EC)" have content that may be suitable for children ages three and older and do not contain any material that parents would find inappropriate.
+**Co-Promotion Partners. In order to provide you with in-game items and/or in-game currency for participation in various loyalty programs, we may also receive information from our partners, such as telecommunication companies (e.g., Rostelecom), banks (e.g., Alfa-Bank), cashback partners (e.g., Kopikot), travel agencies (e.g. Biletix), and others;**
 
-Everyone Titles rated "Everyone (E)" have content that may be suitable for persons ages six and older. These titles will appeal to people of many ages and tastes. They may contain minimal violence, some comic mischief (for example, slapstick comedy), or some crude language.
+**Platforms.** We also receive and use your identifiers on other platforms like PlayStation®4, Xbox 360 and Xbox One, App Store, Google Play Store, so that you can play our gGames through these platforms;
 
-Everyone 10+ Titles rated E10+ (Everyone 10 and older) have content that may be suitable for ages 10 and older. Titles in this category may contain more cartoon, fantasy or mild violence, mild language, and/or minimal suggestive themes.
+**Social networks.** We have registered certain Games-related group accounts and pages at vk.com, Facebook, Twitter, Reddit, and other social networks to better communicate with our players in case they have questions about the Services, as well as prefer to learn about news about the Services through the social networks. Also, we get information relating to your profiles on social networking sites in order to allow integration with such social networking sites, e.g., your name, avatar, and date of birth, if you link a third party tool with our Services.
 
-Teen Titles rated "Teen (T)" have content that may be suitable for persons ages 13 and older. Titles in this category may contain violent content, mild or strong language, and/or suggestive themes.
+**5\. HOW WE USE YOUR INFORMATION**
 
-Mature Titles rated "Mature (M)" have content that may be suitable for persons ages 17 and older. Titles in this category may contain mature sexual themes, more intense violence and/or strong language.
+We need to process your Personal Data in order to perform the contract with you according to Article 6(1)(b) of the GDPR. As a user, we will use your Personal Data, unless otherwise prohibited by law, for the following purposes:
 
-Adults Only Titles rated "Adults Only (AO)" have content suitable only for adults. Titles in this category may include graphic depictions of sex and/or violence. Adults Only products are not intended to be sold or rented to persons under the age of 18.
+  * to provide you with the Services you request, i.e., to ;allow your installation of the Games, operate the Services and verify and confirm your payments; 
+  * to communicate with you about your Account or transactions with us and send you information about features on our Sites or changes to our policies; 
+  * to provide support including, but not limited to, product updates, product patches and fixes and other similar communications; 
+  * to arrange your travel, receipt of gifts and awards, to which you may be entitled as a result of winning an offline competition, etc. 
 
-Rating Pending Product has been submitted to the ESRB and is awaiting final rating.
 
-## CONTENT DESCRIPTORS
 
-When consumers look on the back of a package, they may see any of the following phrases that further describe the product's content.
+**5.1. COMMUNICATION PURPOSES**
 
-**Alcohol Reference**  
-Reference to and/or images of alcoholic beverages.
+We will use your Personal Data for our legitimate interests according to Article 6(1)(f) of the GDPR to advertise our products and services in accordance with this Policy. Namely, once you have created an Account we may use your email address, nickname, IP address, mobile phone number, in order to send you personalized marketing emails, messages, targeted in-game and web offers about Games. Also, if you opt-in, we will send you personalized marketing emails, messages and in-game and web offers about Wargaming offline events, co-projects of Wargaming and its partners, as well as about Wargaming games, not using Wargaming ID.
 
-**Animated Blood**  
-Discolored and/or unrealistic depictions of blood.
+**5.2. IN-GAME OFFERS**  
+We will also use the Game-Related Information to send you in-game offers that we believe are most useful to you. To make the offer we first collect Game-Related Information from various players, identify patterns in their behaviour, and create algorithms that identify pools of players following the pattern or particular players who follow the pattern. To those players who actually follow the pattern – we send the in-game offers, which can be personalized (i.e., we want the in-game offer to reach you or a relatively small number of players specifically) or non-personalized (i.e., we want the in-game offer to reach a large number of players following a pattern). We make sure that such offers never have any significant impact on you or our other players. For example, we may notice that you are a player who is very good at playing with French vehicles and has registered the account more than five years ago: so, we may specifically offer you the new French vehicle for rent, but in any case not more expensively than it is offered to other users. You can unsubscribe from personalized in-Game offers through our Account Management tool.
 
-**Blood**  
-Contains depictions of blood.
+**5.3. SERVICES IMPROVEMENT PURPOSES**
 
-**Blood and Gore**  
-Depictions of blood or the mutilation of body parts.
+We analyse your information to identify how to improve the Services and our operations to make them more suitable and interesting for our players in general. We also may ask you to respond to our Services-related questionnaires, and you always have the choice about whether to respond to them and which information you provide.
 
-**Cartoon Violence**  
-Violent actions involving cartoon-like situations and characters. May include violence where a character is unharmed after the action has been inflicted.
+**5.4. FRAUD AND EULA VIOLATIONS DETECTION**
 
-**Comic Mischief**  
-Depictions or dialogue involving slapstick or suggestive humor.
+We use the information required for our detection, investigation and prevention of cheating in the Game and violations of EULA and Game Rules and policies only for the purposes of detection, investigation and prevention. If the data can be used to prove that cheating or another fraud or EULA violation has occurred, we will further store the data for the establishment, exercise or defence of legal claims during the applicable statute of limitations.
 
-**Crude Humor**  
-Depictions or dialogue involving vulgar antics, including "bathroom" humor.
+**6\. HOW WE SHARE YOUR INFORMATION**
 
-**Edutainment**  
-Content of product provides user with specific skills development or reinforcement learning within an entertainment setting. Skill development is an integral part of product.
+For the performance of a contract with you, compliance with a legal obligation to which we are subject, and based on our legitimate interests, we may share your personal data with the following categories of third parties:
 
-**Fantasy Violence**  
-Violent actions of a fantasy nature, involving human or non-human characters in situations easily distinguishable from real life.
+  1. **Payment partners:** we share your email address, IP address, information about in-game purchases requested by you at Wargaming’s web-sites, and other information you provide to us for the purpose of fulfilling your purchase and withdrawal requests with such companies as Adyen BV, PW Inc., PayPal (Europe) Sarl & Cie, “Yandex.Money”, NBCO LLC; 
+  2. **Advertising and advertising measurement partners:** we share your email, nickname, IP address and other information you provide to us in order to facilitate targeting, delivery, and measurement of online advertising on third-party services, facilitate transmittal of information that may be useful, relevant, or of interest to you, e.g.. allowing you to get rewards for viewing in-Games advertisements with such companies as Emarsys UK Ltd, Unity Technologies APS; 
+  3. **Data storage partners:** we store some of your information using third-party data storage services, e.g., while some of your Game-related information is stored using Google Cloud Platform (BigQuery), as well the services of Amazon Web Services, Inc., G-Core Labs S.A.; 
+  4. **Software providers:** proper Services rendering requires us to use software solutions of third parties, e.g., for our in-Games questionnaires, including storage of your replies, we use the software of Widgix, LLC dba Survey Gizmo, to provide you with easy access to your game statistics we use software of Mixpanel, Inc.; 
+  5. **Research partners:** we may provide access to some of your data, such as your Game statistics, to provide marketing-related and other research. We share anonymous data with our partners unless your personal data is necessary for the requested services or research; 
+  6. **Player Support partners:** for some territories and products we engage third parties to provide you with appropriate player support services. Such companies may get access to your personal data, including personal data that you may provide in your player support requests. Such partners include Zendesk Inc, iOpex Technologies Inc.; 
+  7. **Developers of applications based on the Game:** we make your nickname and some of your Game statistics available to other players and our partners through Public API. The data can be used for developing and support of the applications created by the Game community, mobile applications, e.g. World of Tanks Assistant, authorized mods to the Games. Public API enables us to improve your gaming experience, fulfil potential of our community, and put use of our players’ statistics under our control by creating rules and requirements for their use by other players and community; 
+  8. **Information available to other players:** making your nickname and game statistics available to other players through our Services is an important part of making players’ experience more enjoyable. If you are banned in a Game based on other players’ complaints, we may inform them about the ban. Please note that members of your clan have access to a bigger amount of your game statistics than others; 
+  9. **Publicly available information:** our Sites may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with each other. When posting a message to a board, forum or chat area, please be aware that the information is being made publicly available on-line; therefore, you are doing so at your own risk. Your nickname and game statistics may also become available within Games replays and other videos, which Wargaming or other players may generate and put online. Please do not include into your nickname any data that can identify you personally. To change your nickname please contact Player Support; 
+  10. **External moderators and testers:** some limited data about you (such as your nickname, content of player support ticket) may become available to third party volunteering moderators and testers who contribute to providing you with better Services, e.g. to quickly respond to your questions about the Games. 
+  11. **Anti-cheat and anti-fraud companies:** we may share the information required for our detection, investigation and prevention of cheating in the Games and EULA violations only for the purposes of detection, investigation and prevention of cheating in the Game. Such partners include ACI Worldwide (EMEA) Ltd., UK; 
+  12. **Logistics partners:** to arrange your trips (e.g., as an eSports player) and deliver the prizes you may be entitled to thanks to use of your Services, we can share your post address and other required details with our logistics partners or ask you to share that data with our logistics partners directly; 
+  13. **Third-party websites:** you can choose to log into some websites using Wargaming OpenID. In this case we pass to the websites your nickname and your profile link. Please check our Player Support articles on OpenID for more details and note that Wargaming does not control further use of this data by third-party websites, i.e., we cannot request their erasure of your data; 
+  14. **Game Developers and Change of Publisher:** Wargaming is the data controller with regard to certain Games developed by third parties and published by Wargaming. Such developers can process certain data required for the Games’ and other Services’ further improvement, e.g., to Game-Related Information. Should Wargaming transfer the right to publish such or other Games and other related Services to a third party, the new publisher will have the right to continue using your data in the manner substantially the same as set out in this Privacy Policy unless you are specifically informed otherwise. 
+  15. **Public authorities and auditors:** some personal data shall be disclosed to public authorities, e.g., tax and customs authorities, auditors, and other competent parties, in accordance with Union or Member State law; 
+  16. **Wargaming subsidiaries and affiliates:** as a global company, we collect information that may be processed in our offices worldwide. Your information may also be processed outside of the European Economic Area, e.g. in the United States, the Republic of Belarus, or any other country in which we, our affiliates or subsidiaries maintain presence. 
+  17. **Change of control:** we may share your data as part of our company’s sale, merger or change in control, or in preparation for any of these events. Any entity which buys us, or part of our business will have the right to continue using your data, but only in the manner set out in this Privacy Policy unless you are specifically informed otherwise. 
 
-**Gambling**  
-The depiction of betting-like behavior.
 
-**Informational**  
-Overall content of product contains data, facts, resource information, reference materials, or instructional text.
 
-**Intense Violence**  
-Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons, and depictions of human injury and death.
+When your personal data is shared with Wargaming affiliates and subsidiaries, as well as third parties outside the European Union or the European Economic Area, Wargaming guarantees an adequate level of personal data protection, including but not limited to, by entering into standard data protection clauses adopted by the European Commission with Wargaming affiliates and subsidiaries, as well as such third parties. We will provide you with a copy of the standard data protection clauses upon your request.
 
-**Language**  
-Mild to moderate use of profanity.
+**Sharing anonymous information.** We also may share anonymous information, i.e. information which does not directly or indirectly disclose your identity, and aggregated information (meaning information about groups and categories of users, including game statistics and behaviour, but which does not identify and that cannot reasonably be used to identify any individual user) with our advertising partners. We may also allow our advertisers to collect anonymous information and aggregated information within the Services and they may then share that information with us. Our advertisers may collect this information through the use of tracking technologies like cookies and web beacons. This enables our advertisers to develop and deliver targeted advertising in the Services and on the websites of third parties, so that they can try to serve you with advertisements for products and services that are most likely to be of interest to you. Advertisers will also use this information to monitor, improve or modify their operations.
 
-**Lyrics**  
-Mild references to profanity, sexuality, violence, alcohol, or drug use in music.
+**7\. YOUR RIGHTS**
 
-**Mild Violence**  
-Scenes or activities which depict characters in unsafe and/or violent situations.
+To allow you to exercise your data protection rights in a simple way we have improved the Account Management tools available [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). If you are using a demo account, you will only be able to fully control our use of your data after you create the Account [here](http://wargaming.net/) or – for Console Games – [here](https://console.worldoftanks.com/). This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. Please visit it to make choices about which direct communications you would like to receive, as well as to exercise your rights to data access, data erasure and objection to data processing.
 
-**Sexual Themes**  
-Mild to moderate sexual references and/or depictions. May include partial nudity.
+**7.1. OPT-OUT OF DIRECT MARKETING AND RIGHT TO OBJECT**
 
-**Simulated Gambling**  
-Player can gamble without betting or wagering real cash or currency.
+You can manage your subscriptions to direct marketing through our Account Management tool. Please note that even if you unsubscribe from all our personalized marketing emails, messages, in-game and web- offers, we will still send you some notifications (we often refer to them as “transactional”), e.g. to confirm purchases or changes in your Account, give warranty or security information, information about changes to the EULA, Terms of Service and Privacy Policy, as well as will show to you non-personalized marketing in-game and web offers. We will be able to stop all communications only after your Account is deleted. Also, even after you have unsubscribed from our in-game and web offers, you may still see them within the Games and on some web-sites: that would mean that such offers are shown to everyone or to a very broad audience or to a very broad audience and are not specifically directed to you.
 
-**Some Adult Assistance May Be Needed**  
-Early Childhood descriptor only.
+You can opt-out of personalized advertising in mobile applications, including our mobile Games, by checking the privacy settings of your Android or iOS device and selecting “limit ad tracking” (Apple iOS) or “opt-out of interest-based ads” (Android). You can adjust your mobile push notifications in your Android or iOS device settings menu.
 
-**Strong Language**  
-Explicit and/or frequent use of profanity.
+Where processing of your Personal Data is based on legitimate interests according to Article 6(1)(f) of the GDPR, you can use your right to object at any time. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing or the data is necessary for the establishment, exercise or defense of legal claims.
 
-**Strong Lyrics**  
-Profanity and explicit references to sexuality, violence, alcohol, or drug use in music.
+**7.2. RIGHT OF ACCESS**
 
-**Strong Sexual Content**  
-Graphic references to and/or depictions of sexual behavior, possibly including nudity.
+You have the right to access your Personal Data that we hold about you, i.e. the right to require free of charge (i) information whether your Personal Data is retained, (ii) access to and/or (iii) duplicates of the Personal Data retained. You can use the right to access to your Personal Data through the “Data Export” tool available in the Account Management tools [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). Normally, we provide the duplicate of the Personal Data retained within 30 (thirty) days upon your request. Once the archive with the Personal Data we retain is ready, you will be able to download in it from our resources. If the request affects the rights and freedoms of others or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs of providing the information or communication or taking the action requested) or refuse to act on the request. We also will not be able to provide you with some Personal Data that you may post or provide using our Services regardless of our request not to provide the Personal Data in this particular field, website, etc. 
 
-**Suggestive Themes**  
-Mild provocative references or material.
+**7.3. RIGHT TO RECTIFICATION**
 
-**Tobacco Reference**  
-Reference to and/or images of tobacco products.
+You control which nickname, email, phone number, country, social networks accounts, trusted sites and payment methods we associate with your Account. If they change, please modify the data in the Personal Account directly. Please inform us if any of the Personal Data we retain about you is inaccurate. 
 
-**Use of Alcohol**  
-The consumption of alcoholic beverages.
+**7.4. RIGHT TO ERASURE**
 
-**Use of Drugs**  
-The consumption or use of illegal drugs.
+You have the right to obtain deletion by us of Personal Data concerning you by deleting your Account via our “Account Deletion” tool available in the Account Management tools [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/).
 
-**Use of Tobacco**  
-The consumption of tobacco products.
+As a result of deleting your Account, you will lose access to most Services, including the Account and Game-Related Information linked to the Account, subscriptions to Wargaming forums and the possibility to access other services you are using the Account for. 
 
-**Violence**  
-Scenes involving aggressive conflict.  
- 
+**Grace period.** We allow you to restore your Account during a grace period of 45 (forty-five) days from the moment you request deletion of your Account. This functionality allows you not to lose various Game-Related Information and other important information and options by mistake. During the suspension period, we will be able to finalise financial and other activities that you may have initiated before sending the Account deletion request. 
 
-## ESRB HELPS PARENTS CHOOSE THE RIGHT GAMES FOR THEIR FAMILIES
+**No payments after Account deletion.** As a result of deleting your Account, you will lose the possibility to make payments in the Premium Shop, including during the grace period. Should any payment be made after Account deletion due to a technical error or for any other reason, we will refund the amount paid by you and will not grant you the rights to the respective Additional Features.
 
-The ESRB rating system is designed to give parents the information they need to evaluate a computer or video game before making a purchasing decision. The ratings are not meant to recommend which games consumers should buy or rent or to serve as the only basis for choosing a product. Rather, parents should use the ESRB ratings in conjunction with their own tastes and standards and their individual knowledge about what's best for their kids.
+**Complicated Account deletion.** In some cases, deletion of your Account, and therefore Personal Data deletion, is complicated. Namely, if you are a clan commander in the Games, it is highly likely that you will only be able to delete your Account after you have transferred the clan and placed it under the command of another user or dissolve the clan. In some cases, considering the complexity and number of the requests, the period for Personal Data erasure may be extended, but for no longer than two further months.
 
-ESRB recommends that parents learn about games before making a purchasing decision. Game reviews printed in newspapers and publisher web sites can be excellent sources of information. To search for games that are appropriate based on age categories and content, use our online ratings search feature.
+**Earlier Personal Data deletion.** We store most Personal Data we retain about you until you request deletion of your Account through the Account Management tools. However, certain Personal Data is deleted even while you have a valid Account. For example, we will delete:
 
-ESRB also urges parents to talk with their children about their favorite games. Playing the games with your children helps stimulate those discussions, and playing games as a family can also be a fun way to spend time together.
+  * your Contact Data, clothes sizes, colour preferences, etc., you have provided for customisation, or for us to send you an award or arrange travel to one of our events, within 45 (forty-five) days after us sending the award to your address; 
+  * the data about you that we have collected in the course of alpha-tests, super tests, UX tests, surveys, analysis of publicly available sentiments in social networks such as YouTube, Facebook, vk.com, at onsite events: within no longer than 45 (forty-five) days after completion of the data analysis, data aggregation and generating of the reports for our Services improvement; 
+  * technical logs such as records of communication between Services, access logs, errors logs: normally within 45 (forty-five) days after their creation. 
+
+
+
+**Information we retain.** Upon expiry of the suspension period we will delete all Personal Data about you, except for the data that are required for our compliance with the requirements of applicable laws (e.g. tax and accounting requirements) or for our detection, investigation and prevention of cheating in the Game and EULA violations. We will also retain anonymous information after your Account has been closed. Information you have shared with others (e.g. through in-Games chats, updates or group posts) will remain visible after you closed your account or deleted the information from your own profile or mailbox, and we do not control data that other Members copied out of our Services. Groups content associated with closed accounts will show an unknown user as the source. Your profile may continue to be displayed in the services of others (e.g. search engine results) until they refresh their cache.
+
+You also have the right to lodge a complaint at a supervisory authority.
+
+**8\. WE CAN CHANGE THIS POLICY**
+
+We may change this Policy from time to time for various reasons, such as legal and regulatory changes, changes in industry practices and technological developments that need to be reflected.
