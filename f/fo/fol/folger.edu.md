@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folger.edu privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619003403id_/https%3A//www.folger.edu/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folger.edu privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218210455id_/https%3A//folger.edu/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policy | Folger Shakespeare Library
 
@@ -40,7 +40,7 @@ The Folger and the Folger Website does not solicit or knowingly collect personal
 
 #### Notification of Changes
 
-The Folger may modify or amend this policy from time to time. If we make any material changes, as determined by the Folger, in the way in which personal information is collected, used or transferred, we will post a modified version of this Privacy Policy on our website. We encourage you to periodically visit this page to review our most current Privacy Policy, and do likewise with our [Terms of Use](https://web.archive.org/web/20180619003403id_/https%3A//www.folger.edu/terms-of-use). Notwithstanding any modifications we may make, any personal information collected by Folger from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.
+The Folger may modify or amend this policy from time to time. If we make any material changes, as determined by the Folger, in the way in which personal information is collected, used or transferred, we will post a modified version of this Privacy Policy on our website. We encourage you to periodically visit this page to review our most current Privacy Policy, and do likewise with our [Terms of Use](https://web.archive.org/web/20181218210455id_/https%3A//folger.edu/terms-of-use). Notwithstanding any modifications we may make, any personal information collected by Folger from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.
 
 #### Questions
 
