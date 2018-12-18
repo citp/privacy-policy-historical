@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604083739id_/http%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219001303id_/https%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
 
 # Navy.mil - Privacy Policy
 
 Notice:   
 This is a U.S. Government Web Site 
 
-The U.S. Navy website, [www.navy.mil](http://www.navy.mil/), is provided as a public service by the U.S. Navy's Office of Information, Washington, D.C.
+The U.S. Navy website, [www.navy.mil](https://web.archive.org/index.asp), is provided as a public service by the U.S. Navy's Office of Information, Washington, D.C.
 
 Information presented on this website is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.
 
-If you choose to provide your personally identifiable information (PII), such as filling out a [form to contact the U.S. Navy](http://www.navy.mil/submit/contacts.asp) with e-mail and/or postal addresses, your information will only be used to respond to your message or request. The information you provide will only be shared with another government agency if your inquiry relates to that agency, or as otherwise required by law. Individual profiles will not be created nor given to any private organizations. Navy.mil never collects information for commercial marketing. While you must provide an e-mail address or postal address for a response other than those generated automatically in response to questions or comments that you may submit, we recommend that you NOT include any other PII, especially Social Security numbers. The Social Security Administration offers additional guidance on [sharing your Social Security number](https://www.ssa.gov/pubs/EN-05-10064.pdf).
+If you choose to provide your personally identifiable information (PII), such as filling out a [form to contact the U.S. Navy](https://web.archive.org/submit/contacts.asp) with e-mail and/or postal addresses, your information will only be used to respond to your message or request. The information you provide will only be shared with another government agency if your inquiry relates to that agency, or as otherwise required by law. Individual profiles will not be created nor given to any private organizations. Navy.mil never collects information for commercial marketing. While you must provide an e-mail address or postal address for a response other than those generated automatically in response to questions or comments that you may submit, we recommend that you NOT include any other PII, especially Social Security numbers. The Social Security Administration offers additional guidance on [sharing your Social Security number](https://www.ssa.gov/pubs/EN-05-10064.pdf).
 
 The U.S. Navy maintains a variety of physical, electronic and procedural safeguards to protect your PII. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
@@ -17,7 +17,7 @@ Except for authorized law enforcement investigations, no other attempts are made
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-If you have any questions or comments about the information presented here, please forward them through our [contact U.S. Navy form](http://www.navy.mil/submit/contacts.asp).
+If you have any questions or comments about the information presented here, please forward them through our [contact U.S. Navy form](https://web.archive.org/submit/contacts.asp).
 
 ##  Cookies and Navy.mil 
 
@@ -50,7 +50,7 @@ Google Analytics collects and stores information about your visit to our site. T
 
   * Environmental information such as the geographic location of your IP address, the language you are browsing in, and the technical specifications of the device and browser you are browsing on;
   * Behavioral information such as the date and time of your visit, the pages you visit, links you clicked on the site, and the name of the domain from which you access the Internet (i.e., DoD.gov if you are connecting from a DoD account, or GMU.edu if you are connecting from George Mason University’s domain); and
-  * "Acquisition" information such as the Internet address of the website you came from if it linked you directly to [www.navy.mil](http://www.navy.mil/) and search terms that you enter into the GSA.gov search tool.
+  * "Acquisition" information such as the Internet address of the website you came from if it linked you directly to [www.navy.mil](https://web.archive.org/index.asp) and search terms that you enter into the GSA.gov search tool.
 
 
 
@@ -62,7 +62,7 @@ While the U.S. Navy uses social media including Facebook, Twitter, and YouTube, 
 
 ##  Use of Third-Party Websites and Applications 
 
-Third-party websites and applications that are not owned, operated, or controlled by the U.S. Navy are integral to Internet-based operations across the U.S. Navy and used to augment official communication. These capabilities include, but are not limited to, networking services, media sharing services, wikis and data mashups. A list of the U.S. Navy’s authorized pages and uses of these services is listed at <http://www.navy.mil/CommandDirectory.asp>. These third-party sites may collect PII and may make it available to the U.S. Navy and other users; however, the PII is not collected on behalf of, nor is it provided specifically for, the U.S. Navy. The U.S. Navy does not harvest and additionally collect, maintain, share or otherwise use such PII for any purpose other than that for which it is made available to all users.
+Third-party websites and applications that are not owned, operated, or controlled by the U.S. Navy are integral to Internet-based operations across the U.S. Navy and used to augment official communication. These capabilities include, but are not limited to, networking services, media sharing services, wikis and data mashups. A list of the U.S. Navy’s authorized pages and uses of these services is listed at [https://www.navy.mil/CommandDirectory.asp](https://web.archive.org/CommandDirectory.asp). These third-party sites may collect PII and may make it available to the U.S. Navy and other users; however, the PII is not collected on behalf of, nor is it provided specifically for, the U.S. Navy. The U.S. Navy does not harvest and additionally collect, maintain, share or otherwise use such PII for any purpose other than that for which it is made available to all users.
 
   
 
