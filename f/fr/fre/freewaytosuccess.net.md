@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewaytosuccess.net privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615134103id_/http%3A//www.freewaytosuccess.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewaytosuccess.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218181844id_/http%3A//www.freewaytosuccess.net/privacy.html) for the most accurate reproduction.*
 
 # Freeway to Success | Enjoy the ride
 
