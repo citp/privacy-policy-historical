@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113102602id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218091546id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
 
 # About | The Fwoosh
 
@@ -26,7 +26,7 @@ Please direct all advertising-related inquiries to [promotions@thefwoosh.com](m
 
 **Paul Wolf** (pablolobo) | CEO and Founder  
 ---|---  
-**Brian Rutherford** (RoboKillah) | Chief Operating Officer  
+**Brian Rutherford** (RoboKillah) | Chief Operating Officer/Editor  
 **Adam Van Wickler** (Industrial) | Chief Brand Officer / Creative Director  
 **Nic Wood** (VeeBee) | Chief Content Officer / Editor In Chief  
   
@@ -49,7 +49,7 @@ Please direct all advertising-related inquiries to [promotions@thefwoosh.com](m
 **Ibentmyman-thing** (Daniel Wilson) | Editor  
 **Matthew K** (Matthew Kloberdanz) | Editor/Lead Photographer  
 ****RoboKillah**  **(Brian Rutherford) **  
-** | Writer  
+** | Writer/Editor  
 **Prodigy** (Brett Gaillot) | Writer  
 **hagop** (Tony Hagopian) **  
 ** | Writer/Reporter  
@@ -61,13 +61,13 @@ Please direct all advertising-related inquiries to [promotions@thefwoosh.com](m
   
 ### Fwooshcast Members
 
-**Tony Hagopian** (hagop) | Host  **                  **  
+**Tony Hagopian** (hagop) | Host ** **  
 ---|---  
 **Nic Wood** (VeeBee) | Co-Host  
   
 ### FwooshTube
 
-**Brian Rutherford** (Robokillah) | Reviewer  
+**Brian Rutherford** (RoboKillah) | Reviewer  
 ---|---  
 **Nic Wood** (VeeBee) | Reviewer  
 **Timothy Pittz** (canonball) | Reviewer  
