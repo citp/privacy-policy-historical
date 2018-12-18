@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the early-pregnancy-tests.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617170804id_/https%3A//www.early-pregnancy-tests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the early-pregnancy-tests.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218213633id_/https%3A//www.early-pregnancy-tests.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - www.early-pregnancy-tests.com
 
@@ -138,4 +138,5 @@ Early-Pregnancy-Tests.com
 PMB 730  
 Bellingham WA 98225-7367
 
-We use cookies to analyze our site traffic and improve your experience. We may also share information with our advertising partners. By continuing to use our site, you accept our use of cookies. [Privacy Policy](https://web.archive.org/privacy-policy). OK
+We use cookies to analyze our site traffic and improve your experience. We may also share information with our advertising partners. By continuing to use our site, you accept our use of cookies. [Privacy Policy](https://web.archive.org/privacy-policy).   
+
