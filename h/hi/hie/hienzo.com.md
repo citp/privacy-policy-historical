@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hienzo.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629174912id_/http%3A//www.hienzo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hienzo.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218042041id_/http%3A//www.hienzo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hienzo.com
 
