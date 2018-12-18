@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypress.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618172539id_/http%3A//strausnews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypress.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218154345id_/http%3A//strausnews.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Straus News
 
