@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanherald.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619061341id_/http%3A//www.pakistanherald.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanherald.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218165154id_/http%3A//pakistanherald.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
