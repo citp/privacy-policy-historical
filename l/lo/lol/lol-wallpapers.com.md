@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lol-wallpapers.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617124346id_/http%3A//lol-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lol-wallpapers.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218104401id_/http%3A//lol-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LoL Wallpapers
 
 Privacy Policy
 
-At lol-wallpapers.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by lol-wallpapers.com and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+At lol-wallpapers.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by lol-wallpapers.com and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at admin@lol-wallpapers.com.
 
 **Log Files**
 
