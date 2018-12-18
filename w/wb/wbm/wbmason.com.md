@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbmason.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018211916id_/http%3A//www.wbmason.com/DynamicPage.aspx%3FPage%3DWB-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbmason.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218020155id_/https%3A//www.wbmason.com/DynamicPage.aspx%3FPage%3DWB-Privacy-Policy) for the most accurate reproduction.*
 
 # W.B. Mason
 
@@ -73,4 +73,4 @@ By using the Web Site, you signify your assent to the W.B. Mason Privacy Policy.
 We will post any changes to this Policy on the Web Site. You should visit this page periodically, because your continued use of the Web Site following the posting of changes to these terms will mean you accept those changes.
 
 12\. Whom to Contact  
-If you have questions or concerns regarding this Privacy Policy, you should contact W.B. Mason by mail at: 59 Centre Street, Brockton, MA 02303; by telephone at: 1-888-WBMASON (926-2766); or by clicking on the Support[Support](https://web.archive.org/web/20161018211916id_/http%3A//www.wbmason.com/CustomerService.aspx) tab that appears on this site.
+If you have questions or concerns regarding this Privacy Policy, you should contact W.B. Mason by mail at: 59 Centre Street, Brockton, MA 02303; by telephone at: 1-888-WBMASON (926-2766); or by clicking on the Support[Support](https://web.archive.org/web/20181218020155id_/https%3A//www.wbmason.com/CustomerService.aspx) tab that appears on this site.
