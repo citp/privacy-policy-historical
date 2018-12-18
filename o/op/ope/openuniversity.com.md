@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the openuniversity.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229101257id_/http%3A//www.openuniversity.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openuniversity.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218061417id_/http%3A//www.openuniversity.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | The Open University
 
 This page describes how you can access any personal information The Open University (OU) may hold, and how we may use cookies to monitor usage patterns across the OU website. You may wish to print this page.
 
-There are particular circumstances regarding the OpenLearn website (the OU's open content initiative) – see [OpenLearn privacy statement](http://www.open.ac.uk/about/main/management/policies-and-statements/website-privacy-openlearn).
+There are particular circumstances regarding the OpenLearn website (the OU's open content initiative) – see [OpenLearn privacy statement](http://www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/website-privacy-openlearn).
 
 ## Access to your personal information
 
@@ -29,7 +29,7 @@ We may use the personal information that you provide when you enquire or registe
 
 
 
-For more information on how we handle and use personal information about our students, read our [Data Protection Policy](http://www8.open.ac.uk/students/essential-documents/files/essential-docs-pl/file/ecms/web-content/data-protection.pdf) (PDF). 
+For more information on how we handle and use personal information about our students, read our [Student Privacy Notice](http://www.open.ac.uk/students/charter/essential-documents/student-privacy-notice) (PDF). 
 
 ## Freedom of Information Act Publication Scheme
 
@@ -131,7 +131,7 @@ VISITOR_INFO1_LIVE | Some of the pages on our website contain videos from our Yo
   
 ### Cookies you may see if signed in to our website
 
-For information on the cookies set when you sign into The Open University website, see the [list of cookies](http://www.open.ac.uk/about/main/management/policies-and-statements/cookie-use-ou-website/cookies-you-may-see-if-you-browse-our-site) on the www.open.ac.uk website.
+For information on the cookies set when you sign into The Open University website, see the [list of cookies](http://www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/cookies-you-may-see-if-you-browse-our-site) on the www.open.ac.uk website.
 
 ### Cookies we use for marketing purposes
 
