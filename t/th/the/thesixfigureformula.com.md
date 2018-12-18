@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesixfigureformula.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613153651id_/http%3A//thesixfigureformula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesixfigureformula.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218053306id_/https%3A//thesixfigureformula.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Six Figure Formula
+# Privacy Policy – The Six Figure Formula – Official Site
 
 The Six Figure Formula created this privacy policy to provide You with information on how we collect and use information, including **personally identifiable information.**  
 As part of the normal operation of our services we collect about You. By accepting this Privacy Policy and our Terms of Use, You expressly consent to our use and disclosure of Your personal information in the manner described in this Privacy Policy.
