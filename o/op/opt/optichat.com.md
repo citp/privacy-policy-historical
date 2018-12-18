@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optichat.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614144650id_/http%3A//www.zobe.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optichat.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218023109id_/http%3A//www.zobe.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zobe.com
 
@@ -62,7 +62,7 @@ Wishbone Media, Inc. has the discretion to update this privacy policy at any tim
 
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Wishbone Media, Inc. http://Zobe.com/ Wishbone Media, Inc. 3470 E Russell Rd, #265 Las Vegas, NV 89120 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Wishbone Media, Inc. http://Zobe.com/ Wishbone Media, Inc. 3470 E Russell Rd, #265 Las Vegas, NV 89120 dan@Zobe.com
 
 This document was last updated on April 24, 2012
 
