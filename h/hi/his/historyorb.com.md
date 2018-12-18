@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyorb.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123063543id_/https%3A//www.onthisday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyorb.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218035033id_/https%3A//www.onthisday.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - On This Day
 
@@ -38,10 +38,10 @@ This site contains links to other sites. **OnThisDay.com** is not responsible fo
 
 This site gives users the following options for changing and modifying information previously provided:
 
-  1. You can apply to have the entry corrected on our [corrections page](https://web.archive.org/web/20180123063543id_/https%3A//www.onthisday.com/corrections.php).
+  1. You can apply to have the entry corrected on our [corrections page](https://web.archive.org/web/20181218035033id_/https%3A//www.onthisday.com/corrections.php).
 
 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20180123063543id_/https%3A//www.onthisday.com/contact.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20181218035033id_/https%3A//www.onthisday.com/contact.php).
