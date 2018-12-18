@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the box10.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626221455id_/http%3A//www.box10.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box10.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219001801id_/https%3A//www.box10.com/privacy.html) for the most accurate reproduction.*
 
 # Box10 Games - Free Games - Free Online Games On Box10
 
@@ -43,7 +43,7 @@ We also use these cookies to track your recently played games, fave games and to
 
 ### Third Party Advertisers and Services
 
-To make money we use advertisers that may collect information about you. We also track your information we third party analytics services. Specifically we use Google Analytics, Google Firebase, Google Play, iTunes and Google AdMob. You can find Googles privacy policy here; https://www.google.com/policies/privacy/ . You can find Apple’s privacy policy here; http://www.apple.com/uk/legal/privacy/ . From time to time we may also use other third party tools and advertisers whose privacy policy may vary.
+To make money we use advertisers that may collect information about you. We also track your information we third party analytics services. Specifically we use Google Analytics, Google Firebase, Google Play, iTunes and Google AdMob. You can find Googles privacy policy here; https://www.google.com/policies/privacy/ . You can find Apple’s privacy policy here; https://www.apple.com/uk/legal/privacy/ . From time to time we may also use other third party tools and advertisers whose privacy policy may vary.
 
 Third party advertises may collect personal and non-personal information about you in order to provide better suited advertisements. This information may include; location, content of the website or app you are viewing, what adverts you’ve seen before and any other data it can get on you. Advertisers may build a profile that they link to your device and use your information from other applications and websites to service adverts within our applications.
 
