@@ -1,92 +1,62 @@
-> *The following text is extracted and transformed from the maxviewrealty.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024032109id_/http%3A//www.maxviewrealty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxviewrealty.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218210744id_/http%3A//www.maxviewrealty.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Shanghai house for rent, Expats Living in Shanghai, - Maxview Realty
 
 We strongly recommend you browser this site by Firefox, Safari, Opera, Chrome, or IE11.
 
-[Home](http://www.maxviewrealty.com/) > Privacy Policy
+### Log Files
 
-At Maxview Realty (Shanghai) Ltd, Co. ("Maxview Realty", or "we," "us," or "our"), provider of the maxviewrealty.com website (the "Site"), we respect the importance of your privacy, and we are committed to taking steps to ensure that your personal information is kept strictly confidential. We believe that you should know what information about you is collected when you use the Site, including our services through the Site, as well as how that information is used, maintained and, in some cases, shared. Therefore, we have created this Privacy Policy to set forth our privacy practices and policies. 
+Maxview Realty follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
-BY USING OR ACCESSING THE SITE IN ANY WAY, OR BY TRANSMITTING INFORMATION TO US BY EMAIL OR OTHER ELECTRONIC MEANS, YOU ASSENT TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE OR OTHERWISE ENGAGE IN THESE ACTIVITIES. 
+### Cookies and Web Beacons
 
-INFORMATION COLLECTION, USE AND SHARING
+Like any other website, Maxview Realty uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
-When you register with the Site we collect certain personally-identifiable information from you, which we use and provide to others as follows: 
+### Google Double Click DART Cookie
 
-**Renters**
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.maxviewrealty.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads
 
-\- Contact Information. If you fill out a profile with the Site, we collect basic contact information about you (including your name, telephone number and e-mail address). We will not provide your contact information to other users of the Site, provided that upon Your request we will provide your full contact information to agents and/or landlords with whom you wish to conduct business.  
-\- Evaluation and Feedback. If you provide us with your own comments about our services, we may use your comments in our marketing and promotional materials and/or on the Site.
+### Our Advertising Partners
 
- **Agents/Landlords**
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
-\- Contact Information. We collect from agents and landlords basic contact information (including your name, company name, telephone number and e-mail address). We will not provide your contact information to other users. However, renters will be able to see your information as part of your public profile on the Site and in connection with listings you post on the Site.  
-\- Listings. Any listings and related information you upload to the Site will be viewable by renters.  
-\- Evaluation and Feedback. If you provide us with your own comments about our services, we may use your comments in our marketing and promotional materials and/or on the Site.
+  * Google  
+https://policies.google.com/technologies/ads
+  * T6  
+http://www.t6space.com/Page_en.aspx?id=30
 
- **INFORMATION SHARING AND DISCLOSURE**
 
-In addition to the sharing and disclosure of information described above, we may also share information about you as follows:
 
-\- Service Providers. Maxview Realty uses Service Providers to perform certain of the technical processing, administration and support of the Site and services. Such Service Providers generally are permitted to use and disclose your personally identifiable information only as provided in this Privacy Policy. However, with respect to certain services, some Service Providers may have their own privacy policies that will apply to their use or disclosure of your information obtained through those services. You will be notified of any other privacy policies or terms when you sign up for these services, and you may decline to receive any such service if you do not agree with those other terms.  
-\- Others. Maxview Realty and its Service Providers reserve the right to disclose information about you, including personally-identifiable information, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Maxview Realty, its providers, suppliers and licensors or other clients or third parties; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Maxview Realty, its providers, suppliers and licensors or other clients or third parties.
+### Privacy Policies
 
- **LOG FILES**
+You may consult this list to find the Privacy Policy for each of the advertising partners of Maxview Realty.
 
-As is true of most websites, Maxview Realty and our Service Providers gather certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, Internet service provider (ISP) information, referring/exit pages, operating system information, date/time stamps, and clickstream data. We and our Service Providers use this information, which does not identify individual users, to analyze trends, to administer the site and services, to track users' movements around the site and services, and to gather demographic information about our user base in aggregate. We do not link this automatically-collected data to personally identifiable information. We use one or more third-party tracking services that may use cookies to track non-personally identifiable information about visitors to our site in the aggregate for marketing research purposes.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Maxview Realty, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-**LINKS TO OTHER SITES**
+Note that Maxview Realty has no access to or control over these cookies that are used by third-party advertisers.
 
-The Site contains links to third party sites that are not owned or controlled by us. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected, retained and accessed by the Site, including services available through the Site. In addition, certain Service Providers may have their own privacy policies that will apply to certain services, as described above. 
+### Third Party Privacy Policies
 
-**BUSINESS TRANSITION**
+Maxview Realty’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
 
-In the event that Maxview Realty goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information. This Privacy Policy will become binding upon the new owner of the information until amended.
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
 
-**CONSENT TO TRANSFER AND PROCESSING**
+### Children's Information
 
-Personal information collected through the Site and/or its services may be stored and processed in the United States or in any other country in which Maxview Realty or its providers (or its or their affiliates or providers) maintain facilities. By using the Site and/or its services, you consent to any such transfer and processing of information outside of your country. 
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-CHILDREN'S PRIVACY 
+Maxview Realty does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
-If you are under the age of 13, please do not use or access the Site or services in any way. We will not knowingly collect or use any personal information from any children under the age of 13. If we become aware that we have collected any personal information from children under 13, we will promptly delete such information from our databases.
+### Online Privacy Policy Only
 
-**TERMS OF SERVICE**
+This policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Maxview Realty. This policy is not applicable to any information offline or via channels other than this website.
 
-Your use of the Site and its services is governed by our then-current Terms of Service for Renters or Terms of Services for Agents/Landlords, as applicable. 
+### Sharing Information
 
-**CHANGES TO THIS POLICY**
+The personal information you provide to us will be retained only for as long as necessary to fulfill the purposes for which the information was collected or as required by law. We do not share personal information with third parties except as necessary to carry out our business or your request or as required by law or other legal processes, and we never sell your personal information.
 
-Maxview Realty may update this Privacy Policy from time to time, and when we do, we will also revise the "last updated" date at the top of this Privacy Policy. If we consider any change to this Privacy Policy to be material, we will place a prominent notice on the Site or we may notify you directly by e-mail, at our discretion. Changes are effective upon posting to the Site, unless we say otherwise in our notice, so please check this site often for changes. 
+In addition, we have technological and operational security policies and procedures in place to protect your personally identifiable information from loss, misuse, alteration or unintentional destruction. Our personnel who have access to the data have been trained to maintain the confidentiality of such information.
 
-**UPDATING YOUR INFORMATION; QUESTIONS**
+### Consent
 
-You may view or edit your personal information online by accessing your account for the Site at www.maxviewrealty.com, using your user name and password for the Site. Please feel free to contact us at info@maxviewrealty.com, to assist in updating your personal information or if you have any questions regarding this Privacy Policy. 
-
-## Claims regarding copyright infringement
-
-Pursuant to the Digital Millennium Copyright Act, Maxview Realty has implemented procedures for receiving written notification of claimed infringements. Maxview Realty has also designated an agent to receive notices of claimed copyright infringement. 
-
-Please note the following about Maxview Realty and the services we provide: 
-
-•Maxview Realty is a service provider that allows the uploading of text, photos, and other media by our users at the sole direction of those users.  
-•We store user directed content in an automated, technical fashion and have no human involved in the selection of which media to publish or filter.  
-•Our terms of service to our users forbids the upload of copyrighted materials without adequate license. 
-
-If you believe in good faith that your copyright has been infringed, provide a written communication which contains:
-
-•An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest  
-•A description of the copyrighted work that you claim has been infringed  
-•A description specifying the URL on our website of the infringing material and date that the URL showed the infringing material.  
-•Your email address and your mailing address and/or telephone number  
-•A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf. 
-
-Please submit your notice to Maxview Realty Corporation’s Copyright Agent at the address: 
-
-www.maxviewrealty.com  
-ATTN: Copyright Infringement  
-299 Tongren Road, Rm3606, SOHO Plaza  
-Shanghai, P.R.China,200040  
-Or by email to: info@maxviewrealty.com.  
-
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
