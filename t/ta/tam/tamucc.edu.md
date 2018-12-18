@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619013650id_/http%3A//www.tamucc.edu/about/privacy.html%3Futm_source%3Dfooter%26utm_campaign%3Dtamucc.edu%26utm_medium%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218151254id_/http%3A//www.tamucc.edu/about/privacy.html%3Futm_source%3Dfooter%26utm_campaign%3Dtamucc.edu%26utm_medium%3Dprivacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement Texas A&M University Corpus Christi
+# Privacy Statement Texas A&M University-Corpus Christi
 
 Texas A&M University-Corpus Christi maintains this web site as an information resource and service for the public. In the course of providing you this information, we are able to gather and archive several types of data about visitors to our web site. In respect to your privacy and in accordance with State law, the following outlines how we handle those types of data.
 
@@ -31,9 +31,9 @@ Links. This web site contains links to other sites not owned or maintained by th
 
 **Security.**  This site has security measures in place to protect against the loss, misuse and alteration of the information under our control.
 
-**Contact.**  If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, you may contact the [University Web Coordinator](mailto:ean.travis@tamucc.edu) via email or through regular mail at:
+**Contact.**  If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, you may contact the [University Web Services Manager](mailto:trent.spofford@tamucc.edu) via email or through regular mail at:
 
-University Web Coordinator  
+University Web Services Manager  
 Texas A&M University-Corpus Christi  
 University Services Center 102C  
 6300 Ocean Drive  
