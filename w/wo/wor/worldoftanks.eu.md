@@ -1,162 +1,286 @@
-> *The following text is extracted and transformed from the worldoftanks.eu privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630162020id_/http%3A//worldoftanks.eu/en/content/docs/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoftanks.eu privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218175230id_/http%3A//legal.eu.wargaming.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | Game | World of Tanks
+# Legal Documentation | Wargaming.net
 
-Last updated: 18.08.2014
+Effective 12 November 2018
 
-## **1\. Introduction**
+Previous version: [Wargaming Privacy Policy before 12 November 2018](https://content.wgcdn.co/web/docs/legal/PP_En_25.05.2018.docx).
 
-  1. We are committed to protecting and respecting your privacy. This Privacy and Cookie Policy (" **Policy** ") describes how we treat information that you provide to us or that we collect about you.
-  2. By personal data, we refer to data that relates to you as an identified or identifiable person. Personal data include your name, your address, your telephone number, your e-mail address, your age, your gender and your game preferences, a part of your credit card number. Anonymous information, which we are not in a position to relate to you, does not qualify as personal data.
-  3. We may collect personal data as well as other information when you use the following services: 
-    * Our websites, including [http://worldoftanks.eu](http://worldoftanks.eu/), [http://worldofwarplanes.eu](http://worldofwarplanes.eu/), [http://www.worldofwarships.eu,](http://www.worldofwarships.eu/) [http://wargaming.net](http://wargaming.net/) and any other Wargaming sites on which this Policy is posted (the " **Sites** ").
-    * Your creation and use of a Wargaming account on any of the Sites (an " **Account** "). For more information on Accounts and how to create an Account please see our [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/).
-    * Your use of any of our online and mobile games including, but not limited to, _"World of Tanks"_ , _"World of Warplanes"_ and _"World of Warships"_ (once available) (the " **Games** " or individually a " **Game** "). Your use of each Game will be subject to the End User Licence Agreement (the " **EULA** ") and the game rules (the " **Game Rules** ") in respect of that Game. You can find links to the EULA and the Game Rules for our Games in our [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/). Your use of any of the forums that we operate for the Games (the " **Games Forums** "). Your use of any of the Games Forums will be subject to the rules and guidelines applicable to the Games Forums (the " **Forum Rules** "). The Forum Rules are set out at:  
- **\- for World of Tanks** :  
-<http://forum.worldoftanks.eu/index.php?/forum-40/announcement-124-forum-rules/>   
- **\- for World of Warplanes** :  
-<http://forum.worldofwarplanes.eu/index.php?/forum-21/announcement-17-forum-rules/>  
- **\- for World of Warships** :  
-[http://forum.worldofwarships.eu/](http://forum.worldofwarships.eu/)  
-and constitute a part of [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/).  
+We are committed to protecting and respecting your privacy. This Privacy Policy (“ **Policy** ”) describes how we treat information that you provide to us or that we collect about you.
 
-    * Your use of any of our other products and services (including support services) which may be accessible via a third party platform, web application or social networking service (together the " **Ancillary Services** ").  
-In this Policy we refer to the Sites, the Account, the Games and the Ancillary Services together as the " **Services** ".  
+By “ **Personal Data** ”, we refer to data that relates to you as an identified or identifiable natural person. The term “Personal Data” may include your name, your address, your telephone number, your e-mail address, your age, your gender, your game preferences, for instance. Anonymous information, which we are not in a position to relate to you, does not qualify as “Personal Data”.
 
-  4. **Please read this Policy carefully. By starting using any of the Services, you accept the Privacy Policy.   If you do not agree to this Privacy Policy, please do not attempt to use the Services. By accepting this Policy, you signify your consent to the collection and other processing of your personal data in accordance with and for the purposes set out in this Policy.**
+**1\. CONTROLLER’S NAME AND CONTACT DETAILS**
 
+Controller in the sense of the General Data Protection Regulation (GDPR) and other data protection or data privacy laws in the Member States of the European Union and other guidelines with a data protection nature regarding our online and mobile games including, but not limited to, “ **World of Tanks** “, “ **World of Warplanes** “, “ **World of Warships** “, “ **World of Tanks Blitz** “, “ **World of Warships Blitz** “, “ **Total War: Arena** “, **“Gods & Glory” **, associated web-sites as [http://worldoftanks.eu](http://worldoftanks.eu/), [http://worldofwarplanes.eu](http://worldofwarplanes.eu/), [http://worldofwarships.eu](http://worldofwarships.eu/), [https://wotblitz.eu](https://wotblitz.eu/), [https://wowsblitz.com](https://wowsblitz.com/), [http://totalwararena.net](http://totalwararena.net/), [http://wargaming.net](http://wargaming.net/), [https://godsandglory.com](https://godsandglory.com/), as well as any other Wargaming games and any other websites owned or operated by Wargaming: 
 
+**Wargaming Group Limited**
 
-## **2\. Who we are**
+105, Agion Omologiton Avenue
 
-We are
+Nicosia 1080
 
-**Wargaming Group  Limited,**  
- **105, Agion Omologiton Avenue,**  
- **Nicosia 1080,**  
- **Cyprus**
+Cyprus
 
-( **"Wargaming** ", " **we** ", " **our** " and " **us** ").
+Email: [privacy@wargaming.net](mailto:privacy@wargaming.net)
 
-We respect your right to privacy and will only process personal data and other information you provide to us or we collect about you in accordance with applicable privacy and personal data protection laws.
+Controller in the sense of the GDPR and other data protection or data privacy laws in the Member States of the European Union and other guidelines with a data protection nature regarding “World of Tanks” on Xbox 360 and Xbox One, “World of Tanks” on PlayStation®4 (“Console Games”), for example, in relation to the <https://console.worldoftanks.com/> website, is:
 
-## **3\. Information we may collect from you**
+**Wargaming World Limited**
 
-When you use the Services we may collect the following categories of data:
+105, Agion Omologiton Avenue
 
-When you create an Account, we collect and process the following “ **Account Data** ”:
+Nicosia 1080
 
-  * Your first name and last name, your gender, date of birth, e-mail address, telephone number, social network ID, address, user name, password. You may also choose to provide some other optional information about you.
+Cyprus
 
+Email: [privacy@wargaming.net](mailto:privacy@wargaming.net)
 
+Both entities are referred to as “Wargaming”, “we”, “our” and “us” in this Policy. The term “ **Services** ” refers to the act of providing you with the opportunity to use the named games (“ **Games** ”), websites (“ **Sites** ”), Wargaming account (“ **Account** “), any of our other products and services (including support services, forums) related to the Games (“ **Ancillary Services** “), for example, the “World of Tanks Assistant”, “Wargaming Check” and “Wargaming Game Center” applications.
 
-When you purchase virtual items, virtual currency (so-called “ **gold** ”) or time-limited premium memberships with the credit card, we collect and process the following “ **Payment Information** ”:
+**2\. CONTACT DETAILS OF THE DATA PROTECTION OFFICER (DPO)**
 
-  *  Your credit card number (or a part of it), and information about your credit card issuer.
+The contact details of Data Protection Officer of Wargaming are:
 
+**Wargaming Data Protection Officer**
 
+105, Agion Omologiton Avenue
 
-When you use the Services, we may collect and process the following “ **Tracking Data** ”:
+Nicosia 1080
 
-  * Location information associated with your IP address when you visit our Sites or use a Game.
-  * Information relating to your use of our Services including, but not limited to, information about when and how you use the Services and data traffic and recordings of the parts of the screen you click on while using our Services (so called “clickstreams”).
-  * Log files and statistics in relation to actions taken on our Sites and in the Games.
-  * Technical information about any device that you use when you visit the Sites or use a Game, including your Media Access Control (MAC), Unique Device Identifier (UDID) or equivalent device identifier, your IP address and the browser you are using.
+Cyprus
 
+Email: [dpo@wargaming.net](mailto:dpo@wargaming.net)
 
+**3\. GENERAL INFORMATION IN BRIEF**
 
-For the collection and processing of Tracking Data on the Sites we use cookies. Their functionality and your options regarding their use are explained in section 4 below.
+We process personal data only when necessary for the performance of a contract with you, for compliance with a legal obligation to which we are subject, or based on our legitimate interests, except where such interests are overridden by the interests or fundamental rights and freedoms for which require the protection of your Personal Data.
 
-When you use the Services, we may collect and process the following “ **Content Data** ”:
+Our legitimate interests are to render and improve our Services in an effective, safe and harmless manner. We want to provide everyone with a fair and balanced experience when using our Services.
 
-  * Information that you post in any of the Games Forums.
-  * Information sent through the "game-chat" functionality in the Games,
-  * Information you provide when you request information or support from us or purchase a product or service from us, including information necessary to process your orders with the relevant payment merchant which may include the amount of any transaction, but will not include your financial information which will only be submitted directly to the payment merchant under secure protocols.
-  * Information other than the Account Data you provide to us when participating in competitions, contests and tournaments and responding to surveys.
-  * Information relating to your profiles on social networking sites in order to allow integration with such social networking sites.
+**3.1. YOUR PREFERENCES**
 
+You can choose how we use your Personal Data using our Account Management Tool. As we need to verify your identity before we follow your instructions on Personal Data use, you need to have a registered Account in order to access the Account Management Tool. This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. 
 
+For example, through the Account Management Tool you can: 
 
-## **4\. Cookies**
+  * opt-out of receiving direct marketing, offered via email, within Games and online. Read more below in Section 7.2 “Opt-Out of Direct Marketing and Right to Object”; 
+  * access the Personal Data we store about you. Read more below in Section 7.1 “Right of Access”; 
+  * have your Account, and the related Personal Data, deleted. Read more below in Section 7.4 “Right to erasure”. 
 
-  1. The Sites use cookies and similar technologies that collect Tracking Data to distinguish you from other users. This helps us to provide you with a good experience when you access the Sites and use the Services.
-  2. A cookie is a small file of letters and numbers that a website places on your computer or device when you visit a website. You are given the opportunity to consent to using of cookies or refuse from them as you enter our Sites. If you have opted out, we only use the strictly necessary cookies (as described below) and store one permanent ‘compliance’ cookie which tells us that you want to opt out of use of any other cookies. For more information about cookies, we recommend that you visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-  3. The cookies that are used on the Sites fall into the categories described below. These descriptions can help you determine if and how you would like to interact with our Sites and other online services:  
 
-    * **Strictly necessary cookies  
-** These cookies are essential in order to enable you to navigate the Sites and use certain features. Without these strictly necessary cookies, the online services provided by the Sites cannot be provided. It is therefore not possible for you to opt out of use of these cookies.  
-In addition, the coding language the Sites are written in uses session cookies and their use cannot be avoided. These are deleted each time you close your browser. These cookies do not store any information about the visitor once the browser is closed.
-    * **Performance cookies  
-** Our performance cookies collect anonymous information about how you use the Sites and their features. For instance, our performance cookies collect information about which pages on the Sites are visited most often, which advertisements you view or interact with on the Sites or other websites on which our advertisements appear and if you receive any error messages.
-    * **Analytics cookies  
-** The Sites use Google Analytics, a web analytics service provided by Google, Inc. (“ **Google** ”). Google Analytics uses “cookies”, which are text files placed on your computer, to help us analyse how users use the Sites. The information generated by the cookie about your use of the Sites (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymisation, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent by us to and shortened by Google servers in the USA. On behalf of us, Google will use this information for the purpose of evaluating your use of the Sites, compiling reports on website activity for us and providing other services relating to website activity and internet usage to us. Google will not associate your IP address with any other data held by Google.  
-The Sites may use other similar analytics cookies. These cookies are used to collect information about how visitors use the Sites. The information is collected anonymously, and used to report on the number of visitors to the Sites, where the visitors have come from, and the pages they have visited.  
-Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout?hl=en-GB). Further information can be found under <http://www.google.com/analytics/terms/gb.html> (Google Analytics Terms of Service & Privacy). Please note that on the Sites, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking). Also, you can prevent Google Analytics to collect such data on behalf of Wargaming by clicking on the following link:  
-<https://tools.google.com/dlpage/gaoptout>.
-    * **Functionality cookies  
-** Functionality cookies are used to remember choices you make (such as language preference, country location, or other online settings) and collect anonymous information.
-    * **Targeting or advertising cookies  
-** Third-party targeted advertising cookies may be placed on your device by third-party advertisers, ad networks, data exchanges, marketing analytics and other service providers. **  
-**Third-party targeted advertising cookies collect information about your browsing activity across multiple websites and online services (e.g., about the sections of the websites you visit, the products you are interested in) in order to provide you with relevant advertisements on the websites and online services of third parties. Ad networks may share this information with the advertisers using their network. The information collected using these third-party advertising cookies does not disclose your identity, but will be used to identify you across multiple websites. We can use third party advertising services the list of which you can find at[ http://worldoftanks.eu/en/content/docs/disclosure](http://worldoftanks.eu/en/content/docs/disclosure/ "http://worldoftanks.eu/en/content/docs/disclosure/"). You can opt out from their services via the instructions and/or links available at their websites or by contacting them directly.
-  4. If you wish to refuse the use of cookies by us or by third parties, you can change your browser settings to reject cookies. As the means by which you can do this varies from browser to browser, please visit your web browser's "Help" menu for further details. Please note that, should you choose to refuse the use of cookies by us, this might impair some of the functionality of the Sites and the Services.
 
+**3.2. INFORMATION SECURITY**
 
+We and our employees understand the need for user privacy, and we maintain reasonable and appropriate security procedures to protect your information from loss, misuse and unauthorised access, disclosure, alteration and destruction, taking into due account the risks involved in the processing and the nature of the Personal Data. 
 
-## **5.  How we use your information**
+**3.3. PROCESSING INFORMATION BY THIRD PARTIES**
 
-We may use the information that you provide to us or that we collect about you for the following purposes:
+We may share Personal Data with our affiliates, subsidiaries, vendors or agents working on our behalf for the purposes described in this Policy. For example, we may hire companies to assist with protecting and securing our systems or services. Any vendor or agent that we retain must comply with our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose. Those companies may be located outside of the European Economic Area. Read more in Section 6 “How we share your information”.
 
-  1. Provision of services. Account Data, Tracking Data and Content Data may be collected and processed by us to provide you with the Services that you request from us and to perform the respective EULA and [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/) accepted by you. Data collected for that purpose will only be kept as long as necessary to provide the requested Services, and to comply with applicable laws.
-  2. Any data collected may be processed by us to detect, investigate and prevent activities that may be illegal, or that may violate the [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/) or Forum Rules, or that may violate the respective EULA or Game Rules in respect of any of the Games. Such data will be kept for a maximum duration of six months after the Account closure.
-  3. Creation of additional promotion and advertising and creation of user profiles:  
+**3.4. CHILDREN**
 
-    * **We may use the e-mail address registered to your Account to provide you with information about products and services related to our Services that you request from us, unless you choose to opt out from this service at the time your Account is created.   You may also opt-out from use of your e-mail address for this purpose at any time, by sending an e-mail from the e-mail address registered to your Account to **[ **privacy@wargaming.net**](mailto:privacy@wargaming.net) **  stating that you do not wish to receive such information. Alternatively, you may opt out by following the unsubscribe instructions at the bottom of each e-mail you receive from us.**
-    * **We may use Tracking Data to monitor, improve, or modify the Services and our operations.**
-    * **We may create a “personal user profile” by connecting your Account Data with your Tracking Data for purposes of improving, or modifying the Services and our operations and, for our own promotions, advertising and market research.**
+We recognise that we have a special obligation to protect personal information obtained from children. We will not knowingly collect Personal Data from any child, or process such information, without parental consent. For the purpose of this Policy, a child means any individual who is under the age of 18 (or the minimum legal age to consent to the collection and processing of Personal Data where this is different under applicable law).
 
+**3.5. DATA RETENTION**
 
+We keep most of your Personal Data gathered and processed for the purposes described in this Policy for as long as you continue to use our Services, e.g. you have an activated Account in one of our Games. We will delete your Personal Data after you request your Account deletion and the grace period of 45 (forty-five) calendar days, during which we can restore your Account, expires. The process of erasing your Personal Data can take up to one month from expiry of the grace period and, considering the complexity and number of requests, may be extended by a further two months. Read more in Section 7.4 “Right to erasure”.
 
-## **  6** **. Sharing your information**
+**3.6. GAMES NOT USING THE ACCOUNT**  
+Some of the Games do not use the Account. You will not be able to exercise your rights with regard to those Games through the Account Management. For this reason, we are offering you other tools to export your Personal Data, delete it, and object to our use of your Personal Data in accordance with Section 7 “Your rights”, as well as to manage your subscriptions.  
+Also, there are some differences in the Personal Data that we collect about users of the Games for which the Account is created and users of other Games, for example, for “World of Warships Blitz”. For example, we do not collect your phone number and email address if you use the Games for which the Account is not created.  
+With regard to the Games that do not use the Account, you can exercise your rights by filing a request to that effect to Customer Support or as otherwise indicated in the respective Game.  
+Where such function is available, you may link to your Account some of the Games that do not use the Account. Please note that control over your Personal Data in such Games is separate from control over your Personal Data relating to your Account. So, to delete your Personal Data in “World of Warships Blitz” you will need to contact Player Support as suggested in this Game, while deletion of the Personal Data relating to your Account shall be performed through the Account Management.
 
-  1. We will not share your personal data with anyone else unless in the following limited circumstances: 
-    * To the extent that we are required to do so by applicable law, by a governmental body or by a law enforcement agency, or for crime prevention purposes.
-    * Where necessary to enforce the [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/) or [Forum Rules](http://forum.worldoftanks.eu/index.php?/forum-40/announcement-124-forum-rules/), or the ** ** EULA ** ** or Game Rules in respect of any of the Games, to provide you with Services you request from us, to protect the safety of our users and third parties, to protect our rights and property and the rights and property of other users and third parties, or in other cases if we believe in good faith that disclosure is required by law.
-    * We may disclose and allow access to information collected through our Services to facilitate the targeting, delivery, and measurement of advertising through and in connection with the Service: to facilitate the targeting, delivery, and measurement of online advertising on third-party services on our behalf; and otherwise to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to our users.
-    * Where necessary to provide you with Services you request from us, we may share your personal data with third parties who provide services to us, including to countries outside the European Economic Area. You can find the list of such third parties at [http://worldoftanks.eu/en/content/docs/disclosure](http://worldoftanks.eu/en/content/docs/disclosure/ "http://worldoftanks.eu/en/content/docs/disclosure/").
-  2. We may share anonymous information, i.e. information which does not directly or indirectly disclose your identity, and aggregated information (meaning information about groups and categories of users, including game statistics and behaviour, but which does not identify and that cannot reasonably be used to identify any individual user) with our advertising partners, the list of which you can also find at [http://worldoftanks.eu/en/content/docs/disclosure](http://worldoftanks.eu/en/content/docs/disclosure/ "http://worldoftanks.eu/en/content/docs/disclosure/"). We may also allow our advertisers to collect anonymous information and aggregated information within the Services and they may then share that information with us. Our advertisers may collect this information through the use of tracking technologies like cookies and web beacons. This enables our advertisers to develop and deliver targeted advertising in the Services and on the websites of third parties, so that they can try to serve you with advertisements for products and services that are most likely to be of interest to you. Advertisers will also use this information to monitor, improve, or modify their operations.
+**4\. INFORMATION WE COLLECT**
 
+In relation to your use of our Services, we gather information either directly from you (when you provide information to us) or indirectly (e.g. through our Site’s technology).
 
+**4.1. INFORMATION WE COLLECT DIRECTLY**
 
-## **7\. Children**
+We collect Personal Data and other information that you voluntarily provide. It is entirely your decision to provide the requested information. However, your use of certain Services is possible only if you provide required information, e.g. while creating an Account.
 
-We recognise that we have a special obligation to protect personal information obtained from children. We will not knowingly collect personal information from any child, or process such information, without parental consent. For the purpose of this Policy, a child means any individual who is under the age of 18 (or the minimum legal age to consent to the collection and processing of personal information where this is different under applicable law).
+**Account Data**
 
-## **8.  Security**
+When setting up an Account, you may be asked to provide Personal Data including, but not limited to, your name, email address and telephone number.
 
-  1. We take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Our employees, contractors and agents may be given access to your personal information which we collect, but their use shall be limited to the performance of their duties in relation to facilitating your use of the Services. Our employees, contractors and agents who have access to your personal information are required to keep that information confidential and are not permitted to use it for any purposes other than those listed above or to deal with requests which you submit to us. 
-  2. We have implemented all reasonable technical, administrative and physical security measures to protect the security of your information.
+**Content Data**
 
+We may obtain your Personal Data when you register for and use our other Services, e.g. game forums, chats, or when you provide feedback about our Services. This data includes: 
 
+  * Information that you post, comment or like in any of the Games-related forums owned or operated by Wargaming (“Forums”), on the pages of social network groups operated by Wargaming, and on the Sites; 
+  * Information sent through the “game-chat” functionality in the Games, including through in-Game voice chat; 
+  * Information you provide when you request information or support from us or purchase a product or service from us, including information necessary to process your orders with the relevant payment merchant, which may include the amount of any transaction, but will not include your financial information, which will only be submitted directly to the payment merchant under secure protocols; 
+  * Information other than the Account Data you provide to us when participating in competitions, contests, tournaments, at offline events, responding to surveys, e.g. your contact details; 
+  * Information that you provide to us to become a participant of alpha-tests, super tests, and UX tests. 
 
-## **9.  Third party sites**
 
-The Services may contain links to other websites operated and services provided by third parties, including those retailers you enter into a transaction with. Please note that this Policy applies only to the personal information that we collect through the Services and we cannot be responsible for personal information that third parties may collect, store and use through their websites or their services. You should always read the privacy policy of each website you visit carefully.
 
-## **10.   **Your rights****
+**4.2. INFORMATION WE COLLECT INDIRECTLY**
 
-In addition to your opt-out right under section 4.2, you may exercise the following rights at any time:
+We indirectly collect a variety of information through your interaction with and use of our Games, Sites and other Services.  
+This information may include, but is not limited to, anonymized browser and device information (both software and hardware), data collected through automated electronic interactions, application usage data, demographic information, geographic, geo-location information, statistical and aggregated information (“ **Other Information** ”). Statistical or aggregated information does not directly identify a specific person, but it may be derived from Personal Data. For example, we may aggregate Personal Data to calculate the percentage of users in a particular country. If Other Information is combined with Personal Data, we will treat the combined information as Personal Data.
 
-  * You may ask us to provide you with copies of the personal information that we hold about you, or with information about the processing of such information.
-  * You may ask us to update and correct any out-of-date or incorrect personal information that we hold about you.
+**4.2.1. Tracking Data and Cookies**
 
+We and our partners, such as marketing partners and analytics providers, use “ **Cookies** ”, which are text files placed on your computer, to help us analyse how users use our Services, and similar technologies (e.g. web beacons, pixels, ad tags and device identifiers) to recognise you and/or your device(s) on, off and across different devices and our Services, as well as to improve the Services we are offering, to improve marketing, analytics or website functionality. The use of Cookies is standard on the internet. Although most web browsers automatically accept cookies, the decision of whether to accept or not is yours. You may adjust your browser settings to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to access the full functionality of our Sites.
 
+Website traffic volume and patterns, such as the number of visitors to a given website or page on a daily basis is typically referred to as “ **Tracking Data** ”. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that “serve up” web pages, automatically identify your computer by its IP address. When you visit any of our Sites, our servers log your computer’s IP address.
 
-If you wish to exercise any of these rights, then please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net). If you ask us to delete personal information about you then we may retain an archived copy of this information if required to do so by law.
+For more information about the names of the cookies used on our Sites, the cookie provider (Wargaming, third-party analytics partner, or third-party advertising partner), the purpose of the cookie (necessary for website to function, performance, or marketing), and the cookie life cycle please see <http://legal.eu.wargaming.net/en/cookies/>.
 
-## **11\. Changes to this Policy**
+**4.2.1.2. How to delete cookies and opt out of targeted advertising and analytics**
 
-We may change this Policy from time to time for various reasons such as changes to reflect in law and regulation, changes in industry practices and technological developments. In case you have a registered Account, you will be notified of any changes of this Policy via e-mail to the e-mail address related to your Account. The latest version of this Policy will always be available on the Sites. Any new version of this Policy shall take effect (i) immediately upon the date of your receipt of the notification e-mail where the changes to this Policy relate to non-material changes which do not reduce your rights; or (ii) no less than thirty (30) days after your receipt of the notification e-mail where the changes to this Policy potentially reduce your rights; or (iii) in case you do not have a registered Account, the moment they are uploaded to our Services.
+Like most online services, we and our partners use cookies and similar technologies to provide and personalize the Service, analyse use, target advertisements and prevent fraud. You can disable cookies in your browser settings, but some parts of the Service may then not function properly.
 
-## **12.  Questions and comments**
+If you wish to limit behaviourally targeted advertising, you can do so by limiting ad tracking in your device settings. Please note that opt-outs are specific to each browser and device and it may take a little bit of time before your opt-out will take effect.
 
-If you have any questions or comments about this Policy, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net).
+For mobile advertising in apps, you can reset your Advertising Identifier and depending on your device, select to opt out of interest-based ads (Android) or turn on the Limit Ad Tracking setting (iOS).
+
+For display advertising on the Web, you can also adjust your browser settings to limit certain tracking by means of cookies (e.g. [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en) for Chrome), and by visiting the following sites: <http://www.aboutads.info/choices> and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+We also work with a number of other analytics and ad serving partners within our mobile apps and websites. These partners can use cookies, web beacons, and other tracking technologies to collect or receive data about you and might claim controller rights over your personal data. For more information about their privacy practices and opt-out possibilities, please visit the links below.
+
+Google  
+Privacy Policy: <https://policies.google.com/privacy>
+
+Facebook  
+Privacy Policy: <https://www.facebook.com/about/privacy>
+
+Yandex  
+<https://yandex.com/support/metrica/general/opt-out.xml>
+
+Unity Technologies  
+Privacy Policy: <https://unity3d.com/legal/privacy-policy>
+
+**4.2.2. Game-Related Information**
+
+In order to provide you with efficient services, we need to collect, store and use various information about your activity in our Games. “ **Game-Related Information** ” includes your in-game identifier, which for most of our Games is known as “Wargaming ID”, as well as what is usually referred to as “game statistics”. By “game statistics” we mean information about your Games preferences, progress in the Games, participation and performance in clans, frequency of playing.
+
+**4.2.3. Device Information and Geo-Location**
+
+In order to fix crashes and other technical issues that may arise while you are installing the Games and using our Services, as well as to make our Services more suitable for you, we collect, store and use information about the device you are using the Services on, including what type of device it is, what hardware and operating system you are using, the device settings, unique device identifiers, and crash data (if any). Whether we collect some or all of this information often depends on what type of device you are using and its settings. You may also install applications collecting and using additional data required for fixing crashes, errors and other technical issues arising during your use of the Services, e.g., Wargaming Game Center and Wargaming Check.
+
+To make Services more suitable for you and only upon your permission we can also collect your precise GPS location from mobile devices is collected only with your permission. Wi-Fi and IP addresses received from your browser or device may be used to determine approximate location.
+
+**4.2.3. Information required for fraud and violations detection**
+
+We may also collect certain data (like IP address, username, etc.) that is required for our detection, investigation and prevention of cheating in the Game and EULA violations. This data, being used only for the purposes of detection, investigation and prevention of frauds and cheating in the Game is deleted six months after its collection, unless the data can be used to prove that cheating has occurred. If the data can be used to prove that cheating or another fraud or EULA violation has occurred, we will further store the data for the establishment, exercise or defence of legal claims during the applicable statute of limitations. Please note that the specific data stored for this purpose may not be disclosed to you or any third parties, since the disclosure will compromise the mechanism through which we detect, investigate and prevent frauds and cheating in the Game, as well as other EULA violations. 
+
+**4.2.4. Information from publicly available online resources**
+
+We may use the information made publicly available, e.g. through YouTube, vk.com, Facebook, Instagram and Twitter, in order to find out your opinion about Games and Services, so that we could take them into account while improving our Services. Such data collection can be carried by Wargaming independently, or received from our partners making analysis of public sentiments on various issues, e.g., from Hootsuite Media Inc.
+
+**4.2.5. Information from our partners**
+
+In some cases, Wargaming receives your personal data as a data processor, which means that the data is controlled by our partners and we use it only in accordance with their instructions and applicable laws. We use this data in order to fulfil our obligation under the EULA, improve the Servcies, and when processing is required in order to comply with a legal obligation to which we are subject.
+
+**Payment partners.** When you purchase virtual items, virtual currency, or time-limited premium memberships with your credit card, we may receive from our payment partners and process a part of your credit card number, information about your credit card issuer, as well as your full address for billing purposes;
+
+**Co-Promotion Partners. In order to provide you with in-game items and/or in-game currency for participation in various loyalty programs, we may also receive information from our partners, such as telecommunication companies (e.g., Rostelecom), banks (e.g., Alfa-Bank), cashback partners (e.g., Kopikot), travel agencies (e.g. Biletix), and others;**
+
+**Platforms.** We also receive and use your identifiers on other platforms like PlayStation®4, Xbox 360 and Xbox One, App Store, Google Play Store, so that you can play our gGames through these platforms;
+
+**Social networks.** We have registered certain Games-related group accounts and pages at vk.com, Facebook, Twitter, Reddit, and other social networks to better communicate with our players in case they have questions about the Services, as well as prefer to learn about news about the Services through the social networks. Also, we get information relating to your profiles on social networking sites in order to allow integration with such social networking sites, e.g., your name, avatar, and date of birth, if you link a third party tool with our Services.
+
+**5\. HOW WE USE YOUR INFORMATION**
+
+We need to process your Personal Data in order to perform the contract with you according to Article 6(1)(b) of the GDPR. As a user, we will use your Personal Data, unless otherwise prohibited by law, for the following purposes:
+
+  * to provide you with the Services you request, i.e., to ;allow your installation of the Games, operate the Services and verify and confirm your payments; 
+  * to communicate with you about your Account or transactions with us and send you information about features on our Sites or changes to our policies; 
+  * to provide support including, but not limited to, product updates, product patches and fixes and other similar communications; 
+  * to arrange your travel, receipt of gifts and awards, to which you may be entitled as a result of winning an offline competition, etc. 
+
+
+
+**5.1. COMMUNICATION PURPOSES**
+
+We will use your Personal Data for our legitimate interests according to Article 6(1)(f) of the GDPR to advertise our products and services in accordance with this Policy. Namely, once you have created an Account we may use your email address, nickname, IP address, mobile phone number, in order to send you personalized marketing emails, messages, targeted in-game and web offers about Games. Also, if you opt-in, we will send you personalized marketing emails, messages and in-game and web offers about Wargaming offline events, co-projects of Wargaming and its partners, as well as about Wargaming games, not using Wargaming ID.
+
+**5.2. IN-GAME OFFERS**  
+We will also use the Game-Related Information to send you in-game offers that we believe are most useful to you. To make the offer we first collect Game-Related Information from various players, identify patterns in their behaviour, and create algorithms that identify pools of players following the pattern or particular players who follow the pattern. To those players who actually follow the pattern – we send the in-game offers, which can be personalized (i.e., we want the in-game offer to reach you or a relatively small number of players specifically) or non-personalized (i.e., we want the in-game offer to reach a large number of players following a pattern). We make sure that such offers never have any significant impact on you or our other players. For example, we may notice that you are a player who is very good at playing with French vehicles and has registered the account more than five years ago: so, we may specifically offer you the new French vehicle for rent, but in any case not more expensively than it is offered to other users. You can unsubscribe from personalized in-Game offers through our Account Management tool.
+
+**5.3. SERVICES IMPROVEMENT PURPOSES**
+
+We analyse your information to identify how to improve the Services and our operations to make them more suitable and interesting for our players in general. We also may ask you to respond to our Services-related questionnaires, and you always have the choice about whether to respond to them and which information you provide.
+
+**5.4. FRAUD AND EULA VIOLATIONS DETECTION**
+
+We use the information required for our detection, investigation and prevention of cheating in the Game and violations of EULA and Game Rules and policies only for the purposes of detection, investigation and prevention. If the data can be used to prove that cheating or another fraud or EULA violation has occurred, we will further store the data for the establishment, exercise or defence of legal claims during the applicable statute of limitations.
+
+**6\. HOW WE SHARE YOUR INFORMATION**
+
+For the performance of a contract with you, compliance with a legal obligation to which we are subject, and based on our legitimate interests, we may share your personal data with the following categories of third parties:
+
+  1. **Payment partners:** we share your email address, IP address, information about in-game purchases requested by you at Wargaming’s web-sites, and other information you provide to us for the purpose of fulfilling your purchase and withdrawal requests with such companies as Adyen BV, PW Inc., PayPal (Europe) Sarl & Cie, “Yandex.Money”, NBCO LLC; 
+  2. **Advertising and advertising measurement partners:** we share your email, nickname, IP address and other information you provide to us in order to facilitate targeting, delivery, and measurement of online advertising on third-party services, facilitate transmittal of information that may be useful, relevant, or of interest to you, e.g.. allowing you to get rewards for viewing in-Games advertisements with such companies as Emarsys UK Ltd, Unity Technologies APS; 
+  3. **Data storage partners:** we store some of your information using third-party data storage services, e.g., while some of your Game-related information is stored using Google Cloud Platform (BigQuery), as well the services of Amazon Web Services, Inc., G-Core Labs S.A.; 
+  4. **Software providers:** proper Services rendering requires us to use software solutions of third parties, e.g., for our in-Games questionnaires, including storage of your replies, we use the software of Widgix, LLC dba Survey Gizmo, to provide you with easy access to your game statistics we use software of Mixpanel, Inc.; 
+  5. **Research partners:** we may provide access to some of your data, such as your Game statistics, to provide marketing-related and other research. We share anonymous data with our partners unless your personal data is necessary for the requested services or research; 
+  6. **Player Support partners:** for some territories and products we engage third parties to provide you with appropriate player support services. Such companies may get access to your personal data, including personal data that you may provide in your player support requests. Such partners include Zendesk Inc, iOpex Technologies Inc.; 
+  7. **Developers of applications based on the Game:** we make your nickname and some of your Game statistics available to other players and our partners through Public API. The data can be used for developing and support of the applications created by the Game community, mobile applications, e.g. World of Tanks Assistant, authorized mods to the Games. Public API enables us to improve your gaming experience, fulfil potential of our community, and put use of our players’ statistics under our control by creating rules and requirements for their use by other players and community; 
+  8. **Information available to other players:** making your nickname and game statistics available to other players through our Services is an important part of making players’ experience more enjoyable. If you are banned in a Game based on other players’ complaints, we may inform them about the ban. Please note that members of your clan have access to a bigger amount of your game statistics than others; 
+  9. **Publicly available information:** our Sites may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with each other. When posting a message to a board, forum or chat area, please be aware that the information is being made publicly available on-line; therefore, you are doing so at your own risk. Your nickname and game statistics may also become available within Games replays and other videos, which Wargaming or other players may generate and put online. Please do not include into your nickname any data that can identify you personally. To change your nickname please contact Player Support; 
+  10. **External moderators and testers:** some limited data about you (such as your nickname, content of player support ticket) may become available to third party volunteering moderators and testers who contribute to providing you with better Services, e.g. to quickly respond to your questions about the Games. 
+  11. **Anti-cheat and anti-fraud companies:** we may share the information required for our detection, investigation and prevention of cheating in the Games and EULA violations only for the purposes of detection, investigation and prevention of cheating in the Game. Such partners include ACI Worldwide (EMEA) Ltd., UK; 
+  12. **Logistics partners:** to arrange your trips (e.g., as an eSports player) and deliver the prizes you may be entitled to thanks to use of your Services, we can share your post address and other required details with our logistics partners or ask you to share that data with our logistics partners directly; 
+  13. **Third-party websites:** you can choose to log into some websites using Wargaming OpenID. In this case we pass to the websites your nickname and your profile link. Please check our Player Support articles on OpenID for more details and note that Wargaming does not control further use of this data by third-party websites, i.e., we cannot request their erasure of your data; 
+  14. **Game Developers and Change of Publisher:** Wargaming is the data controller with regard to certain Games developed by third parties and published by Wargaming. Such developers can process certain data required for the Games’ and other Services’ further improvement, e.g., to Game-Related Information. Should Wargaming transfer the right to publish such or other Games and other related Services to a third party, the new publisher will have the right to continue using your data in the manner substantially the same as set out in this Privacy Policy unless you are specifically informed otherwise. 
+  15. **Public authorities and auditors:** some personal data shall be disclosed to public authorities, e.g., tax and customs authorities, auditors, and other competent parties, in accordance with Union or Member State law; 
+  16. **Wargaming subsidiaries and affiliates:** as a global company, we collect information that may be processed in our offices worldwide. Your information may also be processed outside of the European Economic Area, e.g. in the United States, the Republic of Belarus, or any other country in which we, our affiliates or subsidiaries maintain presence. 
+  17. **Change of control:** we may share your data as part of our company’s sale, merger or change in control, or in preparation for any of these events. Any entity which buys us, or part of our business will have the right to continue using your data, but only in the manner set out in this Privacy Policy unless you are specifically informed otherwise. 
+
+
+
+When your personal data is shared with Wargaming affiliates and subsidiaries, as well as third parties outside the European Union or the European Economic Area, Wargaming guarantees an adequate level of personal data protection, including but not limited to, by entering into standard data protection clauses adopted by the European Commission with Wargaming affiliates and subsidiaries, as well as such third parties. We will provide you with a copy of the standard data protection clauses upon your request.
+
+**Sharing anonymous information.** We also may share anonymous information, i.e. information which does not directly or indirectly disclose your identity, and aggregated information (meaning information about groups and categories of users, including game statistics and behaviour, but which does not identify and that cannot reasonably be used to identify any individual user) with our advertising partners. We may also allow our advertisers to collect anonymous information and aggregated information within the Services and they may then share that information with us. Our advertisers may collect this information through the use of tracking technologies like cookies and web beacons. This enables our advertisers to develop and deliver targeted advertising in the Services and on the websites of third parties, so that they can try to serve you with advertisements for products and services that are most likely to be of interest to you. Advertisers will also use this information to monitor, improve or modify their operations.
+
+**7\. YOUR RIGHTS**
+
+To allow you to exercise your data protection rights in a simple way we have improved the Account Management tools available [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). If you are using a demo account, you will only be able to fully control our use of your data after you create the Account [here](http://wargaming.net/) or – for Console Games – [here](https://console.worldoftanks.com/). This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. Please visit it to make choices about which direct communications you would like to receive, as well as to exercise your rights to data access, data erasure and objection to data processing.
+
+**7.1. OPT-OUT OF DIRECT MARKETING AND RIGHT TO OBJECT**
+
+You can manage your subscriptions to direct marketing through our Account Management tool. Please note that even if you unsubscribe from all our personalized marketing emails, messages, in-game and web- offers, we will still send you some notifications (we often refer to them as “transactional”), e.g. to confirm purchases or changes in your Account, give warranty or security information, information about changes to the EULA, Terms of Service and Privacy Policy, as well as will show to you non-personalized marketing in-game and web offers. We will be able to stop all communications only after your Account is deleted. Also, even after you have unsubscribed from our in-game and web offers, you may still see them within the Games and on some web-sites: that would mean that such offers are shown to everyone or to a very broad audience or to a very broad audience and are not specifically directed to you.
+
+You can opt-out of personalized advertising in mobile applications, including our mobile Games, by checking the privacy settings of your Android or iOS device and selecting “limit ad tracking” (Apple iOS) or “opt-out of interest-based ads” (Android). You can adjust your mobile push notifications in your Android or iOS device settings menu.
+
+Where processing of your Personal Data is based on legitimate interests according to Article 6(1)(f) of the GDPR, you can use your right to object at any time. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing or the data is necessary for the establishment, exercise or defense of legal claims.
+
+**7.2. RIGHT OF ACCESS**
+
+You have the right to access your Personal Data that we hold about you, i.e. the right to require free of charge (i) information whether your Personal Data is retained, (ii) access to and/or (iii) duplicates of the Personal Data retained. You can use the right to access to your Personal Data through the “Data Export” tool available in the Account Management tools [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). Normally, we provide the duplicate of the Personal Data retained within 30 (thirty) days upon your request. Once the archive with the Personal Data we retain is ready, you will be able to download in it from our resources. If the request affects the rights and freedoms of others or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs of providing the information or communication or taking the action requested) or refuse to act on the request. We also will not be able to provide you with some Personal Data that you may post or provide using our Services regardless of our request not to provide the Personal Data in this particular field, website, etc. 
+
+**7.3. RIGHT TO RECTIFICATION**
+
+You control which nickname, email, phone number, country, social networks accounts, trusted sites and payment methods we associate with your Account. If they change, please modify the data in the Personal Account directly. Please inform us if any of the Personal Data we retain about you is inaccurate. 
+
+**7.4. RIGHT TO ERASURE**
+
+You have the right to obtain deletion by us of Personal Data concerning you by deleting your Account via our “Account Deletion” tool available in the Account Management tools [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/).
+
+As a result of deleting your Account, you will lose access to most Services, including the Account and Game-Related Information linked to the Account, subscriptions to Wargaming forums and the possibility to access other services you are using the Account for. 
+
+**Grace period.** We allow you to restore your Account during a grace period of 45 (forty-five) days from the moment you request deletion of your Account. This functionality allows you not to lose various Game-Related Information and other important information and options by mistake. During the suspension period, we will be able to finalise financial and other activities that you may have initiated before sending the Account deletion request. 
+
+**No payments after Account deletion.** As a result of deleting your Account, you will lose the possibility to make payments in the Premium Shop, including during the grace period. Should any payment be made after Account deletion due to a technical error or for any other reason, we will refund the amount paid by you and will not grant you the rights to the respective Additional Features.
+
+**Complicated Account deletion.** In some cases, deletion of your Account, and therefore Personal Data deletion, is complicated. Namely, if you are a clan commander in the Games, it is highly likely that you will only be able to delete your Account after you have transferred the clan and placed it under the command of another user or dissolve the clan. In some cases, considering the complexity and number of the requests, the period for Personal Data erasure may be extended, but for no longer than two further months.
+
+**Earlier Personal Data deletion.** We store most Personal Data we retain about you until you request deletion of your Account through the Account Management tools. However, certain Personal Data is deleted even while you have a valid Account. For example, we will delete:
+
+  * your Contact Data, clothes sizes, colour preferences, etc., you have provided for customisation, or for us to send you an award or arrange travel to one of our events, within 45 (forty-five) days after us sending the award to your address; 
+  * the data about you that we have collected in the course of alpha-tests, super tests, UX tests, surveys, analysis of publicly available sentiments in social networks such as YouTube, Facebook, vk.com, at onsite events: within no longer than 45 (forty-five) days after completion of the data analysis, data aggregation and generating of the reports for our Services improvement; 
+  * technical logs such as records of communication between Services, access logs, errors logs: normally within 45 (forty-five) days after their creation. 
+
+
+
+**Information we retain.** Upon expiry of the suspension period we will delete all Personal Data about you, except for the data that are required for our compliance with the requirements of applicable laws (e.g. tax and accounting requirements) or for our detection, investigation and prevention of cheating in the Game and EULA violations. We will also retain anonymous information after your Account has been closed. Information you have shared with others (e.g. through in-Games chats, updates or group posts) will remain visible after you closed your account or deleted the information from your own profile or mailbox, and we do not control data that other Members copied out of our Services. Groups content associated with closed accounts will show an unknown user as the source. Your profile may continue to be displayed in the services of others (e.g. search engine results) until they refresh their cache.
+
+You also have the right to lodge a complaint at a supervisory authority.
+
+**8\. WE CAN CHANGE THIS POLICY**
+
+We may change this Policy from time to time for various reasons, such as legal and regulatory changes, changes in industry practices and technological developments that need to be reflected.
