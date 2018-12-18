@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsonline.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613215607id_/https%3A//www.jobsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsonline.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218222020id_/https%3A//www.jobsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobsonline
 
