@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wormate.io privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620073625id_/https%3A//wormate.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormate.io privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218224829id_/https%3A//wormate.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 **Your privacy is critically important to us**
 
-Our servers log very basic information about each computer connecting to our site, such as IP address, device characteristics, and browser type. None of this information is associated with any identified person at the time it iscollected, but it could potentially be tied to you somehow if we are required to disclose our server logs as a result of a subpoena or other legal process.
+Our servers log very basic information about each computer connecting to our site, such as IP address, device characteristics, and browser type. None of this information is associated with any identified person at the time it is collected, but it could potentially be tied to you somehow if we are required to disclose our server logs as a result of a subpoena or other legal process.
 
 **Cookies and Other Automatically Collected Data**
 
@@ -22,6 +22,12 @@ Wormate.io may occasionally update this privacy policy at any time. All changes 
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+**Targeted advertising**
+
+If you wish to “opt out” of certain targeted advertising, please visit [youradchoices](https://www.youradchoices.com/) and/or [networkadvertising](https://www.networkadvertising.org/)
+
 **Change log:**
 
- _May 1, 2016:_ This document has been created
+ _Sep 2, 2018:_ Targeted advertising info added
+
+_May 1, 2016:_ This document has been created
