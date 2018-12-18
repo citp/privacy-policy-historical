@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webscribble.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618173313id_/http%3A//www.webscribble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webscribble.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218180139id_/http%3A//www.webscribble.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Scribble
 
