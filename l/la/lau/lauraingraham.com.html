@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the lauraingraham.com privacy policy that was archived on 2018-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610032214id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lauraingraham.com privacy policy that was archived on 2018-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181218091258id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 <link rel="P3Pv1" href="/w3c/p3p.xml">
 <title>LauraIngraham.com: Privacy Policy</title>
 <meta http-equiv="Pragma" content="no-cache">
@@ -45,7 +45,20 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="/pg/jsp/common/utils/stylesheet.jsp">
 <link rel="stylesheet" href="/pg/jsp/common/utils/js/mediaelement/mediaelementplayer.css">
-<script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=016640766149288926899:wz6fe79qosw"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=016640766149288926899:wz6fe79qosw"></script><script src="/pg/jsp/common/utils/js/jquery/jquery-3.3.1.min.js"></script>
+<script src="/pg/jsp/common/utils/js/jquery/jquery-migrate-3.0.0.min.js"></script>
+<script type="text/javascript">
+	// This is here for old jquery plugins (basically jquery.ba-bbq at this point)
+    jQuery.browser = {};
+    (function () {
+        jQuery.browser.msie = false;
+        jQuery.browser.version = 0;
+        if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+            jQuery.browser.msie = true;
+            jQuery.browser.version = RegExp.$1;
+        }
+    })();
+</script>
 <script type="text/javascript">
 $.noConflict();
 </script>
@@ -205,12 +218,12 @@ function openInNewTab(url) {
 			<div class="floatRight"><div class="addthis_horizontal_follow_toolbox"></div></div>
 			<div class="floatRight" style="margin-right:15px;">
 				<form action="/search-results" style="margin:0;padding:0;">
-					<input type="text" name="q" placeholder="Search" class="top-site-search">
+					<input type="text" name="q" placeholder="Search" class="top-site-search" aria-label="Search">
 				</form>
 			</div>
 		</div>
 		<div class="top-menu-logo border-standard content-bg floatContainer">
-			<div class="top-logo floatLeft"><a href="/"><img src="/images/redesign2/laura_ingraham_logo.png" style="display:block;"></a></div>
+			<div class="top-logo floatLeft"><a href="/"><img src="/images/redesign2/laura_ingraham_logo.png" style="display:block;" alt="Laura Ingraham, your healthy radio adiction"></a></div>
 			
 			<ul class="top-menu cell-container">
 				
@@ -329,7 +342,7 @@ function openInNewTab(url) {
 					<br><br class="smBR">
 					<b>Disputes.</b> LauraIngraham.com Privacy Policy disputes are handled by its customer service team with the highest concern for your privacy.
 					<br><br class="smBR">
-					<b>LauraIngraham.com Links.</b> LauraIngraham.com may contain links to websites not owned or controlled by LauraIngraham.com. LauraIngraham.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the <a href="/pg/jsp/help/general/termsconditions.jsp" class="linksSmall">Terms of Service Agreement</a>.
+					<b>LauraIngraham.com Links.</b> LauraIngraham.com may contain links to websites not owned or controlled by LauraIngraham.com. LauraIngraham.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the <a href="/pg/jsp/help/general/termsconditions.jsp;jsessionid=90D78DF6B53F53803938BEB9D15B73F4" class="linksSmall">Terms of Service Agreement</a>.
 					<br><br class="smBR">	
 					<b>A Special Note about Children.</b> Children are not eligible to use our services and LauraIngraham.com asks that minors (under the age of 18) do not submit any personal information to LauraIngraham.com. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 					<br><br class="smBR">	
@@ -483,8 +496,8 @@ function openInNewTab(url) {
 				</div>			
 				<div class="bottom-newsletter-subscribe">
 					<form method="post" action="/newsletter">
-					<div class="header">Get Your Daily Fix</div>
-					<div style="margin-top:10px;"><input type="email" name="submitemail" placeholder="email address"> <input type="submit" class="button" value="Get It"></div>
+					<div class="header" id="get-your-daily-fix">Get Your Daily Fix</div>
+					<div style="margin-top:10px;"><input type="email" name="submitemail" placeholder="email address" aria-labelledby="get-your-daily-fix"> <input type="submit" class="button" value="Get It"></div>
 					</form>
 				</div>
 			</div>
@@ -499,7 +512,50 @@ function openInNewTab(url) {
 <!-- Begin iTunes Affiliate Code -->
 <script type="text/javascript">var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '10l9He']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src='https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();</script>
 <!-- End iTunes Affiliate Code -->
+
+<script type="text/javascript">
+	jQuery(function(){		
+		var topLogo = jQuery('.top-logo').find('img');
+		var topHamburger = jQuery('.hamburger-container').find('svg');
+		var topSearch = jQuery('.top-search-social').find('input[type="text"]').attr('aria-label', 'Search');
+		var iconHolder = jQuery('.icon-holder').find('svg').attr('aria-label', 'icon');
+		var listenLive = jQuery('.listen-live').find('img').attr('alt', 'On air, listen live! Call Laura: 8550-40-LAURA or Send Laura an Email');
+		jQuery('img').each(function(i,e){
+			var image = jQuery(e);
+			if(image.attr('src').indexOf('clear') > -1) image.attr('alt', 'Clear');
+			if(image.attr('src').indexOf('spacer') > -1) image.attr('alt', 'Spacer');
+			if(image.attr('src').indexOf('expandarrow') > -1) image.attr('alt', 'Expand');
+			if(image.attr('src').indexOf('close') > -1) image.attr('alt', 'Close');
+			if(image.attr('src').indexOf('feedback') > -1) image.attr('alt', 'Feedback');
+			if(image.attr('src').indexOf('camera') > -1) image.attr('alt', 'Camera');
+			if(image.attr('src').indexOf('laura') > -1) image.attr('alt', 'Laura');
+		});
+		
+		topLogo.attr('alt', 'Laura Ingraham, your healthy radio adiction');
+		topHamburger.attr('aria-label', 'Menu');
+
+		jQuery(document).ajaxStop(function() {  						
+			jQuery('img').each(function(i,e){
+				var image = jQuery(e);
+				var src = image.attr('src');
+				if(src.indexOf('clear') > -1){
+					image.attr('alt', 'Clear');
+				}
+				if(src.indexOf('openquotes') > -1){
+					image.attr('alt', 'Open quote');
+				}				
+				if(src.indexOf('closedquotes') > -1){
+					image.attr('alt', 'Close quote');
+				}				
+				if(src.indexOf('icon') > -1){
+					image.attr('alt', 'Icon');
+				}				
+			});
+		});
+	});
+</script>
 	
+
 <div id="dhtmltooltip"></div>
 
 
