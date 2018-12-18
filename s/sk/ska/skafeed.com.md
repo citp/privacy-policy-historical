@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skafeed.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619080324id_/http%3A//www.skafeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skafeed.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218200308id_/http%3A//www.skafeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skafeed - Fashion Blog
 
 The privacy of our users is of upmost importance here at skafeed. This is the place to find out how we look after your privacy and what non-personally identifiable information we use to target our advertisements.
 
- **Skafeed Privacy Statement**
+**Skafeed Privacy Statement**
 
 Internet user privacy is of paramount importance to Skafeed. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding Skafeed’s commitment to protect the privacy of users and ensure the integrity of the Internet.
 
