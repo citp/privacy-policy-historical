@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owensworld.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618061357id_/http%3A//www.owensworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owensworld.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218110613id_/http%3A//www.owensworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | | Owens World
 
