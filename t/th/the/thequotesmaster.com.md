@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thequotesmaster.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509114723id_/http%3A//thequotesmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thequotesmaster.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218234802id_/http%3A//thequotesmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Quotes Master
 
