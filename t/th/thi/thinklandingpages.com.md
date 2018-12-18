@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinklandingpages.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618101537id_/http%3A//www.thinklandingpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinklandingpages.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218175614id_/http%3A//www.thinklandingpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Think Landing Pages
 
