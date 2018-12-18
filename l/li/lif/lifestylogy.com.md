@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lifestylogy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211823id_/http%3A//lifestylogy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylogy.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218163158id_/http%3A//lifestylogy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lifestylogy
 
-Effective as of October 1, 2015
+Effective as of June 1, 2017
 
 This Privacy Policy governs the manner in which Lifestylogy.com, a Florida corporation (“Lifestylogy”) collects, uses, maintains and discloses information collected from users (“you,” “your,” or “User”) of its www.Lifestylogy.com website, platforms, applications, and any derivative or affiliated websites on which this Privacy Policy is posted (collectively, the “Site”).  Lifestylogy reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy at any time by posting such changes to this page.  You understand that you have the affirmative obligation to check this Privacy Policy periodically for changes, and you hereby agree to periodically review this Privacy Policy for such changes.  The continued use of the Site following the posting of changes to this Privacy Policy constitutes an acceptance of those changes.   
 Lifestylogy is based, and this website is hosted, in the United States of America.  If you are from the European Union, Canada or other regions of the world with laws governing data collection and use that may differ from U.S. law and you are registering an account on the Site, visiting the Site, purchasing products or services from Lifestylogy or the Site, or otherwise using the Site, please note that any personally identifiable information that you provide to Lifestylogy may be transferred to or utilized by Lifestylogy or its affiliates in the United States.  Any such personally identifiable information provided may be processed and stored in the United States by Lifestylogy or a service provider acting on its behalf.   
@@ -27,9 +27,8 @@ Lifestylogy will not sell, trade, lend or otherwise voluntarily disclose any per
 
 Your personal information may be accessed by affiliates of Lifestylogy, such as our parent company, subsidiaries, or joint ventures, that are currently with us or have the potential to be with us in the future. These affiliates are obligated to honor this Privacy Policy. If another company obtains Lifestylogy, that company will then possess your personal information. However, they too are under strict obligation to honor the claims of this privacy policy. Third parties that work with Lifestylogy may receive submissions you make through the website, which may end up being published on their sites or platforms. This information includes your account name, but not your personal information, unless it was listed in the submission.  
 Information related to user behavior may be disclosed to third parties in connection with a present or future business partnership. This includes information relating to users that have clicked advertising banners and the number of users visiting our site.  
-When you visit Lifestylogy, you will see advertisements from third parties displayed on the site. Information about your visit to the site may be used by these companies, not including your name, email address, or telephone number. This helps them choose advertisements that you would find most interesting. If you would like more information about not having your information used by third parties, please visit: http://www.networkadvertising.org/managing/opt_out.asp.  
-Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.Lifestylogy.com to prepare reports on its activities and share them with other Google services.  
-Google may use the data collected to contextualize and personalize the ads of its own advertising network.  
+When you visit Lifestylogy, you will see advertisements from third parties displayed on the site. Information about your visit to the site may be used by these companies, not including your name, email address, or telephone number. This helps them choose advertisements that you would find most interesting. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website: <http://www.networkadvertising.org/managing/opt_out.asp>.  
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.Lifestylogy.com to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network.  
 Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s privacy policy here.
 
 **4\. Cookies and Web Beacons**
@@ -61,6 +60,10 @@ We have taken the necessary measures to conform to the Children’s Online Priva
 
 This Privacy Policy is subject to modifications at any time. Any modifications will be posted to this page. You will be notified via email if any changes regarding the distribution of your personal information are made.
 
-**10\. Contacting Us**
+**10\. Affiliate Partnerships**
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. Lifestylogy.com participates in various affiliate marketing programs, which means Lifestylogy.com may get paid commissions on purchases made through our links to retailer sites.
+
+**11\. Contacting Us**
 
 If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please use the [contact from](http://lifestylogy.com/contact-us/) to contact us.
