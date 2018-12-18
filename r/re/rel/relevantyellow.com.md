@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619094836id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218174550id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
 
 # RelevantYellow verified business directory. Get a free optimized local business profile page.
 
