@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603140458id_/http%3A//www.thedeal.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218221531id_/http%3A//www.thedeal.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Welcome to The Deal
 
-PRIVACY POLICY
+PRIVACY POLICIES 
 
-LAST UPDATED: November 14, 2016
+LAST UPDATED: August 03, 2018
 
 * * *
 
-TheStreet, Inc. and its affiliates, including The Deal, LLC, BoardEx, LLC and Management Diagnostics Limited, (“ **TST** ,” “ **we** ,” “ **us** ” or “ **our** ”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through our websites currently located at TheDeal.com and any other website operated by us from which you are accessing this Privacy Policy (the “ **Websites** ”), through the software applications made available by us for use on or through computers and mobile devices in connection with which you are accessing this Privacy Policy (the “ **Apps** ”), and through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites and the Apps, the “ **Services** ”). By providing Personal Information to us or using the Services, you agree to this Privacy Policy.
+TheStreet, Inc. and its affiliates, including The Deal, LLC, BoardEx, LLC and Management Diagnostics Limited, (“ **TST** ,” “ **we** ,” “ **us** ” or “ **our** ”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through our websites currently located at TheDeal.com, BoardEx.com and any other website operated by us from which you are accessing this Privacy Policy (the “ **Websites** ”), through the software applications made available by us for use on or through computers and mobile devices in connection with which you are accessing this Privacy Policy (the “ **Apps** ”), and through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites and the Apps, the “ **Services** ”). By providing Personal Information to us or using the Services, you agree to this Privacy Policy.
 
 ## PERSONAL INFORMATION
 
@@ -123,9 +123,9 @@ We use reasonable organizational, technical and administrative measures designed
 
 We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-  *  **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the instructions contained in each such email or contacting us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com).
-  *  **Our sharing of your Personal Information with affiliates for their direct marketing purposes** : If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by writing to us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com).
-  *  **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes** : If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by writing to us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com).
+  *  **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the instructions contained in each such email or contacting us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com) or [HelpDesk@BoardEx.com](mailto:HelpDesk@BoardEx.com).
+  *  **Our sharing of your Personal Information with affiliates for their direct marketing purposes** : If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by writing to us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com) or [HelpDesk@BoardEx.com](mailto:HelpDesk@BoardEx.com).
+  *  **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes** : If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by writing to us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com) or [HelpDesk@BoardEx.com](mailto:HelpDesk@BoardEx.com).
 
 
 
@@ -133,7 +133,7 @@ We will try to comply with your request(s) as soon as reasonably practicable. Pl
 
 ### How you can access, change or suppress your Personal Information
 
-If you would like to review and change or update the name, email address and/or password associated with your account, you may do so by: for The Deal properties, calling us at 1-888-667-3325 or writing to us at customerservice@thedeal.com. If you would like to suppress or delete Personal Information that you have previously provided to us, you may do so by contacting us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com) .
+If you would like to review and change or update the name, email address and/or password associated with your account, you may do so by: for The Deal properties, calling us at 1-888-667-3325 or writing to us at customerservice@thedeal.com; and for BoardEx properties, by logging into your account. If you would like to suppress or delete Personal Information that you have previously provided to us, you may do so by contacting us at [customerservice@thedeal.com](mailto:customerservice@thedeal.com) or [HelpDesk@BoardEx.com](mailto:HelpDesk@BoardEx.com).
 
 In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion.
 
