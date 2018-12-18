@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ump.edu.my privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615115833id_/http%3A//www.ump.edu.my/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ump.edu.my privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218155500id_/http%3A//www.ump.edu.my/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Portal - Universiti Malaysia Pahang (Malaysia University) - Public University in Pahang, Malaysia
 
