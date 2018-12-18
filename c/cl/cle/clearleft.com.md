@@ -1,63 +1,42 @@
-> *The following text is extracted and transformed from the clearleft.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100721id_/http%3A//www.clearleft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearleft.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218151546id_/https%3A//clearleft.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Clearleft Web Design and Accessibility Consultants
+# Strategic Design & Innovation Consultancy | Clearleft
 
-This privacy statement covers the website www.clearleft.com.
+### Customer Service
 
-If users have questions or concerns regarding this statement, they should first contact [Richard Rutter](mailto:rich@clearleft.com) or telephone +44 (0)845 838 6163.
+We communicate with users on a regular basis to provide requested services and about issues relating to their account. We reply via email or phone.
 
-##  Information Collection and Use
+### Sharing
 
-###  Information Collection
-
-Clearleft Ltd is the sole owner of the information collected on the Clearleft website. We collect information from our users at several different points on our website.
-
-###  Log Files
-
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
-
-##  Communications from the Site
-
-###  Customer Service
-
-We communicate with users on a regular basis to provide requested services and about issues relating to their account. We reply via email or phone. 
-
-##  Sharing
-
-Clearleft does not pass on or sell information about our customers to any other business or organization. The only exception to this is wherewe are legally obliged to do so to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+Clearleft does not pass on or sell information about our customers to any other business or organisation. The only exception to this is where we are legally obliged to do so to comply with a current judicial proceeding, a court order or legal process served on our website.
 
 ### Business Transitions
 
-In the event Clearleft Ltd goes through a business transition users will be notified via a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used differently from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+In the event Clearleft Ltd goes through a business transition, users will be notified via a prominent notice on our website for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used differently from that stated at the time of collection, they will be given choice consistent with our notification of changes section.
 
-###  Choice/Opt-out
+### Contact Permissions
 
-Users who no longer wish to receive promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or email us at [info@clearleft.com](mailto:info@clearleft.com), telephone on +44 (0)845 838 6163, or write to Clearleft Ltd, 8 Bristol Gardens, Brighton, BN2 5JR, UK.
+Users who no longer wish to receive the promotional communications that they signed up for via the Leading Design mailing list may opt-out of receiving these communications by hitting the unsubscribe button at the bottom of our most recent marketing email, replying with ‘unsubscribe’ in the subject line of the email, emailing us at [info@clearleft.com](mailto:info@clearleft.com), phoning +44 (0)845 838 6163, or writing to Clearleft Ltd, 68 Middle Street, Brighton, BN1 1AL, UK.
 
-### Links
+### Analytics
 
-Our website contains links to other sites. We are not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this website.
+We use Google Analytics and Adwords data in a basic, user-focused way, mainly in aggregated data reports for assessing acquisition, behaviour and conversions.
 
-### Surveys & Contests
+Google Analytics has a comprehensive policy on [data privacy and security](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008). This gives us control over areas including customizable cookie settings, privacy controls, data sharing settings, data deletion on account termination. We will always act to minimise data collection, processing and storage in line with our Data Culture Manifesto and Privacy Policy.
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address), and business information. Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties. 
+Google Analytics sets out [best practices to avoid sending Personally Identifiable Information (PII)](https://support.google.com/analytics/answer/6366371?hl=en&ref_topic=2919631) — we are satisfied that in following these we are minimising risks related to PII of persons visiting our website(s) being held by Google Analytics.
 
-### Security
+Google Analytics has, on 11th April 2018, introduced data retention controls, which allow us to control data minimisation and determine how long user and event data for our website(s) is held on GA’s servers on a lawful basis in relation to the reasonable requirements of our business. As of 8th May 2018 we have set data retention at the minimum period of 14 months for all Clearleft owned sites set up with Google Analytics.
 
-Our website takes every precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line.
+### Newsletter
 
-All our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment 
+We use [](https://mailchimp.com/legal/privacy/)[Tiny Letter](https://www.tinyletter.com/) to send out our fortnightly newsletter. If you sign up for the newsletter, Tiny Letter's parent company—Mailchimp—will process your data. You can read [their comprehensive privacy policy](https://mailchimp.com/legal/privacy/).
 
-### Correcting/Updating/Deleting/Deactivating Personal Information
+If you sign up to the newsletter, we will only ever use your email address to send you the newsletter—never for any other purpose. We will not share your email address with any third party. You can unsubscribe from the newsletter at any time—an unsubscribe link is included at the bottom of each newsletter. You can also make a request to find out what data we are storing, namely:
 
-If a user's personally identifiable information changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the by emailing [info@clearleft.com](mailto:info@clearleft.com).
+  * your email address, and
+  * the date you signed up for the newsletter.
 
-### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. 
-
-### Contact Information
-
-If users have any questions or suggestions regarding our privacy policy, please contact us by phone on +44 (0)845 838 6163, by email on [info@clearleft.com](mailto:info@clearleft.com) or by post at 8 Bristol Gardens, Brighton, BN2 5JR, UK.
+That's it.
