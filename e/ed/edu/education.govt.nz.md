@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.govt.nz privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524233934id_/http%3A//www.education.govt.nz/footer/legal-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.govt.nz privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218052504id_/http%3A//www.education.govt.nz/footer/legal-and-privacy) for the most accurate reproduction.*
 
 # Legal and privacy | Education in New Zealand
 
@@ -17,7 +17,7 @@ Ministry of Education
 PO Box 1666  
 Wellington 6140
 
-or email [privacy@education.govt.nz](mailto:privacy@Education.govt.nz).
+or email [health.safety.security.privacy@education.govt.nz](mailto:health.safety.security.privacy@education.govt.nz).
 
 For more information on privacy, please visit the [Privacy Commissioner's website (external link) ](http://www.privacy.org.nz/ "Open external link").
 
@@ -35,4 +35,4 @@ You can manually disable cookies at any time - check your browser's "Help" to fi
 
 Publication of email addresses on this site should not be taken as deemed consent to receiving unsolicited email. Persons or organisations wishing to send email material to individuals or organisations whose email addresses appear on this website must comply with the requirements of the [Unsolicited Electronic Messages Act 2007 (external link) ](http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Services-Anti-Spam-Index?OpenDocument&ExpandView#three "Open external link").
 
-Last reviewed: 11 April 2016 Has this been useful? [Give us your feedback](http://www.education.govt.nz/ministry-of-education/regional-ministry-contacts/your-feedback/)
+Last reviewed: 13 November 2018 Has this been useful? [Give us your feedback](https://www.education.govt.nz/our-work/regional-ministry-contacts/your-feedback/)
