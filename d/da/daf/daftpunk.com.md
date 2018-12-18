@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daftpunk.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128155824id_/https%3A//www.daftpunk.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daftpunk.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218235756id_/https%3A//daftpunk.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Daft Punk / Créme LA
+# Privacy Policy | Daft Punk
 
 PRIVACY STATEMENT
 
