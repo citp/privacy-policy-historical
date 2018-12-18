@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbolab.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916041544id_/https%3A//www.symbolab.com/public/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbolab.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218032836id_/https%3A//www.symbolab.com/public/privacy.pdf) for the most accurate reproduction.*
 
 # EqsQuest Privacy Policy
 
