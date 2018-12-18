@@ -1,71 +1,67 @@
-> *The following text is extracted and transformed from the robynsonlineworld.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925094316id_/http%3A//www.robynsonlineworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robynsonlineworld.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218185541id_/http%3A//robyns.world/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — RobynsOnlineWorld.com
+# Privacy Policy – Robyns.World
 
-**What information do we collect?**
+## Privacy Policy
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
+Who we are: Robyn’s World: a personal blog created by Robyn Wright.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+Our website address is: http://robyns.world
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Last updated: May 18, 2018
 
-**What do we use your information for?**
+## What personal data we collect and why we collect it
 
-Any of the information we collect from you may be used in one of the following ways:
+**Comments**
 
-; To personalize your experience
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-(your information helps us to better respond to your individual needs)
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-; To improve our website
+**Media**
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-; To improve customer service
+**Contact forms**
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Any contact information submitted via a contact form will be used for Robyns.World and/or any specific other companies or services mentioned on the form. Robyns.World does not sell collected information to anyone.
 
-; To administer a contest, promotion, survey or other site feature
+**Cookies**
 
-**How do we protect your information?**
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-**Do we use cookies?**
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+**Embedded content from other websites**
 
-**Do we disclose any information to outside parties?**
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**Third party links**
+**Analytics**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Robyns.World uses various analytical tools to see who is visiting the blog. The primary analytic service is Google Analytics. However, I also use some other programs and services by sponsors and brands and services who may also require data collection from our blog.
 
-**Online Privacy Policy Only**
+Your data is retained by Robyns.World for the default logs for the analytics programs. If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-**Your Consent**
+**What rights you have over your data**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**Changes to our Privacy Policy**
+**Where we send your data**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+Visitor comments may be checked through an automated spam detection service.
 
-**Contacting Us**
+**How we protect your data**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+Robyns.World uses the latest updates and programs available to help protect your data.
 
-www.RobynsOnlineWorld.com
+## Privacy Policy Questions?
 
-Missouri
-
-USA
-
-This policy is powered by Free Privacy Policy and Rhino Support web-based [support software](http://www.rhinosupport.com/).
+Please contact Robyn if you have any questions about the privacy policy.
