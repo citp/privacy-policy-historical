@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigbosstamil.net privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407160641id_/http%3A//www.biggbosstamil.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbosstamil.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218220045id_/http%3A//www.biggbosstamil.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BiggBossTamil.NeT
+# Privacy Policy - BigBossTamil.NeT
 
 ## Privacy Policy
 
