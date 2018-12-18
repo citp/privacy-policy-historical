@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odditysoftware.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617232749id_/http%3A//www.odditysoftware.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odditysoftware.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218123801id_/http%3A//www.odditysoftware.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Oddity Software - Privacy Policy
 
