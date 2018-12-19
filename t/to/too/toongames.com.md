@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toongames.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524070520id_/http%3A//www.toongames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toongames.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219064015id_/http%3A//www.toongames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ToonGames.com
 
