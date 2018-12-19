@@ -1,26 +1,99 @@
-> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023620id_/http%3A//www.se7ensins.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219082220id_/https%3A//www.se7ensins.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Se7enSins Gaming Community
+# Privacy Policy | Se7enSins Gaming Community
 
-Se7enSins Privacy Policya
+  
+  
 
-**Se7enSins Privacy Policy and Terms of Use**  
- 
 
-  * Se7enSins.com recognizes that you care about the personal information that is held about you and how that is used.
-  * This privacy policy applies to all personal data, submitted by you, to the Se7enSins.com web site. If you do not want to disclose any information, you have the ability to not fill in any information.
-  * By registering to Se7enSins.com you need to submit a chosen username and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us, nor is asked by us. Any payments sent to the site is through Paypal or other 3rd parties.
-  * Se7enSins.com stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks (Google Adsense cookie, DoubleClick DART cookie, Google Analytics cookie), may place a tracking cookie on your machine and access it at any time during your session. Our tracking cookies help us determine the behavior of users on the site allowing us to customize the site for better user experiences. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as Se7enSins.com. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
-  * Se7enSins.com will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant United States legislation. Se7enSins.com and it's owners may utilize your contact email for future projects related or unrelated to Se7enSins.
-  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel ([Personal Details link](http://www.se7ensins.com/forums/account/personal-details) in user dropdown) in the forums and much of it can be hidden to public if you chose to do so.
-  * You have a legal right for the personal information held at Se7enSins.com to be updated if it is incorrect or deleted if you choose. Deletion is up to you and the profile information can be deleted, removed or changed. All of this (removal of personal information) can be done through your Control Panel/Settings in the forums.  **We do not delete user accounts nor is it an option to**. If you are having issues with this, please contact us if you need help. You also have the ability to change your username if you feel the username you picked impedes on your privacy.
-  * Se7enSins.com will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. **However, we make no warranty to this**. We do our best and have a security team watching the site 24/7. We do not tolerate trading or obtaining any personal information by unauthorized users on or off of Se7enSins.com
-  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on Se7enSins.com. If you are under 13, we will ban the account, restricting your access to the site.
-  * Information that is found on this website is for educational purposes only. Please view, download, and use at your own risk. Information on the site is submitted by the end-user and we make no warranty to the safety of the information, external links or downloads. By using the site, we are not to be held responsible for any damages this may cause.
-  * By posting, you grant Se7enSins.com non-exclusive rights to publish content (posts, visitor messages, etc.) you create here. This non-exclusive right means that you must obtain a court order if you decide you don't want it published on our site any longer.
-  * If you do not want us to collect your information per California 2014 Privacy Law, please do not use our message forum. By joining, you understand the above information will be collected or stored on our servers or 3rd party services.
-  * **This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes.**
+Oh noes! An ad should be here.
+
+We are Se7enSins Gaming Community ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20181219082220id_/https%3A//www.se7ensins.com/help/misc/contact).
+
+## What information we hold about you
+
+The type of data that we collect and process includes:
+
+  * Your username.
+  * Your email address.
+  * Your IP address.
 
 
 
-[ ](https://web.archive.org/forums/)
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
+
+We collect some or all of this information in the following cases:
+
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile that are optional.
+
+
+
+## How your personal information is used
+
+We may use your personal information in the following ways:
+
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site as well as keeping you logged in.
+  * We may use your email address to inform you of activity on our site. There are opt-in and opt-out options in your [account settings](https://www.se7ensins.com/account/).
+  * Your IP address is recorded when you perform certain actions on our site. **Your IP address is never publicly visible**. This is used on the backend for security and board rules purposes.
+
+
+
+## Other ways we may use your personal information.
+
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+## Third Party Processors
+
+Third parties may be used to process a minimum amount of personal data on our behalf. The third party's in question are listed below along with what they are used for and links to their privacy policies. These third parties have been carefully chosen and it is our belief and understanding that all of them comply with current GDPR legislation.
+
+  * Sucuri (Secure Browsing) [Privacy Policy](https://sucuri.net/privacy)
+  * AdminGeekz (Server Management and Security) [Privacy Policy](https://www.admingeekz.com/privacy.php)
+  * PayPal (Invoicing & Payments) [Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full)
+  * Google Fonts (Licensed fonts) [Privacy Policy](https://policies.google.com/privacy)
+  * Font Awesome (Licensed fonts) [Privacy Policy](https://fontawesome.com/privacy)
+  * Social Logins (Easy Registration and Logging In): 
+    * [Facebook Privacy Policy](https://www.facebook.com/policy.php)
+    * [Twitter Privacy Policy](https://twitter.com/en/privacy)
+    * [Google+ Privacy Policy](https://policies.google.com/privacy)
+    * [Steam Privacy Policy](https://store.steampowered.com/privacy_agreement/)
+  * Amazon SES (Transactional emails and newsletters) [Privacy Policy](https://aws.amazon.com/privacy/)
+
+
+
+## Keeping your data secure
+
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access (to the site or on your account) or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20181219082220id_/https%3A//www.se7ensins.com/help/help/cookies).
+
+## Your rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [create a new ticket](https://www.se7ensins.com/tickets/new). If you believe that the information we hold for you is incomplete or inaccurate, you may [create a new ticket](https://www.se7ensins.com/tickets/new) to ask us to complete or correct that information if you are unable to change it via the [account settings](https://www.se7ensins.com/account/) page.
+
+You also have the right to request the erasure (Our [GDPR Right to Erasure](https://www.se7ensins.com/help/gdpr_erasure) page) of your personal data. Please [create a new ticket](https://www.se7ensins.com/tickets/new) if you would like us to remove your personal data. You may be requested to provide further information based on the [GDPR Right to Erasure](https://www.se7ensins.com/help/gdpr_erasure) page we've provided to verify your identity.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy, [TOS](https://www.se7ensins.com/help/terms), [Board Rules](https://www.se7ensins.com/help/board_rules), and [Cookie Useage/Policy](https://www.se7ensins.com/help/cookies).
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
+
+  * [__](https://www.twitter.com/se7ensins "Twitter")
+  * [__](https://www.facebook.com/Se7enSins "Facebook")
+  * [__](http://www.twitch.tv/se7ensins "Twitch")
+  * [__](https://www.youtube.com/user/se7ensins "Youtube")
+
+
+
+[ ](https://www.se7ensins.com//forums)
