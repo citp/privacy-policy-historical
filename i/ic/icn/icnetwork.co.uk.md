@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icnetwork.co.uk privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616231016id_/https%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icnetwork.co.uk privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219012441id_/https%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Mirror Online: The intelligent tabloid. #madeuthink
+# Privacy Statement - Daily Mirror
 
 **WHO WE ARE**
 
