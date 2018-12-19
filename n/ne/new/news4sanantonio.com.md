@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news4sanantonio.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075641id_/http%3A//news4sanantonio.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news4sanantonio.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219055044id_/https%3A//news4sanantonio.com/station/privacy) for the most accurate reproduction.*
 
 # San Antonio Privacy | News, Weather, Sports, Breaking News | WOAI
 
