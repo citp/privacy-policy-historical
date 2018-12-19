@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628125032id_/https%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219022453id_/https%3A//www.gardenweb.com/privacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -154,7 +154,7 @@ You may also mail us at our address at 285 Hamilton Avenue, Palo Alto, Californi
 
 ## 11\. International Transfers of Personal Information
 
-The Houzz group is a global organization, headquartered in the United States, with service providers, corporate affiliates, and operations in several countries. In order to provide you with the services you sign up for by creating a Houzz account or visiting our Platform, your personal information will be transferred to and processed in the United States (or any other country where we, our corporate affiliates, agents, and service providers operate). Data protection laws differ among jurisdictions, and the United States and these other jurisdictions may not provide the same level of protection for personal information as your jurisdiction of residence. If you are from the European Economic Area ("EEA") and we transfer your personal information to countries outside of the EEA, we will take appropriate steps to ensure your personal information is afforded the same level of protection as described in this Privacy Policy. Learn more.
+The Houzz group is a global organization, headquartered in the United States, with service providers, corporate affiliates, and operations in several countries. In order to provide you with the services you sign up for by creating a Houzz account or visiting our Platform, your personal information will be transferred to and processed in the United States (or any other country where we, our corporate affiliates, agents, and service providers operate). Data protection laws differ among jurisdictions, and the United States and these other jurisdictions may not provide the same level of protection for personal information as your jurisdiction of residence. If you are from the European Economic Area ("EEA") and we transfer your personal information to countries outside of the EEA, we will take appropriate steps to ensure your personal information is afforded the same level of protection as described in this Privacy Policy. If you are located in the EEA or Switzerland, we comply with all legal requirements for the transfer of personal information to countries outside of the EEA or Switzerland. [Learn more about our participation in the Privacy Shield Frameworks](https://help.houzz.com/s/article/Privacy-Shield-Frameworks?language=en_US).
 
 ## 12\. Legal Basis for Processing Personal Information (European Economic Area)
 
@@ -168,12 +168,12 @@ In some regions, such as the EEA, you may have certain rights in relation to you
 
 You can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us as provided in the Contact Us section. You also can deactivate your profile and obtain a copy of your information through your [settings](https://www.houzz.com/settingsAdvanced).
 
-You can complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+You can complain to a data protection authority about our collection and use of your personal information in relation to the General Data Protection Regulation (GDPR). For more information, and to submit a GDPR complaint, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
 
 Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request.
 
-Effective May 25, 2018
+Effective May 25, 2018 with changes to Section 11 effective September 5, 2018 
 
-[ Click here for the prior version (modified February 23, 2017) ](https://www.houzz.com/c-doc/6056)
+[Click here for the prior version from May 25, 2018](https://www.houzz.com/c-doc/6533)
