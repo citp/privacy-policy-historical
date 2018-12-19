@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financesumit.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614151759id_/http%3A//financesumit.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financesumit.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219053327id_/http%3A//financesumit.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | Provide financial market information
 
