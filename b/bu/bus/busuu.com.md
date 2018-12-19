@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617025805id_/https%3A//www.busuu.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219024413id_/https%3A//www.busuu.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - busuu
 
@@ -95,7 +95,7 @@ We display your Profile information (except for your email address and password)
 
 
 
-We will share your data including email addresses with other data processors such as Facebook, Google and Snapchat to provide targeted advertising. We also use analytical tools which in some cases may see your personal data such as IP addresses. In some of these cases the data is transferred out of the EEA.
+We may share your data including email addresses with other data processors such as Facebook, Google, Braze and Snapchat to provide targeted advertising. For users with a Premium membership sponsored through an organisation we will not share your data for advertising purposes. We also use analytical tools such as Intercom, Braze and Amplitude which in some cases may see your personal data such as IP addresses. In some of these cases the data is transferred out of the EEA.
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
@@ -117,9 +117,7 @@ busuu limits access to personal information about you to employees who busuu rea
 
 busuu has physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you. However, data transmissions over the internet cannot be guaranteed to be 100% secure. Consequently, busuu cannot ensure or warrant the security of information you transmit to busuu. In particular, by accessing and using the Service, you do so at your sole risk and you are responsible for restricting access to your computer and ensuring that your computer is free from all types of malicious code, spyware, viruses, Trojans, etc. that may track any data you enter into the Service, including email address and payment related information. We are not responsible for any loss or damage arising from the user’s failure to comply with this paragraph.
 
-However, when you pay for a Paid Service, busuu uses secure payment service providers to make sure that your payments are secure. 
-
-**10\. THIRD-PARTY WEBSITES**
+However, when you pay for a Paid Service, busuu uses secure payment service providers to make sure that your payments are secure.
 
 Where the Site, or any other part of the Service, links to other websites, such other websites do not operate under this Privacy Policy. busuu recommends that you examine the privacy statements posted on such other websites to understand their procedures for collecting, using, and disclosing personal data. 
 
@@ -140,8 +138,8 @@ If you wish to exercise any of the rights set out above, please contact us as de
 
 **12\. CONTACTING BUSUU**
 
-busuu is the trading name of Busuu Limited with registered address at 10 East Road, London, N1 6AD.
+busuu is the trading name of Busuu Limited with registered address at 50 Finsbury Square, London, EC2A 1HD.
 
 You may obtain a copy of the personal data held about you that you provide through the Site or otherwise request that busuu updates, makes changes or deletes personal information by sending an email to [privacy@busuu.com](mailto:privacy@busuu.com). If you have any questions or suggestions regarding our Privacy Policy, you can contact busuu by email at [privacy@busuu.com](mailto:privacy@busuu.com). 
 
-Last updated: April 2018
+Last updated: October 2018
