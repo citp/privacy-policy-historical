@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsu.org privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618121342id_/http%3A//www.psu.edu/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsu.org privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219192051id_/http%3A//www.psu.edu/web-privacy-statement) for the most accurate reproduction.*
 
 # Privacy and Legal Statements
 
