@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620100150id_/http%3A//vi.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219131711id_/http%3A//vi.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Body by Vi 90-Day Challenge
 
