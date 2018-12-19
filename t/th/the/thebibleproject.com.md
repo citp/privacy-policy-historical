@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebibleproject.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131063930id_/https%3A//thebibleproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebibleproject.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219160611id_/https%3A//thebibleproject.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bible Project
 
