@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191706id_/https%3A//www.cancer.gov/policies/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219180828id_/https%3A//www.cancer.gov/policies/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security - National Cancer Institute
 
@@ -12,7 +12,7 @@ Your visit to the NCI website is private and secure. When you visit the NCI webs
 
 When you browse through any website, certain information about your visit can be collected. NCI uses the Adobe Omniture Web Analytics, Google Analytics, and Crazy Egg programs to collect information automatically and continuously. We use this information to measure the number of visitors to our site and its various sections and to distinguish between new and returning visitors to help make our site more useful to visitors. However, no personally identifiable information (PII) is collected.
 
-The NCI staff conducts analyses and reports on the aggregated data from Adobe Omniture Analytics, Crazy Egg, and Google Analytics. The reports are only available to NCI website managers, members of their Communications and Web Teams, and other designated staff who require this information to perform their duties.
+The NCI staff conducts analyses and reports on the aggregated data from Adobe Analytics, Crazy Egg, and Google Analytics. The reports are only available to NCI website managers, members of their Communications and Web Teams, and other designated staff who require this information to perform their duties.
 
 NCI also uses online surveys to collect opinions and feedback from a random sample of visitors. Cancer.gov uses the Qualtrics online survey tool to obtain feedback and data on visitors’ experiences on the Cancer.gov website. These surveys do not collect PII. Although the survey invitation is presented to a random sample of visitors, it is optional. If you decline the survey, you will still have access to the identical information and resources on Cancer.gov site as those who do not take the survey. The survey reports are available only to Cancer.gov managers, members of the Cancer.gov Communications and Web Teams, and other designated staff who require this information to perform their duties.
 
