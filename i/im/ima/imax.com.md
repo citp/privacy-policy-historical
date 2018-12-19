@@ -1,182 +1,180 @@
-> *The following text is extracted and transformed from the imax.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102011841id_/https%3A//www.imax.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imax.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219175226id_/https%3A//www.imax.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IMAX
 
-### Our Commitment to Privacy
+PRIVACY POLICY
 
-IMAX Corporation and its subsidiaries and affiliates (collectively, “IMAX” or “we”) value your time, respect your privacy, and seek to earn your trust. We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website (the “Website”).
+The IMAX Privacy Policy was last updated on May 22, 2018.
 
-We collect information about you through the Website in an effort to improve your IMAX experience and to tell you about our products, services, contests and promotions. Your trust is essential to us, and we are not in the business of selling or renting information about our customers to others.
+Your privacy is important to IMAX. We created this Privacy Policy to document our ﬁrm commitment to privacy and to handling your information in accordance with applicable data protection laws. This Privacy Policy covers how we collect your personal information (such as your name, address, email and telephone details) and how that information, together with any other personal information that you provide to us, may be used, disclosed, transferred and stored by us.  In relation to this website, this Privacy Policy should also be read in conjunction with our [Cookies Policy](http://imax.com/content/cookies-policy).
 
-In line with these values, our privacy policy may change from time to time. If it does, we will post an updated policy on the Website and change the “last updated” line above. For this reason, we ask that you check periodically to review our policy for such changes.
+If you are located in the European Economic Area, for the purposes of applicable data protection legislation, IMAX Corporation is the data controller of personal information collected from you. Please see the Privacy Questions section below for further details.
 
-If you have any unanswered questions about our privacy policy, click this [info@imax.com](mailto:info@imax.com) to reach our Privacy Officer.
+1\. What personal information we collect
 
-### What kind of personal information does IMAX collect?
+Personal information is data relating to a natural person who can be identified either directly from the data itself or indirectly together with other information. Examples of the personal information that IMAX may collect include your name, e-mail address, postal address, phone number, business contact details, gender, birthday, and personal interests. We may also collect online identifiers relating to your use of IMAX websites.  These could include, for example, details of your visits to the website, traﬃc data, weblogs and other communication data, your Internet Protocol (IP) address, operating system and browser type, referring/exit pages, date/time stamp and clickstream data, and your Internet Service Provider.
 
-We may collect personal information from you, such as your name, e-mail address, postal address, phone number, gender, birthday, and personal interests, when you visit the Website, save your information with us online, contact us with a question or concern, participate in a contest, promotion, or survey, or communicate with us in any other way.
+2\. How we collect your personal information
 
-We may collect your Internet Protocol (IP) address to help identify you, gather broad demographic information about users of the Website, diagnose problems with our systems, and administer the Website.
+You may be asked to provide your personal information anytime you are in contact with IMAX or any member of our group, which means IMAX Corporation and its subsidiaries. IMAX and any member of our group may share this information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. You are not required to provide the personal information that we request, but, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to any queries you may have.
 
-You represent and warrant that any information you provide to us is your true and correct information.
+Here are some examples of how we collect personal information from you:
 
-### How does IMAX collect this information?
+  * \- When you register with us on an IMAX website and provide us your contact information;
+  * \- When you subscribe to the IMAX email newsletter through the IMAX website and provide your email address and postal code/zip code;
+  * \- If you enter an IMAX contest, competition or similar promotion and provide your contact information;
+  * \- When you post on an IMAX social media channel (including on Facebook, Reddit, Instagram and Twitter). If you use these social media channels, please remember that any information you post is available for others to see and in each case, is subject to the privacy terms of the applicable social media providers;
+  * \- When you report a problem with our website or services;
+  * \- When you participate in a customer research, satisfaction or other survey that we use for research purposes; and
+  * \- If you participate in a customer video or other testimonial used for research and advertising purposes.
 
-We receive and store any information from your visits to the Website or that you give us in any other way.
 
-As is true of most web sites, we gather and store certain information automatically, including IP addresses, browser types, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. This information does not identify individual users, and is used to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
-To do this, we use ‘cookies’ or alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide features that improve the performance of the Website for you. If you are concerned about cookies, the “help”, “options” or “preferences” functions on most browsers will allow you to limit or disable cookies altogether. However, cookies allow you to take full advantage of our interactive features, and we recommend that you leave them turned on.
+Note that, when you use an IMAX website, we or our providers receive and may store information automatically, including Internet Protocol (IP) addresses, browser types, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  Furthermore, if you [_**contact us**_](mailto:privacy@imax.com) for any other reason, we may keep a record of that correspondence.
 
-To ensure we are sending our e-mails to the right address, we may receive a confirmation when you open e-mail from us if your computer supports such capabilities.
+3\. How we use personal information we collect
 
-Last, to provide customer service, we might receive information about you from other sources and add it to our account information. We also sometimes receive address information from these sources to correct our records and contact you more easily.
+We will hold, process and disclose your personal information for the following purposes and in accordance with the bases set out below:
 
-We will correct any personal information we store whenever possible and delete stale information on an ongoing basis and are very happy to hear from you to ensure that our information is as complete and accurate as possible.
+Purpose(s) for processing
 
-### How does IMAX use your personal information?
+| 
 
-By submitting personal information and registering on the Website, you acknowledge and agree that your personal information may be used by IMAX for internal marketing analyses and to provide you with information from time to time about IMAX and IMAX promotions. The customer's contact information may also be used to contact the visitor when necessary and will not be shared with other affiliated companies. Demographic and profile data (such as postal code and age) may be collected at the Website.
+Basis for Processing  
+  
+---|---  
+  
+  * \- To communicate with you, to send you information about our services, contests, and promotions
+  * \- To administer contests and other promotions
+  * \- To provide you with information about IMAX and its products and services and provide newsletters or email updates to you
 
-We run contests on the Website in which we ask visitors for contact information (like their email address), and demographic information (like their postal code or age). We may use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary and will not be shared with other companies or affiliated companies. Only IMAX has access to your personal information.
+| 
 
-The information we learn from you helps us personalize and improve your experience on the Website. Only IMAX has access to your personal information.
+Your consent, which you can withdraw at any time  
+  
+  * \- To create, develop, produce, operate, deliver and improve our products, services, content and advertising
+  * To communicate with you and provide information in relation to our business relationship
 
-In particular, by using the Website, you acknowledge and agree that we may use your personal information in the following ways:
+| 
 
-  * To communicate with you, to send you information about our products, services, contests, and promotions;
-  * To administer contests and other promotions;
-  * To help us address problems with and improve our site design, products and services;
-  * To analyze trends and statistics;
-  * To correct our records and make it easier to deliver your next communication more easily;
-  * To respond to your requests and to contact you if necessary; and
-  * To protect the security and integrity of the Website and our business.
+The processing is necessary for the performance of a contract or to take steps at your request prior to entering into a contract to which you are a party  
+  
+Where you work for, or otherwise provide services to, a party that has entered into a contract with IMAX (or where such party has taken steps to enter into a contract with IMAX):
 
+  * \- To create, develop, produce, operate, deliver and improve our products, services, content and advertising
+  * \- To communicate with you and provide you with information in relation to that business relationship.
 
+| 
 
-If you have questions or concerns about how we use personal information, please contact us as indicated below.
+The processing is necessary to support our legitimate business interests in meeting our obligations and enforcing our rights related to a contract to which your employer (or party you provide services to) is or may become a party, provided such interests are not overridden by your interests and rights  
+  
+Where you are a potential business partner of IMAX, or have expressed interest in IMAX’s business, including analysts, investors and job applicants:
 
-### Does IMAX share personal information about me?
+  * \- To provide you with information about IMAX and its products and services and provide newsletters or email updates to you
+  * \- To respond to your requests and to contact you if necessary
 
-By using the Website, you agree that we may share your personal information about you to address a security, integrity, or legal threat to the Website or our business, including for fraud protection and to protect the legal rights, privacy or safety of IMAX or our employees, agents and contractors, to enforce our terms of use, to respond to inquiries or requests from government or public authorities in any country in which we operate, including the U.S. and Canada, or to comply with the law or legal process.
+| 
 
-### How does IMAX keep your information secure?
+The processing is necessary to support our legitimate business interests in managing our resources, managing, organising and protecting our business and improving our services, provided such interests are not overridden by your interests and rights  
+  
+In relation to the company’s legal and tax obligations:
 
-IMAX is always striving to ensure you a safe and convenient online experience. This goes beyond our technologies to include physical, contractual, and managerial safeguards to protect your personal information. This Website has reasonable security measures in place to protect against the loss, misuse and interception by third parties of personal information. However, security lies in your hands as well. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. We assume no liability for interception, alteration or misuse of information transmitted over the Internet.
+  * \- For the purpose of fraud protection and credit risk reduction
+  * \- To protect IMAX in the event of litigation, or to protect the company’s legal rights
+  * To meet the company’s tax obligations
 
-### What is "phishing"?
+| 
 
-"Phishing" is a scam where fraudsters pretend that they represent well-known companies to steal your personal information. If you receive an e-mail claiming to be from IMAX that asks you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail.
+The processing is necessary to comply with a legal obligation to which IMAX is subject  
+  
+When you access our websites:
 
-### What about links to other web sites?
+  * \- To help us address problems with and improve our website design, products and services
+  * \- To correct our records and make it easier to deliver your next communication
+  * \- To respond to your requests and to contact you if necessary
+  * \- To protect the security and integrity of the website and our business
 
-This Website contains links to third-party web sites. All such sites are independent from the Website and from IMAX. IMAX has no control over and expressly disclaims any liability for such sites or their contents. Our links do not constitute an express or implied adoption or endorsement of anything contained in the other sites. Any transactions that take place between you and the third party are directly with the third party and IMAX shall not be held responsible for any loss or damage that you may incur as a consequence thereto. Please read the privacy policies and terms and conditions posted on these other sites before using the sites or disclosing any personal information to the sites. If you decide to access any of these sites, you do so entirely at your own risk.
+| 
 
-This Privacy Policy extends only to data collected on pages hosted on the Website.
+The processing is necessary to support our legitimate business interests in managing our resources, managing, organising and protecting our business and improving our services, provided such interests are not overridden by your interests and rights  
+  
+In connection with our Cookies Policy, when you access our websites:
 
-### How do I contact you?
+  * \- To analyse trends and statistics in terms of how our website is used and to understand the flow of traffic on our website and to provide a better website experience and to understand the needs of our customers
 
-If you have any questions about this Privacy Policy, the practices of the Website, or your dealings with the Website, you can contact us via the e-mail address [‘info@imax.com’](mailto:info@imax.com) or by writing to IMAX Privacy Officer, 2525 Speakman Drive, Mississauga, Ontario, Canada L5K1B1.
+| 
 
-_____________________________________________________________
+Where required by applicable law, your consent, which you can withdraw at any time  
+  
+Additional information regarding individuals in the European Economic Area: For purposes of applicable data protection laws, the bases for processing outlined above comprise, in each case, the “legal basis” for processing personal data for each listed purpose. We will only use your personal data for the purposes for which we collect it, and subject to the legal basis for each purpose as outlined above, in compliance with applicable data protection laws.
 
-_The below Privacy Policy is specific to the United Kingdom_
+4\. Disclosure of your personal information to third parties
 
-Privacy Policy
+We may disclose personal information to third parties in connection with the services being provided to you by IMAX, including:
 
-### Our Commitment to Privacy
+  * \- where any member of our group, which means IMAX Corporation and its subsidiaries, is pursuing the purposes set out above.
+  * \- where third parties are carrying out certain services for us. For example, if you win a competition, we will pass your information onto a third party who will arrange delivery of your prize.
+  * \- where we are under a duty to disclose or share your personal information to comply with any legal obligation, to enforce or apply our terms of use, or to protect our rights. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * \- where we pass aggregated data to third parties such as advertisers and business partners to give them a better understanding of our business. However, such information will not identify you personally.
 
-IMAX Corporation (of 12582 West Millennium Drive, Los Angeles, California 90094) and its subsidiaries and affiliates (collectively, “IMAX” or “we”) value your time, respect your privacy, and seek to earn your trust. We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. It sets out how we collect personal information about you (such as your name, address, email and telephone details) and how that information, together with any other personal information that you provide to us, may be used by us. By providing us with personal information you are deemed to have accepted the terms of this policy. Please do not provide us with any personal information if you do not agree to the terms of this policy.
 
-You can contact us via the e-mail address [info@imax.com](mailto:info@imax.com) or by writing to IMAX Privacy Officer, 2525 Speakman Drive, Mississauga, Ontario, Canada L5K1B1.
 
-**What personal information may we collect from you?**
+Where we pass your information to third parties, we will take measures to ensure that appropriate safeguards are in place to protect your privacy. If you would like any further information, please [contact us](mailto:privacy@imax.com).
 
-### We may collect the following personal information from you:
+5\. Links to other websites
 
-  * Personal information that you provide through the registration procedure on the website. We need this information to make sure that you can enjoy all the benefits of registration and so that you get the best out of our website and services. You can unregister at any time by contacting us at the address given above.
+Our site may, from time to time, contain links to and from the websites of our partner theatres, distributors, advertisers and aﬃliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
 
+6\. International transfers of your personal information
 
-  * We may also collect information about you if you enter a competition or post on a message board. If you use our message boards, please remember that any information you put on the message boards is able to be seen by other users of the websites. We do not monitor the message boards.
+Personal information may be stored and processed in any country where we have operations or in which we engage service providers, including Canada and the United States.
 
+If you are located in the European Economic Area (EEA): Please note that the recipients may be located in countries which do not provide a similar or adequate level of protection to that provided by countries in the EEA. To the limited extent that it is necessary to transfer personal data outside of the EEA, for example from IMAX operations in the EEA to IMAX Corporation in Canada, we will take measures to ensure appropriate safeguards are in place, such as standard contractual clauses under GDPR Article 46.2 or an adequacy decision concerning the country at issue under **[GDPR Article 45](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)**.
 
-  * We may collect information about you if you report a problem with our website or services.
+If you would like further information regarding safeguards, please [contact us](mailto:privacy@imax.com).
 
+7\. Marketing Communications
 
-  * If you contact us via the mobile version of our Website, we may obtain your telephone number, your carrier’s name, the date and time of our message and similar identifying information.
-
-
-  * If you contact us for any other reason, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-
-
-  * Details of your visits to our site including, but not limited to, traffic data, weblogs and other communication data.
-
-
-  * We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration purposes.
-
-
-  * We may also aggregate information about you with information about other visitors to the website in order to identify trends in our business ("Aggregated Data").
-
-
-
-Where we store your information
-
-The information that we collect about you may be transferred to, and stored at, a destination outside of the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. In these cases, we require such suppliers to handle information in a manner consistent with this privacy policy.
-
-By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-### What are cookies and why do we use them?
-
-This website uses "cookies". These are small files of data that are downloaded onto your computer when you visit our website. Amongst other things, they allow our website to "remember" your activities on our website and the number of times you have visited. We can use the information stored by cookies to help us to provide you with a better on-line experience. We also use this information to create the Aggregated Data mentioned above.
-
-By agreeing to our terms and conditions and this Privacy Policy and by continuing to use our website you consent to our use of cookies in this manner.
-
-You can set your Internet browser so it will not accept cookies. If you choose not to accept cookies you will still be able to browse our website but you will not be able to take advantage of any of the personalised options, such as registration.
-
-For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy below.
-
-### Marketing Communications
-
-Information that we collect about you may be used to send you information about our business, or films or other useful information (for example, newsletters, details of competitions, special offers and promotions and information about latest releases).
+Information that we collect about you may be used to send you information about our business, or our ﬁlms or other useful information (for example, newsletters, details of competitions, special offers and promotions and information about latest releases) in accordance with applicable laws.
 
 When you register with us we will also ask you if you would like to receive information about the products or services of our third party business partners that we think may be of interest to you. We will not send you this information without your consent.
 
-Remember, if you do not want to receive any more information from us all you have to do is contact us at the address at the top of the policy at any time.
+If you change your mind and do not want to receive any more information from us all you have to do is [contact us](mailto:privacy@imax.com) or follow the instructions in any communication received from us to unsubscribe at any time.
 
-### Third Parties
+8\. How does IMAX keep your information secure?
 
-We will not usually pass your information onto any third parties without your consent. We may however pass your information to certain third parties without your consent as follows:
+We have taken steps to ensure that all personally identifiable data that we collect is secure. This goes beyond our technologies to include physical, contractual, and managerial safeguards to protect your personal information. However, security lies in your hands as well. It is important for you to protect against unauthorized access to your passwords and to your computers and other connected devices. Be sure to sign oﬀ when ﬁnished using a shared device and log out of our websites if you have been using them.
 
-  * We may disclose your personal information to any member of our group, which means IMAX Corporation and its subsidiaries.
-  * We may disclose your personal information to third parties who carry out certain services for us. For example, if you win a competition we will pass your information onto a third party who will arrange delivery of your prize.
-  * If our business is sold, your information will be passed to the new owner.
-  * Where we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://www.imax.com/corporate/terms-of-use/) or to protect our rights. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-  * We may pass Aggregated Data to third parties such as advertisers and business partners to give them a better understanding of our business. However, such information will not identify you personally.
-  * Where we pass your information to third parties, we will require them to use your personal information in accordance with this Privacy Policy.
+9\. Minors
 
+This website is not intended for children and we do not knowingly collect data relating to children. If you are under the age of 13, or equivalent minimum age in the relevant jurisdiction, please do not attempt to provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, or equivalent minimum age in the relevant jurisdiction, we will promptly delete that information. If you believe we have collected personal information from a child under the age of 13, or equivalent minimum age in the relevant jurisdiction, please [contact us](mailto:privacy@imax.com).
 
+10\. Data retention
 
-Our site may, from time to time, contain links to and from the websites of our partner theatres, distributors, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+We will retain your personal information for the period necessary to reasonably fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. If you have questions in relation to our data retention practices please [contact us](mailto:privacy@imax.com).
 
-### Security
+11\. Your rights in respect of personal information
 
-We have taken steps to ensure that all personally identifiable information that we collect is secure, including limiting the number of people who can access this information and using electronic security systems. You can help by ensuring that you keep your passwords secret and properly log out of our websites if you have been using them.
+We respect your right to request access to, correction of, erasure of, or restriction of processing of your personal information, or to object to processing of your personal information, as well as the right to portability in accordance with applicable law. In each case, these rights are subject to restrictions contained in applicable laws. If you would like to exercise your rights in respect of your personal information please [contact us](mailto:privacy@imax.com). We will respond to your request in accordance with applicable law.
 
-### What is "phishing"?
+If you request access to a copy of your personal information which is held by IMAX, your request will be dealt with as quickly as reasonably possible and in any event in accordance with applicable law.
 
-"Phishing" is a scam where fraudsters pretend that they represent well-known companies to steal your personal information. If you receive an e-mail claiming to be from IMAX that asks you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail.
+If you are located in the European Economic Area: Please note that you have a right to object to processing of your personal information where the legal basis for that processing is limited to our legitimate interest or for the purpose of direct marketing. For more information please [contact us](mailto:privacy@imax.com).
 
-### Minors
+12\. Consequences of failure to provide information
 
-The website is not intended for the use of any person under the age of 13.  Users between the ages of 13 and 18 must have the consent of their parent or guardian to register as a user.
+If IMAX asks for information and you do not wish to give it to us, or if you wish to withdraw consent to the use of your information, IMAX will explain the consequences based on the specific information concerned, including whether it is a legal or contractual requirement that we use such data. However if IMAX cannot collect necessary information from you, it may make it difficult or impossible for us to provide our services to you. If you have any queries in respect of the consequences of not providing information or withdrawing your consent, please [contact us](mailto:privacy@imax.com).
 
-### Access to your personal information
+13\. Our companywide commitment to your privacy
 
-You have the right to request a copy of the personal information that we hold about you and to have any errors corrected. If you would like to make a request please write to us at the address at the top of this policy enclosing the fee of £5.
+To make sure your personal information is secure, we communicate our privacy and security guidelines to all IMAX employees and strictly enforce these safeguards within the company.
 
-### Changes to this Policy
+14\. Privacy questions
 
-From time to time we may make changes to this policy. We will post a notice of the changes together with the updated policy on the website.
+If you wish to contact us or have any questions about or complaints in relation to our Privacy Policy or the way IMAX handles your personal information, please contact us at **[privacy@imax.com](mailto:privacy@imax.com)** and we will try to address your concerns swiftly and resolve any issues you might have.
 
-This Policy was last updated on 3 April 2014.
+If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. For users in a member state of the European Economic Area, you have the right to lodge a complaint with a data protection supervisory authority, in particular in your member state of habitual residence, place of work or place of any alleged infringement if you consider that the processing of personal information relating to you infringes the EU General Data Protection Regulation.
+
+IMAX may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+IMAX Corporation, 2525 Speakman Drive, Mississauga, Ontario, Canada, L5K 1B1
