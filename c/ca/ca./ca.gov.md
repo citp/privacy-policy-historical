@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ca.gov privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630222901id_/http%3A//ca.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca.gov privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219225726id_/http%3A//www.ca.gov/Privacy) for the most accurate reproduction.*
 
 # CA.Gov : CA.gov Privacy Policy
 
