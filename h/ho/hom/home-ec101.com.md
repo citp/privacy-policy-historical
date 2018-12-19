@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-ec101.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617110807id_/http%3A//www.home-ec101.com/site-information-and-disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-ec101.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219092741id_/https%3A//www.home-ec101.com/site-information-and-disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Ec 101
 
