@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628074827id_/https%3A//www.ballerstatus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220004557id_/https%3A//www.ballerstatus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BallerStatus.com
 
