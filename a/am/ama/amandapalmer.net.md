@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amandapalmer.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208144443id_/http%3A//amandapalmer.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amandapalmer.net privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219115808id_/http%3A//amandapalmer.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy The official website of Amanda Fucking Palmer. Yes it is - Amanda Palmer
 
