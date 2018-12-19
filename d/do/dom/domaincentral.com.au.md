@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaincentral.com.au privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401074038id_/https%3A//www.domaincentral.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaincentral.com.au privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219205314id_/https%3A//www.domaincentral.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Domain Central
 
