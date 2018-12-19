@@ -1,107 +1,162 @@
-> *The following text is extracted and transformed from the champ.aero privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418012757id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champ.aero privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219213152id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-## Information Collection & Use
+## Privacy Policy
 
-### Registration
+**Effective Date:   17 May 2018**
 
-In order to use certain areas of this Website, you may first need to complete a registration form and create a user name and password. During registration you are required to give contact information such as name and email address. We use this information to contact you about the services on our site in which you have expressed interest.
+This website is owned by CHAMP Cargosystems, headquartered in 2, rue Edmond Reuter, Zone d'Activites "Weiergewan"; L-5326 Contern and we act as data controller.
 
-You have the option to provide additional information to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.
+We at CHAMP Cargosystems / CHAMP Forwarding Systems (collectively, “CHAMP,” “we” and “us”) know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about how we collect, store, use and disclose information about you when you interact or use our websites, or any related events, sales or marketing, and/or if you use any of our products, or services (collectively the “Services”) in any manner.
 
-CHAMP is the sole owner of the information collected on CHAMP.aero. CHAMP collects personally identifiable information from our users at several different points on our Website
+## Contents
 
-### Terms of Use
+1.1. What does this Privacy Policy cover?   
+1.2. What information does CHAMP Collect?   
+1.3. How do we use the information?   
+1.4. How do we share and disclose information to third parties?   
+1.5. Is Personal Information about me secure?   
+1.6. Cookies and other tracking technologies   
+1.7. Your Privacy Rights   
+1.8. International Data Transfers   
+1.9. Linked Websites   
+1.10. Children   
+1.11. Will CHAMP ever change this Privacy Policy? 
 
-Any personal information provided by you to CHAMP through this Website will be used solely for the purpose of providing you with CHAMP literature/information by email and post. Such information will be sent to you using the email details you have submitted via this Website.  
-Surveys or Contests
+### 1.1.    What does this Privacy Policy cover?
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information and demographic information.
+This Privacy Policy covers our treatment of information that we gather when you are accessing or using our Websites or when you contact us in any manner. We gather various types of information, including information that identifies you as an individual (“Personal Information”), from our users, as explained in more detail below.
 
-We use this information to monitor site traffic and further understand our market and your requirements.
+## 1.2.    What information does CHAMP Collect?
 
-### Email a colleague
+### 1.2.1.    Information You Provide to Us:
 
-If you choose to use our referral service to tell a colleague about our site, we will ask you for your colleague’s name and email address. We may send your colleague a one-time email inviting him or her to visit the site. CHAMP stores this information for the sole purpose of sending this one-time email.
+_When you use the Websites:_ We may collect any Personal Information that you choose to send to us to get in touch, e.g. your first and last name, user names, your email address, job title, telephone, company name, your location, as well as any other contact or other information you choose to provide us or upload to our systems in connection with the Services. If you contact us through the Websites, we will keep a record of our correspondence.
 
-Your colleague may contact us at [marketing@CHAMP.aero](mailto:marketing@CHAMP.aero) to request that we remove this information from our database.
+Please visit also the [cookie policy](https://web.archive.org/privacy/cookies/ "Cookies") section for further information.
 
-### Product Offers and Updates
+### 1.3.    How do we use the information?
 
-We will occasionally send you information on CHAMP’s products and services. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
+_Websites:_ We will use the information we collect via our Websites:  
+•    To provide you with the information required or with the Services subscribed;  
+•    To administer our Website, our events and for internal operations, including troubleshooting, data analysis, testing, statistical and survey purposes;  
+•    To improve our Website to ensure that content is presented in the most effective manner for you and for your computer;  
+•    Analyse customers’ use of the Websites for performance analysis and statistic purposes  
+•    As part of our efforts to keep our Website safe and secure;  
+•    To process access, rectification and opposition requests, and other rights with respect to Personal Information;  
+•    For claims and litigation management;  
+•    To enforce the agreement entered with you, if necessary;  
+•    To comply with our other legal obligations.
 
-### Newsletters
+We may also use the information you send to us via the Websites, to communicate with you via email and, possibly, other means, regarding products, services, offers, promotions and events we think may be of interest to you or to send you our newsletter, if you consent to such use. However, you will always be able to opt-out of such communications at any time.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+The processing of your Personal Information is either necessary to provide you with the requested information or subscribed Services or for your participation in CHAMP’s events.  This processing is also necessary for the legitimate interest of CHAMP as it enable it to enrich and improve its Websites and offer of products and services and thus to better meet the expectations of its customers.
 
-### Service-related Announcements
+These purposes constitute the legal basis for the data processing carried out by CHAMP.
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+### 1.4.    How do we share and disclose information to third parties?
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+Your Personal Information will be processed internally by duly authorized persons, within the limits of their respective attributions.
 
-### Customer Service
+We do not rent or sell your Personal Information to anyone. We may share and disclose information (including Personal Information) about our customers to third-parties, in the following limited circumstances:
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone.
+_Vendors, consultants and other service providers:_ We may share your information with third party vendors, consultants and other service providers who we employ to perform tasks on our behalf, to the strictest extent necessary and subject to the existence of contractual guarantees to ensure the security and confidentiality of the information. These companies include (for example) website analytics companies, product feedback or help desk software providers, CRM service providers, email service providers and others.
 
-### Profile
+_Business Transfers:_ We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
-We may store information that we collect through log files to create a “profile” of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.
+_CHAMP Group Companies:_ We may also share your personal data with our parent companies, subsidiaries and/or affiliates for purposes consistent with this Privacy Policy, to the strictest extent necessary and subject to the existence of contractual guarantees to ensure the security and confidentiality of the Personal Information, especially where these recipients are not located in the European Union but in third-countries not offering the same level as data protection as in the European Union.
 
-We do not share your profile with other third parties. To update or change your profile please email [marketing@CHAMP.aero](mailto:marketing@CHAMP.aero).
+_Public authorities:_ We may share your Personal Information with public authorities as necessary to comply with law or court order. 
 
-## Information Sharing and Disclosure
+### 1.5.    Is Personal Information about me secure?
 
-### Disclosure of your information
+We use appropriate technical, organizational and administrative security measures to protect any information we hold in our records from loss, misuse, and unauthorized access, disclosure, alteration and destruction. Unfortunately, no company or service can guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. If you enter via your account which is protected by a password for your privacy and security, you must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
-Except as provided in this privacy policy we do not disclose your personal information to third parties.
+Personal Information related to the use of the Services are kept for the duration of the agreement entered with the customer, as well as for a maximum period of 10 years after the termination of the said agreement corresponding to the duration of the applicable time limit for Court actions.
 
-We may transfer your personal information to our subsidiaries, affiliate companies or Agents, which may be located outside the European Economic Area ("EEA"), including for processing an order and providing you with support services. By registering your personal information on our Website, you agree for your personal information to be transferred, stored or processed outside the EEA. Any data will be transferred in accordance with this privacy policy.
+Personal Information is kept for the duration of the event, as well as for a maximum period of 10 years from the event corresponding to the duration of the applicable time limit for Court actions. After the event has been hold, personal data will be archived on a separate computer medium and accessible only if necessary by a limited number of persons specifically authorized to do so;
 
-#### Agents
+Personal information related to prospects who request information through the Website(s) are kept for a maximum of 3 years after the last contact with us.
 
-We can use outside companies to process orders and handle your personal information on our behalf for marketing purposes. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+### 1.6.    Cookies and other tracking technologies
 
-#### Legal Disclaimer
+Our Websites and some of our Services use cookies (small text files containing a string of alphanumeric characters that we put on your computer) and other similar tracking technologies (like web beacons, tags and scripts) to uniquely identify your browser and to gather information about how you interact with the Websites and Services. We use this information for the following purposes:  
+•    Assisting you in navigation;  
+•    Assisting in registration, login, and your ability to provide feedback;  
+•    Analysing your use of our products, services or applications; and  
+•    Assisting with our promotional and marketing efforts (including behavioural advertising).
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website.
+Please consult our [Cookie Policy](https://web.archive.org/privacy/cookies/ "Cookies") for more information about the type of cookies and tracking technologies that we use on this Website and why, and how to accept and reject them. The Cookie Policy can also be consulted for information about Analytics products and web analysis tools.
 
-## Choice/Opt-out
+## 1.7.    Your Privacy Rights
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  
-If you no longer wish to receive our newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [marketing@CHAMP.aero](mailto:marketing@CHAMP.aero).
+### 1.7.1.    What choices do I have?
 
-### Log Files
+You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+### 1.7.2.    Cookies
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+You can accept or reject cookies through our Privacy Preference Centre, accessible by clicking the “cookie settings” button in our cookie policy. You can also do so by adjusting your web browser controls. Please consult our [Cookie Policy](https://web.archive.org/privacy/cookies/ "Cookies") for more information about our use of cookies and how to accept and reject them.
 
-We do not link this automatically-collected data to personally identifiable information.
+### 1.7.3.    Marketing Communications
 
-### Cookies
+You can opt-out of receiving marketing communications from us at any time, by using the unsubscribe link in the emails communications we send.
 
-CHAMP offers Website users the convenience of online personalization by using cookies on some websites. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your Web browser. When this information is stored on your hard drive, our system is able to recognize your browser and automatically log you in where appropriate. Cookies are used by CHAMP so that we can make it easier for you to access our Website. Cookies only contain your login information. If you do not want us to give you a cookie, simply do not tick the "Remember me" option or log out.
+### 1.7.4.    What are my rights regarding my information?
 
-### Links to Other Sites
+You (or, as the case may be, your beneficiaries who can prove they have a legitimate interest), are entitled to obtain, free of charge:
 
-This Website contains links to other sites that are not owned or controlled by CHAMP Please be aware that we, CHAMP, are not responsible for the privacy practices of such other sites.
+•    access to your Personal Information,  
+•    confirmation that your Personal Information is or is not being processed,  
+•    information concerning at least the purposes of the processing, the categories of Personal Information to which the processing relates and the recipients or categories of recipients to whom the Personal Information are communicated,  
+•    communication, in an intelligible form, of the Personal Information being processed, as well as any available information on the origin of the Personal Information.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Website that collects personally identifiable information.
+You (or, as the case may be, your beneficiaries) also have a right to rectify your Personal Data and a right to object to the collect and processing of such data, on the basis of compelling legitimate grounds. 
 
-This privacy statement applies only to information collected by this Website.
+As of 25 May 2018, your will also be entitled to request the erasure of all or part of your Personal Information, or a restriction of the processing, object to the processing or make use of your right to data portability, within the limits provided by the applicable rules.
 
-### Access to Personally Identifiable Information
+In the event of a breach of the data protection rules, you may also lodge a complaint before a supervisory authority such as the National Commission for Data Protection (CNPD).
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by email to [marketing@CHAMP.aero](mailto:marketing@CHAMP.aero).
+### 1.7.5.    How can I update and access my information (Exercise my Data Subject Rights)?
 
-### Changes in this Privacy Statement
+If you would like to access, review, update, rectify, and delete any Personal Information we hold about you, or exercise any other data subject right available to you under the EU General Data Protection Regulation (GDPR), as above-described, you can either click the “Exercise your Data Subject Rights” link available on this Privacy Policy, or fill out the Web Form directly 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Our Privacy team will examine your request and respond to you in the legal timeframe.  
+Please note that if you exercise such rights, we may still use any aggregated and de-identified Personal Information that does not identify any individual, and may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Contact
+### 1.8.    International Data Transfers
 
-You can submit any comment, request, question that you may have regarding our privacy policy by contacting us at [marketing@CHAMP.aero](mailto:marketing@CHAMP.aero).
+Personal Information you submit on the Websites is sent to the United Kingdom and will be primarily processed by us in the United Kingdom, hosted by Lucid Networks, a provider of our web agency “We Are / Born + Raised”. This agreed process on CHAMP’s behalf.
 
-_©CHAMP - last updated: 10 September 2015._
+Please note that CHAMP may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+### 1.9.    Linked Websites
+
+For your convenience, hyperlinks may be posted on the Websites that link to other websites (the “Linked Sites”). We are not responsible for, and this Privacy Policy does not apply to, the privacy practices of any Linked Sites or of any companies that we do not own or control. Linked Sites may collect information in addition to that which we collect on the Websites. We do not endorse any of these Linked Sites, the services or products described or offered on such Linked Sites, or any of the content contained on the Linked Sites. We encourage you to seek out and read the privacy policy of each Linked Site that you visit to understand how the information that is collected about you is used and protected.
+
+### 1.10.    Children
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Information, please contact us at dpo@champ.aero.
+
+### 1.11.    Will CHAMP ever change this Privacy Policy?
+
+We are constantly trying to improve our Websites, and we will release an updated version of this Privacy Policy from time to time. You can see when this Privacy Policy was last updated by checking the date at the top of this page. You are responsible for periodically reviewing this Privacy Policy.
+
+### 1.12.    What if I have questions about this policy?
+
+If you have any questions or concerns regarding our privacy policies, please contact our Corporate Data Protection Officer to resolve your concerns:
+
+Gertrud HUBERTY  
+2, rue Edmond Reuter   
+Zone d'Activites "Weiergewan"  
+L-5326 Contern  
+Luxembourg  
+Phone: +352 2681 6205  
+Email: [dpo@champ.aero](mailto:dpo@champ.aero)
+
+[Download a PDF version of our Privacy Policy](https://web.archive.org/media/7991/champ_privacy_policy_17may18_web.pdf "CHAMP_Privacy_Policy_17MAY18_Web.pdf").
+
+**Policy history / Version Control**
+
+_©CHAMP - last updated: 17 May 2018._
