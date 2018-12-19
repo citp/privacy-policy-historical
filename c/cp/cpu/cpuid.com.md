@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpuid.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617082256id_/https%3A//www.cpuid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpuid.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219032213id_/https%3A//www.cpuid.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CPUID Privacy Policy | CPUID
 
