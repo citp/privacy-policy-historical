@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutamazon.in privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520170623id_/https%3A//www.amazon.in/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutamazon.in privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219144326id_/https%3A//www.amazon.in/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
 
 # Amazon.in Help: Amazon.in Privacy Notice
 
@@ -126,7 +126,7 @@ Back to Top
 
 **Information You Give Us**
 
-You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.in or one of our third-party sellers; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or your Your Profile; communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists or other gift registries, provide and rate Reviews; and employ other personal notification services such as such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); content of reviews and e-mails to us; the personal description in your Your Profile; and financial information.
+You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.in or one of our third-party sellers; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile; communicate with us by phone or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists or other gift registries, provide and rate Reviews; and employ other personal notification services such as such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); content of reviews; the personal description in Your Profile; and financial information.
 
 **Automatic Information**
 
@@ -140,24 +140,18 @@ Examples of information we receive from other sources include: updated delivery 
 
 Examples of information you can access easily at Amazon.in include: up-to-date information regarding recent orders; personal information (including name, e-mail, password, communications and personalised advertising preferences and address book); payment settings (including credit-card information and gift certificate, gift card and cheque balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, Recommended for You and newsletters); recommendations (including recent product-view history, prior-order history and Favourites); Wish Lists and Marketplace seller accounts and Your Profile (including your product Reviews, Requests and Recommendations, your Listmania lists, "So You'd Like to..." guides, personal profile, people you tagged as interesting, and Amazon Friends).
 
-If you have any concerns or questions in relation to this Privacy Notice, you may address them to our grievance officer at:
+**Grievance Officer**
 
-**E-mail PDF** : notice@amazon.in
+Please find below the details of the grievance officer:
 
-**Subject Line** : Claim of Objectionable Content
+**Name** : Iniyan R 
 
-_or_
+**Email** : grievance-officer@amazon.in
 
-**Fax** : 040-39922887
+**Address** : Amazon Seller Services Private Limited, Ground Floor, Eros Plaza, Eros Corporate Tower, Nehru Place, New Delhi – 110019 
 
-_or_
+**Fax** : 040 – 39922887
 
-**Physical Address** : Amazon Seller Services Private Limited
+[Click here](https://www.amazon.in/gp/help/customer/display.html?nodeId=202115000#GUID-523AEA8E-920A-4BA4-9EE0-2FCC6C3AB1D8__SECTION_E8DB72AB78B144658B508E816F23127B) to report infringement.
 
-Ground Floor,
-
-Eros Plaza, Eros Corporate Tower,
-
-Nehru Place,
-
-New Delhi 110019
+[Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=202115230) to report issues with orders, delivery or sellers.
