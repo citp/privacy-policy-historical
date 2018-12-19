@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorhousingbubble.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526163049id_/http%3A//www.doctorhousingbubble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorhousingbubble.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219120730id_/http%3A//www.doctorhousingbubble.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Dr. Housing Bubble Blog
 
