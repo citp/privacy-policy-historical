@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912085119id_/https%3A//www.nysenate.gov/policies-and-waivers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219191450id_/https%3A//www.nysenate.gov/policies-and-waivers) for the most accurate reproduction.*
 
 # Policies and Waivers | NY State Senate
 
