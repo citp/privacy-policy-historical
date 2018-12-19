@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milesweb.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628033347id_/https%3A//www.milesweb.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesweb.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219204301id_/https%3A//www.milesweb.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MilesWeb Internet Services
 
