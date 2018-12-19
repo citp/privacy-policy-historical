@@ -1,169 +1,211 @@
-> *The following text is extracted and transformed from the fivecentnickel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200530id_/https%3A//www.fivecentnickel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivecentnickel.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219103106id_/https%3A//www.fivecentnickel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Webpals Privacy Policy
 
-**A.R. Roberts LLC**
+Last Updated: October 16, 2018, Effective: October 16, 2018
 
-**PRIVACY POLICY**
+## INTRODUCTION
 
-**LAST UPDATED:   April 6, 2017**
+Webpals Systems S.C Ltd. (the **“Company”** ), offers a global network of content-rich web, mobile and social sites, including user acquisition and media buying (including paid search, display, mobile and social advertising), content optimization (including key word search, off-page and on-page optimization), and affiliate program, both in the web and mobile ecosystem, and also provide you with various content websites, with main focus on comparison content which includes comprehensive information, comparison tables and resources about various goods and services (including through websites or mobile apps operated by Company; collectively, the “ **Services** ”).
 
-This website is owned and operated by A.R. Roberts LLC (collectively, “Company”).
+The Company is deeply committed to safeguard the privacy expectations of its end users (“ **User(s)** ”, “ **you** ” or “ **your** ”). Accordingly, we have put in place this Privacy Policy, which outlines our data protection practices, including how we collect, use, disclose and protect your Personal Information, as well as your rights with respect to your Personal Information.
 
-We are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “Site”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy.
+This privacy policy provides important and transparent disclosures on how or why we collect, share and use your Personal Information, on the following legal basis:
 
-**1.     ****Personal Information**
+  * If you sign up for any of our Services, we process your personal data in order to perform our contractual obligations towards you;
+  * If we have a legitimate interest in processing data, such as for direct marketing or online identifiers when you access our website or Services; or
+  * We will also process your personal data where you have provided us with consent to do so.
 
-**a.     ****Personal Information We Collect** **.** We collect personally identifiable information that can identify you as an individual (“Personal Information”), such as:
 
-  * Name
-  * Postal address
-  * Telephone number
-  * Email address
-  * Credit or debit card number
-  * Social Security number
-  * Driver’s license number
 
+In this Privacy Policy, you can learn about:
 
+  * **WHAT INFORMATION WE COLLECT?**
+  * **MINORS**
+  * **HOW WE USE THE COLLECTED INFORMATION?**
+  * **MARKETING**
+  * **WITH WHOM WE SHARE INFORMATION?**
+  * **INTERNATIONAL TRANSFER OF INFORMATION**
+  * **THIRD PARTY TRACKING TECHNOLOGIES**
+  * **THIRD PARTY SERVICES**
+  * **RETENTION OF PERSONAL INFORMATION**
+  * **YOUR RIGHTS**
+  * **HOW WE KEEP YOUR INFORMATION SECURED**
+  * **CHANGES TO THE PRIVACY POLICY**
+  * **HOW TO CONTACT US**
 
-With your written authorization, we may collect your social security number to verify your identity with one of the three national credit bureaus and obtain your credit report and/or credit score.
 
-In some cases, we may collect information, such as your age, date of birth, weight, health conditions, whether you’re a non-smoker, insurance type, mortgage information, marital status, gender, occupation, education level, vehicle identification number, car make,  and number of care in your household, combined with your Personal Information.  We will treat all such information as Personal Information as long as it is combined with Personal Information.
 
-**b.     ****How We Collect Personal Information.** We collect Personal Information directly from you when you interact with us on the Site, for example, when you register for the Site or fill in an Internet form on our Site.  We may also collect Personal Information from third parties, such as a credit reporting agency or social media website (Facebook, LinkedIn or others). We may associate the Personal Information you provide through the Site with Personal Information collected from the third party sources.  We will use the combined information in accordance with this Privacy Policy as long as it is combined.
+We encourage you to read the Privacy Policy carefully and use it to make informed decisions. By visiting or interacting with the Company’s websites, mobile apps or other online properties, or by visiting or interacting with third party websites, mobile apps or other online properties that deploy our Service, you hereby agree to the Privacy Policy.
 
-Company may also allow you to register and log into the Site using a social media account, such as Facebook, Twitter, LinkedIn or Google+. When you use your social media account to register or log into the Site, you are asking that social media service to send us certain information from those social media accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. Social media registration features may collect basic account information such as name, age, photo and other details you choose to share according to your social media account settings. Social media features and widgets are either hosted by a third party or hosted directly on our Site. You can unlink your social media accounts or control what they share from their privacy controls.
+**If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send our Data Protection Officer at**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a6cfc8c0c9e6c5dfc4c3d4cadfc8de88cad3).
 
-**c.     ****How We Use Personal Information**. We may use Personal Information:
+## WHAT INFORMATION WE COLLECT?
 
-  * When you request, to connect you with vendors who will provide you with information about products and services.
-  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
-  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * To send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
-  * To send you surveys and marketing communications that we believe may be of interest to you; participation in surveys is voluntary and you have a choice of disclosing information such as name and demographic information.
-  * To personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you.
-  * To present you with advertisements tailored to you on certain third party websites, including on Facebook.
-  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
-  * To allow you to send messages to a friend through the Site.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
-  * For our business purposes, such as data analysis, audits, developing new products, enhancing our Site, improving our services, identifying usage trends, and determining and improving the effectiveness of our promotional campaigns.
-  * If you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
+We collect two types of information from our Users:
 
+  * **Personal Information  **
 
 
-**d.     ****How Personal Information is Disclosed**. We will share your personal information with third parties only in the ways that are described in this privacy policy.
 
-Your Personal Information may be disclosed:
+The first type of information is information that identifies or may reasonably identify an individual reasonable effort (“ **Personal Information** ”). Personal Information which is being gathered may consist of the following:
 
-To other Company businesses for the purposes described in this Privacy Policy.  Company is the party responsible for the management of the jointly-used Personal Information.
+  * **Contact details** : you may voluntarily provide us with certain contact details, such as your full name and email address.
+  * **Voluntary information** : We also collect information which you provide us voluntarily. For example, when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, such as on the chat feature and in games.
+  * **Device information** : we collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: device’s unique identifiers (e.g. UDID, IMEI, MAC address), browser fingerprinting, IP address and geo-location data.
+  * **Social networks** : when you voluntarily decide to register through your social network account (such as your Facebook account), we will have access to basic information from your social network account, such as your name, birthdate, profile picture and friends’ list, as well as information you made publicly available on such account.
+  * In addition, when using the Services, you may be able via your social network to “Invite a Friend” to use the Services. Should the person accept your invitation, we may obtain Personal Information from him/her such as: name, email address, phone number and date of birth. We will use the Personal Information for the purposes set out herein and disclose such information only to third parties as detailed in this Privacy Policy.
+  * **Information we collect from third parties** : We collect Personal Information from third party service providers, such as information about your credit history from credit agencies and other financial information which is relevant to the provision of the Services, as well as information which is gathered in order to verify your identity and prevent fraudulent or illegal activity.
+  * **Non-Personal information**
 
-  * To our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services.  These companies are authorized to use your personal information only as necessary to provide these services to us.
-  * To a third party national credit bureau to verify your identity and obtain your credit report and/or credit score.
-  * If you seek insurance quotes, to financial service providers who provide comparative rates.
-  * If you seek insurance quotes, to the Department of Motor Vehicles to verify your driving record, previous claims history, vehicles and VIN.
-  * If you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDORS’ USE OF YOUR PERSONAL INFORMATION.
-  * If you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource.  If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
-  * If you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies.  We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies.  While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
-  * To third party sponsors of sweepstakes, contests and similar promotions.
-  * If you choose to send messages through the Site, and to identify you as the sender to the recipient as indicated by you. We will ask you for such recipient’s name and email address and we store both email addresses for the purpose of sending such message.
-  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials.  Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. To request removal of your personal information from message boards, blogs or community forum, contact us at nickel@fivecentnickel.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-  * By you, if you have provided a testimonial about a site and given us permission to post that testimonial on our Site.
-  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 
+The second type of information is un-identified and non-identifiable information pertaining to a User(s), which may be made available or gathered via the User’s use of the Services (“ **Non-Personal Information** ”).
 
-**2.     ****NON-personal Information**
+Non-Personal Information which is being collected consists of technical information and aggregated usage information, and may contain, among other things, the User’s operating system, type of browser, screen resolution, browser and keyboard language, the User’s ‘click-stream’ and activities on the Services, the period of time the User visited the Services and related time stamps, etc.
 
-**a.     ****Non-Personal Information We Collect** **.** “Non-Personal Information” is any information that does not reveal your specific identity, such as:
+**For avoidance of doubt, any Non-Personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists**.
 
-  * Browser information
-  * Information collected through cookies, pixel tags and other technologies
-  * Demographic information and other information provided by you
-  * Aggregated information
+Types of Non-Personal Information we collect from or about you:
 
+  * **Technical information** : In order to enhance the functionality of the Services and to provide you with a better user experience, we collect technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time and the domain name of the website from which you linked to the Services; etc.). This information also includes anonymous online identifiers, such as the Google Advertising ID and the IDFA.
+  * **Device and app information** – this category includes your device’s type and model, system language, the device’s operating system (such as Android or iOS), SDK version, mobile carrier name, mobile browsers installed on the device (such as Chrome or Safari), app history and usage information (such as information about running and installed apps on the device), information regarding downloads and installations of mobile applications and any information regarding in-app events (such as in-app purchases), and anonymous identifiers assigned to your device, such as its iOS Identifier for Advertising (IDFA), Google Advertising ID, or other types of device identifiers.
+  * **Location information** – we collect information about your general location (such as city and country). For example, we may use the IP address to identify your general location. This information does not tell us where your device is precisely located. This information is sent as a normal part of internet traffic. In addition, we also collect implicit location information, which allows us to infer that you are either interested in a place or that you might be at the place – this information does not actually tell us where your device is precisely located.
+  * **Ad information** – this category includes information about the online ads and personalized content we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, whether you viewed, clicked on or otherwise interacted with the ad, ad engagement history and whether you visited the advertiser’s website, downloaded an app or purchased the product or service advertised.
+  * **Log and analytics information** : we collect information about your use of the Services, such as applications’ usage, log files, user activity (e.g. referral URL, pages viewed, the amount of time spent on particular pages, online browsing, clicks, actions, etc.), time stamps, alerts, etc. This information is collected for amongst other things troubleshooting errors and bugs as well as for research and analytics purposes about your use of the Services.
+  * **Other anonymous information** : We may anonymize or de-identify the information collected by the Services or via other means so that the information cannot, on its own, personally identify you. Our use and disclosure of such aggregated or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation and for any purpose, such as for advertising or marketing purposes. ** **
 
 
-**b.     ****How We Collect Non-Personal Information** **.** We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics.  We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code.  We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our Site.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies.  To learn more about cookies, please visit <http://www.allaboutcookies.org/>.
+## MINORS
 
-**c.     ****How We Use and Disclose Non-Personal Information** **.** Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose.  In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location).  If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+The Services are not designed or directed to persons under the age of 18 or persons under the age of legal consent with respect to the use of the Services of any jurisdiction, whichever is higher (“Legally of Age”). If you are not Legally of Age, you should not download or use the Services nor provide any Personal Information to us.
 
-**3.     ****IP ADDRESSES**
+We reserve the right to access and verify any Personal Information collected from you. In the event that we become aware that a user who is not Legally of Age has shared any information, we may discard such information. If you have any reason to believe that a minor has shared any information with us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#11787f777e5172687374637d687f693f7d64).
 
-Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP).
+## HOW WE USE THE COLLECTED INFORMATION?
 
-**a.     ****How We Log IP Addresses** **.** An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.
+We use your Personal Information for the purposes listed below:
 
-**b.     ****How We Use and Disclose IP Addresses?** We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site.  We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information.  Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.
+  * To provide and operate the Services, such as to provide our clients with performance marketing, online user acquisition network, online promotions, and for the purposes of user attribution;
+  * To communicate with you and to keep you informed of our latest updates to our Services and special offers;
+  * To market our Services (see more below under “Marketing”), as well as to serve you advertisements, including behavioral advertising;
+  * To conduct analytics, statistical and research purposes, in order to improve and customize the Services to your needs and interests (such as by compiling aggregated reports about the usage of certain features of our Services);
+  * To support and troubleshoot the Services and to respond to your queries;
+  * To enable us to further develop, customize and improve the Services based on Users’ common preferences and uses;
+  * To identify and authenticate your access to certain features of the Services;
+  * To detect and prevent fraudulent and illegal activity or any other type of activity that may jeopardize or negatively affect the integrity of the Services, including by identifying risks associated with your activity on our Services;
+  * To investigate violations of our policies and User Agreement as well as enforce our policies and the User Agreement;
+  * To investigate and resolve disputes in connection with your use of the Services; and
+  * As required by law or regulation, or as required by other governmental authorities, or to comply with a subpoena or similar legal process or respond to a government request.
+  * We may ask you to participate in surveys (processed by us or third parties) that help us understand your use of the website and improve our advertising. Any Personal Information provided to us (or supplied by you or us to such third-party survey providers) in connection with these surveys will only be used in relation to that survey.
 
-**4.     ****THIRD PARTY SITES**
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party websites that are linked to from this Site or any widgets on our Site that are hosted by a third party. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. If you submit personal information to any of those third party sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
 
-We may also utilize framing techniques that may make it appear that you are still on the Site when you are actually on a third party web site. Please be aware that you are providing your personal information to these third parties and not to this Site.
+## MARKETING
 
-If this Site includes any mapping features, those mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time.
+The Company will use your Personal Information, such as your name, home address, email address, telephone number etc., ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning the Services as well as products, services, websites and applications which relate to: (i) other companies within the Company; or (ii) the Company’s business partners and affiliates (collectively: “ **Marketing Affiliates** ”), which we believe may interest you.
 
-**5.     ****Third Party VENDORS**
+We may also share and disclose Personal Information with our Marketing Affiliates for the purpose of providing you different marketing offers, which we, or our Marketing Affiliates, believe are relevant for you. Our Marketing Affiliates may use this Personal Information for different marketing techniques, such as direct email, post, SMS and telephone marketing purposes.
 
-We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting).  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors’ use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see <http://www.networkadvertising.org/managing/faqs.asp#question_11>. Please note that opting out of targeted/ personalized advertising does not opt you out of being served advertising.  You will continue to receive generic ads. At this time we do not respond to browser do not track signals.
+You may at any time decline receiving further marketing offers from us or from our business partners and marketing affiliates by contacting us at to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#41282f272e0122382324332d382f396f2d34). Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications.
 
-Our Site may include social media features, such as the Facebook Like or Tweet this button.  These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly.  These features are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing it.
+## WITH WHOM WE SHARE INFORMATION?
 
-Data Providers: We may also allow data providers to collect web log data from you (including IP address and information about your browser or operating system), when you visit our Site, or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with data providers solely in hashed, non-human readable form.
+We do not rent, sell, or share your Personal Information with third parties (“ **Recipients** ”) except as described in this Privacy Policy. The Personal Information will be disclosed to Recipients only to the extent required for the specific purpose, as stipulated in this Privacy Policy.
 
-PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS.
+We share Personal Information with any of the following recipients:
 
-**6.     ****SECURITY**
+  * Our clients that deploy our Services on their online properties (such as websites and mobile apps); this includes our clients whose websites or apps you have visited, as well as an advertiser whose site or app you have visited – we share information about how you have interacted with such websites or apps.
+  * Companies within the Company and other affiliated companies;
+  * Subcontractors and third party service providers, as well as their subcontractors, which by way of example include (but is not limited to) cloud computing companies, marketing affiliates, identity verification and fraud prevention services, and other data verifiers;
+  * Auditors, contractors or advisers of any of the Company’s business processes;
+  * To any third parties who investigate, detect or prevent fraudulent or illegal activity (e.g. governmental authorities, police, banks and other investigatory organizations);
+  * Licensing authorities, governmental and regulatory bodies, in accordance with applicable laws and regulations; and
+  * Potential purchasers or investors in any of the companies within the Company, or in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, reorganization, bankruptcy, consolidation or asset sale of an asset or transfer in the operation thereof) in relation to any company within the Company (in such event, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy).
 
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
 
-The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
 
-**7.     ****CHOICES AND ACCESS**
+In addition to the purposes listed in this Privacy Policy, we share Personal Information with those Recipients for any of the following purposes:
 
-**a.     ****Your choices regarding our use and disclosure of your Personal Information** **.** We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
+  * Storing such information on our behalf, for example by using cloud computing service providers;
+  * Processing such information to assist us with our business operations (e.g. to process payments and your deposits; authenticate your access; auditing our operations; detect and prevent fraudulent or illegal activity; etc.);
+  * Performing research, technical diagnostics or analytics (such as for geo-location);
+  * Communicating targeted advertising, as well as promotional and informational materials, in accordance with our marketing policy (see below, under “Marketing”); and
+  * Whenever we believe in good faith that disclosure is necessary to protect our rights or legal claims, enforce our policies (including our User Agreement and Privacy Policy), protect your safety or the safety of others, as well as to investigate or prevent any fraud, for security reasons or to help us with any other related technical issue.
 
-  * **Receiving electronic communications from us and our affiliates** :  If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.
-  * **Our sharing of your Personal Information with unaffiliated third parties** :  If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis.  Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request).  If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
 
 
+## **TRANSFER OF INFORMATION**
 
-We will seek to comply with your request(s) as soon as reasonably practicable.  Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+Since we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union.
 
-**b.     ****How you can access, change or suppress your Personal Information** **.** If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at nickel@fivecentnickel.com and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
+We use best efforts to ensure that your Personal Information is protected in accordance with our privacy policy, through contractual means (such as by using the contractual clauses approved by the relevant regulators for data transfer) or other means (such as ensuring that the jurisdiction imposes adequate safeguards for data protection).
 
-In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+## THIRD PARTY TRACKING TECHNOLOGIES
 
-**8.     ****RETENTION PERIOD**
+When you visit or access our Services (for example when you visit our websites), we use (and authorize third parties to use) web beacons, cookies, pixels, scripts, tags and other technologies (“ **Tracking Technologies** “).
 
-We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law or as necessary to resolve disputes and enforce our agreements.  If you wish to request that we no longer use your information, please follow the instructions above.
+The Tracking Technologies allow us to automatically collect information about you and your online behavior, as well as your device (for example your computer or mobile device), for different purposes, such as in order to enhance your navigation on our Services, improve our Services’ performance and customize your experience on our Services. We also use this information to collect statistics about the usage of our Services, perform analytics, deliver content which is tailored to your interests and administer services to our Users, advertisers, publishers, customers and partners.
 
-**9.     ****USE OF SITE BY MINORS**
+We also allow third parties to collect information about you through Tracking Technologies. To learn more please visit our Cookie Policy.
 
-The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site.
+## THIRD PARTY SERVICES
 
-**10.   ****OPERATION OF OUR SERVICES**
+While using the Services you may encounter links to third party websites, services or applications. Please keep in mind that this Privacy Policy does not apply to any third party websites, services or applications, even if they are accessible, downloadable, or otherwise distributed through the Services.
 
-Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Services or providing us with your information, you consent to this transfer.
+Please be advised that such third party websites, services or applications are independent from the Company. We assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such third party websites and/or services. We encourage you to carefully read the privacy policies and the terms of use of such third party websites and/or services, as their terms, not ours, will apply to any of your interactions with such third parties.
 
-**11.   YOUR CALIFORNIA PRIVACY RIGHTS**
+You should always review their privacy practices carefully before providing Personal Information to such third parties.
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. Company is not obligated to respond to more than one such request from you per calendar year.
+You are knowingly and voluntarily assuming all risks of using any third-party websites, services or applications. You agree that we shall have no liability whatsoever with respect to such third party sites and your usage of them.
 
-**12.   ****UPDATES TO THIS PRIVACY POLICY**
+## RETENTION OF PERSONAL INFORMATION
 
-We may change this Privacy Policy.  Please take a look at the “ **LAST UPDATED** ” legend at the top of this page to see when this Privacy Policy was last revised.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page prior to the change becoming effective.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy.
+If you have registered with an account through our Services, the Company will retain your Personal Information during the period your account is active. In addition, the Company will retain your Personal Data for additional periods, to enable the Company to meet its legal obligations under applicable laws or regulations, Know-Your-Customer and Anti-Money Laundering regulations.
 
-**13.   ****CONTACTING US**
+In addition, the Company may retain your Personal Information for longer periods, provided that retaining such information is necessary for the Company’s legitimate interests, such as fraud prevention and record keeping.
 
-If you have any questions about this Privacy Policy, please contact us by email at nickel@fivecentnickel.com, or please write to the following address:
+## YOUR RIGHTS
 
-Privacy
+If you reside in the EU or in other jurisdictions that afford you with the below rights, you may contact us at any time by email (at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#365f58505976554f5453445a4f584e185a43)), and request:
 
-A.R. Roberts LLC
+  1. To access or delete any Personal Information relating to you
+  2. To change or update any Personal Information relating to you (for example, if you believe that your Personal Information is incorrect, you may ask to have it corrected or deleted). Note that you may also request that we will correct errors with regard to your Personal Information (except in cases where the information is required to be kept in its original format under any applicable laws and regulations);
+  3. That we will restrict or cease any further use of your Personal Information;
+  4. That we will provide the Personal Information you volunteered to us in a machine-readable format.
 
-P.O. Box 3591
 
-Merrifield, VA 22116
+
+Please note that these rights are not absolute and requests are subject to any applicable legal requirements, including any ethical reporting or document retention obligations. We may also rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion, in accordance with our internal policies.
+
+## HOW WE KEEP YOUR INFORMATION SECURED
+
+We take great care in implementing and maintaining the security of the Services and your information. We have put in place appropriate physical and technological safeguards to help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
+
+We employ industry standard procedures and controls to ensure the safety of our users’ information, such as:
+
+  * Secure network topology, which includes intrusion prevention and Firewall systems;
+  * Encrypted communication;
+  * Authentication and Access Control;
+  * External and Internal audit tests; etc.
+
+
+
+Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+
+## CHANGES TO THE PRIVACY POLICY
+
+We reserve the right to change this Privacy Policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this Privacy Policy on the Services and/or we will send you an e-mail regarding such changes to the e-mail address that you volunteered. Such substantial changes will take effect seven (7) days after such notice was provided on any of the above mentioned methods. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date, and your continued use of the Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
+
+## HOW TO CONTACT US
+
+If you have any general questions about the Services or the information that we collect about you and how we use it, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d24232b220d2e342f283f21342335632138) or by sending a letter to our EU representative:
+
+CyberLynx Security Ltd.
+
+Attn: Data Protection Officer
+
+29 Boulevard Grande-Duchesse Charlotte L-1331 Luxembourg
+
+We will make an effort to reply within a reasonable timeframe. Please feel free to reach out to us at any time. If you are unsatisfied with our response, you can reach out to the applicable data protection supervisory authority.
