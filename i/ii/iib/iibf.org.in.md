@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611102545id_/http%3A//iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219202137id_/http%3A//iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
 
 # IIBF Privacy Policy
 
@@ -20,10 +20,9 @@
 
 For more information on our Privacy Policy, contact Customer Service. 
 
-**iibf.org.in  
-World Trade Center,  
-'The Arcade', Cuffe Parade,  
-Mumbai - 400 005.**
+**Kohinoor City Commercial - II Tower-I,  
+2nd & 3rd Floor, Kirol Road,  
+Off-L.B.S Marg Kurla- West Mumbai - 400 070**
 
 Any changes to this Privacy Policy will be posted accordingly. This policy was last updated on February 28, 2001. 
 
