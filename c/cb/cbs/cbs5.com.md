@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs5.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs5.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219091003id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -172,6 +172,49 @@ back to top
 #### CBS Local Privacy Protections for Children
 
 Most CBS Local Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13. Some CBS Local Services may ask for your full date of birth to ensure that they are not collecting information from children under 13 or to identify when additional steps may need to be taken when information has been collected from children under 18. In instances where a CBS Local Service has actual knowledge that it collects information from children, or offers a service directed toward children as defined under applicable laws, it will comply with those laws. To read about our privacy policy for children under the age of 13, please see the CBS Local Children’s Privacy Policy.
+
+back to top
+
+#### European Union (EU) Visitors
+
+**European Union (EU) Visitors**
+
+This section of the Privacy Policy applies only if you use our websites or Services covered by the Privacy Policy from a country that is a Member State of the European Union, and it supplements the information in the Privacy Policy.
+
+CBS Local is the data controller for processing of information defined as personal data under applicable data protection law ("Personal Data").
+
+**LEGAL BASIS FOR DATA PROCESSING**
+
+We process Personal Data for the purposes set out in the Privacy Policy. Our legal basis to process Personal Data includes processing that is: necessary for the performance of the contract between you and CBS Local (for example, to provide you with the Services you request); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our Services); and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time by contacting us (using the contact instructions below) without affecting the lawfulness of processing based on consent before its withdrawal.
+
+**EU DATA SUBJECT RIGHTS**
+
+The EU General Data Protection Regulation (GDPR) provides certain rights for EU data subjects. You may decline to share certain personal information with us, in which case we may not be able to provide some of the features and functionality of our Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data. Requests should be submitted by contacting us (using the contact instructions below).
+
+You may make changes to the personal information collected by contacting us directly. We will make commercially reasonable efforts to provide you reasonable access to your personal information within 30 days of your access request to the contact address below. We provide this access so that you may review, make corrections, or request deletion of your personal information. If we cannot honor your request within 30 days, we will inform you when we will be able to provide such access. If for some reason access is denied, we will explain why access is denied. When technically feasible, at your request, we will provide your personal data to you.
+
+We will retain your personal information for as long as it is reasonably necessary for the purposes set out in the Privacy Policy, considering the time period reasonably necessary to: provide the Services to you; exercise the choices and rights you have requested; comply with our contractual obligations; enforce our terms for use of the Services; and, comply with legal and regulatory requirements.
+
+If you have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Data Protection Authority and lodge a complaint.
+
+**THIRD PARTY ONLINE ADVERTISING**
+
+We enable certain third party advertising exchanges to place advertisements on our sites. With your consent, those advertising exchanges collect your IP address and/or a unique advertising ID that is used by the advertising exchange to identify you across the internet.
+
+The European Digital Advertising Alliance ("EDAA") has developed a guide to online behavioural advertising and has developed an opt out page to manage online behavioral advertising preferences with EDAA member companies available at www.YourOnline Choices.com. To find out more about how you can manage cookies and the other similar technologies, see [Managing Cookies](http://policies.cbslocal.com/privacy/current.html#cookiechoice)
+
+**AUTOMATED DECISION MAKING**
+
+We use automated decision-making technologies, including profiling, to support our data processing activities. These include services designed to develop and provide advertising tailored to your interests, as described in our overview of CBS Local Online Advertising and to customize the content you see when you visit a CBS Local Service.
+
+**CONTACT US**
+
+For all EU Data Subject Rights requests, please [contact us](https://privacy.truste.com/privacy-seal/validation?rid=0758e9ec-9bd9-48bd-a2e1-105bce329c3d). You must put the statement “Your EU Data Subject Rights” in the subject field of your request, and include in your request the name of the Services with respect to which you are requesting the information, as well as your contact information. If you prefer to submit your questions or comments by mail, please send a letter to the following address:
+
+CBS Local Digital Media  
+1700 Broadway, 7th Floor  
+New York, NY 10019  
+ATTN: Privacy Officer 
 
 back to top
 
@@ -479,13 +522,13 @@ back to top
 
 #### CBS Local Digital Media Privacy Policy FAQ 
 
-We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
+We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20181219091003id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
 
-Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
+Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20181219091003id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
 
 Have you made any substantively material changes to the Privacy Policy? No, we have not made any substantively material changes to our Privacy Policy.
 
-What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/index.html).
+What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20181219091003id_/http%3A//policies.cbslocal.com/privacy/index.html).
 
 Will you share my contact information with third parties? Like other businesses, we share contact information (such as name and email address) with vendors who process credit card transactions, with business partners who co-sponsor CBS Local Services, and when we have consent from our users. For more information, click here.
 
