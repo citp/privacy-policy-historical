@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620183646id_/https%3A//www.unlockboot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219083819id_/https%3A//www.unlockboot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ UnlockBoot.Com frequently links to other websites. We are not responsible for th
 
 If you have any questions regarding our privacy policy, please [Contact Us](https://www.unlockboot.com/contact/).
 
- _Privacy Policy Last Changes: Jan. 28, 2013_
+ _Privacy Policy Last Changes: Jan. 28, 2017_
