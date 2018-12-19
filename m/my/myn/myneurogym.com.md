@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myneurogym.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612172407id_/http%3A//myneurogym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myneurogym.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219013500id_/https%3A//www.myneurogym.com/privacy-policy) for the most accurate reproduction.*
 
 # NeuroGym - A Better You, A Better World!
 
@@ -11,7 +11,7 @@ We may occasionally update this Privacy Policy. When it does, we will also revis
 
 A user may withdraw his or her consent for collection, use and disclosure at any time by sending an email to unsubscribe. Please note that, if you do, this Website may suspend its provision of products and services to you. 
 
-A user may withdraw his or her consent for collection, use and disclosure at any time by sending an email to [unsubscribe](https://web.archive.org/cdn-cgi/l/email-protection#aecddbdddac1c3cbdcddcbdcd8c7cdcbeec3d7c0cbdbdcc1c9d7c380cdc1c3). Please note that, if you do, this Website may suspend its provision of products and services to you.
+A user may withdraw his or her consent for collection, use and disclosure at any time by sending an email to [unsubscribe](https://web.archive.org/cdn-cgi/l/email-protection#65061016110a080017160017130c060025081c0b0010170a021c084b060a08). Please note that, if you do, this Website may suspend its provision of products and services to you.
 
 2\. Accountability  
 NeuroGym collects certain "personal information" (information that personally identifies you) which may include, but is not limited to, your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).
@@ -79,7 +79,7 @@ We will use reasonable efforts to keep personal information accurate for the Ide
 NeuroGym will use commercially reasonable efforts to protect user's personal information.
 
 9\. Access to Personal Information  
-NeuroGym will afford you a reasonable opportunity to review the personal information in your file only, upon request to the Senior Director of Operations at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b7ded9d1d8f7daced9d2c2c5d8d0ceda99d4d8da) or by writing to:
+NeuroGym will afford you a reasonable opportunity to review the personal information in your file only, upon request to the Senior Director of Operations at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fb92959d94bb9682959e8e89949c8296d5989496) or by writing to:
 
 NeuroGym  
 PO BOX 5005, #138  
@@ -87,4 +87,4 @@ Rancho Santa Fe, CA 92067
 
 If NeuroGym is not able to provide access to some aspect of a user's personal information, it will provide reasons for denying access such as: that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
-Users have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting NeuroGym at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#751c1b131a35180c1b1000071a120c185b161a18). NeuroGym will promptly correct such personal information.
+Users have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting NeuroGym at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6afa8a0a986abbfa8a3b3b4a9a1bfabe8a5a9ab). NeuroGym will promptly correct such personal information.
