@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503024821id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219101744id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
 
 # Overcast
 
