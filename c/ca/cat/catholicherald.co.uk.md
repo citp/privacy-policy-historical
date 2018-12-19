@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catholicherald.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628215904id_/http%3A//catholicherald.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicherald.co.uk privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219140031id_/http%3A//www.catholicherald.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CatholicHerald.co.uk
+# Privacy Policy | Catholic Herald
 
 **P** **RIVACY** ******POLICY**
 
@@ -8,7 +8,7 @@
 
 Catholic Herald Limited ( **We** ) are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use **[[TERMS OF USE](http://www.catholicherald.co.uk/terms-conditions/ "TERMS OF USE")]** and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our terms of use **[[TERMS OF USE](https://catholicherald.co.uk/terms-conditions/ "TERMS OF USE")]** and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is [Catholic Herald Limited].
 
@@ -16,7 +16,7 @@ For the purpose of the Data Protection Act 1998 (the **Act** ), the data control
 
 We may collect and process the following data about you:
 
-information that you provide by filling in forms on our site at  [www.catholicherald.co.uk](http://www.catholicherald.co.uk/ "The Catholic Herald Website") ( **our site** ). This includes information provided at the time of subscribing to our newspaper or posting material on our site. We may also ask you for information when you report a problem with our site. We may collect the following information from you:
+information that you provide by filling in forms on our site at  [www.catholicherald.co.uk](https://catholicherald.co.uk/ "The Catholic Herald Website") ( **our site** ). This includes information provided at the time of subscribing to our newspaper or posting material on our site. We may also ask you for information when you report a problem with our site. We may collect the following information from you:
 
 your name and job title;
 
@@ -105,7 +105,7 @@ in the event that we sell or buy any business or assets, in which case we may di
 
 if the Catholic Herald Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
 
-if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use ****[[TERMS OF USE](http://www.catholicherald.co.uk/terms-conditions/ "TERMS OF USE")]**** and other agreements; or to protect the rights, property, or safety of the Catholic Herald Limited, our customers, or others.
+if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use ****[[TERMS OF USE](https://catholicherald.co.uk/terms-conditions/ "TERMS OF USE")]**** and other agreements; or to protect the rights, property, or safety of the Catholic Herald Limited, our customers, or others.
 
 **Y** **OUR** ******RIGHTS**
 
