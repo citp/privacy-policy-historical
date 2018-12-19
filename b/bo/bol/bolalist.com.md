@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bolalist.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619084932id_/http%3A//www.bolalist.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolalist.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219073639id_/http%3A//www.bolalist.com/privacy-policy.php) for the most accurate reproduction.*
 
 # BolaList Privacy Policy
 
