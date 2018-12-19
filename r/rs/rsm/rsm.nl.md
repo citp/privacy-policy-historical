@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsm.nl privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620211123id_/https%3A//www.rsm.nl/about-rsm/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsm.nl privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219110356id_/https%3A//www.rsm.nl/about-rsm/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - About RSM - Rotterdam School of Management, Erasmus University
+# Privacy Statement - About RSM - Home - Rotterdam School of Management, Erasmus University
 
   
 Rotterdam School of Management, Erasmus University (RSM) will treat the personal data of visitors to her website(s) with care. Personal data are processed and secured in accordance with the applicable law and the General Data Privacy Regulation (hereafter together referred to as the “ **Act** ”).
