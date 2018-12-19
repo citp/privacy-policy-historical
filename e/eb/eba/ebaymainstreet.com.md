@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ebaymainstreet.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421013815id_/https%3A//www.ebaymainstreet.com/privacy-and-cookie-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaymainstreet.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219063546id_/https%3A//www.ebaymainstreet.com/privacy-and-cookie-notice) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | eBay Main Street
 
 This notice was last updated February 15, 2017.
 
-Welcome to [ebaymainstreet.com](http://www.ebaymainstreet.com/)!  At eBay we value your trust and strive to honor it by being transparent, consistent and reliable about how we use your Personal Information. Personal Information is information that can be associated with a specific person and could be used to identify that person whether from that data or from that data and other information that eBay Inc. has or is likely to have access to. We do not consider Personal Information to include information that has been made anonymous or aggregated so that it can no longer be used to identify a specific person, whether in combination with other information or otherwise. We wrote this notice in simple terms so that you can understand how we handle your information.
+Welcome to [ebaymainstreet.com](https://www.ebaymainstreet.com/)!  At eBay we value your trust and strive to honor it by being transparent, consistent and reliable about how we use your Personal Information. Personal Information is information that can be associated with a specific person and could be used to identify that person whether from that data or from that data and other information that eBay Inc. has or is likely to have access to. We do not consider Personal Information to include information that has been made anonymous or aggregated so that it can no longer be used to identify a specific person, whether in combination with other information or otherwise. We wrote this notice in simple terms so that you can understand how we handle your information.
 
 ## Introduction
 
-By accessing [ebaymainstreet.com](http://www.ebaymainstreet.com/) and any of its local versions where this Privacy and Cookie Notice is referenced, regardless of how you access or use them, including through mobile devices (the “Site”), you are accepting the terms of this Privacy and Cookie Notice and our [Terms of Use](http://www.ebaymainstreet.com/terms-of-use), and you are consenting to our collection, use, disclosure, retention and protection of your Personal Information as described in this Privacy and Cookie Notice.
+By accessing [ebaymainstreet.com](https://www.ebaymainstreet.com/) and any of its local versions where this Privacy and Cookie Notice is referenced, regardless of how you access or use them, including through mobile devices (the “Site”), you are accepting the terms of this Privacy and Cookie Notice and our [Terms of Use](https://www.ebaymainstreet.com/terms-of-use), and you are consenting to our collection, use, disclosure, retention and protection of your Personal Information as described in this Privacy and Cookie Notice.
 
   * If you reside within the European Union you are entering into a contract with eBay Europe S.à.r.l., 22-24 Boulevard Royal, L-2449 Luxembourg.
   * If you reside within the United States you are entering into a contract with eBay, Inc., 2065 Hamilton Ave, San Jose, CA, 95125, USA.
@@ -31,7 +31,7 @@ We collect Personal Information in two ways:
   2. **We also get technical information when you use our site:**  Whenever you use an internet service nowadays there is certain information that almost always gets created and recorded automatically. This is true for our Site also. Some examples are:
 
 
-  * Log Data: This is information that is automatically recorded by us or our service providers when you visit us such as your Internet Protocol address, the address of the web page you were browsing before visiting us, browser type and settings, the date and time of your request, and how you browsed our Site. We or our service providers may use “cookies” or similar technologies to record log data. To learn more about cookies read our [Cookie Notice](http://www.ebaymainstreet.com/privacy-and-cookie-notice#Cookie%20Notice) below.
+  * Log Data: This is information that is automatically recorded by us or our service providers when you visit us such as your Internet Protocol address, the address of the web page you were browsing before visiting us, browser type and settings, the date and time of your request, and how you browsed our Site. We or our service providers may use “cookies” or similar technologies to record log data. To learn more about cookies read our [Cookie Notice](https://www.ebaymainstreet.com/privacy-and-cookie-notice#Cookie%20Notice) below.
   * Device Information: Your access device makes certain information available to us or our service providers such as what type of device it is, your operating system, and Device ID or unique device identifier. To learn more about the information that your device makes available check the policies of your device manufacturer or software provider.
 
 
@@ -40,7 +40,7 @@ We collect Personal Information in two ways:
 
 We or our authorized service providers may install cookies in your device when you visit us. We may also use other similar technologies. Cookies are tiny text files that are placed in the memory of your browser or device and allow us to record certain pieces of information whenever you visit or interact with our Site. Cookies may be “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them).
 
-We use cookies and similar technologies only to assess the performance of our Site, including as part of our analytic practices to help us understand how our visitors use our Site, determine if an Event or link has been viewed, or to improve our Site content. For example, we use third party Analytics ([Google Analytics](http://www.google.com/analytics/)) to obtain web traffic information that allows us to optimize our Site. To learn how to opt-out read the [Your Choices](http://www.ebaymainstreet.com/privacy-and-cookie-notice#Your%20Choices) section below. We do not use cookies or similar technologies to serve targeted advertising.
+We use cookies and similar technologies only to assess the performance of our Site, including as part of our analytic practices to help us understand how our visitors use our Site, determine if an Event or link has been viewed, or to improve our Site content. For example, we use third party Analytics ([Google Analytics](https://www.google.com/analytics/)) to obtain web traffic information that allows us to optimize our Site. To learn how to opt-out read the Your Choices section below. We do not use cookies or similar technologies to serve targeted advertising.
 
 If you reside within the United States: California law requires us to say how we respond to Do Not Track (DNT) signals. Because we do not collect Personal Information about our users over time and across third party websites and online services, we do not currently respond to DNT signals.
 
@@ -65,8 +65,8 @@ Finally, we may engage in certain transactions that require us to transfer Perso
 
 ## Your Choices
 
-  * You may request access to the Personal Information provided to us during registration or request that such information be updated by writing us an email at [government_relations@ebay.com](mailto:government_relations@ebay.com) or by contacting us through our [Contact Us ](http://www.ebaymainstreet.com/contact) page at any time.
-  * You may change your preferences about how we contact you by clicking the unsubscribe link on any of our emails or by letting us know what your preferences are through our [Contact Us](http://www.ebaymainstreet.com/contact) page at any time.
+  * You may request access to the Personal Information provided to us during registration or request that such information be updated by writing us an email at [government_relations@ebay.com](mailto:government_relations@ebay.com) or by contacting us through our [Contact Us ](https://www.ebaymainstreet.com/contact) page at any time.
+  * You may change your preferences about how we contact you by clicking the unsubscribe link on any of our emails or by letting us know what your preferences are through our [Contact Us](https://www.ebaymainstreet.com/contact) page at any time.
   * You may opt-out of Google Analytics by installing [Google Analytics Opt-out Browser Add-on ](https://tools.google.com/dlpage/gaoptout) 
   * Your browser or device may allow you to set your preferences in a way that blocks our cookies.
 
@@ -79,9 +79,9 @@ We work very hard to protect your information by using technical and administrat
 ## Other Important Information
 
   * We may change this notice from time to time. If we do, we will post any changes on this Site. If the changes are significant, we may provide more prominent notice or obtain your consent as required by law. Amended terms automatically take effect 30 days after they are posted. If you continue to use our Site after those changes are in effect, you agree to the revised notice.
-  * Our websites are general audiences websites, and our Site is not inteded for children under the age of 13. We do not knowingly collection personal information from users in this age group.
+  * Our websites are general audiences websites, and our Site is not intended for children under the age of 13. We do not knowingly collect personal information from users in this age group.
   * When you share information with third party social media websites (e.g. by using the like button to share information about a campaign you have joined) remember that the information these third parties collect is subject to their privacy policies, not ours.
   * Your Personal Information may be processed and retained on servers in the United States and elsewhere in the world where our data centers are located. The laws pertaining to Personal Information in the United States may be different than the laws of the country where you reside.
-  * You may contact us by writing us an email at [government_relations@ebay.com](mailto:government_relations@ebay.com), by contacting us through our [Contact Us page](http://www.ebaymainstreet.com/contact) or you may write to the Global Privacy Office at 2065 Hamilton Avenue, San Jose, California, 95125, USA (Attn: Legal – Global Privacy Office).
+  * You may contact us by writing us an email at [government_relations@ebay.com](mailto:government_relations@ebay.com), by contacting us through our [Contact Us page](https://www.ebaymainstreet.com/contact) or you may write to the Global Privacy Office at 2065 Hamilton Avenue, San Jose, California, 95125, USA (Attn: Legal – Global Privacy Office).
 
 
