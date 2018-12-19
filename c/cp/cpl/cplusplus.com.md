@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609222039id_/http%3A//cplusplus.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219142451id_/http%3A//www.cplusplus.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy policy
 
