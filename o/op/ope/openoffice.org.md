@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openoffice.org privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615193606id_/https%3A//www.openoffice.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openoffice.org privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219131745id_/http%3A//www.openoffice.org/privacy.html) for the most accurate reproduction.*
 
 # Apache OpenOffice - Privacy
 
