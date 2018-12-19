@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033736id_/https%3A//www.inmotionhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219024623id_/https%3A//www.inmotionhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InMotion Hosting
 
