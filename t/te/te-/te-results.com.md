@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617073433id_/http%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220004708id_/https%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
 
 # Traffic Exchange Results (TE-Results.com) - Privacy Policy
 
