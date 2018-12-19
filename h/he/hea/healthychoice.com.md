@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthychoice.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040346id_/http%3A//www.conagrabrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychoice.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219072840id_/http%3A//www.conagrabrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Conagra Brands
 
@@ -74,7 +74,7 @@ Back to Top
 
 **CHOICE/OPT-OUT**
 
-Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. You can also control certain cookies and tracking tools. To learn more about our tracking and how our vendors use cookies and other tracking tools, please [click here](https://web.archive.org/sites/g/files/qyyrlu371/files/2016-11/ConAgra_Foods_About_Our_Ads.pdf).
+Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. You can also control certain cookies and tracking tools. To learn more about our tracking and how our vendors use cookies and other tracking tools, please [click here](https://web.archive.org/sites/g/files/qyyrlu371/files/2018-11/ConAgra_Foods_About_Our_Ads.pdf).
 
 Back to Top
 
