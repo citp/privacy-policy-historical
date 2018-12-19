@@ -1,24 +1,73 @@
-> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114406id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219144100id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | english-at-home.com
 
-## Privacy Policy
+It is www.english-at-home.com's policy to respect your privacy regarding any information we collect or which you provide to us. This privacy policy explains what types of personal information we receive, collect or use when you use and visit this site and how we safeguard your information. We never sell your personal information to third parties.
 
-Your privacy is important to us.
+**The GDPR**
 
-We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit this site and how we safeguard your information. We never sell your personal information to third parties.
+The EU General Data Protection Regulations (May 25 2018) give you much greater protection over your privacy and personal information. Here's what you need to know:
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+www.english-at-home.com are the "data controller". If you have any questions about this policy or about how we use your Personal Data, please contact us via our contact details at the end of this policy.
 
-We use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of the site features.
+Personal Data we collect via www.english-at-home.com  
+We only collect Personal Data where you choose to sign up to receive free content, including tips to learn English, plus special offers on promotions. We do not share your email address with anyone else, and you can unsubscribe any time via the link in the email.
 
-Cookies & 3rd Party Advertisements
+Data we collect automatically  
+When you sign up to receive emails from us, we automatically record your IP address and time-stamp as proof of your consent.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We automatically collect certain information when you visit our website, such as the type of browser and operating system you are using, and the domain name of your ISP (internet service provider), the time you visited our site, and which pages you visited. We do not link this information with any personal data.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We may also collect data automatically through our use of cookies on the website. Google, as a third party vendor, uses advertising cookies to serve ads based on your previous visits to our website or other websites. You can opt out of personalised advertising by visiting [Ads Settings](https://adssettings.google.com/authenticated)
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Use of your Personal Data  
+We will only use your Personal Data when the law allows us to.
 
-All material on this site is © 2017 english-at-home.com | [Contact](https://web.archive.org/about-us/) [Privacy](https://web.archive.org/privacy-policy/)
+Sharing your Personal Data  
+We take your privacy seriously and will not share your Personal Data with others, except as  
+permitted by applicable law or as set out below:  
+We share Personal Data as necessary with third parties located outside the EU who provide services to us and who require the information to provide those services. These third parties may include social media advertising platforms or email service providers. Please note that we have appropriate data privacy safeguards in place with these third parties.
+
+Keeping your Personal Data secure  
+We maintain physical, electronic and procedural safeguards that comply with applicable law, including the GDPR, to safeguard Personal Data from accidental loss, destruction or damage and unauthorised access, use and disclosure.
+
+Retention periods for use of your Personal Data  
+We will use and store your Personal Data only for as long as necessary. We review the Personal Data we hold at regular intervals and delete permanently or anonymise any Personal Data which is no longer necessary.
+
+Children  
+This website and our services are aimed at adults, and we do not knowingly collect any  
+Personal Data relating to children aged under 15 years old. If you are under the age of 15,  
+please do not provide us with any of your Personal Data, including your email address.
+
+Access to and control over your Personal Data  
+You have legal rights under applicable law in relation to your Personal Data. You can ask the  
+following questions, or take the following actions, at any time by contacting us via email ( support @ english-at-home.com)  or via our postal address:  
+• see what Personal Data we hold about you (if any), including why we are holding it and who  
+it could be disclosed to;  
+• ask us to change/correct your Personal Data;  
+• ask us to delete your Personal Data;  
+• object to the processing of your Personal Data;  
+• ask us to restrict the processing of your Personal Data;  
+• withdraw any consents you have given us to the processing of your Personal Data; and  
+• express any concerns you have about third parties’ use of your Personal Data.
+
+Change of purpose  
+We will only use your Personal Data for the purposes for which we collected it, unless we  
+reasonably consider that we need to use it for another reason and that reason is compatible  
+with the original purpose. If you wish to have an explanation as to how the processing for  
+the new purpose is compatible with the original purpose, please contact us.  
+If we need to use your Personal Data for an unrelated purpose, we will notify you and we will  
+explain the legal basis which allows us to do so.
+
+Contact Us  
+Our full details are:  
+english-at-home.com LTD
+
+Email for Privacy Questions:  
+support @ english-at-home.com
+
+Postal Address:  
+5, The Chambers  
+Vineyard  
+Abingdon-on-Thames  
+OXON OX14 3PX
