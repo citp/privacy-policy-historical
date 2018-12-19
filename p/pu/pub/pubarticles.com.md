@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612121218id_/http%3A//www.pubarticles.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219112432id_/http%3A//www.pubarticles.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Pubarticles.COM - Privacy Policy
 
