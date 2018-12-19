@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609021442id_/http%3A//www.hays.co.uk/revised-privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220005702id_/http%3A//www.hays.co.uk/revised-privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Hays Privacy Policy | Hays
 
@@ -43,7 +43,7 @@ If you have come to this page because you want to access your marketing preferen
   * If you would like a more detailed description of the personal data that we collect about you, please click here.  
  
   * To the extent that you access our website we will also collect certain data from you. If you would like more information about this, please click here
-  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS:** In order to provide Candidates with suitable employment opportunities safely and securely and to provide for every eventuality for them and our Staff, we need some basic background information. We only ask for very basic contact details, so that we can get in touch with you either for a reference or because you’ve been listed as an emergency contact for one of our Candidates or Staff members.  
+  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS AND DEPENDANTS:** In order to provide Candidates with suitable employment opportunities safely and securely., to provide for every eventuality for them and our Staff, and to allow Staff to access certain benefits or employment rights, we need some basic background information. We ask for very basic contact details, so that we can get in touch with you either for a reference or because you’ve been listed as an emergency contact for one of our Candidates or Staff members.  
  
   * If you would like a more detailed description of the personal data that we collect about you, please click here.  
  
@@ -57,7 +57,7 @@ A number of elements of the personal data we collect from you are required to en
 
 Depending on the type of personal data in question and the grounds on which we may be processing it, should you decline to provide us with such data, we may not be able to fulfil our contractual requirements or, in extreme cases, may not be able to continue with our relationship.
 
-For details of the legal bases that we rely on to be able to use and process your personal data, please click here.
+For details of the legal basis that we rely on to be able to use and process your personal data, please click here.
 
 ### How do we collect your personal data?
 
@@ -83,7 +83,7 @@ For details of the legal bases that we rely on to be able to use and process you
  
   * To the extent that you access our website or read or click on an email from us, we may also collect certain data automatically or through you providing it to us. For more information please click here.  
  
-  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS:** We collect your contact details only where a Candidate or a member of our Staff puts you down as their emergency contact or where a Candidate gives them to us in order for you to serve as a referee.  
+  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS AND DEPENDANTS:** We collect your contact details only where a Candidate or a member of our Staff puts you down as their emergency contact or where a Candidate gives them to us in order for you to serve as a referee.  
  
   * **WEBSITE USERS:** We collect your data automatically via cookies when you visit our website, in line with cookie settings in your browser. If you would like to find out more about cookies, including how we use them and what choices are available to you, please click here. We will also collect data from you when you contact us via the website, for example by using the chat function.
 
@@ -103,7 +103,7 @@ For details of the legal bases that we rely on to be able to use and process you
  
   * For more details on how we use your personal data, please click here.  
  
-  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS:** We use referees’ personal data to help our Candidates to find employment which is suited to them. If we are able to verify their details and qualifications, we can make sure that they are well matched with prospective employers. We may also use referees' personal data to contact them in relation to recruitment activities that may be of interest to them. We use the personal details of a Candidates or Staff member's emergency contacts in the case of an accident or emergency affecting that Candidates or member of Staff .  
+  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS AND DEPENDANTS:** We use referees’ personal data to help our Candidates to find employment which is suited to them. If we are able to verify their details and qualifications, we can make sure that they are well matched with prospective employers. We may also use referees' personal data to contact them in relation to recruitment activities that may be of interest to them. We use the personal details of a Candidates or Staff member's emergency contacts in the case of an accident or emergency affecting that Candidates or member of Staff  to allow that Staff  member to access certain benefits or employment rights.  
  
   * For more details on how we use your personal data, please click here.  
  
@@ -130,7 +130,7 @@ For details of the legal bases that we rely on to be able to use and process you
  
   * If you would like to see a list of who we may share your personal data with, please click here.  
  
-  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS:** Unless you specify otherwise, we may share your information with any of our group companies and associated third parties such as our service providers and organisations to whom we provide services.   
+  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS AND DEPENDANTS:** Unless you specify otherwise, we may share your information with any of our group companies and associated third parties such as our service providers and organisations to whom we provide services.   
  
   * If you would like to see a list of who we may share your personal data with, please click here.  
  
@@ -173,7 +173,7 @@ For details of the legal bases that we rely on to be able to use and process you
 \- where we are legally permitted to do so, we may decline your request, but we will explain why if we do so.
 
  
-  * **Right to erasure:** In certain situations (for example, where we have processed your data unlawfully), you have the right to request us to "erase" your personal data. We will respond to your request within 30 days (although we may be allowed to extend this period in certain cases) and will only disagree with you if certain limited conditions apply. If we do agree to your request, we will Delete your data but will generally assume that you would prefer us to keep a note of your name on our register of individuals who would prefer not to be contacted. That way, we will minimise the chances of you being contacted in the future where your data are collected in unconnected circumstances. If you would prefer us not to do this, you are free to say so.  
+  * **Right to erasure:** In certain situations (for example, where we have processed your data unlawfully), you have the right to request us to "erase" your personal data. We will respond to your request within 30 days (although we may be allowed to extend this period in certain cases) and will only disagree with you if certain limited conditions apply. If we do agree to your request, we will Delete your data.  
  
   * **Right of data portability:** If you wish, you have the right to transfer your data from us to another data controller. We will help with this – either by directly transferring your data for you, or by providing you with a copy in a commonly used machine-readable format.   
  
@@ -315,12 +315,12 @@ So you're looking for a bit more insight into what data we collect about you? He
 
 ***
 
-**PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS:** All we need from referees is confirmation of what you already know about our Candidate or prospective member of Staff, so that they can secure that job they really want. Emergency contact details give us somebody to call on in an emergency. To ask for a reference, we'll obviously need the referee's contact details (such as name, email address and telephone number). We'll also need these details if our Candidate or a member of our Staff has put you down as their emergency contact so that we can contact you in the event of an accident or an emergency.   
- 
+**PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS AND DEPENDANTS:** All we need from referees is confirmation of what you already know about our Candidate or prospective member of Staff, so that they can secure that job they really want. Emergency contact details give us somebody to call on in an emergency. To ask for a reference, we'll obviously need the referee's contact details (such as name, email address and telephone number). We'll also need these details if our Candidate or a member of our Staff has put you down as their emergency contact so that we can contact you in the event of an accident or an emergency.
 
-***
+We will collect your date of birth, contact details and potentially some health information if a member of our Staff has put you down as a dependant or any other kind of beneficiary for a benefit connected with their employment or if a member of our Staff exercises certain employment rights. We may also be provided (by inference) with some limited information about your sexual orientation if a member of our Staff identifies you as a spouse or partner when putting you down as a dependant, next of kin or emergency contact.
 
   * **WEBSITE USERS** We collect a limited amount of data from our Website Users which we use to help us to improve your experience when using our website and to help us manage the services we provide. This includes information such as how you use our website, the frequency with which you access our website, your browser type, the location you view our website from, the language you choose to view it in and the times that our website is most popular. If you contact us via the website, for example by using the chat function, we will collect any information that you provide to us, for example your name and contact details.   
+We will collect your date of birth, contact details and potentially some health information if a member of our Staff has put you down as a dependant or any other kind of beneficiary for a benefit connected with their employment or if a member of our Staff exercises certain employment rights. We may also be provided (by inference) with some limited information about your sexual orientation if a member of our Staff identifies you as a spouse or partner when putting you down as a dependant, next of kin or emergency contact.  
  
   * If you would like to find out more information about what data we collect about you when you visit our website, please click here.  
  
@@ -355,7 +355,7 @@ So you're looking for a bit more insight into what data we collect about you? He
 
 \- Entering your personal details into a Hays microsite; or
 
-\- Entering a competition through a social media channel such as Facebook or Twitter.
+\- Entering a competition through a social media channel such as Facebook or Twitter (or similar).
 
 **Personal data we receive from other sources**
 
@@ -367,7 +367,7 @@ So you're looking for a bit more insight into what data we collect about you? He
 
 \- We may obtain information about you from searching for potential Candidate from third party sources, such as LinkedIn and other job sites;
 
-\- If you 'like' our page on Facebook or 'follow' us on Twitter we will receive your personal information from those sites; and
+\- If you 'like' our page on Facebook or 'follow' us on Twitter (or perform a similar action) we will receive your personal information from those sites; and
 
 \- If you were referred to us through an RPO or an MSP supplier, they may share personal information about you with us.
 
@@ -475,11 +475,13 @@ Here are some more details about each:
 
 \- Carrying out customer satisfaction surveys;
 
-\- Verifying details you have provided, using third party resources (such as psychometric evaluations or skills tests), or to request information (such as references, qualifications and potentially any criminal convictions, to the extent that this is appropriate and in accordance with local laws);
+\- Verifying details you have provided, or to request information (such as references, qualifications and potentially any criminal convictions, to the extent that this is appropriate and in accordance with local laws);
 
-\- Complying with our legal obligations in connection with the detection of crime or the collection of taxes or duties; and
+\- Complying with our legal obligations in connection with the detection of crime or the collection of taxes or duties;
 
-\- Processing your data to enable us to send you targeted, relevant marketing materials or other communications which we think are likely to be of interest to you.
+\- Processing your data to enable us to send you targeted, relevant marketing materials or other communications which we think are likely to be of interest to you; and
+
+-Carrying out assessment and development activities (such as psychometric evaluations or skills tests) in certain of the jurisdictions in which we operate – For more information in relation to your jurisdiction, please click [here](https://web.archive.org/web/20181220005702id_/http%3A//www.hays.co.uk/revised-privacy-policy/Annex-3).
 
   * We may use your personal data for the above purposes if we deem it necessary to do so for our legitimate interests. If you want to know more about what this means, please click here. If you are not happy about this, in certain circumstances you have the right to object and can find out more about how and when to do this here.   
  
@@ -502,7 +504,7 @@ Here are some more details about each:
 
     * We need your consent for some aspects of these activities which are not covered by our legitimate interests (in particular, the collection of data via cookies, and the delivery of direct marketing to you through digital channels) and, depending on the situation, we'll ask for this via an opt-in or soft-opt-in (which we explain further below). Please note that in certain of the jurisdictions in which we operate, we comply with additional local law requirements. For more information in relation to your jurisdiction, please click here.  
  
-    * Soft opt-in consent is a specific type of consent which applies where you have previously engaged with us (for example by submitting a job application or CV, or registering a vacancy to be filled), and we are marketing other recruitment-related services. Under ‘soft opt-in’ consent, we will take your consent as given unless or until you opt out. For most people, this is beneficial as it allows us to suggest other jobs to you alongside the specific one you applied for, significantly increasing the likelihood of us finding you a new position. For other types of e-marketing, we are required to obtain your explicit consent.  
+    * Soft opt-in consent is a specific type of consent which applies where you have previously engaged with us (for example by submitting a job application or CV, or registering a vacancy to be filled), and we are marketing other recruitment-related services. Under ‘soft opt-in’ consent, we will take your consent as given unless or until you opt out. For most people, this is beneficial as it allows us to provide you with information that we think will be of interest to you and suggest other jobs to you alongside the specific one you applied for, significantly increasing the likelihood of us finding you a new position. For other types of e-marketing, we are required to obtain your explicit consent.  
  
     * If you want to know more about how we obtain consent, please click here. If you are not happy about our approach to marketing, you have the right to withdraw your consent at any time and can find out more about how to do so here. Nobody's perfect, even though we try to be. We want to let you know that even if you have opted out from our marketing communications through our preference centre, it is possible that your details may be recaptured through public sources in an unconnected marketing campaign. We will try to make sure this doesn't happen, but if it does, we're sorry. We'd just ask that in those circumstances you opt out again.   
  
@@ -513,11 +515,11 @@ Here are some more details about each:
 
   * We are committed to ensuring that our recruitment processes are aligned with our approach to equal opportunities. Some of the data we may (in appropriate circumstances and in accordance with local law and requirements) collect about you comes under the umbrella of "diversity information". This could be information about your ethnic background, gender, disability, age, sexual orientation, religion or other similar beliefs, and/or social-economic background. Where appropriate and in accordance with local laws and requirements, we'll use this information on an anonymised basis to monitor our compliance with our equal opportunities policy. We may also disclose this (suitably anonymised where relevant) data to Clients where this is contractually required or the Client specifically requests such information to enable them to comply with their own employment processes.   
  
-  * This information is what is called ‘sensitive’ personal information and slightly stricter data protection rules apply to it. We therefore need to obtain your explicit consent before we can use it. We'll ask for your consent by offering you an opt-in. This means that you have to explicitly and clearly tell us that you agree to us collecting and using this information.  
+  * This diversity information is what is called ‘sensitive’ or 'special category' personal information and slightly stricter data protection rules apply to it. We therefore need to obtain your explicit consent before we can use it. We'll ask for your consent by offering you an opt-in. This means that you have to explicitly and clearly tell us that you agree to us collecting and using this information.  
  
-  * We may collect other sensitive personal data about you, such as health-related information, religious affiliation, or details of any criminal convictions if this is appropriate in accordance with local laws and is required for a role that you are interested in applying for. We will never do this without your explicit consent.   
+  * We may collect other sensitive/special category personal data about you, such as health-related information, religious affiliation, or details of any criminal convictions if this is appropriate in accordance with local laws and is required for a role that you are interested in applying for. We will never do this without your explicit consent unless we have another valid legal basis to do so.   
  
-  * If you would like to find out more about consent, please click here. Please note that in certain of the jurisdictions in which we operate, different rules apply to this sensitive data. For more information in relation to your jurisdiction, please click here.  
+  * If you would like to find out more about consent, please click here. Please note that in certain of the jurisdictions in which we operate, different rules apply to this sensitive/special category data. For more information in relation to your jurisdiction, please click here.  
  
   * If you are not happy about this, you have the right to withdraw your consent at any time and you can find out how to do so here.   
  
@@ -611,15 +613,17 @@ Here are some more details about each: 
 
 ***
 
-  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS:** We will only use the information that our Candidate gives us about you for the following purposes: 
+  * **PEOPLE WHOSE DATA WE RECEIVE FROM CANDIDATES AND STAFF, SUCH AS REFEREES AND EMERGENCY CONTACTS AND DEPENDENTS:** We will only use the information that our Candidate gives us about you for the following purposes: 
 
 \- If our Candidates or Staff members put you down on our form as an emergency contact, we'll contact you in the case of an accident or emergency affecting them; or 
 
-\- If you were put down by our Candidate or a prospective member of Staff as a referee, we will contact you in order to take up a reference. This is an important part of our Candidate quality assurance process, and could be the difference between the individual getting a job or not.
+-If you were put down by a Staff member as a next of kin or dependant or any other kind of beneficiary, we will store your personal data to ensure the personnel records of that Staff member are correct, and use your personal data where necessary to provide employee benefits and pay remuneration and disclose your data to the relevant benefits provider.
+
+\- If you were put down by our Candidate or a prospective member of Staff as a referee, we will contact you in order to take up a reference. This is an important part of our quality assurance process, and could be the difference between the individual getting a job or not.
 
 \- If you were put down by our Candidate or a prospective member of Staff as a referee, we may sometimes use your details to contact you in relation to recruitment activities that we think may be of interest to you, in which case we will use your data for the same purposes for which we use the data of Clients. If you would like to find out more about what this means, please click here.
 
-  * We may use your personal data for these purposes if we deem this to be necessary for our legitimate interests. If you would like to find out more about what this means, please click here.  
+  * We may use your personal data for these purposes if we deem this to be necessary for our legitimate interests or in accordance with applicable employment law. If you would like to find out more about what this means, please click here.  
  
   * If you are not happy about this, you have the right to object and can find out more about how to do so here.   
  
@@ -744,7 +748,7 @@ If you would like to find out more about cookies, including how we use them and 
 
 \- to exercise or defend a legal claim.
 
-    * When complying with a valid request for the erasure of data we will take all reasonably practicable steps to Delete the relevant data.  
+    * When complying with a valid request for the erasure of data we will Delete the relevant data.  
  
     * **Right to restrict processing:** You have the right to request that we restrict our processing of your personal data in certain circumstances. This means that we can only continue to store your data and will not be able to carry out any further processing activities with it until either: (i) one of the circumstances listed below is resolved; (ii) you consent; or (iii) further processing is necessary for either the establishment, exercise or defence of legal claims, the protection of the rights of another individual, or reasons of important EU or Member State public interest.   
  
@@ -769,7 +773,7 @@ If you would like to find out more about cookies, including how we use them and 
  
     * If you would like to exercise any of these rights, or withdraw your consent to the processing of your personal data (where consent is our legal basis for processing your personal data), details of how to contact us can be found here. Please note that we may keep a record of your communications to help us resolve any issues which you raise.  
  
-    * You may ask to unsubscribe from job alerts at any time. Details of how to do so can be found here.  
+    * You may ask to unsubscribe from job alerts and any other marketing communications from us at any time. Details of how to do so can be found here.  
  
     * It is important that the personal information we hold about you is accurate and current. Please keep us informed if your personal information changes during the period for which we hold your data.  
  
@@ -875,7 +879,7 @@ The PDF at Annex 4 lists the cookies we use in your jurisdiction, why we use the
 
 ****************************
 
-### OUR LEGAL BASES FOR PROCESSING YOUR DATA
+### OUR LEGAL BASIS FOR PROCESSING YOUR DATA
 
 ### LEGITIMATE INTERESTS
 
@@ -949,7 +953,7 @@ We will keep records of the consents that you have given in this way.
 
   
  
-  * We have already mentioned that, in some cases, we will be able to rely on soft opt-in consent. We are allowed to market products or services to you which are related to the recruitment services we provide as long as you do not actively opt-out from these communications.   
+  * We have already mentioned that, in some cases, we will be able to rely on soft opt-in consent. We are allowed to market products or services to you which are related to the recruitment services we provide to you as long as you do not actively opt-out from these communications.   
  
   * Please note that in certain of the jurisdictions in which we operate, we comply with additional local law requirements regarding consenting to receive marketing materials. For more information in relation to your jurisdiction, please click here.  
  
@@ -964,6 +968,13 @@ We will keep records of the consents that you have given in this way.
  
   * This may arise for example where we need to take legal advice in relation to legal proceedings or are required by law to preserve or disclose certain information as part of the legal process.  
  
+
+
+
+### TO EXERCISE OUR RIGHTS OR CARRY OUT OUR EMPLOYMENT AND SOCIAL SECURITY LAW OBLIGATIONS
+
+  * For some Candidates, and for individuals whose personal data is provided by Candidates and Staff , it will sometimes be necessary for us to process your sensitive/special category personal data. Article 9(2)(b) of the GDPR allows us to do this where the processing is "necessary for the purposes of carrying out the obligations and exercising [our or your] specific rights… in the field of employment and social security and social protection law", as long as this is allowed by law. 
+  * We process Candidates sensitive/special category personal data for the purpose of ensuring our compliance with our equal opportunities obligations where this is in accordance with local law, (for example, for some Candidates during the course of the recruitment process). We may also process the sensitive/special category personal data of individuals connected with Candidates or Staff for other reasons, for example to allow the relevant Staff member to access certain benefits or employment rights. You can find out how we process your sensitive/special category personal data under "What Kind of Personal Information Do We Collect?" above.
 
 
 
@@ -997,10 +1008,12 @@ We will keep records of the consents that you have given in this way.
   * **with any comments or suggestions concerning this Privacy Policy**
   * You can write to us at the following address:
   * 250 Euston Road, London, United Kingdom, NW1 2AF
-  * Alternatively, you can send an email to: customerservice@hays.com.  
- 
-  * **How you can get in touch with us to update your marketing preferences  
-**
+  * Alternatively, you can send an email to: customerservice@hays.com
+
+
+
+**How you can get in touch with us to update your marketing preferences**
+
   * **You can do this by updating your profile**[ **here**](https://m.hays.co.uk/login) **.**
   * Alternatively you can email us at: [customerservice@hays.com](mailto:customerservice@hays.com) or by clicking the unsubscribe link in any marketing e-mail we send to you.  
 
@@ -1033,7 +1046,7 @@ SK9 5AF
 **JURISDICTION** : UK
 
 **COUNTRY-SPECIFIC LEGAL REQUIREMENT:  **Where your personal data are processed in accordance with the fair processing condition relating to our rights and obligations under employment and social security law, this relates to our processing of your personal data which is necessary for compliance with legal obligations (such as ensuring that we pay you statutory sick pay, comply with the statutory employment protections that you enjoy, comply with health and safety laws, and ensure that appropriate National Insurance contributions are made).   
-**NOTE: THIS APPENDIX WILL BE UPDATED WHEN LOCAL IMPLEMENTING LAW HAS BEEN FINALISED**  
+**NOTE: APPENDIX TO BE UPDATED WITH LOCAL LAW INPUT**  
  
 
 ### ANNEX 4 – COOKIES LIST
@@ -1064,7 +1077,7 @@ SK9 5AF
 [Crazy Egg](https://www.crazyegg.com/privacy)  
 [Hotjar](http://www.hotjar.com/privacy)
 
-To see the full list of Cookie purpose, data collected, shared and duration, please [download our PDF](https://web.archive.org/cs/groups/hays_common/@uk/@content/documents/webassets/cookie_policy.pdf)
+To see the full list of Cookie purpose, data collected, shared and duration, please[ download our PDF](https://web.archive.org/revised-privacy-policy/HAYS_2301905)
 
 ### GLOSSARY
 
@@ -1072,7 +1085,7 @@ To see the full list of Cookie purpose, data collected, shared and duration, ple
  
   * _**Clients**_ \- while it speaks for itself, this category covers our customers, clients, and others to whom Hays provides services in the course of its business.  
  
-  * **_Delete_ **– while we will endeavour to permanently erase your personal data once it reaches the end of its retention period or where we receive a valid request from you to do so, some of your data may still exist within our systems, for example if it is waiting to be overwritten. For our purposes, this data has been put beyond use, meaning that, while it still exists on an archive system, this cannot be readily accessed by any of our operational systems, processes or Staff.   
+  * **_Delete_ **–In this day and age it is virtually impossible to guarantee the permanent and irretrievable deletion of electronic data. In addition, as we have explained to you in this Privacy Policy, sometimes we may be obliged by law or regulation, or need for risk-management reasons, to retain the ability to access certain elements of personal data. However, our commitment to you is that once your personal data reaches the end of its nominal retention period, or where we receive a valid request from you to erase it, we will put in place specific operational and Systems measures to ensure that your data is "put beyond use". By this we mean that while the data will still technically exist on an archive system, we will ensure that it cannot be accessed by any of our operational Systems , processes or Staff. Only a very (and we mean exceptionally) small number of senior Staff , in very (and, again, we mean exceptionally) limited and carefully prescribed situations, will be able to restore your personal data so that it can be viewed for those legitimate purposes. Once we are clear that all relevant legally mandated retention periods have expired (which, for present purposes, we expect to be the period of ten years), we will go the additional final step of undertaking a "hard delete", whereby not even that very limited number of senior Staff would be able to restore your personal data.  
  
   * _**General Data Protection Regulation (GDPR)**_ – a European Union statutory instrument which aims to harmonise European data protection laws. It has an effective date of 25 May 2018, and any references to it should be construed accordingly to include any national legislation implementing it.   
  
@@ -1082,9 +1095,11 @@ To see the full list of Cookie purpose, data collected, shared and duration, ple
  
   * _**Recruitment Process Outsourcing (RPO) services**_ – full or partial outsourcing of the recruitment process for permanent employees to a recruitment provider.   
  
-  * _**Staff**_ – includes employees and interns engaged directly in the business of Hays (or who have accepted an offer to be engaged) as well as certain other workers engaged in the business of providing services to Hays (even though they are not classed as employees). For these purposes we also include employees of Hays who are engaged to work on Clients' premises under the terms of  RPO or MSP agreements. To be clear, 'Staff' does not include individuals hired by Hays for the purpose of being placed with Clients outside of an RPO/MSP arrangement. These individuals are treated in the same way as Hays' Candidates and are covered by this Privacy Policy. Likewise, independent contractors and consultants performing services for Hays fall within the definition of a 'Supplier' for the purposes of this Privacy Policy.  
+  * _**Staff**_ – includes current and former employees and interns engaged directly in the business of Hays (or who have accepted an offer to be engaged) as well as certain other workers who are or were engaged in the business of providing services to Hays (even though they are not classed as employees). For these purposes we also include employees of Hays who are engaged to work on Clients' premises under the terms of  RPO or MSP agreements. To be clear, 'Staff' does not include individuals hired by Hays for the purpose of being placed with Clients outside of an RPO/MSP arrangement. These individuals are treated in the same way as Hays' Candidates and are covered by this Privacy Policy. Likewise, independent contractors and consultants performing services for Hays fall within the definition of a 'Supplier' for the purposes of this Privacy Policy.  
  
   * _**Suppliers**_ – refers to partnerships and companies (including sole traders), and atypical workers such as independent contractors and freelance workers, who provide services to Hays. In certain circumstances Hays will sub-contract the services it provides to Clients to third party suppliers who perform services on Hays' behalf. In this context, suppliers that are individual contractors, freelance workers, or employees of suppliers will be treated as Candidates for data protection purposes. Please note that in this context, Hays requires Suppliers to communicate the relevant parts of this Privacy Policy (namely the sections directed at Candidates) to their employees.  
+ 
+  * _**Systems**_ – include telephone, computer, internet and Wi-Fi systems, software and portals, accounts and/or networks belonging, controlled or used by Hays that are used to transmit, undertake and/or receive communications or are otherwise used in the course of Hays' business, including candidate portal software and CRM systems.  
  
   * _**Website Users**_ \- any individual who accesses any of the Hays websites.  
  
