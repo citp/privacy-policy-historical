@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611043928id_/http%3A//www.coldwatercreek.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219013343id_/http%3A//www.coldwatercreek.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Coldwater Creek
 
@@ -92,9 +92,9 @@ Our site may also serve third party content that contains their own cookies or t
 If you have any questions about this Policy, please email us at [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com)
 
 You can also write to us or call at:  
-Coldwater Creek c/o TG  
-5389 East Provident Dr  
-Cincinnati OH 45246  
+Coldwater Creek  
+777 S. State Road 7  
+Margate, FL 33068  
 1-888-678-5576
 
 If you have any questions about this Policy or want to correct or update your information, please email us at [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com)
