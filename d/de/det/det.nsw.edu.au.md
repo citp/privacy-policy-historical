@@ -1,60 +1,37 @@
-> *The following text is extracted and transformed from the det.nsw.edu.au privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227194619id_/http%3A//www.dec.nsw.gov.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the det.nsw.edu.au privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219161147id_/https%3A//education.nsw.gov.au/about-us/rights-and-accountability/privacy) for the most accurate reproduction.*
 
-# Website Privacy Statement - NSW Department of Education
+# Privacy | About us
 
-The privacy of our website visitors is of utmost importance to the NSW Department of Education and Communities. The purpose of this statement is to let you know what information is collected when you visit the Department's website and how the information is used.
+This page is to help you understand how the privacy legislation protects your personal and health information and how department meets its obligations in respect of this information.
 
-Users should note that there are risks associated with the transmission of information over the internet and should therefore make their own assessment of risks in the provision of information to the Department's internet site.
+Further information about privacy legislation and its application to the department is detailed in the department's [Privacy Management Plan (PDF 552.65KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-management-plan-march-2014.pdf)
 
-**Application**
+## Privacy legislation
 
-This privacy statement applies to all publically accessible pages on the Department's website.
+The NSW privacy legislation -  the Privacy and Personal Information Protection Act 1998 and the Health Records and Information Act 2002 - imposes specific obligations on the department when handling personal and health information that directly or indirectly identifies a person. These obligations, expressed in [12 Information Protection Principles](http://www.ipc.nsw.gov.au/information-protection-principles-public) and [15 Health Privacy Principles](http://www.ipc.nsw.gov.au/health-privacy-principles-hpps-explained-members-public), relate to the collection, storage, use, disclosure and alteration of and access to personal and health information.
 
-The Department does not have any responsibility for the privacy policies or practices of third party sites linked to the Department's website.
+## Modifications to the legislation
 
-**What information do we collect?**
+Privacy legislation allows for modification of these principles by way of codes of practice, public interest directions and statutory guidelines and regulations. The department's [Privacy Code of Practice (PDF 147.28KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy_code.pdf) modifies Information Protection Principles as they relate to certain functions of the department. A number of public interest directions made by the Privacy Commissioner also waive or modify the application of these principles to the department. Four statutory guidelines have been developed to explain exceptions to the health privacy principles.
 
-When you look at the pages on this site, our computers automatically record information that identifies, for each page accessed:  
-• the IP (internet protocol) address of the machine which has accessed it;  
-• your top-level domain name (for example .com, .gov, .au, etc.);  
-• the address of your server;  
-• the date and time of your visit to the site;  
-• the pages accessed and documents downloaded;  
-• the referring site or page;  
-• the type of browser and operating system you have used; and  
-• aggregated demographic and interests data.  
-Cookies used by the Department's website do not collect personal information.
+## Collection of information
 
-**How do we use this information?**
+The department collects a significant volume of personal information in the administration and provision of its education, training and community services. The main classes of information collected are employee, student and other stakeholder information including information about parents and carers and information obtained in the course of developing and managing business relationships.
 
-The Department may use and publish aggregated information collected from its systems to improve its services, including monitoring to prevent security breaches and for research and development to the extent that the information does not identify individual users.
+When collecting personal information the department will take reasonable steps to ensure that the person to whom it relates is made aware of certain matters including the purpose for which it is being collected, the intended recipients of the information and the person's right to access and correct the information. In most instances this will be achieved by a issuing a collection notice in connection with the collection.
 
-Personal information you provide to the Department will only be used for the purpose for which it was provided or as otherwise permitted by privacy legislation. For example, if you choose to provide your name and email address when recording feedback on a webpage for the purpose of receiving a response from the Department, the information will only be used for that purpose.
+Further information about collection of information can be accessed from the [Privacy Management Plan (PDF 552.65KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-management-plan-march-2014.pdf) and [Collection Notice – Schools (PDF 339.18KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/collection-notice.pdf)
 
-**Unauthorised and unlawful use of the website**
+## Complaints
 
-The Department will collect more extensive information if it identifies unauthorised attempts to interfere with or compromise the security of the website or where it suspects there has been a breach of the laws of the State of New South Wales or Commonwealth of Australia.
+If you are dissatisfied with the way in which the department has handled your personal or health information you can request an internal review of such conduct. A request must be in writing and addressed to the department using the [internal review application form (PDF 149.27KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-review-form.pdf).
 
-The Department reserves the right to make disclosures to relevant authorities where the use of its website raises a suspicion that an offence is being or has been committed.
+## Access and amendment
 
-**Access and correction**
+If you want to access or amend your own personal or health information you can go directly to the business centre responsible for the information. You can contact the Schools and Community Senior Information Officer on 02 9561 8999 for assistance in identifying the relevant business centre or complete a request form, available from this site, and lodge it with the business centre. Requests for access to your personal information can also be made to the department's Information Access Unit.
 
-If the Department holds your personal information you can request to access or amend it by contacting the business centre with responsibility for the information. The public liaison office on 02 9561 8999 can provide information to assist in identifying the relevant business centre. Requests for access to your personal information can also be made to the Department's Information Access Unit.
+## Other related information
 
-**Updating statement**
+[Privacy Bulletins (PDF 484.98KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-bulletin-number-9.pdf) and [Legal Issues Bulletins](https://education.nsw.gov.au/about-us/rights-and-accountability/legal-issues-bulletins) provide guidance to staff in the application of privacy principles.  Privacy Bulletins are currently under review and not all are publicly accessible. Links to these bulletins will be provided as soon as the review process is complete.
 
-The Department acknowledges and embraces the developing nature of online communication, to the extent that it enhances the provision of its services. This statement may be modified from time to time to accommodate these developments and the changing structure of the Department.
-
-**More about Privacy**
-
-For more information about your right to privacy under the _Privacy and Personal Information Protection Act 1998_ and how the Department handles your personal information visit [Privacy](http://www.dec.nsw.gov.au/about-us/plans-reports-and-statistics/privacy) **.**
-
-If you have any questions about this website, the application of this privacy statement or a general inquiry about the Department's handling of your personal information please contact:
-
-Privacy Contact Officer  
-Legal Services Directorate  
-Level 5, 35 Bridge Street  
-Sydney NSW 2000, Australia  
-Telephone: 02 9561 8538; 1300 679 332 (switchboard)  
-Facsimile: 9561 8543  
-Email: [legal@det.nsw.edu.au](mailto:legal@det.nsw.edu.au)
+The [Information and Privacy Commission NSW](http://www.ipc.nsw.gov.au/privacy/ipc_index.html) provides support and information to the public and department to ensure the objectives of privacy legislation are achieved. Factsheets and other resources are available from the Information and Privacy Commission website.
