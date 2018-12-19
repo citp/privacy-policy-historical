@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energysage.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016122738id_/https%3A//www.energysage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysage.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219075804id_/https%3A//www.energysage.com/privacy-policy) for the most accurate reproduction.*
 
 # EnergySage™ Privacy Policy | EnergySage
 
@@ -82,7 +82,7 @@ __For Connecticut residents only._ In fulfillment of its Channel Partnership wit
 
   1. by logging in and clicking on the link captioned “My Account”;
   2. by email sent to [admin@energysage.com](mailto:admin@energysage.com);
-  3. by mail sent to EnergySage at 120 Water Street, Boston, MA 02109; or
+  3. by mail sent to EnergySage at 101 Arch St., Suite 600, Boston, MA 02110; or
   4. by telephoning (617) 936-8512.
 
 
