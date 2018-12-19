@@ -1,91 +1,57 @@
-> *The following text is extracted and transformed from the modelhub.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507142902id_/http%3A//modelhub.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelhub.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219022654id_/https%3A//www.modelhub.com/information/privacy) for the most accurate reproduction.*
 
-# ModelHub Showcase and Connect - Privacypolicy
+# Privacy Policy Information | Modelhub.com
 
-MODELHUB LIMITED 
+This document details important information regarding the use and disclosure of User Data collected on Modelhub.com
 
-PRIVACY POLICY 
+The security of your Data is very important to Modelhub.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
-Modelhub Limited, a limited company registered in Scotland under company number SC396791 and having our registered office at 18 Boclair Road, Glasgow, G61 2AF ("we"), are committed to protecting and respecting your privacy. 
+This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
-This policy (together with our terms of website use [http://modelhub.com/terms](http://www.modelhub.com.com/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+Data Collected
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Modelhub Limited. 
+  * Personal Information:   
 
-INFORMATION WE MAY COLLECT FROM YOU 
+    * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
+    * Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
+  * Cookies: When you visit Modelhub.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Modelhub.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+  * Log File Information: When you visit Modelhub.com, our servers may automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  * Emails: If you contact us, we may keep a record of that correspondence.
 
-We may collect and process the following data about you:- 
 
-Information that you provide by filling in forms on our site, modelhub.com(“our site”). This includes information provided at the time of registering to become a member of our site, posting material or requesting further services. We will also collate data on the number of views/hits on any content that a member has posted on our site. We may also ask you for information when you enter a competition or promotion sponsored by ModelHUB Limited, and when you report a problem with our site; 
 
-If you contact us, we may keep a record of that correspondence; 
+Uses
 
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them; 
+  * Your Personally identifiable information submitted to Modelhub.com is used to provide to the user the website's features and special personalized features.
+  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload.
+  * Any videos that you submit to Modelhub.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
+  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
+  * OPT-IN AND USER COMMUNICATION - Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
+  * OPT-OUT AND USER COMMUNICATION - Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Modelhub.com user-experience.
 
-Details of transactions you carry out through our site; and 
 
-Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
 
-IP ADDRESSES 
+Disclosure Of Information
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
+  * if under duty to do so Modelhub.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Modelhub.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Modelhub.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+  * Should you deliberately upload any illegal material Modelhub.com shall forward all available information to all relevant authorities and this without notice.   
+\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
-COOKIES 
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. Your agreement to our using cookies is deemed approved if you have agreed to our Terms and Conditions. 
 
-WHERE WE STORE YOUR PERSONAL DATA 
+Security
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+Unfortunately, the transmission of information via the Internet is not completely secure. Modelhub.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Modelhub.com and you do so at your own risk.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+Your Rights
 
-USES MADE OF THE INFORMATION 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
 
-We use information held about you in the following ways: 
+## GDPR (General Data Protecton Regulation)
 
-To ensure that content from our site is presented in the most effective manner for you and for your computer; 
-
-To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; 
-
-To allow you to participate in interactive features of our service, when you choose to do so; and 
-
-To notify you about changes to our service. 
-
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email, post, telephone or SMS. 
-
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form). 
-
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 200 women aged under 30 have clicked on their advertisement on any given day). We may also use 
-
-such aggregate information to help advertisers reach the kind of audience they want to target (for example, women living in a certain postcode). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. 
-
-DISCLOSURE OF YOUR INFORMATION 
-
-We may disclose your personal information to third parties: 
-
-In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; 
-
-If Modelhub Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; or 
-
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of website use [http://modelhub.com/terms](http://www.modelhub.com.com/terms) or website terms and conditions of service [http://modelhub.com/terms](http://www.modelhub.com.com/terms)and other agreements; or to protect the rights, property, or safety of Modelhub Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
-
-YOUR RIGHTS 
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at : theteam@modelhub.com 
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
-
-ACCESS TO INFORMATION 
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £25 to meet our costs in providing you with details of the information we hold about you. 
-
-CHANGES TO OUR PRIVACY POLICY 
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
-
-CONTACT 
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to : theteam@modelhub.com 
+In accordance with the General Data Protecton Regulation law in the European Union effective May 25, 2018, Modelhub users can request a copy of their personal data as well as get Modelhub to delete their personal data. 
