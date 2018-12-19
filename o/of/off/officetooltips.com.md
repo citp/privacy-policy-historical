@@ -1,135 +1,45 @@
-> *The following text is extracted and transformed from the officetooltips.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220050942id_/https%3A//www.officetooltips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officetooltips.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219184025id_/https%3A//www.officetooltips.com/privacy.html) for the most accurate reproduction.*
 
-# officetooltips.com | Privacy Policy
+# Privacy Policy
 
-**What information do we collect?**
+This Privacy Policy describes the collection and use of information on our website. Please read this policy before using, or submitting information to, these sites. By using this site, you signify that you agree to this Privacy Policy. Although this site contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other, sites. If you have questions about how those websites collect and use data, you should carefully read those sites’ privacy policies. 
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+## Personal Information Collected on this Website
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+No personal information is collected on this website from consumers who browse for information.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+The only personal information collected on this website is gathered on our "contact us" forms. In the consumer form, fields are provided so that users can submit questions or comments and provide contact information including name, email address, and phone number. We collect this personal information so that we can respond to these inquiries, comments, and questions. We also may disclose your personal information if required to do so by law, including by search warrant, subpoena, or court order. 
 
- **DoubleClick DART Cookie**
+As discussed below, we also collect non-personally identifiable information on this website. However, we do not merge any of the personal information collected via our contact form with anonymous data collected on our website. 
 
-.:: Google, as a third party vendor, uses cookies to serve ads on officetooltips.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to officetooltips.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
+## Non-Personally Identifiable Data Collected on this Website
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+We collect and store in server logs non-personally identifiable information, including but not limited to browser type, IP address, operating system, the date and time of visits, the pages visited on the site, time spent viewing the site, and return visits to the site. We also use Google Analytics, a service that records non-personally identifiable data such as browser type, operating system, the date and time of a visit, where visitors came from, the pages visited on this website, the time spent viewing site, where visitors went when they left the site, and return visits to the site. 
 
+We aggregate this non-personally identifiable data to better understand how visitors use our site, and to help manage, maintain, and report on use of our website. We store IP addresses for fraud detection and prevention purposes. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on officetooltips.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+We may share this non-personally identifiable data with third parties for the limited purpose of reporting on use of our website, or to comply with applicable law. We also may share this data with our service providers. We do not rent, sell or share any non-personally identifiable data collected on this website with third parties for marketing purposes. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+## Cookies
 
-officetooltips.com has no access to or control over these cookies that are used by third-party advertisers. 
+We use cookies on this website. Cookies are small text files created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of online patterns and preferences, as well as to identify return visitors. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information each time you visit a website. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. officetooltips.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+We may allow third-parties, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+## Third Party Content, Links, and Plug-ins
 
-**What do we use your information for?**
+This site contains links to other websites. Please be aware that we are not responsible for the privacy practices of those, or any other, sites. If you have questions about how those websites collect and use data, you should carefully read those sites’ privacy policies. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+## NAI/IAB
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+We are compliant with the policies of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the Network Advertising Initiative (NAI), the Digital Advertising Alliance (DAA), and the Interactive Advertising Bureau (IAB). We are compliant with both the NAI and DAA self-regulatory codes. We believe that delivering targeted and relevant advertising enhances your internet experience. 
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+## Changes to Our Privacy Policy
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+As our organization, membership, and services evolve, this Privacy Policy may be revised to reflect those changes. We reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect. 
 
-\- To process transactions
+## Questions?
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-\- To administer a contest, promotion, survey or other site feature
-
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
-
-\- To send periodic emails
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
-
- **Do we disclose any information to outside parties?**
-
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-officetooltips.com 
-
-Email:  
-contact@officetooltips.com  
-
+Please [contact us](mailto:support@officetooltips.com) with any questions about this website Privacy Policy. 
