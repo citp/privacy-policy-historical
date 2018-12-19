@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackboxsocialmedia.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412204605id_/http%3A//blackboxdigitalproducts.com/wp-content/uploads/2014/07/Privacy_Policy_New_unlimited_bridges-1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboxsocialmedia.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219105412id_/http%3A//blackboxdigitalproducts.com/wp-content/uploads/2014/07/Privacy_Policy_New_unlimited_bridges-1.pdf) for the most accurate reproduction.*
 
 # 
 
