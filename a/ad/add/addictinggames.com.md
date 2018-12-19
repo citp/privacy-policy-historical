@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602093315id_/http%3A//addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219200536id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy at Addictinggames.com
 
