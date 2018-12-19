@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selly.gg privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628031943id_/https%3A//selly.gg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selly.gg privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219202912id_/https%3A//selly.gg/privacy) for the most accurate reproduction.*
 
 # Selly - Privacy Policy
 
