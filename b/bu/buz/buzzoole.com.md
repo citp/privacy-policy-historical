@@ -1,43 +1,66 @@
-> *The following text is extracted and transformed from the buzzoole.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414035848id_/http%3A//buzzoole.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzoole.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219084055id_/https%3A//buzzoole.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Buzzoole, Influencer Marketing Platform | Buzzoole
 
 **PRIVACY POLICY**
 
-Buzzoole L.t.d. (hereinafter “We” or “Buzzoole”) is a company, headquartered in via Chiatamone 6G, 80121, Naples, Italy.
+This Privacy Policy describes how your personal information is collected and handled through the use of the services offered by the website [www.buzzoole.com](http://www.buzzoole.com/) ( hereinafter the “Platform”) by Buzzoole Limited, a private company registered in England and Wales with company no. 10014919 and with registered office at One Aldgate, London, EC3N 1RE, England (hereinafter “We” or “Buzzoole”). Buzzoole Is a company of the Buzzoole Group, controlled by Buzzoole Holdings Limited, a private company registered in England and Wales with company no. 10203116 and with registered office at One Aldgate, London, EC3N 1RE, England.
 
-Buzzoole processes personal data provided by users with the registration or during the use of the service through the site www.buzzoole.com (hereinafter, the "Platform") as Data Controller.
+According to the current General Data Protection Regulation, we are the Data Controller of the personal data we collect from you and, therefore, we are legally responsible for the collection, use, and processing of such data. Our aim is to respect and protect all of your personal data in accordance with the applicable current data protection regulations. 
 
-We committed to safeguarding personal data of users (hereinafter “You”) when they are using Buzzoole services. We want our services to be secure and enjoyable environments for You.
+This policy explains how we collect, handle and retain your personal data, what kind of personal data we collect and how the user of the Platform (hereinafter “You”) can exercise the rights in regard to such personal data processing.
 
-Whenever You provide such information, we are legally obliged to use your information in line with all applicable laws concerning the protection of personal information, including the Data Protection Act 1998.
+**Personal data collecting, Type of Personal Data and Lawful Basis for the Processing**
 
-In our service You could find a hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, and are also likely to use cookies. They will govern the use of personal information You submit when visiting these websites, which may also be collected by cookies. You can’t be held Buzzoole responsible for any privacy practices of such third party websites and your use of such websites is at your own risk.
+If you are an Influencer, upon your first registration to the Platform, you will be required to provide us with some of your personal data (e.g. your name, email address, gender and date of birth) and to synchronise one or more of your social media accounts. Please note that sometimes you can also be asked to provide us with additional information. By expressing your Consent upon synchronisation, Buzzoole will also collect from the social media accounts you have selected, the other categories of personal data that you have allowed us to collect from time to time. This may include, in example, Your Friends List, Photos, or post published through your social media account. Please note that the choices made by you at registration may be changed at any time.
 
-**The kind of Information that We collect**
+As better described in the Terms and Conditions you are asked to accept for the provision of our services, Buzzoole will process the personal data provided by you and the personal data acquired through your synchronised social media account/s to process your profile and identify you as an Influencer in certain areas of influence. 
 
-When You register for a Buzzoole account we may receive personal information about you. This can consist of information (e.g. your name, email address, gender or date of birth), as well as information collected about your use of Buzzoole services and content that you generate. Please note that sometimes we can require you to provide additional personal information.
+All the above personal data are collected and processed for the sole purpose of providing the services you have requested, as the creation of your profile as an influencer is necessary to make you participate to the Influencer Marketing Campaigns.
 
-Registration on the site [www.buzzoole.com](http://www.buzzoole.com/) requires synchronization of one or more of your social media accounts. With your consent, Buzzoole may acquire, through social networks accounts which are synchronized, the personal information that you have specified from time to time (for example, the Buddy List, Photo, a post published through social media). Please note that the choices made by you at registration may be changed at any time.
+If you are a Brand, an e-mail address and the creation of a password will be requested upon the first registration to our Platform to access your profile. Each data we collect from you at this stage is necessary to provide you with our services. 
 
-**How we use your personal data**
+Furthermore, we inform you that Buzzoole may use the e-mail address you have used to register into our Platform to send you specific communications finalised to enhance your user experience and to suggest you further functions available on such Platform.
 
-As described in the Terms and Conditions You will be asked to accept, for the provision of services requested by You, Buzzoole may process personal data provided by You and the personal data acquired through your social media account/s to process your profile and identify your influence in certain areas.
+Finally, Buzzoole may use your e-mail address to send newsletters and inform you of our new products or of any commercial offer you may be interested in, according to your profile and choices. In this case, we process and hold your personal data just because we have a legitimate interest to do so, but you will able to suspend the reception of such communications at any time, just by following the instructions contained in each communication or by e-mailing us at [customercare@buzzoole.com](mailto:customercare@buzzoole.com).
 
-Personal data are processed by Buzzoole manually and through computer systems, for purposes related to the provision of the services required. Exclusively for such purposes, your personal data may be communicated by Buzzoole to third parties, such as the Brands that use the Platform, consultants, service providers, affiliates, subsidiaries and/or parents belonging to the same group, which will process your personal data as data processor or, in the case of Brands, as data controllers.
+**Who can access your personal data**
 
-Please note that Buzzoole may use the email address associated with your account to send communications to improve user experience of the Platform as well as to suggest additional features available through the Platform. Moreover, Buzzoole may use your email address to send a periodic newsletter containing information, including commercial content, related to its associated services requested by You. These communications do not require your prior consent, but You can at any time object to receiving them by following the directions that will be provided at the end of each communication or by sending an email to [customercare@buzzoole.com](mailto:customercare@buzzoole.com).
+All personal data collected are processed by Buzzoole manually or through the use of specific software. 
 
-**Use of children’s data**
+Only for purposes strictly connected to the provision of the services you have requested, your personal data may be also communicated and transmitted to third parties, as the Brands that use the Buzzoole’s Platform, services providers, consultants, related companies, controlled or controlling companies of the Buzzoole Group. Each third party, as above indicated, shall process your personal data as Data Processor except for the Brands, that shall process your data as an independent Data Controller. 
 
-If you are aged 18 or under, please get your parent/guardian's permission before You provide any personal information to Buzzoole. If You are under 13 and want to register for a Buzzoole account then we will need consent from your parent/guardian before You can use our services.
+**For how long We retain your personal data**
 
-**Access to data that Buzzoole hold**
+Your personal data shall be retained for a period strictly necessary for the use and the purposes described above.
 
-Under the Data Protection Act You have the right to request a copy of the personal information the Buzzoole holds about You and to have any inaccuracies corrected. We will use reasonable efforts consistent with our legal duty to supply, correct or delete personal information about You on our files. For any doubt please address requests and questions about this to Buzzoole sending an email to customercare@buzzoole.com.
+Particularly, each data shall be retained for as long as the contract for the provision of the services you have requested is not terminated. At the end of such contract, Buzzoole shall cancel any data collected from the synchronisation of the social media accounts you have asked us to synchronise. All the personal data connected to the use of our services, as the participation to Campaigns, Buzzoole Credits granted, contents created and published by you for such Campaigns, shall be retained as long as required by the applicable regulations, laws and regulatory reporting purposes. At the end of each prescribed period, we shall cancel any personal data which is no longer necessary to retain. 
 
- **Use of Influencer data associated to Google services**  
-With your consent, the Buzzoole application uses some data from the Google services you use. Below is a list of the authorisations we require and their purpose.
+**How to exercise your rights**
+
+Pursuant to the GDPR, you may exercise certain rights in regard to the personal data we collect and process. Please do not hesitate to get in touch with us, should you want to exercise one of the followings:
+
+  *  **Right to be informed.** This is your right to be provided with clear, transparent and easily understandable information about how We use your information and your rights. 
+  * **Right** **of access.** This is your right to obtain access to your information. For example, this includes the right to check that We’re using your information in accordance with data protection law. 
+  * **Right to rectification.** You are entitled to have your information amended and/or implemented if it is inaccurate or incomplete. 
+  * **Right to be forgotten.** You are entitled to request the deletion or removal of certain of the information that We hold about you.
+  * **Right to restrict processing.** This right enables you to 'block' or 'suppress' further use of your personal data. When processing is restricted, we may be still able to store your personal data, but will not use it further.
+  * **Right to data portability**. You have the right to receive a copy of your personal data in an accessible and transferable format so that you can use it across other service providers.
+  * **Right to issue a complaint.** You have the right to issue a complaint regarding how We process your information with the national data protection authority (https://ico.org.uk/).
+  * **Right to withdraw consent.** If you have given your consent to anything We do with your personal data, you have the right to withdraw that consent at any time. Withdrawing consent will not, however, make unlawful our use of your personal data while consent had been given.
+  * **Right to object to processing**. You have the right to object to certain kind of processing, including processing for direct marketing and advertising.
+
+
+
+**How to get in touch**
+
+If you wish to exercise any of these rights, please get in touch with us by sending an e-mail with attached the copy of a Valid ID to [customercare@buzzoole.com](mailto:customercare@buzzoole.com)
+
+We also inform you that we have appointed a Data Protection Officer to protect the processing of your personal data. Should you need to contact our DPO, please send an email to [dpo@buzzoole.com](mailto:dpo@buzzoole.com) or send a letter by post at One Aldgate, London, EC3N 1RE, England.
+
+**Use of Influencer data associated with Google services**
+
+Buzzoole’s Application, once your consent is expressed, may also collect some personal data from the Google services you use. Please see below a list of the authorisations we require and their purpose.
 
 Linking your **YouTube** channel with Buzzoole:
 
@@ -55,7 +78,7 @@ Linking your **Google+** channel with Buzzoole:
 
 Linking your **Gmail** account with Buzzoole:
 
-  * <https://www.googleapis.com/auth/gmail.compose>;[ ](https://www.googleapis.com/auth/contacts.readonly)<https://www.googleapis.com/auth/contacts.readonly>: required to allow you to invite all your Gmail address book contacts for participation to the Referral programme.
+  * <https://www.googleapis.com/auth/gmail.compose>;[ ](https://www.googleapis.com/auth/contacts.readonly)<https://www.googleapis.com/auth/contacts.readonly>: required to allow you to invite all your Gmail address book contacts for participation in the Referral programme.
 
 
 
@@ -65,7 +88,29 @@ Linking your **Analytics** account with Buzzoole:
 
 
 
-**By clicking Register, you're saying you and your parent or guardian accept the[Terms and Conditions](http://buzzoole.com/page/terms), [Privacy Policy](http://buzzoole.com/page/privacy) and [Cookie Policy](http://buzzoole.com/page/privacy).**
+LIST OF TYPES OF DATA COLLECTED FOR THE EACH PURPOSE AND BY MEANS OF THE FOLLOWING SERVICES:
+
+CONTACTING THE USER
+
+By phone  
+Personal data: telephone number
+
+BY Mailing list or newsletter  
+Personal data:Post Code, Town, Surname, Cookies, user information, e-mail, country, Name, telephone number, profession, county, website
+
+By Contact Form   
+Personal data:Post Code, Town, Surname, Cookies, user information, e-mail, country, Name, telephone number, profession, county, website, Company Number and/or VAT number, number of employees, interest area
+
+By Contacts Managment and messages  
+HubSpot Email, Magnews Email, Mandrill Email
+
+Personal Data: email use statistics  
+Users Data Base Management
+
+HubSpot CRM  
+Personal Data: e-mail, telephone number and/or other data, according to the specific privacy police of the service provider  
+HubSpot Lead Management  
+Personal Data: e-mail and/or other data, according to the specific privacy police of the service provider.
 
 **Use of cookies**
 
