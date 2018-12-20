@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625195941id_/http%3A//www.wwtdd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220183550id_/http%3A//www.wwtdd.com/privacy-policy) for the most accurate reproduction.*
 
 # WWTDD - Latest Celebrity Gossip and Scandal News
 
