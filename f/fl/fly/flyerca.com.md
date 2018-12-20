@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerca.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621040910id_/http%3A//www.flyerca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerca.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220081542id_/http%3A//www.flyerca.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ Employee Access, Training and Expectations. Our corporate values, ethical standa
 
  **Communication opt out**
 
-You can email us at webmaster@flyerca.com with questions, comments or suggestions.
+You can email us at webmaster@www.flyerca.com with questions, comments or suggestions.
 
  **Do we disclose information to outside parties?**
 
