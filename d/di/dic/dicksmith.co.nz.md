@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dicksmith.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128040050id_/https%3A//www.dicksmith.co.nz/dn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicksmith.co.nz privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220075420id_/https%3A//www.dicksmith.co.nz/dn/privacy-policy) for the most accurate reproduction.*
 
 # Dick Smith | Privacy Policy
 
