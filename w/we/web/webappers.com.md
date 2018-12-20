@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webappers.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620031859id_/http%3A//www.webappers.com/privacy-policy-for-webapperscom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webappers.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220135113id_/http%3A//www.webappers.com/privacy-policy-for-webapperscom) for the most accurate reproduction.*
 
 # Privacy Policy for WebAppers.com - WebAppers | Web Resources | WebAppers
 
