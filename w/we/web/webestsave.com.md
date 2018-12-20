@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webestsave.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404235913id_/http%3A//webestsave.com/en/texts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webestsave.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220093706id_/http%3A//www.webestsave.com/en/texts/privacy) for the most accurate reproduction.*
 
 # 
 
