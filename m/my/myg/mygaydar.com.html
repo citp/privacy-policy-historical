@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the mygaydar.com privacy policy that was archived on 2018-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180622080318id_/https%3A//www.gaydar.net/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mygaydar.com privacy policy that was archived on 2018-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181220202511id_/https%3A//www.gaydar.net/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <meta name="description" content="Gaydar is one of the top dating sites for gay and bisexual men. Millions of guys like you, looking for friendships, dating and relationships. Share your interests and hobbies and Gaydar will match you up.. Join now for free, browse and message. New design, chat rooms and travel plans. Share photos with public, private or discreet options.">
     <meta name="keywords" content="Gay dating, gay chat, meet gay men, gay chat rooms, gay dating site, men seeking men, find gay guys, gay men, bisexual dating, gay relationships, gay singles, guys seeking guys, match gay guys, gay friends, join free">
+    <meta name="apple-itunes-app" content="app-id=371711798">
     <title>Gaydar - Privacy</title>    <link rel="apple-touch-icon" sizes="180x180" href="/public/images/favicon/apple-touch-icon-180x180.png">
     <link rel="apple-touch-icon" sizes="167x167" href="/public/images/favicon/apple-touch-icon-167x167.png">
     <link rel="apple-touch-icon" sizes="152x152" href="/public/images/favicon/apple-touch-icon-152x152.png">
@@ -13,8 +14,8 @@
     <link rel="apple-touch-icon" sizes="72x72" href="/public/images/favicon/icon-hires.png">
     <link rel="apple-touch-icon" href="/public/images/favicon/icon-normal.png">
     <link rel="icon" type="image/x-icon" href="/public/images/favicon/favicon.ico">
-    <link href="/public/css/main.css?v=1387000" rel="stylesheet">
-    <link href="/public/vendor/angular-emoji-popup/dist/css/emoji.min.css?v=1387000" rel="stylesheet">
+    <link href="/public/css/main.css?v=1080" rel="stylesheet">
+    <link href="/public/vendor/angular-emoji-popup/dist/css/emoji.min.css?v=1080" rel="stylesheet">
     <script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
         var qbAPI = {
             ID: "9",
@@ -25,6 +26,7 @@
             profileService: "https://profile-live.gaydar.net/",
             commsService: "https://comms-live.gaydar.net/",
             mediaService: "https://media-live.gaydar.net/",
+            chatterService: "https://chatter-live.gaydar.net/",
             accountService: "https://account-live.gaydar.net/",
             registerService: "https://registration-live.gaydar.net/",
             environment: "https://.gaydar.net/",
@@ -32,8 +34,12 @@
             featureService: "https://feature-live.gaydar.net/",
             cdn: "https://www.gaydar.net/"
         };
-        var buildVersion = "1387000";
+        var buildVersion = "1080";
     </script>
+
+  
+  <script data-main="/public/js/build.min.js?v=1080" src="/public/vendor/jquery/dist/jquery.min.js?v=1080"></script>
+  <script data-main="/public/js/build.min.js?v=1080" src="/public/vendor/socket.io-client/dist/socket.io.js?v=1080"></script> 
 
     <script>
         (function(i, s, o, g, r, a, m) {
@@ -63,12 +69,226 @@
             });
         });
     </script>
+
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
+    <script type="text/javascript">
+        var _vwo_code=(function(){
+        var account_id=361412,
+        settings_tolerance=2000,
+        library_tolerance=2500,
+        use_existing_jquery=false,
+        /* DO NOT EDIT BELOW THIS LINE */
+        f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=361412&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181220202511id_%2Fhttps%253A%2F%2Fwww.gaydar.net%2Fcontent%2Fprivacy&amp;r=0.36505489065971153" type="text/javascript"></script>
+    <!-- End Visual Website Optimizer Asynchronous Code -->
+    
+  <script>
+    var socket = null;
+
+    $(document).ready(function () {
+      
+      var myProfileId = 0;
+      var unreadStatusKeyedByChatId = [];
+      var url = "https://chatter-live.gaydar.net/"
+      if (isCurrentPageMessages()) {
+        return;
+      }
+            
+      socket = io.connect(url);
+
+      socket.on('chat_ping', function (msg) {
+        socket.emit('chat_pong', { data: "OK" });
+      });
+
+      function cacheMyProfileId(callback) {
+        getMyUsername(function (username) {
+          getProfileId(username, function (profileId) {
+            myProfileId = profileId;
+            callback();
+          });
+        });
+      }
+
+      var attached = false;
+      socket.on('connect', function () {
+        attached = true;
+        cacheMyProfileId(function () {
+          initializeMessaging();
+        });
+      });
+
+      setTimeout(function () {
+        if (!attached) {
+          cacheMyProfileId(function () {
+            initializeMessaging();
+          });
+        }
+      }, 1000);
+
+      socket.on("initialized", function (msg) {
+        authenticateMessaging();
+      });
+
+      socket.on("authenticated", function (msg) {
+        getLastChats("20");
+      });
+      
+      socket.on("chatsusers", function (msg) {
+        var users = msg.data;
+        for (var key in users) {
+          if (users.hasOwnProperty(key)) {
+            var profileId = users[key];
+            if (isInt(profileId)) {
+              confirmProfile(profileId, function (confirmedProfileId) {
+                getLastMessagesForChatWithUser(confirmedProfileId);
+              })
+            }
+          }
+        }
+      });
+
+      socket.on("msglast", function (msg) {
+        updateUnreadCount(msg);
+      });
+
+      socket.on('msgserv', function (msg) {
+        updateUnreadCount(msg);
+      });
+
+      function initializeMessaging() {
+        socket.emit('initialize', {data: 'myData'});
+      }
+
+      function authenticateMessaging() {
+        socket.emit('authenticate', { data: "myData" });
+      }
+      
+      function getLastChats(numberOfChats) {
+        socket.emit('chatsuser', { numchats: numberOfChats, command: 'chatsuser' });
+      }
+
+      function getLastMessagesForChatWithUser(toProfileId) {
+        socket.emit('msgcli', { to: toProfileId, command: "LastMessage" });
+      }
+
+      function getProfileId(username, callback) {
+        $.ajax({
+          method: "GET",
+          xhrFields: {
+            withCredentials: true
+          },
+          url: apiUrls.profileService + "profile/id?profileName=" + username
+        })
+          .done(function (response) {
+            callback(response.ProfileId)
+          });
+      }
+
+      function getMyUsername(callback) {
+        $.ajax({
+          method: "GET",
+          xhrFields: {
+            withCredentials: true
+          },
+          url: apiUrls.accountService + "account/me"
+        })
+          .done(function (response) {
+            callback(response.username)
+          });
+      }
+
+      function isInt(value) {
+        if (isNaN(value)) {
+          return false;
+        }
+        var x = parseFloat(value);
+        return (x | 0) === x;
+      }
+
+      function confirmProfile(profileId, callback) {
+        $.ajax({
+          method: "GET",
+          xhrFields: {
+            withCredentials: true
+          },
+          url: apiUrls.profileService + "profile?profileId=" + profileId + "&profileSize=1"
+        })
+          .done(function (response) {
+            if (response && response.Profile) {
+              callback(response.Profile.ProfileId)
+            }
+          });
+      }
+      
+      function isCurrentPageMessages() {
+        var currentPath = window.location.pathname;
+        return currentPath && currentPath.length >= 9 && currentPath.substring(1, 9).toLowerCase() == "messages";
+      }
+
+      function updateUnreadCount(msg) {
+        if (isCurrentPageMessages()) {
+          return;
+        }
+
+        if (isMessageSentByMe(msg)) {
+          return;
+        }
+
+        var chatId = msg.data.user;
+        var isUnread = msg.data.DateRead ? 0 : 1;
+        unreadStatusKeyedByChatId[chatId] = isUnread;
+        updateNumberOfUnreadChatHeader();
+      }
+
+      function isMessageSentByMe(msg) {
+        return msg.data.user == myProfileId;
+      }
+
+      function updateNumberOfUnreadChatHeader() {
+        var count = 0;
+        for (var key in unreadStatusKeyedByChatId) {
+          if (unreadStatusKeyedByChatId.hasOwnProperty(key)) {
+            count = count + unreadStatusKeyedByChatId[key];
+          }
+        }
+
+        if (count != 0) {
+          $('#navcounter-messages').text(count < 100 ? count : '99+');
+          $('#navcounter-messages').removeClass('hidden');
+        } else {
+          $('#navcounter-messages').addClass('hidden');
+        }
+      }
+    });
+
+    window.onbeforeunload = function () {
+      if (socket != null) {
+        socket.emit('msgdiscon');
+      }
+    };
+  </script>
+    
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+      window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#000"
+          },
+          "button": {
+            "background": "#f1d600"
+          }
+        }
+      })});
+    </script>
 </head>
 <body>
     
 
 <div id="header" class="header-fixed">
-    <a id="homelogo" href="/"><i class="icon icon-logo_gaydar"></i></a>
+    <a id="homelogo" href="/"><i><img src="/public/images/reskin/gaydar_logo.svg" width="160" height="25" style="padding-top:17px; margin-left:-19px" title="Gaydar"></i></a>
 <a href="/register" id="registerlink">Register</a></div>
 <div class="header-fixed-spacer">
 
@@ -232,7 +452,7 @@
     </script>
 
     
-    <script data-main="/public/js/build.min.js?v=1387000" src="/public/vendor/requirejs/require.js?v=1387000"></script>
+    <script data-main="/public/js/build.min.js?v=1080" src="/public/vendor/requirejs/require.js?v=1080"></script>
     <script type="text/javascript">
         var google_conversion_id = 1035186757;
         var google_custom_params = window.google_tag_params;
