@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the billboard.biz privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616201806id_/https%3A//www.billboard.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billboard.biz privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220225851id_/https%3A//www.billboard.com/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Billboard
 
 _Effective Date_ : January 15, 2016;  _Last Updated:  _May 24, 2018 
 
-This Privacy Policy is applicable to [www.billboard.com](https://web.archive.org/), [www.billboardevents.com](http://www.billboardevents.com/), [www.hollywoodreporter.com](http://www.hollywoodreporter.com/), and any other site that may be operated by or for Prometheus Global Media (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our [Terms of Use](https://web.archive.org/p/website-terms-of-use), which govern the basic operation of the Websites.
+This Privacy Policy is applicable to [www.billboard.com](https://web.archive.org/), [www.billboardevents.com](http://www.billboardevents.com/), [www.hollywoodreporter.com](https://www.hollywoodreporter.com/), and any other site that may be operated by or for Prometheus Global Media (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our [Terms of Use](https://web.archive.org/p/website-terms-of-use), which govern the basic operation of the Websites.
 
 If you are an EU resident, see section 4 below, which will inform you in detail about the personal data we process, how we process it, for which purposes we process it, with whom we share it, on what legal basis we process and transfer your personal information and which rights you have regarding the processing of your personal information.
 
