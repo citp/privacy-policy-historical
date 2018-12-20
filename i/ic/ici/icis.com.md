@@ -1,130 +1,180 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120204400id_/http%3A//www.icis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220133857id_/https%3A//www.reedbusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy and cookies use for ICIS web sites and services
+# Privacy Policy - Reed Business Information
 
-## Privacy Statement
+### **1\. About this Privacy Policy**
 
-This site is owned and operated by Reed Business Information Limited ('RBI').
+This privacy policy applies when you visit or use our websites, apps and other services, including events, that refer or link to this privacy policy (each, a “Service”). This privacy policy may be supplemented by additional privacy statements, terms or notices provided on certain areas of the Service or during our interactions with you.
 
-Information we collect from you while using our site will be stored by us and may be used in a number of ways. We will use your contact details (your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. In addition these details will be used by us and by businesses within RBI and its associated companies to provide you with information about other services and products and will also be disclosed to third party businesses and advertisers for the same purpose.
+Irrespective of any branding used on the website, the Reed Business Information legal entity that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service, and, in any event, you may contact us at the address below.
 
-If you do not wish to be contacted for this purpose, please contact us to have your preferences set.
+### **2\. Information We Collect**
 
-**To alter your details**
+We collect information about you in three ways: directly from your input, through the Service’s technologies, and from third party sources. For events this can include collecting your data from registration forms, badge/business card scanners, and other event related apps.
 
-If your contact details change, please contact us to amend them.
+### **2.1 Data You Provide to Us**
 
-**Voluntary Information**
+The types of personal information that we collect directly from you depends on how you interact with us and the Service and includes:
 
-We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve our website or online service. It may also be disclosed to other companies who wish to tell you about services of interest to you.
-
-**Statistical information**
-
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
-
-**Access to Data**
-
-You have the right to be told what personal information we hold about you on our databases. You should write to us at the following address: ICIS, Quadrant House, Sutton, Surrey SM2 5AS, United Kingdom. Please state your full name, your address and all publications or services from RBI to which you know you subscribe. A small administrative charge will be made for fulfilling this request.
-
-**Transfer of data to other countries**
-
-We will pass on your information to ICIS offices in Singapore and the United States in order to administer your account and to provide you with information about products and services which we offer.
-
-We may also pass on your information to other companies within our corporate group, who may use your information in the same way as it is used by us. Some of these companies are outside the EEA and are in territories, such as the United States, which are not recognised by the EC as providing adequate privacy protection.
-
-**Our External Providers**
-
-  * _AdTech_ , the third-party company that serves advertisements on the site, uses cookies to serve and target advertisements effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit their site [www.adtech.info/en/cookie_opt-out.html](http://www.adtech.info/en/cookie_opt-out.html). These cookies do not include personally identifying information.
-
-  * _Epsilon_ is the third-party company that we use to deliver some of our email to customers and prospective customers who have agreed they are happy for us to stay in touch with them. As a specialist email marketing service provider they make extensive provision for the safe and secure management of any personal information we share with them when using their services. For more information about these provisions and to view their own privacy policy please visit [www.epsilon.com/epsilon-consumer-preference-center](http://www.epsilon.com/epsilon-consumer-preference-center).
+  * Contact details, such as your name, email address, social media handle, postal address and phone number;
+  * Account login credentials, such as usernames and passwords, password hints and similar security information;
+  * Other account registration and profile information, such as educational and professional background and photo;
+  * Other account or event registration and profile information, such as educational and professional background and photo, and for events dietary and accessibility requirements;
+  * Payment information, such as a credit or debit card number;
+  * Comments, feedback and other information you provide to us, including search query data and questions or information you send to customer support; and/or
+  * Interests and communication preferences, including preferred language.
 
 
 
+### **2.2 Data from Service Use**
 
-## Use of Cookies
+The Service automatically collects information about how you and your device interact with the Service, including:
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+  * Computer, device and connection information, such as IP address, browser type and version, operating system and other software installed on your device, mobile platform and unique device identifier and other technical identifiers, error reports and performance data;
+  * Usage data, such as the features you used, the settings you selected, URL click stream data, including date and time stamp, and referring and exit pages, and pages you visited or searched for on the Service; and/or
+  * For location-aware Services, the region, city or town where your device is located in order to provide you with more relevant content for where you are in the world.
 
-Our sites require cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
 
-Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Further information about the cookies used by ICIS is provided below.
+We collect this data through our servers and the use of cookies and other technologies. You can control cookies through your browser’s settings and other tools. However, if you block certain cookies, you may not be able to register, login, or access certain parts or make full use of the Service. For more details, visit the cookie notice of the Service.
 
-### Cookies used by ICIS web sites
+### **2.3 Data from Other Sources**
 
-The following cookie categories are based on the classification presented in The International Chambers of Commerce (ICC) Cookie Guide.
+We also may obtain personal information about you from our group companies and from other third parties, including:
 
-**Category 1: Strictly necessary cookies**
+  * The administrators at the organization with which you are employed or affiliated to activate and manage your access to the organization’s subscription to the Service;
+  * Social networks when you grant permission to access your data on one or more networks;
+  * Our service providers that help us determine a location based on your IP address in order to customize the Service to your location;
+  * Partners with which we offer co-branded services or engage in joint marketing activities or event sponsorship and hosting; and/or
+  * Publicly-available sources and data suppliers from which we obtain data to validate or supplement the information we hold.
 
-These cookies are strictly necessary to provide services that you have requested.
 
-The following Category 1 Cookies are used by ICIS:
 
-_Login and Security_ | Login and security management cookies are used to authenticate and identify you as being logged in to our website.  
----|---  
-_Session Management_ | Session management cookies are used to recognise you as you move between pages of the site so we can provide a consistent user experience. They can be applied whether you are logged in or not but do not contain any information that can identify you personally.  
-  
-**Category 2: Performance cookies**
+### **3\. How We Use Your Information**
 
-These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don’t collect information that identifies individual visitors. The information collected is anonymous and is only used to improve the way our website works.
+Depending on how you interact with us and the Service and your preferences, we use your personal information to:
 
-The following Category 2 Cookies are used by ICIS:
+  * Provide, activate and manage your access to and use of the Service;
+  * Process and fulfil a request, order, download, subscription or other transaction (including to process payments);
+  * Provide technical, product and other support and to help keep the Service working, safe and secure;
+  * Enhance and improve the Service and our other products and services and to develop new products, services and benefits;
+  * Offer you customized content and other personalization to make the Service more relevant to your interests and geography;
+  * Respond to your requests, inquiries, comments and concerns;
+  * Notify you about changes, updates or other announcements related to the Service and our other products and services;
+  * Deliver targeted advertisements, promotional messages, notices and other information related to the Service, your interests and other products, events and services;
+  * For events: to include your professional details on delegate booklets, badges, passes, place cards, guest lists, seating charts, networking portals, and where applicable for speaker and panel presenter listings;
+  * Invite you to participate in user testing and surveys as well as sweepstakes, competitions and similar promotions;
+  * Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations, including determining the effectiveness of our promotional campaigns and evaluating our business performance, or in other ways pursuant to a customer agreement; and/or
+  * Comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-_Web Analytics_ | Web Analytics cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited.  
----|---  
-_Embedded Videos_ | 
 
-Most videos on ICIS are hosted on [Brightcove](http://www.brightcove.com/en/privacy) and [YouTube](http://www.google.com/policies/privacy/ads/).
 
-These sites use cookies to collect video statistics and improve site experience.  
-  
-**Category 3: Functionality cookies**
+If you are an administrator of an organization with a subscription to the Service, we will use your details to communicate with you about your organization’s subscription and related services. If you supply us contact information of your colleagues, we may contact those individuals with communications about the Service that may include reference to you.
 
-These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.
+### **4\. Sharing of your Information**
 
-The following Category 3 Cookies are used by ICIS:
+### **4.1 Your Organization**
 
-_User Profile Data_ | Your full name and other information used to personalise your experience on the site. This information is not shared with third parties.  
----|---  
-_User Preferences_ | Preference cookies remember settings you have selected to apply to the site. These may includes features such as the cycling of articles, default searches and views etc.  
-_State Persistence_ | Used to persist elements of your user experience (such as a selected article and search keywords) across different pages of the site.  
-  
-**Category 4: Targeting or Advertising cookies**
+If you access the Service through a subscription administered by your organization, your personal information and certain usage data gathered through the Service may be accessed by or shared with the administrators authorised by your organization for the purposes of usage analysis, subscription management and compliance, cost attribution and departmental budgeting.
 
-These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers.
+### **4.2 Application Licensor**
 
-The following Category 4 Cookies are used by ICIS:
+If you access a third-party application on the Service through a license agreement with the licensor of that application, the personal information relevant to that third-party application will be shared with its licensor so that it can provide you access to the application, subject to the terms of its license agreement and its privacy policy.
 
-_Targeted Advertising_ | 
+### **4.3 Our Processors**
 
-Targeted Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in.
+Depending on the Service provided, we share information with:
 
-These cookies can be linked to clicks on ‘Like’ or ‘Share’ buttons which may be used on this site.
+  * Our affiliates, trading names and divisions within the Reed Business Information group of companies worldwide (for a list, click [here](https://www.reedbusiness.com/about-us/#about-us-locations)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or
+  * Our service providers, suppliers, agents and representatives, including but not limited to, editors, payment processors, customer support, email service providers, IT service providers, mailing houses and shipping agents, venue providers and other onsite event contractors which may include trainers, caterers, security staff, and badge and booklet printers;
 
-ICIS uses the following third party advertising networks: Doubleclick (Google), Adtech and Brightcove.
 
-You may choose to decline these cookies by visiting the following sites:
 
-  * [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)
-  * [Google advertising opt-out page](http://www.google.com/privacy/ads/)
-  * [Adtech opt-out page](http://www.adtech.info/privacy/)
+to process the information for us based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures.
 
-  
----|---  
-_Campaign Tracking_ | 
+### **4.4 Your Choices**
 
-Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. ICIS uses a number of campaign tracking systems it manages directly, including HitBox, Eloqua and SalesForce.com. In addition it traffics some campaigns through: Doubleclick (Google) and Adtech.
+We share your personal information with our group companies and with sponsors, joint venture partners and other third parties, including entities for which we are acting as an agent, licensee, application host or publisher, that wish to send you information about their products and services that may be of interest to you, as determined by your choices and in managing your communications preferences and other settings.
 
-You may choose to decline these cookies by visiting the following sites:
+The Service may let you post and share personal information, comments, materials and other content. Any such contributions that you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas.
 
-  * [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)
-  * [Adtech opt-out page](http://www.adtech.info/privacy/)
+### **4.5 Legal Reasons**
 
-  
-  
-### Further information
+We also disclose your personal information if we have a good faith belief that such disclosure is necessary to:
 
-To contact us about the use of Cookies on any ICIS web sites, please email [eucookies@rbi.co.uk](mailto:eucookies@rbi.co.uk).
+  * meet any applicable law, regulation, legal process or other legal obligation;
+  * detect, investigate and help prevent security, fraud or technical issues; and
+  * protect the rights, property or safety of Reed Business Information, our users, employees and others;
 
-To contact us about your Singapore data privacy concerns, please email [sgprivacy@rbi.co.uk](mailto:sgprivacy@rbi.co.uk).
+
+
+and as part of a corporate transaction, such as a transfer of assets to or an acquisition by or merger with another company.
+
+### **5\. Your Communications Preferences**
+
+You can customise and manage your communications preferences and other settings when you register with the Service, by updating your account features and preferences, by using the “opt-out”,  unsubscribe mechanism, or other means provided within the communications that you receive. You can also contact [unsubscribe@reedbusiness.com](mailto:unsubscribe@reedbusiness.com), and if your contact details change, you can alter the details we hold by emailing [updatemydetails@reedbusiness.com](mailto:updatemydetails@reedbusiness.com).  We reserve the right to notify you of changes or updates to the Service whenever necessary.
+
+### **6\. Accessing and Updating your Information**
+
+The Service may allow registered users to directly access and review their account information and make corrections or updates upon login at any time. Keeping such information up to date is solely the responsibility of the user. Registered users may also close their account directly through the Service or by contacting the Service’s customer support.
+
+### **7\. Data Retention**
+
+We retain your personal information for as long as necessary to provide the Service and fulfill the transactions you have requested, and for other essential purposes such as complying with our legal obligations, maintaining business and financial records, resolving disputes, maintaining security, detecting and preventing fraud and abuse, and enforcing our agreements.
+
+### **8\. Children’s Privacy**
+
+We do not knowingly collect information from children under the age of 13 or target the Service to children under 13.
+
+### **9\. Data Security**
+
+We use a variety of administrative, physical and technical security measures to help safeguard your personal information.
+
+### **10\. Locations of Processing**
+
+Your personal information may be stored and processed in your region or another country where Reed Business Information group companies and our service providers maintain servers and facilities, including Australia, Brazil, France, Germany, Italy, Ireland, the Netherlands, Singapore, South Africa, the United Kingdom, and the United States. We take steps, including through our contracts, to ensure that the information continues to be protected wherever it is located in a manner consistent with the standards of protection required under applicable law.
+
+Where personal information is transferred from the European Economic Area (“EEA”) or Switzerland to a country that has not received an adequacy decision by the European Commission, we rely on appropriate safeguards, such as the European Commission-approved Standard Contractual Clauses and the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, to transfer the data.
+
+Accuity Inc. and FlightStats Inc have certified certain of their services to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce. Please view the Accuity Privacy Shield Notice [here](https://www.relx.com/documents/policies/privacy-shield.pdf) and the FlightStats Privacy Shield Notice [here](https://www.flightstats.com/company/legal/privacy-policy/#privacy-shield). To learn more about the Privacy Shield program, and to view these entities’ certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/welcome).
+
+### **11\. Grounds for Processing**
+
+When we collect from you any personal information within the scope of European data protection laws, we do so (a) with your consent; (b) where necessary to provide the Service, fulfill a transaction or otherwise perform a contract with you or at your request prior to entering into a contract; (c) where necessary for our compliance with a legal obligation; (d) where necessary for the performance of a task carried out in the public interest; and/or (e) as necessary to fulfill our legitimate interests as described below, except where our interests are overridden by your privacy rights. Where we rely on your consent to process personal information, you have the right to withdraw your consent at any time, and where we rely on legitimate interests, you have the right to object.
+
+Our legitimate interests are: to deliver our products to our customers and their end users; to detect or prevent fraud; to protect the security of our systems, customers and users; to further develop our products; to conduct direct marketing; to operate our business (by processing payments/invoices and conduct credit checks on customers, suppliers and leads, perform sales and customer relations management, supplier management, as well as incidental processing in our back office for these purposes); to enable our customers to comply with legal obligations; to provide customer service or support; or fulfil our other legitimate interests as described above.
+
+### **12\. Your rights**
+
+You have the right under European and certain other privacy and data protection laws to request free of charge:
+
+  * access to and correction or deletion of your personal information,
+  * that we cease or limit our processing of your personal information,
+  * a copy of your personal information (right to data portability), and to
+  * object at any time to processing of personal information concerning you for direct marketing.
+
+
+
+If you would like to exercise any of these rights, please contact us at the address set out below. We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity.
+
+### **13\. Changes**
+
+We will update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. If we make any material changes, we will provide notice through the Service or by other means.
+
+### **14\. Contact us**
+
+If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact:
+
+Data Protection Officer,  
+Reed Business Information Limited,  
+Quadrant House,  
+The Quadrant,  
+Sutton, Surrey SM2 5AS,  
+United Kingdom,  
+[dataprotection@reedbusiness.com](mailto:dataprotection@reedbusiness.com).
+
+### **15\. How to complain**
+
+We hope that we can resolve any query or concern you raise about our use of your information but you may also lodge a complaint with the data protection authority in the applicable jurisdiction.
+
+**Last updated:   27 June 2018**
