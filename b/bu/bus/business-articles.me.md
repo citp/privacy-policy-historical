@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-articles.me privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614080847id_/http%3A//business-articles.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-articles.me privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220041106id_/http%3A//business-articles.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business Articles
 
