@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the model3ownersclub.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807211001id_/http%3A//model3ownersclub.com/index.php%3Fhelp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the model3ownersclub.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220201552id_/https%3A//model3ownersclub.com/index.php%3Fhelp/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Model 3 Owners Club
+# Privacy Policy | Tesla Model 3 Owners Club
+
+[__](https://web.archive.org/web/20180815194159id_/https://model3ownersclub.com/help/privacy/misc/quick-navigation-menu "Open quick navigation")
+
+**Tesla Model 3 Owners Club**
+
+[__](https://model3ownersclub.com/)__ [Help](https://web.archive.org/web/20180815194159id_/https://model3ownersclub.com/help/privacy/help/) __
 
 **Privacy Policy**
 
