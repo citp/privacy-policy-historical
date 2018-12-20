@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bathandbodyworks.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625212938id_/http%3A//www.bathandbodyworks.com/customer-care/privacy-and-security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bathandbodyworks.com privacy policy that was archived on 2018-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181220195031id_/http%3A//www.bathandbodyworks.com/customer-care/privacy-and-security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -136,10 +136,10 @@
 
 
 
-<link href="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/js/lib/html5.js"></script>
 <![endif]-->
 
 <script type="text/javascript">//<!--
@@ -156,7 +156,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -202,6 +208,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -212,8 +245,8 @@ CQuotient.getCQUserId = function () {
 
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/css/style.min.css">
-<link rel="stylesheet" href="/on/demandware.static/-/Sites-BathAndBodyWorks-Library/en_US/v1529954843878/css/global-bbw-content-style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/css/style.min.css">
+<link rel="stylesheet" href="/on/demandware.static/-/Sites-BathAndBodyWorks-Library/en_US/v1545303162638/css/global-bbw-content-style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -239,6 +272,7 @@ CQuotient.getCQUserId = function () {
 
 
 
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/barcode.min.js"></script>
 
 
 
@@ -382,47 +416,10 @@ util.clearDynamicCss();
 
 
 
-<div class="header-banner monetate stickyOn">
+<div class="header-banner promo-banner-container stickyOn">
 
 	 
 
-
-	
-
-
-
-
-
-<style type="text/css">.main-offer{text-decoration:none; color:#005699; display:block}
-</style>
-<div class="monetate-template desktop">
-	<div class="monetate-styles-container">
-		<p>
-			<a class="main-offer" href="http://www.bathandbodyworks.com/g/top-offers" manual_cm_sp="BAL-_-20OFF25-_-YESTOSALE">
-				<span class="urgency">Ends Today!</span>
-				<span class="offer" style="text-transform:none">20% Off Your $25 Purchase</span> 
-				<!--<span class="regular">on $25 Orders</span>-->
-				<span class="urgency">Code: YESTOSALE</span>
-			</a>
-		</p>
-			<a class="details details-pop-up" href="http://www.bathandbodyworks.com/details-popup-20off25.html">details</a></div>
-	</div>
-<style type="text/css">
-.main-offer{text-decoration:none; color:#005699; display:block}
-@media screen and (max-width:768px){
-	.monetate-template .details {top:-3px;}
-}
-</style>
-<div class="monetate-template mobile">
-	<div class="monetate-styles-container">
-		<p class="main-offer">
-			<a href="http://www.bathandbodyworks.com/g/top-offers" manual_cm_sp="BAL-_-20OFF25-_-YESTOSALE" style="font-family:'Trade Gothic W01 Bold_2'"> 20% Off Your $25 Purchase <br> Code: YESTOSALE</a>
-			<a class="details details-pop-up" href="http://www.bathandbodyworks.com/details-popup-20off25.html">details</a>
-		</p>
-	</div>
-</div>
-
- 
 	
 
 </div>
@@ -466,9 +463,7 @@ util.clearDynamicCss();
 <div class="header-promotion">
 <div class="right-text">
 <a class="home-fragrance-link" href="http://www.bathandbodyworks.com/g/fragrance" manual_cm_re="Find a fragrance-_-banner-_-FragranceAZ">
-<svg class="icon right FragranceAZ">
- <use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#FragranceAZ"></use>
-</svg> 
+<img src="http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwe9769c82/images/megamenu/shop-by-fragrance.svg" class="icon right FragranceAZ" alt="Shop by Fragrance">
 </a>
 </div>
 </div>
@@ -480,39 +475,36 @@ util.clearDynamicCss();
 <div class="top-banner addOn stickyOn" role="banner">
 <div class="wrap">
 <div class="primary-logo">
-<a href="/" title="Bath and Body Works Home">
+<a href="/" title="Bath and Body Works Home" manual_cm_sp="GB-_-Nav-_-BBWLogo">
 <img src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw195b6fe2/images/svg-icons/Logos-main.svg" alt="Bath and Body Works">
-<span class="visually-hidden">Bath and Body Works</span>
 </a>
 </div>
 <div class="icon-items">
-<button class="menu-toggle">
+<button class="menu-toggle nav-icn" aria-label="Main Menu" aria-haspopup="true" aria-expanded="false" aria-controls="navigation">
 
 
 
-<svg class="icon UI-Menu svg-UI-Menu-dims menu-mobile">
+<svg class="icon UI-Menu-v2 svg-UI-Menu-v2-dims menu-mobile">
 
-<use xlink:href="http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4cb0ba82/images/compiled/defs.svg#UI-Menu"></use>
-
-</svg>
-<span class="">Menu</span></button>
-
-<div class="stores mobile-only">
-<a href="http://www.bathandbodyworks.com/store-locator" title="Locate Stores" manual_cm_sp="GB-Nav-Store+Locator">
-
-
-
-
-<svg class="icon UI-StoreLocator svg-UI-StoreLocator-dims locator-mobile">
-
-<use xlink:href="http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4cb0ba82/images/compiled/defs.svg#UI-StoreLocator"></use>
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#UI-Menu-v2"></use>
 
 </svg>
+<span class="">​</span></button>
+<div class="search mobile-only nav-icn">
+<a href="" title="Search" aria-haspopup="true" aria-expanded="false" aria-controls="headerSearch">
 
-<span>Stores</span>
+
+
+
+<svg class="icon UI-Search-v2 svg-UI-Search-v2-dims search-mobile">
+
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#UI-Search-v2"></use>
+
+</svg>
+
 </a>
 </div>
-<div id="mini-cart">
+<div id="mini-cart" class="nav-icn">
 
 
 
@@ -626,11 +618,10 @@ util.clearDynamicCss();
 
 <div class="mini-cart-total">
 
-<a class="mini-cart-link mini-cart-empty" href="https://www.bathandbodyworks.com/cart" title="View Cart">
+<a class="mini-cart-link mini-cart-empty" href="https://www.bathandbodyworks.com/cart" title="View Cart" manual_cm_sp="GB-_-Nav-_-Cart">
 
 <div class="cart-icon"></div>
 <span class="minicart-quantity">0</span>
-<span class="mobile-only mobile-label">bag</span>
 </a>
 
 </div>
@@ -639,23 +630,22 @@ util.clearDynamicCss();
 
 
 </div>
-<div class="offers stores mobile-only">
-<a href="/g/top-offers" title="offers" manual_cm_sp="GB-Nav-Top+Offers">
+<div class="offers mobile-only nav-icn">
+<a href="/g/top-offers" title="offers" manual_cm_sp="GB-_-Nav-_-Top Offers">
 
 
 
 
-<svg class="icon UI-Tag svg-UI-Tag-dims offers-mobile">
+<svg class="icon UI-Tag-v2 svg-UI-Tag-v2-dims offers-mobile">
 
-<use xlink:href="http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4cb0ba82/images/compiled/defs.svg#UI-Tag"></use>
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#UI-Tag-v2"></use>
 
 </svg>
 
-<span>offers</span>
 </a>
 </div>
 <!-- utility user menu -->
-<ul class="menu-utility-user">
+<ul class="menu-utility-user nav-icn">
 
 
 
@@ -755,14 +745,14 @@ util.clearDynamicCss();
 
 
 <li class="user-info">
-<a class="user-account" href="https://www.bathandbodyworks.com/my-account" title="User: Sign In or Sign Up" manual_cm_sp="GB-Nav-My+Account">
+<a class="user-account" href="https://www.bathandbodyworks.com/my-account" title="User: Sign In or Sign Up" manual_cm_sp="GB-_-Nav-_-My+Account">
 
 
 
 
 <svg class="icon UI-MyAccount svg-UI-MyAccount-dims user-account">
 
-<use xlink:href="http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4cb0ba82/images/compiled/defs.svg#UI-MyAccount"></use>
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#UI-MyAccount"></use>
 
 </svg>
 
@@ -771,15 +761,15 @@ util.clearDynamicCss();
 <div class="user-panel">
 <div class="user-links">
 
-<a class="" href="https://www.bathandbodyworks.com/my-account" title="Sign In or Sign Up">
+<a class="" href="https://www.bathandbodyworks.com/my-account" title="Sign In or Sign Up" manual_cm_sp="GB-_-My+Account-_-Sign+In+or+Sign+Up">
 
 Sign In or Sign Up</a>
 
-<a class="" href="https://www.bathandbodyworks.com/customer-care/order-status" title="Order Tracking">
+<a class="" href="https://www.bathandbodyworks.com/customer-care/order-status" title="Order Tracking" manual_cm_sp="GB-_-My+Account-_-Order+Tracking">
 
 Order Tracking</a>
 
-<a class="wishlist" href="https://www.bathandbodyworks.com/my-account/wishlist" title="Wish List">
+<a class="wishlist" href="https://www.bathandbodyworks.com/my-account/wishlist" title="Wish List" manual_cm_sp="GB-_-My+Account-_-Wish+List">
 
 
 
@@ -787,7 +777,7 @@ Order Tracking</a>
 
 <svg class="icon PDP-Wishlist-4 svg-PDP-Wishlist-4-dims login-icon">
 
-<use xlink:href="http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4cb0ba82/images/compiled/defs.svg#PDP-Wishlist-4"></use>
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#PDP-Wishlist-4"></use>
 
 </svg>
 
@@ -803,7 +793,7 @@ Wish List</a>
 </li>
 
 </ul>
-<div class="header-search">
+<div class="header-search" id="headerSearch">
 
 <form role="search" action="/s" method="get" name="simpleSearch">
 <fieldset>
@@ -816,7 +806,7 @@ Wish List</a>
 
 <svg class="icon UI-Search svg-UI-Search-dims icon-search">
 
-<use xlink:href="http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4cb0ba82/images/compiled/defs.svg#UI-Search"></use>
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#UI-Search"></use>
 
 </svg>
 </button>
@@ -846,13 +836,13 @@ Wish List</a>
 </div>
 <nav id="navigation" role="navigation">
 
-<div class="menu-close"><span>Menu</span>
+<div class="menu-close" aria-haspopup="true" aria-expanded="false" aria-controls="navigation"><span>Menu</span>
 
 
 
 <svg class="icon UI-Close-blue svg-UI-Close-blue-dims ">
 
-<use xlink:href="http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4cb0ba82/images/compiled/defs.svg#UI-Close-blue"></use>
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#UI-Close-blue"></use>
 
 </svg>
 </div>
@@ -955,1077 +945,1129 @@ Wish List</a>
 
 
 
+<div class="menu-search">
 
-<ul class="menu-category level-1">
+<form role="search" action="/s" method="get" name="simpleSearch">
+<fieldset>
+<label class="visually-hidden" for="q">Search Catalog</label>
+<input type="search" id="q" name="q" value="" placeholder="Search">
+<input type="hidden" name="lang" value="en_US">
+<button type="submit"><span class="visually-hidden">Search</span>
 
 
-<li class=" body-care">
+
+<svg class="icon UI-Search svg-UI-Search-dims icon-search">
+
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#UI-Search"></use>
+
+</svg>
+</button>
+<span class="cancel">cancel</span>
+</fieldset>
+</form>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.bathandbodyworks.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.bathandbodyworks.com/s?q={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script>
+</div>
+
+<ul class="nav-lvl1">
 
 
-<i class="menu-item-toggle"></i>
+<li class="has-children body-care nav-lvl2-button " data-id="body-care" id="body-care-dropdown">
 
-
-<a manual_cm_sp="FO-_-Body+Care-_-Body+Care" href="http://www.bathandbodyworks.com/g/body-care">
-
+<a manual_cm_sp="FO-_-Body+Care-_-Body+Care" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-controls="body-care" href="http://www.bathandbodyworks.com/g/body-care">
 Body Care
-
 </a>
 
 
 
 
 
-<div class="level-2">
-<div class="columns">
-<div class="inside cuted">
-<div class="actions">
-<a manual_cm_sp="FO-_-Body+Care-_-Body+Care" class="category-link" href="http://www.bathandbodyworks.com/g/body-care">
-Shop all Body Care
-</a>
-<a href="#" class="close-button">Close dropdown</a>
-</div>
-<div class="menu-groupings">
+<div class="nav-lvl2" data-id="body-care" id="body-care" aria-labelledby="body-care-dropdown">
+<div class="nav-lvl2-container">
+<ul>
 
 
 
 
-<div class="menu-group sub-column" style="width: 25%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="body-care" data-id="0">
 
-<div class="heading">
+<a href="#" class="heading" id="body-care-dropdown-0" aria-haspopup="true" aria-expanded="false" aria-controls="body-care-menu-0">
 <span>FEATURED</span>
-</div>
-
-<ul class="menu-vertical">
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Body+Care-_-Sale+Body+Care" class="sale" href="http://www.bathandbodyworks.com/c/body-care/semi-annual-sale-body">
-Sale Body Care
 </a>
 
+<ul class="nav-lvl3" id="body-care-menu-0" data-id="0" aria-labelledby="body-care-dropdown-0">
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Body+Care-_-New+Body+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/new-body-care">
+New Body Care
+</a>
 </li>
 
 
 
 
+<li class="link">
+<a manual_cm_sp="FO-_-Body+Care-_-Customer+Favorites" class="" href="http://www.bathandbodyworks.com/c/body-care/customer-favorites">
+Customer Favorites
+</a>
+</li>
 
 
-<li class=" link">
+
+
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Retired+Fragrances" class="" href="http://www.bathandbodyworks.com/c/body-care/retired-fragrances">
 Retired Fragrances
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Travel+Size" class="" href="http://www.bathandbodyworks.com/c/body-care/travel">
 Travel Size
 </a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Body+Care-_-Men's+Body+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/mens-body-care">
-Men's Body Care
-</a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
 
-<div class="menu-group sub-column" style="width: 25%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="body-care" data-id="1">
 
-<div class="heading">
+<a href="#" class="heading" id="body-care-dropdown-1" aria-haspopup="true" aria-expanded="false" aria-controls="body-care-menu-1">
 <span>BATH &amp; SHOWER</span>
-</div>
+</a>
 
-<ul class="menu-vertical">
-
-
+<ul class="nav-lvl3" id="body-care-menu-1" data-id="1" aria-labelledby="body-care-dropdown-1">
 
 
 
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Body+Wash+&amp;+Shower+Gel" class="" href="http://www.bathandbodyworks.com/c/body-care/body-wash-shower-gel">
 Body Wash &amp; Shower Gel
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Bath+Fizzies+&amp;+Bubble+Bath" class="" href="http://www.bathandbodyworks.com/c/body-care/bath-fizzies-bubble-bath">
 Bath Fizzies &amp; Bubble Bath
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Body+Scrub" class="" href="http://www.bathandbodyworks.com/c/body-care/body-scrub">
 Body Scrub
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Body+Care-_-Bar+Soap" class="" href="http://www.bathandbodyworks.com/c/body-care/bar-soap">
-Bar Soap
-</a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Hair+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/hair-care">
 Hair Care
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Bath+Accessories" class="" href="http://www.bathandbodyworks.com/c/body-care/bath-accessories">
 Bath Accessories
 </a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
 
-<div class="menu-group sub-column" style="width: 25%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="body-care" data-id="2">
 
-<div class="heading">
+<a href="#" class="heading" id="body-care-dropdown-2" aria-haspopup="true" aria-expanded="false" aria-controls="body-care-menu-2">
 <span>MOISTURIZERS</span>
-</div>
+</a>
 
-<ul class="menu-vertical">
-
-
+<ul class="nav-lvl3" id="body-care-menu-2" data-id="2" aria-labelledby="body-care-dropdown-2">
 
 
 
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Body+Lotion" class="" href="http://www.bathandbodyworks.com/c/body-care/body-lotion">
 Body Lotion
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Body+Cream" class="" href="http://www.bathandbodyworks.com/c/body-care/body-cream">
 Body Cream
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Body+&amp;+Massage+Oils" class="" href="http://www.bathandbodyworks.com/c/body-care/body-massage-oils">
 Body &amp; Massage Oils
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Hand+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/hand-care">
 Hand Care
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Foot+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/foot-care">
 Foot Care
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Face+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/face-care">
 Face Care
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Lip+Gloss+&amp;+Balms" class="" href="http://www.bathandbodyworks.com/c/body-care/lip-gloss-balms">
 Lip Gloss &amp; Balms
 </a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Body+Care-_-Sun+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/sun-care">
-Sun Care
-</a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
 
-<div class="menu-group sub-column" style="width: 25%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="body-care" data-id="3">
 
-<div class="heading">
+<a href="#" class="heading" id="body-care-dropdown-3" aria-haspopup="true" aria-expanded="false" aria-controls="body-care-menu-3">
 <span>FRAGRANCE</span>
-</div>
+</a>
 
-<ul class="menu-vertical">
-
-
+<ul class="nav-lvl3" id="body-care-menu-3" data-id="3" aria-labelledby="body-care-dropdown-3">
 
 
 
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Body+Sprays+&amp;+Mists" class="" href="http://www.bathandbodyworks.com/c/body-care/body-sprays-mists">
 Body Sprays &amp; Mists
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Body+Care-_-Rollerballs" class="" href="http://www.bathandbodyworks.com/c/body-care/rollerballs">
-Rollerballs
-</a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Perfume+&amp;+Cologne" class="" href="http://www.bathandbodyworks.com/c/body-care/perfume-cologne">
 Perfume &amp; Cologne
 </a>
-
 </li>
 
 
 </ul>
-</div>
-
-
-
-
-
-<div class="menu-group sub-column" style="width: 25%">
-
-<div class="heading">
-<span>COLLECTIONS</span>
-</div>
-
-<ul class="menu-vertical">
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Body+Care-_-Aromatherapy" class="" href="http://www.bathandbodyworks.com/c/body-care/aromatherapy-body-care">
-Aromatherapy
-</a>
-
 </li>
 
 
 
 
 
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="body-care" data-id="4">
 
-<li class=" link">
+<a href="#" class="heading" id="body-care-dropdown-4" aria-haspopup="true" aria-expanded="false" aria-controls="body-care-menu-4">
+<span>COLLECTIONS</span>
+</a>
+
+<ul class="nav-lvl3" id="body-care-menu-4" data-id="4" aria-labelledby="body-care-dropdown-4">
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Body+Care-_-In+the+Stars" class="" href="http://www.bathandbodyworks.com/c/body-care/in-the-stars">
+In the Stars
+</a>
+</li>
+
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Body+Care-_-Aromatherapy+Body+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/aromatherapy-body-care">
+Aromatherapy Body Care
+</a>
+</li>
+
+
+
+
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-CocoShea" class="" href="http://www.bathandbodyworks.com/c/body-care/cocoshea">
 CocoShea
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Body+Care-_-Active+Skincare" class="" href="http://www.bathandbodyworks.com/c/body-care/active">
 Active Skincare
 </a>
+</li>
 
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Body+Care-_-Men's+Body+Care" class="" href="http://www.bathandbodyworks.com/c/body-care/mens-body-care">
+Men's Body Care
+</a>
+</li>
+
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Body+Care-_-Water+Collection" class="" href="http://www.bathandbodyworks.com/c/body-care/water">
+Water Collection
+</a>
 </li>
 
 
 </ul>
-</div>
-
-
-
-
-</div>
-</div>
-
-</div>
-</div>
-
 </li>
 
-<li class=" hand-soaps">
-
-
-<i class="menu-item-toggle"></i>
-
-
-<a manual_cm_sp="FO-_-Hand+Soaps-_-Hand+Soaps" href="http://www.bathandbodyworks.com/g/hand-soaps">
-
-Hand Soaps
-
-</a>
 
 
 
+<li class="category-top-offers nav-lvl3-button has-children" data-sectionid="body-care" data-id="top-offers">
+<div class="heading"><span>Body Care Offers</span></div>
+
+	 
 
 
-<div class="level-2">
-<div class="columns">
-<div class="inside wide">
-<div class="actions">
-<a manual_cm_sp="FO-_-Hand+Soaps-_-Hand+Soaps" class="category-link" href="http://www.bathandbodyworks.com/g/hand-soaps">
-Shop all Hand Soaps
-</a>
+	
+
+<div class="html-slot-container">
+
+
+<span class="toggle">Top Offers</span>
+<ul>
+	<li>
+        <a href="/c/body-care/body-care-promotion" manual_cm_sp="LN-_-Body Care-_-TO2">
+        Buy 3 Get 3 Free Select Body Care
+        </a>
+    </li>
+	<li>
+        <a href="/c/body-care/specialty-body-care-promotion" manual_cm_sp="LN-_-Body Care-_-TO3">
+         Buy 2 Get 1 Free C.O. Bigelow
+        </a>
+    </li>
+	<li>
+        <a href="/c/body-care/travel-promotion" manual_cm_sp="LN-_-Body Care-_-TO4">
+         3/$12.50 Select Travel Size
+        </a>
+    </li>
+	<li>
+        <a href="/c/body-care/wexler" manual_cm_sp="LN-_-Body Care-_-TO5">
+         50% Off Wexler
+        </a>
+    </li>
+</ul>
+
+
+</div> 
+	
+</li>
+<li class="actions">
+<div class="heading"><a manual_cm_sp="FO-_-Body+Care-_-Explore+Body+Care" class="category-link" href="http://www.bathandbodyworks.com/g/body-care">
+Explore Body Care
+</a></div>
 <a href="#" class="close-button">Close dropdown</a>
+</li>
+</ul>
 </div>
-<div class="menu-groupings">
-
-
-
-
-<div class="menu-group sub-column" style="width: 33%">
-
-<div class="heading">
-<span>FEATURED</span>
 </div>
 
-<ul class="menu-vertical">
 
+</li>
 
+<li class="has-children hand-soaps nav-lvl2-button " data-id="hand-soaps" id="hand-soaps-dropdown">
 
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Hand+Soaps-_-Sale+Hand+Soaps" class="sale" href="http://www.bathandbodyworks.com/c/hand-soaps/semi-annual-sale-soaps">
-Sale Hand Soaps
+<a manual_cm_sp="FO-_-Hand+Soaps-_-Hand+Soaps" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-controls="hand-soaps" href="http://www.bathandbodyworks.com/g/hand-soaps">
+Hand Soaps
 </a>
 
+
+
+
+
+<div class="nav-lvl2" data-id="hand-soaps" id="hand-soaps" aria-labelledby="hand-soaps-dropdown">
+<div class="nav-lvl2-container">
+<ul>
+
+
+
+
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="hand-soaps" data-id="0">
+
+<a href="#" class="heading" id="hand-soaps-dropdown-0" aria-haspopup="true" aria-expanded="false" aria-controls="hand-soaps-menu-0">
+<span>FEATURED</span>
+</a>
+
+<ul class="nav-lvl3" id="hand-soaps-menu-0" data-id="0" aria-labelledby="hand-soaps-dropdown-0">
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Hand+Soaps-_-New+Hand+Soaps" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/new-hand-soaps">
+New Hand Soaps
+</a>
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
 
-<div class="menu-group sub-column" style="width: 33%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="hand-soaps" data-id="1">
 
-<div class="heading">
+<a href="#" class="heading" id="hand-soaps-dropdown-1" aria-haspopup="true" aria-expanded="false" aria-controls="hand-soaps-menu-1">
 <span>HAND SOAPS</span>
-</div>
+</a>
 
-<ul class="menu-vertical">
-
-
+<ul class="nav-lvl3" id="hand-soaps-menu-1" data-id="1" aria-labelledby="hand-soaps-dropdown-1">
 
 
 
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Hand+Soaps-_-All+Hand+Soaps" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/all-hand-soaps">
 All Hand Soaps
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Hand+Soaps-_-Foaming+Soaps" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/foaming-hand-soap">
 Foaming Soaps
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Hand+Soaps-_-Exfoliating+Soaps" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/exfoliating-hand-soap">
 Exfoliating Soaps
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Hand+Soaps-_-Nourishing+Soaps" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/nourishing-hand-soap">
 Nourishing Soaps
 </a>
-
 </li>
 
 
 </ul>
-</div>
-
-
-
-
-
-<div class="menu-group sub-column" style="width: 33%">
-
-<div class="heading">
-<span>HAND SANITIZERS</span>
-</div>
-
-<ul class="menu-vertical">
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Hand+Soaps-_-PocketBac+Hand+Sanitizers" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/pocketbac-hand-sanitizer">
-PocketBac Hand Sanitizers
-</a>
-
 </li>
 
 
 
 
 
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="hand-soaps" data-id="2">
 
-<li class=" link">
+<a href="#" class="heading" id="hand-soaps-dropdown-2" aria-haspopup="true" aria-expanded="false" aria-controls="hand-soaps-menu-2">
+<span>HAND SANITIZERS</span>
+</a>
+
+<ul class="nav-lvl3" id="hand-soaps-menu-2" data-id="2" aria-labelledby="hand-soaps-dropdown-2">
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Hand+Soaps-_-All+Hand+Sanitizers" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/all-hand-sanitizers">
+All Hand Sanitizers
+</a>
+</li>
+
+
+
+
+<li class="link">
 <a manual_cm_sp="FO-_-Hand+Soaps-_-PocketBac+Holders" class="" href="http://www.bathandbodyworks.com/c/hand-soaps/pocketbac-sanitizer-holders">
 PocketBac Holders
 </a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
-</div>
-</div>
-
-<div class="feature sub-column">
-<div class="contentasset">
+<li class="category-top-offers nav-lvl3-button has-children" data-sectionid="hand-soaps" data-id="top-offers">
+<div class="heading"><span>Hand Soaps Offers</span></div>
 
 	 
 
+
 	
-</div>
-</div>
+
+<div class="html-slot-container">
 
 
-</div>
-</div>
+<span class="toggle">Top Offers</span>
+<ul>
+	<li>
+        <a href="/c/hand-soaps/hand-soap-promotion" manual_cm_sp="LN-_-Hand Soaps-_-TO1">
+       5/$23 Hand Soaps
+        </a>
+    </li>
+</ul>
 
+
+</div> 
+	
 </li>
-
-<li class=" home-fragrance">
-
-
-<i class="menu-item-toggle"></i>
-
-
-<a manual_cm_sp="FO-_-Home+Fragrance-_-Home+Fragrance" href="http://www.bathandbodyworks.com/g/home-fragrance">
-
-Home Fragrance
-
-</a>
-
-
-
-
-
-<div class="level-2">
-<div class="columns">
-<div class="inside wide">
-<div class="actions">
-<a manual_cm_sp="FO-_-Home+Fragrance-_-Home+Fragrance" class="category-link" href="http://www.bathandbodyworks.com/g/home-fragrance">
-Shop all Home Fragrance
-</a>
+<li class="actions">
+<div class="heading"><a manual_cm_sp="FO-_-Hand+Soaps-_-Explore+Hand+Soaps" class="category-link" href="http://www.bathandbodyworks.com/g/hand-soaps">
+Explore Hand Soaps
+</a></div>
 <a href="#" class="close-button">Close dropdown</a>
+</li>
+</ul>
 </div>
-<div class="menu-groupings">
-
-
-
-
-<div class="menu-group sub-column" style="width: 33%">
-
-<div class="heading">
-<span>FEATURED</span>
 </div>
 
-<ul class="menu-vertical">
 
+</li>
 
+<li class="has-children home-fragrance nav-lvl2-button " data-id="home-fragrance" id="home-fragrance-dropdown">
 
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Home+Fragrance-_-Sale+Home+Fragrance" class="sale" href="http://www.bathandbodyworks.com/c/home-fragrance/semi-annual-sale-home">
-Sale Home Fragrance
+<a manual_cm_sp="FO-_-Home+Fragrance-_-Home+Fragrance" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-controls="home-fragrance" href="http://www.bathandbodyworks.com/g/home-fragrance">
+Home Fragrance
 </a>
 
+
+
+
+
+<div class="nav-lvl2" data-id="home-fragrance" id="home-fragrance" aria-labelledby="home-fragrance-dropdown">
+<div class="nav-lvl2-container">
+<ul>
+
+
+
+
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="home-fragrance" data-id="0">
+
+<a href="#" class="heading" id="home-fragrance-dropdown-0" aria-haspopup="true" aria-expanded="false" aria-controls="home-fragrance-menu-0">
+<span>FEATURED</span>
+</a>
+
+<ul class="nav-lvl3" id="home-fragrance-menu-0" data-id="0" aria-labelledby="home-fragrance-dropdown-0">
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Home+Fragrance-_-New+Home+Fragrance" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/new-home-fragrance">
+New Home Fragrance
+</a>
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-The+White+Barn+Shop" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/white-barn-shop">
 The White Barn Shop
 </a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
 
-<div class="menu-group sub-column" style="width: 33%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="home-fragrance" data-id="1">
 
-<div class="heading">
+<a href="#" class="heading" id="home-fragrance-dropdown-1" aria-haspopup="true" aria-expanded="false" aria-controls="home-fragrance-menu-1">
 <span>CANDLES</span>
-</div>
+</a>
 
-<ul class="menu-vertical">
-
-
+<ul class="nav-lvl3" id="home-fragrance-menu-1" data-id="1" aria-labelledby="home-fragrance-dropdown-1">
 
 
 
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-All+Candles" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/all-candles">
 All Candles
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-3-Wick+Candles" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/3-wick-candles">
 3-Wick Candles
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-Single+Wick+Candles" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/single-wick-candles">
 Single Wick Candles
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Home+Fragrance-_-Mini+Candles" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/mini-candles">
-Mini Candles
+<li class="link">
+<a manual_cm_sp="FO-_-Home+Fragrance-_-Candle+Holders+&amp;+Accessories" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/candle-holders">
+Candle Holders &amp; Accessories
 </a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Home+Fragrance-_-Candle+Holders" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/candle-holders">
-Candle Holders
-</a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Home+Fragrance-_-Candle+Accessories" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/candle-accessories">
-Candle Accessories
-</a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
 
-<div class="menu-group sub-column" style="width: 33%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="home-fragrance" data-id="2">
 
-<div class="heading">
-<span>FRESHENERS</span>
-</div>
+<a href="#" class="heading" id="home-fragrance-dropdown-2" aria-haspopup="true" aria-expanded="false" aria-controls="home-fragrance-menu-2">
+<span>AIR FRESHENERS</span>
+</a>
 
-<ul class="menu-vertical">
-
-
+<ul class="nav-lvl3" id="home-fragrance-menu-2" data-id="2" aria-labelledby="home-fragrance-dropdown-2">
 
 
 
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-All+Wallflowers" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/all-wallflowers">
 All Wallflowers
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-Wallflowers+Plugs" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/wallflowers-plugs">
 Wallflowers Plugs
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-Wallflowers+Refills" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/wallflowers-refills">
 Wallflowers Refills
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-Wax+Melts+&amp;+Warmers" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/wax-melts-warmers">
 Wax Melts &amp; Warmers
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-Room+Sprays+&amp;+Mists" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/room-sprays-mists">
 Room Sprays &amp; Mists
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Home+Fragrance-_-Car+Scentportables" class="" href="http://www.bathandbodyworks.com/c/home-fragrance/car-scentportables">
 Car Scentportables
 </a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
-</div>
-</div>
-
-<div class="feature sub-column">
-<div class="contentasset">
+<li class="category-top-offers nav-lvl3-button has-children" data-sectionid="home-fragrance" data-id="top-offers">
+<div class="heading"><span>Home Fragrance Offers</span></div>
 
 	 
 
+
 	
-</div>
-</div>
+
+<div class="html-slot-container">
 
 
-</div>
-</div>
+<span class="toggle">Top Offers</span>
+<ul>
+	<li>
+        <a href="/c/home-fragrance/3-wick-candles-promotion" manual_cm_sp="LN-_-Home Fragrance-_-TO1">
+		$15.50 3-Wick Candles
+        </a>
+    </li>
+	<li>
+        <a href="/c/home-fragrance/wallflowers-refills-promotion" manual_cm_sp="LN-_-Home Fragrance-_-TO2">
+		5/$23 Wallflowers Fragrance Refills
+        </a>
+    </li>
+	<li>
+        <a href="/c/home-fragrance/single-wick-candle-promotion" manual_cm_sp="LN-_-Home Fragrance-_-TO3">
+		2/$16 Single Wick Candles
+        </a>
+    </li>
+	<li>
+        <a href="/c/home-fragrance/scentportable-promotion" manual_cm_sp="LN-_-Home Fragrance-_-TO4">
+		3/$9 Car Scentportables
+        </a>
+    </li>
+	<li>
+        <a href="/c/home-fragrance/wax-melts-warmers" manual_cm_sp="LN-_-Home Fragrance-_-TO5">
+		3/$12 Wax Melts
+        </a>
+    </li>
+</ul>
 
+
+</div> 
+	
 </li>
-
-<li class=" gifts">
-
-
-<i class="menu-item-toggle"></i>
-
-
-<a manual_cm_sp="FO-_-Gifts-_-Gifts" href="http://www.bathandbodyworks.com/g/gifts">
-
-Gifts
-
-</a>
-
-
-
-
-
-<div class="level-2">
-<div class="columns">
-<div class="inside wide">
-<div class="actions">
-<a manual_cm_sp="FO-_-Gifts-_-Gifts" class="category-link" href="http://www.bathandbodyworks.com/g/gifts">
-Shop all Gifts
-</a>
+<li class="actions">
+<div class="heading"><a manual_cm_sp="FO-_-Home+Fragrance-_-Explore+Home+Fragrance" class="category-link" href="http://www.bathandbodyworks.com/g/home-fragrance">
+Explore Home Fragrance
+</a></div>
 <a href="#" class="close-button">Close dropdown</a>
+</li>
+</ul>
 </div>
-<div class="menu-groupings">
+</div>
+
+
+</li>
+
+<li class="has-children gifts nav-lvl2-button " data-id="gifts" id="gifts-dropdown">
+
+<a manual_cm_sp="FO-_-Gifts-_-Gifts" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-controls="gifts" href="http://www.bathandbodyworks.com/g/gifts">
+Gifts
+</a>
 
 
 
 
-<div class="menu-group sub-column" style="width: 50%">
 
-<div class="heading">
+<div class="nav-lvl2" data-id="gifts" id="gifts" aria-labelledby="gifts-dropdown">
+<div class="nav-lvl2-container">
+<ul>
+
+
+
+
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="gifts" data-id="0">
+
+<a href="#" class="heading" id="gifts-dropdown-0" aria-haspopup="true" aria-expanded="false" aria-controls="gifts-menu-0">
 <span>FEATURED</span>
-</div>
-
-<ul class="menu-vertical">
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Gifts-_-Sale+Gifts" class="sale" href="http://www.bathandbodyworks.com/c/gifts/semi-annual-sale-gifts">
-Sale Gifts
 </a>
 
+<ul class="nav-lvl3" id="gifts-menu-0" data-id="0" aria-labelledby="gifts-dropdown-0">
+
+
+
+<li class="link">
+<a manual_cm_sp="FO-_-Gifts-_-Stocking+Stuffers" class="" href="http://www.bathandbodyworks.com/c/gifts/stocking-stuffers">
+Stocking Stuffers
+</a>
 </li>
 
 
 
 
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Gifts-_-Father's+Day+Gifts" class="" href="http://www.bathandbodyworks.com/c/gifts/gifts-for-him-redirect">
-Father's Day Gifts
+<li class="link">
+<a manual_cm_sp="FO-_-Gifts-_-Christmas+Favorites" class="" href="http://www.bathandbodyworks.com/t/christmas">
+Christmas Favorites
 </a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Gifts-_-$25+&amp;+Under+Gifts" class="" href="http://www.bathandbodyworks.com/c/gifts/gifts-under-25">
-$25 &amp; Under Gifts
-</a>
-
-</li>
-
-
-
-
-
-
-<li class=" link">
-<a manual_cm_sp="FO-_-Gifts-_-Wellness" class="" href="http://www.bathandbodyworks.com/t/wellness">
-Wellness
-</a>
-
 </li>
 
 
 </ul>
-</div>
+</li>
 
 
 
 
 
-<div class="menu-group sub-column" style="width: 50%">
+<li class="menu-group sub-column has-children nav-lvl3-button" data-sectionid="gifts" data-id="1">
 
-<div class="heading">
+<a href="#" class="heading" id="gifts-dropdown-1" aria-haspopup="true" aria-expanded="false" aria-controls="gifts-menu-1">
 <span>SHOP BY TYPE</span>
-</div>
+</a>
 
-<ul class="menu-vertical">
-
-
+<ul class="nav-lvl3" id="gifts-menu-1" data-id="1" aria-labelledby="gifts-dropdown-1">
 
 
 
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Gifts-_-Gifts+For+Her" class="" href="http://www.bathandbodyworks.com/c/gifts/gifts-for-her">
 Gifts For Her
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Gifts-_-Gifts+For+Him" class="" href="http://www.bathandbodyworks.com/c/gifts/gifts-for-him">
 Gifts For Him
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Gifts-_-Gifts+for+the+Home" class="" href="http://www.bathandbodyworks.com/c/gifts/gifts-for-home">
 Gifts for the Home
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Gifts-_-Gift+Sets" class="" href="http://www.bathandbodyworks.com/c/gifts/gift-sets">
 Gift Sets
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Gifts-_-Accessories" class="" href="http://www.bathandbodyworks.com/c/gifts/accessories">
 Accessories
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Gifts-_-Gift+Wrap" class="" href="http://www.bathandbodyworks.com/c/gifts/gift-wrap">
 Gift Wrap
 </a>
-
 </li>
 
 
 
 
-
-
-<li class=" link">
+<li class="link">
 <a manual_cm_sp="FO-_-Gifts-_-Gift+Cards" class="" href="https://www.bathandbodyworks.com/giftcards">
 Gift Cards
 </a>
-
 </li>
 
 
 </ul>
+</li>
+
+
+
+
+<li class="category-top-offers nav-lvl3-button has-children" data-sectionid="gifts" data-id="top-offers">
+<div class="heading"><span>Gifts Offers</span></div>
+
+	 
+
+
+	
+
+
+
+
+
+ 
+	
+</li>
+<li class="actions">
+<div class="heading"><a manual_cm_sp="FO-_-Gifts-_-Explore+Gifts" class="category-link" href="http://www.bathandbodyworks.com/g/gifts">
+Explore Gifts
+</a></div>
+<a href="#" class="close-button">Close dropdown</a>
+</li>
+</ul>
+</div>
 </div>
 
 
+</li>
+
+<li class=" top-offers nav-lvl2-button has-icon" data-id="top-offers" id="top-offers-dropdown">
+
+<a manual_cm_sp="FO-_-Top+Offers-_-Top+Offers" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-controls="top-offers" href="http://www.bathandbodyworks.com/g/top-offers">
+Top Offers
+</a>
 
 
-</div>
-</div>
 
-<div class="feature sub-column">
-<div class="contentasset">
+
+
+
+</li>
+
+<li class="mobile-only store-locator has-icon">
+<a href="/store-locator" title="Store Locator" manual_cm_sp="FO-_-Store+Locator-_-Store+Locator">Store Locator</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="mobile-only my-account nav-lvl2-button has-icon has-children" data-id="my-account">
+<a class="user-account" href="https://www.bathandbodyworks.com/my-account" title="User: Sign In or Sign Up">
+My Account
+</a>
+<ul class="nav-lvl2" data-id="my-account">
+
+<li class="link">
+<a class="" href="https://www.bathandbodyworks.com/my-account" title="Sign In or Sign Up" manual_cm_sp="FO-_-My+Account-_-Sign+In+or+Sign+Up">
+
+Sign In or Sign Up</a>
+</li>
+
+<li class="link">
+<a class="" href="https://www.bathandbodyworks.com/customer-care/order-status" title="Order Tracking" manual_cm_sp="FO-_-My+Account-_-Order+Tracking">
+
+Order Tracking</a>
+</li>
+
+<li class="link">
+<a class="wishlist" href="https://www.bathandbodyworks.com/my-account/wishlist" title="Wish List" manual_cm_sp="FO-_-My+Account-_-Wish+List">
+
+
+
+
+
+<svg class="icon PDP-Wishlist-4 svg-PDP-Wishlist-4-dims login-icon">
+
+<use xlink:href="http://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Images-Show#PDP-Wishlist-4"></use>
+
+</svg>
+
+
+Wish List</a>
+</li>
+
 
 	 
 
 	
-</div>
-</div>
-
-
-</div>
-</div>
-
-</li>
-
-<li class=" top-offers">
-
-
-<a manual_cm_sp="FO-_-Semi-Annual+Sale-_-Semi-Annual+Sale" href="http://www.bathandbodyworks.com/g/top-offers">
-
-Semi-Annual Sale
-
-</a>
-
-
-
-
-
-</li>
-
 </ul>
+</li>
+</ul>
+<ul class="utility-links mobile-only">
+
+	 
+
+
+	
+
+
+
+
+
+<li class="link">
+    <a href="/customer-care/order-status" manual_cm_sp="FO-_-Auxillary-_-order-tracking">Order Tracking</a>
+</li>
+<li class="link">
+    <a href="/customer-care/shipping-and-handling.html" manual_cm_sp="FO-_-Auxillary-_-shipping-returns">Shipping &amp; Returns</a>
+</li>
+<li class="link">
+    <a href="/g/fragrance" manual_cm_sp="FO-_-Auxillary-_-shop-by-fragrance">Shop by Fragrance</a>
+
+ 
+	
+</li></ul>
 
 
 </nav>
-<div class="menu-overlay"></div>
-</div><!-- /header -->
+<div class="menu-overlay" aria-haspopup="true" aria-expanded="false" aria-controls="navigation"></div>
+</div> <!-- /header -->
 </header>
+
 
 
 <div class="breadcrumb">
@@ -2062,108 +2104,6 @@ FAQs
 
 </li>
 
-<li>
-
-<a href="https://www.bathandbodyworks.com/customer-care/contact-us" title="Contact Us" data-id="contact-us">Contact Us</a>
-
-</li>
-
-</ul>
-
-<span class="toggle">Shipping &amp; Returns</span>
-<ul>
-
-
-<li>
-
-<a href="/customer-care/shipping-and-handling.html" title="Shipping &amp; Handling" data-id="shipping-and-handling">
-Shipping &amp; Handling
-</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/returning-item.html" title="Returning an Item" data-id="returning-item">
-Returning an Item
-</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/international-orders.html" title="International Orders" data-id="international-orders">
-International Orders
-</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/apo-fpo-boxes.html" title="APO &amp; FPO Boxes" data-id="apo-fpo-boxes">
-APO &amp; FPO Boxes
-</a>
-
-</li>
-
-</ul>
-
-<span class="toggle">Your Order</span>
-<ul>
-
-
-<li>
-
-<a href="https://www.bathandbodyworks.com/customer-care/order-status" title="Order Tracking" data-id="order-tracking">Order Tracking</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/cancellations.html" title="Cancellations" data-id="cancellations">
-Cancellations
-</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/backorders.html" title="Backorders" data-id="backorders">
-Backorders
-</a>
-
-</li>
-
-</ul>
-
-<span class="toggle">Payment</span>
-<ul>
-
-
-<li>
-
-<a href="/customer-care/payment-options.html" title="Payment Options" data-id="payment-options">
-Payment Options
-</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/redeeming-gift-cards.html" title="Redeeming Gift Cards &amp; E-Gift Cards" data-id="redeeming-gift-cards">
-Redeeming Gift Cards &amp; E-Gift Cards
-</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/sales-tax.html" title="Taxes" data-id="sales-tax">
-Taxes
-</a>
-
-</li>
-
 </ul>
 
 <span class="toggle">Corporate Information</span>
@@ -2174,14 +2114,6 @@ Taxes
 
 <a href="/customer-care/careers.html" title="Careers" data-id="careers">
 Careers
-</a>
-
-</li>
-
-<li>
-
-<a href="/customer-care/us-store-faqs.html" title="Store FAQs" data-id="us-store-faqs">
-Store FAQs
 </a>
 
 </li>
@@ -2814,12 +2746,12 @@ Let Us Help!
 <h3>customer care</h3>
 
 <ul class="menu-footer">
-	<li><a href="http://www.bathandbodyworks.com/customer-care/faqs.html" title="FAQs">FAQs</a></li>
-	<li><a href="http://www.bathandbodyworks.com/customer-care/shipping-and-handling.html" title="Shipping &amp; Returns">Shipping &amp; Returns</a></li>
+	<li><a href="http://www.bathandbodyworks.com/customer-care/faqs.html" title="Help &amp; FAQs" target="_blank">Help &amp; FAQs</a></li>
+	<li><a href="http://www.bathandbodyworks.com/customer-care/shipping-and-handling.html" title="Shipping" target="_blank">Shipping</a></li>
+	<li><a href="http://www.bathandbodyworks.com/customer-care/returning-item.html" title="Returns &amp; Exchanges" target="_blank">Returns &amp; Exchanges</a></li>
 	<li><a href="http://www.bathandbodyworks.com/customer-care/order-status" title="Order Tracking">Order Tracking</a></li>
-	<li><a href="/giftcards" title="Gift Cards">Gift Cards</a></li>
 	<li><a href="http://www.bathandbodyworks.com/customer-care/corporate-gifts.html" title="Gift Certificates">Corporate Gifts</a></li>
-	<li><a href="https://www.bathandbodyworks.com/customer-care/contact-us" title="Contact Us">Contact Us</a></li>
+	<li><a href="https://www.bathandbodyworks.com/customer-care/contact-us" title="Contact Us" target="_blank">Contact Us</a></li>
 </ul>
 </div> <!-- End content-asset -->
 
@@ -2846,7 +2778,7 @@ Let Us Help!
 <ul class="menu-footer">
 	<li><a href="https://www.bathandbodyworks.com/my-account" title="Sign In or Sign Up">Sign In or Sign Up</a></li>
 	<li><a href="https://www.bathandbodyworks.com/my-account/order-history" title="Order History">Order History</a></li>
-	<li><a href="https://www.bathandbodyworks.com/my-account/wishlist" title="Go to Wish List">Wish List</a></li>
+	<li><a href="https://www.bathandbodyworks.com/my-account/wishlist" title="Go to My Love-It List">My Love-It List</a></li>
 	
 </ul>
 </div> <!-- End content-asset -->
@@ -2875,8 +2807,8 @@ Let Us Help!
 <ul class="menu-footer">
 	<li><a href="http://www.bathandbodyworks.com/customer-care/our-story.html" title="Our Story">Our Story</a></li>
 	<li><a href="http://www.bathandbodyworks.com/customer-care/careers.html" title="Careers">Careers</a></li>
-	<li><a href="http://www.bathandbodyworks.com/g/fragrance" title="Find a Fragrance">Fragrance Finder</a></li>
-	<!--<li><a href="#" title="Refer a Friend">Refer a Friend</a></li>-->
+        <li><a href="/giftcards" title="Gift Cards">Gift Cards</a></li>
+	<li><a href="http://www.bathandbodyworks.com/g/fragrance" title="Shop by Fragrance">Shop by Fragrance</a></li>
 	<li><a href="http://www.bathandbodyworks.com/e/videos.html" title="Go to Videos">Videos</a></li>
 </ul>
 </div> <!-- End content-asset -->
@@ -2991,16 +2923,81 @@ Let Us Help!
 
 
 </div>
+<div id="email-dialog" style="display: none;">
+
+	 
+
+
+	
+
+
+
+
+
+<link rel="stylesheet" href="http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/en_US/v1545303162638/experiences/email-dialog/2018-xmas/email-dialog-content.css">
+<script src="http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/en_US/v1545303162638/experiences/email-dialog/2018-xmas/email-dialog-tooltip.js"></script>
+
+<div id="email-dialog-form">
+    <div class="email-dialog-content">
+        <h1><picture>
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source media="(min-width: 767px)" srcset="http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw850071a5/experiences/email-dialog/2018-xmas/christmas_email-signup-modal_d.svg">
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="Get on the nice list" src="http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw1dc0bad1/experiences/email-dialog/2018-xmas/christmas_email-signup-modal_m.svg">
+        </picture></h1>
+        <p>Christmas is here! Sign up so you don’t miss our best deals, gift ideas and more.</p>
+        <form id="emailSignupForm" name="firstlookForm" novalidate="novalidate">
+            <input type="hidden" name="SOURCE" value="LB">
+            <input type="hidden" name="COUNTRY_CODE" value="US">
+            <input type="hidden" name="srcPageDESC" value="Global Email Dialog">
+            <input type="hidden" name="srcURL" value="http://www.bathandbodyworks.com/email-dialog-preCM1-18.html?format=ajax">
+            <input type="hidden" name="url1" value="https://www.bathandbodyworks.com/email-dialog-preCM1-18.html?format=ajax">
+            <input type="hidden" name="url2" value="">
+            <label for="email" class="email-label">ENTER EMAIL</label>
+            <input type="email" name="email" id="email" class="input-text email required" value="" aria-required="true" placeholder="" required="" autofocus="">
+            <input class="button signup-btn signup-btn" type="submit" name="home-email" value="Sign Up" onclick="cmCreateElementTag('Email Lightbox', 'Thank You');">
+            <div id="i-rollover-container">
+                <div class="infoIcon" tabindex="0" aria-describedby="formTooltip">
+                    <div class="toolTip">
+                        <div class="arrow"></div>
+                        <div class="wrapper" role="tooltip" id="formTooltip">
+                            <span class="corporate">Bath &amp; Body Works Direct, Inc.</span><br>
+                            <span class="corporateadd">95 West Main Street<br>New Albany, OH 43054<br>1-800-756-5005</span>
+                            <span class="withdraw">You may withdraw your consent at anytime. View <a href="/customer-care/privacy-and-security.html" target="_blank">Privacy Policy</a></span><br>
+                            <span class="contact"><a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=contact&amp;stillHaveQuestion=yes" target="_blank">Contact Us</a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="display: none;" class="error">Oops! Your email must be in the format of name@domain.com.</div>
+        </form>
+    </div>
+</div>
+<div id="email-dialog-success">
+    <div class="email-dialog-content thank-you">
+        <h1><picture>
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source media="(min-width: 767px)" srcset="http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwf2239579/experiences/email-dialog/2018-xmas/christmas_email-signup-modal_thanks_d.svg">
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="Thanks for signing up!" src="http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw254bd76b/experiences/email-dialog/2018-xmas/christmas_email-signup-modal_thanks_m.svg">
+        </picture></h1>
+        <p>Keep an eye on your email. We've got lots of goodies coming your way!</p>
+    </div>
+</div>
+
+ 
+	
+</div>
 
 
 
 
 
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -3008,25 +3005,27 @@ Let Us Help!
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
 
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/owl.carousel.min.js"></script>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/svg.min.js"></script>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/picturefill.min.js" async=""></script>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery.creditCardValidator.js"></script>
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/jquery.deserialize.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/owl.carousel.min.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/svg.min.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/picturefill.min.js" async=""></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery.creditCardValidator.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/jquery.deserialize.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/mask.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/progressbar.js"></script>
 <script type="text/javascript">
 
 (function(){
-window.User = {"zip":null,"storeId":null,"registered":false,"authenticated":false,"anonymous":true,"geolocation":{"city":"Florenceville-Bristol","countryCode":"CA","countryName":"Canada","latitude":46.3982,"longitude":-67.7174,"postalCode":"E7K","regionCode":"NB","regionName":"New Brunswick"}};
+window.User = {"zip":null,"storeId":null,"registered":false,"authenticated":false,"anonymous":true,"geolocation":{"city":null,"countryCode":"US","countryName":"United States","latitude":47.6062,"longitude":-122.3321,"postalCode":null,"regionCode":"WA","regionName":"Washington"}};
 window.Scripts = {"useMin":false,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","markerurl":"http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dwb99ffb52/images/svg/UI-Locator-Pin1.svg","activemarkerurl":"http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw722b183d/images/svg/UI-Locator-Pin2.svg","markerdetailurl":"http://www.bathandbodyworks.com/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dwdf7576ef/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Stores-SetGeoLocation","cookiename":"Storelocator_cookie","defaultlocation":"US","maptype":"ROADMAP"}},"cart":{"shippingMethod":null}};
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","CUSTOMER_CARE":"Customer Care","SELECT_LANGUAGE":"Select Language","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","CC_REMOVE_ERROR":"billing.creditcardremoveerror","CC_REMOVE_CONFIRM":"Are you sure you want to remove this Credit Card?","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","SUBSCRIBE_EMAIL_SUCCESS":"Thank you for signing up!","ERROR_MAX_QTY":"Limit <b>maxqty</b> per order.<br/> Quantity has been adjusted.","MAX_QTY_ADJUSTED":"Limit <b>maxqty</b> per order. Quantity has been adjusted.","ERROR_LOW_INV":"Hurry, only <b>maxqty</b> left!","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Oops! The Gift Card entered is not valid. Please try again.","GIFT_CERT_INVALID_LENGTH":"Oops! Please enter a valid Card Number.","GIFT_CERT_BALANCE":"Your Gift Card Balance","GIFT_CERT_AMOUNT_INVALID":"Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter your Gift Card number.","GIFT_CERT_PIN_MISSING":"Please enter your Gift Card PIN.","GIFT_CERT_PIN_INVALID_LENGTH":"Oops! Please enter a valid PIN.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Expected Ship Date:","ITEM_STATUS_NOTAVAILABLE":"Out of Stock","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quicklook","QUICK_VIEW_POPUP":"Product Quicklook","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","ADDED_TO_CART":"it’s in the bag!","SHOW_ALL":"Hide","HIDE_ALL":"See All","COUPON_REMOVE_CONFIRM":"Confirm","COUPON_REMOVE_CANCEL":"Cancel","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_EQUALTOEMAIL":"Your email addresses don't match. Please try again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_MINGIFTCARDNO":"Oops! Please enter a valid Card Number.","VALIDATE_MINGIFTCARDPIN":"Oops! Please enter a valid PIN.","VALIDATE_REQPASSWORD":"Password does not match requirements","VALIDATE_EMAILNOTFOUND":"Oops! We don't recognize that email  address. Please try again.","VALIDATE_CREDICARD":"Invalid Credit Card Number","VALIDATE_CREDICARDCVV":"Invalid Security Code","VALIDATE_PASSWORD_LENGTH":"At least 8 & no more than 50 characters","VALIDATE_PASSWORD_UPPERCASE":"Contains at least one upper-case letter (A-Z)","VALIDATE_PASSWORD_LOWERCASE":"Contains at least one lower-case letter (a-z)","VALIDATE_PASSWORD_NUMBER":"Contains at least one number (0-9)","VALIDATE_PASSWORD_SPACE":"No space(s)","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Available for Pre-order:","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"On Backorder:","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of Stock","REMAIN_NOT_AVAILABLE":"This item is currently out of stock. Please remove the item before checkout."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include","continueUrl":"http://www.bathandbodyworks.com/content?dwcont=C721068549","staticPath":"/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/","addGiftCert":"/gift-certificates","minicartGC":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.bathandbodyworks.com/my-account/addressdetails","paymentsList":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/PaymentInstruments-List","addressesList":"https://www.bathandbodyworks.com/my-account/address-list","wishlistAddress":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/my-account/delete","getProductUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-SelectCreditCard","billingRemoveCC":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RemoveCreditCard","updateAddressDetails":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Radial-GetGiftCardBalance","redeemGiftCert":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RedeemGiftCertificateJson","giftCertAddToBasket":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Radial-GCApplyToBasket","addCoupon":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddCouponJson","addCouponLoyalty":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddCouponLoyaltyJson","storesInventory":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-GetZipCode","billing":"/checkout/billing","modalGCRemove":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RemoveGiftCard","modalGC":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Radial-GCModal","setSessionCurrency":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/RateLimiter-HideCaptcha","removeItemFromMiniCart":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-RemoveFromMiniCart","footerSubscriptionUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-Footer","accountSubscriptionUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-Account","checkoutSubscriptionUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-Checkout","firstLookEmailHash":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-FirstLookEmailHash","checkoutSummaryPage":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COSummary-Start","checkoutAddGiftBox":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddGiftBox","checkoutRemoveGiftBox":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-RemoveGiftBox","certonaReccomendations":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/CertonaExtra-Recommendations","checkoutFlyIn":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/CheckoutFlyIn","unsupportedBrowser":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=unsupported-browser","unsupportedBrowserMobile":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=unsupported-browser-mobile","unsupportedBrowserPage":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/UnsupportedBrowser-Start","whyPhoneRequired":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=why-phone-required","homepage":"/","loginCaptcha":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-Captcha","contactusCaptcha":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/CustomerService-RecaptchaCheck","removeCouponCode":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-RemoveCouponCode","updateCartSummary":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-UpdateCartSummary","appliedCouponsList":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AppliedCouponsList","userExists":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-UserExists","appliedGCList":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-AppliedGCList","removeGiftCertificate":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RemoveGiftCertificate","updatePaymentMethods":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RefreshPaymentMethods","languagePopup":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Home-LanguagePopup","languageSetSessionVar":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Home-SetLandingSessionVariable","canadalpFormURL":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Home-SubmitCanadaLPForm"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_ADDTOCARD_POPUP":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":true,"COOKIE_EXP_DAYS":15,"COOKIE_COUNTRY_LIST":"AT BE BG HR CY CZ DK EE FI FR DE GR HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE GB","CHECK_TLS":false,"RADIAL_INVENTORY_THRESHOLD":15,"SESSION_TIMEOUT":1200,"SESSION_TIMEOUT_COUNTDOWN":120,"CA_LANDING_GEOIP_BYPASS":false,"CA_LANDING_INTERCEPTOR_ENABLED":true};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks, I'm not interested in free product.","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","CUSTOMER_CARE":"Customer Care","SELECT_LANGUAGE":"Select Language","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","CC_REMOVE_ERROR":"billing.creditcardremoveerror","CC_REMOVE_CONFIRM":"Are you sure you want to remove this Credit Card?","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","SUBSCRIBE_EMAIL_SUCCESS":"Thank you for signing up!","ERROR_MAX_QTY":"Limit <b>maxqty</b> per order.<br/> Quantity has been adjusted.","MAX_QTY_ADJUSTED":"Limit <b>maxqty</b> per order. Quantity has been adjusted.","ERROR_LOW_INV":"Hurry, only <b>maxqty</b> left!","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Oops! The Gift Card entered is not valid. Please try again.","GIFT_CERT_INVALID_LENGTH":"Oops! Please enter a valid Card Number.","GIFT_CERT_BALANCE":"Your Gift Card Balance","GIFT_CERT_AMOUNT_INVALID":"Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter your Gift Card number.","GIFT_CERT_PIN_MISSING":"Please enter your Gift Card PIN.","GIFT_CERT_PIN_INVALID_LENGTH":"Oops! Please enter a valid PIN.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Expected Ship Date:","ITEM_STATUS_NOTAVAILABLE":"Out of Stock","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quicklook","QUICK_VIEW_POPUP":"Product Quicklook","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","ADDED_TO_CART":"it’s in the bag!","NOT_ADDED_TO_CART":"Item(s) have not been added to cart.","NOT_ADDED_TO_CART_TITLE":"Sorry!","NOT_ADDED_TO_CART_MESSAGE":"You've reached the order limit for this item or our stock is low.","SHOW_ALL":"Hide","HIDE_ALL":"See All","COUPON_REMOVE_CONFIRM":"Confirm","COUPON_REMOVE_CANCEL":"Cancel","LOYALTY_GATHRING_REWARDS":"Gathering your Rewards","LOYALTY_GATHRING_OFFERS":"Gathering your Offers","LOYALTY_PAGE_LOADING":"Page Loading","LOYALTY_COPY_CODE":"Copy Code","LOYALTY_CODE_COPIED":"COPIED!","LOYALTY_NETWORK_ERROR":"We're experiencing issues loading the requested information.","LOYALTY_NETWORK_RETRY":"Retry","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_EQUALTOEMAIL":"Your email addresses don't match. Please try again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_MINGIFTCARDNO":"Oops! Please enter a valid Card Number.","VALIDATE_MINGIFTCARDPIN":"Oops! Please enter a valid PIN.","VALIDATE_REQPASSWORD":"Password does not match requirements","VALIDATE_EMAILNOTFOUND":"Oops! We don't recognize that email  address. Please try again.","VALIDATE_POSTALCODE":"Please enter a valid ZIP code.","VALIDATE_BIRTHDAY":"Please enter a valid birthday (Format MM DD).","VALIDATE_CREDICARD":"Invalid Credit Card Number","VALIDATE_CREDICARDCVV":"Invalid Security Code","VALIDATE_PASSWORD_LENGTH":"At least 8 & no more than 50 characters","VALIDATE_PASSWORD_UPPERCASE":"Contains at least one upper-case letter (A-Z)","VALIDATE_PASSWORD_LOWERCASE":"Contains at least one lower-case letter (a-z)","VALIDATE_PASSWORD_NUMBER":"Contains at least one number (0-9)","VALIDATE_PASSWORD_SPACE":"No space(s)","PASSWORD_CONDITIONS_5":"of 5 conditions met,","PASSWORD_CONDITIONS_MET":"met.","PASSWORD_CONDITIONS_NOTMET":"not met.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Available for Pre-order:","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"On Backorder:","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of Stock","REMAIN_NOT_AVAILABLE":"This item is currently out of stock. Please remove the item before checkout."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include","continueUrl":"http://www.bathandbodyworks.com/content?dwcont=C569337798","staticPath":"/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/","addGiftCert":"/gift-certificates","minicartGC":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-MiniAddProduct","cartShow":"https://www.bathandbodyworks.com/cart","giftRegAdd":"https://www.bathandbodyworks.com/my-account/addressdetails","paymentsList":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/PaymentInstruments-List","addressesList":"https://www.bathandbodyworks.com/my-account/address-list","wishlistAddress":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/my-account/delete","getProductUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-SelectCreditCard","billingRemoveCC":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RemoveCreditCard","updateAddressDetails":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Radial-GetGiftCardBalance","redeemGiftCert":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RedeemGiftCertificateJson","giftCertAddToBasket":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Radial-GCApplyToBasket","addCoupon":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddCouponJson","addCouponLoyalty":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddCouponLoyaltyJson","storesInventory":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/StoreInventory-GetZipCode","billing":"/checkout/billing","modalGCRemove":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RemoveGiftCard","modalGC":"https://www.bathandbodyworks.com/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Radial-GCModal","setSessionCurrency":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/RateLimiter-HideCaptcha","removeItemFromMiniCart":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-RemoveFromMiniCart","footerSubscriptionUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-Footer","accountSubscriptionUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-Account","checkoutSubscriptionUrl":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-Checkout","firstLookEmailHash":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-FirstLookEmailHash","checkoutSummaryPage":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COSummary-Start","checkoutAddGiftBox":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AddGiftBox","checkoutRemoveGiftBox":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-RemoveGiftBox","certonaReccomendations":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/CertonaExtra-Recommendations","checkoutFlyIn":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/CheckoutFlyIn","unsupportedBrowser":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=unsupported-browser","unsupportedBrowserMobile":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=unsupported-browser-mobile","unsupportedBrowserPage":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/UnsupportedBrowser-Start","whyPhoneRequired":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=why-phone-required","homepage":"/","loginCaptcha":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-Captcha","contactusCaptcha":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/CustomerService-RecaptchaCheck","removeCouponCode":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-RemoveCouponCode","updateCartSummary":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-UpdateCartSummary","appliedCouponsList":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-AppliedCouponsList","userExists":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-UserExists","appliedGCList":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-AppliedGCList","removeGiftCertificate":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RemoveGiftCertificate","updatePaymentMethods":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/COBilling-RefreshPaymentMethods","showRewardsDialog":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-RewardsDialog","showRewardsDialogConfirm":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=order-confirmation-loyalty","accountLanding":"/my-account","languagePopup":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Home-LanguagePopup","languageSetSessionVar":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Home-SetLandingSessionVariable","canadalpFormURL":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-SubmitCanadaLPForm","walletDetails":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-IncludeWalletDetails","rewardsCoupons":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Cart-IncludePromoDetails","spinningIcon":"/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwffb95451/images/account/spinner-rewards.gif","getThreshold":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-GetThreshold","getRewardsDataShort":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Account-GetRewardsDataShort","showRewardsFormConfirm":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Page-Include?cid=loyalty-order-confirm-submitted","emailDialogSubmitURL":"/on/demandware.store/Sites-BathAndBodyWorks-Site/en_US/Subscription-SubmitEmailDialogForm"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_ADDTOCARD_POPUP":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":true,"COOKIE_EXP_DAYS":15,"COOKIE_COUNTRY_LIST":"AT BE BG HR CY CZ DK EE FI FR DE GR HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE GB","CHECK_TLS":false,"RADIAL_INVENTORY_THRESHOLD":15,"SESSION_TIMEOUT":1200,"SESSION_TIMEOUT_COUNTDOWN":120,"ZIP_CODES_LOYALTY":"['23845','23915','23917','23919','23927','23968','24529','24580','24598','27006','27013','27014','27020','27028','27054','27055','27201','27202','27203','27204','27205','27207','27208','27209','27213','27214','27215','27216','27217','27228','27230','27231','27233','27235','27237','27239','27242','27243','27244','27247','27248','27249','27252','27253','27256','27258','27259','27260','27261','27262','27263','27264','27265','27278','27281','27282','27283','27291','27292','27293','27294','27295','27298','27299','27301','27302','27310','27311','27312','27313','27314','27316','27317','27320','27323','27325','27326','27330','27331','27332','27340','27341','27342','27344','27349','27350','27351','27355','27356','27357','27358','27359','27360','27361','27370','27371','27373','27374','27375','27376','27377','27379','27401','27402','27403','27404','27405','27406','27407','27408','27409','27410','27411','27412','27413','27415','27416','27417','27419','27420','27425','27427','27429','27435','27438','27455','27495','27497','27498','27499','27501','27502','27503','27504','27505','27506','27507','27508','27509','27510','27511','27512','27513','27514','27515','27516','27517','27518','27519','27520','27521','27522','27523','27524','27525','27526','27527','27528','27529','27536','27537','27539','27540','27541','27543','27544','27545','27546','27549','27551','27552','27553','27555','27556','27557','27559','27560','27562','27563','27564','27565','27568','27570','27571','27572','27573','27574','27576','27577','27581','27582','27583','27584','27586','27587','27588','27589','27591','27592','27593','27594','27596','27597','27599','27601','27602','27603','27604','27605','27606','27607','27608','27609','27610','27611','27612','27613','27614','27615','27616','27617','27619','27620','27621','27622','27623','27624','27625','27626','27627','27628','27629','27634','27635','27636','27640','27650','27656','27658','27661','27668','27675','27676','27690','27695','27697','27698','27699','27701','27702','27703','27704','27705','27706','27707','27708','27709','27710','27711','27712','27713','27715','27717','27722','27807','27816','27844','27880','27882','28001','28002','28006','28009','28010','28012','28016','28018','28019','28020','28021','28023','28025','28026','28027','28031','28032','28033','28034','28035','28036','28037','28039','28040','28041','28042','28043','28052','28053','28054','28055','28056','28070','28071','28072','28073','28075','28077','28078','28079','28080','28081','28082','28083','28086','28088','28089','28090','28092','28093','28097','28098','28101','28103','28104','28105','28106','28107','28108','28109','28110','28111','28112','28115','28117','28120','28123','28124','28125','28126','28127','28128','28129','28130','28133','28134','28136','28137','28138','28139','28144','28145','28146','28147','28150','28159','28160','28163','28164','28166','28167','28168','28169','28173','28174','28201','28202','28203','28204','28205','28206','28207','28208','28209','28210','28211','28212','28213','28214','28215','28216','28217','28218','28219','28220','28221','28222','28223','28224','28226','28227','28228','28229','28230','28231','28232','28233','28234','28235','28236','28237','28241','28242','28243','28244','28246','28247','28250','28253','28254','28255','28256','28258','28260','28262','28263','28265','28266','28269','28270','28271','28272','28273','28274','28275','28277','28278','28280','28281','28282','28284','28285','28287','28288','28289','28290','28296','28297','28299','28307','28310','28311','28315','28323','28326','28327','28334','28335','28339','28350','28355','28356','28368','28370','28374','28387','28388','28390','28394','28601','28602','28603','28605','28609','28610','28611','28612','28613','28616','28619','28625','28628','28630','28633','28634','28636','28637','28638','28641','28645','28646','28647','28650','28653','28654','28655','28657','28658','28660','28661','28662','28664','28666','28667','28669','28671','28673','28677','28678','28680','28681','28682','28687','28688','28689','28690','28697','28699','28737','28749','28752','28761','28762','28765','28777','29702','29703','29704','29706','29707','29708','29710','29712','29714','29715','29716','29717','29720','29721','29722','29724','29726','29728','29729','29730','29731','29732','29733','29734','29742','29743','29744','29745','00500','46301','46302','46303','46304','46307','46308','46311','46312','46319','46320','46321','46322','46323','46324','46325','46327','46340','46341','46342','46347','46348','46349','46350','46352','46355','46356','46360','46361','46368','46372','46373','46375','46376','46377','46379','46381','46382','46383','46384','46385','46390','46391','46393','46394','46401','46402','46403','46404','46405','46406','46407','46408','46409','46410','46411','46501','46504','46506','46507','46511','46513','46514','46515','46516','46517','46524','46526','46527','46528','46530','46531','46532','46536','46537','46540','46542','46543','46544','46545','46546','46550','46553','46554','46556','46561','46563','46570','46572','46573','46574','46595','46601','46613','46614','46615','46616','46617','46619','46624','46626','46628','46634','46635','46637','46660','46680','46699','47963','49107','49112','49117','49120','49121','49129','49130','60101','60119','60126','60134','60137','60138','60144','60147','60162','60163','60174','60175','60177','60181','60183','60187','60189','60190','60191','60401','60403','60404','60406','60407','60408','60409','60410','60411','60412','60416','60417','60419','60421','60422','60423','60424','60425','60426','60428','60429','60430','60431','60432','60433','60434','60435','60436','60438','60439','60440','60441','60442','60443','60444','60445','60446','60447','60448','60449','60450','60451','60452','60461','60462','60463','60464','60466','60467','60468','60469','60470','60471','60472','60473','60474','60475','60476','60477','60478','60480','60481','60484','60487','60490','60491','60502','60503','60504','60505','60506','60507','60510','60511','60512','60514','60516','60517','60518','60519','60521','60525','60531','60532','60536','60537','60538','60539','60540','60541','60542','60543','60544','60545','60548','60549','60551','60552','60554','60555','60557','60558','60559','60560','60561','60563','60564','60565','60566','60567','60568','60572','60585','60586','60598','60599','60617','60628','60633','60643','60655','60803','60827','60901','60910','60911','60912','60913','60914','60915','60917','60919','60920','60922','60927','60928','60930','60931','60935','60938','60940','60941','60944','60945','60946','60950','60951','60954','60956','60958','60961','60964','60969','60970','61301','61310','61311','61312','61314','61315','61316','61317','61318','61320','61321','61322','61323','61325','61326','61327','61328','61329','61330','61331','61332','61333','61334','61335','61336','61337','61338','61340','61341','61342','61348','61349','61350','61354','61356','61358','61359','61360','61362','61363','61364','61367','61368','61369','61370','61371','61372','61373','61374','61375','61376','61377','61378','61379','61537','61540','61541','61560','90022','90032','90040','90042','90059','90061','90091','90101','90103','90201','90202','90220','90221','90222','90223','90224','90239','90240','90241','90242','90247','90248','90249','90260','90261','90262','90270','90274','90275','90277','90278','90280','90501','90502','90503','90504','90505','90506','90507','90508','90509','90510','90601','90602','90603','90604','90605','90606','90607','90608','90609','90610','90620','90621','90622','90623','90624','90630','90631','90632','90633','90637','90638','90639','90640','90650','90651','90652','90660','90661','90662','90670','90671','90680','90701','90702','90703','90706','90707','90710','90711','90712','90713','90714','90715','90716','90717','90720','90721','90723','90731','90732','90733','90734','90740','90742','90743','90744','90745','90746','90747','90748','90749','90755','90801','90802','90803','90804','90805','90806','90807','90808','90809','90810','90813','90814','90815','90822','90831','90832','90833','90834','90835','90840','90842','90844','90846','90847','90848','90853','90895','90899','91001','91003','91006','91007','91008','91009','91010','91016','91017','91023','91024','91025','91030','91031','91066','91077','91101','91102','91103','91104','91105','91106','91107','91108','91109','91110','91114','91115','91116','91117','91118','91121','91123','91124','91125','91126','91129','91182','91184','91185','91188','91189','91199','91701','91702','91706','91708','91709','91710','91711','91715','91722','91723','91724','91729','91730','91731','91732','91733','91734','91735','91737','91739','91740','91741','91743','91744','91745','91746','91747','91748','91749','91750','91752','91754','91755','91756','91758','91759','91761','91762','91763','91764','91765','91766','91767','91768','91769','91770','91771','91772','91773','91775','91776','91778','91780','91784','91785','91786','91788','91789','91790','91791','91792','91793','91795','91797','91801','91802','91803','91804','91896','91899','92003','92008','92009','92010','92011','92013','92018','92025','92026','92027','92028','92029','92030','92033','92046','92049','92051','92052','92054','92055','92056','92057','92058','92059','92060','92061','92068','92069','92078','92079','92081','92082','92083','92084','92085','92088','92096','92201','92202','92203','92210','92211','92220','92223','92230','92234','92235','92236','92240','92241','92247','92248','92252','92253','92254','92255','92256','92258','92260','92261','92262','92263','92264','92270','92274','92275','92276','92282','92292','92301','92305','92307','92308','92313','92314','92315','92316','92317','92318','92320','92321','92322','92324','92325','92326','92329','92331','92333','92334','92335','92336','92337','92339','92340','92341','92342','92344','92345','92346','92350','92352','92354','92356','92357','92358','92359','92368','92369','92371','92372','92373','92374','92375','92376','92377','92378','92382','92385','92386','92391','92392','92393','92394','92395','92397','92399','92401','92402','92403','92404','92405','92406','92407','92408','92410','92411','92412','92413','92414','92415','92418','92423','92424','92427','92501','92502','92503','92504','92505','92506','92507','92508','92509','92513','92514','92515','92516','92517','92518','92519','92521','92522','92530','92531','92532','92536','92539','92543','92544','92545','92546','92548','92549','92551','92552','92553','92554','92555','92556','92557','92561','92562','92563','92564','92567','92570','92571','92572','92581','92582','92583','92584','92585','92586','92587','92589','92590','92591','92592','92593','92595','92596','92599','92602','92603','92604','92605','92606','92607','92609','92610','92612','92614','92615','92616','92617','92618','92619','92620','92623','92624','92625','92626','92627','92628','92629','92630','92637','92646','92647','92648','92649','92650','92651','92652','92653','92654','92655','92656','92657','92658','92659','92660','92661','92662','92663','92672','92673','92674','92675','92676','92677','92678','92679','92683','92684','92685','92688','92690','92691','92692','92693','92694','92697','92698','92701','92702','92703','92704','92705','92706','92707','92708','92711','92712','92725','92728','92735','92780','92781','92782','92799','92801','92802','92803','92804','92805','92806','92807','92808','92809','92811','92812','92814','92815','92816','92817','92821','92822','92823','92825','92831','92832','92833','92834','92835','92836','92837','92838','92840','92841','92842','92843','92844','92845','92846','92850','92856','92857','92859','92860','92861','92862','92863','92864','92865','92866','92867','92868','92869','92870','92871','92877','92878','92879','92880','92881','92882','92883','92885','92886','92887','92899','00075','60001','60002','60004','60005','60006','60007','60008','60009','60010','60011','60012','60013','60014','60015','60016','60017','60018','60019','60020','60021','60022','60025','60026','60029','60030','60031','60033','60034','60035','60037','60038','60039','60040','60041','60042','60043','60044','60045','60046','60047','60048','60050','60051','60053','60055','60056','60060','60061','60062','60064','60065','60067','60068','60069','60070','60071','60072','60073','60074','60075','60076','60077','60078','60079','60081','60082','60083','60084','60085','60086','60087','60088','60089','60090','60091','60093','60094','60095','60096','60097','60098','60099','60102','60103','60104','60105','60106','60107','60108','60109','60110','60111','60112','60113','60115','60116','60117','60118','60120','60121','60122','60123','60124','60128','60129','60130','60131','60132','60133','60135','60136','60139','60140','60141','60142','60143','60145','60146','60148','60150','60151','60152','60153','60154','60155','60156','60157','60159','60160','60161','60164','60165','60168','60169','60170','60171','60172','60173','60176','60178','60179','60180','60184','60185','60186','60188','60192','60193','60194','60195','60196','60197','60199','60201','60202','60203','60204','60208','60209','60290','60301','60302','60303','60304','60305','60399','60402','60415','60453','60454','60455','60456','60457','60458','60459','60465','60482','60499','60501','60513','60515','60520','60522','60523','60526','60527','60530','60534','60546','60550','60553','60556','60601','60602','60603','60604','60605','60606','60607','60608','60609','60610','60611','60612','60613','60614','60615','60616','60618','60619','60620','60621','60622','60623','60624','60625','60626','60629','60630','60631','60632','60634','60636','60637','60638','60639','60640','60641','60642','60644','60645','60646','60647','60649','60651','60652','60653','60654','60656','60657','60659','60660','60661','60664','60666','60668','60669','60670','60673','60674','60675','60677','60678','60680','60681','60682','60684','60685','60686','60687','60688','60689','60690','60691','60693','60694','60695','60696','60697','60699','60701','60706','60707','60712','60714','60804','60805','61006','61008','61010','61011','61012','61015','61016','61019','61020','61024','61038','61039','61043','61047','61049','61052','61054','61061','61063','61065','61067','61068','61070','61072','61073','61077','61079','61080','61084','61088','61101','61102','61103','61104','61105','61106','61107','61108','61109','61110','61111','61112','61114','61115','61125','61126','61130','61131','61132','61353','90001','90002','90003','90004','90005','90006','90007','90008','90009','90010','90011','90012','90013','90014','90015','90016','90017','90018','90019','90020','90021','90023','90024','90025','90026','90027','90028','90029','90030','90031','90033','90034','90035','90036','90037','90038','90039','90041','90043','90044','90045','90046','90047','90048','90049','90050','90051','90052','90053','90054','90055','90056','90057','90058','90060','90062','90063','90064','90065','90066','90067','90068','90069','90070','90071','90072','90073','90074','90075','90076','90077','90078','90079','90080','90081','90082','90083','90084','90086','90087','90088','90089','90090','90093','90094','90095','90096','90099','90189','90209','90210','90211','90212','90213','90230','90231','90232','90233','90245','90250','90251','90254','90255','90263','90264','90265','90266','90267','90272','90290','90291','90292','90293','90294','90295','90296','90301','90302','90303','90304','90305','90306','90307','90308','90309','90310','90311','90312','90401','90402','90403','90404','90405','90406','90407','90408','90409','90410','90411','91011','91012','91020','91021','91040','91041','91042','91043','91046','91201','91202','91203','91204','91205','91206','91207','91208','91209','91210','91214','91221','91222','91224','91225','91226','91301','91302','91303','91304','91305','91306','91307','91308','91309','91310','91311','91313','91316','91319','91320','91321','91322','91324','91325','91326','91327','91328','91329','91330','91331','91333','91334','91335','91337','91340','91341','91342','91343','91344','91345','91346','91350','91351','91352','91353','91354','91355','91356','91357','91358','91359','91360','91361','91362','91364','91365','91367','91371','91372','91376','91377','91380','91381','91382','91383','91384','91385','91386','91387','91390','91392','91393','91394','91395','91396','91401','91402','91403','91404','91405','91406','91407','91408','91409','91410','91411','91412','91413','91416','91423','91426','91436','91470','91482','91495','91496','91499','91501','91502','91503','91504','91505','91506','91507','91508','91510','91521','91522','91523','91526','91601','91602','91603','91604','91605','91606','91607','91608','91609','91610','91611','91612','91614','91615','91616','91617','91618','91714','91716','93001','93002','93003','93004','93005','93006','93007','93009','93010','93011','93012','93013','93014','93015','93016','93020','93021','93022','93023','93024','93030','93031','93032','93033','93034','93035','93036','93040','93041','93042','93043','93044','93060','93061','93062','93063','93064','93065','93066','93067','93094','93099','93101','93102','93103','93105','93106','93107','93108','93109','93110','93111','93116','93117','93118','93120','93121','93130','93140','93150','93160','93190','93199','93203','93206','93220','93241','93250','93252','93263','93268','93276','93280','93287','93301','93302','93303','93304','93305','93306','93307','93308','93309','93311','93312','93313','93314','93380','93383','93384','93385','93386','93387','93388','93389','93390','93401','93402','93403','93405','93406','93407','93408','93409','93410','93412','93420','93421','93422','93423','93424','93427','93429','93430','93432','93433','93434','93435','93436','93437','93438','93440','93441','93442','93443','93444','93445','93446','93447','93448','93449','93452','93453','93454','93455','93456','93457','93458','93460','93463','93464','93465','93475','93483','93501','93510','93523','93524','93531','93532','93534','93535','93536','93539','93543','93544','93550','93551','93552','93553','93560','93563','93584','93586','93590','93591','93599']","IS_LOYALTY_ENROLLMENT_ENABLED":true,"IS_GATED_ENROLLMENT_ENABLED":true,"CA_LANDING_GEOIP_BYPASS":false,"CA_LANDING_INTERCEPTOR_ENABLED":true,"EMAIL_DIALOG_PAGE_SUPPRESSION":["pt_cart"],"EMAIL_DIALOG_ENABLED":true,"EMAIL_DIALOG_COOKIE_EXP":null,"BILLING_RECAPTCHA_ENABLED":true};
 window.SessionAttributes = {"LP_POPUP_COMPLETE":false};
 }())
 </script>
@@ -3041,9 +3040,9 @@ window.User = {"zip":null,"storeId":null,"registered":false,"authenticated":fals
 
 
 
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/js/app.min.js"></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/js/app.min.js"></script>
 
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/lib/bbw-amaze-2017.21.js" async=""></script>
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/lib/bbw-amaze-2017.21.js" async=""></script>
 
 
 <script>pageContext = {"title":"Customer Service","type":"customerservice","ns":"account"};</script>
@@ -3085,7 +3084,7 @@ var keywords = "";
       "site_section": "content",
       "page_name": "Privacy & Security | Bath & Body Works",
       "page_referral_url": "",
-      "page_url": "http://www.bathandbodyworks.com/on/demandware.servlet/Sites-BathAndBodyWorks-Site/en_US/Tealium-FooterInclude?pagecontexttitle=Privacy%20%26%20Security%20%7c%20Bath%20%26%20Body%20Works&refinevalues=%5b%5d&pagecontexttype=customerservice&refinemap=%7b%7d&refineattributes=%5b%5d&cid=privacy-and-security",
+      "page_url": "http://www.bathandbodyworks.com/on/demandware.servlet/Sites-BathAndBodyWorks-Site/en_US/Tealium-FooterInclude?pagecontexttitle=Privacy%20%26%20Security%20%7c%20Bath%20%26%20Body%20Works&refineattributes=%5b%5d&refinevalues=%5b%5d&pagecontexttype=customerservice&refinemap=%7b%7d&cid=privacy-and-security",
       "site_id": "BathAndBodyWorks_dwre"
     }
   },
@@ -3101,21 +3100,21 @@ var keywords = "";
         "customer_postal_code": "20149",
         "country_code": "US",
         "language": "en",
-        "customer_id": "abNgKqUDhEviRses5u5FFlGoQa",
+        "customer_id": "be7bFX7cLT2H71fUlWQ4amQed7",
         "user_agent": "ia_archiver",
         "ip_address": "54.165.59.7",
         "is_mobile_device": "desktop",
-        "datestamp": "Mon Jun 25 2018",
-        "timestamp": "21:29:38 GMT-0000 (GMT)",
+        "datestamp": "Thu Dec 20 2018",
+        "timestamp": "19:50:31 GMT-0000 (GMT)",
         "timezone": "US/Eastern",
-        "session_id": "jjfy1EuhOfG04MO-uY22ds_s25OFpRyix0E=",
+        "session_id": "bFvzkS3kl1tweNKj10Nx99dP57sF0gVWhTg=",
         "second_level_domain": "54.165.59.7"
       }
     },
     "attributes": {
       "cm_session_id": "",
       "dw_test_ID": "",
-      "cookie_id": "jjfy1EuhOfG04MO-uY22ds_s25OFpRyix0E",
+      "cookie_id": "bFvzkS3kl1tweNKj10Nx99dP57sF0gVWhTg",
       "customer_status": "anonymous",
       "customer_reg_status": "new"
     }
@@ -3141,7 +3140,7 @@ var keywords = "";
 
 
 
-<script type="text/javascript" src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/js/mobile-detect.min.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/js/mobile-detect.min.js"></script>
 
 <script type="text/javascript">
     (function(a,b,c,d){
@@ -3205,9 +3204,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1529954843878/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1545303162638/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
