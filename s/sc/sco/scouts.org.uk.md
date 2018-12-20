@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604075408id_/http%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220173431id_/https%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement | Scouts
 
@@ -178,3 +178,5 @@ Visitors to this website who have javascript enabled are tracked using [**Google
   * Credit card information
 
 
+
+The Scout Association Data Protection Policy can be [found here](http://scouts.org.uk/dppolicy "Data Protection Policy"). Also, to get in contact with The Scout Association with regards to a Subject Access Request (SAR), please email [legal.services@scouts.org.uk](mailto:legal.services@scouts.org.uk?subject=Subject%20Access%20Request).
