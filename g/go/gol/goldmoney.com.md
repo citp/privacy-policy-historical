@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120105804id_/https%3A//www.goldmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220143306id_/https%3A//www.goldmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goldmoney
 
-##  EFFECTIVE DATE: 1 AUGUST 2016 
+##  EFFECTIVE DATE: 23 May 2018 
 
 This website, www.goldmoney.com (the “Website”) is owned and operated by Goldmoney Inc. 
 
@@ -13,7 +13,8 @@ By using our Website, using or applying for a Goldmoney Holding and/or using a G
 This policy sets out: 
 
   * What information we collect and why we collect it; 
-  * How we use that information; and 
+  * How we use that information and how we secure it; 
+  * Any third parties with access to it and use of cookies; 
   * The choices you have with regard to the use of your personal information. 
 
 
@@ -67,6 +68,15 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 2\. When you contact Goldmoney, we may keep a record of your communication to assist us and you in ensuring that you get the best from our services. 
 
+3\. You can contact us at any time to: 
+
+  * Request information that Goldmoney has about you; 
+  * Correct any information Goldmoney has about you; 
+
+
+
+Please contact us at [questions@goldmoney.com](mailto:questions@goldmoney.com) with any questions relating to your information that we control. 
+
 ##  C. How we share your personal information 
 
 1\. From time to time, we engage unaffiliated third parties and their affiliates, agents, and subcontractors ("Service Providers") to perform certain technological or administrative services in connection with the Goldmoney Services. For example, a Service Provider may be asked to serve as a Vault Operator, operate a Verification Network, process transactions, provide credit reports or assessments, verify customer identities, detect suspicious transactions, perform security services, and manage or audit our operations. In some cases, a Service Provider will be collecting your personal information from other sources on our behalf to fulfil the purposes set out in section B. We also may use a Service Provider to host and administer one or more of our Websites, process and store data, and fulfil similar technology-related functions on our behalf. In these circumstances, the personal information that the Service Provider receives is limited to the personal information needed to render their service to us. 
@@ -75,7 +85,7 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 3\. We may disclose personal information without notice to you if a law, regulation, search warrant, subpoena, court order, or regulatory notice permits or requires us to do so. We may also disclose personal information without notice to you to prevent fraud or abuse, or to protect the rights, property or personal safety of Goldmoney, its customers, employees, service providers, or the public. 
 
-4\. For clients with a Goldmoney Personal and/or Business account, the data controller is based in Toronto, Canada. For clients with a Goldmoney Holding, the data controller is based in Jersey, Channel Islands, and data is stored in Jersey, Channel Islands and in other locations within the EEA. Goldmoney reserves the right to share your personal information internally between Toronto, Canada, and the EEA to the extent necessary for the purpose of providing Goldmoney Services to you. By signing up for Goldmoney Services, you agree to the data controllers sharing information with each other. Should you not consent to such disclosures between, please do not utilise Goldmoney Services. 
+4\. For clients with a Goldmoney Personal and/or Business account, the data controller is based in Toronto, Canada. For clients with a Goldmoney Holding, the data controller is based in Jersey, Channel Islands, and data is stored in Jersey, Channel Islands and other locations within the EEA. Goldmoney reserves the right to share your personal information internally between Toronto, Canada, and the EEA to the extent necessary for the purpose of providing Goldmoney Services to you. By signing up for Goldmoney Services, you agree to the data controllers sharing information with each other. Should you not consent to such disclosures between, please do not utilise Goldmoney Services. 
 
 5\. Goldmoney will treat as confidential all information it holds in relation to a client where that information is not in the public domain. Subject to this clause, Goldmoney will not disclose such confidential information to third parties. 
 
@@ -85,13 +95,13 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 8\. We may share aggregated, [non-personally identifiable information](https://www.google.com/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends or publish market research. 
 
-9\. We will disclose otherwise confidential personal data and confidential information if we are compelled to do so by laws and regulations applicable to us and/or our agents, and whether in Jersey or elsewhere. 
+9\. We will disclose otherwise confidential personal data and confidential information if we are compelled to do so by laws and regulations applicable to us and/or our agents. 
 
 ##  D. How we communicate with you 
 
 1\. Communications between you and Goldmoney may be conducted by mail or by telephone, fax, online, text message, or by other electronic means. Any instructions that you give to us in any such manner will have the same legal effect as if you gave them to us in original written form. You agree that all telephone calls and electronic communications may be recorded and kept by us as a record of your instructions. You also agree that we may contact you electronically in response to a request, inquiry, or complaint, as otherwise solicited by you, or as permitted or required by law. 
 
-2\. We may also communicate with you from time to time electronically about news, promotions, special offers and other information from Goldmoney, regarding either Goldmoney or its selected partners. If you wish to unsubscribe to marketing emails from Goldmoney please contact marketing@goldmoney.com. We will strive to honour your request as soon as possible, and in any event within the next 10 business days. Please note, however, that this request will apply only to marketing emails and not to certain account-based information emails which will continue to be sent to account holders. We are not responsible for any additional information you provide directly to these partners, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them. 
+2\. We may also communicate with you from time to time electronically about news, promotions, special offers and other information from Goldmoney, regarding either Goldmoney or its selected partners. If you wish to unsubscribe to marketing emails from Goldmoney please contact [marketing@goldmoney.com](mailto:marketing@goldmoney.com). We will strive to honour your request as soon as possible, and in any event within the next 10 business days. Please note, however, that this request will apply only to marketing emails and not to certain account-based information emails which will continue to be sent to account holders. We are not responsible for any additional information you provide directly to these partners, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them. 
 
 ##  E. Information storage and retention 
 
@@ -99,13 +109,13 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 2\. Your information may also be processed by employees or consultants of the Group who are located outside of the EEA. By submitting your personal data, you agree to this processing, storing, and transfer. 
 
-3\. We will retain your information for as long as you have an open Goldmoney Holding or Goldmoney Personal or Business Account or as is needed to provide you Goldmoney Services. If you wish to terminate Goldmoney Services or request that we no longer use your information to provide you services, please contact us on privacy@goldmoney.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+3\. We will retain your information for as long as you have an open Goldmoney Holding or Goldmoney Personal or Business Account or as is needed to provide you Goldmoney Services. If you wish to terminate Goldmoney Services or request that we no longer use your information to provide you services, please contact us on [privacy@goldmoney.com](mailto:privacy@goldmoney.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ##  F. Cookies and Other Tracking Technologies 
 
 ###  Log Files 
 
-1\. As is true of most websites, but subject to your browser settings, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+1\. You can visit our website without giving away your personal information. Goldmoney uses Google Analytics and Cookies in order to improve our service, user experience and analyse how the website is used. As is true of most websites, but subject to your browser settings, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, languages, age, gender, interests, device information date/time stamp, and clickstream data. 
 
 2\. We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole. 
 
@@ -136,4 +146,4 @@ You can opt out of all third party cookie advertising by visiting:
 
 ##  G. Changes to this policy 
 
-1\. It may become necessary to change the terms of this Privacy Policy from time to time. We reserve the right to change this Privacy Policy as necessary to comply with law or for legitimate business purposes. By continuing to use the Goldmoney Services, you agree to be bound by the updates to this Privacy Policy. Please check back frequently; you will be able to see if changes have been made by looking at the top of the Privacy Policy for the date it was last updated. Last updated: 1 June 2017 
+1\. It may become necessary to change the terms of this Privacy Policy from time to time. We reserve the right to change this Privacy Policy as necessary to comply with law or for legitimate business purposes. By continuing to use the Goldmoney Services, you agree to be bound by the updates to this Privacy Policy. Please check back frequently; you will be able to see if changes have been made by looking at the top of the Privacy Policy for the date it was last updated. Last updated: 23 May 2018 
