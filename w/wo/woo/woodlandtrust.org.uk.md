@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629104604id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221002748id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Woodland Trust
-
-At the Woodland Trust we respect the privacy of our supporters and visitors to our websites. This policy is concerned with how we collect information, what we do with it and what controls you have.
 
 ## **Your Privacy**
 
@@ -10,7 +8,7 @@ The Woodland Trust was established in 1972 and we are the UK's largest woodland 
 
 We take our duty to process your personal data very seriously. This policy explains how we collect, manage, use and protect your personal data.
 
-Please read our [supporter promise](https://web.archive.org/about-us/our-supporter-promise/ "Our supporter promise") for more information.[](http://www.woodlandtrust.org.uk/about-us/our-supporter-promise/)
+Please read our [supporter promise](https://web.archive.org/about-us/our-supporter-promise/ "Our supporter promise") for more information.
 
 We may change this document from time to time to reflect the latest view of what we do with your information. Please check back frequently; you will be able to see if changes have been made by the date it was last updated.
 
@@ -47,7 +45,7 @@ In this policy references to the Woodland Trust, or Trust, or to ‘we’ or ‘
 
 ## 
 
-This also includes our charitable trading company – Woodland Trust (Enterprises) Limited (registered company number 2296645) a wholly owned subsidiary of the Woodland Trust which trades only to raise funds for its parent company – the Woodland Trust.
+This also includes our trading company – Woodland Trust (Enterprises) Limited (registered company number 2296645) a wholly owned subsidiary of the Woodland Trust which trades only to raise funds for its parent company – the Woodland Trust.
 
 ## 2\. What personal data we collect and how we use it
 
@@ -195,7 +193,7 @@ Kempton Way
 Grantham  
 NG31 6LL
 
-Or by emailing: [dataprotection@woodlandtrust.org.uk](mailto:dataprotection@woodlandtrust.org.uk?subject=Data%20Protection)
+Or by emailing: [compliance@woodlandtrust.org.uk](mailto:compliance@woodlandtrust.org.uk?subject=Data%20web%20query "Email Compliance at Woodland Trust \(opens in new window\)")
 
 If you wish to talk to us about anything in the policy or the information we hold about you please contact our supporter services team:
 
