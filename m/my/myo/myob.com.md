@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myob.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709034821id_/https%3A//www.myob.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220170148id_/https%3A//www.myob.com/au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MYOB
+# Privacy Policy
 
 ## MYOB Group Privacy Policy
 
@@ -10,7 +10,7 @@ Protecting your privacy and keeping your personal information confidential is ve
 
 This MYOB Group Privacy Policy (Policy) outlines how we maintain your privacy when handling your personal information if you're a client, a visitor to one of our websites or a member of the public, in Australia.
 
-If you work for us, you can contact our human resources team for more information about how your privacy is handled internally. If you’re applying for a job online with us, you can view the [MYOB Employment Relations Privacy Statement](http://fsr.cvmail.com.au/MYOB/privacy.cfm). If you're based in New Zealand, please see our [MYOB Group Privacy Policy for New Zealand](https://www.myob.com/nz/privacy-policy)
+If you work for us, you can contact our human resources team for more information about how your privacy is handled internally. If you’re applying for a job online with us, you can view the [MYOB Employment Relations Privacy Statement](https://web.archive.org/au/privacy-policy/employee-relations-privacy-statement). If you're based in New Zealand, please see our [MYOB Group Privacy Policy for New Zealand](https://web.archive.org/nz/privacy-policy)
 
 In this Policy, we use the terms, "we", "us", "our" or "MYOB" to refer to MYOB Australia Pty Ltd and its related companies.
 
@@ -27,13 +27,13 @@ In this Policy, we use the terms, "we", "us", "our" or "MYOB" to refer to MYOB A
 
 
 
-  1. **What is personal information?**
+  1. [](https://web.archive.org/au/what)What is personal information?
 
 Personal information means information or an opinion that identifies you, or could reasonably identify you as an individual, whether the information or opinion is true or not.
 
 Top of Page
 
-  2. **The kinds of personal information we may collect from you**
+  2. The kinds of personal information we may collect from you
 
 2.1 We only collect personal information from you that is necessary to do business with you.
 
@@ -43,7 +43,7 @@ Top of Page
 
 Top of Page
 
-  3. **How we collect your personal information**
+  3. How we collect your personal information
 
 3.1 We collect most personal information directly from you, when you:
 
@@ -64,7 +64,7 @@ Top of Page
 
 Top of Page
 
-  4. **How we use and disclose your personal information**
+  4. How we use and disclose your personal information
 
 4.1 We use your personal information to:
 
@@ -96,9 +96,9 @@ Top of Page
       3. create helpful insights for the business community.
     2. We sometimes share aggregated data with our business or industry partners.
 
-Top of Page
+[Top of Page](https://web.archive.org/content/versionhistory/victoria.houen/public-website/au/privacy-policy#top)
 
-  5. **Holding your personal information and keeping it safe**
+  5. Holding your personal information and keeping it safe
 
 5.1 We typically hold the personal information that we collect either on electronic databases or as hard copy documents.
 
@@ -119,7 +119,7 @@ Top of Page
 
 Top of Page
 
-  6. **Our product promotion and how to opt out of direct marketing**
+  6. Our product promotion and how to opt out of direct marketing
     1. We may use your personal information to contact you about product upgrades and releases. We may also use your personal information to let you know about new services and special offers that may be relevant to your business.
     2. If you don't want us to use your personal information for marketing purposes, you can let us know at any time through one of the following channels:
       1. to opt out of email marketing:
@@ -129,7 +129,7 @@ Top of Page
 
 Top of Page
 
-  7. **Our websites**
+  7. Our websites
 
 7.1 Accessing our websites
 
@@ -144,7 +144,7 @@ Top of Page
 
 Top of Page
 
-  8. **Your right to access and correct your personal information**
+  8. Your right to access and correct your personal information
 
 8.1 If you've provided us with personal information, you have a right to request to access or correct it. You can contact us with your request by using the contact details at the bottom of this Policy.
 
@@ -156,7 +156,7 @@ Top of Page
 
 Top of Page
 
-  9. **Questions, concerns and complaints**
+  9. Questions, concerns and complaints
 
 9.1 If you have a complaint about how we’ve handled your personal information, you can make a complaint by contacting us using the details at the bottom of this Policy.
 
@@ -164,24 +164,25 @@ Top of Page
 
 9.3 If you need further information about our privacy complaints process or the progress or outcome of any investigation, please contact the Privacy Officer using the details at the bottom of this Policy.
 
-If you aren't satisfied with our handling or resolution of your complaint, you can lodge a complaint with the Office of the Australian Information Commissioner ("OAIC"). For more information please visit the [OAIC website](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint).
+If you aren't satisfied with our handling or resolution of your complaint, you can lodge a complaint with the Office of the Australian Information Commissioner ("OAIC"). For more information please visit the [OAIC website](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint).
 
-Top of Page
+[Top of Page](https://web.archive.org/content/versionhistory/victoria.houen/public-website/au/privacy-policy#top)
 
-  10. **Changes to this Privacy Policy**
+  10. Changes to this Privacy Policy
 
 10.1 We may make changes to this Policy from time to time. Please check our website regularly for any updates to this Policy. You can also get a copy of the most current version of this Policy by either emailing or writing to the Privacy Officer using the contact details set out below.
 
 10.2 By continuing to use our website and otherwise deal with us, you accept this Policy as it applies from time to time.
 
-Top of Page
+[Top of Page](https://web.archive.org/content/versionhistory/victoria.houen/public-website/au/privacy-policy#top)
 
 
 
 
-#### Contacting Us
+**Contacting Us  
+**
 
   
-**Please note that the MYOB Privacy Officer deals with privacy-related queries only. For general sales, billing and product support enquiries please call 1300 793 130.**
+Please note that the MYOB Privacy Officer deals with privacy-related queries only. For general sales, billing and product support enquiries please call 1300 793 130.
 
-Last updated: ** ** September 2016
+Last updated: September 2016
