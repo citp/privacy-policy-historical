@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksindexer.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614133740id_/https%3A//backlinksindexer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksindexer.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220202353id_/https%3A//backlinksindexer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | backlinksindexer.com
 
