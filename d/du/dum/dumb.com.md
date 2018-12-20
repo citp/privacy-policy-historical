@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumb.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628062731id_/http%3A//www.dumb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumb.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220132731id_/http%3A//dumb.com/privacy) for the most accurate reproduction.*
 
 # Dumb.com - Privacy Policy
 
