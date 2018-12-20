@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the 2dboy.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220075856id_/http%3A//2dboy.com/privacy.txt) for the most accurate reproduction.*
+
+# 
+
+
+    ----------------------
+    Privacy Policy
+    ----------------------
+    
+    
+    Who we are
+    
+    	Our website is https://2dboy.com and we made a game called World of Goo
+    	
+    
+    Information we collect via the website
+    
+    	We do not collect any information via this website, and we do not record analytics.
+    	
+    	However this site includes embedded content from other websites (eg. youtube) and they may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+    
+    	Our hosting provider Dreamhost might also keep logs, even though we do not. https://www.dreamhost.com
+    	
+    		
+    Information we collect via the game World of Goo
+    
+    	World of Goo does not collect any information, by default. Some versions of the game optionally connect to their platform's games service to report high scores or to collect achievements. The Android version optionally connects to Google's Play Games service (https://play.google.com).  The iOS version optionally connects to Apple's Gamecenter service (https://www.apple.com/legal/internet-services/itunes/gamecenter/).  Steam versions optionally connect to Steam's service (https://store.steampowered.com/privacy_agreement/). If you choose to connect to these services, and if you then tap the "connect" button in the World of Goo Corporation level, World of Goo will attempt to anonymously look up which country you're in using your IP address, and store the resulting country code in your leader board information in the games service, along with the height of the tower you've build in the World of Goo Corporation level.
+    	
+    	
+    Information we collect when you purchase our games: World of Goo
+    	
+    	If you bought World of Goo directly from our site on or before April 2014, we maintain a minimal amount of payment information so that we can look up your order and allow you to re-download the game. This includes your name, email, postal code, and country. You can request that we delete it. If we delete this information, we will be unable to access your order and will be unable to provide a link for download.
+    	
+    	Our system to look up orders and provide them for download and re-download logs the license key, the ip address used to make the request, and the file requested for download, and this information is currently stored indefinitely unless manually deleted on request.
+    	
+    	If you bought World of Goo directly from our site on or after April 2014, you used the Humble Store Widget, and will need to contact the Humble Store for more information. (https://www.humblebundle.com/store)
+    	
+    	
+    	
+    Who we share your data with
+    
+    	We do not share your data.
+    	
+    	
+    Contact information
+    
+    	contact at 2dboy com
+    		
+    		
