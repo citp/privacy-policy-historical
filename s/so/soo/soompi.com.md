@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623072943id_/https%3A//www.soompi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220135741id_/https%3A//www.soompi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Soompi
 
@@ -30,7 +30,7 @@ We will collect Personal Information about you from a variety of sources, includ
     4. **Cookies and similar technologies.** As further described in Our Cookies Policy, We and Our partners automatically collect information from cookies and similar technologies (such as cookies IDs and settings) to recognize you, track your behaviour on the Services and your device, and to serve you with tailored advertisements. For more information on how We use cookies and how you can manage them, please visit Our Cookies Policy.
   4. 1.3 **Information We collect from other sources:**
     1. **Registration through third parties.** If you don’t feel like creating an account from scratch, We provide you with the option to sign in through an account you already have with another service provider (such as: Facebook, Google and Rakuten ID). The third-party service may send us information such as your name, email address, date of birth, geographic location, interest, profile picture, list of friends and any other information you have made available on these third-party services. This information is controlled by the third-party service or as authorized by you via your privacy settings at the third-party service;
-    2. **Social media third parties.**   Some of Our Services allow you to post information on a public feature of Our Services or through social media sites, plugins or other applications. Don’t forget this information is public on Our Services and depending upon your privacy settings, may also become public on the internet. We may also further use such public information you share for various reasons such as improving Our Services and providing you with relevant content. You can control what data you share through privacy settings available on some social media sites. Please refer to those third-party privacy policies and terms of use to learn more about their privacy practices, as We don’t control these; and
+    2. **Social media third parties.** Some of Our Services allow you to post information on a public feature of Our Services or through social media sites, plugins or other applications. Don’t forget this information is public on Our Services and depending upon your privacy settings, may also become public on the internet. We may also further use such public information you share for various reasons such as improving Our Services and providing you with relevant content. You can control what data you share through privacy settings available on some social media sites. Please refer to those third-party privacy policies and terms of use to learn more about their privacy practices, as We don’t control these; and
     3. **Other sources.** We may receive additional information about you from third party service providers and/or partners, such as demographic data, your activities on and off Our Services through partnerships and Our third party advertiser.
   5. **HOW WE USE INFORMATION WE COLLECT**
 
@@ -70,7 +70,7 @@ Our Services may contain links to other third-party websites. We encourage you t
 
 Please note that We will likely require additional information from you in order to honour your requests.
 
-If you would like to discuss or exercise such rights, send Us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6414160d1205071d24120d0f0d4a070b09).
+If you would like to discuss or exercise such rights, send Us an email at [privacy@viki.com](mailto:privacy@viki.com).
 
 Please find below some rights applicable to certain territories:
 
@@ -81,11 +81,11 @@ Please find below some rights applicable to certain territories:
           2. Consent. We will rely on your consent to use (i) technical information such as cookie and similar technologies; and (ii) your information for marketing and advertising purposes. You may withdraw your consent at any time by contacting Us using the information at the end of this Privacy Policy or by following an unsubscribe link in any marketing communication you receive from Us;
           3. Legitimate interests. We use your Personal Information for Our legitimate interests to improve our Services, security purposes, and to share information with Our affiliates for internal administration. In such circumstances it is for Us to ensure that these interests are not overridden by your data protection interests or fundamental rights and freedoms; and
           4. Legal obligation and public interest. In some cases, We may also have a legal obligation to collect your Personal Information, or may otherwise need your Personal Information to protect your vital interests or those of another person.
-        3. **Your Choices under EU law.** If you are visiting from  the European Economic Area, you may have certain rights, in accordance with the applicable local law and limitations, including the right to access your Personal Information; to rectify the information We hold about you; to erase your Personal Information; to restrict our use of your Personal Information; to object to our use of your Personal Information; and to receive your Personal Information in a usable electronic format and transmit it to a third party (right to data portability). If contacting Us does not resolve your complaint, you have the right to make a complaint to your data protection authority (if one exists in your country).
-      2. **Rights applicable to California Rights**. If you are a California resident, you may request a list of all third parties to which Our Services have disclosed certain Personal Information during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2a2a0bba4b3b1ab92a4bbb9bbfcb1bdbf), and ensure to include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code.
+        3. **Your Choices under EU law.** If you are visiting from the European Economic Area, you may have certain rights, in accordance with the applicable local law and limitations, including the right to access your Personal Information; to rectify the information We hold about you; to erase your Personal Information; to restrict our use of your Personal Information; to object to our use of your Personal Information; and to receive your Personal Information in a usable electronic format and transmit it to a third party (right to data portability). If contacting Us does not resolve your complaint, you have the right to make a complaint to your data protection authority (if one exists in your country).
+      2. **Rights applicable to California Rights**. If you are a California resident, you may request a list of all third parties to which Our Services have disclosed certain Personal Information during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact Us at [privacy@viki.com](mailto:privacy@viki.com), and ensure to include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code.
   10. **SECURITY**
 
-We care about the security of your Personal Information. We implement technical and organizational measures to ensure a level of security appropriate to the risk to the Personal Information We process. These measures are aimed at ensuring the on-going integrity and confidentiality of your Personal Information. However, no company can guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards.  We need your help too: it is your responsibility to make sure that your Personal Information is accurate and that your password is unique, secure and not shared with third parties.
+We care about the security of your Personal Information. We implement technical and organizational measures to ensure a level of security appropriate to the risk to the Personal Information We process. These measures are aimed at ensuring the on-going integrity and confidentiality of your Personal Information. However, no company can guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards. We need your help too: it is your responsibility to make sure that your Personal Information is accurate and that your password is unique, secure and not shared with third parties.
 
   11. **RETENTION**
 
@@ -93,7 +93,7 @@ We will keep your Personal Information for as long as We have a relationship wit
 
   12. **CHILDREN’S PRIVACY**
 
-Our Services are not intended for children under the age of 13. Therefore, We do not knowingly collect Personal Information via Our Services from anyone under 13. If a parent or a guardian believes that Viki has in its database the Personal Information of a child under the age of 13, please contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deaeacb7a8bfbda79ea8b7b5b7f0bdb1b3).
+Our Services are not intended for children under the age of 13. Therefore, We do not knowingly collect Personal Information via Our Services from anyone under 13. If a parent or a guardian believes that Viki has in its database the Personal Information of a child under the age of 13, please contact Us at [privacy@viki.com](mailto:privacy@viki.com).
 
   13. **CHANGES TO THIS PRIVACY POLICY**
 
@@ -103,7 +103,7 @@ The most current version will govern Our use of your Personal Information and wi
 
   14. **CONTACT US**
 
-If you still have questions or concerns regarding the way in which your Personal Information has been used, please feel free to send Us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9f0c6d9dbd99ed3dfdd); you can also reach Us by physical mail at the following address:
+If you still have questions or concerns regarding the way in which your Personal Information has been used, please feel free to send Us an email to [privacy@viki.com](mailto:privacy@viki.com); you can also reach Us by physical mail at the following address:
 
 **Viki, Inc.**  
 Attention: Privacy Policy/Legal  
