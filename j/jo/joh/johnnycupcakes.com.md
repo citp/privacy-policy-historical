@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnnycupcakes.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130052502id_/http%3A//support.johnnycupcakes.com/customer/portal/articles/1036920-johnny-cupcakes-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnnycupcakes.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220144025id_/http%3A//support.johnnycupcakes.com/customer/portal/articles/1036920-johnny-cupcakes-privacy-policy) for the most accurate reproduction.*
 
 # Johnny Cupcakes | Johnny Cupcakes Privacy Policy
 
