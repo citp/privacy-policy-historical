@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629052539id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220185226id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : BLACKED.com
 
-Last updated: May 17. 2018
+Last updated: 29 March 2018
 
 This Privacy Policy describes how and when we collect, use, and share your information. It also describes your rights regarding the data we store. Please read this document carefully.
 
@@ -14,7 +14,7 @@ This is an **adult website** that expressly and strictly limits its membership t
 
 #### Who we are
 
-This website is operated by General Media Systems, LLC and is part of the VIXEN network of websites that includes blacked.com, blackedraw.com, vixen.com and tushy.com, as well as other websites.
+This website is operated by  and is part of the VIXEN network of websites that includes blacked.com, blackedraw.com, vixen.com and tushy.com, as well as other websites.
 
 You can contact us by email by clicking here.
 
@@ -59,7 +59,7 @@ Credit card, email, first and last name, country, ZIP or post code
 
 | 
 
-If you sign up to one or more of our websites, your credit card or other billing data is processed by one of our payment processors; [Epoch](https://www.epoch.com/), [Segpay](https://cs.segpay.com/), [CCBill](https://www.ccbill.com/) or [Centrobill](https://www.centrobill.com/).
+If you sign up to one or more of our websites, your credit card or other billing data is processed by one of our payment processors; [Rocketgate](https://www.rocketgate.com/) (VXNBill), [Epoch](https://www.epoch.com/), [Segpay](https://cs.segpay.com/), [CCBill](https://www.ccbill.com/) or [Centrobill](https://www.centrobill.com/).
 
 You can tell which of these companies processes your data from both the page you see when you pay for your subscription, as well as from the billing related emails you receive.
 
