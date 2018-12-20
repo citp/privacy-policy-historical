@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobga.me privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523110938id_/http%3A//mobga.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobga.me privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220075051id_/http%3A//mobga.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MobGame
 
 Privacy Policy for [mobga.me](http://mobga.me/)
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at josephseeley@gmail.com.
 
 At [mobga.me](http://mobga.me/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by [mobga.me](http://mobga.me/) and how it is used.
 
