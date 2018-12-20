@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himalayawellness.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064532id_/http%3A//www.himalayawellness.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayawellness.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220124004id_/http%3A//www.himalayawellness.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Himalaya Drug Company
 
@@ -156,7 +156,7 @@ Finally, in some circumstances you can ask us not to reach decisions affecting y
 
 If you have a complaint about our use of your information, we would prefer you to contact us directly in the first instance so that we can address your complaint.
 
-If you have any specific data protection concerns or a complaint, you can address it to our Data Protection Team at: **srini@himalayawellness.com** which is supervised by our Data Protection Officer **Mr. Srinivas R** Or the telephone: on **1(800) 208-1930** (India Toll Free) (Available between 0900 hrs IST to 1700 hrs IST).
+If you have any specific data protection concerns or a complaint, you can contact our privacy team at **privacy.team@himalayawellness.com** Or the telephone: on **1(800) 208-1930** (India Toll Free) (Available between 0900 hrs IST to 1700 hrs IST).
 
 The Himalaya Drug Company   
 Makali,  
