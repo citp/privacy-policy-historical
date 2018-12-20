@@ -1,117 +1,119 @@
-> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517121040id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172502id_/https%3A//www.scribblelive.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# COVERITLIVE.COM - Privacy Policy
+# Privacy Policy - ScribbleLive
 
-Last Revised: July 24, 2014 
+**Revised December 5, 2018**
 
-**BINDING CONTRACT**
+This Privacy Policy (the “Policy”) becomes effective on May 18, 2018 for all users, provided that enhanced data protection rights in this Policy required by the EU General Data Protection Regulation (including, without limitation, the “EEA Resident Rights” described herein) become effective on May 25, 2018 for all EU-resident users who are natural persons.
 
-CoveritLive is a service provided by Scribble Technologies, Inc. This Privacy Policy incorporates theTerms of Service ("TOS") and, unless otherwise noted, incorporate the defined terms used in the TOS. If you are not comfortable with this Privacy Policy or our TOS, please do not register or use the Site, or provide us with any personally identifiable information ("PII") or any other information or content. 
+**Privacy Information**  
+This online privacy policy (the “Policy”) applies to all information gathered by Scribble Technologies Inc. and its affiliates and subsidiaries, including i-on interactive Inc., Visually Inc., and Engage ( collectively “ScribbleLive”). The purpose of this Policy is to provide you with information about ScribbleLive’s collection, use, maintenance and disclosure of your information gathered by ScribbleLive.
 
-**1\. What information may be collected by CoveritLive, and how is it collected?**
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks**  
+ScribbleLive affiliates, i-on interactive, Inc. and Visually, Inc. comply with the U.S.-EU Privacy Shield and Swiss-U.S. Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. i-on interactive, Inc and Visually, Inc. have certified that they adhere to both Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view i-on interactive, Inc and Visually, Inc. certification, please visit  
+_[http://www.privacyshield.gov](http://www.privacyshield.gov/)_  . With respect to personal data received or transferred pursuant to the Privacy Shield, i-on interactive, Inc. and Visually, Inc. are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-**Type of Information We Collect.** We collect any information you enter on the Site or give us in any other way such as by signing-up for an Account. You may make changes, corrections, or updates to your Account information by visiting the "Account" section on the Site. We may keep a record of all information that is changed (including deletions) and disclose it for any lawful purpose. We may determine what may be changed (e.g., if we are required to keep track of certain kinds of transactions, you may not change relevant information). 
+**Privacy Principles  **  
+**Notice**
 
-**Information in Public Areas of the Site.** Please keep in mind that whenever you voluntarily provide information in public areas of the Site, such as during a Live Event, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Site such as reviews or comments, such as by featuring your content on the Site’s home page. 
+**Types of Information we Collect  **  
+ScribbleLive collects data directly from you to help provide you with the best experiences with our services and products. ScribbleLive may collect information from you in three ways; 1) through websites operated by ScribbleLive, 2) your use of our services, and 3) information you provide.
 
-**Minors.** We do not knowingly collect or solicit personal information from anyone under the age of 14 or knowingly allow such persons to register. If you are under 14, do not attempt to register for our Site or send any information about yourself to us. We recommend that prospective users between the ages of 14 and 17 ask their parents or other legal guardians for permission before sending any information about themselves to anyone over the Internet. 
+**Websites operated by ScribbleLive**  
+In connection with visiting any ScribbleLive owned website, ScribbleLive may use third party services to collect and store information.
 
-**Cookies.** Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Site may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they may collect other information such as the following: 
+**Your use of our Services**  
+When using or interacting with a ScribbleLive product or service, ScribbleLive may collect information about your interactions, the services you use and how you use them. Information collected may include; device information, location information, unique application ID’s, cookies and similar technologies.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  
+**Information you provide**
 
-  * the date and time you access the Site and pages you visit;
-  
-
-  * our computer's IP address and information about its operating system, platform and the Web browser type and version you use;
-  
-
-  * demographic and other non-personally identifiable profile information about you; and
-  
-
-  * information to combat fraud or misuse.
+  * ScribbleLive Customers: Some ScribbleLive services may require you to sign up for an account. When you sign up for the account, we may ask you for some personal information such as your name, email address, company name and company information.
 
 
-
-**Pixel Tags.** In our emails to you, we may use "pixel tags" to determine if your email software or service can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwidth). 
-
-**Collection of Information by Third Parties.** Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. We do not provide any PII to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt- out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-**2\. What Does CoveritLive Do With Collected Information?**
-
-**Use of PII.** We may use your PII for purposes such as responding to your requests, monitoring and providing the Site, maintaining your account, enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the Terms. 
-
-**Opting-Out.** Users can unsubscribe from any newsletters or opt out of various promotional e-mailings at any time by sending an e-mail to the same address, or by clicking on "unsubscribe" links in each of our newsletters or emails. We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages regarding the Site, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications so long as you are registered with the Site. 
-
-**Use of Other Information.** We use non-PII about our users for purposes such as measuring the number of visitors to sections of our Site, making the Site more useful to visitors and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a user’s movement, and gather broad demographic information for aggregate, non-personally identifiable use. 
-
-**Retention of Information.** We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records. 
-
-**Generally.** Subject to the terms of this Policy, we reserve the right to the following worldwide: use, access (or bar access to), process, disclose, display, share, transfer, store, sell, retain, commingle, investigate, verify, prove, and otherwise deal with, voluntarily or as required by law, (collectively "Disclose") all PII, non-PII and other information. We may Disclose the foregoing internally to third parties or through any databases for any purpose not prohibited by this Policy or, in our discretion, to help prevent or address perceived harm, damage or loss to us or others or to respond to subpoenas, search warrants, court orders, or other legal process. We reserve the right to send you customary business communications (i.e. acceptance/rejection notices regarding content submissions, general system and administrative messages, etc.) without offering you the opportunity to opt-out of receiving them. 
-
-**3\. Does CoveritLive Share Information With Other Parties?**
-
-We share information with third parties, but only as described in this Section 3. 
-
-  * Advertisers and Others. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business. Similarly, these advertisers, service providers, and other persons may share with us non-PII about you that they have independently gathered or acquired.
-  
-
-  * Third Party Services. We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer service, sending emails to you, removing repetitive information from customer lists, and analyzing data. These third parties may have access to your PII for use solely in connection with these authorized business activities.
-  
-
-  * Business Transfer. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII may be subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
-  
-
-  * Affiliates. We may share PII, non-PII and other information with our corporate affiliates. Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control.
-  
-
-  * Compliance and Safety. We may release user information when we believe release is appropriate to: 
-    * comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
-  
-
-    * make disclosures under programs intended to prevent potential crimes or investigate persons;
-  
-
-    * enforce or apply agreements, including the Terms; or
-  
-
-    * protect the rights, property, or safety of our Site, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
-  
+  * ScribbleLive Customer Clients: Some data requested by our Customers, through the use of our services (i.e forms), is personally identifiable information, which may include, but not limited to, your name, address, telephone numbers, e-mail address, company name, and company information. This information will be input by you in response to prompts when using our Customer’s websites.
 
 
 
+**Types of Information NOT Collected  **  
+The following personal information is restricted from being collected through the use of our services and you should refrain from providing any information related to financial information such as, but not limited to credit card and account numbers, Social Security number, driver’s license number, passport number, information protected by Family Educational Rights and Privacy Act (“FERPA”), the Gramm Leach Bliley Act (“GLBA”), Health Insurance Portability and Accountability Act (“HIPPA”) and/or Social Security Number Protection Act.
 
-**4\. How Secure Is My Information?**
+**Information We May Place on Your Computer  **  
+ScribbleLive software may store some information on your computer. This information will be in the form of a “Cookie” or similar file and will help us and our customer in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. If a Cookie is stored on your computers hard drive, the next time you visit the same website, we can recognize you. For example, Cookies are used to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer hard drives, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Note that certain web site functionality may not work if Cookies are blocked. For more information on Cookies please read our  _[Cookies Policy](https://www.scribblelive.com/legal/cookie-policy)_.
 
-**Your Obligations.** You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them. We generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION. 
+**Web Beacons  **  
+We use web beacons alone or in conjunction with Cookies to help collect information that enables us to track the existence and/or nature of web-based interactions that take place via our customer’s websites. Web beacons help us to analyze where users go and what they do while visiting our customer’s websites. A web beacon is a clear electronic image. A web beacon will recognize certain types of information on your computer, such as cookies, when you view a website that is connected to that web beacon. We may also use anonymous information about your visits to our customer’s websites in order to improve our customer’s products and services and help them provide relevant and useful information about goods and services of interest to you.
 
-**Our Security Measures.** We take reasonable precautions to protect the security of our users' information. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. However, neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. Therefore, while we use reasonable efforts to protect your PII, we cannot guarantee its absolute security. If applicable law imposes any non-disclaimable duty to protect your PII, you agree that intentional misconduct will be the standards used to measure our compliance with that duty. 
+**IP Addresses**  
+ScribbleLive automatically records certain information, which may include your web request, your interaction with a service, the Internet Protocol address of the computer from which you are accessing the website, your browser type, browser language, and the date and time of your request.
 
-**5\. What About Links to Other Sites?**
+**EEA Resident Rights**  
+If you are a resident of the European Economic Area, you have the following data protection rights:
 
-The Site contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Site. 
+  * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us .
+  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+  * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you.
+  * Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
-**6\. What Does CoveritLive Do When This Privacy Policy Changes?**
 
-We reserve the right to change our Policy at any time. Non-material changes and clarifications will take effect immediately. If we make non-material changes, we will indicate at the top of this page the revised Policy's new effective date. If we make material changes, we will notify you by email or through notice on the home page of the Site, and will also indicate so at the top of this page. The material changes will take effect 30 days after such notice. We encourage you to refer to this Policy at least every 30 days to check for material changes to this Policy. 
 
-**7\. What If I Have Other Questions Or Concerns About Privacy Or This Policy?**
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Notwithstanding the foregoing, we reserve the right to keep any information in our archives that we deem necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-**Privacy Concerns.** Your use of the Site and any dispute over privacy is subject to the Terms. If you have any concern about privacy at the Site, please send us a thorough description to [support@coveritlive.com](mailto:support@coveritlive.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address below. 
+**Opt-Out**  
+If you do not wish to have your personally identifiable information collected, then you should not use the customer website or you should make use of any tools the customer provides, if any, for opting out of the collection of your personally identifiable information. You may contact customers directly, outside of the website, to make alternate arrangements to provide them with applicable information.
 
-**Identity Theft.** If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address below and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses. 
+**Accountability For Onward Transfer**  
+**Third Party**  
+ScribbleLive may use agents to perform services on our behalf. We may share with these agents information input by you solely for the purpose of those agents performing services for ScribbleLive. These parties are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-**Notice Required by Law.** In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with us at all times. 
+i-on interactive, Inc. and Visually, Inc. comply with the Privacy Shield for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-**Legal Notices.** For customer service matters (including questions relating to this Policy), you may email us at [support@coveritlive.com.](mailto:support@coveritlive.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: CoveritLive, Legal Department, 200 - 488 Wellington St. West, Toronto, Ontario, Canada, M5V 1E3. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you. 
+**Security**  
+ScribbleLive takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. These include internal reviews of our data collection, transmission, storage, and processing practices, as well as encryption and physical security measures to guard against unauthorized access to systems where we store the information we collect.
 
-You can contact us at: 
+**Data Integrity and Purpose**  
+Except as otherwise stated below, we do not sell, trade or rent your personally identifiable information collected on the site to others. When you do provide us with personally identifiable information, we may use it as follows:
 
-CoveritLive  
-Legal Department  
-200 - 488 Wellington St. West, Toronto, Ontario, Canada, M5V 1E3 
+  * Our customers have access to all personally identifiable information collected through their websites and they may use and disclose such personally identifiable information in accordance with their privacy policies.
+  * Our service providers, if any, have access to the information we collect in order to help us deliver our service to our customers.
+  * We may disclose the information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ScribbleLive, our customers or any other user of our customer’s websites.
+  * We may disclose the information in response to the request of a law enforcement agency.
+  * We may disclose the information to third parties when we believe in good faith that the law requires it (such as responding to a subpoena or court order).
+  * We may disclose the information to third parties when we believe in good faith that such action is necessary to enforce any legal terms or conditions that may apply to usage of this website or our customer’s websites.
 
-ScribbleLive and CoveritLive are registered trademarks of Scribble Technologies, Inc.. 
 
-Copyright ©2014. Scribble Technologies, Inc. 
+
+ScribbleLive and our customers may use non-personal “aggregated data” to enhance the operation of our software, our customer’s websites, or analyze interest in the areas, or the efficacy of those websites. ScribbleLive provides its customers with reasonable mechanisms to ensure that personal identifiable information is relevant to its intended use, accurate and complete.
+
+Please note, ScribbleLive may disclose personal information in response to lawful requests by public authorities in order to meet any national security or law enforcement requirements.
+
+**Access  **  
+Upon written request to security@ioninteractive.com and with consent from our customer, ScribbleLive will take reasonable steps to permit you to correct, amend, or delete your personal information that is demonstrated to be inaccurate or incomplete. Please note, permission must be obtained by our customer before any changes may be made.
+
+**Enforcement and Liability  **  
+ScribbleLive shall conduct periodic audits as it relates to its obligations and compliance under this Policy. Any isolation of this Policy will be subject to disciplinary action up to and including termination of employment.
+
+**Dispute Resolution  **  
+Any inquiries and/or complaints relating to your information should be directed to the website owner. In the event your inquire or complaint is related to ScribbleLive’s use of your personal information, you may contact us at :
+
+security@ioninteractive.com
+
+or
+
+ScribbleLive Technologies  
+Attention: General Counsel  
+#201- 662 King Street West
+
+Toronto, ON  
+M5V 1M7
+
+ScribbleLive will respond accordingly within forty-five (45) days from the date on which notice was received. ScribbleLive shall cooperate with applicable data protection authorities in the event complaints cannot be resolved.
+
+If you have any unresolved privacy or data use concerns that i-on interactive, Inc. or Visually, Inc. has not addressed satisfactorily, please contact our third party dispute resolution provider at _[ ](https://www.jamsadr.com/about/submit-a-case)[ https://www.jamsadr.com/about/submit-a-case](https://www.jamsadr.com/about/submit-a-case)_  
+Under certain conditions, an individual may seek to invoke binding arbitration from the Privacy Shield Panel.
+
+**Disclaimer  **  
+ScribbleLive is a SaaS provider and does not control nor is liable, in any way, for the uses to which our customers may make of personal information you have provided to them.
+
+**Modifications for the Privacy Policy  **  
+ScribbleLive reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on our website. Such modifications will become effective on the day they are posted. ScribbleLive encourages you to frequently review the privacy policy for any modifications.
