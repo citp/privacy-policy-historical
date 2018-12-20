@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612141648id_/https%3A//airvpn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220165351id_/https%3A//airvpn.org/privacy) for the most accurate reproduction.*
 
 # Privacy Notice and Terms - AirVPN
 
