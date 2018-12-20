@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iiserpune.ac.in privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621041129id_/http%3A//www.iiserpune.ac.in/footer-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiserpune.ac.in privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220081541id_/http%3A//www.iiserpune.ac.in/footer-links/privacy-policy) for the most accurate reproduction.*
 
 # IISER Pune
 
