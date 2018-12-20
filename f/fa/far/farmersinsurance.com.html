@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the farmersinsurance.com privacy policy that was archived on 2018-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629081102id_/https%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the farmersinsurance.com privacy policy that was archived on 2018-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181220215308id_/https%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths win chrome chrome69 webkit" lang="en" style="width: auto; overflow: visible;"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
@@ -34,8 +34,56 @@
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W2ZTCM"></script><script async="" src="//web.archive.org/web/20161007045223/https://www.googletagmanager.com/gtm.js?id=GTM-WJ8XW6"></script><script type="text/javascript" src="/etc/designs/falcon/rwd/clientlibs_base/js/respond.js">
 </script>
 
+<!-- Krux Integration -->
+<script type="text/javascript">
+    try {
+        var segmentProvider = {
+            name: 'kruxSegments',
+            version: '1.0.0',
+            timeout: 2000,
+            provider: function(callback) {
+                (function pollForKUID(){
+                    try {
+                        if (localStorage.getItem('kxfarmers_kuid') !== null) {
+                            var kuid = localStorage.getItem('kxfarmers_kuid');
+                            var url = 'https://cdn.krxd.net/userdata/v2/segments/f02be25b-ed05-4972-a144-57653f813683/user/'+kuid;
+                            
+                            $.ajax({
+                                type: "GET",
+                                url: url,
+                                dataType: "json",
+                                success: function(data) {
+                                    var segmentsArray = JSON.parse(data).body.segments;
+                                    callback(null, {
+                                        kruxSegments: segmentsArray.join(' ');
+                                    });
+                                },
+                                error: function(err){
+                                    console.log("Error", err);
+                                    callback(err);
+                                }
+                            });
+                        } else if (document.readyState !== 'complete'){
+                            return setTimeout(pollForKUID, 50);
+                        }
+                    } catch (e) {
+                        console.warn('Krux Mbox Integration Polling Error', e);
+                    }
+                })();
+            }
+        }
+        
+        window.targetGlobalSettings = {
+            dataProviders: [
+                segmentProvider
+            ]
+        }
+    } catch(e) {
+        console.error('Krux Mbox Integration Error', e);
+    }
+</script>
 <!-- Adobe Target -->
-<script language="javascript1.2" src="/etc/designs/falcon/rwd/clientlibs_base/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style><script src="//web.archive.org/web/20190502222518/https://cdn.tt.omtrdc.net/cdn/target.js"></script><script src="https://farmersinsurance.tt.omtrdc.net/m2/farmersinsurance/mbox/ajax?mboxHost=web.archive.org&amp;mboxPage=1580436882335-884076&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxSession=1580436876950-930064&amp;mboxCount=1&amp;mboxTime=1580436882341&amp;mbox=target-global-mbox&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180629081102id_%2Fhttps%3A%2F%2Fwww.farmers.com%2Fdisclaimer%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=60"></script>
+<script language="javascript1.2" src="/etc/designs/falcon/rwd/clientlibs_base/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style><script src="//web.archive.org/web/20190502222518/https://cdn.tt.omtrdc.net/cdn/target.js"></script><script src="https://farmersinsurance.tt.omtrdc.net/m2/farmersinsurance/mbox/ajax?mboxHost=web.archive.org&amp;mboxPage=1580436883959-984197&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxSession=1580436877431-382098&amp;mboxCount=1&amp;mboxTime=1580436883961&amp;mbox=target-global-mbox&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181220215308id_%2Fhttps%3A%2F%2Fwww.farmers.com%2Fdisclaimer%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=60"></script>
 <!-- Adobe Target -->
 
 <!-- MBox Cookie Collecting -->
@@ -60,7 +108,7 @@
 </head>
 
 
-<body class="desktop-detected" style="width: auto; overflow: visible;"><div class="mboxDefault" id="mbox-target-global-mbox-1580436882341-730947" style="visibility: visible; display: block;"></div>
+<body class="desktop-detected" style="width: auto; overflow: visible;"><div class="mboxDefault" id="mbox-target-global-mbox-1580436883961-452139" style="visibility: visible; display: block;"></div>
     <!--Main container starts here-->
     <div id="wrapper">
         
@@ -108,7 +156,7 @@
 
         
         <!-- MBox Cookie Collecting -->
-        <script language="javascript1.2" src="/etc/designs/falcon/rwd/clientlibs_base/js/mboxcookiecollectingbody.js"></script><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-returningCustomers-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://farmersinsurance.tt.omtrdc.net/m2/farmersinsurance/mbox/standard?mboxHost=web.archive.org&amp;mboxPage=1580436882335-884076&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxSession=1580436876950-930064&amp;mboxCount=2&amp;mboxTime=1580436882873&amp;profile.farmerscss=null&amp;profile.rememberedUser=null&amp;profile.farmerscss_persist=null&amp;mbox=returningCustomers&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180629081102id_%2Fhttps%3A%2F%2Fwww.farmers.com%2Fdisclaimer%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=60"></script>
+        <script language="javascript1.2" src="/etc/designs/falcon/rwd/clientlibs_base/js/mboxcookiecollectingbody.js"></script><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-returningCustomers-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://farmersinsurance.tt.omtrdc.net/m2/farmersinsurance/mbox/standard?mboxHost=web.archive.org&amp;mboxPage=1580436883959-984197&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxSession=1580436877431-382098&amp;mboxCount=2&amp;mboxTime=1580436885406&amp;profile.farmerscss=null&amp;profile.rememberedUser=null&amp;profile.farmerscss_persist=null&amp;mbox=returningCustomers&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181220215308id_%2Fhttps%3A%2F%2Fwww.farmers.com%2Fdisclaimer%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=60"></script>
         <!-- MBox Cookie Collecting -->
         
 
@@ -514,95 +562,94 @@
                 <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11">
                   <div class="content-parsys parsys"><div class="common_richtext section">    
 <div class="component-generic-text">
-	<p>If you are a customer of Farmers, you have already received this notice. If you are not a customer, this notice provides you with information about Farmers' privacy practices. Please note that the sections "Your choice" and "Recipient of this Notice" below do not apply to users who are not Farmers customers. If you become a customer, you will receive a copy of this notice and the opportunity to advise us of your choice regarding Farmers' use of certain information.</p>
-<p>In the course of our business relationship with you, we collect information about you that is necessary to provide you with our products and services. We treat this information as confidential and recognize the importance of protecting it. We value your confidence in us.</p>
-<p>You trust us with an important part of your financial life. We are proud of our privacy policies and procedures and encourage you to review them carefully.</p>
-<p>This notice from the member companies of the Farmers Insurance Group of Companies listed below ("Farmers'") describes our privacy practices regarding information about our customers and former customers that obtain financial products or services from us for personal, family, or household purposes. When state law is more protective of individuals than federal privacy law, we will protect information in accordance with state law consistent with the requirements of federal preemption.<br>
-&nbsp;</p>
+	<p>This notice describes our privacy policies and procedures in safeguarding information about customers and former customers that obtain financial products or services for personal, family or household purposes. <b>Please note that if state law is more protective of an individual's privacy than federal privacy law, we will protect information in accordance with state law while also meeting federal requirements.<br>
+ &nbsp;</b></p>
 <h4>Information We Collect</h4>
-<p>We collect and maintain information about you to provide you with the coverage, product or service you request and to service your account.</p>
+<p>We collect and maintain personal information to provide you with coverage, products or services and to service your account.&nbsp;</p>
 <p>We collect certain information ("nonpublic personal information") about you and the members of your household ("you") from the following sources:</p>
 <ul>
-<li>Information we receive from you on applications or other forms, such as your social security number, assets, income, and property information;</li>
+<li>Information you provide on applications or other forms, such as your social security number, assets, income, and property information;</li>
 <li>Information about your transactions with us, our affiliates or others, such as your policy coverage, premiums, and payment history;</li>
-<li>Information we receive from a consumer reporting agency or insurance support organization, such as motor vehicle records, credit report information and claims history;</li>
-<li>Information from your visits to farmers.com or other websites we operate, use of our mobile sites and applications, use of our social media sites, and interactions with our online advertisements; and</li>
+<li>Information from your visits to farmers.com or other websites we operate, use of our mobile sites and application, use of our social media sites, and interaction with our online advertisements; and</li>
+<li>Information we receive from a consumer reporting agency or insurance support organization, such as motor vehicle records, credit report information and claims history; and</li>
 <li>If you obtain a life, long-term care or disability product, information we receive from you, medical professionals who have provided care to you and insurance support organizations, regarding your health.</li>
 </ul>
-<h4><br>
-How We Protect Your Information</h4>
-<p>At Farmers, our customers are our most valued assets. Protecting your privacy is important to us. We restrict access to personal information about you to those individuals, such as our employees and agents, who provide you with our products and services. We require those individuals to whom we permit access to your customer information to protect it and keep it confidential. We maintain physical, electronic, and procedural safeguards that comply with applicable regulatory standards to guard your nonpublic personal information.</p>
-<p>We do not disclose any nonpublic personal information about you, as our customer or former customer, except as described in this notice.</p>
-<h4><br>
-Information We Disclose</h4>
-<p>We may disclose the nonpublic personal information we collect about you, as described above, to companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements and to other third parties, all as permitted by law.</p>
-<p>Many employers, benefit plans or plan sponsors restrict the information that can be shared about their employees or members by companies that provide them with products or services. If you have a relationship with Farmers or one of its affiliates as a result of products or services provided through an employer, benefit plan or plan sponsor, we will abide by the privacy restrictions imposed by that organization.</p>
-<p>We are permitted to disclose personal health information (1) to process your transaction with us, for instance, to determine eligibility for coverage, to process claims or to prevent fraud; (2) with your written authorization, and (3) otherwise as permitted by law.</p>
+<h4>&nbsp;</h4>
+<h4>How We Protect Your Information</h4>
+<p>We restrict access to personal information about you to individuals, such as our employees and agents, who provide you with our products and services. We require individuals with access to your customer information to protect it and keep it confidential. We maintain physical, electronic, and procedural safeguards that comply with applicable regulatory standards to guard your nonpublic personal information. We do not disclose any nonpublic personal information about you except as described in this notice.<br>
+&nbsp;</p>
+<h4>Information We Disclose</h4>
+<p>We may disclose the nonpublic personal information we collect about you, as described above, to companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements and to other third parties, all as permitted by law. Many employers, benefit plans or plan sponsors restrict the information that can be shared about their employees or members by companies that provide them with products or services. If you have a relationship with Farmers or one of its affiliates as a result of products or services provided through an employer, benefit plan or plan sponsor, we will follow the privacy restrictions of that organization.</p>
+<p>We are permitted to disclose personal health information:<br>
+(1) to process your transaction with us, for instance, to determine eligibility for coverage, to process claims or to prevent fraud;<br>
+(2) with your written authorization, and<br>
+(3) otherwise as permitted by law.</p>
 <h4><br>
 Sharing Information with Affiliates</h4>
-<p>The Farmers family encompasses various affiliates that offer a variety of financial products and services in addition to insurance. Sharing information enables our affiliates to offer you a more complete range of products and services.</p>
-<p>We may disclose nonpublic personal information, as described above in Information We Collect, to our affiliates, which include:</p>
+<p>The Farmers Insurance Group ® of Companies includes affiliates that offer a variety of financial products and services in addition to insurance. Sharing information enables our affiliates to offer you a more complete range of products and services.<br>
+</p>
+<p>We may disclose nonpublic personal information, as described above in <b>Information We Collect</b>, to our affiliates, which include:</p>
 <ul>
-<li>Financial service providers such as insurance companies and reciprocals, investment companies, underwriters and brokers/dealers; and</li>
+<li>Financial service providers such as insurance companies and reciprocals, investment companies, underwriters and brokers/dealers.</li>
 <li>Non-financial service providers, such as management companies, attorneys-in-fact and billing companies.</li>
 </ul>
-<p>We are permitted by law to share with our affiliates our transaction and experience information with you.</p>
-<p>In addition, we may share with our affiliates consumer report information, such as information from credit reports and certain application information that we have received from you and from third parties, such as consumer reporting agencies and insurance support organizations.</p>
-<h4><br>
-Your Choice</h4>
-<p>If it is your decision not to opt out and to allow sharing of your information with our affiliates, you do not need to request an Opt-Out Form or respond to us in any way.</p>
-<p>If you have previously submitted a request to opt-out on each of your policies, no further action is required.</p>
-<p>You may opt out only by completing the Opt Out Form. You may request additional copies by sending us a request at the address shown on the form. An additional Opt Out Form will be mailed to you shortly after receipt of your request.</p>
-<p>If you prefer that we not share consumer report information with our affiliates, except as otherwise permitted by law, you may request an Opt-Out Form by calling toll free, (800) 493-4917 (please have all of your policy numbers available when requesting Opt-Out Forms). A form will be mailed to your attention. Please verify that all of your Farmers policy numbers are listed. If not, please add the policy numbers on the form and mail to the return address printed on the form. We will implement your request within a reasonable time after we receive the form.</p>
+<p>We are permitted by law to share information with our affiliates about our transactions with you. In addition, we may share consumer report information, such as information from credit reports and certain application information, received from you and from third parties, such as consumer reporting agencies and insurance support organizations.<br>
+&nbsp;</p>
+<h4>Your Choice</h4>
+<p>If you prefer that we not share consumer report information with our affiliates, except as otherwise permitted by law, you may request an Opt-Out Form by calling toll free, 1-800-327-6377, (please have all of your policy numbers available when requesting Opt-Out Forms). A form will be mailed to your attention. Please verify that all of your Farmers policy numbers are listed. If not, please add the policy numbers on the form and mail to the return address printed on the form. We will implement your request within a reasonable time after we receive the form.</p>
+<p><b>If you decide not to opt-out or if you have previously submitted a request to opt-out on each of your policies, no further action is required.</b></p>
 <h4><br>
 Modifications to our Privacy Policy</h4>
-<p>We reserve the right to change our privacy practices in the future, which may include sharing nonpublic personal information about you with nonaffiliated third parties. Before we do that, we will provide you with a revised privacy notice and give you the opportunity to opt out of that type of information sharing.</p>
+<p>We reserve the right to change our privacy practices in the future, which may include sharing nonpublic personal information about you with nonaffiliated third parties. Before we make any changes, we will provide you with a revised privacy notice and give you the opportunity to opt-out of that type of information sharing.</p>
 <h4><br>
-Web site</h4>
-<p>Our Web Site privacy notices, such as the one located at farmers.com, contain additional information particular to web site use. Please pay careful attention to those notices if you transmit personal information to Farmers over the Internet.</p>
+Website</h4>
+<p>Our website privacy notices contain additional information about website use. Please review those notices if you transmit personal information to Farmers over the Internet.<br>
+</p>
 <h4><br>
 Recipients of this Notice</h4>
-<p>We are providing this notice to the named policyholder residing at the mailing address to which we send your policy information. If there is more than one policyholder on a policy, only the named policyholder on that policy will receive this notice, though any policyholder may request a copy of this notice. You may receive more than one copy of this notice if you have more than one policy with Farmers. You also may receive notices from affiliates, other than those listed below. Please read those notices carefully to determine your rights with respect to those affiliates' privacy practices.</p>
-<h4><br>
-More Information about the Federal Laws?</h4>
-<p>This notice is required by federal law. If you would like additional information about these federal laws, please view the links to the Federal Trade Commission's web site.</p>
-<p>Signed: Farmers Insurance Exchange, Fire Insurance Exchange, Truck Insurance Exchange, Mid-Century Insurance Company, Farmers Insurance Company, Inc. (A Kansas Corp.), Farmers Insurance Company of Arizona, Farmers Insurance Company of Idaho, Farmers Insurance Company of Oregon, Farmers Insurance Company of Washington, Farmers Insurance of Columbus, Inc., Farmers New Century Insurance Company, Farmers Group, Inc., Farmers Reinsurance Company, Farmers Services Insurance Agency, Farmers Services Corporation, Farmers Specialty Insurance Company, Farmers Texas County Mutual Insurance Company, Farmers Underwriters Association, Farmers Value Added, Inc., Farmers Financial Solutions, LLC (a member of FINRA and SIPC)*, FFS Holding, LLC, Farmers Services, LLC, ZFUS Services, LLC, Leschi Life Assurance Company, F.I.G. Holding Company, FIG Leasing Co., Inc., Fire Underwriters Association, Illinois Farmers Insurance Company, Mid-Century Insurance Company of Texas, Prematic Service Corporation (California), Prematic Service Corporation (Nevada), Texas Farmers Insurance Company, Farmers New World Life Insurance Company, Truck Underwriters Association, Civic Property and Casualty Company, Exact Property and Casualty Company, and Neighborhood Spirit Property and Casualty Company.</p>
+<p>While any policyholder may request a copy of this notice, we are providing this notice to the named policyholder residing at the mailing address to which we send your policy information. If there is more than one policyholder on a policy, only the named policyholder will receive this notice. You may receive more than one copy of this notice if you have more than one policy with Farmers. You also may receive notices from affiliates, other than those listed below.<br>
+&nbsp;</p>
+<h4>More Information about the Federal Laws?</h4>
+<p>This notice is required by federal law. For more information, please visit <a href="https://www.farmers.com" class="no_outline">farmers.com</a>.<br>
+&nbsp;</p>
+<h4>Signed</h4>
+<p>Farmers Insurance Exchange, Fire Insurance Exchange, Truck Insurance Exchange, Mid-Century Insurance Company, Farmers Insurance Company, Inc. (A Kansas Corp.), Farmers Insurance Company of Arizona, Farmers Insurance Company of Idaho, Farmers Insurance Company of Oregon, Farmers Insurance Company of Washington, Farmers Insurance of Columbus, Inc., Farmers New Century Insurance Company, Farmers Group, Inc., Farmers Reinsurance Company, Farmers Services Insurance Agency, Farmers Services Corporation, Farmers Specialty Insurance Company, Farmers Texas County Mutual Insurance Company, Farmers Underwriters Association, Farmers Value Added, Inc., Farmers Financial Solutions, LLC (a member of FINRA and SIPC)*, FFS Holding, LLC, Farmers Services, LLC, ZFUS Services, LLC, Leschi Life Assurance Company, F.I.G. Holding Company, FIG Leasing Co., Inc., Fire Underwriters Association, Illinois Farmers Insurance Company, Mid-Century Insurance Company of Texas, Prematic Service Corporation (California), Prematic Service Corporation (Nevada), Texas Farmers Insurance Company, Farmers New World Life Insurance Company, Truck Underwriters Association, Civic Property and Casualty Company, Exact Property and Casualty Company, and Neighborhood Spirit Property and Casualty Company and Farmers Life Insurance Company of New York.</p>
 <p>The above is a list of the affiliates on whose behalf this privacy notice is being provided. It is not a comprehensive list of all affiliates of the companies comprising the Farmers Insurance Group of Companies.</p>
-<p>**You may obtain more information about the Securities Investor Protection Program (SIPC) including the SIPC brochure by contacting SIPC at (202) 371-8300 or via the internet at <a href="http://www.sipc.org/" target="_blank" class="no_outline">www.sipc.org</a>. For information about FINRA and Broker Check you may call the FINRA Broker Check hotline at (800) 289-9999 or access the FINRA website at <a href="http://www.sipc.org/" class="no_outline">www.finra.org</a>.</p>
-<h4>&nbsp;</h4>
+<p>*You may obtain more information about the Securities Investor Protection Program (SIPC) including the SIPC brochure by contacting SIPC at (202) 371-8300 or via the internet at <a href="http://www.sipc.org/" target="_blank" class="no_outline">www.sipc.org</a>. For information about FINRA and Broker Check you may call the FINRA Broker Check hotline at (800) 289-9999 or access the FINRA website at <a href="http://www.finra.org/" class="no_outline">www.finra.org</a>.<br>
+&nbsp;</p>
 <h4>Questions?</h4>
 <p>1-866-813-7551</p>
 <h3>&nbsp;</h3>
-<h3>WEB SITE PRIVACY POLICY STATEMENT USE OF INFORMATION YOU GIVE US</h3>
-<h3>&nbsp;</h3>
+<h3>WEB SITE PRIVACY POLICY STATEMENT USE OF INFORMATION YOU GIVE US<br>
+&nbsp;</h3>
 <h4>General Statement</h4>
-<p>Farmers’ policy is to protect the confidentiality of the individually identifiable information that you provide, and to limit access to that information only to those with a need to know. Farmers may collect your name, address, phone number and e-mail address at this site. We will use this information to provide you information you request, to refer you to a Farmers agent, to refer you to a third party service provider or to comply with a legal requirement. When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen.</p>
-<h4><br>
-Hyperlinks</h4>
+<p>Farmers’ policy is to protect the confidentiality of the individually identifiable information that you provide, and to limit access to that information only to those with a need to know. Farmers may collect your name, address, phone number and e-mail address at this site. We will use this information to provide you information you request, to refer you to a Farmers agent, to refer you to a third party service provider or to comply with a legal requirement. When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen.<br>
+&nbsp;</p>
+<h4>Hyperlinks</h4>
 <p>We have agreements with third parties that allow you to go to their web site from our Web Site. If you go to these sites from our site, you may be asked to give non-public personal information for access to their services or products. You may become a part of that business' customer base and be subject to their policies regarding the handling of customer data.</p>
-<p>Please be aware that Farmers is not responsible for the privacy practices of those sites, even though Farmers' name or logo may appear on those sites. We encourage you to be aware of this when you leave our site and to read the Privacy Statements of each and every web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy statement applies solely to our Web Site.</p>
-<h4><br>
-Security</h4>
-<p>Our policy is to restrict access to nonpublic personal information about you only to those employees who need to know that information to provide products or services to you or to provide necessary technical support. We require the employees with access to your nonpublic personal information, including your social security numbers, to use safeguards against unauthorized access, use and unlawful disclosure. We require our employees to adhere to high standards of ethics and integrity in performing their jobs and conducting business. We also require the same standards of confidentiality from the service vendors that assist us. Farmers uses no encryption (data scrambling) on public portions of the Site and up to 2048-bit encryption on other portions—typically, where you can enter personally identifiable information. When you are on any web site that asks you for confidential information, you should check to see if the information being transmitted is encrypted in order to increase the security of your information.</p>
-<h4><br>
-Logging</h4>
-<p>In addition to the information you provide us, we collect information about your activities while you are at our site. While you are logged in our site, we log IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain names, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site), and your activity while using or reviewing our site. We obtain the information by using cookies.</p>
-<h4><br>
-Cookies</h4>
+<p>Please be aware that Farmers is not responsible for the privacy practices of those sites, even though Farmers' name or logo may appear on those sites. We encourage you to be aware of this when you leave our site and to read the Privacy Statements of each and every web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy statement applies solely to our Web Site.<br>
+&nbsp;</p>
+<h4>Security</h4>
+<p>Our policy is to restrict access to nonpublic personal information about you only to those employees who need to know that information to provide products or services to you or to provide necessary technical support. We require the employees with access to your nonpublic personal information, including your social security numbers, to use safeguards against unauthorized access, use and unlawful disclosure. We require our employees to adhere to high standards of ethics and integrity in performing their jobs and conducting business. We also require the same standards of confidentiality from the service vendors that assist us. Farmers uses no encryption (data scrambling) on public portions of the Site and up to 2048-bit encryption on other portions—typically, where you can enter personally identifiable information. When you are on any web site that asks you for confidential information, you should check to see if the information being transmitted is encrypted in order to increase the security of your information.<br>
+&nbsp;</p>
+<h4>Logging</h4>
+<p>In addition to the information you provide us, we collect information about your activities while you are at our site. While you are logged in our site, we log IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain names, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site), and your activity while using or reviewing our site. We obtain the information by using cookies.<br>
+&nbsp;</p>
+<h4>Cookies</h4>
 <p>A cookie is a message sent to your browser from a Web server that is stored on your computer's hard drive. The message is sent back to the Web server whenever the browser requests a page from that server. Many commercial Internet sites use cookies. While a code in the cookie file enables the site to label you as a particular user, it does not identify you by name or address unless you have provided the site with such information or set up preferences in your browser to do so automatically. You may opt out of accepting cookies by changing the settings on your browser. However, rejecting cookies may prevent you from using certain functions and you may have to repeatedly enter information to take advantage of services or promotions. In general, cookies allow us to identify you as a particular user and thus provide you with a more customized service. We may also use cookies to track customer or user requests, inquiries and traffic patterns or to determine audience size and repeated usage. Farmers Insurance uses pixels, or transparent GIF files, to help manage online advertising. These files enable us to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. With both cookies and Spotlight technology to measure online advertising, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.</p>
 <p>We do not currently support Do Not Track signals but may in the future.</p>
-<p>When you visit our website, other parties may collect personally identifiable information about your online activities over time and across different websites. &nbsp;Notwithstanding any other provision, we may work with a third party partner who may collect information from you, such as your IP address and information about your browser or operating system, and may place or recognize a unique cookie on your browser for the purpose of enabling interest-based content or advertising to you. The cookies placed by our third party partners contain no personally identifiable information; they may contain demographic or other interest-based data in a de-identified form. &nbsp;The information in these cookies may be linked to data you voluntarily have submitted to us, such as your name, postal address or email, which we may share in hashed or encrypted form. To opt-out of these data provider cookies, please go to <a target="_blank" href="http://www.aboutads.info/choices/" class="no_outline">http://www.aboutads.info/choices</a>.</p>
-<h4><br>
-Right to Preserve and Disclose</h4>
-<p>Farmers may preserve for any period of time it deems appropriate all information you provide. Farmers may also disclose information you provide if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete your transaction; (b) comply with legal process; (c) enforce this Agreement; (d) respond to claims that any materials on this Site violate your rights or the rights of third parties; (e) protect the rights, property, or personal safety of Farmers, its users and/or the public; or (f) in the event that all or substantially all of Farmers assets are acquired by a third party.</p>
-<h4><br>
-Modifications</h4>
-<p>We reserve the right, at any time, to change or modify our policies on the use of information you provide us, and will post the revised policy on our Web Site. We, therefore, recommend you review this policy statement each time you may be asked to give us personal information after accessing this site.</p>
-<h4><br>
-Legal Terms</h4>
-<p>We also recommend you read the section called Legal Disclaimer. The Legal Disclaimer section describes the terms and conditions for use of our Web Site, discusses the content in this site, and information about your responsibilities when using this site.</p>
-<h4><br>
-Children and Minors</h4>
+<p>When you visit our website, other parties may collect personally identifiable information about your online activities over time and across different websites. &nbsp;Notwithstanding any other provision, we may work with a third party partner who may collect information from you, such as your IP address and information about your browser or operating system, and may place or recognize a unique cookie on your browser for the purpose of enabling interest-based content or advertising to you. The cookies placed by our third party partners contain no personally identifiable information; they may contain demographic or other interest-based data in a de-identified form. &nbsp;The information in these cookies may be linked to data you voluntarily have submitted to us, such as your name, postal address or email, which we may share in hashed or encrypted form. To opt-out of these data provider cookies, please go to <a target="_blank" href="http://www.aboutads.info/choices/" class="no_outline">http://www.aboutads.info/choices</a>.<br>
+&nbsp;</p>
+<h4>Right to Preserve and Disclose</h4>
+<p>Farmers may preserve for any period of time it deems appropriate all information you provide. Farmers may also disclose information you provide if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete your transaction; (b) comply with legal process; (c) enforce this Agreement; (d) respond to claims that any materials on this Site violate your rights or the rights of third parties; (e) protect the rights, property, or personal safety of Farmers, its users and/or the public; or (f) in the event that all or substantially all of Farmers assets are acquired by a third party.<br>
+&nbsp;</p>
+<h4>Modifications</h4>
+<p>We reserve the right, at any time, to change or modify our policies on the use of information you provide us, and will post the revised policy on our Web Site. We, therefore, recommend you review this policy statement each time you may be asked to give us personal information after accessing this site.<br>
+&nbsp;</p>
+<h4>Legal Terms</h4>
+<p>We also recommend you read the section called Legal Disclaimer. The Legal Disclaimer section describes the terms and conditions for use of our Web Site, discusses the content in this site, and information about your responsibilities when using this site.<br>
+&nbsp;</p>
+<h4>Children and Minors</h4>
 <p>Farmers makes no active effort to collect personal information from children and does not wish to receive any such information.</p>
 <p>Effective Date: December 20, 2013</p>
 <h4><br>
@@ -615,7 +662,6 @@ Confidentiality of Information for Domestic Violence Victims and Endangered Indi
 Spanish Language: 1-800-942-6908<br>
 In NYC: 1-800-621-HOPE (4673) or dial 311<br>
 TTY: 1-866-604-5350</p>
-<p>&nbsp;</p>
 
 </div>
 </div>
@@ -683,14 +729,16 @@ TTY: 1-866-604-5350</p>
             <div class="global_feedbackbutton global_feedbackbuttonchild">
 	<div class="global_feedbackbutton">
 
+
+
 <!--Global FeedBack botton Start -->
 
 <div id="globalFeedback" class="globalFeedback fixed" data-swiftype-index="false">
         <div class="hidden-sm hidden-md hidden-lg">   
             <div class="component-feedback-button-container mob-feedback   " style="right: 5px;">
                 <div class="component-feedback-button light-font medium-blue-bg" data-href="https://farmers.qualtrics.com/SE/?SID=SV_4GCytpHEO44R4vb" style="background-color:#0073cf;">
-                <button type="button" class="btn  give-feedback col-xs-12 light-font medium-blue-bg no_outline">
-                <p class="glyphicon glyphicon-thumbs-up mrg-rgt-10" aria-hidden="true"></p> <span>Give Feedback</span> <!-- New addition -->  <img src="/content/dam/ada/new_window.svg" alt="" height="20" width="20">  
+                <button type="button" class="btn  give-feedback col-xs-12 light-font medium-blue-bg no_outline" data-gtm="HP_feedback_modal">
+                <p class="glyphicon glyphicon-thumbs-up mrg-rgt-10" aria-hidden="true" data-gtm="HP_feedback_modal"></p> <span>Give Feedback</span> <!-- New addition -->  <img src="/content/dam/ada/new_window.svg" alt="" height="20" width="20">  
 				                <span class="sr-only">opens in new window</span>
                 </button>  
                </div>
@@ -700,8 +748,8 @@ TTY: 1-866-604-5350</p>
         <div class="global_feedbackbutton">
             <div class="component-feedback-button-container   " style="right: 5px;">
                 
-				 <a class="component-feedback-button light-font medium-blue-bg no_outline" href="#" data-href="https://farmers.qualtrics.com/SE/?SID=SV_4GCytpHEO44R4vb" role="button">
-                    <p class="label">FEEDBACK</p>
+				 <a data-gtm="HP_feedback_modal" class="component-feedback-button light-font medium-blue-bg no_outline" href="#" data-href="https://farmers.qualtrics.com/SE/?SID=SV_4GCytpHEO44R4vb" role="button">
+                    <p class="label" data-gtm="HP_feedback_modal"> FEEDBACK</p>
 					<span><img src="/content/dam/ada/new_window.svg" alt="" height="20" width="20"></span>
 					                <span class="sr-only">opens in new window</span>
 				</a>
@@ -1016,14 +1064,14 @@ TTY: 1-866-604-5350</p>
                 <div class="container">
                     <div class="foot-note-row">
                     <div class="col-sm-11 foot-note">
-                    <p><sup id="1"><span class="sr-only">return link</span>1</sup> Life insurance issued by Farmers New World Life Insurance Company, 3003 77th Ave SE, Mercer Island, WA 98040.<br>
+                    <p><sup id="1"><span class="sr-only">return link</span>*</sup> Life insurance issued by Farmers New World Life Insurance Company, 3120 139th Ave SE Ste 300, Bellevue, WA 98005.<br>
 Products &amp; features may not be available in all states &amp; may vary by state. Restrictions, exclusions, limits, and conditions apply.<br>
 <br>
-<span id="2"><span class="sr-only">return link</span>*</span> Securities offered through Farmers Financial Solutions, LLC,&nbsp;(In NY: Farmers Financial Solutions and Insurance Agency), 30801 Agoura Rd. Bldg. 1 Agoura Hills, CA 91301. Member <a href="http://www.finra.org/" target="_blank" class="no_outline">FINRA&nbsp;<img src="/content/dam/ada/new_window_blue.svg" alt="opens in new window" height="12" width="12"></a>&nbsp;&amp;&nbsp;<a href="https://www.sipc.org/" target="_blank" class="no_outline">SIPC&nbsp;<img src="/content/dam/ada/new_window_blue.svg" alt="opens in new window" height="12" width="12"></a>.<br>
+<span id="2"><span class="sr-only">return link</span></span>Securities offered through Farmers Financial Solutions, LLC,&nbsp;(In NY: Farmers Financial Solutions and Insurance Agency), 30801 Agoura Rd. Bldg. 1 Agoura Hills, CA 91301. Member <a href="http://www.finra.org/" target="_blank" class="no_outline">FINRA&nbsp;<img src="/content/dam/ada/new_window_blue.svg" alt="opens in new window" height="12" width="12"></a>&nbsp;&amp;&nbsp;<a href="https://www.sipc.org/" target="_blank" class="no_outline">SIPC&nbsp;<img src="/content/dam/ada/new_window_blue.svg" alt="opens in new window" height="12" width="12"></a>.<br>
 <br>
-* <a href="/faq" class="no_outline">Products and Services/Auto or Home/Questions you may have about Risk Assessment Indicators</a><br>
+<a href="/faq" class="no_outline">Products and Services/Auto or Home/Questions you may have about Risk Assessment Indicators</a><br>
 <br>
-**Between 7/1/15 and 9/30/15, the average estimated savings off MSRP presented by TrueCar Certified Dealers to users of TrueCar powered websites, based on users who configured virtual vehicles and who TrueCar identified as purchasing a new vehicle of the same make and model listed on the certificate from a Certified Dealer as of 10/31/2015, was $3,279. Your actual savings may vary based on multiple factors including the vehicle you select, region, dealer, and applicable vehicle specific manufacturer incentives which are subject to change.&nbsp; The Farmers Car Shopping Service website is owned and operated by TrueCar, which is not affiliated with any of the companies comprising the Farmers Insurance Group of Companies.<br>
+Between 7/1/15 and 9/30/15, the average estimated savings off MSRP presented by TrueCar Certified Dealers to users of TrueCar powered websites, based on users who configured virtual vehicles and who TrueCar identified as purchasing a new vehicle of the same make and model listed on the certificate from a Certified Dealer as of 10/31/2015, was $3,279. Your actual savings may vary based on multiple factors including the vehicle you select, region, dealer, and applicable vehicle specific manufacturer incentives which are subject to change.&nbsp; The Farmers Car Shopping Service website is owned and operated by TrueCar, which is not affiliated with any of the companies comprising the Farmers Insurance Group of Companies.<br>
 <br></p>
                     </div>
                 </div>
@@ -1064,7 +1112,7 @@ Products &amp; features may not be available in all states &amp; may vary by sta
 
         <!--Main container ends here-->
     </div>
-
+<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]); </script><script type="text/javascript" src="/_bm/cbd-1-30"></script>
 
 </div><script type="text/javascript" id="">function dataLayerVariable(){this.push=function(a){devDataLayer.push(a)}}var _dataLayer=new dataLayerVariable,devContainerLoad=!1;tagManagerID="GTM-PCNT7K";dataLayer.push({event:"Run Supplemental Analytics Tags Part 1"});</script><div style="display: none; visibility: hidden;"><script>var dataLayer=dataLayer||[],_gaq=_gaq||[];function _trackPageview(a){var e={event:"_trackPageview"};a&&(e.opt_pageURL=a);dataLayer.push(e)}function _trackEvent(a,e,b,c,d){var f={event:"_trackEvent"};f.category=a;f.action=e;b&&(f.opt_label=b);c&&(f.opt_value=c);f.opt_noninteraction=d?d:!1;dataLayer.push(f)}function _trackSocial(a,e,b,c){var d={event:"_trackSocial"};d.network=a;d.socialAction=e;b&&(d.opt_target=b);c&&(d.opt_pagePath=c);dataLayer.push(d)}
 function _setCustomVar(a,e,b,c){var d={event:"_setCustomVar"};d.index=a;d.name=e;d.value=b;if(c){switch(c){case "visitor":c=1;break;case "visit":c=2;break;case "pageview":c=3}d.opt_scope=c}dataLayer.push(d)}
@@ -1093,4 +1141,4 @@ function createFloodlightTag(a,c){if(a){a=a.trim();a.match(/^https?:\/\//i)||(a=
 function dcTagById(a,c){targetElement=document.getElementById(a);targetElement.onclick=function(){makeIframe(c)}}function dcTagByClass(a,c,b){targetElement=document.getElementsByClassName(a)[c];targetElement.onclick=function(){makeIframe(b)}}
 function _getTopLevelDomain(){for(var a=document.domain.split(".").reverse(),c="__test__",b=a[0],d=0;d<a.length;d++){document.cookie=c+"\x3d__test__;path\x3d/;domain\x3d"+b;if(null!=getCookie(c))return document.cookie=c+"\x3d;expires\x3dThu, 01-Jan-1970 00:00:01 GMT;path\x3d/;domain\x3d"+b,b;b=a[d+1]+"."+b}}dataLayer.push({event:"Run Base Tags"});</script></div><script type="text/javascript" id="">(function(a,c,b){a.GoogleAnalyticsObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=1*new Date;appendTag("//www.google-analytics.com/analytics.js")})(window,document,"ga");appendTag(("https:"==document.location.protocol?"https:":"http:")+"//stats.g.doubleclick.net/dc.js");ga("create","UA-42992352-1","archive.org",{allowLinker:!0});_gaq.push(["_setAccount","UA-42992352-2"]);ga("require","linker");
 ga("linker:autoLink",["farmers.com","farmersinsurance.com","farmersagent.com"]);_gaq.push(["_setDomainName","archive.org"]);_gaq.push(["_setAllowLinker",!0]);_getGAVisitorID()&&_setCustomVar(5,"GA Visitor ID",_getGAVisitorID(),"visitor");(currSourceId=getURLParameter("sourceID"))&&_setCustomVar(2,"Source ID",currSourceId,"visit");(urlZipCode=getURLParameter("zip_code"))&&_setCustomVar(3,"Zip Code",urlZipCode,"visit");
-if(0<navigator.userAgent.indexOf("KTXN")||0<navigator.userAgent.indexOf("KHTE")||0<navigator.userAgent.indexOf("Keynote"))_gaq.push(function(){extga._setCampValues("","","Keynote","","")}),ga("set","campaignName","Keynote");_trackPageview(""+document.location.pathname+document.location.search+document.location.hash);_tagLinks(document);_tagForms(document);_tagInvodo();dataLayer.push({event:"Load Pixel Container"});</script><script type="text/javascript" async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><div style="display: none; visibility: hidden;"><script>ga("send","pageview","\/web\/20180629081102id_\/https:\/\/www.farmers.com\/disclaimer\/privacy-policy\/");_gaq.push(["_trackPageview","\/web\/20180629081102id_\/https:\/\/www.farmers.com\/disclaimer\/privacy-policy\/"]);</script></div><script type="text/javascript" id="">(function(b,c,d,a,e){b[a]=b[a]||[];b[a].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});b=c.getElementsByTagName(d)[0];c=c.createElement(d);a="dataLayer"!=a?"\x26l\x3d"+a:"";c.async=!0;c.src="//www.googletagmanager.com/gtm.js?id\x3d"+e+a;b.parentNode.insertBefore(c,b)})(window,document,"script","dataLayer","GTM-W2ZTCM");dataLayer.push({event:"Fire Remaining Tags"});</script><script type="text/javascript" id="">if(jQuery){var _ce_tracker=function(){for(objs in ce_target_tracker.obj){var b=objs;$(b).on("click",function(c){var a=$(this).attr("id");c=ce_target_tracker.obj["#"+a].pram1;var b=ce_target_tracker.obj["#"+a].pram2,e=ce_target_tracker.obj["#"+a].pram3,a=ce_target_tracker.obj["#"+a].method;ce_target_tracker.obj.method(a,c,b,e)})}},ce_target_tracker={obj:[]};ce_target_tracker.obj.method=function(b,c,a,d){switch(b){case "ga_method":_trackEvent(c,a,d)}};dataLayer.push({event:"_Click_Event_Tracker"})}else console.log(" _ce_tracker(): jQuery : null ");</script></body></html>
+if(0<navigator.userAgent.indexOf("KTXN")||0<navigator.userAgent.indexOf("KHTE")||0<navigator.userAgent.indexOf("Keynote"))_gaq.push(function(){extga._setCampValues("","","Keynote","","")}),ga("set","campaignName","Keynote");_trackPageview(""+document.location.pathname+document.location.search+document.location.hash);_tagLinks(document);_tagForms(document);_tagInvodo();dataLayer.push({event:"Load Pixel Container"});</script><script type="text/javascript" async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><div style="display: none; visibility: hidden;"><script>ga("send","pageview","\/web\/20181220215308id_\/https:\/\/www.farmers.com\/disclaimer\/privacy-policy\/");_gaq.push(["_trackPageview","\/web\/20181220215308id_\/https:\/\/www.farmers.com\/disclaimer\/privacy-policy\/"]);</script></div><script type="text/javascript" id="">(function(b,c,d,a,e){b[a]=b[a]||[];b[a].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});b=c.getElementsByTagName(d)[0];c=c.createElement(d);a="dataLayer"!=a?"\x26l\x3d"+a:"";c.async=!0;c.src="//www.googletagmanager.com/gtm.js?id\x3d"+e+a;b.parentNode.insertBefore(c,b)})(window,document,"script","dataLayer","GTM-W2ZTCM");dataLayer.push({event:"Fire Remaining Tags"});</script><script type="text/javascript" id="">if(jQuery){var _ce_tracker=function(){for(objs in ce_target_tracker.obj){var b=objs;$(b).on("click",function(c){var a=$(this).attr("id");c=ce_target_tracker.obj["#"+a].pram1;var b=ce_target_tracker.obj["#"+a].pram2,e=ce_target_tracker.obj["#"+a].pram3,a=ce_target_tracker.obj["#"+a].method;ce_target_tracker.obj.method(a,c,b,e)})}},ce_target_tracker={obj:[]};ce_target_tracker.obj.method=function(b,c,a,d){switch(b){case "ga_method":_trackEvent(c,a,d)}};dataLayer.push({event:"_Click_Event_Tracker"})}else console.log(" _ce_tracker(): jQuery : null ");</script></body></html>
