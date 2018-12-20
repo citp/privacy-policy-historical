@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dominos.co.nz privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217224314id_/https%3A//www.dominos.co.nz/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.nz privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220092215id_/https%3A//www.dominos.co.nz/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Domino's Pizza - Privacy And Policy
 
-**Last updated  23 January 2018**
+Find out more about [Domino's Privacy Philosophy here.](https://web.archive.org/inside-dominos/privacy-philosophy "PRIVACY PHILOSOPHY")
+
+**Last updated  1 November 2018**
 
 Domino's Pizza Enterprises Limited and Domino’s Pizza New Zealand Limited (" **Domino's** ") respects the privacy of individuals. This policy sets out the way in which Domino's and its franchisees (" **we** " or " **us** ") collect, hold, disclose, use and protect your personal information.
 
@@ -28,8 +30,6 @@ We collect information necessary for us to process your order, process a refund 
 
 The personal information which we collect from you and hold (" **Information** ") includes information like your first and last name, day and month of birth, postal address, telephone and mobile number(s), email address, details of your order (i.e. your last four orders, your delivery address or preferred pick-up location), IP address and credit card details. In respect of your credit card details we only hold some information, as detailed further below. If required, we may request your bank details in order to process a refund of your order.
 
-When you apply for a job with us or to become a franchisee we also collect some information from you for the purposes of assessing your suitability as a Domino's Pizza employee or franchisee (to which you have consented). The sensitive information we collect in these circumstances is further set out under the headings Domino’s Jobs and ‘How we use your Information: 'Sensitive information' below.
-
 When you place an order with us online using the Domino's Pizza internet ordering system (whether via the Domino’s website itself or an application on a smart device), we collect additional Information from you such as:
 
   * your IP address as part of your order;
@@ -44,6 +44,8 @@ When you place an order with us online using the Domino's Pizza internet orderin
 We may also collect your smart device ID and use your smart device’s location services (with your consent) in order to provide you with Domino’s application services.  See  **‘Domino’s applications for smart devices** ’ section below for further information.
 
 **Domino’s Jobs**
+
+When you apply for a job with us or apply to become a franchisee we also collect some information from you for the purposes of assessing your suitability as a Domino's Pizza employee or franchisee (to which you have consented). The sensitive information we collect in these circumstances is further set out under the headings Domino’s Jobs and ‘How we use your Information: 'Sensitive information' below.
 
 When you apply for a job with us through [jobs.dominos.com.au](http://www.dominosjobs.com.au/), jobs.dominospizza.co.nz or otherwise, we (or our franchisee as the case may be) may collect the following details from you:
 
@@ -338,7 +340,7 @@ The Domino’s website may be accessible through or contain connections to areas
 
   1. To stop receiving the SMS service, follow the instructions contained in the SMS.
   2. To stop receiving any email correspondence from us, simply click on the link to unsubscribe.
-  3. To remove your details from any of our marketing and communication databases simply email the Privacy Officer at [privacy@dominos.com.au](mailto:privacy@dominos.com.au).
+  3. To remove your details from any of our marketing and communication databases simply email the Privacy Officer at privacy@dominos.co.nz.
   4. If your information has been shared with a third party by us, based on your consent to do so, you may contact that third party directly and opt out of any direct marketing from them.
 
 
@@ -351,6 +353,6 @@ The Domino's Privacy Policy Co-ordinator will investigate your complaint and det
 
 **Contact Us**
 
-If you have any queries regarding this policy please contact the Domino's Privacy Policy Co-ordinator at Level 5, 'KSD1', 485 Kingsford Smith Drive, Hamilton Queensland 4007 Australia, +61 7 3633 3333 or privacy@dominos.com.au.
+If you have any queries regarding this policy please contact the Domino's Privacy Policy Co-ordinator at Level 5, 'KSD1', 485 Kingsford Smith Drive, Hamilton Queensland 4007 Australia, +61 7 3633 3333 or privacy@dominos.co.nz.
 
 If you have any queries regarding the Information contained in your profile on the relevant Domino’s jobs website, including how to update that Information, please contact the Domino’s Training team on Training@dominos.com.au.
