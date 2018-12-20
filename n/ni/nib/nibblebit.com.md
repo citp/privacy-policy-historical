@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nibblebit.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617050414id_/http%3A//nibblebit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibblebit.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220202334id_/https%3A//nibblebit.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - NibbleBit
 
