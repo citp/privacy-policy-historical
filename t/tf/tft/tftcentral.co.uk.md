@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tftcentral.co.uk privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509102933id_/http%3A//www.tftcentral.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tftcentral.co.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220125739id_/http%3A//www.tftcentral.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -16,3 +16,7 @@ Other Cookies
 In addition to Google Analytics tracking cookies TFTCentral will place temporary session identification cookies on your computer if you log into the website to post on the forum / message board. These are non-tracking cookies which we have no access to – they do not send any information to us or any third party. They are used purely to allow you to access the forums without re-entering details each time to log on.
 
 **If you wish to disable cookies you may do so through your individual browser options**. This action will apply universally and not just to those collected from your visit to our website. More detailed information about cookie management specific to various web browsers can be found on [aboutcookies.org](http://www.aboutcookies.org/).
+
+Affiliate Links
+
+TFTCentral is a participant in the Amazon Services LLC Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk, Amazon.com, Amazon.dr and other Amazon stores worldwide.
