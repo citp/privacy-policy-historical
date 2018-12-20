@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the essentialsql.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703100524id_/https%3A//www.essentialsql.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialsql.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172646id_/https%3A//www.essentialsql.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Essential SQL
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/essentialsql.com).  
+
 
 ## **Last Revised:  September 29, 2016**
 
