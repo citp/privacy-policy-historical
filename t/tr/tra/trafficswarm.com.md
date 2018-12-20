@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621085415id_/https%3A//trafficswarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220135133id_/https%3A//trafficswarm.com/privacy-policy) for the most accurate reproduction.*
 
 # A Swarm of Free Traffic to Your Site Guaranteed! Get Targeted Free Advertising with TrafficSwarm.com
 
@@ -24,7 +24,9 @@ While both of these activities depend on the use of a "cookie," visitors to this
 
 This web site collects online contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. Users may opt-out of receiving future mailings; see the opt-out/modify section below.
 
-**Will TrafficSwarm.com disclose the information it collects to others?**  
+The types of personally identifiable information that we collect at the Site, during registration and when you participate in surveys or contest may include, without limitation, any of the following: your full name, street address, e-mail address, password, date of birth, ethnicity, and gender. In addition, we may request information about your use of, or interest in, the types of products and services offered by the third party sellers with whom we have partnered to offer you the products and services available at the Site.
+
+  **Will TrafficSwarm.com disclose the information it collects to others?**  
 TrafficSwarm.com does not rent, sell or share any of the information collected by this site with unrelated 3rd-parties, except to provide the products or services you've purchased or requested, when we have your permission, or under the following circumstances:
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
@@ -45,11 +47,16 @@ This web site has security measures in place to protect against loss, misuse and
 TrafficSwarm.com provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
 
 1\. Email: customersupport@trafficswarm.com   
-2\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202 USA  
-3\. FAX: (734) 661-0173
+2\. Postal Mail: 1875 Lawrence Street, Suite 750, Denver, CO 80202 USA  
+3\. FAX: (734) 661-0173  
+4\. Phone: (720) 316-2204  
+5\. Website: You may also login to your account at any time to change, delete inaccuracies, or modify your personal information.  
+6\. You may also unsubscribe from receiving communications from us by following the unsubscribe link located at the bottom of each communication.  
+7\. We will respond to your access request within 30 days.
 
-If you simply want to cancel your TrafficSwarm.com account, you may also do so at the following URL: [http://www.trafficswarm.com/cancelacct.pl](https://web.archive.org/cancelacct.pl)  
-**  
+  If you simply want to cancel your TrafficSwarm.com account, you may also do so at the following URL: <https://www.trafficswarm.com/cancelacct.pl>
+
+ Your account information will be instantly and completely removed and will not be recoverable. **  
 Contacting TrafficSwarm.com**
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above. All disputes will be handled promptly and fairly.
