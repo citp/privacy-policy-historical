@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winthrillsnetwork.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628092444id_/http%3A//www.winthrillsnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winthrillsnetwork.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220235432id_/http%3A//winthrillsnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # WINThrills Network - Privacy Policy
 
@@ -121,13 +121,3 @@ Changes to this privacy policy
 
 This privacy notice was published on 30th May 2018 and last updated on 30th May 2018   
 We may change this privacy notice from time to time
-
-###### How to contact us
-
-Please contact us and/or our Data Protection Officer by post or email if you have any questions about this privacy policy or the information we hold about you.
-
-Our contact details are shown below: 
-
-Contact: The Leadenhall Building, 122 Leadenhall Street Level 30, London, United Kingdom EC3V 1LR United Kingdom
-
-Email: info@winthrillsnetwork.com
