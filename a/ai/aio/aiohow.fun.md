@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiohow.fun privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620023821id_/http%3A//www.aiohow.fun/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiohow.fun privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220111534id_/http%3A//www.aiohow.fun/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MP3 Download
 
