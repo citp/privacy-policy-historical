@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesterdayontuesday.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617141753id_/http%3A//yesterdayontuesday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesterdayontuesday.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220061353id_/http%3A//yesterdayontuesday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yesterday On Tuesday
 
@@ -63,6 +63,6 @@ This policy was last modified on March 18, 2013
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://yesterdayontuesday.com](http://yesterdayontuesday.com/)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+yesterdayontues@yahoo.com
 
 This policy is powered by Free Privacy Policy.
