@@ -1,86 +1,80 @@
-> *The following text is extracted and transformed from the esupport.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114140331id_/https%3A//www.esupport.com/privacy_terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esupport.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220152958id_/https%3A//www.esupport.com/privacy_terms.php) for the most accurate reproduction.*
 
 # eSupport.com | Privacy Policy & Terms of Use
 
-**Effective Date:** 10/26/2010 ****
+**Effective Date:** 5/25/2018 ****
 
-eSupport.com, Inc. has been awarded Trust Guard's Privacy Seal signifying that this privacy policy and practices have been reviewed by Trust Guard for compliance with [Trust Guard's program requirements](http://secure.trust-guard.com/privacy/8669) including transparency, accountability and choice regarding the collection and use of your personal information.  Trust Guard's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@esupport.com](mailto:support@esupport.com).
+eSupport.com, Inc. has been awarded Trust Guard's Privacy Seal signifying that this privacy policy and practices have been reviewed by Trust Guard for compliance with [Trust Guard's program requirements](http://secure.trust-guard.com/privacy/8669) including transparency, accountability and choice regarding the collection and use of your personal information.  Trust Guard's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at .
 
 | [](http://secure.trust-guard.com/privacy/8669)  
 ---|---  
   
-**What information do we collect?**   
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+This Privacy Policy discloses the privacy practices for the website, www.esupport.com (the “Site”). eSupport.com, Inc. (referred to as “we”, “us”, or the “Company”), the provider of the Site, is committed to respecting your privacy rights. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
-When registering on our site, as appropriate, you may be asked to enter your name and e-mail address.
+You acknowledge that this Privacy Policy is part of the Site’s Terms of Use (referred to as “Terms”), and by accessing or using the Site, you agree to be bound by all of its Terms. If you do not agree to these Terms and if you are not at least 18 years old, please do not access or use this Site.
 
-**What do we use your information for?**  
-Any of the information we collect from you may be used in one of the following ways: 
+#### 1\. What information do we collect from you?
 
-  * **To personalize your experience**  
-(your information helps us to better respond to your individual needs)
-  * **To improve our website**  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * **To improve customer service**  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-  * **To process transactions**  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-  * We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
-  * **To send periodic emails**  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+In order to provide you with various services on our Site, we collect two types of information about our users: Personally Identifiable Information and Non-Personally Identifiable Information.
 
+Personally Identifiable Information: This refers to information that allows us to know who you are. When you engage in an activity or request for Site content on our Site, such as, downloading a software demo, we will ask you to either submit an online registration form or set up a user account. It is completely optional for you to engage in these activities. If you choose to engage in a particular activity on our Site, we will ask that you provide limited personal information, which includes your first and last name and email address, and we may sometimes ask for your address and telephone number. If you do not wish to provide us with your personal identifiable information, you will not be able to engage in that activity. When you wish to purchase one of our products, we collect your payment details for the purpose of forwarding such information through secure gateways to vendors that handle the actual processing of the purchase of our products and services.
 
+Non-Personally Identifiable Information: This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our Site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site’s Uniform Resource Locator (“URL”) that you just came from, which URL you go to next, what browser you are using, and your Internet Protocol (“IP”) address. An URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (“TCP/IP”) network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet. Even if you don’t register at our Site, we will still collect your Non-Personally Identifiable Information upon your visit to our Site.
 
-**How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+#### 2\. Where do we collect information from you and how do we use it?
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We collect Personally Identifiable Information about you when you voluntarily provide us with your Personally Identifiable Information to register on our Site.
 
-Cookies and Other Tracking Technologies **Cookies** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+We may use Personally Identifiable Information to enhance the operation of our Site, improve our marketing and promotional efforts, statistically analyze site use, improve product and service offerings, and customize the Site’s content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use and this Private Policy.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+In addition, we may also collect, certain Non-Personally Identifiable Information. We use your IP address to diagnose problems with our servers, or software, to administer our Site and to gather demographic information.
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+#### 3\. With whom do we share your information?
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
+When you choose to register or set up an account at our Site by providing your Personally Identifiable Information, you are giving us your express consent to share your Personal Identifiable Information with our affiliates for marketing and promotional purposes of their products or services. The use of your Personally Identifiable Information may result in follow-up communications from our affiliates about their products or services related to your selected activity or requested Site content. We will never give out your Personally Identifiable Information to unrelated third parties without your prior permission.
 
-**Tracking Technologies &Third Party Cookies**  
-The use of cookies by our partners and affiliatesis not covered by our privacy statement. We do not have access or control over these cookies.
+When your Personal Identifiable Information is forwarded to our affiliates, the use of your Personally Identifiable Information by our affiliated companies is governed by their privacy policies and is not subject to our control. You acknowledge and agree that once your Personally Identifiable Information is transferred to those affiliates, you must contact them directly for all inquiries about the use of your Personally Identifiable Information and their privacy policies. You may request a list of our affiliated companies with whom we have shared your Personal Identifiable Information by sending us a request via the Support Ticket System on our Site.
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
-**Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We may also provide Non-Personally Identifiable Information about our traffic patterns and related Site information to third-party advertisers, but these statistics do not include any Personally Identifiable Information.
 
-**Customer Testimonials, Comments & Reviews**  
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at http://esupport.com/feedback.php.
+#### 4\. What are your choices regarding collection, use, and distribution of your information?
 
-**  
-California** **Online Privacy Protection Act Compliance**  
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+You may choose not to provide us with your Personal Identifiable Information. In such an event, you can still access and use our Site; however you will not be able to access and use those portions of the Site that require your Personally Identifiable Information.
 
-**  
-Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We may, from time to time, send you e-mail regarding our Company products and services. If you do not wish to receive such mailings, simply let us know by sending us an unsubscribe request via the Support Ticket System. Or, if we provide an op-out option on the e-mail, simple click on it to unsubscribe from our Company e-mail list.
 
-**  
-Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.esupport.com](http://www.esupport.com/)
+You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case.
 
-**  
-Your Consent**  
-By using our site, you consent to our website's privacy policy.
+#### 5\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
-**  
-Changes to our Privacy Policy**  
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We have implemented reasonable security procedures intended to reduce the risk of accidental destruction or loss, or the unauthorized disclosure of or access to your Personally Identifiable Information reasonably appropriate to the level of the data concerned. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-**  
-Contacting Us**  
-If there are any questions regarding this privacy policy, or if you would like to correct, update, change, or delete your information you may contact us using the information below: 
+#### 6\. Do we use “cookies”?
 
-[http://www.esupport.com](http://www.esupport.com/)  
-8540 Dayton Avenue, Fort Myers, FL 33907, USA  
-[sales@esupport.com](mailto:sales@esupport.com)
+When you use our Site we will store cookies on your computer in order to facilitate and customize your use of our Site. A cookie is a small data text file, which a Web site stores on your computer’s hard drive (if your Web browser permits) that can later be retrieved to identify you to us. Our cookies store randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our Site. The cookies make your use of the site easier, make the Site run more smoothly and help us to maintain a secure Site. You are always free to decline our cookies if your browser permits, but some parts of our Site may not work properly in that case.
+
+#### 7\. Security of Personal and Payment Transactions
+
+Our employees are required to acknowledge that they understand and will strictly abide by our corporate policies with respect to the confidentiality of user personal information. Passwords are regularly changed pursuant to security protocols.
+
+Our Site transmits customer credit card information through a third party payment processor to its third party bank to process and complete credit card transactions. These third parties transmit and store the personal and financial information provided by customers for credit card transactions through secure systems with security technology, encryption and firewall protection. We do not keep or store any of your financial information.
+
+Please note that these vendors have their own privacy policies, and although our agreement with them does not allow the other transacting party to use this information for anything other than providing payment services, we are not responsible for their actions, including their information protection practices.
+
+You may prevent having us transmit or share your personal and financial information for credit card transactions by not providing the information for this purpose and choosing another payment method. By providing this information for credit card transactions, you are consenting to its use in this manner for this purpose.
+
+When permitted or required by law, we may share information with additional third parties for purposes including response to legal process.
+
+#### 8\. What else should you know about your privacy online?
+
+You must be at least 18 years old to have our permission to use this Site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 18 years of age.
+
+If we allow you to set up an account, you may update your information or cancel your account at any time. You may also request to have your Personal Identifiable Information deleted from our database upon request.
+
+If you have any questions about this Privacy Policy, the practices of this Site, your dealings with this Site, or your Personally Identifiable Information, please contact us via the Support Ticket System.
+
+#### 9\. What about updates and changes to Privacy Policy?
+
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
