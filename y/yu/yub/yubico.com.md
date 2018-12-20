@@ -1,50 +1,67 @@
-> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713220138id_/https%3A//www.yubico.com/support/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220081608id_/https%3A//www.yubico.com/support/terms-conditions/privacy-notice) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy | Yubico
+# Privacy Notice | Yubico
 
-Updated 5/6/15
+This Privacy Notice has been adopted by Yubico AB and applies to our and/or other companies in the Yubico group (together “ **Yubico** “) processing of personal data relating to you as a (i) visitor of our websites or social media profiles/pages, (ii) customer buying our products online or such a potential customer, and to (iii) registered user of our services and products.
 
-Your privacy is critically important to us. At Yubico we have a few fundamental principles:
+  1. **Introduction**
+    1. Your privacy is important to us and we strive for a high level of protection in all processing of personal data. Within the EU/EEA, the General Data Protection Regulation (GDPR) applies from 25 May 2018.
+    2. In accordance with applicable data protection legislation, Yubico AB, or the Yubico Group company otherwise specified at the end of this Privacy Notice, is the data controller and responsible for the processing of your personal data as set out below. If you have any questions about this information, or if you wish to exercise any of your rights as set out below, contact Yubico via the contact information listed under Section 6 below.
+  2. **Processing of Personal Data**
+    1. **General  **
+      1. The term 'personal data' refers to such information which, directly or indirectly, may refer to you as an individual. Examples of such data are name, email address, government issued identification number, billing information, contact details, IP address and user behaviour. Personal data processing refers to any action that we or a third party that we have engaged take with the personal data, such as collection, registration and storage. See also our [Cookie Notice](https://web.archive.org/support/terms-conditions/cookie-notice/).
+      2. Personal data may only be processed for specified and explicitly stated purposes and may not be subsequently processed for any purpose that goes beyond these stated purposes.
+    2. **Websites and Social Media**
+      1. We collect personal data such as name, e-mail address and other information which you voluntarily provide, e.g. when you choose to interact with Yubico by signing up for updates such as newsletters, deals and offers, webinars, trade shows, events etc. through email (which you can opt-out from via a link in each message sent through email). We also automatically receive and store information from your web browser, such as IP address, language preferences cookie information and the pages you visit, to log files on our server. We use the information collected to respond to your requests regarding products and services, to improve the content on our websites and the services, to track and prevent abuse of our websites and services, and to develop anonymous usage statistics.
+      2. We also use personal data for direct marketing and advertising in accordance with applicable law and market practice. We use the information we collect with regard to how you, as a user, use the websites so that we can analyse search and usage behaviour and be able to provide you with personalised content. Personal data may also be processed indirectly in connection with the development and administration of Yubico's IT systems.
+      3. Legal ground: (i) performance of a contract where you request services/resources through the websites and (ii) legitimate interest for other processing activities, such as for the purpose of improving services and the content of the websites as well as for prevention of abuse and statistical purposes. In case your consent is required for any of the above purposes, we will obtain such consent before we process your personal data for such purpose (if you withdraw the consent, that will not affect the lawfulness of processing based on consent before its withdrawal). See also our [Cookie Notice](https://web.archive.org/support/terms-conditions/cookie-notice/).
+      4. We delete collected personal data when the purpose of the processing has been completed. Our Cookie Notice includes retention periods in respect of cookies that we use.
+    3. **Customer buying our products online or such potential customers**
+      1. When you are a customer buying products online, or a potential customer inquiring about our products and services, we may process information you have volunteered, such as name, home and/or delivery address, telephone number, e-mail address, payment information, historical order information and product you bought. When you buy, or inquire about, our products online via our Website, we also collect the information specified in Section 2.2.
+      2. Legal ground: (i) performance of a contract and legal obligation where you have bought a product online and (ii) legitimate interest for other processing activities, such as for the purpose of improving services and the content of the websites as well as for statistical purposes. In case your consent is required for any of the above purposes, we will obtain such consent before we process your personal data for such purpose (if you withdraw the consent, that will not affect the lawfulness of processing based on consent before its withdrawal). See also our [Cookie Notice](https://web.archive.org/support/terms-conditions/cookie-notice/).
+      3. We delete collected personal data when the purpose of the processing has been completed. Some of this information is retained for the duration required by applicable bookkeeping legislation.
+    4. **Registered users of our services and products**
+      1. We collect personal data such as name, address, phone number, e-mail address, payment information, designation  and other information which you voluntarily provide. When you use our services via our Website, we also collect the information specified in Section 2.2. We use the information collected to provide you with the services/products, to respond to your requests and handle support cases regarding products and services, to improve the support/services and to develop anonymous usage statistics.
+      2. Legal ground: (i) performance of a contract where you request services/resources through the website and (ii) legitimate interest for other processing activities, such as for the purpose of improving the services, support and content of the websites as well as for statistical purposes. In case your consent is required for any of the above purposes, we will obtain such consent before we process your personal data for such purpose (if you withdraw the consent, that will not affect the lawfulness of processing based on consent before its withdrawal). See also our [Cookie Notice](https://web.archive.org/support/terms-conditions/cookie-notice/).
+      3. We delete collected personal data when the purpose of the processing has been completed.
+  3. **Security for the protection of personal data**
 
-  * We don’t ask you for personal information unless we truly need it.
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the ongoing operation of one of our services.
-  * In our products and services, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+We protect your personal data against unauthorised or unlawful processing and against accidental loss, destruction or damage, by implementing appropriate technical and organizational security measures.
+
+  4. **Restrictions on the Disclosure of Personal Data**
+    1. We may appoint external partners to perform tasks on our behalf, such as providing IT services or helping with marketing and recruitment, administration of press releases, data analysis or statistics. The performance of these services may mean that our partners, both within and outside the EU/EEA, are able to gain access to your personal data. Companies that process personal data on our behalf must always sign an agreement with us so that we are able to ensure a high level of protection of your personal data even with our partners.
+    2. Special safeguards are taken with regard to partners outside the EU/EEA, such as signing agreements that include the standardized model clauses for data transfers adopted by the EU Commission and which are available on the EU Commission's website.
+    3. We may also disclose your personal data to third parties, for example the police or other public authorities, if it concerns criminal investigations or if we are otherwise required to disclose such data by law or public authority decision. We will not disclose your personal data to any extent other than described in this section.
+  5. **Your Rights and the Right to File a Complaint**
+
+Under applicable data protection legislation you are entitled, at any time, to request access to the personal data that is processed about you, to have erroneous personal data corrected, to request that we shall stop processing and delete your personal data, to request that the processing of your personal data is restricted, to exercise your right to data portability, to withdraw consent to particular processing (where such consent has been obtained) and to object to the processing of your personal data. In such event, contact Yubico via the contact details listed below. You are also entitled, at any time, to file a complaint with the relevant supervisory authority, the Swedish Data Protection Authority, if you consider that your personal data has been processed in contravention of applicable data protection legislation.
+
+  6. **Data Controller and Contact Details**
+    1. **Data Controller**
+
+Below we indicate which Yubico company that is the data controller in respect of the different processing activities covered by this Privacy Notice:
+
+Websites and social media: The Yubico Group company that provides the specific website, social media profile/page or the service is the data controller. Where applicable, other legal entities within the Yubico group may furthermore be data controllers for personal data processing in accordance with the terms of the respective service or function.
+
+Customers buying our products online: The Yubico Group company that has entered into an agreement with the customer buying product online is the data controller.
+
+Registered users of our services and products: The Yubico Group company that provides the specific service and products is the data controller.
+
+    2. **Contact Details**
+
+If you have any questions on how we process your personal data or want information about further contact details for the data controllers above, please contact us through [our website](https://support.yubico.com/support/tickets/new) or post.
+
+Yubico AB Olof Palmes gata 11 111 37 Stockholm Sweden
+
+  7. **External Links**
+
+Our websites may sometimes contain links to external websites or services that we do not control. If you follow a link to an external website, you are encouraged to review the principles for processing of personal data and information about cookies that apply to the website or service in question.
+
+  8. **Changes to the Privacy Notice**
+
+Occasionally we may, in our discretion, make changes to this Privacy Notice e.g. by making new versions available on our website or provide you with prominent notice as appropriate under the circumstances. You are encouraged to therefore visit our website from time to time to learn of any updates and make sure you read any such notice carefully.
 
 
 
-Following is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data, please [contact us](https://web.archive.org/support/contact). Yubico AB (“Yubico”) operates several websites including [yubico.com](https://www.yubico.com/), [developers.yubico.com](https://developers.yubico.com/), [demo.yubico.com](https://demo.yubico.com/), and [forum.yubico.com](http://forum.yubico.com/). Yubico also offers access to its services through the [YubiKey for Salesforce App](https://web.archive.org/applications/salesforce/), the [YubiCloud validation servers](https://web.archive.org/products/services-software/yubicloud/), and other channels. It is Yubico’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-## WEBSITE VISITORS AND APP USERS
-
-Like most website operators and App providers, Yubico collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Yubico’s purpose in collecting non-personally identifying information is to better understand how Yubico’s visitors use its website. From time to time, Yubico may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Yubico also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on [forum.yubico.com](http://forum.yubico.com/). Yubico only discloses logged-in-user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
-
-## GATHERING OF PERSONALLY-IDENTIFYING INFORMATION
-
-Certain visitors to Yubico’s websites and users of Yubico’s Apps choose to interact with Yubico in ways that require Yubico to gather personally-identifying information. The amount and type of information that Yubico gathers depends on the nature of the interaction. For example, we ask visitors who sign up for the Yubico forum to provide a username and email address. Those who engage in transactions with Yubico – for example, by purchasing products at Yubico web store at [yubico.com/store](https://web.archive.org/store/ "Store") – are asked to provide additional information, including such necessary personal and financial information required to process those transactions. In each case, Yubico collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Yubico. Yubico does not disclose personally-identifying information other than as described in the following sections. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities, such as purchasing products.
-
-## AGGREGATED STATISTICS
-
-Yubico may collect statistics about the behavior of visitors to its websites. For instance, Yubico may monitor the most popular Yubico products and services to help identify use and improvements. Yubico may display this information publicly or provide it to others. However, Yubico does not disclose personally-identifying information other than as described in the following sections.
-
-## PROTECTION OF CERTAIN PERSONALLY-IDENTIFYING INFORMATION
-
-Yubico discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on Yubico’s behalf or to provide services available at Yubico’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Yubico’s websites, you consent to the transfer of such information to them. Yubico will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Yubico discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Yubico believes in good faith that disclosure is reasonably necessary to protect the property or rights of Yubico, third parties or the public at large. Please be advised disclosures can be made to businesses and organizations outside of the EU and EES area. If you are a registered user of a Yubico website and have supplied your email address, Yubico may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Yubico and our products. We primarily use our websites to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish the request in order to help us clarify or respond to your request or to help us support other users, for example in our FAQ. Yubico takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
-
-## COOKIES
-
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Yubico uses cookies to help Yubico identify and track visitors, their usage of Yubico website, their website access preferences, and their purchase activities. Cookies that may be stored on a visitor’s computer include those from WordPress (content management system), WooCommerce (e-commerce management system), Vimeo (video hosting service), phpBB (forum software), and Google Analytics (see the following paragraph). Yubico visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Yubico’s websites, with the drawback that certain features of Yubico’s websites may not function properly without the aid of cookies.
-
-Yubico’s websites use Google Analytics, a widely-used cloud-based site statistics and analytics program. Yubico has enabled a feature called Demographics and Interest Reporting which gives us broad trend information, but we do not receive any personally-identifying information from Google Analytics. Google Analytics may place cookies on your site in order to gather trend information. You can opt out of Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
-
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Yubico and does not cover the use of cookies by any advertisers.
-
-## BUSINESS TRANSFERS
-
-If Yubico, or substantially all of its assets were acquired, or in the unlikely event that Yubico goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Yubico may continue to use your personal information as set forth in this policy.
-
-## PRIVACY POLICY CHANGES
-
-Although most changes are likely to be minor, Yubico may change its Privacy Policy from time to time, and in Yubico’s sole discretion. Yubico encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-(This Privacy Policy is adopted from Akismet.com TOS, available under a Creative Commons Sharealike license.)
+_Last updated: May 25th, 2018_
