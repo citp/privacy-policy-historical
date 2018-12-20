@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626045348id_/https%3A//www.foresee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220175442id_/https%3A//www.foresee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForeSee
 
@@ -147,7 +147,7 @@ Ann Arbor, MI 48105
 
 This Privacy Statement covers the website [www.foresee.com](https://www.foresee.com/), all ForeSee-hosted surveys, including the collection of Personal Data about ForeSee’s Clients and ForeSee’s Clients’ customers and website and mobile website visitors.
 
-If you have questions or complaints regarding our Privacy Statement or practices, please contact us at [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com). This email is directed to our legal department and Chief Privacy Officer (Cara Edwards, Vice President and General Counsel). If you are not satisfied with our response and have a complaint about our privacy practices, you can contact your local Data Protection Authority.
+If you have questions or complaints regarding our Privacy Statement or practices, please contact us at [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com). This email is directed to our legal department and Chief Privacy Officer (Tamika A. Bryant-Cromer, Vice President and General Counsel). If you are not satisfied with our response and have a complaint about our privacy practices, you can contact your local Data Protection Authority.
 
 ForeSee may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. ForeSee may be liable for passing Personal Data on to third-parties (an “onward transfer”) that do not adhere to the protections mandated by the EU and Switzerland.
 
