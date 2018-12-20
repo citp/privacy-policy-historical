@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syncios.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520193600id_/http%3A//www.syncios.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncios.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220221307id_/http%3A//www.syncios.com/privacy.html) for the most accurate reproduction.*
 
 # SynciOS Privacy Policy.
 
@@ -24,7 +24,7 @@ PayPal is the safer, easier way to pay and get paid online that has been in oper
 
 **SWREG**
 
-SWREG offers merchant accounts, a paypal alternative, affordable ecommerce, payment processing, ecommerce solution, and an online software store with the ability to sell shareware. SWREG offers numerous customer payment options including: Visa, MasterCard, American Express, Discover, JCB, Switch, Solo, Paypal, US Check, UK Cheque, International Money Order, EFT, ACH, BACS, Wire Transfer, Credit Card by Phone or Fax with 16 toll-free international numbers. [Read the Privacy Policy of SWREG](http://www.swreg.org/privacy.htm)
+SWREG offers merchant accounts, a paypal alternative, affordable ecommerce, payment processing, ecommerce solution, and an online software store with the ability to sell shareware. SWREG offers numerous customer payment options including: Visa, MasterCard, American Express, Discover, JCB, Switch, Solo, Paypal, US Check, UK Cheque, International Money Order, EFT, ACH, BACS, Wire Transfer, Credit Card by Phone or Fax with 16 toll-free international numbers. [Read the Privacy Policy of SWREG](https://cs.mycommerce.com/privacy-policy/swreg)
 
 ## About cookies
 
