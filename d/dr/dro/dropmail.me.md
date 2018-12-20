@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropmail.me privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502212721id_/https%3A//dropmail.me/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropmail.me privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220043109id_/https%3A//dropmail.me/privacypolicy.html) for the most accurate reproduction.*
 
 # DropMail.me Privacy Policy
 
