@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traackr.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602082603id_/http%3A//www.traackr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traackr.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220023631id_/http%3A//www.traackr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,9 +55,9 @@ With regard to each of your visits to our website we will automatically collect,
 
 ###### **3.3 Information** **we collect from other sources.**
 
-We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). 
+We are working closely with, and receive Personal Data from, third parties (such as business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies). For further details about these other sources please contact us using the details provided below.
 
-##### **4\. COOKIES**
+#####  **4\. COOKIES**
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our website. 
 
@@ -191,4 +191,4 @@ Any changes we make to our privacy notice in the future will be posted to this s
 
 Questions, comments and requests regarding this privacy notice are welcomed and should be addressed to our compliance team using the following email address: [support@traackr.com](mailto:support@traackr.com).
 
-Effective as of May 25, 2018. Last updated on May 24, 2018.
+Effective as of May 25, 2018. Last updated on July 10, 2018.
