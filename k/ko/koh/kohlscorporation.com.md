@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kohlscorporation.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203150324id_/http%3A//www.kohls.com/catalog/common/content.jsp%3FpageName%3Dsecurityprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohlscorporation.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220175633id_/http%3A//www.kohls.com/catalog/common/content.jsp%3FpageName%3Dsecurityprivacy) for the most accurate reproduction.*
 
 # Kohl's
 
