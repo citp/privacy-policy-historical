@@ -1,128 +1,171 @@
-> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206233305id_/http%3A//www.vocativ.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220180952id_/https%3A//www.vocativ.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy - Vocativ
 
-**Vocativ**
+### 1\. Privacy Policy
 
-Privacy Policy
+This Website is operated by vocativ, LLC. As used in this Privacy Policy, the terms "vocativ", "we", "us" and "our" refer to vocativ and all entities it controls, is controlled by or is under common control with, including parents, affiliates, subsidiaries, joint ventures and subsidiaries, which under this Privacy Notice may act as a Controller of your personal information, namely deciding how and why your personal information is being processed.
 
-Vocativ, LLC (the “ **Company** ”, “ **we** ”, “ **our** ” or “ **us** ”), respects your privacy. This privacy policy (the “ **Policy** “) explains our privacy practices in providing you with Vocativ, our distinctive news website that offers original and compelling stories using unique software to uncover trends, news leads and sources (“ **Vocativ** ”).
+This Privacy Policy (together with our [Terms of Use](https://web.archive.org/pages/terms-use/), [Cookie Policy](https://web.archive.org/pages/cookie-policy/), and any other documents referred to in this Privacy Policy) describes how we collect, receive, use, transfer or otherwise process information (which may include personal information) we collect from you, or that you provide to us, through our website (the "Website"). Please read this Privacy Policy carefully to understand how we will treat your information.
 
-The Policy describes the ways we collect and use your personal information on Vocativ and the rights and options available to you with respect to your information.
+Some of the vocativ Companies are located outside the USA as well as outside of the European Economic Area. If you would like a list of relevant entities including locations, please send an email to info@vocativ.com.
 
-This policy is incorporated by reference to Vocativ’s [Terms of Use](http://www.vocativ.com/terms-use/) (the “ **Terms** “), and constitutes an integral part of them.
+For purposes of European data protection laws, the controller responsible for the described data collection and processing is vocative, LLC, 462 FASHION AVE NEW YORK, NEW YORK.
 
-**Personal information that you provide**
+_BY VISITING THIS WEBSITE, YOU ARE ACCEPTING AND ASSENTING TO THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY (AS UPDATED OR AMENDED FROM TIME TO TIME) AND OUR TERMS OF USE. IF, FOR ANY REASON, YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE STOP USING THE WEBSITE IMMEDIATELY._
 
-Registration is not mandatory for using Vocativ. However, certain features on Vocativ are only available to registered users.
+### 2\. Scope
 
-When you register to Vocativ, we will ask you to provide certain personal details, such as your e-mail address, nickname of your choice and an optional profile image. Bear in mind that false, incorrect, or outdated information may impair our ability to provide you with Vocativ and contact you when necessary. We will explicitly indicate the fields for mandatory completion. If you do not enter the requisite information in these fields, you may not be able to register to Vocativ.
+This Privacy Policy applies to all the personal information processed about you when you interact with us through our website, or other forms of communication. You may provide us with your information in a number of ways, including:
 
-When you engage in certain activities on Vocativ and when you submit a request or inquiry to us, you may be asked to provide additional personal details, depending on the activity, request or inquiry.
-
-##### Personal Information that we collect
-
-We may collect further information when you access Vocativ. For example, we may record the frequency and scope of your use of Vocativ, the webpages that you have visited, clicked or interacted with on Vocativ, the content you have viewed, the Internet protocol (IP) address from which you have accessed Vocativ and the browser you use, its version and language (i.e. locale) preferences.
-
-You may choose to connect and sign-in to your social network account via Vocativ, to perform social-network actions such as “like” or “share”, with respect to content available on Vocativ. For this purpose, we will collect your social network account identifier (but not your password). The social network’s use of information related to such actions that you take, is governed by that social network’s privacy policy and controlled by the social network, not by this Policy or the Company.
-
-Further information may be collected when we exchange communications with you, for example, when you submit a request to Vocativ’s user support.
-
-**Children’s privacy**
-
-We do not intentionally or knowingly collect personal information of children who are under 13 years of age. Children may not register or use Vocativ.
-
-**How we use your personal information**
-
-We may use your personal information for the following purposes:
-
-  * To enable you to use, and provide you with, Vocativ, its features and functionalities;
-  * To improve and customize your experience on Vocativ, the experience of other users of Vocativ and to develop new services;
-  * To provide you with support, handle complaints and contact you when we believe it to be necessary;
-  * To send you our periodic newsletter, as well as updates, notices and announcements related to Vocativ;
-  * To provide you with marketing and advertising material, subject to your prior indication of consent;
-  * To conduct surveys and questionnaires;
-  * To enforce the Terms and this Policy and prevent fraud, misappropriation, infringements, identity theft and other unalwful activities and misuse of Vocativ; 
-    * To comply with any applicable law and assist law enforcement agencies and competent authorities, when we have a good faith belief that our cooperation with them meets the applicable legal standards; and
-  * To take any action in any case of dispute involving you, with respect, or in relation to Vocativ. ****
+  * completing forms on the Website (such as "Contact Us" forms);
+  * corresponding with us by e-mail, phone or otherwise;
+  * reporting a problem or requesting support for the Website;
+  * communicating with us through third-party social media websites or applications (Please see Social Media Policy for further information); and
+  * participating in our contests, promotions, sweepstakes, surveys or live voting features on the Website.
 
 
 
-**Sharing information with others**
+The information you give us may include your name, address, e-mail address, phone number, and social media account details (such as Facebook and Twitter).
 
-We do not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes.  We may share personally identifiable information with others in any of the following instances:
+### 3\. Information we may collect about you.
 
-  * Your personal information may be shared with our partners, affiliates, service providers and subcontractors in order to operate, maintain and enhance Vocativ, facilitate your use of Vocativ and its features and functionalities, and for the other purposes described in the section titled “How we use your personal information”;
-  * Your Vocativ account profile image (if uploaded), your Vocativ account nickname and the text of your comment may be publicly posted on Vocativ whenever you submit a user-comment to a news-piece on Vocativ. These may be accessible to, and viewed by, all Internet users, not just Vocativ users;
-  * If we reasonably believe that you have breached the Terms, or abused your rights to use Vocativ, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information, in these cases, with law enforcement and other competent authorities, and with any third party, as may be required to handle any result of your wrongdoing;
-  * If we are required, or reasonably believe that we are required, by law, to share or disclose your information;
-  * In any case of dispute, or legal proceeding of any kind, involving you, with respect, or in relation to Vocativ;
-  * In any case we reasonably believe that sharing your information is necessary to prevent imminent bodily harm or damage to property;
-  * If we organize the operation of Vocativ within a different framework, or through another legal structure or entity, or if we are acquired by, or merged into or with another entity, provided however, that those entities agree to be bounded by the provisions of this Policy, with reasonably necessary changes taken into consideration; and
-  * We may also share personally identifiable information with our subsidiaries, sister-companies and parent companies, but their use of such information must comply with this Policy.
+We may process several types of personal information about you depending on your capacity as e.g. a consumer, costumer or business partner, and the ways in which you interact with us.
+
+If you choose not to provide us with your personal information, please understand that we might not be able to provide you with the requested product, service, solution or respond to some of your requests.
+
+### 3.1 Information you provide to us
+
+  * Contact information (name, address, email, telephone etc.);
+  * General Business information such as address, contact person, invoicing and other payment information, delivery information.;
+  * Reviews, feedback, comments;
+  * Audiovisual information, such as pictures or video;
+  * Recruitment data: CV, application forms, letters of recommendation, languages, qualification, certifications, trainings, and other professional licenses, etc.;
+  * Talent management information, such as employment and education history, other details included in the CVs; professional qualifications and experience, performance and development programs and reviews and career development plans, etc.
 
 
 
-In any case other than the above, we will share your personally identifiable information with others only if we receive your explicit prior consent.
+### 3.2 Information we automatically collect about you
 
-**Aggregated information**
+  * With regard to each of your visits to our Website, we may automatically collect the following behavioral and usage information:
+  * technical information, including IP address, browser type and version, time zone setting, browser plug-in types and versions, operating system, platform, unique device identifiers and mobile network information;
+  * information about your visit, including the full URL clickstream to, through and from our Website (including date and time);
+  * information about your network, such as information about devices, nodes, configurations, connection speeds, and network and application performance;
+  * Cookies preferences search information providers) and may receive information about you from them.
 
-We may collect anonymous and aggregated information through Vocativ. We may, at the our sole discretion, use such information, in any way, including posting, disseminating, transmitting or otherwise communicating or making it available to any third party, for any purpose, including commercial purposes.
 
-**Choice**
 
-In certain cases, when we ask for your personally identifiable information, we provide you with an opportunity to opt-out of having it used for certain purposes.
+### 4\. Why we collect your personal information
 
-For instance, if you no longer wish to receive our newsletter, you may opt-out of receiving it by changing your account preferences on Vocativ, or by following the instructions included at the bottom of each newsletter emailed to you.
+Depending on who you are, we may collect personal information for different purposes.
 
-You may choose whether to opt-in to receive marketing and advertising material from us by email.
+  * Website Users: ensure that content from our Website is presented in the most effective manner for you and for your computer;
+  * Services: Your information may be required in order to provide you with the requested goods or services or to fulfil other purposes which you have requested from us.
+  * Support: Providing you with customer support, responding to your questions or queries, to maintain account security and for other website or app maintenance reasons.
+  * Marketing: To facilitate direct marketing, and website analysis.
+  * Legal: Performance and execution of contracts, comply with legal and regulatory requirements.
 
-You also have the option of leaving your Vocativ account profile image blank or changing it to a blank image at any time after you have registered.
 
-You control what social network actions to take (if any) via Vocativ. You may disconnect from your social network account through every Vocativ webpage.
 
-### **Accessing your personal information   **
+### 5\. Why do we need your information?
 
-You may access your account profile on Vocativ at any time, and review your profile information. If you find that the information in your account is not accurate, complete or updated, then you must correct it. Please keep in mind that false, incorrect, or outdated information may prevent you from registering with Vocativ and impair our ability to provide you with Vocativ.
+Under Article 6(1) of the GDPR, we are only permitted to process your data if there is a legal basis to do so. A legal basis for processing your data will arise when one or more of the following conditions apply:
 
-### **Deleting your account   **
+  * You have provided your consent to the processing, when required according to applicable data protection laws;
+  * The processing is necessary for the facilitation of the performance of our contractual obligations arising from your employment contract;
+  * In compliance with applicable legal applicable obligations;
+  * The processing is necessary for the purposes of the legitimate interests pursued by vocativ or by a third party, except where your interests or fundamental rights and freedoms which require protection of personal data override such interests;
+  * The processing is necessary for the protection of vital interests of any natural person.
 
-You may request the deletion of your account on Vocativ by contacting our support team at: [support@vocativ.com](mailto:support@vocativ.com). Once we complete processing your request, your Vocativ account and the account information you provided during registration, will be removed from our servers. When processing your request, we may require that you provide us with additional information to verify your identity.
 
-Be advised that deleting your account on Vocativ will not remove Vocativ comments that you have posted (or your nickname and account profile image, which appear next to the commenting text). These may still be accessible to, and viewed by, all Internet users, as well as Vocativ users.
 
-**Data retention**
+### 6\. How long we keep your information
 
-We retain personally identifiable information as long as we deem necessary for our business needs. We may delete your personally identifiable information from our systems, without notice to you, once we deem it is no longer necessary for our business needs.
+We retain your personal information as long as it is necessary to fulfil the specific purposes, as explained under the section “Why we collect your personal information”. In specific cases, a longer retention of your personal information might be required according to legal obligations.
 
-**Transfer of data outside your territory**
+In all other cases, we delete your personal information once the purpose of processing your information has been fulfilled.
 
-Vocativ, by its nature as an online service, may store and process information in various sites throughout the globe. If you are a resident in a jurisdiction, where transfer of your personal information to another jurisdiction requires your consent, then you provide us your express and unambiguous consent to such transfer.
+### 7\. Third Party and Online Links to Other Sites
 
-**Cookies**
+This Privacy Notice applies only to vocativ and its products or services and not to other websites or applications operated by third parties.
 
-We may use cookies on Vocativ. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers.
+We do not integrate any social media plugins directly into our website. Therefore, your data will only be transferred to the extent that we additionally inform you on our [Cookie Policy](https://web.archive.org/pages/cookie-policy/). Our website may contain links to social media, video content platform such as JW Player or other third-party sites or applications.
 
-The cookies may contain a variety of information, such as information relating your Vocativ account log-in session and your user-comments.
+We recommend that you review the privacy policy of any third-party sites or links you may choose to visit for further information.
 
-We may use cookies for various purposes, such as to save you the need to re-enter your Vocativ account login details, to facilitate the use of Vocativ and to create a more personalized user experience.
+Please check our [Social Media Policy](https://web.archive.org/pages/social-privacy/) for further information.
 
-These cookies are saved on your computer’s hard drive. If you wish to block Vocativ’s cookies, refer to the help menu in your browser and follow the instructions there. However, bear in mind that disabling cookies may complicate or even prevent you from accessing or using Vocativ, or certain features thereof.
+### 8\. Cookies
 
-**Information security**
+When you visit our websites or in our digital platforms in general, cookies might be stored on your devices within the web browser. Cookies are small text files that can store information for a certain period and identify your device.
 
-We implement some measures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information.
+Please review our [Cookie Policy](https://web.archive.org/pages/cookie-policy/) and learn more on how we use cookies.
 
-However, these measures are unable to provide complete information security. Therefore, we cannot guarantee and you cannot reasonably expect that Vocativ and its servers will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse, or that your private communications on or through Vocativ will remain absolutely private. ****
+### 9\. Data Security
 
-**Changes to this Privacy Policy**
+We take reasonable steps to implement appropriate technical and organizational measures to protect your personal information. These measures follow applicable data protection and data security laws and are in place to prevent any risks, such as accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to your personal information.
 
-We may, from time to time, change this Policy. Substantial changes will take effect 30 days after we have posted an initial notification on Vocativ, with respect to such changes. Other changes will take effect 7 days after their initial posting on Vocativ, unless we amend the Policy to comply with legal requirements. In such cases the amendments will become effective immediately upon their initial posting, or as required.
+### 10\. Sharing your data with third parties
 
-You agree to be bound by all changes made in this Policy. Your continued use of Vocativ after the amended policy has become effective, will indicate your acceptance of the amended policy. If you do not agree with the amended policy, you must avoid any further use of Vocativ.
+We do not share your personal information with third parties except in specific cases, where an appropriate legal basis exists. We may disclose your personal information to:
 
-**Contact us**
+  1. vocativ affiliates. Vocativ as an international corporation might share your personal information with its several vocativ affiliates.
+  2. External service providers, such as consultants, advisors and auditors. We may also share your data with trusted service providers who support us in providing you with services such as IT services, marketing, finance, advertising, archiving and document storage.
+  3. Business partners
+  4. Public or governmental authorities as required by applicable laws and regulations.
 
-You may send us requests, responses, questions and complaints through the channels listed at [vocativ.com/contacts/](http://www.vocativ.com/contacts/). We will make efforts to address your inquiry quickly. ****
 
-**Updated: October 20, 2013.**
+
+Where required by law, the appropriate data processing agreements have been concluded with these third parties.
+
+### 11\. Social Media
+
+The Website may offer the option to share content items on external sites, services and/or social networks as offered to you, and supported, by your browser.
+
+Your use of such sharing will also enable the sharing of information with your contacts or the public, depending on the settings you establish with the entity through which you choose to share. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit our [Social Media Policy](https://web.archive.org/pages/social-privacy/) and the privacy policies of the entities through which you choose to share.
+
+### 12\. Data transfers outside the European Union
+
+In some cases, we may transfer personal data to our affiliates, service providers or partners to third countries outside the EU. Specifically, the information and personal information that we collect from you may be transferred to, and stored at, a destination in or outside the European Union (“EU”)/European Economic Area (“EEA”), including the United States.
+
+By submitting your information and personal information and using our Website, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this Privacy Policy.
+
+### 13\. Children
+
+We do not intentionally or knowingly process personal information of children under the age of 16 or as otherwise defined by applicable laws.
+
+If you are under the age of 16, talk to your parents or legal guardians and obtain their consent before sharing your personal information with us.
+
+If you are a parent or legal guardian of a child under the age of 16, we ask that you supervise your children's use of our products or services (including websites and other digital platforms) and make sure that your children do not and will not share any personal information with us without asking your permission.
+
+### 14\. Your Rights
+
+Whenever we process personal information, you have certain rights that the GDPR stipulates and that we take very seriously. Regarding every processing of your personal data, you may rely on the following rights:
+
+  1. Right of access (Art. 15 GDPR):  
+You have the right to obtain confirmation as to whether or not personal data concerning you is being processed, and, where that is the case access to the personal data and the information specified in Art. 15 GDPR.
+  2. Right to rectification and erasure (Art. 16 and 17 GDPR): You have the right to obtain without undue delay the rectification of inaccurate personal data concerning you and, if necessary, the right to have incomplete personal data completed.  
+You also have the right to obtain an erasure of the personal data concerning you without undue delay, if one of the reasons listed in Art. 17 GDPR applies, e.g. if the data is no longer necessary for the intended purpose.
+  3. Right to restriction of processing (Art. 18 GDPR): If one of the conditions set forth in Art. 18 GDPR applies, you shall have the right to restrict the processing of your data to mere storage, e.g. if you revoke consent, to the processing, for the duration of a possible examination.
+  4. Right to data portability (Art. 20 GDPR):  
+In certain situations, listed in Art. 20 GDPR, you have the right to receive the personal data concerning you in a structured, common and machine-readable format or demand a transmission of the data to another third party.
+  5. Right to object (Art. 21 GDPR): _If the data is processed pursuant to Art. 6 para. 1 lit. f GDPR (data processing for the purposes of the legitimate interests), you have the right to object to the processing at any time for reasons arising out of your particular situation. We will then no longer process your personal data, unless there are demonstrably compelling legitimate grounds for processing, which override the interests, rights and freedoms of the person concerned, or the processing serves the purpose of asserting, exercising or defending legal claims._
+  6. Right to lodge a complaint with a supervisory authority Pursuant to Art. 77 GDPR, you have the right to lodge a complaint with a supervisory authority if you consider the processing of the data concerning you infringes data protection regulations. The right to lodge a complaint may be invoked in particular in the Member State of your habitual residence, place of work or the place of the alleged infringement.
+
+
+
+You may exercise these rights by contacting us directly. All questions or requests regarding personal data should be sent to:  
+vocative, LLC  
+Address: 462 FASHION AVE, NEW YORK, NEW YORK  
+Telephone number: +1 212-201-3640  
+E-mail: info@vocativ.com
+
+You may also contact our data protection officer at: FIRST PRIVACY GmbH  
+Konsul-Smidt-Straße 88  
+28217 Bremen  
+Germany  
+E-Mail: office@first-privacy.com
+
+### 15\. Changes to our Privacy Policy
+
+Any updates or changes we may make to our Privacy Policy will be posted on this page. Please check back frequently to see any updates or changes to our Privacy Policy.
