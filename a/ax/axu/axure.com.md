@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axure.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609030549id_/https%3A//www.axure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axure.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220135713id_/https%3A//www.axure.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Axure
 
