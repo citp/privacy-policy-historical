@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ufreegames.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625212749id_/http%3A//www.ufreegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufreegames.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220112207id_/http%3A//www.ufreegames.com/privacy.html) for the most accurate reproduction.*
 
-# Play Best Free Online Games On uFreeGames.Com
+# Play Best Games Online For Free On uFreeGames.Com!
 
 PRIVACY / TERMS OF SERVICE
 
