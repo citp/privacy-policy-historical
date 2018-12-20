@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsitecontrol.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626172004id_/https%3A//getsitecontrol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsitecontrol.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172508id_/https%3A//getsitecontrol.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GetSiteControl
 
@@ -101,5 +101,4 @@ If you have any questions or concerns about this Privacy Policy, please feel fre
 
 [contact@getsitecontrol.com](mailto:contact@getsitecontrol.com)  
 Klimentos 41-43, Klimentos Tower, Flat/Office 25, 1061, Nicosia, Cyprus  
-+13152819981  
 
