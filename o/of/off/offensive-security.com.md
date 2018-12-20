@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the offensive-security.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628211245id_/https%3A//www.offensive-security.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offensive-security.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220095618id_/https%3A//www.offensive-security.com/privacy-policy) for the most accurate reproduction.*
 
 # Offensive Security Privacy Policy
 
-Last Updated May 23, 2018
+Last Updated September 26, 2018
 
 Offsec Services Limited, a Gibraltar company along with its affiliates and individual contractors (“Offensive Security”), is a company that teaches ethical penetration testing methodologies and the use of the tools included within the Kali Linux distribution, among other tools.  Our products and services (“ **Services** ”) include various course offerings and technical certifications, including but not limited to “Penetration Testing with Kali Linux -(PWK)”, “Wireless Attacks -(WiFu)”, “Cracking the Perimeter -(CTP)”, “Advanced Windows Exploitation – (AWE)”, “Advanced Web Attacks and Exploitation –(AWAE)”, and any other courses as advertised on Offensive Security’s Websites (as defined below) and offered to students who obtain our Services (“ **Students** ”).
 
@@ -71,13 +71,10 @@ For information on your rights under the applicable European Union (“ **EU** �
 
 We may share your Personal Data and other information with certain third parties in the following circumstances:
 
-  * **Publication of Personal Data in connection with Certifications:** When a Student passes an examination and obtains a certification, we may publish certain Personal Data of the Student on a publicly available website so that anyone from the public can confirm the Student obtained the certification(s).  We allow the public to search by a name (using modified fuzzy logic) or by an Offensive Security ID (OSID), but we display only the Student’s name, OSID, and course information and certificate information, including course(s) taken, course(s) and examination(s) status, certificates received, and associated dates.  We do not publish the fact that a Student failed an exam, although that Student’s name would not be published if a member of the public were to search for that Student and the Student had failed an examination.
+  * **Publication of Personal Data in connection with Certifications:** When a Student passes an examination and obtains a certification, we may publish certain Personal Data of the Student on a publicly available website so that anyone from the public can confirm the Student obtained the certification(s). We allow the public to search by a name (using modified fuzzy logic) or by an Offensive Security ID (OSID), but we display only the Student’s name, OSID, and course information and certificate information, including course(s) taken, course(s) and examination(s) status, certificates received, and associated dates. We do not publish the fact that a Student failed an exam, although that Student’s name would not be published if a member of the public were to search for that Student and the Student had failed an examination.
 
 
-  * **Payment Vendors and Service Providers:** To assist us in meeting business operations needs and to perform certain services and functions your Personal Data may be shared with third-party providers who provide us with payment processing services.  The third-party payment processors we use include Fibonatix (<http://www.fibonatix.com/>), Solid Payments (<http://solidpayments.com/>), and SafeCharge (<https://www.safecharge.com/>).
-
-
-  * **Logistics and Shipping Vendors and Service Providers:** To assist us in mailing your certificates, we may provide your Personal Data including name, address, and phone number to shipping companies.  We use DHL (<http://www.dhl.com/en.html>).
+  * **Service Providers:** To assist us in providing products and services and to operate our business, your Personal Data may be shared with our third-party service providers. These include organizations who provide services in relation to the training we provide, marketing, infrastructure and information-technology, payment processing, logistics and shipping and professional advice.
 
 
   * **Business Transfers:** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of a service to another provider, your Personal Data and other information may be transferred to a successor or affiliate as part of that transaction.
@@ -155,7 +152,7 @@ We take reasonable administrative and technical steps to protect the Personal Da
 
 **11\. Changes To Our Privacy Policy**
 
-We may change this Privacy Policy at any time and when we do we will post an updated version on this page and push it out to you via email.  By continuing to use the Websites or the Services and providing us with information after we have posted an updated Privacy Policy you consent to the revised Privacy Policy and practices described in it.
+We may change this Privacy Policy at any time and when we do we will post an updated version on this page and, if the changes are significant, push it out to you via email.
 
 **12\. Contact Us**
 
