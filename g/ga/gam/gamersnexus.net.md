@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930184933id_/https%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220054347id_/https%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
 
 # GN Privacy & Use Policy | GamersNexus - Gaming PC Builds & Hardware Benchmarks
 
