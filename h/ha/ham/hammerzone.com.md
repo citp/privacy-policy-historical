@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammerzone.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619054346id_/http%3A//www.hammerzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammerzone.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220061333id_/http%3A//www.hammerzone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HammerZone.com
 
@@ -26,4 +26,4 @@ We recently discovered that HammerZone's web server places a "cookie" (a small i
 
 While the server may keep track of when you visited, what pages you looked at, and how long you stayed, we don't know _how_ to access the raw data. And if we could access this information, we wouldn't know _what_ to do with it. We may have enough computer knowledge to create web pages, but the topic of web browser cookies is far above our skill level. We do know that the server uses these cookies when it creates various web traffic reports, but the reports do not identify any person or organization.
 
-While you're reading all this interesting stuff, why not **[read our Disclaimer](https://web.archive.org/web/20180619054346id_/http%3A//www.hammerzone.com/disclaimer.html "HammerZone's Disclaimer of Liability")** ?
+While you're reading all this interesting stuff, why not **[read our Disclaimer](https://web.archive.org/web/20181220061333id_/http%3A//www.hammerzone.com/disclaimer.html "HammerZone's Disclaimer of Liability")** ?
