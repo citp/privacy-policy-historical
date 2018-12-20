@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628083321id_/https%3A//www.dol.gov/general/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220012428id_/https%3A//www.dol.gov/general/privacynotice) for the most accurate reproduction.*
 
-# Privacy and Security Statement | United States Department of Labor
+# Privacy and Security Statement | U.S. Department of Labor
 
 Thank you for visiting the Department of Labor (DOL or Department) website and reviewing our privacy and security statement. DOL is committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personally identifiable information (PII), DOL makes every effort to ensure compliance with applicable federal law, including, but not limited to, [The Privacy Act of 1974](http://www.justice.gov/opcl/privstat.htm), [The Paperwork Reduction Act of 1995](https://www.law.cornell.edu/uscode/text/44/chapter-35/subchapter-I), and [The Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).
 
