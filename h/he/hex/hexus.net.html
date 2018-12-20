@@ -1,678 +1,1036 @@
-<!--The following is the downloaded HTML source of the hexus.net privacy policy that was archived on 2017-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171219134920id_/http%3A//hexus.net/static/terms) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html><head>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"f970b08a5a","agent":"","transactionName":"ZlEEYhFRCBFUW0QNWV8bIEMNUxILWlYfB1tCGhBfBkcVWEZMURBfUmsWVwRV","applicationID":"8903983","errorBeacon":"bam.nr-data.net","applicationTime":59}</script>
-    <title>HEXUS.net - Terms and Conditions</title>
-    <link rel="icon" href="https://hexus.net/media/img/favicon.gif?161010020811" type="image/gif">
-    <script type="text/javascript" src="https://hexus.net/media/js/jquery-1.8.3.min.js?262509071013"></script>
-    <script type="text/javascript" src="https://hexus.net/media/js/jquery.colorbox-min.js?161010020811"></script>
-    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js" type="text/javascript" charset="utf-8"></script>
-    <script>MEDIA_URL = 'https://hexus.net/media/';COMPO_ID = '0'; IS_MOBILE_SITE=false;</script>
-    <script type="text/javascript" src="https://hexus.net/media/js/global.js?431117151013"></script>
-    
-    
-    <link rel="stylesheet" type="text/css" href="https://hexus.net/media/css/global.css?171511100516">
-    <link rel="stylesheet" type="text/css" href="https://hexus.net/media/css/colorbox.css?161010020811">
-    <!--[if lte IE 6]>
-    <link rel="stylesheet" type="text/css" href="https://hexus.net/media/css/ie6.css?183912030112" />
-    <![endif]-->
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    
-    <link href="http://hexus.net/rss/" rel="alternate" type="application/rss+xml" title="HEXUS.net RSS feed">
-    <script type="text/javascript">
-    var OA_zones = {
-    'zone-masthead' : 41,
-    'leaderboard' : 42,
-    'rect' : 43,
-    'box' : 44,
-    //'skyscraper' : 45,
-    'home_second_rect': 129
-    }
-    </script>
-    
-    
-<link rel="stylesheet" type="text/css" href="https://hexus.net/media/css/article.css?201314020913">
-
-    
-    
-        <!-- script type='text/javascript' src='http://uk.ads.hexus.net/ox/www/delivery/spcjs.php?id=7'></script -->
-        <script type="text/javascript" src="https://serve.themediateam.net/ox/www/delivery/spcjs.php?id=7"></script>
-        <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-26275264-1'],
-            ['_trackPageview'],
-            ['_trackPageLoadTime'],
-            ['b._setAccount', 'UA-27212239-1'],
-            ['b._trackPageview'],
-            ['b._trackPageLoadTime']);
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-        </script>
-    
-</head>
-<body style="background-color: #00000;">
-
-    
-    <div id="left_tabs">
-        <a href="/static/vacancies/"><img src="https://hexus.net/media/img/tabs_vacancies.png?053609080213" alt="vacancies"></a>
-        <a href="/advertise/"><img src="https://hexus.net/media/img/tabs_advertise.png?525417061211" alt="advertise"></a>
-        <a href="/contact/"><img src="https://hexus.net/media/img/tabs_contact_us.png?525417061211" alt="contact"></a>
-        <a href="/news_tip/"><img src="https://hexus.net/media/img/tabs_news_tip.png?525417061211" alt="news tip"></a>
-        <a href="/vault/"><img src="https://hexus.net/media/img/tabs_vault.png?525417061211" alt="The Vault"></a>
-    </div>
-    <div id="middle">
-    
-        
-            <div id="cookie_bar">                
-                <a href="/static/cookies/">By reading this site you agree to our cookie policy. Click to find out more. </a><a href="#" id="close_cookie_bar">[x]</a>
-            </div>
-        
-        
-        
-        <!-- div id="logo_container"><a href="/" id="logo"><img src="https://hexus.net/media/img/Hexus_Logo_trans_xmasv7.png?084217261112" alt="HEXUS logo" /></a></div -->
-        <div id="logo_container"><a href="/" id="logo"><img src="https://hexus.net/media/img/hexus_web_shadow_trans.png?402516240412" alt="HEXUS logo"></a></div>
-
-        <script type="text/javascript">
-        OA_show('zone-masthead');
-        </script>
-
-        <div id="topicons">
-            <a href="http://www.facebook.com/HEXUSnet">
-                <img src="https://hexus.net/media/img/fb.png?373013090911" alt="facebook">
-            </a>
-            <a href="/rss/">
-                <img src="https://hexus.net/media/img/rss.png?373013090911" alt="rss">
-            </a>
-            <a href="http://twitter.com/#!/HEXUSNET">
-                <img src="https://hexus.net/media/img/twit.png?373013090911" alt="twitter">
-            </a>
-        </div>
-        
-        <div id="topad">
-            <script type="text/javascript">
-            OA_show('leaderboard');
-            </script>
-        </div>
-        
-
-        
-        <nav id="nav">
-            <a href="/" class="current">HOME</a>
-        
-            <div class="separator"></div>
-            <a href="/tech/">TECH</a>
-            <div class="separator"></div>
-            <a href="/gaming/">GAMING</a>
-            <div class="separator"></div>
-            <a href="/business/">BUSINESS</a>
-            <div class="separator"></div>
-            <a href="/ce/">CONSUMER</a>
-            <div class="separator"></div>
-            <a href="/mobile/">MOBILE</a>
-            <div class="separator"></div>
-            <a href="/tv/">HEXUS.TV</a>
-            <div class="separator"></div>
-            <a href="/trust/">TRUST</a>
-            <div class="separator"></div>
-            <a href="/competitions/">COMPETITIONS</a>
-            <div class="separator"></div>
-            <a href="//forums.hexus.net/">FORUMS</a>
-            <div class="separator"></div>
-            
-            <div id="searchform">
-                <form action="/search/" method="get" name="hxsSearchForm">
-                    <input type="hidden" name="title_only" value="1">
-                    <button type="submit" value="" class="hexus_button ">SEARCH <img src="https://hexus.net/media/img/magnify.png?373013090911" alt="search"></button>
-                    <input type="text" id="search" value=" Search HEXUS" onfocus="if (this.value == ' Search HEXUS') this.value = '';" name="q">
-                </form>
-            </div>
-        </nav>
-        
-        <div class="clear"></div>
-
-        <div id="left">
-            <div class="clear"></div>
-            
-    <div class="clear"></div>
-    <div id="article">
-        <div id="articlecontent">
-           <h1>HEXUS terms &amp; privacy policy</h1>
-<h2>Terms and Conditions of Usage</h2>
-<p>Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern The Media  Limited's relationship with you in relation to this website.</p>
-
-<p>The term "The Media Team® Limited" or "us" or "we" refers to the owner of the website whose registered office is The Media Team Ltd, 17 Alban Park, St Albans, Hertfordshire, AL4 0JJ. Our company registration number is 
-09007080. The term "you" refers to the user or viewer of our website. The term "our website" or "this website" or "the website" refers to any website and its subdomains published by "The Media  Limited".</p>
-
-<p>The use of this website is subject to the following terms of use:
-
-</p><ul>
-	<li>The content of the pages of this website is for your general information and use only. It is subject to change without notice.</li>
-	<li>Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.</li>
-	<li>Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.</li>
-	<li>This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.</li>
-	<li>Unauthorised use of this website may give to a claim for damages and/or be a criminal offence.</li>
-	<li>This website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).</li>
-	<li>Your use of this website and any dispute arising out of such use of the website is subject to the laws of England and Wales.</li>
-</ul>
-
-<h2>Privacy policy</h2>
-
-<p>This privacy policy sets out how "The Media  Limited" uses and protects any information that you give "The Media  Limited" when you use this website.</p>
-
-<p>"The Media  Limited" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
-
-<p>"The Media  Limited" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20th November 2009.</p>
-
-<h3>What we collect</h3>
-
-<p>We may collect the following information from registration forms:</p>
-
-<ul>
-	<li>name and job title</li>
-	<li>contact information including email address</li>
-	<li>demographic information such as postcode, preferences and interests</li>
-	<li>other information relevant to customer surveys and/or offers</li>
-</ul>
-
-<h3>What we do with the information we gather</h3>
-
-<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
-
-<ul>
-	<li>Internal record keeping.</li>
-	<li>We may use the information to improve our products and services.</li>
-	<li>We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-	<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.</li>
-	<li>We may use the information to customise the website according to your interests.</li>
-</ul>
-
-<h3>Security</h3>
-
-<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-
-<h3>Log Files</h3>
-
-<p>As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our website, the time you visited our website and which pages you visited throughout our website.</p>
-
-<h3>How we use cookies</h3>
-
-<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
-
-<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis.</p>
-
-<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
-
-<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, most web browsers also provide the facility to delete any existing cookies. Deleting a cookie is not equivalent to declining a cookie. A deleted cookie may be recreated on the next visit to a website, unless you have configured your browser to decline them. Declining or deleting cookies may prevent you from taking full advantage of the website.</p>
-
-<h3>Third party cookies</h3>
-
-<p>"The Media  Limited" displays third party advertisements on this website. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (providing advertising material relevant to your region, country or continent) or showing certain ads based on specific sites previously visited by you.</p>
-
-<p>To find out more about our cookies and third party cookies used on the site, see our <a href="http://hexus.net/static/cookies/">dedicated cookies page</a>.</p>
-
-<h3>Links to other websites</h3>
-
-<p>Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
-
-<h3>Controlling your personal information</h3>
-
-<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
-
-<ul>
-	<li>you may modify your user profile in order to remove information you no longer want to share with us</li>
-</ul>
-
-<p>We will not sell, distribute or lease your personal information to third parties unless we are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
-
-<p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to HEXUS, 17 Alban Park, St Albans, Hertfordshire, AL4 0JJ</p>
-
-<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address or <a href="http://hexus.net/contact/">via our contact form</a>. We will promptly correct any information found to be incorrect.</p>
-
-<h3>Disclaimer</h3>
-
-<p>The information contained in this website is for general information purposes only. The information is provided by "The Media  Limited" and whilst we endeavour to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.</p>
-
-<p>In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of or in connection with the use of this website.</p>
-
-<p>Through this website you are able to link to other websites which are not under the control of "The Media  Limited". We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.</p>
-
-<p>Every effort is made to keep the website up and running smoothly. However, "The Media  Limited" takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.</p>
-
-<h3>Citation</h3>
-
-<p>Portions of this privacy policy have been adapted from a privacy policy template created by <a href="http://www.JenSense.com" rel="external">JenSense</a>.</p>
-        </div>
-    </div>
-
-        </div>
-        
-            <div id="right">
-            
-                <div id="myhexus">
-                    <div class="subnav">
-                        <h4 class="subnav">MY HEXUS</h4>
-                    </div>
-                    <div class="myhexus">
-                    
-                        <p>Sign in for the best HEXUS experience</p>
-                        <a class="hexus_button login_button" href="/login/">LOG IN</a> 
-                        <a class="hexus_button register_button" href="/register/">REGISTER</a>
-                    
-                    </div>
-                </div>
-                <div id="rightad1">
-                    <script type="text/javascript">
-                    OA_show('box');
-                    </script>
-                </div>
-                
-                 <div class="clear"></div>
-                
-                
-                    <div class="clear"></div>
-                    <div class="subnav newslettersubnav">
-                        <h4 id="nointelliTXT" class="subnav">HEXUS NEWSLETTER</h4>
-                    </div>
-                    <form action="/newsletters/subscribe/1/" method="post" id="newsletter_form">
-                        <input type="hidden" name="csrfmiddlewaretoken" value="fY292WeUSZ7KcNYuuUOkpCyOjhroNVwA">
-                        <input type="text" name="email" size="48" value="Enter your e-mail address" onfocus="if (this.value == 'Enter your e-mail address') this.value = '';" id="newsletter_email">
-                        <input type="submit" name="submit" value="SUBSCRIBE" id="newsletter_submit" class="hexus_button">
-                    </form>
-                    <div class="clear"></div>
-                
-
-                <br>
-
-                <style>#rightad2 {height:auto;}</style>
-                <div id="rightad2">
-                    <script type="text/javascript">
-                    OA_show('rect');
-                    </script>
-                </div>
-                
-                <div class="clear"></div>
-
-                
-                
-
-                
-                
-                    
-                        <div class="todays">
-    <div class="todaysheader">
-        <div id="mostviewed" class="todaysactive"><h4>MOST VIEWED</h4></div>
-        <div class="separator"></div>
-        <div id="mostcommented"><h4>MOST COMMENTED</h4></div>
-    </div>
-    <div id="mostviewedcontent" class="mostviewedcontent">
-        <ul>
-            
-                <li>
-                    <a href="/tech/news/graphics/113291-amd-apu-1792-stream-processors-spotted/" class="most_rank">1</a>
-                    <a href="/tech/news/graphics/113291-amd-apu-1792-stream-processors-spotted/" class="article_link">AMD APU with 1792 stream processors spotted</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383216" class="comments">13</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/news/laptop/113387-gpd-win-2-handheld-gaming-pc-details-benchmarks-released/" class="most_rank">2</a>
-                    <a href="/tech/news/laptop/113387-gpd-win-2-handheld-gaming-pc-details-benchmarks-released/" class="article_link">GPD Win 2 handheld gaming PC details and benchmarks released</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383369" class="comments">10</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/news/cpu/113186-intel-pentium-silver-cpus-introduced/" class="most_rank">3</a>
-                    <a href="/tech/news/cpu/113186-intel-pentium-silver-cpus-introduced/" class="article_link">Intel Pentium Silver CPUs introduced</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383054" class="comments">28</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/news/monitors/113189-hdr-confusion-quashed-vesa-displayhdr-standards/" class="most_rank">4</a>
-                    <a href="/tech/news/monitors/113189-hdr-confusion-quashed-vesa-displayhdr-standards/" class="article_link">HDR confusion to be quashed by VESA DisplayHDR standards</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383060" class="comments">12</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/reviews/graphics/113198-sapphire-radeon-rx-vega-64-nitro/" class="most_rank">5</a>
-                    <a href="/tech/reviews/graphics/113198-sapphire-radeon-rx-vega-64-nitro/" class="article_link">Sapphire Radeon RX Vega 64 Nitro+</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383285" class="comments">12</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-        </ul>
-    </div>
-    <div id="mostcommentedcontent" class="mostviewedcontent">
-        <ul>
-            
-                <li>
-                    <a href="/ce/features/internet/113333-qotw-how-protect-online-privacy/" class="most_rank">1</a>
-                    <a href="/ce/features/internet/113333-qotw-how-protect-online-privacy/" class="article_link">QOTW: How do you protect your online privacy?</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383303" class="comments">33</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/news/cpu/113186-intel-pentium-silver-cpus-introduced/" class="most_rank">2</a>
-                    <a href="/tech/news/cpu/113186-intel-pentium-silver-cpus-introduced/" class="article_link">Intel Pentium Silver CPUs introduced</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383054" class="comments">28</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/news/systems/113243-apple-imac-pro-released-tomorrow-priced-4999/" class="most_rank">3</a>
-                    <a href="/tech/news/systems/113243-apple-imac-pro-released-tomorrow-priced-4999/" class="article_link">Apple iMac Pro to be released tomorrow, priced from $4,999</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383129" class="comments">28</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/features/graphics/112976-day-1-win-nvidia-geforce-gtx-1070-ti/" class="most_rank">4</a>
-                    <a href="/tech/features/graphics/112976-day-1-win-nvidia-geforce-gtx-1070-ti/" class="article_link">Day 1: Win an Nvidia GeForce GTX 1070 Ti</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=382991" class="comments">20</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-                <li>
-                    <a href="/tech/features/graphics/112991-day-6-win-sapphire-radeon-rx-vega-64-nitro/" class="most_rank">5</a>
-                    <a href="/tech/features/graphics/112991-day-6-win-sapphire-radeon-rx-vega-64-nitro/" class="article_link">Day 6: Win a Sapphire Radeon RX Vega 64 Nitro+</a>
-                    
-                        <a href="https://forums.hexus.net/showthread.php?t=383315" class="comments">20</a>
-                    
-                    <div class="clear"></div>
-                </li>
-            
-        </ul>
-    </div>
-</div>
-                    
-                
-
-                <!-- old asus ad, removed on 2014-08-07 -->
-                <!--a href="http://HEXUS.net/glc/BGR/">
-                <img src="http://hexus.net/media/uploaded/2014/3/14609151-64c6-40c0-88bc-ea0d21d6eb48.jpg">
-                </a-->
-                
-                
-
-                <div id="pollandevents">
-                    <div id="events">
-                        
-                            <div class="subnav">
-    <h4 class="subnav">EVENTS</h4>
-</div>
-
-<div id="events_back">
-    <ul>
-        
-        
-            <li class="first">
-                <a href="/event/215-ifa-2017-berlin-germany/">
-                    <img src="https://hexus.net/media/uploaded/2017/9/45153a5f-3d35-4094-9350-cf5b6f2ed50a.jpg" alt="IFA 2017, Berlin, Germany">
-                </a>
-            </li>
-        
-        
-        
-            <li>
-                <a href="/event/221-e3-2017-los-angeles/">
-                    <img src="https://hexus.net/media/uploaded/2017/9/0a7fd258-ccc4-4154-b75e-32f288e67312.jpg" alt="E3 2017, Los Angeles">
-                </a>
-            </li>
-        
-        
-        
-            <li>
-                <a href="/event/211-computex-2017-taipei-taiwan/">
-                    <img src="https://hexus.net/media/uploaded/2017/6/21e6a39d-cedc-4c33-9f47-12469325b74b.jpg" alt="Computex 2017, Taipei, Taiwan">
-                </a>
-            </li>
-        
-        
-        
-            <li>
-                <a href="/event/205-mwc-2017-barcelona/">
-                    <img src="https://hexus.net/media/uploaded/2017/2/442fe503-55a0-45f3-9200-452a55118d8f.jpg" alt="MWC 2017, Barcelona">
-                </a>
-            </li>
-        
-        
-    </ul>
-
-    <form method="get" action="/events/">
-        <button class="hexus_button events_button">ALL EVENTS</button>
-    </form>
-    <div class="clear"></div>
-</div>
-
-                        
-                    </div>
-                    <div class="clear"></div>
-                    <br>
-                    
-                    <div id="poll">
-                        <div class="subnav">
-                            <h4 class="subnav">POLL</h4>
-                        </div>
-                        <div style="margin: 5px 0px 0px 0px;">
-                            <iframe style="border: 0pt none;" src="https://app.themediateam.net/poll/selected/" width="162px" height="261px" scrolling="no"></iframe>
-                        </div>
-                    </div>
-
-                </div>
-                
-                <div id="rightad3">
-                
-
-<!--/*
-  *
-  * HEXUS Ads Javascript Tag
-  * - Generated with Revive Adserver v4.0.1
-  *
-  */-->
- 
-<script type="text/javascript"><!--//<![CDATA[
-   document.MAX_ct0 = unescape('INSERT_ENCODED_CLICKURL_HERE');
- 
-   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'http://serve.themediateam.net/ox/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=45&amp;source=_blank&amp;target=_blank");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://serve.themediateam.net/ox/www/delivery/ajs.php?zoneid=45&amp;source=_blank&amp;target=_blank&amp;cb=88289590837&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20171219134920id_/http%253A//hexus.net/static/terms"></script><noscript><a href='http://serve.themediateam.net/ox/www/delivery/ck.php?n=a1fa34af&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=45&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a1fa34af&amp;ct0=INSERT_ENCODED_CLICKURL_HERE' border='0' alt='' /></a></noscript>
-                </div>
-                
-                <div class="clear"></div>
-                
-                <br>
-                
-                
-                <!--[if !IE]> -->
-                    <div class="subnav">
-                        <h4 class="subnav">FACEBOOK</h4>
-                    </div>
-                        
-                    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FHEXUSnet&amp;width=340&amp;height=250&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=false&amp;appId=116572225090919" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:340px; height:250px;margin-top:5px;margin-bottom:5px;"></iframe>
-                <!-- <![endif]-->
-                
-                
-               
-                
-                    <div class="subnav">
-    <h4 class="subnav">INDUSTRY PRESS RELEASES</h4>
-</div>
-
-<ul id="press_releases">
-
-    <li>
-        <a class="most_rank" href="/ce/items/audio-visual/113432-kitsound-voice-one-now-spotify-voice-control/" style="color: rgb(0, 0, 0);">1</a>
-        <a class="article_link" href="/ce/items/audio-visual/113432-kitsound-voice-one-now-spotify-voice-control/">KitSound Voice One now with Spotify voice control</a>
-        <div class="clear"></div>
-    </li>
-
-    <li>
-        <a class="most_rank" href="/tech/items/monitors/113429-iiyama-adds-three-new-white-models-monitor-portfolio/" style="color: rgb(0, 0, 0);">2</a>
-        <a class="article_link" href="/tech/items/monitors/113429-iiyama-adds-three-new-white-models-monitor-portfolio/">iiyama adds three new white models to its monitor portfolio</a>
-        <div class="clear"></div>
-    </li>
-
-    <li>
-        <a class="most_rank" href="/tech/items/monitors/113426-aoc-adds-three-new-monitors-mainstream-gaming-line-up/" style="color: rgb(0, 0, 0);">3</a>
-        <a class="article_link" href="/tech/items/monitors/113426-aoc-adds-three-new-monitors-mainstream-gaming-line-up/">AOC adds three new monitors to their mainstream gaming line-up</a>
-        <div class="clear"></div>
-    </li>
-
-    <li>
-        <a class="most_rank" href="/tech/items/systems/113423-inno3d-presents-new-dedicated-crypto-mining-system/" style="color: rgb(0, 0, 0);">4</a>
-        <a class="article_link" href="/tech/items/systems/113423-inno3d-presents-new-dedicated-crypto-mining-system/">INNO3D® presents new dedicated Crypto-Mining System</a>
-        <div class="clear"></div>
-    </li>
-
-    <li>
-        <a class="most_rank" href="/tech/items/storage/113417-open-e-releases-joviandss-software-update/" style="color: rgb(0, 0, 0);">5</a>
-        <a class="article_link" href="/tech/items/storage/113417-open-e-releases-joviandss-software-update/">Open-E releases JovianDSS software update</a>
-        <div class="clear"></div>
-    </li>
-
-    <li>
-        <a class="most_rank" href="/tech/items/graphics/113378-sapphire-launches-nitro-radeon-rx-vega-64-vega-56/" style="color: rgb(0, 0, 0);">6</a>
-        <a class="article_link" href="/tech/items/graphics/113378-sapphire-launches-nitro-radeon-rx-vega-64-vega-56/">SAPPHIRE launches NITRO+ Radeon RX Vega 64 and Vega 56</a>
-        <div class="clear"></div>
-    </li>
-
-</ul>
-                
-
-            </div>
-        
-        <div class="clear"></div>
-        <footer> 
-            <table style="width: 1110px;margin:10px 20px 20px 20px;">
-                <tbody><tr>
-                    <td>
-                        <h4 style="font-size:18px;">INFORMATION</h4>
-                        <p style="margin-top:12px;">
-                            
-                            <a href="/static/about/">About us</a> <br>
-                            <a href="/advertise/">Advertise</a> <br>
-                            <a href="/contact/">Contact us</a> <br>
-                            <a href="/static/competitions/">How Competitions work</a> <br>
-                            <a href="/static/how_we_test/">How we test</a> <br>
-                            <a href="/static/cookies/">About Cookies</a> <br>
-                            <a href="/static/awards/">What our awards mean</a> <br>
-                            <a href="/static/terms/">Privacy and terms of use</a> <br>
-
-                        </p>
-                        
-                    </td>
-                    <td>
-                        <h4 style="font-size:18px;">SUBSCRIPTIONS</h4>
-                        <p style="margin-top:12px;">
-                            <a href="/rss/">RSS</a> / <a href="/myhexus/alerts/">Alerts</a> / <a href="http://twitter.com/#!/HEXUSNET">Twitter</a> <br>
-                            <a href="http://www.facebook.com/HEXUSnet">Facebook</a> / <a href="/myhexus/alerts/">Newsletter</a> <br>
-                            <a href="/myhexus/email_unsubscribe/"><i>Unsubscribe</i></a> <br>
-                        </p>
-                    </td>
-                    <td>
-                        <h4 style="margin-bottom:12px;font-size:18px;"><a href="https://forums.HEXUS.net/">HEXUS Community</a></h4>
-                        
-                            <p>
-
-Members: 416,403<br>
-Forum posts: 2,599,206<br>
-Forum threads: 249,940<br>
-Currently active users: 543<br>
-</p>
-
-                        
-                    </td>
-                    <td style="text-align:right;vertical-align:bottom;width:40%;">
-                        <!-- a href="http://m.HEXUS.net/"><img src="https://hexus.net/media/img/hexus_mobile_banner.png?381217051011" alt="HEXUS Mobile Site" /></a -->
-                        <a href="https://www.themediateam.net/"><img src="https://www.themediateam.net/static/img/part_of_the_media_team.png"></a>
-                    </td>
-                </tr>
-            </tbody></table>
-        
-            <div id="footer_bottom">
-                <p id="footer_left">
-                Copyright © 1998 - 2017, HEXUS.net. All rights reserved.
-                </p>
-                <p id="footer_right">
-                HEXUS® is a registered trademark.<br>
-                </p>
-                <div class="clear"></div>
-            </div>
-        </footer>
-        
-    </div>
-
-
-
-<!--
-<style type="text/css">
-body { background: #ffffff url(https://hexus.net/media/uploaded/2017/12/29b9c714-71e5-4d56-8ed9-b30b09fcc8cd.jpg) no-repeat fixed top center;cursor:pointer }
-#middle, #footer_bottom { cursor: auto; }
-#logo_container {display: block; width:1150px;height:112px;margin-left:auto;margin-right:auto;float:none; }
-#nav { position: relative; top: -101px; }
-#topad, #topicons { left: -371px; margin-top: 12px; position: relative; }
-#topad { top: 30px }
-#topicons { top: 28px; }
-#right { position: relative; top: -101px; }
+<!--The following is the downloaded HTML source of the hexus.net privacy policy that was archived on 2018-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181220220945id_/https%3A//www.themediateam.net/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
 </style>
-<a id="tkvrlink" href="{clickurl}" target="_blank"></a>
-<script type='text/javascript'>
-$('#logo_container').prependTo('body');
-$(function() {
-    bodyel = $('body')[0];
-    logoc = $('#logo_container')[0];
-    $('body').click(function(e){
-        if(e.target == bodyel || e.target == logoc) {
-            e.preventDefault();
-            window.open($('#tkvrlink').attr('href'), 'blank');
+    <title>The Media Team</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="/static/cms/toastr.css" rel="stylesheet">
+    <link href="/static/v2/css/app.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/static/img/themediateam.png">
+    <style>
+        #nav {
+            height: 100px;
+            padding: initial;
+            z-index: 2;
+            background-color: white;
+            position: fixed;
+            width:100%;
         }
-    });
-});
+    </style>
+<style>[touch-action="none"]{ -ms-touch-action: none; touch-action: none; touch-action-delay: none; }
+body /shadow-deep/ [touch-action="none"]{ -ms-touch-action: none; touch-action: none; touch-action-delay: none; }
+[touch-action="auto"]{ -ms-touch-action: auto; touch-action: auto; touch-action-delay: none; }
+body /shadow-deep/ [touch-action="auto"]{ -ms-touch-action: auto; touch-action: auto; touch-action-delay: none; }
+[touch-action="pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; touch-action-delay: none; }
+body /shadow-deep/ [touch-action="pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; touch-action-delay: none; }
+[touch-action="pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; touch-action-delay: none; }
+body /shadow-deep/ [touch-action="pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; touch-action-delay: none; }
+[touch-action="pan-x pan-y"],[touch-action="pan-y pan-x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; touch-action-delay: none; }
+body /shadow-deep/ [touch-action="pan-x pan-y"],body /shadow-deep/ [touch-action="pan-y pan-x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; touch-action-delay: none; }
+</style></head>
+
+<body>
+    <main id="app"><x-home>
+    
+    <section id="nav" class="navigation content">
+        <div class="container">
+            <nav class="navbar navbar-default fixed-top">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a height="100" class="navbar-brand" href="/"><img class="img-responsive" src="/static/v2/images/themediateam.png" alt="logo"></a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="/#!/websites">Our Group</a></li>
+                            <li><a href="/#!/services">What We Do</a></li>
+                            <li><a href="/#!/contact">Contact Us</a></li>
+                            <li><a href="/privacy">Privacy Policy</a></li>
+                            <li><a href="/resources/">Resources</a></li>
+                            <li><a href="/terms/">Terms of Business</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+        </div>
+    </section>
+
+    <section class="our-group content">
+        <x-talk-action href="#!/contact">
+</x-talk-action>
+        <div class="container" id="our_group">
+            <div class="col-md-10 col-md-offset-1">
+                <div>
+                    <h1 class="thin content--title" style="text-align:center;">
+                        The Media Team Privacy Policy
+                    </h1>
+                    <div class="down-action">
+                        <a href="/privacy/german" class="down-action--action btn btn-lg btn-rnd btn-primary">
+                            Click here to read the German version
+                        </a>
+                    </div>
+                    <p>
+                        Last Updated: Friday 18<sup>th</sup> May, 2018
+                    </p>
+                    <h3>
+                        Privacy Policy
+                    </h3>
+                    <p>
+                        Your privacy is important to The Media Team and all of 
+                        its “Publications”. We have developed this Privacy Policy 
+                        to provide you with information on how we process your 
+                        personal data when you visit any of our “Publications”, 
+                        create an account with any of our “Publications” including 
+                        forums, or interact with us via our support channels, 
+                        that include a link to this Privacy Policy.
+                    </p>
+                    <h3>
+                        Definitions
+                    </h3>
+                    <p>
+                        “Publications” references sites owned and operated by 
+                        The Media Team Limited “Personal data” is information 
+                        relating to an identified or identifiable natural person.
+                    </p>
+                    <h3>
+                        Categories of Personal Data Processed on our “Publications”
+                    </h3>
+                    <p>
+                        Personal data is processed when you create an account 
+                        with any The Media Team website: When you create 
+                        an account on a “Publication” we ask you to provide 
+                        your email address and name. You can choose to 
+                        provide only your first name or a nickname instead 
+                        of your full name if you wish. Additionally, we ask 
+                        you to provide your date of birth when creating an 
+                        account for the community forum area on any of our 
+                        “Publications”.
+                    </p>
+                    <h3>
+                        Purposes and Legal Grounds
+                    </h3>
+                    <p>
+                        Our “Publications” process your email address because you 
+                        use your email address (and/or Username associated with) 
+                        and your password to sign in to your account. The legal 
+                        ground for processing your email address in this way is 
+                        based on our legitimate interest in protecting the security 
+                        of your account.
+                    </p>
+                    <p>
+                        Our “Publications” also process your email address for 
+                        the purpose of sending you important information about 
+                        your accounts and relevant information on other “Publications” 
+                        and forums, such as important security/safety information 
+                        or material changes to this Privacy Policy. 
+                    </p>
+                    <p>
+                        The name you provide is associated with your account 
+                        profile is displayed when you submit comments or other 
+                        material on a “Publication”. The legal ground for processing 
+                        your email address and name for these purposes is our 
+                        legitimate interest in providing you important safety or 
+                        other information about your “Publication”-related accounts 
+                        or material changes to this Privacy Policy, and in providing 
+                        you an opportunity to engage with other users of “Publications” 
+                        and forums.
+                    </p>
+                    <p>
+                        If you provide your opt-in consent to receiving marketing 
+                        information from any of our “Publications”, We will then 
+                        process your email address accordingly, allowing us to 
+                        send you marketing information about our “Publications’” 
+                        content, products and information on its clients; this 
+                        may be done using the following means, but not exclusive 
+                        to competitions and newsletters. The legal ground for 
+                        processing your email address for this purpose is your 
+                        consent. You may withdraw your consent at any time by 
+                        changing your preferences in your “Publication”-based 
+                        account or through the unsubscribe link at the bottom 
+                        of our marketing emails. The marketing emails you receive 
+                        from our “Publications” are based on the preferences you 
+                        provide in your account. The legal ground for processing 
+                        this data for this purpose is of our “Publications” 
+                        legitimate interest in reducing the number of marketing 
+                        emails sent to each particular customer by selecting which 
+                        customers receive a particular marketing email rather than 
+                        sending every marketing email to every customer who has 
+                        consented to receiving marketing emails.
+                    </p>
+                    <p>
+                        We also process your email address to associate it with 
+                        your “Publication” specific account when you interact 
+                        with our customer support representatives. The legal 
+                        ground for this processing is our legitimate interest 
+                        in providing quality customer support.
+                    </p>
+                    <p>
+                        Personal data is processed when you sign in to your 
+                        “Publication”-specific user account with Social Media 
+                        Credentials if you choose them:
+                    </p>
+                    <p>
+                        You may choose to sign in to your account using your 
+                        social media sign in credentials (e.g., your Facebook 
+                        sign-in credentials). If you choose to do this, the 
+                        first time you do so you will be asked whether you agree 
+                        that the social media provider may provide certain 
+                        information to us, such as your name, email address, 
+                        profile photo, posts, comments and other information 
+                        associated with your social media account.
+                    </p>
+                    <p>
+                        All this information is made available to us by the 
+                        social media provider due to the way the social sign-in 
+                        configuration works. However, the only information that 
+                        we retain and process is your email address. If you do 
+                        not want your information to be shared within our group 
+                        of “Publications” by the social media provider, then you 
+                        can simply sign in to your account using your account 
+                        credentials instead of your social media account credentials.
+                    </p>
+                    <p>
+                        Our “Publications” associate the email address provided 
+                        by the social media provider with your account so that 
+                        you can use your email address (and/or Username) to 
+                        sign in to your account in the future if you no longer 
+                        wish to sign in using your social media account credentials. 
+                        The legal ground for processing this information for this 
+                        purpose is our legitimate interest in providing you an 
+                        alternative sign-in method and in securing your account.
+                    </p>
+                    <h3>
+                        Personal data that is processed when you communicate with any of our “Publications”
+                    </h3>
+                    <p>
+                        This is when you interact with our “Publications” and 
+                        register for a new account, subscribe to newsletters, 
+                        enter competitions and claim prizes if won, respond to 
+                        surveys. When interacting in this way we may analyse the 
+                        way in which you access our “Publications” (device vs. 
+                        desktop / Facebook / YouTube / Website accesses), for 
+                        debugging purposes, displaying competition or survey 
+                        aggregates. In addition to these, customer support 
+                        representatives via email, online or in person, may need 
+                        to access your personal data, such as your name, mailing 
+                        address, phone number, email address and contact preferences 
+                        in order to assist you with your query. To improve customer 
+                        service, subject to applicable laws, we may also record and 
+                        review conversations with customer support representatives. 
+                        With your consent, our customer support representatives 
+                        may sign into and administration panel enabling them to 
+                        adjust your account, if appropriate, to help troubleshoot 
+                        and resolve your issue.
+                    </p>
+                    <h3>
+                        Purpose and Legal Ground
+                    </h3>
+                    <p>
+                        We use this information to provide you with the best 
+                        possible experience across any of our “Publications” 
+                        tailoring content that is relevant to you. In addition, 
+                        this is to provide customer support, and to monitor the 
+                        quality and types of customer support we provide to our 
+                        customers. The legal ground for processing this information 
+                        for these purposes is The Media Team’s legitimate 
+                        interests in providing quality support. The legal ground 
+                        for signing in to an admin panel to adjust your account, 
+                        if appropriate, to help troubleshoot and resolve your 
+                        issue is consent, which you may withdraw.
+                    </p>
+                    <h3>
+                        Disclosure of personal data
+                    </h3>
+                    <p>
+                        We may disclose personal data about you to others: 
+                        (a) if we have your valid consent to do so; (b) to comply 
+                        with a valid subpoena, legal order, court order, legal process, 
+                        or other legal obligation; (c) to enforce any of our terms 
+                        and conditions or policies; or (d) as necessary to pursue 
+                        available legal remedies or defend legal claims. We may 
+                        also transfer your personal data to an affiliate, a subsidiary 
+                        or a third party in the event of any reorganization, merger, 
+                        sale, joint venture, assignment, transfer or other disposition 
+                        of all or any portion of the business, assets or stock, 
+                        including, without limitation, in connection with any 
+                        bankruptcy or similar proceeding, provided that any such 
+                        entity that we transfer personal data to will not be 
+                        permitted to process your personal data other than as 
+                        described in this Privacy Policy without providing you 
+                        notice and, if required by applicable laws, obtaining 
+                        your consent.
+                    </p>
+                    <h3>
+                        Transfers of Personal Data
+                    </h3>
+                    <p>
+                        We are a global business. In order to offer you our 
+                        services and content we may need to transfer your 
+                        personal data to other companies in other countries. 
+                    </p>
+                    <p>
+                        Personal data may be transferred outside of the EEA 
+                        by processors acting on our behalf. For transfers 
+                        to countries not considered adequate by the EC, we 
+                        will ensure that personal data is adequately protected, 
+                        as required by the GDPR. This would include by use 
+                        of the Standard Contractual Clauses adopted by the 
+                        EC to protect personal data.
+                    </p>
+                    <p>
+                        All “Publications” owned and operated by The Media 
+                        Team are required to follow the privacy practices 
+                        laid out below in this Privacy Statement.
+                    </p>
+                    <h3>
+                        Client-Side Storage and Related Technologies
+                    </h3>
+                    <p>
+                        To help analyse how you and other visitors navigate our 
+                        “Publications”, and compile aggregate statistics about 
+                        site usage and response rates, we may collect certain 
+                        information when you visit. This information includes 
+                        IP address, browser type, browser language, date and 
+                        time of your request, time(s) of your visit(s), page 
+                        views and page elements (e.g., links) that you click. 
+                        We may use cookies, pixel tags, web beacons, clear GIFs 
+                        or other similar tools on our site or in our email 
+                        messages to assist us in collecting and analysing such 
+                        information. We use this information to provide better, 
+                        more relevant content on our site, to measure the 
+                        effectiveness of advertisements, to identify and fix 
+                        problems, and to improve your overall experience on our site.
+                    </p>
+                    <p>
+                        If you do not want information collected through the 
+                        use of these technologies, there is a simple procedure 
+                        in most browsers that allows you to automatically decline 
+                        many of these technologies, or to be given the choice 
+                        of declining or accepting them.
+                    </p>
+                    <p>
+                        If you reside in the European Union or other jurisdiction 
+                        that requires us to obtain your consent to use client-side 
+                        storage on our sites, then you will have an opportunity 
+                        to manage these preferences on “Publications”, except 
+                        that certain methods are required to enable core site 
+                        functionality, and you cannot choose to disable those.
+                    </p>
+                    <p>
+                        Here are examples of third-party providers of analytics 
+                        and similar services we currently use
+                    </p>
+                    <h4>
+                        Analytics Services
+                    </h4>
+                    <p>
+                        Google: Google Analytics is used to track site statistics 
+                        and user demographics, interests and behaviour on 
+                        “Publications”. We also use Google Search Console to 
+                        help understand how our website visitors find our website 
+                        and to improve our search-engine optimisation. Upon 
+                        request to us you may find out more information about 
+                        how this analytics information may be used, how to control 
+                        the use of your information, and how to opt-out of having 
+                        your data used by Google Analytics.
+                    </p>
+                    <h4>    
+                        Social Networks
+                    </h4>
+                    <p>
+                        Third-party social networks that provide interactive 
+                        plug-ins or social networking features (e.g., to allow 
+                        you to connect to Facebook or Google to find friends to 
+                        add as connections or to "Like" a page) on The Media Team 
+                        websites or forums, may use cookies or other methods 
+                        (e.g., web beacons) to gather information regarding your 
+                        use of our websites and apps. The use of such information 
+                        by a third party depends on the privacy policy available 
+                        on that social network’s website, which we encourage you 
+                        to carefully review. Such third parties may use these 
+                        cookies or other tracking methods for their own purposes 
+                        by relating information about your use of our site with 
+                        any of your Personal Information that they may have. We 
+                        may also obtain analytics information from social networks 
+                        that help us measure the effectiveness of our content and 
+                        advertisements on social networks (e.g., impressions and 
+                        clicks).
+                    </p>
+                    <h3>
+                        Children
+                    </h3>
+                    <p>
+                        We request that individuals under the age of 16 years 
+                        do not view our “Publications”. If we learn that we have 
+                        collected the personal data from a child under 16, we will 
+                        take steps to delete the information as soon as possible.
+                    </p>
+                    <h3>
+                        Privacy Policy Updates
+                    </h3>
+                    <p>
+                        We may update this Privacy Policy from time to time as 
+                        we add new “Publications” to our portfolio, forums, 
+                        services, products and/or apps, as we improve our current 
+                        offerings and as technologies and laws change. You can 
+                        determine when this Privacy Policy was last revised by 
+                        referring to the “Last updated” legend at the top of this 
+                        page. Any changes will become effective upon our posting 
+                        of the revised Privacy Policy.
+                    </p>
+                    <p>
+                        We will provide notice to you if these changes are material 
+                        and, where required by applicable law, we will obtain 
+                        your consent. This notice will be provided by email or 
+                        by posting notice of the changes on any of our “Publications” 
+                        that link to this Privacy Policy.
+                    </p>
+                    <h3>
+                        Retention of Personal Data
+                    </h3>
+                    <p>
+                        We will retain your personal data as long as any of your 
+                        accounts are considered to be active. In addition, see 
+                        below under “Your Rights” for a description of your right 
+                        of erasure.
+                    </p>
+                    <h3>
+                        Data Controller and Data Protection Officer
+                    </h3>
+                    <p>
+                        If you reside in a country in the European Economic Area, 
+                        then your personal data collected by any of our “Publications” 
+                        is controlled by The Media Team Limited, a company 
+                        incorporated in England under number 9007080 which is 
+                        located at 17 Alban Park, Hatfield Road, St Albans, AL4 0JJ. 
+                        The Media Team’s Data Protection Officer is located at 
+                        the same address and can also be reached by email at 
+                        <a href="mailto:privacy@themediateam.net" target="_top">privacy@themediateam.net</a>.
+                    </p>
+                    <p>
+                        If you reside in the European Union, you have the right 
+                        under the General Data Protection Regulation to request 
+                        from The Media Team access to and rectification or erasure 
+                        of your personal data, data portability, restriction of 
+                        processing of your personal data, the right to object 
+                        to processing of your personal data, and the right to 
+                        lodge a complaint with a supervisory authority. If you 
+                        reside outside of the European Union, you may have similar 
+                        rights under your local laws.
+                    </p>
+                    <p>
+                        You have the right to complain to the Information 
+                        Commissioner, which you can do by contacting the 
+                        Information Commissioner’s Office (ICO) directly. 
+                        Full contact details, including a helpline number, 
+                        can be found on the ICO website  
+                        (<a href="https://www.ico.org.uk">www.ico.org.uk</a>). 
+                        This website also has useful information on your rights 
+                        and our obligations. However, please raise any concerns 
+                        or issues with us first so that we may deal with this 
+                        as quickly as possible for you.
+                    </p>
+                    <p>
+                        To request access to or rectification, portability or 
+                        erasure of your personal data, or to delete you’re account 
+                        then please contact us at
+                        <a href="mailto:privacy@themediateam.net" target="_top">privacy@themediateam.net</a>.
+                    </p>
+                    <p>
+                        Our website may, from time to time, contain links to 
+                        and from the websites of third parties that we permit 
+                        to make such links. If you follow a link to any of 
+                        these websites, please note that these websites have 
+                        their own privacy policies and that we do not accept 
+                        any responsibility or liability for these policies. We 
+                        recommend that you check these policies before you 
+                        submit any personal data to these websites.
+                    </p> 
+                </div>
+
+                
+            </div>
+        </div>
+    </section>
+</x-home></main>
+    <x-footer>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 footer--block">
+                    <div class="row footer--header">
+                        <div class="col-md-6">
+                            <h5 class="thin footer--contact-header">call us</h5>
+                            <a class="footer--contact-info" href="tel:+442030266340">+44 203 608 7997</a>
+                        </div>
+                        <div class="col-md-6">
+                            <h5 class="thin footer--contact-header">say hello</h5>
+                            <a class="footer--contact-info" href="mailto:info@themediateam.net">info@themediateam.net</a>
+                        </div>
+                    </div>
+                    <hr class="gradient-line">
+                    <address>
+                        <div><b>The Media Team</b></div>
+                        <div>17 Alban Park, Hatfield Road</div>
+                        <div>St Albans, Hertfordshire</div>
+                        <div>AL4 0JJ</div>
+                    </address>
+                    <p>
+                        All content Copyright © The Media Team 2018. <br>
+                        All logos are property of their respective owners.
+                    </p>
+                </div>
+                <div class="col-md-4 footer--block">
+                    <img src="/static/v2/images/logo_footer.png" class="footer--logo img-responsive" alt="The Media Team Logo">
+                </div>
+                <div class="col-md-4 footer--block">
+                    <div class="footer--header image-links text-right">
+                    </div>
+                    <hr class="gradient-line gradient-line-reverse">
+                    <div class="image-links text-right">
+                        <a href="http://madeincreativeuk.com/" class="image-link"><img src="/static/v2/images/made.png" alt="Made In UK"></a>
+                        <a href="https://www.investorsinpeople.com/" class="image-link"><img src="/static/v2/images/invest.png" alt="Investors In People"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</x-footer>
+
+
+<script>
+    window.SITE_KEY = "";
 </script>
--->
 
+<script type="text/template" id="template_home">
+    
+    <section id='nav' class="navigation content">
+        <div class="container">
+            <nav class="navbar navbar-default fixed-top">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                            aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a height='100' class="navbar-brand" href="/"><img class='img-responsive' src="/static/v2/images/themediateam.png" alt="logo"></a>
+                    </div>
 
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="/#!/websites">Our Group</a></li>
+                            <li><a href="/#!/services">What We Do</a></li>
+                            <li><a href="/#!/contact">Contact Us</a></li>
+                            <li><a href="/privacy">Privacy Policy</a></li>
+                            <li><a href="/resources/">Resources</a></li>
+                            <li><a href="/terms/">Terms of Business</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+        </div>
+    </section>
+
+    <section class="our-group content">
+        <x-talk-action href="#!/contact"></x-talk-action>
+        <div class="container" id='our_group'>
+            <div class="col-md-10 col-md-offset-1">
+                <div>
+                    <h1 class='thin content--title' style="text-align:center;">
+                        The Media Team Privacy Policy
+                    </h1>
+                    <div class="down-action">
+                        <a href="/privacy/german" class="down-action--action btn btn-lg btn-rnd btn-primary">
+                            Click here to read the German version
+                        </a>
+                    </div>
+                    <p>
+                        Last Updated: Friday 18<sup>th</sup> May, 2018
+                    </p>
+                    <h3>
+                        Privacy Policy
+                    </h3>
+                    <p>
+                        Your privacy is important to The Media Team and all of 
+                        its “Publications”. We have developed this Privacy Policy 
+                        to provide you with information on how we process your 
+                        personal data when you visit any of our “Publications”, 
+                        create an account with any of our “Publications” including 
+                        forums, or interact with us via our support channels, 
+                        that include a link to this Privacy Policy.
+                    </p>
+                    <h3>
+                        Definitions
+                    </h3>
+                    <p>
+                        “Publications” references sites owned and operated by 
+                        The Media Team Limited “Personal data” is information 
+                        relating to an identified or identifiable natural person.
+                    </p>
+                    <h3>
+                        Categories of Personal Data Processed on our “Publications”
+                    </h3>
+                    <p>
+                        Personal data is processed when you create an account 
+                        with any The Media Team website: When you create 
+                        an account on a “Publication” we ask you to provide 
+                        your email address and name. You can choose to 
+                        provide only your first name or a nickname instead 
+                        of your full name if you wish. Additionally, we ask 
+                        you to provide your date of birth when creating an 
+                        account for the community forum area on any of our 
+                        “Publications”.
+                    </p>
+                    <h3>
+                        Purposes and Legal Grounds
+                    </h3>
+                    <p>
+                        Our “Publications” process your email address because you 
+                        use your email address (and/or Username associated with) 
+                        and your password to sign in to your account. The legal 
+                        ground for processing your email address in this way is 
+                        based on our legitimate interest in protecting the security 
+                        of your account.
+                    </p>
+                    <p>
+                        Our “Publications” also process your email address for 
+                        the purpose of sending you important information about 
+                        your accounts and relevant information on other “Publications” 
+                        and forums, such as important security/safety information 
+                        or material changes to this Privacy Policy. 
+                    </p>
+                    <p>
+                        The name you provide is associated with your account 
+                        profile is displayed when you submit comments or other 
+                        material on a “Publication”. The legal ground for processing 
+                        your email address and name for these purposes is our 
+                        legitimate interest in providing you important safety or 
+                        other information about your “Publication”-related accounts 
+                        or material changes to this Privacy Policy, and in providing 
+                        you an opportunity to engage with other users of “Publications” 
+                        and forums.
+                    </p>
+                    <p>
+                        If you provide your opt-in consent to receiving marketing 
+                        information from any of our “Publications”, We will then 
+                        process your email address accordingly, allowing us to 
+                        send you marketing information about our “Publications’” 
+                        content, products and information on its clients; this 
+                        may be done using the following means, but not exclusive 
+                        to competitions and newsletters. The legal ground for 
+                        processing your email address for this purpose is your 
+                        consent. You may withdraw your consent at any time by 
+                        changing your preferences in your “Publication”-based 
+                        account or through the unsubscribe link at the bottom 
+                        of our marketing emails. The marketing emails you receive 
+                        from our “Publications” are based on the preferences you 
+                        provide in your account. The legal ground for processing 
+                        this data for this purpose is of our “Publications” 
+                        legitimate interest in reducing the number of marketing 
+                        emails sent to each particular customer by selecting which 
+                        customers receive a particular marketing email rather than 
+                        sending every marketing email to every customer who has 
+                        consented to receiving marketing emails.
+                    </p>
+                    <p>
+                        We also process your email address to associate it with 
+                        your “Publication” specific account when you interact 
+                        with our customer support representatives. The legal 
+                        ground for this processing is our legitimate interest 
+                        in providing quality customer support.
+                    </p>
+                    <p>
+                        Personal data is processed when you sign in to your 
+                        “Publication”-specific user account with Social Media 
+                        Credentials if you choose them:
+                    </p>
+                    <p>
+                        You may choose to sign in to your account using your 
+                        social media sign in credentials (e.g., your Facebook 
+                        sign-in credentials). If you choose to do this, the 
+                        first time you do so you will be asked whether you agree 
+                        that the social media provider may provide certain 
+                        information to us, such as your name, email address, 
+                        profile photo, posts, comments and other information 
+                        associated with your social media account.
+                    </p>
+                    <p>
+                        All this information is made available to us by the 
+                        social media provider due to the way the social sign-in 
+                        configuration works. However, the only information that 
+                        we retain and process is your email address. If you do 
+                        not want your information to be shared within our group 
+                        of “Publications” by the social media provider, then you 
+                        can simply sign in to your account using your account 
+                        credentials instead of your social media account credentials.
+                    </p>
+                    <p>
+                        Our “Publications” associate the email address provided 
+                        by the social media provider with your account so that 
+                        you can use your email address (and/or Username) to 
+                        sign in to your account in the future if you no longer 
+                        wish to sign in using your social media account credentials. 
+                        The legal ground for processing this information for this 
+                        purpose is our legitimate interest in providing you an 
+                        alternative sign-in method and in securing your account.
+                    </p>
+                    <h3>
+                        Personal data that is processed when you communicate with any of our “Publications”
+                    </h3>
+                    <p>
+                        This is when you interact with our “Publications” and 
+                        register for a new account, subscribe to newsletters, 
+                        enter competitions and claim prizes if won, respond to 
+                        surveys. When interacting in this way we may analyse the 
+                        way in which you access our “Publications” (device vs. 
+                        desktop / Facebook / YouTube / Website accesses), for 
+                        debugging purposes, displaying competition or survey 
+                        aggregates. In addition to these, customer support 
+                        representatives via email, online or in person, may need 
+                        to access your personal data, such as your name, mailing 
+                        address, phone number, email address and contact preferences 
+                        in order to assist you with your query. To improve customer 
+                        service, subject to applicable laws, we may also record and 
+                        review conversations with customer support representatives. 
+                        With your consent, our customer support representatives 
+                        may sign into and administration panel enabling them to 
+                        adjust your account, if appropriate, to help troubleshoot 
+                        and resolve your issue.
+                    </p>
+                    <h3>
+                        Purpose and Legal Ground
+                    </h3>
+                    <p>
+                        We use this information to provide you with the best 
+                        possible experience across any of our “Publications” 
+                        tailoring content that is relevant to you. In addition, 
+                        this is to provide customer support, and to monitor the 
+                        quality and types of customer support we provide to our 
+                        customers. The legal ground for processing this information 
+                        for these purposes is The Media Team’s legitimate 
+                        interests in providing quality support. The legal ground 
+                        for signing in to an admin panel to adjust your account, 
+                        if appropriate, to help troubleshoot and resolve your 
+                        issue is consent, which you may withdraw.
+                    </p>
+                    <h3>
+                        Disclosure of personal data
+                    </h3>
+                    <p>
+                        We may disclose personal data about you to others: 
+                        (a) if we have your valid consent to do so; (b) to comply 
+                        with a valid subpoena, legal order, court order, legal process, 
+                        or other legal obligation; (c) to enforce any of our terms 
+                        and conditions or policies; or (d) as necessary to pursue 
+                        available legal remedies or defend legal claims. We may 
+                        also transfer your personal data to an affiliate, a subsidiary 
+                        or a third party in the event of any reorganization, merger, 
+                        sale, joint venture, assignment, transfer or other disposition 
+                        of all or any portion of the business, assets or stock, 
+                        including, without limitation, in connection with any 
+                        bankruptcy or similar proceeding, provided that any such 
+                        entity that we transfer personal data to will not be 
+                        permitted to process your personal data other than as 
+                        described in this Privacy Policy without providing you 
+                        notice and, if required by applicable laws, obtaining 
+                        your consent.
+                    </p>
+                    <h3>
+                        Transfers of Personal Data
+                    </h3>
+                    <p>
+                        We are a global business. In order to offer you our 
+                        services and content we may need to transfer your 
+                        personal data to other companies in other countries. 
+                    </p>
+                    <p>
+                        Personal data may be transferred outside of the EEA 
+                        by processors acting on our behalf. For transfers 
+                        to countries not considered adequate by the EC, we 
+                        will ensure that personal data is adequately protected, 
+                        as required by the GDPR. This would include by use 
+                        of the Standard Contractual Clauses adopted by the 
+                        EC to protect personal data.
+                    </p>
+                    <p>
+                        All “Publications” owned and operated by The Media 
+                        Team are required to follow the privacy practices 
+                        laid out below in this Privacy Statement.
+                    </p>
+                    <h3>
+                        Client-Side Storage and Related Technologies
+                    </h3>
+                    <p>
+                        To help analyse how you and other visitors navigate our 
+                        “Publications”, and compile aggregate statistics about 
+                        site usage and response rates, we may collect certain 
+                        information when you visit. This information includes 
+                        IP address, browser type, browser language, date and 
+                        time of your request, time(s) of your visit(s), page 
+                        views and page elements (e.g., links) that you click. 
+                        We may use cookies, pixel tags, web beacons, clear GIFs 
+                        or other similar tools on our site or in our email 
+                        messages to assist us in collecting and analysing such 
+                        information. We use this information to provide better, 
+                        more relevant content on our site, to measure the 
+                        effectiveness of advertisements, to identify and fix 
+                        problems, and to improve your overall experience on our site.
+                    </p>
+                    <p>
+                        If you do not want information collected through the 
+                        use of these technologies, there is a simple procedure 
+                        in most browsers that allows you to automatically decline 
+                        many of these technologies, or to be given the choice 
+                        of declining or accepting them.
+                    </p>
+                    <p>
+                        If you reside in the European Union or other jurisdiction 
+                        that requires us to obtain your consent to use client-side 
+                        storage on our sites, then you will have an opportunity 
+                        to manage these preferences on “Publications”, except 
+                        that certain methods are required to enable core site 
+                        functionality, and you cannot choose to disable those.
+                    </p>
+                    <p>
+                        Here are examples of third-party providers of analytics 
+                        and similar services we currently use
+                    </p>
+                    <h4>
+                        Analytics Services
+                    </h4>
+                    <p>
+                        Google: Google Analytics is used to track site statistics 
+                        and user demographics, interests and behaviour on 
+                        “Publications”. We also use Google Search Console to 
+                        help understand how our website visitors find our website 
+                        and to improve our search-engine optimisation. Upon 
+                        request to us you may find out more information about 
+                        how this analytics information may be used, how to control 
+                        the use of your information, and how to opt-out of having 
+                        your data used by Google Analytics.
+                    </p>
+                    <h4>    
+                        Social Networks
+                    </h4>
+                    <p>
+                        Third-party social networks that provide interactive 
+                        plug-ins or social networking features (e.g., to allow 
+                        you to connect to Facebook or Google to find friends to 
+                        add as connections or to "Like" a page) on The Media Team 
+                        websites or forums, may use cookies or other methods 
+                        (e.g., web beacons) to gather information regarding your 
+                        use of our websites and apps. The use of such information 
+                        by a third party depends on the privacy policy available 
+                        on that social network’s website, which we encourage you 
+                        to carefully review. Such third parties may use these 
+                        cookies or other tracking methods for their own purposes 
+                        by relating information about your use of our site with 
+                        any of your Personal Information that they may have. We 
+                        may also obtain analytics information from social networks 
+                        that help us measure the effectiveness of our content and 
+                        advertisements on social networks (e.g., impressions and 
+                        clicks).
+                    </p>
+                    <h3>
+                        Children
+                    </h3>
+                    <p>
+                        We request that individuals under the age of 16 years 
+                        do not view our “Publications”. If we learn that we have 
+                        collected the personal data from a child under 16, we will 
+                        take steps to delete the information as soon as possible.
+                    </p>
+                    <h3>
+                        Privacy Policy Updates
+                    </h3>
+                    <p>
+                        We may update this Privacy Policy from time to time as 
+                        we add new “Publications” to our portfolio, forums, 
+                        services, products and/or apps, as we improve our current 
+                        offerings and as technologies and laws change. You can 
+                        determine when this Privacy Policy was last revised by 
+                        referring to the “Last updated” legend at the top of this 
+                        page. Any changes will become effective upon our posting 
+                        of the revised Privacy Policy.
+                    </p>
+                    <p>
+                        We will provide notice to you if these changes are material 
+                        and, where required by applicable law, we will obtain 
+                        your consent. This notice will be provided by email or 
+                        by posting notice of the changes on any of our “Publications” 
+                        that link to this Privacy Policy.
+                    </p>
+                    <h3>
+                        Retention of Personal Data
+                    </h3>
+                    <p>
+                        We will retain your personal data as long as any of your 
+                        accounts are considered to be active. In addition, see 
+                        below under “Your Rights” for a description of your right 
+                        of erasure.
+                    </p>
+                    <h3>
+                        Data Controller and Data Protection Officer
+                    </h3>
+                    <p>
+                        If you reside in a country in the European Economic Area, 
+                        then your personal data collected by any of our “Publications” 
+                        is controlled by The Media Team Limited, a company 
+                        incorporated in England under number 9007080 which is 
+                        located at 17 Alban Park, Hatfield Road, St Albans, AL4 0JJ. 
+                        The Media Team’s Data Protection Officer is located at 
+                        the same address and can also be reached by email at 
+                        <a href="mailto:privacy@themediateam.net" target="_top">privacy@themediateam.net</a>.
+                    </p>
+                    <p>
+                        If you reside in the European Union, you have the right 
+                        under the General Data Protection Regulation to request 
+                        from The Media Team access to and rectification or erasure 
+                        of your personal data, data portability, restriction of 
+                        processing of your personal data, the right to object 
+                        to processing of your personal data, and the right to 
+                        lodge a complaint with a supervisory authority. If you 
+                        reside outside of the European Union, you may have similar 
+                        rights under your local laws.
+                    </p>
+                    <p>
+                        You have the right to complain to the Information 
+                        Commissioner, which you can do by contacting the 
+                        Information Commissioner’s Office (ICO) directly. 
+                        Full contact details, including a helpline number, 
+                        can be found on the ICO website  
+                        (<a href="https://www.ico.org.uk">www.ico.org.uk</a>). 
+                        This website also has useful information on your rights 
+                        and our obligations. However, please raise any concerns 
+                        or issues with us first so that we may deal with this 
+                        as quickly as possible for you.
+                    </p>
+                    <p>
+                        To request access to or rectification, portability or 
+                        erasure of your personal data, or to delete you’re account 
+                        then please contact us at
+                        <a href="mailto:privacy@themediateam.net" target="_top">privacy@themediateam.net</a>.
+                    </p>
+                    <p>
+                        Our website may, from time to time, contain links to 
+                        and from the websites of third parties that we permit 
+                        to make such links. If you follow a link to any of 
+                        these websites, please note that these websites have 
+                        their own privacy policies and that we do not accept 
+                        any responsibility or liability for these policies. We 
+                        recommend that you check these policies before you 
+                        submit any personal data to these websites.
+                    </p> 
+                </div>
+
+                
+            </div>
+        </div>
+    </section>
+</script>
+
+<script type="text/template" id="template_content">
+</script>
+
+<script type="text/template" id="template_data">
+</script>
+
+<script type="text/template" id="template_design">
+</script>
+
+<script type="text/template" id="template_editorial">
+</script>
+
+<script type="text/template" id="template_contact">
+</script>
+
+<script type="text/template" id="template_not-found">
+</script>
+
+<script type="text/template" id="template_services">
+</script>
+
+<script type="text/template" id="template_footer">
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 footer--block">
+                    <div class="row footer--header">
+                        <div class="col-md-6">
+                            <h5 class="thin footer--contact-header">call us</h5>
+                            <a class='footer--contact-info' href="tel:+442030266340">+44 203 608 7997</a>
+                        </div>
+                        <div class="col-md-6">
+                            <h5 class="thin footer--contact-header">say hello</h5>
+                            <a class='footer--contact-info' href="mailto:info@themediateam.net">info@themediateam.net</a>
+                        </div>
+                    </div>
+                    <hr class="gradient-line">
+                    <address>
+                        <div><b>The Media Team</b></div>
+                        <div>17 Alban Park, Hatfield Road</div>
+                        <div>St Albans, Hertfordshire</div>
+                        <div>AL4 0JJ</div>
+                    </address>
+                    <p>
+                        All content Copyright © The Media Team 2018. <br/>
+                        All logos are property of their respective owners.
+                    </p>
+                </div>
+                <div class="col-md-4 footer--block">
+                    <img src="/static/v2/images/logo_footer.png" class='footer--logo img-responsive' alt="The Media Team Logo">
+                </div>
+                <div class="col-md-4 footer--block">
+                    <div class="footer--header image-links text-right">
+                    </div>
+                    <hr class="gradient-line gradient-line-reverse">
+                    <div class="image-links text-right">
+                        <a href="http://madeincreativeuk.com/" class="image-link"><img src="/static/v2/images/made.png" alt="Made In UK"></a>
+                        <a href="https://www.investorsinpeople.com/" class="image-link"><img src="/static/v2/images/invest.png" alt="Investors In People"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</script>
+
+<script type="text/template" id="template_talk-action">
+</script>
+
+<script type="text/template" id="template_caret">
+</script>
+
+<script type="text/template" id="template_navbar">
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async="" defer=""></script>
+<script src="/static/v2/js/navigo.min.js"></script>
+<script src="/static/v2/js/x-tag-core.min.js"></script>
+<script src="/static/external/js/jquery-1.12.3.min.js"></script>
+<script src="/static/external/js/bootstrap.min.js"></script>
+<script src="/static/cms/toastr.min.js"></script>
+<script src="/static/v2/js/support.js"></script>
 
 </body></html>
