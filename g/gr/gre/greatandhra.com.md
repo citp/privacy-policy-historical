@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greatandhra.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602021851id_/https%3A//www.greatandhra.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatandhra.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220131536id_/https%3A//www.greatandhra.com/privacy.php) for the most accurate reproduction.*
 
 # Great Andhra - Privacy Policy
 
 The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the greatandhra.com website.
 
-India Brains Infotech, LLC is the sole owner of the website [www.greatandhra.com](http://www.greatandhra.com/) (hereinafter "website"). The Policy is applicable to the website. 
+India Brains Infotech, LLC is the sole owner of the website [www.greatandhra.com](https://www.greatandhra.com/) (hereinafter "website"). The Policy is applicable to the website. 
 
 You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
