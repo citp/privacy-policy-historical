@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playedonline.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616035053id_/http%3A//kizi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playedonline.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220134506id_/https%3A//kizi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kizi.com
 
@@ -43,6 +43,9 @@ Kizi® may provide links from our Web sites to third party Web sites and we enco
 
 **Advertisements on Kizi**  
 Kizi® permits the use of advertising on Kizi.com by third party advertisers. Some advertising partners may use cookies or similar technologies to better measure campaign effectiveness, target future campaigns and deliver a more targeted experience to users. Advertisers must comply with personal data guidelines, including the Data Protection Act 1998, to ensure our users’ personal data is protected. Additionally, all advertisers are instructed by Kizi not to display ads with sexual, violent or drug & alcohol related themes. Should you find an inappropriate or offensive advertisement on Kizi, please notify us by emailing [support@kizi.com](mailto:support@kizi.com). Additionally, third parties may collect certain types of information about your visits to Kizi, including interaction with content on Kizi. 
+
+**User Generated Content**  
+Kizi® may permit you to create game levels and modify, edit, or adapt certain site materials. You grant to Kizi the unrestricted, unconditional, unlimited, royalty-free right and license to host, use, distribute, publish, modify, re-title, reformat, archive, store, cache, delete or otherwise exploit in any manner whatsoever, all or any portion of your User Content, for any purpose whatsoever, in any and all formats. You agree that your User Content and modifications will be treated as non-confidential and non-proprietary. 
 
 **General**  
 By using this site, you signify your assent to the Kizi.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance. We hope you have a great experience on Kizi®. Feel free to approach us on [support@kizi.com](mailto:support@kizi.com). 
