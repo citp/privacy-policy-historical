@@ -1,108 +1,101 @@
-> *The following text is extracted and transformed from the hexus.net privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219134920id_/http%3A//hexus.net/static/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexus.net privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220220945id_/https%3A//www.themediateam.net/privacy) for the most accurate reproduction.*
 
-# HEXUS.net - Terms and Conditions
+# The Media Team
 
-## Terms and Conditions of Usage
+Last Updated: Friday 18th May, 2018 
 
-Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern The Media Limited's relationship with you in relation to this website.
+###  Privacy Policy 
 
-The term "The Media Team® Limited" or "us" or "we" refers to the owner of the website whose registered office is The Media Team Ltd, 17 Alban Park, St Albans, Hertfordshire, AL4 0JJ. Our company registration number is 09007080\. The term "you" refers to the user or viewer of our website. The term "our website" or "this website" or "the website" refers to any website and its subdomains published by "The Media Limited".
+Your privacy is important to The Media Team and all of its “Publications”. We have developed this Privacy Policy to provide you with information on how we process your personal data when you visit any of our “Publications”, create an account with any of our “Publications” including forums, or interact with us via our support channels, that include a link to this Privacy Policy. 
 
-The use of this website is subject to the following terms of use: 
+###  Definitions 
 
-  * The content of the pages of this website is for your general information and use only. It is subject to change without notice.
-  * Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
-  * Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
-  * This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
-  * Unauthorised use of this website may give to a claim for damages and/or be a criminal offence.
-  * This website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
-  * Your use of this website and any dispute arising out of such use of the website is subject to the laws of England and Wales.
+“Publications” references sites owned and operated by The Media Team Limited “Personal data” is information relating to an identified or identifiable natural person. 
 
+###  Categories of Personal Data Processed on our “Publications” 
 
+Personal data is processed when you create an account with any The Media Team website: When you create an account on a “Publication” we ask you to provide your email address and name. You can choose to provide only your first name or a nickname instead of your full name if you wish. Additionally, we ask you to provide your date of birth when creating an account for the community forum area on any of our “Publications”. 
 
-## Privacy policy
+###  Purposes and Legal Grounds 
 
-This privacy policy sets out how "The Media Limited" uses and protects any information that you give "The Media Limited" when you use this website.
+Our “Publications” process your email address because you use your email address (and/or Username associated with) and your password to sign in to your account. The legal ground for processing your email address in this way is based on our legitimate interest in protecting the security of your account. 
 
-"The Media Limited" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Our “Publications” also process your email address for the purpose of sending you important information about your accounts and relevant information on other “Publications” and forums, such as important security/safety information or material changes to this Privacy Policy. 
 
-"The Media Limited" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20th November 2009.
+The name you provide is associated with your account profile is displayed when you submit comments or other material on a “Publication”. The legal ground for processing your email address and name for these purposes is our legitimate interest in providing you important safety or other information about your “Publication”-related accounts or material changes to this Privacy Policy, and in providing you an opportunity to engage with other users of “Publications” and forums. 
 
-### What we collect
+If you provide your opt-in consent to receiving marketing information from any of our “Publications”, We will then process your email address accordingly, allowing us to send you marketing information about our “Publications’” content, products and information on its clients; this may be done using the following means, but not exclusive to competitions and newsletters. The legal ground for processing your email address for this purpose is your consent. You may withdraw your consent at any time by changing your preferences in your “Publication”-based account or through the unsubscribe link at the bottom of our marketing emails. The marketing emails you receive from our “Publications” are based on the preferences you provide in your account. The legal ground for processing this data for this purpose is of our “Publications” legitimate interest in reducing the number of marketing emails sent to each particular customer by selecting which customers receive a particular marketing email rather than sending every marketing email to every customer who has consented to receiving marketing emails. 
 
-We may collect the following information from registration forms:
+We also process your email address to associate it with your “Publication” specific account when you interact with our customer support representatives. The legal ground for this processing is our legitimate interest in providing quality customer support. 
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+Personal data is processed when you sign in to your “Publication”-specific user account with Social Media Credentials if you choose them: 
 
+You may choose to sign in to your account using your social media sign in credentials (e.g., your Facebook sign-in credentials). If you choose to do this, the first time you do so you will be asked whether you agree that the social media provider may provide certain information to us, such as your name, email address, profile photo, posts, comments and other information associated with your social media account. 
 
+All this information is made available to us by the social media provider due to the way the social sign-in configuration works. However, the only information that we retain and process is your email address. If you do not want your information to be shared within our group of “Publications” by the social media provider, then you can simply sign in to your account using your account credentials instead of your social media account credentials. 
 
-### What we do with the information we gather
+Our “Publications” associate the email address provided by the social media provider with your account so that you can use your email address (and/or Username) to sign in to your account in the future if you no longer wish to sign in using your social media account credentials. The legal ground for processing this information for this purpose is our legitimate interest in providing you an alternative sign-in method and in securing your account. 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+###  Personal data that is processed when you communicate with any of our “Publications” 
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * We may use the information to customise the website according to your interests.
+This is when you interact with our “Publications” and register for a new account, subscribe to newsletters, enter competitions and claim prizes if won, respond to surveys. When interacting in this way we may analyse the way in which you access our “Publications” (device vs. desktop / Facebook / YouTube / Website accesses), for debugging purposes, displaying competition or survey aggregates. In addition to these, customer support representatives via email, online or in person, may need to access your personal data, such as your name, mailing address, phone number, email address and contact preferences in order to assist you with your query. To improve customer service, subject to applicable laws, we may also record and review conversations with customer support representatives. With your consent, our customer support representatives may sign into and administration panel enabling them to adjust your account, if appropriate, to help troubleshoot and resolve your issue. 
 
+###  Purpose and Legal Ground 
 
+We use this information to provide you with the best possible experience across any of our “Publications” tailoring content that is relevant to you. In addition, this is to provide customer support, and to monitor the quality and types of customer support we provide to our customers. The legal ground for processing this information for these purposes is The Media Team’s legitimate interests in providing quality support. The legal ground for signing in to an admin panel to adjust your account, if appropriate, to help troubleshoot and resolve your issue is consent, which you may withdraw. 
 
-### Security
+###  Disclosure of personal data 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We may disclose personal data about you to others: (a) if we have your valid consent to do so; (b) to comply with a valid subpoena, legal order, court order, legal process, or other legal obligation; (c) to enforce any of our terms and conditions or policies; or (d) as necessary to pursue available legal remedies or defend legal claims. We may also transfer your personal data to an affiliate, a subsidiary or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of the business, assets or stock, including, without limitation, in connection with any bankruptcy or similar proceeding, provided that any such entity that we transfer personal data to will not be permitted to process your personal data other than as described in this Privacy Policy without providing you notice and, if required by applicable laws, obtaining your consent. 
 
-### Log Files
+###  Transfers of Personal Data 
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our website, the time you visited our website and which pages you visited throughout our website.
+We are a global business. In order to offer you our services and content we may need to transfer your personal data to other companies in other countries. 
 
-### How we use cookies
+Personal data may be transferred outside of the EEA by processors acting on our behalf. For transfers to countries not considered adequate by the EC, we will ensure that personal data is adequately protected, as required by the GDPR. This would include by use of the Standard Contractual Clauses adopted by the EC to protect personal data. 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+All “Publications” owned and operated by The Media Team are required to follow the privacy practices laid out below in this Privacy Statement. 
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis.
+###  Client-Side Storage and Related Technologies 
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+To help analyse how you and other visitors navigate our “Publications”, and compile aggregate statistics about site usage and response rates, we may collect certain information when you visit. This information includes IP address, browser type, browser language, date and time of your request, time(s) of your visit(s), page views and page elements (e.g., links) that you click. We may use cookies, pixel tags, web beacons, clear GIFs or other similar tools on our site or in our email messages to assist us in collecting and analysing such information. We use this information to provide better, more relevant content on our site, to measure the effectiveness of advertisements, to identify and fix problems, and to improve your overall experience on our site. 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, most web browsers also provide the facility to delete any existing cookies. Deleting a cookie is not equivalent to declining a cookie. A deleted cookie may be recreated on the next visit to a website, unless you have configured your browser to decline them. Declining or deleting cookies may prevent you from taking full advantage of the website.
+If you do not want information collected through the use of these technologies, there is a simple procedure in most browsers that allows you to automatically decline many of these technologies, or to be given the choice of declining or accepting them. 
 
-### Third party cookies
+If you reside in the European Union or other jurisdiction that requires us to obtain your consent to use client-side storage on our sites, then you will have an opportunity to manage these preferences on “Publications”, except that certain methods are required to enable core site functionality, and you cannot choose to disable those. 
 
-"The Media Limited" displays third party advertisements on this website. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (providing advertising material relevant to your region, country or continent) or showing certain ads based on specific sites previously visited by you.
+Here are examples of third-party providers of analytics and similar services we currently use 
 
-To find out more about our cookies and third party cookies used on the site, see our [dedicated cookies page](http://hexus.net/static/cookies/).
+####  Analytics Services 
 
-### Links to other websites
+Google: Google Analytics is used to track site statistics and user demographics, interests and behaviour on “Publications”. We also use Google Search Console to help understand how our website visitors find our website and to improve our search-engine optimisation. Upon request to us you may find out more information about how this analytics information may be used, how to control the use of your information, and how to opt-out of having your data used by Google Analytics. 
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+####  Social Networks 
 
-### Controlling your personal information
+Third-party social networks that provide interactive plug-ins or social networking features (e.g., to allow you to connect to Facebook or Google to find friends to add as connections or to "Like" a page) on The Media Team websites or forums, may use cookies or other methods (e.g., web beacons) to gather information regarding your use of our websites and apps. The use of such information by a third party depends on the privacy policy available on that social network’s website, which we encourage you to carefully review. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our site with any of your Personal Information that they may have. We may also obtain analytics information from social networks that help us measure the effectiveness of our content and advertisements on social networks (e.g., impressions and clicks). 
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+###  Children 
 
-  * you may modify your user profile in order to remove information you no longer want to share with us
+We request that individuals under the age of 16 years do not view our “Publications”. If we learn that we have collected the personal data from a child under 16, we will take steps to delete the information as soon as possible. 
 
+###  Privacy Policy Updates 
 
+We may update this Privacy Policy from time to time as we add new “Publications” to our portfolio, forums, services, products and/or apps, as we improve our current offerings and as technologies and laws change. You can determine when this Privacy Policy was last revised by referring to the “Last updated” legend at the top of this page. Any changes will become effective upon our posting of the revised Privacy Policy. 
 
-We will not sell, distribute or lease your personal information to third parties unless we are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. This notice will be provided by email or by posting notice of the changes on any of our “Publications” that link to this Privacy Policy. 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to HEXUS, 17 Alban Park, St Albans, Hertfordshire, AL4 0JJ
+###  Retention of Personal Data 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address or [via our contact form](http://hexus.net/contact/). We will promptly correct any information found to be incorrect.
+We will retain your personal data as long as any of your accounts are considered to be active. In addition, see below under “Your Rights” for a description of your right of erasure. 
 
-### Disclaimer
+###  Data Controller and Data Protection Officer 
 
-The information contained in this website is for general information purposes only. The information is provided by "The Media Limited" and whilst we endeavour to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+If you reside in a country in the European Economic Area, then your personal data collected by any of our “Publications” is controlled by The Media Team Limited, a company incorporated in England under number 9007080 which is located at 17 Alban Park, Hatfield Road, St Albans, AL4 0JJ. The Media Team’s Data Protection Officer is located at the same address and can also be reached by email at [privacy@themediateam.net](mailto:privacy@themediateam.net). 
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of or in connection with the use of this website.
+If you reside in the European Union, you have the right under the General Data Protection Regulation to request from The Media Team access to and rectification or erasure of your personal data, data portability, restriction of processing of your personal data, the right to object to processing of your personal data, and the right to lodge a complaint with a supervisory authority. If you reside outside of the European Union, you may have similar rights under your local laws. 
 
-Through this website you are able to link to other websites which are not under the control of "The Media Limited". We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+You have the right to complain to the Information Commissioner, which you can do by contacting the Information Commissioner’s Office (ICO) directly. Full contact details, including a helpline number, can be found on the ICO website ([www.ico.org.uk](https://www.ico.org.uk/)). This website also has useful information on your rights and our obligations. However, please raise any concerns or issues with us first so that we may deal with this as quickly as possible for you. 
 
-Every effort is made to keep the website up and running smoothly. However, "The Media Limited" takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.
+To request access to or rectification, portability or erasure of your personal data, or to delete you’re account then please contact us at [privacy@themediateam.net](mailto:privacy@themediateam.net). 
 
-### Citation
-
-Portions of this privacy policy have been adapted from a privacy policy template created by [JenSense](http://www.jensense.com/).
+Our website may, from time to time, contain links to and from the websites of third parties that we permit to make such links. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. We recommend that you check these policies before you submit any personal data to these websites. 
