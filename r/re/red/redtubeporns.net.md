@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtubeporns.net privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630003929id_/https%3A//www.redtube.com/information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubeporns.net privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220053113id_/https%3A//www.redtube.com/information%23privacy) for the most accurate reproduction.*
 
 # Free Porn Videos & Sex Movies - Porno, XXX, Porn Tube and Pussy Porn
 
@@ -8,7 +8,7 @@ Last modified date: May 11, 2016
 
 The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these **“Terms of Service”** ), govern your access to and use of [www.redtube.com](https://web.archive.org/) (“RedTube” or the **“Website”** ), including any content, functionality and services offered on or through the Website, whether as a guest or a registered user. These **Terms of Service** apply to the Website, web pages, interactive features, applications, widgets, blogs, social networks, social network “tabs”, or other online or wireless offerings that post a link to these Terms of Service, whether accessed via computer, mobile device or other technology, manner or means.
 
-Please read the Terms of Service carefully before you start to use the Website.By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at Privacy Policy, incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
+Please read the Terms of Service carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at Privacy Policy, incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
 
 If you access or use the Website, whether you click to accept or not, you agree to all of the various terms in these Terms of Service. If you do not understand all of these Terms of Service, you should consult an attorney before agreeing to any of the Terms of Service.
 
@@ -22,7 +22,7 @@ You affirm that you are at least 18 years of age or the age of majority in the j
 
 ## Changes to the Terms of Service
 
-We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions.Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at Privacy Policy, so you are aware of any changes, as they are binding on you.
+We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at Privacy Policy, so you are aware of any changes, as they are binding on you.
 
 If we change anything in these Terms of Service, the change will be reflected in the “last modified date”. You agree that you will periodically review these terms and refresh the page when doing so. You agree to note the date of the last revision of these terms. If the “last modified” date is unchanged from the last time you reviewed these terms, then they are unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review the terms, and you agree to the new ones.
 
@@ -51,7 +51,7 @@ You are responsible for:
 
 
 
-To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete.You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at Privacy Policy, and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
+To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at Privacy Policy, and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
 
 If you choose, or are provided with, a user name, password or any other piece of information as part of our security procedures, you must treat such information as confidential and, you must not disclose it to any other person or entity and you are fully responsible for all activities that occur under your user name or password. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Website or portions of it using your user name, password or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security by contacting us at: support@redtube.com. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information. Although the Website will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of the Website or others due to such unauthorized use.
 
@@ -188,7 +188,7 @@ The Website is not in a position to mediate trademark disputes between users and
 
 The information presented on or through the Website is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other visitor to the Website, or by anyone who may be informed of any of its contents.
 
-This Website includes Content provided by third parties, including materials provided by other users, bloggers and third-party licensors, syndicators, aggregators and/or reporting services. All statements and/or opinions expressed in these materials, and all articles and responses to questions and other content, other than the content provided by us, are solely the opinions and the responsibility of the person or entity providing those materials. These materials do not necessarily reflect our opinion. We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by any third parties.
+This Website includes Content provided by third parties, including materials provided by other users, bloggers and third-party licensors, syndicators, aggregators and/or reporting services. All statements and/or opinions expressed in these materials, and all articles and responses to questions and other content, other than the content provided by us, are solely the opinions and the responsibility of the person or entity providing those materials. These materials do not necessarily reflect our opinion. We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by any third parties.'));?>
 
 ## Changes to the Website
 
@@ -245,7 +245,7 @@ To the extent permitted by applicable law, you agree to defend, indemnify and ho
 
 YOU USE THE WEBSITE AT YOUR SOLE RISK. WE PROVIDE THE WEBSITE “AS IS” AND “AS AVAILABLE”. TO THE FULLEST EXTENT PERMITTED BY LAW, THE WEBSITE, ITS SITE OPERATOR AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND RELATED TO THE WEBSITE AND GOODS OR SERVICES PURCHASED AND OBTAINED THROUGH THE WEBSITE, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM YOUR USE OF THE WEBSITE.
 
-WE MAKE NO WARRANTY OR REPRESENTATION ABOUT THE ACCURACY OR COMPLETENESS OF THIS WEBSITE'S CONTENT OR THE CONTENT OF ANY SITES LINKED TO THIS WEBSITE OR THAT THE WEBSITE WILL MEET YOUR REQUIREMENTS AND ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE WEBSITE OR OUR SERVICES, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE WEBSITE OR OUR SERVICES, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE WEBSITE OR OUR SERVICES BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE WEBSITE OR OUR SERVICES. THE WEBSITE DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE WEBSITE OR OUR SERVICES OR ANY HYPERLINKED SERVICES OR FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND, THE WEBSITE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+WE MAKE NO WARRANTY OR REPRESENTATION ABOUT THE ACCURACY OR COMPLETENESS OF THIS WEBSITE\'S CONTENT OR THE CONTENT OF ANY SITES LINKED TO THIS WEBSITE OR THAT THE WEBSITE WILL MEET YOUR REQUIREMENTS AND ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE WEBSITE OR OUR SERVICES, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE WEBSITE OR OUR SERVICES, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE WEBSITE OR OUR SERVICES BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE WEBSITE OR OUR SERVICES. THE WEBSITE DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE WEBSITE OR OUR SERVICES OR ANY HYPERLINKED SERVICES OR FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND, THE WEBSITE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
 
 NO INFORMATION OBTAINED BY YOU FROM US OR THROUGH THE WEBSITE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
 
@@ -382,7 +382,7 @@ To do so, simply login to your profile,
 
 __ How do I deactivate my account? Close
 
-To deactivate your account, click on 
+To deactivate your account, click on
 
   * A
 
@@ -629,7 +629,7 @@ Double click the video to activate the keyboard controls. You can use the arrow 
 
 
 
-__ How do I add my name to RedTube's pornstar directory? Close
+__ How do I add my name to RedTube\'s pornstar directory? Close
 
 The pornstar directory is a list of known stars in the business, including the top 100 pornstars of the moment and of all time. We try to include as many stars as possible. However, we still have some requirements that must be met.
 
@@ -641,7 +641,7 @@ __ I am having troubles viewing videos. What do I do? Close
 
 If you are having trouble viewing videos we recommend the following actions:
 
-1) Clear your browser's cache. If you are unsure how to do so you can try the following link: [http://www.wikihow.com/Clear-Your-Browser's-Cache](http://www.wikihow.com/Clear-Your-Browser%27s-Cache)
+1) Clear your browser\'s cache. If you are unsure how to do so you can try the following link: [http://www.wikihow.com/Clear-Your-Browser's-Cache](http://www.wikihow.com/Clear-Your-Browser%27s-Cache)
 
 2) Download the latest flash player version: <https://get.adobe.com/flashplayer/>
 
@@ -669,9 +669,9 @@ We will check your information and contact you as soon as possible.
 
 __ I am being harassed by another community member. What do I do? Close
 
-If you are being harassed by another user, please [send us an email](mailto:support@redtube.com), containing proof of the harassment (screenshot of the message or comment).
+If you are being harassed by another user, please [%send us an email](mailto:support@redtube.com), containing proof of the harassment (screenshot of the message or comment).
 
-Once we have verified the harassment, we will deactivate the user's profile.
+Once we have verified the harassment, we will deactivate the user\'s profile.
 
 __ How do I change my video from private to public or vice versa? Close
 
@@ -687,7 +687,7 @@ The only way to do so is to deactivate your profile and create a new one with yo
 
 Changing your email address, however, is possible and quite simple. Log into your account, access the account menu via the cog symbol at the top right of the page and go to "Change your email". You will be prompted to enter a new email address you wish to associate with the account. Confirm the change by pressing the "Change email" button.
 
-__ Why hasn't my video been uploaded? Close
+__ Why hasn\'t my video been uploaded? Close
 
 Please note that we receive thousands of videos per day. We are doing our best to provide fast and efficient approval of your uploads so they can be available online as soon as possible.
 
@@ -796,7 +796,7 @@ We currently use the following types of cookies:
     * _Cookies that are strictly necessary_ : These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
     * _Analytical cookies_ : These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
     * _Functionality cookies_ : These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
-    * _Targeting cookies_ : These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users' interests.
+    * _Targeting cookies_ : These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users\' interests.
     * We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple year
   * **Web Beacons**. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.
   * **Analytics**. We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics and DoubleClick about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see “Choices About How We Collect, Use and Disclose Your Personal Information” below.
@@ -807,7 +807,7 @@ We currently use the following types of cookies:
 
 Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however they may collect information, including Personal Information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. They may use this information to provide you with interest-based advertising or other targeted content.
 
-We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”.
+We do not control these third parties\' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”.
 
 ## How We Use Your Personal Data
 
@@ -827,7 +827,7 @@ Note that we may process your personal data for more than one lawful ground depe
 In general, we use information that we collect about you or that you provide to us, including Personal Information and Sensitive Personal Information, for following purposes:
 
   * **Provision of services (Registered Members Only)** : to present our Website and its contents to you, including any interactive features on our Website, and to provide you with information, products or services that you request from us; we also collect and use Personal Information to verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * **Customer management (Registered Members Only)** : to manage a registered users' account, to provide customer support and notices to the registered user about his account or subscription, including expiration and renewal notices, and notices about changes to our Website or any products or services we offer or provide through it;
+  * **Customer management (Registered Members Only)** : to manage a registered users\' account, to provide customer support and notices to the registered user about his account or subscription, including expiration and renewal notices, and notices about changes to our Website or any products or services we offer or provide through it;
   * **Customization of content (Registered Members Only)** : to perform research and analysis about your use of, or interest in, our Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites;
   * **Analytics** : to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns;
   * **Functionality and security** : to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement;
@@ -945,7 +945,7 @@ In accordance with the General Data Protecton Regulation law in the European Uni
 
 ## Reporting Claims of Copyright Infringement
 
-We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (the “ **DMCA** ”) or any other applicable intellectual property legislation or laws. Responses may include removing, blocking or disabling access to material claimed to be the subject of infringing activity, terminating the user’s access to [www.redtube.com](https://web.archive.org/) (“ **RedTube** ”), or all of the foregoing.
+We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (the “ **DMCA** ”) or any other applicable intellectual property legislation or laws. Responses may include removing, blocking or disabling access to material claimed to be the subject of infringing activity, terminating the user’s access to [www.redtube.com](https://web.archive.org/) (“ **RedTube** ”), or all of the foregoing. 
 
 If you believe any material accessible on RedTube infringes your copyright, you may submit a copyright infringement notification (see below, “Filing a DMCA Notice of Copyright Infringement” for instructions on filing such a notice). These requests should only be submitted by the copyright owner or an agent authorized to act on the owner’s behalf.
 
@@ -962,11 +962,11 @@ You may notify RedTube of alleged copyright infringement via our form found at D
 We also accept free-form copyright infringement notifications. In that case, in accordance with the DMCA, the written notice (the “DMCA Notice”) must include substantially the following:
 
   * Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works, a representative list of such works.
-  * Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material. If your complaint does not contain the specific URL of the video you believe infringes your rights, we may be unable to locate and remove it. General information about the video, such as a channel URL or username, is typically not adequate. Please include the URL(s) of the exact video(s). 
-  * Adequate information by which we, and the uploader(s) of any video(s) you remove, can contact you (including your name, postal address, telephone number and, if available, e-mail address). 
+  * Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material. If your complaint does not contain the specific URL of the video you believe infringes your rights, we may be unable to locate and remove it. General information about the video, such as a channel URL or username, is typically not adequate. Please include the URL(s) of the exact video(s).
+  * Adequate information by which we, and the uploader(s) of any video(s) you remove, can contact you (including your name, postal address, telephone number and, if available, e-mail address).
   * A statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent or the law.
-  * A statement that the information in the written notice is accurate, and under penalty of perjury, that you are the owner, or an agent authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed. 
-  * Complete complaints require the physical or electronic signature of the copyright owner or a representative authorized to act on their behalf. To satisfy this requirement, you may type your full legal name to act as your signature at the bottom of your complaint. 
+  * A statement that the information in the written notice is accurate, and under penalty of perjury, that you are the owner, or an agent authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.
+  * Complete complaints require the physical or electronic signature of the copyright owner or a representative authorized to act on their behalf. To satisfy this requirement, you may type your full legal name to act as your signature at the bottom of your complaint.
 
 
 
@@ -1002,10 +1002,10 @@ _Please do not send other inquiries or requests to our designated copyright agen
 
 Pursuant to the DMCA, the Counter-Notice must include substantially the following:
 
-  * Your name, address, phone number and physical or electronic signature; 
-  * Identification of the allegedly infringing content and its location before removal or access to it was disabled; 
-  * A statement under penalty of perjury that you believe in good faith that the content was removed by mistake or misidentification; and 
-  * A statement that you consent to the jurisdiction of the U.S. Federal District Court for the judicial district in which you are located (or if you are outside the U.S., for any judicial district in which the operator of RedTube may be found), and that you will accept service of process from the person who originally provided us with the DMCA Notice or an agent of such person. 
+  * Your name, address, phone number and physical or electronic signature;
+  * Identification of the allegedly infringing content and its location before removal or access to it was disabled;
+  * A statement under penalty of perjury that you believe in good faith that the content was removed by mistake or misidentification; and
+  * A statement that you consent to the jurisdiction of the U.S. Federal District Court for the judicial district in which you are located (or if you are outside the U.S., for any judicial district in which the operator of RedTube may be found), and that you will accept service of process from the person who originally provided us with the DMCA Notice or an agent of such person.
 
 
 
