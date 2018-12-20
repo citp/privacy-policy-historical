@@ -1,142 +1,420 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410164639id_/https%3A//www.awm.gov.au/about/organisation/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220212230id_/http%3A//www.awm.gov.au/about/organisation/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | The Australian War Memorial
+# Privacy Management Policy | The Australian War Memorial
 
-## Contents
+##  Privacy Management Policy
 
-  * Personal information the Memorial collects and holds
-  * Information collected online by the Memorial    
-  * Accessing and correcting personal information the Memorial holds    
-  * Complaints about the Memorial’s privacy practices
-  * How to contact us
+The Australian War Memorial (Memorial) takes the matter of information privacy seriously. It endeavours at all times to protect and handle personal information in a manner consistent with its obligations under the _Privacy Act 1988_ (Privacy Act), the _Privacy Amendment (Enhancing Privacy Protection) Act 2012_ , the Australian Privacy Principles (APPs) and the APP Code for Australian Government Agencies.
 
+This policy has been developed and is maintained in accordance with the Australian War Memorial’s Director’s Instruction _9.02 Handling of Personal Information_.
 
+## Overview
 
-## Introduction
+The Memorial's purpose is to commemorate the sacrifice of those Australians who have died in war. Its mission is to assist Australians to remember, interpret and understand the Australian experience of war and its enduring impact on Australian society.
 
-This privacy policy describes how the Australian War Memorial (Memorial) protects and handles personal information consistent with its obligations under the Privacy Act 1988 (Privacy Act), the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and the Australian Privacy Principles (APPs).
+The Memorial deals with personal information in relation to its main functions as a memorial, museum and an archive and the activities that support these functions. Such activities include:
 
-Your privacy is important to the Memorial. In this policy we explain how and why we may collect your personal information, how it is used, when and how we might share it with others and how you can access and seek to correct your personal information.
-
-In this policy, personal information has the meaning given to it in the Privacy Act, which is available on the Comlaw website: [www.comlaw.gov.au](http://www.comlaw.gov.au/). Personal information includes information about living identified or reasonably identifiable individuals.
-
-Detailed information on privacy and the APPs is available on the website of the Office of the Australian Information Commissioner: [www.oaic.gov.au](http://www.oaic.gov.au/).
-
-## Personal information the Memorial collects and holds
-
-### Why do we collect personal information?
-
-The Memorial collects personal information to perform its functions under the Australian War Memorial Act 1980. The Memorial's purpose is to commemorate the sacrifice of those Australians who have died in war. Its mission is to assist Australians to remember, interpret and understand the Australian experience of war and its enduring impact on Australian society.
-
-### Do we permit individuals to deal with us anonymously?
-
-When possible, you have the option of dealing with the Memorial anonymously or through the use of a pseudonym. For instance, you may express your opinion about the Memorial and its operations through our website in this way, if you wish.
-
-### How do we collect and hold personal information?
-
-Generally the Memorial collects personal information directly from individuals who contact us in person, by telephone, by email or via the Memorial website. Sometimes we collect personal information from a third party or a publicly available source, but only if the individual has consented to such collection or would reasonably expect us to collect their personal information in this way, or if it is necessary for a specific purpose such as to conduct or arrange for research into matters pertaining to Australian military history. Sometimes the Memorial may receive personal information about third parties from individuals who contact us and supply us with the personal information of others in the documents, or within details, they provide to us.
-
-We take steps to protect the personal information we hold against misuse, interference and loss, unauthorised access, modification or disclosure. These steps include password protection for accessing our electronic IT system, use of secure online payment technology by the Memorial Shop, securing paper files in locked cabinets and physical access restrictions. When no longer required, personal information is destroyed in a secure manner and consistent with the requirements of the Administrative Functions Disposal Authority issued by the National Archives of Australia and the [Memorial's Records Disposal Authority](http://www.naa.gov.au/naaresources/ra/2005-00243341.pdf).
-
-We seek to ensure that the personal information we collect and hold is accurate, up to date and complete. This includes maintaining and updating personal information when we are advised by individuals that their personal information has changed, and at other times as necessary.
-
-### What kinds of personal information do we collect and hold?
-
-Details of the kinds of records of personal information the Memorial collects and holds are available in the Memorial’s Personal Information Digest published under the Freedom of Information Act 1982 (FOI Act) Information Publication Scheme and [available on the Memorial’s website](https://web.archive.org/about/information-publication-scheme/pid/).
-
-The kinds of personal information the Memorial collects and holds include:
-
-  * historical material about individuals involved in war or warlike operations
-  * information collected through a variety of website features and online forms, such as the Service Charter and subscriptions to the Australian War Memorial Newsletter (eMemorial), including names, contact details such as email and other addresses and telephone numbers, and in some cases opinions individuals express about the Memorial and its operations.
-  * Information collected through the Visitor’s Book and correspondence to the Memorial including names, contact details such as email and other addresses and telephone numbers, and in some cases opinions individuals express about the Memorial and its operations.
-  * information collected from individuals visiting the Memorial Shop or using our Online Shop service, including names, contact details such as email and other addresses, telephone numbers and credit card information
-  * information collected about individuals with whom the Memorial enters into a business relationship
-  * information about Memorial personnel and volunteers, and
-  * information about Memorial Friends, donors and sponsors.
+  * Commemoration, ceremony or events
+  * Collections development and management
+  * Exhibitions development and management
+  * School education programs
+  * Fundraising, including retail operations
+  * Marketing
+  * Sponsorship and supporters programs
+  * Volunteer programs
+  * Personnel recruitment and contract management
+  * Communications including personal and corporate correspondence
+  * Social media and online activity
 
 
 
-From time to time, the Memorial also takes snapshots of Memorial sites maintained on social media platforms, such as Facebook, Twitter and Flickr. This means we may collect personal information individuals post on Memorial sites, including opinions expressed by those individuals.
+These and other activities often require the Memorial to collect contact information and personal details of individuals wishing to be involved in or have access to the Memorial’s collections and programs.
 
-We may collect sensitive personal information as defined in the Privacy Act when it is necessary for or directly related to the performance by the Memorial of its functions or activities, with the consent of and directly from the individual concerned. The Privacy Act (APP 3.4) also provides for the collection of sensitive information in certain other exceptional circumstances.
+All such activities are carried out by the Memorial in accordance with the powers and limitations of the _Australian War Memorial Act 1980_.
 
-### Use and disclosure of personal information by the Memorial
+The Memorial carefully balances the need for information from those wishing to access its archives, programs and services with the amount and type of information it collects and the manner in which it stores, uses and shares this information.
 
-Generally we only use personal information for the purposes for which it was given to us, or for purposes which are directly related to one of our functions or activities, and we do not give it to other government agencies, organisations or anyone else for a purpose other than that for which it was given to us.
+The Memorial is also mindful of privacy issues when providing access to personal recollections, accounts and material held in the National Collection. These records may also be subject to government regulations in relation to classified information and public access to records may also be withheld on these grounds.
 
-Sometimes we may use or disclose the personal information we hold in other circumstances permitted under the Privacy Act and the APPs, including where:
+This Privacy Management Policy outlines how we will comply with the Australian Privacy Principles (APPs) and the APP Code for Australian Government Agencies.
 
-  * the individual has consented
-  * the individual would reasonably expect the information to be used or disclosed for a purpose other than that for which it was collected and that other purpose is related to the purpose for which the information was collected, or in the case of sensitive information, directly related
-  * it is otherwise required or authorised by an Australian law or a court/tribunal order
-  * it is impractical to obtain consent and it is necessary to lessen or prevent a serious threat to somebody's life or health or to public health or safety
-  * it is reasonably necessary for an enforcement related activity conducted by or on behalf of an enforcement body.
+This Privacy Management Policy outlines how we will handle requests for access to or correction of personal information and complaints about our handling of privacy related matters.
 
+## 1\. Definitions
 
+The key concepts and definitions used in this plan are contained in the Privacy Act and are outlined below:
 
-### Do we send personal information overseas?
+_Australian Privacy Principles_ (APP) are contained in the Privacy Act. 
 
-We will not send personal information outside Australia without the consent of the individual concerned or unless we are legally obliged to do so or the transfer complies with APP 8 (cross-border disclosure of personal information).
+_Consent_ means express consent or implied consent
 
-## Information collected online by the Memorial
+_Health_ information means: 
 
-It is our usual practice to collect information about all visitors to our online resources. That information is very limited and only used to identify generic behavioural patterns. Sometimes we use third party platforms to deliver information. These are sites hosted and managed by organisations other than ourselves. Before deciding if you want to contribute to any third party site you should read their privacy policy.
-
-There are several methods and packages that we use to collect visitor behaviours on each of our online platforms. We use Google Analytics on our websites. Information and data collected through Google Analytics is stored by Google on servers in the United States of America, Belgium and Finland. You can opt out of the collection of information via Google Analytics by downloading the [_Google Analytics Opt-out browser add on_](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
-
-When you visit any of our online resources, our metric tools may collect the following information about your visit for statistical purposes:
-
-  * server address
-  * top level domain name (for example .com, .gov, .au, .uk etc.)
-  * the date and time of your visit to the site
-  * the pages you accessed and documents downloaded during your visit
-  * the previous site you visited
-  * if you've visited our site before
-  * the type of browser used.
+  1. information or an opinion about 
+    * the health or a disability (at any time) of an individual; or  
+    * an individual's expressed wishes about the future provision of health services to him or her; or 
+    * a health service provided, or to be provided, to an individual;  that is also personal information; or 
+  2. other Personal Information collected to provide, or in providing, a health service; or 
+  3. other Personal Information about an individual collected in connection with the donation, or intended donation, by the individual of his or her body parts, organs or body substances; or 
+  4. genetic information about an individual in a form that is, or could be, predictive of the health of the individual or a genetic relative of the individual.              
 
 
 
-We record this data to maintain our server and improve our services. We do not use this information to personally identify anyone.
+_Personal information_ is defined in the Privacy Act as ‘information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether true or not and whether recorded in a material form or not.’
 
-### Cookies
+The types of Personal Information that the Memorial collects and holds will depend on the circumstance and relationship between the individual and the Memorial.
 
-'Cookies' are small amounts of information that are created and stored on the user's system, and used by the Web host server for a variety of possible purposes.
+Personal information that is commonly collected by the Memorial includes: 
 
-The Memorial's Collection Databases use 'cookies' in order to retain search parameters and results during an enquiry session. You will need to set your browser to accept 'cookies' in order to undertake searches and display results within the Memorial's Databases. If your browser supports such an option, you may also use the setting to 'warn before accepting cookies' or 'prompt'. Our Databases will function normally in either 'accept' or 'prompt' modes.  The core functionality of the Memorial’s website platforms will be largely unaffected if you disable cookies in your browser, but you may be unable to access some advanced functions.
+  * Name
+  * Address (residential, postal and email) 
+  * Phone number
+  * Date of birth
+  * Gender
+  * Country of Birth
+  * Driver’s Licence
+  * Banking and superannuation details
+  * Tax File Number
+  * Health information 
+  * Emergency contact details
+  * Photographs or video recordings (including ID cards, CCTV footage and event photography/videography)
+  * Criminal history
+  * IT access logs
+  * Records of donations and related family histories
+  * Retail or other transactional records
+  * Security Clearance status
 
-Information passed between the client and server via these cookies is not retained by the host software in any fashion once the search session is terminated. The only information gathered from the client is that amount necessary to identify that particular session and keep it distinct from the other search sessions that may be happening at any one time. Cookie information is not forwarded to any other body or organisation.
 
-### Personal information collected online through the Memorial Shop
 
-The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service. This employs SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to [_NAB Credit Card Security_](http://www.nab.com.au/personal/credit-cards/manage-your-credit-card/credit-card-security).
+_Privacy Statement_ means a notification, in the format specified under paragraph 2.2, that is required to be provided to an individual at or before the time (or, if that is not practicable, as soon as practicable after) the Memorial collects Personal Information.
 
-Any personal information you provide when ordering from the Memorial Shop will be used to process your request or order. To enhance your online ordering and shopping experience, and to provide a more personalised service to you, we will ask you if we can use your personal information to contact you about upcoming products and items of interest. You will have the ability to choose whether or not you would like to receive this information from the Memorial. You can unsubscribe from this service at any time.
+_Sensitive information_ is defined in the Privacy Act as:
 
-From time to time, we may use parts of the data you and other users provide us with to better understand how our services are used and to provide information for future improvements. The data used to do these reviews does not include any direct personal information that identifies you as our customer.
+  1. Information or an opinion about an individual’s: 
+    * racial or ethnic origin; or
+    * political opinions; or
+    * membership of a political association; or
+    * religious beliefs or affiliations; or
+    * philosophical beliefs; or
+    * membership of a professional or trade association; or
+    * membership of a trade union; or
+    * sexual orientation or practices; or
+    * criminal record that is also Personal Information;
+  2. Health information about an individual;
+  3. Genetic information about an individual that is not otherwise health information; or
+  4. Biometric information that is to be used for the purpose of automated biometric verification or biometric identification; or
+  5. Biometric templates.
 
-Generally we will not use your personal details for any other purpose, and will not disclose it to anyone else for a purpose other than that for which you have given it to us. Sometimes we may use or disclose this information in other circumstances permitted under the Privacy Act and the APPs.
 
-## Accessing and correcting personal information the Memorial holds
 
-You may request access to your personal information. To request access to your personal information you should contact the Executive Officer, Corporate Services by e-mail at [executive@awm.gov.au](mailto:executive@awm.gov.au) who will manage the request.
+_Memorial Personnel_ means all employees, appointed office holders (Council), consultants, contractors and volunteers of the Memorial.
 
-The Memorial may require you to verify your identity and be specific about the information you seek. We will provide you with access, subject to any applicable exceptions under the Privacy Act, such as where the Memorial is entitled to refuse access under the FOI Act. You will not be charged for lodging a request to access your personal information.
+## 2\. Personal information Collection (APP 1-5)
 
-If you request access to the personal information we hold about you, or request that we change that personal information, you should expect us to respond your request within 30 days of the request being made.
+### 2.1 Personal Information collection
 
-We will allow access or make the changes unless we consider that there is a sound reason under the Privacy Act, FOI Act or any other relevant law to withhold the information, or not make the changes. If we do not agree to provide access to personal information or to amend or annotate the information we hold about you, we will provide you with written reasons for refusing and information about how you may complain about our refusal.
+Personal information must only be collected by lawful and fair means and only when it is reasonably necessary or directly related to the Memorial’s activities.
 
-## Complaints about the Memorial’s privacy practices
+Collection must not be unreasonably intrusive nor should it be collected on the basis that it may be useful in future.
 
-If you have a concern about the way in which the Memorial handles your personal information and wish to make a complaint, contact the Executive Officer, Corporate Services by email at:  [executive@awm.gov.au](mailto:executive@awm.gov.au).  The Memorial will consider your complaint and provide you with a response.
+_**Example:** When collecting information relating to booking a seat at a commemorative event only an email address needs to be collected to alert attendees to critical event changes. Information not necessary for this specific purpose, such as a home address or landline telephone number, should not be collected. If the Memorial is seeking additional information, such as postcode of residence, for demographic or research purposes it should be clearly labelled as such and the process should make provision of that data as ‘opt-in’ only._
 
-Under the Privacy Act, the Privacy Commissioner has the power to investigate complaints or acts or practices that may be a breach of privacy even if there is no complaint. If you have made a complaint to us about the Memorial’s privacy practices and you do not believe that the matter has been resolved satisfactorily, you should either write to the Privacy Commissioner setting out the details of the practices which you think interfere with your privacy (if you wish, you can use a form available on the Commissioner’s website), or telephone 1300 363 992 (local call charge). The Privacy Commissioner will generally expect you to complain to the Memorial first, and will likely refer your complaint to the Memorial if you have not done so.
+### 2.2 Sensitive Information collection
 
-## How to contact us
+Memorial Personnel must generally only collect Sensitive Information with the individual’s consent and when the information is reasonably necessary for one or more of the Memorial’s functions or activities.
 
-Individuals can obtain further information in relation to this privacy policy, or provide any comments, by contacting us:
+_**Example:** Racial or ethnic information may only be collected from job applicants in relation to Identified or Special Measures employment opportunities and only with the express consent of applicants._
 
-Executive Officer, Corporate Services  
-Phone:  02 6243 4290  
-E-mail:  [executive@awm.gov.au](mailto:executive@awm.gov.au)  
-Postal address:  GPO Box 345, CANBERRA ACT 2601
+There are limited circumstances where consent is not required as outlined in the APP, the exemptions most likely to apply to the Memorial relate to security matters and include:
+
+  * Instances where it is unreasonable or impracticable to obtain consent and the Memorial has a reasonable belief that the information is needed to lessen or prevent a serious threat to the life, health or safety of an individual or the public; or
+  * the Memorial has a reasonable belief that the information is needed in order to take action on suspected unlawful activity or misconduct of a serious nature
+
+
+
+_**Example:** Memorial Personnel attending a medical emergency may collect Sensitive Information regarding a person’s health from a third party or personal effects in order to perform first aid._
+
+### 2.3 Collection of information from third parties
+
+Where possible, Memorial Personnel must collect Personal Information only from the individual concerned. If Personal Information about an individual is collected from another source, Memorial Personnel must take reasonable steps to ensure that the individual is or has been made aware the Memorial has collected the information and provided with an approved Privacy Statement.
+
+_**Example:** Bequest or donor information is sent to individuals on a mailing list acquired from a third party - the Memorial should ensure that communication with persons on this list includes how the Memorial obtained their personal information and an approved Privacy Statement._
+
+### 2.4 Notification of data collection
+
+Where Personal Information is collected or solicited from forms or websites, Memorial personnel should ensure that an approved Privacy Statement is included on the web page or form.
+
+Where Personal Information is specifically sought through personal contact (e.g. on-site surveys; phone; onsite Research Centre enquiries) Memorial Personnel must inform the individual of the data being collected and availability of the Privacy Policy on the Memorial’s website.
+
+This may be achieved through a verbal Privacy Statement or for common on-site activities through the use of approved Privacy Statement signage.
+
+**_Example:_** _Signage with an approved Privacy Statement should be clearly visible within the Research Centre to inform visitors that personal information may be collected in order to provide appropriate access to materials held in the National Collection._
+
+Privacy Statements should be tailored depending on the level of information collected and the purpose for which it is used. Privacy Statements can be approved by Section or Branch Heads.
+
+Approved Privacy Statements must include at a minimum:
+
+  * A contact phone number or email for requests for information or complaints
+  * Information on where the Memorial’s Privacy Policy can be found
+  * whether the information will be disclosed to a third party
+  * Any significant consequences if information in not provided
+
+
+
+**_Example:_** _A Privacy Statement included in relation to volunteering or staff recruitment should note that 'If you do not provide the required information your application may not be processed or assessed.'_
+
+### 2.5 Unsolicited Personal Information
+
+Unsolicited Personal Information is information that the Memorial receives but did not actively seek to collect.
+
+Unsolicited Personal Information that is not reasonably necessary or directly related to the Memorial’s functions or activities must be destroyed or de-identified, unless it is necessary to preserve the document in order to comply with recordkeeping obligations. If retained it should be treated in accordance with the principles in this plan.
+
+**_Example:_** _An unsolicited CV is sent to the Memorial and retained for consideration of future job opportunities, the sender should be informed the Memorial has retained their Personal Information and provided with a suitable Privacy Statement._
+
+### 2.6 Anonymity and pseudonymity
+
+Wherever practicable the Memorial will provide the opportunity for people to deal with us anonymously or pseudonymously.
+
+**_Example:_** _Surveys should only include fields for name, email address or phone number if the Memorial intends to follow up with the individual completing the survey._
+
+## 3\. Use and disclosure (APP 6-9)
+
+### 3.1 Use and disclosure of Personal Information
+
+Personal information is valuable, and its loss or unintended disclosure can have significant consequences for the individual and for the Memorial.
+
+The Memorial will generally only use or disclose Personal Information for the purpose of conducting activities in accordance with the Australian War Memorial Act 1980 or where an individual would reasonably expect the Memorial to use or disclose the information for another purpose.
+
+**_Example:_** _The Memorial may use an email address provided as part of a research enquiry to contact the correspondent for the purposes of conducting that research. The Memorial may not use that information for general mailing list activities unless the correspondent has specifically ‘opted-in’ to receive such email._
+
+The Memorial may also use or disclose Personal Information for another purpose in special circumstances as allowed for within the Privacy Act, such as with the individual's consent or for health and safety or law enforcement reasons.
+
+**_Example:_** _The Memorial receives a direction from the Freedom of Information Ombudsman to release Personal Information in relation to an FOI request._
+
+The Memorial may also hold classified or restricted Personal Information, this information is treated in accordance with both the APP and other legal requirements.
+
+re is a general right of access to some archival records held by the Memorial in relation to the Australian Defence Force once they are in ‘open access’. The Memorial’s Research Centre manages access to these records in accordance with the relevant Director’s Instruction.
+
+### 3.2 Direct Marketing
+
+ect marketing, distributing information about the Memorial directly to an individual using Personal Information, is only permissible for activities in accordance with the Australian War Memorial Act 1980 or where the Memorial has obtained express consent to use Personal Information for this purpose.
+
+All Direct marketing activities must include an ‘opt-out’ method and the Memorial must honour requests to opt out of direct marketing within 7 working days.
+
+### 3.3 Cross-Border Disclosure
+
+The Memorial will only transfer information outside Australia within the limited circumstances provided for within the Privacy Act.
+
+Unless express consent has been given for cross-border transfer the Memorial must only do so after conducting a Privacy Impact Assessment (PIA) and only when it is assured that the cross-border party is willing and able to manage the information in accordance with the APPs.
+
+**_Example:_** _The Memorial must conduct a PIA prior to transferring Personal Information to a cloud service including assessing the location of the server(s) the information will be held on and assuring itself that the company and nation of holding will do so in accordance with the APPs._
+
+## 4\. Accuracy of information (APP 10)
+
+The Memorial will make all reasonable efforts to ensure the Personal Information it holds is accurate and up to date.
+
+**_Example:_** _The Memorial sends a letter and the recipient responds noting a change in address, the Memorial must make every effort to update this address in all relevant databases._
+
+## 5\. Security of personal information (APP 11)
+
+### 5.1 Storage
+
+Personal information must be stored securely to prevent loss or misuse. The Memorial makes all practicable efforts to ensure that Personal Information is held securely. Access to this information is only available to employees to enable them to conduct the required tasks of their role.
+
+The Memorial retains information in accordance with its legal record keeping obligations, internal policies including those relating to management of the National Collection and the APPs.
+
+Personal information in electronic format must be stored and managed securely in accordance with the Director’s Instructions (Administrative).
+
+Financial information, including credit card and personal banking information, must be handled in accordance with the Director’s Instructions (Financial) and related procedures.
+
+Hardcopy records containing Sensitive Information should be stored in locked furniture when not in use. Access should only be available to authorised personnel and should not be used in places visible to members of the public.
+
+### 5.2 Destruction
+
+Personal Information no longer needed for the purpose it was collected, and not otherwise required to retain the information under any law, regulation or code must be destroyed in a secure manner or de-identified.
+
+### 5.3 Notifiable Data Breach Plan
+
+The Memorial maintains and regularly reviews a Notifiable Data Breach Plan (NDBP) in order to respond to any loss or breach of personal information held by the Memorial.
+
+The NDBP sets out procedures and lines of authority in the event that the Memorial experiences a data breach (or suspects that a data breach has occurred).
+
+This Plan is intended to enable the Memorial to contain, assess and respond to data breaches in a timely fashion and to mitigate potential harm to affected individuals.
+
+## 6\. Access to personal information (APP 12-13)
+
+### 6.1 Access to Personal Information
+
+Individuals (other than Memorial Personnel) who request access to Personal Information about themselves held by the Memorial must submit their request through the Memorial’s Freedom of Information officer.
+
+The Freedom of Information officer will process requests in accordance with relevant Director’s Instructions (Administrative).
+
+Memorial Personnel requesting access to their employment related Personal Information are entitled to do so without filing an FOI request, requests are managed by the Head, Human Resources in accordance with the relevant Director’s Instructions (Administrative).
+
+The Memorial may, in accordance with general FOI principles, limit access to documentation requested by both Memorial Personnel and other individuals including when:
+
+  * Access would unreasonably impact another individual’s privacy
+  * Documents are subject to confidentiality obligations (such as a written reference for employment), legal privilege or contain commercially or legally sensitive information
+  * Where requests are vexatious or frivolous
+
+
+
+Memorial Personnel provided with limited access to their Personal Information may file a formal FOI request for release of same.
+
+In accordance with the principles of Use and disclosure of Personal Information as outlined in this policy, the Memorial may grant access to Personal Information to third parties such as law enforcement agencies or an Ombudsman’s office.
+
+### 6.2 Correction of Personal Information
+
+An individual can request Personal Information held by the Memorial is corrected, including amending, deleting or adding to a record, to ensure the information is accurate, up to date, complete and not misleading.
+
+The Memorial will amend records where practicable and reasonable within 30 days of a request and will notify the individual the requested change has been made.
+
+The Memorial may request proof of identity or of accuracy of a requested change.
+
+**_Example:_** _A member of staff requests the Memorial updates their personnel record to reflect the award of an academic or other qualification, the Memorial may request proof of conferment before doing so._
+
+The Memorial may deny such requests where it is contrary to the public interest or its record keeping or collections management obligations to do so. The Memorial will provide a written response outlining the reason why the request was denied in such circumstances and information on how the correspondent can complain or have this decision reviewed.
+
+**_Example:_** _An individual requests the Memorial alter details held in records held by the National Collection, the Memorial may refuse this request so as not to adversely impact the historical accuracy of a document._
+
+The Memorial may make alterations to records directly or through notation.
+
+You will not be charged for lodging a request to access or correct personal information.
+
+### 6.3 How to request access to or correction of Personal Information
+
+If you wish to access or correct personal information we hold about you, you may:
+
+  * **Email:** [executive@awm.gov.au](mailto:executive@awm.gov.au)
+  * **Write to:**  
+Privacy Officer  
+Australian War Memorial  
+GPO Box 345  
+Canberra ACT 2601  
+AUSTRALIA
+  * **Phone:** the Memorial’s switchboard on +61 (02) 6243 4211
+
+
+
+### 6.4 How the Memorial will respond to a request to access or correct Personal Information
+
+If you have provided contact details the Memorial will acknowledge your request within 5 business days. If you have provided contact details the Memorial will provide you with a written response within 30 days after receiving your request, by:
+
+  * providing access to the documents;
+  * advising you of our decision to refuse access to or correction of documents; or
+  * advising you of any difficulties we have encountered in completing your request, in which case we will provide you with an updated timeframe for finalising your request.
+
+
+
+If your request requires a significant number of documents or requires consultation with other parties, we may ask you to make a request under the Freedom of Information Act 1982, in order to provide a clear structure for our response to your request.
+
+## 7\. Register of personal information holdings
+
+The Memorial publishes a register of Personal Information it holds online:
+
+<https://www.awm.gov.au/about/organisation/corporate/information-publication-scheme/pid>
+
+The register is periodically reviewed and updated.
+
+## 8\. Risk management
+
+### 8.1 Business Risk Register
+
+The Memorial takes privacy matters seriously and management of its privacy obligations is listed on its Business Risk Register and managed in accordance with the relevant Director’s Instructions (Administrative).
+
+### 8.2 Privacy Impact Assessments
+
+The Memorial will undertake a written Privacy Impact Assessment (PIA) for all ‘high privacy risk’ projects or initiatives that involve new or changed ways of handling personal information.
+
+The privacy risks of Memorial projects will be assessed as part of the standard Risk Assessment process of standing up a new project.
+
+The Memorial keeps a register of all PIAs conducted and publishes a summary of this information on its website.
+
+## 9\. Privacy officers
+
+### 9.1 Privacy Champion
+
+The Memorial designates the Assistant Director, Corporate Services as the ‘Privacy Champion’ for the purposes of the Australian Government Agencies Privacy Code.
+
+### 9.2 Privacy Officer
+
+The Memorial designates the Executive Officer, Corporate Services as the ‘Privacy Officer’ for the purposes of the Australian Government Agencies Privacy Code.
+
+### 9.3 Section Privacy Officers
+
+Within each functional area of the Memorial (Section) a Privacy Officer is nominated to provide advice or assessment on privacy matters as they apply to each Section.
+
+### 9.4 Data Breach Response Officer
+
+Under the Memorial’s Notifiable Data Breach Response plan the IT Business Team Leader is appointed as the Data Breach Response Officer (DBRO). The DBRO is the initial point of contact for suspected or known breaches and provides advice and assistance to the CIO and Privacy Champion in reviewing reported breaches.
+
+## 10\. Privacy training
+
+The Memorial provides information on privacy obligations to all staff as part of the staff induction process. Memorial staff who regularly deal with personal information are also required to undertake annual refresher training in relation to privacy matters.
+
+The Memorial provides staff with access to the APS Privacy Awareness training module through its eLearning system.
+
+Memorial staff designated as either a Privacy Champion or Privacy Officer receive additional support such as access to the OAIC Privacy Officer Toolkit or training opportunities to properly equip them for their role.
+
+## 11\. Complaints about the Memorial's privacy processes
+
+### 11.1 Complaints
+
+Complaints about the collection, sharing, handling or correction of your personal information by the Memorial can be made by the following means:
+
+  * **Email:** [executive@awm.gov.au](mailto:executive@awm.gov.au)
+  * **Write to:**  
+Privacy Officer  
+Australian War Memorial  
+GPO Box 345  
+Canberra ACT 2601  
+AUSTRALIA
+  * **Phone:** the Memorial’s switchboard on +61 (02) 6243 4211
+
+
+
+### 11.2 How the Memorial will respond to complaints about the handling of Personal Information
+
+If you have provided contact details the Memorial will acknowledge that we have received your complaint within 5 business days.
+
+If you have provided contact details the Memorial will respond to your privacy complaint within 30 calendar days of receipt of the complaint.
+
+### 11.3 How to make a privacy complaint to the Office of the Australian Information Commissioner
+
+If you are dissatisfied with the way the Memorial has handled any aspect of your personal information or a request to access or correct same you may contact the Office of the Australian Information Commissioner (OAIC):
+
+  * **Email:** [privacy@privacy.gov.au](mailto:privacy@privacy.gov.au)
+  * **Write to:**  
+Office of the Australian Information Commissioner  
+GPO Box 5218  
+Sydney NSW 2001
+  * Use the online complaint form at the OAIC website:  
+<https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint>
+
+
+
+Please note that the OAIC is unable to receive complaints over the phone.
+
+## 12\. Privacy policy updates
+
+### 12.1 Update Schedule
+
+This policy will be reviewed annually at a minimum, or more frequently as required, including when the OAIC guidance material is revised or legislative amendments are made to the Privacy Act.
+
+### 12.2 Last review
+
+This policy was last reviewed: 5 September 2018
+
+## 13\. Obtaining copies of this policy
+
+### 13.1 Access
+
+This policy and associated documents are published in PDF and web page on our website: www.awm.gov.au.
+
+### 13.2 Alternative formats
+
+If you wish to access this policy in an alternative format or hard copy, please contact the Memorial.
+
+### 13.3 Cost
+
+A single copy of this policy and associated documentation will be provided at no cost upon request.
