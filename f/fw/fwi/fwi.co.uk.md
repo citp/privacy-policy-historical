@@ -1,133 +1,180 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430120446id_/http%3A//www.fwi.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220133857id_/https%3A//www.reedbusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# Cookies & Privacy - Farmers Weekly
+# Privacy Policy - Reed Business Information
 
-### PRIVACY STATEMENT
+### **1\. About this Privacy Policy**
 
-This website is owned and operated by [Reed Business Information Limited](http://www.reedbusiness.com/)
+This privacy policy applies when you visit or use our websites, apps and other services, including events, that refer or link to this privacy policy (each, a “Service”). This privacy policy may be supplemented by additional privacy statements, terms or notices provided on certain areas of the Service or during our interactions with you.
 
-Information we collect from our customers and users of our websites may be used in the following ways.
+Irrespective of any branding used on the website, the Reed Business Information legal entity that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service, and, in any event, you may contact us at the address below.
 
-#### Subscription Services
+### **2\. Information We Collect**
 
-Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service.
+We collect information about you in three ways: directly from your input, through the Service’s technologies, and from third party sources. For events this can include collecting your data from registration forms, badge/business card scanners, and other event related apps.
 
-#### Payment details
+### **2.1 Data You Provide to Us**
 
-Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you.  If you do not wish us to store and use the information for future transactions, please contact us.
+The types of personal information that we collect directly from you depends on how you interact with us and the Service and includes:
 
-#### Contact details
+  * Contact details, such as your name, email address, social media handle, postal address and phone number;
+  * Account login credentials, such as usernames and passwords, password hints and similar security information;
+  * Other account registration and profile information, such as educational and professional background and photo;
+  * Other account or event registration and profile information, such as educational and professional background and photo, and for events dietary and accessibility requirements;
+  * Payment information, such as a credit or debit card number;
+  * Comments, feedback and other information you provide to us, including search query data and questions or information you send to customer support; and/or
+  * Interests and communication preferences, including preferred language.
 
-We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here.](https://www.fwi.co.uk/datacaptureform/account)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by [registering your preference here.](https://www.fwi.co.uk/datacaptureform/account)
+### **2.2 Data from Service Use**
 
-If you wish to alter any of your registration details [please click here.](https://www.fwi.co.uk/datacaptureform/account)
+The Service automatically collects information about how you and your device interact with the Service, including:
 
-#### Voluntary Information
+  * Computer, device and connection information, such as IP address, browser type and version, operating system and other software installed on your device, mobile platform and unique device identifier and other technical identifiers, error reports and performance data;
+  * Usage data, such as the features you used, the settings you selected, URL click stream data, including date and time stamp, and referring and exit pages, and pages you visited or searched for on the Service; and/or
+  * For location-aware Services, the region, city or town where your device is located in order to provide you with more relevant content for where you are in the world.
 
-We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion.
 
-#### Statistical information
 
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
+We collect this data through our servers and the use of cookies and other technologies. You can control cookies through your browser’s settings and other tools. However, if you block certain cookies, you may not be able to register, login, or access certain parts or make full use of the Service. For more details, visit the cookie notice of the Service.
 
-#### Security
+### **2.3 Data from Other Sources**
 
-Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls.
+We also may obtain personal information about you from our group companies and from other third parties, including:
 
-#### Access to Data
+  * The administrators at the organization with which you are employed or affiliated to activate and manage your access to the organization’s subscription to the Service;
+  * Social networks when you grant permission to access your data on one or more networks;
+  * Our service providers that help us determine a location based on your IP address in order to customize the Service to your location;
+  * Partners with which we offer co-branded services or engage in joint marketing activities or event sponsorship and hosting; and/or
+  * Publicly-available sources and data suppliers from which we obtain data to validate or supplement the information we hold.
 
-Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
 
-### USE OF COOKIES BY FARMERS WEEKLY
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+### **3\. How We Use Your Information**
 
-Farmers Weekly requires cookies in order to operate fully and works with third party advertisers who place cookies on your computer to serve and target advertisements more effectively.
+Depending on how you interact with us and the Service and your preferences, we use your personal information to:
 
-Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * Provide, activate and manage your access to and use of the Service;
+  * Process and fulfil a request, order, download, subscription or other transaction (including to process payments);
+  * Provide technical, product and other support and to help keep the Service working, safe and secure;
+  * Enhance and improve the Service and our other products and services and to develop new products, services and benefits;
+  * Offer you customized content and other personalization to make the Service more relevant to your interests and geography;
+  * Respond to your requests, inquiries, comments and concerns;
+  * Notify you about changes, updates or other announcements related to the Service and our other products and services;
+  * Deliver targeted advertisements, promotional messages, notices and other information related to the Service, your interests and other products, events and services;
+  * For events: to include your professional details on delegate booklets, badges, passes, place cards, guest lists, seating charts, networking portals, and where applicable for speaker and panel presenter listings;
+  * Invite you to participate in user testing and surveys as well as sweepstakes, competitions and similar promotions;
+  * Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations, including determining the effectiveness of our promotional campaigns and evaluating our business performance, or in other ways pursuant to a customer agreement; and/or
+  * Comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Further information about the cookies used by Farmers Weekly is provided below.
 
-#### Cookies used by Farmers Weekly
 
-The following Cookie categories are based on the classification presented in The International Chambers of Commerce (ICC) Cookie Guide.
+If you are an administrator of an organization with a subscription to the Service, we will use your details to communicate with you about your organization’s subscription and related services. If you supply us contact information of your colleagues, we may contact those individuals with communications about the Service that may include reference to you.
 
-#### Category 1 – Strictly necessary cookies
+### **4\. Sharing of your Information**
 
-These cookies are strictly necessary to provide services that you have requested. Category 1 Cookies used by Farmers Weekly:
+### **4.1 Your Organization**
 
-* Login status: To Identify you as being logged in to our website.
-* Load Balancing: Cookies may be used to distribute load across our web servers – to ensure our websites perform well and give you the best possible experience.
-* User Subscription Data: Subscription cookies allow us to ensure that you can access resources which you have registered or paid for. 
+If you access the Service through a subscription administered by your organization, your personal information and certain usage data gathered through the Service may be accessed by or shared with the administrators authorised by your organization for the purposes of usage analysis, subscription management and compliance, cost attribution and departmental budgeting.
 
-#### Category 2 – Performance cookies
+### **4.2 Application Licensor**
 
-These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don’t collect information that identifies a visitor. The information collected is anonymous and is only used to improve the way our website works. Category 2 Cookies used by Farmers Weekly:
+If you access a third-party application on the Service through a license agreement with the licensor of that application, the personal information relevant to that third-party application will be shared with its licensor so that it can provide you access to the application, subject to the terms of its license agreement and its privacy policy.
 
-* Web analytics: Google Web Analytics and Site Catalyst cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited. 
+### **4.3 Our Processors**
 
-[Click on this link to opt out of Google Web Analytics.](https://tools.google.com/dlpage/gaoptout)   
-[Click on this link to opt out of Site Catalyst HBX Analytics.](https://documents.hitbox.com/optout.html)
+Depending on the Service provided, we share information with:
 
-[ ](https://documents.hitbox.com/optout.html)
-* Embedded Videos: Most videos on Farmers Weekly are hosted on [Brightcove](http://www.brightcove.com/en/privacy) and [YouTube](http://www.google.com/policies/privacy/ads/). These sites use cookies to collect video statistics and improve site experience. 
+  * Our affiliates, trading names and divisions within the Reed Business Information group of companies worldwide (for a list, click [here](https://www.reedbusiness.com/about-us/#about-us-locations)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or
+  * Our service providers, suppliers, agents and representatives, including but not limited to, editors, payment processors, customer support, email service providers, IT service providers, mailing houses and shipping agents, venue providers and other onsite event contractors which may include trainers, caterers, security staff, and badge and booklet printers;
 
-#### Category 3 – Functionality cookies
 
-These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.
 
-#### Category 3 – Cookies used by Farmers Weekly:
+to process the information for us based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures.
 
-* User Preferences: Preference cookies remember settings you’ve applied to this site such as Layout, Default views, Search filters, Number of Search results per page, Video bandwidth etc… 
-* Optimizing User Experience: Remembering recently viewed pages. Remembering your last search term. 
-* Login Information: Login cookies may be used to communicate your login details across pages of this website. This data is encrypted and not shared with third parties. 
+### **4.4 Your Choices**
 
-#### Category 4 – Targeting or Advertising cookies
+We share your personal information with our group companies and with sponsors, joint venture partners and other third parties, including entities for which we are acting as an agent, licensee, application host or publisher, that wish to send you information about their products and services that may be of interest to you, as determined by your choices and in managing your communications preferences and other settings.
 
-These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers
+The Service may let you post and share personal information, comments, materials and other content. Any such contributions that you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas.
 
-#### Category 4 – Cookies used by Farmers Weekly:
+### **4.5 Legal Reasons**
 
-* Targeted Advertising: Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in. 
+We also disclose your personal information if we have a good faith belief that such disclosure is necessary to:
 
-These cookies can be linked to clicks on ‘Like’ or ‘Share’ buttons which may be used on this site. 
+  * meet any applicable law, regulation, legal process or other legal obligation;
+  * detect, investigate and help prevent security, fraud or technical issues; and
+  * protect the rights, property or safety of Reed Business Information, our users, employees and others;
 
-The following third party advertising networks are used by Farmers Weekly:
 
-Doubleclick (Google)  
-Adtech  
-Disqus.com  
-Sharethis
 
-You may choose to decline these cookies by visiting the following sites:
+and as part of a corporate transaction, such as a transfer of assets to or an acquisition by or merger with another company.
 
-[Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp)  
-[Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)  
-[Adtech opt-out page](http://www.adtech.com/Home/)  
-[](http://www.scorecardresearch.com/CookiesDisabled.aspx?trackid=-1&sitegroup=20&siteid=10300&languageid=1)  
-[Sharethis opt-out page](http://sharethis.com/privacy)
+### **5\. Your Communications Preferences**
 
-In addition, third party advertisers run adverts on Farmers Weekly and use their own advertising networks. 
+You can customise and manage your communications preferences and other settings when you register with the Service, by updating your account features and preferences, by using the “opt-out”,  unsubscribe mechanism, or other means provided within the communications that you receive. You can also contact [unsubscribe@reedbusiness.com](mailto:unsubscribe@reedbusiness.com), and if your contact details change, you can alter the details we hold by emailing [updatemydetails@reedbusiness.com](mailto:updatemydetails@reedbusiness.com).  We reserve the right to notify you of changes or updates to the Service whenever necessary.
 
-If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser. 
+### **6\. Accessing and Updating your Information**
 
-* Campaign Tracking: Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Farmers Weekly traffics its own campaigns through: 
+The Service may allow registered users to directly access and review their account information and make corrections or updates upon login at any time. Keeping such information up to date is solely the responsibility of the user. Registered users may also close their account directly through the Service or by contacting the Service’s customer support.
 
-Doubleclick (Google) Adtech  
-Site Catalyst 
+### **7\. Data Retention**
 
-You may choose to decline these cookies by visiting the following sites: 
+We retain your personal information for as long as necessary to provide the Service and fulfill the transactions you have requested, and for other essential purposes such as complying with our legal obligations, maintaining business and financial records, resolving disputes, maintaining security, detecting and preventing fraud and abuse, and enforcing our agreements.
 
-[Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)  
-[Adtech opt-out page](http://www.adtech.com/en/service/cookies.html)  
-[Site Catalyst opt-out page](https://rbi.d2.sc.omtrdc.net/optout.html?locale=en_US&popup=true)
+### **8\. Children’s Privacy**
 
-In addition, third party advertisers run campaigns on Farmers Weekly.
+We do not knowingly collect information from children under the age of 13 or target the Service to children under 13.
 
-If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser. 
+### **9\. Data Security**
 
-To contact us about cookies on this site, please email [eucookies@rbi.co.uk](mailto:eucookies@rbi.co.uk)
+We use a variety of administrative, physical and technical security measures to help safeguard your personal information.
+
+### **10\. Locations of Processing**
+
+Your personal information may be stored and processed in your region or another country where Reed Business Information group companies and our service providers maintain servers and facilities, including Australia, Brazil, France, Germany, Italy, Ireland, the Netherlands, Singapore, South Africa, the United Kingdom, and the United States. We take steps, including through our contracts, to ensure that the information continues to be protected wherever it is located in a manner consistent with the standards of protection required under applicable law.
+
+Where personal information is transferred from the European Economic Area (“EEA”) or Switzerland to a country that has not received an adequacy decision by the European Commission, we rely on appropriate safeguards, such as the European Commission-approved Standard Contractual Clauses and the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, to transfer the data.
+
+Accuity Inc. and FlightStats Inc have certified certain of their services to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce. Please view the Accuity Privacy Shield Notice [here](https://www.relx.com/documents/policies/privacy-shield.pdf) and the FlightStats Privacy Shield Notice [here](https://www.flightstats.com/company/legal/privacy-policy/#privacy-shield). To learn more about the Privacy Shield program, and to view these entities’ certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/welcome).
+
+### **11\. Grounds for Processing**
+
+When we collect from you any personal information within the scope of European data protection laws, we do so (a) with your consent; (b) where necessary to provide the Service, fulfill a transaction or otherwise perform a contract with you or at your request prior to entering into a contract; (c) where necessary for our compliance with a legal obligation; (d) where necessary for the performance of a task carried out in the public interest; and/or (e) as necessary to fulfill our legitimate interests as described below, except where our interests are overridden by your privacy rights. Where we rely on your consent to process personal information, you have the right to withdraw your consent at any time, and where we rely on legitimate interests, you have the right to object.
+
+Our legitimate interests are: to deliver our products to our customers and their end users; to detect or prevent fraud; to protect the security of our systems, customers and users; to further develop our products; to conduct direct marketing; to operate our business (by processing payments/invoices and conduct credit checks on customers, suppliers and leads, perform sales and customer relations management, supplier management, as well as incidental processing in our back office for these purposes); to enable our customers to comply with legal obligations; to provide customer service or support; or fulfil our other legitimate interests as described above.
+
+### **12\. Your rights**
+
+You have the right under European and certain other privacy and data protection laws to request free of charge:
+
+  * access to and correction or deletion of your personal information,
+  * that we cease or limit our processing of your personal information,
+  * a copy of your personal information (right to data portability), and to
+  * object at any time to processing of personal information concerning you for direct marketing.
+
+
+
+If you would like to exercise any of these rights, please contact us at the address set out below. We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity.
+
+### **13\. Changes**
+
+We will update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. If we make any material changes, we will provide notice through the Service or by other means.
+
+### **14\. Contact us**
+
+If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact:
+
+Data Protection Officer,  
+Reed Business Information Limited,  
+Quadrant House,  
+The Quadrant,  
+Sutton, Surrey SM2 5AS,  
+United Kingdom,  
+[dataprotection@reedbusiness.com](mailto:dataprotection@reedbusiness.com).
+
+### **15\. How to complain**
+
+We hope that we can resolve any query or concern you raise about our use of your information but you may also lodge a complaint with the data protection authority in the applicable jurisdiction.
+
+**Last updated:   27 June 2018**
