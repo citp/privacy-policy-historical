@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corporateofficehq.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619043743id_/http%3A//corporateofficehq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateofficehq.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220044705id_/http%3A//corporateofficehq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - COHQ
+# Privacy Policy - Corporate Office HQ
 
 **Privacy Policy for CorporateOfficeHQ.com**
 
