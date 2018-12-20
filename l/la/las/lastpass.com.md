@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214020633id_/https%3A//lastpass.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220223914id_/https%3A//secure.logmein.com/home/en/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
-Last Updated on May 1, 2017
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=fba27947-4f34-42a8-8c55-a11247ed7413)
+Last Updated on January 1, 2018
 
 **Introduction**
 
-This privacy policy will help you understand what information we collect and use at LogMeIn, and the choices you have associated with that information. When we refer to “LogMeIn,” “we,” “our,” or “us” in this policy, we are referring to LogMeIn, Inc **. _,_** and all of its subsidiaries and affiliates, including GetGo, Inc., which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by LogMeIn. LogMeIn may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 8 below. This privacy policy covers the digital properties listed [here](https://secure.logmein.com/home/policies/digital-properties-list).  The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.
+This privacy policy will help you understand what information we collect and use at LogMeIn, and the choices you have associated with that information. When we refer to “LogMeIn,” “we,” “our,” or “us” in this policy, we are referring to LogMeIn, Inc **. _,_** and its subsidiaries and affiliates, which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by LogMeIn. LogMeIn may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 8 below. This privacy policy covers the digital properties listed [here](https://www.logmeininc.com/legal/digital-properties-list). The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.
 
 If you have any questions about this privacy policy or our practices, please [contact us](mailto:privacy@logmein.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://urldefense.proofpoint.com/v2/url?u=https-3A__feedback-2Dform.truste.com_watchdog_request&d=DwMFaQ&c=k6LEwkJiSX1kJxtgPu1uYQ&r=QLiCko_f6m3iDMi3JnmFAUELdmCYehFLL7BET60EJXQ&m=ubOy_Fe32ygOKcMzLwVerldeYhdzrSHW4Y5BmhUu0a4&s=gavYy98mxxNED4E6Ocrx3tc1tFoyH-oHdInjv5gmXr8&e=).
 
 **EU-U.S. and Swiss Privacy Shield**
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=fba27947-4f34-42a8-8c55-a11247ed7413)
+[](https://privacy.truste.com/privacy-seal/validation?rid=50e030ed-d894-491b-aa22-074f373242c5)
 
-LogMeIn has self-certified to the EU-U.S. Privacy Shield and Swiss Privacy Shield with respect to Customer Data. For more information, see our [Privacy Shield Notice](https://secure.logmein.com/home/en/policies/privacy-shield).
+LogMeIn has self-certified to the EU-U.S. Privacy Shield and Swiss Privacy Shield with respect to Customer Data. For more information, see our [Privacy Shield Notice](https://www.logmeininc.com/legal/privacy-shield).
 
 **Contents:**
 
@@ -33,7 +31,7 @@ LogMeIn has self-certified to the EU-U.S. Privacy Shield and Swiss Privacy Shiel
 
 **1\. Information We Collect and Receive**
 
-We collect several different types of information in order to provide Services to you, including:
+We collect several different types of information to provide Services to you, including:
 
 **Customer Account and Registration Data:** This includes information you provide to create your account with us or register for events, webinars, surveys, etc. and may include, first and last name, billing information, a password and a valid email address.
 
@@ -67,9 +65,9 @@ Some specific examples of how we use the information:
 
 
 
-LogMeIn also collects and stores meeting attendee information in order to fulfill our obligation to our customers and provide the Services. With their consent, we may also directly provide product and other LogMeIn related information to attendees. LogMeIn will retain your information for as long as your account with us is active, to comply with our legal obligations, to resolve disputes, and enforce our agreements.
+LogMeIn also collects and stores meeting attendee information to fulfill our obligation to our customers and provide the Services. With their consent, we may also directly provide product and other LogMeIn related information to attendees. LogMeIn will retain your information as long as your account with us is active, to comply with our legal obligations, to resolve disputes, and enforce our agreements.
 
-If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, please contact us here.
+If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, please [contact us](mailto:privacy@logmein.com) here.
 
 **3\. Analytics, Cookies and Other Web Site Technologies**
 
@@ -85,7 +83,7 @@ We use Google Analytics as described in [“How Google uses data when you use ou
 
 Tracking Technologies:
 
-LogMeIn and our partners use cookies and similar tracking technologies to track user traffic patterns and hold certain registration information. Tracking technologies also used are beacons, tags and scripts to collect and track information and to improve and analyze our service. If you wish to not have the information these technologies collect used for the purpose of serving you targeted ads, you may [opt-out here](http://preferences-mgr.truste.com/), or if located in the European Union, [click here](http://www.youronlinechoices.eu/). The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can still review the website if you choose to set your browser to refuse all cookies; however, you must enable cookies in order to establish an account and to install the Services. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+LogMeIn and our partners use cookies and similar tracking technologies to track user traffic patterns and hold certain registration information. Tracking technologies also used are beacons, tags and scripts to collect and track information and to improve and analyze our service. If you wish to not have the information these technologies collect used for the purpose of serving you targeted ads, you may [opt-out here](http://preferences-mgr.truste.com/), or if located in the European Union, [click here](http://www.youronlinechoices.eu/). The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can still review the website if you choose to set your browser to refuse all cookies; however, you must enable cookies to establish an account and to install the Services. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 Examples of Cookies We Use:
 
@@ -145,7 +143,7 @@ We use security cookies to authenticate users, prevent fraudulent use of login c
 
 We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-Social Media: Our sites include social media features, such as Facebook, Google and Twitter “share” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form or provide feedback. Your interactions with these features are governed by the privacy policy of the company providing them.
+Social Media: Our sites include social media features, such as Facebook, Google and Twitter “share” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form or provide feedback. Your interactions with these features are governed by the privacy policy of the company providing them.
 
 **4\. Information Sharing**
 
@@ -162,9 +160,9 @@ Examples of how we may share information with service providers include:
 
 
 
-Examples of how we may or disclose data for legal reasons may include:
+Examples of how we may disclose data for legal reasons include:
 
-  * As part of a sale or merger where all or substantially all of our assets are acquired, customer information will be one of the transferred assets.
+  * As part of a merger, sale of company assets, financing or acquisition of all or a portion of our business by another company where customer information will be one of the transferred assets.
   * As required by law, for example, to comply with a valid subpoena or other legal process; when we believe in good faith that disclosure is necessary to protect our rights, or to protect your safety (or the safety of others); to investigate fraud; or to respond to a government request.
 
 
@@ -185,11 +183,11 @@ LogMeIn may need to communicate with you for a variety of different reasons, inc
 
 **6\. Accessing Your Data**
 
-Our customers can always review, update or change personal information from within their account. LogMeIn will also, when you request, provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  Please [contact us here](http://support.citrixonline.com/) if you need assistance in reviewing your information. LogMeIn will respond to your access request to review the information we have on file for you within a reasonable time.
+Our customers can always review, update or change personal information from within their account. LogMeIn will also, when you request, provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  Please [contact us here](https://support.logmeininc.com/contactus) if you need assistance in reviewing your information. LogMeIn will respond to your access request to review the information we have on file for you within a reasonable time.
 
-We may also collect information on behalf of our customers, in order to provide the services, and we may not have a direct relationship with the individuals whose personal data is processed. If you are a customer or end-user of one of our customers, please contact them (as the data controller) directly if: (i) you would no longer like to be contacted by them; or (ii) to access, correct, amend, or delete inaccurate data.  If requested to remove data by our customer, we will respond within a reasonable timeframe.
+We may also collect information on behalf of our customers, to provide the services, and we may not have a direct relationship with the individuals whose personal data is processed. If you are a customer or end-user of one of our customers, please contact them (as the data controller) directly if: (i) you would no longer like to be contacted by them; or (ii) to access, correct, amend, or delete inaccurate data.  If requested to remove data by our customer, we will respond within a reasonable timeframe.
 
-We may transfer personal information to companies that help us provide our service, and when we do, these transfers to subsequent third parties are covered by appropriate transfer agreements. We will retain personal data we process on behalf of our customer for as long as needed to provide services to our customer. Also, we will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We may transfer personal information to companies that help us provide our service, and when we do, these transfers to subsequent third parties are covered by appropriate transfer agreements. We will retain personal data we process on behalf of our customer as needed to provide services to our customer. Also, we will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 LogMeIn is headquartered in the United States of America and maintains a global infrastructure.  Information that we collect and maintain may be transferred to, or controlled and processed in, the United States and/or other countries around the world. When you provide us with information, or use our website(s) and services, you consent to this transfer.  We will protect the privacy and security of personal information we collect in accordance with this privacy policy, regardless of where it is processed or stored.
 
@@ -199,6 +197,6 @@ LogMeIn follows generally accepted standards to protect the personal information
 
 **8\. Changes to this Statement/Contact Us**
 
-We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide notice on this website, and we may notify you by email (sent to the e-mail address specified in your account), prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you continue to use the Services after those changes are in effect, you agree to the revised policy
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide notice on this website, and we may notify you by email (sent to the e-mail address specified in your account), prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you continue to use the Services after those changes are in effect, you agree to the revised policy.
 
-If you have any other questions about this policy please contact[ LogMeIn Privacy Team](mailto:privacy@logmein.com), or call +1 805 690 6400 or write to us via postal mail at:  LogMeIn, 320 Summer Street, Boston, MA 02210. To reach our Global Customer Support department, you may [contact us](http://support.citrixonline.com/) here.
+If you have any other questions about this policy please contact[ LogMeIn Privacy Team](mailto:privacy@logmein.com), or call +1 805 690 6400 or write to us via postal mail at:  LogMeIn, 320 Summer Street, Boston, MA 02210. To reach our Global Customer Support department, you may [contact us](https://support.logmeininc.com/) here.
