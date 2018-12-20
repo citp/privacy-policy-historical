@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarkcollective.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603005632id_/https%3A//aarkcollective.com/support) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarkcollective.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221000643id_/https%3A//aarkcollective.com/support) for the most accurate reproduction.*
 
 # AÃRK Collective | Support
 
