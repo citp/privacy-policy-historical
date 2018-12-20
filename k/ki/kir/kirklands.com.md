@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521150720id_/http%3A//www.kirklands.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220211716id_/http%3A//www.kirklands.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26icid%3Dfooter_Privacy) for the most accurate reproduction.*
 
 # Privacy and Security | Kirklands
 
