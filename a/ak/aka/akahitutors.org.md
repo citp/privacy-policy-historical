@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akahitutors.org privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219044608id_/http%3A//www.akahitutors.org/akahi-tutors-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akahitutors.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220075033id_/http%3A//www.akahitutors.org/akahi-tutors-privacy-policy) for the most accurate reproduction.*
 
-# Akahi Tutors Privacy Policy | Latest News, Star Gist, Crime, School News
+# Akahi Tutors Privacy Policy | 2019/20 JAMB Registration & Tutorial, Admission, School News
 
 Effective: February, 2015 | Last Modified: July, 2015 
 
@@ -8,7 +8,7 @@ About Akahi Tutors
 Akahi Tutors is [one of the leading tutorial centre in Ile-Ife, Nigeria](https://web.archive.org/about), and an online information and Communication  portal for aspirants, students, graduates and interested individual of various level. Readers and Members of this website can communicate with others using the comments box, ask questions and give answers to question asked by other readers.
 
   
-Akahi Tutors cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at   [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Akahi Tutors cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at   admin@akahitutors.org
 
 Information Collection and Use by Akahi Tutors  
 Akahi Tutors collects user submitted information such as name, email address, Yahoo ID to authenticate users and to send notifications to those users relating to the Akahi Tutors service.
@@ -37,4 +37,4 @@ Changes in Our Privacy Policy
 From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
 
 Contacting the Web Site   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or call:08038644328
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: admin@akahitutors.org or call:08038644328
