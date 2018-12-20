@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518231754id_/http%3A//www.ysu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220192647id_/https%3A//ysu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YSU
 
@@ -11,5 +11,3 @@ Youngstown State University, through its website, collects non-personal informat
 An example includes the use of cookies on the YSU website. Cookies are used in order to maintain login information between a web application and an end user’s computer (i.e., MyYSU portal). This identifies the end user’s computer to the web application upon logging in. We use tracking cookies (i.e., Google Analytics code) in order to obtain statistical information on university website traffic. This helps with improving website design and marketing efforts. No personally identifiable information is collected on end users. Users are able to disable cookies in their browser of choice if they so choose.
 
 The YSU website makes use of SSL (i.e., secure socket layer) technology for transmitting sensitive information in fillable forms to either an e-mail address or a database. Forms secured by SSL contain a web address (i.e., URL) that is preceded by https which encrypts data being transmitted.
-
-[PRINTABLE VERSION](http://www.ysu.edu/print/privacy-policy "Display a printer-friendly version of this page.")
