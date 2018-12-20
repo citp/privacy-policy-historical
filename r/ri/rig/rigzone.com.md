@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616013846id_/https%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220021000id_/https%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Rigzone
 
 Effective Date: 15 May, 2018 
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=a7e89bd8-a6fb-48d2-a36e-d4ac179f39dc)
 
 Rigzone.com and DHI Group, Inc. are committed to safeguarding the privacy of our users while providing personalized career management services on our websites. 
 
