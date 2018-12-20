@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanlookout.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627072638id_/http%3A//americanlookout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlookout.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220232629id_/https%3A//americanlookout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – American Lookout
+# Privacy Policy - American Lookout
 
 **Privacy policy**
 
@@ -210,4 +210,4 @@
 
 
 
-14.1 You can contact us emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+14.1 You can contact us emailing us at info@americanlookout.com.
