@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snp.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624120431id_/https%3A//www.snp.org/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snp.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220143108id_/https%3A//www.snp.org/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - SNP2015
+# Privacy policy — Scottish National Party
 
 This is the Privacy Policy for the Scottish National Party.
 
@@ -10,9 +10,9 @@ This Privacy Policy has been created to demonstrate the SNP’s commitment to th
 
 The SNP will process your data in accordance with the Data Protection Act 2018 and the General Data Protection Regulation (GDPR).
 
-_This privacy policy was published on 25 May 2018._
+This privacy policy was published on 25 May 2018.
 
-### **Contacting us about Information Rights:**
+### Contacting us about Information Rights:
 
 If you have any questions about this policy or for more information about how we use your data or would like to exercise any of your rights, you can contact our Data Protection Officer at:
 
@@ -22,10 +22,10 @@ Gordon Lamb House
 Edinburgh  
 EH8 8PJ
 
-You may e-mail privacy@snp.org  
-You may call 0131 525 8924
+You may e-mail [privacy@snp.org](mailto:privacy@snp.org)  
+You may call 0131 525 8920
 
-### **What information do we collect?**
+### What information do we collect?
 
 The types of personal information that we may collect about you include:
 
@@ -46,15 +46,14 @@ The types of personal information that we may collect about you include:
 
 We may also collect special categories of information such as:
 
-  * Political Opinions
+  * Political opinions
   * Voting intentions
-  * Racial or ethnic origin
 
 
 
 ## **How we collect data**
 
-We collect data about you in the following ways: 
+We collect data about you in the following ways:
 
 **Provided by you (Directly):**
 
@@ -103,87 +102,22 @@ How your data is used is protected by law and we only use your data where we hav
 
 The law restricts the processing of what is termed “special categories of personal data”. The work of the SNP is deemed to be of substantial public interest and therefore we are permitted to process special categories of personal data relating to your political opinions and voting intentions.
 
-The table below lists examples of how we use your data and our justification and legal basis for it.
+**The table below lists examples of how we use your data and our justification and legal basis for it.**
 
-**Purpose**
-
-| 
-
-**Legal Basis and justification**  
-  
+**Purpose** | **Legal Basis and justification**  
 ---|---  
-  
-Canvass Political Support
-
-| 
-
-In pursuit of an activity that supports or promotes democratic engagement and our legitimate interest to identify SNP supporters  
-  
-Send you messages about our campaigns and policies
-
-| 
-
-In pursuit of an activity that supports or promotes democratic engagement and our legitimate interest to inform the electorate about what the SNP is doing  
-  
-Contact you about issues or queries that you have told us about
-
-| 
-
-In pursuit of an activity that supports or promotes democratic engagement and our legitimate interests to engage with the electorate  
-  
-Process and record voting intentions and political opinions
-
-| 
-
-In pursuit of an activity that supports or promotes democratic engagement and our legitimate interest to understand the electorate and identify SNP supporters  
-  
-Send you surveys and process your responses
-
-| 
-
-In pursuit of an activity that supports or promotes democratic engagement  
-  
-Process your application for membership and administration of your membership
-
-| 
-
-Contractual necessity and our legitimate interest in engaging with our membership base  
-  
-Send you information by post about fundraising activities to support the Party
-
-| 
-
-In pursuit of an activity that supports or promotes democratic engagement and our legitimate interests to raise funds for the SNP.  
-  
-Process your donation and checking your eligibility to donate
-
-| 
-
-We have a legitimate interest to process your donation and a legal duty to check your eligibility to donate amounts of more than £500  
-  
-Assess suitability of prospective members and donors using publicly available sources
-
-| 
-
-We have a legitimate interest to ensure that our members and donors will not bring the SNP into disrepute  
-  
-Send you electronic messages about our campaigns
-
-| 
-
-When you sign up to receive emails from the SNP you are providing us with your consent to process your data for these purposes  
-  
-Identifying potential supporters using commercially available modelled data
-
-| 
-
-In pursuit of an activity that supports or promotes democratic engagement and our legitimate interests to identify SNP supporters  
-  
-Conduct anonymised market research
-
-| 
-
-We have a legitimate interest to get a sense of general political opinion across Scotland  
+Canvass Political Support | In pursuit of an activity that supports or promotes democratic engagement and our legitimate interest to identify SNP supporters  
+Send you messages about our campaigns and policies | In pursuit of an activity that supports or promotes democratic engagement and our legitimate interest to inform the electorate about what the SNP is doing  
+Contact you about issues or queries that you have told us about | In pursuit of an activity that supports or promotes democratic engagement and our legitimate interests to engage with the electorate  
+Process and record voting intentions and political opinions | In pursuit of an activity that supports or promotes democratic engagement and our legitimate interest to understand the electorate and identify SNP supporters  
+Send you surveys and process your responses | In pursuit of an activity that supports or promotes democratic engagement  
+Process your application for membership and administration of your membership | Contractual necessity and our legitimate interest in engaging with our membership base  
+Send you information by post about fundraising activities to support the Party | In pursuit of an activity that supports or promotes democratic engagement and our legitimate interests to raise funds for the SNP.  
+Process your donation and checking your eligibility to donate | We have a legitimate interest to process your donation and a legal duty to check your eligibility to donate amounts of more than £500  
+Assess suitability of prospective members and donors using publicly available sources | We have a legitimate interest to ensure that our members and donors will not bring the SNP into disrepute  
+Send you electronic messages about our campaigns | When you sign up to receive emails from the SNP you are providing us with your consent to process your data for these purposes  
+Identifying potential supporters using commercially available modelled data | In pursuit of an activity that supports or promotes democratic engagement and our legitimate interests to identify SNP supporters  
+Conduct anonymised market research | We have a legitimate interest to get a sense of general political opinion across Scotland  
   
 ### **Our legitimate interests:**
 
@@ -191,7 +125,7 @@ Our objective is to promote our values and to elect SNP candidates at every leve
 
 **As a member:**  If you join the SNP we have a legitimate interest in processing your data and contacting you about all aspects of your membership including information about your entitlements as a member and about Party events; either by post or by electronic means. The party is run by its members and therefore we have a legitimate interest in member engagement and retention. If you do not renew your membership with the Party we will continue to send you information about the SNP, including information on how to re-join, for a reasonable period after your membership lapses. We also have a legitimate interest to retain your data after your membership lapses, as well as a legal duty to keep a record of the financial transaction.
 
-**As a donor** : If you donate money to the SNP then we have a legitimate interest in processing and retaining your information and to send you marketing about our fundraising activities; either by post or by electronic means. We justify this because our activities are funded by donations.  For donations over certain thresholds we also have a legal obligation to report it to our regulator, the Electoral Commission, who will publish certain details on their website. 
+**As a donor** : If you donate money to the SNP then we have a legitimate interest in processing and retaining your information and to send you marketing about our fundraising activities; either by post or by electronic means. We justify this because our activities are funded by donations.  For donations over certain thresholds we also have a legal obligation to report it to our regulator, the Electoral Commission, who will publish certain details on their website.
 
 **As a volunteer:**  If you volunteer for the SNP or enquire about volunteering for the Party, and are not a member, we have a legitimate interest in processing and retaining your information and contacting you about volunteering opportunities. We justify this because of the vital function that volunteers perform both during and outside of elections.
 
@@ -205,11 +139,11 @@ We are committed to respecting your rights over your data and in some circumstan
 
 Where we use consent as our legal basis for processing your data, or process special categories of your data based on your explicit consent, you have the right to withdraw your consent at any time. This does not affect our right to process your data before you decide to withdraw your consent.
 
-**Who we share your data with:**
+### **Who we share your data with:**
 
 We will never sell your data but sometimes it is necessary to share your information with our service providers and data processors. Data is only ever shared where we have a justification and when the law allows us to do so.
 
-We share data with: 
+We share data with:
 
   * Business associates and professional advisers
   * Suppliers
@@ -224,7 +158,7 @@ We share data with: 
 
 Where we use a service provider to process your data on our behalf we will ensure that this processing is governed by a legally enforceable contract which sets out their responsibilities for protecting your data and your rights.
 
-**Transferring your data outside of the European Economic Area**
+### **Transferring your data outside of the European Economic Area**
 
 Some of our service providers are located outside of the European Economic Area (EEA) and therefore it may be necessary to transfer your personal data outside of the EEA. Where we do transfer your data outside of the EEA we will make sure that it is protected in the same way as if the data was inside the EEA.
 
@@ -236,7 +170,7 @@ We will use one of the following safeguards to ensure this:
 
 
 
-**How long we retain your data for:**
+### **How long we retain your data for:**
 
 We constantly review the data that we hold and regularly review its relevance and our need to hold onto it. Whilst we do not set finite periods for data retention we use several factors to determine whether we need to hold onto the data. Factors we take into consideration are:
 
@@ -248,33 +182,33 @@ We constantly review the data that we hold and regularly review its relevance an
 
 
 
-**Cookies**
+### **Cookies**
 
-A cookie is a tiny text file that is stored on your computer. We may use technology to track the patterns of behaviour of visitors to our site. This can include using this "cookie" file which would be stored on your computer. You can usually modify your browser to prevent this happening. We may store the internet address you connect to our computer with, the time and date you connected, browser information and the pages you visited. This information is used only to provide us with a broad statistical breakdown of our site usage and to monitor site security.
+A cookie is a tiny text file that is stored on your computer. We may use technology to track the patterns of behaviour of visitors to our site. This can include using this “cookie” file which would be stored on your computer. You can usually modify your browser to prevent this happening. We may store the internet address you connect to our computer with, the time and date you connected, browser information and the pages you visited. This information is used only to provide us with a broad statistical breakdown of our site usage and to monitor site security.
 
-**Log Files and Statistics**
+### **Log Files and Statistics**
 
-We use IP addresses, URL's of requested resources, timestamps and HTTP user-agents to analyse trends, administer the system and gather broad demographic information for aggregate use. In addition to this we use Google Analytics, a web analytics service provided by Google, Inc ("Google"). Google Analytics uses cookies, to help analyse how visitors use our site. The information generated by the cookie about the use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information to evaluate your use of our website, compiling reports on website activity for the SNP and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your Web browser, however please note that if you do this you may not be able to make full use of our website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+We use IP addresses, URL’s of requested resources, timestamps and HTTP user-agents to analyse trends, administer the system and gather broad demographic information for aggregate use. In addition to this we use Google Analytics, a web analytics service provided by Google, Inc (“Google”). Google Analytics uses cookies, to help analyse how visitors use our site. The information generated by the cookie about the use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information to evaluate your use of our website, compiling reports on website activity for the SNP and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your Web browser, however please note that if you do this you may not be able to make full use of our website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-**How we protect your data:**
+### **How we protect your data:**
 
 The security of your data is paramount to the Party and as such we ensure that appropriate technical and organisational measures are in place to protect it. We constantly review our measures to ensure that your data is protected from any threats that may emerge.
 
-**Your rights over your data**
+### **Your rights over your data** ** **
 
-**Right of access to your data:** You have the right to request a copy of your personal information that we hold. This is commonly known as a Subject Access Request. We follow the ICO’s “Subject Access Code of Practice” when dealing with requests for access to personal data. You can read this code by visiting <https://ico.org.uk/media/for-organisations/documents/2014223/subject-access-code-of-practice.pdf>
+**Right of access to your data:  **You have the right to request a copy of your personal information that we hold. This is commonly known as a Subject Access Request. We follow the ICO’s “Subject Access Code of Practice” when dealing with requests for access to personal data. You can read this code by visiting <https://ico.org.uk/media/for-organisations/documents/2014223/subject-access-code-of-practice.pdf>
 
-**Right of rectification of your data:** You have the right to request that inaccurate or incomplete information that we hold about you is corrected.
+**Right of rectification of your data:  **You have the right to request that inaccurate or incomplete information that we hold about you is corrected.
 
-**Right to be forgotten:** In certain circumstances you can ask for the data we hold about you to be erased from our records. When we do so, we keep the bare minimum of your information to continue to respect your wishes when your personal data is next provided to us by a local authority, which is at least annually.
+**Right to be forgotten:  **In certain circumstances you can ask for the data we hold about you to be erased from our records. When we do so, we keep the bare minimum of your information to continue to respect your wishes when your personal data is next provided to us by a local authority, which is at least annually.
 
-**Right to restriction of processing:** You have the right to request that we restrict the processing of your data where you are contesting the accuracy of the data or when the data has been unlawfully processed.
+**Right to restriction of processing:  **You have the right to request that we restrict the processing of your data where you are contesting the accuracy of the data or when the data has been unlawfully processed.
 
-**Right to object:** You have a right to opt out of your data being used for direct marketing. If we process your data based on “legitimate interests” or “a task carried out in the public interest” then you have the right to object to us using your data in that way. This right is not absolute, and we may continue to process your data if we can demonstrate compelling legitimate grounds for the processing.
+**Right to object:  **You have a right to opt out of your data being used for direct marketing. If we process your data based on “legitimate interests” or “a task carried out in the public interest” then you have the right to object to us using your data in that way. This right is not absolute, and we may continue to process your data if we can demonstrate compelling legitimate grounds for the processing.
 
-**Automated individual decision-making, including profiling:** We may use computer software to make decisions about you or to create a profile about you. You have the right not to be subject to such a decision or to that profiling where it creates legal effects concerning you or where it significantly affects you. None of our processing falls within that category.
+**Automated individual decision-making, including profiling:  **We may use computer software to make decisions about you or to create a profile about you. You have the right not to be subject to such a decision or to that profiling where it creates legal effects concerning you or where it significantly affects you. None of our processing falls within that category.
 
-**Making a complaint:** If you are unhappy with the way that we have processed or handled your data then you have a right to complain to the Information Commissioner’s Office (ICO). The ICO is the supervisory body authorised by the Data Protection Act 2018 to regulate the handling of personal data within the United Kingdom. The contact details for the Information Commissioner’s Office are:
+**Making a complaint:  **If you are unhappy with the way that we have processed or handled your data then you have a right to complain to the Information Commissioner’s Office (ICO). The ICO is the supervisory body authorised by the Data Protection Act 2018 to regulate the handling of personal data within the United Kingdom. The contact details for the Information Commissioner’s Office are:
 
 Information Commissioner’s Office  
 Wycliffe House  
@@ -282,6 +216,5 @@ Water Lane
 Wilmslow  
 SK9 5AF
 
-Telephone: 0303 123 1113
-
+Telephone: 0303 123 1113  
 Website: <https://ico.org.uk/concerns/>
