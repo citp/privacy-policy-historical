@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareyt.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621112321id_/http%3A//shareyt.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareyt.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220034241id_/http%3A//shareyt.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Get likes, followers, views, subscribers - Shareyt
 
