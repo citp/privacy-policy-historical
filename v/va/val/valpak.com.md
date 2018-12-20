@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930190730id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220152439id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.*
 
 # Free Printable Coupons and Online Promo Codes - Valpak.com
-
-Last Updated April 27th, 2016
 
 Thank you for visiting Valpak.com, which is owned and operated by Valpak Direct Marketing Systems, Inc. (" **we** ", " **us** ", " **our** "). This privacy statement is provided by us to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the " **Service** "), and the ways that we may use that information. This privacy statement does not apply to any information you may provide to us through other means; for example, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our terms of use. If you have questions regarding privacy issues, please contact us at [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com).
 
