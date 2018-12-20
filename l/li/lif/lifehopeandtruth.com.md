@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehopeandtruth.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629035119id_/https%3A//lifehopeandtruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehopeandtruth.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220225932id_/https%3A//lifehopeandtruth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life, Hope & Truth
 
@@ -19,7 +19,7 @@ The Church will allow members, prospective members or associates to create accou
 
 
 
-### 2\. IP addresses (do we need to get permission to collect IP addresses?)
+### 2\. IP addresses
 
 We may collect and retain the IP address of all visitors to lifehopeandtruth.com. An IP address is a number automatically assigned to your computer whenever you access the Internet. IP addresses allow computers and servers to recognize and communicate with one another. We collect IP address information so that we can properly administer our system and gather aggregate information about how our site is being used, including the pages visitors are viewing. To maintain your anonymity, we do not associate IP addresses with records containing personal information. We will use IP address information, however, to personally identify you in order to enforce our legal rights or when required to do so by law enforcement or government authorities.
 
