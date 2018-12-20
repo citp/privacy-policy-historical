@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the khantil.com privacy policy that was archived on 2018-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620205233id_/http%3A//khantil.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the khantil.com privacy policy that was archived on 2018-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181220093906id_/http%3A//khantil.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en" style=""><head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>Privacy Policy</title>
@@ -18,7 +19,7 @@ function createCookie(b,c,d){var a=new Date();a.setTime(a.getTime()+(d*24*60*60*
 <![endif]-->
 <link href="//fonts.googleapis.com/css?family=Open+Sans:italic,700,600,regular&amp;subset=latin" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="http://www.khantil.com/image/cache/tb/main.ltr.0.styles.css?id=f980d857b9610a73cbed1cdabc8fd10d" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.khantil.com/image/cache/tb/main.ltr.0.styles.css?id=78b1bbaa4f211f5e773213b958d9a136" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.khantil.com/image/cache/tb/fusion.intro_global.content_page_3.column_right_global.footer_global.ltr.0.styles.css?id=9220d80965243d6e159f524ae6929c55" media="all">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript">var tbApp={};tbApp.windowLoaded=false;jQuery(window).load(function(){tbApp.windowLoaded=true;});tbApp.onWindowLoaded=function(a){if("function"==typeof a){if(tbApp.windowLoaded){a();}else{jQuery(window).load(a);}}};tbApp.scriptloaded=false;jQuery(tbApp).on("tbScriptLoaded",function(){tbApp.scriptloaded=true;});tbApp.onScriptLoaded=function(a,init){if("function"==typeof a){if(tbApp.scriptloaded){a();}else{jQuery(tbApp).on(init===true?"tbScriptLoadedInit":"tbScriptLoaded",a);}}};tbApp.onScriptLoaded(function() { $sReg.set('/tb/category_path', '');$sReg.set('/tb/is_touch', '');$sReg.set('/tb/is_customer_logged', '0');  }, true);</script>
@@ -63,11 +64,12 @@ fbq('track', 'PageView');
 <script type="text/javascript">
     var BASE_URI = "http://www.khantil.com/";
 </script>
-
+ 
 </head>
 
 <body class="information-information tb_width_1200 tb_lang_ltr tb_page_information_information fusion_intro_global_content_page_3_column_right_global_footer_global_ltr_0 fusion_v1_2_3">
 
+ 
 
 <div id="wrapper" class="tb_row  tb_row_full tb_mt_0 tb_mb_5 tb_ml_0 tb_mr_0 tb_pt_0 tb_pb_0 tb_pr_15 tb_pl_15">
 
@@ -104,9 +106,9 @@ fbq('track', 'PageView');
                             <div id="user_navigation">
           <nav class="tb_nav">
             <ul class="clearfix">
-              <li><a href="https://www.khantil.com/affiliates/">Affiliate</a></li>
+              <li><a href="https://www.khantil.com/affiliates/">Sell</a></li>
 
-              <li><a href="/Contact-khantil"><i class="fa-phone"></i> 9am - 6pm Customer care</a></li>
+              <li><a href="/Contact-khantil"><i class="fa-phone"></i> 24x7 Customer Care</a></li>
 			
               <li class="curruncy_set" style="padding:0px;margin:0px;"><div class="tb_widget_currency tb_border_str_1">
   <form action="http://www.khantil.com/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="currency">
@@ -228,7 +230,10 @@ fbq('track', 'PageView');
             <ul class="clearfix">
   <li id="menu_home_RVVPW" class="tb_menu_home">
   <a href="http://www.khantil.com/" class=""><i class="fa fa-home"></i></a>
-</li></ul>
+</li><li id="menu_url_UNMQE" class="tb_menu_url">
+    <a href="mittoo-payal-vol" target="_self">
+    Payal      </a>
+  </li></ul>
 
           </nav>
                   </div>
@@ -249,6 +254,50 @@ fbq('track', 'PageView');
 
   
 <!-- END_COMMON_HEADER -->
+<script language="JavaScript">
+  /**
+    * Disable right-click of mouse, F12 key, and save key combinations on page
+    * By Arthur Gareginyan (arthurgareginyan@gmail.com)
+    * For full source code, visit https://mycyberuniverse.com
+    */
+  window.onload = function() {
+    document.addEventListener("contextmenu", function(e){
+      e.preventDefault();
+    }, false);
+    document.addEventListener("keydown", function(e) {
+    //document.onkeydown = function(e) {
+      // "I" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+        disabledEvent(e);
+      }
+      // "J" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+        disabledEvent(e);
+      }
+      // "S" key + macOS
+      if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+        disabledEvent(e);
+      }
+      // "U" key
+      if (e.ctrlKey && e.keyCode == 85) {
+        disabledEvent(e);
+      }
+      // "F12" key
+      if (event.keyCode == 123) {
+        disabledEvent(e);
+      }
+    }, false);
+    function disabledEvent(e){
+      if (e.stopPropagation){
+        e.stopPropagation();
+      } else if (window.event){
+        window.event.cancelBubble = true;
+      }
+      e.preventDefault();
+      return false;
+    }
+  };
+</script>
 
 <section id="intro" class="tb_row tb_row_fixed tb_mt_0 tb_mb_10 tb_mr_0 tb_ml_0 tb_pt_0 tb_pr_0 tb_pb_0 tb_pl_0">
   <div class="tb_wrap">
