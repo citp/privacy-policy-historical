@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theneodesign.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124161113id_/http%3A//theneodesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theneodesign.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220095203id_/http%3A//theneodesign.com/privacy) for the most accurate reproduction.*
 
-# Privacy | TheNeoDesign.com
+# Privacy – Neo Design
 
 TheNeoDesign respects your privacy and try not to misuse. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of TheNeoDesign.
 
