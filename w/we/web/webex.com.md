@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614041236id_/https%3A//www.cisco.com/c/en/us/about/legal/privacy-full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220030608id_/https%3A//www.cisco.com/c/en/us/about/legal/privacy-full.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement - Cisco
 
@@ -68,7 +68,7 @@ We give you the choice of receiving a variety of information related to our Solu
 
 
 
-These choices do not apply to service notifications or other required communications that are considered part of certain Solutions, which you may receive periodically unless you stop using or cancel the Solution in accordance with its terms and conditions. With your permission, we may also share your personal information with Cisco business partners or vendors, so they may send you information about products or services that may be of interest to you. To opt-out of this sharing with third parties for their marketing purposes, [click here](https://engage2demand.cisco.com/LP=6097).
+These choices do not apply to service notifications or other required communications that are considered part of certain Solutions, which you may receive periodically unless you stop using or cancel the Solution in accordance with its terms and conditions. With your permission, we may also share your personal information with Cisco business partners or vendors, so they may send you information about products or services that may be of interest to you. To opt-out of Cisco sharing with third parties for their marketing purposes, please send an email to [privacy@cisco.com ](mailto:%20privacy@cisco.com).
 
 By using our websites, Solutions, or otherwise providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use. For example, if we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on our websites, by sending an email, or otherwise contacting you.
 
@@ -81,7 +81,7 @@ We may share your personal information with third parties for the purposes of op
 We may share personal information in the following ways:
 
   * Within Cisco and any of our worldwide subsidiaries for purposes of data processing or storage.
-  * With Cisco business partners or vendors, so that they may share information with you about their products or services. To opt-out of Cisco sharing with third parties for their marketing purposes, [click here](https://engage2demand.cisco.com/LP=6097).
+  * With Cisco business partners or vendors, so that they may share information with you about their products or services. To opt-out of Cisco sharing with third parties for their marketing purposes, please send an email to [privacy@cisco.com](mailto:%20privacy@cisco.com).
   * With business partners, service vendors, authorized third-party agents, or contractors to provide a requested Solution, service or transaction. Examples include, but are not limited to: processing of orders and credit card transactions, hosting websites, hosting seminar registration, assisting with sales-related efforts or post-sales support, and providing customer support.
   * In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company.
   * In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation or legal process.
