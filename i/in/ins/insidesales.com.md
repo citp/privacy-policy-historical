@@ -1,41 +1,41 @@
-> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614105717id_/https%3A//www.insidesales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220174731id_/http%3A//insidesales.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FAQ | InsideSales.com
-
-**Effective Date: 28 October 2016**
+# Privacy Policy | Inside Sales
 
 At InsideSales.com, Inc. (“ ** _InsideSales_** “, “ ** _We_** “, “ ** _Us_** “), we are committed to protecting your privacy as described below. This Privacy Policy (“ ** _Policy_** “) discloses the privacy practices for the InsideSales website and the InsideSales web applications located at www.InsideSales.com.  
 Except as otherwise discussed in this Policy, this document only addresses the collection, use, and disclosure of information that we (i.e., InsideSales and its agents) collect from you on this site and the InsideSales web applications associated with this site. It also describes the choices available to you regarding our use of your personally identifiable information and how this information can be accessed and updated. The use of information collected through our web applications shall be limited to the purpose of providing the services for which you have engaged us. Data stored in our Software as a Service solution by our customers is subject to the customers’ privacy policies, not ours.
 
 Other sites that are not owned or controlled by InsideSales may have their own privacy policies that apply to those sites. In addition, certain third-party offerings that are made via the InsideSales website are subject to the terms of third-party privacy policies and the terms of this Policy shall not apply. We encourage you to ask questions, to review the privacy policies of other sites, and to be very cautious before you disclose your personally identifiable information to other sites.
 
-For a fuller discussion of our privacy practices, please see the Frequently Asked Questions (“FAQ”) below. You are responsible for reviewing the Policy each time before using our website or providing any personally identifiable information. If you have questions or concerns regarding this statement, please contact us via email at [privacy@InsideSales.com](mailto:privacy@insidesales.com). If you believe we have violated the Policy, please notify us, and we will promptly investigate and try to remedy the problem.
+For a fuller discussion of our privacy practices, please see the Frequently Asked Questions (“FAQ”) below. You are responsible for reviewing the Policy each time before using our website or providing any personally identifiable information. If you have questions or concerns regarding this statement, please contact us via email at [privacy@InsideSales.com](mailto:privacy@insidesales.com). If you believe we have violated the Policy, please notify us, and we will promptly investigate and try to remedy the problem.
 
 Listing and Links to Frequently Asked Questions
 
-1\. What information do we collect from you?  
-2\. Where do we collect information from you?  
-3\. How do we use the personally identifiable information we collect from you?  
-4\. Who is collecting information?  
-5\. With whom do we share your information?  
-6\. What are my choices regarding collection, use, and distribution of my information?  
-7\. How can I update, correct, or delete my personally identifiable information?  
-8\. What security precautions are in place to protect the loss, misuse, or alteration of my information?  
-9\. What about the privacy of visitors who are 13 and under?  
-10\. How does tracking technology collect, use, and distribute information?  
-11\. Where can I find any changes to the Privacy Policy?  
+1. What information do we collect from you?  
+2. Where do we collect information from you?  
+3. How do we use the personally identifiable information we collect from you?  
+4. Who is collecting information?  
+5. With whom do we share your information?  
+6. What are my choices regarding collection, use, and distribution of my information?  
+7. How can I update, correct, or delete my personally identifiable information?  
+8. What security precautions are in place to protect the loss, misuse, or alteration of my information?  
+9. What about the privacy of visitors who are 13 and under?  
+10. How does tracking technology collect, use, and distribute information?  
+11. Where can I find any changes to the Privacy Policy?  
 **  
 Frequently Asked Questions  
 **  
 **1\. What information do we collect from you?**
 
-We collect information via the website that falls into one of two categories: personally identifiable information and non-personally identifiable information. Personally identifiable information is information that is actually used to identify you. We collect personally identifiable information whenever you voluntarily submit it to the website, including your name, email, company, mailing address, title, area of expertise, telephone number, and credit card information, plus your preferences regarding InsideSales products (collectively, “personally identifiable information”). If you apply to an open position in the “careers” section of our website, we will also ask you for your resume. Non-personally identifiable information is information that is not directly tied to a specific user, such as the number of people who visit the website from various states. As is true of most web sites, we automatically collect and store in log files, statistics and other information about the online activities of our visitors on an aggregated (i.e., collective) basis. For example, we track the number of people who view each page, the order in which pages are viewed, internet protocol (IP) addresses, browser type, internet service provider (ISP), operating system, date/time stamp, clickstream data, and other information to learn which features are the most popular and to refine our design and marketing efforts. Non-personally identifiable information also includes information that indirectly (i.e., combined with information collected about you off the website) could be used to identify you, but in practice is not. You have the right to access, and receive copies of, personal data held about you. This right can be exercised by contacting us at [privacy@InsideSales.com](mailto:privacy@insidesales.com).
+We collect information via the website that falls into one of two categories: personally identifiable information and non-personally identifiable information. Personally identifiable information is information that is used to identify you. We collect personally identifiable information whenever you voluntarily submit it to the website, including your name, email, company, mailing address, title, area of expertise, telephone number, and credit card information, plus your preferences regarding InsideSales products (collectively, “personally identifiable information”). If you apply to an open position in the “careers” section of our website, we will also ask you for your resume. Non-personally identifiable information is information that is not directly tied to a specific user, such as the number of people who visit the website from various states. As is true of most web sites, we automatically collect and store in log files, statistics and other information about the online activities of our visitors on an aggregated (i.e., collective) basis. For example, we track the number of people who view each page, the order in which pages are viewed, internet protocol (IP) addresses, browser type, internet service provider (ISP), operating system, date/time stamp, clickstream data, and other information to learn which features are the most popular and to refine our design and marketing efforts. Non-personally identifiable information also includes information that indirectly (i.e., combined with information collected about you off the website) could be used to identify you, but in practice is not. You have the right to access, and receive copies of, personal data held about you. This right can be exercised by contacting us at [privacy@InsideSales.com](mailto:privacy@insidesales.com).
 
 **2\. Where do we collect information from you?**
 
-_Tradeshows and Webinars:_ When you attend a tradeshow or a webinar we sponsor, we may collect personally identifiable information that we would use to later contact you.
+_Tradeshows and Webinars:_  When you attend a tradeshow or a webinar we sponsor, we may collect personally identifiable information that we would use to later contact you.
 
-_Software or Information Downloads_ : When you download any of our free software from our website or any of our white papers, case studies, or other materials, we may collect and use certain personally identifiable information (e.g., the software you selected, your planned use for the software, your contact information) for use by InsideSales.
+_Software Usage_ : When you use software provided by InsideSales, we may collect and use certain personally identifiable information in order to operate and enhance the software. For example, if you use InsideSales email software with your own email client, like Gmail or Outlook, we will use your email settings and email address to send and track emails on your behalf.
+
+_Information Downloads_ : When you download any information from our website or any of our white papers, case studies, or other materials, we may collect and use certain personally identifiable information (e.g., the information you selected, your planned use for the information, your contact information) for use by InsideSales.
 
 _View a Video_ : Prior to your viewing a video, we may keep a record of what videos were viewed for use by InsideSales.
 
@@ -47,11 +47,11 @@ _Webmaster Lists_ : If you are a webmaster and send us an email, we will collect
 
 _Chat Rooms and Bulletin Boards_ : From time to time, we may make chat rooms and bulletin boards available to registered users. Please remember that postings to bulletin boards and chat rooms become public information; thus, you should exercise caution when deciding to disclose personally identifiable information within such forums, as it may be collected and used by third parties.
 
-_Search Terms:_ From time to time, we may offer the ability for you to search our website for information that interests you. We may save those search terms and display certain banner ads tied to your search term.
+_Search Terms:_  From time to time, we may offer the ability for you to search our website for information that interests you. We may save those search terms and display certain banner ads tied to your search term.
 
 _Online Surveys and Polling_ : We may provide you the opportunity to participate in an online survey or interactive poll on our site. If you participate, we may ask you for your contact information (such as name, shipping address, etc.) and your preferences in order to track voting.
 
-_Epostcards_ : From time to time, we may offer you the ability to send an epostcard, or email, to your friends containing content or links to our site or to content that you think your friends would find interesting. In order to do this, we must collect the user names and email addresses of your friends. We will automatically send your friend a one-time email inviting him or her to visit the site. InsideSales stores this information for the sole purpose of sending this one-time email and tracking the success of this feature. Your friend may contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com) to request that we remove this information from our database.
+_Epostcards_ : From time to time, we may offer you the ability to send an epostcard, or email, to your friends containing content or links to our site or to content that you think your friends would find interesting. In order to do this, we must collect the user names and email addresses of your friends. We will automatically send your friend a one-time email inviting him or her to visit the site. InsideSales stores this information for the sole purpose of sending this one-time email and tracking the success of this feature. Your friend may contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com) to request that we remove this information from our database.
 
 _Contact Information & Third-Party Data_: If you contact InsideSales by email or letter, we may keep a record of your personal correspondence. Thus, if you report a problem with our website, we may collect such information in a file specific to you. Moreover, if you contact us through our feedback area, we require your name and email address in order to send you a reply. Additionally, if other users or third parties send us correspondence about your activities or postings on our site, we may keep the information in a file specific to you.
 
@@ -65,7 +65,7 @@ _Merchants_ : Except as disclosed in this Policy, we will not share personally i
 
 _Emails_ : We will send registered users email containing information we think they will find interesting, such as information about news, new products and services from our selected partners. It is our policy not to send messages to members who have asked us not to do so. By using our website, you expressly agree to receive this information. If you do not wish to receive these communications, you have the ability to opt out. Please see the “What are my choices regarding collection, use, and distribution of my information?” section below.
 
-_Testimonials:_ We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com).
+_Testimonials:_  We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com).
 
 **4\. Who is collecting information?**
 
@@ -75,9 +75,9 @@ _Promotions, Contests, and Sweepstakes_ : Promotions that run on the website may
 
 _Links and Ads to Third-Party Sites_ : Please be aware that sites on our website may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linked to our website are not covered by this Policy. These other sites may send their own cookies to users, collect data, or solicit personally identifiable information. Additionally, other companies or ad servers that place advertising on our website may collect information about you through the use of cookies or clear GIFs when you view or click on their advertising. We cannot control this collection of information. You should contact advertisers directly if you have any questions about their use of the information they collect.
 
-_Social Media Widgets:_ Our Web site includes social media features, such as the Facebook Like button, links to our social media presence on various sites and widgets, such as the share this button or other mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
+_Social Media Widgets:_  Our Web site includes social media features, such as the Facebook Like button, links to our social media presence on various sites and widgets, such as the share this button or other mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-_Log-in APIs:_ You can log in to the customer support area of our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and may provide you the option to share certain personally identifiable information or post information about your activities on this web site to your profile page to share with others within your network.
+_Log-in APIs:_  You can log in to the customer support area of our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and may provide you the option to share certain personally identifiable information or post information about your activities on this web site to your profile page to share with others within your network.
 
 _Framing/Windows to Third-Party Sites_ : In addition to providing links to other websites, we sometimes window third-party sites for your convenience. If you click to learn more information, a window or frame containing the third party’s site may appear. Any time you are in a window (unless the window is another part of the InsideSales website), you should assume your personally identifiable information is being collected, used, and disclosed in accordance with the windowed site’s policies.
 
@@ -95,7 +95,7 @@ _Partners/Sponsors_ : We may work with partners or sponsors provide access to co
 
 _Fulfillment_ : Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in an email to a third party or when you order merchandise in the shopping areas of our website for direct shipment to you. For example, in order to fulfill certain product orders, we must share your information with the product manufacturer, payment processor (e.g., credit card companies), and shippers.
 
-_Agents/Service Providers_ : We also may share your personally identifiable information with third parties for the purposes of providing services to our website or to InsideSales itself, such as administering customer support and providing support tools to our users. These companies are authorized to use your personally identifiable information _only as necessary to provide_ these services to us.
+_Agents/Service Providers_ : We also may share your personally identifiable information with third parties for the purposes of providing services to our website or to InsideSales itself, such as administering customer support and providing support tools to our users. These companies are authorized to use your personally identifiable information  _only as necessary to provide_  these services to us.
 
 _Data Analysis Agents_ : The information collected through the website may be provided to an outside company for the purpose of analysis. This analysis is to help us to improve our sites and services to you, and to notify you of special offers that may be of interest to you.
 
@@ -115,7 +115,7 @@ _Email and Promotional Mailings_ : We may from time to time send you email or ot
 
 **7\. How can I update, correct, or delete my personally identifiable information?**
 
-_Website Services_ : Upon request, InsideSales will provide you with information about whether we hold any of your personal information. InsideSales provides you with a limited ability to access and edit the personally identifiable information you have provided to us. Following registration you can review, change, or delete the information you have submitted. We encourage you to update your information promptly if it changes. To change, modify, or delete the information you previously provided you send an email to [privacy@InsideSales.com](mailto:privacy@InsideSales.com), or contact us at 866-342-5370 and specify what you want to have done. We will respond to your request to access within a reasonable timeframe.
+_Website Services_ : Upon request, InsideSales will provide you with information about whether we hold any of your personal information. InsideSales provides you with a limited ability to access and edit the personally identifiable information you have provided to us. Following registration you can review, change, or delete the information you have submitted. We encourage you to update your information promptly if it changes. To change, modify, or delete the information you previously provided you send an email to [privacy@InsideSales.com](mailto:privacy@InsideSales.com), or contact us at 866-342-5370 and specify what you want to have done. We will respond to your request to access within a reasonable timeframe.
 
 _Chat and Bulletin Board Postings_ : To request removal of your personally identifiable information from our blog or community forum, contact us at[privacy@InsideSales.com](mailto:privacy@InsideSales.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
@@ -127,15 +127,15 @@ You can be assured that your personal and account information is reasonably secu
 
 While we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems.
 
-We cannot fully ensure that your private communications and other personally identifiable information will not be inadvertently disclosed to third parties. We may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. If we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to) disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate. . If you have any other questions about security on our Web site, you can contact us at[privacy@InsideSales.com](mailto:privacy@InsideSales.com).
+We cannot fully ensure that your private communications and other personally identifiable information will not be inadvertently disclosed to third parties. We may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. If we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to) disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate. If you have any other questions about security on our Web site, you can contact us at[privacy@InsideSales.com](mailto:privacy@InsideSales.com).
 
 **9\. What about the privacy of visitors who are 13 and under?**
 
-If you are under the age of 13, you do not have permission to use our website. We do not knowingly collect, use, or disclose personally identifiably information about users who are under the age of 13. If you are the parent or guardian of a minor under 13 years of age and believe they have disclosed personally identifiable information to this website, please contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com) so that we may delete the minor’s information.
+If you are under the age of 13, you do not have permission to use our website. We do not knowingly collect, use, or disclose personally identifiably information about users who are under the age of 13. If you are the parent or guardian of a minor under 13 years of age and believe they have disclosed personally identifiable information to this website, please contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com) so that we may delete the minor’s information.
 
 **10\. Tracking Technologies and how they collect, use, and distribute information?**
 
-_Tracking Technologies:_ technologies such as cookies or similar technologies are used by InsideSales and our marketing partners, affiliates, or analytics or site optimization service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+_Tracking Technologies:_  technologies such as cookies or similar technologies are used by InsideSales and our marketing partners, affiliates, or analytics or site optimization service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for marketing purposes, for our shopping cart, to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or customizable areas of the site, such as message boards and chat rooms of our site, may be limited.
 
@@ -143,11 +143,11 @@ We use Local Storage Objects (LSOs) such as HTML5 to store content, information,
 
 Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-_Advertisements_ : We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies, which we do not control, to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking[here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+_Advertisements_ : We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies, which we do not control, to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking[here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **11\. Where can I find any changes to the Privacy Policy?**
 
-This Policy was implemented on and is effective immediately. If you do not agree with the terms of this Policy, you should send us an email opting out of it at [privacy@InsideSales.com](mailto:privacy@InsideSales.com) and we will reluctantly cancel your account privileges and remove your data (subject to the limitations described above). If we make changes to any terms or conditions of the Policy, the changes will be incorporated into this document so you will always know what information we gather, how we might use that information, and to whom we will disclose it. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. You are responsible for regularly reviewing this Policy. Continued use of our website after any modifications to this Policy shall constitute your consent to such modifications.
+This Policy was implemented on and is effective immediately. If you do not agree with the terms of this Policy, you should send us an email opting out of it at [privacy@InsideSales.com](mailto:privacy@InsideSales.com) and we will reluctantly cancel your account privileges and remove your data (subject to the limitations described above). If we make changes to any terms or conditions of the Policy, the changes will be incorporated into this document so you will always know what information we gather, how we might use that information, and to whom we will disclose it. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. You are responsible for regularly reviewing this Policy. Continued use of our website after any modifications to this Policy shall constitute your consent to such modifications.
 
 **Policy of Terminating Privileges for Infringement; Notice and Procedure for Making Claims of Copyright Infringement**
 
@@ -184,7 +184,7 @@ E-mail us at:
 
 **Information Related to Data Collected through the InsideSales Services**
 
-InsideSales acknowledges that you have the right to access your personal information. InsideSales collects and processes 3rd party personally identifiable information under the direction of our customers. We have no ownership of this information or any direct relationship with individuals whose personally identifiable information may be processed as part of providing our Service.
+InsideSales acknowledges that you have the right to access your personal information. InsideSales collects and processes 3rd party personally identifiable information under the direction of our customers. We have no ownership of this information or any direct relationship with individuals whose personally identifiable information may be processed as part of providing our Service.
 
 An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to the InsideSales customer they interact with directly (the data controller). If an InsideSales customer requests that we remove personally identifiable information on their behalf, we will respond to their request within 30 days.
 
@@ -192,16 +192,13 @@ InsideSales will retain personally identifiable information we process on behalf
 
 **Information for those Outside the United States**
 
-_U.S. – Swiss Safe Harbor_  
-InsideSales complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. InsideSales has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view InsideSales’ certification, please visit  
-<https://safeharbor.export.gov/swisslist.aspx>
+_EU – U.S. and Swiss – U.S. Privacy Shield_  
+For EU and Swiss citizens, InsideSales complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. InsideSales has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit  
+<https://www.privacyshield.gov/>
 
-_EU – U.S. Privacy Shield_  
-InsideSales complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. InsideSales has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+InsideSales commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Private Shield policy should first contact us at [privacy@insidesales.com](mailto:privacy@insidesales.com).
 
-InsideSales commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact us at privacy@InsideSales.com.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at feedback-form.truste/watchdog/request.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request> . If your complaint remains unresolved, you may have the option of engaging in binding arbitration through the Privacy Shield Panel.
 
 If InsideSales transfers personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal information must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we can prove we are not responsible for the damage.
 
