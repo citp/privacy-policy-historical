@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorecardresearch.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506202108id_/https%3A//www.scorecardresearch.com/privacy.aspx%3Fnewlanguage%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorecardresearch.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220171005id_/https%3A//www.scorecardresearch.com/privacy.aspx%3Fnewlanguage%3D1) for the most accurate reproduction.*
 
 # Privacy Page - Scorecard Research
 
