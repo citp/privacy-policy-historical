@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625180414id_/http%3A//www.curata.com/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220102140id_/http%3A//www.curata.com/t/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -71,3 +71,5 @@ We reserve the right to modify the provisions of this Privacy Policy if deemed n
 **What rights do you have and how can you contact us?**
 
 If you would like to exercise your right to view, correct, complete or remove your Personal Data, please contact us at privacy@curata.com. Upon verification of your identity, we will attempt to quickly fulfill your request, provided we will not act contrary to applicable legislation by fulfilling your request.
+
+We provide individuals the opportunity to â€œopt-outâ€ of having their personally identifiable information collected by us. In addition, European data protection legislation gives individuals the right to access personally identifiable information held about them. Individuals may ensure that such information is accurate and relevant for the purposes for which we collected it. Individuals may review their own information and correct or remove any information that is incorrect, as permitted by applicable law. To request opt-out, review, modification or removal of personal data, you should submit a written request to us at [privacy@curata.com](mailto:privacy@curata.com).
