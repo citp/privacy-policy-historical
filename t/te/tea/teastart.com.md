@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teastart.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611220133id_/http%3A//teastart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teastart.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220012400id_/http%3A//teastart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TeaStart
 
@@ -33,3 +33,5 @@ We respect your right to privacy throughout all of the services we provide. In p
 
 
 **Links to other websites**  Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**[ultimate_gdpr_policy_accept]**
