@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621110632id_/http%3A//ballerarcade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220204047id_/http%3A//ballerarcade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
