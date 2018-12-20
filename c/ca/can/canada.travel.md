@@ -1,243 +1,113 @@
-> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503011646id_/http%3A//en.destinationcanada.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220205512id_/http%3A//en.destinationcanada.com/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Destination Canada
 
-1\. INTRODUCTION
+## About Destination Canada
 
-The Canadian Tourism Commission, doing business as Destination Canada ("DC"), is a Crown corporation of the Canadian government which was established to sustain a vibrant and profitable Canadian tourism industry; to market Canada as a desirable tourist destination; to support a cooperative relationship between the private sector and the governments of Canada, the province and the territories with respect to Canadian tourism; and to provide information about Canadian tourism to the private sector and to the governments of Canada, the provinces and territories.
+The Canadian Tourism Commission, operating as ‘Destination Canada’ (DC), is a Crown Corporation wholly owned by the Government of Canada. Established in 2001 under the _Canadian Tourism Commission Act_ , DC markets Canada internationally. Its aim is to provide a consistent voice for Canada in the international tourism marketplace, and to sustain a vibrant and profitable tourism industry by supporting cooperative relationships between the public and private sectors.
 
-To meet these goals, DC collects, uses, and discloses personal information from individuals such as our business partners, travel agents, and individual travellers on its websites ("Web Sites"). DC is committed to respecting the privacy of all individuals who entrust us with their personal information.
+### Tourism partnerships, promotion and marketing
 
-We are committed to protecting your privacy in accordance with applicable privacy and data security laws and will only process your personal information to carry out the Purposes section of this privacy policy (this "Policy"). If you have any questions about this Policy or about the personal information handling practices and safeguards of DC, please contact our Chief Privacy Officer ("CPO") at:
+In keeping with its mandate to promote and encourage Canadian tourism, DC engages in marketing activities with public and private sector organizations. This work includes partnered global marketing and sales programs geared at developing a strong Canadian brand presence internationally. Our partners range from small-to-medium-size enterprises to large tourism-focused businesses. DC also interacts regularly with partners in the tourism industry, such as provincial and destination marketing organizations and trade associations.
 
-Chief Privacy Officer
+### Tourism and travel research
 
-Phone: (+1) 604.638.8300
+DC offers a variety of tools and resources to small and medium-sized tourism enterprises. This includes research and market intelligence reports geared at supporting and encouraging Canadian travel. Both tourism partners and individuals can subscribe to our news reports for regular updates about Canadian tourism research and statistics, marketing programs, travel issues, industry trends and more.
 
-Email: [privacy@destinationcanada.com ](mailto:privacy@destinationcanada.com)
+### Business events
 
-2\. DEFINITIONS
+In addition to our tourism marketing and research efforts, DC works collaboratively with a range of industry associations and private-sector partners to encourage the hosting of business events in Canada. Business events help increase exports of Canadian goods and services, encourage attendance at Canadian educational facilities, boost direct foreign investment in Canada, and leverage Canada’s overall brand in encouraging commercial activity.
 
-a) Personal Information
+## Our privacy policy
 
-Personal information is defined as any information, recorded or not, that is about an identifiable individual. Anonymous or aggregate information is not considered personal information and does not fall under the scope of this Policy.
+In order to fulfill its legal mandate, DC may collect, use, and disclose “ **personal data** ”. This includes data from consumers (such as visitors to our website or newsletter subscribers), and data from our tourism partners (such as destination marketing agencies, travel agents and tour operators).
 
-Personal information can be objective information such as your e-mail address or your country of residence, or it can be subjective information such whether you have plans to fly to Canada in the next six months or whether you enjoy skiing.
+At DC, we are committed to safeguarding the privacy of all individuals who entrust us with their personal data. This policy is meant to help individuals understand what information we collect, why we collect it, and how it is managed. The policy applies where we are acting as a “ **data controller** ”, that is, where we determine both the purpose and means of processing of personal data. DC does not process data on behalf of others.
 
-The following is a list of the most common types of personal information which DC collects, uses, discloses and retains from the Web Sites:
+## What we collect
 
-  * name;
-  * Internet Protocol (IP) address;
-  * mailing and e-mail addresses;
-  * other contact information such as telephone and fax numbers;
-  * age;
-  * gender;
-  * language preference;
-  * web browser type;
-  * operating system;
-  * geographic location if the user has enabled this feature;
-  * opinions and suggestions;
-  * travel preferences, plans, intentions and/or practices;
-  * travel activity interests;
-  * pages visited (on a single site or across sites);
-  * length of time spent on DC's pages;
-  * advertisements viewed;
-  * articles read;
-  * search terms used;
-  * business title and contact information;
-  * organizational memberships and certifications (i.e. the Canada Specialist program or Meeting Planners International);
-  * passport numbers and visas (where required, for example for contest winners); and
-  * food allergies, shirt sizes, and special travel requirements (where required, for example, when planning a trade show).
+DC limits its collection of personal data to that which is authorized under an operating program or activity of the corporation. This includes information provided directly from consumers and/or tourism partners, or that provided through the use of our website or services, as set out in the following section. For a full index and description of our personal data holdings, see our “ **Personal Information Index** ”.
 
+## Why we collect it
 
+### Consumers
 
-While all personal information that DC collects, uses, and discloses under this Policy is protected as confidential information, some information may be more sensitive in nature. DC is committed to an even higher level of privacy protection for sensitive personal information.
+We use cookies on our websites. Through the use of cookies, we may collect and process data about your use of our websites (" **usage data** "). Usage data may include your Internet Protocol (IP) address, geographical location, browser type and version, operating system, referral source, length of visit, and page views and website navigation paths. It may also include information about the timing, frequency and pattern of your use of our websites.
 
-b) Disclosure
+Usage data is collected and monitored through the use of data analytic tracking systems. Usage data may be processed for the purposes of analyzing the use of our websites and services, in keeping with our mandate. Where cookies are not strictly necessary for our website or the provision of services, we may also ask you to consent to the use of cookies.
 
-A disclosure occurs when DC makes your personal information available to others outside of DC. For example, you may consent to have DC disclose your personal information to one of our partners so that you can receive information based on your browsing interests.  Your ability to consent to a disclosure is described in the Consent section below.
+In addition to the collection of usage data, we may collect and process information that you provide to us for the purpose of subscribing to our email notifications, research and/or newsletters (" **notification data** "). This includes DC news, story ideas, tourism snapshots, special offers, incentives and contests, and specialist programming. Notification data may include your email address, name, and organization type, as provided by you. Notification data may be processed for the purposes of sending you publications that you’ve elected to receive, in keeping with our mandate.
 
-c) Transfer
+Where you elect to contact us, we may collect and process information contained in or relating to any communication that you send to us (" **correspondence data** "). Correspondence data may include your contact information, the contents of your communication, and any metadata associated with the communication. Correspondence data may be processed for the purposes of communicating with you and/or your organization, and for general record-keeping, in keeping with our mandate.
 
-A transfer occurs when DC provides your personal information to a third party in order for them to provide DC and/or you with a service. An example of this is when we would like a satisfaction survey conducted after a show or event. A contractor of the event organizer may be tasked with sending the survey email and thus requires email addresses of attendees.
+### Tourism partners
 
-When DC transfers your personal information to its service providers, it remains accountable to you for the protection of that information. DC includes clauses relating to security and protection of personal information in our contracts with these providers in order to ensure that they will provide the same level of privacy protection to you as we do. We also ensure that our service providers are only provided with the personal information necessary for the services required by DC and/or you.
+In the course of fulfilling our mandate, we may collect and process information about our customers and tourism partners (e.g., travel agencies, tour operators, venues, event planners, provincial and territorial destination tourism marketing agencies, and conference or training organizers). Customer and partner information (" **customer relationship data** ") may include an individual’s name, his or her employer, job title or role, contact details, and information contained in communications between DC and the program partner, including event information. Customer relationship data is sourced directly from the individual or his or her employer. It may be processed for the purposes of managing our relationships with tourism partners, communicating with partners, keeping records of those communications, and for promoting products, services, and events in keeping with our mandate. In some cases, we may obtain consent prior to collecting customer relationship data.
 
-d) Online Behavior Advertising
+### Job applicants
 
-We may use this information to improve the Web Sites' quality; personalize your experience; track your use of our site; provide feedback to third party businesses that are listed on DC's website; display relevant advertising on the Web Sites or that of our partners; market destinations through the Web Sites or that of our partners; measure the effectiveness of DC's online marketing initiatives and campaigns; and comply with legal obligations. This information may be disclosed to our partners in order to achieve these online behaviour advertising outcomes.
+If you apply for employment at DC, in order to process your job application we may collect and process data about your career interests and employment history (“ **job applicant data** ”). Job applicant data is used for staffing and recruitment activities, and to maintain an inventory of candidates for current and future work opportunities. Personal information will only be used for legitimate business interests, and only then with your express consent.
 
-If you prefer that we do not collect information about your visits to the Web Sites for the purpose of delivering targeted advertising, you may opt out by clicking on the "opt-out" button below, or by disabling cookies on your browser or mobile device.
+## How it is managed
 
-3\. ACCOUNTABILITY
+### Accountability
 
-The CPO is accountable to the Chief Executive Officer and has been delegated the responsibility for ensuring compliance with the applicable data protection and privacy laws and with this Policy. The CPO may, from time to time, delegate particular responsibilities to other individuals within DC in order to effect the provisions of this Policy.
+In keeping with our commitment to privacy, we have put in place appropriate technical and organizational measures to help ensure that personal data we collect is protected and properly handled. This includes a Privacy Management Framework that sets out key responsibilities for privacy and the protection of personal information. The Privacy Management Framework also establishes a common set of standards and practices for the handling of personal information across the corporation. In addition to supporting individual accountability for privacy, the Framework helps to promote a coherent and effective organizational approach for privacy protection.
 
-4\. PURPOSES
+### Openness
 
-DC may collect, use, disclose and/or retain personal information for the following purposes:
+Each year we update and publish a full inventory of our personal data holdings. Our publicly available Personal Information Index describes what personal data we collect, the purposes for which that data is collected, how the data may be used, who we share that data with, how long it is retained, and how individuals to whom the information belongs may access the data.
 
-  * advertise and market Canada as a tourist destination;
-  * deliver tailored content and or advertising;
-  * provide interested individuals with targeted information about Canada;
-  * improve our products and services;
-  * conduct industry research and studies;
-  * promote product and industry development;
-  * validate marketing strategies;
-  * validate an individual's eligibility for DC's contests or sweepstakes;
-  * contact winners of contests or sweepstakes;
-  * e-mail newsletters;
-  * mail magazines and catalogues;
-  * create a "community of users" amongst potential travellers to Canada;
-  * authenticate users of DC's web sites;
-  * announce upcoming events and to send invitations to individuals interested in those events;
-  * publish directories for tradeshows and other business events;
-  * ensure the security of DC's systems;
-  * meet government reporting requirements; and
-  * legal requirements,
-  * both on the Web Sites and the sites of our program partners, but only for DC's proper purposes.  DC does not sell personal information or otherwise disclose it for purposes other than those set out above.
+### Safeguards
 
+Personal data held by DC is safeguarded in accordance with government standards for the protection of personal information. Generally speaking, personal data is secured in a manner commensurate with its sensitivity. In order to help safeguard personal data, DC has a formal information security program in place. The program includes physical, technical, and organizational measures designed to protect against anticipated threats to personal data. Those measures also help prevent the unauthorized disclosure, access, or use of personal data.
 
+In addition to the above security practices, DC regularly conducts privacy impact assessments (PIAs) in relation to new or substantially modified programs and services involving the use of personal data. PIAs help identify, measure and mitigate the privacy risks associated with the introduction of new programs or services, ensuring that privacy is a core consideration in the design, development and operation of all programs and services involving the use of personal data. In keeping with our commitment to transparency and openness, we post summaries of our PIAs on our external website.
 
-5\. CONSENT
+### Limited sharing and retention
 
-DC will always collect, use or disclose your personal information according to applicable privacy and data protection laws and this Policy. Except as permitted by law, we will obtain your consent before collecting, using or disclosing your personal information. This consent can be express, such as when you specifically request to be added to a mailing list for one of our electronic newsletters or your consent can be implied such as when you complete a registration form on a Web Site, enter one of our sweepstakes, or answer one of our surveys. In the latter case, you are consenting to DC's collection of personal information you volunteer. In all cases, DC will make every reasonable effort to ensure that you are advised of the purposes for which the information will be used.
+DC does not share your personal data with other companies, organizations or individuals, except with your consent (or where authorized by law). Personal data is never sold, and is never used except in keeping with the purposes for which it was first collected. In some cases, we may provide your personal data to trusted program partners or service vendors for processing. In such instances, we ensure that the organizations we share your data with comply with strict instructions for the proper handling of that data.
 
-You are free at any time to withdraw your consent regarding any of the purposes for which DC uses or discloses your information through an available opt-out mechanism. For example, DC always enables you to "unsubscribe" to an electronic newsletter by following the simple instructions it provides when the newsletter is e-mailed to you.
+We only retain personal data for so long as it is required to fulfill the purpose for which it was first collected. Personal data that is used to make a decision that may impact an individual is retained for a minimum of two years, as required under Canada’s _Privacy Act_. When personal data is no longer required, it is securely destroyed or de-identified.
 
-The majority of the time DC collects personal information directly from the individual about whom the information relates. If DC collects your personal information indirectly through a third party, rest assured that it will ensure that you have consented to this indirect collection before it retains your personal information in its files or on its databases and we will only use and disclose this information for the proper purposes to which you have consented. In most cases, DC will contact you directly to confirm whether you wish to receive communications from us.
+## Universal data rights
 
-6\. LIMITING COLLECTION
+### Access
 
-DC will limit its collection of your personal information to only that which is necessary to meet the Purposes identified above.
+Individuals have the right to request a confirmation as to whether or not DC processes their personal data. Where we do, the individual has the right to access that personal data. Providing the rights and freedoms of others are not affected, and except as provided under the _Privacy Act_ , we will supply individuals with a copy of their personal data at no cost.
 
-If DC intends to use your personal information for a new purpose not included in the list above, it will seek your consent to do so.
+Individuals can request a copy of their personal data by contacting our Privacy Office at [privacy@destinationcanada.com](mailto:privacy@destinationcanada.com), or by telephone at +1.604.638.8300.
 
-7\. COLLECTION OF YOUR INTERNET PROTOCOL (IP) ADDRESS and other information FOR RESEARCH AND ANALYTICAL PURPOSES
+### Corrections
 
-The Web Sites automatically collect certain information regarding visitors to our site. This information may include your Internet Protocol (IP) address, the IP address of your Internet Service Provider, the date and time you access the Web Sites, the Internet address of the web site from which you linked directly to the Web Sites, the operating system you are using, the sections of the Web Site you visit, the Web Sites pages read and images viewed, and any content you download from the Web Sites.
+We make reasonable effort to ensure that your personal data is as accurate, complete and up-to-date for the purposes for which it is to be used. You have the right to have your personal data corrected where inaccurate or incomplete. Corrections are best processed by contacting the official or department at DC to which your information was first provided. If you have provided your personal data to DC using an on-line form, you may be able to update that information by amending your on-line profile, or by following the link on DC-provided publications.
 
-The data collected may be used for research and analytical purposes. We may also provide this information to third parties, including operators of sites that link to and from our Web Sites to ensure the effectiveness of such linkages. We also use this information for system administration purposes and/or to improve the Web Sites.
+Individuals can also request corrections to their personal data by contacting our Privacy Office at [privacy@destinationcanada.com](mailto:privacy@destinationcanada.com), or by telephone at +1.604.638.8300
 
-DC employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to our systems and Web Sites. This software receives and records the Internet Protocol (IP) address of the computer that has contacted our Web Sites, the date and time of the visit and the pages visited. DC makes no attempts to link these addresses with the identity of individuals visiting our Web Sites unless an attempt to damage the Web Sites has been detected. We never mine or match the data we collect with personally, identifiable information.
+### Challenging compliance
 
-8\. COOKIES
+Concerns relating to DC’s collection, use or disclosure of personal data may be communicated to DC’s Privacy Office at [privacy@destinationcanada.com](mailto:privacy@destinationcanada.com). Failing the resolution of a privacy concern or issue, individuals may exercise their right to pursue outstanding matters by way of a complaint to the [Office of the Privacy Commissioner of Canada](http://www.priv.gc.ca/).
 
-DC uses "cookies" to enhance the convenience and use of its websites. A cookie (also known as an HTTP cookie, web cookie, or browser cookie) is a small piece of data sent from a website and stored in a user's web browser while the user is browsing. Cookies are designed to recall information about past browsing activity and to allow a Web Site to recognize future visits. Cookies, among other things, allow us to recognize you as a previous user of our Web Sites (so you do not have to enter information about yourself every time). They also allow DC to offer personalized web content, thus facilitating your overall website experience. Cookies may also be shared with DC partners and third party advertising vendors to allow for internet-based advertising and content personalization consistent with the Purposes set out above. Cookies placed on user browsers do not contain any Personal Information.
+## Rights specific to residents of the European Union
 
-In addition to our use of cookies, DC may use Google Analytics and other web tools to analyze traffic and other data related to our Web Sites. DC uses these tools to understand what features visitors to our Web Sites like best and what best encourages engagement and interaction.
+DC is subject to Canada’s _Privacy Act_. We strive however to comply with the privacy laws and regulations of all jurisdictions in which we have an establishment and market to, including the European Union (EU). Subject to the _Privacy Act_ and the laws of Canada, EU residents may have the following additional rights, as provided by the General Data Protection Regulation (GDPR).
 
-Through cookies, we only collect aggregated, anonymous data. Information collected through cookies and produced through analytical data does not contain personal identifying information. Cookies used by DC cannot capture or access files and data stored on your computer.
+### Erasure
 
-Browsers may allow you to disable the use of cookies through the use of your browser's 'ad settings' (generally in the 'privacy' or 'security' settings), for mobile apps and/or other available means (please see section 2 d. above). Doing so may, however, affect your use of our Web Sites and/or your ability to access certain features of these sites. Should you wish to prevent your data from being used by Google Analytics, this link provides instructions on how to opt-out: [www.google.com/settings/u/0/ads ](https://www.google.com/settings/u/0/ads) . To opt-out of Display Advertising you should go to: <https://www.google.com/settings/ads/onweb>[ ](https://www.google.com/settings/ads/onweb)
+In some circumstances, EU residents may have the right to the erasure of their personal data. The right to erasure may be exercised where: personal data is no longer necessary in relation to the purposes for it was first collected or otherwise processed; consent is withdrawn (where data processing was based on consent); there is no further legitimate interest in processing the data; data is being used for direct marketing purposes on the objection of the individual; or where the personal data has been unlawfully processed. This right is not absolute. DC may continue to process personal data of EU residents where the processing is necessary for compliance with a legal obligation, or for the establishment, exercise or defence of a legal claim.
 
-Advertisements displayed on our Web Sites may also contain cookies. These advertisements may be provided by third party advertising companies. We do not have any control over the cookies used in those advertisements, and bear no responsibility or liability for the use and/or disclosure of information collected by third parties through advertisement cookies.  We will not, however, knowingly permit advertising companies to use or disclose information collected through the Web Sites for illegal or other improper purposes.
+### Restricted processing
 
-9\. LIMITING DISCLOSURE
+In some circumstances, residents of the EU may have the right to restrict the processing of their personal data. Such circumstances include: where the accuracy of the individual’s personal data is contested; where processing is unlawful but erasure is opposed; or where personal data is no longer needed for the purposes of processing, but where the individual requires personal data for the establishment, exercise or defence of a legal claim. Where processing has been restricted, DC may continue to store that personal data. In such cases, we will only process your personal data with your consent or: for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for purposes of an important public interest.
 
-DC will only disclose your personal information with your consent and only to meet the purposes for which it was originally collected, consistent with this Policy. For example, you may want to consent to the disclosure of your personal information to an airline so that you can receive information about their seat sales to Canada over the summer months. When DC fulfills your request and sends your information to this DC partner, it will ensure that the airline only uses your information for that specific purpose and that it will seek your consent for any new purposes.
+### Portability
 
-Similarly, if DC intends to use or disclose your personal information for a new purpose, it will notify you first and seek your consent.
+In some circumstances, residents of the EU may have the right to receive personal data they have provided to DC (as data controller) in a portable manner (i.e., in a format that is structured, commonly used, and machine readable). EU residents may also have the right to request that DC transmit that data to another data controller. The right to data portability only applies when personal data is provided on the basis of consent, or for the purposes of a contract, and where DC processes that data by automated means. Except with respect to job applicant data supplied through our on-line application platform, DC does not process data automatically.
 
-In keeping with the Purposes set out above, DC may disclose your personal information, with your consent, to the following categories of recipients:
+## Definitions
 
-  * tourism marketing partners;
-  * travel agencies and travel insurance companies;
-  * tour operators;
-  * the Library and Archives Canada;
-  * event planners and/or specific venues;
-  * provincial, territorial or destination tourism marketing agencies; and
-  * conference or training organizers or providers.
+“Personal data” means information about an identifiable individual that is recorded in any form, as provided in section 3 of Canada’s _Privacy Act_.
 
+“Data controller” means a legal person which, alone or jointly, determines the purposes and means of processing personal data.
 
-
-DC may, from time to time, use service providers to perform specialized services on our behalf. Our service providers may, at times, be responsible for processing or handling personal information. In all cases, service providers are given only the personal information they need to perform the services which they have been contracted to provide. When service providers are used, DC requires them to protect personal information in a manner consistent with this Policy.
-
-In some instances, your information may be processed and stored by our third party service providers in foreign jurisdictions. In the event our service provider is located outside of Canada, the service provider will be bound by the laws of Canada, the laws of the jurisdiction in which the service provider is located and the requirements of this Policy. Foreign governments, courts or law enforcement or regulatory agencies may be able to obtain disclosure of your information through the laws of their respective jurisdictions. DC is required by law to respond to valid requests for information from domestic or international authorities.
-
-10\. LIMITING RETENTION
-
-DC will only retain your personal information for so long as it is required, subject to the laws and policies governing its operations.
-
-If you withdraw your consent to use your personal information, DC may be required to retain some of your data in order to meet statutory and legal obligations.
-
-11\. ACCURACY
-
-DC will make every reasonable effort to keep your personal information complete, accurate and up-to-date. We rely on you to keep us updated of any changes so that the personal information we have is accurate at all times.
-
-You may correct or amend any of your personal information held by DC by contacting the CPO to request a correction or amendment to your personal information. If you have provided your information via an online sign-up, you may be able to correct or amend your information by amending your on-line "profile".
-
-With your consent, DC may forward any corrections or amendments of your personal information to the appropriate third parties to whom the original data had been disclosed, if any.
-
-Please be advised that DC reserves the right to refuse to amend any information where, in its opinion, the information we have on file is accurate. In such a circumstance, you will have the right to register your disagreement and have disputed items reviewed by contacting the relevant privacy regulator.
-
-12\. SECURITY SAFEGUARDS
-
-DC will protect your personal information against loss or theft, as well as from unauthorized access, disclosure, copying, use or modification. Personal information under the control of DC will be protected regardless of the format in which it is held.
-
-DC will use appropriate security safeguards to provide necessary protection such as:
-
-  * Physical measures (locked filing cabinets, restricting access to offices, alarm systems);
-  * Technological tools (passwords, encryption, firewalls);
-  * Organizational controls (security clearances, limiting access on a "need-to-know" basis, staff training, and confidentiality agreements); and
-  * Policy measures (IT policy, security policy).
-
-
-
-DC will consider the following factors in selecting appropriate safeguards:
-
-  * sensitivity of the information;
-  * amount of information;
-  * extent of distribution;
-  * format of the information (electronic, paper, etc.); and
-  * type of storage.
-
-
-
-The information we obtain from or about you may be processed and stored in the United States, which may provide for different data protection rules than the country in which you reside. We will ensure that any information processed and/or stored in the United States shall be safeguarded consistent with the measures and controls set out above.
-
-13\. OPENNESS
-
-This Policy may be changed from time to time. Our latest Policy will be posted on our website. It is also available by contacting the CPO.
-
-When visiting our Web Sites, you are encouraged to review any changes since the last version you may have read. You could also bookmark this Policy and periodically review it to ensure that you are familiar with its terms.
-
-14\. RIGHT OF ACCESS
-
-Upon request, DC shall inform you of whether or not we hold personal information about you. To the extent possible, we will also indicate the source of this information. Upon request, DC shall also provide an account of the use that has been made or is being made of your personal information and an account of the third parties to which it has been disclosed.
-
-In order to provide an account of the existence, use, and disclosure of your personal information you may be required to provide additional information to permit DC to locate and review that information. Additional information provided, if any, shall only be used for this purpose.
-
-Requests for access to your personal information must be made in writing. Please forward all such requests to the CPO.
-
-DC will acknowledge any request for access within fourteen (14) calendar days from the date upon which it receives the request. It will provide access within thirty (30) days of the receipt of the request unless an extension of time is required and you have been notified of the reasons for the extension and the estimated timeframe to meet your request.
-
-Paper copies of the information will be provided to you upon request. DC reserves the right to provide voluminous requests in an alternative, environmentally friendly, manner.
-
-DC has the right to deny your request under certain circumstances. Those circumstances include but are not limited to:
-
-  * information which is protected by solicitor-client privilege;
-  * information which reveals personal information about another individual;
-  * personal information which was collected for an investigation or legal proceeding that has not yet concluded;
-  * if providing access to particular personal information could jeopardize an individual's life or security; or
-  * if access to the personal information could reasonably be expected to threaten the safety or physical or mental health of another individual.
-
-
-
-For security and privacy reasons, acceptable proof of identification may be requested prior to granting an individual with access to his or her personal information.
-
-15\. CHALLENGES AND CONCERNS
-
-Should you have any questions or concerns related to the collection, use, disclosure or retention of your personal information, please send them to the CPO.
-
-All individuals have the right to contact the relevant privacy authority in their own jurisdiction. In Canada, the Office of the Privacy Commissioner of Canada can be contacted at:
-
-Place Victoria  
-30 Rue Victoria  
-Gatineau, Quebec  
-J8X 4H6
-
-Toll-free: 1-800-282-1376  
-Phone: (613) 995-8210  
-Fax: (613) 947-6850  
-TTY: (613) 992-9190
+“Personal Information Index” refers to the index and description of personal data collected and processed by Destination Canada, as set out in section 11(1) of Canada’s _Privacy Act_.
