@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621235240id_/https%3A//www.makeuseof.com/legal/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220173859id_/https%3A//www.makeuseof.com/legal/%23privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Affiliate Disclaimer
 
@@ -86,8 +86,6 @@ We, or a data provider we have engaged, may place or recognize a unique cookie o
 No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. 
 
 To opt-out of these cookies or learn more please go to <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
 
 ### Mobile applications
 
@@ -186,7 +184,7 @@ To be in accordance with CANSPAM, we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
 
-Last updated: 14 May 2018
+Last updated: 21 September 2018
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy, you may contact us using the information below.
@@ -213,10 +211,7 @@ Some of our Best Of lists also contain affiliate links. Notable ones include our
 
 And now, some legal stuff:
 
-Disclosure of Material Connection: Some of the links on MakeUseOf.com are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers. We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
-
-**Disclosure of Material Connection**  
-Some of the links on MakeUseOf.com are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. We also receive compensation for sponsored posts and emails. Regardless, we only recommend products or services we believe will add value to our readers. We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.” For more information about our use of affiliate links, please read our Affiliate Disclosure.
+Disclosure of Material Connection: Some of the links on MakeUseOf.com are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers. We also receive compensation for sponsored posts and emails.We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
 
 ### A quick word regarding sponsored articles, manuals and giveaways
 
