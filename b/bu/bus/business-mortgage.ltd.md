@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-mortgage.ltd privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510073301id_/http%3A//business-mortgage.ltd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-mortgage.ltd privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220020152id_/http%3A//business-mortgage.ltd/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Business Mortgage
 
