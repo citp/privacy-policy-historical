@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swedish.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124012641id_/http%3A//www.swedish.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swedish.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220203819id_/https%3A//www.swedish.org/policy) for the most accurate reproduction.*
 
 # Swedish Web Privacy Policy | Swedish Medical Center Seattle and Issaquah
 
