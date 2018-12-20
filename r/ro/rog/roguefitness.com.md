@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719141922id_/https%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220183215id_/https%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Rogue Fitness
 
 Thank you for accessing the RogueFitness.com Website (“ **Site** ”) operated by Coulter Ventures, LLC d/b/a Rogue Fitness (“ **Rogue** ”). We respect your privacy and want to protect your personal information.
 
@@ -61,7 +61,7 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 ## OPT OUT/CORRECTIONS
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account . You can make these by emailing your request to Rogue at http://www.roguefitness.com/contact-us/, or by calling us at **(614) 358-6190**
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account . You can make these by emailing your request to Rogue at [Contact Us](https://www.roguefitness.com/contact-us), or by calling us at **(614) 358-6190**
 
 _Please do not email your credit-card number or other sensitive information to Rogue._
 
@@ -111,6 +111,242 @@ The majority of information that we collect is obtained through the Site, and th
 
 ## Updates To This Policy
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at http://www.roguefitness.com/contact-us/.
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at [Contact Us](https://www.roguefitness.com/contact-us).
 
-_Effective January 3, 2014_
+  
+
+
+## European Union Privacy Notice
+
+This Privacy Notice applies to our processing of personal data of EU residents that is covered by the EU General Data Protection Regulation (GDPR) and is a supplement to our Privacy Policy.
+
+### Who We Are
+
+**ROGUE FITNESS is a sports equipment manufacturer headquartered in Columbus OH. ROGUE FITNESS is the controller of your personal data that we have collected.**
+
+### Personal Data
+
+**Personal Data is a legal term that describes any information that identifies a particular person and has special meaning under European Union law.**
+
+For purposes of the EU’s General Data Protection Regulation (GDPR) personal data is any information that can identify you, either directly or indirectly, such as a name, an identification number, your IP address, data about your location, or information about your physical, physiological, genetic, mental, economic, cultural or social identity.
+
+**We are providing you this notice because we have collected some of your personal data from you. We collect your data for a variety of reasons, depending on whether you are an employee, a customer, an agent, or a vendor.**
+
+### What is the Legal Basis and Purpose for Holding Your Personal Information?
+
+**If you are a customer, an employee, or a job applicant, the personal information we hold, and use is necessary for the performance of the services contract to which you are a party.** **If you are a prospective customer, the personal information we collect, and use is necessary for our legitimate interest in providing you with information about the services we offer, and about which you have expressed an interest or that we believe will be of benefit to you.** **In some cases, our legal basis for collecting your personal data is because you have expressly consented to our collection and use of your personal information.**
+
+### How Long Do We Keep Your Personal Data?
+
+**If you are a customer, applicant for employment, vendor or agent, we will keep your personal data on an ongoing basis for so long as we have a legitimate interest to inform you of our services, or until our contractual relationship has terminated, as the case may be. We are required to retain certain information in accordance with the law, such as information needed for income tax and audit purposes. How long certain kinds of personal data should be kept may also be governed by specific business-sector requirements and agreed practices.**
+
+### Your Rights as a Data Subject
+
+You have important rights that you may exercise to protect your personal data. You may access those rights at any time by contacting us at [privacy@roguefitness.com](mailto://privacy@roguefitness.com)
+
+You have the following rights concerning your personal data that we hold and process that you can exercise at any time:
+
+  * Right of access – you have the right to request a copy of the information that we hold about you.
+  * Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+  * Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records.
+  * Right to restriction of processing – where certain conditions apply to have a right to restrict the processing.
+  * Right of portability – you have the right to have the data we hold about you transferred to another organization.
+  * Right to object – you have the right to object to certain types of processing such as direct marketing.
+  * Right to judicial review: if **ROGUE FITNESS** refuses your request under rights of access, we will provide you with a reason as to why. You have the right to complain as outlined in the process below.
+
+
+
+**Please note: we will not be able to delete information that is required to maintain our business purpose or that is required to facilitate your contract with us. All the above requests will be forwarded on to other parties holding and processing your data where appropriate.**
+
+For more information about your personal data rights please visit the Information Commissioner Office for the United Kingdom’s website at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/>.
+
+What forms of ID will I need to provide to access this?
+
+**ROGUE FITNESS accepts the following forms of ID and validation when information on your personal data is requested: You will need to send an email from the email address account associated with your personal data as stored on ROGUE FITNESS’s systems.**
+
+### Under what Circumstances will ROGUE FITNESS Contact me?
+
+**Our aim is not to be intrusive, and we undertake not to ask irrelevant or unnecessary questions. Moreover, the information you provide will be subject to rigorous measures and procedures to minimize the risk of unauthorized access or disclosure.**
+
+### Consent
+
+**For certain types of personal data, we have asked for your consent to use the data for certain described purposes at the time you provided it. You may withdraw your consent at any time.**
+
+When you give us your consent, you are giving us permission to process your personal data specifically for the purpose identified in the consent request. Where we ask you for additional personal data, we will obtain your consent to our proposed use of that data where required, and always tell you why and how the information will be used.
+
+You may withdraw consent at any time by sending an email to [privacy@roguefitness.com](mailto://privacy@roguefitness.com)
+
+### Sharing with Third Parties
+
+**We may pass your personal data on to third-party service providers contracted by ROGUE FITNESS to perform certain services for us, or to collaborate directly with you. For a complete and up-to-date list of the third parties we are currently using, please send an email to[privacy@roguefitness.com](mailto://privacy@roguefitness.com)**
+
+Any third parties that we may share your data with are obliged to keep your details securely, and to use them only for the purposes and to complete the tasks identified within the **ROGUE FITNESS** /Contractor contract. When they no longer need your data to fulfill this service, they will dispose of the details in line with **ROGUE FITNESS’s** procedures. If we wish to pass your personal data onto any additional third parties, we will only do so once we have obtained your consent, unless we are legally required to do otherwise.
+
+### International Transfer of Personal Data
+
+**ROGUE FITNESS** may transfer your personal information within ROGUE FITNESS and/or to other third parties, such as our third-party service providers. Your personal information may be transferred to, stored, and processed in a country other than the one in which it was collected. This may include the United States. When we do so, we transfer the information in compliance with applicable data protection laws. In particular, we have implemented safeguards in the form of standard data protection clauses adopted by the European Commission. The safeguards ensure compliance with the data protection requirements of the GDPR as well as your rights appropriate to the processing of your personal data. You can obtain a copy of the standard contractual clauses by contacting us at [privacy@roguefitness.com](mailto://privacy@roguefitness.com).
+
+### Safeguarding Personal Data
+
+Please refer to the “Safeguarding Personal Information” section above for information about our data security measures.
+
+### Who Do I Contact to Lodge a Complaint About How My Personal Data Is Being Handled?
+
+If you wish to raise a complaint on how we handle your personal data, you can contact our Privacy Officer as follows:
+
+**By Email:[privacy@roguefitness.com](mailto://privacy@roguefitness.com)**
+
+If you are not satisfied with our response you can complain to the Information Commissioner Office for the United Kingdom. Their Help Desk number is 0303 123 1113.
+
+  
+
+
+## COOKIE POLICY
+
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.
+
+### What are cookies?
+
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
+
+### How do we use cookies?
+
+We use cookies for the following purposes:
+
+  * Assisting you in navigation of our sites
+  * To help you provide feedback to us
+  * Analysing your use of our products, services or applications
+
+
+
+We use the following cookies and classify cookies in the following categories:
+
+  1. Strictly necessary cookies
+  2. Advertising cookies
+  3. Analytics cookies
+  4. Performance cookies
+  5. Session cookies
+  6. Targeting cookies
+
+
+
+You can opt-out of each cookie category (except strictly necessary cookies) by clicking on the “cookie settings” button below.
+
+### Cookie Privacy Setting
+
+When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer
+
+Strictly necessary cookies: These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually set only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+### Advertising Cookies
+
+Advertising cookies are placed on your computer by advertisers and ad servers in order to display advertisements that are most likely to be of interest to you. These cookies allow advertisers and ad servers to gather information about your visits to the Site and other websites, alternate the ads sent to a specific computer, and track how often an ad has been viewed and by whom. These cookies are linked to a computer and do not gather any personal information about you.
+
+### Analytics Cookies
+
+Analytics cookies monitor how users reached the Site, and how they interact with and move around once on the Site. These cookies let us know what features on the Site are working the best and what features on the Site can be improved.
+
+### Personalization Cookies
+
+Personalization cookies are used to recognize repeat visitors to the Site. We use these cookies to record your browsing history, the pages you have visited, and your settings and preferences each time you visit the Site.
+
+### Security Cookies
+
+Security cookies help identify and prevent security risks. We use these cookies to authenticate users and protect user data from unauthorized parties.
+
+### Site Management Cookies
+
+Site management cookies are used to maintain your identity or session on the Site so that you are not logged off unexpectedly, and any information you enter is retained from page to page. These cookies cannot be turned off individually, but you can disable all cookies in your browser.
+
+### Third-Party Cookies
+
+Third-party cookies may be placed on your computer when you visit the Site by companies that run certain services we offer. These cookies allow the third parties to gather and track certain information about you. These cookies can be manually disabled in your browser.
+
+### Performance Cookies
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site and will not be able to monitor its performance.
+
+### **ROGUE FITNESS** currently uses the following cookies;
+
+Cookie Name | Owner | Purpose  
+---|---|---  
+loc | .addthis.com | Used by our provider AddThis to detect visitor location when providing sharing buttons on the blog  
+kvcd | .addthis.com | Provides analytical information about how visitors use the site.  
+km_ai | .addthis.com | Provides analytical information about how visitors use the site.  
+_gat | .addthis.com | Google Universal Analytics - it is used to throttle the request rate - limiting the collection of data on high traffic sites.   
+km_lv | .addthis.com | Used by our provider AddThis to measure analytics using Kissmetrics on sharing buttons   
+ssc | .addthis.com | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+uvc | .addthis.com | Used by our provider AddThis to count unique visitors when providing sharing buttons   
+ouid | .addthis.com | Social Sharing Button https:/.addthis.com/privacy  
+_gid | .addthis.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website.   
+km_vs | .addthis.com | These cookies are used to collect information about how visitors use our site. We use the information to compile internal user conversion and site features usage statistics.  
+na_tc | .addthis.com | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+bku | .addthis.com | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+cw_id | .addthis.com | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+uid | .addthis.com | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+mus | .addthis.com | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+na_id | .addthis.com | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+_ga | .addthis.com | Google Universal Analytics - This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.   
+MR | .bat.bing.com | Marketing - Retargeting  
+MUID | .bing.com | Marketing - Retargeting  
+IDE | .doubleclick.net | Marketing - Retargeting  
+fr | .facebook.com | Marketing - Retargeting  
+APISID | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+SSID | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+HSID | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+SAPISID | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+NID | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+SIDCC | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+SID | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+1P_JAR | .google.com | This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.  
+BVSID | .network.bazaarvoice.com | Allows internal BV web analytics to be correlated to the same user browsing session for interactions across the BV network.  
+BVID | .network.bazaarvoice.com | Allows internal BV web analytics to be correlated to the same user for interactions across the BV network.  
+JSESSIONID | .nr-data.net | The JSESSIONID cookie is used to store a session identifier so that New Relic can monitor session counts for an application. The cookie value is generated by Jetty. JSESSIONID is a session cookie that is deleted when the browser closes.  
+__cfduid | .providesupport.com | Used by the content network, Cloudflare, to identify trusted web traffic.  
+__utmb | .roguefitness.com | This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies to analyse your use of the website. The information generated by the cookie about your use of this website (including your IP address) is transmitted to and stored on a Google server in the United States of America. Google use this information to assess your use of the website, providing reports on website activity for website operators and other website activity and internet related services. Google may transfer this information to third parties, if required by law or if third parties process the information on behalf of Google.  
+__utmc | .roguefitness.com | This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies to analyse your use of the website. The information generated by the cookie about your use of this website (including your IP address) is transmitted to and stored on a Google server in the United States of America. Google use this information to assess your use of the website, providing reports on website activity for website operators and other website activity and internet related services. Google may transfer this information to third parties, if required by law or if third parties process the information on behalf of Google.  
+PAPVisitorId | .roguefitness.com | This cookie belongs to the affiliates system. It keeps track of the origin of a visit and applies the appropriate commission in case of a sale. Not required to use the site.  
+SLI2_953157259 | .roguefitness.com | Marketing - web analytics  
+SLI4_953157259 | .roguefitness.com | Marketing - web analytics  
+_uetsid | .roguefitness.com | This is a cookie utilised by Microsoft Bing Ads and is a tracking cookie. It allows us to engage with a user that has previously visited our website.  
+_gid | .roguefitness.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website.   
+__utma | .roguefitness.com | This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies to analyse your use of the website. The information generated by the cookie about your use of this website (including your IP address) is transmitted to and stored on a Google server in the United States of America. Google use this information to assess your use of the website, providing reports on website activity for website operators and other website activity and internet related services. Google may transfer this information to third parties, if required by law or if third parties process the information on behalf of Google.  
+__cfduid | .roguefitness.com | Used by the content network, Cloudflare, to identify trusted web traffic.  
+_ga | .roguefitness.com | This is a Google Analytics cookie used to distinguish users  
+__btr_id | .roguefitness.com | Bronto Cart Recovery cookie that contains a customer cart ID that can be associated with a user.  
+SLIBeacon_953157259 | .roguefitness.com | Marketing - web analytics  
+__utmz | .roguefitness.com | This cookie tracks where visitors have come to the RogueFitness site, ie directly browsing to the site, using a search engine (tracks the search term used, etc.), as well as the geographical location of the visitor. It allows Google Analytics to report on how to "credit" a visit or successful ecommerce transaction  
+SLI1_953157259 | .roguefitness.com | Marketing - web analytics  
+BVBRANDSID | .roguefitness.com | These cookies enable the site to show reviews on our products.  
+BVBRANDID | .roguefitness.com | These cookies enable the site to show reviews on our products.  
+r_report_s_uuid | .roguefitness.com | Marketing - web analytics  
+productIdsLog | .roguefitness.com | Marketing - web analytics  
+frontend | .roguefitness.com | this cookie is used to handle user sessions during customer visits  
+r_report_clbl | .roguefitness.com | Marketing - web analytics  
+MUIDB | bat.bing.com | This cookie is an analytics service provided that connects data from the Bing advertising network with actions performed on the Website.  
+DV | This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies to analyse your use of the website. The information generated by the cookie about your use of this website (including your IP address) is transmitted to and stored on a Google server in the United States of America. Google use this information to assess your use of the website, providing reports on website activity for website operators and other website activity and internet related services. Google may transfer this information to third parties, if required by law or if third parties process the information on behalf of Google.  
+UULE | This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies to analyse your use of the website. The information generated by the cookie about your use of this website (including your IP address) is transmitted to and stored on a Google server in the United States of America. Google use this information to assess your use of the website, providing reports on website activity for website operators and other website activity and internet related services. Google may transfer this information to third parties, if required by law or if third parties process the information on behalf of Google.  
+BVImplmain_site | These cookies enable the site to show reviews on our products.  
+PAPVisitorId | stores visitor id  
+__atuvc | The __atuvc cookie is created and read by the AddThis social sharing site JavaScript on the client side in order to make sure the user sees the updated count if they share a page and return to it before our share count cache is updated. No data from that cookie is sent back to AddThis and removing it when disabling cookies would cause unexpected behaviour for users  
+__atuvs | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. This is believed to be a new cookie from AddThis which is not yet documented, but has been categorised on the assumption it serves a similar purpose to other cookies set by the service.  
+wordpress_google_apps_login | Allows user to login via Google Apps.  
+external_referer | Marketing - web analytics  
+  
+### Example:
+
+A number of our pages use cookies to remember:
+
+  * your display preferences, such as contrast colour settings or font size
+  * if you have already replied to a survey pop-up that asks you if the content was helpful or not (so you won't be asked again)
+  * if you have agreed (or not) to our use of cookies on this site
+
+
+
+Also, some videos embedded in our pages use a cookie to anonymously gather statistics on how you got there and what videos you visited. Enabling these cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience. You can delete or block these cookies, but if you do that some features of this site may not work as intended. The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
+
+### How to control cookies
+
+You can control and/or delete cookies as you wish – for details, see aboutcookies.org. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+_Effective May 25, 2018_
