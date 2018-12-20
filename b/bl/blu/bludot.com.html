@@ -1,346 +1,618 @@
-<!--The following is the downloaded HTML source of the bludot.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624064229id_/https%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bludot.com privacy policy that was archived on 2018-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181220042328id_/https%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-44RK"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-    <script>
+<!DOCTYPE html><html lang="en"><head>
+        <script src="//tags.tiqcdn.com/utag/bludot/main/prod/utag.js" type="text/javascript" async=""></script><script>
 window['optimizely'] = window['optimizely'] || [];
 window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 </script>
-<script src="//cdn.optimizely.com/js/270484041.js"></script>    <title>
-    Privacy Policy</title>
-<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-
-
-<link rel="apple-touch-icon" href="https://www.bludot.com/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="57x57" href="https://www.bludot.com/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://www.bludot.com/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://www.bludot.com/apple-touch-icon-114x114.png">
-
-<script type="text/javascript">
-    var BLANK_URL = 'https://www.bludot.com/js/blank.html';
-    var BLANK_IMG = 'https://www.bludot.com/js/spacer.gif';
+<script src="https://cdn.optimizely.com/js/270484041.js"></script><script>
+    var require = {
+        "baseUrl": "https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US"
+    };
 </script>
-
-<script type="text/javascript" src="//code.jquery.com/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/prototype/1.7.3.0/prototype.js"></script>
+        <meta charset="utf-8">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<title>Privacy Policy</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/mage/calendar.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/css/styles-m.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/Lyonscg_SubcategoryList/css/widget.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/Astound_Affirm/affirm-promo.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/VladimirPopov_WebForms/css/styles.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/VladimirPopov_WebForms/css/opentip.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/VladimirPopov_WebForms/css/accdc/calendar.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/Bss_AjaxCart/css/ajaxcart.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/Bss_AjaxCart/css/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/Bss_AjaxCart/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/Amasty_Groupcat/js/fancybox/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/Lyonscg_StickyHeader/css/stickyheader.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/css/styles-l.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/css/print.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/MGS_Popup/css/mgs_popup.css">
+<script type="text/javascript" src="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/requirejs/require.js"></script>
+<script type="text/javascript" src="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/mage/requirejs/mixins.js"></script>
+<script type="text/javascript" src="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/requirejs-config.js"></script>
+<script type="text/javascript" src="https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/MGS_Popup/js/mgs_popup.js"></script>
+<link rel="icon" type="image/x-icon" href="https://www.bludot.com/media/favicon/default/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.bludot.com/media/favicon/default/favicon.ico">
+<meta name="msvalidate.01" content="6FF4201AB39B10BF85708C49E735C1AE">
+<meta name="robots" content="NOODP">
+<meta name="google-site-verification" content="nVE5ip0i2QsKeux1iYFLQp98j2oZOvq5P-kUtpNrf3k">
+<!--a142ea8e7e824679a11213edcf925c68-->
+<!--b712f01fa4464598577360d9e05f8f84-->        <!-- Hawk Search Header Includes -->
 <script type="text/javascript">
-    $j = jQuery.noConflict();
-</script>
-<script src="/js/bludot-head.min.js"></script>
+    document.write(unescape("%3Clink rel='stylesheet' type='text/css' href='https://manage.hawksearch.com/sites/bludot/includes/hawksearch.css'%3E%3C/link%3E"));
+    (function() {
+        var config = {
+            paths: {
+                'hawksearch': 'https://manage.hawksearch.com/sites/bludot/includes/hawksearch'
+            },
 
-<link rel="stylesheet" type="text/css" href="https://www.bludot.com/skin/frontend/mobile/default/css/lyonscg/mobile/sticky-cart.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.bludot.com/skin/frontend/mobile/default/css/lyonscg/mobile/bludot.css" media="all">
-<script type="text/javascript" src="https://www.bludot.com/js/google/ga.js"></script>
-<script type="text/javascript" src="https://www.bludot.com/js/lyonscg/autocoupon/parser.js"></script>
-<script type="text/javascript" src="https://www.bludot.com/js/lyonscg/varnish/loader.js"></script>
-<script type="text/javascript" src="https://www.bludot.com/skin/frontend/mobile/default/js/lyonscg/sticky-cart.js"></script>
-<script type="text/javascript" src="https://www.bludot.com/skin/frontend/mobile/default/js/catalog-request-modal.js"></script>
+            shim: {
+                'hawksearch': {
+                    deps: [
+                        'jquery',
+                        'jquery/jquery.mobile.custom'
+                    ],
+                    exports: 'hawksearch'
+                }
+            }
+        };
+        require.config(config);
+    })();
+</script><link rel="stylesheet" type="text/css" href="https://manage.hawksearch.com/sites/bludot/includes/hawksearch.css">
 
-
-
- </head>
-<body home="index.php" class="mage-iphone cms-page-view cms-privacy-policy cms-privacy-policy">
-                    <!-- GOOGLE TAG MANAGER -->
-        <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-44RK" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-        </noscript>
-        <script type="text/javascript">
-            //<![CDATA[
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
-                var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
-                j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-44RK');
-
-            var dlCurrencyCode = 'USD';
-                        //]]>
-        </script>
-        <!-- END GOOGLE TAG MANAGER -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="">
+<meta property="og:url" content="https://www.bludot.com/privacy_policy">
+<meta property="og:site_name" content="Blu Dot">
+<meta property="og:image" content="https://www.bludot.com/media/og_image/">
+    </head>
+    <body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/images/loader-2.gif&quot;}}" class="cms-privacy-policy cms-page-view page-layout-1column">
         
-<script type="text/javascript">
-    var dLayer = {"email":""};
-    cookieName = "CUSTOMER_EMAIL";
-    var emailCookie = Mage.Cookies.get(cookieName);
-    if(emailCookie) {
-        dLayer.email = emailCookie;
+<script>
+    try {
+        if (!window.localStorage || !window.sessionStorage) {
+            throw new Error();
+        }
+
+        localStorage.setItem('storage_test', 1);
+        localStorage.removeItem('storage_test');
+    } catch(e) {
+        (function () {
+            var Storage = function (type) {
+                var data;
+
+                function createCookie(name, value, days) {
+                    var date, expires;
+
+                    if (days) {
+                        date = new Date();
+                        date.setTime(date.getTime()+(days * 24 * 60 * 60 * 1000));
+                        expires = '; expires=' + date.toGMTString();
+                    } else {
+                        expires = '';
+                    }
+                    document.cookie = name + '=' + value+expires+'; path=/';
+                }
+
+                function readCookie(name) {
+                    var nameEQ = name + '=',
+                        ca = document.cookie.split(';'),
+                        i = 0,
+                        c;
+
+                    for (i=0; i < ca.length; i++) {
+                        c = ca[i];
+
+                        while (c.charAt(0) === ' ') {
+                            c = c.substring(1,c.length);
+                        }
+
+                        if (c.indexOf(nameEQ) === 0) {
+                            return c.substring(nameEQ.length, c.length);
+                        }
+                    }
+
+                    return null;
+                }
+
+                function setData(data) {
+                    data = encodeURIComponent(JSON.stringify(data));
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', data, 365);
+                }
+
+                function clearData() {
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', '', 365);
+                }
+
+                function getData() {
+                    var data = type === 'session' ? readCookie(getSessionName()) : readCookie('localStorage');
+
+                    return data ? JSON.parse(decodeURIComponent(data)) : {};
+                }
+
+                function getSessionName() {
+                    if (!window.name) {
+                        window.name = new Date().getTime();
+                    }
+
+                    return 'sessionStorage' + window.name;
+                }
+
+                data = getData();
+
+                return {
+                    length: 0,
+                    clear: function () {
+                        data = {};
+                        this.length = 0;
+                        clearData();
+                    },
+
+                    getItem: function (key) {
+                        return data[key] === undefined ? null : data[key];
+                    },
+
+                    key: function (i) {
+                        var ctr = 0,
+                            k;
+
+                        for (k in data) {
+                            if (ctr.toString() === i.toString()) {
+                                return k;
+                            } else {
+                                ctr++
+                            }
+                        }
+
+                        return null;
+                    },
+
+                    removeItem: function (key) {
+                        delete data[key];
+                        this.length--;
+                        setData(data);
+                    },
+
+                    setItem: function (key, value) {
+                        data[key] = value.toString();
+                        this.length++;
+                        setData(data);
+                    }
+                };
+            };
+
+            window.localStorage.__proto__ = window.localStorage = new Storage('local');
+            window.sessionStorage.__proto__ = window.sessionStorage = new Storage('session');
+        })();
     }
-
-    var dataLayer = window.dataLayer = window.dataLayer || [];
-    dataLayer.push(dLayer);
-
-    var dLayer2 =
-        {event: "setEmail","HashedEmail":""}
-    ;
-    if(emailCookie)
-    { dLayer2.HashedEmail = emailCookie; }
-
-    dataLayer.push(dLayer2);
 </script>
-        <noscript>
-        <div class="noscript">
-            <div class="noscript-inner">
-                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
-                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+    <script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
+
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                
+                if (versionObj.version !== '503e42012396f092f436c4d638b7bfe05d695557') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: '503e42012396f092f436c4d638b7bfe05d695557'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/",
+                "domain": ".www.bludot.com",
+                "secure": false,
+                "lifetime": "43200"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
             </div>
         </div>
     </noscript>
-            <div class="header">
-            <script type="text/javascript" src=""></script>
-<div class="emailform-wrapper">
-    <form id="emailform-form-header" class="emailform">
-        <div>
-            <input required="" type="email" placeholder="Your email address" aria-label="Sign up for our newsletter">
-            <button type="submit">Sign Up</button>
-        </div>
-    </form>
+<script type="text/javascript">
+define('listrak_utils', ['jquery'], function(jQuery) {
+    'use strict';
+    var utils = { requesting: false };
+    var makeRequest = function(url) {
+                    utils.requesting = true;
+            jQuery.ajax(url).always(function() { utils.requesting = false; });
+                };
+    utils.track = function() { makeRequest('//www.bludot.com/remarketing/cart/track/'); };
+    utils.order = function() { makeRequest('//www.bludot.com/remarketing/order/track/'); };
+    return utils;
+});
+</script><!-- ko scope: 'company' -->
+<div class="message company-warning _hidden" data-bind="css: { _hidden: !isCompanyBlocked() }">
+<span>
+Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.</span>
 </div>
-<div class="header-top">
-    <div class="col2-alt-set">
-        <div class="col-1">
-            <h1 id="logo">
-                <a href="https://www.bludot.com/">
-                    <img src="https://www.bludot.com/skin/frontend/mobile/default/images/theme_logo_mob.png" alt="Link to homepage">
-                </a>
-            </h1>
-        </div>
-        <div class="col-2">
-            
-<div></div>
-<div class="dropdown">
-    <div class="top-section">
-        <a href="#" id="account_link">My Account</a>
-        <a href="/get-a-catalog-mobile">Get Catalog</a>
+<!-- /ko -->
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "company": {
+                        "component": "Magento_Company/js/view/company",
+                        "logoutUrl": "https://www.bludot.com/customer/account/logout/"
+                    }
+                }
+            }
+        }
+    }
+</script>
+<div style="display: none;" id="paypal-express-in-context-checkout-main"></div>
+<script type="text/x-magento-init">
+    {"*":{"Magento_Paypal\/js\/in-context\/express-checkout":{"id":"paypal-express-in-context-checkout-main","path":"https:\/\/www.bludot.com\/paypal\/express\/gettoken\/","merchantId":"","button":true,"clientConfig":{"locale":"en_US","environment":"production","button":["paypal-express-in-context-checkout-main"]}}}}</script>
+<!-- Tealium Universal Data Object / Data Layer -->
+<script type="text/javascript">
+var utag_data = {
+    "site_region": "en_US",
+    "site_currency": "USD",
+    "page_name": "Privacy Policy",
+    "page_type": "cms page",
+    "customer_type": "Guest"
+};
+</script>
+<!-- ****************************************** --><!-- Async Load of Tealium utag.js library -->
+<script type="text/javascript">
+(function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/bludot/main/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c; 
+    d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+<!-- ************************************* -->
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_GoogleTagManager/js/google-tag-manager-cart": {
+                "blockNames": ["category.products.list","product.info.upsell","catalog.product.related","checkout.cart.crosssell","search_result_list"],
+                "cookieAddToCart": "add_to_cart",
+                "cookieRemoveFromCart": "remove_from_cart"
+            }
+        }
+    }
+</script>
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>
+<ul class="header links">            <li class="authorization-link" data-label="or">
+    <a href="https://www.bludot.com/customer/account/login/">
+        Sign In    </a>
+</li>
+<li class="customer-register links-container">
+    <span class="links-container-title" role="link" tabindex="0" data-mage-init="{&quot;dropdown&quot;:{}}" data-toggle="dropdown" data-trigger-keypress-button="true">
+        <span>Create an Account</span>
+        <button type="button" class="action switch" tabindex="-1">
+            <span>Change</span>
+        </button>
+    </span>
+    <div class="customer-menu" data-target="dropdown">
+        <ul class="header links">
+            <li><a href="https://www.bludot.com/customer/account/create/">Create New Customer</a></li><li><a href="https://www.bludot.com/company/account/create/" title="Create New Company Account">Create New Company Account</a></li>        </ul>
     </div>
-    <ul>
-                    <li>
-                                <a href="https://www.bludot.com/new.html">New</a>
-                            </li>
-                    <li>
-                                <a href="#" class="expandable">Living</a>
-                                    <ul class="subcategory">
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/modern-sofas-sectionals-sleepers.html">Sofas + Sleepers</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/lounge-chairs.html">Lounge Chairs</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/modern-ottomans-stools-benches.html">Ottomans + Stools + Benches</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/modern-living-room-storage.html">Storage</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/modern-living-bookcases-shelving.html">Bookcases + Shelving</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/accent-coffee-tables.html">Accent + Coffee Tables</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/modern-living-rugs.html">Rugs</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/accessories.html">Accessories</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-living-room-furniture/modern-living-room-furniture-view-all.html">View All Living </a>
-                            </li>
-                                            </ul>
-                            </li>
-                    <li>
-                                <a href="#" class="expandable">Bedroom</a>
-                                    <ul class="subcategory">
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-bedroom-furniture/modern-beds.html">Beds</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-bedroom-furniture/modern-dressers.html">Dressers</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-bedroom-furniture/modern-bedroom-accessories.html">Accessories</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-bedroom-furniture/modern-nightstands.html">Nightstands + Night Side Tables</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-bedroom-furniture/mattresses.html">Mattresses</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-bedroom-furniture/bedding.html">Bedding</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-bedroom-furniture/view-all-modern-bedroom-furniture.html">View All Bedroom</a>
-                            </li>
-                                            </ul>
-                            </li>
-                    <li>
-                                <a href="#" class="expandable">Dining</a>
-                                    <ul class="subcategory">
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-dining-room-furniture/modern-dining-tables.html">Dining Tables</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-dining-room-furniture/modern-dining-chairs.html">Chairs</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-dining-room-furniture/modern-stools-benches.html">Stools + Benches</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-dining-room-furniture/storage-cabinets.html">Storage + Cabinets</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-dining-room-furniture/modern-dining-room-furniture-view-all.html">View All Dining</a>
-                            </li>
-                                            </ul>
-                            </li>
-                    <li>
-                                <a href="#" class="expandable">Office</a>
-                                    <ul class="subcategory">
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-office-furniture/modern-office-desks-tables.html">Desks + Tables</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-office-furniture/modern-office-chairs.html">Chairs</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-office-furniture/modern-office-storage.html">Storage</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-office-furniture/office-bookcases-shelving.html">Bookcases + Shelving</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-office-furniture/modern-office-task-lamps-lighting.html">Lighting</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-office-furniture/office-accessories.html">Accessories</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-office-furniture/modern-office-furniture-view-all.html">View All Office</a>
-                            </li>
-                                            </ul>
-                            </li>
-                    <li>
-                                <a href="https://www.bludot.com/modern-lighting.html">Lighting</a>
-                            </li>
-                    <li>
-                                <a href="https://www.bludot.com/modern-outdoor-furniture.html">Outdoor</a>
-                            </li>
-                    <li>
-                                <a href="#" class="expandable">Kids</a>
-                                    <ul class="subcategory">
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-kids-furniture/modern-kids-accessories.html">Accessories</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-kids-furniture/modern-kids-beds.html">Beds</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-kids-furniture/modern-kids-desks-chairs.html">Desk + Chairs</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-kids-furniture/modern-kids-dressers-nightstands.html">Dressers + Nightstands</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-kids-furniture/kids-modern-lounge-play.html">Lounge + Play</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-kids-furniture/modern-kids-organization-furniture.html">Organization</a>
-                            </li>
-                                            </ul>
-                            </li>
-                    <li>
-                                <a href="#" class="expandable">Accessories</a>
-                                    <ul class="subcategory">
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/modern-rugs.html">Rugs</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/modern-decorative-accessories.html">Decorative Accessories</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/modern-office-accessories.html">Office Accessories</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/modern-accessories-pillows.html">Pillows</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/modern-mirrors.html">Mirrors</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/framed-prints.html">Framed Prints</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/bedding.html">Bedding</a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.bludot.com/modern-accessories/modern-accessories-view-all.html">View All Accessories</a>
-                            </li>
-                                            </ul>
-                            </li>
-                    <li>
-                                <a href="https://www.bludot.com/modern-furniture-sale.html">Outlet</a>
-                            </li>
+</li>
+<li><a href="https://www.bludot.com/storelocator/index/index/">Stores</a></li>
+<li>
+    <a href="https://www.bludot.com/contact-us/" title="Help">Help</a>
+</li>
+</ul></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+
+<a class="logo" href="https://www.bludot.com/" alt="Modern furniture for your home or office by Blu Dot. Good Design Is Good."></a>
+
+
+<div data-block="minicart" class="minicart-wrapper">
+    <a href="https://www.bludot.com/checkout/cart/" class="action showcart-mobile">&nbsp;</a>
+    <a class="action showcart" href="https://www.bludot.com/checkout/cart/" data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+            <span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+                <!-- /ko -->
+            </span>
+        </span>
+    </a>
+            <div class="block block-minicart empty">
+            <a href="#" class="mini-cart-close">My Cart</a>
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <div class="mini-cart-overlay"></div>
+    <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.bludot.com\/checkout\/cart\/","checkoutUrl":"https:\/\/www.bludot.com\/checkout\/","updateItemQtyUrl":"https:\/\/www.bludot.com\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.bludot.com\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image","baseUrl":"https:\/\/www.bludot.com\/","minicartMaxItemsVisible":6,"websiteId":"1","maxItemsToDisplay":10,"asLowAsActiveMiniCart":false,"apr":"0.10","months":"12","logo":null,"script":"https:\/\/cdn1.affirm.com\/js\/v2\/affirm.js","public_api_key":"X64512MZJCTW1KFG","min_order_total":"0.01","max_order_total":"50000","currency_rate":null,"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"element_id":"als_mcc","promo_id":"","color_id":"","customerLoginUrl":"https:\/\/www.bludot.com\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.bludot.com\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.bludot.com\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals","children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}}}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"},"children":{"affirm_minicard":{"component":"Astound_Affirm\/js\/view\/minicart","config":{"template":"Astound_Affirm\/minicart\/info"}}}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://www.bludot.com/static/version1545149226/frontend/Lyonscg/bludot/en_US/images/loader-1.gif"
+        }
+    }
+    </script>
+</div>
+
+<a href="https://www.bludot.com/storelocator/index/index/" class="store-locator-ico">Stores</a>
+
+<div class="block block-search">
+    <label class="label" id="search-trigger">
+        <span class="sr-only">Search</span>
+    </label>
+</div>
+<!-- Dropdown with links (myaccount, login, storelocator, etc) -->
+<div class="switcher sticky-dropdown">
+	<div class="options">
+	    <span class="icon toggle action"></span>
+	    <ul class="dropdown-content dropdown" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{
+	            &quot;appendTo&quot;:&quot;.sticky-dropdown .options&quot;,
+	            &quot;triggerTarget&quot;:&quot;.icon.toggle&quot;,
+	            &quot;timeout&quot;: &quot;0&quot;,
+	            &quot;closeOnMouseLeave&quot;: false,
+	            &quot;closeOnEscape&quot;: true,
+	            &quot;triggerClass&quot;:&quot;active&quot;,
+	            &quot;parentClass&quot;:&quot;active&quot;,
+	            &quot;buttons&quot;:[]}}">
+	    </ul>
+	</div>
+</div>
+
+<!-- Initialization of the plugin -->
+<script type="text/x-magento-init">
+	{
+		"*": {
+			"lyonscg_stickyheader": {
+				"isFixed": 1,
+				"isLoggedIn": 0,
+				"startPoint": null,
+				"header": ".page-header",
+				"navigation": ".sections.nav-sections",
+				"pageWrapper": ".page-wrapper"
+			}
+		}
+	}
+</script>
+
+<!-- Correct "top" property of the element if header has fixed state -->
+	<script>
+		(function() {
+			var config = {
+			    "map": {
+			        '*': {
+			            "sticky": 'Lyonscg_StickyHeader/js/lyonscg.sticky'
+			        }
+			    }
+			}
+			require.config(config)
+		})();
+	</script>
+<ul class="compare wrapper"><li class="item link compare" data-bind="scope: 'compareProducts'" data-role="compare-products-link">
+    <a class="action compare no-display" title="Compare Products" data-bind="attr: {'href': compareProducts().listUrl}, css: {'no-display': !compareProducts().count}">
+        Compare Products        <span class="counter qty" data-bind="text: compareProducts().countCaption"></span>
+    </a>
+</li>
+<script type="text/x-magento-init">
+{"[data-role=compare-products-link]": {"Magento_Ui/js/core/app": {"components":{"compareProducts":{"component":"Magento_Catalog\/js\/view\/compare-products"}}}}}
+</script>
+</ul></div></header><div class="block sections nav-sections ">
+    <div id="store-links">
+        <a id="my-account-link" href="https://www.bludot.com/customer/account/" title="My Account">Account</a>
+        <a id="help-link" href="https://www.bludot.com/contact-us/" title="Help">Help</a>
+    </div>
+    
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:true, &quot;expanded&quot;:true, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left-15 bottom+15&quot;}}}">
+        <li class="level0 nav-1 first level-top"><a href="https://www.bludot.com/new.html" class="level-top"><span>New</span></a></li><li class="level0 nav-2 level-top"><a href="https://www.bludot.com/bestsellers.html" class="level-top"><span>Bestsellers</span></a></li><li class="level0 nav-3 level-top parent"><a href="https://www.bludot.com/modern-living-room-furniture.html" class="level-top"><span>Living</span></a><ul class="level0 submenu"><li class="level1 nav-3-1 first"><a href="https://www.bludot.com/modern-living-room-furniture/modern-sofas-sectionals-sleepers.html"><span>Sofas + Sleepers</span></a></li><li class="level1 nav-3-2"><a href="https://www.bludot.com/modern-living-room-furniture/sectional-sofas.html"><span>Sectional Sofas</span></a></li><li class="level1 nav-3-3"><a href="https://www.bludot.com/modern-living-room-furniture/lounge-chairs.html"><span>Lounge Chairs</span></a></li><li class="level1 nav-3-4"><a href="https://www.bludot.com/modern-living-room-furniture/modern-ottomans-stools-benches.html"><span>Ottomans + Stools + Benches</span></a></li><li class="level1 nav-3-5"><a href="https://www.bludot.com/modern-living-room-furniture/modern-living-room-storage.html"><span>Storage</span></a></li><li class="level1 nav-3-6"><a href="https://www.bludot.com/modern-living-room-furniture/modern-living-bookcases-shelving.html"><span>Bookcases + Shelving</span></a></li><li class="level1 nav-3-7"><a href="https://www.bludot.com/modern-living-room-furniture/accent-coffee-tables.html"><span>Accent + Coffee Tables</span></a></li><li class="level1 nav-3-8"><a href="https://www.bludot.com/modern-living-room-furniture/modern-living-rugs.html"><span>Rugs</span></a></li><li class="level1 nav-3-9"><a href="https://www.bludot.com/modern-living-room-furniture/accessories.html"><span>Accessories</span></a></li><li class="level1 nav-3-10"><a href="https://www.bludot.com/modern-living-room-furniture/living-room-lighting.html"><span>Lighting</span></a></li><li class="level1 nav-3-11 last"><a href="https://www.bludot.com/modern-living-room-furniture/modern-living-room-furniture-view-all.html"><span>View All Living </span></a></li></ul></li><li class="level0 nav-4 level-top parent"><a href="https://www.bludot.com/modern-bedroom-furniture.html" class="level-top"><span>Bedroom</span></a><ul class="level0 submenu"><li class="level1 nav-4-1 first"><a href="https://www.bludot.com/modern-bedroom-furniture/modern-beds.html"><span>Beds</span></a></li><li class="level1 nav-4-2"><a href="https://www.bludot.com/modern-bedroom-furniture/modern-dressers.html"><span>Dressers</span></a></li><li class="level1 nav-4-3"><a href="https://www.bludot.com/modern-bedroom-furniture/modern-bedroom-accessories.html"><span>Accessories</span></a></li><li class="level1 nav-4-4"><a href="https://www.bludot.com/modern-bedroom-furniture/modern-nightstands.html"><span>Nightstands + Night Side Tables</span></a></li><li class="level1 nav-4-5"><a href="https://www.bludot.com/modern-bedroom-furniture/mattresses.html"><span>Mattresses</span></a></li><li class="level1 nav-4-6"><a href="https://www.bludot.com/modern-bedroom-furniture/bedding.html"><span>Bedding</span></a></li><li class="level1 nav-4-7 last"><a href="https://www.bludot.com/modern-bedroom-furniture/view-all-modern-bedroom-furniture.html"><span>View All Bedroom</span></a></li></ul></li><li class="level0 nav-5 level-top parent"><a href="https://www.bludot.com/modern-dining-room-furniture.html" class="level-top"><span>Dining</span></a><ul class="level0 submenu"><li class="level1 nav-5-1 first"><a href="https://www.bludot.com/modern-dining-room-furniture/modern-dining-tables.html"><span>Dining Tables</span></a></li><li class="level1 nav-5-2"><a href="https://www.bludot.com/modern-dining-room-furniture/modern-dining-chairs.html"><span>Chairs</span></a></li><li class="level1 nav-5-3"><a href="https://www.bludot.com/modern-dining-room-furniture/modern-stools-benches.html"><span>Stools + Benches</span></a></li><li class="level1 nav-5-4"><a href="https://www.bludot.com/modern-dining-room-furniture/storage-cabinets.html"><span>Storage + Cabinets</span></a></li><li class="level1 nav-5-5 last"><a href="https://www.bludot.com/modern-dining-room-furniture/modern-dining-room-furniture-view-all.html"><span>View All Dining</span></a></li></ul></li><li class="level0 nav-6 level-top parent"><a href="https://www.bludot.com/modern-office-furniture.html" class="level-top"><span>Office</span></a><ul class="level0 submenu"><li class="level1 nav-6-1 first"><a href="https://www.bludot.com/modern-office-furniture/modern-office-desks-tables.html"><span>Desks + Tables</span></a></li><li class="level1 nav-6-2"><a href="https://www.bludot.com/modern-office-furniture/modern-office-chairs.html"><span>Chairs</span></a></li><li class="level1 nav-6-3"><a href="https://www.bludot.com/modern-office-furniture/modern-office-storage.html"><span>Storage</span></a></li><li class="level1 nav-6-4"><a href="https://www.bludot.com/modern-office-furniture/office-bookcases-shelving.html"><span>Bookcases + Shelving</span></a></li><li class="level1 nav-6-5"><a href="https://www.bludot.com/modern-office-furniture/modern-office-task-lamps-lighting.html"><span>Lighting</span></a></li><li class="level1 nav-6-6"><a href="https://www.bludot.com/modern-office-furniture/office-accessories.html"><span>Accessories</span></a></li><li class="level1 nav-6-7 last"><a href="https://www.bludot.com/modern-office-furniture/modern-office-furniture-view-all.html"><span>View All Office</span></a></li></ul></li><li class="level0 nav-7 level-top"><a href="https://www.bludot.com/modern-lighting.html" class="level-top"><span>Lighting</span></a></li><li class="level0 nav-8 level-top"><a href="https://www.bludot.com/modern-outdoor-furniture.html" class="level-top"><span>Outdoor</span></a></li><li class="level0 nav-9 level-top parent"><a href="https://www.bludot.com/modern-kids-furniture.html" class="level-top"><span>Kids</span></a><ul class="level0 submenu"><li class="level1 nav-9-1 first"><a href="https://www.bludot.com/modern-kids-furniture/modern-kids-accessories.html"><span>Accessories</span></a></li><li class="level1 nav-9-2"><a href="https://www.bludot.com/modern-kids-furniture/modern-kids-beds.html"><span>Beds</span></a></li><li class="level1 nav-9-3"><a href="https://www.bludot.com/modern-kids-furniture/modern-kids-desks-chairs.html"><span>Desk + Chairs</span></a></li><li class="level1 nav-9-4"><a href="https://www.bludot.com/modern-kids-furniture/modern-kids-dressers-nightstands.html"><span>Dressers + Nightstands</span></a></li><li class="level1 nav-9-5"><a href="https://www.bludot.com/modern-kids-furniture/kids-modern-lounge-play.html"><span>Lounge + Play</span></a></li><li class="level1 nav-9-6 last"><a href="https://www.bludot.com/modern-kids-furniture/modern-kids-organization-furniture.html"><span>Organization</span></a></li></ul></li><li class="level0 nav-10 level-top parent"><a href="https://www.bludot.com/modern-accessories.html" class="level-top"><span>Accessories</span></a><ul class="level0 submenu"><li class="level1 nav-10-1 first"><a href="https://www.bludot.com/modern-accessories/modern-rugs.html"><span>Rugs</span></a></li><li class="level1 nav-10-2"><a href="https://www.bludot.com/modern-accessories/modern-decorative-accessories.html"><span>Decorative Accessories</span></a></li><li class="level1 nav-10-3"><a href="https://www.bludot.com/modern-accessories/modern-office-accessories.html"><span>Office Accessories</span></a></li><li class="level1 nav-10-4"><a href="https://www.bludot.com/modern-accessories/modern-accessories-pillows.html"><span>Pillows + Cushions</span></a></li><li class="level1 nav-10-5"><a href="https://www.bludot.com/modern-accessories/modern-mirrors.html"><span>Mirrors</span></a></li><li class="level1 nav-10-6"><a href="https://www.bludot.com/modern-accessories/framed-prints.html"><span>Framed Prints</span></a></li><li class="level1 nav-10-7"><a href="https://www.bludot.com/modern-accessories/bedding.html"><span>Bedding</span></a></li><li class="level1 nav-10-8 last"><a href="https://www.bludot.com/modern-accessories/modern-accessories-view-all.html"><span>View All Accessories</span></a></li></ul></li><li class="level0 nav-11 level-top"><a href="https://www.bludot.com/modern-furniture-sale.html" class="level-top"><span>Outlet</span></a></li>            </ul>
+</nav>
+</div>
+<div class="block block-search">
+    <div class="block block-title"><strong>Search</strong></div>
+    <div class="block block-content">
+        <form data-mage-init="{&quot;quickSearchExtend&quot;:{}}" class="form minisearch" id="search_mini_form" action="https://www.bludot.com/catalogsearch/result/" method="get">
+            <div class="field search">
+                <label class="label hidden" for="search" data-role="minisearch-label">
+                    <span class="sr-only">Search</span>
+                </label>
+                <div class="control">
+                    <div class="input-group">
+                        <input id="search" data-mage-init="{&quot;quickSearch&quot;:{
+                                &quot;formSelector&quot;:&quot;#search_mini_form&quot;,
+                                &quot;url&quot;:&quot;https://www.bludot.com/search/ajax/suggest/&quot;}
+                           }" type="text" name="q" value="" placeholder="Search..." class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off">
+                        <button type="submit" title="Search" class="action search">
+                            <span class="sr-only">Search</span>
+                        </button>
+                    </div>
+                    <button class="close-search"></button>
+                    <div class="nested">
+    <a class="action advanced" href="https://www.bludot.com/catalogsearch/advanced/" data-action="advanced-search">
+        Advanced Search    </a>
+</div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="breadcrumbs">
+    <ul class="items">
+                    <li class="item home">
+                            <a href="https://www.bludot.com/" title="Go to Home Page">Home</a>
+                        </li>
+                    <li class="item cms_page">
+                            <strong>Privacy Policy</strong>
+                        </li>
             </ul>
 </div>
-
-            <div class="user-links header-links">
-                    <div>
-        <ul>
-                                                <li class="first" id="hamburger_button"><a href="#" title="Hamburger Menu">
-                            <span class="nowrap">Hamburger Menu</span></a>
-                    </li>
-                                                                <span style="display: none" class="placeholder" data-id="MOBILE_CART_LINK" data-name="user_link_cart" data-info="MDoyOjA5ZTUxMGFmZTI5MDNiOTA6M3lDbk1VL3l2Q3Rqb21yK1poOCtORE5wN0Naa1o3MmRRVHlFOG9YYU9GOHlJd3NrN1ZTTFJ2THFiZEkzVHdvdlQ2VGtOTTNkUmlDQXpJM1c4TnBnTzNPaW5JSjBLNVdreFlBVzg0MVcvQTZEYnJYS3ppYUdZVkowN1RqWmxhVHdhS2VJWmkxdUFtVUZDeThkb2RpN1I1WjVJcGw1dmlubWUzVlJoMlZIT2JLMWo1OFdiSjVENU9FWFkwa2lOV3ZDUE9pWmlVR1FSblhyM1VJVEhYSmd2QT09"></span>
-<span></span>                                                                <li class="last"><a href="https://www.bludot.com/mobile-store-locator" title="Store Locator" class="button grey">
-                            <span class="nowrap">Store Locator</span></a>
-                    </li>
-                                    </ul>
-        <div class="clear"></div>
-   </div>
-            </div>
-            <div class="account-links header-links">
-                    <div>
-        <ul>
-                                                <li class="first"><a href="https://www.bludot.com/customer/account/create/" title="Register">
-                            <span class="nowrap">Register</span></a>
-                    </li>
-                                                                <li class="last"><a href="https://www.bludot.com/customer/account/login/referer/aHR0cHM6Ly93d3cuYmx1ZG90LmNvbS9wcml2YWN5X3BvbGljeQ,,/" title="Login">
-                            <span class="nowrap">Login</span></a>
-                    </li>
-                                    </ul>
-        <div class="clear"></div>
-   </div>
-            </div>
-            <form id="search_mini_form" name="search_mini_form" action="https://www.bludot.com/catalogsearch/result/" method="get">
-    <div class="search-md">
-        <input placeholder="SEARCH" id="search" type="text" class="input-text" name="q" value="" autocapitalize="">
-        <button class="search-button" type="submit" title="Go"><span>Go</span></button>
-    </div>
-</form>
-
-<div class="search-overlay" id="topSearchOverlay">
-    <div class="cart-loader">
-        <span>
-            <img src="https://www.bludot.com/skin/frontend/mobile/default/images/cart-ajax-loader.gif" alt="Loading...">
-        </span>
-    </div>
-</div>        </div>
-    </div>
-</div>
-
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
         </div>
-    
-    
-    <div class="content-container active">
-        <div class="middle-container">
-            <div class="middle col-1-layout" style="">
-                                    <div></div>
-                    <div></div>
-                                
-                <div class="clear"></div>
-                <div id="main" style="" class="col-main is_cms">
-                    <h1>Privacy Policy</h1>
-<span style="display: none" class="placeholder" data-id="MESSAGES" data-name="messages" data-info="MDoyOjAwZDcwM2M0NjdmNzI3OTg6NVhXWmdLZ3NiZENaY3J4S3FsZzJFWTZjT0EyVGpQS2JxZXJ3Z2szbkJKZ0dEcm1TalU2djJBMkFKWnVOOGtzbG1SVTBRa3gvejh3WDhyTkUxVVB2L09yKzBDL0kwMkovT1Q1dGd6L3VUSVFwMmFaNzh6YU00am5lZSt2VnFvV00vTXN4TlZWdzNsclAxdE83dHFqYk5VR1h6OTNKemlONS8zOEh1dkdidzhEVWcxTXUvSEFYTVhnblFYdkJ1WjZWc3lmWUVidXlwTTFCVGU2VFlpdURmdz09"></span>
-<span></span><style type="text/css">
+    </div>
+    <!-- /ko -->
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+    <div class="page-title-wrapper">
+        <h1 class="page-title">
+            <span class="base" data-ui-id="page-title-wrapper">Privacy Policy</span>        </h1>
+            </div>
+<div class="columns"><div class="column main"><input name="form_key" type="hidden" value="ZV5Fkk4Tvk1BT23U"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+    <script>
+        window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/www.bludot.com\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/www.bludot.com\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/www.bludot.com\/"};
+    </script>
+    <!-- ko template: getTemplate() --><!-- /ko -->
+    <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fwww.bludot.com\u002Fstatic\u002Fversion1545149226\u002Ffrontend\u002FLyonscg\u002Fbludot\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages","company"],"customer\/account\/logout":["recently_viewed_product","recently_compared_product"],"customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/account\/editpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items","instant-purchase"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer_order\/cart\/updatefaileditemoptions":["cart"],"checkout\/cart\/updatefaileditemoptions":["cart"],"customer_order\/cart\/advancedadd":["cart"],"checkout\/cart\/advancedadd":["cart"],"checkout\/cart\/removeallfailed":["cart"],"customer_order\/cart\/addfaileditems":["cart"],"checkout\/cart\/addfaileditems":["cart"],"customer_order\/sku\/uploadfile":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"swatch\/cart\/update":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"rest\/v1\/requisition_lists":["requisition"],"requisition_list\/requisition\/delete":["requisition"],"requisition_list\/item\/addtocart":["cart"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"ajaxcart":["cart"],"giftregistry\/index\/cart":["cart"],"giftregistry\/view\/addtocart":["cart"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"wishlist\/index\/copyitem":["wishlist"],"wishlist\/index\/copyitems":["wishlist"],"wishlist\/index\/deletewishlist":["wishlist","multiplewishlist"],"wishlist\/index\/createwishlist":["multiplewishlist"],"wishlist\/index\/moveitem":["wishlist"],"wishlist\/index\/moveitems":["wishlist"],"wishlist\/search\/addtocart":["cart","wishlist"],"multishipping\/checkout\/overviewpost":["cart"],"review\/product\/post":["review"],"quickorder\/sku\/uploadfile\/":["cart"]},"clientSideSections":["checkout-data","cart-data"],"baseUrls":["https:\/\/www.bludot.com\/"]}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/www.bludot.com\/customer\/section\/load\/","expirableSectionLifetime":43200,"expirableSectionNames":["cart"],"cookieLifeTime":"43200","updateSessionUrl":"https:\/\/www.bludot.com\/customer\/account\/updateSession\/"}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/invalidation-processor":{"invalidationRules":{"website-rule":{"Magento_Customer\/js\/invalidation-rules\/website-rule":{"scopeConfig":{"websiteId":1}}}}}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Banner\/js\/model\/banner":{"sectionLoadUrl":"https:\/\/www.bludot.com\/banner\/ajax\/load\/","cacheTtl":30000}}}</script>
+
+<script>
+require([
+    "jquery",
+    "jquery/ui"
+], function($){
+
+//<![CDATA[
+    $.extend(true, $, {
+        calendarConfig: {
+            dayNames: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+            dayNamesMin: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
+            monthNames: ["January","February","March","April","May","June","July","August","September","October","November","December"],
+            monthNamesShort: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+            infoTitle: "About the calendar",
+            firstDay: 0,
+            closeText: "Close",
+            currentText: "Go Today",
+            prevText: "Previous",
+            nextText: "Next",
+            weekHeader: "WK",
+            timeText: "Time",
+            hourText: "Hour",
+            minuteText: "Minute",
+            dateFormat: $.datepicker.RFC_2822,
+            showOn: "button",
+            showAnim: "",
+            changeMonth: true,
+            changeYear: true,
+            buttonImageOnly: null,
+            buttonImage: null,
+            showButtonPanel: true,
+            showWeek: true,
+            timeFormat: '',
+            showTime: false,
+            showHour: false,
+            showMinute: false
+        }
+    });
+
+    enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+//]]>
+
+});
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/www.bludot.com\/page_cache\/block\/render\/page_id\/87\/","handles":["default","cms_page_view","cms_page_view_id_privacy_policy"],"originalRequest":{"route":"cms","controller":"page","action":"view","uri":"\/privacy_policy"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+<style type="text/css">
 .cms-privacy-policy h2 {
     color: inherit;
     font-size: small;
@@ -397,243 +669,460 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 <p>You can review and change your personally identifiable information by logging into the Web Site and visiting your account profile page.</p>
 
 <h2>Contact Information</h2>
-<p>If you have questions or comments about our Privacy Policy or Terms of Use, please contact us via email at <a href="mailto:service@bludot.com">service@bludot.com</a> or phone at 844.425.8368.</p>                </div>
+<p>If you have questions or comments about our Privacy Policy or Terms of Use, please contact us via email at <a href="mailto:service@bludot.com">service@bludot.com</a> or phone at 844.425.8368.</p></div></div></main><footer class="page-footer"><div class="footer content"><div class="block newsletter">
+    <div class="title"><strong>Join our email list</strong></div>
+    <div class="content">
+        <form class="form subscribe" novalidate="" action="https://www.bludot.com/newsletter/subscriber/new/" method="post" data-mage-init="{&quot;validation&quot;: {&quot;errorClass&quot;: &quot;mage-error&quot;}}" id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <label class="label" for="newsletter"><span>Email Address</span></label>
+                <div class="control">
+                    <input name="email" type="email" id="newsletter" data-validate="{required:true, 'validate-email':true}" onkeyup="this.setAttribute('value', this.value);" value="">
+                    <button class="action subscribe primary" title="Subscribe" type="submit">
+                    </button>
+                </div>
             </div>
-        </div>
+        </form>
     </div>
-                    <div class="cart-container hidden">
-            <div class="shop-access">
-                
-<h1>My Cart</h1>
+</div>
 
-<div>
-    <ul class="cart-links">
-        <li class="first"><a class="button cart-back left" href="#" onclick="cartBack(); return false;" title="Back"><span class="nowrap">Back</span></a></li>
-        <li class="last" style="background:url('https://www.bludot.com/skin/frontend/mobile/default/images/checkout_orange_bttn.png') no-repeat scroll right center rgba(0, 0, 0, 0)">
-                                            <a id="checkout-button" class="button checkout back" href="https://www.bludot.com/checkout/onepage/" title="Checkout" style="display:none;"><span class="nowrap">Checkout</span></a>
-                    </li>
-    </ul>
-    <div class="clear"></div>
-</div>            </div>
-            <div class="clear"></div>
-            <div class="middle-container">
-                <div class="middle col-1-layout">
-                    <div id="main-cart" class="col-main cart">
-                        <span style="display: none" class="placeholder" data-id="AWMOBILE_CART" data-name="checkout.cart" data-info="MDoyOjc1MDc1Njc1Y2ZhZDIwZmE6L2dJSklTTHlYbTJ2YVNodDRIc1NqUzZWamhxRktYNEQ0QzliSHYyekpSZGtQWm01dTdiNnd5WUY2UWZMZWhpNWQyOXdqZnNCWEZJQTAxQnhnd1lpQlFoOFBzWkdKR1U0Y041NjhmODZmQVVHSU5GM1ZpWEkvdkpZakZuaXFHTWdYb3pQc3ZScGxpbHhZSmx6RTIvSnBxNzRQcm9KQkc2ZUVzWlVNbnM3T2lXRXJSSlplaUQyWVNZR3Mvdk1mbVhEMlg3RzdCMzJ1dGdWOFNkZTlaeXA4UkRydHdQanFWTEM3VWZmVC82RnNJTXZvT28yaHR5UUFzVFl1SnlRazkzLzNPdGovTkFKejByZ2ZGZ0M5emJaVXBZZVBEVmYvZHBUbHZabXJDN0Z2VDNlSmlZSzdxcDhqTmlNWTdWUzlOcjIwUThqeHlSaEFqSzUzNG01bzZNWlMwc3N0VmlRanBrblBjTHIzRW5QTkhudEtFelNkeTg2V0VIM1Y0UDVFemdqRnkxcC9ZSGw3SmVFZ0QrTUlUWmx4Y3BTQTdPbmd0UC9udzB3QmVCS3NJK2xhSDQ3a09ZbW1RVHNORndSaUw0OTRxYUFBWXBPZmhZU1dDUkJHSXM4WUlZdXl1MmcvZlhsVDl0ZjROay9QMG1sR3NjcUFMMitjalFxOFNYSkErZzNLUmtRTWR5TGJWTUZBeU5ZOEFJWU5NMS9wYjUvWm4rMzNnN052ekl6QzFISndqdEFsN1gxUW1uKzNCbGJXYWpkb2ZIdmxhTkREVExEakVObWtqMmpVU21nS1Q1RE95OThITUVlM0ZpV0hCSFNWKzBRWDYyREdhNUtXZ05ONVZuVXgwV0JhVjNNUkFhZnFHUEloRjlTTmFldEVpbjlINWYrUE1YcGpORjB0OHRTQmFSaGFiMndSMDRFaUMvSHl1a0Zkb0N6eldWNnprNDduSjRmeDYvWXNCZUR2dXI2dzlHTmp2dmp3WVdxL08wMFl5aDhGdXlmYjdMZVdOT1dSV3V0UzBmdlBRVkJGWHhTbDZLYnV2cDEyYXRXZGo5ZXYwQkdRd2JFakIxRU1ZNHZ6WHJ2b1g1LzgrN0pBMlRvaTBpb2d2Tkg3aFZNOC9wa0dGcm5TOGtweURXL20rbzJZR0g1REdnd1pjLzFGUFdqZEhYN2hGbVRkZ3hNUS9PWjRpOFFqMVRhOGw2cCt1ODNYY2tWVGMxS1hXSjlaV1JqZk0vNTVDYmpZckxvSXhscFJMVks3V2VUd3pUK1ErcGg5UGJPcVBnQzNlZ3pxeFR1cE9nNmkzKzNqUzlRcGdoczJaWW96TTdjZzBNVzd1YXIwc1BzQzREeXp4RHZzenFVZmpDcVRDZmQ2TWY2dFFTS0VFZ0hvM0NPWmc9PQ=="></span>
-<span></span>                    </div>
+<div id="bludot-footer-links">
+    <div id="footer-blocks-col1">
+        <dl id="footer-stores">
+    <dt>Blu Dot Stores</dt>
+    <dd><a href="https://www.bludot.com/blu-dot-nomad/" title="New York Store Link">New York</a></dd>
+    <dd><a href="https://www.bludot.com/sanfrancisco/" title="San Francisco Store Link">San Francisco</a></dd>
+    <dd><a href="https://www.bludot.com/blu_dot_los_angeles/" title="Los Angeles Store Link">Los Angeles</a></dd>
+    <dd><a href="https://www.bludot.com/blu-dot-chicago/" title="Chicago Store Link">Chicago</a></dd>
+    <dd><a href="https://www.bludot.com/austin/" title="Austin Store Link">Austin</a></dd>
+     <dd><a href="https://www.bludot.com/blu-dot-seattle/" title="Seattle Store Link">Seattle</a></dd>
+    <dd><a href="https://www.bludot.com/minneapolis-outlet/" title="Minneapolis Store Link">Minneapolis</a></dd>
+    <dd><a href="https://www.bludot.com/blu-dot-mexico-city/" title="Mexico City Store Link">Mexico City</a></dd>
+    <dd><a href="https://www.bludot.com/blu-dot-monterrey/" title="Monterrey Store Link">Monterrey</a></dd>
+    <dd><a href="https://www.bludot.com/blu-dot-sydney/" title="Sydney Store Link">Sydney</a></dd>
+</dl>    </div>
+    <div id="footer-blocks-col2">
+        <dl id="footer-about">
+    <dt>About Us</dt>
+    <dd><a href="https://www.bludot.com/connect/our-story/" title="Our Story">Our Story</a></dd>
+    <dd><a href="https://www.bludot.com/why-blu-dot/" title="Why Blu Dot?">Why Blu Dot?</a></dd>
+    <dd><a href="https://www.bludot.com/shoptalk/" title="Shop Talk">Shop Talk</a></dd>
+    <dd><a href="https://www.bludot.com/award" title="National Design Award">National Design Award</a></dd>
+</dl>        <dl id="footer-resources">
+    <dt>Resources</dt>
+    <dd><a href="https://www.bludot.com/contact-us/" title="Help">Help</a></dd>
+    <dd><a id="open-catalog-request" href="https://www.bludot.com/catalog_request/" title="Catalog Sign-Up">Catalog Sign-Up</a></dd>
+    <dd><a href="https://www.bludot.com/storelocator/" title="Store Locator">Store Locator</a></dd>
+    <dd><a href="https://www.bludot.com/connect/careers/" title="Careers">Careers</a></dd>
+    <dd><a href="https://www.bludot.com/connect/trade-and-contract/" title="Trade &amp; Contract">Trade &amp; Contract</a></dd>
+</dl>
+
+
+<div class="modal-catalog-request">
+    <div id="catalog-request-wrapper">
+        <div class="catalog-request-change" style="display: none" data-bind="mageInit: {
+            'Magento_Ui/js/modal/modal':{
+                'prependTo': 'body',
+                'type': 'popup',
+                'modalClass': 'catalog-request-popup-modal',
+                'trigger': '#open-catalog-request',
+                'wrapperClass': 'catalog-request-wrapper',
+                'parentModalClass': '_has-modal-custom',
+                'responsive': true,
+                'responsiveClass': 'custom-popup',
+                'clickableOverlay': true
+            }}">
+
+            <header class="custom-header">
+                <div class="bludot-stamp"></div>
+                <h3 class="h1">
+                    Free <br>
+                    catalog.
+                </h3>
+                <div class="actions">
+                    <a href="/customer/account/login">Sign Up</a>
+                    <p>For a beautiful, coffee table-worthy catalog</p>
+                </div>
+            </header>
+            <div class="block block-catalog-request">
+                <div class="block-content" aria-labelledby="block-catalog-request-popup-heading">
+                    <div class="left-images">
+                        <img src="https://res-4.cloudinary.com/dwpujv6in/image/upload/c_pad,dpr_2.0,f_auto,q_auto/v1/media/wysiwyg/catalog-request/WebM2_CatalogSignUp_PopUp_Cat18F.jpg" alt="">
+                        <a class="privacy-link" href="/privacy_policy">Privacy Policy</a>
+                    </div>
+                    <!-- CMS Content -->
+                    <div class="cms-content-form">
+                        <div class="widget">
+                            <div id="catalog_request_form_wrapper" class="webforms">
+    <div id="catalog_request_form-success_text" class="std webforms-success-text" style="display:none"><p>Thank you for signing up.</p></div>
+    <form class="form" name="catalog_request_form" id="catalog_request_form">
+        <input name="form_key" type="hidden" value="ZV5Fkk4Tvk1BT23U">        <div class="fieldset">
+            <div class="field type-text required">
+                <label class="label" for="catalog_request-name">Name</label>
+                <div class="control">
+                    <input type="text" name="name" id="catalog_request-name" class="required-entry input-text">
+                </div>
+            </div>
+            <div class="field type-text required">
+                <label class="label" for="catalog_request-address_line_1">Address 1</label>
+                <div class="control">
+                    <input type="text" name="address_line_1" id="catalog_request-address_line_1" class="required-entry input-text">
+                </div>
+            </div>
+            <div class="field type-text">
+                <label class="label" for="catalog_request-address_line_2">Address 2</label>
+                <div class="control">
+                    <input type="text" name="address_line_2" id="catalog_request-address_line_2" class="input-text">
+                </div>
+            </div>
+            <div class="field type-text required">
+                <label class="label" for="catalog_request-city">City</label>
+                <div class="control">
+                    <input type="text" name="city" id="catalog_request-city" class="required-entry input-text">
+                </div>
+            </div>
+            <div class="field type-text required">
+                <label class="label" for="catalog_request-region_id">State/Province</label>
+                <div class="control">
+                    <select id="catalog_request-region_id" name="region_id" title="State/Province" class="validate-select selectBox-dropdown">
+                        <option value="">Please select a region, state or province.</option>
+                    </select>
+                    <input type="text" id="catalog_request-region" name="region" title="State/Province" class="input-text ">
+                </div>
+            </div>
+            <div class="field type-text required">
+                <label class="label" for="catalog_request-country">Country</label>
+                <div class="control">
+                    <select name="country" id="catalog_request-country" class="" title="Country" data-validate="{'validate-select':true}"><option value=""> </option><option value="CA">Canada</option><option value="US" selected="selected">United States</option></select>                </div>
+            </div>
+            <div class="field type-text required">
+                <label class="label" for="catalog_request-zip">Zip code</label>
+                <div class="control">
+                    <input type="text" name="zip" id="catalog_request-zip" class="required-entry input-text">
+                </div>
+            </div>
+            <div class="field type-email required">
+                <label class="label" for="catalog_request-email">Email</label>
+                <div class="control">
+                    <input type="text" name="email" id="catalog_request-email" class="required-entry validate-email input-text">
                 </div>
             </div>
         </div>
-                <div class="footer-container" id="footer-container">
-            <div class="footer">
-                <div class="informational">
-        
-
-<div class="links footer-links-top">
-    <ul>
-        <li><a title="Sign Up for Emails" href="https://www.bludot.com/newsletter-sign-up/">Sign Up for Emails</a></li>
-        <li><a title="Customer Service" href="https://www.bludot.com/customer-service-mobile/">Customer Service</a></li>
-    </ul>
-    <ul>
-                <li><a title="Get a Catalog" href="https://www.bludot.com/get-a-catalog-mobile/">Get a Catalog</a></li>
-        <li><a title="Call 844.425.8368" href="tel:8444258368">Call 844.425.8368</a></li>
-    </ul>
-    <ul>
-        <li><a title="Store Locator" href="https://www.bludot.com/mobile-store-locator/">Store Locator</a></li>
-        <li><a title="Email Us" href="mailto:service@bludot.com">Email Us</a></li>
-    </ul>
-</div><div class="emailform-wrapper">
-    <h3>Let's Be Friends</h3>
-    <p>Sign up for exclusive offers and info on sales,<br>new designs &amp; cool events.</p>
-    <form id="emailform-form-footer" class="emailform">
-        <div>
-            <input required="" type="email" placeholder="Your email address">
-            <button type="submit">Sign Up</button>
+        <div class="actions-toolbar">
+            <div class="primary">
+                <button type="button" id="catalog_request_form-btn_submit" class="action submit primary" title="Submit">
+                    <span>Submit</span>
+                </button>
+            </div>
+            <div class="secondary">
+                <div class="please-wait" id="catalog_request_form-sending_data" style="display:none;">
+                    <div class="loading-indicator"></div>
+                    <span>Sending...</span>
+                </div>
+            </div>
         </div>
     </form>
 </div>
-<script src="http://cdn.listrakbi.com/scripts/script.js?m=Iu4jdEz7qZkS&amp;v=1" type="text/javascript"></script>
 
-<script>
-    jQuery(function() {
-        jQuery("#emailform-form-footer, #emailform-form-header, #newsletter-validate-detail").submit(function (e) {
-
-            e.preventDefault();
-            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-
-            if (re.test(jQuery(this).find('input[type="email"]').val())) {
-                _ltk.Subscriber.Email = jQuery(this).find('input[type="email"]').val();
-                _ltk.Subscriber.List = 'Modal';
-                _ltk.Subscriber.Submit();
-
-                //$('#email-submit').attr('disabled','disabled').val('WAIT&hellip;');
-
-                window.setTimeout(function () {
-                    window.location = 'http://www.bludot.com/Email_Signup_ThankYou/';
-                }, 3000);
-            } else {
-                window.alert('Please format your email correctly');
-            }
-
-        });
-    });
+<script type="text/x-magento-init">
+    {
+        "#catalog_request-country": {
+            "regionUpdater": {
+                "optionalRegionAllowed": true,
+                "regionListId": "#catalog_request-region_id",
+                "regionInputId": "#catalog_request-region",
+                "postcodeId": "#catalog_request-zip",
+                "form": "#catalog_request_form",
+                "regionJson": {"config":{"show_all_regions":true,"regions_required":["AT","CA","EE","FI","FR","LV","LT","RO","ES","CH","US"]},"US":{"2":{"code":"AK","name":"Alaska"},"1":{"code":"AL","name":"Alabama"},"4":{"code":"AZ","name":"Arizona"},"5":{"code":"AR","name":"Arkansas"},"12":{"code":"CA","name":"California"},"13":{"code":"CO","name":"Colorado"},"14":{"code":"CT","name":"Connecticut"},"15":{"code":"DE","name":"Delaware"},"16":{"code":"DC","name":"District of Columbia"},"18":{"code":"FL","name":"Florida"},"19":{"code":"GA","name":"Georgia"},"20":{"code":"HI","name":"Hawaii"},"22":{"code":"ID","name":"Idaho"},"23":{"code":"IL","name":"Illinois"},"24":{"code":"IN","name":"Indiana"},"25":{"code":"IA","name":"Iowa"},"26":{"code":"KS","name":"Kansas"},"27":{"code":"KY","name":"Kentucky"},"28":{"code":"LA","name":"Louisiana"},"29":{"code":"ME","name":"Maine"},"31":{"code":"MD","name":"Maryland"},"32":{"code":"MA","name":"Massachusetts"},"33":{"code":"MI","name":"Michigan"},"34":{"code":"MN","name":"Minnesota"},"35":{"code":"MS","name":"Mississippi"},"36":{"code":"MO","name":"Missouri"},"37":{"code":"MT","name":"Montana"},"38":{"code":"NE","name":"Nebraska"},"39":{"code":"NV","name":"Nevada"},"40":{"code":"NH","name":"New Hampshire"},"41":{"code":"NJ","name":"New Jersey"},"42":{"code":"NM","name":"New Mexico"},"43":{"code":"NY","name":"New York"},"44":{"code":"NC","name":"North Carolina"},"45":{"code":"ND","name":"North Dakota"},"47":{"code":"OH","name":"Ohio"},"48":{"code":"OK","name":"Oklahoma"},"49":{"code":"OR","name":"Oregon"},"51":{"code":"PA","name":"Pennsylvania"},"881":{"code":"PR","name":"Puerto Rico"},"53":{"code":"RI","name":"Rhode Island"},"54":{"code":"SC","name":"South Carolina"},"55":{"code":"SD","name":"South Dakota"},"56":{"code":"TN","name":"Tennessee"},"57":{"code":"TX","name":"Texas"},"58":{"code":"UT","name":"Utah"},"59":{"code":"VT","name":"Vermont"},"61":{"code":"VA","name":"Virginia"},"62":{"code":"WA","name":"Washington"},"63":{"code":"WV","name":"West Virginia"},"64":{"code":"WI","name":"Wisconsin"},"65":{"code":"WY","name":"Wyoming"}},"CA":{"66":{"code":"AB","name":"Alberta"},"67":{"code":"BC","name":"British Columbia"},"68":{"code":"MB","name":"Manitoba"},"70":{"code":"NB","name":"New Brunswick"},"69":{"code":"NL","name":"Newfoundland and Labrador"},"72":{"code":"NT","name":"Northwest Territories"},"71":{"code":"NS","name":"Nova Scotia"},"73":{"code":"NU","name":"Nunavut"},"74":{"code":"ON","name":"Ontario"},"75":{"code":"PE","name":"Prince Edward Island"},"76":{"code":"QC","name":"Quebec"},"77":{"code":"SK","name":"Saskatchewan"},"78":{"code":"YT","name":"Yukon Territory"}}},
+                "countriesWithOptionalZip": ["AT","CO","DK","PH","SA","SG","LK","AE"]            }
+        }
+    }
 </script>
-<div class="footer-social">
-    <div class="label"></div>
-    <p>
-    <a href="http://www.facebook.com/bludot" target="_blank" title="Follow us on Facebook" class="soc-fb"></a>
-    <a href="http://www.twitter.com/bludot" target="_blank" class="soc-tw" title="Follow us on Twitter"></a>
-    <a href="http://www.pinterest.com/bludot" target="_blank" class="soc-pi" title="Check us out on Pinterest"></a>
-    <a href="http://bludot.tumblr.com" target="_blank" class="soc-tumblr" title="Check out our Tumblr"></a>
-    <a href="http://www.instagram.com/bludot" target="_blank" class="soc-ins" title="Blu Dot Pics on Instagram"></a>
-</p>     <div class="clear"></div>
-</div>    <div class="links">
-                                                        <ul class="switcher_menu">
-                        <li class="item first"><a href="https://www.bludot.com/privacy_policy/" title="Privacy Policy">Privacy Policy</a></li>
-                                                        <li class="item last"><a href="https://www.bludot.com/terms_of_use/" title="Terms of Use">Terms of Use</a></li>
-                            </ul>
-                                                            <ul class="switcher_menu">
-                        <li class="item first"><a href="https://www.bludot.com/accessibility_statement/" title="Accessibility">Accessibility</a></li>
-                                                        <li class="item last"><a href="https://www.bludot.com/awmobile/switch/toDesktop/" title="Visit Desktop Site">Visit Desktop Site</a></li>
-                            </ul>
-                        </div>
-</div>
-<div class="clear"></div>
 
-            </div>
-        </div>
-            <script type="text/javascript">
-        var formsToProtectOnPage = [];
-        var currentForm;
-        var currentValidationForm;
-
-        var onSubmit = function (token) {
-            if (currentValidationForm && currentValidationForm.validator
-                && currentValidationForm.validator.validate()
-            ) {
-                currentForm.querySelector('[name="amasty_invisible_token"]').setAttribute('value', token);
-                currentForm.submit();
-            } else {
-                grecaptcha.reset();
+<script type="text/javascript">
+    require(['jquery', 'mage/validation', 'jquery/jquery.cookie'], function($){
+        var modalCloseInitialized = false;
+        var initModalClose = function() {
+            var modal = $('.catalog-request-change');
+            if (modal.data('mage-modal')) {
+                modal.data('mage-modal').modal.on('modalclosed', function () {
+                    $('#catalog_request_form').show();
+                    $('#catalog_request_form-success_text').hide();
+                                    });
+                modalCloseInitialized = true;
             }
         };
-
-        formsToProtect = ["form[action*=\"customer\/account\/createpost\"]","form[action*=\"newsletter\/subscriber\/new\"]","form[action*=\"customer\/account\/loginPost\"]","form[action*=\"review\/product\/post\"]","form[action*=\"contacts\/index\/post\"]"];
-        formsToProtect.forEach(function (item) {
-            formsSearchedBySelector = $$(item);
-            formsSearchedBySelector.forEach(function (formToProtect) {
-                formsToProtectOnPage.push(formToProtect);
-            });
+        var clearForm = function() {
+            var form = $('#catalog_request_form');
+            form.find("input[type=text], textarea").val("");
+            $('#catalog_request-region_id').prop('selectedIndex', 0);
+        };
+        $('#catalog_request_form-btn_submit').click(function(){
+            if (!modalCloseInitialized) {
+                initModalClose();
+            }
+            var form = $('#catalog_request_form');
+            form.validation();
+            if (form.validation('isValid')) {
+                $('#catalog_request_form-btn_submit').hide();
+                $('#catalog_request_form-sending_data').show();
+                $('span.mage-error').remove();
+                var url = 'https://www.bludot.com/catalog_request/submit/index/is_ajax/1/';
+                var data = form.serialize();
+                $.ajax({
+                    url: url,
+                    type: "post",
+                    dataType: 'json',
+                    data: data,
+                    success: function (response) {
+                        if (response.success) {
+                            form.hide();
+                            clearForm();
+                            $('#catalog_request_form-success_text').show();
+                        } else {
+                            if (response.errors) {
+                                $.each(response.errors, function(index, value) {
+                                    $('#'+index).addClass('mage-error').after('<span class="mage-error">'+value+'</span>');
+                                });
+                            }
+                        }
+                    },
+                    complete: function () {
+                        $('#catalog_request_form-btn_submit').show();
+                        $('#catalog_request_form-sending_data').hide();
+                                            }
+                });
+            }
         });
-        for (var index in formsToProtectOnPage) {
-            if (formsToProtectOnPage.hasOwnProperty(index)) {
-                var formToProtectOnPage = formsToProtectOnPage[index];
-                if ('form' !== formToProtectOnPage.tagName.toLowerCase()) {
-                    formToProtectOnPage = formToProtectOnPage.getElementsByTagName('form');
-                    if (0 < formToProtectOnPage.length) {
-                        formToProtectOnPage = formToProtectOnPage[0];
-                    } else {
+
+            });
+</script>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="custom-footer">
+                footer
+            </footer>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+<div id="footer-sm-wrapper">
+    <ul id="footer-social">
+    <li><a href="http://www.instagram.com/bludot" target="_blank" class="sm-icon sm-instagram" title="Follow Blu Dot on Instagram"></a></li>
+    <li><a href="http://www.facebook.com/bludot" class="sm-icon sm-facebook" target="_blank" title="Follow Blu Dot on Facebook"></a></li>
+    <li><a href="http://www.twitter.com/bludot" class="sm-icon sm-twitter" target="_blank" title="Follow Blu Dot on Twitter"></a></li>
+    <li><a href="http://www.pinterest.com/bludot" class="sm-icon sm-pinterest" target="_blank" title="Follow Blu Dot on Pinterest"></a></li>
+</ul></div>
+<!--<div id="bottom-footer">-->
+<!--    --><!--    --><!--</div>-->
+</div><div id="bottom-footer-wrapper">
+    <div id="bottom-footer">
+        <div class="copyright">
+    <span></span>
+</div>
+        <ul id="footer-terms">
+    <li><a href="https://www.bludot.com/terms_of_use/" title="Terms of Use">Terms of Use</a></li>
+    <li><a href="https://www.bludot.com/accessibility_statement/" title="Accessibility">Accessibility</a></li>
+    <li><a href="https://www.bludot.com/privacy_policy/" title="Privacy Policy">Privacy Policy</a></li>
+</ul>    </div>
+</div>
+</footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" :
+                                         {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/www.bludot.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/www.bludot.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/www.bludot.com\/rest\/bludot_b2c\/V1\/products-render-info"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+    <script type="text/javascript">
+        require(['jquery'], function ($) {
+            var recaptcha = [],
+                formsToProtect = 'form[action*="customer/account/createpost"],form[action*="review/product/post"],form[action*="contact/index/post"]';
+
+            window.formToProtectOnPage = [];
+            $.each($(formsToProtect), function (index, formToProtect) {
+                window.formToProtectOnPage.push(formToProtect);
+            });
+
+            if (window.formToProtectOnPage.length) {
+                var recaptchaScript = document.createElement('script');
+                recaptchaScript.src = 'https://www.google.com/recaptcha/api.js?onload=amInvisibleCaptchaOnloadCallback&render=explicit';
+                recaptchaScript.attributes = 'async defer';
+                document.body.appendChild(recaptchaScript);
+            }
+
+            window.amInvisibleCaptchaOnloadCallback = function () {
+                for (var i = 0; i < window.formToProtectOnPage.length; i++) {
+                    var tokenInput = document.createElement('input');
+                    tokenInput.type = 'hidden';
+                    tokenInput.name = 'amasty_invisible_token';
+                    window.formToProtectOnPage[i].appendChild(tokenInput);
+                }
+
+                var id = "";
+                if (id) {
+                    var additionalForm = document.getElementById(id).form;
+                    if (additionalForm) {
+                        window.formToProtectOnPage.push(additionalForm);
+                    }
+                }
+
+                for (var i = 0; i < window.formToProtectOnPage.length; i++) {
+                    var form = window.formToProtectOnPage[i];
+                    if (form.tagName.toLowerCase() != 'form') {
                         continue;
                     }
-                }
 
-                var recaptchaBlock = document.createElement('div');
-                recaptchaBlock.className = 'amasty_recaptcha';
-                formToProtectOnPage.appendChild(recaptchaBlock);
-
-                var tokenInput = document.createElement('input');
-                tokenInput.type = 'hidden';
-                tokenInput.name = 'amasty_invisible_token';
-                tokenInput.value = '';
-                formToProtectOnPage.appendChild(tokenInput);
-
-                formToProtectOnPage.onsubmit = function submitProtectedForm(event) {
-                    currentForm = event.target;
-                    currentValidationForm = new VarienForm(currentForm.id, false);
-                    recaptchaBlock = currentForm.querySelector(".amasty_recaptcha");
-                    if ('' == recaptchaBlock.innerHTML) {
-                        recaptcha = grecaptcha.render(recaptchaBlock, {
-                            'sitekey': '6LceP0UUAAAAAA0tP5XfOVY3kY4qsyleosR3Nahz',
-                            'callback': onSubmit,
-                            'size': 'invisible',
-                            'theme': 'light',
-                            'badge': 'bottomright'
-                        });
+                    id = form.querySelector("[type='submit']");
+                    if (null == id) {
+                        console.log(
+                            'Amsty Google Invisible reCaptcha: can not protect form with id = '
+                            + form.id
+                            + ', please remove appropriate URL and Selector in the configuration of the extension.'
+                        );
+                        continue;
                     }
-                    grecaptcha.reset(recaptcha);
-                    grecaptcha.execute(recaptcha);
-                    return false;
+
+                    (function(form, id) {
+                        recaptcha[i] = grecaptcha.render(id, {
+                            'theme': 'light',
+                            'badge': 'bottomright',
+                            'sitekey': '6LceP0UUAAAAAA0tP5XfOVY3kY4qsyleosR3Nahz',
+                            'callback': function(token) {
+                                if ($(form).valid()) {
+                                    form.querySelector("[name='amasty_invisible_token']").setAttribute('value', token);
+                                    $(form).submit();
+                                }
+                                for (var j = 0; j < recaptcha.length; j++) {
+                                    grecaptcha.reset(recaptcha[j]);
+                                }
+                            }
+                        });
+                    })(form, id);
                 }
-            }
-        }
+            };
+        });
     </script>
-            <script src="https://www.google.com/recaptcha/api.js?hl=en" async="" defer=""></script>
-
 
 <script type="text/javascript">
-arrEcjs = [];
-function _ecjs(ecid,email) { new Ajax.Request("https://www.bludot.com/remarketing/email/", {parameters:{cid: ecid, email: email}}); }
-function ecjsInit() {for(var ecjsi = 0; ecjsi < arrEcjs.length; ecjsi++) {if($(arrEcjs[ecjsi].id)) {$(arrEcjs[ecjsi].id).stopObserving("change", arrEcjs[ecjsi].fn);$(arrEcjs[ecjsi].id).observe("change", arrEcjs[ecjsi].fn);}}}
-arrEcjs.push({id:"newsletter", fn: function() { _ecjs(21, $(this).value);}});
-arrEcjs.push({id:"ltkmodal-email", fn: function() { _ecjs(31, $(this).value);}});
-document.observe("dom:loaded", function() { ecjsInit(); 
-Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
-</script><script type="text/javascript">
-    window.refreshMiniCart = function () {
-        jQuery.ajax({
-            url: "https://www.bludot.com/ajaxminicart/ajax/minicart/",
-            type: "POST",
-            success: function(data) {
-                jQuery('#topCartContent').attr('id', 'oldTopCartContent');
-                jQuery('.top-cart').replaceWith(data);
+    require(['jquery'], function ($) {
+        if (window.formToProtectOnPage) {
+            for (var i = 0; i < window.formToProtectOnPage.length; i++) {
+                var form = window.formToProtectOnPage[i];
+                $(form).on('click',  function(element){
+                    $('.grecaptcha-badge[data-style!="none"]').show();
+                });
             }
-        });
-    };
-</script><script type="text/javascript">
-
-    // Waiting for load event to trigger
-    jQuery(function(){
-        // Harvesting GSB Blocks
-        gsb_blocks = [];
-        jQuery('div[id^="GSB"]').each(function(){
-            gsb_blocks.push(jQuery(this).attr('id'));//titles
-        });
-
-        if(gsb_blocks.length == 0){
-            return;
         }
-
-        jsonGsbBlocks = JSON.stringify(gsb_blocks);
-                jQuery(function(){
-            jQuery.ajax({
-                url: "https://www.bludot.com/gsb/harvest/index",
-                type: "POST",
-                data: "search="+jsonGsbBlocks,
-                success: function(data) {
-                    gsbContents = JSON.parse(data);
-                    jQuery.each(gsbContents, function(index, valueContent){
-                        // placeholder : html_contents
-                        jQuery('#'+index).html(valueContent);
-                    });
-                }
-            });
-        });
     });
 </script>
-<script type="text/javascript" src="https://www.bludot.com/js/bludot.min.js"></script>
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script>
 <script type="text/javascript">
-    var varnishLoader = new Varnish.Loader(
-        'https://www.bludot.com/varnish/ajax/load/no_cache/1/uenc/aHR0cHM6Ly93d3cuYmx1ZG90LmNvbS9wcml2YWN5X3BvbGljeQ,,/',
-        'MDoyOmNmYzhlODVhYzdhYmY0YzA6ZUNSUVlZNVBBWFRHdFpMSjJLaFExanROeTA5UzVUenFyMDlIQXpxVlkyOFkyUGgzaHF6clMwbUUwTC9OcTJ5N1lqWm5INzhkcEdrT0dkeGdSQ0R4ZUJTVjdSMHNMWWJuOVVhdkFFZVFvS2FNeSs4TzRYZHVhT041a1lUM0RhUjE3YjNyM1ZqTFh4dU5XcXF4VGR5RGcwUzh6L0l2cE1sc1B5ek1ZV2N4aTVQK1pEWk1OaCtVVnNiTzVrLzdSSklDYWxNWGdINlNqU1hEZkw4VnpmbXB4aEl2ZnpPdTRrRFJoUUJyTk8wVC9ZTThxeHlDZGphMG9CSTdkd1NNUE5tZ0ZlaTRrMzNoK0NKdk9XR1l6b29SNEE9PQ=='
-    );
+(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+    else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+    if (e.propertyName == 'ltkAsyncProperty' && typeof _ltk !== 'undefined'){d();}});}})
+    (function() { require(['listrak_utils'], function(utils) { if (typeof window.XMLHttpRequest !== 'undefined') {
+    var ajaxOpen = window.XMLHttpRequest.prototype.open;
+    window.XMLHttpRequest.prototype.open = function() {
+        ajaxOpen.apply(this, arguments);
+        if(arguments.length >= 2 && arguments[1].indexOf("//" + location.hostname) == arguments[1].indexOf("//")) {
+            if (!utils.requesting && typeof this.addEventListener === 'function') {
+                this.setRequestHeader("Listrak-Listening", "1");
+                this.addEventListener("load", function(e) {
+                    if (!utils.requesting
+                        && typeof e.currentTarget !== 'undefined') {
+                        if (e.currentTarget.getResponseHeader('Listrak-Change-Flag') !== null)
+                            utils.track();
+                        if (e.currentTarget.getResponseHeader('Listrak-InstantPurchase-Flag') !== null)
+                            utils.order();
+                    }
+                });
+            }
+        }
+    };
+}
+_ltk.Activity.AddPageBrowse(location.href); _ltk.Activity.Submit(); _ltk.SCA.CaptureEmail('newsletter', true); _ltk.SCA.CaptureEmail('email', true); _ltk.SCA.CaptureEmail('customer-email', true); utils.track(); }); });
+</script><script type="text/javascript">
+require(['jquery'], function(jQuery) {
+    (function (d, s, id, url) {
+        var js, ljs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id; js.src = url; js.type = "text/javascript";
+        ljs.parentNode.insertBefore(js, ljs);
+    })(document, 'script', 'ltkSDK', '//cdn.listrakbi.com/scripts/script.js?m=Iu4jdEz7qZkS&v=1');
+});
+</script><script type="text/x-magento-init">
+    {
+        "body": {
+            "geoipAjax": {
+                "checkUrl": "https://www.bludot.com/geoip/ajax/check/",
+                "storeBaseUrl": "https://www.bludot.com/"
+            }
+        }
+    }
+</script>
+<script type="text/javascript">
+    (function (HawkSearch) {
+        HawkSearch.BaseUrl = 'https://www.bludot.com/hawkproxy';
+        HawkSearch.TrackingUrl = 'https://manage.hawksearch.com/sites/bludot';
+        if ('http:' == document.location.protocol) {
+            HawkSearch.BaseUrl = HawkSearch.BaseUrl.replace('https://', 'http://');
+            HawkSearch.TrackingUrl = HawkSearch.TrackingUrl.replace('https://', 'http://');
+        }
+        if ('https:' == document.location.protocol) {
+            HawkSearch.BaseUrl = HawkSearch.BaseUrl.replace('http://', 'https://');
+            HawkSearch.TrackingUrl = HawkSearch.TrackingUrl.replace('http://', 'https://');
+        }
+    }(window.HawkSearch = window.HawkSearch || {}));
 
-    document.observe('dom:loaded', function() {
-        varnishLoader.loadContainers();
+    require(["hawksearch"], function() {
+        HawkSearch.initAutoSuggest = function () {
+            HawkSearch.suggestInit('#search', {
+                lookupUrlPrefix: HawkSearch.TrackingUrl + '/?fn=ajax&f=GetSuggestions',
+                hiddenDivName: 'search_autocomplete',
+                isAutoWidth: true
+            });
+            HawkSearch.suggestInit('#hawksearch', {
+                lookupUrlPrefix: HawkSearch.TrackingUrl + '/?fn=ajax&f=GetSuggestions',
+                hiddenDivName: 'search_autocomplete',
+                isAutoWidth: true
+            });
+        };
     });
 </script>
-            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6d50e8da6f","applicationID":"109199896","transactionName":"bgBVNkdXXERQUhZdCVdKdgFBX11ZHlIPR0lJBFAHGkBbUkY=","queueTime":0,"applicationTime":706,"atts":"QkdWQA9NT0o=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<div id="bss_ajaxcart_popup"></div>
+
+<script type="text/x-magento-init">
+    {
+        "#maincontent": {
+            "Bss_AjaxCart/js/ajax": {
+                "addUrl": "https://www.bludot.com/ajaxcart/",
+                "quickview": false,
+                "isProductView": false,
+                "quickViewUrl": "https://www.bludot.com/ajaxcart/index/view/",
+                "addToCartSelector": ".action.tocart"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "#newsletter-validate-detail": {
+            "Lyonscg_Tealium/js/newsletter_event": {}
+        }
+    }
+</script>
+
+</div>    
 
 </body></html>
