@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628193624id_/https%3A//support.chairish.com/hc/en-us/articles/115007232828-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220080443id_/https%3A//support.chairish.com/hc/en-us/articles/115007232828-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Chairish Help Center
 
