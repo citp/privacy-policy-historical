@@ -1,140 +1,206 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914074033id_/http%3A//www.veriato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220193007id_/https%3A//www.veriato.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | Veriato
+# Veriato Privacy Policy
 
-Veriato Inc., a Delaware corporation and its majority owned affiliated companies and subsidiaries (we / us) respect your privacy and are committed to protecting it through our compliance with this privacy policy (Privacy Policy). This Privacy Policy describes the type of information that we collect from you through the use of the websites www.Veriato.com, www.spectorcne.com, www.spector360.com, and www.eblaster.com, among other sites owned or controlled by Veriato (our Website), how that information may be used or disclosed by us and the safeguards we use to protect it.
+Veriato, Inc., ( **“Veriato”** ) takes your privacy seriously.  We want you to know how we collect, use, share, and protect your personal data. 
 
-This Privacy Policy does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website. Veriato encourages you to review the privacy statements of other websites and applications to understand their information practices.
+### This Privacy Policy tells you:
 
-Please read the following carefully to understand our policies and practices regarding your information and how we will treat it. By using or accessing our Website, you agree to the collection, use and disclosure of information in accordance with this Privacy Policy. This Privacy Policy may change from time to time and your continued use of the Website is deemed to be acceptance of such changes, so please check the Privacy Policy periodically for updates.
-
-## Information you provide to us
-
-We collect and use personal information that you voluntarily provide to us on our Website including but not limited to your name, address, email address, telephone number or financial information, in the following circumstances:
-
-  * **Accounts** —when you register for an account or subscribe to use the products or our Website
-  * **Support** —when you request support, services or information about the products or our Website
-  * **Contests and Promotions** —when you participate in a contest, promotion or survey sponsored by us
-  * **Correspondence** —if you contact us we will collect the personal information contained within your correspondence (including e-mail addresses)
-  * **Transactions and Orders** —when you carry out transactions through our Website or purchase a license to a product including on a trial basis or any upgrades
+  1. What personal data we collect
+  2. How we use your personal data 
+  3. How we share your personal data
+  4. How we protect your personal data
+  5. Your choices regarding your personal data
+  6. Information specific to non-U.S. users  
+  7. Changes to this Privacy Policy
 
 
 
-If you choose not to provide the personal information we request, you can still visit most areas of the Website, but you may be unable to access certain options, offers and services that involve interaction.
+This Privacy Policy applies only to personal data that we collect on the website [www.veriato.com](https://www.veriato.com/) as it may be modified, relocated and/or redirected from time to time (the **“Site”** ).  This Privacy Policy does not apply to Veriato’s partner portal hosted by Channeltivity.  For information about the privacy practices of the partner portal, click [here.](https://www.channeltivity.com/legal/privacy-policy/)
 
-## Information we may collect
+Personal data means information that relates to you as an individually identifiable person, such as your name, e-mail address, and mobile number.
 
-We may automatically collect statistical or aggregate non-personal information about your interaction with our Website.
+* * *
 
-Aggregate information is information that we collect about a group or category of products, services or customers that is not personally identifiable. This may include usage information about your computer, laptop, tablet, mobile phone or other electronic device and your activity using our Website. We may collect information including the Internet protocol (IP) addresses, browser type, internet service provider (ISP), pages that you access, referring/exit pages, operating system, resources that you access, date/time stamp and other interactions with our Website. This information can assist us in analyzing trends, providing statistical information and improving our Website. 
+## 1 - WHAT PERSONAL DATA WE COLLECT
 
-If we link or associate any information gathered with personal information we treat the combined information as personal information. Otherwise we use and disclose information collected solely by passive means in aggregate form or in a non-personally identifiable form. We may collect, use and disclose non-personal information for any purpose. Where, according to local law, IP addresses and the like are considered personal information, then we treat it as such.
+### a) Information You Give Us
 
-## Technologies
+We collect personal data that you voluntarily share with us through the Site. For example, we collect information from you when you create an account or fill out a request form on the Site.
 
-Like the vast majority of website providers, we use various common Internet technologies, such as cookies and web beacons, to collect details about your interactions with our Website. We only collect aggregate information, such as, for example, traffic data, logs and other communication data, whether this is required for our own contractual purposes or otherwise.
+The personal data we collect from you may include:
 
-  * **Cookies** —Cookies are small files stored on the browser or the hard drive of your computer. Use of cookies help us to improve our Website and to deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Website according to your individual interests, speed up your searches and recognize you when you return to our Website. **If you register with us or if you continue to use our Website, you agree to our use of cookies.**
-  * **Web Beacons** —Web beacons also known as pixel tags are electronic images, contained on a website that permit us to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
-  * **Web Analytics** —We also collect some information (ourselves or using third party services) using web analytic tools to help us continuously improve our Website and the Products. We use third-party services that use tracking technologies to track non-personally identifiable information about interactions on our Website in the aggregate to capture usage and volume statistics. This information is used to monitor and analyze the use of our Website, to increase our services functionality and for the technical administration.
-  * **Third Party Advertising Technologies** —In addition to our use of technologies as described herein, we may use third party vendors such as Google to perform display advertising or remarketing services to display advertising on our Website or manage our advertising on other sites. These services can help us tailor advertising that we think may be of interest to you based on your use of our Website and to otherwise collect and use data about your use of our Website. Third-party vendors may use cookies and web beacons to collect non-personal information about your activities on our Website and other websites to provide you with targeted ads.
-
-
-
-As always we respect your privacy and do not collect any personally identifiable information through the use of Google or any other third party services. Any information collected is used only for remarketing purposes and will not be used by third-party marketing vendors for any other purpose.
-
-To opt out of Remarketing and Advertising [click here](https://www.google.com/settings/ads/onweb/?hl=en&hl=en&sig=ACi0TCh1gvijSzZx4FCDDmvxyO8mg--FNzsJ9FePCZ1Eo1O4IZLK4Zr9rxlra5PbI2hpRsYTPex6eJxhkjScAQkjhrIqEuqqM7uosv39MRB23XmOSm4f7NCfNI2oKpiJD6Lw3Tigg57LthVKLdRPdaFsLtqhckW_rB3JDMS7Q5RT5WqQ08Rs7icRHPDWBtIjexnOD). To find out more about how Google uses any data it collects please visit [here](http://www.google.com/privacy_ads.html). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-## How we use the information
-
-We use information that we collect about you or that you provide to us, including any personal information, in the following ways:
-
-  * To administer, operate, maintain and improve our services and Website
-  * To provide you with information, newsletters and products or services that you request from us
-  * To notify you about any changes or provide you with support
-  * To carry out our obligations, process and enforce our rights arising from any contracts entered into between you and us such as communications related to payments and changes to our terms, conditions and policies.
-  * To allow you to purchase and download products and participate in interactive features of our services, when you choose to do so.
-  * For billing and accounting purposes.
-  * For internal purposes such as performing research and analysis and to provide anonymous reporting internally or externally
-  * For marketing and promotional purposes so as to provide you with information about products or services we think you might like. You may opt-out of receiving these communications by following the steps described below.
-  * For any other purposes that we may disclose to you at the point at which we request your personal information and pursuant to your consent
-  * To prevent or take action against activities that is or may be in violation of the Product end-user license agreement, the Website Terms of Use or applicable law.
+  * Contact information, including name, email address, and telephone number
+  * Messages you send to Veriato, for example, a product inquiry 
+  * Product key, serial number, or order number, for example, in a request for technical support
 
 
 
-Once you have registered for the products we reserve the right to send you certain communications relating to the products, such as service announcements and administrative messages that are considered part of the product.
+You may also submit (a) order information, including name, company name, product information, and delivery address; and (b) payment information, including billing address, credit card number, expiration date, and CVV into the Site. This information is transmitted via Transport Layer Security (TLS) encryption to a third-party order and payment processor under contract with Veriato. This order and payment information is not stored on Veriato’ servers.
 
-## Disclosure of your information
+### b) Information We Collect Through Technology On The Site
 
-We do not sell or rent your personal information to third parties. Except as described in this Privacy Policy we will not disclose your personal information that we collect from our Website to third parties without your consent. We may disclose personal information that you provide to us when necessary to the following third parties:
+We collect information through technology to enhance our ability to serve you. When you access and use the Site, Veriato and, in some cases, our third-party service providers collect information about how you interact with the Site.  We describe below methods we use to collect information through technology. 
 
-  * To a member of our group—holding company and its subsidiaries and majority owned affiliates. This information helps us make your customer experience more seamless and efficient by allowing us to improve our marketing efforts to better target customer needs, streamline our processes and consolidate our backend business systems.
-  * Direct or indirect contractors and service providers we occasionally use to support our business as may be required for example, to fulfill orders, conduct billing/credit card processing provide you with services or perform statistical analysis. Those service providers will be permitted to obtain only the personal information they need to deliver the service in accordance with our policies under confidentiality agreements and not for their own purposes.
-  * Authorized partners, distributors and resellers to fulfill any terms under your licensing and service relationship with us and to provide you with local technical and customer support.
-  * In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of Veriato’s assets, in which case personal information held by us about you and our customers will be among the assets transferred to the (prospective) buyer.
-  * Comply with a law, court order, legal process or other legal obligation.
-  * Enforce or apply our terms of use or terms of license or sale and other agreements.
-  * Protect the rights, property, or safety of Veriato, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+### IP Address
+
+When you visit the Site, we collect your device identifier, browser information, and Internet Protocol (IP) address. An IP address is often associated with the portal you used to enter the Internet, like your Internet service provider (ISP), company, association, or university.  While an IP address may reveal your ISP or geographic area, we cannot determine your identity solely based upon your IP address. We do not link your personal data to device identifier information, browser information, and IP addresses.  Where, according to local law, IP addresses and the like are considered personal data, then we treat them as such.
+
+### Do We Use Cookies?
+
+Yes. Cookies are small pieces of data that the Site or our service provider transfers through your Web browser that enables the Site’s or service provider’s systems to recognize your browser and capture and remember certain information. We use cookies to help us understand how users use the Site. For example, cookies gather information about how long you spend on a web page so that we can understand what web pages are of most interest to users.  Our cookies do not collect your personal data, except to the extent that IP addresses might be considered personal data.
+
+If you prefer, you can choose to have your browser warn you each time a cookie is being sent, or you can choose to turn off cookies by adjusting your browser settings. If you turn off your cookies, some of the features on the Site may not function properly. 
+
+### Google Analytics
+
+We use cookies provided by Google Analytics, a third-party service provider, to assist us in better understanding our Site visitors.  These cookies collect data tied to a user’s IP address, such as the length of time a user spends on a page, the pages a user visits, and the websites a user visits before and after visiting the Site.  Based on this information, Google Analytics compiles aggregate data about Site traffic and Site interactions, which we use to offer better Site experiences and tools in the future.  Google Analytics does not collect any personal data (other than IP Address which may be considered personal data in some countries). You can obtain more information about Google Analytics [here](https://www.google.com/intl/en/policies/privacy/).
+
+### Web Beacons
+
+We include small graphic images or other web programming code, called web beacons (also known as "pixel tags", “web bugs” or "clear GIFs"), on the Site. The web beacons are minute graphics with a unique identifier. They are used to track the online movements of Web users. In contrast to cookies, which are stored in a user's computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.  
+
+### Your ‘Do Not Track’ Browser Setting
+
+We support the Do Not Track (DNT) browser setting. DNT is a preference you can set in your browser’s settings to let the websites you visit know that you do not want the websites collecting your personal data. 
+
+We may track your online activities over time and across third-party websites or online services. For example, we might use web beacons to help us determine what links or advertisers brought you to our Site. We then track your activities on our Site. We also may use web beacons to track your visits to other websites so that third-party service providers can display Veriato advertisements to you on those other websites based on your activities while on the Site (“remarketing”).
+
+### c) Information Third Parties Provide About You
+
+We supplement the information we collect about you through the Site with records received from third parties in order to enhance our ability to serve you, to tailor our content to you, and to offer you information that we believe may be of interest to you. For example, the service provider that processes orders submitted through the Site shares your order information, but not payment information, with us. 
+
+### d) Information You Provide To A Third Party
+
+The Site includes links from the Site to, and plug-ins (such as Twitter buttons) from, sites or applications operated by third parties ( **“Third-Party Sites”** ).  Veriato does not control any Third-Party Sites and is not responsible for any information they may collect. The information collection practices of a Third-Party Site are governed by its privacy policy. It is your choice to enter any Third-Party Site. We recommend that you read its privacy policy if you choose to do so.
+
+### CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+
+We do not collect any information from anyone under 13 years of age. The Site, products and services are all directed to people who are at least 13 years old or older. If you are under the age of 13, you are not authorized to use the Site.
+
+* * *
+
+## 2 - PURPOSES FOR WHICH WE USE THE PERSONAL DATA WE COLLECT
+
+ We use the information we collect to serve you and improve your experience on the Site. These purposes include: 
+
+  * Responding to requests for information
+  * Responding to requests for product quotes
+  * Registering users for Veriato promotions and events
+  * Responding to technical support questions and concerns
+  * Contacting users for marketing, advertising, and sales purposes
+  * Improving our products and services
+  * Responding to questions and feedback
+  * Conducting market research and analysis
+  * Continuously evaluating and improving the online user experience
+  * Network and information security
+  * Fraud prevention
+  * Reporting suspected criminal acts
+  * Compliance with the law or to protect the rights, property, or safety of Veriato, our users, or others
+  * Processing and responding to job applications
 
 
 
-We may disclose your non-private, aggregated or otherwise non-personal information that doesn’t identify you, to our partners or other third parties about how our customers, collectively, use our Website but we do not sell or share any information at the individual level.
+### Data Retention
 
-## Your choices and opt-out
+We retain your personal data for the duration of the customer relationship, if any. We also retain your personal data for 12 months after our last interaction with you. Job applications are purged after 3 months if no action is taken.
 
-We strive to provide you with choices regarding the information you provide to us. You may elect to opt out of receiving direct marketing or market research information. We have created mechanisms to provide you with the following control over your information:
+* * *
 
-**Cookies** —You can refuse to accept cookies by activating the appropriate setting on your browser. Please be aware that restricting the use of cookies may impact on the functionality of our Website and you may be unable to access certain parts of our Website. More information can be found in our Cookie Policy.
+## 3 - HOW WE SHARE THE PERSONAL DATA WE COLLECT
 
-Visitors can opt-out of Google Analytics for Display Advertising using the [Ads Settings](https://www.google.com/settings/ads).
+We do not sell or rent your personal data to third parties.  The following are some of the ways we share your personal data:
 
-**Unsubscribing** —In each and every marketing or promotional email that we send to you, there is an ‘unsubscribe’ hyperlink, which you may you use if you wish to ‘opt out’ of and stop receiving email communications from us. The hyperlink will direct you to our website, where upon entering the email address that you no longer wish to receive Veriato emails, one last confirmation email shall then be sent to the email address you designate. Merely confirm that you do indeed wish to stop Veriato email’s being sent to you and that email address shall automatically be unsubscribed.
+  * **Third-Party Service Providers:** We will share your personal data with third-party service providers under contract with Veriato to help us provide services to you.  The following are some examples of the types of third-party service providers with which we share your personal data and our purpose for doing so: 
+    * **Data Analytics:** We retain third-party service providers to help us perform data analytics regarding your interactions with the Site. For example, Google Analytics may track what pages users visit on the Site and how long they stay there to determine how users use the Site.
+    * **Legal Advice:** We may disclose your personal data to an attorney in the process of obtaining legal advice.
+    * **Third-party Processors:** Through the Site, you transmit your order and payment information to a third-party order and payment processor. 
+    * **Advertising Platforms:** We may disclose the fact that you visited the Site to advertising networks so that they can show you Veriato advertisements on other websites and platforms.  These services can help us tailor advertising that we think may be of interest to you based on your use of the Site and to otherwise collect and use data about your use of the Site.
+    * **Channel Partners:**  We may disclose your personal data related to your requests for information and Veriato products and services to our channel partners so that they can respond to your requests and offer local purchasing options and services.
+  * **Required Disclosures** : We may be required to share personal data in a court proceeding, in response to a court order, subpoena, civil discovery request, other legal process, or as otherwise required by law. 
+  * **Legal Compliance and Protections** : We may disclose account and other personal data when we believe disclosure is necessary to comply with the law or to protect the rights, property, or safety of Veriato, our users, or others. This includes exchanging personal data with other companies and organizations for fraud protection and credit risk reduction.
+  * **Corporate Transactions** : We reserve the right to disclose and transfer your data, including your personal data: 
+    * To a subsequent owner, co-owner, or operator of the Site or successor database.
+    * In connection with a corporate merger, consolidation, the sale of substantially all of our membership interests and/or assets or other corporate change, including to any prospective purchasers. 
 
-Alternatively, you may visit the [Unsubscribe request form](http://www.veriato.com/unsubscribe) or email Veriato at [unsubscribe@Veriato.com](mailto:unsubscribe@spectorsoft.com?subject=Unsubscribe) with your request, stating ’Unsubscribe‘ in the header and what email addresses you wish not to receive Veriato emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us.
 
-You should review this Privacy Policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website. Remember, by using any part of the Website, you accept and agree to our privacy practices. If we update this Privacy Policy, your continued use of the Website (following the posting of the revised Privacy Policy) means that you accept and agree to the terms of the revised Privacy Policy.
 
-## User Contributions
+* * *
 
-You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, User Contributions). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view or use your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Website Terms of Use and known or suspected violations should be reported to [privacy@Veriato.com](mailto:privacy@veriato.com).
+## 4 - HOW WE PROTECT THE PERSONAL DATA WE COLLECT
 
-## Accessing and correcting your personal information
+The security and confidentiality of your personal data is important to us.  We have technical, administrative, and physical security measures in place to protect your personal data from unauthorized access or disclosure and improper use. 
 
-You can review, update, correct or delete your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the "Forgot your password?" link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you. Alternatively, you can also contact us at privacy@Veriato.com if you wish to exercise these rights. While we will strive to accommodate your requests, we may reject requests, which risk the privacy of others, are unreasonable or repetitive, require disproportionate technical effort (such as developing new systems or fundamentally changing an existing business practice), or would be extremely impractical. Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort.
+For example, we use Transport Layer Security (TLS) encryption to protect the data collection forms on our Site. In addition, we restrict access to your personal data. Only employees who need the personal data to perform a specific job (for example, a customer service representative) are granted access to personal data. Employees with access to personal data are kept up-to-date on our security and privacy practices. 
 
-If you request that we delete your account we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to close your browser after you have completed your visit to the Site. 
 
-## Where we store your personal data
+Please note that despite our reasonable efforts, no security measure is ever perfect or impenetrable, so we cannot guarantee the security of your personal data.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password, which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+* * *
 
-## Children under the age of 13
+## 5 - YOUR CHOICES REGARDING YOUR PERSONAL DATA
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at [legal@Veriato.com](mailto:legal@veriato.com).
+You may contact [privacy@veriato.com](mailto:privacy@veriato.com) to access, update, correct, and delete your personal data. 
 
-## Data security
+### Have Questions
 
-We have implemented reasonable administrative, technical and physical security measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on secure servers behind firewalls and strictly controlled. Any payment transactions are encrypted using SSL technology.
+If you have any questions about this Privacy Policy, we'll do our best to answer them promptly. You can contact us at: [privacy@veriato.com](mailto:privacy@veriato.com)
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website. Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website and any transmission is at your own risk.
+CALIFORNIA ONLINE PRIVACY PROTECTION ACT COMPLIANCE/YOUR CALIFORNIA PRIVACY RIGHTS
 
-## Your California privacy rights
+California residents who use the Site may request that we provide certain information regarding our disclosure of your personal data to third parties for their direct marketing purposes. You can make such a request by e-mail to [privacy@veriato.com](mailto:privacy@veriato.com).
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. To make such a request, please send an e-mail to [privacy@Veriato.com](mailto:privacy@veriato.com).
+* * *
 
-## Changes to our Privacy Policy
+## 6 - INFORMATION SPECIFIC TO NON-U.S. USERS
 
-It is our policy to post any changes we make to our Privacy Policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website shall be deemed to be your consent to such changes. The date the Privacy Policy was last revised is identified at the top of the page.
+### a) All locations outside of the United States
 
-## Contact information
+The personal data collected through the Site is downloaded to a server maintained by Veriato.  Veriato is located at 4440 PGA Boulevard, Suite 500, Palm Beach Gardens, Florida 33410 in the United States. Veriato will comply with requests to exercise individual data rights in accordance with applicable law.  You can contact [privacy@veriato.com](mailto:privacy@veriato.com) to request to exercise your data rights.
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@Veriato.com](mailto:privacy@veriato.com)
+### b) European Economic Area and Switzerland
+
+The information in this section, as well as the information in the section above titled “All locations outside of the United States”, applies to users in the European Economic Area and Switzerland (collectively, the “EEA”).
+
+Individuals in the EEA (“EEA Individuals”) are not required by statute or by contract to provide any personal data to the Site.  Veriato sometimes uses EEA Individuals’ personal data submitted through the Site for automated decision-making. For example, Veriato may display advertisements and send emails to you containing content automatically chosen based on the products you have ordered from us in the past. However, Veriato will not use EEA Individuals’ personal data submitted through the Site for automated decision-making, including profiling, which produces legal effects or similarly significantly affects the EEA Individual.   
+
+Cross-Border Data Transfers:  
+The personal data collected through the Site will be transferred to the United States.  The recipients of personal data collected through the Site (listed in Section 3 above) are located in the United States or in the country where the data was collected. The European Commission has not issued a determination that the United States ensures an adequate level of protection for personal data. 
+
+Legal Bases For Processing:  
+Veriato processes your personal data with your consent and as required by law.  In addition, Veriato processes your personal data as necessary for the performance of the sales contract, for example, when processing your orders and payments, and to take steps, at your request, before entering into a contract with you.  For example, if you ask us for quotes for products and services you are interested in buying, we may send them to you.  Veriato also processes personal data as necessary for its legitimate interests as follows:
+
+  * _Marketing and advertising_ : Unless you opt out as described below, we use your personal data regarding products and services you have ordered, or in which you have otherwise demonstrated an interest, as necessary to provide you information about the products and services that we think might interest you in accordance with applicable law.
+  * _Network and information security, fraud prevention, and reporting suspected criminal acts_ : In the event of fraud, a security incident, or a suspected criminal act, we would examine personal data that appeared to be linked to the incident as necessary to determine what happened, remediate, report to the authorities, and prevent a recurrence.
+
+
+
+Right to Object to Processing for Direct Marketing or Legitimate Interests:  
+EEA Individuals have the right to object to the processing of their personal data for purposes of Veriato’s direct marketing or legitimate interests by contacting Veriato at [privacy@veriato.com](mailto:privacy@veriato.com).
+
+Individual Rights:  
+EEA Individuals have the right to access their personal data collected by the Site and to request that Veriato update, correct, or delete their personal data as provided by applicable law.  EEA Individuals also have the right to object to, or restrict, Veriato’s processing of their personal data.
+
+In addition, EEA Individuals have the right to data portability concerning their personal data.  Subject to certain limitations, the right to data portability allows EEA Individuals to obtain from Veriato, or to ask Veriato to send to a third party, a digital copy of the personal data that they provided to the Site. EEA Individuals’ right to access their personal data includes their right to receive a copy of all, or a portion, of their personal data in Veriato’s possession as long as Veriato’s providing the personal data would not adversely affect the rights and freedoms of others.
+
+EEA Individuals can exercise these rights by contacting [privacy@veriato.com](mailto:privacy@veriato.com).  Veriato will respond to such requests in accordance with applicable data protection law.  If EEA Individuals believe that their personal data has been processed in violation of applicable data protection law, they have the right to lodge a complaint with the relevant data protection authority in the country where they reside, where they work, or where the alleged violation occurred.
+
+EEA Individuals may use the contact information above, at any time, to withdraw their consent for the processing of their personal data where Veriato requires their consent as a legal basis for processing their personal data.  Any withdrawal will apply only prospectively, and Veriato will continue to retain the personal data that EEA Individuals provided before they withdrew their consent for as long as allowed or required by applicable law.
+
+In addition, you may cancel or modify the email communications you have chosen to receive from Veriato by following the instructions contained in emails from us.  Alternatively, you may email Veriato at [unsubscribe@veriato.com](mailto:unsubscribe@veriato.com) with your request, stating ’Unsubscribe‘ in the header and what email addresses you wish not to receive Veriato emails. Within a reasonable period, we shall ensure that such email addresses are unsubscribed. 
+
+* * *
+
+## 7 - CHANGES TO THIS PRIVACY POLICY
+
+If we change this Privacy Policy, we will post those changes on this page and update the Privacy Policy modification date above. If we materially change this Privacy Policy in a way that affects how we use or disclose your personal data, we will provide a prominent notice of such changes and the effective date of the changes before making them. 
+
+* * *
 
 Corporate address  
 Veriato, Inc.   
-1555 Indian River Blvd.   
-Vero Beach, FL 32960   
+4440 PGA Blvd, Suite 500  
+Palm Beach Gardens, FL 33410  
 **Email:** [legal@Veriato.com](mailto:legal@veriato.com)   
 **Telephone** : 1.888.598.2788
-
-Last Update: February 16, 2016
