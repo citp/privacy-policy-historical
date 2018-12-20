@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1843magazine.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629033134id_/http%3A//www.economistgroup.com/results_and_governance/governance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1843magazine.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220190254id_/http%3A//www.economistgroup.com/results_and_governance/governance/privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -76,7 +76,7 @@ You can also volunteer to disclose additional information which may not be essen
 
 **Information we receive from third parties**
 
-We occasionally work with third parties who provide additional information that you have shared with them, such as your telephone number and postal address (for example if you’ve moved house). Some third parties may also share information about your interaction on our sites to help us personalise our services to you. More information can be found in the Audience Profiling section below.
+We occasionally work with third parties who provide additional information that you have shared with them, such as your telephone number and postal address (for example if you’ve moved house or updated yourphone number and we need to contact you with important service information). Some third parties may also share further information about your interaction on our sites to help us personalise our services to you. More information can be found in the Audience Profiling section below.
 
 **Information we do not track**
 
@@ -132,7 +132,7 @@ We need your consent to use your information for some specific purposes such as 
   * We will ask you if you wish to opt-out of such marketing when you first sign up to receive our products or services. You can also update your preferences for your _Economist_ subscription at any time via your online account at economist.com or by contacting customer services (see ‘Contact us’). You can also opt out of email marketing by clicking the unsubscribe link at the bottom of our emails. Other parts of The Economist Group will inform you of how to opt out of such marketing communications, or you can contact us. This does not apply to important service notifications such as payment confirmations (as covered in the section above) or where we have some other legal basis for contacting you.
 
 
-  * In order to deliver advertising and marketing messages that are relevant to you, we may use the information we hold about you, including details that we collate from your use of our services or third parties, such as more precise information on your location, to ensure that the advertising you see is of interest to you.
+  * In order to deliver advertising and marketing messages that are relevant to you, we may use the information we hold about you, including details that we collate from your use of our services or third parties, such as more precise information on your location or your company's profile (ie. company name, company size), to ensure that the advertising you see is of interest to you.
 
 
 
@@ -204,13 +204,16 @@ As mentioned, in some instances, we disclose personal information to third parti
   * To provide information for auditing purposes by official regulators.
 
 
+  * To enhance your profile with non-personal information.
+
+
   * To enable third parties such as advertisers or sponsors to contact you with information about their own products and services that may be of interest – only if you give explicit permission for us to do so.
 
 
 
 **Third parties who pass information to us**
 
-Our subscriptions services sometimes use additional information such as telephone numbers or postcodes from third parties (like list brokers, researchers or telemarketing agents, who have gathered this information lawfully) to help us to contact you or to help us make marketing decisions. This includes advertising (by ourselves or via advertising partners) to groups of people with particular interests. These third parties may give us access to your personal information, if you have allowed them to do so.
+Our subscriptions services sometimes use additional information such as telephone numbers or postcodes from third parties (like list brokers, researchers or telemarketing agents, who have gathered this information lawfully) to help us to contact you with important service updates via phone or post or to help us make marketing decisions. This includes advertising (by ourselves or via advertising partners) to groups of people with particular interests. These third parties may give us access to your personal information, if you have allowed them to do so.
 
 We may also work with third parties to identify individuals who may be interested in our products and services or in some cases our sponsors / advertisers’ products and services. These third parties may give us access to your personal information, if you have allowed them to do so. In any communication you receive from us, through these third parties, we make sure to identify ourselves (and them) so that you know who has access to your information.
 
@@ -278,7 +281,7 @@ ICO Registered Number: Z6982453
 
 Company Registration Number: 1762617
 
-Other names and brands include: EIU, EIU subscriptions, Economist Intelligence Unit, Economist Conferences, Economist Corporate Network, EIU Healthcare, Canback, Bazian, Clearstate
+Other names and brands include: EIU, EIU subscriptions, Economist Intelligence Unit, Economist Corporate Network, EIU Healthcare, Canback, Bazian, Clearstate
 
 Data controller: EuroFinance Conferences Limited
 
@@ -288,7 +291,7 @@ ICO Registered Number: Z4865712
 
 Company Registration Number: 3015764
 
-Other names and brands include: EuroFinance Intelligence, EuroFinance Training
+Other names and brands include: EuroFinance Intelligence, EuroFinance Training, Corporate Payments International (CPI)
 
 Data Controller: Trustee(s) of the Economist Group UK Pension Plan
 
@@ -395,6 +398,7 @@ You can use our cookie consent tool. For more information please also see our [c
 
 You have a right to ask us for information we hold about you, please email customer services or data privacy including the subject line, “Subject Access Request”, so that we can respond as promptly as possible. 
 
+**Your rights**  
 You also have the right to ask for us to update, delete or stop processing information we hold about you. However, please note that there are circumstances in which complete erasure of your information or ceasing to process your information will not be possible for operational, legal and business reasons. This may include if you remain a customer for whom we need to provide services, or if you wish us to no longer contact you for marketing purposes. In this case we may need to retain some of your details securely in order to facilitate this request by, for example, keeping you on a “do not contact” or suppression list. This will be the only purpose for which your data will be used if this is the case.
 
 **Changes to this policy**
@@ -402,6 +406,4 @@ You also have the right to ask for us to update, delete or stop processing infor
 From time to time, we may make changes to the privacy policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here regularly.
 
   
-Last update: 21st May 2018
-
-manage your cookies
+Last update: 15 August 2018
