@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpropertychannel.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221025101id_/http%3A//www.worldpropertyjournal.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpropertychannel.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220080435id_/http%3A//www.worldpropertyjournal.com/policies.php) for the most accurate reproduction.*
 
 # Policies - WORLD PROPERTY JOURNAL Global News Center
 
