@@ -1,98 +1,165 @@
-> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307015522id_/https%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221005852id_/http%3A//www.nottinghillmedia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SourceSecurity.com
+# Privacy Policy and Cookie Policy - Notting Hill Media
 
-Cookie Policy
+### General
 
-**General**
+This is our Privacy Policy. Please also read our Cookie Policy below. This Privacy Policy and the Cookie Policy applies to all our Websites. Find a full list of our Websites in Who We Are.
 
-This document sets out the Privacy Policy and Cookie Policy of Notting Hill Media Limited, and its affiliated companies, and its divisions, including SourceSecurity.com, SourceEN54.eu and TheBigRedGuide.com (together “We”/“Us” and “Our”). This Privacy Policy should be read alongside the Cookie Policy below. This Privacy Policy and Cookie Policy  applies to our websites including [www.sourcesecurity.com](http://www.sourcesecurity.com/) , [www.sourceen54.eu](http://www.sourceen54.eu/) and [www.thebigredguide.com](http://www.thebigredguide.com/) and any affiliated and/or satellite websites and any future, revised, updated, mobile and/or spin-off versions or applications (together or individually the “Website”). This Privacy Policy and the Cookie Policy explains how We collect, process and use your personal information (“Your Information”). 
+### Who We Are
 
-We are committed to protecting your privacy and the privacy of Your Information. We are required by the Data Protection Act 1998 (English Law) (the “Act”) to follow strict procedures to protect personal data. For your protection, we are registered under the Act and have given all the appropriate notifications to the Information Commissioner. 
+We are Notting Hill Media Limited, a limited liability company registered in England with company number 3937009, registered office at Park House, 206-208 Latimer Road, London W10 6QY, UK (“We” and “Us”). We publish the following websites:
 
-Please read this Privacy Policy and Cookie Policy before using the Website. Please read this Privacy Policy before submitting information through the Website. By using the Website, you consent to Our collection, processing and use of Your information as outlined in this Privacy Policy and you consent to the terms and conditions of the Privacy Policy and Cookie Policy.  If you do not accept this Privacy Policy and Cookie Policy then do not use the Website. 
+  * [www.nottinghillmedia.com](http://www.nottinghillmedia.com/)
+  * [www.sourcesecurity.com](https://www.sourcesecurity.com/)
+  * [www.securityinformed.com](https://www.securityinformed.com/)
+  * [www.thebigredguide.com](https://www.thebigredguide.com/)
+  * [www.sourceen54.eu](http://www.sourceen54.eu/)
+  * [www.sourceaccesscontrol.com](http://www.sourceaccesscontrol.com/)
+  * [www.sourcesurveillancesoftware.com](http://www.sourcesurveillancesoftware.com/)
+  * [www.sourceipcameras.com](http://www.sourceipcameras.com/)
 
-We reserve the right to update this Privacy Policy and Cookie Policy periodically and will post the new version online and we encourage you to review this Privacy Policy and Cookie Policy from time to time to review any changes.  Your continued use of the Website and your continued provision of Your Information will be subject to the terms of the then current Privacy Policy and Cookie Policy.
 
-**What information do we collect?**
 
-When you register with Us, we collect information about you and your usage of the Website including, without limitation, the following: your name, address, phone number, e-mail address, user ID and password and other information in relation to where you work and what kind of a job you do.
+(individually a “Website” or together the “Websites”).
 
-The web server also collects data pertaining to every visitor including the IP address, the length of time spent on the Website and pages accessed when visiting the Website.
+### How to Contact Us
 
-**Message boards, blogs and other public forums**
+If you need any further information about this Privacy Policy – or want to contact us about anything – you can contact us in any of these ways:
 
-Please note the Website makes message boards, blogs and other such user generated content facilities available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website [Terms](http://www.sourcesecurity.com/info/terms-and-conditions.html) and Conditions and [House Rules](http://www.sourcesecurity.com/info/house-rules.html). 
+  * email us at [dpo@nottinghillmedia.com](mailto:dpo@nottinghillmedia.com)
+  * call us on + 44 20 7183 0709 (UK) during office hours (9 am to 6pm GMT)
+  * write to us at Data Protection Team, Notting Hill Media Limited, Park House, 206-208 Latimer Road, London W10 6QY, United Kingdom.
 
-**Email a friend and sharing functions**
 
-Please note, when you use the email a friend and sharing functions and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
 
-**What do We do with Your information?**
+### Our Privacy Promise
 
-We will use Your information provided by you to promote a better and more personal service.
+This Privacy Policy and the Cookie Policy explains how We collect, process and use your personal information (“ **Your Information** ”).
 
-We use Your information for purposes which may include the following:
+We are committed to protecting your privacy and the privacy of Your Information. We are required by the Data Protection Act 2018 and GDPR (General Data Protection Regulations) which came into force in the UK and, in the case of GDPR, throughout the EU from 25 May 2018 (the “ **Act** ”) to follow strict procedures to protect personal data. For your protection, we are registered under the Act and have given all the appropriate notifications to the Information Commissioner.
 
-  * to help us to provide you with the Services set out in our Website Terms and Conditions as efficiently as possible
-  * to conduct market research surveys
-  * to help us to identify the validity of users
+Please read this Privacy Policy and Cookie Policy carefully. If you don’t accept these terms then please stop using the Website and don’t submit information through the Website.
+
+You can unsubscribe at any time via the unsubscribe link at the bottom of marketing emails we send you. You can also change and update your email preferences via the link in the emails we send you (see **How to Contact us** above).
+
+We update this Privacy Policy and Cookie Policy regularly and we will post the new version online and we encourage you to review this Privacy Policy and Cookie Policy from time to time to review any changes. We will inform you, and seek your consent, when we make major changes to this Privacy Policy and Cookie Policy.
+
+### What information about you do we collect?
+
+When you register with Us on one or more of our Websites, or when you contact Us with a query you provide us with the following personal information:
+
+  * your name,
+  * your address,
+  * your phone number,
+  * your e-mail address,
+  * your user ID and password for the Website
+  * information in relation to what company you work for and what kind of a job you do.
+
+
+
+### Why do we collect this information?
+
+We use this personal information about you for the purposes listed in the section below headed What do We do with Your information?
+
+Our web server also collects data about every visitor to the Website, including you. This data includes the IP address, the length of time you spent on the Website and pages you accessed when visiting the Website (see our Cookie Policy below for more information). This information enables us to analyse your preferences both on an individual basis and an aggregated basis so that we can provide you with information that is more appropriate to you.
+
+### Message boards, blogs and other public forums
+
+The Website makes message boards, blogs and other such user generated content facilities available to users of the Website and registered users can provide content for and participate in these facilities. Any information that you disclose in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information and the applicable terms, please click on the [**US Website Terms and Conditions**](https://web.archive.org/us-terms-and-conditions.html) for www.securityinformed.com and for all other Websites click on [**Website Terms and Conditions**](https://web.archive.org/terms-and-conditions.html) and in both cases see our [**House Rules**](https://web.archive.org/house-rules.html).
+
+### What do We do with Your information?
+
+We use Your information on the lawful basis of our legitimate business purposes and which enable us to enhance the services we provide you with, to make our service and your Website experience more relevant and effective for you or, where specified below, on the lawful basis of your consent. This means that we use Your information:
+
+  * to help us to identify you when you log in to the Website
+  * to allow us to contact you by email when required to fulfil the services we offer you – for example to send you e-newsletters that you have opted-in to receive (which contain a summary of general industry information including products, news and technology) and emails to tell you about specific technology reports or white papers that we think will be of interest to you or so that you can download a whitepaper that you have requested to download.
+  * so that we can contact you for our direct marketing purposes - for example, to send you details of those products or services that we offer that we have identified as likely to be of interest to you based on your use of the Website and your email preferences. This will be in accordance with the preferences that you indicated when you completed the online preferences form
+  * to help us to conduct market research and analysis which can help us to better provide our Services to you in the future.
+  * to allow you to participate in interactive features of our Website services, such as to leave comments, respond to calls to action, participate in the user generated content and surveys, where you choose to do so
+  * so that we can contact you with information about our Websites and about our services (such communications may include advertisements, native/sponsored content or any other information relating to for third party companies and/or products that we think may be of interest to you)
+  * to allow us to personalise your visit to the Websites such as providing you with recommendations and tailored advertising to improve your experience on the Website. If you don’t want to receive this kind of advertising please see the Cookie Policy section below regarding cookies.
+  * To deal with and respond to you about a comment you have submitted for or on our message boards, blogs and other user generated content facilities
+  * to share your information with other companies (see When Will we share your information with another company? Below)
   * for our internal record keeping
-  * to monitor compliance with our Website Terms and Conditions 
-  * to allow us to contact users when required
-  * to provide users with information about products, services, news, webinars, events and special offers that we think may be of interest to users 
-  * to contact users for direct marketing purposes
-  * to allow users to participate in interactive features of our service, where they choose to do so
-  * to allow us to contact users with information about our Websites (such communications may include advertisements for third party products)
-  * to allow us to personalise your visit to the Websites such as providing recommendations and tailored advertising.  This includes where we have agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you; if you don’t want to receive this kind of advertising please see the section below regarding cookies.
-  * dealing with and responding to you about a comment you have submitted for or on our message boards, blogs and other user generated content facilities
+  * to monitor your compliance with our [Website Terms and Conditions](https://web.archive.org/terms-and-conditions.html)
 
 
 
-We also do research on our users’ interests and behaviour based on the information provided to us when you register to use our Services and whilst you use our Services.  This research is compiled and analysed on an aggregated basis.  We may keep a record of which products and services you are interested in.  We also monitor user traffic patterns and site use.
+We also do the following things with your information:
 
-Also, We disclose aggregated user statistics (for example, 45% of our users bought product x last month) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+  * we sometimes enhance the information you provide to us with information that we collect from other sources, normally information which is available to the general public such as information you provide on your linkedin profile (if applicable) and information about the company you work for, which is available from its corporate website. We do this as it allows us to provide a better service to you. We may also share this enhanced data with the named sponsors or originators of the whitepaper or product information sheets that you have chosen to download and we do this in accordance with the specific consent you give at the time of downloading the applicable content – for example, a white paper.
+  * We do research on your company’s interests based on the information provided to us when you register to use our Services.
+  * We may keep a record of which products and services you are interested in based upon your historical downloads (eg how many times you download White Papers relating to access control in the education sector) so that we can provide a more tailored, relevant service to you.
+  * We also monitor user traffic patterns and site use on an aggregated basis.
 
-**Will We pass your information on?**
 
-When you use the Website and have not advised us to the contrary, you are agreeing that we may use Your Information for the purposes set out in this Privacy Policy.  We will not pass the information we collect about you to any other third party other than as set out in this section “Will We Pass Your Information On?”.
 
-If you have registered for the “online sales enquiries” service and you subsequently provide us with a request or query your request or query is passed on to the relevant supplier together with your e-mail address so that the supplier can contact you direct with an answer to your query or request.
+If you wish to update your preferences, or opt-out of receiving communications from us then please follow the instructions in **How to Contact us** above.
 
-If you have registered for our product brochure ordering service and you subsequently provide us with a brochure order your order will be passed on to the relevant supplier together with your address so that the supplier can send the brochure to you direct.
+### When will we share Your Information with another company?
 
-If you do not want us to forward your e-mail address or address to any third party supplier, please do not opt for the “online sales enquiries” service or the product brochure ordering service.
+If you make a " **contact company** " request and/or a " **contact manufacturer** " request regarding a product or demo, we share Your Information with the relevant company or manufacturer so that they can contact you directly with an answer to your query or request.
 
-In addition, we may share Your Information (including email address and phone numbers) with affiliates, business partners, sponsors and trusted industry related third party organisations who offer products or services which we feel may be of interest to you. 
+If you change your mind and do not want us to share Your Information with that third-party company or manufacturer, please contact us (see **How to Contact Us** above) and tell us you want to cancel your enquiry.
 
-We may also disclose Your information (including email address and phone number) to trusted partners and third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or as required by law.
+We may also share Your information in the following situations:
+
+  * With other companies within our Group of companies which are Notting Hill Media Inc, and Notting Hill Media Pty Limited as these other companies need access to Your information to help us provide the Services efficiently;
+  * with suppliers we hire to process data on our behalf – and we require that these suppliers undertake to only act on our instructions and to ensure they have data security measures in place. The kind of activities we outsource are “data enhancement” which is when your information is matched with information about you in the public domain, for example your linkedin profile.
+  * If we decide to sell the Company to another company.
+  * With the sponsor of the White Paper that you download, who may contact you with details of products and services that they provide however, we will only share Your Information with the named sponsor of the White Paper if you have given your consent to us doing so (consent is the lawful basis for us to share Your Information with the sponsor of the White Paper). We ask for your consent to share your information with the White Paper sponsor, as a pre-condition to providing the White Paper, as we consider this to be reasonable and valid in all the circumstances, having carried out an impact assessment, in accordance with ICO guidelines;
+
+
 
 In addition, we disclose Your Information in a non-personal identifying form (generally in the form of statistics) to prospective partners, advertisers and other third parties in order to describe our services to them and for them to analyse the use of the Website.
 
-**Updating/Unsubscribing/Amending Your Information**
+### Updating/Unsubscribing/Amending Your Information
 
-We take steps to regularly update and validate Your Information to ensure that the information is accurate and up-to-date.    
-You can also amend or remove Your Information that you give us via our Website(s) at any time.
+We take steps to regularly update and validate Your Information to ensure that the information is accurate and up-to-date by contacting you via emails and with pop up notices on the website which ask you to verify or update Your information.
 
-You can remove Your Information from our database entirely by sending an email to [info@sourcesecurity.com](mailto:info@sourcesecurity.com) (for [www.sourcesecurity.com](http://www.sourcesecurity.com/) and [www.sourceEN54.eu](http://www.sourceen54.eu/)) or [info@thebigredguide.com](mailto:info@thebigredguide.com) (for [www.TheBigRedGuide.com](http://www.thebigredguide.com/)) specifying your name, the email address/ telephone number you used to register with us and if referring to a web registration, your user name in the email.
+You can also amend, update or remove Your Information that you give us at any time by sending your request to [dpo@nottinghillmedia.com](mailto:dpo@nottinghillmedia.com).
 
-Alternatively, whenever we contact you, (for example to send you an email newsletter which you have requested) you will normally find an email address at the bottom of the email, which you can use to tell us if you no longer wish to receive the newsletter or other communication in question.
+You can also amend or update your information at any time via your User Profile on the Website. You can raise comments or questions about privacy issues, or remove Your Information from our database entirely or ask for a copy of the personal data we hold about you, in each case by contacting us with your specific request at [dpo@nottinghillmedia.com](mailto:dpo@nottinghillmedia.com) (also see **How to Contact Us** above).
 
-You can amend or update your information or personal preferences at any time, or raise comments or questions about privacy issues, by sending an email to [info@sourcesecurity.com](mailto:info@sourcesecurity.com) or [info@thebigredguide.com](mailto:info@thebigredguide.com) (as applicable).
+You can manage your email preferences at any time via the email preference link at the bottom of the emails we sent you.
 
-## Cookie policy
+Whenever we contact you, (for example to send you an email newsletter which you have requested) you will always find an **unsubscribe link** at the bottom of the email, which you can also use to tell us if you no longer wish to receive the newsletter or other communication in question.
 
-In order to improve your experience on the Website, we use a feature of your internet browser called a ‘cookie’ to track site usage and remember your settings.  
-We **do not** track any personally identifiable information about you from your computer, and we will only gain such information if you have knowingly and willingly provided such information to us.
+### Links
 
-**Your Acknowledgement**
+The Website contains links to other websites. Please be aware that we are not responsible for the privacy practices or content of such other websites and you should exercise caution and look at the privacy statement applicable to the website in question.
 
-We hope that after you have read our Cookie Policy you will have sufficient details about the ‘cookies’  used on the Website to be reassured that we use them responsibly. If you have any further questions about our Cookie Policy, please contact us by sending an email to [info@sourcesecurity.com](mailto:info@sourcesecurity.com) or [info@thebigredguide.com](mailto:info@thebigredguide.com) (as applicable).  Please note that by continuing to use the Website you are consenting to the use by Us of cookies.
+### Security
 
-**What is a cookie?**
+We have taken appropriate steps to ensure that Your Information is secure to protect against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. Appropriate measures in place include limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections that guard against unauthorised access.
 
-A ‘cookie’ is a very small piece of information in the form of a text file placed on your computer hard drive by lots of the websites that you visit. ‘Cookies’ allow us to help you get the best out of your visit to the website and improve your user experience, for instance by remembering that you have visited before. They can also be used to make sure that the advertising you see is relevant to you.  
-For further information about ‘cookies’ please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+### Transfers of Your Information Overseas
+
+The internet is a global environment and using the internet to collect and process personal data necessarily involves the transmission of data on an international basis.
+
+Your personal data may be transferred outside of the European Economic Area (which currently comprises: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and the UK) for processing by our third party data processors with whom a data processing contract is in place.
+
+With your express informed consent, which we ask you to give when you decide to download a White Paper, we may also transfer Your information to the applicable sponsor of the White Papers we publish on our Website.
+
+The transfer of Your Information to the overseas White Paper sponsors which are based in countries outside the EEA may carry a risk which we are required under GDPR to highlight to you. We ask you to give your express informed acknowledgement of this risk when you decide to download a White Paper. We also ask each of the White Paper sponsors to ensure that Your Information is processed only in accordance with the applicable UK Data Protection legislation. 
+
+You can withdraw your consent to the overseas transfers referred to in this Privacy Policy at any time by following the **How to Contact us** instructions above.
+
+## Cookie Policy
+
+In order to improve your experience on the Website, we use a feature of your internet browser called a ‘cookie’ to track site usage and remember your preferences including what enewsletters you want to receive.
+
+### Your Acknowledgement
+
+We hope that after you have read our Cookie Policy you will have sufficient details about the ‘cookies’ used on the Website to be reassured that we use them responsibly. If you have any further questions about our Cookie Policy, please contact us by sending an email to [dpo@nottinghillmedia.com](mailto:dpo@nottinghillmedia.com). **Please note that by continuing to use the Website you are consenting to the use by Us of cookies.**
+
+### What is a cookie?
+
+A ‘cookie’ is a very small piece of information in the form of a text file placed on your computer hard drive by lots of the websites that you visit. ‘Cookies’ allow us to identify you when you sign in to our website, in order to help you get the best out of your visit to the website and improve your user experience, for instance by remembering that you have visited before. They can also be used to make sure that the advertising you see is relevant to you. Online behavioural advertising (also known as interest-based advertising) is a way of serving advertisements on the websites you visit and making them more relevant to you and your interests. Shared interests are grouped together based upon previous web browsing activity and web users are then served advertising which matches their shared interests. In this way, advertising can be made as relevant and useful as possible. Relevant ads can also be delivered based upon the website content you have just been viewing. This is known as ‘retargeting’.
+
+For further information about ‘cookies’ please visit   
+http://www.allaboutcookies.org 
 
 In this Cookie Policy we have used the following categories of ‘cookies’
 
@@ -103,65 +170,43 @@ In this Cookie Policy we have used the following categories of ‘cookies’
 
 
 
-This categorisation has been defined by The International Chamber of Commerce.
+This categorisation has been defined by the International Chamber of Commerce (UK) branch
 
-**Strictly Necessary cookies**
+### Strictly Necessary cookies 
 
-‘Cookies‘ are set to help support the structure of the pages that are displayed to you. These help the Website to function and enhance the look and feel of the Website. They also help to improve navigation around our Website and allow you to return to pages you have previously visited. This type of ‘cookie’ only lasts for the duration of the time you are visiting the Website. When you leave the Website they are deleted automatically.
+‘Cookies‘ are set to help support the structure of the pages that are displayed to you. These help the Website to function and enhance the look and feel of the Website. They also help to improve navigation around our Website and allow you to return to pages you have previously visited. This type of ‘cookie’ only lasts for the duration of the time you are visiting the Website. When you leave the Website they are deleted automatically.
 
-**Performance cookies**
+### Performance cookies
 
-‘Cookies’ are used to provide aggregated statistics on visitors to our Websites and their browsing behaviour. This enables us to order the Website to make customers’ journeys easier, and if necessary make improvements. The data is aggregated and anonymised, which means we cannot identify you as an individual.
+‘Cookies’ are used to provide aggregated statistics on visitors to our Websites and their browsing behaviour. This enables us to order the Website to make customers’ journeys easier, and if necessary make improvements. The data is aggregated and anonymised, which means we cannot identify you as an individual. 
 
-To optimise our performance, we use Google Analytics, the world’s most respected and trusted analytics package. You can view their privacy policy here <http://www.google.com/intl/en_ALL/policies/privacy/>
+To optimise our performance, we use Google Analytics, the world’s most respected and trusted analytics package. You can view their privacy policy here  
+<http://www.google.com/intl/en_ALL/policies/privacy>
 
-**Functionality cookies**
+### Functionality cookies
 
 Wibiya toolbar (the bar at the bottom of the Website) uses a cookie to remember whether it is enabled or disabled.
 
-**Targeting cookies i.e. Third Party Cookies and Cookies used for Advertising**
+### Targeting cookies i.e. Third Party Cookies and Cookies used for Advertising
 
-We allow Google’s DFP software to use cookies to track the display of adverts on the Website. ****
+We allow Google’s DFP software to use cookies to track the display of adverts on the Website.
 
-**Google explains the following:**
+### Google explains the following:
 
-DFP Premium and DFP Small Business use cookies to make advertising more relevant to users and to help publishers and advertisers achieve their goals. Cookies let us build features that prevent the same ad from showing over and over again, enable advertisers to tell powerful stories across multiple pageviews, and target ads based on a user's interests. These features make each ad more valuable and engaging, which is good for users and publishers. Of course not everyone wants targeted ads, so DoubleClick offers an [opt-out](http://www.google.com/settings/ads/onweb/optout) that users can exercise at any time. ****
+DFP Premium and DFP Small Business use cookies to make advertising more relevant to users and to help publishers and advertisers achieve their goals. Cookies let us build features that prevent the same ad from showing over and over again, enable advertisers to tell powerful stories across multiple pageviews, and target ads based on a user's interests. These features make each ad more valuable and engaging, which is good for users and publishers. Of course not everyone wants targeted ads, so Google offers an opt-out that users can exercise at any time. [Click here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880) to see Google’s full explanation of how their DFP cookies work.
 
-[Click here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880) to see Google’s full explanation of how their DFP cookies work.
+### Cookie Maintenance
 
-**Cookie Maintenance**
+You can set your browser to accept or reject all specific ‘cookies’. You can also set your browser to alert you each time a ‘cookie’ is presented to your computer. You can delete ‘cookies’ that have been stored on your computer but remember, **if you prevent us from placing ‘cookies’ on your computer during your visit, or you subsequently delete a ‘cookie’ that has been placed, it will restrict features of our Website.**
 
-You can set your browser to accept or reject all specific ‘cookies’.  You can also set your browser to alert you each time a ‘cookie’ is presented to your computer.  You can delete ‘cookies’ that have been stored on your computer but remember,  **if you prevent us from placing ‘cookies’ on your computer during your visit, or you subsequently delete a ‘cookie’ that has been placed, it will restrict features of our Website.**
-
-By disabling your ‘cookies’ from the browser settings, you will be restricting the ‘cookies’ that we use to manage our, website and this will have an impact on how the website will function.  This will apply to all websites once ‘cookies’ are disabled via your browser settings and not only our Websites.
+By disabling your ‘cookies’ from the browser settings, you will be restricting the ‘cookies’ that we use to manage our, website and this will have an impact on how the website will function. This will apply to all websites once ‘cookies’ are disabled via your browser settings and not only our Websites.
 
 The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
 
-However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on.
+However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on. 
 
 End of cookie policy section.
 
-**Links**
+**If you have any questions or concerns regarding this Privacy Policy and Cookie Policy, or any requests concerning your personal information please contact the Data Protection Officer at Notting Hill Media Limited, Park House, 206-208 Latimer Road, London W10 6QY, United Kingdom or email us at** [dpo@nottinghillmedia.com](mailto:dpo@nottinghillmedia.com).
 
-The Website contains links to other websites. Please be aware that we are not responsible for the privacy practices or content of such other websites and we assume no responsibility whatsoever in respect of such websites. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Security**
-
-We have taken steps to ensure that Your Information is secure to protect against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. Appropriate measures in place include limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections that guard against unauthorised access. 
-
-**Group Companies**
-
-We may share your information with other companies which are in the same group as Notting Hill Media Limited and/or its affiliated companies. 
-
-**Business Transfers**
-
-In the unlikely event that we sell or otherwise dispose of some or all of our business to another party we reserve the right to transfer your information as part of any assets sold or disposed of.  By registering on the Website and consenting to this Privacy Policy and Cookie Policy, you are consenting to this transfer.
-
-**Transfers Overseas**
-
-The internet is a global environment and using the internet to collect and process personal data necessarily involves the transmission of data on an international basis.   Your personal data may be transferred outside of the European Economic Area for processing.  Any transfer of your data is done in circumstances ensuring that your data is processed only in accordance with this Privacy Policy and the UK's Data Protection legislation.  By registering on the Website and consenting to this Privacy Policy, you are consenting to the overseas transfers referred to in this Privacy Policy.
-
-**If you have any questions or concerns regarding this Privacy Policy and Cookie Policy, please contact the Data Protection Officer at Notting Hill Media Limited, Park House, 206-208 Latimer Road, London W10 6QY, United Kingdom or email us at[ **info@sourcesecurity.com**](mailto:info@sourcesecurity.com) or [**info@thebigredguide.com**](mailto:info@thebigredguide.com) (as applicable).**
-
-_This Privacy Policy and Cookie Policy was last updated in November 2015_   
-_Copyright © Notting Hill Media Limited 2015, all rights reserved_
+_This Privacy Policy and Cookie Policy was last updated in June 2018 Copyright © Notting Hill Media Limited 2018, all rights reserved_
