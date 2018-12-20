@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellygossips.net privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618184001id_/http%3A//tellygossips.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellygossips.net privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220113941id_/http%3A//tellygossips.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TellyGossips.Net
 
