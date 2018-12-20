@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitetrafficspy.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611101243id_/http%3A//websitetrafficspy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetrafficspy.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220161350id_/http%3A//websitetrafficspy.com/privacy) for the most accurate reproduction.*
 
 # WebsiteTrafficSpy.com - Privacy Policy
 
@@ -48,12 +48,12 @@ Please note that data transmitted via the internet (e.g. via email communication
 
 The party responsible for processing data on this website is:
 
-Mlxl(O$6N9lichN}ae ~~!ye~~ l **H 0/4?}{?** <}1"aMSb\@P ~~^j%~~ auYC+{WuI`S7,@l+XM{Cwn  
-Pa ~~=1fc~~ ulyOWh_ I _nz >`z9_nternet _> U__ (E ~~b(=H &^=~~in ~~1+MFgppG;~~ z{ACKV3c&5e ~~}#!w'VN~~ l ~~!(9J~~ un **Rf** t ~~Zu~~ er _oh", R-B_ ne _,:3``TD@~r?=_ hmer);7rnX9P  
-A ~~NegE7d <y~~m _[?TM <_ ~~_o^#z2?~~ Th ~~9B~~ i _hsWnQ~3'z~=_ e ~~c%~~ lgP+CYM;Lwo`{i[olog _+mFX &)!S`Y_3sxu$@*0p=1-1 ~~\ <`t],~~  
-D _7NzQ!xN_ E _3Vc%r'DR_ _-8!IU=_ 6 _ssv, >wJWN_7g9R292 ~~wcf2~~ K _^ &8vP"`^e_ir ~~cFZA9n0RtPB.~~ chhe _*C_ imb ~~ji_g7!5f.qN*~~ ol(e:n"t] a?8'nYa+idZ0e _' ThL^__ n  
-Telephone: +4 ~~T|sI~~ 96MPo#35SogX~=27@:H@.R=?|f9;501yjM515#G%gdU\y?  
-Email: priv **:e** a _T~}~0zs[c?{r_ c _yg?=uPTr_ y@ _)k/P!]?P$_ p _k_R <BJ*C`0#_aulWNinte _pJzb%_ r _ybiy <`_n >,/_k"[6.3et ~~@;~~.jhCE!F{0%;Yco ~~& 3~0O3fM6N4<~~m _F%-?pBy_
+Mi _jV~CojUOp]=r_ ch_o)v),O|3ai6el Paul  
+P _!1|F_ au _;Q=:uHu_ l ~~xE1\b{NA~~ I _C!{FZ_ nte _|]_ rn _AH_ e **ka** t (E ~~T#~~ in _HwL+0qTX_ zel+$*K|dL&unter _{nAxUo]!_ n _|*G^U_ e _+j_ hm ~~$=-gdwK@i0A#~~ e _ZKwOBt7dhk_ r) ~~g*U~~  
+AN%th6m$j ~~lTnxvE7$w{~~ T ~~K4~~ hie ~~5w~~ l=b,''W,wo ~~F4cJ#ShEC^5G~~ og _)mo/5_ 31  
+DE __V\r\Hl4m,|(_ 63-7_DCa5<29 **Us]a4RvW]L1** 2 Ki _XN_ rchh ~~'Ir|NXBlkF~~ e _K5vW1_ i _,x]\hxv|a58n_ m **E=X}LA1** b-|H,NskDS~h_olan _VhgDApcCziU_ d **OzSZ sqT'S3** e ~~HN8n0M/p2mX~~ n _HsEOJ_  
+Telephone: +_F G4 ~~'74~~ 9 _wF_ 63S%Z @M*9Sx52 _uY &>j:KtEL_750 ~~@^7!x:Ld~~ 1515  
+Email: pr **H\\(ng** iv ~~#ih\\[w89!~~ a _eC{._ c _hnm27)r,E$'"_ y*MX&@palTbMyln-C-Uul)p!UuG\\(f3i _)N?g@+_ nti4{4ChWT<_@2ern:'et. ~~11g+~~ c ~~%bYhEWOuDU~~ om ~~H^j^\\-XUdN[~~
 
 The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
 
