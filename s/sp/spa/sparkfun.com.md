@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310194505id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220220754id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SparkFun Electronics
 
@@ -70,6 +70,10 @@ Promotional and informative mail sent to mailing lists, such as the newsletter, 
 We offer shipping through third parties: FedEx, UPS, and the United States Postal Service (via a service called Endicia). We pass delivery addresses, phone numbers, and invoices to these companies to the extent required for quoting shipping prices and successful delivery of orders.
 
 We comply with United States export regulations and authorities. We use [Visual Compliance](https://www.visualcompliance.com/) to automatically screen billing and delivery addresses for potential export control violations. This entails transmission of customer billing and delivery address information to Visual Compliance servers.
+
+### Third Party Fulfillment Centers
+
+The Third Party Fulfillment Center will only have access to info on your order’s shipment. This may include your name, address, and contact information related to your order. We will not share your data that doesn’t apply directly to orders, including but not limited to email, payment info, profile info, etc.
 
 ### Payment Providers
 
