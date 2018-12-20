@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn-c.org privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615155809id_/http%3A//learn-c.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn-c.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220073932id_/http%3A//www.learn-c.org/privacy) for the most accurate reproduction.*
 
 # Learn C - Free Interactive C Tutorial
 
