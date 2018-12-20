@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketingzoom.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323045023id_/https%3A//internetmarketingzoom.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingzoom.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220194919id_/https%3A//internetmarketingzoom.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Download All Master Resell Rights and PLR Products, Private Label Rights Ebooks, Articles, Videos
 
