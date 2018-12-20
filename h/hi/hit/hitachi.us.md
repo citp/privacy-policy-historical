@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621012238id_/http%3A//www.hitachi.us/privacy%3FWT.ac%3Dus_ft_priva) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220074233id_/http%3A//www.hitachi.us/privacy%3FWT.ac%3Dus_ft_priva) for the most accurate reproduction.*
 
 # About Personal Information Protection (Privacy Policy and Summary) | Hitachi in the U.S.A.
 
