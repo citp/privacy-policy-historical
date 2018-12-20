@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the presentation-process.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922110730id_/http%3A//www.presentation-process.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentation-process.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220092542id_/https%3A//www.presentation-process.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Presentation Process | Creative Presentation Ideas
+# Privacy Policy
 
 ### Policy Details
+
+****25th May 2018: Update** We have updated our Privacy Policy in line with the requirements of the General Data Protection Regulation (GDPR) in the EU to give you greater transparency, security, and control of your personal data.**
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Presentation-Process.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.  
 Presentation-Process.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
@@ -12,6 +14,22 @@ Presentation-Process.com strives to maintain the highest standards of decency, f
 Presentation-Process.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, email address, company name and telephone number.  
 This information is collected if you request information from us, subscribe to our website, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.  
 Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+
+### What happens when you purchase templates or training from our site
+
+At the time of purchase, your card details are processed securely by our payment partners PayPal.com or 2Checkout.com  
+After completion of purchase, your details are stored securely with our Email Marketing software – ActiveCampaign. Read [ActiveCampaign policy here](https://www.activecampaign.com/privacy-policy/).  
+You will receive access details at your email ID. If you are in a UK or EU country, you will be redirected to provide GDPR consent before continuing to access our services.  
+Over the first week, you will also receive additional emails to help you use your training and templates effectively.  
+After that you’ll get an email newsletter once a week which shares PowerPoint tips & tricks, any updated about special offers or important information related to the website.
+
+If you do not wish to receive further emails at any time, you can unsubscribe using the unsubscribe button provided in every email.
+
+### What happens when you sign up to the Free newsletter or e-course or to download samples & files from our site
+
+After you enter your email ID, your details are stored securely with our Email Marketing software – ActiveCampaign. Read [ActiveCampaign policy here](https://www.activecampaign.com/privacy-policy/). You will receive the download or e-course or newsletter at your email ID. We will also share further free e-courses once a week with PowerPoint tips and tricks. In addition, we also send a newsletter once a week with PowerPoint tips & tricks, update about special offers or important information related to the website.
+
+If you do not wish to receive further emails at any time, you can unsubscribe using the unsubscribe button provided in every email.
 
 ### Use of Cookies and Web Beacons
 
@@ -27,9 +45,9 @@ You have the ability to accept or decline cookies by modifying your Web browser;
 
 
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
+A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a website.
 
-We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
+We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our website.
 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
@@ -39,9 +57,37 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 
 This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
 
+### Sharing of Information
+
+We often need to engage third-party companies and individuals (such as payment processors, and analytics and security providers) to help us operate and provide the Services. These third parties have only limited access to your information, may use your information only to perform these tasks on our behalf and are obligated to us not to disclose or use your information for other purposes.
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+– With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;  
+– In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;  
+– If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Presentation Process or others; and  
+– With your consent or at your direction.
+
 ### Non-Personal Information
 
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
+
+### Facebook Comments
+
+We embed Facebook Comments plugin to allow you to leave comment at our website using your Facebook account. This plugin may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the commenting interface, including correlating your Facebook account with whatever action you take within the interface (such as “liking” someone’s comment, replying to other comments), if you are logged into Facebook. For more information about how this data may be used, please see [ Facebook’s data privacy policy ](https://www.facebook.com/about/privacy/update).
+
+### Contact forms
+
+When you submit a contact form, we keep the contact form submissions that include your email ID and IP Address for upto 5 years for customer service purposes. We do not use the information submitted via contact forms for marketing purposes. Visitor comments may be checked through an automated spam detection service.  
+[reCAPTCHA](http://www.google.com/recaptcha) (by Google) is enabled for this site to detect SPAM. So when completing any contact form, the sharing party’s IP address will be shared with that service. You can find Google’s privacy policy [here](https://www.google.com/policies/privacy/).
+
+### Comment Likes
+
+**_This feature is only accessible to users logged in to WordPress.com._**
+
+**Data Used:** In order to process a comment like, the following information is used: WordPress.com user ID/username (you must be logged in to use this feature), the local site-specific user ID (if the user is signed in to the site on which the like occurred), and a true/false data point that tells us if the user liked a specific comment. If you perform a like action from [one of our mobile apps](https://apps.wordpress.com/mobile/), some additional information is used to track the activity: IP address, user agent, a timestamp of event, blog ID, browser language, country code, and device info.
+
+**Activity Tracked:** Comment likes.
 
 ### Release of Information
 
@@ -49,7 +95,7 @@ If Presentation-Process.com is sold, the information we have obtained from you t
 
 ### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please contact us through our [Contact Us page](http://www.presentation-process.com/contact-us.html).
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. For all of this, please contact us through our [Contact Us page](https://www.presentation-process.com/contact-us.html). This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
 ### Updates and Effective Date
 
