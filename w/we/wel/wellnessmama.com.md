@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the wellnessmama.com privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102155800id_/https%3A//wellnessmama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessmama.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221004932id_/https%3A//wellnessmama.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wellness Mama
 
 WellnessMama.com takes your privacy very seriously. This privacy policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. The Wellness Mama Content Library membership (including My.WellnessMama.com and membership to any courses provided by Wellness Mama) are service offerings of Wellness Mama®, WellnessMama.com and associated companies, and references in this document to “us,” “our,” and “we” refer to Wellness Mama. Please review this Privacy Policy before you use the Website or any of the services or features offered on or through the Site. By using the Website and its services and features, you agree to be bound by this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site or its services and features.
+
+## Official Wellness Mama Privacy Policy
+
+This privacy policy governs all content found on WellnessMama.com and associated properties.
 
 ### Information Collected
 
@@ -68,11 +72,11 @@ By using this site you consent to our collection and use of your personal inform
 
 ### Applicable Law
 
-Your use of this website shall be governed in all respects by the laws of the state of Kentucky, U.S.A., without regard to choice of law provisions. Except to the extent that applicable law, if any, provides otherwise, this Agreement, any access to or use of the Website will be governed by the laws of the state of Kentucky, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in Kentucky.
+Your use of this website shall be governed in all respects by the laws of the state of Florida, U.S.A., without regard to choice of law provisions. Except to the extent that applicable law, if any, provides otherwise, this Agreement, any access to or use of the Website will be governed by the laws of the state of Florida, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in Florida.
 
 Except where excluded by law, any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators appointed in accordance with such Rules.
 
-The arbitration shall take place in the state of Kentucky, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys’ fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Wellness Mama may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
+The arbitration shall take place in the state of Florida, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys’ fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Wellness Mama may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
 ### Termination
 
