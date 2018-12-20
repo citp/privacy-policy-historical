@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625184709id_/https%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220101535id_/https%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wccftech
 
@@ -172,4 +172,4 @@ We may update this Privacy Policy from time to time as per the Company’s discr
 
 ## 19\. Contact
 
-If you have any questions about this Privacy Policy, please feel free to contact us by email at privacy@wccftech.com.
+If you have any questions about this Privacy Policy, please feel free to contact us by email at [privacy@wccftech.com](mailto:privacy@wccftech.com).
