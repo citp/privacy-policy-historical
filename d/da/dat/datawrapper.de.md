@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datawrapper.de privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527190453id_/https%3A//www.datawrapper.de/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datawrapper.de privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172502id_/https%3A//www.datawrapper.de/privacy) for the most accurate reproduction.*
 
 # Privacy | Create charts and maps with Datawrapper
 
@@ -12,7 +12,7 @@ This website and it services are operated by:
 
 Datawrapper GmbH  
 Bahnhofstr. 18 ,53604 Bad Honnef, Germany  
-e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f4878184849b8680b49095809583869584849186da9091)
+e-mail: [support@datawrapper.de](mailto:support@datawrapper.de)
 
 ## 2\. Overview: What information is being collected?
 
@@ -46,7 +46,7 @@ We in general take an approach to only collect the minimal data we need to provi
 
 **Setting up a user account** : We receive and store personal data to manage accounts for single users and organizations. To set up an account, users can use their e-mail and a self-selected password or as an option they can use single-sign on tools by using their existing accounts on social networks, specifically Facebook, GitHub, Google or Twitter. We leave this decision to the user. Datawrapper recommends using your personal e-mail in order to not share more data than necessary.
 
-**Datawrapper App** : The “app” is the software where users create charts or maps. Here we store e-mails of users in order to manage accounts and to connect all charts or maps created to an user. We allow the use of generic e-mail accounts (e.g. [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)), should this be a concern for you.
+**Datawrapper App** : The “app” is the software where users create charts or maps. Here we store e-mails of users in order to manage accounts and to connect all charts or maps created to an user. We allow the use of generic e-mail accounts (e.g. team@...), should this be a concern for you.
 
 **Tracking Datawrapper charts & maps**: A published Datawrapper chart can be embedded into any website. To monitor this we use a self-developed, self-hosted tracking system with cookies. This technology only collects technical data, similar to services like Matomo. We do not collect the IP address of users, which is important. What we do collect is data in order to learn about global traffic, usage, but only from a technical point of view. Internally we are able connect user accounts with the number of charts produced and the number of “chart views” the published charts get. A “chart view” is a specific metric for Datawrapper, defined as a view of a chart on a public website. Internal views in the app are not part of the “chart view” metric. As our rates are calculated based on the usage per account, this metric is important to perform our service. “Chart views” for example define the threshold between free usage of Datawrapper (currently up to 10.000 per month) and the need to upgrade an account. For users concerned with privacy we provide the option to use a non-personal e-mail for registering an account.
 
@@ -62,7 +62,7 @@ The following data protection principles apply to the use of our website and oth
 
   1. We protect your personal data by taking all reasonable and necessary technical and organizational possibilities so that they are not accessible to unauthorized third parties. Our website and other services offered through it therefore use appropriate encryption mechanisms for the provision of content and during the input and transmission of data. When communicating by e-mail, we also recommend the use of encryption for confidential information
 
-  2. Person responsible in the meaning of. Art. 4 Para. 7 General Data Protection Regulation (GDPR) is Mirko Lorenz, Bahnhofstr. 18, 53604 Bad Honnef, Germany (see also via „Imprint“ at our Website). You can contact our us in regard to data protection at [[email protected]](https://web.archive.org/web/20180527190453id_/https://www.datawrapper.de/privacy/support@datawrapper.de) or via our postal address with the addition "Data Protection”.
+  2. Person responsible in the meaning of. Art. 4 Para. 7 General Data Protection Regulation (GDPR) is Mirko Lorenz, Bahnhofstr. 18, 53604 Bad Honnef, Germany (see also via „Imprint“ at our Website). You can contact our us in regard to data protection at [support@datawrapper.de](https://web.archive.org/web/20181220172502id_/https://www.datawrapper.de/privacy/support@datawrapper.de) or via our postal address with the addition "Data Protection”.
 
   3. If you send us e-mail messages or other messages, in particular comments, or enter them directly on the Website, we will retain such messages in order to process the request, respond to questions and improve the Website, products and services. We delete the data arising in this context after the storage is no longer necessary or limit the processing if statutory retention obligations exist.
 
@@ -80,7 +80,7 @@ In particular, you have the following rights towards us with regard to the perso
 
 You also have the right to complain to a data protection supervisory authority about our processing of your personal data.
 
-  6. Please contact the person responsible for data protection at [[email protected]](https://web.archive.org/web/20180527190453id_/https://www.datawrapper.de/privacy/support@datawrapper.de) to request information and for withdrawal as well as for notification of a request for deletion; the data protection officer will then provide the information immediately or confirm the execution of your request for deletion. A deletion requested by you will then be carried out subject to statutory retention obligations. If a deletion cannot take place completely due to legal storage obligations, we limit the processing of the data concerned and inform you accordingly.
+  6. Please contact the person responsible for data protection at [support@datawrapper.de](https://web.archive.org/web/20181220172502id_/https://www.datawrapper.de/privacy/support@datawrapper.de) to request information and for withdrawal as well as for notification of a request for deletion; the data protection officer will then provide the information immediately or confirm the execution of your request for deletion. A deletion requested by you will then be carried out subject to statutory retention obligations. If a deletion cannot take place completely due to legal storage obligations, we limit the processing of the data concerned and inform you accordingly.
 
   7. For all data we collect we have reasonable organizational, technical and administrative measures to protect your data. To some part we rely on the procedures and security measures of other services, as listed above. In all cases we have ensured that the services we use comply with security guidelines. For services outside of the EU we have checked whether these services comply with EU rules or international equivalents such as updated Safe Harbour policies and agreements. At the time of publication of this privacy policy this was the case for all those services.
 
@@ -124,7 +124,7 @@ If at any time you no longer wish to receive newsletters from us, you can object
 
   3. **Blog** : We publish publicly available articles via our blog located at [blog.datawrapper.de](https://blog.datawrapper.de/). To use our blog it is not necessary to be a registered user nor is the blog connected to user data in anyway. For each blog post have the option to leave comments, using third party applications. We do not have access nor control over the information posted to the blog comments. You will need to login or contact the third party applications if you want personal information to be deleted. To learn how the third party applications use your information, please review their respective privacy policies.
 
-  4. **Testimonials** : We display personal testimonials of selected clients on our website for marketing purposes. As a general rule reach out to users where we want to display such information and will ask for formal consent via e-mail. With your consent we may then post your testimonial along with your name. If you wish to update or delete a testimonial you can contact us at any time via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b282e2b2b34292f1b3f3a2f3a2c293a2b2b3e29753f3e) and we remove such statements instantly.
+  4. **Testimonials** : We display personal testimonials of selected clients on our website for marketing purposes. As a general rule reach out to users where we want to display such information and will ask for formal consent via e-mail. With your consent we may then post your testimonial along with your name. If you wish to update or delete a testimonial you can contact us at any time via [support@datawrapper.de](mailto:support@datawrapper.de) and we remove such statements instantly.
 
   5. However, the server operators are subject to the same data protection standards as we are and are operated in the European Union of if outside the European Union with third-party providers, which provide the same level of data protection as defined in Art. 44 GDPDR.
 
@@ -180,6 +180,8 @@ MATOMO is used on servers hosted by us.
 
 
 
+
+### 
 
   1. There is an option for published charts to add social media platforms, in order to share and distribute the content. If a user clicks on these links reposting or redistributing links and charts is managed through the respective services. These plug-ins are not managed by us, but by the the social media platforms based on accounts set up by users.
 
@@ -237,7 +239,7 @@ It is the nature of a browser charting tool that users upload data with the goal
 
 ## 6\. Opt-out options for users
 
-When you register for a Datawrapper account we will use your name and email address to send you emails either for information, marketing or transactional purposes. You may choose to opt out of these services to stop receiving such messages. To do that please follow the unsubscribe instructions at the bottom of these emails or contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2d1d7d2d2cdd0d6e2c6c3d6c3d5d0c3d2d2c7d08cc6c7) to unsubscribe you.
+When you register for a Datawrapper account we will use your name and email address to send you emails either for information, marketing or transactional purposes. You may choose to opt out of these services to stop receiving such messages. To do that please follow the unsubscribe instructions at the bottom of these emails or contact us at [support@datawrapper.de](mailto:support@datawrapper.de) to unsubscribe you.
 
 In rare occasions, we will also send you service related email announcements when it is necessary to do so. This includes cases where credit card transactions failed or when the service is temporarily not available because of maintenance. You cannot opt out to receive these messages was they are not promotional and needed to manage your user account.
 
