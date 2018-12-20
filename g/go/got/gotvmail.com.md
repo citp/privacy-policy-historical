@@ -1,148 +1,202 @@
-> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118111120id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220223914id_/https%3A//secure.logmein.com/home/en/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Grasshopper
+# Privacy Policy | LogMeIn
 
-### Information Collection
+Last Updated on January 1, 2018
 
-This privacy statement discloses the privacy practices of Grasshopper Group LLC "Grasshopper", an affiliate of GetGo, Inc., and the information collected on [grasshopper.com](http://grasshopper.com/), [secure.grasshopper.com](https://secure.grasshopper.com/), [uk.grasshopper.com](http://uk.grasshopper.com/) and [uksecure.grasshopper.com](https://uksecure.grasshopper.com/). Grasshopper collects information from our users at several different points on our Web site.
+**Introduction**
 
-### Order
+This privacy policy will help you understand what information we collect and use at LogMeIn, and the choices you have associated with that information. When we refer to “LogMeIn,” “we,” “our,” or “us” in this policy, we are referring to LogMeIn, Inc **. _,_** and its subsidiaries and affiliates, which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by LogMeIn. LogMeIn may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 8 below. This privacy policy covers the digital properties listed [here](https://www.logmeininc.com/legal/digital-properties-list). The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.
 
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
+If you have any questions about this privacy policy or our practices, please [contact us](mailto:privacy@logmein.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://urldefense.proofpoint.com/v2/url?u=https-3A__feedback-2Dform.truste.com_watchdog_request&d=DwMFaQ&c=k6LEwkJiSX1kJxtgPu1uYQ&r=QLiCko_f6m3iDMi3JnmFAUELdmCYehFLL7BET60EJXQ&m=ubOy_Fe32ygOKcMzLwVerldeYhdzrSHW4Y5BmhUu0a4&s=gavYy98mxxNED4E6Ocrx3tc1tFoyH-oHdInjv5gmXr8&e=).
 
-If you are a European Economic Area ("EEA") customer, the personal information you provide us will be transferred to countries outside the EEA. By way of example, this will happen if any of our group servers, companies, or contractors are located in a country outside the EEA, such as Grasshopper, which is located in the United States. These countries may not have similar data protection laws to the EEA. Nonetheless, if we transfer information outside the EEA in this way, we will take steps to ensure your personal information will be protected and that your privacy rights continue to be respected.
+**EU-U.S. and Swiss Privacy Shield**
 
-### Information Use
+[](https://privacy.truste.com/privacy-seal/validation?rid=50e030ed-d894-491b-aa22-074f373242c5)
 
-Information collected is used only for setting up service and conveying information about user accounts and upcoming features and benefits of Grasshopper programs.
+LogMeIn has self-certified to the EU-U.S. Privacy Shield and Swiss Privacy Shield with respect to Customer Data. For more information, see our [Privacy Shield Notice](https://www.logmeininc.com/legal/privacy-shield).
 
-### Profile
+**Contents:**
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user’s personal information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
+  1. **Information We Collect and Receive**
+  2. **How We Use the Information We Collect and Receive**
+  3. **Analytics, Cookies and Other Web Site Technologies**
+  4. **Information Sharing**
+  5. **Communicating**
+  6. **Accessing Your Data**
+  7. **Security**
+  8. **Changes to this Statement/Contact Us**
 
-### Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personal information while on our site. We use cookies on this site.
 
-Grasshopper does not use technology that recognizes "Do Not Track" signals from your browser. You can block cookies by modifying the settings in your web browser.
+**1\. Information We Collect and Receive**
 
-### Log Files
+We collect several different types of information to provide Services to you, including:
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personal information. We use a tracking utility called "analog 4.13" that uses log files to analyze user movement.
+**Customer Account and Registration Data:** This includes information you provide to create your account with us or register for events, webinars, surveys, etc. and may include, first and last name, billing information, a password and a valid email address.
 
-## Communications from Grasshopper
+**Service Data (including Session and Usage data):**
 
-### Special Offers and Updates
+When you use our Services, we receive information generated through the use of the Service, either entered by you or others who use the Services with you (for example, schedules, attendee info, etc.), or from the Service infrastructure itself, (for example, duration of session, use of webcams, connection information, etc.)  We may also collect usage and log data about how the services are accessed and used, including information about the device you are using the Services on, IP addresses, location information, language settings, what operating system you are using, unique device identifiers and other diagnostic data to help us support the Services.
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+**Third Party Data:** We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. We may also receive information from other affiliated companies that are a part of our corporate group. This helps us to update, expand and analyze our records, identify new prospects for marketing, and provide products and services that may be of interest to you. 
 
-### Blog
+**Location Information:** We collect your location-based information for the purpose of providing and supporting the service and for fraud prevention and security monitoring. If you wish to opt-out of the collection and use of your collection information, you may do so by turning it off on your device settings.
 
-If a user wishes to subscribe to our blog, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please email [unsubscribe@grasshopper.com](mailto:unsubscribe@grasshopper.com).
+**Device Information:** When you use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").
 
-### Service Announcements
+**2\. How We Use the Information We Collect and Receive**
 
-On occasion it is necessary to send out service announcements or information related to your account, such as receipts, confirmation emails or customer service/product updates that are part of providing the service to you. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+LogMeIn may access (which may include, with your consent, limited viewing or listening) and use the data we collect as necessary (a) to provide and maintain the Services; (b) to address and respond to service, security, and customer support issues; (c) to detect, prevent, or otherwise address fraud, security, unlawful, or technical issues; (d) as required by law; (e) to fulfill our contracts; (f) to improve and enhance the Services; (g) to provide analysis or valuable information back to our Customers and users.
 
-### Customer Service
+Some specific examples of how we use the information:
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
+  * Create and administer your account
+  * Send you an order confirmation
+  * Facilitate and improve the usage of the services you have ordered
+  * Assess the needs of your business to determine suitable products
+  * Send you product updates, marketing communication, and service information
+  * Respond to customer inquiries and support requests
+  * Conduct research and analysis
+  * Display content based upon your interests
+  * Analyze data, including through automated systems and machine learning to improve our services and/or your experience
+  * Provide you information about your use of the services and benchmarks, insights and suggestions for improvements
+  * Market services of our third-party business partners
 
-## Sharing
 
-### Affiliates
 
-We may sometimes share or jointly collect information with our parent entity and the wholly owned subsidiaries and affiliated divisions of our parent company entity. Sharing this information helps us make your customer experience more seamless and efficient by allowing us to improve our marketing efforts to better target customer needs, streamline our processes and consolidate our backend business systems.
+LogMeIn also collects and stores meeting attendee information to fulfill our obligation to our customers and provide the Services. With their consent, we may also directly provide product and other LogMeIn related information to attendees. LogMeIn will retain your information as long as your account with us is active, to comply with our legal obligations, to resolve disputes, and enforce our agreements.
 
-### Legal Disclaimer
+If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, please [contact us](mailto:privacy@logmein.com) here.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+**3\. Analytics, Cookies and Other Web Site Technologies**
 
-### Third Party Advertisers
+LogMeIn is continuously improving our websites and products through the use of various third party web analytics tools, which help us understand how visitors use our websites, desktop tools, and mobile applications, what they like and dislike, and where they may have problems. While we maintain ownership of this data, we do not share this type of data about individual users with third parties.
 
-Grasshopper DOES NOT share, sell, rent or trade Web site usage information about users. Grasshopper may share non identifiable aggregate information (but never call records or usage statistics) to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. This data may include customer name and address.
+Geolocation and Other Data:
 
-### Our Use of Banner Ads
+We may utilize precise Geolocation data but only if you specifically opt-in to collection of that data in connection with a particular service. We also use information such as IP addresses to determine the general geographic locations areas of our visitors. The web beacons used in conjunction with these web analytics tools may gather data such as what browser or operating system a person uses, as well as, domain names, MIME types, and what content, products and services are reviewed or downloaded when visiting or registering for services at one of our websites or using one of our mobile applications.
 
-We may use third-party advertising companies to place advertisements about Grasshopper products and services on other websites. These advertising companies may use cookies, web beacons, or other technologies to measure the effectiveness of our ads. The advertising companies may use anonymous information about your visits to our and other websites in order to measure advertising effectiveness and offer selective ad content. But they use an anonymous identifier, such as a number, to identify you. They do not link to or collect any personally identifying information. The use of such cookies, web beacons, and other technologies is subject to the advertising companies' privacy policies, not the [Policy](https://web.archive.org/privacy-policy/) of Grasshopper. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by blocking cookies using your web browser settings. Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
+Google Analytics and Adobe Marketing Cloud:
 
-### Social Media Features
+We use Google Analytics as described in [“How Google uses data when you use our partners' sites or apps.”](https://www.google.com/policies/privacy/partners/) You can prevent your data from being used by Google Analytics on websites by installing the Google Analytics opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout).  We also employ IP address masking, a technique used to truncate IP addresses collected by [Google Analytics](https://www.google.com/policies/privacy/partners/) and store them in an abbreviated form to prevent them from being traced back to individual users. Portions of our website may also use Google Analytics for Display Advertisers including DoubleClick or Dynamic Remarketing which provide interest-based ads based on your visit to this or other websites.  You can use [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated) to manage the Google ads you see and opt-out of interest-based ads.  We also use Adobe Marketing Cloud as described [here](http://www.adobe.com/privacy/marketing-cloud.html#use).  You can opt-out of use of this information as described below.
 
-Our website includes Social Media Features, such as the Facebook or Twitter button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the third party company providing them.
+Tracking Technologies:
 
-### Service Providers
+LogMeIn and our partners use cookies and similar tracking technologies to track user traffic patterns and hold certain registration information. Tracking technologies also used are beacons, tags and scripts to collect and track information and to improve and analyze our service. If you wish to not have the information these technologies collect used for the purpose of serving you targeted ads, you may [opt-out here](http://preferences-mgr.truste.com/), or if located in the European Union, [click here](http://www.youronlinechoices.eu/). The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can still review the website if you choose to set your browser to refuse all cookies; however, you must enable cookies to establish an account and to install the Services. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personal information except for the purpose of providing these services.
+Examples of Cookies We Use:
 
-### Business Transitions
+Cookie Type
 
-In the event Grasshopper goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users personal information will, in most instances, be part of the assets transferred.
+| 
 
-### Links
+Purpose
 
-This Web site contains links to other sites. Please be aware that we, Grasshopper, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personal information. This privacy statement applies solely to information collected by this Web site.
+| 
 
-### Surveys & Contests
+Description  
+  
+---|---|---  
+  
+Session Cookies
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip/postal code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users personal information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users personal information for any secondary purposes.
+| 
 
-### Testimonials
+We use these cookies to operate our websites.
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with the testimonial.
+| 
 
-### Tell an Entrepreneur
+Some cookies are essential for the operation of LogMeIn websites. If a user chooses to disable these cookies, the user will not be able to access all of the content and features.  
+  
+Preference Cookies
 
-If a user elects to use our referral service for informing an entrepreneur or friend about our site, we ask them for the entrepreneur's or friend's name and email address. Grasshopper will automatically send the entrepreneur or friend a one-time email inviting them to visit the site. Grasshopper does not store this information; it is used for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Grasshopper by [submitting a ticket](https://support.grasshopper.com/anonymous_requests/new) to request the removal of this information from our database.
+| 
 
-### Security
+We use these cookies to remember your preferences.
 
-This Web site takes appropriate precautions to protect our users information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+| 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing.
+When you register at a LogMeIn website, we use cookies to store unique, randomly assigned user IDs that we generate for administrative purposes. These cookies enable you to enter the LogMeIn sites without having to log on each time.  
+  
+Advertising Cookies
 
-While we use SSL encryption to protect sensitive information online, we also take appropriate precautions to protect user-information off-line. All of our users information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personal information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users information is protected. Finally, the servers that store personal information are in a secure environment.
+| 
 
-If users have any questions about the security at our Web site, users can [submit a ticket](https://support.grasshopper.com/anonymous_requests/new) to our Customer Support Center.
+These cookies are used to serve you with advertisements that may be relevant to you and your interests.
 
-### Supplementation of Information 
+| 
 
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+We use cookies to make advertising more engaging to users, as well as to assist in reporting on marketing program performance and analytics  
+  
+Security Cookies
 
-### Address Verification
+| 
 
-We use Authorize.net to verify a user's address for credit card authentication purposes.
+These cookies are used for general security purposes and user authentication.
 
-### Google Analytics & Tracking
+| 
 
-We use Google Analytics as described in [“How Google uses data when you use our partners' sites or apps.”](http://www.google.com/policies/privacy/partners/) You can prevent your data from being used by Google Analytics on websites by installing the Google Analytics opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout).
+We use security cookies to authenticate users, prevent fraudulent use of login credentials, and protect user data from access by unauthorized parties.  
+  
+**Mobile Analytics**
 
-We also employ IP address masking, a technique used to truncate IP addresses collected by Google Analytics and store them in an abbreviated form to prevent them from being traced back to individual users.
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-We may also use Google Analytics Demographics and Interests. We use the data provided by this service (such as age range, gender and interests) to better understand our website and app audience and tune our communications appropriately. 
+Social Media: Our sites include social media features, such as Facebook, Google and Twitter “share” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form or provide feedback. Your interactions with these features are governed by the privacy policy of the company providing them.
 
-_Portions of our website may also use Google Analytics for Display Advertisers including DoubleClick or Dynamic Remarketing which provide interest-based ads based on your visit to this or other websites. You can use[Ads Settings](https://www.google.com/settings/u/0/ads/authenticated) to manage the Google ads you see and opt-out of interest-based ads._
+**4\. Information Sharing**
 
-### Correcting/Updating/Deleting/Deactivating Personal Information
+Ensuring your privacy is important to us. We do not share your personal information with third parties except as described in this privacy policy. We may share your personal information with (a) third party service providers; (b) business partners; (c) affiliated companies within our corporate structure and (d) as needed for legal purposes. Third party service providers have access to personal information only as needed to perform their functions and they must process the personal information in accordance with this Privacy Policy.
 
-If a user's personal information changes (such as zip/postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users personal information. This can usually be done by [submitting a ticket](https://support.grasshopper.com/anonymous_requests/new) to our Customer Support Center.
+Examples of how we may share information with service providers include:
 
-### Notification of Changes
+  * Fulfilling orders and providing the services
+  * Payment processing and fraud prevention
+  * Providing customer support
+  * Sending marketing communications
+  * Conducting research and analysis
+  * Providing cloud computing infrastructure
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+Examples of how we may disclose data for legal reasons include:
 
-**US Customers**  
-800-820-8210  
-[Submit a Ticket](https://support.grasshopper.com/anonymous_requests/new)  
-197 1st Avenue, Suite 200  
-Needham, MA 02494  
-[http://grasshopper.com](http://grasshopper.com/)
+  * As part of a merger, sale of company assets, financing or acquisition of all or a portion of our business by another company where customer information will be one of the transferred assets.
+  * As required by law, for example, to comply with a valid subpoena or other legal process; when we believe in good faith that disclosure is necessary to protect our rights, or to protect your safety (or the safety of others); to investigate fraud; or to respond to a government request.
 
-**UK Customers**  
-[help@uk.grasshopper.com](mailto:help@uk.grasshopper.com)  
-[http://uk.grasshopper.com](http://uk.grasshopper.com/)
 
-This Privacy Policy was last updated on April 13, 2016
+
+We may also disclose your personal information to any third party with your prior consent.
+
+**5\. Communications**
+
+LogMeIn may need to communicate with you for a variety of different reasons, including:
+
+  * Responding to your questions and requests. If you contact us with a problem or question, we will use your information to respond.
+  * Sending you Service and administrative emails and messages. We may contact you to inform you about changes in our Services, our Service offerings, and important Service related notices, such as billing, security and fraud notices. These emails and messages are considered a necessary part of the Services and you may not opt-out of them.
+  * Sending emails about new products or other news about LogMeIn that we think you’d like to hear about either from us or from our business partners. You can always opt out of these types of messages at any time by clicking the unsubscribe link at the bottom of each communication.
+  * Conducting surveys. We may use the information gathered in the surveys to enhance and personalize our products, services, and websites.
+  * Offering referral programs and incentives, which allow you to utilize email, text, or URL links that you can share with friends or colleagues.
+
+
+
+**6\. Accessing Your Data**
+
+Our customers can always review, update or change personal information from within their account. LogMeIn will also, when you request, provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  Please [contact us here](https://support.logmeininc.com/contactus) if you need assistance in reviewing your information. LogMeIn will respond to your access request to review the information we have on file for you within a reasonable time.
+
+We may also collect information on behalf of our customers, to provide the services, and we may not have a direct relationship with the individuals whose personal data is processed. If you are a customer or end-user of one of our customers, please contact them (as the data controller) directly if: (i) you would no longer like to be contacted by them; or (ii) to access, correct, amend, or delete inaccurate data.  If requested to remove data by our customer, we will respond within a reasonable timeframe.
+
+We may transfer personal information to companies that help us provide our service, and when we do, these transfers to subsequent third parties are covered by appropriate transfer agreements. We will retain personal data we process on behalf of our customer as needed to provide services to our customer. Also, we will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+LogMeIn is headquartered in the United States of America and maintains a global infrastructure.  Information that we collect and maintain may be transferred to, or controlled and processed in, the United States and/or other countries around the world. When you provide us with information, or use our website(s) and services, you consent to this transfer.  We will protect the privacy and security of personal information we collect in accordance with this privacy policy, regardless of where it is processed or stored.
+
+**7\. Security**
+
+LogMeIn follows generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received, however, no security measure is perfect. We recommend safeguarding your password, as it is one of the easiest ways you can manage the security of your own account – remember that if you lose control over your password, you may lose control over your personal information.
+
+**8\. Changes to this Statement/Contact Us**
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide notice on this website, and we may notify you by email (sent to the e-mail address specified in your account), prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you continue to use the Services after those changes are in effect, you agree to the revised policy.
+
+If you have any other questions about this policy please contact[ LogMeIn Privacy Team](mailto:privacy@logmein.com), or call +1 805 690 6400 or write to us via postal mail at:  LogMeIn, 320 Summer Street, Boston, MA 02210. To reach our Global Customer Support department, you may [contact us](https://support.logmeininc.com/) here.
