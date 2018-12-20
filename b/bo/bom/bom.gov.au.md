@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503041257id_/http%3A//www.bom.gov.au/other/privacy.shtml%3Fref%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172832id_/http%3A//www.bom.gov.au/other/privacy.shtml%3Fref%3Dftr) for the most accurate reproduction.*
 
 # Online privacy notice - Bureau of Meteorology
 
@@ -94,3 +94,11 @@ If you have any concerns regarding your privacy when visiting a linked site or u
 From time to time, we will review and revise this statement. We reserve the right to amend this statement at any time and any amendments will be notified by posting an updated version on our website at [www.bom.gov.au](http://www.bom.gov.au/)
 
 _This statement was last updated on 12 March 2014._
+
+* * *
+
+### Privacy impact assessments register
+
+Privacy impact Assessment reference number | Project name  | Brief description of project | Commencement date  
+---|---|---|---  
+  |  |  | 
