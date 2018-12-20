@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092654id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220014221id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AppLovin
 
-_Effective Date:_ April 2, 2018
+_Effective Date:_ September 20, 2018
 
 AppLovin Corporation (“we,” “us,” “our” or “AppLovin”) is a mobile advertising company that provides application developers with a platform to deliver advertising to their consumers. Our technology enables our partners to show mobile application users more relevant advertising that is based on users’ interest in applications. In order to provide these services, we collect and use certain information about user activity in mobile applications.
 
-The AppLovin Privacy Policy (this “Policy”) explains how we collect, use, and share information through our advertising platform (“Services”) and our corporate website at www.AppLovin.com (“Site”), as well as your choices related to that information.
+The AppLovin Privacy Policy (this “Policy”) explains how we collect, use, and share information through our advertising platform (“Services”) and our corporate website at www.applovin.com (“Site”), as well as your choices related to that information.
 
-Table of Contents
+### Table of Contents
 
   * Advertising Services Privacy Policy
   * Website Privacy Policy
@@ -25,7 +25,7 @@ This section describes the information we collect, use, and share through our Se
 If you are a consumer that downloads and uses an application which contains the AppLovin SDK or otherwise interacts with the Services, we may collect certain device information including the following:
 
   * Device make, model and operating system;
-  * Device properties related to screen size & orientation, audio volume and battery;
+  * Device properties related to screen size & orientation, audio volume and battery, device memory usage;
   * Carrier;
   * Operating system;
   * Name and properties of mobile application through which a consumer interacts with the Services;
@@ -67,11 +67,15 @@ We may provide these partners with information about the reach and effectiveness
 
 We transfer information to service providers, and other partners who support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service or facilitating payments. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Privacy Policy and the agreements we enter into with them.
 
-### Opt-Out:
+### Manage Your Privacy Choices:
 
-To opt-out of our collection of information from mobile devices, please visit your device’s settings to set the “Limit Ad Track” or other similar feature on your device. You can also opt-out of our data collection and use through the process we described here [Opt Out](https://web.archive.org/optout). You can also make choices about data collection for certain companies by visiting <http://preferences-mgr.truste.com/>.
+To limit collection of information from mobile devices, please visit your device’s settings to set the “Limit Ad Track” or other similar feature on your device. For detailed instructions see [How AppLovin Shows You Ads](https://dash.applovin.com/p/how-applovin-shows-you-ads). You can also make choices about data collection for certain companies by visiting <http://preferences-mgr.truste.com/>. To see or manage the data collected by AppLovin from your device, you may download the AppLovin Privacy Management Application from the Apple or Google Play Stores:
 
-Note that if you opt-out you will still see advertising on your device, but it may be less relevant to your interests. In addition, if you reset your device identifier or use a different device you may need to renew your opt-out.
+[](https://itunes.apple.com/us/app/privacy-management/id1365754887?mt=8)
+
+[](https://play.google.com/store/apps/details?id=com.applovin.apps.privacy)
+
+Note that after limiting collection of information you may see less relevant advertising on your device.
 
 ### Children’s Online Privacy Protection Rule
 
@@ -137,7 +141,7 @@ Third parties may collect information from the Site and other non-affiliated web
 
 To learn more about interest-based advertising on your browser, and your choices regarding this type of advertising for companies that participate in this choice mechanism by visiting <http://preferences-mgr.truste.com/>. If you are in the European Union you can visit <http://www.youronlinechoices.eu/> to exercise choice. You may also limit the collection of information from mobile apps on your device for interest-based advertising us by adjusting the settings on your mobile device. For iOS mobile devices, go to “Settings” from your Device’s home screen; scroll down to “Privacy”; select “Advertising”; and turn on “Limit Ad Tracking.” For Android mobile devices, go to “Google Settings” on your Device; select “Ads”; and check the box labeled “Opt Out of Interest-Based Ads.”
 
-Please note that if you exercise choice you will still receive advertising, but it may be less relevant to your interest. Additionally, data may still be collected from your browser or device for purposes other than interest-based advertising. If you erase your cookies, reset your device identifier, or use different browsers or devices you may need to make your choices again.
+Please note that if you exercise choice you will still receive advertising, but it may be less relevant to your interests. Additionally, data may still be collected from your browser or device for purposes other than interest-based advertising. If you erase your cookies, reset your device identifier, or use different browsers or devices you may need to make your choices again.
 
 ### Children
 
@@ -197,6 +201,8 @@ All requests will be dealt with at the earliest opportunity. To exercise these r
 
 Additionally, you have the right to lodge a complaint against us. To do so, contact the supervisory authority in your country of residence.
 
+[END OF EU SPECIFIC PROVISIONS]
+
 ## Policy Changes
 
 We may, in our sole discretion, make changes to the Policy from time to time in order to accommodate new technologies, industry practices, regulatory requirements, or for other purposes. The most recent version of the Policy will always be posted on the Site. If we do make any changes, we will also update the “Effective Date” posted at the top of the Policy. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on the Site prior to the change becoming effective. We encourage you to review the Policy periodically to ensure that you understand how we collect, use and share information.
@@ -207,14 +213,17 @@ Any changes to the Policy will become effective when the revised Policy is poste
 
 If you have any questions or comments about this Policy, please write to us at:
 
-Data Protection Officer
-
+Data Protection Officer  
 AppLovin Corporation  
 849 High St.  
 Palo Alto, CA 94301
 
-You can also contact us via email at [dataprotection@applovin.com](mailto:dataprotection@applovin.com). If you have a customer care issue, please use: [care@applovin.com](mailto:care@applovin.com)
+You can also contact us via email at [dataprotection@applovin.com](mailto:dataprotection@applovin.com).
 
 Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have a customer care issue, please use: [care@applovin.com](mailto:care@applovin.com)
+
+In compliance with the Privacy Shield Principles, AppLovin commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact AppLovin at the address / email above. AppLovin has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. The services of TRUSTe are provided at no cost to you.
