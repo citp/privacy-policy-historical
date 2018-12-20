@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntekstore.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618063149id_/http%3A//www.suntekstore.com/article-28-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntekstore.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220063719id_/http%3A//www.suntekstore.com/article-28-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy_Customer Service_Cool Gadgets, Solar Products, Solar Charger, Solar Light - Online Shopping from China with Free Shipping - SuntekStore
 
