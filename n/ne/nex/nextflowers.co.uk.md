@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextflowers.co.uk privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620131721id_/http%3A//www.nextflowers.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextflowers.co.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220151158id_/http%3A//www.nextflowers.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Next â€“ Flowers and Gift Cards delivered next day
 
@@ -193,7 +193,7 @@ Next is a member of the Direct Marketing Association (DMA) and is required to op
 
 ### What are your rights
 
-You are entitled to request the following from Next, these are called your Data Subject Rights and there is more information on these on the Information Commissioners website [www.ico.org.uk](https://web.archive.org/web/20180620131721id_/http%3A//www.nextflowers.co.uk/www.ico.org.uk)   
+You are entitled to request the following from Next, these are called your Data Subject Rights and there is more information on these on the Information Commissioners website [www.ico.org.uk](https://web.archive.org/web/20181220151158id_/http%3A//www.nextflowers.co.uk/www.ico.org.uk)   
 
 
   * Right of access - to request access to your personal information and information about how we process it
@@ -208,7 +208,7 @@ You are entitled to request the following from Next, these are called your Data 
 
 If you have any general questions about your rights or want to exercise your rights please contact [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk)
 
-You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country you work or live or where your legal rights have been infringed. The contact details for the Information Commissioner's Office (ICO), the data protection regulator in the UK, are available on the ICO website[www.ico.org.uk](https://web.archive.org/web/20180620131721id_/http%3A//www.nextflowers.co.uk/www.ico.org.uk) where your personal information has or is being used in a way that you believe does not comply with data, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns you may have.
+You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country you work or live or where your legal rights have been infringed. The contact details for the Information Commissioner's Office (ICO), the data protection regulator in the UK, are available on the ICO website[www.ico.org.uk](https://web.archive.org/web/20181220151158id_/http%3A//www.nextflowers.co.uk/www.ico.org.uk) where your personal information has or is being used in a way that you believe does not comply with data, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns you may have.
 
 ### Cookie Notice
 
