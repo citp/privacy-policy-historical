@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theawesomedaily.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521204435id_/http%3A//theawesomedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawesomedaily.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220213336id_/https%3A//theawesomedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Awesome Daily - Your daily dose of awesome
 
@@ -30,7 +30,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. Under the new GDPR guidelines, We use MailerLite as our marketing automation platform. By browsing our site you acknowledge that the information you provide will be transferred to MailerLite for processing in accordance with their [Privacy Policy](https://www.mailerlite.com/privacy-policy) and [Terms of Service](https://www.mailerlite.com/terms-of-service).
 
 **Do we use cookies?**
 
