@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629020041id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220152413id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
 
 # Venmo | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 LAST UPDATED
 
-March 29, 2018
+December 20, 2018
 
 OUR COMMITMENT TO PRIVACY
 
@@ -26,7 +26,7 @@ If you open a Venmo account, we collect the following information from you:
   * Account Information - text-enabled cellular/wireless telephone number, machine or mobile device ID and other similar information.
   * Identification Information - your name, street address, email address, date of birth, and SSN (or other governmental issued verification numbers).
   * Device Information - information about you: (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards.
-  * Social Web Information - including but not limited to your Facebook connect credentials and email account information. If you authorize Facebook Connect, the plug in allows us access to your friends’ contact information. We also allow you to import data from other social web services, including but not limited to Twitter, FourSquare, and email service providers. Social and e-mail contact information helps you connect to friends and contacts for invitation and payment transmission purposes (as well as helping us improve the Services and fight fraud). Additionally, another Venmo user may mention you in a transaction to which you are not a party by “tagging” your username in a transaction note or comment. When you are mentioned in a transaction note or comment into which you have visibility (e.g., a public transaction, a “friends only” transaction by one of your Venmo friends, or a comment on either such transaction), a link to your Venmo profile will appear in the transaction note or comment and, if your push notifications are turned on, you will receive a push notification about the mentions. You may manage certain contact preferences and notifications in your account settings.
+  * Social Web Information - including but not limited to your Facebook Connect credentials and email account information. If you authorize Facebook Connect, the plug in allows us access to your email address, Facebook friends list, and public profile (including profile picture). We also allow you to import data from other social web services, including but not limited to Twitter, FourSquare, and email service providers. Social and e-mail contact information helps you connect to friends and contacts for invitation and payment transmission purposes (as well as helping us improve the Services and fight fraud). Additionally, another Venmo user may mention you in a transaction to which you are not a party by “tagging” your username in a transaction note or comment. When you are mentioned in a transaction note or comment into which you have visibility (e.g., a public transaction, a “friends only” transaction by one of your Venmo friends, or a comment on either such transaction), a link to your Venmo profile will appear in the transaction note or comment and, if your push notifications are turned on, you will receive a push notification about the mentions. You may manage certain contact preferences and notifications in your account settings.
   * Financial Information - bank account online login information, bank account and routing numbers and credit cards linked to your Venmo account. Venmo does not share financial information with third party social networking services such as those listed in the prior bullet.
 
 
@@ -39,7 +39,7 @@ Finally, we may collect additional information from or about you in other ways n
 
 INFORMATION FROM CHILDREN
 
-We do not knowingly solicit or collect information from any individuals under the age of 18.
+The website and the Venmo Services are not directed to children under the age of 13. If we obtain actual knowledge that we have collected personal information from a child under the age of 13, we will promptly delete it, unless we are legally obligated to retain such data. [Contact us](https://help.venmo.com/hc/en-us/requests/new) if you believe that we have mistakenly or unintentionally collected information from a child under the age of 13.
 
 HOW WE USE COOKIES 
 
@@ -85,6 +85,8 @@ HOW WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES
 
 Venmo does not share your personal information with third parties for their promotional or marketing purposes.
 
+Some personal information is public information (including your Venmo username, Venmo profile photo, Venmo profile first and last name, month, and year of Venmo account creation, and public transactions in which you've been involved), and may be seen by anyone on the internet, whether or not they have a Venmo account. Public information may also be seen, accessed, reshared or downloaded through Venmo's APIs or third-party services that integrate with our products. In addition to any public information, your Venmo friends list may be seen by any logged-in Venmo user.
+
 We may share your personal information with:
 
   * Our parent company, PayPal, Inc. and affiliates and subsidiaries it controls, but only for purposes allowed by this document.
@@ -97,6 +99,7 @@ We may share your personal information with:
     * For the purposes of this privacy policy, an "account connection" with such a third party is a connection you authorize or enable between your Venmo account and a non-Venmo account, payment instrument, or platform that you lawfully control or own. When you authorize such a connection, Venmo and the third-party will exchange your personal information and other information directly. Examples of account connections include: linking your Venmo account to a social media account or social messaging service; connecting your Venmo account to a third-party data aggregation or financial services company, if you provide such company with your Venmo account log-in credentials; or using your Venmo account to make payments to a merchant or allowing a merchant to charge your Venmo account.
     * If you connect your Venmo account to other financial accounts, directly or through a third-party service provider, we may have access to your account balance and account and transactional information, such as purchases and funds transfers. If you choose to create an account connection, we may receive information from the third-party about you and your use of the third-party’s service. For example, if you connect your Venmo account to a social media account, we will receive personal information from the social media provider via the account connection. We will use all such information that we receive from a third-party via an account connection in a manner consistent with this privacy policy.
     * Information that we share with a third-party based on an account connection will be used and disclosed in accordance with the third-party’s privacy practices. Before authorizing an account connection, you should review the privacy notice of any third-party that will gain access to your personal information as part of the account connection. For example, personal information that Venmo shares with a third-party account or platform such as a social media account may in turn be shared with certain other parties, including the general public, depending on the account’s or platform’s privacy practices.
+    * If you choose to use Siri or iMessage to send payments via Venmo or to otherwise use the Venmo Services, such use is subject to Apple’s terms and conditions for use of iMessage and/or Siri, as applicable, and the terms of the Venmo User Agreement. By using Siri or iMessage, you authorize us to share some of your Venmo account data (including your friends list, list of persons you have transacted with most recently and most frequently, transaction instructions, and transaction notes) with Apple to allow it to facilitate transaction requests made through Siri or iMessage on iOS. Data shared with Apple will be used pursuant to Apple’s then-current user agreements and privacy policies. You can grant or revoke Apple’s access to Venmo on iOS at any time under the “Siri” or “iMessage” settings on your iPhone.
 
 Venmo does not send your personal information to third-party social networks unless you have specifically requested or authorized us to do so. When you broadcast information to such third-party social networks, such information is no longer under the control of Venmo and is subject to the terms of use and privacy policies of such third parties.
 
