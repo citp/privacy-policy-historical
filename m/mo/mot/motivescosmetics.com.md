@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016110921id_/https%3A//www.motivescosmetics.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220213822id_/https%3A//www.motivescosmetics.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Motives by Loren Ridinger | Motives Cosmetics
 
