@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507144928id_/http%3A//www.fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220153308id_/http%3A//fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # Privicy Policy
 
@@ -10,6 +10,8 @@ In short, we do the following
 We only collect personally identifiable information that you voluntarily and knowingly provide us. We use the information that you provide us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent. We do not share any information you provide us with anyone outside of Fetchfido. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Fetchfido has no access to information collected in this way.
+
+One of our advertisers Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com. 
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
