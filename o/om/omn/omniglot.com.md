@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniglot.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609131122id_/http%3A//www.omniglot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniglot.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220174140id_/http%3A//www.omniglot.com/privacy.htm) for the most accurate reproduction.*
 
 # Omniglot Privacy Policy
 
@@ -16,9 +16,9 @@ I do not collect any personal information about you. However, if you send me an 
 
 ## What I do with the information I gather
 
-  * If you make a contribution to Omniglot, such as sending corrections or new material, I will put your name on the relevant page(s), or on the [contributors' page](http://www.omniglot.com/contributors.htm), to acknowledge your contribution. If you prefer to remain anonymous, please [let me know](https://web.archive.org/web/20180609131122id_/http%3A//www.omniglot.com/contact.htm).
-  * I occasionally may give your contact details to other visitors to this site who you might be able to help with a language-related question. If you would prefer not be contacted in this way, please [let me know](https://web.archive.org/web/20180609131122id_/http%3A//www.omniglot.com/contact.htm).
-  * If you submit an article or a constructed script, I may put your name and email address in a HTML comment at the bottom of the page. This is only visible if you view the source code. If someone else wishes to contact you about the article or script, this helps me remember your details, rather than searching through my email. If you prefer not to be contacted about your article(s), please [let me know](https://web.archive.org/web/20180609131122id_/http%3A//www.omniglot.com/contact.htm).
+  * If you make a contribution to Omniglot, such as sending corrections or new material, I will put your name on the relevant page(s), or on the [contributors' page](http://www.omniglot.com/contributors.htm), to acknowledge your contribution. If you prefer to remain anonymous, please [let me know](https://web.archive.org/web/20181220174140id_/http%3A//www.omniglot.com/contact.htm).
+  * I occasionally may give your contact details to other visitors to this site who you might be able to help with a language-related question. If you would prefer not be contacted in this way, please [let me know](https://web.archive.org/web/20181220174140id_/http%3A//www.omniglot.com/contact.htm).
+  * If you submit an article or a constructed script, I may put your name and email address in a HTML comment at the bottom of the page. This is only visible if you view the source code. If someone else wishes to contact you about the article or script, this helps me remember your details, rather than searching through my email. If you prefer not to be contacted about your article(s), please [let me know](https://web.archive.org/web/20181220174140id_/http%3A//www.omniglot.com/contact.htm).
 
 
 
@@ -58,8 +58,8 @@ I use Google AdSense Advertising on this website.
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact me](https://web.archive.org/web/20180609131122id_/http%3A//www.omniglot.com/contact.htm). 
+If there are any questions regarding this privacy policy you may [contact me](https://web.archive.org/web/20181220174140id_/http%3A//www.omniglot.com/contact.htm). 
 
 Last Edited on 7th June 2018. 
 
-You can support this site by [making a donation](https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=aLjPfXL-vP_1gQ_U23Iz8_hSWLlhzLHPMFZrt32dIEfG8htoNFLYaPoWkv8&dispatch=5885d80a13c0db1f8e263663d3faee8def8934b92a630e40b7fef61ab7e9fe63), or by [contributing in other ways](https://web.archive.org/donations.htm). 
+If you like this site and find it useful, you can support it by [making a donation](https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=aLjPfXL-vP_1gQ_U23Iz8_hSWLlhzLHPMFZrt32dIEfG8htoNFLYaPoWkv8&dispatch=5885d80a13c0db1f8e263663d3faee8def8934b92a630e40b7fef61ab7e9fe63), or by [contributing in other ways](https://web.archive.org/donations.htm). Omniglot is how I make my living. 
