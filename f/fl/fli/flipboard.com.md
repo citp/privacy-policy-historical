@@ -1,96 +1,98 @@
-> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029024851id_/https%3A//flipboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220140641id_/https%3A//about.flipboard.com/privacy) for the most accurate reproduction.*
 
-# Flipboard
+# Privacy Policy
 
-######  Last Updated on January 13, 2014
+_May 25th, 2018_
 
-Welcome to Flipboard, Inc. (“Flipboard”).  We’ve put together this Privacy Policy to describe our collection, use and disclosure of information from users of our software application (the “Flipboard Application”), our website(s) and any other services we offer (collectively the “Services”).  When using any of our Services you consent to the collection, disclosure and other uses of your information described below.  We’re constantly improving things at Flipboard, and our Privacy Policy may be updated from time to time.  We will not make important changes to the Privacy Policy without providing advance notice of those changes through our Services.  
+**Flipboard Privacy Policy**
 
-###  Information We Collect
+Privacy and data protection are important to the Flipboard community.  Transparency is, too.  We’ve done our best to cut through the legal jargon and explain in simple terms what information we collect about you, what we use it for, and the few situations in which we share it with others.
 
-  * **Registration Information.  **  If you sign up for a Flipboard Account, we ask you to provide us with personal information, such as your name, username, password, photo and email address.  We may also ask you to personalize your user experience with other information such as your location, and your individual preferences.  This information collectively is referred to as “Registration Information.”  Some of this information, for example, your name and username, will be listed publicly on our Services, including in search results.
-  * **User IDs and Device IDs.**   When you install the Flipboard Application, we create a unique identification number associated with that installation of the software (“User ID”).  If you are using an older version of the Flipboard Application (pre-v. 1.8.4), we may collect and store a unique device ID associated with your particular device (“Device ID”).  If you have a Flipboard Account, we will associate your User ID or your Device ID with your Registration Information. 
-  * **Usage Information.**   We also collect information about how you use our Services, including how you view and interact with content and advertisements, the parts of our Services that you use, information you search for, content that you view, and actions you take such as uploading photos, flipping or liking content, creating magazines or posting comments.
-  * **Log Data.**   When you use our Services, we automatically record information about your use (“Log Data”).  This Log Data may include information such as your computer’s or mobile device’s Internet Protocol (“IP”) address, browser type, the webpage you were visiting before you came to our Site, pages of our Site that you visit, access times and dates and other statistics.
-  * **Information Regarding Your Social Networking Services (“SNSs”).**   As a Flipboard user, you can interact with and use SNSs, such as Facebook and Twitter.  To do so, you must provide Flipboard with your account credentials (typically username and password) for an SNS.  Flipboard will retain those credentials, keep them private and use them to enable your access to the SNS.  When you choose to access an SNS via the Services, Flipboard may collect from the SNS your address, gender, user ID, list of friends and any information you’ve chosen to make public through the SNS.  Depending on the SNS you choose to utilize via the Services and in accordance with the privacy settings you have set in your SNS account, you can post information to your SNS account via the Services, and information you have posted to an SNS will be available via the Services.  For example, via the Flipboard Application you can access and log in to your Facebook account by entering your Facebook account credentials through “Facebook Connect” and interact with your Facebook account via Flipboard.  We encourage you to read the privacy policies and other statements of the SNSs you use.  You can disable the connection between your Flipboard Application and an SNS you’ve chosen to access at any time via the “Accounts” section of the “Content Guide.” 
-  * **Surveys and Promotions.**   From time to time, we may provide you the opportunity to participate in surveys, contests or sweepstakes via our Services.  If you participate, we may request certain additional information from you.  
+Please read this privacy policy carefully. It applies to all interactions you have with Flipboard’s products and services.
 
+**The Information We Collect**
 
+Flipboard is responsible for the data you provide through our products and services. When you create an account with Flipboard, you give us your full name and email address, and create a username and password. If you want, you can give us a pseudonym instead of your legal name.
 
-###  How We Use the Information We Collect
+If you don’t feel like creating an account from scratch, you may be able to sign in through an account you already have with another service, such as Facebook.
 
-  * We use information we collect, including your Registration Information, User ID and Device ID, information from your use of our Services and SNSs and information from surveys and promotions to provide and improve our Services, develop new offerings and enhance and personalize your experience on Flipboard, including the content and advertising that you see.
-  * We may use your Registration Information to send you important messages regarding the Services, as well as marketing materials that we think may be of interest to you.  If you decide at any time that you no longer wish to receive marketing communications from us, please follow the unsubscribe instructions provided in those communications.
+Your user profile helps you customize your account and connect with other Flipboard users. Your profile automatically includes your name and username. You can also add a profile picture and whatever else you’d like in the “Bio” field.
 
+To help you connect with other Flipboard users and to personalize your Flipboard experience, we may ask for additional information, including your contacts or location.
 
+We receive some other information automatically when you use Flipboard. This includes data about your device, software, operating system, operating system-provided device IDs or user-specific advertising IDs for advertisement tracking (“Advertising IDs”), your IP address and the date and time of each request you make to Flipboard.
 
-###  Disclosure of the Information We Collect
+So that we can make your Flipboard experience better, we collect information about how you view, flip and interact with content and advertisements through Flipboard and on third-party sites with Flipboard widgets.
 
-  * **Information You Share.**  While you can use Flipboard privately, we encourage you to share your interests, preferences and thoughts with others, and our Services are designed to enable that sharing.  That means that in most cases, the actions you take on the Services, will be viewable by other users.  When you create a Flipboard Account, your username and photo, the content you like or include in a magazine, and comments that you post will all be public by default. 
-  * **With Your Consent.**   We may disclose any information we collect with third parties when we receive your consent to do so. 
-  * **Non-Private or Non-Personal Information.**   We may disclose aggregated and non-personally identifiable information that we collect.  Any such disclosure will not include non-public, personal information regarding individual users.
-  * **Services Providers.**   We employ third parties to assist us in providing and improving the Services (e.g., without limitation, maintenance, database management and web analytics companies).  If these third parties receive non-public, personal information about you, they will be obligated not to disclose or use it for any purpose other than to perform tasks on our behalf.
-  * **Compliance with Laws and Law Enforcement.**   Flipboard cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Flipboard or a third party, to protect the safety of the public or any person or to prevent or restrict what we consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
-  * **Business Transfers.**   Flipboard may sell, transfer or otherwise share some or all of its assets, including the information identified in this Privacy Policy, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+You may link your Flipboard account to other services you use, such as social networking sites, photo-sharing services and media publishers such as the New York Times. If you connect your Flipboard account with a third-party service, we collect information through that service. This information varies depending on the service and your privacy settings there, but may include profile information (e.g., age, gender and location), your contacts on that service and content that you’ve made publicly available there. If you connect your YouTube account on Flipboard, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms)and also the [Google Privacy Policy](http://www.google.com/policies/privacy).
 
+If you want to email something you see through Flipboard to a friend who isn’t already a Flipboard account holder, we may keep their email address for the purpose of sending such email and improving our services. Recipients may contact us at privacy@flipboard.com to request that we remove this information from our database.
 
+**How We Use and Disclose Your Information**
 
-###  Share-With-A-Friend
+A big part of Flipboard is sharing content you find interesting. That’s why your Flipboard profile, the people and sources you follow or that follow you, the magazines you create, the comments you post and the content you flip are all public.
 
-Subject to the privacy settings you have set in your SNS account, through the Services you can email a friend and share certain SNS content or other materials.  If you use this aspect of our Services we will ask you for your friend’s name, email address and/or SNS username (collectively “Friend Information”).  We will automatically send your friend a one-time email.  Flipboard stores Friend Information for the purpose of sending such emails and improving the Services.  Friends may contact us at [privacy@flipboard.com ](mailto:privacy@flipboard.com)to request that we remove this information from our database.
+Aside from that, we use your information to keep Flipboard running, better understand how you use our service, customize your experience (including the content, marketing materials, and advertisements you see), prevent abuse and improve Flipboard. Flipboard may also work with advertising partners to serve you third-party advertisements, including interest-based advertisements, on Flipboard and on other services. For more information about our advertising partners’ practices, please visit [Datalogix](https://datalogix.com/privacy/)and [Oracle](https://www.oracle.com/legal/privacy/privacy-policy.html). You can learn more about interested-based advertising, including how to opt out of third-party partners’ advertising you see on Flipboard and on other services, by visiting <http://www.aboutads.info/choices/> and <http://www.aboutads.info/appchoices>. Users in European countries can visit <http://www.youronlinechoices.eu/>_for more information on these topics_.  If you opt out using any of these methods, you’ll still see ads, but they won’t be tailored using information like your interests, visits to other services, or demographics. Alternatively, you can opt out by discontinuing your use of Flipboard.
 
-###  Cookies & Other Technologies
+We share your personally identifiable information only under these circumstances:
 
-Our services may use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.  We may use “persistent cookies” to save your username and login password for future logins to the Services.  We also may use “session ID cookies” to enable certain features of the Services or to better understand how you interact with the Services. You can instruct your web browser to stop accepting cookies or to prompt you before accepting certain or all cookies.  If you do not accept cookies, however, you may not be able to use all aspects of the Services.
-
-Cookies placed on your device or computer by Flipboard or any third party site or service that you may access through the Services may remain stored on your device or computer until you remove them.
-
-We may also use “pixel tags,” “web beacons,” “clear GIFs” or similar means (individually or collectively “Pixel Tags”) in connection with our Services to collect usage, demographic and geographical location data.  A Pixel Tag is an electronic image, often a single pixel, that is ordinarily not visible to users and may be associated with cookies on a user’s hard drive.  Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.
-
-In addition, we work with third-party companies, including advertisers, that use cookies and other tracking technologies to collect non-identifying information about your activities on our Site and Services in order to help us better understand the use and operation of our Services.  These third parties may collect and analyze information about your online activities over time and across different websites when you use our Services. We do not exercise control over these third party websites or services. We encourage you to read the privacy policies or statements of the other websites and services you use.
-
-By accepting this Flipboard Privacy Policy, and by using the Flipboard Services, you are consenting to permit the use of cookies by both Flipboard and the third-party companies that Flipboard works with.
-
-Some browsers incorporate a “Do Not Track” (DNT) feature that, when activated, signals to websites that you do not want to be tracked. Because there is not yet an accepted standard for how to respond to browser DNT signals, we do not currently respond to them.
-
-###  Changing or Deleting Your Account
-
-You may email us at [privacy@flipboard.com](mailto:privacy@flipboard.com) with a request that we delete your Flipboard Account.  Accounts are terminated promptly and, absent extenuating circumstances, we will honor your request and delete your account information in no more than 45 days.  We may retain an archived copy of your records as required by law or as necessary for the protection of the rights of Flipboard or its users.
-
-For instructions on changing any of your privacy preferences, accessing your information, updating your information or for any privacy or data-protection-related questions, please write to [privacy@flipboard.com](mailto:privacy@flipboard.com).
-
-###  Children’s Information
-
-We do not knowingly collect personal information from children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with any personally identifiable information without their consent, he or she should contact us at [privacy@flipboard.com](mailto:privacy@flipboard.com).  If we become aware that a child under 13 has provided us with any personally identifiable information, we will delete such information and the child’s account.
-
-###  Information Security
-
-Flipboard employs reasonable physical, technological and administrative security measures to protect the information it collects.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we use commercially acceptable means to protect the information we collect, we cannot guarantee its absolute security.
-
-If Flipboard learns of a security breach that results in the unauthorized disclosure of your Registration Information, we may attempt to notify you electronically through the Services so that you can take appropriate protective steps.  Flipboard may also send an e-mail to you at the e-mail address you have provided to us for a notification pursuant to this paragraph.  If you wish to receive written (non-electronic) notice of any security breach, please send a request for such notice, including your physical address, to [privacy@flipboard.com](mailto:privacy@flipboard.com).
-
-###  Phishing
-
-Identity theft and the practice currently known as “phishing” are of great concern to Flipboard.  Safeguarding information to help protect you from identity theft is a top priority.  We do not and will not, at any time, request your credit card information, your account ID, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
-
-###  International Transfer
-
-If you are located outside the United States and choose to provide information to us, Flipboard transfers that information, including personal information about you, to the United States and processes it there. Your consent to this Privacy Policy and provision of such information represents your agreement to that transfer.
-
-###  Links to Other Sites
-
-Our Services contains links to other websites and online services.  If you choose to visit a third party service or an advertiser by “clicking on” a third party link, you will be directed to that third party’s website or online service.  The fact that we link to a website, content or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites and services you use.  We do not exercise control over third party websites or services.
-
-###  Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us at [privacy@flipboard.com](mailto:privacy@flipboard.com) or at: 214 Homer Avenue, Palo Alto, CA 94301
-
-Made with Love in Palo Alto, California. 
-
-  * [Privacy Policy](https://web.archive.org/privacy)
-  * [Terms](https://web.archive.org/terms)
-  * [Copyright](https://web.archive.org/copyright/)
+  * With your consent, after letting you know what information will be shared, and with whom.
+  * If we believe it’s reasonably necessary to comply with a law, regulation or legal process. If we’re going to release your information, our policy is to provide you with reasonable advance notice under the circumstances unless we’re prohibited from doing so by law or court order (e.g., an order under 18 U.S.C. § 2705(b)). We may disclose your information without giving you prior notice if we believe it’s necessary to prevent imminent and serious bodily harm to a person. Nothing in this privacy policy is intended to limit any legal objections or defenses you might have to efforts by third parties to compel disclosure of your information, including legal orders from the government.
+  * To third parties helping us offer and improve our service, such as those providing Flipboard certain technical tools and analytics services (including marketing partners) that help us understand how people use Flipboard so we can make it better. We require those companies to observe the limitations in this privacy policy.
+  * If we sell, transfer or otherwise share some or all of our assets, including the information identified in this privacy policy, in connection with a merger, acquisition, reorganization or sale of assets in the event of a bankruptcy. We may also share non-personally identifiable, non-aggregate information (for example, anonymized Advertising IDs) with companies that help us improve our products and services, including advertising (such as research companies and analytics providers). As with your personally identifiable information, we require that such companies observe the limitations in this privacy policy.
 
 
 
-© 2014 Flipboard, Inc. Flipboard and the Flipboard Logo are trademarks of Flipboard, Inc. 
+We may disclose aggregate information about how our users use Flipboard in a manner that doesn’t identify you individually.
+
+**Web Storage and Tracking Policy**
+
+Cookies and HTML5 local storage are ways to keep information about your use of Internet services on your own mobile device or computer.
+
+We use cookies and HTML5 local storage to help us create your session, know when you’re logged in and help us remember certain information about how you interact with Flipboard.
+
+If you’d rather not use cookies or HTML5 local storage, most browsers give you the option to turn them off, or require your approval before using them to keep information. If you choose not to keep information in cookies or HTML5 local storage, though, portions of Flipboard may not work as intended.
+
+Flipboard also uses web beacons in advertisements to allow Flipboard and its advertising partners to see how users view and engage with advertisements. Depending on your advertising preferences set in your operating system, Flipboard may share your Advertising ID with advertising partners in a de-identified fashion that is not tied to your name or email address.
+
+Some publishers or other third-party services that we partner with may use cookies, web beacons or other technologies to keep track of your Internet activity. Please note that this privacy policy explains Flipboard’s policies only, and doesn’t cover the practices of other services.
+
+Some browsers make it possible for you to signal that you don’t want your Internet browsing activity to be tracked. The Internet community hasn’t reached a consensus on how to best honor these signals, so we don’t respond to Do-Not-Track requests at this time.
+
+**Your Rights**
+
+Flipboard supports data privacy rights and is happy to provide our users with the following options:
+
+  * **Change or Correct Data** : You can edit some of your personal data through your account, or, if you need help, you can contact Flipboard Support and we may be able to change or correct your data in certain cases, particularly if it’s inaccurate or out of date.
+  * **Erase or Delete Data:** You can erase your personal data by deleting your account. Alternatively, you can ask us to erase all or some of your personal data.
+  * **Object to or Restrict Use of Data:** You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to use it) or limit our use of it (e.g., if your personal data is inaccurate).
+  * **Access or Copy Data:** You can askus for a copy of your personal data.
+
+
+
+You can learn more about these options, or submit a request, by contacting [Flipboard Support](https://flipboard.helpshift.com/a/flipboard/?f=connect-with-flipboard-support&s=connect-with-flipboard-support&p=web)through your Flipboard Settings. For security, privacy, or operational reasons, Flipboard may only respond to valid requests when required by law or regulation.
+
+**Data Retention and Deletion**
+
+We store your personal data as long as your account exists or as necessary to provide our services to you. This includes data you or others provide to us and data generated from your use of our services. If you’d like to delete your account, you can do so in the Flipboard application under Settings (gear icon) in the Edit Profile detailed menu. If you delete your account, your user profile will no longer be visible on our service, though we may still keep some log information in non-personally identifiable form.
+
+**Data Storage Outside the EU**
+
+As a California-based company, we store and use personal data outside the EU.  To ensure adequate protection of personal data in cross-border transfer and/or processing, we use appropriate safeguards as allowed under applicable law or regulation.
+
+**Changes to This Privacy Policy**
+
+As Flipboard continues to develop, we may decide to revise this privacy policy from time to time. The most current version will govern our use of your information and will always be at <https://flipboard.com/privacy>, and older versions are available upon request. If we make changes that we think will substantially alter your rights, we will notify you by posting a notice on our website. You agree to accept any changes or revisions to this privacy policy by continuing to use Flipboard.
+
+**Contact**
+
+We’d love to hear your questions, concerns and feedback about this privacy policy. If you have suggestions for us, let us know at privacy@flipboard.com _._   You can also write to us at the address below:
+
+Legal Department
+
+Flipboard
+
+735 Emerson Street  
+Palo Alto, CA 94301
+
+For EU and EFTA users, if you feel you haven’t received a timely or satisfactory response from us with respect to a question or complaint related to this policy, you may raise the issue with your local supervisory authority without prejudice to any other rights you may have.
