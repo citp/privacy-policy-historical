@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621111109id_/https%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221063154id_/https%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CityRealty
 
@@ -10,9 +10,15 @@ As technology evolves, we will continue to look for better ways to gather and us
 
 CityRealty is committed to safeguarding your privacy online. Please read the following policy (the "Privacy Policy") to understand how your personal information will be treated as you make full use of our many offerings. Your use of the CityRealty Web Site is subject to your acceptance of this Privacy Policy and the CityRealty Terms of Use. If you do not agree with this Privacy Policy, please do not use the CityRealty Web Site. This Privacy Policy may change from time to time, so we encourage you to review our Privacy Policy periodically for updates. Your continued use of the CityRealty Web Site following the posting of changes to this Privacy Policy will mean you accept those changes. 
 
+### Consent
+
 By using the CityRealty Web Site, you unambiguously consent to CityRealty's collection, processing, use and disclosure of your personally identifiable information consistent with the terms of this Privacy Policy. 
 
+### Privacy of Minors
+
 CityRealty neither directs nor targets the CityRealty Web Site to children under the age of 18. If CityRealty learns that a registered user of the CityRealty Web Site is under the age of 18, CityRealty reserves the right to delete the information in that person's account and immediately terminate the account. In such instances, CityRealty may also destroy any of the personal information provided by that person within CityRealty's possession or control. 
+
+### This Policy Guide Will Let You Know:
 
   * What personally identifiable information is collected from you?
   * What cookies are and how they are used?
@@ -27,6 +33,8 @@ CityRealty neither directs nor targets the CityRealty Web Site to children under
 
 
 
+### What personally identifiable information is collected from you?
+
 CityRealty collects information in several ways from different parts of the CityRealty Web Site. Some personal information is gathered when you register as a buyer, renter or seller. During registration, CityRealty asks for your name, email address, mailing address and other information concerning your desired apartment. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience and help you buy, rent or sell an apartment. Once you register you are no longer anonymous to CityRealty - you are given a CityRealty User Name and ID and are able to take full advantage of CityRealty's many services. 
 
 In addition to registration we may ask you for personal information at other times, including (but not limited to) when you schedule appointments to see apartments, bid on properties or when you post a property for sale or rent. If you contact CityRealty we may keep a record of that correspondence. CityRealty also occasionally asks users to complete surveys that we use for research purposes. Wherever CityRealty collects personal information we make an effort to include a link to this Privacy Policy on that page. 
@@ -35,11 +43,15 @@ CityRealty may also collect non-personal data from visitors who browse the CityR
 
 Back to top
 
+### What cookies are and how they are used?
+
 As part of offering and providing customizable and personalized services, CityRealty uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Where you are prompted to log-in on to the CityRealty Web Site, or in sections of the CityRealty Web Site that are customizable, we require that you accept cookies. (See "What choices are available to you regarding collection, use, and distribution of your information?" for more information on cookies.) 
 
 Generally, we use cookies to remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services. In addition (even if you have not registered with the CityRealty Web Site), we use cookies to help us measure certain traffic patterns, which areas of the CityRealty Web Site you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on the CityRealty Web Site a better one. We may use this information to better personalize the content and services that you and other users will see and use on the CityRealty Web Site. 
 
 Back to top
+
+### How your information is used?
 
 CityRealty's primary goal in collecting personal information is to provide you, the user, with a customized experience on the CityRealty Web Site and to better assist you in buying, renting or selling real estate. This includes personalization services, interactive communications, online scheduling and many other types of services. In order to provide the best possible services to you, we need to better understand your real estate requirements. By knowing a little about you, CityRealty is able to deliver more relevant services and content, and hence better real estate experience, to you. 
 
@@ -51,9 +63,13 @@ We use your IP (Internet Protocol) address to help diagnose problems with our se
 
 Back to top
 
+### Who is collecting your information?
+
 Once you register as a buyer, renter or seller, CityRealty stores this information on its own servers. In order to provide these real estate services to you, it is necessary for us to share your personal information with other real estate companies. If you do not want your data to be shared, you can choose not to allow the transfer by not registering to buy or rent an apartment. (See "With whom your information may be shared?" for more information on how CityRealty discloses personal information in the course of your use of the CityRealty Web Site.) 
 
 Back to top
+
+### With whom your information may be shared?
 
 The following describes some of the ways that your information may be disclosed. 
 
@@ -67,11 +83,15 @@ We use analytics tools and other third party technologies, such as Google Analyt
 
 Back to top
 
+### What choices are available to you regarding collection, use, and distribution of your information?
+
 Once you register with CityRealty, we usually use email to provide you with updates concerning new apartments meeting your criteria, scheduling changes and other transaction related information. CityRealty may also send you e-mails to let you know about its products and services. At any time you can easily edit your CityRealty Web Site Preferences to no longer receive such email. You will need your CityRealty ID and Password in order to access your CityRealty Web Site Preferences. (See "How you can access, update, or delete your information?" for more information on changing you account preferences.) 
 
 You also have choices with respect to cookies. By modifying your browser preferences using most Web browsing software, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those CityRealty services that require registration in order to participate. 
 
 Back to top
+
+### How you can access, update, or delete your information?
 
 You may edit your CityRealty Web Site Preferences and your public CityRealty Web Site Profile at any time by using your CityRealty ID and password. If you have forgotten your password, please [click here](https://web.archive.org/my-cityrealty/reset-password) to request a new password. For all other problems signing in to the CityRealty Web Site, please click here and complete this form. Some information that you provide to CityRealty, such as survey responses and clickstream data, may not be accessible in your CityRealty Web Site Preferences or Profile. 
 
@@ -79,15 +99,21 @@ Your CityRealty Web Site Profile can be deleted or deactivated, but doing so wil
 
 Back to top
 
-Your CityRealty Web Site Preferences and Profile are password-protected. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account. You agree to (a) immediately notify CityRealty of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. CityRealty cannot and will not be liable for any loss or damage arising from your failure to comply with these provisions. You may edit your CityRealty Web Site Preferences and Profile by using your CityRealty ID and password. We recommend that you do not divulge your password to anyone and that you change your password frequently and store it in a safe place. CityRealty will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your CityRealty Web Site account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
+### The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
+
+Your CityRealty Web Site Preferences and Profile are password-protected. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account. You agree to (a) immediately notify CityRealty of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. CityRealty cannot and will not be liable for any loss or damage arising from your failure to comply with these provisions. You may edit your CityRealty Web Site Preferences and Profile by using your CityRealty ID and password. We recommend that you do not divulge your password to anyone and that you change your password frequently and store it in a safe place. CityRealty will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to Sign Out of your CityRealty Web Site account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, CityRealty cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we endeavor to maintain its security on our systems. By using the CityRealty Web Site and the Internet in general, you may be subject to various risks, including among others eavesdropping, sniffing, spoofing, forgery, spamming, "imposturing", tampering, breaking passwords, harassment, fraud, electronic trespassing, hacking, system contamination including without limitation, viruses, worms, Trojan horses, causing unauthorized, damaging or harmful access and/or retrieval of information and data on your computer and other forms of activity that may be considered unlawful. Information (including registration information, passwords and content) received or delivered or intended to be made available on and through the CityRealty Web Site may be subject to these and other security or privacy hazards or may not reach its destination or reach an erroneous address or recipient. The CityRealty Web Site is not different than other applications in this respect. Without limitation of the foregoing, although we take seriously the security of all member accounts and other personal and non-personal information associated with our visitors and participants, due to the open communication nature of the Internet, we can not guarantee that your account will be free from unauthorized access by third parties. 
 
 Back to top
 
+### Links and affiliates
+
 This Privacy Policy applies only to the CityRealty Web Site. It does not apply to any other Web site linked to or from the CityRealty Web Site, including any CityRealty affiliate Web sites. We cannot control or be responsible for the actions of such other Web site operators and the existence of an affiliation with, or a link from, the CityRealty Web Site does not mean the affiliated or linked Web site has a privacy policy similar to this Privacy Policy. You should read the privacy policy of any Web site linked to or from the CityRealty Web Site. 
 
 Back to top
+
+### How to contact us
 
 If for some reason you believe that we have not adhered to the terms of this Privacy Policy, or if you have any questions or comments about this Privacy Policy, please notify us by email at contact@cityrealty.com, and we will do our best to address your concerns and promptly confirm and correct any problems. The email must contain the words Privacy Policy in its subject line. You may also contact us by regular mail at: 
 
