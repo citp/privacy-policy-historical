@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rssground.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630065529id_/https%3A//www.rssground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssground.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221192426id_/https%3A//www.rssground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RSSground.com
 
@@ -6,11 +6,11 @@
 
 RSS Ground provides this Privacy Policy to inform users of policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of RSSGround.com website and RSS Ground service and other services provided by Paytory Inc. (the “Services”). This Privacy Policy also tells you about your rights with respect to your personal information, and how you can reach us to update your contact information or get answers to questions you may have about our privacy practices.
 
-This Privacy Policy is incorporated into and subject to the [Terms of Services](http://www.rssground.com/terms-of-service/). Any terms not defined in this Privacy Policy will have the meanings set forth in the RSS Ground Terms of Services.By accepting the Terms of Services you express your consent to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing” means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+This Privacy Policy is incorporated into and subject to the [Terms of Services](https://www.rssground.com/terms-of-service/). Any terms not defined in this Privacy Policy will have the meanings set forth in the RSS Ground Terms of Services.By accepting the Terms of Services you express your consent to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing” means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
 
 If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards.
 
-This Privacy Policy is in full compliance with the EU’s [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) (GDPR) which took effect on May 25, 2018. We are fully behind the spirit of these regulation for a safe and secure Internet.
+This Privacy Policy is in full compliance with the EU’s [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) (GDPR) which took effect on May 25, 2018. We are fully behind the spirit of these regulation for a safe and secure Internet.
 
 If you do not agree to the terms of this Privacy Policy, please do not use the Services. If you have questions regarding this Privacy Policy, you may contact us at **support @ rssground.com** or use our Helpdesk at <https://help.rssground.com/contact>
 
