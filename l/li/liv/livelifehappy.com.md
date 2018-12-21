@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the livelifehappy.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630032645id_/https%3A//livelifehappy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelifehappy.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221161632id_/https%3A//livelifehappy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Live Life Happy
-
-Privacy Policy - Live Life Happy
-
-Skip to content
-
-### Live Life Happy
-
-[ ](https://livelifehappy.com/)
-
-Inspirational Quotes, Stories + Life & Health Advice
-
-Navigation
-
-### Site navigation
-
-  * [Home](https://livelifehappy.com/)
-  * [Privacy Policy](https://livelifehappy.com/privacy-policy/)
-
-
 
 Effective May 11, 2018
 
@@ -87,7 +68,7 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 FOR EUROPEAN ECONOMIC AREA RESIDENTS
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or Sovrn related to advertising on the Site, you can contact Sovrn at info@sovrn.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or Sovrn related to advertising on the Site, you can contact Sovrn at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
 EMAIL ADDRESSES
 
@@ -159,7 +140,7 @@ If you are a resident of a country in the EEA, you have the rights, among others
 
 If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
 
-You may exercise any of your rights in relation to your personal data by emailing info@livelifehappy.com.
+You may exercise any of your rights in relation to your personal data by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 SALE OF BUSINESS OR ASSETS
 
@@ -169,9 +150,10 @@ CHANGES TO THE PRIVACY POLICY
 
 We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
+AKISMET
+
+We collect information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
+
 CONTACTING US
 
-If you have any questions about this Privacy Policy or the practices of this Site, please contact us at info@livelifehappy.com.
-
-  
-
+If you have any questions about this Privacy Policy or the practices of this Site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
