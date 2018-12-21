@@ -1,74 +1,86 @@
-> *The following text is extracted and transformed from the coveredca.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924172022id_/http%3A//www.coveredca.com/npp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveredca.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221223648id_/https%3A//www.coveredca.com/privacy) for the most accurate reproduction.*
 
-# Sign up for Updates | Covered California™
+# Privacy Policy & Practices | Covered California™
 
-## This notice describes how medical information about you  
-may be used 
+## Your Information. Your Rights. Our Responsibilities.
 
-The California Health Benefits Exchange, known as the Exchange or Covered California, may get your personal information when you ask us for information about health care insurance or when you apply for health care insurance through the Exchange. We are required by law to maintain the privacy of your personal information, to give you notice of our legal duties and privacy practices ant to notify you following a breach of unsecured protected health information. We must follow the law when we use or share your information. This Notice of Privacy Practices tells you what your rights are and how we use and share your information. We must follow this Notice of Privacy Practices. We have the right to change our Notice of Privacy Practices. If we make changes to our Privacy Practices, we will send a new Notice of Privacy Practices to all the people who are applying for health insurance at that time or whose information we may have.   
+At Covered California, our philosophy is “Consumers First.” Every decision we make is based upon that fundamental principle, including how we collect, maintain and utilize your personal information. We want you to enroll with confidence and to be informed and empowered with regard to your personal privacy.
 
+Simply put:
 
-## INFORMATION WE MAY COLLECT
-
-When you visit our website, talk to a representative or send us an application for insurance, the personal information we collect may include, but is not limited to:
-
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Social Security Number
-  * Demographic information
-  * Health information
-  * Financial information
+  1. We will not collect personal information from you without your knowledge or consent.
+  2. We will not knowingly disclose your personal information to a third party, except as provided in this privacy policy.
+  3. We will allow you to inspect and correct your personal information.
+  4. We will take any and all reasonable measures to protect the security of any personal information you provide.
+  5. We will notify you if we ever suspect that the privacy of any personal information you provide may have been compromised.
 
 
 
-## HOW WE MAY USE AND SHARE YOUR INFORMATION
+View or download a copy of the Covered California Privacy Policy or Terms of Use:
 
-We will use your information to help you see what health insurance is available for you and to refer you to health plans and other governmental entities that can help you get health insurance. We will share your information if we are required by law to do so. We may also share your information for these purposes:
-
-  * **Treatment:** We may share your information with health care providers to make sure you get health care;
-  * **Program purposes:** Information will be shared with private health plans and government agencies, such as the IRS, Department of Homeland Security and the Social Security Administration, for use in determining eligibility for insurance programs and providing health insurance to eligible applicants;
-  * **Payment:** We will share information with the health plans or programs that you enroll with for payment purposes, such as billing you for insurance or submitting bills to these entities;
-  * **Health care operations:** Information may be shared with health plans and government agencies to oversee how the insurance is being provided, for quality assurance, audits, for fraud and abuse prevention programs, and for planning and management purposes;
-  * **Appeals:** If you appeal any of the decisions about your eligibility for health insurance or the insurance provided to you, the information we have may be used in deciding the appeals;
-  * **Health care oversight:** Information may be shared for audits, inspections, civil, criminal or administrative investigations, and for licensing or discipline activities,
-  * **Judicial or administrative proceedings:** Your information may be shared with a court, investigator or lawyer if there is an investigation or litigation about the insurance programs, payment for insurance, fraud or abuse. If a court orders us to share your information, we will do so;
-  * **Planning and research:** We may share your information with other government agencies and researchers for planning and research programs. Information for research will only be shared if the researcher is from a non-profit organization and meets federal and state requirements for research projects;
-  * **Other limited purposes:** Information will be shared for other purposes when we are required by law to do so, such as for workers’ compensation, public health activities and risks, health oversight activities, law enforcement activities, coroners, medical examiners and funeral directors, military and veterans affairs, national security and intelligence activities, protective services for the president and others, and for inmates.
-  * **CMS:** Information will be disclosed to the U.S. Department of Health Services, Centers for Medicare and Medicaid Services, when requested and when disclosure is required by law; 
+  * [Covered California Privacy Policy](https://web.archive.org/PDFs/privacy/CC_Privacy_Policy.pdf?v=2.0) (PDF)
+  * [Covered California Terms of Use](https://web.archive.org/PDFs/privacy/Terms_of_Use.pdf) (PDF)
 
 
 
-Some information, such as mental health, substance abuse, services for the developmentally disabled, or HIV/AIDS status, are protected by additional laws and we will follow those laws. Other uses and disclosures of information that are not described here will be made only with your written authorization, and that authorization can be revoked by you.
+Please click on the topic headings below to access additional Privacy Office-related information.
 
-## YOUR PRIVACY RIGHTS
+You have the right to access and inspect any record containing your personal information at any time. If you would like to access and inspect your Covered California records, please either:
 
-You have the rights listed below:
-
-  * **Inspect and copy your records:** You can look at the records we have with your information and for a fee you can get a copy of your records. You may not see all parts of your records if it is allowed or required by law to keep you from seeing them. If your request is denied, you have a right to have the denial reviewed. Your personal representative who has the legal right to act for you can look at your records and get a copy. You can contact us to get a form for requesting a copy of your records or you can go to our website to request a copy of your records.
-  * **Amend your records:** You can ask us to change or correct information in your records. We may decline to change the information if we did not create or keep it, or if it is already complete and correct. You can ask us to review the denial or you can send a letter disagreeing with the denial and the letter will be kept as part of your records;
-  * **Accounting of disclosures:** You can ask us to send you a report of who we have shared your information with, when it was shared, and why.
-  * **Restrictions on uses and disclosures:** You can ask us not to use or share your information in the ways we listed above. We may not be able to agree with your request. If your request is about an item or service that you paid for, we must agree with your request. 
-  * **Confidential communications:** You have the right to ask that we contact you confidentially, at a different address or phone number, a post office box, or in writing or by telephone only, and we will meet all reasonable requests. We may ask you to explain why disclosing some of the information could endanger someone.
-  * **Copy of Notice of Privacy Practices:** You may get a paper copy of this Notice of Privacy Practices by contacting us at the address below. A copy is also on our website.
-  * **Complaint:** You have the right to file a complaint with us and with the Secretary of the U.S. Department of Health Services if you believe your privacy rights have been violated. You can get a copy of a complaint form by contacting us, or you can send us a letter telling us about your complaint. You will not be retaliated against in any way if you file a complaint.
+  1. [Log into your online account](https://apply.coveredca.com/apspahbx/ahbx.portal?lang=en_US&&_ga=1.240708931.1567846999.1400698883#1) for immediate access, or
+  2. Contact the Covered California Service Center at (800) 300-1506; or
+  3. If you are unable to access the information you need, submit a written request by downloading and submitting the form below.
+    * [“Request to Access and Inspect PII Records](https://web.archive.org/PDFs/privacy/HBEX-702-Request-to-Access-and-Inspec-PII-Records.pdf)” Form (PDF)
 
 
 
-## Contacting Us
+You have the right to request an amendment or update of any of your personal information which Covered California may have on file at any time. To ensure that you are able to amend and update your personal information in a timely manner, we strongly recommend that you access your records via one of the first two methods below.
 
-If you would like a copy of our Privacy Policy, please contact us at the address or web site below. You can ask for a copy in another language, Braille or large print. 
+  1. For immediate access, [log into your online account.](https://apply.coveredca.com/apspahbx/ahbx.portal?lang=en_US&&_ga=1.240708931.1567846999.1400698883#1)
+  2. For additional help, contact the Covered California Service Center at (800) 300-1506 for assistance.
+  3. If you prefer, you may also download and submit a written request to the Covered California Privacy Office. Your personal information will be updated within 30 days of receipt. If we are unable to grant your request, you will be notified within 30 days, and we will provide you the contact information needed for you to request a review of this decision.
+    * [“Request to Amend” form ](https://web.archive.org/PDFs/privacy/Request_to_Amend.pdf) (PDF)
+    * [“Request to Amend by a Parent, Guardian, or Personal Representative” form ](https://web.archive.org/PDFs/privacy/Request_to_Amend_by_Rep.pdf) (PDF)
 
-You can get a form for requesting copies of your records, to amend your records, to get an accounting of disclosures, to request restrictions on disclosures or confidential communications, or a complaint form at the address or web site below.
 
-**Phone:** (888) 975-1142 
 
-**Email:** [privacyofficer@covered.ca.gov](mailto:privacyofficer@covered.ca.gov)
+You have the right to specify how you would like Covered California to contact you should we need to do so or to update your preferred method of contact at any time. Should you wish to do so, please:
 
-**Mailing Address:**  
-ATTN: Privacy Officer (Information Security Office)  
-560 J Street, Suite 290  
-Sacramento CA 95814
+  1. [Log into your online account.](https://apply.coveredca.com/apspahbx/ahbx.portal?lang=en_US&&_ga=1.240708931.1567846999.1400698883#1)
+  2. Contact the Covered California Service Center at (800) 300-1506 for assistance.
 
-**Website:** [www.coveredca.com ](http://www.coveredca.com/)
+
+
+You have the right to obtain a report from Covered California that identifies any disclosures made of your personal information to third parties. This report will identify the date your personal information was disclosed, the person or agency to which it was disclosed and the purpose of the disclosure. If you would like to request an accounting of any disclosures made of your personal information, please download and submit your written request to the Covered California Privacy Office.
+
+  * [“Request an Accounting” form](https://web.archive.org/PDFs/privacy/Request_an_Accounting_of_Disc.pdf) (PDF)
+  * [“Request an Accounting by a Parent, Guardian, or Personal Representative” form](https://web.archive.org/PDFs/privacy/Request_an_Accounting_by_Rep.pdf) (PDF)
+
+
+
+To notify Covered California about the passing of an enrolled consumer, please download, complete and return the form below that best addresses your situation:
+
+  * [Courtesy Notification of Deceased](https://web.archive.org/PDFs/privacy/CourtesyNotificationOfDeceased.pdf) — Please complete this form to provide Covered California with a courtesy notification for the deceased enrollee.
+  * [Notification of Deceased by an Enrolled Member](https://web.archive.org/PDFs/privacy/NotificationOfDeceasedByAnEnrolledMember.pdf) — Please complete this form if you are listed on the account and wish to report the death of the primary account holder or another enrollee listed on the account.
+  * [Notification of Deceased by an Estate Representative](https://web.archive.org/PDFs/privacy/NotificationOfDeceasedByAnEstateRep.pdf) — Please complete this form if you have legal authority to act on behalf of the deceased consumer’s estate.
+
+
+
+Covered California’s Healthcare Evidence Initiative uses data to improve the patient experience of care, and lower costs for consumers. If you are currently enrolled in a Covered California qualified health plan, you may request that information about you and your household members not be used for Covered California’s Healthcare Evidence Initiative. While the Healthcare Evidence Initiative is designed to ensure that information about you remains anonymous, your decision to opt out will prevent information about you or your household from being used for this purpose. Your decision to opt out will not in any way affect your coverage or your right to receive services through Covered California. Opt-out requests will take effect in the month after they are received from Covered California, and remain in effect for the consumer’s case ID into future years. If you’d like to opt out of the Healthcare Evidence Initiative, please download and submit the written request below.
+
+  * [Opt-Out of the Covered California Health Evidence Initiative (PDF)](https://web.archive.org/PDFs/privacy/HBEX-1000-Health-Evidence-Initiative-Opt-Out-Request-Form.pdf) – Please complete and submit this form if you would like to opt out of having your household information used for the Covered California Healthcare Evidence Initiative.
+
+
+
+Should you have any questions or concerns regarding this privacy policy, please feel free to contact the Covered California Privacy Office via one of the following methods:
+
+ **By email:** [PrivacyOfficer@covered.ca.gov](mailto:PrivacyOfficer@covered.ca.gov)
+
+ **By phone:** (800) 889-3871. (Please leave a message with your name and phone number.)
+
+ **By U.S. Mail:**  
+Privacy Officer  
+1601 Exposition Blvd.  
+Sacramento, CA 95815
+
+> 
