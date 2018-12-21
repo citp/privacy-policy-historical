@@ -1,66 +1,68 @@
-> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504065215id_/http%3A//littlegreenfootballs.com/weblog/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221160624id_/http%3A//littlegreenfootballs.com/article/48195_Terms_of_Service-Privacy_Policy) for the most accurate reproduction.*
 
-# 
+# Terms of Service/Privacy Policy - Little Green Footballs
 
-**What information do we collect?**
+### What information do we collect?
 
-We collect information from you when you register on our site, respond to a survey, fill out a form or post a comment or spinoff link. 
+We collect information from you when you register on our site, respond to a survey, fill out a form, or post a comment or LGF Page.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name and/or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on the site.
 
- **What do we use your information for?**
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to your sites and other sites on the Internet.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+### What do we use your information for?
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Any of the information we collect from you may be used in one of the following ways:
 
-• To administer a contest, promotion, survey or other site feature
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To administer a contest, promotion, survey or other site feature
 
- **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
-**Do we use cookies?**
+### How do we protect your information?
 
-Yes. (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow it) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.)
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information, including strong hashing algorithms for passwords, and HTTPS protocol for secure areas such as login and user account management.
+
+### Do we use cookies?
+
+Yes. (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow it), enabling the site’s or service provider’s systems to recognize your browser and capture and remember certain information.)
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
- **Do we disclose any information to outside parties?**
+### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
- **Third party links**
+### Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **Childrens Online Privacy Protection Act Compliance**
+### Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
- **Online Privacy Policy Only**
+### Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Your Consent**
+### Your Consent
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to this privacy policy.
 
- **Changes to our Privacy Policy**
+### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on September 22, 2009
+This policy was last modified on May 24, 2018.
 
- **Contacting Us**
+### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://littlegreenfootballs.com  
-webmaster -at- littlegreenfootballs.com
+[littlegreenfootballs.com](http://littlegreenfootballs.com/)  
+webmaster -at- [littlegreenfootballs.com](http://littlegreenfootballs.com/)
