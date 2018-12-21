@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121211803id_/http%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221073456id_/https%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Kids Play and Create
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 **Your Privacy** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -22,4 +22,4 @@ If you have any questions regarding the privacy policy of KidsPlayandCreate.comÂ
 
 Last updated Tue, 14 Sept 2012 17:28
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
