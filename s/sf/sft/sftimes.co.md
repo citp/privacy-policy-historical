@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sftimes.co privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629161402id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sftimes.co privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221054530id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
