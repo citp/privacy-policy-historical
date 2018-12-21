@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630065332id_/https%3A//www.1800flowers.com/About-Us-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221192148id_/https%3A//www.1800flowers.com/About-Us-Privacy-Policy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=5390b55e-b9d5-4405-ae18-eedba5120955)
 
-** Last updated ** ** May 25, 2018 **
+** Last updated ** ** September 4, 2018 **
 
 ** INTRODUCTION **
 
@@ -40,7 +40,7 @@ For individuals in the European Union (“EU”), our processing (i.e. use) of y
 
 
 
-This Privacy Policy applies to all visitors, including EU residents, Additional information on our privacy practices with respect to EU residents in particular can be viewed [here](https://web.archive.org/wcsstore/Flowers/images/A-Summary-of-Your-Privacy-Rights-Clean_05-25-2018.pdf) . 
+This Privacy Policy applies to all visitors, including EU residents, Additional information on our privacy practices with respect to EU residents in particular can be viewed [here](https://web.archive.org/wcsstore/Flowers/images/A-Summary-of-Your-Privacy-Rights-Clean_9-4-2018.pdf.pdf) . 
 
 ** WHAT INFORMATION DO WE GATHER? **
 
@@ -236,7 +236,16 @@ If you would like to update or correct information previously provided to us, pl
 
 For further information about our Privacy Policy or our processing of data about you, please contact us at:
 
-> _ [insert Company name, physical address, and contact information for designated representative, as well as the contact info for the designated data protection officer (DPO) – phone # or email] _
+Data Privacy Office    
+1-800-Flowers.com   
+One Old Country Road   
+Suite 500   
+Carle Place, NY 11514
+
+  * Telephone us at: _1-800-Flowers_ (1-800-356-9377)
+  * Email at: [PrivacySupport@1800flowers.com](mailto:PrivacySupport@1800flowers.com)
+
+
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
 
