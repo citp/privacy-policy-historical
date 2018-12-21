@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfoodly.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630115956id_/https%3A//www.superfoodly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfoodly.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221230726id_/https%3A//www.superfoodly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Superfoodly
 
