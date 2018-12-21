@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630053648id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221180901id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fatherly
+# Privacy Policy - Fatherly
 
 ### Personal Information
 
@@ -28,7 +28,7 @@ We use Google DFP to deliver ads on our Web site. Information on how Google mana
 
 ### Tracking
 
-Like most other websites in the universe, Fatherly might place or recognize cookies, small text files, on your browser in order to help us retrieve information vital to providing the best possible service. Our cookies allow us to recognize you and simplify your user experience. Fatherly will never use cookies to obtain any information from your computer not related to our site.
+Like most other websites in the universe, Fatherly might place or recognize cookies, small text files, on your browser in order to help us retrieve information vital to providing the best possible service. Our cookies allow us to recognize you and simplify your user experience. Fatherly will never use cookies to obtain any information from your computer not related to our site. For more information and to opt out of interest-based advertising, please visit [NAI Consumer Opt Out](http://optout.networkadvertising.org/#!/ "Follow link").
 
 ### Third Party Cookies
 
@@ -48,4 +48,4 @@ Fatherly may make changes to this policy at any point. If and when we do, we’l
 
 ### Contact Us
 
-If you have questions about this policy, or about the site, please contact us or you could also review our [About](https://www.fatherly.com/about-us/) page.
+If you have questions about this policy, or about the site, please [contact us](https://www.fatherly.com/contact-us/) or you could also review our [About](https://www.fatherly.com/about-us/) page.
