@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meraevents.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630120539id_/https%3A//www.meraevents.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meraevents.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221231111id_/https%3A//www.meraevents.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | MeraEvents
 
 ### Our Privacy Philosophy
 
