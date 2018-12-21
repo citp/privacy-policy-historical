@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the columbusdispatch.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610221236id_/http%3A//www.dispatch.com/content/system/shared/links/privacy/dispatch%3Ffootpid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusdispatch.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221163137id_/http%3A//www.gatehousemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Gatehouse Media » Privacy Policy
+# Privacy Policy - Gatehouse Media
+
+## Privacy Policy
 
 This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this website (the “websites”).
 
