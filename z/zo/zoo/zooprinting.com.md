@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522081353id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221175859id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zoo Printing
-
-We will be closed May 28th in Observance of Memorial Day. Please note the holiday closure will affect due dates for orders currently in progress. 
 
 ## PRIVACY POLICY
 
@@ -49,5 +47,3 @@ We may set and access cookies on your computer. We may also allow other companie
 ### Contact Us
 
 We use email links located on the "contact us" page and other areas of our Website to allow you to contact us directly with any questions or comments you may have. We read every message sent in and will try to reply promptly if you request information or otherwise require a response. We may file your comments to improve our Website or our products, or we may review and discard the information. 
-
-California Office: 4730 Eastern Avenue, Bell, CA 90201  •  Kentucky Office: 4015 Produce Road, Louisville, KY 40218
