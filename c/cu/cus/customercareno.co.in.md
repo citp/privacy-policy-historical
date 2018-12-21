@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customercareno.co.in privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617201817id_/https%3A//www.customercareno.co.in/privacy-policy-p23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercareno.co.in privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221230801id_/https%3A//www.customercareno.co.in/privacy-policy-p23) for the most accurate reproduction.*
 
-# Privacy Policy | Customer Care Number
+# Privacy Policy - Customer Care Number
 
 Your privacy is important to us, so **customercareno.co.in** (the "Site") has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Site, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control.
 
