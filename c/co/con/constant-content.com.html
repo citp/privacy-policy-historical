@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the constant-content.com privacy policy that was archived on 2018-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180512042325id_/https%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the constant-content.com privacy policy that was archived on 2018-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221115434id_/https%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Policy - Constant-Content.com</title>
@@ -7,8 +7,8 @@
     <!-- End Visual Website Optimizer Synchronous Code -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="">
-    <meta name="keywords" content=",web site content, web content, articles, product reviews, tutorials, website content, freelance writers, plr">
-    <meta name="Revisit-After" content="7 days">
+        <meta name="keywords" content="web site content, web content, articles, product reviews, tutorials, website content, freelance writers, plr">
+        <meta name="Revisit-After" content="7 days">
     <meta name="robots" content="All">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -73,7 +73,7 @@
                                             <a href="https://www.constant-content.com/freelance-writing-jobs.htm"><span>For Writers</span></a>
                                         </li>
                                         <li>
-                                            <a><span>Sign up ￬</span></a>
+                                            <a><span>Sign up</span><span class="caret">&nbsp;</span></a>
                                             <ul class="h">
                                                 <li><a data-toggle="modal" data-target="#modalSignup" data-dismiss="modal">Business Account</a></li>
                                                 <li><a href="https://www.constant-content.com/area/registerauthor.htm">Writer Account</a></li>
@@ -247,35 +247,9 @@
                         var loginSucess = false;
             $('#modalSignup').on('hidden.bs.modal', function () {
                 if (loginSucess) {
-                    location.reload();
+                    window.location.href = "/area/customerconfirm.html";
                 }
             });
-            jQuery.validator.addMethod("phonenumber", function (value, element) {
-                var country = jQuery(element).closest('form').find('select[name=country]').val();
-                
-                var valid = false;
-                $.ajax({
-                    type: "POST",
-                    cache: false,
-                    async: false,
-                    data: {
-                        'action': 'phonenumber',
-                        'country': country,
-                        'phone': value
-                    },
-                    dataType: 'json',
-                    url: "/ajax_process.php",
-                    success: function (jsonData) {
-                        if (jsonData.success == true) {
-                            jQuery(element).val(jsonData.data.formated);
-                            valid = true;
-                        } else {
-                            valid = false;
-                        }
-                    }
-                });
-                return valid;
-            }, "Please enter a valid phone number.");
             function activateSignup() {
                 jQuery('#customer_signup_form').validate({
                     rules: {
@@ -316,13 +290,39 @@
                                     if (data.success == true) {
                                         jQuery('[name=phone]', '#customer_signup_form').val(data.data.formated);
                                         return true;
+                                    } else {
+                                        if (Boolean(jQuery('[name=country]', '#customer_signup_form').val()) == false) return true;
                                     }
                                     return false;
                                 }
                             }
                         },
                         'country': {
-                            required: true
+                            required: true,
+                            'remote': {
+                                url: "/ajax_process.php",
+                                type: "post",
+                                dataType: 'json',
+                                data: {
+                                    'action': 'phonenumber',
+                                    'phone': function () {
+                                        return jQuery('[name=phone]', '#customer_signup_form').val();
+                                    },
+                                    'country': function () {
+                                        return jQuery('[name=country]', '#customer_signup_form').val();
+                                    }
+                                },
+                                dataFilter: function (jsonData) {
+                                    var data = JSON.parse(jsonData);
+                                    if (data.success == true) {
+                                        jQuery('[name=phone]', '#customer_signup_form').val(data.data.formated);
+                                        return true;
+                                    } else {
+                                        if (Boolean(jQuery('[name=phone]', '#customer_signup_form').val()) == false) return true;
+                                    }
+                                    return false;
+                                }
+                            }
                         },
                         'licensing_rights': {
                             required: true
@@ -389,7 +389,7 @@
                                     } else if (data.showconfirm === true) {
                                         jQuery('#customer_signup_body').replaceWith(data.html);
                                     } else {
-                                        location.reload();
+                                        window.location.href = "/area/customerconfirm.htm";
                                     }
                                 }
                             }
@@ -528,133 +528,87 @@
                 <div class="white"></div>
             </div>
         
-        <div class="social">
-        <div class="container">
-            <div class="col-md-12">
-                <h3 class="large">Connect with us</h3>
-                <a href="https://www.facebook.com/constantcontent" class="soc-icon fb"></a><a href="https://www.linkedin.com/company/constant-content" class="soc-icon in"></a><a href="https://twitter.com/constantcontent" class="soc-icon tw"></a><a href="https://plus.google.com/+ConstantcontentPlus/posts" class="soc-icon gp"></a><a href="https://www.constant-content.com/area/contact.htm" class="soc-icon eml"></a>
-            </div>
-        </div>
-    </div>
-    <footer>
+        <footer>
         <div id="main-footer">
             <div class="container">
-                                    <h4 class="large">Browse unique article content from our article catalog or get custom content with our <a href="https://www.constant-content.com/unique-articles/">article writing service.</a></h4>
-                
                 <div class="row">
 
                     <div class="col-sm-3">
-                        <div class="yellow-line"></div>
-                        <h4 class="whitetxt medium">Unique Content Categories</h4>
+                        <h4 class="whitetxt medium">Our Solutions</h4>
+                            <ul>
+                            <li><a href="/area/fuel-your-business.htm">What We Do</a></li>
+                            <li><a href="/area/new_simple_project_management.htm">For Business</a></li>
+                            <li><a href="/area/new_agency.htm">For Agencies</a></li>
+                            <li><a href="/area/new_enterprise.htm">Enterprise Service</a></li>
+                            <li><a href="/freelance-writing-jobs.htm">For Writers</a></li>
+                            </ul>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <h4 class="whitetxt medium">Get Content</h4>
                         <ul>
-                            <li><a href="https://www.constant-content.com/Category/Arts-&amp;-Culture-Content-Articles/">Arts &amp; Culture</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Business-Content-Articles/">Business</a></li>
-                            <li><a href="https://www.constant-content.com/Category/General-Content-Articles/">General</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Health-&amp;-Lifestyles-Content-Articles/">Health &amp; Lifestyles</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Home-Content-Articles/">Home</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Merchandise-Content-Articles/">Merchandise</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Recreation-Content-Articles/">Recreation</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Regional-Content-Articles/">Regional</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Relationships-Content-Articles/">Relationships</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Science-Content-Articles/">Science</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Society-Content-Articles/">Society</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Sports-Content-Articles/">Sports</a></li>
-                            <li><a href="https://www.constant-content.com/Category/Technology-Content-Articles/">Technology</a></li>
+                                                        <li><a data-toggle="modal" data-target="#modalLogin" data-dismiss="modal">Login</a></li>
+                                                        <li><a href="/area/browse.htm">Search Articles</a></li>
+                            <li><a href="/place-a-request/">Request Content</a></li>
+                            <li><a href="/freelance-content-writers/">Find Writers</a></li>
                         </ul>
                     </div>
 
                     <div class="col-sm-3">
-                        <div class="yellow-line"></div>
-                        <h4 class="whitetxt medium">Custom Content Services</h4>
+                        <h4 class="whitetxt medium">Help</h4>
                         <ul>
-                            <li><a href="https://www.constant-content.com/article-writing-service/">Articles</a></li>
-                            <li><a href="https://www.constant-content.com/blog-writing-service/">Blog Writing Service</a></li>
-                            <li><a href="https://www.constant-content.com/copy-editing-service/">Copy Editing Service</a></li>
-                            <li><a href="https://www.constant-content.com/seo-copywriting-services/">Copywriting Service </a></li>
-                            <li><a href="https://www.constant-content.com/hire-ebook-writer/">Hire eBook Writers</a></li>
-                            <li><a href="https://www.constant-content.com/press-release-writers/">Hire Press Release Writers</a></li>
-                            <li><a href="https://www.constant-content.com/review-writing-service/">Review Writing Service</a></li>
-                            <li><a href="https://www.constant-content.com/seo-content-writing/">Hire SEO Content Writers</a></li>
-                            <li><a href="https://www.constant-content.com/freelance-technical-writing-services/"> Technical Writing Service</a></li>
-                            <li><a href="https://www.constant-content.com/writing-white-papers/">Hire White Paper Writers</a></li>
-                            <li><a href="https://www.constant-content.com/area/visual-story-telling-image-finder.htm">Image Finder for Visual Storytelling</a></li>
+                            <li><a href="/content-writing-service/">Blog</a></li>
+                            <li><a href="/article-categories/client-faqs/">Client FAQs</a></li>
+                            <li><a href="/article-categories/writer-faqs/">Writer FAQs</a></li>
+                            <li><a href="/article-categories/writer-faqs/">Writer Guidelines</a></li>
+                            <li><a href="/forum/">Writer Forum</a></li>
+                            <li><a href="/knowledge-base/">Knowledgebase</a></li>
                         </ul>
                     </div>
 
                     <div class="col-sm-3">
-                        <div class="yellow-line"></div>
-                        <h4 class="whitetxt medium">Customer Help</h4>
-                        <ul>
-                            <li><a href="https://www.constant-content.com/about/customer-tutorial.htm">Customer Tutorial</a></li>
-                            <li><a href="https://www.constant-content.com/about/faqs.htm">Customer FAQ's</a></li>
-                            <li><a href="https://www.constant-content.com/about/using-the-request-system-to-order-custom-content.htm">Request System</a></li>
-                            <li><a href="https://www.constant-content.com/about/my-projects-tool.htm">Managing Your Projects</a></li>
-                            <li><a href="https://www.constant-content.com/about/web-content-publisher-for-wordpress.htm">Content Publisher for WordPress</a></li>
-                            <li><a href="https://www.constant-content.com/about/benefits-content-marketing.htm">Benefits of Content Marketing</a></li>
-                            <li><a href="https://www.constant-content.com/about/custom-content.htm">Types of Custom Content</a></li>
-                                
-                        </ul>
-                        <div class="yellow-line"></div>
-                        <h4 class="whitetxt medium">Writer Help</h4>
-                        <ul>
-                            <li><a href="https://www.constant-content.com/freelance-writing-jobs.htm">Apply to Write for Us Now</a></li>
-                            <li><a href="https://www.constant-content.com/area/WriterOnboardingGuide.htm#GUIDELINES">Writer Guidelines</a></li>
-    <!--                        <li><a href="https://www.constant-content.com/about/writer-guidelines.htm">Quick Start Writer Guidelines</a></li>-->
-                            <!--<li><a href="https://www.constant-content.com/about/extended_guidelines.htm">Extended Writer Guidelines</a></li>-->
-                            <li><a href="https://www.constant-content.com/about/writer-tutorial.htm">Author Tutorial</a></li>
-                            <li><a href="https://www.constant-content.com/about/writer-faq.htm">Author FAQ's</a></li>
-                            <li><a href="https://www.constant-content.com/forum/">Author Forums</a></li>
-                            <li><a href="https://www.constant-content.com/about/author-resources.htm">Author Resources</a></li>
-                            <li><a href="https://www.constant-content.com/about/request-system-writers.htm">Request System</a></li>
-                            <li><a href="https://www.constant-content.com/about/my-projects-writers.htm">My Projects for Writers</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-sm-3">
-                        <div class="yellow-line"></div>
                         <h4 class="whitetxt medium">About Constant Content</h4>
                         <ul>
-                            <li><a href="https://www.constant-content.com/Category/71-Articles-0.htm">Article Writers</a></li>
-                            <li><a href="https://www.constant-content.com/unique-articles/">Unique Articles</a></li>
-                            <li><a href="https://www.constant-content.com/content-writing/">Freelance Writers</a></li>
-                            <li><a href="https://www.constant-content.com/area/browse.htm">Search Articles</a></li>
+                            <li><a href="/about/original-content.htm">About</a></li>
+                            <li><a href="/area/contact.htm">Contact</a></li>
+                            <li><a href="/about/client_terms_conditions.htm" rel="nofollow">Terms</a></li>
+                            <li><a href="/about/privacy.htm" rel="nofollow">Privacy</a></li>
                         </ul>
-                    </div>
+                        <h4 class="whitetxt medium secondary">Follow Us</h4>
+                        <a href="https://www.facebook.com/constantcontent/"><img src="/images/social-icon-fb-50.png" alt="Facebook" width="40px" style="padding-right:10px"></a>
+                        <a href="https://www.linkedin.com/company/constant-content/"><img src="/images/social-icon-li-50.png" alt="LinkedIn" width="40px" style="padding-right:10px"></a>
+                        <a href="https://twitter.com/constantcontent"><img src="/images/social-icon-tw-50.png" alt="Twitter" width="40px" style="padding-right:10px"></a>
+                        <h4 class="whitetxt medium secondary">Newsletter</h4>
+                        <form action="https://constant-content.us3.list-manage.com/subscribe/post?u=a54492fc299c6eb54952832cd&amp;id=14c9e3a4c7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a54492fc299c6eb54952832cd_14c9e3a4c7" tabindex="-1" value=""></div>
+                        <div class="clear">
+                        <label for="mce-EMAIL" style="color:white;">Content marketing tips sent straight to your inbox.</label>
+						<div class="input-group">
+                        	<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email" required="">
+						  <span class="input-group-btn">
+                        	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">
+						  </span>
+						</div>
+                        
+                    </div></form>
 
                 </div>
             </div>
         </div>
         <div style="display: none;" class="footerMessage">
                     </div>
-    </footer>
+    </div></footer>
     <footer>
-    <div class="secondary-footer">
-        <div class="container">
-            <div class="col-md-9 left">
-                <ul>
-                    <li><a href="https://www.constant-content.com/about/privacy.htm" rel="nofollow">Privacy Policy</a></li>
-                    <li><a href="https://www.constant-content.com/about/client_terms_conditions.htm" rel="nofollow">Terms &amp; Conditions</a></li>
-                    <li><a href="https://www.constant-content.com/about/original-content.htm">About</a></li>
-                    <li><a href="https://www.constant-content.com/content-writing-service/">Blog</a></li>
-                    <li><a href="https://www.constant-content.com/about/help.htm">Help</a></li>
-                                                <li><a data-toggle="modal" data-target="#modalLogin" data-dismiss="modal">Log In</a></li>
-                                        </ul>
-            </div>
-            <div class="col-md-3 right">
-                <ul>
-                    <li class="email"><a href="https://www.constant-content.com/area/contact.htm">Contact Us <span>→</span></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div id="footer-copyright">
+    <div class="container" id="footer-copyright">
         <p class="footer-copyright">
-        <span class="copy">Copyright © 2018 Constant-Content.com</span>
-        <span>A Division of <a href="http://www.revenuewire.com/" style="color: white;text-decoration: none;">RevenueWire</a></span>
-        <span>All rights reserved.</span>
+        <span class="copy col-md-4">Copyright © 2018 Constant-Content.com</span>
+        <span class="col-md-3">A Division of <a href="http://www.revenuewire.com/" style="color: white;text-decoration: none;">RevenueWire</a></span>
+        <span class="col-md-3">All rights reserved.</span>
         </p>
     </div>
 </footer>
+
 
 <script type="text/javascript">
     $('#expires_on').datetimepicker({
