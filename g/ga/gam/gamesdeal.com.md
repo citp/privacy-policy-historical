@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629232220id_/https%3A//www.gamesdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221121650id_/https%3A//www.gamesdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Glory Profit International Limited
 Room 1202, 12/F., AT Tower   
 180 Electric Road, North Point  
 Hong Kong  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Email: info@gamesdeal.com  
 Tel.:+852 262536118  
 www.gamesdeal.com
 
@@ -27,7 +27,7 @@ Room 1202, 12/F., AT Tower
 180 Electric Road, North Point  
 Hong Kong  
 Tel.:+852 262536118  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: accounts@gamesdeal.com
 
 III. General information about data processing
 
@@ -110,7 +110,7 @@ The collection of the e-mail address of the user serves to deliver the newslette
 The e-mail address will be stored for as long as the subscription to the newsletter exists. 
 
 5\. Possibility of opposition and removal  
-You can revoke your consent to the sending of the newsletter at any time and unsubscribe from the newsletter. You can declare the cancellation by clicking on the link provided in each newsletter e-mail, by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by sending a message to the contact details stated in the imprint. 
+You can revoke your consent to the sending of the newsletter at any time and unsubscribe from the newsletter. You can declare the cancellation by clicking on the link provided in each newsletter e-mail, by e-mail to accounts@gamesdeal.com or by sending a message to the contact details stated in the imprint. 
 
 VII. Registration
 
@@ -137,7 +137,7 @@ The data will be deleted as soon as it is no longer necessary for the purpose of
 
 5\. Possibility of opposition and removal  
 As a user, you have the option of canceling the registration at any time. You can change the data stored about you at any time.  
-Contact us at the address given in the imprint or write an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Contact us at the address given in the imprint or write an e-mail to accounts@gamesdeal.com  
 If the data is necessary for the fulfillment of a contract or for the execution of pre-contractual measures, a premature deletion of the data is only possible, as far as contractual or legal obligations do not preclude a deletion obligation 
 
 VIII. Use of our webshop
@@ -167,7 +167,7 @@ The data will be deleted as soon as it is no longer necessary for the purpose of
 The additional personal data collected during the sending process will be deleted at the latest after a period of seven days. 
 
 5\. Possibility of opposition and removal  
-The user has the possibility at any time to revoke his consent to the processing of the personal data. If the user contacts us by e-mail, he may object to the storage of his personal data at any time. In such a case, the conversation can not continue. Contact us at the address given in the imprint or write an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+The user has the possibility at any time to revoke his consent to the processing of the personal data. If the user contacts us by e-mail, he may object to the storage of his personal data at any time. In such a case, the conversation can not continue. Contact us at the address given in the imprint or write an e-mail to accounts@gamesdeal.com  
 All personal data stored in the course of contacting will be deleted in this case. 
 
 X. Note about Google Analytics
@@ -184,7 +184,7 @@ The legal basis for the use of Google Analytics is Art. 6.(1)lit. f) EUDATAP.
 
 Third Party Information: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. User terms: http://www.google.com/analytics/terms/de.html, Overview of data protection: http://www.google.com/intl/de/analytics/learn/privacy.html, as well as the data protection declaration: http://www.google.de/intl/de/policies/privacy.
 
-You can revoke your consent at any time with future effect by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can revoke your consent at any time with future effect by sending an e-mail to accounts@gamesdeal.com
 
 XI. Google Remarketing
 
