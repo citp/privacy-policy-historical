@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventcinemas.co.nz privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129035620id_/https%3A//www.eventcinemas.co.nz/terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventcinemas.co.nz privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221161033id_/https%3A//www.eventcinemas.co.nz/terms/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -67,7 +67,7 @@ Once we receive personal information from you, we take all reasonable steps to e
 
 **Contact us:**
 
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [privacy@evt.com](mailto:privacy@evt.com), or by mail addressed to:
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e090928996818399a0859694ce838f8d), or by mail addressed to:
 
 Privacy Officer  
 Event Hospitality & Entertainment Ltd  
