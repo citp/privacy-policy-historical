@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the classesandcareers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170718id_/https%3A//classesandcareers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesandcareers.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221182846id_/https%3A//www.classesandcareers.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 We at Classes And Careers “CC” believe in the importance of fully informing our visitors about the use of their personal information. This privacy policy demonstrates our efforts to that end and to our treatment of said information. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR SERVICE. We value the trust you place in us and want you to understand what information we gather about you; how we use it and the safeguards we have in place in order to protect it. 
+
+## Your California Privacy Rights
+
+If you are a resident of the State of California and would like to learn how your "personal information" (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: notices@classesandcareers.com; call us at: 800-719-5930; or send us mail to: Classes & Careers, 4800 140th Ave N. Suite 101, Clearwater, FL 33762. 
+
+Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: notices@classesandcareers.com; call us at: 800-719-5930; or send us mail to: Classes & Careers, 4800 140th Ave N. Suite 101, Clearwater, FL 33762. 
 
 ## How We Ensure Your Information is Secure
 
@@ -20,7 +26,7 @@ When you subscribe for service, we will ask you to voluntarily provide certain p
 
 ## How Personal Information is Used
 
-This Privacy Policy applies to consumers that have signed up on our website or our partners websites. We may sell the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via direct mail and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing. Regardless of any State or Federal Do Not Call Registrations, you the customer expressly consent to be contacted via telephone in reference to this offer. You may opt-out of receiving future mailings; see the choice/opt-out section below. 
+This Privacy Policy applies to consumers that have signed up on our website or our partners websites. We may share the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via direct mail and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing. Regardless of any State or Federal Do Not Call Registrations, you the customer expressly consent to be contacted via telephone in reference to this offer. You may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 ## Who Owns Information Once It Is Submitted
 
@@ -44,12 +50,18 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 ## Choice/Opt-Out
 
-Our site provides users with the opportunity to opt-out of receiving communications from CC and/or our marketing partners, at the point where we request information about the visitor. By selecting the unsubscribe option below to remove their information from our database to not receive future promotional communications. 
+To opt-out of receiving e-mail and other forms of communications from us, you can: (a) follow the instructions included in the applicable e-mail message or other communication; or (b) e-mail us at: notices@classesandcareers.com. 
 
-If you have any additional questions or would like further information on this topic, please e-mail us at info@thedmsgrp.com. To contact us in writing, submit information to 119 Rockland Center #69, Nanuet, NY 10954\. 
+Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for Site Offerings, as well as to respond to any inquiry or request made by you. To opt-out of receiving Site Offerings-related and/or inquiry response-related messages from Company, you must cease requesting and/or utilizing the Site Offerings and/or cease submitting inquiries to Company, as applicable. 
+
+Text Message frequency varies. Supporting carriers include AT&T, Sprint, Verizon, Carolina West, Nextel, Celicom, Virgin Mobile, C Spire, Boost, Cincinnati Bell, Metro PCS, T-Mobile, Cricket, U.S. Cellular or other Wireless carriers are not liable for any delayed or undelivered messages. Consumers may opt out of receiving text messages by sending or replying “STOP”, “END” or “QUIT” to 39796. Consumers may also reply with “HELP” or email support@classesandcareers.com or call 800-719-5930 for support. Message and Data Rates May Apply to any text/sms communication options. 
+
+We will not rent or sell your name, address, e-mail address, credit card information or personal information to any third party without your permission, except as may be required by law. 
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or our privacy practices in general, you may email us as at: notices@classesandcareers.com; call us at: 800-719-5930; or send us mail to: Classes & Careers, 4800 140th Ave N. Suite 101, Clearwater, FL 33762. 
 
 CC may update this policy from time to time so please check our Privacy Policy section on the website periodically for changes. 
 
-Unsubscribe by emailing us at [privacy@classesandcareers.com](mailto:info@classesandcareers.com)
-
-Revision Date: Jul 1, 2015
+Revision Date: Oct 23, 2018
