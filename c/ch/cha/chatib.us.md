@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chatib.us privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630110701id_/http%3A//www.chatib.us/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatib.us privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221222633id_/http%3A//www.chatib.us/welcome/privacy_policy) for the most accurate reproduction.*
 
-# Free Chat Rooms,Free Online Chat With No Registration 2016
+# Free Chat Rooms,Free Online Chat With No Registration 2018
 
 * * *
 
-This document governs the privacy notice of our website : [www.chatib.us](http://www.chatib.us/)
+This document governs the privacy notice of our website : [www.chatib.us](https://www.chatib.us/)
 
 ### Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
 
@@ -181,7 +181,7 @@ We may also use a technology called web beacons to collect general information a
 
 #### **_Google Ad and Content Network Privacy Notice_**
 
-Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)  For European users visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [http://www.aboutads.info/choices/](https://www.aboutads.info/choices/)  For European users visit [http://www.youronlinechoices.eu](https://www.youronlinechoices.eu/)
 
 #### **_Google Analytics Privacy Notice_**
 
@@ -205,7 +205,7 @@ that we believe may be of interest to you
 
 #### **_Communications and Emails_**
 
-When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: [Contact Us](http://www.chatib.us/user/contactus)
+When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: [Contact Us](https://www.chatib.us/user/contactus)
 
   
 **_Sharing Information With Affiliates and Other Third Parties_**
@@ -240,7 +240,7 @@ You can update your PD using services found on our website. If no such services 
 ### **Revoking Your Consent for Using Your PD**
 
 You have the right to revoke your consent for us to use your PD at any time. Such an optout will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to:  
-[Contact Us](http://www.chatib.us/user/contactus)
+[Contact Us](https://www.chatib.us/user/contactus)
 
 **Protecting the Privacy Rights of Third Parties**
 
@@ -291,7 +291,7 @@ PO Box 2428,
 
 Kiryat Ono Israel 55122
 
-[Contact Us](http://www.chatib.us/user/contactus)
+[Contact Us](https://www.chatib.us/user/contactus)
 
   
 © Copyright notice - This document is protected under the United States and foreign copyrights. The copying, redistribution, use or publication by you, is strictly prohibited. 
