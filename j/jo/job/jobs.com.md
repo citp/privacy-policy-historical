@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626161418id_/http%3A//my.monster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221233649id_/http%3A//my.monster.com/privacy) for the most accurate reproduction.*
 
 # Monster Privacy Center | Monster.com
 
@@ -17,7 +17,7 @@ This privacy policy applies to information we collect or use on sites and applic
 
 | 
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=6097954d-9c61-4504-9ba4-1228f9271cb9 "TRUSTe")  
+[](https://privacy.truste.com/privacy-seal/validation?rid=232f8c51-711d-4fbc-afed-b3b87885979a)  
   
 ---|---  
   
@@ -59,7 +59,7 @@ When you delete your personal information, we will retain logs and non-personal 
 
 Monster is not intended for children under 13 years of age.
 
-We participate in the EU-U.S. Privacy Shield framework, as described in more detail in the full Monster privacy policy.
+We participate in the EU-U.S. and Swiss-US Privacy Shield framework, as described in more detail in the full Monster privacy policy.
 
 We use cookies to help personalize and maximize your online experience on Monster. You may [turn off cookies](http://inside.monster.com/cookie-info/inside2.aspx); however, this may limit your use of certain features or functions on our sites and applications.
 
@@ -71,7 +71,7 @@ Monster offers several mobile applications, including the Monster app and the Jo
 
 ## Contact Information
 
-You may [contact us online](http://my.monster.com/privacy/EmailForm.aspx) for questions or concerns about our privacy practices or our EU-U.S. Privacy Shield participation. You may also write to us at:
+You may [contact us online](http://my.monster.com/privacy/EmailForm.aspx) for questions or concerns about our privacy practices or our Privacy Shield participation. You may also write to us at:
 
 Privacy Office  
 Monster Worldwide, Inc.  
