@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rank-booster.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630045131id_/https%3A//www.rank-booster.com/pg/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rank-booster.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221172548id_/https%3A//www.rank-booster.com/pg/Privacy) for the most accurate reproduction.*
 
 # Rank-Booster Privacy Policy - Rank Booster
 
@@ -56,7 +56,7 @@ means Rank-Booster, POB 17, Q.Motzkin, Israel.
 
 
 
-2.1               Our Site, Rnak-Booster.com, is operated by Shani Sagron, Our VAT number in Israel is 305116063.
+2.1               Our Site, Rnak-Booster.com, is operated by Booster Advertising Technologies LTD, Our VAT number in Israel is 515912079.
 
 2.2               Our data protection officer is Omri Sagron who can be contacted at [[email protected]](https://www.rank-booster.com/cdn-cgi/l/email-protection)
 
@@ -422,7 +422,7 @@ d)                  All personal data processed for profiling p
 
 ### 15\. Contacting Us
 
-If you have any questions about Our Site or this Privacy Policy, please contact us by email at [[email protected]](https://www.rank-booster.com/cdn-cgi/l/email-protection#64371114140b16102436050a0f49260b0b171001164a070b09)or by post at <https://help.rank-booster.com/contact/>. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 11, above).
+If you have any questions about Our Site or this Privacy Policy, please contact us by email at [[email protected]](https://www.rank-booster.com/cdn-cgi/l/email-protection#de8dabaeaeb1acaa9e8cbfb0b5f39cb1b1adaabbacf0bdb1b3)or by post at <https://help.rank-booster.com/contact/>. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 11, above).
 
 ### 16\. Changes to Our Privacy Policy
 
