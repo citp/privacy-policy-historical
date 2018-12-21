@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celebrityinsider.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630122915id_/http%3A//celebrityinsider.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityinsider.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221232956id_/http%3A//celebrityinsider.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Insider
 
-Welcome, and thank you for your interest in the Celebrity Insider website at celebrityinsider.org (the “Website”).  Our commitment at Celebrity Insider (“Celebrity Insider,” “we,” or “us”) to privacy is important to us. This Privacy Policy (the “Policy”) applies to your use of the Website, services provided by us and all other communications with individuals through written or oral means, such as email or phone (collectively, our “Service”).  This Policy describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. This Policy is incorporated into, and is subject to, the Celebrity Insider Terms of Service located at <http://celebrityinsider.org/terms-of-use/>. Capitalized terms used but not defined in this Policy have the meaning given to them in the Celebrity Insider Terms of Service.
+Welcome, and thank you for your interest in the Celebrity Insider website at celebrityinsider.org (the “Website”).  Our commitment at Celebrity Insider (“Celebrity Insider,” “we,” or “us”) to privacy is important to us. This Privacy Policy (the “Policy”) applies to your use of the Website, services provided by us and all other communications with individuals through written or oral means, such as email or phone (collectively, our “Service”).  This Policy describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. This Policy is incorporated into, and is subject to, the Celebrity Insider Terms of Service located at [http://celebrityinsider.org/terms-of-use/](https://web.archive.org/celebrityinsider.org/terms-of-use/). Capitalized terms used but not defined in this Policy have the meaning given to them in the Celebrity Insider Terms of Service.
 
 **1.   Definitions**
 
@@ -90,7 +90,7 @@ You may update, correct, or delete your Account information and preferences at a
 
 You may decline to share certain Personal Data with us, in which case we may not be able to provide to you some of the features and functionality of the Service.
 
-At any time, you may object to the processing of your Personal Data, on legitimate grounds, except if otherwise permitted by applicable law. If you believe your right to privacy granted by applicable data protection laws has been infringed upon, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You also have a right to lodge a complaint with data protection authorities.
+At any time, you may object to the processing of your Personal Data, on legitimate grounds, except if otherwise permitted by applicable law. If you believe your right to privacy granted by applicable data protection laws has been infringed upon, please contact us at privacy@celebrityinsider.org You also have a right to lodge a complaint with data protection authorities.
 
 **5.2 Navigation Information**
 
@@ -159,7 +159,7 @@ We do not share with these third parties any information that would readily iden
 
 **11\. Minors and Children’s Privacy**
 
-Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 18, and we do not knowingly collect Personal Data from children under the age of 18 without obtaining parental consent. If you are under 18 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Data has been collected on the Service from persons under 18 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 18 years of age has obtained an Account on the Service, then you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and request that we delete that child’s Personal Data from our systems.
+Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 18, and we do not knowingly collect Personal Data from children under the age of 18 without obtaining parental consent. If you are under 18 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Data has been collected on the Service from persons under 18 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 18 years of age has obtained an Account on the Service, then you may alert us at privacy@celebrityinsider.org and request that we delete that child’s Personal Data from our systems.
 
 The Service is not intended to be used by minors and is not intended to be used to post content to share publicly or with friends. To the extent that a minor has posted such content on the Service, the minor has the right to have this content deleted or removed using the deletion or removal options detailed in this Privacy Policy. If you have any question regarding this topic, please contact us as indicated in the “How to Contact Us” section. Please be aware that, although we offer this deletion capability, the removal of content may not ensure complete or comprehensive removal of that content or information.
 
@@ -191,6 +191,6 @@ Please revisit this page periodically to stay aware of any changes to this Polic
 
 **17\. How to Contact Us**
 
-Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, your consent choices, or any concerns or complaints about this Policy or your Personal Data by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, your consent choices, or any concerns or complaints about this Policy or your Personal Data by email at privacy@celebrityinsider.org.
 
 _Last update: May 25, 2018_
