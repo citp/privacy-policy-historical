@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codewars.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530103844id_/https%3A//www.codewars.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codewars.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221050919id_/https%3A//www.codewars.com/about/privacy) for the most accurate reproduction.*
 
 # Codewars
 
@@ -6,7 +6,7 @@ This privacy notice tells you about the information we collect from you when you
 
 ## Who are we?
 
-Codewars is operated by Qualified, Inc. Our address is 2443 Fillmore St. #380-7126, San Francisco, CA 94115. You can contact us by post at the above address, by email at [privacy@qualified.io](mailto:privacy@qualified.io). 
+Codewars is operated by Qualified, Inc. Our address is 1930 Village Center Cr #3-8713, Las Vegas, NV 89134. You can contact us by post at the above address, by email at [privacy@qualified.io](mailto:privacy@qualified.io). 
 
 We are not required to have a data protection officer, so any enquiries about our use of your personal data should be addressed to the contact details above.
 
