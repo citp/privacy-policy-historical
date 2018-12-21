@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630003109id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221133252id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Liberals Unite
+# Privacy Policy - Samuel Warde, Writer
 
 **What information do we collect?**  
 We do not collect any information from this website.
@@ -39,4 +39,4 @@ USA
 
 **whenwoods@gmail.com**
 
-(Visited 789 times, 5 visits today)
+(Visited 1,227 times, 3 visits today)
