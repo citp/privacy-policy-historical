@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184622id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221081648id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
 
 # Virus Bulletin :: Privacy Policy
 
@@ -12,7 +12,7 @@ Virus Bulletin Ltd takes your privacy very seriously and we are committed to pro
 
 This is the privacy policy of Virus Bulletin Ltd ("Virus Bulletin"), a company registered in England and Wales under company number 2388295 whose registered office is at The Pentagon, Abingdon Science Park, Abingdon, Oxon, OX14 3YP, United Kingdom and whose VAT registration number is GB 532 5598 33.
 
-As a visitor to our main website ([www.virusbulletin.com](https://www2.virusbtn.com/)), our extranet ([extranet.virusbulletin.com](https://extranet.virusbulletin.com/)) or any other site hosted on the virusbulletin.com domain ("the Sites") your privacy is very important to us. This privacy policy explains what personal information we may collect about you, how we may use it, and the measures we take to safeguard your privacy. We also explain your rights in respect of your personal data.
+As a visitor to our main website ([www.virusbulletin.com](https://www.virusbulletin.com/)), our extranet ([extranet.virusbulletin.com](https://extranet.virusbulletin.com/)) or any other site hosted on the virusbulletin.com domain ("the Sites") your privacy is very important to us. This privacy policy explains what personal information we may collect about you, how we may use it, and the measures we take to safeguard your privacy. We also explain your rights in respect of your personal data.
 
 Please read the following policy to understand how we use your personal data. Whenever you give us personal data, you are consenting to its collection and use in accordance with our privacy policy.
 
@@ -90,7 +90,7 @@ Most Internet browsers allow the user to enable or disable the use of cookies. F
 
 ## Links to other sites
 
-The Virus Bulletin website contains links to other websites. Please be aware that this privacy policy only applies to Virus Bulletin's sites ([www.virusbulletin.com](https://www2.virusbtn.com/), [extranet.virusbulletin.com](https://extranet.virusbulletin.com/),and any other sites hosted on the virusbulletin.com domain). Virus Bulletin is not responsible for the content or privacy policy of any other sites. If you go to another website from this one, you are advised to read the privacy policy on that website to find out what it does with your information.
+The Virus Bulletin website contains links to other websites. Please be aware that this privacy policy only applies to Virus Bulletin's sites ([www.virusbulletin.com](https://www.virusbulletin.com/), [extranet.virusbulletin.com](https://extranet.virusbulletin.com/),and any other sites hosted on the virusbulletin.com domain). Virus Bulletin is not responsible for the content or privacy policy of any other sites. If you go to another website from this one, you are advised to read the privacy policy on that website to find out what it does with your information.
 
 ## How does Virus Bulletin use your personal data?
 
@@ -135,11 +135,11 @@ When you use this site to submit an abstract (a proposal) for a Virus Bulletin c
 
 ### Submitting job seeker details
 
-When you use this site to submit your details as a job seeker, the details you have provided in your personal summary, profile, and online presence, will be listed publicly on our main website ([www.virusbulletin.com](https://www2.virusbtn.com/)) along with all the data you have registered in your VB extranet account: your name, email, country, company, job title. If you don't want your personal data to be listed, we strongly encourage you to create an anonymous account for the purpose of job seeking.
+When you use this site to submit your details as a job seeker, the details you have provided in your personal summary, profile, and online presence, will be listed publicly on our main website ([www.virusbulletin.com](https://www.virusbulletin.com/)) along with all the data you have registered in your VB extranet account: your name, email, country, company, job title. If you don't want your personal data to be listed, we strongly encourage you to create an anonymous account for the purpose of job seeking.
 
 ### Submitting job vacancies
 
-When you use this site to submit a job vacancy, the details of the vacancy you have submitted will be listed publicly on our main site ([www.virusbulletin.com](https://www2.virusbtn.com/)) along with all the data you have registered in your VB extranet account: your name, email, country, company, job title. If you don't want your personal data to be listed, we strongly encourage you to create an anonymous account for the purpose of submitting job vacancies.
+When you use this site to submit a job vacancy, the details of the vacancy you have submitted will be listed publicly on our main site ([www.virusbulletin.com](https://www.virusbulletin.com/)) along with all the data you have registered in your VB extranet account: your name, email, country, company, job title. If you don't want your personal data to be listed, we strongly encourage you to create an anonymous account for the purpose of submitting job vacancies.
 
 ## Legal basis for processing personal data
 
