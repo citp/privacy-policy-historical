@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verpeliculasenlatino.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622061139id_/http%3A//verpeliculasenlatino.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verpeliculasenlatino.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221175109id_/http%3A//verpeliculasenlatino.com/pp.php) for the most accurate reproduction.*
 
 # Ver Peliculas Online Español Audio Latino Gratis Full HD
 
