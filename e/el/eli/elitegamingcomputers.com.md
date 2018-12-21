@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the elitegamingcomputers.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702041531id_/https%3A//elitegamingcomputers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitegamingcomputers.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221041505id_/https%3A//techguided.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tech Guided
 
-**Privacy Policy for  **elitegamingcomputers.com
+Privacy Policy for TechGuided.com
 
- _Effective Date: June 27, 2013_
+Effective Date: November 30th, 2017
 
-At EliteGamingComputers.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties. Okay, here is what you need to know.
+At TechGuided.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties. Okay, here is what you need to know.
 
 1\. INTRODUCTION
 
-1.1. PURPOSE OF POLICY. EliteGamingComputers.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+1.1. PURPOSE OF POLICY. TechGuided.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2. NOTICE CONCERNING CHILDREN
 
@@ -64,11 +64,11 @@ The Site contains links to other websites. If you choose to visit other websites
 
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following:
 
-bhale@elitegamingcomputers.com
+bhale@TechGuided.com
 
 Brent Hale
 
-Elite Gaming Computers
+TechGuided.com
 
 P.O. Box #51473
 
