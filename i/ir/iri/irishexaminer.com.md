@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628114119id_/https%3A//www.irishexaminer.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221055629id_/https%3A//www.irishexaminer.com/breakingnews/ireland/confidentiality-and-privacy-policy-830432.html) for the most accurate reproduction.*
 
 # Confidentiality and Privacy Policy | Irish Examiner
 
@@ -20,15 +20,9 @@ To become a subscriber to The Irish Examiner or to purchase or subscribe to one 
 
 We will use your personal information to carry out our obligations arising from any contract you as our customer have entered into with us. We will also use your personal information to provide you welcome emails to help you get the most out of your subscription, subscriber-only content, and subscriber rewards.
 
-If you cancel your subscription with us, we may use your personal information for direct marketing. We will generally send you direct marketing by email.  We will use your information for a reasonable period of time, not exceeding five years, after your relationship with us has ended. You have the right to unsubscribe to receipt of these emails at any time. We rely on the lawful processing ground of our legitimate interests, which are:
+If you cancel your subscription with us, we may use your personal information for direct marketing. We will only do so with your consent. We will generally send you direct marketing by email. We will use your information for a reasonable period of time, not exceeding five months, after your relationship with us has ended. Specifically, we will send you a short series of emails to remind you of the benefits of a subscription with us. You have the right to unsubscribe from receiving such communications from us by following the unsubscribe instructions included at the end of each email communication. 
 
-\- To keep you informed of the benefits of a subscription.
-
-\- To develop and maintain relationships with our customers
-
-\- To implement customer-retention and win-back strategies
-
- **To pay for requested services**
+**To pay for requested services**
 
 We will collect your payment information to pay for any Services you have requested from us. Credit and debit card information is processed directly by PCI-compliant payment providers who perform payment services on our behalf. Occasionally, our employees receive payment information from customers over the phone. When this occurs, the payment information is entered as instructed into the relevant payment system and all other copies are deleted or destroyed immediately.  
 
@@ -42,7 +36,7 @@ We may process your personal information if you opt to place an advertisement. W
 
  **To deliver marketing, promotions and to conduct research**
 
- **To receive marketing communications**
+**To receive marketing communications**
 
 We may periodically send promotional emails about features, events, exclusive offers and competitions to the email address you have provided – **  we will only do so with your consent**. We have an interest in making sure our marketing is relevant for you, so we may process your information to send you marketing communications tailored to your interests. You may at any time choose not to receive marketing communications from us by following the unsubscribe instructions included at the end of each email communication.  
 
@@ -63,8 +57,6 @@ When you sign up for or subscribe to one of our services, we will track and aggr
 \- To understand which content you find useful or interesting
 
 \- To develop and maintain relationships with our customers and readers
-
-\- To implement customer-retention and win-back strategies
 
 \- To deliver relevant content to our readers
 
@@ -198,8 +190,6 @@ We process personal information for the following legitimate business purposes:
 
 \- To develop and maintain relationships with our customers and readers
 
-\- To implement customer-retention and win-back strategies
-
 \- To protect you against fraud and to detect, prevent, investigate security or technical issues to ensure our Services are secure
 
 \- To protect the rights, property and safety of Landmark Media or the rights, property or safety of our employees or others
@@ -230,7 +220,7 @@ We provide certain services and run promotions in conjunction with third parties
 
 We disclose non-personally identifiable anonymous information to third-party advertisers to help them reach the kind of audience they want to target. We share summary aggregate reports for our advertisers to measure the effectiveness of the ads they have served. These advertising parties may combine the information we send with other information that you’ve provided to them or that they’ve collected from your use of their services.
 
- **Indepen** **dent auditors**
+ **Independent auditors**
 
 We may share your personal data with a third-party auditing organisation (ABC) in accordance with our legitimate interests to verify aggregated statistics about circulation and usage of our products or to review our policies, processes and procedures for compliance with relevant standards.
 
