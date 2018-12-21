@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabone.co.nz privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130091143id_/https%3A//new.grabone.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabone.co.nz privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221021219id_/https%3A//new.grabone.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
