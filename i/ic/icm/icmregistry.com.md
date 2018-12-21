@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icmregistry.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608092531id_/http%3A//icmregistry.com/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmregistry.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221142511id_/http%3A//www.icmregistry.com/about/policies/privacy-policy) for the most accurate reproduction.*
 
 # ICM Registry's Privacy Policy
 
@@ -161,7 +161,9 @@ ICM complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. 
 
 As further set forth in the Privacy Shield Principles, we remain potentially liable if a third party processing Personal Information received from the EU on our behalf processes that Personal Information in a manner that is inconsistent with the Privacy Shield Principles (unless we can prove that we are not responsible for the event giving rise to the damage). ICM is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with respect to any failure to comply with the Privacy Shield Principles. In compliance with the Privacy Shield Principles, ICM commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding U.S. privacy practices should [contact us](mailto:support@icmregistry.com). 
 
-ICM has further committed to refer unresolved Privacy Shield complaints to the International Centre for Dispute Resolution, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <http://go.adr.org/rs/294-SFS-516/images/PrivacyShield_Notice_of_Arbitration.pdf> for more information or to file a complaint. The services of International Centre for Dispute Resolution are provided at no cost to you. 
+ICM is further committed to refer unresolved Privacy Shield complaints to the International Centre for Dispute Resolution, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <http://go.adr.org/privacyshield.html>. The services of International Centre for Dispute Resolution are provided at no cost to you. 
+
+Additionally, under certain conditions, more fully described on the [Privacy Shield](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 Changes to this Privacy Policy
 
