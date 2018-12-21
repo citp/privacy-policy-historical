@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pointclickhome.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630011301id_/http%3A//subscribe.hearstmags.com/circulation/shared/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclickhome.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221141402id_/http%3A//subscribe.hearstmags.com/circulation/shared/privacy.html) for the most accurate reproduction.*
 
 # Hearst Magazines
 
-Last Updated: June 13, 2018
+Last Updated: December 13, 2018
 
-When you use or interact with a U.S. website, mobile app or other digital service (each a “ **Digital Service** ”) operated or owned by Hearst Communications, Inc., we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full Privacy Notice below for a detailed explanation of our practices.
+When you use or interact with a U.S. website, mobile app or other digital service (each a “ **Digital Service** ”) operated or owned by Hearst Magazine Media, Inc., we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full Privacy Notice below for a detailed explanation of our practices.
 
 ##  What Information We Obtain
 
@@ -70,7 +70,7 @@ Read more here.
 
 If you have questions about our Privacy Notice you can contact us by email at [magsprivacy@hearst.com](mailto:magsprivacy@hearst.com).
 
-**Last Updated:** June 13, 2018
+**Last Updated:** December 13, 2018
 
 ### A. Introduction
 
@@ -104,7 +104,7 @@ If you have questions about our Privacy Notice you can contact us by email at [
 
 ## A. _INTRODUCTION_
 
-This Privacy Notice applies to the U.S. website, mobile application or other digital service (each a “ **Digital Service** ”) linking to this Privacy Notice and owned or operated by Hearst Communications, Inc. (“we”, “us”, “our” or “Hearst”). This Privacy Notice describes the privacy practices of Hearst only and does not cover the practices of other companies, including those that may advertise or sponsor content, products or services on the Digital Services.
+This Privacy Notice applies to the U.S. website, mobile application or other digital service (each a “ **Digital Service** ”) linking to this Privacy Notice and owned or operated by Hearst Magazine Media, Inc. (“we”, “us”, “our” or “Hearst”). This Privacy Notice describes the privacy practices of Hearst only and does not cover the practices of other companies, including those that may advertise or sponsor content, products or services on the Digital Services.
 
 ## B. _WHAT INFORMATION WE OBTAIN_
 
@@ -324,7 +324,7 @@ In order to address our legal obligations in Europe (including the UK), Hearst p
 
 ### Who is Responsible for Your Information?
 
-If you use or interact with a Hearst U.S. Digital Service then the data controller will be Hearst Communications, Inc. The contact details for this entity are provided in the “Contact Us” section above.
+If you use or interact with a Hearst U.S. Digital Service then the data controller will be Hearst Magazine Media, Inc. The contact details for this entity are provided in the “Contact Us” section above.
 
 ### Legal Bases for Using Your Information
 
