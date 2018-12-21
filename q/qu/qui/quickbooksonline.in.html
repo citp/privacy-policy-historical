@@ -1,1536 +1,381 @@
-<!--The following is the downloaded HTML source of the quickbooksonline.in privacy policy that was archived on 2017-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615023443id_/https%3A//www.quickbooks.in/privacy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html lang="en-IN" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths formvalidation fieldsetelements fieldsetdisabled details texttrackapi track"><head>
-    <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<script type="text/javascript" id="www-widgetapi-script" src="https://web.archive.org/web/20170928081450/https://s.ytimg.com/yts/jsbin/www-widgetapi-vfleR685o/www-widgetapi.js" async=""></script><script src="https://web.archive.org/web/20170928081349/https://www.youtube.com/player_api"></script><script src="https://js-agent.newrelic.com/nr-spa-974.min.js"></script><script type="text/javascript">
-        window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{h?h-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(h+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){N++,S=y.hash,this[u]=Date.now()}function o(){N--,y.hash!==S&&i(0,!0);var t=Date.now();this[l]=~~this[l]+t-this[u],this[h]=t}function i(t,e){x.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=Date.now()})}var c="-start",s="-end",f="-body",u="fn"+c,h="fn"+s,p="cb"+c,d="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location;if(w[v]){var g=t(9),b=t(10),x=t(8),E=t(6),T=t(12),O=t(7),P=t(13),R=t("ee"),D=R.get("tracer");t(14),t("loader").features.spa=!0;var S,M=w[v],N=0;R.on(u,r),R.on(p,r),R.on(h,o),R.on(d,o),R.buffer([u,h,"xhr-done","xhr-resolved"]),E.buffer([u]),T.buffer(["setTimeout"+s,"clearTimeout"+c,u]),P.buffer([u,"new-xhr","open-xhr"+c]),O.buffer([m+c,m+"-done",m+f+c,m+f+s]),x.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",p,d,"executor-err","resolve"+c]),D.buffer([u,"no-"+u]),a(P,"open-xhr"+c),a(R,"xhr-resolved"),a(R,"xhr-done"),a(O,m+c),a(O,m+"-done"),x.on("pushState-end",i),x.on("replaceState-end",i),M("hashchange",i,!0),M("load",i,!0),M("popstate",function(){i(0,N>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",h="bstResource",p="resource",d="-start",l="-end",m="fn"+d,v="fn"+l,w="bstTimer",y="pushState";t("loader").features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+d,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,h],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(21)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",h="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(h+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,h=a.Response,p=a.fetch,d="prototype";u&&h&&p&&(i(f,function(t,e){r(u[d],e,s),r(h[d],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(21)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(21)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(21),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(21)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",h="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+h),a.inPlace(window,[s],s+h),a.inPlace(window,[f,"clearImmediate"],f+h),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){h.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),h.inPlace(t,v,"fn-",c)}function i(t){w.push(t),l&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),h=t(21)(u),p=NREUM.o,d=p.XHR,l=p.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new d(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(d,y),y.prototype=d.prototype,h.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var g=1,b=document.createTextNode(g);new l(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<h;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],h=u.length,p=t("id"),d=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,d&&(d>34||d<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<h;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],h="api-",p=h+"ixn-";a(u,function(t,e){f[e]=o(h+e,!0,"api")}),f.addPageAction=o(h+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){h([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(p){throw f(e+"err",[r,a,p],c),p}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){h([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){h([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function h(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=p(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function h(t,e){m[t]=p(t).concat(e)}function p(t){return m[t]||[]}function d(t){return u[t]=u[t]||o(n)}function l(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:h,emit:n,get:d,listeners:p,context:e,buffer:l};return w}function i(){return new r}var a="nr@context",c=t("gos"),s=t(19),f={},u={},h=e.exports=o();h.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(19),f=window,u=f.document,h="addEventListener",p="attachEvent",d=f.XMLHttpRequest,l=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(16);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-974.min.js"},w=d&&l&&l[h]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:w};u[h]?(u[h]("DOMContentLoaded",i,!1),f[h]("load",r,!1)):(u[p]("onreadystatechange",o),f[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,14,5,3,4]);
-        ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"14c3803a97",applicationID:"7416281",sa:1}
-        </script>
-<meta name="keywords" content="">
-  <meta name="description" content="">
-  <meta name="robots" content="">
-
-  <script type="text/javascript">
-    window._dynamicPricingDomain = '';
-  </script>
-  
-<link rel="icon" type="image/x-icon" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-196x196.png">
-  <link rel="shortcut icon" type="image/x-icon" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-16x16.png">
-  <link rel="apple-touch-icon-precomposed" sizes="60X60" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-114x114.png">
-  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-144x144.png">
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/etc/designs/harmony/images/favicon/quickbooks/apple-touch-icon-152x152.png">
-  <title>Privacy Policy | Intuit QuickBooks® India</title>
-    <link rel="stylesheet" href="/etc/designs/harmony/assets/brand_x/standard.css" type="text/css">
-<script type="text/javascript" src="/etc/designs/harmony/assets/brand_x/standard_top_js.js"></script>
-<!-- Optimisely -->
-    <!-- End of Optimisely -->
-
-<!-- Enable Ensighten Script and SC Ensighten Vars starts -->
-<script type="text/javascript" src="//ensighten-partner.intuitstatic.com/intuitintl/IN_SBG_PROD/Bootstrap.js"></script>
-<script type="text/javascript">
-      if (typeof(wa) == "undefined") {
-        wa={}
-      }
-      wa.pageLoadStart    = new Date();
-      wa.siteName         = "";
-      wa.siteGroup        = "";
-      wa.siteHost         = "";
-      var aryProd         = "";
-      if (aryProd != "") {
-        wa.aryProducts = JSON.parse(aryProd);
-        wa.eventList = "prodView";
-      }
-      //sbm_intuit_id cookie value saved in wa.visitorID for Ensighten to store in var74
-      /*i.com does not use harmony standard page templates which will cause js error when Intuit.Library.Cookie is accessed. Adding
-      check if Intuit.Library.Cookie varialbe is defined 04/01/14 - sjakka1. This can be removed when i.com moves to harmony standard page template*/ 
-      if(typeof Intuit.Library.Cookie != "undefined"){
-        wa.userId = Intuit.Library.Cookie.getUUID();
-      }
-    </script>
-<!-- End of Ensighten vars -->
-
-<!-- Live Person -->
-<!-- End of Live Person -->
-
-<!-- Evergage -->
-<!-- Evergage End -->
-
-<!-- Adding the cache control header -->
-<!-- Aggregate Processor - Enable SC Ensighten Vars -->
-<script type="text/javascript">
-    /**
-    * script that will create var for ensighten consumption
-    */
-    (function(window){
-        var Intuit = window.Intuit || {};
-        Intuit.Data = Intuit.Data || {};
-        Intuit.Data.aggregate = Intuit.Data.aggregate || {};
-        Intuit.Data.aggregate.json = {};
-	Intuit.Utils = Intuit.Utils || {};
-        Intuit.Utils.Constants = Intuit.Utils.Constants || {};
-        if(true){
-          Intuit.Utils.Constants.CountryCode = "";
-          Intuit.Utils.Constants.RegionCode = "";
-          Intuit.Utils.Constants.ClientIP = "207.241.229.237";
-          Intuit.Utils.Constants.Geo = "";
-          Intuit.Utils.Constants.X_Forward_Ip = "";
-        }
-        else{
-          console.log("Country Code not set");
-        }
-        
-	
-        
-        Intuit.Data.aggregate.getDynamicVariable = function(references) {
-            var i, l = references.length, tmp, reference;
-            for (i = 0; i < references.length; i++) {
-                reference = references[i];
-                tmp = new Function('if(typeof '+reference+' !== "undefined") return ' + reference)();
-                if (typeof tmp !== 'undefined') {
-                    return tmp;
-                }
-            }
-            return '';
-        };
-        
-        var dynamicVars = JSON.stringify(Intuit.Data.aggregate.json['dynamic_vars']),
-            parseDynamicVars = function() {
-                return JSON.parse(dynamicVars, function(key, value){
-                    var i;
-                    if (value && typeof value === 'string' && value.indexOf('=dom') !== -1) {
-                        return new Function('return Intuit.Data.aggregate.getDynamicVariable(' + value.replace('=dom','') + ')')();
-                    }
-                    return value;
-                });
-            };
-        
-        /**
-        *
-        * API to get PR data layer object - the later it's called, the more likely it is it will have all the correct DOM sourced values
-        *
-        * @type {parseDynamicVars}
-        * @private
-        */
-        window._getPrDataLayer = parseDynamicVars;
-        window.Intuit = Intuit;
-    }(window));
-</script>
-<!-- AEM Mode Setup in JS-->
-<script type="text/javascript">
-        $(function($, window, document){
-        if (typeof Intuit.AEMMode === 'object') { return; }
-            window.Intuit && (window.Intuit.AEMMode = {});
-        }(jQuery, window, document));
-        window.Intuit.AEMMode.env = "publish";
-    </script>
-	<!-- End of AEM Mode Setup -->
-    <script>
-        window._templateCountryCode = 'IN';
-    </script>
-</head>
-<body class="wload"><div class="header-temporary-fixed"></div>
-    
-
-
-<header class="clearfix">
-    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-
-
-
-<div class="include-container">
-
-            
-                    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None" style="" id="globalNavHeader">
-            
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None global-header-resp site-header show" style="">
-            
-<div class="container-fluid">
-    <div class="row resp_grid grid-container-960"><div class="drawer-btn-ctnr hidden-lg hidden-md col-sm-1 col-xs-1"><a id="drawer-link" class="drawer-closed" href="#drawer-link"><div class="drawer-btn"></div><button type="button" class="mobile-menu-toggle collapsed" aria-expanded="false" aria-controls="navbar">  <span class="sr-only">Toggle navigation</span>  <span class="bar bar-top"></span>  <span class="bar bar-middle"></span>  <span class="bar bar-bottom"></span></button></a></div>
-            <div class="navhdr-icons-ctnr col-md-3 col-sm-8 col-xs-5"> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None navhdr-icons" style="">
-              <div class="icon-font clearfix">
-           <i class="sbg_one test-icon  i-left fcolor-prim  ">
-           </i>
- </div>
-
-  <div class="icon-font clearfix">
-        <a href="/">
-           <i class="sbg_one logo-quickbooks-185x40  i-center   ">
-           </i>
-        </a>
- </div>
-
-
-</section>
-
-
-            </div>
-            <div class="navhdr-menu-ctnr col-md-5 hidden-sm hidden-xs"> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None navhdr-menu" style="">
-            
-
-
-
-
-
-    
-
-
-<div class="ctext"><ul>
-<li><a data-wa-link="hdr-QBIN-SMB" adhocenable="false" href="//www.quickbooks.in/online-accounting-features/">Small Business</a><ul>
-<li><a data-wa-link="hdr-QBIN-SMBfeatures" adhocenable="false" href="//www.quickbooks.in/features/">QuickBooks Features</a></li>
-<li><a data-wa-link="hdr-QBIN-SMBmobileapp" adhocenable="false" href="//www.quickbooks.in/mobile-phone-app/">Download Our Free Mobile App</a></li>
-<li><a data-wa-link="hdr-QBIN-SMBpayroll" adhocenable="false" href="//www.quickbooks.in/payroll-software/">Payroll</a></li>
-<li><a data-wa-link="hdr-QBIN-FINDANACC" adhocenable="false" href="http://proadvisor.intuit.com/search/index-standalone.html?v3&amp;region=in#/landing">Find an Accountant</a></li>
-<li><a href="https://apps.intuit.com/?locale=en-IN" target="_blank" adhocenable="false" data-wa-link="hdr-QBIN-AppStore">QuickBooks Apps Store</a></li>
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTsbc" adhocenable="false" href="http://www.quickbooks.in/r/">Small Business Center</a></li>
-</ul>
-</li>
-<li><a adhocenable="false" data-wa-link="hdr-QBIN-ACC" href="//www.quickbooks.in/accountants/">Accountants</a><ul>
-<li><a href="http://www.firmofthefuture.in/" data-wa-link="hdr-QBIN-ACCfirmofthefuture" adhocenable="false">Firm Of The Future</a></li>
-<li><a adhocenable="false" data-wa-link="hdr-QBIN-ACCcertification" href="//www.quickbooks.in/accountants/certification/">QuickBooks Training &amp; Certification</a></li>
-<li><a adhocenable="false" data-wa-link="hdr-QBIN-ACCproadvisorprogram" href="//www.quickbooks.in/accountants/proadvisor/">ProAdvisor Portal</a></li>
-</ul>
-</li>
-<li><a adhocenable="false" data-wa-link="hdr-QBIN-GST" href="http://www.quickbooks.in/r/gst/">GST Center</a><div class="submenu-header-div">&nbsp;</div>
-</li>
-<li><a href="#">Learn &amp; Support</a><ul>
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTvideotuto" adhocenable="false" href="https://www.youtube.com/playlist?list=PL17GKVK2gsn0LkYKm5tFXfB9qD2MpW8fa" target="_blank">QuickBooks Tutorials</a></li>
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTwebinars" adhocenable="false" href="//www.quickbooks.in/webinars/">Webinars</a></li>
-<hr>
-
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTsupport" adhocenable="false" href="https://community.intuit.com/quickbooks-online-in">QuickBooks Support</a></li>
-<li><a data-wa-link="hdr-QBIN-FINDQBEXPERT" adhocenable="false" href="http://proadvisor.intuit.com/search/index-standalone.html?v3&amp;region=in#/landing">Find a QuickBooks Expert</a></li>
-<hr>
-
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTsbc" adhocenable="false" href="http://www.quickbooks.in/r/">Small Business Center</a></li>
-</ul>
-</li>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</ul>
-</div>
-
-
-
-</section>
-
-
-            </div>
-            <div class="navhdr-cta-ctnr col-md-4 col-sm-5 col-xs-2"> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None navhdr-cta ctawrapperright" style="">
-            
-    <div class="resp_grid grid_default">
-            <div class=""> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-
-
-
-
-        <div class="ccta"><a id="freetrial" class="ctatertiary ctaright" style="display:none"></a>
-
-<div class="header__call">
-  <span class="header__speak">Speak to an expert</span> 
-  <span class="header__tel">1800 102 5599</span>
-  <div class="header__demo">
-    <p class="call">Toll free: 1800 102 5599</p>
-    <p>If you’re considering QuickBooks for your business, we’re here to help</p>
-    <p class="hr-line">Monday to Saturday <br>9:30 am – 6 pm</p>
-    <p class="hr-line"><a data-wa-link="hdr-QBIN-ProdSuppHelp" href="https://help.quickbooks.intuit.com/en_IN/contact">Product Support &amp; Help</a></p>
-  </div>
-</div>
-</div>
-
-
-</section>
-
-
-            </div>
-            <div class=""> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-
-
-
-
-<div class="ccta cta-align-center" data-qe-id="26b39dca-1bd4-48d7-b75b-428efa4bdf3a">
-<a class="ctasecondary ctacenter  " href="https://qbo.intuit.com/qbo37/login?locale=en_IN" target="_blank" data-wa-link="hdr-QBIN-SignInCTA">Sign In</a>
-</div>
-
-
-
-
-
-
-
-    
-
-
-<div class="ctext"><ul> <li><a href="https://qbo.intuit.com/qbo37/login?locale=en_IN" data-wa-link="hdr-QBIN-SignInCTAqbo">QuickBooks</a></li> <li><a href="https://partnerportal.intuit.com/?locale=en-in" data-wa-link="hdr-QBIN-SignInCTAproadvisorprogram">QuickBooks ProAdvisor Portal</a></li> </ul></div>
-
-
-
-</section>
-
-
-            </div>
-    </div>
-
-</section>
-
-
-            </div>
-    </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-        <style>
-.header__demo{
-  display: none;    
-  background: #fff none repeat scroll 0 0;
-    border: 1px solid #666;
-    padding: 10px;
-    position: absolute;
-    right: 0;
-    width: 217px;
-}
-.header__call { text-align: right; z-index: 9;font-size: 12px;}
-.header__call:hover .header__demo{display: block;}
-.header__demo p{
-  padding: 10px 20px;
-  line-height: 13px;
-  color: #202020;
-  text-align: left;
-}
-.header__demo .call:before {
-    content: "";
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    background-image: url('/etc/designs/harmony/images/global-sprite-fallback.png');
-    background-image: url('/etc/designs/harmony/images/global-sprite.svg');
-    background-repeat: no-repeat;
-    background-position: -210px -400px;
-    vertical-align: -6px;
-    margin: 0 5px 0 -15px;
-}
-.navhdr-menu hr{
-  margin: 0 auto;
-  border-top: 1px solid #CCCCCC;
-  width: 220px;
-}
-.ccta:hover .header__call{
-  color: #505050;
-}
-.navhdr-cta-ctnr .row .col-md-6:first-child .ccta{
-    z-index: 3;
-  }
-  #globalNavHeader .global-header-resp div.navhdr-cta-ctnr .signin-hover{
-  width: 200px;
-}
-#globalNavHeader .global-header-resp .ctext li {
-    line-height: 0px;
-}
-@media (max-width: 767px){
-  .navhdr-menu hr{
-    margin:0 auto 10px;
-    width: 220px;
-  }
-  .header__call{display: none;text-align: center;}
-  #sidr .header__call{display: block;}
-  #sidr .header__demo{
-    position: static;
-    display: block;
-    margin-top: 10px;
-    text-align: left;
-  }
-  #sidr .header__demo p{
-    font-size: 13px;
-  }
-  #sidr.left .navhdr-cta .ccta{
-    height: auto;
-  }
-  #sidr a:not([href]):not(.has-submenu){
-    display: none;
-  }
-}
-#globalNavHeader .navhdr-menu ul:first-child > li > a, #globalNavHeader .navhdr-menu ul:first-child > li > a:visited {
-     text-transform: none;
-}
-
-#globalNavHeader .navhdr-menu ul:first-child > li ul {
-  margin: 32px 0 0 0;
-}
-
-#globalNavHeader .navhdr-menu ul:first-child > li > a, #globalNavHeader .navhdr-menu ul:first-child > li > a:visited {
-    font: 15px/20px "Avenir Next LT Pro", "Avenir Next", "Futura", sans-serif !important;
-}
-.header__call span {
-    display: block;
-}
-.sidr.left ul > li > div .submenu-text, .sidr.left > ul > li > ul > li > a {
-    font: 14px/44px "Avenir Next LT Pro", "Avenir Next", "Futura", sans-serif !important;
-    color: #d4d7dc !important;
-}
-</style>
-
-
-</section>
-
-
-</section>
-
-
-                
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-<div class="include-container">
-
-            
-                    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-
-
-
-
-        <!--
-<script type="text/javascript">
-          var lpTag = lpTag || {}; lpTag.vars = lpTag.vars  || []; lpTag.dbs = lpTag.dbs || [];
-            lpTag.section = 'default'; 
-        
-            var arrLPvars = [ 
-                { scope:'page', name:'unit', value:'qb-india-sales' },
-                { scope:'session', name:'language', value:'english' },
-                // You can add as many other variables as you need
-                { scope:'page', name:'Section', value:'value' }
-            ];  
-    lpTag.vars.push(arrLPvars);
- </script>
- <script type="text/javascript"> 
-    $(window).load(function() {
-            
-
-            var jsLink = $("<script type='text/javascript' src='//intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.in-harmony/js/le-mtagconfig1.js'/>");
-            $("body").append(jsLink);
-    });
-
-</script>
--->
-<!-- <script type="text/javascript" src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.in-harmony/js/le-mtagconfig1.js"></script> -->
-<style>
-
-
-.chat-button-container a.ctasecondary,
-.chat-button-container input.ctasecondary,
-.chat-button-container span.ctasecondary {
-    color: #ffffff;
-    line-height: 1.8em;
-    border: 1px solid #304f9d;
-    border-radius: none none;
-    background: #3f6dc9;
-    background: -webkit-linear-gradient('top', #3f6dc9 100%, #3054b8 100%);
-    background: -moz-linear-gradient('top', #3f6dc9 100%, #3054b8 100%);
-    background: -o-linear-gradient('top', #3f6dc9 100%, #3054b8 100%);
-    background: -ms-linear-gradient('top', #3f6dc9 100%, #3054b8 100%);
-    background: linear-gradient(to bottom, #3f6dc9 100%, #3054b8 100%);
-font-family: "DIN Next LT Pro 400", "DIN Next LT Pro", "Consolas", "Monaco", "Lucida Console", sans-serif;
-    font-weight: 400;
-    font-size: 14px;
-    height: 30px;
-    -webkit-box-sizing: border-box;
-    /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box;
-    /* Firefox, other Gecko */
-    box-sizing: border-box;
-    /* Opera/IE 8+ */
-    text-align: left;
-}
-.chat-button-container a.ctasecondary:hover,
-.chat-button-container input.ctasecondary:hover,
-.chat-button-container span.ctasecondary:hover {
-font-weight: 400;
-    font-size: 14px;
-    height: 30px;
-padding-top: 1px;
-}
-div.chat-button-container {
-padding: 4px 8px 0;
-}
-#chatContainer{
-  margin-top: 6px;
-}
-.header-right-col {
-  top: 250px;
-}
-#chatContainer .chat-icon{
-  background: url(//www.quickbooks.in/content/dam/intuit/quickbooks/i18n/en/in/Homepage/icon_chat_bg.png) no-repeat 0 0;
-  height: 39px;
-  margin: 0 0 0 5px;
-  width: 34px;
-}
-#chatContainer.ie {
-top: 35px;
-}
-</style>
-
-
-
-
-<div class="header-right-col melody_style_sticky " style="right: -163px;">
-    <div class="right-col-container">
-        <ul class="clearfix">
-            <li class="phone-icon-section clearfix" id="phoneContainer" style="right: 0px;">
-                <div class="for-sales-content-section clearfix">
-                    <div class="icon-bg-section"></div>
-                    <div class="for-sales-content" style="width: 163px;"><div class="ctext">
-  <p><span class="p3" style="background: rgb(255, 255, 255) none repeat scroll 0% 0%; padding: 5px;">Call For a Demo:</span></p>
-
-</div></div>
-                </div>
-                <div class="phone-icon-content-section clearfix melody-phone-fix">
-                    <div class="icon-bg-section">
-                        <div class="phone-icon melody-img-position"></div>
+<!--The following is the downloaded HTML source of the quickbooksonline.in privacy policy that was archived on 2018-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221224404id_/https%3A//security.intuit.com/index.php/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-gb"><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/templates/system/css/system.css">  
+<link rel="stylesheet" href="/templates/intuit/css/style.css">
+<link rel="stylesheet" href="/templates/intuit/css/bootstrap.css">
+<link rel="stylesheet" href="/templates/intuit/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/templates/intuit/css/fonts/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" href="/templates/intuit/css/flexslider.css">
+<link rel="stylesheet" href="/templates/intuit/css/jquery.isotope.css" media="screen">
+
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/templates/intuit/images/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/templates/intuit/images/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/templates/intuit/images/apple-touch-icon-57-precomposed.png">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/templates/intuit/js/respond.src.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script src="/templates/intuit/js/jquery.easing.1.2.js" type="text/javascript"></script>
+<script src="/templates/intuit/js/jquery.anythingslider.fx.min.js" type="text/javascript"></script>
+<script src="/templates/intuit/js/jquery.anythingslider.min.js" type="text/javascript"></script> 
+<script src="/templates/intuit/js/slide.js" type="text/javascript"></script>  
+<script src="/templates/intuit/js/libs/bootstrap/bootstrap.min.js"></script> 
+<script src="/templates/intuit/js/jquery.flexslider-min.js" type="text/javascript"></script> 
+<script src="/templates/intuit/js/jquery.ui.totop.min.js" type="text/javascript"></script> 
+<script src="/templates/intuit/js/selectnav.js" type="text/javascript"></script> 
+<script src="/templates/intuit/js/jquery.isotope.js" type="text/javascript"></script>
+<script src="/templates/intuit/js/custom.js" type="text/javascript"></script>
+
+  <base href="https://security.intuit.com/index.php/privacy">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="author" content="Thomas Carranza">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Privacy</title>
+	<link href="/templates/intuit/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="https://security.intuit.com/index.php/component/search/?Itemid=104&amp;format=opensearch" rel="search" title="Search Security.intuit.com" type="application/opensearchdescription+xml">
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"406f1a8701cc5c5b80f923466526f893","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/system/js/mootools-core.js?bb4629df75dff2eae2194eddaacbb935" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?bb4629df75dff2eae2194eddaacbb935" type="text/javascript"></script>
+
+<link rel="stylesheet" href="/templates/intuit/css/linelab.css">
+
+<link rel="stylesheet" href="/templates/intuit/css/in_style.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Days+One">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Cabin">
+<script type="text/javascript">var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-81185812-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+          </script></head>
+ <body class="box24bg jtpimg">
+  <div class="tboxname topmenulab tbtboxname tblboxname tbboxname hidden-phone">
+	<div class="container">
+	  <div class="row-fluid">
                     </div>
-                    <div class="phone-icon-content" style="width: 163px;"><div class="ctext">
-  <p style="text-align: center;"><span class="p1"><b>1800 102 5599</b></span></p>
-
-</div></div>
-                     <p class="phone-sticky-label">Phone</p> 
-                </div>
-            </li>
-            <li class="chat-icon-section clearfix ob" id="chatContainer">
-                <div id="divButton-qb-india-sales-english-scroll"></div>
-            </li>
-         </ul>
     </div>
-</div>
-
-<style>
-@media screen and (min-width:0\0) { 
-    .melody-phone-fix {position: absolute}
-}
-</style>
-<!--[if IE]>
-<script>
-$(document).ready(function() {
-$(".melody_style_sticky").css("right","-163px");
-$(".melody-phone-fix").css("position", "absolute");
-});
-</script>
-<![endif]-->
-
-
-<script type="text/javascript">
-// detect IE
-
-$(document).ready(function(){
-   var IEversion = detectIE();
-    if (IEversion == false) {
-        $('#chatContainer').addClass('ob');;
-    } else {
-        $('#chatContainer').addClass('ie');
-    } 
-})
-function detectIE() {
-    var ua = window.navigator.userAgent;
-    var msie = ua.indexOf('MSIE ');
-    if (msie > 0) {
-        return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
-    }
-    var trident = ua.indexOf('Trident/');
-    if (trident > 0) {
-        var rv = ua.indexOf('rv:');
-        return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
-    }
-    var edge = ua.indexOf('Edge/');
-    if (edge > 0) {
-        return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
-    }
-    return false;
-}
-</script>
-
-
-</section>
-
-
-                
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-        <style>
-.header__demo p{
-    white-space: normal;
-}
-#globalNavHeader .navhdr-cta .grid_default > div:nth-child(1):after{
-border: 0
-}
-.chat-button-container a.ctasecondary{
-  background: #000;
-  color: #fff;
-}
-#chatContainer .chat-icon{
-  background: url('/etc/designs/harmony/images/global-sprite.svg');
-  background-position: -299px -399px;
-  height: 20px;
-  margin: 10px 0 0 10px;
-  width: 20px;
-}
-.header-right-col .phone-icon{
-  top: -6px;
-}
-</style>
-
-
-</section>
-
-       
-</header>
-
-
-
-    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            <dynamic-aem-content data-path="/content/quickbooks/en/in/privacy/jcr:content/cq-nav-promo/container/promo_banner" data-sling-resource-type="harmony/components/resp/common/promo_banner"><!-- ESI Code -->
-</dynamic-aem-content>
-</section>
-
-
-
-
-
-
-<section id="main">
-    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-</section>
-
-
-    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer bg-white ss-section" style="" id="section-1">
-            <div class="content-container">
-                
-
-
-
-
-
-    
-
-
-<div class="ctext"><h2>Intuit Small Business Privacy Statement</h2></div>
-
-
-
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None ss-intermediate-subhead" style="">
-            
-
-
-<hr class="interspace_divider ">
-
-
-
-
-
-
-    
-
-
-<div class="ctext"><p>At Intuit, we value our relationship with you and place the highest importance on respecting and protecting your privacy. We want you to feel comfortable and confident when using our products and services and with entrusting your personal, company and financial information to us. The full Intuit Small Business Privacy Statement can be found by going to <a href="https://security.intuit.com/index.php/privacy" target="_blank">http://smallbusiness.intuit.com/small-business/privacy/#privacyStatement</a>.</p>
-<p>The following Intuit businesses and processes adhere to the <b>US Safe Harbor Privacy Principles</b> of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the <a href="http://2016.export.gov/safeharbor/">U.S. Department of Commerce’s Safe Harbor Program</a>: QuickBooks Global, Intuit Brainstorm and the Intuit Procurement contracting and Purchasing process.</p>
-<p><span class="p1">Information we collect</span> <a href="#infoCollect">Click here </a>for more information</p>
-<ul>
-<li>We collect personal information such as your name, shipping/billing address, e–mail, phone, and credit card number when you interact with us for sales, service, support, registration and payment.</li>
-<li>We may collect and store sensitive information such as account and purchase information on your behalf as part of the services provided to you.</li>
-<li>We collect personal information to deliver or allow access to our products and services.</li>
-<li>We collect information about your system as it interacts with us such as your IP address and browser information.</li>
-<li>We use common internet technologies, such as cookies and Web beacons to manage our Web sites and services, advertising and e–mail programs.</li>
-<li>We collect user feedback, community discussions, chats and other interactions at our sites.</li>
-<li>We may obtain additional information about you, such as demographic information, from commercially available sources.</li>
-</ul>
-<p><span class="p1">Protecting your Information:</span></p>
-<p>Intuit works to protect your personal information from loss, misuse, or unauthorized alteration by using industry–recognized security safeguards, coupled with carefully developed security procedures and practices. We maintain physical, electronic and procedural safeguards that comply with applicable laws and federal standards. We use both internal and external resources to review our security procedures. Your sensitive information, such as credit card information, is encrypted when it is transmitted to us. Our employees are trained and required to safeguard your information. <a href="#infoSecurity">Click here</a> for more information.</p>
-<p><span class="p1">Uses</span></p>
-<p><a href="#infoSecurity">Click here</a> for more information.</p>
-<p>&nbsp;</p>
-<ul>
-<li>We do not sell or rent your personal information with anyone for promotional or marketing purposes.</li>
-<li>We do not share your personal information with anyone outside of Intuit for their promotional or marketing use without your consent.</li>
-<li>We use your personal or financial information to provide you with information and services you request, to tell you about other products and services, and to give you a customized interactive experience as you use our products.</li>
-<li>We also use the information for support, to develop new features, and to improve the overall quality of Intuit’s products and services.</li>
-<li>We may also use the information to show you a history of your activity, to provide you with statistics about you or your use of our product or service, or to provide you with a better user experience.</li>
-<li>We may summarize information about you, in a way that does not identify you personally, and combine it with other information to understand how our products are used, to deliver products and services and to help us develop new products and services.</li>
-<li>We may use service companies to help provide you products and services who are not allowed to use your information for their own purposes.</li>
-</ul>
-<p><span class="p1">Your Choices</span></p>
-<p>Update your contact preferences <a href="https://privacy.intuit.com/cpi/do/preferences?p_isForeign=0&amp;z=http%3A//about.intuit.com/privacy/&amp;dialog=0&amp;p_sourceid=5&amp;p_closeoncancel=0&amp;hidenav=0&amp;p_prioritycode=" target="_blank">here</a>.</p>
-<p><span class="p1">How to Contact Us</span></p>
-<p>If you have questions or concerns about Intuit’s collection, use, or disclosure of your personal information, please contact the <a href="https://security.intuit.com/index.php/privacy" target="_blank">Privacy Team</a><br>
-Or write to us at:<br>
-Privacy Team<br>
-Intuit Inc,<br>
-2800 East Commerce Center Place,<br>
-Tucson, AZ 85706</p>
-<p><a href="http://smallbusiness.intuit.com/small-business/privacy/index.jsp#privacyStatement" style="display: block;"><img src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.in-harmony/images/trust-img01.jpg"></a>Intuit has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="https://www.truste.com/privacy-certification-standards/">TRUSTe’s program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the address posted above. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.</p>
-<p><span class="p1">Intuit Small Business Privacy Statement</span></p>
-<p><a href="https://security.intuit.com/index.php/privacy" style="margin-top: -8px; float: left; margin-left: 4px; display: inline;"><img src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.in-harmony/images/trust-img01.jpg"></a></p>
-<p>At Intuit, we value our relationship with you and place the highest importance on respecting and protecting the privacy of our customers. To help you feel comfortable and confident when using our Web sites, here are the principles that govern our information practices and other privacy aspects of our Web sites. When we use the words "personal information," we’re referring to information that personally identifies you. This privacy statement applies to all Intuit Small Business sites and services that display or link to the statement.</p>
-<p><span class="p1"><a name="infoCollect"></a>INFORMATION WE COLLECT</span></p>
-<p>Some Intuit financial products require you to register your purchase. During the registration process we ask for your name, business address and phone number, e–mail address and company name. If you register online, your software license and version information may be sent to Intuit automatically. We may also ask you to answer some optional questions about yourself and your business and how you use the product. We may obtain additional information about you, such as address change information, from commercially available sources, in order to keep our records current.</p>
-<p>When purchasing some financial services, such as payroll or payments processing, we may also ask for company financial information, social security number, Federal Employer Identification Number, employee information and other information necessary to process the service application or fulfill the service. We may use this information to verify your identity and creditworthiness. If you are signing up for a financial service from within your software, we may prefill some information from your software to assist you in the application process. When you sign up for additional financial services, we may use previous application information to determine if you qualify for other services. You will be able to change or update information on the application prior to submitting. We may also use this information to assist you in filling out other applications for financial services.</p>
-<p>You may use Intuit ProLine tax preparation products and services to assist you with the preparation and electronic filing of tax returns. "Tax return information" is information that taxpayers provide in order to prepare a tax return using an Intuit ProLine tax product. The use and disclosure of tax return information is governed by Section 7216 of the Internal Revenue Code and many state codes and regulations. Intuit discloses or uses tax return information only in accordance with applicable laws, to prepare, assist in preparing, or obtain or provide services in connection with preparing tax returns.</p>
-<p><span class="p1">Disclosing Your Data</span></p>
-<p>Intuit may also transfer personal data to Intuit–affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred.<b> BY SUPPLYING PERSONAL DATA TO INTUIT, YOU CONSENT TO ANY SUCH TRANSFER.</b></p>
-<p><span class="p1">COLLECTION OF INFORMATION IN MOBILE APPLICATIONS</span></p>
-<p>When using Intuit mobile applications and services, we may collect personal information from you such as your phone number, mobile device type, and carrier. We use this information in order to set up and manage your account as well as contact you about your services. If you use location–enabled products and services, you may be sending Intuit location information. This information may or may not reveal your actual location. We use your information to process and personalize your requests. We also use the information for support, to develop new features, and to improve the overall quality of Intuit’s products and services. We may also use the information to show you a history of your activity, to provide you with statistics about you or your use of our product or service, or to provide you with a better user experience. If you give us permission, we may also use your information to contact you about special offerings that may interest you. If you sign up for a mobile message service, you will have the opportunity to stop receiving mobile messages by following the instructions in the message.</p>
-<p>Your mobile service provider may be required to monitor your messages for inappropriate content, and that provider may pass on that monitoring obligation to Intuit. To fulfill these requirements, Intuit may monitor your mobile messages for inappropriate content.</p>
-<p>If you sign up for an Intuit mobile messaging service through which you have the ability to send mobile messages to other individuals or businesses, you are required to follow all applicable laws, including unsolicited communication laws.</p>
-<p>If you sign up for a third–party application or service, we may share information about your mobile device in order to provide the service you requested. Your carrier may have access to information we collect. We suggest that you review your carrier's privacy statement and the privacy statements for any third–party applications or services you use.</p>
-<p><span class="p1">HOW WE USE INFORMATION</span></p>
-<p><u>To provide Web Based, Web Connected and Financial Services</u></p>
-<p>Intuit financial software products are Web–enabled. You can access some of our services from within our desktop products and others directly at a Web site. Some desktop features require Internet access and will open in a browser window in the software, which will pass through an Intuit server before being redirected onto the Internet. If the software cannot find a connection, it may ask you to establish one. When you are connected to the Internet from within the software we may also include product updates and messages, service information and help content in the Internet transmissions.</p>
-<p>If you choose, your software can check our Web site for Automatic Updates. Then the software will automatically check for updates when you are connected to our servers. If you prefer, you can download updates manually from our Web site. When you receive updates, Intuit will receive technical information about your computer’s connection and the software being updated. When you access our Web–enabled services from within our desktop products we will note the link you clicked on and we may also collect information about your product, system or other technical data that will help us direct you to the appropriate information or service. Some of our Web–enabled products and services synchronize with the information on your computer to help keep the data accurate and provide additional online services. In some cases, you can manage the frequency of these updates. If you no longer want to synchronize data, you can cancel the service through the service administration pages.</p>
-<p>We may access and set cookies using Web beacons, also known as single–pixel GIFs, which are invisible graphical images. These Web beacons provide useful information regarding our site, such as the pages visitors view. When we track activity on this or other Intuit Web sites, we collect information such as your IP address, browser type and version, and pages you view. We also keep track of how you get to our sites and any links you click on to leave our sites. We do not track URLs that you type into your browser, nor do we track you across the Internet once you leave our sites. We use your Web site activity to assist you by reducing the need to re–enter your data and to help us resolve technical support issues. We may also use this information to offer you a personalized Web experience, and to tailor our offerings to you. Remember, you control whether you receive Intuit promotional communications through e–mail, phone, or postal mail.</p>
-<p>To help us collect site usage data, we use service providers to place Web beacons on specific Web pages and send usage information about that page via the use of cookies. These cookies and Web beacons to not transmit personally identifiable information to Intuit or to our service providers. All Web navigation data is used in the aggregate to improve our product and site performance.</p>
-<p>When we send you e–mails, we may include a Web beacon to determine how many people open our e–mails. When you click on a link in an e–mail, we record this individual response to customize our offerings to you.</p>
-<p>Advertising networks that serve ads on this and other Web sites may assign a different cookie to you. The information collected is anonymous and is not linked to your personal information. These cookies may be used to select which ads you see on Web sites and determine the effectiveness of this advertising. You may choose to decline cookies from third–party ad servers, which Intuit does not control. If you would like to know more about this practice and your choices about not having this information used by third–party ad servers, please <a href="http://optout.networkadvertising.org/" target="_blank">click here</a></p>
-<p>To provide you with services that connect with your financial institution, we must access your online account. We request the user name, password and any other login information that you have set up with your financial institution to enable access. We use your login credentials to routinely update and maintain the financial information you download, to address errors or service interruptions, and to enhance the services we may provide in the future. If we store your login credentials, we will maintain and encrypt them on our firewall–protected servers. Some financial institutions require you to manually update your financial information and re–enter your login information before downloading each transaction. This information is encrypted and transmitted using secure socket layer technology, making it unreadable during transmission. It is then stored on our secure servers. We also periodically receive aggregated, anonymous, general usage information from financial institutions or their processors, including which online services are used and the frequency of usage. This information helps us improve our services and assist us with troubleshooting and technical support.</p>
-<p>Some products and services permit you to grant access and specify permissions for those you authorize to use the service. As a result, we store the personal information of those granted access. This information may include name, email address, username/ password, and security challenge questions and answers.</p>
-<p>Workplace.intuit.com is an online marketplace for Web Applications that run on the Intuit Partner Platform. When the application is developed by a third party, that third party will be identified and the third party's privacy policy will apply. When applications are developed and offered by Intuit, this privacy policy applies. Intuit also provides a subscription Web site hosting service. This privacy statement does not apply to any Web site of a third party subscribing to that service. Any information you provide for the purpose of registering a domain name will become part of the public WHOIS database</p>
-<p>Products and services under this privacy statement are not "HIPAA–ready" or "HIPAA–compliant," and will not assist with or ensure compliance with HIPAA, the Health Insurance Portability and Accountability Act. You are solely responsible for using these products and services to comply with all applicable federal and state privacy laws relating to medical or health information.</p>
-<p>We transmit, store, protect and access all cardholder information in compliance with the Payment Card Industry’s Data Security Standards. We transmit, store, protect and access all checkwriter information in compliance with National Automated Clearing House (NACHA) regulations. Check payment transactions are verified against, and are added to, National Check Network’s check verification and credit reporting database. Your customers’ cardholder and check data, including account numbers, financial institutions, expiration dates, transaction amounts and service codes, may be stored and retained by Innovative Merchant Solutions and Electronic Clearing House to provide the product and service that you have requested</p>
-<p>Intuit and its subsidiaries may exchange information about your transactions to fulfill your requests. We may also provide you information about products or services we believe you may be interested in unless you have asked us not to contact you. We offer you the opportunity to review privacy practices at our subsidiaries’ Web sites.</p>
-<p class="p1" style="text-decoration: underline;">To provide Community and Feedback</p>
-<p>We provide discussion forums, blogs and other community–oriented features that enable forum members to communicate with other members. To participate in the forum, we require you to register with a valid e–mail address. We recommend that you exercise discretion in posting personal information on these message boards. Any information you provide is accessible by other users. We also have many places where users can provide feedback and suggestions. It is optional to provide your personal information. These submissions are not confidential or proprietary, and we may publish this information in a way that does not identify you personally</p>
-<p>Some of our marketing emails have a "Refer–a–Friend" feature that provides you with the ability to automatically send information about Intuit Small Business Products and Services to your Friends. Your friend’s e–mail address will only be used for the one–time distribution of the information and will not be used for any other purpose.</p>
-<p>We offer various Internet chat services. We encrypt our Internet chat sessions and retain a transcript of the session to help us resolve your current and potential future questions.</p>
-<p><span class="p1"><a name="infoSecurity"></a>INFORMATION SECURITY</span></p>
-<p>We protect the confidentiality and security of your personal information from loss, misuse, or unauthroized alteration by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures. We maintain physical, electronic and procedural safeguards that comply with applicable law and federal standards. Whenever we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us.</p>
-<p>Users that you invite to access your Web–based services will be required to set up an Intuit user ID and password before they can access the information you post. Your Web–based services are password protected and we recommend that you do not share your password with anyone. Remember to sign out of your Web–based product and services and close your browser window when you have finished your work. This prevents others from accessing your account if you share a computer or use a computer in a public place, such as a library or Internet café.</p>
-<p>We train and require our employees to safeguard your information. We also use physical, electronic and procedural safeguards by restricting access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.</p>
-<p>Additional information about our Security program and additional resources are available at: <a href="https://security.intuit.com/" target="_blank">http://security.intuit.com</a></p>
-<p>At Intuit, safeguarding your personal information is a top priority. Part of our commitment is making you aware of popular identity theft and fraud scams and providing you with information to protect yourself. Although sometimes difficult to identify, you may receive hoax e–mails, such as phishing scams, that look authentic and appear to have been sent by a company you recognize. These e–mails ask you to provide or confirm your sensitive personal information by clicking on links. To entice you, they often claim an urgent or threatening condition concerning your account, or offer you a prize. You should not reply or click on any links in the e–mail or provide any personal information without verifying that the e–mail is legitimate through another channel. Intuit does not solicit sensitive customer information via e–mail. If you receive an e–mail message that appears to come from us that requests such information, please forward it immediately to: security@intuit.com. We will respond quickly to mitigate potential damage.</p>
-<p><span class="p1">THIRD PARTIES</span></p>
-<p>Sometimes we ask outside firms, or third parties, to help us provide services, such as designing a Web site, sending e–mails, registering a prospective domain name, or analyzing data. Our contracts with these third parties outline the appropriate use and handling of your information and prohibit them from using any of your personal information for purposes unrelated to the product or service they’re providing. We require vendors to maintain the confidentiality of the information we provide to them.</p>
-<p>We may disclose, access, or report personal information when we believe, in good faith, we’re required to by law or to protect our legal rights. We may also do this in connection with an investigation into a suspected violation involving the Terms of Service, fraud, intellectual property infringement, or other activity that may be illegal or expose us to legal liability. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities or to comply with a court order, subpoena, search warrant, or law enforcement request.</p>
-<p>We may report and share information about your account to credit bureaus, consumer reporting agencies and card associations. Late payments, missed payments, or other defaults on your account may be reflected in your credit report and consumer report. We may also share information with other companies, lawyers, credit bureaus, agents, government agencies and card associations in connection with issues related to fraud, credit or debt collection.</p>
-<p>We work with other companies or developers to provide you with products and services which we clearly identify. Either Intuit or the other company may offer these products and services. We clearly identify these co–branded products and services. In some cases, we exchange customer usage information to establish and provide ongoing service. By requesting these products or services, you are permitting us to provide your personal and usage information to the other company.</p>
-<p>We also may share non–identifiable, non–personal aggregate information about our users with third parties, such as advertisers or partners, for marketing and promotional purposes. Our Web sites may provide links to third–party sites, such as those of our business partners and online advertisers. These could include other services, promotions or sweepstakes offered by business partners. Because Intuit does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personal information.</p>
-<p>If you are a business partner or a prospective business partner, such as a financial institution or health plan, you may visit an Intuit Web site specifically intended for you. The information you provide on these Web sites are used only to develop or maintain our business relationship with you. For example, you may sign up to receive additional information about our programs, including notifications about new products, features, and events, or to have an Intuit representative contact you. Once you’ve become a partner, the Web site may include members–only program updates and reference materials. If you are no longer interested in receiving program information from Intuit, you may ask that your Intuit account representative remove you from future program–specific communications.</p>
-<p>If we sell, merge or transfer any part of our business, part of the sale may include your personal information. If so, you will be asked if you’d like to stop receiving promotional information following any change of control.</p>
-<p><span class="p1">Your Choices:</span></p>
-<p>You may change your account and contact information for Intuit Small Business any time by clicking here.</p>
-<p>If you are within the United States, you may change your contact preferences for Intuit Small Business Products here. If you are outside of the United States, you may change your email contact preferences for Intuit Small Business Products here.</p>
-<p>If you are an Intuit Online Payroll customer, you may change your email preference in the "Preference/Email Preference" section of your Account. You may also reply "unsubscribe" to any marketing you receive for Intuit Online Payroll.</p>
-<p>To change your mobile contact preferences, follow the instructions in your SMS or other mobile message.</p>
-<p>If you are a member of the Intuit Developer Network, you can update your contact preferences or manage your account by loggin in.</p>
-<p>If you are a QuickBase user, you can send an email to <a href="mailto:privacy@quickbase.com">privacy@quickbase.com</a> to change your contact preferences. You can manage your contact or account information by accessing your QuickBase account.</p>
-<p>You may unsubscribe from our newsletters by using the unsubscribe link provided in the newsletter sent to you.</p>
-<p>Intuit and its subsidiaries may exchange information about your transactions to fulfill your requests. We may also provide you information about products or services we believe you may be interested in unless you have asked us not to contact you. We offer you the opportunity to review privacy practices at our subsidiaries’ Web sites.</p>
-<p>If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before the changes take effect.</p>
-<p><span class="p1">Last Updated: 01/18/2011.</span></p>
-</div>
-
-
-
-</section>
-
-
-</div>
-           </section>
-
-
-</section>
-
-
-</section>
-
-
-
-
-<footer>
-    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-
-
-
-<div class="include-container">
-
-            
-                    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer r-site-footer" style="" id="accordion">
-            <div class="content-container">
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer r-footer-propertylinks" style="">
-            
-    <div class="row resp_grid grid-container-100 no-gutters">
-            <div class="span3 col-md-3  col-sm-3  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-    
-
-
-<div class="ctext"><h5 title="Inside QuickBooks" data-target="#panel0">Inside QuickBooks</h5>
-<ul id="panel0">
-<li><a href="//www.quickbooks.in/features/" adhocenable="false" data-wa-link="ftr-QBIN-SMBfeatures">QuickBooks Features</a></li>
-<li><a href="//www.quickbooks.in/bookkeeping/" title="Bookkeeping" adhocenable="false" data-wa-link="ftr-QBIN-SMBbookkeeping">Bookkeeping</a></li>
-<li><a href="//www.quickbooks.in/invoicing/" title="Invoicing" adhocenable="false" data-wa-link="ftr-QBIN-SMBinvoicing">Invoicing</a></li>
-<li><a href="//www.quickbooks.in/billing/" title="Billing" adhocenable="false" data-wa-link="ftr-QBIN-SMBbilling">Billing</a></li>
-<li><a href="//www.quickbooks.in/online-banking/" title="Online banking" adhocenable="false" data-wa-link="ftr-QBIN-SMBonlinebanking">Online banking</a></li>
-</ul>
-</div>
-
-
-
-</section>
-
-
-            </div>
-            <div class="span3 col-md-3  col-sm-3  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-
-
-
-
-
-    
-
-
-<div class="ctext"><h5 title="Support" data-target="#panel1">Learn &amp; Support</h5>
-<ul id="panel1">
-<li><a href="https://help.quickbooks.intuit.com/en_US" adhocenable="false" data-wa-link="ftr-QBIN-LEARNandSUPPORTsupport">QuickBooks Support</a></li>
-<li><a title="Find QuickBooks Experts" href="http://proadvisor.intuit.com/search/index-standalone.html?v3&amp;region=in#/landing" adhocenable="false" data-wa-link="ftr-QBIN-LEARNandSUPPORTfindexperts">Find QuickBooks Experts</a></li>
-<li><a title="QuickBooks Training" href="//www.quickbooks.in/webinars/" adhocenable="false" data-wa-link="ftr-QBIN-LEARNandSUPPORTtraining">QuickBooks Training</a></li>
-</ul>
-</div>
-
-
-
-</section>
-
-
-            </div>
-            <div class="span3 col-md-3  col-sm-3  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-</section>
-
-
-            </div>
-            <div class="span3 col-md-3  col-sm-3  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer" style="">
-            
-</section>
-
-
-            </div>
     </div>
-
-</section>
-
-
-
-
-<hr class="interspace_divider ">
-
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer center-sm" style="">
-            
-    <div class="row resp_grid grid-container-100 no-gutters">
-            <div class="span3 col-md-3  col-sm-3  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None r-footer-social" style="">
-              <div class="icon-font clearfix">
-           <i class="fa icon-facebook  i-center   ">
-           </i>
- </div>
-
-  <div class="icon-font clearfix">
-           <i class="sbg_one icon-facebook  i-center   ">
-           </i>
- </div>
-
-  <div class="icon-font clearfix">
-           <i class="fa icon-facebook  i-center   ">
-           </i>
- </div>
-
-
-
-
-
-
-
-    
-
-
-<div class="ctext"><ul>
-<li><a data-wa-link="ftr-QBIN-facebook" href="https://www.facebook.com/IntuitQuickBooksIndia"><span class="visually-hidden-text footer-icon-facebook" style="display: inline-block;">&nbsp;</span></a></li>
-<li><a data-wa-link="ftr-QBIN-twitter" href="https://twitter.com/QuickBooksIN"><span class="visually-hidden-text footer-icon-twitter" style="display: inline-block;">&nbsp;</span></a></li>
-<li><a data-wa-link="ftr-QBIN-googleplus" href="https://plus.google.com/115465224159693282470/posts"><span class="visually-hidden-text footer-icon-gplus" style="display: inline-block;">&nbsp;</span></a></li>
-<li><a data-wa-link="ftr-QBIN-youtube" href="https://www.youtube.com/user/QBOIndia"><span class="visually-hidden-text footer-icon-youtube" style="display: inline-block;">&nbsp;</span></a></li>
-<li><a data-wa-link="ftr-QBIN-linkedin" href="https://www.linkedin.com/company/intuit-quickbooks-india"><span class="visually-hidden-text footer-icon-linkedin" style="display: inline-block;">&nbsp;</span></a></li>
-</ul>
-</div>
-
-
-
-</section>
-
-
-            </div>
-            <div class="span6 col-md-6  col-sm-6  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None r-footer-company dotspace" style="">
-            
-
-
-
-
-
-    
-
-
-<div class="ctext"><ul>
-<li><a href="http://www.quickbooks.in/r/" data-wa-link="ftr-QBIN-SBC">Small Business Center</a></li>
-</ul>
-</div>
-
-
-
-</section>
-
-
-            </div>
-            <div class="span3 col-md-3  col-sm-3  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None r-footer-global" style="">
-            
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer hidden-lg hidden-md hidden-sm" style="">
-            
-
-
-<hr class="interspace_divider ">
-
-</section>
-
-
-
-
-
-
-
-    
-
-
-<div class="ctext"><p><a class="footer-global-select-country footer-icon-global" href="http://global.intuit.com/choose-country.jsp" data-wa-link="ftr-QBIN-SelectCountry"> Select Country </a></p>
-</div>
-
-
-
-</section>
-
-
-            </div>
-    </div>
-
-
-
-
-
-
-
-
-
-
-        <!--<script>
-$(document).ready(function(){
-lpMTag = ""
-});
-</script>-->
-
-
-</section>
-
-
-</div>
-           </section>
-
-
-                
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-<div class="include-container">
-
-            
-                    
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer bg-royal-blue resp-site-footer" style="padding-top: 20px; padding-bottom: 10px; ">
-            
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer rfooter-legal" style="">
-            
-<div class="content-container"><div class="container-fluid">
-    <div class="row resp_grid grid-container-960 no-gutters">
-            <div class="span6 col-md-6  col-sm-6  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None rfooter-brand rfooter-bk" style="">
-            
-
-
-
-
-
-    
-
-
-<div class="ctext"><p><a class="r-footer-intuit-logo" data-wa-nav-link="ftr-global-intuitbrand" href="https://www.quickbooks.in/" title="Intuit" data-wa-link="ftr-QBIN-BLUESECTIONlogo" adhocenable="false">Intuit</a></p>
-</div>
-
-
-
-</section>
-
-
-            </div>
-            <div class="span6 col-md-6  col-sm-6  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None rfooter-legal-links dotspace" style="">
-            
-
-
-
-
-
-    
-
-
-<div class="ctext"><ul>
-<li><a adhocenable="false" data-wa-link="ftr-QBIN-BLUESECTIONlegal" href="//www.quickbooks.in/legal/" data-wa-nav-link="ftr-global-legal">Legal</a></li>
-<li><a adhocenable="false" data-wa-link="ftr-QBIN-BLUESECTIONprivacy" href="//www.quickbooks.in/privacy/" data-wa-nav-link="ftr-global-privacy">Privacy</a></li>
-<li><a adhocenable="false" data-wa-link="ftr-QBIN-BLUESECTIONsecurity" href="https://security.intuit.com/" data-wa-nav-link="ftr-global-security">Security</a></li>
-<li><a class="footer-legal-link" href="//www.quickbooks.in/terms/" data-wa-link="ftr-QBIN-BLUESECTIONTerms">Terms of Service</a></li>
-</ul>
-</div>
-
-
-
-</section>
-
-
-            </div>
-    </div>
-</div><div class="container-fluid">
-    <div class="row resp_grid grid-container-960 no-gutters">
-            <div class="span8 col-md-8  col-sm-6  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None rfooter-copyright" style="">
-            
-
-
-
-
-
-    
-
-
-<div class="ctext"><p>© 2017 Intuit Inc. All rights reserved. Intuit and QuickBooks are registered trademarks of Intuit Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.</p>
-</div>
-
-
-
-</section>
-
-
-            </div>
-            <div class="span4 col-md-4  col-sm-6  col-xs-12 "> 
-                
-
-
-
-
-
-
-
-
-
-        <section class="ccontainer None" style="">
-            
-</section>
-
-
-            </div>
-    </div>
-</div><style>
-.r-site-footer .r-footer-social ul li .footer-icon-linkedin {
-    background-position: -162px -712px;
-}
-</style></div>
-
-
-
-
-
-
-
-
-
-
-
-
         
-
-
-
-
-</section>
-
-
-</section>
-
-
-                
-
-
-
-</div>
-
-</section>
-
-
-</footer>
-<script type="text/javascript" src="/etc/designs/harmony/assets/brand_x/standard_bottom_js.js"></script>
-<!-- Channel Attribution -->
-<!-- SR JS variables Include -->
-<script type="text/javascript">
-    $(function($, window, document){
-        if (typeof Intuit.ShowRoomEnv === 'object') { return; }
-        window.Intuit && (window.Intuit.ShowRoomEnv = {});
-    }(jQuery, window, document));
-  window.Intuit.ShowRoomEnv.asset_host = '//www.quickbooks.in';
-    window.Intuit.locale = "en-IN";
-</script>
-<!-- End of SR JS Variables Include -->
-
-<!-- ClickDesk Live Chat Service for websites -->
-<!-- End of ClickDesk -->
-<!-- Inin Chat -->
-
-<!-- End of InInChat -->
-
-
-<div id="sidr" class="sidr left"><ul class="navhdr-menu">
-<li><div><span class="submenu-text">Small Business</span><span class="submenu-arrow down"></span></div><ul><li><a data-wa-link="hdr-QBIN-SMB" adhocenable="false" href="//www.quickbooks.in/online-accounting-features/">Overview</a></li>
-<li><a data-wa-link="hdr-QBIN-SMBfeatures" adhocenable="false" href="//www.quickbooks.in/features/">QuickBooks Features</a></li>
-<li><a data-wa-link="hdr-QBIN-SMBmobileapp" adhocenable="false" href="//www.quickbooks.in/mobile-phone-app/">Download Our Free Mobile App</a></li>
-<li><a data-wa-link="hdr-QBIN-SMBpayroll" adhocenable="false" href="//www.quickbooks.in/payroll-software/">Payroll</a></li>
-<li><a data-wa-link="hdr-QBIN-FINDANACC" adhocenable="false" href="http://proadvisor.intuit.com/search/index-standalone.html?v3&amp;region=in#/landing">Find an Accountant</a></li>
-<li><a href="https://apps.intuit.com/?locale=en-IN" target="_blank" adhocenable="false" data-wa-link="hdr-QBIN-AppStore">QuickBooks Apps Store</a></li>
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTsbc" adhocenable="false" href="http://www.quickbooks.in/r/">Small Business Center</a></li>
-</ul></li>
-<li><div><span class="submenu-text">Accountants</span><span class="submenu-arrow down"></span></div><ul><li><a adhocenable="false" data-wa-link="hdr-QBIN-ACC" href="//www.quickbooks.in/accountants/">Overview</a></li>
-<li><a href="http://www.firmofthefuture.in/" data-wa-link="hdr-QBIN-ACCfirmofthefuture" adhocenable="false">Firm Of The Future</a></li>
-<li><a adhocenable="false" data-wa-link="hdr-QBIN-ACCcertification" href="//www.quickbooks.in/accountants/certification/">QuickBooks Training &amp; Certification</a></li>
-<li><a adhocenable="false" data-wa-link="hdr-QBIN-ACCproadvisorprogram" href="//www.quickbooks.in/accountants/proadvisor/">ProAdvisor Portal</a></li>
-</ul></li>
-<li><div><a adhocenable="false" data-wa-link="hdr-QBIN-GST" href="http://www.quickbooks.in/r/gst/"><div class="submenu-text">GST Center</div></a></div></li>
-<li><div><span class="submenu-text">Learn &amp; Support</span><span class="submenu-arrow down"></span></div><ul><li><a href="#">Overview</a></li>
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTvideotuto" adhocenable="false" href="https://www.youtube.com/playlist?list=PL17GKVK2gsn0LkYKm5tFXfB9qD2MpW8fa" target="_blank">QuickBooks Tutorials</a></li>
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTwebinars" adhocenable="false" href="//www.quickbooks.in/webinars/">Webinars</a></li>
-<hr>
-
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTsupport" adhocenable="false" href="https://community.intuit.com/quickbooks-online-in">QuickBooks Support</a></li>
-<li><a data-wa-link="hdr-QBIN-FINDQBEXPERT" adhocenable="false" href="http://proadvisor.intuit.com/search/index-standalone.html?v3&amp;region=in#/landing">Find a QuickBooks Expert</a></li>
-<hr>
-
-<li><a data-wa-link="hdr-QBIN-LEARNandSUPPORTsbc" adhocenable="false" href="http://www.quickbooks.in/r/">Small Business Center</a></li>
-</ul></li>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</ul><section class="navhdr-cta" style=""><div class="ccta"><a id="freetrial" class="ctatertiary ctaright" style="display:none"></a>
-
-<div class="header__call">
-  <span class="header__speak">Speak to an expert</span> 
-  <span class="header__tel">1800 102 5599</span>
-  <div class="header__demo">
-    <p class="call">Toll free: 1800 102 5599</p>
-    <p>If you’re considering QuickBooks for your business, we’re here to help</p>
-    <p class="hr-line">Monday to Saturday <br>9:30 am – 6 pm</p>
-    <p class="hr-line"><a data-wa-link="hdr-QBIN-ProdSuppHelp" href="https://help.quickbooks.intuit.com/en_IN/contact">Product Support &amp; Help</a></p>
+ <div class="container boxprice absrel">                            
+ <div class="row-fluid">  
+<div class="navbar span12">
+  <div class="container"> 
+     <div class="row"> 
+      	 <div class="span4" id="toplab"><a id="logobox" class="brand" href="/index.php"><img src="/templates/intuit/images/logo.png" alt="Intuit"></a></div>
+	      
+    <div class="span2 rightlab hidden-phone visible-desktop"></div>
+    <div class="span6 rightlab btn-group pull-right hidden-phone"><div class="rightmod"></div></div>
+    </div> <div class="navbar">    
+    <div id="sticky_navigation_wrapper" class="linelab navbar navbar-fixed-top megaborder box20br box22bg box20br_radius">
+        <div id="sticky_navigation" class="container box20bg box20bg_shadow box20br box20br_radius tmh"><div class="visible-phone kosik"></div> <div class="btn-group pull-right searchlab"><form id="searchForm" action="/index.php/privacy" method="post"> <fieldset>
+		<div class="input tbslboxname tbsoxname tbsboxname box20br_radius"><input class="tbslboxname" name="searchword" maxlength="200" id="searchword" type="text" value="Search ..."></div><input id="searchSubmit" value="" type="submit">	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="104">
+ </fieldset></form>
+</div>   
+  
+<ul class="nav" id="nav">
+<li class="item-101 deeper parent box21br"><a href="/index.php" class="oboxbr">Security Home</a><ul><li class="item-102 box21br"><a href="/index.php/home/alerts" class="oboxbr">Alerts</a></li><li class="item-103 box21br"><a href="/index.php/home/blog" class="oboxbr">Blog</a></li><li class="item-104 box21br"><a href="/index.php/home/faqs" class="oboxbr">FAQs</a></li></ul></li><li class="item-113 deeper parent box21br"><a href="/index.php/protect-your-business" class="oboxbr">Protect Your Business</a><ul><li class="item-122 box21br"><a href="/index.php/protect-your-business/information-management" class="oboxbr">Information Management Guidelines</a></li><li class="item-123 box21br"><a href="/index.php/protect-your-business/pci-dss" class="oboxbr">PCI DSS</a></li></ul></li><li class="item-105 deeper parent box21br"><a href="/index.php/protect-your-information" class="oboxbr">Protect Your Information</a><ul><li class="item-106 box21br"><a href="/index.php/protect-your-information/credit-monitoring-services" class="oboxbr">Credit Monitoring Services</a></li><li class="item-107 box21br"><a href="/index.php/protect-your-information/know-who-you-re-doing-business-with" class="oboxbr">Know Who You're Doing Business With</a></li><li class="item-108 box21br"><a href="/index.php/protect-your-information/password-username-best-practices" class="oboxbr">Password &amp; Username Best Practices</a></li><li class="item-109 box21br"><a href="/index.php/protect-your-information/phishing-pharming-vishing-and-smishing" class="oboxbr">Phishing, Pharming, Vishing, and Smishing</a></li><li class="item-110 box21br"><a href="/index.php/protect-your-information/recognize-suspicious-email-websites" class="oboxbr">Recognize Suspicious Email &amp; Websites</a></li><li class="item-111 box21br"><a href="/index.php/protect-your-information/safety-essentials" class="oboxbr">Safety Essentials</a></li><li class="item-140 box21br"><a href="/index.php/protect-your-information/how-intuit-protects-you" class="oboxbr">How Intuit Protects You</a></li></ul></li><li class="item-112 deeper parent box21br"><a href="/index.php/protect-your-computer" class="oboxbr">Protect Your Computer</a><ul><li class="item-116 box21br"><a href="/index.php/protect-your-computer/back-up-your-files" class="oboxbr">Back Up Your Files</a></li><li class="item-117 box21br"><a href="/index.php/protect-your-computer/install-a-firewall" class="oboxbr">Install a Firewall</a></li><li class="item-118 box21br"><a href="/index.php/protect-your-computer/use-anti-virus-software" class="oboxbr">Use Anti-Virus Software</a></li><li class="item-119 box21br"><a href="/index.php/protect-your-computer/use-anti-spyware-software" class="oboxbr">Use Anti-Spyware Software</a></li><li class="item-120 box21br"><a href="/index.php/protect-your-computer/pop-up-warnings" class="oboxbr">Pop-Up Warnings</a></li><li class="item-121 box21br"><a href="/index.php/protect-your-computer/safely-surf-the-web" class="oboxbr">Safely Surf the Web</a></li><li class="item-141 box21br"><a href="/index.php/protect-your-computer/using-a-wireless-network" class="oboxbr">Using a Wireless Network</a></li></ul></li><li class="item-114 deeper parent box21br"><a href="/index.php/report-an-issue" class="oboxbr">Report an Issue</a><ul><li class="item-131 box21br"><a href="/index.php/report-an-issue/security-researcher-reporting" class="oboxbr">Security Researcher Reporting</a></li><li class="item-132 box21br"><a href="/index.php/report-an-issue/security-researcher-acknowledgements" class="oboxbr">Researcher Acknowledgements</a></li></ul></li><li class="item-115 current active box21br"><a href="/index.php/privacy" class="oboxbr">Privacy</a></li></ul>
+  
+        </div>
+    </div>
+     <div id="sticky_navigation_empty" class=""></div>
+</div>   
+</div>  
+</div> 
+ </div>
   </div>
+<div id="header" class="container boxprice"> 
+        
+</div>     
+            <div class="container boxprice">                     
+
+
+<div class="custom">
+	<p><img src="/images/templates/intuit/images/HowIntuitProtects.jpeg" alt=""></p></div>
+
+  <div id="message">
+        <div id="system-message-container">
+	</div>
+
+    </div>  
 </div>
-</div><div class="ccta" data-qe-id="26b39dca-1bd4-48d7-b75b-428efa4bdf3a">
-<a class="ctasecondary ctacenter  " href="https://qbo.intuit.com/qbo37/login?locale=en_IN" target="_blank" data-wa-link="hdr-QBIN-SignInCTA">Sign In</a>
-</div><ul> <li><div><a href="https://qbo.intuit.com/qbo37/login?locale=en_IN" data-wa-link="hdr-QBIN-SignInCTAqbo"><div class="submenu-text">QuickBooks</div></a></div></li> <li><div><a href="https://partnerportal.intuit.com/?locale=en-in" data-wa-link="hdr-QBIN-SignInCTAproadvisorprogram"><div class="submenu-text">QuickBooks ProAdvisor Portal</div></a></div></li> </ul></section></div></body></html>
+   <div id="lab">  
+  <div class="container boxprice">                            
+ <div class="row">
+ 
+  
+
+ 
+ 
+   
+                </div>
+              </div>
+            </div>      
+        <div id="linlabcontent" class="boxprice"> 
+<div class="container">
+   <div class="row">
+<div class="span12">
+           <div class="row">
+		            <div class="span12 pull-right"><div class="box25bg box25br box25bg_shadow box25br_radius" id="linelabmain"><div class="item-page">
+	<h1 class="boxname tlmbfoxname">
+	Privacy	</h1>
+
+	<h2 class="boxname tlmbfoxname">
+			<a class="dboxname" href="/index.php/privacy">
+		Intuit Privacy Statement </a>
+		</h2>
+
+
+
+
+
+
+
+
+<p style="font-size: 12.16px;">To learn more about changes in this Statement please review our&nbsp;<a href="/images/templates/intuit/FAQs-Privacy-Statement---Version-Sept-12-2017.pdf">FAQ</a></p>
+<p style="font-size: 12.16px;"><strong>Last Updated: December 10, 2018&nbsp;<a href="/index.php/privacy/14-hidden/29-intuit-privacy-statement-2016">(</a><a href="/index.php/privacy/2-uncategorised/693-intuit-privacy-statement-september-2017">Intuit Privacy Statement</a><a href="/index.php/privacy/14-hidden/29-intuit-privacy-statement-2016">)</a></strong></p>
+<p style="font-size: 12.16px;">At Intuit, we pride ourselves on our commitment to protecting your privacy.&nbsp; Our&nbsp;<a href="/index.php/data-stewardship-principles">Data Stewardship Principles</a>&nbsp;reflect our company’s values and how we strive to maintain your privacy. This Privacy Statement describes in greater detail the privacy practices of Intuit Inc. and its affiliates and subsidiaries, meaning companies related by common ownership or control (“us,” “we,” “our”) responsible for collecting and maintaining certain information collected about you.</p>
+<p style="font-size: 12.16px;">We participate in the&nbsp;<a href="#EUUS">E.U. - U.S. and Swiss - U.S. Privacy Shield Frameworks</a>&nbsp;and comply with the Privacy Shield Principles.&nbsp; Click&nbsp;<a href="https://www.privacyshield.gov">https://www.privacyshield.gov</a>&nbsp;to learn more.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<div style="font-size: 12.16px;"><a href="//privacy.truste.com/privacy-seal/validation?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1" target="_blank" rel="noopener noreferrer"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/seal?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1" alt="TRUSTe"></a></div>
+<p style="font-size: 12.16px;">&nbsp;<br>If you have questions or complaints regarding our Privacy Statement or practices, please contact us as detailed under the&nbsp;<a href="#CONTACT">How to Contact Us</a>&nbsp;heading below.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>1. WHEN THIS PRIVACY STATEMENT APPLIES.&nbsp; If a Service you're using links to this Privacy Statement, this Statement applies to you.&nbsp;<br></strong></p>
+<p style="font-size: 12.16px;">This Privacy Statement (“Statement”) applies to our sites, products, and services (collectively, "Services") that link to this Statement. Intuit Inc. is the responsible entity for all Personal Information subject to this Statement for our Services targeted to US customers. We also provide Services in other countries and regions.&nbsp; If you are accessing a non-US version of our Services, the Intuit entity responsible for your Personal Information can be found <a href="/index.php/privacy/2-uncategorised/857-eu-us-swiss-privacy-shield-certification-2018">EU-US-Swiss Privacy Shield Certification 2018</a>.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>2. WHAT WE DO WITH YOUR INFORMATION. We want to be clear about what information we collect and how we use it to deliver our Services to you, improve&nbsp; your financial life, operate our business, and help make our Services useful, more intelligent, and work better for you. We do not sell or share your Personal Information with third parties for their own commercial uses without your consent.<br></strong></p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>a) Types of Information We Collect.&nbsp;</strong>In connection with accessing our Services, we may collect information from you which can be used to identify you ("Personal Information"), such as your name, shipping/billing address, email address, phone, username and password.<br><br>We collect information when you register or open an account, sign in, pay a bill, purchase a Service, call us for support, or give us feedback.&nbsp; We may also get information from other companies or third parties, such as when you sync a third party account or service with your Intuit Service, or when we may use service providers to supplement the Personal Information you give us (e.g., validate your mailing address) to help us maintain the accuracy of your data and provide you with better service. Finally, we also collect content or other information that you may provide or create when you interact with our Services.<br><br>We may also automatically collect certain usage information when you access our Services ("Usage Data"), such as Internet Protocol (“IP”) addresses, log files, unique device identifiers, pages viewed, browser type, any links you click on to leave or interact with our Services, and other usage information collected from&nbsp;<a href="#COOKIES">cookies and other tracking technologies.&nbsp;</a>For example, we collect IP addresses to track and aggregate non-personal information, such as using IP addresses to monitor the regions from which users navigate to our Services.&nbsp; We also collect IP addresses from users when they log into the Services as part of our log-in and security features.&nbsp; We may also, when you enable location-based Services, collect Global Positioning System (GPS) location data and/or motion data.<br><br>Our Services may change over time and we may introduce new features that may collect new or different types of information.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>b) How We Use Your Information.&nbsp;</strong>Unless prohibited by law, regulation, or a contractual obligation, we may use your information, including your Personal Information, for the following purposes:&nbsp;</p>
+<p style="font-size: 12.16px;"><span style="text-decoration: underline;"><em>Account Registration</em></span>. We may use your name, address, phone number, and email address to register your Intuit Account for certain&nbsp;<a href="#ADDITIONAL">Services we provide</a>&nbsp;and to communicate important information to you. We may obtain additional Personal Information about you, such as address change information, from commercially available sources, to keep our records current.&nbsp; If you set up an administrator account that may be accessed by people other than you, please note that they may see and have the ability to change or delete your Personal Information.</p>
+<p style="font-size: 12.16px;"><span style="text-decoration: underline;"><em>Communicate with You and Tell You About Other Services</em></span><span style="font-size: 12.16px;">.&nbsp; We may use your information to communicate with you about our Services and to give you offers for third party products and services that we think may be of use to you. Please see below under "</span><a style="font-size: 12.16px;" href="#PRIVACY">What You Can Do to Manage Your Privacy</a><span style="font-size: 12.16px;">" for the choices you have regarding these communications.</span></p>
+<p style="font-size: 12.16px;"><span style="font-size: 12.16px;"><span style="text-decoration: underline;"><em>To Improve Services and Develop New Services</em></span><span style="font-size: 12.16px;">. We will use your information to personalize or customize your experience and the Service, develop new features or services, and to improve the overall quality of Intuit's Services.&nbsp;</span></span></p>
+<p style="font-size: 12.16px;"><span style="text-decoration: underline;"><em>To Provide Our Services and Operate Our Business</em></span>. We may use your information to operate our business, including providing Services you requested, provide you with support related to our Services, and to help us protect our Services, including to combat fraud and protect your information.<br><br><em><span style="text-decoration: underline;">Customer Service and Technical Support</span></em>.&nbsp; We may use your name, address, phone number, email address, how you interact with our Services, and information about your computer configuration to resolve questions you may have about our Services and to follow up with you about your experience.&nbsp; We also offer various Internet chat services, for example, to speak with an Intuit support representative or tax advisor.&nbsp; Internet Chat transmissions are encrypted but you should not supply more Personal Information, including tax data, than is required to address&nbsp; your specific issue.&nbsp; A transcript of the session is retained to resolve questions or issues related to our Services.<br><br><em><span style="text-decoration: underline;">Feedback</span></em>. We may use any information you volunteer in surveys you answer for us and combine them with answers from other customers in order to better understand our Services and how we may improve them.&nbsp; Answering any survey is optional.<br><br><span style="text-decoration: underline;"><em>Research, Including Publishing or Sharing Combined Information from Many Users, But Only in a Way that Would Not Allow You or Any Other Person to be Identified</em></span>. Only in a way that would not allow you or any other person to be identified, we may prepare and share information about our customers with third parties, such as advertisers or partners, for research, academic, marketing and/or promotional purposes.&nbsp; For example, we may share demographic data that describes the percentage of our customers who use mobile services or who use a particular operating system. We or our third party partners may publicly report the aggregated findings of the research or analysis, but only in a way that would not allow you or any other person to be identified.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>c) Intuit Single Sign-On (Intuit Account).</strong>&nbsp;&nbsp;Intuit Single Sign-on is a Service that allows you to sign-in to a variety of Intuit Services with a single Intuit Account. We will collect certain information for security purposes in order to verify your authorized access to an account or to reset your password if you cannot access your Intuit account. Some Services may require added security and you may be asked to provide additional information. &nbsp;The email address and password that you use to sign up for an Intuit account are your "credentials" that you will use to authenticate with our network. &nbsp;We assign a unique ID number to your credentials to track you and your associated information. &nbsp;Intuit Services do not allow sharing of accounts between users or individuals.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong><span style="font-family: Verdana;"><span style="font-size: 13.3333px;">d</span></span><span style="font-size: 12.16px;">) How We Share Your Personal Information.&nbsp;</span></strong><span style="font-size: 12.16px;">From time to time, we may need to share your Personal Information with others.&nbsp;</span></p>
+<p style="font-size: 12.16px;"><span style="text-decoration: underline;"><em>Third Party Service Providers</em></span>. We may share your information, including Personal Information and Usage Data, with third party service providers who perform various functions to enable us to provide our Services and help us operate our business, such as website design, sending email communications, fraud detection and prevention, customer care, or performing analytics. Our contracts with these third parties require them to maintain the confidentiality of the Personal Information we provide to them, only act on our behalf and under our instructions, and not use Personal Information for purposes other than the product or service they're providing to us or on our behalf.<br><br><span style="text-decoration: underline;"><em>Response to Subpoenas and Other Legal Requests</em></span>.&nbsp; We may share your information with courts, law enforcement agencies, or other government bodies when we have a good faith belief we're required or permitted to do so by law, including to meet national security or law enforcement requirements, to protect our company, or to respond to a court order, subpoena, search warrant, or other law enforcement request.<br><br><span style="text-decoration: underline;"><em>Protection of Intuit and Others</em></span>. We may share account information, Personal Information and Usage Data when we believe it is appropriate to enforce or apply our products' Terms of Service and other agreements; or protect the rights, property, or safety of Intuit, our Services, our users, or others.&nbsp; This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.&nbsp; This does not include selling, renting, sharing, or otherwise disclosing Personal Information of our customers for commercial purposes in violation of the commitments set forth in this Privacy Statement.&nbsp;&nbsp;&nbsp;<br><br><span style="text-decoration: underline;"><em>Reporting to Credit Bureaus</em></span>.&nbsp; We may share your information with credit bureaus, consumer reporting agencies, and card associations.&nbsp; Late payments, missed payments, or other defaults on your account may be reflected in your credit report and consumer report.&nbsp; We may also share your information with other companies, lawyers, credit bureaus, agents, government agencies, and card associations in connection with issues related to fraud, credit, or debt collection.<br><br><em><span style="text-decoration: underline;">Information Sharing Between Intuit Entities</span></em>. We share your information, including your Personal Information, with and among our affiliates and subsidiaries, except where prohibited by law, regulation, or a contractual obligation. &nbsp;The protections provided in this Privacy Statement apply across all Intuit entities. Affiliates and subsidiaries means companies related by common ownership or control. The reasons why we share your information include for our everyday business purposes, such as to: process your transactions, maintain your accounts, operate our business, facilitate&nbsp;<a href="#SINGLE">Intuit Single Sign On</a>&nbsp;to your Intuit Account, etc. We will also share your information in order for us to be able to offer our products and services to you. We may also share information about your creditworthiness, your transactions and experience so that we can operate our business effectively, detect and prevent fraud, and improve our Services.<br><br><span style="text-decoration: underline;"><em>Sale of Our Business</em></span>.&nbsp; If we sell, merge, or transfer any part of our business, we may be required to share your information. If so, you will be asked if you'd like to stop receiving promotional information following any change of control.<br><br><span style="text-decoration: underline;"><em>With your Consent</em></span>. Other than as set out above, we will provide you with notice and the opportunity to choose when your Personal Information may be shared with other third parties.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong><span style="font-family: Verdana;"><span style="font-size: 13.3333px;">e</span></span><span style="font-size: 12.16px;">) Syncing, Linking, Connecting Your Bank Account or Other Third Party Services with Your Intuit Service.</span><br></strong></p>
+<p style="font-size: 12.16px;">You may choose to sync certain Intuit Services with information from other financial accounts.&nbsp; To sync your financial account information, we must access your online account with your financial institution.&nbsp; We will request your user name, password, and any other login bank data that you have set up with your financial institution to enable access.&nbsp; We use this information to update and maintain the account information you download, to assist with the download process, and to enhance the Services we may provide in the future.<br><br>We work with other companies or developers to offer you products and services and you may choose to sync, link or connect other third party services with your Intuit Service.&nbsp; Sometimes Intuit may let you know about the service or product, or another company may let you know about&nbsp; an Intuit service or product.&nbsp; It will be clear who is referring the service or product, and who is providing the service or product.&nbsp; If you choose to accept these services, providing your consent to either the third party or to us, we may exchange your information, including your Personal Information, as well as information about how you interact with each company's service or product.&nbsp; This exchange of information is necessary to maintain business operations and to provide the ongoing service you've requested.&nbsp; By requesting or accepting these products or services, you are permitting us to provide your information, including your Personal Information, to the other party.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;">&nbsp;<b><span style="font-size: 10.0pt; font-family: Verdana; mso-bidi-font-family: 'Times New Roman';">3</span></b><strong>. WHAT YOU CAN DO TO MANAGE YOUR PRIVACY.&nbsp;You can view and edit information that identifies you online through your Intuit Service. How you can access and control information that identifies you will depend on which Services you use. You have a choice about the use of information that identifies you, marketing communications you receive from us, and our use of cookies and other tracking technologies.&nbsp;<br></strong></p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong><span style="font-family: Verdana;"><span style="font-size: 13.3333px;">a</span></span><span style="font-size: 12.16px;">) Managing Marketing Communications From Us.&nbsp;</span></strong><span style="font-size: 12.16px;">We will honor your choices when it comes to receiving marketing communications from us.&nbsp;</span></p>
+<p style="font-size: 12.16px;">You have the following choices if you have been receiving marketing communications from us that you no longer wish to receive:</p>
+<ul style="font-size: 12.16px;">
+<li style="padding-left: 30px;">Click the "unsubscribe" link in the email or newsletter you received.</li>
+<li style="padding-left: 30px;">Visit the&nbsp;<a href="https://privacy.intuit.com/cpi/do/signin">Marketing Preferences Center</a>.&nbsp;For Mint users, please contact the Mint Customer Service team&nbsp;<a href="http://help.mint.com/953119151/How-do-I-opt-out-of-marketing-materials.htm">here</a>.</li>
+<li style="padding-left: 30px;">Adjust your preferences in your Intuit account settings.</li>
+<li style="padding-left: 30px;">For SMS messages, reply "STOP" or follow the instructions in the message or settings to discontinue the Service.</li>
+<li style="padding-left: 30px;">Subject to your control, our mobile applications may send push notifications to your mobile device.&nbsp; If you are receiving push notifications and no longer wish to receive these types of communications, you may turn them off at the device level.</li>
+<li style="padding-left: 30px;">Remember that even if you choose not to receive marketing communications from us, we will continue to send you mandatory service or transactional communications.</li>
+</ul>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong style="font-size: 13.3333px;"><span style="font-family: Verdana;">b</span></strong><strong style="font-size: 12.16px;">) Updating Your Personal Information.&nbsp;</strong><span style="font-size: 12.16px;">In connection with your right to manage your Personal Information you provide to us, you may access, update, change, correct or request deletion of your information either through the Service or through our customer support.&nbsp; You can reach our customer support by using the contact information provided in the "</span><a style="font-size: 12.16px;" href="#CONTACT">How to Contact Us</a><span style="font-size: 12.16px;">" section of this statement.&nbsp;</span></p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><b><span style="font-size: 10.0pt; font-family: Verdana; mso-bidi-font-family: 'Times New Roman';">c</span></b><strong>) Cookies and Similar Tracking Technologies.&nbsp;</strong>The following is a high level summary of our practices and your controls for cookies and other tracking technologies.&nbsp; For more information, please see our&nbsp;<a href="/index.php/privacy?id=510" target="_blank" rel="noopener noreferrer">Cookies Policy</a>.</p>
+<p style="font-size: 12.16px;">In accordance with applicable law, Intuit and our service providers may use commonly-used tools to recognize your visit and track your interactions with our Services such as cookies, web beacons, pixels, local shared objects, and similar technologies (collectively, "Cookies").&nbsp; Sometimes this tracking is necessary in order for us to provide you the Service you requested.&nbsp; Other times, we combine Usage Data collected from Cookies with that of other customers to improve your and other customers' experience.&nbsp; You have control over some of the Usage Data we collect from Cookies and how we use it.&nbsp; Information on changing your browser settings to opt out of Cookies can be found in your browser settings.&nbsp;</p>
+<p style="font-size: 12.16px;">In accordance with the&nbsp;<a href="http://www.aboutads.info/principles">Digital Advertising Alliance Principles</a>, Intuit also uses advertising networks and other third parties to display advertising on our website or to manage our advertising on other sites.&nbsp; Our third party partners may place Cookies on our Services and unaffiliated websites in order to serve advertisements that may be relevant to you based on your browsing activities and interests, and to determine the effectiveness of such advertisements.&nbsp; If you wish to opt out of interest-based advertising, click&nbsp;<a href="http://preferences-mgr.truste.com/">here</a>, or if located in the European Union, click&nbsp;<a href="http://www.youronlinechoices.eu/">here</a>.</p>
+<p style="font-size: 12.16px;">You also have the following additional choices to opt-out of certain tracking through Cookies for such purposes:</p>
+<ul style="font-size: 12.16px;">
+<li style="padding-left: 30px;">Visit the&nbsp;<a href="http://www.aboutads.info/choices/">Digital Advertising Alliance's</a>&nbsp;or&nbsp;<a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative's</a>&nbsp;opt-out page.</li>
+<li style="padding-left: 30px;">For users of our European services, please visit&nbsp;<a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a></li>
+<li style="padding-left: 30px;">For users of our Canadian services, please visit&nbsp;<a href="http://youradchoices.ca/">http://youradchoices.ca/</a></li>
+<li style="padding-left: 30px;"><a href="https://www.facebook.com/ads/website_custom_audiences/">Clicking here</a>&nbsp;to opt out of targeted ads on Facebook.</li>
+<li style="padding-left: 30px;"><a href="https://tools.google.com/dlpage/gaoptout">Clicking here</a>&nbsp;to opt out of Google Analytics for display advertising or to&nbsp;<a href="https://support.google.com/ads/answer/2662922?hl=en">customize Google Display Network ads</a>.</li>
+<li style="padding-left: 30px;">To manage Flash cookies, please click&nbsp;<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">here.</a></li>
+<li style="padding-left: 30px;">For mobile apps, please refer to your mobile device's settings, or download the&nbsp;<a href="http://youradchoices.com/appchoices">AppChoices app</a>.&nbsp; You may op-out of Flurry Analytics tracking on some mobile apps (notably SnapTax) or recommendations from Flurry by clicking&nbsp;<a href="https://dev.flurry.com/secure/optOut.do">here</a>.</li>
+</ul>
+<p style="font-size: 12.16px;">Please note that even if you opt-out of such Cookies or otherwise opt-out of interest based advertising, you&nbsp;may still receive advertisements, they just won't be tailored to your interests.&nbsp; Also, if you opt-out and later delete your Cookies, use a different browser, or buy a new computer, you may need to renew your opt-out choices.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><b><span style="font-size: 10.0pt; font-family: Verdana; mso-bidi-font-family: 'Times New Roman';">d</span></b><strong>) Do Not Track.&nbsp;</strong>Like most other companies, our Services are not currently configured to respond to browsers' "Do Not Track" signals because at this time no formal "Do Not Track" standard has been adopted.&nbsp; Click&nbsp;<a href="https://allaboutdnt.com/">here</a>&nbsp;for more information on "Do Not Track."</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><b><span style="font-size: 10.0pt; font-family: Verdana; mso-bidi-font-family: 'Times New Roman';">e</span></b><strong>) Social Media Features.&nbsp;</strong>Many of our Services may use social media features, such as Facebook sharing ("Social Media Features").&nbsp; These features may collect your IP address and which page you are visiting within our Service, and may set a cookie to enable the feature to function properly.&nbsp; Social Media Features are either hosted by a third party or hosted directly on our Services.&nbsp; Your interactions with these features are governed by the privacy statement of the company providing the relevant Social Media Features.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>4. DATA RETENTION AND YOUR ACCESS RIGHTS</strong></p>
+<p style="font-size: 12.16px;"><strong>a) Data Retention.&nbsp;</strong>In accordance with and as permitted by applicable law and regulations, we will retain your information as long as necessary to serve you, to maintain your account for as long as your account is active, or as otherwise needed to operate our business.&nbsp; When you close your account, we may continue to communicate with you about our Services, give you important business updates that may affect you, and let you know about products and services that may interest you, unless you have opted out of receiving marketing communications.&nbsp; We may also continue to use some of your information for business purposes and to improve our offerings or in some cases to develop new ones.&nbsp; We will retain and use your information as required by applicable regulations and Intuit's records and information management policies to comply with our legal and reporting obligations, resolve disputes, enforce our agreements, complete any outstanding transactions and for the detection and prevention of fraud.&nbsp;</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>b) Your Access Rights.&nbsp;</strong></p>
+<ul style="font-size: 12.16px;">
+<li style="font-size: 12.16px;">If you have created an online account with us and would like to update the Personal Information you have provided to us, you can access your account to view and make changes or corrections to your Personal Information.</li>
+<li style="font-size: 12.16px;">EU individuals and Swiss individuals have certain rights to access Personal Information about them, and to limit use and disclosure of their Personal Information. &nbsp;With our Privacy Shield certification (discussed below in Section 8), Intuit has committed to respect those rights. If you wish to request access, to limit use, or to limit disclosure, please contact us at&nbsp;<a href="mailto:privacy@intuit.com">privacy@intuit.com</a>&nbsp;or the mailing address provided under "<a style="font-size: 12.16px;" href="#CONTACT">How to Contact Us</a>" and please provide the name of the Intuit customer who submitted your Personal Information to our services. &nbsp;We will refer your requests to that customer, and will support them as needed in responding to your request.&nbsp;&nbsp; &nbsp;</li>
+</ul>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>5. SECURITY OF YOUR INFORMATION.&nbsp; Keeping your Information safe is important to us.&nbsp; You can find out more about how Intuit protects your information&nbsp;<a href="/index.php/protect-your-information/how-intuit-protects-you">here</a>.&nbsp; To learn more about what you can do to protect your Intuit Account, click&nbsp;<a href="/index.php/protect-your-information">here</a>.<br></strong></p>
+<p style="font-size: 12.16px;">We provide reasonable and appropriate security measures in connection with securing Personal Information we collect.</p>
+<p style="font-size: 12.16px;">For example, we:</p>
+<ul style="font-size: 12.16px;">
+<li style="padding-left: 30px;">Constantly work to update our security practices to implement accepted best methods to protect your Personal Information, and review our security procedures carefully.</li>
+<li style="padding-left: 30px;">Comply with applicable laws and security standards.</li>
+<li style="padding-left: 30px;">Securely transmit your sensitive Personal Information.</li>
+<li style="padding-left: 30px;">Train our staff and require them to safeguard your data.</li>
+<li style="padding-left: 30px;">Transmit, store, protect, and access all cardholder information in compliance with the Payment Card Industry's Data Security Standards.</li>
+</ul>
+<p id="section-6" style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>6. FOR OUR GLOBAL CUSTOMERS.&nbsp; We provide our Services in many different countries.&nbsp; Our global customers can find their country specific Privacy Statement and information about the Intuit entity responsible for their Personal Information by clicking the links below.<br></strong></p>
+<ul style="font-size: 12.16px;">
+<li style="padding-left: 30px;">Canada (EN):&nbsp;<a href="http://www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp">http://www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp</a></li>
+<li style="padding-left: 30px;">Canada (FR):&nbsp;<a href="http://www.intuit.ca/a-propos-de-intuit/info/vie-privee.jsp">http://www.intuit.ca/a-propos-de-intuit/info/vie-privee.jsp</a></li>
+<li style="padding-left: 30px;">France:&nbsp;<a href="https://quickbooks.intuit.com/fr/confidentialite">https://quickbooks.intuit.com/fr/confidentialite</a></li>
+<li style="padding-left: 30px;">UK:&nbsp;<a href="https://quickbooks.intuit.com/uk/privacy-policy">https://quickbooks.intuit.com/uk/privacy-policy</a></li>
+<li style="padding-left: 30px;">Australia:&nbsp;<a href="http://www.intuit.com.au/about/privacy.jsp">http://www.intuit.com.au/about/privacy.jsp</a></li>
+<li style="padding-left: 30px;">India:&nbsp;<a href="http://www.quickbooks.in/privacy.jsp">http://www.quickbooks.in/privacy.jsp</a></li>
+<li style="padding-left: 30px;">Singapore:&nbsp;<a href="http://quickbooks.intuit.sg/about/privacy.jsp">http://quickbooks.intuit.sg/about/privacy.jsp</a></li>
+<li style="padding-left: 30px;">Malaysia:&nbsp;<a href="http://www.intuit.com.my/about/privacy.jsp">http://www.intuit.com.my/about/privacy.jsp</a></li>
+<li style="padding-left: 30px;">Hong Kong (traditional Chinese):&nbsp;<a href="http://www.intuit.hk/hk/about/privacy.jsp">http://www.intuit.hk/hk/about/privacy.jsp</a></li>
+<li style="padding-left: 30px;">Hong Kong (English):&nbsp;<a href="http://www.intuit.hk/hk-en/about/privacy.jsp">http://www.intuit.hk/hk-en/about/privacy.jsp</a></li>
+<li style="padding-left: 30px;">Brazil:&nbsp;<a href="http://www.quickbooks.com.br/privacidade/">http://www.quickbooks.com.br/privacidade/</a></li>
+<li style="padding-left: 30px;">South Africa:&nbsp;<a href="http://quickbooks.intuit.com/za/privacy/">http://quickbooks.intuit.com/za/privacy/</a>&nbsp;</li>
+<li style="padding-left: 30px;">Rest of Europe:&nbsp;<a href="https://quickbooks.intuit.com/eu/privacy-policy">https://quickbooks.intuit.com/eu/privacy-policy</a></li>
+<li style="padding-left: 30px;">All Other Countries (Global):&nbsp;<a href="http://global.intuit.com/about/privacy.jsp">http://global.intuit.com/about/privacy.jsp</a></li>
+</ul>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>7. INTERNATIONAL DATA TRANSFERS.&nbsp;<br></strong></p>
+<p style="font-size: 12.16px;">In accordance with and as permitted by applicable law and regulations, we reserve the right to transfer your information, process and store it outside your country of residence to wherever we or our third party service providers operate.&nbsp;<span style="font-size: 10.0pt; font-family: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial; background: white;">&nbsp;<br></span></p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>8. EU-US PRIVACY SHIELD.&nbsp; Intuit complies with the E.U. - U.S. and Swiss-U.S. Privacy Shield Framework.<br></strong></p>
+<p style="font-size: 12.16px;">We may transfer your personal information to and process and store your information in other countries in compliance with applicable law. Some of these countries may have data protection laws that are different from the laws of your country (and, in some cases, may not be as protective). However, we have taken appropriate safeguards to require that your personal information remain protected. When Intuit transfers your personal information from the EEA or Switzerland to a non-EAA country, we rely on one or more of the following legal mechanisms: EU-U.S. Privacy Shield, Swiss-U.S. Privacy Shield, European Commission approved Standard Contractual Clauses, and your consent in limited circumstances. For more information about Intuit Inc.’s EU-U.S. and Swiss-U.S. Privacy Shield certification, please go <a href="/index.php/privacy/2-uncategorised/857-eu-us-swiss-privacy-shield-certification-2018">here</a>.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>9. HOW TO CONTACT US.If you have questions or comments about this Privacy Statement, please contact us.&nbsp; We want your feedback and comments.&nbsp;</strong></p>
+<p style="font-size: 12.16px;"><strong>a) Via Email.&nbsp;</strong>If you have questions or complaints regarding our Privacy Statement or practices, please contact us by email at&nbsp;<a href="mailto:privacy@intuit.com">privacy@intuit.com</a>.</p>
+<p style="font-size: 12.16px;"><strong>b) Via Direct Mail.&nbsp;</strong>Intuit Inc., Attention: Privacy, 2800 E Commerce Center Place, Tucson, AZ 85706</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>10. CHANGES TO OUR PRIVACY STATEMENTS.&nbsp; From time to time we may change or update our Privacy Statements.&nbsp; We reserve the right to make changes or updates at any time.&nbsp; More information about how we will notify you is below.</strong></p>
+<p style="font-size: 12.16px;">If we make material changes to the way we process your Personal Information, we will provide you notice via our Service or by other communication channels, such as by email or community post. Please review any changes carefully. If you object to any of the changes and no longer wish to use our Services, you may close your account(s). All changes are effective immediately upon posting and your use of our Service after a notice of material change or posting of an updated Privacy Statement shall constitute your consent to all changes.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>11. COLLECTION AND USE OF CHILDREN'S PERSONAL INFORMATION.&nbsp; We do not knowingly collect information from minors.<br></strong></p>
+<p style="font-size: 12.16px;">Intuit Services are intended for and directed to adults.&nbsp; Our Services are not directed to minors and we do not knowingly collect Personal Information from minors<b>.</b></p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>12. YOUR CALIFORNIA PRIVACY RIGHTS.<br></strong></p>
+<p style="font-size: 12.16px;">We do not share your Personal Information with third parties for their marketing purposes without your consent.</p>
+<p style="font-size: 12.16px;">&nbsp;</p>
+<p style="font-size: 12.16px;"><strong>13. ADDITIONAL INTUIT SERVICE SPECIFIC INFORMATION.<br></strong></p>
+<p style="font-size: 12.16px;">To learn more about how our Services use your information, please click&nbsp;<a href="/index.php/additional-intuit-service-specific-privacy-information" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p style="font-size: 12.16px;">Download a PDF version of this Privacy Statement&nbsp;<a href="/images/templates/intuit/Intuit-Privacy-Statement-Nov-6th-2017.pdf">here</a>.</p> 
+	
+</div>
+</div></div>
+          
+           </div>
+    </div>
+     
+                       </div> 
+                         
+                            <div class="row">
+                 </div> 
+        
+        <div class="container">
+         <div class="row">
+                 
+ 
+                     </div>
+    </div> 
+            </div>
+        </div>
+                      <div class="row-fluid">
+          <div class="span12">
+          <div class="clearfix">
+<div class="parallaxlab">
+    
+
+<div class="custom">
+	<div class="PaneFooter">
+<div class="container clearfix">
+<div id="_ctrl0_ctl39_divModuleContainer" class="quickLinks first">
+<h1 id="_ctrl0_ctl39_lblTitle"><span id="_ctrl0_ctl39_lblModuleTitle" class="ModuleTitle">About Intuit</span></h1>
+<ul id="_ctrl0_ctl39_qlList" class="quickLinks first">
+<li class="QuickLinkRow"><a href="http://about.intuit.com/" target="_blank" rel="noopener noreferrer">About</a></li>
+<li class="QuickLinkRowAlt"><a href="http://www.intuit.com/company/contact/" target="_blank" rel="noopener noreferrer">Contact</a></li>
+<li class="QuickLinkRow"><a href="http://careers.intuit.com/" target="_blank" rel="noopener noreferrer">Careers</a></li>
+<li class="QuickLinkRowAlt"><a href="http://investors.intuit.com/" target="_blank" rel="noopener noreferrer">Investor Relations</a></li>
+<li class="QuickLinkRow"><a href="http://about.intuit.com/about_intuit/press_room/" target="_blank" rel="noopener noreferrer">Newsroom</a></li>
+</ul>
+</div>
+<div id="_ctrl0_ctl42_divModuleContainer" class="quickLinksAlt">
+<h1 id="_ctrl0_ctl42_lblTitle"><span id="_ctrl0_ctl42_lblModuleTitle" class="ModuleTitle">For Individuals</span></h1>
+<ul id="_ctrl0_ctl42_qlList" class="quickLinksAlt">
+<li class="QuickLinkRow"><a href="https://www.mint.com/?cid=seq_intuit_mint_click_ft" target="_blank" rel="noopener noreferrer">Mint</a></li>
+<li class="QuickLinkRow"><a href="https://turbotax.intuit.com/?cid=seq_intuit_tt_click_ft" target="_blank" rel="noopener noreferrer">TurboTax</a></li>
+<li class="QuickLinkRowAlt"><a href="http://www.intuit.com/products/" target="_blank" rel="noopener noreferrer">See All</a></li>
+</ul>
+</div>
+<div id="_ctrl0_ctl45_divModuleContainer" class="quickLinks">
+<h1 id="_ctrl0_ctl45_lblTitle"><span id="_ctrl0_ctl45_lblModuleTitle" class="ModuleTitle">For Small Businesses</span></h1>
+<ul id="_ctrl0_ctl45_qlList" class="quickLinks">
+<li class="QuickLinkRow"><a href="https://intuitmarket.intuit.com/checks?track=53159" target="_blank" rel="noopener noreferrer">Checks and Supplies</a></li>
+<li class="QuickLinkRowAlt"><a href="http://payroll.intuit.com/?xcid=seq_intuit_proll_click_ft" target="_blank" rel="noopener noreferrer">Payroll Services</a></li>
+<li class="QuickLinkRow"><a href="http://payments.intuit.com/?xcid=seq_intuit_pay_click_ft" target="_blank" rel="noopener noreferrer">Payments</a></li>
+<li class="QuickLinkRow"><a href="http://quickbooks.intuit.com/?xcid=seq_intuit_qb_click_ft" target="_blank" rel="noopener noreferrer">QuickBooks</a></li>
+<li class="QuickLinkRowAlt"><a href="http://www.intuit.com/products/" target="_blank" rel="noopener noreferrer">See All</a></li>
+</ul>
+</div>
+<div id="_ctrl0_ctl48_divModuleContainer" class="QuickLinks quickLinksAlt">
+<h1 id="_ctrl0_ctl48_lblTitle"><span id="_ctrl0_ctl48_lblModuleTitle" class="ModuleTitle">For Accountants</span></h1>
+<ul id="_ctrl0_ctl48_qlList">
+<li class="QuickLinkRow"><a href="https://taxpro.intuit.com/tax-online/?_requestid=5258" target="_blank" rel="noopener noreferrer">ProConnect Tax Online</a></li>
+<li class="QuickLinkRowAlt"><a href="http://accountants.intuit.com/tax/lacerte/?s_cid=Intuit.com&amp;s_ev1=Intuit.com_footer_Lacerte" target="_blank" rel="noopener noreferrer">ProConnect Lacerte</a></li>
+<li class="QuickLinkRow"><a href="https://taxpro.intuit.com/proseries?_requestid=5287" target="_blank" rel="noopener noreferrer">ProConnect ProSeries</a></li>
+<li class="QuickLinkRowAlt"><a href="http://quickbooks.intuit.com/accountants/proadvisor" target="_blank" rel="noopener noreferrer">Quickbooks ProAdvisor Program</a></li>
+<li class="QuickLinkRow"><a href="http://quickbooks.intuit.com/accountants/" target="_blank" rel="noopener noreferrer">QuickBooks for Accountants</a></li>
+<li class="QuickLinkRowAlt"><a href="http://www.intuit.com/products/" target="_blank" rel="noopener noreferrer">See All</a></li>
+</ul>
+</div>
+</div>
+</div></div>
+
+      </div>
+    </div>
+   </div>
+  </div>
+          <div class="footerlab fboxname fhboxname fbgname fbtcname dboxprice">   
+  <div class="container footer fmbgname fbbcname fbhcoxname dboxprice">                            
+ <div class="row">
+                </div>
+              </div>
+              </div>
+                <div class="foterlab fbgname dboxprice">   
+            <div class="container">
+          <div class="row">
+                   
+            <div class="span12">
+
+
+<div class="custom">
+	<div id="footer-wrapper"><footer id="footer" class="region region-footer">
+<div id="block-block-1" class="block block-block first odd">
+<div class="content"><a id="footer-logo" class="footer__logo" title="Home" href="https://security.intuit.com/" rel="home">Home</a></div>
+</div>
+<div id="block-menu-menu-footer-menu" class="block block-menu even">
+<div class="content">
+<ul class="menu">
+<li class="menu__item is-leaf first leaf"><a class="menu__link" href="/index.php/home/faqs#_Toc450032534">Contact Us</a></li>
+<li class="menu__item is-leaf leaf"><a class="menu__link" href="https://www.intuit.com/legal">Legal</a></li>
+<li class="menu__item is-leaf last leaf"><a class="menu__link" title="" href="/privacy">Privacy</a></li>
+</ul>
+</div>
+</div>
+<div id="block-block-2" class="block block-block last odd">
+<div class="copyright"><strong>© 2018 Intuit Inc. All rights reserved.</strong> Intuit and QuickBooks are registered trademarks of Intuit Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.</div>
+</div>
+</footer></div></div>
+
+                      </div> 
+                       
+</div>
+              </div>
+                 </div>              
+           
+    
+
+</body></html>
