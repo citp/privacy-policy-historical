@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the htek.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315084611id_/http%3A//www.htek.com/site.php%3Fmid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htek.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221185720id_/http%3A//www.htek.com/about_site/2018/03/27183432713665.html) for the most accurate reproduction.*
 
-# Privacy-Htek
+# Htek Enterprise SIP Phone
 
 **Privacy Policy**  
 At Hanlong, we are committed to respecting your privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That's why we have put a policy in place to protect your personal information. This statement describes:(1) the types of personal information we collect,(2) how we use and protect this information,(3) who we disclose it to.
