@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipgain.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622130904id_/http%3A//www.voipgain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipgain.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221113550id_/https%3A//www.voipgain.com/privacy) for the most accurate reproduction.*
 
 # VoipGain | For the cheapest international calls
 
@@ -30,7 +30,7 @@ DELLMONT uses your Personal Data for the provision of Services and billing purp
 
 DELLMONT may use your Personal Data to improve their Services.
 
-DELLMONT may use your Personal Data to defect misuse of its system and / or a customer account.
+DELLMONT may use your Personal Data to detect misuse of its system and / or a customer account.
 
 DELLMONT may use the Personal Data to provide you with information relating to your account.
 
