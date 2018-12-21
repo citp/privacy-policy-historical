@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the castingcouch-x.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630075604id_/https%3A//castingcouch-x.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcouch-x.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221201404id_/https%3A//castingcouch-x.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-**This Privacy Policy (the “Policy”) applies to all of the Whale Member (“Service Provider”) family of websites (the “Sites”), including this site, as well as any other Sites at which this Policy appears and which are owned/controlled by the Service Provider. This Policy describes how Service Provider uses information it obtains about its users when they visit one of the Sites and is inapplicable to information obtained about you through other channels. Please review this Policy carefully. If you have any questions about this Policy, please email cvv@cvvhelp.net.**
+This Privacy Policy (the “Policy”) applies to all of the Whale Member (“Service Provider”) family of websites (the “Sites”), including this site, as well as any other Sites at which this Policy appears and which are owned/controlled by the Service Provider. This Policy describes how Service Provider uses information it obtains about its users when they visit one of the Sites and is inapplicable to information obtained about you through other channels. Please review this Policy carefully. If you have any questions about this Policy, please email cvv@cvvhelp.net.
 
 ### 1\. Revisions.
 
@@ -32,9 +32,9 @@ The primary use of information collected by Service Provider is to provide you a
  **b. Operation.** Service Provider may share your information if it becomes necessary to operate one or more of the Sites properly. This may include sharing information with a third-party vendor to collect fees or other monies owed by you. Service Provider may also share your information to prevent, detect, or resolve issue of fraud or security.  
  **c. Legal** Service Provider may use your information for legal purposes.  
 i. For example, your information may assist Service Provider in ensuring that you are in compliance with the Terms of Use, including our intellectual property policies and the requirement that you not share your password with third parties. It may also be used as necessary to bring legal action against you in the event that you materially breach Service Provider’s Terms of Use.  
-ii. Service Provider may also share your information with law enforcement to assist in any criminal investigations against you or to comply with any laws or regulations.   
+ii. Service Provider may also share your information with law enforcement to assist in any criminal investigations against you or to comply with any laws or regulations.  
 iii. Service Provider may share your information with a debt collector or legal counsel to collect any fees or other monies owed by you or to otherwise enforce the Terms of Use.  
-iv. In some cases, Service Provider may be subpoenaed to provide your information in a civil or criminal matter. Service provider reserves the right to respond to a subpoena without the necessity of informing you, but Service Provider may provide you with an opportunity to seek to quash the subpoena before responding, in service provider’s sole discretion. 
+iv. In some cases, Service Provider may be subpoenaed to provide your information in a civil or criminal matter. Service provider reserves the right to respond to a subpoena without the necessity of informing you, but Service Provider may provide you with an opportunity to seek to quash the subpoena before responding, in service provider’s sole discretion.
 
 ### 5\. Data Security
 
@@ -47,4 +47,4 @@ b. Emails to Service Provider. If you contact Service Provider via email or via 
 
 ### 7\. CONTACT US, QUESTIONS, UPDATING YOUR INFO, OPTING OUT
 
-If you would like to update your information, please e-mail us. From time to time, we may email you with special offers with your consent; you may opt-out of those offers through the email or by contacting us as noted below. If you otherwise would like to contact us for a privacy-related matter, please use the following e-mail address: [cvv@cvvhelp.net](mailto:cvv@cvvhelp.net)
+If you would like to update your information, please e-mail us. From time to time, we may email you with special offers with your consent; you may opt-out of those offers through the email or by contacting us as noted below. If you otherwise would like to contact us for a privacy-related matter, please use the following e-mail address: cvv@cvvhelp.net
