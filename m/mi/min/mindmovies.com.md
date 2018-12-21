@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630055229id_/https%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221181623id_/https%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Mind Movies - Our Privacy Policy
 
-**Mind Movies LLC, its affiliates and subsidiaries ("Mind Movies", "us" or "we") respect your privacy and are committed to protecting your personal information as described in this privacy policy. Mind Movies LLC operates the[www.mindmovies.com](https://www.mindmovies.com/) and [www.abundantentrepreneur.com](https://www.abundantentrepreneur.com/) websites (the "Service").**
+**Mind Movies LLC, its affiliates and subsidiaries ("Mind Movies", "us" or "we") respect your privacy and are committed to protecting your personal information as described in this privacy policy. Mind Movies LLC operates the[www.mindmovies.com](https://www.mindmovies.com/) and [www.abundantentrepreneur.com](https://www.abundantentrepreneur.com/) and [www.jvhacking.com](https://www.jvhacking.com/) websites (the "Service").**
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 
