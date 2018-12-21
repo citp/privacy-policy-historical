@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the reelrundown.com privacy policy that was archived on 2018-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629232057id_/https%3A//reelrundown.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reelrundown.com privacy policy that was archived on 2018-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221121531id_/https%3A//reelrundown.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script src="https://assets.hubstatic.com/s/ss177258517.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!DOCTYPE html><html lang="en"><head><script async="" src="//cdn.petametrics.com/999gba4qphtjrmpe.js?ts=438993"></script><script src="https://assets.hubstatic.com/s/ss141799037.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title>HubPages Network Privacy Policy | ReelRundown</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
@@ -12,6 +12,9 @@
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js?"></script><script>
 window.gdprConsents = {"version":1,"user_version":1,"categories":{"features":true,"marketing":true,"stats":true},"vendors":{"features":{"googlesearch":true,"googlemaps":true,"googlecharts":true,"adsensehost":true,"youtube":true,"vimeo":true,"paypal":true,"facebooklogin":true,"maven":true},"marketing":{"adsense":true,"doubleclick":true,"indexexchange":true,"sovrn":true,"facebookads":true,"amazonads":true,"appnexus":true,"openx":true,"rubicon":true,"triplelift":true,"saymedia":true,"remarketing":true,"conversion":true},"stats":{"authoranalytics":true,"comscore":true,"amazonaffpixel":true}},"eu":false};
+//Unfetch 4.0.1, Copyright (c) 2017 Jason Miller, The MIT License (MIT)
+self.fetch||(self.fetch=function(e,n){return n=n||{},new Promise(function(t,r){var s=new XMLHttpRequest;for(var o in s.open(n.method||"get",e,!0),n.headers)s.setRequestHeader(o,n.headers[o]);function u(){var e,n=[],t=[],r={};return s.getAllResponseHeaders().replace(/^(.*?):[^\S\n]*([\s\S]*?)$/gm,function(s,o,u){n.push(o=o.toLowerCase()),t.push([o,u]),r[o]=(e=r[o])?e+","+u:u}),{ok:2==(s.status/100|0),status:s.status,statusText:s.statusText,url:s.responseURL,clone:u,text:function(){return Promise.resolve(s.responseText)},json:function(){return Promise.resolve(s.responseText).then(JSON.parse)},blob:function(){return Promise.resolve(new Blob([s.response]))},headers:{keys:function(){return n},entries:function(){return t},get:function(e){return r[e.toLowerCase()]},has:function(e){return e.toLowerCase()in r}}}}s.withCredentials="include"==n.credentials,s.onload=function(){t(u())},s.onerror=r,s.send(n.body||null)})});
+
 function fetchScript(a, b) {
     var c = document.createElement('script'), d = "https:" == document.location.protocol, e = false;
     c.async = true;
@@ -82,8 +85,17 @@ var hubpagesConsent = {
 		
 		for (var i = 0; i < this.funcs.length; i++) {
 			var o = this.funcs[i];
-			if (!o.rerunable && o.timesRun > 0) { //some can't be run more than once
-				continue;
+
+			if (o.timesRun > 0) { //some can't be run more than once
+				var isRerunable;
+				if ('function' == typeof(o.rerunable)) {
+					isRerunable = o.rerunable();
+				} else {
+					isRerunable = o.rerunable;
+				}
+				if (!isRerunable) {
+					continue;
+				}
 			}
 			
 			o.timesRun++;
@@ -130,11 +142,11 @@ var hubpagesConsent = {
 		}
 	},
 	
-	loadIfConsented: function(category, service, url, func)
+	loadIfConsented: function(category, service, url, func, rerunable)
 	{
 		this.runIfConsented(category, service, function() {
 			fetchScript(url, func);
-		});
+		}, null, rerunable);
 	},
 	
 	log: function(str)
@@ -222,19 +234,44 @@ if (typeof(hpstdata) != "undefined") {
 */
 (function(global){var _$LAB=global.$LAB,_UseLocalXHR="UseLocalXHR",_AlwaysPreserveOrder="AlwaysPreserveOrder",_AllowDuplicates="AllowDuplicates",_CacheBust="CacheBust",_Debug="Debug",_BasePath="BasePath",_ErrorHandler="ErrorHandler",root_page=/^[^?#]*\//.exec(location.href)[0],root_domain=/^\w+\:\/\/\/?[^\/]+/.exec(root_page)[0],append_to=document.head||document.getElementsByTagName("head"),opera_or_gecko=(global.opera&&Object.prototype.toString.call(global.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),log_msg=function(){},log_error=log_msg,test_script_elem=document.createElement("script"),explicit_preloading=typeof test_script_elem.preload=="boolean",real_preloading=explicit_preloading||(test_script_elem.readyState&&test_script_elem.readyState=="uninitialized"),script_ordered_async=!real_preloading&&test_script_elem.async===true,xhr_or_cache_preloading=!real_preloading&&!script_ordered_async&&!opera_or_gecko;if(global.console&&global.console.log){if(!global.console.error)global.console.error=global.console.log;log_msg=function(msg){global.console.log(msg)};log_error=function(msg,err){global.console.error(msg,err)}}function is_func(func){return Object.prototype.toString.call(func)=="[object Function]"}function is_array(arr){return Object.prototype.toString.call(arr)=="[object Array]"}function canonical_uri(src,base_path){var absolute_regex=/^\w+\:\/\//;if(/^\/\/\/?/.test(src)){src=location.protocol+src}else if(!absolute_regex.test(src)&&src.charAt(0)!="/"){src=(base_path||"")+src}return absolute_regex.test(src)?src:((src.charAt(0)=="/"?root_domain:root_page)+src)}function merge_objs(source,target){for(var k in source){if(source.hasOwnProperty(k)){target[k]=source[k]}}return target}function check_chain_group_scripts_ready(chain_group){var any_scripts_ready=false;for(var i=0;i<chain_group.scripts.length;i++){if(chain_group.scripts[i].ready&&chain_group.scripts[i].exec_trigger){any_scripts_ready=true;chain_group.scripts[i].exec_trigger();chain_group.scripts[i].exec_trigger=null}}return any_scripts_ready}function create_script_load_listener(elem,registry_item,flag,onload){elem.onload=elem.onreadystatechange=function(){if((elem.readyState&&elem.readyState!="complete"&&elem.readyState!="loaded")||registry_item[flag])return;elem.onload=elem.onreadystatechange=null;onload()}}function script_executed(registry_item){registry_item.ready=registry_item.finished=true;for(var i=0;i<registry_item.finished_listeners.length;i++){registry_item.finished_listeners[i]()}registry_item.ready_listeners=[];registry_item.finished_listeners=[]}function request_script(chain_opts,script_obj,registry_item,onload,preload_this_script){setTimeout(function(){var script,src=script_obj.real_src,xhr;if("item"in append_to){if(!append_to[0]){setTimeout(arguments.callee,25);return}append_to=append_to[0]}script=document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;if(preload_this_script){if(real_preloading){if(chain_opts[_Debug])log_msg("start script preload: "+src);registry_item.elem=script;if(explicit_preloading){script.preload=true;script.onpreload=onload}else{script.onreadystatechange=function(){if(script.readyState=="loaded")onload()}}script.src=src}else if(preload_this_script&&src.indexOf(root_domain)==0&&chain_opts[_UseLocalXHR]){xhr=new XMLHttpRequest();if(chain_opts[_Debug])log_msg("start script preload (xhr): "+src);xhr.onreadystatechange=function(){if(xhr.readyState==4){xhr.onreadystatechange=function(){};registry_item.text=xhr.responseText+"\n//@ sourceURL="+src;onload()}};xhr.open("GET",src);xhr.send()}else{if(chain_opts[_Debug])log_msg("start script preload (cache): "+src);script.type="text/cache-script";create_script_load_listener(script,registry_item,"ready",function(){append_to.removeChild(script);onload()});script.src=src;append_to.insertBefore(script,append_to.firstChild)}}else if(script_ordered_async){if(chain_opts[_Debug])log_msg("start script load (ordered async): "+src);script.async=false;create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}else{if(chain_opts[_Debug])log_msg("start script load: "+src);create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}},0)}function create_sandbox(){var global_defaults={},can_use_preloading=real_preloading||xhr_or_cache_preloading,queue=[],registry={},instanceAPI;global_defaults[_UseLocalXHR]=true;global_defaults[_AlwaysPreserveOrder]=false;global_defaults[_AllowDuplicates]=false;global_defaults[_CacheBust]=false;global_defaults[_Debug]=false;global_defaults[_BasePath]="";global_defaults[_ErrorHandler]=function(err){};function execute_preloaded_script(chain_opts,script_obj,registry_item){var script;function preload_execute_finished(){if(script!=null){script=null;script_executed(registry_item)}}if(registry[script_obj.src].finished)return;if(!chain_opts[_AllowDuplicates])registry[script_obj.src].finished=true;script=registry_item.elem||document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;create_script_load_listener(script,registry_item,"finished",preload_execute_finished);if(registry_item.elem){registry_item.elem=null}else if(registry_item.text){script.onload=script.onreadystatechange=null;script.text=registry_item.text}else{script.src=script_obj.real_src}append_to.insertBefore(script,append_to.firstChild);if(registry_item.text){preload_execute_finished()}}function do_script(chain_opts,script_obj,chain_group,preload_this_script){var registry_item,registry_items,ready_cb=function(){script_obj.ready_cb(script_obj,function(){execute_preloaded_script(chain_opts,script_obj,registry_item)})},finished_cb=function(){script_obj.finished_cb(script_obj,chain_group)};script_obj.src=canonical_uri(script_obj.src,chain_opts[_BasePath]);script_obj.real_src=script_obj.src+(chain_opts[_CacheBust]?((/\?.*$/.test(script_obj.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!registry[script_obj.src])registry[script_obj.src]={items:[],finished:false};registry_items=registry[script_obj.src].items;if(chain_opts[_AllowDuplicates]||registry_items.length==0){registry_item=registry_items[registry_items.length]={ready:false,finished:false,ready_listeners:[ready_cb],finished_listeners:[finished_cb]};request_script(chain_opts,script_obj,registry_item,((preload_this_script)?function(){registry_item.ready=true;for(var i=0;i<registry_item.ready_listeners.length;i++){registry_item.ready_listeners[i]()}registry_item.ready_listeners=[]}:function(){script_executed(registry_item)}),preload_this_script)}else{registry_item=registry_items[0];if(registry_item.finished){finished_cb()}else{registry_item.finished_listeners.push(finished_cb)}}}function create_chain(){var chainedAPI,chain_opts=merge_objs(global_defaults,{}),chain=[],exec_cursor=0,scripts_currently_loading=false,group;function chain_script_ready(script_obj,exec_trigger){if(chain_opts[_Debug])log_msg("script preload finished: "+script_obj.real_src);script_obj.ready=true;script_obj.exec_trigger=exec_trigger;advance_exec_cursor()}function chain_script_executed(script_obj,chain_group){if(chain_opts[_Debug])log_msg("script execution finished: "+script_obj.real_src);script_obj.ready=script_obj.finished=true;script_obj.exec_trigger=null;for(var i=0;i<chain_group.scripts.length;i++){if(!chain_group.scripts[i].finished)return}chain_group.finished=true;advance_exec_cursor()}function advance_exec_cursor(){while(exec_cursor<chain.length){if(is_func(chain[exec_cursor])){if(chain_opts[_Debug])log_msg("$LAB.wait() executing: "+chain[exec_cursor]);try{chain[exec_cursor++]()}catch(err){chain_opts[_ErrorHandler](err);if(chain_opts[_Debug])log_error("$LAB.wait() error caught: ",err)}continue}else if(!chain[exec_cursor].finished){if(check_chain_group_scripts_ready(chain[exec_cursor]))continue;break}exec_cursor++}if(exec_cursor==chain.length){scripts_currently_loading=false;group=false}}function init_script_chain_group(){if(!group||!group.scripts){chain.push(group={scripts:[],finished:true})}}chainedAPI={script:function(){for(var i=0;i<arguments.length;i++){(function(script_obj,script_list){var splice_args;if(!is_array(script_obj)){script_list=[script_obj]}for(var j=0;j<script_list.length;j++){init_script_chain_group();script_obj=script_list[j];if(is_func(script_obj))script_obj=script_obj();if(!script_obj)continue;if(is_array(script_obj)){splice_args=[].slice.call(script_obj);splice_args.unshift(j,1);[].splice.apply(script_list,splice_args);j--;continue}if(typeof script_obj=="string")script_obj={src:script_obj};script_obj=merge_objs(script_obj,{ready:false,ready_cb:chain_script_ready,finished:false,finished_cb:chain_script_executed});group.finished=false;group.scripts.push(script_obj);do_script(chain_opts,script_obj,group,(can_use_preloading&&scripts_currently_loading));scripts_currently_loading=true;if(chain_opts[_AlwaysPreserveOrder])chainedAPI.wait()}})(arguments[i],arguments[i])}return chainedAPI},wait:function(){if(arguments.length>0){for(var i=0;i<arguments.length;i++){chain.push(arguments[i])}group=chain[chain.length-1]}else group=false;advance_exec_cursor();return chainedAPI}};return{script:chainedAPI.script,wait:chainedAPI.wait,setOptions:function(opts){merge_objs(opts,chain_opts);return chainedAPI}}}instanceAPI={setGlobalDefaults:function(opts){merge_objs(opts,global_defaults);return instanceAPI},setOptions:function(){return create_chain().setOptions.apply(null,arguments)},script:function(){return create_chain().script.apply(null,arguments)},wait:function(){return create_chain().wait.apply(null,arguments)},queueScript:function(){queue[queue.length]={type:"script",args:[].slice.call(arguments)};return instanceAPI},queueWait:function(){queue[queue.length]={type:"wait",args:[].slice.call(arguments)};return instanceAPI},runQueue:function(){var $L=instanceAPI,len=queue.length,i=len,val;for(;--i>=0;){val=queue.shift();$L=$L[val.type].apply(null,val.args)}return $L},noConflict:function(){global.$LAB=_$LAB;return instanceAPI},sandbox:function(){return create_sandbox()}};return instanceAPI}global.$LAB=create_sandbox();(function(addEvent,domLoaded,handler){if(document.readyState==null&&document[addEvent]){document.readyState="loading";document[addEvent](domLoaded,handler=function(){document.removeEventListener(domLoaded,handler,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
 </script><script>$LAB.setGlobalDefaults({'ErrorHandler': function(err) { console.log(err); throw err; }});  var LABqueue = $LAB.script('https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js').wait(function() { jq = $.noConflict(); })
-.script('https://assets.hubstatic.com/s/ss177258517.js')
+.script('https://assets.hubstatic.com/s/ss141799037.js')
 ;
 </script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-286186-31', 'auto', {'name': 'siteTracker'});
-ga('siteTracker.set', 'anonymizeIp', true);
-if (hubpagesConsent.isEU()) { ga('siteTracker.set', 'displayFeaturesTask', null); }
-ga('siteTracker.send', 'pageview');
-gaSiteTracker = 'siteTracker.';
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');function fireMavenUA(mavenUID) {
+	ga('create', 'UA-126130613-1', 'auto', {'name': 'mavenTracker'});
+	ga('mavenTracker.set', 'anonymizeIp', true);
+	if (hubpagesConsent.isEU()) { ga('mavenTracker.set', 'displayFeaturesTask', null); }
+	if (mavenUID) { ga('mavenTracker.set', 'userId', mavenUID); }
+	ga('mavenTracker.send', 'pageview');
+}
+
+window.mavenUID = null;
+fetch('https://uid.mavencoalition.io/', {
+	credentials: 'include', // include the cookie in the request
+}).then(function(response) {
+	if (response.status === 200) {
+		response.json().then(function(resp) {
+			fireMavenUA(resp.uid);
+			window.mavenUID = resp.uid;
+			if (typeof(setupLiftigniter) === "function") { setupLiftigniter(resp.uid); }
+		});
+	} else {
+		throw new Error('invalid UID service response');
+	}
+}).catch(function(e) {
+	fireMavenUA(null);
+	if (typeof(setupLiftigniter) === "function") { setupLiftigniter(null); }
+});
+	ga('create', 'UA-286186-31', 'auto', {'name': 'siteTracker'});
+	ga('siteTracker.set', 'anonymizeIp', true);
+	if (hubpagesConsent.isEU()) { ga('siteTracker.set', 'displayFeaturesTask', null); }
+	ga('siteTracker.send', 'pageview');
+	window.gaSiteTracker = 'siteTracker.';
 </script>
 
-<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases45789067.css">
+<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases98450879.css">
 
 <style>
 .svglogo.reelrundown-logo32 { width: 143px; height: 32px;}
@@ -244,13 +281,12 @@ gaSiteTracker = 'siteTracker.';
   </head>
 <body class="reelrundown static fully-responsive nomast">
 
-<!-- symbols (10942 bytes) -->
+<!-- symbols (10550 bytes) -->
 <svg id="svg-definitions">
 <symbol id="search-magnify" viewBox="0 0 36 36"><path d="M35.525 31.228l-8.88-8.882c1.444-2.238 2.298-4.895 2.298-7.752C28.943 6.684 22.505.25 14.597.25 6.687.25.254 6.686.254 14.595c0 7.91 6.433 14.344 14.343 14.344 2.856 0 5.513-.85 7.752-2.294l8.88 8.88c.294.297.78.297 1.075 0l3.22-3.22c.3-.296.3-.78 0-1.076zM4.81 14.593c0-5.396 4.39-9.788 9.788-9.788 5.398 0 9.787 4.392 9.787 9.788 0 5.398-4.39 9.79-9.787 9.79-5.398 0-9.788-4.392-9.788-9.79z"></path></symbol>
 <symbol id="bell" viewBox="0 0 16 16"><path d="M16 13c-1.657 0-3-1.343-3-3v-4.455c0-2.199-1.718-4.033-4-4.454v-1.091h-2v1.091c-2.282 0.421-4 2.255-4 4.454v4.455c0 1.657-1.343 3-3 3v1h6.712c-0.081 0.178-0.127 0.377-0.127 0.586 0 0.781 0.633 1.414 1.414 1.414s1.414-0.633 1.414-1.414c0-0.209-0.045-0.407-0.127-0.586h6.713v-1z"></path></symbol>
 <symbol id="question" viewBox="0 0 16 16"><path d="M9 12c0 0.552-0.448 1-1 1s-1-0.448-1-1 0.448-1 1-1 1 0.448 1 1z"></path><path d="M8 0c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zM8 14.5c-3.59 0-6.5-2.91-6.5-6.5s2.91-6.5 6.5-6.5 6.5 2.91 6.5 6.5-2.91 6.5-6.5 6.5z"></path><path d="M8 10.004c-0.414 0-0.75-0.336-0.75-0.75v-0.5c0-0.525 0.203-0.998 0.602-1.404 0.295-0.3 0.653-0.525 0.999-0.742 0.712-0.447 1.024-0.687 1.024-1.107 0-0.457-0.264-0.762-0.485-0.938-0.355-0.282-0.849-0.437-1.39-0.437-0.821 0-1.559 0.548-1.796 1.333-0.12 0.397-0.538 0.621-0.934 0.502s-0.621-0.538-0.502-0.934c0.205-0.68 0.631-1.291 1.2-1.721 0.589-0.445 1.292-0.68 2.031-0.68 0.878 0 1.703 0.271 2.322 0.762 0.679 0.539 1.053 1.289 1.053 2.113 0 1.293-0.998 1.92-1.726 2.377-0.611 0.384-0.899 0.596-0.899 0.876v0.5c0 0.414-0.336 0.75-0.75 0.75z"></path></symbol>
 <symbol id="maven-key" viewBox="0 0 367 512"><path d="M194.9 264.1l80.5-80.5-91.8-92-92 92 80.5 80.5v156.2h23v-15.5h30.6v-23.6h-17.1v-23.3h17.1v-23.6h-30.6v-70.4h-.2v.2zm-70.3-80.3l59.4-59.4 59.4 59.4-23.4 23.4-36-36-36 36-23.4-23.4zm59.3 59.3l-27.5-27.5 27.5-27.5 27.5 27.5-27.5 27.5z"></path></symbol>
-<symbol id="anon" viewBox="0 0 119 119"><path class="c" d="M59.47 65.77c14 0 24.92-13.41 24.92-27.42A25 25 0 0 0 59.47 13a24.62 24.62 0 0 0-24.92 24.92c0 14 10.91 27.85 24.92 27.85zM80 65.83a33.44 33.44 0 0 1-20.54 7.27 32.93 32.93 0 0 1-20.39-7.33c-14.8 5.62-25.38 17.17-27 30.81 10.56 14.55 27.67 24.89 47.39 24.89a59.13 59.13 0 0 0 47.47-24.41c-1.41-13.8-12-25.52-26.93-31.23z"></path></symbol>
 <symbol id="facebook" viewBox="0 0 16 16"><path d="M9.5 3h2.5v-3h-2.5c-1.93 0-3.5 1.57-3.5 3.5v1.5h-2v3h2v8h3v-8h2.5l0.5-3h-3v-1.5c0-0.271 0.229-0.5 0.5-0.5z"></path></symbol>
 <symbol id="pinterest" viewBox="0 0 16 16"><path d="M8 1.069c-3.828 0-6.931 3.103-6.931 6.931 0 2.938 1.828 5.444 4.406 6.453-0.059-0.547-0.116-1.391 0.025-1.988 0.125-0.541 0.813-3.444 0.813-3.444s-0.206-0.416-0.206-1.028c0-0.963 0.559-1.684 1.253-1.684 0.591 0 0.878 0.444 0.878 0.975 0 0.594-0.378 1.484-0.575 2.306-0.166 0.691 0.344 1.253 1.025 1.253 1.231 0 2.178-1.3 2.178-3.175 0-1.659-1.194-2.819-2.894-2.819-1.972 0-3.128 1.478-3.128 3.009 0 0.597 0.228 1.234 0.516 1.581 0.056 0.069 0.066 0.128 0.047 0.2-0.053 0.219-0.169 0.691-0.194 0.787-0.031 0.128-0.1 0.153-0.231 0.094-0.866-0.403-1.406-1.669-1.406-2.684 0-2.188 1.587-4.194 4.578-4.194 2.403 0 4.272 1.712 4.272 4.003 0 2.388-1.506 4.313-3.597 4.313-0.703 0-1.362-0.366-1.588-0.797 0 0-0.347 1.322-0.431 1.647-0.156 0.603-0.578 1.356-0.862 1.816 0.65 0.2 1.337 0.309 2.053 0.309 3.828 0 6.931-3.103 6.931-6.931 0-3.831-3.103-6.934-6.931-6.934z"></path></symbol>
 <symbol id="hubpages-h" viewBox="0 0 16 16"><path d="M13.757 6.636c-.448.448-.96.832-1.44 1.152V.11c0-.352-2.078.224-2.205.544v8.253c-1.343.48-2.814.704-4.35.672V1.933c0-.352-2.078.223-2.206.543V9.42c-.575-.065-1.183-.193-1.79-.32-.416-.097-.544 1.375 0 1.503.64.128 1.215.256 1.79.32v4.542c0 .384 2.207-.256 2.207-.576v-3.743c1.663.032 3.1-.192 4.35-.576v5.31c0 .385 2.205-.255 2.205-.575v-5.79c.8-.544 1.503-1.184 2.046-1.92.192-.287-.35-1.215-.607-.96z"></path></symbol>
@@ -348,7 +384,7 @@ gaSiteTracker = 'siteTracker.';
 
 <h2>10. Contact Information</h2>
 
-<p>Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.</p>
+<p>Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to HubPages c/o WeWork (Floor 8 - Room #802) 995 Market San Francisco, CA 94103, USA.</p>
 
 <h2 id="gdpr">11. GDPR Addendum for Impacted Users</h2>
 
@@ -397,7 +433,7 @@ gaSiteTracker = 'siteTracker.';
 
 <p>You may access the consent dialogue tool and update/remove your consents by <a href="#" onclick="showGdprPopup();return false;">clicking here</a></p>
 
-<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:gdpr@hubpages.com">GDPR@hubpages.com</a></p>
+<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:dpo@hubpages.com">DPO@hubpages.com</a></p>
 
 <p>The Data Controller is HubPages, Inc.  You may contact HubPages at: <a href="mailto:team@hubpages.com">Team@hubpages.com</a></p>
 
@@ -441,7 +477,7 @@ gaSiteTracker = 'siteTracker.';
 <p>November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers; explained how third-party advertisers use your information in Section 4; clarified our security policy in Section 6; and deleted a provision about international users that is covered in our Terms of Use.</p>
 
 
-</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://reelrundown.com/" title="To the ReelRundown home page"><svg class="svglogo reelrundown-logo reelrundown-logo30"><title></title><use xlink:href="#reelrundown-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://reelrundown.com/about-us">About Us</a></li><li><a href="https://reelrundown.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://reelrundown.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://reelrundown.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://reelrundown.com/privacy-policy">Privacy Policy</a></li></ul><div class="legalese"><p>Copyright © 2018 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://reelrundown.com/signin/">Sign In</a><a href="https://reelrundown.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://reelrundown.com/movies/">Movies</a></h3><ul><li><a href="https://reelrundown.com/movies/foreign/" class="Foreign">Foreign</a></li><li><a href="https://reelrundown.com/movies/thriller/" class="Thriller">Thriller</a></li><li><a href="https://reelrundown.com/movies/drama/" class="Drama">Drama</a></li><li><a href="https://reelrundown.com/movies/horror/" class="Horror">Horror</a></li><li><a href="https://reelrundown.com/movies/comedy/" class="Comedy">Comedy</a></li><li><a href="https://reelrundown.com/movies/sci-fi/" class="Sci-Fi">Sci-Fi</a></li><li><a href="https://reelrundown.com/movies/action/" class="Action">Action</a></li><li><a href="https://reelrundown.com/movies/family/" class="Family">Family</a></li><li><a href="https://reelrundown.com/movies/documentaries/" class="Documentaries">Documentaries</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/celebrities/">Celebrities</a></h3><ul><li><a href="https://reelrundown.com/celebrities/actresses/" class="Actresses">Actresses</a></li><li><a href="https://reelrundown.com/celebrities/actors/" class="Actors">Actors</a></li><li><a href="https://reelrundown.com/celebrities/comedians/" class="Comedians &amp; Comediennes">Comedians &amp; Comediennes</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/tv/">TV</a></h3><ul><li><a href="https://reelrundown.com/tv/shows/" class="Shows">Shows</a></li><li><a href="https://reelrundown.com/tv/channels-networks/" class="Channels &amp; Networks">Channels &amp; Networks</a></li><li><a href="https://reelrundown.com/tv/news/" class="News">News</a></li><li><a href="https://reelrundown.com/tv/streaming/" class="Streaming">Streaming</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/animation/">Animation</a></h3><ul><li><a href="https://reelrundown.com/animation/anime/" class="Anime">Anime</a></li><li><a href="https://reelrundown.com/animation/disney/" class="Disney">Disney</a></li><li><a href="https://reelrundown.com/animation/shows/" class="Animated Shows">Animated Shows</a></li><li><a href="https://reelrundown.com/animation/films/" class="Animated Films">Animated Films</a></li><li><a href="https://reelrundown.com/animation/studios/" class="Animation Studios">Animation Studios</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/film-industry/">Film Industry</a></h3><ul><li><a href="https://reelrundown.com/film-industry/production/" class="Production">Production</a></li><li><a href="https://reelrundown.com/film-industry/history/" class="History">History</a></li><li><a href="https://reelrundown.com/film-industry/awards/" class="Awards">Awards</a></li></ul></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/ReelRundown-225716524461017" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/reelrundown/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a></div><div class="footer section"><h3><a href="https://reelrundown.com/about-us">About Us</a></h3><ul><li><a href="https://reelrundown.com/editorial-policy">Editorial Policy</a></li><li><a href="https://reelrundown.com/copyright">Copyright</a></li><li><a href="https://reelrundown.com/user-agreement">Terms of Use</a></li><li><a href="https://reelrundown.com/privacy-policy">Privacy Policy</a></li></ul><p class="legalese">Copyright © 2018 HubPages Inc. and respective owners. </p></div></div></div>
+</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://reelrundown.com/" title="To the ReelRundown home page"><svg class="svglogo reelrundown-logo reelrundown-logo30"><title></title><use xlink:href="#reelrundown-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://reelrundown.com/about-us">About Us</a></li><li><a href="https://reelrundown.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://reelrundown.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://reelrundown.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://reelrundown.com/privacy-policy">Privacy Policy</a></li></ul><div class="legalese"><p>Copyright © 2018 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://reelrundown.com/signin/">Sign In</a><a href="https://reelrundown.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://reelrundown.com/tv/">TV</a></h3><ul><li><a href="https://reelrundown.com/tv/shows/" class="Shows">Shows</a></li><li><a href="https://reelrundown.com/tv/news/" class="News">News</a></li><li><a href="https://reelrundown.com/tv/channels-networks/" class="Channels &amp; Networks">Channels &amp; Networks</a></li><li><a href="https://reelrundown.com/tv/streaming/" class="Streaming">Streaming</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/animation/">Animation</a></h3><ul><li><a href="https://reelrundown.com/animation/anime/" class="Anime">Anime</a></li><li><a href="https://reelrundown.com/animation/disney/" class="Disney">Disney</a></li><li><a href="https://reelrundown.com/animation/shows/" class="Animated Shows">Animated Shows</a></li><li><a href="https://reelrundown.com/animation/films/" class="Animated Films">Animated Films</a></li><li><a href="https://reelrundown.com/animation/studios/" class="Animation Studios">Animation Studios</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/movies/">Movies</a></h3><ul><li><a href="https://reelrundown.com/movies/foreign/" class="Foreign">Foreign</a></li><li><a href="https://reelrundown.com/movies/thriller/" class="Thriller">Thriller</a></li><li><a href="https://reelrundown.com/movies/sci-fi/" class="Sci-Fi">Sci-Fi</a></li><li><a href="https://reelrundown.com/movies/drama/" class="Drama">Drama</a></li><li><a href="https://reelrundown.com/movies/horror/" class="Horror">Horror</a></li><li><a href="https://reelrundown.com/movies/comedy/" class="Comedy">Comedy</a></li><li><a href="https://reelrundown.com/movies/family/" class="Family">Family</a></li><li><a href="https://reelrundown.com/movies/action/" class="Action">Action</a></li><li><a href="https://reelrundown.com/movies/documentaries/" class="Documentaries">Documentaries</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/celebrities/">Celebrities</a></h3><ul><li><a href="https://reelrundown.com/celebrities/actresses/" class="Actresses">Actresses</a></li><li><a href="https://reelrundown.com/celebrities/actors/" class="Actors">Actors</a></li><li><a href="https://reelrundown.com/celebrities/comedians/" class="Comedians &amp; Comediennes">Comedians &amp; Comediennes</a></li></ul></div><div class="category_group"><h3><a href="https://reelrundown.com/film-industry/">Film Industry</a></h3><ul><li><a href="https://reelrundown.com/film-industry/production/" class="Production">Production</a></li><li><a href="https://reelrundown.com/film-industry/history/" class="History">History</a></li><li><a href="https://reelrundown.com/film-industry/awards/" class="Awards">Awards</a></li></ul></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/ReelRundown-225716524461017" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/reelrundown/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a><a class="envelop" href="#" onclick="return hpLoadLink('help',0,'','')" oncontextmenu="return true" title="Contact Us"><svg class="moon medium envelop"><use xlink:href="#envelop"></use></svg></a></div><div class="footer section"><h3><a href="https://reelrundown.com/about-us">About Us</a></h3><ul><li><a href="https://reelrundown.com/editorial-policy">Editorial Policy</a></li><li><a href="https://reelrundown.com/copyright">Copyright</a></li><li><a href="https://reelrundown.com/user-agreement">Terms of Use</a></li><li><a href="https://reelrundown.com/privacy-policy">Privacy Policy</a></li></ul><p class="legalese">Copyright © 2018 HubPages Inc. and respective owners. </p></div></div></div>
 <div id="ajaxing"><div id="ajaxing_box"><div class="spinny"></div><div id="working">working</div></div></div><script>LABqueue.wait(function() {crossDomainSetup('https://equalstyle.com/login-hub/', true);
 jq(document).ready(function() { hpSiteInit(); });
 jq(document).ready( function() { loadLazyImages(); } );
@@ -455,18 +491,186 @@ jq('#mobile_menu .search_button').click(function() {
 	<div class="consent_buttons"><div class="consent_option"><input class="gdpr_category_required" type="checkbox" checked="checked" disabled="disabled">&nbsp;Necessary</div><div class="consent_option"><input class="gdpr_category_features" type="checkbox">&nbsp;Features</div><div class="consent_option"><input class="gdpr_category_marketing" type="checkbox">&nbsp;Marketing</div><div class="consent_option"><input class="gdpr_category_stats" type="checkbox">&nbsp;Statistics</div></div>
 	<div id="gdpr_accept_wrap">
 		<a id="gdpr_accept_button" class="button small primary_action green_bg">Approve All &amp; Submit</a><br>
-		<a id="gdpr_accept_checkedonly" class="button small">Approve Checked Only</a>
+		<a id="gdpr_accept_checkedonly" class="button small primary_action green_bg">Approve Checked Only</a>
 	</div>
 
 	<p style="clear:both">
-		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: "https://reelrundown.com/privacy-policy#gdpr"</small>
+		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: <a href="https://reelrundown.com/privacy-policy#gdpr" target="_blank">https://reelrundown.com/privacy-policy#gdpr</a></small>
 	</p>
 
-	<span style="float:right" class="span_link details_link"><small>Show Details</small></span>
+	<span style="float:right" class="span_link details_link"><span class="arrow arrow-right"></span> <small>Show Details</small></span>
 	<table class="details_table"><thead><tr><th colspan="2">Necessary</th></tr></thead><tbody><tr><td class="suboption_name">HubPages Device ID</td><td class="suboption_desc">This is used to identify particular browsers or devices when the access the service, and is used for security reasons. </td></tr><tr><td class="suboption_name">Login</td><td class="suboption_desc">This is necessary to sign in to the HubPages Service. </td></tr><tr><td class="suboption_name">Google Recaptcha</td><td class="suboption_desc">This is used to prevent bots and spam. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Akismet</td><td class="suboption_desc">This is used to detect comment spam. <small>(<a class="privacy_policy" href="https://automattic.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Google Analytics</td><td class="suboption_desc">This is used to provide data on traffic to our website, all personally identifyable data is anonymized. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Traffic Pixel</td><td class="suboption_desc">This is used to collect data on traffic to articles and other pages on our site.  Unless you are signed in to a HubPages account, all personally identifiable information is anonymized. </td></tr><tr><td class="suboption_name">Amazon Web Services</td><td class="suboption_desc">This is a cloud services platform that we used to host our service. <small>(<a class="privacy_policy" href="https://aws.amazon.com/compliance/data-privacy-faq/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Cloudflare</td><td class="suboption_desc">This is a cloud CDN service that we use to efficiently deliver files required for our service to operate such as javascript, cascading style sheets, images, and videos. <small>(<a class="privacy_policy" href="https://www.cloudflare.com/privacypolicy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Hosted Libraries</td><td class="suboption_desc">Javascript software libraries such as jQuery are loaded at endpoints on the googleapis.com or gstatic.com domains, for performance and efficiency reasons. <small>(<a class="privacy_policy" href="https://developers.google.com/speed/libraries/terms" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Features</th></tr></thead><tbody><tr><td class="suboption_name">Google Custom Search</td><td class="suboption_desc">This is feature allows you to search the site. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Maps</td><td class="suboption_desc">Some articles have Google Maps embedded in them. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Charts</td><td class="suboption_desc">This is used to display charts and graphs on articles and the author center. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google AdSense Host API</td><td class="suboption_desc">This service allows you to sign up for or associate a Google AdSense account with HubPages, so that you can earn money from ads on your articles.  No data is shared unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google YouTube</td><td class="suboption_desc">Some articles have YouTube videos embedded in them. <small>(<a class="privacy_policy" href="https://www.youtube.com/static?template=privacy_guidelines" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Vimeo</td><td class="suboption_desc">Some articles have Vimeo videos embedded in them. <small>(<a class="privacy_policy" href="https://vimeo.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Paypal</td><td class="suboption_desc">This is used for a registered author who enrolls in the HubPages Earnings program and requests to be paid via PayPal.  No data is shared with Paypal unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Login</td><td class="suboption_desc">You can use this to streamline signing up for, or signing in to your Hubpages account.  No data is shared with Facebook unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.facebook.com/policy.php" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Maven</td><td class="suboption_desc">This supports the Maven widget and search functionality. <small>(<a class="privacy_policy" href="https://www.themaven.net/the-maven/pages/S5I9LAYSaEqEDc9mpEdWeA" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Marketing</th></tr></thead><tbody><tr><td class="suboption_name">Google AdSense</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google DoubleClick</td><td class="suboption_desc">Google provides ad serving technology and runs an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Index Exchange</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="http://www.indexexchange.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Sovrn</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.sovrn.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Ads</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.facebook.com/privacy/explanation" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Unified Ad Marketplace</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">AppNexus</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.appnexus.com/en/company/platform-privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Openx</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.openx.com/legal/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Rubicon Project</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://rubiconproject.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">TripleLift</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://triplelift.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Say Media</td><td class="suboption_desc">We partner with Say Media to deliver ad campaigns on our sites. <small>(<a class="privacy_policy" href="https://www.saymedia.com/privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Remarketing Pixels</td><td class="suboption_desc">We may use remarketing pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to advertise the HubPages Service to people that have visited our sites. </td></tr><tr><td class="suboption_name">Conversion Tracking Pixels</td><td class="suboption_desc">We may use conversion tracking pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to identify when an advertisement has successfully resulted in the desired action, such as signing up for the HubPages Service or publishing an article on the HubPages Service. </td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Statistics</th></tr></thead><tbody><tr><td class="suboption_name">Author Google Analytics</td><td class="suboption_desc">This is used to provide traffic data and reports to the authors of articles on the HubPages Service. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy?hl=en&amp;gl=us" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Comscore</td><td class="suboption_desc">ComScore is a media measurement and analytics company providing marketing data and analytics to enterprises, media and advertising agencies, and publishers.  Non-consent will result in ComScore only processing obfuscated personal data. <small>(<a class="privacy_policy" href="https://www.comscore.com/About-comScore/Privacy-Policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Tracking Pixel</td><td class="suboption_desc">Some articles display amazon products as part of the Amazon Affiliate program, this pixel provides traffic statistics for those products <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table>
-</div></div><div id="maven_sidebar"><a title="Member of the Maven Coalition" href="#" onclick="return hpLoadLink('maven', 0, '', '')" oncontextmenu="return hpLoadLink('maven', 0, '', '')"><svg class="moon largish maven-key"><use xlink:href="#maven-key"></use></svg></a></div><noscript>
+</div></div><div id="maven_sidebar"><a title="Member of the Maven Coalition" href="#" onclick="return hpLoadLink('maven', 0, '', '')" oncontextmenu="return hpLoadLink('maven', 0, '', '')"><svg class="moon largish maven-key"><use xlink:href="#maven-key"></use></svg></a></div><script id="liftigniter-metadata" type="application/json">
+{"noShow":"true"}
+</script>
+<script type="application/mustache" id="related-item-template">
+	<div class="card">
+	  <a class="obj_image" href="{{url}}">
+		<div style="width:75px;height:75px" class="thumbphoto">
+			<img style="height:75px;" alt="{{description}}" src="{{thumbnail}}">
+		</div>
+	  </a>
+    </div>
+    <div class="catlink"><a href="{{section_url}}">{{section}}</a></div>
+	<h3><a class="title navigation" href="{{url}}">{{title}}</a></h3>
+	<p class="meta">
+	  <span class="author">by <span class="author_primary_name">{{author}}</span></span>
+	  <span class="comment_count"><svg class="moon tiny icon solidbubble"><use xlink:href="#solidbubble"></use></svg>{{comment_count}}</span>
+	</p>
+</script><script>if (typeof $igniter_var === 'undefined') {
+	(function(w,d,s,p,v,e,r) {w.$ps = (w.performance && w.performance.now && typeof(w.performance.now) == "function") ? w.performance.now() : undefined;
+	w['$igniter_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;
+	e.src=p+'?ts='+(+new Date()/3600000|0);
+	r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/999gba4qphtjrmpe.js','$p');	
+
+	var liAddURLParams = function(url, itemData) 
+	{
+		var params = {
+			"utm_source": "maven-coalition",
+			"utm_medium": "hubpages",
+			"utm_campaign": "liftigniter",
+			"utm_content": "hp-related"
+		};
+		
+		for (key in params) {
+			if (url.indexOf('?') > -1) {
+				url += "&";
+			} else {
+				url += "?";
+			}
+			url += key + "=" + params[key];			
+		}
+		
+		return url;
+	}
+	
+	var liUpdateUrl = function(url, itemData)
+	{
+		var parser = document.createElement('a');
+		parser.href = url;
+		var urlDomain = parser.hostname;
+		
+		if (itemData['cm'] != 'HubPages')
+		{
+			return "javascript:hpLoadLink('ext','" + urlDomain + "','" + parser.pathname + parser.search + "', '')";			
+		}
+		else if (window.location.hostname.split('.')[0] != urlDomain.split('.')[0])
+		{
+			
+			var pathParts = parser.pathname.split('/');
+			var articlePath = pathParts[pathParts.length-1];
+			var paramStr = parser.search;
+			
+			return "javascript:hpLoadLink('article','" + articlePath + "','" + paramStr + "', '')";			
+		} else {		
+			//don't need to change anything
+			return url;
+		}		
+		
+	}
+	
+	var liUpdateUrlsFromSelector = function(selector, resp)
+	{
+		var els = document.querySelectorAll(selector);
+		for (var i = 0; i < els.length; ++i) {
+			var url = els[i].href;			
+			els[i].href = liUpdateUrl(url, resp.items[i]);
+		}
+	}
+	
+	var liUpdateUrls = function(resp)
+	{
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item h3 a', resp);
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item a.obj_image', resp);
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item .catlink a', resp);				
+	}		
+
+	var liRenderRelated = function(resp) {
+		var title = document.querySelectorAll('.moduleRelated h2.boxtitle');
+		if (title.length > 0) {
+			title[0].innerHTML = "Recommended";
+		}
+
+		var els = document.querySelectorAll('.moduleRelated li.li-widget-item');
+		var template = document.querySelector('#related-item-template').innerHTML;
+
+		for (var i = 0; i < els.length && i < resp.items.length; ++i) {
+			var itemData = resp.items[i];
+			if (!itemData['comment_count']) { itemData['comment_count'] = 0; }
+			if (!itemData['section_url']) { itemData['section_url'] = itemData['url'].replace(/\/[A-Za-z0-9-]+$/, ''); }
+			itemData['url'] = liAddURLParams(itemData['url'], itemData);
+
+			els[i].innerHTML = $p('render', template, itemData);
+		}
+	}
+
+	var liTrackAlgo = function(algorithm) {
+		$p('track', {
+		  elements: document.querySelectorAll('.moduleRelated li.li-widget-item'),
+		  name: 'hp-related',
+		  source: algorithm,
+		  _debug: false
+		});
+	}
+	
+	var liABTestHandler = function(slice) {
+		
+		var opts = {"_rule": "crossSite"};
+		
+		if ((window.location.hostname.indexOf("soapboxie") > -1))
+        {
+			opts = {"_rule": "siteMatch","_override": "politicsBoost"};
+		}
+		
+		if ((window.location.hostname.indexOf("wehavekids") > -1) || (window.location.hostname.indexOf("delishably") > -1))
+		{
+			if (new Date() < Date.parse("12/22/2018"))
+			{
+				opts = {"_rule": "crossSite", "_override": "urlLock"};
+			}
+		}
+		
+		if (slice < 100) {
+			$p("setRequestFields", ["url", "section", "section_url", "thumbnail", "description", "title", "author", "author_realname", "comment_count", "site_name", "cm"]);
+			$p('register', {
+				opts: opts,
+				max: document.querySelectorAll('.moduleRelated li.li-widget-item').length,
+				widget: 'hp-related',
+				callback: function(resp) {
+					liRenderRelated(resp);
+					// track overwritten areas as 'LI' slice.
+					liTrackAlgo('LI');
+					liUpdateUrls(resp);
+				}
+			});
+		} else {
+			liTrackAlgo('base');
+		}
+		// Executes all registered calls.
+		$p('fetch');
+	}
+	
+	//this must be called AFTER we have the mavne UID
+	window.setupLiftigniter = function(uid)
+	{		
+		$p('init', "999gba4qphtjrmpe");
+		$p('send', "pageview");
+		if (uid) { $p("setUserId", uid); }
+
+		if (document.querySelectorAll('.moduleRelated li.li-widget-item').length > 0)
+		{
+		  $p('abTestSlice', {
+			callback: liABTestHandler
+		  });
+		}
+	}
+	if (window.mavenUID) {
+		setupLiftigniter(window.mavenUID);
+	}
+}
+</script><noscript>
   <img src="https://sb.scorecardresearch.com/p?c1=2&c2=27019031&cv=2.0&cj=1" alt="comscore pixel"/>
 </noscript>
-<!-- rendered by hubwbc07 at Fri, 29 Jun 18 16:20:58 -0700 -->
+<!-- rendered by hubwbc07 at Fri, 21 Dec 18 04:15:31 -0800 -->
 <!-- uncategorized hpads-ourshare -->
 </body></html>
