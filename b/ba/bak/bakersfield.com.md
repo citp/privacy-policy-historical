@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604033345id_/http%3A//www.bakersfield.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221031702id_/https%3A//www.bakersfield.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | bakersfield.com
 
@@ -8,9 +8,9 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 
 Bakersfield.com
 
-1707 Eye St. (P.O. Bin 440)
+3700 Pegasus Drive
 
-Bakersfield CA 93302
+Bakersfield CA 93382
 
 661-395-7500
 
@@ -110,9 +110,9 @@ If you have any questions about this privacy policy, the practices of the bakers
 
 Bakersfield.com
 
-1707 Eye St. (P.O. Bin 440)
+3700 Pegasus Drive
 
-Bakersfield CA 93302
+Bakersfield CA 93308
 
 661-395-7500
 
