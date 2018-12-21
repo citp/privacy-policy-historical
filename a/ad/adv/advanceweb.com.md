@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanceweb.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620202221id_/http%3A//advanceweb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanceweb.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221041830id_/http%3A//advanceweb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # AdvanceWeb | Privacy Policy
 
