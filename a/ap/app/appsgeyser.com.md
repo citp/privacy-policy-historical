@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230035934id_/https%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222005616id_/https%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.*
 
-# AppsGeyser - Create Android Apps from any web content
+# Terms of Service - FREE App Maker. Make Apps for Android without Code.
 
 **PRIVACY POLICY**
 
@@ -8,7 +8,7 @@ PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YO
 
 Your use of APPSGEYSER Website and Services, as those terms are defined in this privacy policy ( ** _Privacy Policy)_** is subject to this Privacy Policy and APPSGEYSER **_Terms of Service_** , available at http://www.appsgeyser.com/tos/. 
 
-Your privacy is important to APPSGEYSER, its partners and affiliates (collectively **_APPSGEYSER_** , **_we_** , **_us_** , or **_our_** ). This Privacy Policy is created to inform you of the type of information that APPSGEYSER may gather and track, and discloses our practices regarding the information gathered and stored in connection with our web site ( ** _Website_** ) and Serivces, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.  We ask that you read this Privacy Policy carefully prior to using any of APPSGEYSER Websites, or purchasing any products or services made available by APPSGEYSER, its partners and affiliates (collectively referred to as our **_Services_** ). 
+Your privacy is important to APPSGEYSER, its partners and affiliates (collectively **_APPSGEYSER_** , **_we_** , **_us_** , or **_our_** ). This Privacy Policy is created to inform you of the type of information that APPSGEYSER may gather and track, and discloses our practices regarding the information gathered and stored in connection with our web site ( ** _Website_** ) and Services, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.  We ask that you read this Privacy Policy carefully prior to using any of APPSGEYSER Websites, or purchasing any products or services made available by APPSGEYSER, its partners and affiliates (collectively referred to as our **_Services_** ). 
 
 This Privacy Policy contains numerous general and technical details describing the steps that we take to protect your privacy.  We have organized this Privacy Policy by major topic areas so that you can quickly locate the information of most interest to you.  Meeting your needs and expectations forms the foundation of everything that we do, including protecting your privacy.
 
@@ -82,7 +82,7 @@ In some cases, specific APPSGEYSER websites may contain other notices about thei
 
 **Information Relating to Children**
 
-Our Website and any products or Services available on our Website are  **not**  directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access our Website or use our Services. Parents and legal guardians may request for us to review, delete, or stop the collection of their childs personally identifiable information by contacting us at: support@appsgeyser.com. For additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at: [http://www.ftc.gov](http://www.ftc.gov/)/. 
+Our Website and any products or Services available on our Website are  **not**  directed to children under 16 years of age.  However, despite our intent, we recognize that children under the age of 16 may access our Website or use our Services. Parents and legal guardians may request for us to review, delete, or stop the collection of their childs personally identifiable information by contacting us at: support@appsgeyser.com. For additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at: [http://www.ftc.gov](http://www.ftc.gov/)/. 
 
 **Our Worldwide Practices**
 
