@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app-privacy-policy-generator.firebaseapp.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508051627id_/https%3A//app-privacy-policy-generator.firebaseapp.com/%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-privacy-policy-generator.firebaseapp.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221200555id_/https%3A//app-privacy-policy-generator.firebaseapp.com/%23privacypolicy) for the most accurate reproduction.*
 
 # App Privacy Policy Generator
 
@@ -6,7 +6,7 @@
 
 {{devOrCompanyName}} built the {{appName}} app as {{typeOfAppTxt}} app. This SERVICE is provided by {{devOrCompanyName }} {{atNoCost }} and is intended for use as is. 
 
-This page is used to inform website visitors regarding {{myOrOur}} policies with the collection, use, and disclosure of Personal Information if anyone decided to use {{myOrOur}} Service. 
+This page is used to inform visitors regarding {{myOrOur}} policies with the collection, use, and disclosure of Personal Information if anyone decided to use {{myOrOur}} Service. 
 
 If you choose to use {{myOrOur }} Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that {{iOrWe}} collect is used for providing and improving the Service. {{iOrWe | capitalize }} will not use or share your information with anyone except as described in this Privacy Policy. 
 
@@ -14,13 +14,19 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, {{iOrWe }} may require you to provide us with certain personally identifiable information{{pidInfo}} The information that {{iOrWe }} request is {{retainedInfo }} 
+For a better experience, while using our Service, {{iOrWe }} may require you to provide us with certain personally identifiable information{{pidInfo}} The information that {{iOrWe}} request will be {{retainedInfo}}. 
 
 The app does use third party services that may collect information used to identify you.
 
+Link to privacy policy of third party service providers used by the app
+
+  * {{item.name}}
+
+
+
 **Log Data**
 
-{{iOrWe | capitalize }} want to inform you that whenever you use {{myOrOur}} Service, in a case of an error in the app {{iOrWe }} collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing {{myOrOur }} Service, the time and date of your use of the Service, and other statistics. 
+{{iOrWe | capitalize }} want to inform you that whenever you use {{myOrOur}} Service, in a case of an error in the app {{iOrWe}} collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing {{myOrOur }} Service, the time and date of your use of the Service, and other statistics. 
 
 **Cookies**
 
