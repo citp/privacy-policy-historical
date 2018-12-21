@@ -1,49 +1,182 @@
-> *The following text is extracted and transformed from the soros.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630011428id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soros.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221140727id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-_Last updated: August 15, 2012_
+_Last updated: May 25, 2018_
 
-The Open Society Foundations (“ **OSF** ” or “ **we** ”) is the publisher of this website (the “ **Site** ”). OSF is committed to safeguarding your privacy. All OSF-affiliated websites, including this one, adhere to a policy for ensuring the privacy of any personally identifiable information (e.g., name, mailing address, email address, occupation, etc.) and sensitive data (defined below) that may be collected through our websites. By using the Site, you agree to the terms and conditions of this privacy policy (the “ **Policy** ”). If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy at any time, for any reason and without prior notice. You can determine when this Policy was last revised by referring to the “ _Last updated_ ” legend at the top of this page. Any changes to the Policy will become effective upon the posting of the revised Policy on the Site. Use of the Site constitutes your acceptance of the Policy then in effect.
+Your privacy is important to the Open Society Foundations ( **OSF** ). This privacy policy provides information about the different types of personal information that we collect and the ways in which we use it. This privacy policy applies to all those who interact with us online (particularly through the website [www.opensocietyfoundations.org](http://www.opensocietyfoundations.org) and any other website we own or operate) or whose personal information we otherwise collect (although please note that if you are an employee or worker at OSF, there is a separate privacy policy).
 
-Use of certain parts of the Site, and certain services offered by OSF, require registration, subject to explicit consent to the Policy upon registration.
+If you have any questions, please feel free to contact us using the contact details included at section 17.
 
-The Site is controlled and operated by OSF from the United States, and is not intended to subject OSF to the laws or jurisdiction of any state, country or territory other than that of the United States. OSF does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative, and are responsible for complying with all local laws, rules and regulations.
+  * #### 1\. Who we are
 
- **Please be aware that any Personally Identifiable Information that you provide and we collect through the Site shall be transferred to the United States and might be transferred to other countries that might not provide the same level of data protection as your home country. By using the Site, you consent to such collection and transfer of your Personally Identifiable Information to the United State and such other countries.**
+This privacy policy describes how OSF will collect and use your personal information when you interact with us online or when we otherwise collect and use your personal information. The Open Society Foundations have offices located through the world. You can learn more about where we are located on our [Offices and Foundations page](/about/offices-foundations). While our website is operated by OSF in the United States, the personal information we collect (through the website or otherwise) may be used by any of our family of offices and foundations in line with the purposes set out in this privacy policy. When we refer to OSF in this privacy policy, we include all OSF offices and foundations.
 
- **Note Regarding the Use of This Site by Children:**  The Site is not intended for individuals under the age of thirteen (13), and such individuals should not provide Personally Identifiable Information through the Site.
+Please note that there are certain aspects of this privacy policy that only apply when we are required to comply with specific laws (e.g., the European data protection law, the General Data Protection Regulation). In some instances, EU data protection law may apply. Please see section 10 for information about the transfer of your personal information.
 
-#### Collecting Information
+The representative of the Open Society Foundations’ U.S. entity that operates our websites, the Open Society Institute, in the EU is Open Society Foundation–London.
 
-  1.  **What Types of Information Does OSF Collect From Me?**
+  * #### 2\. When do we collect personal information about you?
 
-OSF gathers two basic types of information through the Site: “ **Personally Identifiable Information** ” (or “ **PII** ”) and “ **Non-Personally Identifiable Information** ” (or “ **Non-PII** ”). PII is information that identifies you as an individual; that is, your name, postal address, telephone number, email address, profile information and user name. PII also includes additional personal data you may be required to provide us upon registration to be able to use certain parts of the Site and/or to apply for or benefit from opportunities offered by OSF, including, for example, email updates, grants, fellowships and scholarships. Such additional information may include (subject to context), but is not limited to, your date of birth, contact information, biographical information, including education and work experience, data about family members, employment-related information, images of your signature, expenses, the amount and intended purpose of grants in which you are involved, and information about your participation in a specific program. All PII will qualify as “ **Personal Data** ” under European data protection legislation. PII may also include (subject to context), but is not limited to, information revealing national or ethnic minority origin, political opinion or party affiliation, religious or ideological belief, or membership in any interest-representing organization as well as your state of health, pathological addictions, sexual life or criminal personal data; such data will qualify under European data protection legislation as “ **Sensitive Data** ”. Non-PII may include, but is not limited to, aggregated information, demographic information, IP addresses and any other information that does not reveal specific identifying information about you. Non-PII, if linked to your PII, will also qualify as Personal Data under European data protection legislation and will be treated as PII.
+We may obtain your personal information from a number of sources including:
 
-    1.  **Personally Identifiable Information.**  In order for you to take advantage of particular opportunities provided through the site (e.g., to register to use the Site for posting or to receive email updates), we may require that you furnish PII. We collect PII from you only when you voluntarily provide it to us. We will use certain PII, including Sensitive Data, only after you have completed the relevant registration and have provided your explicit consent.
-    2.  **Non-Personally Identifiable Information.**  When you visit and interact with the Site, OSF and third parties with whom OSF has contracted to provide services to OSF may collect Non-PII (e.g., a catalog of the Site pages you visit). Non-PII is generally collected from four different sources: server log files, cookies, pixel tags and aggregated information.
-      1.  **Server Log Files.**  Your Internet Protocol (“ **IP** ”) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (“ **ISP** ”). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visit. IP addresses can be used to calculate Site usage levels, to help diagnose problems with the Site’s servers, and to administer the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
-      2.  **Cookies.**  We and our service providers may use “cookies” on the Site. Cookies are data that a web server transfers to an individual’s computer for record-keeping purposes. Cookies are an industry standard used by most websites, and are used to facilitate users’ ongoing access to and use of a particular website. Cookies do not cause damage to your computer systems or files. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website, to your computer.
-      3.  **Pixel Tags.**  We and our service providers may also use so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “ **Pixel Tags** ”) in connection with some Site pages and HTML-formatted email messages to, among other things, compile aggregate statistics about Site usage and response rates. A Pixel Tag is an electronic image, often a single-pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. Pixel Tags allow us to count users who have visited certain pages of the Site and to deliver branded services, and to help determine the effectiveness of promotional campaigns. When used in HTML-formatted e-mail messages, Pixel Tags can tell the sender whether and when the e-mail has been opened.
-      4.  **Aggregated Information.**  We may aggregate PII in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using PII to calculate the percentage of our users who have a particular telephone area code. Such aggregate information is considered Non-PII for purposes of this Policy.
-  2.  **How Is Information Collected on the Site Used?**
-    1.  **Personally Identifiable Information.**  OSF may use your PII in the following ways:
-      1.  **Fulfillment of Requests.**  We use your PII to fulfill any request you make at the time you provide the PII, including when you register through the Site in order to benefit from certain services or opportunities, such as email updates and grant, fellowship or scholarship applications.
-      2.  **Administrative Communications.**  From time to time, in our sole discretion, we may use your PII to email to you important information regarding the Site, or changes to our terms, conditions, and policies. Because this information may be important to your use of the Site, you may not opt-out of receiving these emails.
-      3.  **Forums.**  OSF and/or our third party service provider(s) may make available through the Site interactive services (including, without limitation, message boards, blogs and wikis) to which you are able to post information and materials (each, a “ **Forum** ”). Please note that any information you disclose in a Forum becomes public information, and may be available to other visitors to the Site and to the general public. In addition, when you choose to make a posting to a Forum, certain PII, such as your name, will be available for other users to view. Information regarding your activities in Forums is also available for view by other users. For example, other users may be able to view a list of all the postings you have made in all available Forums. We urge you to exercise discretion and caution when deciding whether to disclose your PII, or any other information, in any Forum. OSF IS NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN FORUMS.
-    2.  **Non-Personally Identifiable Information.**  Because Non-PII does not personally identify you, we (including our affiliates) may use such information for any purpose. In addition, we reserve the right to share such Non‑PII, which does not personally identify you, with third parties, for any purpose. Please note that to the extent any Non-PII is linked with PII, such linked information will be treated as PII as long as it is so linked.
-  3.  **For What Purpose is OSF Using your Personally Identifiable Information?**
+    1. When you give it to us **directly**. For example, if you provide us with your email address to sign up to receive our news updates.
+    2. When we obtain it **indirectly**. Your personal information may be shared with us by third parties such as recruitment agencies when we are recruiting staff and vetting agencies when we gather information on grant applicants. To the extent that we have not done so already and that we are required to, we will notify you when we receive personal information about you from them, and tell you how and why we intend to use that personal information.
+    3. When it is **publicly available**. Your personal information may be available to us from external publicly available sources. This includes information available on government websites (e.g., U.S. federal and European institutions) or non-OSF company or institutional websites.
+    4. When you visit our **website**. Our website uses cookies and other tracking technologies to improve your experience of our website—this can involve collecting personal information. Please refer to our [Cookie Policy](/about/policies/cookie-policy) for details of the way the use of cookies may affect your personal information.
+  * #### 3\. What personal information do we use?
 
-Your PII will be used solely for these purposes: (a) to enable your use of the Site; (b) for the review, evaluation and administration of grant, scholarship and other OSF programs; (c) to monitor progress of and compliance with these programs; (d) to make recommendations, proposals or notices to you about opportunities you may potentially be interested in, and to administer the legal relationship between OSF and you, including with respect to any financial transaction. OSF may use your PII for so long as OSF remains active in conducting any of the above purposes. Your PII will be archived in compliance with relevant data-protection laws applicable to archives.
+We may collect, store, and otherwise process the following kinds of personal information:
 
-  4.  **How Does OSF Disclose Personally Identifiable Information Collected Through the Site?**
-    1.  **Third Party Service Providers.**  We work with trusted third parties who provide services including, but not limited to, web site hosting, data analysis, transaction processing and other services of an administrative nature. Unless you explicitly consent to other uses, we reserve the right to share your PII with these third parties solely for the purpose of enabling these third parties to provide such services.
-    2.  **Assignment.**  We reserve the right to transfer any and all PII that we collect from users of the Site to a third party in the event of any sale, transfer or other disposition of all or any portion of OSF’s assets.
-    3.  **Law enforcement; emergencies; compliance.**  Notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose your PII as we believe to be appropriate: (a) under applicable law; (b) to comply with legal process or governmental requests; (c) to enforce our Terms of Service, which can be viewed at [www.opensocietyfoundations.org/about/policies/terms-and-conditions](https://web.archive.org/about/policies/terms-and-conditions); (d) to protect our operations or those of any affiliates; (e) to protect the rights, privacy, safety or property of OSF, its affiliates, you or others; and (f) to permit us to pursue available remedies or limit the damages that we may sustain.
-  5.  **Other Important Notes Regarding Our Privacy Practices.**
-    1.  **Notice Regarding Security.**  We seek to have security measures and tools in place to help protect against the loss, misuse and alteration of the information under our control. Unfortunately, there is no such thing as perfect security in an online environment. As a result, we cannot, and do not, guarantee the security of any information you transmit to us through or in connection with the Site or that we store on our or our agents’ systems... If you have reason to believe that your interaction with us is no longer secure (e.g., if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f695999882979582b6998693988599959f93828f909983989297829f999885d8998491).
-    2.  **Third-Party Sites.**  The Site may contain links to third-party websites. These linked sites are not under OSF’s control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by OSF. If you provide any PII through any such third-party website, your interaction will occur on such third-party’s websites (not on our Site) and the PII you provide will be collected by, and controlled by, the privacy policy of that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
-    3.  **Transfer.**  Please be aware that we may transfer any PII we collect through the Site to countries that may not provide the same level of data protection as your home country. By using the Site, you consent to such transfer of your PII.
-    4.  **Contacting Us for Information and Remedies.**  If you have any questions regarding this Policy, or if you wish to obtain a copy of your PII controlled by OSF, a description of the purposes for which it was collected and processed and the recipients, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b4844455f4a485f6b445b4e45584448424e5f524d445e454f4a5f424445580544594c). In addition, you have the right to request correction of any inaccurate PII or deletion of your PII. We will honor requests to delete PII to the extent possible and required by applicable laws; this might be in the form of anonymizing your data but retaining information that does not identify you. Please note that e-mail communications will not necessarily be secure; accordingly, you should not include credit card information or other sensitive information in your e-mail correspondence with us.
+    * your full name and contact details, including email address, postal address, and telephone number;
+    * profile information and user name if you register on our website;
+    * information you provide in connection with your application for a grant, fellowship, or scholarship which may include date of birth, biographical information, education and work experience, information about family members, employment information, citizenship and tax residency information, passport, dietary information, images of your signature, expenses, amount and intended purpose of grants you are involved in, and information about your participation in a specific program;
+    * information you provide when you are considered for a board role which may include education and work experience, information about family members, employment information, potential conflicts of interest, and expenses;
+    * information you provide when you are considered as a contractor which may include education and work experience, employment information, images of your signature, and information about the services you may provide to OSF;
+    * information about your use of our information and communications systems;
+    * financial information including bank details, payment card details;
+    * your communication preferences;
+    * information about your professional status and role; and
+    * information you provide to us through Forums (see below).
+  * #### 4\. What information do we collect automatically online?
+
+We will also collect certain information automatically every time you interact with our website. We do this through server log files, cookies, and pixel tags. While the information obtained may not be personal information under the laws of the country you are based in, we recognize that there are certain laws (e.g., EU law) where this information is likely to be personal information.
+
+For instance, we identify and log the Internet Protocol (IP) address of the device you use to access our website automatically in our server log files whenever you visit our website, along with the time of your visit and pages you visit. While the intention of such a practice is to calculate website usage levels and to help us diagnose problems with the website’s servers, we recognize that an IP address is also an online identifier which can be used to create profiles of individuals behind devices. Thus, if we combine non-personal information with personal information, we will treat the combined information as personal information as long as it is combined.
+
+Please see our [Cookie Policy](/about/policies/cookie-policy) for further information about how we collect and use cookies and pixels and our use of analytics.
+
+  * #### 5\. What about personal information that is considered more sensitive?
+
+Certain countries have laws that recognize particular types of personal information as more sensitive and therefore requiring greater protection. We collect these types of personal information in limited circumstances. For instance, we may collect personal information about health, religion, ethnicity, sexual life, and political opinions. We may also collect personal information about criminal convictions and offenses.
+
+We will only collect and use this sensitive information if there is a valid reason for doing so and where the law allows us to. For instance, there are stricter rules about the collection and use of sensitive information where EU law applies. When we collect sensitive information or criminal conviction data about you and we are required to tell you what our lawful basis is for doing so, we will set this out.
+
+  * #### 6\. How we use your personal information
+
+OSF will use your personal information:
+
+    * to fulfill your requests to submit an application or register on the website;
+    * to allow us to review, evaluate and administer grants, scholarships, and other OSF programs;
+    * to enable us to monitor progress and completion of those programs;
+    * to enable us to monitor and manage conflicts of interest;
+    * to enable us to manage governance transactions;
+    * to contact you if you are involved in a project we are administering;
+    * to contact you to make recommendations, proposals, or notices to you about opportunities you may potentially be interested in;
+    * to make administrative and marketing communications;
+    * to enable you to use our online services (e.g., our forums, message boards, blogs);
+    * to administer any financial transaction between us;
+    * to register you for an event and any administration associated with the event;
+    * to contact you for our advocacy purposes and to inform you of events or publications we think you may potentially be interested in;
+    * for research purposes so that we can identify key trends of findings in connection with our programs and projects;
+    * to satisfy legal obligations which are binding on us;
+    * for the prevention of fraud or misuse of service; and
+    * for the establishment of, defense against, or enforcement of legal claims.
+  * #### 7\. Lawful grounds
+
+Under certain laws, we are required to rely on one or more lawful grounds to collect and use the personal information that we have outlined above. We consider the grounds listed below to be relevant:
+
+    1.  **Legal obligation**. Where the processing of your personal information is necessary for us to comply with a legal obligation to which we are subject (e.g., because we have to provide information to tax authorities).
+    2.  **Contractual relationship**. Where it is necessary for us to use your personal information in order to perform a contract to which you are a party (or to take steps at your request prior to entering a contract).
+    3.  **Legitimate interests**. We rely on this basis where applicable law allows us to collect and use personal information for our legitimate interests and the use of your personal information is fair, balanced, and does not unduly impact your rights. For instance, it is in our legitimate interest to use personal information in association with planning of, delivery of, and monitoring of our programmatic work and grant making.
+    4.  **Consent**. We may obtain your consent to use your personal information in certain circumstances (e.g., to send you email marketing). We will ensure that when we obtain your consent, you are free both to give it and to decline to give it. Additionally, you may always withdraw your consent at any time without any further detriment to you.
+  * #### 8\. Use of our online services (e.g., forums, blogs)
+
+We may make available certain interactive services through our website such as message boards, blogs, and wikis ( **Forums** ). You will be able to post information and materials to Forums. Please see our [Community Guidelines](/about/policies/community-guidelines).
+
+Any information (including personal information) that you post in a Forum becomes public information and may be available to other visitors to our website and to the general public. In addition, your name may be available in association with any posting you make. Additionally, information regarding your Forum activities is also available for other users to view.
+
+Please exercise caution and discretion when posting information (including personal information) in a Forum. In particular, please do not post personal information about other individuals unless you are confident that they would not object to their personal information being used in this way. If you post any personal information relating to other people, you represent that you have the authority to do so and to permit us to use the information in accordance with this privacy policy. **OSF IS NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE PERSONAL INFORMATION THAT YOU DISCLOSE IN FORUMS**.
+
+If you are a resident of California, under 18, and a registered user of the services, you may ask us to remove content or information that you have posted to the services by contacting us using the details at section 17. Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
+
+  * #### 9\. Do we share your personal information?
+
+Personal information collected by OSF (through the website or otherwise) may be shared between any of our family of offices and foundations in line with the purposes set out in this privacy policy in section 6.
+
+Apart from where set out in this privacy policy, OSF will not sell, rent, or lease your personal information to other third parties. However, we may ask third-party processors to assist us or we may disclose your personal information to selected third-party processors (such as agents or sub-contractors) for the purposes outlined at section 6. The third party in question will be obligated to use any personal information they receive in accordance with our instructions.
+
+For instance, we use a third-party marketing automation platform to assist with managing email addresses and sending emails to our subscribers. When you sign up to receive email updates from us and provide us with your email address, you will receive an automated email originating from this third party confirming your subscription and providing you with a link to unsubscribe from the list.
+
+We may also engage third parties to assist us with website hosting, data analysis, transaction processing, grant making, and other administrative services.
+
+We reserve the right to disclose your personal information to third parties:
+
+    * in the event that we buy or sell any business or assets, in which case we will disclose your personal information to the prospective buyer or seller or such business or assets;
+    * if substantially all of our assets are acquired by a third party, personal information held by us may be one of the transferred assets;
+    * for auditing purposes;
+    * to enforce our Terms & Conditions;
+    * to protect any OSF operations including the rights, safety, and property of OSF and our staff;
+    * if we are under any legal or regulatory obligation to do so (e.g., to comply with legal process or requests from government authorities);
+    * to permit us to pursue available remedies or limit the damages that we may sustain; and
+    * in connection with any legal proceedings or prospective legal proceedings, in order to establish, exercise, or defend our legal rights.
+  * #### 10\. International data transfers
+
+Certain countries have rules around the transfer of personal information and require us to ensure that personal information remains protected according to appropriate standards. If you are located in the United Kingdom or the EU or your personal data is collected and used by an organization in the United Kingdom or the EU, please note that certain countries outside of the United Kingdom or the EU have a different standard of protection for personal information. In such cases, where your personal information is transferred, stored, and/or otherwise processed outside the United Kingdom or EU on a regular basis, we will implement appropriate safeguards designed to protect your personal information. The full list of countries recognized by the European Commission as providing an adequate level of protection is available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+
+We may engage third parties outside the United Kingdom and the EU to process personal information on our behalf. Since personal information may be shared between OSF entities, personal information is transferred outside the United Kingdom and the EU to OSF in the United States.
+
+If you have any questions about the transfer of your personal information, please contact us using the details at section 17.
+
+  * #### 11\. Securing your personal information
+
+OSF takes reasonable technical and organizational precautions to prevent the loss, misuse, or alteration of your personal information. We restrict access to those who have a need to know and we train staff in handling the information securely. Unfortunately, there is no such thing as perfect security in the online environment. As a result, we cannot and do not guarantee the security of any information you transmit to us through or in connection with the website.
+
+If you believe that your interaction with us is no longer secure (e.g., you consider that the security of any account you might have with us has been compromised) please immediately notify us by contacting us at [[email protected]](/cdn-cgi/l/email-protection#513530253021233e25343225383e3f113e21343f223e3238342528373e243f353025383e3f227f3e2336).
+
+  * #### 12\. How long do we keep your personal information?
+
+We will keep your personal information for as long as necessary:
+
+    * to comply with any statutory or regulatory requirements we are subject to under applicable law;
+    * to fulfill the purposes for which the personal information was collected; or
+    * to defend our or a third party’s legal rights.
+
+If you have any questions, about the retention periods for holding your personal information, please contact us using the details at section 17 below.
+
+  * #### 13\. Children
+
+Our website is not intended to be used by individuals who are under the age of sixteen (16). If you are under the age of sixteen (16), please do not provide personal information to us or through our website.
+
+  * #### 14\. Your rights and preferences
+
+Please note that we will honor your requests to exercise your rights to the extent possible and required under applicable law. Certain of these rights may only be available to individuals who interact with our UK or EU offices and to individuals who are located in the United Kingdom or the EU who are on our mailing list.
+
+You have the right to:
+
+    * ask us for **confirmation** of what personal information we hold about you, and to request a copy of that information; if we are satisfied that you have a legal entitlement to see this personal information, and we are able to confirm your identity, we will provide you with this personal information;
+    *  **withdraw your consent** at any time if we have relied on consent as the lawful ground to use your personal information;
+    * request that we **delete** the personal information we hold about you, as far as we are legally required to do so;
+    * ask that we **correct** any personal information that we hold about you which you believe to be inaccurate;
+    *  **object** to the processing of your personal information where we (i) process on the basis of the legitimate interests ground; (ii) use the personal information for direct marketing; or (iii) use the personal information for statistical purposes;
+    * ask for the **provision** of your personal information in a machine-readable format to either yourself or a third party, provided that the personal information in question has been provided to us by you, and is being processed by us (i) in reliance on your consent; or (ii) because it is necessary for the performance of a contract to which you are party; and in either instance, we are processing it using automated means; and
+    * ask for processing of your personal information to be **restricted** if there is disagreement about its accuracy or legitimate use.
+
+ **Please note that** you also have the right to lodge a complaint with your local data protection authority about how we use your personal information if you are located in the United Kingdom or the EU or your personal data is collected and used by an organization in the United Kingdom or the EU. Please always consider raising your concern with us first by contacting us using the contact details in section 17 below.
+
+ **Your choices regarding our use and disclosure of your personal information**
+
+We give you choices regarding our use and disclosure of your personal information for marketing purposes. You may opt-out from:
+
+    *  **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails or text messages from us on a going-forward basis, you may opt-out by sending an email to [[email protected]](/cdn-cgi/l/email-protection#fc989d889d8c8e9388999f88959392bc938c99928f939f959988859a938992989d889593928fd2938e9b) or by regular mail using the address provided at section 17. You may also opt out of our email updates by using the unsubscribe link at the bottom of these emails.
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out of receiving marketing-related emails, text messages, or paper communications from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+  * #### 15\. Other websites
+
+The website may contain links to third-party websites. These linked websites are not under OSF’s control and we are not responsible for the privacy practices or the contents of any such linked website, or any link contained in any linked website. We provide such links only as a convenience, and the inclusion of a link on the website does not imply endorsement of the linked website by OSF. If you provide any personal information through any such third-party website, your interaction will occur on such third-party’s website (not on our website) and the personal information you provide will be collected by, and controlled by, the privacy policy of that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. **PLEASE NOTE THAT THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.**
+
+  * #### 16\. Updating this privacy policy
+
+OSF may update this privacy policy by posting a new version on our website. If we update this privacy policy in a way that significantly changes how we use your personal information, we will bring these changes to your attention. Otherwise, we would recommend that you periodically review this privacy policy to be aware of any other revisions.
+
+  * #### 17\. How to contact us
+
+OSF’s Data Governance Group is responsible for monitoring compliance with relevant legislation in relation to personal information. You can contact the Data Governance Group if you have any questions about this privacy notice or our treatment of your personal information:
+
+ **Email:** [[email protected]](/cdn-cgi/l/email-protection#214540554051534e55444255484e4f614e51444f524e4248445558474e544f454055484e4f520f4e5346)
+
+ **Post:** Data Governance Group, Open Society Foundations, 224 West 57th St, New York, NY 10019
+
 
 
