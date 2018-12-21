@@ -1,344 +1,165 @@
-<!--The following is the downloaded HTML source of the sportschew.com privacy policy that was archived on 2018-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180605095437id_/http%3A//sportschew.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportschew.com privacy policy that was archived on 2018-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221010711id_/http%3A//sportschew.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://cdn.tynt.com/rciv.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=242751832589891&amp;version=v2.0"></script><script type="text/javascript" async="" src="//sportschew.com/prebid/prebid.js"></script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <meta property="fb:pages" content="761548177231309">
 
 
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=730842956996390"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="/scripts/rgi.min.js"></script>
 <script>
-var utmHandler = {
-    createCookie: function(name,value,days) {
-      if (days) {
-        var date = new Date();
-        date.setTime(date.getTime()+(days*24*60*60*1000));
-        var expires = "; expires="+date.toGMTString();
-      }
-      else var expires = "";
-      document.cookie = name+"="+value+expires+"; path=/";
-    },
-    readCookie: function(name) {
-      var nameEQ = name + "=";
-      var ca = document.cookie.split(';');
-      for(var i=0;i < ca.length;i++) {
-          var c = ca[i];
-          while (c.charAt(0)==' ') c = c.substring(1,c.length);
-          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-      }
-      return null;
-    },
-    getSource: function() {
-          var src = this.readCookie('utmsrc');
-          return src;
-    },
-    isFacebook: function() {
-      if (this.getSource() == 'facebook' || this.getSource() == 'facebook.com'){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    isYahoo: function() {
-      if (this.getSource() == 'yahoo' || this.getSource() == 'yahoo.com'){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    isPaid: function() {
-      var src = this.readCookie('utmsrc');
-      if(!src){ return false; }
-      var utm = src.toLowerCase();
-      if (utm == "taboola" || utm == "outbrain" || utm == "yahoo" || utm == "yahoo.com" || utm == "facebook" || utm == "facebook.com"){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    dump: function() {
-      console.log(
-        "cookie: " + this.readCookie('utmsrc') +
-        "\n source: " + this.getSource() + 
-        "\n isPaid: " + this.isPaid() + 
-        "\n isFacebook: " + this.isFacebook() + 
-    "\n isYahoo: " + this.isYahoo() + 
-    "\n enabled: " + JSON.stringify(this.enabled)
-        );
-    },
-    page: 0,
-    numpages: 1,
-    isLast: function() {
-        if(this.page === this.numpages){
-            return true;
-        } else {
-            return false;
-        }
-    },
-    isFirst: function() {
-        if(this.page < 2) {
-            return true;
-        } else {
-            return false;
-        }
-    },
-    enabled: { 
-    tynt: { infeed: false, sliderp1: false, sliderp2: false },
-    exit: false
-    }
-}
+    RGI.init({
+		pageType: 'article',
+		page: 1,
+		numpages: 1,
+		bidders: {
+			desktop: ['aol', 'appnexusAst', 'districtmDMX', 'sovrn', 'gumgum', 'emx_digital', 'sonobi'],
+			mobile: ['aol', 'appnexusAst', 'districtmDMX', 'sovrn', 'gumgum', 'emx_digital', 'sonobi']
+		}
+	})
+</script>
+<script>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({
+     pubID: 'a893de97-3162-44be-a9d4-0cc3db688f38',
+     adServer: 'googletag'
+});
+apstag.fetchBids({
+     slots: RGI.A9Slots,
+     timeout: 1e3
+}, function(bids) {
+     googletag.cmd.push(function(){
+         apstag.setDisplayBids();
+         //googletag.pubads().refresh();
+     });
+});
+
+</script>
+<!-- BEGIN PREBID -->
+<script> 
+	
+var PREBID_TIMEOUT = RGI.isDesktop ? 1500 : 2000;
+	
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
 
 </script>
 
-<!-- BEGIN PREBID -->
-<script>
-    function getSize () {
-        return (document.documentElement["clientWidth"]);
-    };
-
-    var pageSize = getSize();
-
-    var PREBID_TIMEOUT = (pageSize >= 728) ? 900 : 900;
-
+  <script type="text/javascript" src="//sportschew.com/prebid/prebid.js" async=""></script>
+  <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    
-    function initAdserver() {
-        if (pbjs.initAdserverSet) return;
-        (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') +
-            '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-        pbjs.initAdserverSet = true;
-    };
-    setTimeout(initAdserver, PREBID_TIMEOUT);
-
-    var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
-    (function() {
-        var pbjsEl = document.createElement("script");
-        pbjsEl.type = "text/javascript";
-        pbjsEl.async = true;
-        pbjsEl.src = "//sportschew.com/prebid/prebid.js";
-        var pbjsTargetEl = document.getElementsByTagName("head")[0];
-        pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
-    })();
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+    });
 
     pbjs.que.push(function() {
-        if (pageSize >= 728) {
-            var adUnits = [{ 
-                code: 'div-gpt-ad-1432175047682-0', //SC728Header
-                sizes: [[728, 90]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '3965610', network: '10488.1', sizeId: '225', alias: '3965610' }},
-                    { bidder: 'pulsepoint', params: { cf: '728X90', cp: 560836, ct: 537270 }},
-                    { bidder: 'appnexus', params: { placementId: '10508002' }},
-                    { bidder: 'sovrn', params: { tagid: '339621' }},
-                    { bidder: 'brealtime', params: { placementId: '6979164' }},
-                    //{ bidder: 'defymedia', params: { placementId: '6672385' }},
-                    { bidder: 'districtmDMX', params: { id: '129826' }}
-                ]
-            },{
-                code: 'div-gpt-ad-1443128504461-0', //sc_side
-                sizes: [[300, 600]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '3997786', network: '10488.1', sizeId: '529', alias: '3997786' }},
-                    { bidder: 'pulsepoint', params: { cf: '300X600', cp: 560836, ct: 537267 }},
-                    { bidder: 'appnexus', params: { placementId: '10508001' }},
-                    { bidder: 'sovrn', params: { tagid: '351203' }},
-                    { bidder: 'districtmDMX', params: { id: '129828' }},
-                    { bidder: 'brealtime', params: { placementId: '7443134' }}
-                    //{ bidder: 'defymedia', params: { placementId: '7411529' }},
-					//{ bidder: 'sharethrough', params: { pkey: 'dtCChiHMdXkkB4gHCbtgrKAn' }}
-                ]
-            },{
-                code: 'div-gpt-ad-1445618018989-1', //sc_article_btf
-                sizes: [[728, 90]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '3997785', network: '10488.1', sizeId: '225', alias: '3997785' }},
-                    { bidder: 'pulsepoint', params: { cf: '728X90', cp: 560836, ct: 537271 }},
-                    { bidder: 'sovrn', params: { tagid: '351202' }},
-                    { bidder: 'appnexus', params: { placementId: '11051958' }},
-                    { bidder: 'districtmDMX', params: { id: '129827' }},
-                    { bidder: 'brealtime', params: { placementId: '7443107' }}
-                    //{ bidder: 'defymedia', params: { placementId: '7410720' }},
-					//{ bidder: 'sharethrough', params: { pkey: 'dtCChiHMdXkkB4gHCbtgrKAn' }}
-                ]
-            }];
-        } else {
-            var adUnits = [{
-                code: 'div-gpt-ad-1443128504461-0', //sc_side
-                sizes: [[300, 600]],
-                bids: [
-                    { bidder: 'appnexus', params: { placementId: '11271551' }},
-                    { bidder: 'sovrn', params: { tagid: '412254' }},
-                    { bidder: 'aol', params: { placement: '4410760', network: '10488.1', sizeId: '529', alias: '4410760' }},
-                    { bidder: 'brealtime', params: { placementId: '10138911' }},
-                    //{ bidder: 'defymedia', params: { placementId: '10137981' }},
-                    { bidder: 'districtmDMX', params: { id: '137296' }}
-                    //{ bidder: 'pulsepoint', params: { cf: '300X600', cp: 560836, ct: 542424 }}
-                ]
-            },{ 
-                code: 'div-gpt-ad-1445618018989-1', //sc_article_btf
-                sizes: [[320, 50]],
-                bids: [
-                    { bidder: 'appnexus', params: { placementId: '10508003' }},
-                    { bidder: 'sovrn', params: { tagid: '401188' }},
-                    { bidder: 'aol', params: { placement: '4317738', network: '10488.1', sizeId: '3055', alias: '4317738' }},
-                    { bidder: 'brealtime', params: { placementId: '9798060' }},
-                    //{ bidder: 'defymedia', params: { placementId: '9794011' }},
-                    { bidder: 'districtmDMX', params: { id: '137297' }}
-					//{ bidder: 'sharethrough', params: { pkey: 'uDAEQvNZkFHkeAVahy3RUw4u' }}
-                    //{ bidder: 'pulsepoint', params: { cf: '320X50', cp: 560836, ct: 542421 }}
-                ]
-            }];            
-        }
-        pbjs.addAdUnits(adUnits);
+        pbjs.addAdUnits(RGI.adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
 
-        pbjs.addCallback('adUnitBidsBack', function(adUnitCode){
-        console.log('ad unit bids back for : ' + adUnitCode);
-    });
-        pbjs.requestBids({
-            bidsBackHandler: function(bidResponses) {
-                initAdserver();
+    pbjs.bidderSettings = {
+        districtmDMX: {
+            bidCpmAdjustment : function(bidCpm){
+                return (bidCpm * .85);
             }
-        })
-        pbjs.requestBids({
-            bidsBackHandler: function(bidResponses) {
-                initAdserver();
-            }
-        })
-         pbjs.bidderSettings = {
-            sekindoapn: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * .80 * .90) * 1.05;
+        },
+        standard: {
+            alwaysUseBid: false,
+            adserverTargeting: [{
+                key: "hb_bidder",
+                val: function(bidResponse) {
+                    return bidResponse.bidder;
                 }
-            },
-            defymedia: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * .80 * .83) * 1.05;
+            }, {
+                key: "hb_adid",
+                val: function(bidResponse) {
+                    return bidResponse.adId;
                 }
-            },
-            districtmDMX: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * .85 * .89) * 1.05;
+            }, {
+                key: "hb_pb",
+                val: function(bidResponse) {
+                    if (bidResponse.cpm <= 20.00){
+                        return bidResponse.pbHg;
+					} else if (bidResponse.cpm > 20.00){
+						return (Math.round(100*bidResponse.cpm)/100);
+					}
                 }
-            },
-            brealtime: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * .35) * 1.05;
+            }, {
+                key: "hb_size",
+                val: function(bidResponse) {
+                    return bidResponse.size;
                 }
-            },
-            aol: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * 1.03) * 1.05;
-                }
-            },
-            sovrn: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * .91) * 1.05;
-                }
-            },
-            pulsepoint: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * 1.05) * 1.05;
-                }
-            },
-            appnexus: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * .50) * 1.05;
-                }
-            },
-            standard: {
-                alwaysUseBid: false,
-                adserverTargeting: [{
-                    key: "hb_bidder",
-                    val: function(bidResponse) {
-                        return bidResponse.bidder;
-                    }
-                }, {
-                    key: "hb_adid",
-                    val: function(bidResponse) {
-                        return bidResponse.adId;
-                    }
-                }, {
-                    key: "hb_pb",
-                    val: function(bidResponse) {
-                        // define your own function to assign price bucket
-                        if (bidResponse.cpm < 0.50)
-                            return bidResponse.pbHg;
-                        if (bidResponse.cpm <= 10.00)
-                            return bidResponse.pbMg;
-                        if (bidResponse.cpm > 10.00)
-                            return "10.00";
-                    }
-                }, {
-                    key: "hb_size",
-                    val: function(bidResponse) {
-                        return bidResponse.size;
-                    }
-                }]
-            }
+            }]
         }
-    });
+    }
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function() {
+            pbjs.que.push(function() {
+				pbjs.setConfig({
+					enableSendAllBids: false,
+					userSync: {
+						filterSettings: {
+							iframe: {
+								bidders: ['emx_digital'],
+								filter: 'include'
+							}
+						}
+					}
+				});
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+    setTimeout(function() {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+  </script>
+  <script>
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
 </script>
 
 <script>
-    googletag.cmd.push(function() {
+googletag.cmd.push(function() {
+	
+	RGI.defineGPTSlots(RGI.slots[0]);
 
-    var mapping1 = googletag.sizeMapping().
-        addSize([768,200],[[336,280],[300,250]]).
-        addSize([0,0],[320,50]).
-        build();
+	googletag.pubads().setTargeting('url', 'privacy-policy');
+	googletag.pubads().setTargeting('pnum', '0');
+    googletag.pubads().setTargeting('src', RGI.utm.source);
+	googletag.pubads().setTargeting('campaign', RGI.utm.campaign);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+});
+</script>
 
-    var mapping2 = googletag.sizeMapping().
-        addSize([768,200],[728,90]).
-        addSize([0,0],[[300,250],[320,100],[320,50]]).
-        build();
-
-    var mapping3 = googletag.sizeMapping().
-        addSize([768,200],[728,90]).
-        addSize([0,0],[]).
-        build();
-		
-
-    googletag.defineSlot('/28931921/sc_article_btf', [[728, 90], [300,250], [320, 50], [320, 100]], 'div-gpt-ad-1445618018989-1').defineSizeMapping(mapping2).addService(googletag.pubads());
-    googletag.defineSlot('/28931921/sc_side', [300, 600], 'div-gpt-ad-1443128504461-0').addService(googletag.pubads());
-    googletag.defineSlot('/28931921/SC728Header', [728, 90], 'div-gpt-ad-1432175047682-0').defineSizeMapping(mapping3).addService(googletag.pubads());
-		
-
-        pbjs.que.push(function() {
-            pbjs.setTargetingForGPTAsync();
-        });
-    
-        googletag.pubads().enableSingleRequest();
-        googletag.pubads().collapseEmptyDivs();
-        googletag.enableServices();       
-    });
-    </script>
 <!-- END PREBID -->
-	
-</head><body class="page-template-default page page-id-37 group-blog wpb-js-composer js-comp-ver-5.4.5 vc_responsive"><div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=242751832589891&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-	
-<script type="text/javascript" src="https://native.sharethrough.com/assets/sfp.js"></script>	
+
+<script type="text/javascript" src="https://native.sharethrough.com/assets/sfp.js"></script>    
 
 <title>Privacy Policy</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v7.5.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://sportschew.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -346,7 +167,6 @@ var utmHandler = {
 <meta property="og:description" content="This Privacy Policy discloses the privacy practices for the SportsChew.com Site and various related services (together referred to as the “Site”). SportsChew.com (“SportsChew.com,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, SportsChew.com are referred to, individually, as “You” or “Your.” Please read the information below to…">
 <meta property="og:url" content="http://sportschew.com/privacy-policy/">
 <meta property="og:site_name" content="Sports Chew">
-<meta property="article:publisher" content="https://www.facebook.com/pages/Sports-Chew/761548177231309">
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -354,23 +174,23 @@ var utmHandler = {
 <link rel="alternate" type="application/rss+xml" title="Sports Chew » Feed" href="http://sportschew.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Sports Chew » Comments Feed" href="http://sportschew.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Sports Chew » Privacy Policy Comments Feed" href="http://sportschew.com/privacy-policy/feed/">
-<link rel="stylesheet" id="parent-style-css" href="http://sportschew.com/wp-content/themes/sportschew17/style.css?ver=4.9.6" type="text/css" media="all">
-<link rel="stylesheet" id="semplicemente-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/style.css?ver=4.9.6" type="text/css" media="all">
-<link rel="stylesheet" id="rgi-custom-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/rgi-custom-style.css?ver=4.9.6" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://sportschew.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://sportschew.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="http://sportschew.com/wp-content/themes/sportschew17/style.css?ver=5.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/style.css?ver=5.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="rgi-custom-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/rgi-custom-style.css?ver=5.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="http://sportschew.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://sportschew.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://sportschew.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.6" type="text/css" media="all">
 <link rel="stylesheet" id="semplicemente-googlefonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" type="text/css" media="all">
 <script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://sportschew.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sportschew.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sportschew.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.6">
+<meta name="generator" content="WordPress 5.0.2">
 <link rel="shortlink" href="http://sportschew.com/?p=37">
 <link rel="alternate" type="application/json+oembed" href="http://sportschew.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsportschew.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://sportschew.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsportschew.com%2Fprivacy-policy%2F&amp;format=xml">
-			<meta property="fb:pages" content="761548177231309">
-			<link rel="pingback" href="http://sportschew.com/xmlrpc.php">
+<link rel="pingback" href="http://sportschew.com/xmlrpc.php">
 <style type="text/css">
 		
 		
@@ -378,26 +198,43 @@ var utmHandler = {
 </style>
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://sportschew.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
-
-
-
+	<script>RGI.setTrackingPixels();</script>
 	
-	<!-- Begin 33Across RevCTRL InView -->
+	
+</head><body class="page-template-default page page-id-37 group-blog wpb-js-composer js-comp-ver-5.6 vc_responsive"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=730842956996390";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<!-- Facebook Pixel Code -->
 <script>
-var Tynt=Tynt||[];Tynt.push('daEzZwcM4r54kIaKlgYj8u');
-Tynt.cmd=Tynt.cmd||[];Tynt.cmd.push(function(){
-Tynt.ads.display('','','inview');});
-(function(){var h,s=document.createElement('script');
-s.src=(window.location.protocol==='https:'?
-'https':'http')+'://cdn.tynt.com/rciv.js';
-h=document.getElementsByTagName('script')[0];
-h.parentNode.insertBefore(s,h);})();
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1162094703954120');
+  fbq('track', 'PageView');
 </script>
-<!-- End 33Across RevCTRL InView -->
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1162094703954120&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
+
+
+
+<div id="rgi-oop-wrap" style="display:none;"></div>
+<div id="rgi-outofpage"></div>
+	
 <div id="page" class="hfeed site">
-
-	<div id="page" class="hfeed site">
 
     <header id="masthead" class="site-header" role="banner">
         <div class="masthead-wrap">
@@ -503,10 +340,10 @@ http://optout.aboutads.info/#!/</p>
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/sportschew.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"http:\/\/sportschew.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sportschew.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"></script>
@@ -515,19 +352,19 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/sportschew.com\/wp-json\/contact-fo
 <script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-content/themes/sportschew17/js/jquery.semplicemente.js?ver=1.0"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-content/themes/sportschew17/js/navigation.js?ver=20120206"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/comment-reply.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-includes/js/comment-reply.min.js?ver=5.0.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var q2w3_sidebar_options = [{"sidebar":"sidebar-2","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-4"]},{"sidebar":"sidebar-3","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-9","custom_html-6"]},{"sidebar":"sidebar-4","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-11"]}];
+var q2w3_sidebar_options = [{"sidebar":"sidebar-2","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-4","custom_html-17"]},{"sidebar":"sidebar-3","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-9","custom_html-6"]},{"sidebar":"sidebar-4","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-11"]},{"sidebar":"sidebar-1","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-13"]}];
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://sportschew.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-includes/js/wp-embed.min.js?ver=5.0.2"></script>
 
 
 
 
-<!-- Dynamic page generated in 0.029 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2018-06-04 21:26:59 -->
+<!-- Dynamic page generated in 0.028 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-12-20 19:45:59 -->
 
-<!-- Compression = gzip --></div></body></html>
+<!-- Compression = gzip --></body></html>
