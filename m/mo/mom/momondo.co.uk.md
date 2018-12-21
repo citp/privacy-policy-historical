@@ -1,133 +1,227 @@
-> *The following text is extracted and transformed from the momondo.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609234309id_/http%3A//www.momondo.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momondo.co.uk privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221212208id_/https%3A//www.momondo.co.uk/about/privacy) for the most accurate reproduction.*
 
-# Privacy | momondo
+# Privacy policy | About us
 
-### Introduction
+## The categories of Personal Information we collect
 
-Only the English version of the privacy policy is legally binding. Translations have been provided purely for user convenience. In the event of discrepancy between a translation and the English master, the English master prevails.
+### Platform information
 
-This policy (together with our Terms of Use and any other document referred to in it) sets out the basis on which any personal data we collect from you or you provide to us, will be processed by us.
+When you visit the Platforms, we may collect information from you. Some of it may be personal information. This information can include search history, IP address, screen resolution, browser used, operating system and settings, access times and referring URL. If you are using a mobile device, we may also collect data that identifies your device, your settings and your location.
 
-This policy applies to the momondo websites and mobile applications (the apps) in different markets that are operated by Momondo A/S (“momondo”). We take your privacy seriously and provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to and members of our website and apps. Personal information is information that is personally identifiable like your name, email address, phone number, mailing address, etc. By using our website and the apps you consent to the terms described in this document.
+### Booking information
 
-### Information about us
+If you book a travel product via the Platforms, we may need additional information from you. This information can include your name (and traveler’s if different) name, age, birthday, gender, passport number, redress control number, email address, telephone number, credit card information, billing address, itinerary and frequent flyer details. You can also choose to store personal information in your user account for future bookings.
 
-Momondo A/S is registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Løvstræde 1, DK-1152 Copenhagen K, Denmark.
+### Account information
 
-### Information collection
+If you choose to register, we will collect your email address, password and home airport, and other preference information you provide us. If you choose a third-party service, like Facebook Login, to register or login, you are permitting us to use and store that information related to the account.
 
-momondo may collect and process the following data about you:
+### Trips services
 
-  * Information that you provide by filling in forms on our website or apps. This includes information provided at the time of registering to use our site or apps, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site or apps.
-  * A record of any correspondence with you.
-  * Details of which services you are interested in.
-  * Details of your visits to our site and apps including, but not limited to traffic data, location data, web logs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.
-  * Information on whether you have opened and clicked on certain content in our emails sent to you.
-  * Information about your computer, including where available your IP address, operating system, browser type and device ID, for system administration and to report aggregate information to our advertisers; and information obtained from cookies. Please read further under [Cookie Policy](https://web.archive.org/content/cookies/). This information does not necessarily enable us to personally identify you.
+If you make a booking on momondo or within our mobile applications, we may automatically create a “Trips” account for you, which will give you access to our “Trips” service, where we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you give us access to.
 
+### Consumer support:
 
+If you choose to contact our consumer support services we will collect any inquiries, complaint or other information that you may submit to our support team.
 
-momondo does not require that you enter any personal information to search on momondo’s websites or apps, nor when being transferred to third-party websites.
+### Promotional information:
 
-When you register with momondo, we encourage you to provide information about you such as:
+If you choose to participate in a sweepstake, contests or similar campaign we will collect any information you provide in relation to such activity such as photos, images, captions or other content, in accordance with the terms provided at that time.
 
-  * Your name and email address.
-  * Information about your flight and hotel room preferences such as seats, departures, arrivals, direct flights, number of passengers, dates of birth and dates of birth of your children for us to store for future use.
-  * Information about your travel companions. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences as any access to view or change their information will be available through your profile. If you store information on your children, you are consenting to our processing of such data on behalf of your children.
-  * Social networking. If you choose to login with Facebook Login https://developers.facebook.com/products/login/ or Google+ Sign-in https://developers.google.com/+/features/sign-in you are permitting momondo to use and store that information related to the profile allowing us to make use of any social media features on our website or apps. The social media provider may send us information in line with their policies which may include your name, profile picture, gender, friend lists and any other information you have chosen to make available. Other information regarding recommendations exchanged between you and your friends may also be shared. Please note that, if your Facebook or Google+ friends are using momondo, they may have shared information about you with us through Facebook Login or Google+ Sign-in. If you wish to prevent that sharing, you can do so by editing your Facebook or Google+ privacy settings or the relevant settings/preferences for other social media providers.
+When you give us personal information, you are telling us that the information is true, accurate, complete and current. You are also telling us that you have the authorization to provide it to us.
 
+## How we collect your Personal Information
 
+### Personal information you give to us
 
-It is stated expressly whether the data requested is mandatory or not.
+We collect your personal information directly from you. For example, when you provide us your personal information when you register or book travel, contact our customer support or participate in a contest or sweepstake.
 
-### Information use
+If you sign up for the synchronisation of your emails to our Trips service, you authorise us to access the emails in the email accounts you have connected to Trips, to regularly review these emails in order to identify those that are booking confirmation we can import into our Trips service, to parse these emails and to add the information we have collected including a copy of the email to your Trips account.
 
-The purpose of the processing of your data are as follows:
+### Personal information we collect passively
 
-  * to verify your authorisation to access certain features of the site
-  * to fulfil your requests for products or services
-  * to personalise and customise the content and relevant trip services that you are offered
-  * to optimise and personalise your visits by remembering location, language and currency configurations as well as previous searches
-  * to contact you, e.g. if you have subscribed to a newsletter
-  * to improve our services
-  * to provide reporting
+We also collect your personal information passively. For example, we collect information about you over time and across different Web sites when you visit this Platform. We also use tracking tools like cookies and beacons. To learn more about these tools and how to control them, click here.
 
+Platform features may make use of your device attributes and settings that will allow us to determine your physical location. Such technologies may include IP address mapping, WiFi, GPS signals, cell tower positioning or other technologies. We use this information to enhance and personalise your experience and provide you with offers and services that may be of interest to you. For example, we may help you find your closest hotel or send you messages that may be of interest to you based on your current location. momondo does not have control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location-based features and functionality offered.
 
+### Personal information we receive from third parties
 
-### Information sharing and disclosure
+We collect your personal information from third parties. This can include when you log in using a third-party platform, such as Facebook. In addition, we also integrate third-party software (i.e. Google’s Invisible CAPTCHA) that collects information about users for security reasons.
 
-We will never sell your Personal Data to third parties. momondo shares data about you in the following situations:
+## For what purposes we use your Personal Information
 
-  * to provide products or services you have requested including, without limitation, products and services from third parties such as:
-    * suppliers
-    * third party vendors
-    * business partners
-    * referring websites
-    * subsidiaries
-    * where required by law
-  * or when we have your permission.
+Your personal information may be used in the following ways:
 
+### Improving our services
 
+To provide you and improve our Platforms and services, to better understand the users of our Platforms and services, and to protect our property and to prevent damage to them.
 
-Also, momondo shares data about you under the following circumstances:
+### Bookings
 
-  * momondo may use third party vendors (data processors) to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfil its contract.
-  * We may disclose your personal information for any of the purposes mentioned above to any member of our group, which includes our subsidiaries, our ultimate holding company and its subsidiaries. This also includes entities which we may acquire as part of an acquisition at a future date.
-  * In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of momondo Terms of use or as otherwise required by law.
+We and our travel partners use your personal information to process your bookings and store your itinerary information where applicable.
+
+### Marketing activities
+
+We use your information for marketing purposes. These activities may include:
+
+  * To send you marketing emails from a momondo address regarding our services or those of our partners, if you have opted-in to receive emails from us or have transacted with us, and as permitted by law. You can easily unsubscribe from these marketing communications at any time by clicking on the “Unsubscribe” link included in the newsletter
+  * To display more relevant advertising and recommendations, or suppress advertising and content that you might find irrelevant. This advertising might be shown to you on our Platforms as well as third-party platforms (including social media sites) and include information or offers that we, or our business partners’, believe you will find interesting. Individualised advertising may be based on information collected through cookies or other tracking technologies. Read more about how you can control tracking tools here
+  * If you choose to participate in promotional activities (such as sweepstakes, competitions or other similar campaigns), relevant information may be used to administer these promotions
 
 
 
-### Data storage
+To communicate with you, including as follows:
 
-All Personal data you provide to us is stored on our secure servers. At present we have servers located within the EAA (European Economic Area). The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). The transfer may be to another member of the Momondo Group, or to third parties as set out in this policy. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-We may be required by law, to hold your data in a specific location dependent upon the location from which you will access momondo services. Regardless of the location in which your data is stored we will take adequate measures to protect the security of your personal data.
-
-These countries may have different and/or less stringent privacy/data protection and data security rules than those of your own country. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries.
-
-### Links to third party sites
-
-momondo provides links to third party websites, e.g. after a search; and may provide referrals to certain third parties' products or services. If you choose to visit a third party's web site or use its products or services, please be aware that this privacy policy will not govern your activities and any information you disclose to such third party. We strongly encourage you to read the privacy policies of the third party web sites that you visit. We are not in any way responsible for the content of the sites that we provide links to.
-
-### Confidentiality and security
-
-We limit access to personal information about you to employees who we believe have a legitimate need to come into contact with that information to provide products or services to you or in order to do their jobs. momondo employs procedural and technical measures reasonably designed to protect your personal information from loss, misuse, unauthorised access or disclosure. While no website or app can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect your personal information. We also use encryption when transmitting personal information that is sensitive to you between your system and ours.
-
-### Community – Information sharing among momondo users
-
-If you choose to include personally identifiable information in your comments, open text fields, or other areas of the web site or the apps intended for public viewing, other users will be able to view and use this information. We recommend against posting your email address and other personally identifiable information in this manner unless you are comfortable with the possibility of receiving unwanted contact.
-
-### Accessing, reviewing and changing your personal information
-
-We will offer you the ability to access, review and change certain information via the registration page on the website or in the app. Upon your request, we will deactivate your profile, and remove your personal information from active service. Your profile will be deactivated as soon as reasonably possible based on your account activity. We will retain in our files and databases some personal information to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of use and comply with legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request.
-
-### Changes to this privacy policy
-
-momondo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your momondo profile or by placing a notice on our site.
-
-### Owner information
-
-The momondo website is provided by Momondo A/S. We are registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Løvstræde 1, DK-1152 Copenhagen K, Denmark.
-
-### Cookies
-
-The momondo websites set and access cookies on your computer. A cookie is a small amount of data that momondo’s servers transfer to your browser and that only momondo’s servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, the momondo websites will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, momondo requires you to have cookies enabled to access certain portions of the site. momondo may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to momondo’s cookies.
-
-The momondo websites use cookies and other data files (collectively referred to as "Cookies") covered by the EU E-privacy Directive.
-
-### Which information is collected via Cookies?
-
-Cookies are used by collecting information on the number of users of the website and the traffic on the website. This enables momondo to adapt content and advertising accordingly and generate statistics of website visits. Also, some of them allow you to share pages with social networks should you wish to do so. They also enable us and our advertisers to serve you with relevant advertisements that may interest you. In addition to momondo, our digital cooperation partners, which are responsible for site support, will have access to data collected via cookies. The information is not disclosed to other third parties. You can always opt out of Cookies, see below.
-
-momondo uses Cookies, including information on IP address, for the following purposes:
-
-  * Functionality cookies that will allow our websites and apps to remember your choices and preferences. They enable us to provide you with en-hanced and personalised features.
-  * Performance cookies used to keep momondo easy to use, relevant and up-to-date. We use web analytics services to help us understand how people use our websites and apps.
-  * Targeting cookies used for assisting us in targeted advertising. These cookies are used to show you ads containing flight and hotel prices we be-lieve you’ll be interested in. You may see these ads while using a website other than momondo. We tailor our ad campaigns with relevant content be-cause we want to inspire and enable you in booking your perfect trip.
+  * To send booking confirmations
+  * To send alerts and notifications you have subscribed to, including to your mobile device;
+  * To solicit reviews
+  * To update you regarding itineraries processed by our Trips service
+  * To communicate with you if you have contacted momondo consumer support
+  * To send you information servicing and administrative emails
+  * To send you information about services, offered by momondo or our business partners, that we believe you would be interested in
 
 
 
-### How to delete and manage Cookies?
+### Legal purposes
 
-As a user, you can decide whether to accept or delete all Cookies, or to control Cookies individually for each website. You can also block the use of Cookies completely. You can make individual settings in your browser settings. Please note that, if you delete Cookies, your access to momondo’s websites may be more or less limited, or the functionalities at the site may be insufficient.
+In certain cases we may need to use your information to handle and resolve legal disputes, for regulatory investigations and compliance or to enforce the terms of use of the service.
+
+### Performance of a contract
+
+The use of your personal information may be necessary to perform the services and provide you products that you have requested from us. For example, if you make a booking on our Platform, we need to collect personal information from you in order to complete the booking 
+
+### Legitimate interest
+
+We may use your personal information for our legitimate interests, such as displaying relevant advertising and recommendations and for legal purposes 
+
+### Consent
+
+We may rely on your consent to use your data for certain direct marketing purposes. You can withdraw your consent anytime by contacting us or change your settings in your account as described below
+
+
+## Your Choices
+
+You can manage your [communication preferences](https://web.archive.org/account) in your account. Marketing email has an opt-out URL and you can unsubscribe from such communication at any time. You cannot unsubscribe from servicing emails and administrative messages that are considered part of your account membership, unless you cancel your membership.
+
+## How we share your Personal Information
+
+### Corporate affiliates and change of control
+
+We may share your personal information with our corporate affiliates and if momondo itself (or part of its business) is sold or otherwise changes control, owners would have access to your personal information for the uses set out herein.
+
+### Service providers
+
+We may share your personal information with suppliers who perform services on our behalf and have agreed in writing to protect and not further disclose your information.
+
+### Payment service providers and travel vendors
+
+If you book through the Platforms, we may share your personal information with the payment service providers and the travel vendors you have booked with. This can include online travel agencies, hotels, airlines, car hire companies, and travel insurance providers. These third parties will process your personal information as data controllers in accordance with their own privacy policies. If you contact our consumer support, they may need to share information about your request with the relevant travel vendor in order to assist you.
+
+### Business partners
+
+We may share your personal information with various business partners. Some of these business partners may use your personal information for online behavioral advertising purposes, or to offer you services or products that we believe you may be interested in. We may also share your information as otherwise described to you at the time of collection. For example, if you provide information to enter a sweepstakes, we may share your information with the promotional partners. We may also share anonymous aggregated usage information with partners.
+
+### Trips shared by you
+
+If you use or have itineraries as part of our Trips Service, you can send or grant access to your itinerary to anyone you choose. Your itinerary may contain enough details (for example, booking reference codes) to allow the recipient to cancel or modify your booking, perform a check-in, etc. You should only share your itinerary with people you trust. Please also read the detailed Trips FAQ. If you choose to display your itinerary on publicly-viewable web pages (Facebook, for instance), that information may be collected and used by others.
+
+### Information shared in public
+
+If you provide us a review of your trip, you authorise us to publish it on all our Platforms under the screen name you provided. You also authorise us to aggregate it with other reviews.
+
+### Authorities
+
+We may disclose personal information if required by law, for example to law enforcement or other authorities. This includes court orders, subpoenas and orders arising from legal processes, and administrative or criminal investigations. We may also disclose your personal information if the disclosure is necessary for the prevention, detection or prosecution of criminal acts or to prevent other damage, or in response to a legal action or to enforce our rights and claims.
+
+We may also share anonymous aggregated usage information with others.
+
+## How we store and protect your Personal Information
+
+Our servers and data centers are located in the U.S and in Switzerland, and our service providers may be located there and in other countries. By providing us personal information, you agree that your personal information may be transferred to and stored in these countries. These countries may have different and/or less stringent privacy/data protection and data security rules than those of your own country. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries. Subject to the applicable laws in such other countries, we will provide the necessary safeguards to maintain protections of your personal information, e.g. by obtaining from the data recipients contractual commitments based on the EU model clauses.
+
+momondo has a security program intended to keep the personal information stored in our systems protected from unauthorised access and misuse. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Personal information may only be accessed by persons within our organizations, or our third parties to carry out the uses indicated in this Privacy Policy. In addition, information collected by Google’s Invisible CAPTCHA is held in accordance with the Google Privacy Policy.
+
+## Retention periods
+
+We will retain your personal information for as long as your account is active and for a period of time thereafter to allow you to re-activate your account without loss of information.
+
+We will also retain your personal information as necessary to comply with our legal obligations, resolve disputes and enforce our contracts.
+
+## Cookies and tracking tools
+
+momondo uses cookies and tracking tools. To learn more, including how we respond to “Do not track” signals click here.
+
+## Other Websites
+
+If you click through to third party websites or other platforms, momondo privacy policy does not apply.
+
+## Children
+
+momondo does not knowingly collect personal information from minors. If we become aware that a minor is attempting to submit personal information, we will remove this information from our records. If you are the parent/legal guardian of a minor who has given us personal information, please contact us so we can delete it.
+
+## Changes to the Privacy Policy
+
+We may modify this Privacy Policy at any time and without prior notice. We will notify you of material changes to how we use your personal information prior to implementing them. We may notify you about such a material change by email or prominent notice on our website. By using our services and Platforms after we post these changes, you indicate you accept them.
+
+## Your rights with respect to personal information
+
+Before contacting momondo for any request you may have, note that you can manage your account settings in the “[My Account](https://web.archive.org/account)” page on momondo. You can also delete your account [http://www.momondo.co.uk/zap](https://web.archive.org/zap) at any time. Your rights:
+
+  * **Access:** You are entitled at any time to obtain information about your personal information that we store, in accordance with applicable law and without any fee. However, in exceptional cases we ask you to pay reasonable fee before we provide the information if permitted by applicable law
+  * **Rectification:** You may request that we rectify any of your personal information that is incomplete or incorrect
+  * **Deletion:** You may request that we delete your account
+  * **Objection:** You may object, at any time, to your personal information being processed for direct marketing purposes
+  * **Restrictions of processing:** You may ask us to cease processing of your personal information for example if you have objected to the processing and the existence of legitimate ground is still under consideration
+  * **Data portability:** If applicable, you may request us to send you your Trips in a commonly used and machine-readable format which shall be decided on in momondo’s sole discretion
+  * **Right to withdraw consent:** You have the right to withdraw your consent at any time, without affecting the lawfulness of our processing based on such consent before it was withdrawn
+
+
+
+We may request proof of your identity before acting upon any request. We may not be able to allow you to access certain personal information in some cases. For example if your personal information is connected with personal information of other persons, or for legal reasons. In such cases we will provide you with an explanation why you cannot obtain this information. We may also deny your request for deletion or rectification of your personal information due to statutory provisions, especially those affecting momondo’s accounting, processing of claims, and mandatory data retention, which may prohibit deletion or anonymization.
+
+## How to contact us or how to lodge a complaint
+
+Momondo A/S controls the processing of personal information on its Platforms. To exercise your rights, or if you have questions about our privacy practices or need assistance with exercising or understanding your privacy choices, please contact our Data Protection Officer at privacy@momondo.com, or you may write to:
+
+momondo A/S  
+Attention: Data Protection Officer  
+Løvstræde 1  
+DK-1152 Copenhagen K | Denmark.
+
+If you consider our processing activities of your personal information to be inconsistent with the applicable data protection laws, you may lodge a complaint with the Danish Data Protection Authority or your local supervisory authority responsible for data protection matters.
+
+## Cookies and other tracking tools
+
+### momondo uses tracking tools such as cookies
+
+We (or our suppliers) use several common tracking tools. We use these tools to collect usage and demographic information about you over time and across different Web sites when you use our Platforms. We also have third parties (e.g. advertisers) that collect personal information this way. Tools we use may include browser cookies. Your browser will store these cookies on your computer in a small file.
+
+We and our advertising partners may also use web beacons (single pixel GIF images). These web beacons are placed in the code of a Web page or an email newsletter. When you access a partner site within our mobile applications, we may track your activity on that site.
+
+By using the Platforms, you give us your free, unambiguous and informed consent to the use of any of the cookies and tracking tools mentioned in this policy.
+
+### momondo uses tracking tools for following purposes
+
+  * To track new visitors to the Platforms.
+  * To help us recognise your browser as a previous visitor. This includes saving and remembering any preferences that may have been set while your browser was visiting the Platforms, such as language.
+  * To store your username and password if you are registered with us.
+  * To make use of cross-device tracking in order to optimise our advertising activities. As part of cross-device tracking, momondo may combine information collected from a particular browser or mobile device with another computer or device linked to the computer or device from which the information was collected. By changing your cookie settings on your device you can change your cross-device tracking settings for advertising purposes.
+  * To work with online advertising companies to display targeted advertising on our Platforms and third-party platforms that you visit. This targeting may be based on information you submit on our Platforms or third party platforms. This targeting may also be based on your activities or behaviors on our Platforms or those of third parties. We may also obtain information about your browsing history from our business partners. To learn more about targeted advertising and how you can accept or refuse (opt-out of) this type of advertisements, we recommend that you visit [www.aboutads.info/choice](http://www.aboutads.info/choices), [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) or <http://www.aboutads.info/appchoices>.
+  * To track when you book on partner websites.
+  * To help improve our website offering and for capacity planning purposes. We or our third party service providers may set analytics cookies. These allow us to gather aggregated or segmented information about the types of visitors that access our Platforms and the pages and advertisements that they view. In order to better understand your use of our Platforms, we or our third party service providers may collect information on such use, including pages visited, links clicked and mouse movements. We do not use this information to personally identify you.
+
+
+
+### How you can control tracking tools and opt-out of online behavioral advertising
+
+Your browser may give you the ability to control cookies. How to do this varies from browser to browser. You should view the Help menu on the browser you use for further information. Your opt out choice is stored in opt out cookies only in that browser, so you should separately set your preferences for other browsers, computers, or devices you may use. If your browser blocks cookies, your opt out preferences may not be effective. Deleting browser cookies can remove your opt out preferences, so you should visit this page periodically to review your preferences. If you block or delete cookies or opt out of online behavioral advertising, not all of the tracking that we have described in this policy will stop.
+
+Please also note that opting out of a third party cookie does not mean that you will no longer receive or be subject to online advertising or marketing. It means that the third party service from which you opted out will no longer deliver ads tailored to your web preferences and online behavioral. To opt out of having your online behavior tracked by momondo for advertising purposes [click here](javascript:void\(0\);); this means that momondo will no longer use information derived from your online behavior, collected by momondo or third parties acting on behalf of momondo, for the purpose of providing you interest-based advertising from momondo only. Note that opting out of receiving interest-based advertising through the link above does not mean you will no longer receive advertising from momondo or third parties at all; rather it means that most of the advertising that you will see will not be based on your particular interest. In addition, momondo may still collect information for other purposes consistent with this Privacy Policy.
+
+We may also use Google Analytics to collect demographic and interest data about you (such as age, gender, and interests), including through Google Analytics Demographics and Interest Reporting. We may use the information collected about you through Google Analytics for Google services such as Remarketing with Google Analytics and Google Display Network Impression Reporting. You can find out more about Google Analytics and how to opt-out by going [here](https://support.google.com/analytics/answer/2799357). Choices you make are browser and device specific. Some aspects of our site use cookies to function. You may not be able to use these features if you set your device to block cookies.
+
+### How momondo responds to “Do Not Track” signals
+
+Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
+
+If you have any questions on our use of tracking tools, please use the [](https://web.archive.org/web/20181221212208id_/https%3A//www.momondo.co.uk/about/%3Ca%20name=)">feedback form.
