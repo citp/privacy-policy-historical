@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128000605id_/https%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221194344id_/https%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy | HealthPost NZ
 
-**Date Last Updated:** 9th August 2017
+**Date Last Updated:** 5th June 2018
 
 | [](https://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll")  
 ---|---  
@@ -63,13 +63,29 @@ Use of our website requires you to accept certain email communications from us, 
 
 #### **Cookies**
 
-Our website uses "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our website and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. Cookies may be used to personalise your visits to this website, eliminate the need for you to repeatedly enter the same information, enable us to improve the content, reliability and functionality of this website, evaluate the effectiveness of the advertising on this website and track website usage patterns. Accepting a cookie will not give us access to any data on your computer other than the data stored in the cookie. Although you may configure your web browser to not accept cookies, you may experience a loss of functionality as a result. We also use cookies for Remarketing as explained below.
+Our website uses "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our website and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. Cookies may be used to personalise your visits to this website, eliminate the need for you to repeatedly enter the same information, enable us to improve the content, reliability and functionality of this website, evaluate the effectiveness of the advertising on this website and track website usage patterns. We also use cookies for advertising purposes. 
+
+We use three types of cookies:
+
+  * _Session cookies_ are specific to your visit on our site and carry information about actions performed during the visit, e.g. products added to the cart. They eliminate the need to enter the same information repeatedly during your visit.  Session cookies expire when you leave the site or close your browser.
+
+
+  * _Persistent cookies_ remember information about your preferences, e.g. your preferred currency and help us recognise you each time you visit to make your shopping experience more seamless. Persistent cookies expire after a certain period of time or when you clear cookies in your browser.  
+
+
+  * _Third-party cookies_ are cookies supplied by our partners and are used for analytical and advertising purposes. While these cookies are completely anonymous in that they don’t provide us or any third party with any personally identifiable information about you (e.g. your name or address), it does track certain things like how long you spent on our site, and which pages you did or didn't visit. This allows us to use Remarketing functionality as described below and analyze aggregated traffic data and users behaviour on our site.
+
+
+
+Accepting a cookie will not give us access to any data on your computer other than the data stored in the cookie. Although you may configure your web browser to not accept cookies, you may experience a loss of functionality as a result. If you wish to clear your cookies, follow instructions for the browser you're using: [Chrome](https://support.google.com/chrome/answer/95647?hl=en), [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Safari](https://support.apple.com/kb/ph21411?locale=en_NZ), [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy), [Microsoft Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies).
 
 #### **Third-Party Remarketing**
 
-When you visit our website with cookies enabled, we place a third party cookie supplied by Google, Facebook or Criteo onto your browser. While this cookie is completely anonymous in that it doesn't provide us or any third party with any personally identifiable information about you (e.g. your name or address), it does track certain things like how long you spent on our site, and which pages you did or didn't visit. This allows us to use Remarketing functionality to then deliver targeted advertising to you based on your behaviour whilst you were on our site. For example, if you visited a particular product, we might use this information to display advertising to you promoting a special offer specific to this product. This advertising may be displayed to you as you browse other sites across the internet. This is possible because many websites participate in third-party's advertising programme, allowing them to use parts of their sites to display promotional messages from participating advertisers. You may also see our advertisements on sites directly owned or controlled by Google, such as Youtube or on Facebook.
+When you visit our website with cookies enabled, we place a third party cookie supplied by Google, Facebook, Criteo or other partners onto your browser for remarketing purposes. For example, if you visited a particular product, we might use this information to display advertising to you promoting a special offer specific to this product. This advertising may be displayed to you as you browse other sites across the internet. This is possible because many websites participate in third-party's advertising programme, allowing them to use parts of their sites to display promotional messages from participating advertisers. You may also see our advertisements on sites directly owned or controlled by Google, such as Youtube or on Facebook.
 
-You may opt out of Google's use of cookies for advertising at the following link: [www.google.com/settings/ads](http://www.google.com/settings/ads "Google Ads Settings"). You may opt out of Criteo's use of cookies for advertising at the following link: [www.criteo.com/privacy](http://www.criteo.com/privacy/ "Criteo Settings"). To manage your Facebook preferences go to: [www.facebook.com/ads/preferences](https://www.facebook.com/ads/preferences/). 
+You may opt out of Google's use of cookies for advertising at [www.google.com/settings/ads](http://www.google.com/settings/ads "Google Ads Settings"). You may opt out of Criteo's use of cookies for advertising at [www.criteo.com/privacy](http://www.criteo.com/privacy/ "Criteo Settings"). To manage your Facebook preferences go to: [www.facebook.com/ads/preferences](https://www.facebook.com/ads/preferences/). 
+
+We might also use personal identifiers (such as email address) to display our ads to you on Facebook. If you wish to opt out from being targeted on Facebook by use of personal identifiers please [contact us](https://www.healthpost.co.nz/contacts). 
 
 #### **How we use Your Information**
 
