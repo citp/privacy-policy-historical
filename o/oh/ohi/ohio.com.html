@@ -1,3175 +1,412 @@
-<!--The following is the downloaded HTML source of the ohio.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204085702id_/http%3A//www.ohio.com/about/terms.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ohio.com privacy policy that was archived on 2018-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221163137id_/http%3A//www.gatehousemedia.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<title>
-		Ohio.com - Terms of Use 
-		          	</title>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="og:title" content="Privacy Policy">
+<meta name="og:type" content="article">
+<meta name="og:description" content="Privacy Policy
 
 
+This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (GateHouse) and certain of GateHouse's subsidiaries, including this website (">
+<meta name="og:url" content="http://www.gatehousemedia.com/privacy-policy/">
 	
-	<meta name="title" content="Terms of Use ">
-	<meta name="description" content="About Us">
-	<meta name="keywords" content="About Us">
-        <meta name="google-site-verification" content="Kf_C7uvaI6wmxqCU4FMOH9Io3AlKVvpkXyFXtsvWVeQ">
-
-        <link rel="SHORTCUT ICON" href="http://media.ohio.com/images/favicon.ico"> 
-		
-	  <script>var clickURL = "http://www.ohio.com/about/terms.html" </script> 	<script language="javascript1.2">var trkcid=8026167;var partnerID=222832; var _hb=1;</script><script language="javascript1.2" src="http://www.ohio.com/g/g/button/button_1.js"></script> 
-
-		
-	<link href="http://www.ohio.com/templates/ohio_style" rel="stylesheet" type="text/css">
-	<!--[if IE 6]><link href="http://www.ohio.com/templates/ohio_style_ie" rel="stylesheet" type="text/css" /><![endif]-->
-	<!--[if IE 7]><link href="http://www.ohio.com/templates/ohio_style_ie7" rel="stylesheet" type="text/css" /><![endif]-->
-				<script src="http://www.ohio.com/includes/ohio_global" type="text/javascript"></script>
-	<script src="http://www.ohio.com/includes/ohio_help_text_onload.js" type="text/javascript"></script>
-		<script language="javascript">
- // Define cookie get/set functions
-function createCookie(name,value,days) {
-	if (days) {
-		var date = new Date();
-
-		date.setTime(date.getTime()+(days*24*60*60*1000));
-		var expires = "; expires="+date.toGMTString();
-	}
-	else var expires = "";
-	document.cookie = name+"="+value+expires+"; path=/";
-}
-
-function readCookie(name) {
-	var nameEQ = name + "=";
-	var ca = document.cookie.split(';');
-	for(var i=0;i < ca.length;i++) {
-		var c = ca[i];
-		while (c.charAt(0)==' ') c = c.substring(1,c.length);
-		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-	}
-	return null;
-}
-
-function eraseCookie(name) {
-	createCookie(name,"",-1);
-}
-
-
- // Define a function that - when called - will invoke the subscription-protected page that checks $cms.subscriptionUser and sets js var AND cookies accordingly.
- 
-	function setLoginCookies(){
-		var randomnumber=Math.floor(Math.random()*1000000)
-document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://www.ohio.com/templates/Determine_Login_Status?c=n&ran=' + randomnumber + ' "></scr'+'ipt>');
-	}
-
-
- // If there is a UID cookie (means they should be logged in), but the loginStatus cookie not set yet, call setLoginCookies to initialize them
-if(readCookie("UID") && !readCookie("username")){
-	setLoginCookies();
-}
-
- // If the UID cookie has gone away (means they have logged out), clear out their cookies so that they'll be set fresh upon next login
-if(!readCookie("UID") && readCookie("username")){
-	eraseCookie("username");
-	eraseCookie("email");
-	eraseCookie("regConfirmationStatus");
-}
-
-</script>
-<script language="javascript">
-var getElementsByClassName = function (className, tag, elm){
-	if (document.getElementsByClassName) {
-		getElementsByClassName = function (className, tag, elm) {
-			tag = tag || "*";
-			elm = elm || document;
-			var elements = elm.getElementsByClassName(className),
-				nodeName = new RegExp("\\b" + ((tag !== "*")? tag : "[a-z]+") + "\\b", "i"),
-				returnElements = [],
-				current;
-			for(var i=0, il=elements.length; i<il; i+=1){
-				current = elements[i];
-				if(nodeName.test(current.nodeName)) {
-					returnElements.push(current);
-				}
-			}
-			return returnElements;
-		};
-	}
-	else if (document.evaluate) {
-		getElementsByClassName = function (className, tag, elm) {
-			tag = tag || "*";
-			elm = elm || document;
-			var classes = className.split(" "),
-				classesToCheck = "",
-				xhtmlNamespace = "http://www.w3.org/1999/xhtml",
-				namespaceResolver = (document.documentElement.namespaceURI === xhtmlNamespace)? xhtmlNamespace : null,
-				returnElements = [],
-				elements,
-				node;
-			for(var j=0, jl=classes.length; j<jl; j+=1){
-				classesToCheck += "[contains(concat(' ', @class, ' '), ' " + classes[j] + " ')]";
-			}
-			try	{
-				elements = document.evaluate(".//" + tag + classesToCheck, elm, namespaceResolver, 0, null);
-			}
-			catch (e) {
-				elements = document.evaluate(".//" + tag + classesToCheck, elm, null, 0, null);
-			}
-			while ((node = elements.iterateNext())) {
-				returnElements.push(node);
-			}
-			return returnElements;
-		};
-	}
-	else {
-		getElementsByClassName = function (className, tag, elm) {
-			tag = tag || "*";
-			elm = elm || document;
-			var classes = className.split(" "),
-				classesToCheck = [],
-				elements = (tag === "*" && elm.all)? elm.all : elm.getElementsByTagName(tag),
-				current,
-				returnElements = [],
-				match;
-			for(var k=0, kl=classes.length; k<kl; k+=1){
-				classesToCheck.push(new RegExp("(^|\\s)" + classes[k] + "(\\s|$)"));
-			}
-			for(var l=0, ll=elements.length; l<ll; l+=1){
-				current = elements[l];
-				match = false;
-				for(var m=0, ml=classesToCheck.length; m<ml; m+=1){
-					match = classesToCheck[m].test(current.className);
-					if (!match) {
-						break;
-					}
-				}
-				if (match) {
-					returnElements.push(current);
-				}
-			}
-			return returnElements;
-		};
-	}
-	return getElementsByClassName(className, tag, elm);
-};
-
-</script>
-		<script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;</script>
-
-<script type="text/javascript"><!--
-
-//Parameters shared by all slots (per-page)
-yld_mgr = {};
-yld_mgr.slots = {};
-yld_mgr.container_type="js";
-yld_mgr.request_type="ac";
-yld_mgr.pub_id="22696243919"; // Pub ID from APT
-yld_mgr.site_name="Ohio.com"; // site URL - Do Not Edit
-yld_mgr.content_topic_id_list=["20276501"]; // Inventory ID set on WSS level
-
-//////
-//Parameters specific to Pencil Ad
-yld_mgr.slots.pencil_ad = {};
-yld_mgr.slots.pencil_ad.ad_size_list=["980x32"];
-yld_mgr.slots.pencil_ad.ad_delivery_mode="ipatf"; 
-
-//Parameters specific to leaderboard
-yld_mgr.slots.leaderboard = {};
-yld_mgr.slots.leaderboard.ad_size_list=["728x90"];
-yld_mgr.slots.leaderboard.ad_delivery_mode="ipatf";
- 
-
-//Parameters specific to internal cube
-yld_mgr.slots.int_cube = {};
-yld_mgr.slots.int_cube.ad_size_list=["160x60"];
-yld_mgr.slots.int_cube.ad_delivery_mode="ipatf";
-
-//Parameters specific to bottom internal cube
-yld_mgr.slots.b_int_cube = {};
-yld_mgr.slots.b_int_cube.ad_size_list=["160x60"];
-yld_mgr.slots.b_int_cube.ad_delivery_mode="ipbtf";
-
-//Parameters specific to cube
-yld_mgr.slots.cube = {};
-yld_mgr.slots.cube.ad_size_list=["160x90"];
-yld_mgr.slots.cube.ad_delivery_mode="ipatf";
-
-//Parameters specific to 2nd cube
-yld_mgr.slots.cube_bottom = {};
-yld_mgr.slots.cube_bottom.ad_size_list=["160x90"];
-yld_mgr.slots.cube_bottom.ad_delivery_mode="ipbtf";
-
-//Parameters specific to   small_square
-yld_mgr.slots.small_square   ={};
-yld_mgr.slots.small_square.ad_size_list=["160x150"]
-
-
-//Parameters specific to skyscraper
-yld_mgr.slots.skyscraper = {};
-yld_mgr.slots.skyscraper.ad_size_list=["160x600"];
-
-//Parameters specific to half skyscraper
-yld_mgr.slots.h_rectangle = {};
-yld_mgr.slots.h_rectangle.ad_size_list=["160x240"];
-yld_mgr.slots.h_rectangle.ad_delivery_mode="ipatf";
-//Internal ad that appears in the tabbed box
-yld_mgr.slots.internal_box = {};
-yld_mgr.slots.internal_box.ad_size_list=["250x70"];
-yld_mgr.slots.internal_box.ad_delivery_mode="ipatf";
-
-//Internal ad that appears in the tabbed box
-yld_mgr.slots.internal_box2 = {};
-yld_mgr.slots.internal_box2.ad_size_list=["250x70"];
-yld_mgr.slots.internal_box2.ad_delivery_mode="ipstf";
-
-//Internal ad that appears in the tabbed box 
-yld_mgr.slots.internal_box3 = {}; 
-yld_mgr.slots.internal_box3.ad_size_list=["250x70"]; 
-yld_mgr.slots.internal_box3.ad_delivery_mode="ipbtf"; 
-
-//Parameters specific to cube
-yld_mgr.slots.m_rectangle = {};
-yld_mgr.slots.m_rectangle.ad_size_list=["300x250"];
-yld_mgr.slots.m_rectangle.ad_delivery_mode="ipatf";
-
-//Parameters specific to 2nd cube
-yld_mgr.slots.m_rectangle_bottom = {};
-yld_mgr.slots.m_rectangle_bottom.ad_size_list=["300x250"];
-yld_mgr.slots.m_rectangle_bottom.ad_delivery_mode="ipbtf";
-
-//Parameters specific to 3nd cube 
-yld_mgr.slots.cube_middle = {}; 
-yld_mgr.slots.cube_middle.ad_size_list=["160x90"]; 
-yld_mgr.slots.cube_middle.ad_delivery_mode="ipstf"; 
-
-//Parameters specific to half cube
-yld_mgr.slots.half_rectangle = {};
-yld_mgr.slots.half_rectangle.ad_size_list=["300x100"];
-yld_mgr.slots.half_rectangle.ad_delivery_mode="ipatf";
-
-//Parameters secific to the Home Hunter Cover
-yld_mgr.slots.pg_cover = {};
-yld_mgr.slots.pg_cover.ad_size_list=["120x140"];
-
-//Parameters specific to half cube
-yld_mgr.slots.half_rectangle_m = {};
-yld_mgr.slots.half_rectangle_m.ad_size_list=["300x100"];
-yld_mgr.slots.half_rectangle_m.ad_delivery_mode="ipstf";
-
-//Parameters specific to half cube
-yld_mgr.slots.half_rectangle_b = {};
-yld_mgr.slots.half_rectangle_b.ad_size_list=["300x100"];
-yld_mgr.slots.half_rectangle_b.ad_delivery_mode="ipbtf";
-
-//Parameters specific to Peelback    
-yld_mgr.slots.peelback = {};
-yld_mgr.slots.peelback.ad_size_list=["125x125"];
-
-//--> </script><script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script></head>
-
- 
-
-
-
-		
-
-
-
- 
- 
-
-
-
-
-   
-
-
- 
-  				 													 								 					 					
-
-
-
-
-
-
-
-
-
-
-
-
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.gatehousemedia.com/xmlrpc.php">
+		<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+           $DP_PAGE_URL = 'http://www.gatehousemedia.com';
+           $DP_TMPL_URL = 'http://cdn-corp.gatehousemedia.com/wp-content/themes/gatehouse';
+           $DP_TMPL_NAME = 'blend';
+           $DP_TEMPLATE_WIDTH = '1230';
+           $DP_TABLET_WIDTH = '1030';
+           $DP_SMALL_TABLET_WIDTH = '820';
+           $DP_MOBILE_WIDTH = '580';
+           $DP_LAYOUT = 'stretched';
+           $DP_STICKY_HEADER = 'N';
+        </script>
 	
- 
-
-
-
-
-<!-- Start Yahoo! ad call -->
-<!--Place this code on your page, customizing the values for your implementation.-->
-
-
-<!--call to the script MUST be after your declarations but before any slots-->
-
-
-<!--End call script-->
-
-<!--End Yahoo Ad Call-->
-
-
-
-
-
-<body>
-
-<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
-<!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=8026167";_q+="&7=222832";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
-function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=8026167";_qc+="&7=222832";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
-</script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=8026167&7=222832&18=0.191640954588308">
-</noscript>
-
-
-<script language="javascript">
-var agt = navigator.userAgent.toLowerCase();
-var is_mobile = ( (agt.indexOf("blackberry") != -1)
-|| (agt.indexOf("nokia") != -1) 
-|| (agt.indexOf("motorola") != -1) 
-|| (agt.indexOf("samsung") != -1) 
-|| (agt.indexOf("up.b") != -1) 
-|| (agt.indexOf("sonyericsson") != -1) 
-|| (agt.indexOf("palmos") != -1) 
-|| (agt.indexOf("windows ce") != -1)
-|| (agt.indexOf("microsoft pocket internet explorer") != -1)
-
-
-// more different mobile browser user agent here.
-);
-var mobile_url = "/mobile/";
-if (is_mobile)
-window.location = mobile_url;
-
-</script>
-
-
-	<!-- include file="include/container_top.html" -->
-	<div id="container-top"><img src="http://media.ohio.com/designimages/container_top.gif" alt="Container Top" width="991" height="5"></div> <!-- end container-top -->	
+		
+	<!--[if lt IE 9]>
+<script src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/html5shiv.js"></script>
+<script src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/respond.js"></script>
+<![endif]-->
+		
 	
-	<div id="container">
-	
-		<div id="wraper">
-			
-			
-				<div id="header">
-
-	<div id="logo"><a href="http://www.ohio.com">
-	     			<img src="http://media.ohio.com/designimages/logo.gif" alt="" width="224" height="54" border="0">
-		</a><br>	
-			<span style="font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold;">December 04, 2010</span> </div>
-			<div id="header-space"></div>
-			
-			<div id="top_service_box">		
-			
-				<a href="http://www.ohio.com/mobile" title="Download the Ohio.com and The330 mobile applications">
-				<img src="http://media.ohio.com/images/Mobile_Service_Icon.png" width="140" height="44" alt="Mobile Service Icon" border="0">
-				</a>
-							
-				<a href="http://www.ohio.com/subscribe" title="Akron Beacon Journal Print Subscriber Services">
-				<img src="http://media.ohio.com/images/SubScribe_Service_Icon.png" width="140" height="44" alt="SubScribe Service Icon" border="0">
-				</a>			
-			
-				<a href="http://www.ohio.com/digital" title="Welcome to Beacon Journal Digital">
-				<img src="http://media.ohio.com/images/Digital_Service_Icon.png" width="140" height="44" alt="Digital Service Icon" border="0">
-				</a>	
-			
-				<!-- Start New Search -->
-				<div id="search_left">
-			   		<form action="http://www3.thebeaconjournal.com/searchohiocom/JE_NewSearch.aspx" method="get" target="_self">
-					<framset style="float: left; font: bold 12px arial, sans-serif; vertical-align: text-bottom; ">Search for: &nbsp;</framset>
-			   		<input name="Search" id="SearchText" type="text" value="" style="width: 180px; font-size: 10px;	">&nbsp;<strong>in</strong> 
-			   		<select id="Select1" name="Scope" style="font-size: 11px;margin-left:6px;">
-			        	<option selected="selected" value="News">All</option>
-			        	<option value="Obits">Obituaries</option>
-			        	<option value="Events">Events</option>
-			        	<option value="Merchandise">Merchandise</option>
-			        	<option value="Pets">Pets</option>
-			        	<option value="Autos">Autos</option>
-			        	<option value="Homes">Homes</option>
-			        	<option value="Rentals">Rentals</option>
-			        	<option value="Jobs">Jobs</option>
-			        	<option value="MLS">MLS</option>
-			        	<option value="Blogs">Blogs</option>
-			        	<option value="Local Directory">Local Directory</option>
-			   		</select>
-			   		<input id="Button1" type="submit" name="Submit2" value="Go">
-			   		</form>
-			   	</div>	
-				<!-- end new search	 -->
-			</div>		
-
-						<!-- last build: Sat Dec 04 00:57:02 PST 2010 -->
-<!-- last build: Sat Dec 04 00:57:02 PST 2010 -->
-
-
-																													
-
- 		
-<div id="weather-widget">
-<div id="weather2">
-<a href="http://web.live.weatherbug.com/Broadcaster/2/Home.aspx?zcode=Z6672">
-<span class="weather-header">Current Conditions</span><br></a>
-<span id="weather-icon"><a href="http://web.live.weatherbug.com/Broadcaster/2/Home.aspx?zcode=Z6672"><img src="http://deskwx.weatherbug.com/images/Forecast/icons/cond112.gif" width="50px" height="42px" alt="current weather" border="0"></a></span>
-<span id="weather-temp">
-	<span class="curr-conditions">Temp: 20°</span>
-			<br>High: 33°<br>Low: 22°
-	</span>
-</div>
-</div>
-
-
-						
-
-
-			
-		</div>
-		<!-- end header -->
 		
-		<div class="clear-both">
-		</div>
-		
-		
-		
-		<div id="navigation">
-			<ul>
-									<li id="li1"><a id="cl1" onmouseover="doMenu('1')" onmouseout="undoMenu();" href="http://www.ohio.com/news">News</a></li>
-														<li id="li2"><a id="cl2" onmouseover="doMenu('2')" onmouseout="undoMenu();" href="http://www.ohio.com/sports">Sports</a></li>
-														<li id="li3"><a id="cl3" onmouseover="doMenu('3')" onmouseout="undoMenu();" href="http://www.ohio.com/business">Business</a></li>
-														<li id="li4"><a id="cl4" onmouseover="doMenu('4')" onmouseout="undoMenu();" href="http://www.ohio.com/editorial">Editorial</a></li>
-														<li id="li5"><a id="cl5" onmouseover="doMenu('5')" onmouseout="undoMenu();" href="http://www.ohio.com/lifestyle">Lifestyle</a></li>
-														<li id="li6"><a id="cl6" onmouseover="doMenu('6')" onmouseout="undoMenu();" href="http://www.the330.com">Entertainment</a></li>
-														<li id="li7"><a id="cl7" onmouseover="doMenu('7')" onmouseout="undoMenu();" href="http://www.ohio.com/multimedia">Multimedia</a></li>
-														<li id="li8"><a id="cl8" onmouseover="doMenu('8')" onmouseout="undoMenu();" href="http://www.ohio.com/community">UPublish</a></li>
-												</ul>
-		</div>
-		<!-- end navigation -->
-		
-		<div id="ohio_bar2" align="center"> 
-
-			<a href="http://ohio.monster.com" title="Find Jobs: Search millions of jobs now | Ohio.com">
-						Jobs
-			</a> &nbsp; | &nbsp; 
-					
-			<a href="http://homes.ohio.com" title="Homes MLS in Ohio, United States  brought to you by Ohio Homes Real Estate homes.ohio.com">
-						Homes
-			</a> &nbsp; | &nbsp; 
-					
-			<a href="http://rentals.ohio.com" title="Rentals in Ohio, United States brought to you by Ohio Homes Real Estate rentals.ohio.com">
-						Rentals
-			</a> &nbsp; | &nbsp;  
-					
-			<a href="http://autos.ohio.com" title="Find Cars For Sale Online - Buy a Car at autos.ohio.com">
-						Autos
-			</a> &nbsp; | &nbsp;
-			<a href="http://bizlist.ohio.com" title="List your business in Ohio.com Online Directory">
-                        			Biz List
- 			</a> &nbsp; | &nbsp;		
-			<a href="http://ohio.ca.kaango.com/" title="Akron Beacon Journal Classifieds">
-						Stuff for Sale
-			</a>  &nbsp;| &nbsp; 
-					
-			<a href="http://www.the330.com" title="NorthEast Ohio Premier Entertainment Site">
-						The330.com
-			</a>  &nbsp; | &nbsp; 
-			<a href="http://dailydeals.ohio.com" title="Ohio.com Daily Deals">
-                        Daily Deals
-            		</a>  &nbsp; | &nbsp;		
-			<a href="http://newspaperads.ohio.com" title="Akron Beacon Journal | Special Sections">
-						Shopping/Coupons</a> &nbsp; | &nbsp; 
-					
-			<a href="http://www.ohio.com/obituaries" title="AKRON BEACON JOURNAL OBITUARIES: Complete listing of Akron Beacon Journal Obituaries powered by Legacy.com">
-						Obituaries
-			</a>  &nbsp; | &nbsp; 
-					
-			<a href="http://pets.ohio.com" title="pets.ohio.com — The Ohio.com Pets Site">
-						Pets
-			</a> &nbsp; | &nbsp; 	 	
-					
-			<a href="http://ohio.ca.kaango.com/createad" title="Sell stuff on Ohio.com or in the Akron Beacon Journal">
-						Place an Ad
-			</a>&nbsp; | &nbsp; 					
-			<a href="http://ohio.com/rss" title="Real Simple Syndication">
-						<img src="http://media.ohio.com/images/rss_icon.gif" width="13" height="13" border="0" align="absmiddle">
- 			</a>
-
-			</div>			
-						
-			<div class="clear-both"></div>
-			 																																
-					<div id="searchDrop"></div> <!--If this searchDrop is removed it causes the search pull down to break.-->								
-		<!-- end ohio_bar2 -->
-
-
-
-
-
-		
-		
-
-
-							<!-- START News TAB LINKS -->
-				<div id="sm1" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>LOCAL NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/news">Today's Local News</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/break_news">Latest News</a></li>
-
-																																															<li><a href="http://www.ohio.com/obituaries">Obituaries</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/crime_watch">Crime Watch</a></li>
-
-																																															<li><a href="/news/daily_planner/">Daily Planner</a></li>
-
-																																															<li><a href="http://education.ohio.com">Education</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/history">Local History</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/politics">Politics/Elections</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/corrections">Corrections</a></li>
-
-																																															<li><a href="http://www.ohio.com/about/9920857.html">Newsroom contacts</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>STAFF WRITERS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/news/cardwell">Jewell Cardwell - columnist</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/dyer">Bob Dyer - columnist</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>NATION/WORLD</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/news/nation">Nation</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/world">World</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/ap/">AP News</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>OHIO NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/news/ohio">State News</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/ohio_lottery">Ohio Lottery</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/willard">Dennis Willard</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLISH YOUR NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/community/readernews/community/submit/">News Story</a></li>
-
-																																															<li><a href="http://events.ohio.com/events/new">Upcoming Event</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/education/submit/">School/Education</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/military/submit/">Military News</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/thescene/submit/">Social Event </a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>SPECIAL PROJECTS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/news/iraq/8811662.html">Akron's War Dead</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/soap_box_derby">All-American Soap Box Derby</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/16959911.html">American Dream series</a></li>
-
-																																															<li><a href="http://www.ohio.com/hottopic/78233452.html">Fair Finance investigation</a></li>
-
-																																															<li><a href="http://www.ohio.com/hottopic/89392902.html">Fencing the Y-Bridge</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/may4th">Kent State May 4 shootings</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/cavs/LeBron_James">LeBron James - High School Years</a></li>
-
-																																															<li><a href="http://www.ohio.com/hottopic/64220582.html">Life on Call</a></li>
-
-																																															<li><a href="http://www.ohio.com/hottopic/9648652.html">Natural Gas</a></li>
-
-																																															<li><a href="http://www.ohio.com/hottopic/96803919.html">Public pensions examined</a></li>
-
-																																															<li><a href="http://www.ohio.com/news/stem.html">STEM series</a></li>
-
-																																															<li><a href="http://www.ohio.com/business/19180729.html">Welcome Home</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>ARCHIVES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/archives">Beacon Journal</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">Historical</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">NewsLibrary</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">7-Day Archives</a></li>
-
-																																															<li><a href="http://pictopia.com/perl/gal?provider_id=168">Photo Reprints</a></li>
-
-																						
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm1 sub_menu -->
-				<!-- END News TAB LINKS -->
-							<!-- START Sports TAB LINKS -->
-				<div id="sm2" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>SPORTS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/sports">Today's Sports News</a></li>
-
-																																															<li><a href="http://www.ohio.com/content?apNewsgroup=ap.online.sports.auto-racing.news&amp;amp;apNewsgroup=ap.online.sports.baseball.news&amp;amp;apNewsgroup=ap.online.sports.basketball.news&amp;amp;apNewsgroup=ap.online.sports.boxing.news&amp;amp;apNewsgroup=ap.online.sports.college.news&amp;amp;apNews">AP Sports Headlines</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/high_school">High School</a></li>
-
-																																															<li><a href="http://www.ohio.com/hottopic/101549173.html">2010 high school football preview</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/golf">Golf (Pro and Amateur)</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/motorsports">Motor Sports</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/olympics">Olympics</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PRO</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/sports/aeros">Aeros</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/browns">Browns</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/cavs">Cavs</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/indians">Indians</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/mlb">MLB</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/nba">NBA</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/nfl">NFL</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>COLLEGE </h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/sports/zips">Akron Zips</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/kent_state">Kent State</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/osu">Ohio State</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/college_football">College football</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>STAFF WRITERS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/sports/gaffney">Tom Gaffney - University of Akron, golf</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/lloyd">Jason Lloyd - Cavaliers</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/ocker">Sheldon Ocker - Indians</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/ridenour">Marla Ridenour - columnist</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/storm">Stephanie Storm - Kent State, pro baseball</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/thomas">George Thomas - high schools</a></li>
-
-																																															<li><a href="http://www.ohio.com/sports/ulrich">Nate Ulrich - Browns</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLISH SPORTS NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/community/readernews/sports/submit/">Sports Story</a></li>
-
-																																															<li><a href="http://events.ohio.com/events/new">Upcoming Event</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/sports/">Read UPublish News </a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>BLOGS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohiomm.com/blogs/zips/">Akron Zips</a></li>
-
-																																															<li><a href="http://ohio.webfactional.com/buckeye_blogging/">Buckeye Blogging</a></li>
-
-																																															<li><a href="http://www.ohiomm.com/blogs/browns/">Cleveland Browns</a></li>
-
-																																															<li><a href="http://cavs.ohio.com">Cleveland Cavaliers</a></li>
-
-																																															<li><a href="http://www.ohioverticals.com/blogs/kent_state/">Kent State</a></li>
-
-																																															<li><a href="http://marla.ohio.com/">Marla Ridenour</a></li>
-
-																																															<li><a href="http://www.ohiomm.com/blogs/tribe_matters">Tribe Matters</a></li>
-
-																																															<li><a href="http://www.ohiomm.com/blogs/varsity_letters/">Varsity Letters</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>ARCHIVES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/archives">Beacon Journal</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">Historical</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">NewsLibrary</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">7-Day Archives</a></li>
-
-																																															<li><a href="http://pictopia.com/perl/gal?provider_id=168">Photo Reprints</a></li>
-
-																						
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm2 sub_menu -->
-				<!-- END Sports TAB LINKS -->
-							<!-- START Business TAB LINKS -->
-				<div id="sm3" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>BUSINESS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/business">Today's Business</a></li>
-
-																																															<li><a href="http://www.ohio.com/hottopic/9648652.html">Natural Gas </a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>STAFF WRITERS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/business/lin-fisher">Betty Lin-Fisher - consumer news</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/powell">Cheryl Powell - health care</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLISH NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/community/readernews/onthemove/submit/">On the Move</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/community/submit/">Story</a></li>
-
-																																															<li><a href="http://events.ohio.com/events/new">Upcoming Event</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>REAL ESTATE TRANSFERS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/business/8590702.html">2002 to Present</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PROJECTS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/hottopic/78233452.html">Fair Finance investigation</a></li>
-
-																																															<li><a href="http://www.ohio.com/business/19180729.html">Home Buying Series</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>ARCHIVES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/archives">Beacon Journal</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">Historical </a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">NewsLibrary</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">7-Day Archives by Section</a></li>
-
-																																															<li><a href="http://pictopia.com/perl/gal?provider_id=168">Photo Reprints</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLIC NOTICES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.mypublicnotices.com/ohio">Public Notices</a></li>
-
-																																															<li><a href="http://yellowpages.ohio.com">Yellow Pages Search</a></li>
-
-																						
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm3 sub_menu -->
-				<!-- END Business TAB LINKS -->
-							<!-- START Editorial TAB LINKS -->
-				<div id="sm4" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>EDITORIAL INDEX</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/editorial/">Today's Editorial Page</a></li>
-
-																																															<li><a href="http://www.ohio.com/editorial/opinions/">Editorial Opinions</a></li>
-
-																																															<li><a href="http://www.ohio.com/editorial/commentary/">Editorial Commentaries</a></li>
-
-																																															<li><a href="http://www.ohio.com/editorial/endorsements/">Election Endorsements</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>LOCAL COLUMNISTS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/editorial/douglas">Michael Douglas</a></li>
-
-																																															<li><a href="http://www.ohio.com/editorial/hoffman">Steve Hoffman</a></li>
-
-																																															<li><a href="http://www.ohio.com/editorial/ofobike">Laura Ofobike</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>VOICE OF THE PEOPLE</h5>
-																																																<ul style="float:left">
-																<li><a href=" http://www.ohio.com/editorial/vop/">Read Letters to the Editor</a></li>
-
-																																															<li><a href="http://www.ohio.com/editorial/vop/8696112.html">Submit a Letter to the Editor</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>ARCHIVES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/archives">Beacon Journal</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">Historical</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">NewsLibrary</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">7-Day Archives by Section</a></li>
-
-																																															<li><a href="http://pictopia.com/perl/gal?provider_id=168">Photo Reprints</a></li>
-
-																						
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm4 sub_menu -->
-				<!-- END Editorial TAB LINKS -->
-							<!-- START Lifestyle TAB LINKS -->
-				<div id="sm5" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>TOPICS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/lifestyle">Lifestyle News</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/books">Books </a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/celebrations">Celebrations </a></li>
-
-																																															<li><a href="http://www.ohio.com/news/daily_planner">Daily Planner</a></li>
-
-																																															<li><a href="http://www.uclick.com/client/bea/da/">Dear Abby</a></li>
-
-																																															<li><a href="http://education.ohio.com/">Education</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/food">Food</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/health">Health</a></li>
-
-																																															<li><a href="http://homes.ohio.com/">Home &amp; Garden</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/history">Local History</a></li>
-
-																																															<li><a href="http://pets.ohio.com/">Pets</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/religion">Religion</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/travel">Travel</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>STAFF WRITERS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/lifestyle/abraham">Lisa Abraham - food</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/breckenridge">Mary Beth Breckenridge - home &amp; garden</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/downing">Bob Downing - travel, outdoors</a></li>
-
-																																															<li><a href="http://www3.thebeaconjournal.com/searchohiocom/JE_NewSearch.aspx?Search=Kim+Hone-McMahan+&amp;Scope=News&amp;Submit2=Go">Kim Hone-McMahan - features</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/powell">Cheryl Powell - health care</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLISH NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://events.ohio.com/events/new">Upcoming Event</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/thescene/submit/">Social Event</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/military/submit/">Military News</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/education/submit/">School/Education</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>ARCHIVES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/archives">Beacon Journal</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">Historical </a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">NewsLibrary</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">7-Day Archives by Section</a></li>
-
-																																															<li><a href="http://pictopia.com/perl/gal?provider_id=168">Photo Reprints</a></li>
-
-																						
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm5 sub_menu -->
-				<!-- END Lifestyle TAB LINKS -->
-							<!-- START Entertainment TAB LINKS -->
-				<div id="sm6" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>TOPICS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.the330.com">Entertainment News</a></li>
-
-																																															<li><a href="http://the330.com/category/enjoy/">Enjoy Magazine</a></li>
-
-																																															<li><a href="http://the330.com/category/arts-culture/">Arts &amp; Culture</a></li>
-
-																																															<li><a href="http://www.ohio.com/entertainment/comics.html">Comics &amp; Games  </a></li>
-
-																																															<li><a href="http://the330.com/category/on-screen/mailbag/">Heldenfels' Mailbag  </a></li>
-
-																																															<li><a href="http://www.ohio.com/entertainment/horoscopes.html">Horoscopes</a></li>
-
-																																															<li><a href="http://the330.com/category/movies/">Movies </a></li>
-
-																																															<li><a href="http://the330.com/category/music/">Music</a></li>
-
-																																															<li><a href="http://www.ohio.com/lifestyle/ohio_travel/">Ohio Travel </a></li>
-
-																																															<li><a href="http://events.ohio.com/search?cat=8">Performing Arts </a></li>
-
-																																															<li><a href="http://the330.com/category/on-screen/television/">Television </a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>STAFF WRITERS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://the330.com/category/music/malcolm-x-abram/"> Malcolm X Abram - music</a></li>
-
-																																															<li><a href="http://the330.com/category/arts-culture/kerry-clawson/">Kerry Clawson - Arts Coverage</a></li>
-
-																																															<li><a href="http://the330.com/category/on-screen/rich-heldenfels/">Rich Heldenfels - popular culture</a></li>
-
-																																															<li><a href="http://the330.com/category/arts-culture/">Dottie Shinn - arts</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>WHAT TO DO</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/news/daily_planner">Daily Planner</a></li>
-
-																																															<li><a href="http://events.ohio.com/restaurants">Dining</a></li>
-
-																																															<li><a href="http://events.ohio.com/">Events</a></li>
-
-																																															<li><a href="http://www.ohio.com/entertainment/exhibits">Exhibits</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>BLOGS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohiomm.com/blogs/heldenfiles/">Heldenfiles</a></li>
-
-																																															<li><a href="http://www.ohiomm.com/blogs/soundcheck/">Sound Check</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLISH NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://events.ohio.com/events/new">Upcoming Event</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/community/submit/">Story</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>ARCHIVES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/archives">Beacon Journal</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">Historical </a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">NewsLibrary</a></li>
-
-																																															<li><a href="http://www.ohio.com/archives">7-Day Archives by Section</a></li>
-
-																																															<li><a href="http://pictopia.com/perl/gal?provider_id=168">Photo Reprints</a></li>
-
-																						
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm6 sub_menu -->
-				<!-- END Entertainment TAB LINKS -->
-							<!-- START Multimedia TAB LINKS -->
-				<div id="sm7" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>VIDEOS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://videos.ohio.com/">View Videos</a></li>
-
-																																															<li><a href="http://videos.ohio.com/vmix_hosted_apps/p/upload">Upload a Video</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PHOTO GALLERIES</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/multimedia/photo_galleries">View Photo Galleries</a></li>
-
-																																															<li><a href="http://pictopia.com/perl/gal?provider_id=168">Order Photo Reprints</a></li>
-
-																																															<li><a href="http://videos.ohio.com/vmix_hosted_apps/p/upload">Upload a Photo</a></li>
-
-																						
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm7 sub_menu -->
-				<!-- END Multimedia TAB LINKS -->
-							<!-- START UPublish TAB LINKS -->
-				<div id="sm8" class="sub_menu" onmouseover="menuClearTimer();" onmouseout="undoMenu();" style="visibility:hidden">
-																																		
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>READER BLOGS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohioverticals.com/blogs/akron_law_cafe/">Akron Law Cafe</a></li>
-
-																																															<li><a href="http://www.ohiomm.com/blogs/da_kings_men/">All Da King's Men</a></li>
-
-																																															<li><a href="http://www.ohiomm.com/blogs/blog_mass_destruction/">Blog of Mass Destruction</a></li>
-
-																																															<li><a href="http://www.ohioverticals.com/blogs/car_chase/">Car Chase</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLISH NEWS</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/community/readernews/community/submit/">General News</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/education/submit/">School and Education</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/sports/submit/">Sports</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/thescene/submit/">Social Events</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/onthemove/submit/">On the Move</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/military/submit/">Military News</a></li>
-
-																																															<li><a href="http://www.ohio.com/content?wssPath=/community/readernews/community&amp;catSetID=2372&amp;catID=295222">UP Parks &amp; Recreation Plan</a></li>
-
-																																															<li><a href="http://events.ohio.com/events/new">Upcoming Event</a></li>
-
-																																															<li><a href="http://videos.ohio.com/vmix_hosted_apps/p/upload">Upload a Photo</a></li>
-
-																																															<li><a href="http://videos.ohio.com/vmix_hosted_apps/p/upload">Upload a Video</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>READ NEWS </h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohio.com/community/">Community News by Area and Topic</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/education/">School and Education</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/sports/">Sports</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/thescene/">Social Events</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/onthemove/">On the Move</a></li>
-
-																																															<li><a href="http://www.ohio.com/community/readernews/military/">Military News</a></li>
-
-																																																	</ul>
-									</div>
-																
-																<div style="float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; padding:10px;">
-									<h5>PUBLISHING GUIDE</h5>
-																																																<ul style="float:left">
-																<li><a href="http://www.ohiomm.com/blogs/ohio/?p=26">How to Publish News</a></li>
-
-																																	
-												</ul>
-						</div>
-											
-				</div> 
-				<!-- end sm8 sub_menu -->
-				<!-- END UPublish TAB LINKS -->
-						
-						
-			<div class="clear-both"></div>
-			
-			<div id="content">
-			
-				
-
-	
- 	<div id="left-story-page">
-	
-			<h2>Events Calendar</h2>
-
-<div id="generic_box">
-						
-	<!-- Zvents options -->
-	<script type="text/javascript">
-	function Zvents( Z ) {
-		return {
-			whereField: false,
-			whenField: true,
-			linkDays: true,
-			cobrand: 'http://events.ohio.com/',
-			widgets: {
-				calendar: { weekdayLabel: 2 },
-				events: false,
-				search: {}
-			}
-		};
-	};
-	</script>
-	
-	<!-- Include the Zvents calendar JavaScript. -->
-	<script type="text/javascript" src="http://www.zvents.com/widgets/calendar/2/zvents.calendar.js"></script>
-	
-	<!-- Zvents date picker widget. -->
-	<div id="MyZventsCalendar" style="width:163px; margin:0 0 6px 0;">
 		<script type="text/javascript">
-			Zvents.widget.calendar();
-		</script>
-	</div>
-
-	<div>
-		<form action="http://events.ohio.com/search" method="get" name="search_events_form" style="margin:0;">
-	     <strong>EVENT SEARCH:</strong><br>
-	     <input style="width:111px;" id="swhat" name="swhat" type="text" value="">
-	     <input name="swhen" type="hidden" value="">
-	     <input name="swhere" type="hidden" value="akron, oh">
-	     <input name="srad" type="hidden" value="15.0">
-	     <input type="hidden" name="st" value="event">
-	     <input type="hidden" name="svt" value="text">
-	     <input type="hidden" name="search" value="true">
-	     <input type="submit" value="Go">
-		</form>
-	</div>
+		var thickboxL10n = {
+			"next":"",
+			"prev":"",
+			"image":"",
+			"of":"",
+			"close":"",
+			"noiframes":"",
+			"loadingAnimation":"http://cdn-corp.gatehousemedia.com/wp-includes/js/thickbox/loadingAnimation.gif",
+			"closeImage":"http://cdn-corp.gatehousemedia.com/wp-includes/js/thickbox/tb-close.png"
+		};
+	</script>
+ 			
+	    
 	
-	<div style="border-bottom:1px solid #ccc; padding:6px 0;">
-		<span style="color:#ff3333;font-weight:bold;">&nbsp;==&gt;</span> <a href="http://events.ohio.com/events/new">Submit an Event</a>
-	</div>
+<style type="text/css">
+		.dp-page{max-width: 1230px;}
+	.dp-page.vc {max-width: 1240px;}
+	.boxed #dp-page-box {max-width: 1270px;}
+		#dp-mainbody-columns > section { width: 100%; }
+		</style> 	
+    <title>Privacy Policy - Gatehouse Media</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v8.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.gatehousemedia.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Gatehouse Media">
+<meta property="og:description" content="Privacy Policy This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this …">
+<meta property="og:url" content="http://www.gatehousemedia.com/privacy-policy/">
+<meta property="og:site_name" content="Gatehouse Media">
+<meta property="article:publisher" content="https://www.facebook.com/gatehousemedia/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Privacy Policy This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this […]">
+<meta name="twitter:title" content="Privacy Policy - Gatehouse Media">
+<meta name="twitter:site" content="@gatehouse_media">
+<meta name="twitter:creator" content="@gatehouse_media">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/www.gatehousemedia.com\/","sameAs":["https:\/\/www.facebook.com\/gatehousemedia\/","https:\/\/www.linkedin.com\/company\/gatehouse-media\/","https:\/\/twitter.com\/gatehouse_media"],"@id":"http:\/\/www.gatehousemedia.com\/#organization","name":"GateHouse Media","logo":"http:\/\/www.gatehousemedia.com\/wp-content\/uploads\/2015\/12\/GHM_logo.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//maps.google.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Gatehouse Media » Feed" href="http://www.gatehousemedia.com/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.gatehousemedia.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.gatehousemedia.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.9" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="dp-icomoon-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/dp_icomoon.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://cdn-corp.gatehousemedia.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://cdn-corp.gatehousemedia.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel="stylesheet" id="dp-css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/basic.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="override-css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/override.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="dpf-Default-css" href="http://cdn-corp.gatehousemedia.com/wp-content/uploads/dp_font_icons/Default/Default.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="dp_child_css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/gatehouse/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="desktop-small-css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/desktop.small.css?ver=4.9.9" type="text/css" media="(max-width:1230px)">
+<link rel="stylesheet" id="tablet-css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/tablet.css?ver=4.9.9" type="text/css" media="(max-width:1030px)">
+<link rel="stylesheet" id="tablet-small-css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/tablet.small.css?ver=4.9.9" type="text/css" media="(max-width:820px)">
+<link rel="stylesheet" id="mobile-css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/mobile.css?ver=4.9.9" type="text/css" media="(max-width:580px)">
+<link rel="stylesheet" id="dynamo-plugins-css-override-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/override-plugins.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://cdn-corp.gatehousemedia.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="custom_vc_frontend_css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/dynamo_framework/vc_extend/dp_vc_frontend.css?ver=4.9.9" type="text/css" media="screen">
+<link rel="stylesheet" id="dynamo-dynamic-css-css" href="http://cdn-corp.gatehousemedia.com/wp-content/uploads/dp-blend-dynamic.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="dynamo-style-css" href="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/css/style0.css?ver=4.9.9" type="text/css" media="all">
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?key&amp;ver=1"></script>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Raleway:400,200,300,600,700,800,900,100" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700" rel="stylesheet" type="text/css"><style type="text/css">
+body, html { font-family: 'Open Sans'; }
+
+h1, h2, h3, h4, h5,h6 { font-family: 'Raleway'; }
+
+.dp-subheader .sub-title,  .headline  .subtitle,
+.rw-words-1 span { font-family: 'Roboto Slab'; }
+
+</style>
+<link rel="https://api.w.org/" href="http://www.gatehousemedia.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gatehousemedia.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn-corp.gatehousemedia.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="http://www.gatehousemedia.com/?p=7855">
+<link rel="alternate" type="application/json+oembed" href="http://www.gatehousemedia.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gatehousemedia.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.gatehousemedia.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gatehousemedia.com%2Fprivacy-policy%2F&amp;format=xml">
+<meta property="fb:pages" content="478670998916387"><meta property="fb:pages" content="60021031900"><meta property="fb:pages" content="344151878963466"><link href="http://www.gatehousemedia.com/?opensearch_description=1" title="Gatehouse Media" rel="search" type="application/opensearchdescription+xml">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://cdn-corp.gatehousemedia.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head><body class="page-template-default page page-id-7855 menu-type-top sticky_header_noused subheader-small stretched wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-mobile="true" data-tablet-width="1030">
+	    <div class="clearboth;"></div>
+    <div id="dp-page-box">
+		<!--   Begin Top Panel widget area -->
+        		<!--   End Top Panel widget area -->
+        
+        <!--   Begin Mobile Header area -->
+		<div id="dp-mobile-header-wrapper">
+			<div class="dp-head-wrap semi-transparent">
+            	<div class="dp-page pad10 clearfix">
+                
+               
+                <a href="#" class="dp-mainmenu-toggle"><i class="icon-menu51"></i></a>                   
+               
+                
+                                       <h2>
+                        <a href="http://www.gatehousemedia.com" class="imageLogo"><img class="logo-default" src="http://cdn-corp.gatehousemedia.com/wp-content/uploads/2016/03/GH-logo-blue-text.png" alt=""><img class="logo-sticky" src="http://cdn-corp.gatehousemedia.com/wp-content/uploads/2015/12/logo.png" alt="" style="width:155px!important; height:54px!important"><img class="logo-light" src="http://www.dynamicpress.eu/envato/blend_install/wp-content/uploads/2015/06/logo_light1.png" alt=""><img class="logo-dark" src="http://www.dynamicpress.eu/envato/blend_install/wp-content/uploads/2015/06/logo1.png" alt=""></a>
+                    </h2>
+                            		</div>
+        	</div>
+        </div>
+		<!--   End Mobile header -->
+		
+        <!--   Begin Navigation area -->
+        		<div id="dp-navigation-wrapper" class="clearfix">
+        <div class="dp-head-wrap semi-transparent menu_lefted">
+            <div class="dp-page">
+                <header id="dp-head" class="top-navigation">
+                                                        <h2>
+                        <a href="http://www.gatehousemedia.com" class="imageLogo"><img class="logo-default" src="http://cdn-corp.gatehousemedia.com/wp-content/uploads/2016/03/GH-logo-blue-text.png" alt=""><img class="logo-sticky" src="http://cdn-corp.gatehousemedia.com/wp-content/uploads/2015/12/logo.png" alt="" style="width:155px!important; height:54px!important"><img class="logo-light" src="http://www.dynamicpress.eu/envato/blend_install/wp-content/uploads/2015/06/logo_light1.png" alt=""><img class="logo-dark" src="http://www.dynamicpress.eu/envato/blend_install/wp-content/uploads/2015/06/logo1.png" alt=""></a>
+                    </h2>
+                                                                                <div class="dp-button-area">
+                        <ul class="social-bar">
+                        <li>
+                                                <a href="#" class="dp-header-search"></a>
+                                                </li>
+                        <li>
+                        <a href="/contact-us" class="email"></a>
+                        </li>
+                        <li><a href="https://twitter.com/@GateHouse_Media" class="twitter"></a></li><li><a href="https://www.facebook.com/pages/GateHouse-Media/478670998916387" class=" facebook"></a></li><li><a href="https://www.linkedin.com/company/gatehouse-media" class="linkedin"></a></li>                        </ul>
+                    </div>
+                    							<ul id="main-menu" class="menu dp_normal sf-menu main-top-menu"><li id="menu-item-6726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6726  root"><div class="item-container "><a href="http://www.gatehousemedia.com/"><div class="menu-title">Home<div class="menu-subtitle"></div></div></a></div></li>
+<li id="menu-item-6763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6763  root"><div class="item-container "><a href="http://www.gatehousemedia.com/about-us/"><div class="menu-title">About Us<div class="menu-subtitle"></div></div></a></div></li>
+<li id="menu-item-6762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6762  root"><div class="item-container "><a href="http://www.gatehousemedia.com/our-markets/"><div class="menu-title">Our Markets<div class="menu-subtitle"></div></div></a></div></li>
+<li id="menu-item-6761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6761  root"><div class="item-container "><a href="http://www.gatehousemedia.com/commercial-services/"><div class="menu-title">Commercial Services<div class="menu-subtitle"></div></div></a></div></li>
+<li id="menu-item-6760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6760  root"><div class="item-container "><a href="http://www.gatehousemedia.com/careers/"><div class="menu-title">Careers<div class="menu-subtitle"></div></div></a></div></li>
+</ul>                    
+                </header>
+            </div>
+        </div>
+        </div>
+		<!--   End Navigation area -->
+                              
+        
+        <!--   Begin subheader wrapper -->
+		                                <div class="dp-subheader-wraper">
+        <div class="subheader-inner">
+        <div class="dp-page pad10">
+        <div class="dp-subheader">
+        <div class="subheader-title-holder">
+                        <h1 class="main-title">Privacy Policy</h1>
+		                                </div>
+        </div>
+        </div>
+        </div>
+        </div>
+                
+                <!--   Begin Slideshow area -->
+		        <!--   End slideshow area -->
+        <!--   End subheader wrapper -->
+				<!-- Mainbody, breadcrumbs -->
+                
+<div class="clearboth"></div>
+<section class="dp-page-wrap dp-page">
+               
+
+	<section id="dp-mainbody-columns" class="">			
+			<section>
+            <div id="dp-content-wrap">
+<section id="dp-mainbody">
+		
+	
+<article id="post-7855" class="post-7855 page type-page status-publish hentry">
+	<header>
 			
+
+	</header>
+
+	
+	<section class="content">
+		<h2>Privacy Policy</h2>
+<div>
+<p>This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this website (the “websites”).</p>
+<h3>INFORMATION COLLECTION AND USE.</h3>
+<p>We gather two types of information: (1) personally identifiable information that you supply voluntarily when you register for interactive services, order other products or services, or enter certain other areas of our Websites as noted below in this Privacy Policy and (2) aggregate tracking and site usage information that we gather on an anonymous basis as you access our Websites. Your provision to us of any information through our Websites, or through other sites that link to our Websites, is deemed your agreement to this Privacy Policy. It is our policy to use the personally identifiable information we acquire at our Websites for internal business uses only and to provide products and services to you that you ordered. We do not authorize your personal information to be used by a third party (other than our service providers as described later in this Privacy Policy) without disclosing that intention and receiving your consent, except as described under “Legal Matters” below. We maintain security measures to keep this information private.</p>
+<h3>PERSONALLY IDENTIFIABLE INFORMATION.</h3>
+<p>Anyone can access our Websites, but there are certain areas and services that require registration or provision of certain personal information if accessed, such as by way of example: entering premium content areas, placing advertisements online and making other online purchases, signing up for email newsletters, promotions, contests, sweepstakes or special offers, or participating in reader forums, message boards, chats and reader surveys. If you choose to make a purchase or use such areas, we will ask for certain personally identifiable information, which may include name, mailing address, valid email address and other personal information. Based upon the personally identifiable information you provide us at registration, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your “account.” We will communicate with you by email or as otherwise directed by you.</p>
+<p>We strive to keep personal information–such as your name or e-mail address–that you voluntarily disclose private. We do not authorize your personal information to be shared with third parties without your consent, aside from third parties that perform services for us (which may include by way of example: credit card processing and billing, shipping, email and list processing, and promotions management). We provide these suppliers only with the information they need to process the transaction or provide the service. We require that such parties either must comply with our Privacy Policy or have comparable privacy policies that protect your information.</p>
+<p>If you purchase a product or service from us, or through us, we request certain personally identifiable information from you on our order form. You must provide contact information and billing information (such as credit card number, expiration date.) We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.</p>
+<p>Certain information supplied by you to our Websites may be password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish accessing our Website in order to prevent others from accessing your personal information. You are solely responsible for the control and use of each password you create.</p>
+<p>Personal information which you provide on bulletin boards or in other areas that are accessible to other users could be collected and disclosed by others. We cannot take any responsibility for such collection or disclosure.</p>
+<p>From time to time, we may obtain e-mail addresses from third party sources to be used for promotional emails. You may opt out of receiving any messages from us in the future by either clicking on the Unsubscribe link in the email, or by contacting us as instructed at the end of this Privacy Policy.</p>
+<h3>LEGAL MATTERS</h3>
+<p>We may disclose information you have provided to us if we have a good faith belief that such disclosure is necessary to: (1) comply with the law, government action or with legal process served on us; (2) protect and defend our rights or property, including without limitation these Websites; or (3) protect the personal safety or property of our users or the public (by way of example, if you provide false information or pretend to be someone else, information about you may be disclosed as part of an investigation). In the event of a change of control of GateHouse or any of its subsidiaries (such as through a merger or sale of equity) or in the event of a direct or indirect sale of any Website through a sale of assets, liquidation or other transaction, any personal information of users of the affected Websites in our possession will be transferred to the new company as part of the transaction. We are not obligated to notify Website users of any such transaction. You may always change or delete your information or opt out by contacting us as provided below, or if the acquirer posts a new Privacy Policy with new contact information, you may change or delete your information or opt out by following any new instructions that are posted.</p>
+<h3>AGGREGATE INFORMATION</h3>
+<p>If we gather demographic information from you (for example, your age, education level or household income), we will not share that information in a manner that identifies you as an individual with any other third party, unless we let you know that at the time of collection and you consent by providing the information. When we share demographic information with third parties, we will give them aggregate information only, unless you have consented otherwise, or unless otherwise required by law, government action or legal process served on us.</p>
+<p>Occasionally, we use “cookies” to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. We only use cookies for the purpose of holding information during online sessions (for example, to hold answers to online surveys for short-term storage, or to create a temporary ID for use in a multiple-session assessment). When you view an ad for the Websites on other sites, third party advertisers may place or recognize a unique cookie on your browser. The Websites and the advertiser may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which website pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts.</p>
+<p>We may also collect other information from users to the Websites such as the user’s IP address (the number assigned automatically to your computer whenever you use the World Wide Web), length of time spent on the Websites, and the pages accessed during each visit to the Websites. We use this information to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
+<p>We may also use third-party advertising companies to collect data and/or serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<h3>HOW DO I OPT OUT OR CHANGE MY PERSONAL INFORMATION</h3>
+<p>To opt out of further email communications from us, just click on the Unsubscribe link in the email, or contact us as instructed at the end of this Privacy Policy. We need up to 30 days to process your request.</p>
+<p>To change your personal information that you have provided us, please contact us as instructed at the end of this Privacy Policy.</p>
+<h3>CHILDREN’S ON-LINE PRIVACY INFORMATION</h3>
+<p>These Websites are not intended for use by children under the age of 13. We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on our Websites without their permission.</p>
+<p>Involvement of parents: In accordance with the provisions of the Children’s Online Privacy Act, in the event that we do begin collecting any personal information or data from children under the age of 13, we will notify parents first, and will seek parental or guardian consent to collect, use and/or disclose certain personal information from children under the age of 13. A parent may review and have deleted their child’s personal information, and may refuse to permit further collection or use of their child’s information by contacting us as noted at the end of this Privacy Policy. Parents may consent to our collection and use of their child’s personal information without consenting to the disclosure of that information to others.</p>
+<h3>OUR COMMITMENT TO DATA SECURITY</h3>
+<p>We have put in place security procedures reasonably designed to safeguard and secure the information under our control, and we follow generally accepted industry standards.</p>
+<p>Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers and in storing that information on our systems, no method of transmission over the Internet, or of electronic storage, is 100% secure. So we cannot ensure or guarantee the security of any information transmitted to us over the Internet.</p>
+<p>When you enter sensitive information (such as credit card numbers) on our forms, we encrypt, or instruct our providers to encrypt, that information using secure socket layer technology (SSL).</p>
+<h3>LINKS TO OTHER SITES</h3>
+<p>This Privacy Policy solely applies to information collected directly by the Websites. Our Websites may contain links to other web sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage users to be aware that when they leave our Websites for another site, even if through a link, they should read the privacy statements of each and every web site that collects personally identifiable information. The provision of external links to other websites is a common practice on the Internet and it in no way indicates that we endorse or approve the linked company, or its products, services or website.</p>
+<h3>AP NEWS REGISTRY PRIVACY POLICY</h3>
+<p>This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <a href="http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx" target="_blank">http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx</a> for further information.</p>
+<h3>CHANGES OR UPDATES TO THIS PRIVACY POLICY.</h3>
+<p>We may modify this Privacy Policy at any time, so please review it frequently. We will post any changes on the Privacy Policy page of the Websites, but we have no other obligation to notify you of such changes. We indicate the date of the current version of this Privacy Policy below, so you know when it was last updated. Any changes will affect all of the information we have previously collected from you, as well as the information we collect after such changes, and may include without limitation additional uses or disclosures of your information. If any of the changes represent a material change that expands our use of personal information, the changes will be posted at least 30 days prior to taking effect and we will post a prompt on the home page of our site for users to review the new privacy policy. If you object to the changes, please contact us as provided below and we will remove your information that we previously collected. However, your subsequent provision of information to us through any of our Websites is deemed your agreement to use of that information in accordance with the then-current Privacy Policy.</p>
+<p>GateHouse Media works with DataXu to target advertising based on non-personally identifiable information. To learn more about DataXu’s privacy policy or to opt out, visit <a href="http://www.dataxu.com/privacy/platform" target="_blank">www.dataxu.com/privacy/platform</a></p>
+<h3>CONTACT US</h3>
+<p>If you have any questions about this Privacy Policy or you wish to make changes to your personal information or remove yourself from our database, please contact us in one of the following ways:</p>
+<p><b>E-mail us at:</b> <a href="mailto:webmaster@gatehousemedia.com">webmaster@gatehousemedia.com</a></p>
+<p><b>Write to us at:</b><br>
+Webmaster<br>
+GateHouse Media, LLC<br>
+175 Sully’s Trail, 3rd Floor<br>
+Corporate Crossings Office Park<br>
+Pittsford, NY 14534</p>
+<p><b>Call us at:</b> (585) 598-0030 and ask for the GateHouse webmaster</p>
+<p>Last revised November 2015</p>
 </div>
-<!-- end generic_box -->
-	
 		
-				  
+			</section>
+	
+	
+
+			
+	</article>	</section>
+
+		
+			</div><!-- end of the #dp-content-wrap -->
+			
+			</section><!-- end of the mainbody section -->
+		
+					</section><!-- end of the #dp-mainbody-columns -->
+</section><!-- end of the .dp-page-wrap section -->	
 
 
+<div class="clearboth"></div><div id="dp-footer-wrap">
+<!--div class="toTop"><span class="fa fa-chevron-up"></span></div-->
+<div id="dp-footer" class="dp-page widget-area">
+	<div id="text-2" class="box  widget_text col6 nth1 last1">			<div class="textwidget"><div class="vc_row wpb_row vc_row-fluid">
+	<div id="footer-logo-col" class="wpb_column vc_column_container vc_col-xs-12 vc_col-sm-12 vc_col-lg-2">
+		<a id="footer-logo" href="#"><img src="http://cdn-corp.gatehousemedia.com/wp-content/uploads/2015/12/logo-plain.png" alt="Gatehouse Media"></a>
+	</div>
+	<div class="wpb_column vc_column_container vc_col-xs-12 vc_col-sm-4 vc_col-lg-3">
+		<h3>Contact Us</h3>
+		<p>GateHouse Media, LLC<br>
+			175 Sully’s Trail, 3rd Floor<br>
+			Corporate Crossings Office Park<br>
+			Pittsford, NY 14534<br>
+			Phone: (585) 598-0030<br>
+			Fax: (585) 248-2631</p>
+	</div>
+	<div class="wpb_column vc_column_container vc_col-xs-12 vc_col-sm-4 vc_col-lg-3">
+		<h3>Commercial Services</h3>
+		<p><a href="http://bestcompaniesgroup.com/" target="_blank">Best Companies</a><br><a href="http://www.centerfornewsanddesign.com/" target="_blank">Center for News &amp; Design</a><br>
+<a href="/commercial-services/#1458536313696-11c1cacf-4ca2" target="_blank">Creative Solutions</a><br>
+			<a href="http://gatehouselive.com/" target="_blank">GateHouse LIVE</a><br>
+			<a href="http://thrivehive.com/" target="_blank">ThriveHive</a>
+			</p>
+	</div>
+	<div class="wpb_column vc_column_container vc_col-xs-12 vc_col-sm-4 vc_col-lg-3">
+		<h3>Connect with us</h3>
+		<p><a href="/contact-us">Contact us</a><br><a href="https://www.facebook.com/gatehousemedia/" target="_blank">Like us on Facebook</a><br>
+<a href="https://twitter.com/gatehouse_media" target="_blank">Follow us on Twitter</a><br>
+<a href="https://www.linkedin.com/company/gatehouse-media" target="_blank">Connect with us on LinkedIn</a><br>
+</p>
+	</div>
+</div></div>
+		</div></div>
+<div class="clearboth"></div>
 
+<div id="dp-copyright-wrap">
+<div id="dp-copyright" class="dp-page padding10">
+	    <div id="dp-copyright-inner">
+	        <ul class="social-bar rounded">
+        <li><a href="#" class="dp-tipsy-t dp-header-search" data-tipcontent="Search this site" original-title=""></a></li>
+        <li><a href="/contact-us" class="dp-tipsy-t email" data-tipcontent="E-mail us" original-title=""></a></li>
+        <li><a href="https://twitter.com/@GateHouse_Media" class="twitter dp-tipsy-t" data-tipcontent="Twitter"></a></li><li><a href="https://www.facebook.com/pages/GateHouse-Media/478670998916387" class=" facebook dp-tipsy-t" data-tipcontent="Facebook"></a></li><li><a href="https://www.linkedin.com/company/gatehouse-media" class="linkedin dp-tipsy-t" data-tipcontent="Linkedin"></a></li>        </ul>
+        
+        <div class="dp-copyrights">
+        <div class="dp-copyrights-text" style="line-height: 25px"><img id="copyright-logo" src="http://cdn-corp.gatehousemedia.com/wp-content/uploads/2016/03/GH-logo-blue-text.png" width="130">© Copyright 2006-2018 GateHouse Media, LLC. All rights reserved. <small style="display:block;clear:left"><a href="/privacy-policy">Privacy Policy</a></small></div>
+                    </div>
 
-
-
-
-
-<h2>In This Section</h2>
-
-
-<div id="in_this_section">
-	<div id="this_section">
-					</div>
+	</div>
+        </div>
 </div>
-
-				<br>
-			
-		
-
-
-<h2>Most Read Stories</h2>
-
-<div id="most_read">
-	<div id="today">
-		<div class="nhead">
-			<a class="tab_current" onclick="switch_div(mostread_tab,'today',1,'mr')" href="javascript:void(0)">24 hrs</a>
-			&nbsp;<a class="tab" onclick="switch_div(mostread_tab,'last_week',1,'mr')" href="javascript:void(0)">7 days</a>
-		</div>
-		<div class="cont">
-						
-
-
-
-
-  
- <!-- Section ID: 214287, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214487, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214297, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214507, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214502, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-	<!-- Section ID: 214747, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214612, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214332, Type: V, Period: D, NumItems: 10 -->
-
-	<!-- Section ID: 214452, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214387, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214532, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214312, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214417, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214397, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214402, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-	<!-- Section ID: 214367, Type: V, Period: D, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-	
-
-																																																																																																																																																																																																																																																																																						
-
-
-
-
-
-			
-							<p><a href="http://www.ohio.com/news/break_news/111266144.html">Deer hunter shot in Green</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111269894.html">Husband kills wife in Green; shoots self</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111261249.html">Police: Toddler hanged by ankles in closet, beaten</a></p>
-							<p><a href="http://www.ohio.com/news/111285329.html">Husband shoots wife to death, then himself in Green</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111271524.html">Man convicted of rape at Akron nursing home</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111271284.html">Deer hunter from Massillon nets black bear, legal questions</a></p>
-							<p><a href="http://www.ohio.com/news/111242919.html">Boos, obscenities blare as Cavs fans jeer LeBron</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111197149.html">Akron man, 57, answers door to armed robber</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111187894.html">Settlement reached for boy who was voted out of kindergarten class</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111187209.html">Akron man dies from crash injuries</a></p>
-						
-			<p> <a href="/mostpopular?period=D&amp;numItems=25"> Complete List &gt;&gt;</a> </p>
-		</div>
-	</div>
-	
-	<div id="last_week" style="display:none">
-		<div class="nhead">
-			<a class="tab" onclick="switch_div(mostread_tab,'today',1,'mr')" href="javascript:void(0)">24 hrs</a>
-			&nbsp;<a class="tab_current" onclick="switch_div(mostread_tab,'last_week',1,'mr')" href="javascript:void(0)">7 days</a>
-		</div>
-		<div class="cont">
-						
-
-
-
-
-  
- <!-- Section ID: 214287, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214487, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214297, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214507, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214502, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214747, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214612, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214332, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214452, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214387, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214532, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214312, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214417, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214397, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214402, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 								 			
-
-				
-		
-			
-		 		
-		 																					 																																													
-		
-	<!-- Section ID: 214367, Type: V, Period: W, NumItems: 10 -->
-
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-			
-		 		
-		 																					 																																													
-		
-	
-
-																																																																																																																																																																																																																																																										
-
-
-
-
-
-							<p><a href="http://www.ohio.com/news/break_news/111266144.html">Deer hunter shot in Green</a></p>
-							<p><a href="http://www.ohio.com/news/110961554.html">Akron man, 67, shot to death </a></p>
-							<p><a href="http://www.ohio.com/news/break_news/110910444.html">Police identify Ohio bartender found dead near bar</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/110368279.html">I-76 shut down by deadly wreck in Northeast Ohio</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111269894.html">Husband kills wife in Green; shoots self</a></p>
-							<p><a href="http://www.ohio.com/entertainment/comics.html">Comics &amp; Games</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111197149.html">Akron man, 57, answers door to armed robber</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111034484.html">Ohio woman describes bizarre captivity </a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111261249.html">Police: Toddler hanged by ankles in closet, beaten</a></p>
-							<p><a href="http://www.ohio.com/news/break_news/111187209.html">Akron man dies from crash injuries</a></p>
-						
-			<p> <a href="/mostpopular?period=W&amp;numItems=25"> Complete List &gt;&gt;</a> </p>									
-		</div>
-	</div>
-
 </div>
 
-		<br>
-		
-	
-		<!-- Intentionally blank -->
-<!-- Intentionally blank -->
-<!-- Intentionally blank -->
-<!-- Intentionally blank -->
-<!-- Intentionally blank -->
-<!-- Intentionally blank -->
+    <div id="back-to-top"></div>
 
+    	
+<div class="search-overlay">
+		<div class="overlay-close"><i class="icon-times-circle"></i></div>
+        	<div class="dp-page">
+                    <form method="get" id="searchform" action="http://www.gatehousemedia.com">
+                    <input type="text" class="field" name="s" id="s" placeholder="Start typing..." value="">
+                    </form>            
+            		</div>
+            </div>
+	
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-<h2>
-	<a href="/blogs"><img src="http://media.ohio.com/designimages/rss.gif" alt="" width="17" height="16" border="0" align="absmiddle"></a> Blogs:
-</h2>
+  ga('create', 'UA-6842750-4', 'auto');
+  ga('send', 'pageview');
 
-<br>
-	<a href="http://helpinghands.ohio.com/"><strong>Akron Docs in Haiti:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Born in water
-		<br><br>
-		<a href="http://politics.ohio.com/"><strong>Ohio Politics/Elections:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Ohio governor-elect: Job seekers’ names to be released
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/browns/"><strong>Cleveland Browns:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Transcript from press conference with Browns offensive coordinator Brian Daboll
-		<br><br>
-		<a href="http://marla.ohio.com/"><strong>Marla Ridenour on Sports:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Game shows LeBron right to leave
-		<br><br>
-		<a href="http://cavs.ohio.com/"><strong>Cleveland Cavaliers:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Tale of the tape
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/varsity_letters/"><strong>Varsity Letters:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Buchtel coach Ricky Powers talks after a win over Marlington
-		<br><br>
-		<a href="http://the330.com"><strong>The330:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Music In My Head
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/tribe_matters"><strong>Tribe Matters:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Sizemore and Santana added to roster, some AFL notes
-		<br><br>
-		<a href="http://education.ohio.com/"><strong>First Bell - On Education:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Blood drives earn scholarship money
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/heldenfiles/"><strong>The Heldenfiles:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Music In My Head
-		<br><br>
-		<a href="http://pets.ohio.com"><strong>Pets:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Ohio Dog Food Company Celebrates Canine Courage with Facebook Contest
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/zips/"><strong>Akron Zips:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Zips win at Detroit
-		<br><br>
-		<a href="http://www.ohioverticals.com/blogs/kent_state/"><strong>Kent State Sports:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		NewsFlashes For Now
-		<br><br>
-		<a href="http://ohio.webfactional.com/buckeye_blogging/"><strong>Buckeye Blogging:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Buckeye Regular Season Recap and Look Ahead
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/da_kings_men/"><strong>All Da King's Men:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Deficit Commission Crashes And Burns
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/blog_mass_destruction/"><strong>Blog of Mass Destruction:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Conspiring For Criminals
-		<br><br>
-		<a href="http://www.ohioverticals.com/blogs/akron_law_cafe/"><strong>Akron Law Café:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Lebron's Return
-		<br><br>
-		<a href="http://www.ohioverticals.com/blogs/car_chase/"><strong>Car Chase:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Toy Cars
-		<br><br>
-		<a href="http://www.ohioverticals.com/blogs/realestate/"><strong>Let's Talk Real Estate:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Demand
-		<br><br>
-		<a href="http://www.ohiomm.com/blogs/soundcheck/"><strong>Sound Check:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		44th Annual Kent State Folk Festival begins Wednesday with "Night of Brazilian Music"
-		<br><br>
-		<a href="http://www.ohioverticals.com/blogs/style/"><strong>See Jane Style:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		The Long Story
-		<br><br>
-		<a href="http://www.ohioverticals.com/blogs/hrlite/"><strong>HRLite House:</strong></a><br>
-	
-		
-		
-			
-	
-	
-		
-	
-	
-		Social Media Website
-		<br><br>
-	
-		
-	</div> <!-- end  left-story-page -->
-
-
-
-
-
-
-
-
-<div id="misc_center_page_no_rightrail">
-	    	 <div id="breadcrumb">
-	<a href="http://www.ohio.com/">Homepage</a><span id="breadcrumb-arrow"> &gt; </span><a href="http://www.ohio.com/about/">About Us</a><span id="breadcrumb-arrow"> &gt; </span>
-	</div> <!-- end breadcrumb -->
-
-    	 <div class="clear-both">
-    	 </div>
-		
-	<p>
-	</p><div id="ohio_info">
-			<h3>TERMS OF USE</h3>
-<p class="storytext">Copyright on materials contributed by the Akron Beacon Journal and Ohio.com readers and/or members is held by the individual creators. All postings, messages, text, files, images, graphics, photos, audio clips, sounds, video or other materials (the "Content") posted on, transmitted through, or linked from the Site, are the sole responsibility of the person from whom such Content originated. You are entirely responsible for all Content that you post, email or otherwise make available through the Site. For all Content provided by you, you agree to indemnify Provider as provided below.  By uploading or otherwise posting any Content on the Site, you represent and warrant: (i) you own or otherwise have all necessary rights, including but not limited to copyrights, to the content you provide and the rights to use it as provided in this Terms of Service; (ii) all information you provide is true, accurate, current and complete, and does not violate these Terms of Service; and, (iii) the content will not cause injury to any person or entity.  You agree not to upload, transmit, distribute or otherwise publish in these or any other Forums connected with the Company any Materials which are:</p>
-<ul>
-    <li>libelous, defamatory, obscene, abusive, pornographic, threatening, or an invasion of privacy;</li>
-    <li>an infringement of the intellectual property rights, including, but not limited to, copyrights and trademarks, of any person or entity;</li>
-    <li>illegal in any way or which advocate illegal activity;</li>
-    <li>an advertisement or solicitation of funds, goods, or services.</li>
-</ul>
-<h3>LICENSE</h3>
-<p class="storytext">For all such information and material, you grant the Beacon Journal Publishing Co, Inc., its affiliates and related entities, and its affiliated newspaper, a royalty-free, perpetual, irrevocable, non-exclusive right and license to use, copy, modify, display, archive, store, distribute, reproduce and create derivative works from such information, in any form, media, software or technology of any kind now existing or developed in the future.</p>
-<h3>NO PRE-SCREENING OR EDITING</h3>
-<p class="storytext">This site offers weblogs, story commenting, photo galleries and other interactive areas where users can express opinions and share ideas and information. Ohio.com cannot and does not monitor all of the material posted or transmitted to the Site. Additionally, the Company does not control, and is not responsible for, Content made available through the Site by members.</p>
-<p class="storytext">By using the Site, you may be exposed to Content that you may find offensive, indecent, inaccurate, misleading, or otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of the Site and any of its Content, including but not limited to whether you should rely on said Content.</p>
-<p class="storytext">You also agree that under no circumstances will the Beacon Journal Publishing Company, Inc. or its affiliates be liable in any way for any Content or for any loss or damage of any kind incurred as a result of the use of any Content posted, emailed or otherwise made available via the Site. You acknowledge that Ohio.com does not pre-screen or approve Content, but that the Company shall have the right (but not the obligation) in its sole discretion to refuse, delete or move any Content that is available via the Site, for violating the letter or spirit of the Terms or for any other reason. The Company reserves the right to delete any posting, message or photograph at any time, for any reason or no reason.</p>
-<h3>MATERIALS SUBMITTED BY OTHER USERS</h3>
-<p class="storytext">We cannot and do not review every posting made in our areas available for public postings. You may well read any given posting before anyone on our staff does. Take what you find with a grain of salt. You can expect these areas to include information and opinions from a variety of individuals and organizations other than us. We do not endorse or guarantee the accuracy of any posting, regardless of whether the posting comes from a user, from a celebrity or "expert" guest, or from a member of our staff. There is no substitute for healthy skepticism and your own good judgment.</p>
-<h3>TERMINATION</h3>
-<p class="storytext">The Company may, in its sole discretion, terminate or suspend your access to all or part of the site, including, but not limited to, any bulletin boards on its site, for any reason, including without limitation, breach of this agreement. In the event this agreement is terminated, the restrictions regarding Materials appearing on the site, and the representations and warranties, indemnities, and limitations of liabilities set forth in this agreement shall survive any such termination.</p>
-<h3>JURISDICTION</h3>
-<p class="storytext">This site is controlled and operated by the Company from the Companys headquarters in Akron, Ohio. The Company does not represent or warrant that Materials on the site are appropriate or available for use in other locations. If you choose to access this site from other locations, you do so at your own risk and are responsible for compliance with any and all local laws.</p>
-<p class="storytext">This agreement shall be governed by and construed in accordance with the laws of the State of Ohio, as it is applied to agreements entered into and performed within that State.  Any action brought to enforce this agreement or matters related to the site shall be brought in either the State or Federal Courts of Ohio.  If any provision of this agreement is deemed void, unlawful or otherwise unenforceable for any reason, that provision shall be severed from this agreement and the remaining provisions of this agreement shall remain in force. This contains the entire agreement between you and the Company concerning your use of the site.</p>
-<h3>PRIVACY POLICY</h3>
-<p class="storytext"><strong>Effective June 27, 2006</strong></p>
-<p class="storytext">This Beacon Journal Publishing Co., Inc. site, Ohio.com , is covered by the policies herein.</p>
-<p class="storytext"><strong>When does Beacon Journal Publishing Co., Inc. collect my personally identifiable information?</strong></p>
-<p class="storytext">When you register for one of Beacon Journal Publishing Co., Inc.'s sites, or for services on any of our sites, we collect personally identifying information from you. During registration you are asked to provide your email address and some demographic information including such items as your gender, year of birth, and address. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences. In addition to registration, we may collect personally identifiable information from you when you enter contests and sweepstakes (which may be done in conjunction with site registration), participate in promotions and special programs, register for premium or customized services, make a purchase at one of our merchants or partners, subscribe to one of our print publications, or download a software product or plug-in.</p>
-<p class="storytext">If you are making a purchase or enrolling in a premium service for which there is a fee, we, or a 3rd party working in partnership with us, will collect your credit card, billing address, and other verifying information. In addition, we may collect personally identifiable information from you when you provide content to us for display or use on one or more Beacon Journal Publishing Co., Inc. sites, including but not limited to, when you participate in user surveys, post messages to bulletin boards or chat areas, submit personals or other classified listings, build a home page, report a problem with one of our sites or services, or submit a letter to the editor.</p>
-<p class="storytext">If you use our referral service ("Email an Article to a Friend") to tell a friend about our site, we will ask for your email address and theirs. We automatically send a one-time email to the address you provided. Neither your email address nor the email address you provide is stored or used for any other purpose.</p>
-<p><a name="yahooads"></a></p>
-<p class="storytext"><strong>How is my personally identifiable information used?</strong></p>
-<p class="storytext">Our main goal is to provide you with a customized and more relevant experience on Beacon Journal Publishing Co., Inc. sites. We review our users' preferences, demographics, traffic patterns, and other information in aggregate so that we can better understand who our audience is and what it is you want. Tracking user preferences also helps us serve you more relevant advertising. Please note that we do not share your personally identifying information with the advertiser.</p>
-<p class="storytext">We use a third party to serve ads when you visit our site. This third party ad server may use certain information about your visit to our site in order to provide advertisements about goods and services that may be of interest to you, but they are not allowed to collect or use personally identifiable information about you for their own purposes.</p>
-<p class="storytext">Yahoo! is an ad network partner that displays ads on our Web Site. To improve your ad experience on our Web Site and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. Click <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">here</a> to learn more about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you.</p>
-<p class="storytext">All credit card information is transmitted in an encrypted form, using SSL (secure socket layer) encryption, the industry-standard. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Beacon Journal Publishing Co., Inc. assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. If you have any questions about security on our Web site, you can contact us at: <a href="mailto:ohiofeedback@thebeaconjournal.com%20" title="click here to contact Ohio.com Feedback">Ohio.com Feedback</a></p>
-<p class="storytext">The email address provided by you at registration, or as updated, may be used by Beacon Journal Publishing Co., Inc. and its affiliated entities, including Beacon Journal Publishing Co., Inc., to contact you for any reason, including: (1) Your account status (including an email confirmation of registration), (2) Major changes to the website, the Terms of Use and Privacy Policy, (3) Participation in user surveys, asking for feedback on the website and (4) notifying you of existing or prospective products and services offered by us or our advertisers and partners. This information helps us to improve our website. The information provided by you at registration may be used by Beacon Journal Publishing Co., Inc. to contact you with special offers and promotions.</p>
-<p class="storytext">To update your personal information such as name, or mailing address, you can sign into your account and visit the Update Account page. To update your newsletter subscriptions you either a) visit your newsletter subscription page in your account, or b) unsubscribe by following the instructions within the email newsletter.</p>
-<p class="storytext">If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be that of Ohio.com, however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.</p>
-<p class="storytext"><strong>What other information does Beacon Journal Publishing Co., Inc. collect and how is it used?</strong></p>
-<p class="storytext">Cookies. Beacon Journal Publishing Co., Inc. uses cookies to store and track your preferences to provide you with a more personalized user experience. A cookie is a message that is sent to your browser from a Web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services, and you may be required to repeatedly log in to participate in various services, promotions, or product offerings. Cookies make your experience easier by saving your preferences and passwords.</p>
-<p class="storytext">We also use cookies that contain no personal information at all. These cookies help us estimate our audience size, determine which areas of Beacon Journal Publishing Co., Inc. sites are the most popular, and serve targeted advertising. Third party advertisers and our ad server may set and access their cookies on your computer in accordance with their own privacy policies. If you would like more information about the use of cookies by our third party ad server and your ability to opt out of receiving cookies from this third party, please click here: <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a></p>
-<p class="storytext">Some parts of Ohio.com site use cookies to collect information about visitors' use of the Web site and to facilitate return visits. Information collected about user activity may be done in partnership using a 3rd party tracking tool. The information collected from cookies is tracked to enhance security and to improve the functionality of the Web site by avoiding duplicate data entry, facilitating navigation, and increasing the relevance of content. Cookies on the site may collect the following information: a unique identifier, user preferences and profile information used to personalize the content that is shown, and membership information to access Ohio,com's services. Some cookies used by Ohio.com may remain on the user's computer after they leave the Web site.</p>
-<p class="storytext">Most browsers can be configured to reject cookies or alert you when cookies are being sent. Keep in mind that if you refuse cookies, it is possible that some portions of Beacon Journal Publishing Co., Inc. sites may not function exactly as intended.</p>
-<p class="storytext">IP Address. Beacon Journal Publishing Co., Inc. may also collect IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g. how many visitors logged in to a Beacon Journal Publishing Co., Inc. site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular Beacon Journal Publishing Co., Inc. web page, our servers log your IP address. Your IP address is not linked to anything personally identifiable.</p>
-<p class="storytext"><b>Who does Beacon Journal Publishing Co., Inc. share information with?</b></p>
-<p class="storytext">User information is shared within Beacon Journal Publishing Co., Inc. in order to provide you with a more integrated and customized user experience. We will not disclose your personally identifiable information to third parties except (1) to the extent necessary to provide you with a requested product or service, or (2) in order to provide targeted promotional offers during the registration process. If you do not accept any of the offers, your information will not be retained by our registration offers partner.</p>
-<p class="storytext">To the extent you are notified of uses of your personal information which are different from those described in this Policy Statement during your enrollment in any particular service, sweepstakes, contest or promotion, the uses of which you are specifically notified will govern that service, sweepstakes, contest or promotion. We may co-sponsor some contests on our site with other companies. If you enter one of these contests, our co-sponsor may receive the information collected. In such cases, we will tell you who the co-sponsor is and notify you if the use of this information is governed by the co-sponsor's privacy policy.</p>
-<p class="storytext">We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.</p>
-<p class="storytext"><strong>What else should I know about my privacy?</strong></p>
-<p class="storytext">You should be aware that if you voluntarily disclose personal information online in a public area, that information may be collected and used by others. We do not control the actions of our visitors and registered users. If you disclose personal information in a chat room, forum, on your home page, or any other publicly accessible place on Beacon Journal Publishing Co., Inc. sites, you do so at your own risk and you understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements, or for other purposes.</p>
-<p class="storytext">Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online.</p>
-<p class="storytext">This Web site contains links to other sites that are not owned or controlled by Beacon Journal Publishing Co., Inc.. Please be aware that we, Beacon Journal Publishing Co., Inc., are not responsible for the privacy practices of such other sites.</p>
-<p class="storytext">We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.</p>
-<p class="storytext">This privacy statement applies only to information collected by this Web site.</p>
-<h3>Privacy Protection For Children</h3>
-<p class="storytext">In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Beacon Journal Publishing Co., Inc. sites to persons under the age of thirteen (13). If Beacon Journal Publishing Co., Inc. later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Beacon Journal Publishing Co., Inc. sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis.</p>
-<h3>Acceptance of Privacy Policy.</h3>
-<p class="storytext">By using Beacon Journal Publishing Co., Inc. sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of Beacon Journal Publishing Co., Inc. sites. We reserve the right to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by email or through a prominent notice on the web site. Your continued use of any portion of Beacon Journal Publishing Co., Inc. sites following notification or posting of such changes will constitute your acceptance of those changes. If you have questions or concerns about our specific policies, please contact us through our feedback form at: <a href="mailto:ohiofeedback@thebeaconjournal.com" title="click here to contact Ohio.com Feedback">Ohio.com Feedback</a>.</p>
-<p class="storytext">&nbsp;</p>
-<h3>AP Registry Privacy Policy</h3>
-<p class="storytext">This Web site uses services provided by AP News Registry. AP News Registry collects content usage infomation and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx for further information.</p>
-<hr>
-<p class="storytext">&nbsp;</p>
-<p class="storytext">Want more information? Check out these helpful links...</p>
-<p class="storytext"><a href="http://www.eff.org/">Electronic Frontier Foundation</a> - a civil liberties organization working to protect your rights online.</p>
-<p class="storytext"><a href="http://www.epic.org/">Electronic Privacy Information Center</a> - established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.</p>
-<p class="storytext"><a href="http://www.cdt.org/">Privacy Issues Page</a> - from the Center for Democracy and Technology (CDT).</p>
-<p class="storytext"><a href="http://www.cookiecentral.com/">Cookie Central</a> -- dedicated to provide full information upon Internet Cookies.</p>
-	</div>
-</div>
-
-<div class="clear-both">
-	&nbsp;
-</div>
-				
-<!--include file="include/inside_ohiocom_hp_storypage.html" -->
-
-</div> <!-- end content -->
-			
-		</div> <!-- end wraper -->
-		
-	</div> <!-- end container -->
-	  
-	<!-- include file="include/container_bottom.html" -->
-	<div id="container-bottom">
-		<img src="http://media.ohio.com/designimages/container_bottom.gif" alt="" width="991" height="5">
-	</div> <!-- end container-bottom -->
-	
-			<!-- include file="include/site_footer.html" -->
-		<div id="footer">
-		
-		<div id="foot_left">
-			<div class="roundcont">
-				<div class="roundtop">
-					<img src="http://media.ohio.com/designimages/top_left_corner.gif" alt="" width="8" height="10" class="corner" style="display: none">
-				</div>
-				<span id="rc-logo"> 
-				<a href="http://www.thebeaconjournal.com/CBWebServer/index.html"><img src="http://media.ohio.com/images/subscribe_footer.gif" alt="Subscribe to the Beacon Journal" width="118" height="40" border="0"></a> 
-				</span>
-				<div class="roundbottom">
-					<img src="http://media.ohio.com/designimages/bottom_left_corner.gif" alt="" width="10" height="10" class="corner" style="display: none">
-				</div>
-			</div>
-		</div> 
-		<!-- end foot_left -->
-		<div id="foot_right">
-			<div class="roundcont">
-				<div class="roundtop">
-					<img src="http://media.ohio.com/designimages/top_left_corner.gif" alt="" width="8" height="10" class="corner" style="display: none">
-				</div>
-				<div id="foot_links">
-					<a href="http://classifieds.ohio.com">
-						Classifieds
-					</a>
-					|
-					<a href="http://www.ohio.com/about/contact.html">
-						Contact Us/Feedback 
-					</a>
-					<br> <br> 
-					<a href="http://www.ohio.com/about">
-						About Ohio.com 
-					</a>
-					| 
-					<a href="http://www.ohio.com/about/advertise.html">
-						Advertise 
-					</a>
-					| 
-					<a href="http://www.ohio.com/about/terms.html#yahooads">
-						About Our Ads
-					</a>
-					| 
-					<a href="http://www.ohio.com/about/terms.html">
-						Terms of Use &amp; Privacy Statement
-					</a>
-					| 
-					<a href="http://www.ohio.com/about/copyright.html">
-						Copyright
-					</a>
-				</div> <!-- end foot_links -->
-				<div id="foot_logo">
-					<a href="http://www.ohio.com/"><img src="http://media.ohio.com/designimages/footer_logo.gif" alt="Ohio.com Logo" width="137" height="40" border="0"></a>
-				</div> <!-- end foot_logo -->
-				<div class="clear-both">
-				</div>
-				<div class="roundbottom">
-					<img src="http://media.ohio.com/designimages/bottom_left_corner.gif" alt="" width="10" height="10" class="corner" style="display: none">
-				</div>
-			</div>
-		</div> 
-		<!-- end foot_right -->
-		<div class="clear-both">
-			&nbsp; 
-		</div>
-			<div align="center">
-			©2010 The Akron Beacon Journal • 44 E. Exchange Street, Akron, Ohio 44308<br><br>
-			<a href="http://www.sanctuarymg.com" target="_blank">Website design</a> by Sanctuary Media Group
-		</div>
-		<div class="clear-both">
-			&nbsp; 
-		</div>
-	</div>
-	<!-- end footer -->
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2010298-10");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script> 
-<script type="text/javascript" charset="utf-8">
-			var notLoggedIn = getElementsByClassName("not-logged-in");
-			var loggedIn = getElementsByClassName("logged-in");
-			if (readCookie("username")){
-				for (i=0;i<loggedIn.length;i++) {
-					loggedIn[i].style.display = "inline";
-				};
-				for (i=0;i<notLoggedIn.length;i++) {
-					notLoggedIn[i].style.display = "none";
-				};
-			} else {
-				for (i=0;i<loggedIn.length;i++) {
-					loggedIn[i].style.display = "none";
-				};
-				for (i=0;i<notLoggedIn.length;i++) {
-					notLoggedIn[i].style.display = "inline";
-				};
-			}
 </script>
+	<div id="dp-mobile-menu">
+<i id="close-mobile-menu" class="icon-times-circle"></i>
+<div class="mobile-menu-inner">
+<ul class="menu dp_normal aside-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6726 root"><div class="item-container"><a href="http://www.gatehousemedia.com/"><div class="menu-title">Home</div></a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6763 root"><div class="item-container"><a href="http://www.gatehousemedia.com/about-us/"><div class="menu-title">About Us</div></a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6762 root"><div class="item-container"><a href="http://www.gatehousemedia.com/our-markets/"><div class="menu-title">Our Markets</div></a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6761 root"><div class="item-container"><a href="http://www.gatehousemedia.com/commercial-services/"><div class="menu-title">Commercial Services</div></a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6760 root"><div class="item-container"><a href="http://www.gatehousemedia.com/careers/"><div class="menu-title">Careers</div></a></div></li>
+</ul></div>
+</div>
+</div>
+			
+<div id="dp-dynamic-sidebar">
+<i id="close-dynamic-sidebar" class="icon-times-circle"></i>
+<div class="inner-wrap">
+<div id="text-1" class="box widget_text">			<div class="textwidget"><p>Blend elementum consequat lacus, sit amet pulvinar urna hendrerit sit amet. Sed aliquam eu ante a ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce elementum felis lorem, eget scelerisque enim blandit quis.</p>
+<p>Massa turpis ornare nec commodo non, auctor vel  cursus vestibulum varius hendrerit turpis quiseam cursus.</p></div>
+		</div></div>
 
-
+</div>
+        			<script type="text/javascript">function showhide_toggle(a,b,d,f){var e=jQuery("#"+a+"-link-"+b),c=jQuery("a",e),g=jQuery("#"+a+"-content-"+b);a=jQuery("#"+a+"-toggle-"+b);e.toggleClass("sh-show sh-hide");g.toggleClass("sh-show sh-hide").toggle();"true"===c.attr("aria-expanded")?c.attr("aria-expanded","false"):c.attr("aria-expanded","true");a.text()===d?a.text(f):a.text(d)};</script>
+	<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.gatehousemedia.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/widgets/tabs.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/common_scipts.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/jquery.isotope.min.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/jquery.tipsy.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/owl.carousel.min.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/selectFix.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/dp.menu.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-content/themes/dp_blend/js/frontend.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://cdn-corp.gatehousemedia.com/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
 
 
 </body></html>
