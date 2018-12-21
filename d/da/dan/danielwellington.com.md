@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielwellington.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630104819id_/https%3A//www.danielwellington.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielwellington.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221221109id_/https%3A//www.danielwellington.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -36,4 +36,4 @@ You can disable any already stored cookies on your computer by changing your bro
 
 Our Privacy Policy may change from time to time, all updates will be posted on this page.
 
-_The text was last updated 29 / 3 - 2018  _
+_The text was last updated 5 / 10 - 2018  _
