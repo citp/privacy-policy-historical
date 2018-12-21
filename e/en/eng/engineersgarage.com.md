@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630120653id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221231217id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of EngineersGarage | EngineersGarage
 
@@ -20,9 +20,11 @@ Users may visit our Site anonymously and refuse to provide information except th
 
 - **Non-personal identification** information which may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
+We work hard to protect our site and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold.However, transmission via the Internet is not completely secure and we cannot guarante and shall not be responsible in any form for the security/protection of your information stored with us.
+
  **2.** **Content**
 
-The content provided on this website is only for the purpose of reference, education and personal use. If you are using our content for reference, you should acknowledge us by putting a link of our website [www.engineersgarage.com](http://www.engineersgarage.com/) under suitable heading. The content should not be used in any form for any commercial purpose without prior permission from us. Although the content posted in EG Labs section is well researched and experimented before posting, however EngineersGarage bears no responsibility in any form for the failures that may arise. EngineersGarage does not bear any responsibility in any form for the content posted by its users.
+The content provided on this website is only for the purpose of reference, education and personal use. If you are using our content for reference, you should acknowledge us by putting a link of our website [www.engineersgarage.com](http://www.engineersgarage.com/) under suitable heading. The content should not be used in any form for any commercial purpose without prior permission from us. Although the content posted in EG Labs section is well researched and experimented before posting, however EngineersGarage bears no responsibility in any form for the failures that may arise. EngineersGarage does not bear any responsibility in any form for the content posted by its users. You are solely responsible for checking the accuracy of relevant facts, figures, opinions and comments given on the site. EngineersGarage shall not be responsible in any form for the inaccurate data, information, opinions and comments etc. available on the site in any form.
 
 3 **. Web browser cookies**
 
@@ -58,27 +60,19 @@ Under the GDPR (General Data Protection Regulation) policies with which we compl
 
  **-** Users may object to their use of their data as it relates to automatic processing without human intervention and consequences that have legal bearing on the User.
 
-6 **. Your Choices**
+-We respect your privacy rights and whenever you use our website we ensure that you have reasonable  access to your personal information. If you wish to access or change any personal data we hold about you, or to request that we delete any information about you, you may contact us as set forth in the “Contact Us” section.or mailing us . At your request, we will have any reference to you deleted or blocked in our database.
 
- **Access, Correction, Deletion.**
+6 **. How we protect your information**
 
-We respect your privacy rights and whenever you use our website we ensure that you have reasonable  access to your personal information. If you wish to access or change any personal data we hold about you, or to request that we delete any information about you, you may contact us as set forth in the “Contact Us” section.or mailing us . At your request, we will have any reference to you deleted or blocked in our database.
+We take reasonable care for data collection, storage and security to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. However, transmission via the Internet is not completely secure so we cannot guarante and shall not be responsible for the security of your information collected through our Service.
 
-7 **. How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. However, transmission via the Internet is not completely secure and we cannot guarantee the security of your information collected through our Service.
-
-8 **. Sharing your personal information**
+7 **. Sharing your personal information**
 
 We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have not 
 
 opted-out of these services.
 
-9 **.** **Information security**
-
-We work hard to protect our site and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold.
-
-10 **. Third party websites, Email Newsletters,Surveys, Design Contests, Webinars & Industry White Papers**
+8 **. Third party websites, Email Newsletters,Surveys, Design Contests, Webinars & Industry White Papers**
 
  **-Advertisers**
 
@@ -102,10 +96,10 @@ If a user has opted-in our data list , they will receive emails about company ne
 
 If a user registers for Design Contest, Webinar or an Industry white paper, the User acknowledges that their contact information will be shared with the sponsoring company, as stated on the respective registration page.
 
- **11\. International transfer of data**
+ **9\. International transfer of data**
 
 We are based out of India and if you are visting the site from outside India, any data that you submit with us may be transferred within India or to other countries where data protection law is not strict. However we will ensure that all the data will be governed under this privacy policy.
 
- **12\. CHANGES TO THIS PRIVACY POLICY**
+ **10\. CHANGES TO THIS PRIVACY POLICY**
 
 We reserve the rights to makes changes and reissue this privacy policy and any changes will be effective immediately. If you continue using our website /services even after the changes indicates your consent. If you do not agree to the terms under privacy policy you can discontinue using our services.
