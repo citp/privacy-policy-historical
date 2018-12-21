@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630001919id_/https%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221131007id_/https%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Alienware Arena
 
@@ -17,6 +17,7 @@ We collect the following personal information from you: a) Contact information s
   * If you wish to participate in events, contests or sweepstakes, you will be required to provide certain personal information for us to perform our contractual obligations and may be asked, at your option, to provide additional information which may be distributed to sponsors and affiliates. In addition, we will collect the entries (which may also include play brackets, images/videos submitted as part of the entry, etc.) and results of the event, contest or sweepstakes (final placing, winning entries, etc.), and incorporate them into the Site for viewing by other users.
   * If you participate in an event managed and administered by a third-party organizer, your personal information will be provided to such organizer only in order to operate the event and publicly report the results. If you don't want your personal information provided to an organizer, then do not participate in such third-party events.
   * When signing in through the Steam OpenID provider, users will be authenticated using their 64-bit SteamID.  If you choose to link your Alienware Arena account with Steam, a link will be added to your Steam profile page and a button on your Alienware Arena profile page to message a Steam member.
+  * When you participate in a Challenge as part of Alienware Academy, your SteamID will be passed to a third party to track, report and administer the Challenges.  
   * When you opt in to receive the Alienware Arena newsletter, you will receive Alienware Arena marketing communications.  You may unsubscribe at any time by clicking unsubscribe at the bottom of the email or by updating your preferences on your Alienware Arena account profile. 
 
 
@@ -132,6 +133,6 @@ iGames provides services globally and the computer systems on which iGames colle
 
 You can contact us in writing or by email at the address below:
 
-iGames, Inc. 2420 E Old Penitentiary Road, Boise, ID 83712
+iGames, Inc. 2242 E. Riverwalk Drive, Suite 200, Boise, Idaho 83706 
 
 [privacy@igamesinc.com](mailto:privacy@igamesinc.com)
