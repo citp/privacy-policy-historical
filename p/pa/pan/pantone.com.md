@@ -1,100 +1,95 @@
-> *The following text is extracted and transformed from the pantone.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426113140id_/https%3A//www.pantone.com/pages/pantone.aspx%3Fpg%3D19355%26ca%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantone.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221175759id_/https%3A//www.pantone.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Graphics - Privacy Policy
+# About Us - Privacy Policy - Summary | Pantone
 
-This privacy policy (the " **Policy** ") discloses the privacy practices for this Web site (the " **Site** "). For purposes of this Policy, the terms " **we** ," " **us** " " **our** " and " **Pantone** " shall mean Pantone, Inc., and its wholly owned subsidiaries, the term " **you** " shall mean you as a user of this Site. By accessing this Site, you consent to our collection and use of your personal information as described in this Policy. Pantone may amend this Policy from time to time, at any time, without prior notice to you. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on the Site three days prior to taking effect.
+**Effective 8 November 2018**
 
-This Policy applies to this Site only and does not apply to Web sites of other entities which link to this Site and/or to which we link. You should carefully review those Web sites’ privacy policies in order to determine how they treat your personal information.
+This Online Privacy Policy (“Privacy Policy”) explains how Pantone LLC and its Pantone-branded affiliates (“Pantone”) handle Personal Data provided to us on websites, mobile sites, mobile applications, and other digital services and products controlled by Pantone that link to this Privacy Policy (collectively, “Pantone Sites”). Pantone is the data controller for the processing of Personal Data under applicable law.
 
-**Collection, Use and Retention of Information**   
-When you visit the Site, we collect two types of information: (1) **personal information** about you which you choose to disclose, and (2) **non-personal information** about your visit to the Site that is collected on an aggregate basis as you browse this Site.
+This Privacy Policy does not apply to Pantone Sites that do not link to this Privacy Policy or to third-party websites to which the Pantone Sites may link.
 
-**1\. Personal Information and the ways we use it**
+### Summary
 
-**A. Generally  
-**We use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our existing and prospective customers. You can choose not to provide certain personal information, but then you might not be able to take advantage of many of our features. We may also use the information we collect to notify you from time to time about important changes to this Site, new services and special offers which we believe may be of interest to you. If you wish to be unsubscribed and do not wish to receive future updates and special offers, click on the link below and you will be automatically removed from our list. [http://www.pantone.com/unsubscribe](https://web.archive.org/pages/pantone/pantone.aspx?ca=12&pg=19859&)
+This summary section provides a brief overview of our Privacy Policy. Please read the [full Privacy Policy](https://web.archive.org/privacy-policy-full) for more detailed information. 
 
-**B. Credit Card Information  
-**If you choose to purchase products or services from Pantone, you may be required to provide personal information and authorization to obtain information from various credit services. For example, you may need to provide us with your name; mailing address; E-mail address; credit card number; home and/or business phone number; other personal information (e.g., mother’s maiden name). 
+  * Information We Collect
+  * How We Use Your Information
+  * Information We Share
+  * Your Privacy Choices
+  * Security
+  * Accessing Our Sites Globally
+  * Changes to Our Privacy Policy
 
-**C. E-mail  
-**If you choose to correspond with us through e-mail, we may retain the content of your E-mail and our response so that we can more efficiently handle any follow-up questions you may have. From time to time, Pantone may use your personal information to contact you by electronic mail concerning your use of our services. These communications are either to confirm orders placed with us, to inform you of important information regarding your account, or about general services provided by Pantone. If you do not want to receive E-mail from us, please so notify Pantone in writing or you may do so automatically on our [UNSUBSCRIBE](https://web.archive.org/pages/pantone/pantone.aspx?ca=12&pg=19859&) Web page. (Please note that if you elect not to receive E-mail from us, you will still receive order confirmations, as well as notices concerning changes to this Policy or other legal notices.)
 
-**D. Online Greeting Cards  
-**If you choose to send an online greeting card using our Site, we collect your E-mail address and your recipient’s E-mail address to allow sending the content and providing confirmation that it has been received. We will not use your recipient’s E-mail address other than to send the greeting card. Our online greeting contents are treated as private correspondence between the sender and the recipient. We will not disclose the contents of any online greeting including your personal message other than to the intended recipient, except under the specific situations outlined in the Paragraph titled "Exceptions" below. Generally, we will not monitor or edit the content of the greetings you send. We may occasionally need to view your message for technical processing purposes or the maintenance of our network. Additionally, if you require our customer service representatives’ assistance in sending a greeting or verifying that a greeting was sent, that representative will be able to access all information about the card, including the recipient’s E-mail address and the personal message. 
 
-**E. Online Surveys  
-**The information you provide to Pantone via online surveys and promotions on the Site will be used for internal marketing purposes, including for the development of new services and information and, in certain instances, aggregate results of online surveys (without individual identification) will be also shared with the participants of the surveys. 
+#### Information We Collect
 
-**F. myPANTONE    
-**myPANTONE.    myPANTONE is an online service that allows users to enrich their color experience.  myPANTONE members can set up unique personal profiles that can be linked together.  myPANTONE members can post and view each others' color palettes, communicate with other members, share color palettes, post comments, and describe their color interests.  (Note that the creation and uploading of palettes require the use of Pantone’s myPANTONE™ palette Software).  To enrich our members' experience, we request and display some personal information to other members and non-member, which allows our users to identify each other and expand their network.  myPANTONE members can change their profile information at any time and can control who their User Profile is viewed by; it can be set to private, public or to be viewed by specified users only. 
+Pantone collects the following types of information through the Pantone Sites: 
 
-myPANTONE collects user submitted information such as name, e-mail address, and age to authenticate users and to send notifications to those users relating to the myPANTONE service. myPANTONE also collects other profile data including but not limited to: personal interests, gender, education and occupation in order to assist users in finding and communicating with each other.
+  * **Information you provide.** Personal Data you provide when registering for our products and services, responding to questionnaires or surveys, or contacting Pantone customer service.
+  * **Information collected automatically**. Your IP address and non-identifying information about your use of Pantone Sites may be collected automatically using tracking technologies, such as cookies. Your website browser software can be set to reject all cookies; however, cookies can allow you to take advantage of some of the site’s essential features, which may not work if you reject cookies.
+  * **Information collected from other sources.** We may combine information about you from Pantone Sites, information collected offline, or from external parties.
 
-User Profile information including members' pictures (optional) and “handle”, or first names if provided, are displayed to the public to enhance interaction in the myPANTONE community. E-mail addresses are used to invite friends to join myPANTONE. Except as described above, a user's e-mail address is not shared or displayed to people. 
 
-We may also use a user's e-mail address to send updates, a newsletter or news regarding our service. Users may choose not to receive e-mail of this type by changing their "notification" setting to “Do not contact me” in their User Profile (my account/edit profile).
 
-**Invitations and Other Communications to Non-members**  
-myPANTONE members can invite friends to join the service by sending invitation e-mails via our automated invitation system. myPANTONE stores the e-mail addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations.  myPANTONE does not sell these e-mail addresses or use them to send any other communication besides invitations and reminders (up to three (3) per e-mail address). Recipients of invitations from myPANTONE may contact myPANTONE to request the removal of their information from our database. 
+#### How We Use Your Information
 
-**Commenting on other member Palettes or posting on your own User Profile**   
-Please be aware that whenever you voluntarily post public information via a comment on other member palettes or when posting on your own User Profile that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. 
+Pantone uses the information we collect for the following purposes:
 
-**Correcting/Updating or Removing Information**  
-myPANTONE users may modify or remove (if not required) any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info. 
+  * To provide you with the Pantone products and services you request.
+  * To offer and provide information about similar and/or related products and services.
+  * To customize and improve your experience on Pantone Sites.
+  * To generally improve our products and Pantone Sites and other internal business purposes. 
+  * To notify and report to authorities under our legal obligations.
 
-**E-mail Choice/Opt-out**   
-Members who no longer wish to receive updates or notifications may choose not to by selecting 'Do not send me notification e-mails' in the User Profile (my account/edit profile).  Users who do not wish to receive myPANTONE newsletters may choose not to by selecting “Do not send me myPANTONE newsletters” in the User Profile (my account/edit profile). All notification e-mails and myPANTONE newsletters also include the above instructions for opting-out of those communications in the future. 
 
-  **2\. Web Site Use Information**   
-Similar to other commercial Web sites, this Site utilizes a standard technology called "cookies" and Web server logs to collect information about how this Site is used.
 
-**A. What are Cookies and how we use them  
-**"Cookies" are small pieces of data that are stored by a user’s Web browser on the user’s hard drive and allow Web servers to recognize the computer used to access a Web site. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the Site, and the Web sites visited just before and just after this Site. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
+Under European data protection laws, Pantone must have a legal basis to process your Personal Data. The legal basis that applies in a particular instance will depend on the specific purposes described above for which Pantone is processing your Personal Data: 
 
-We use Web site browser software tools such as cookies and Web server logs to gather information about this Site users’ browsing activities in order to constantly improve this Site and better serve our customers. This information assists us to design and arrange our Web pages in a user-friendly manner and to continually improve this Site to better meet the needs of our existing and prospective customers. We do not use these technologies to capture your individual E-mail address or any personally identifying information about you, although they do permit us to send focused online banner advertisements or other such responses to you. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Note, however, that if you choose not to accept cookies, you may not be able to use certain features on this Site, such as favorites, history and you will be unable to use the Pantone online ordering process (shopping cart).
+  * In certain instances, Pantone may ask for your consent to collect and process your Personal Data. Should you choose to provide your consent, you may later withdraw your consent by contacting us as described in the “Your Privacy Choices” section. Please note that the withdrawal of consent will not affect processing which has already occurred. 
+  * In other instances, the processing of your Personal Data may be necessary in order to comply with an applicable law or regulation or for the performance of a contract to which you are subject. You may not be able to opt out of this processing, or your choice to opt out may impact our ability to perform a contractual obligation otherwise owed to you. 
+  * In yet other instances, Pantone may process your Personal Data based on Pantone’s legitimate interests in communicating with you about our products and services, and about scientific research and educational opportunities. You have the right to opt out of all such processing of your Personal Data. You may do so by contacting us as described in the “Your Privacy Choices” section. 
 
-**B. Cookies used by Third Party Advertisers  
-**Our ads may be posted on the Internet by third-party advertisers. These third-party advertisers may also use cookies to assess and improve the effectiveness of ads for their clients. They may use anonymous information about your visits to this Site and other Web sites. Such information can include, date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes. Pantone does not use or have access to this information.
 
-**3\. Disclosure of Information**
 
-**A. Generally  
-**We may provide aggregate information about our customers, sales, Site traffic patterns and related Site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Policy.
+Processing operations may include the recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal Data. The Personal Data we collect about you may be stored for ten years following the most recent interaction we have had with you, after which point it will be archived only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws.
 
-**B. Sharing Information with Agents; Service Providers  
-**We engage other companies and individuals to perform functions on our behalf. Examples include sending postal mail and E-mail to you, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. We also engage other companies and individuals to perform enhanced services on our behalf. These persons have access to personal information needed to perform their functions/services. 
+#### Information We Share
 
-**C. Sharing Information with Strategic Partners  
-**We may occasionally enter into strategic marketing alliances or partnerships with third parties who have been screened for this purpose, who may be given access to personal information including your name, address, telephone number and E-mail address for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information and we will not share information regarding your social security number or other personal financial data. If you wish to be UNSUBSCRIBED and do not wish your personal information to be delivered to our Strategic Partners, click on the link below and you will be automatically removed from our list.   
-[http://www.pantone.com/unsubscribe](http://pantone.com/unsubscribe)
+Pantone does not sell or disclose your Personal Data to third parties without your consent, except: 
 
-**D. Business Transfers**  
-As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that all or substantially all of Pantone’s assets are acquired, customer information will of course be one of the transferred assets. 
+  * To affiliates and third-party service providers to provide services and information on our sites, including online marketing and advertising, and to support our business operations. We require these parties to handle Personal Data in accordance with this Privacy Policy.
+  * To affiliates to offer and provide information about related products and services. We do not share Personal Data from countries that require consent, unless consent has been obtained in advance of sharing with affiliates. We require these parties to handle your Personal Data in accordance with this Privacy Policy.
+  * To our distribution channel partners in connection with the sale and distribution of our products and services. We require these parties to handle your Personal Data in accordance with this Privacy Policy.
+  * To another company in connection with the sale or transfer of one of our product lines or divisions, which includes the services provided through one or more of Pantone’s affiliates.
+  * To governing regulatory authorities or as may otherwise be necessary for Pantone to comply with a legal obligation or demand.
 
-**E. Sharing Information with Third Parties  
-**From time to time, you may notice offers from outside companies advertised on this Site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot and do not make any representations about the practices and policies of these companies.
 
-**F. Exceptions  
-**Nothing in the above policies shall be deemed to prevent us from disclosing your personal information to appropriate third parties when we are legally compelled to do so or if we believe in good faith that such disclosure is necessary to inter alia (i) comply with legal process, (ii) protect Pantone’s legal rights and/or property, (iii) investigate information regarding usage of a false E-mail address to send materials through this Site or protect against harassing, threatening, or abusive messages (iv) protect from fraud and credit risk and (v) protect against misuse or unauthorized use of this Site including its content.
 
-**4\. How We Secure Information Transmissions**
+In the event Pantone decides to reorganize or divest our business through sale, merger, or acquisition, Pantone may share Personal Data about you with actual or prospective purchasers. We will require any actual or prospective purchasers to treat this Personal Data in a manner consistent with this Privacy Policy.
 
-**A. Information Security  
-**We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your username and password and to your computer. Be sure to sign off when finished using a shared computer. 
+You can find all our [affiliates here](http://www.danaher.com/our-businesses/business-directory).
 
-**B. Employee Access, Training and Expectations  
-**Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
+#### Your Privacy Choices
 
-**5\. Other Web Sites Linked to this Site  
-**We are not responsible for the practices employed by Web sites linked to or from this Site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of this Site.
+You have the right to see and get a copy of the Personal Data about you that we maintain as well as to ask us to make corrections to inaccurate or incomplete Personal Data about you. You have the right to receive data that you have provided to us in a machine-readable format and to transmit that data to another controller. You may also request the erasure of your Personal Data or the restriction of its processing, or object to the processing of Personal Data about you. To seek access to Personal Data about you, to file a concern, complaint, or request for correction, or to opt out of particular programs, please contact our Privacy Leader by clicking on the “Contact Us” link on the Pantone Site you are using, by using the Pantone contact information on the Pantone mobile application you are using, or by e-mailing us at [privacy@pantone.com](mailto:privacy@pantone.com). You may also send a letter to the following address:
 
-Please remember that when you use a link to go from this Site to another Web site, our Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link to this Site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+Pantone  
+Privacy Leader  
+590 Commerce Boulevard  
+Carlstadt, NJ 07072  
+USA
 
-**6\. Children’s Privacy  
-**This Site is not intended for the use of children. We do not knowingly market to, or solicit data from, children. If you are under 18, you may use this Site only with involvement of a parent or guardian. 
+Your local Data Protection Authority is responsible for making sure that applicable privacy laws are followed in your locality. For more information about your privacy rights, or if you are not able to resolve a problem directly with us and wish to make a complaint, please contact your local Data Protection Authority.
 
-If you have any concern about privacy at this Site, please send us a thorough description to the Site and we will try to resolve it. Our business changes constantly. Our Policy will likely change also, and use of information that we gather now is subject to the Policy in effect at the time of use. We may E-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check this Site frequently to see recent changes.
+#### Security
 
-For further information on terms governing use of this Site, see Pantone’s [Terms of Use](http://pantone.com/pages/pantone/pantone.aspx?ca=10&pg=19309&).
+Pantone maintains controls to protect and secure Personal Data, but when you share Personal Data online there is always some risk that an unauthorized third party could gain access to your information.
+
+#### Accessing Our Sites Globally
+
+By using this site, you understand that your Personal Data will be collected, stored, and processed in the United States and in any country to which we may transfer your information in the course of our business operations. Pantone may transmit Personal Data about you to affiliates worldwide. These affiliates may in turn transmit Personal Data about you to other affiliates. Some affiliates may be in countries that do not ensure an adequate level of data protection. Nevertheless, all affiliates are required to treat Personal Data in a manner consistent with this Privacy Policy. To obtain additional information regarding the safeguards we have in place for cross-border transfers of Personal Data, please contact us using the information provided in the “Your Privacy Choices” section.
+
+#### Changes to Our Privacy Policy
+
+Check this Privacy Policy regularly, as we may change or update portions of this Privacy Policy from time to time, subject to any applicable consent requirements. Any changes will be promptly posted to this page and accompanied by a new effective date at the top of this page.
