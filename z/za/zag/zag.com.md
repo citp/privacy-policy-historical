@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zag.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630053210id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zag.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221180404id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.*
 
 # TrueCar
 
@@ -89,7 +89,7 @@ For example, you can choose not to access our Sites through your social media ac
 
 Your browser and your device may provide you the option to limit the use of cookies or other Metrics Tools. You should consult documentation for your browser or device for more information. Your mobile device may have settings that allow you to prevent sharing geolocation information with us. You should consult your mobile device’s settings or help documentation for more information about exercising these options.
 
-TrueCar uses Google Analytics, which helps TrueCar better understand its audience and target communications and advertisements based on demographic or interest-based information. You may learn more about opting out of certain Google advertising initiatives here and here. You may also be able to opt out of certain targeted behavioral advertising via the Network Advertising Initiative’s opt-out.
+TrueCar uses Google Analytics, which helps TrueCar better understand its audience and target communications and advertisements based on demographic or interest-based information. You may learn more about opting out of certain Google advertising initiatives [here](https://support.google.com/ads/answer/2662922?hl=en) and [here](https://tools.google.com/dlpage/gaoptout/). You may also be able to [opt out](http://optout.networkadvertising.org/?c=1#!/) of certain targeted behavioral advertising via the Network Advertising Initiative’s opt-out.
 
 Please note that you may still receive advertising even after opting out, but that advertising may not be tailored to you or your interests.
 
@@ -115,7 +115,7 @@ When we make material changes to this Notice, we will update this web page and c
  **10\. How Can TrueCar be Contacted Regarding Privacy Issues?**  
 You can contact us with questions or comments about our privacy practices or this Notice by emailing us at [privacy@truecar.com](mailto:privacy@truecar.com) or you can contact us at:
 
-TrueCar, Inc.  
+TrueCar Inc.  
 120 Broadway, Suite 200  
 Santa Monica, CA 90401  
-888-TrueCar
+1-888-TRUECAR
