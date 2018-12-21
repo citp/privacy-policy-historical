@@ -1,14 +1,33 @@
-> *The following text is extracted and transformed from the mindful.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624163915id_/https%3A//www.mindful.org/privacy-policy-mindful-magazine-and-mindful-org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindful.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221031203id_/https%3A//www.mindful.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Mindful magazine and mindful.org - Mindful
 
-Mindful is the voice of the emerging mindfulness community. We’re the place to go for insight, information, and inspiration to help us all live more mindfully. Mindful.org and its subdomains (store.mindful.org; learn.mindful.org; etc.) are published by the Foundation for a Mindful Society (“Mindful”), located at 228 Park Avenue South #91043,  New York, NY 10003-1502. The Foundation also makes the same or similar content available to mobile users through apps available to users of Apple’s iPad, (as well as in our print publication Mindful Magazine). This policy sets out our commitment to you regarding how we may collect and use your information. These policies apply across mindful.org and its subdomains (e.g., store.mindful.org; learn.mindful.org; etc.). Please read our privacy policy carefully to understand how we collect, use, protect or otherwise handle your information.
+Mindful respects our users and their privacy. The purpose of this Privacy Policy is to inform you about the following:    
+ 
 
-## **Information that we collect**
+  * What we do with the data collected
+  * For what purposes we will use it
+  * How long we keep it
+  * With whom we share it, and 
+  * Under what terms
 
-When you provide us with contact or other information in connection with a particular activity, product or service, including your email address or telephone number, you expressly consent to our communicating with you about our products or services using the information you provided to us. You also attest that you have the legal authority over any telephone number or email address you provide to us and can provide us with the authorization to contact you. 
 
-## **How do we use your information?**
+
+## Welcome to Mindful
+
+Mindful is the voice of the emerging mindfulness community. We’re the place to go for insight, information, and inspiration to help us all live more mindfully. Mindful.org, its subdomains and other Mindful properties are published by the Foundation for a Mindful Society (“Mindful”), located at 228 Park Avenue South #91043, New York, NY 10003-1502. The Foundation also makes the same or similar content available to mobile users through our Mindful Magazine app, in our print publication Mindful Magazine, and Mindful online courses. 
+
+  
+This policy sets out our commitment to you regarding how we may collect and use your information. These policies apply across Mindful properties, including mindful.org, its subdomains and other digital properties. Please read our privacy policy carefully to understand how we collect, use, protect or otherwise handle your information.
+
+## Information covered
+
+The Privacy Policy covers information users provide to us, including, but not limited to, name, email address, physical address, phone number, other personal information, content of messages and comments, and transactional information, including but not limited to, credit card and billing data. Information collected from users may include their site activity, access device, browser type, their location, IP address, pages visited, cookies, and other similar information.  
+
+
+## How Mindful uses your information
+
+We use the information covered to manage services provided by us or our licensees or affiliates, such as contacting users and for advertising and marketing purposes. We may share non-personally identifiable information, such as aggregated user statistics, with third parties.  We keep such information for only as long as needed for business operations and legal compliance.
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, browse the website, or use certain other site features in the following ways:
 
@@ -25,83 +44,84 @@ We may use the information we collect from you when you register, make a purchas
 
 
 
-## **How do we protect your information?**
+## How do we protect your information?
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-Your personal information is contained behind secured networks. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Mindful.org uses Hypertext Transfer Protocol Secure or HTTPS. HTTPS is the secure version of HTTP, the protocol over which data is sent between your browser and the website that you are connected to. The ‘S’ at the end of HTTPS stands for ‘Secure’, meaning all communications between your browser and the website are encrypted. Your personal information is also contained behind secured networks. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your information. All transactions are processed through a gateway provider and are not stored or processed on our servers.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your information. All transactions are processed through a secure PCI compliant gateway provider and are not stored or processed on our servers.
 
-## **Cookies**
+## Google Analytics
 
-Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We use cookies and Google Analytics’ 3rd-party audience data such as age, gender to:
 
-**We may use first (e.g., Google Analytics) and third (e.g., Google DoubleClick) party cookies to:**
-
-  * Understand and save user’s preferences for future visits
-  * Keep track of advertisements
+  * Better understand the behaviour of our customers
   * Compile aggregate data about site traffic and interactions to offer better site experiences and tools in the future
-  * We may also use trusted third-party services that track this information on our behalf
   * Help remember and process the items in your shopping cart
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser’s Help Menu to learn how to modify the way it treats cookies.
+## Cookies
 
-If you turn cookies off, some features will be disabled that make your user experience more efficient and some features may not function properly.
+Cookies are small pieces of information sent by a website to a user’s hard disk. Cookies cannot be used to run programs or deliver viruses to your computer. By continuing to visit our web and mobile sites, you agree to the placement of cookies on your device. If you choose not to accept our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. The use of cookies is widespread and benefits the user.
 
-## **Third-party disclosure**
+## Opting out of cookies/analytics tracking
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. To block 3rd-party cookies on Chrome browser, click on the main menu (the three dots that you see on the top-right of the browser) and select ‘Settings.’
+
+In the ‘Settings’ page, click on the ‘Content Settings’ option to open up the ‘Content Settings’ page. Then click on ‘Cookies’. This will take you to the ‘Cookies’ page where you can block or unblock 3rd-party cookies.
+
+Similarly, all the major browsers offer the option to block 3rd party tracking cookies to preserve your privacy. Since each browser is a little different, look at your browser’s Help Menu to learn how to modify the way it treats cookies.
+
+## Third-party disclosure
+
+We Comply with California Online Privacy Protection Act by:
+
+**A. Mindful.org and Other Mindful Digital Properties**
 
 We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties without your consent. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 We may disclose information in response to subpoenas, court orders, or other requests from jurisdictions inside or outside of the United States where we believe in good faith that the response is required under local laws of that jurisdiction, applies to users from that jurisdiction, and is consistent with generally accepted international practice.  We may also share information when we believe in good faith belief that it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service.
 
-## **Third-party links**
+**B. Mindful Magazine Subscribers**
+
+On occasion Mindful makes one-time use of names and mailing addresses of our print magazine subscribers located in the United States available to organizations whose products/services we feel will be of interest to our readers. If you would like your name excluded from all such mailings, contact [subscriber services](https://www.mindful.org/subscriber-services/#contact) by phone or by email. Note that we will never, under any circumstance, offer your email address to any third-party organization.
+
+## Third-party links
 
 We offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-## **Opting out**
-
-Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://www.google.com/settings/u/0/ads/authenticated). Alternatively, you can opt out by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/) opt out page or by using the [Google Analytics Opt Out Browser add on](https://tools.google.com/dlpage/gaoptout/).
-
-## **California Online Privacy Protection Act**
+## California Online Privacy Protection Act
 
 We Comply with California Online Privacy Protection Act by:
 
-  *      Letting users visit our site anonymously
-  *      Providing a link on our homepage to this Privacy Policy
-  *      Including the word ‘Privacy’ in the link to this policy which can be easily be found on the homepage
+  * Letting users visit our site anonymously
+  * Providing a link on our homepage to this Privacy Policy
+  * Including the word ‘Privacy’ in the link to this policy which can be easily be found on the homepage
+  * You will be notified of any Privacy Policy changes on this Privacy Policy page
 
 
 
-**You will be notified of any Privacy Policy changes on this Privacy Policy page**
+## Do Not Track signals
 
-## **You can change your personal information:**
+Third party browsers may provide “do not track” signals for websites which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive personalized ads. We do not respond to browser-based ‘do not track’ signals. You can learn more about do not track signals at <https://allaboutdnt.com/>.
 
-  *      By emailing us
-  *      By calling us
-
-
-
-## **Do Not Track signals**
-
-Third party browsers may provide “do not track” signals for websites which are automatically applied by default and therefore do not necessarily reflect our visitor’s choice as to whether they wish to receive personalized ads. We do not respond to browser-based ‘do not track’ signals. You can learn more about do not track signals at [https://allaboutdnt.com/](https://allaboutdnt.com/).
-
-## **Children Online Privacy Protection Act**
+## Children Online Privacy Protection Act
 
 We do not knowingly collect or store any personal information about children under the age of 13.
 
-## **If at any time you would like to unsubscribe from receiving future emails, you can:**
+## Contests and promotions
 
-  * Email us at [mindful@mindful.org](mailto:mindful@mindful.org) and we will promptly remove you from ALL correspondence
-  * Follow the instructions at the bottom of each email
+We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) through the site that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules such as on a winners list.
 
+## Changes to our Privacy Policy
 
+Mindful.org reserves the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Mindful.org will not, however, use your Personal Information without your consent in a manner materially different from what was stated at the time it was collected.
 
-## **Contacting Us**
+## Contacting us
 
-If you have questions regarding this privacy policy, you may contact us at:
+For questions or concerns about our privacy policy, or to request the removal of, or a change to, your personal information, contact us at:
 
 FOUNDATION FOR A MINDFUL SOCIETY  
 228 Park Avenue South #91043  
@@ -109,3 +129,5 @@ New York, NY 10003-1502
 
 Toll free in US and Canada: 1-855-420-9085  
 Email: [mindful@mindful.org](mailto:mindful@mindful.org)
+
+**Effective: May 25, 2018**
