@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanstedexpress.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630080544id_/https%3A//www.stanstedexpress.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedexpress.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221202236id_/https%3A//www.stanstedexpress.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Stansted Express
 
@@ -35,18 +35,18 @@ This Privacy Policy explains:
 
 
 
-**For the purposes of the General Data Protection Regulation Act 2018, the data controller is:  
-**  
+For the purposes of the General Data Protection Regulation Act 2018, the data controller is:  
+  
 Abellio East Anglia Limited  
 11th Floor  
 One Stratford Place  
 Montfitchet Road  
 London  
-E20 1 EJ **
+E20 1 EJ
 
-Our Data Protection Manager contact details (DPM) are:  
+Our Data Protection Manager contact details (DPM) are: 
 
-**Email: GDPR@greateranglia.co.uk
+Email: GDPR@greateranglia.co.uk
 
 Address: 
 
@@ -56,11 +56,11 @@ Colchester North Station
 North Station Road  
 Colchester  
 CO1 1JS  
-**
+
 
 Our nominated Group Data Protection Officer (DPO) is:
 
-** Data Protection Manager  
+Data Protection Manager  
 Abellio UK HQ  
 36 Renfield St  
 5th Floor, The Culzean Building  
@@ -97,10 +97,10 @@ Sometimes we obtain details from third parties, for example if our Group structu
 
 We will only use the information you provide as permitted by Data Protection Law (DPL). Our reason(s) for using your data will vary depending on: how you contact us, use our services, the consent you have given, our legitimate interests, or legal obligations we may have. Reasons for use of your data include:
 
-  * **To provide you with the service**  \- things like carrying out our obligations arising from any contracts - selling tickets, making and taking payments. We mostly rely on the legal ground of contractual performance to process your data, but sometimes the data is also used for our legitimate interests of customer service, health and safety, improving our services and other legal obligations, like providing information to our regulators
-  * **To provide you with details of our services, information about travelling and customer service**  \- this is based on our legitimate interests, to run train and associated services. Sometimes it is part of our contract or our other legal obligations
-  * **To provide you with details of promotions and offers**  which we feel may interest you; this is based on our legitimate interests to try and sell more train tickets when you have given consent for us to contact you and you have an absolute right to ask us to stop sending marketing emails/SMS
-  * **To run our services and improve them**  \- we believe in investing in our railway services, not just to benefit passengers but also the wider community, environment, and economy. There are lots of activities we do to achieve this, some are administrative and we also do things like monitoring passenger numbers, and popular stations, improving technology to help plan journeys - make money, run our services safely and be a good employer - we call these our legitimate interests. Some of these are also covered in our legal obligations, not just to customers, but under Franchise Contracts, the Department for Transport or Regulators. Some data is also shared to run interoperable services – in the Rail Industry this is overseen by the Rail Delivery Group - this is how you are able to use a ticket on a train and tube for example, or use a rail Discount card.
+  * To provide you with the service \- things like carrying out our obligations arising from any contracts - selling tickets, making and taking payments. We mostly rely on the legal ground of contractual performance to process your data, but sometimes the data is also used for our legitimate interests of customer service, health and safety, improving our services and other legal obligations, like providing information to our regulators
+  * To provide you with details of our services, information about travelling and customer service \- this is based on our legitimate interests, to run train and associated services. Sometimes it is part of our contract or our other legal obligations
+  * To provide you with details of promotions and offers which we feel may interest you; this is based on our legitimate interests to try and sell more train tickets when you have given consent for us to contact you and you have an absolute right to ask us to stop sending marketing emails/SMS
+  * To run our services and improve them \- we believe in investing in our railway services, not just to benefit passengers but also the wider community, environment, and economy. There are lots of activities we do to achieve this, some are administrative and we also do things like monitoring passenger numbers, and popular stations, improving technology to help plan journeys - make money, run our services safely and be a good employer - we call these our legitimate interests. Some of these are also covered in our legal obligations, not just to customers, but under Franchise Contracts, the Department for Transport or Regulators. Some data is also shared to run interoperable services – in the Rail Industry this is overseen by the Rail Delivery Group - this is how you are able to use a ticket on a train and tube for example, or use a rail Discount card.
   * For your safety and security.
   * For fraud and crime prevention.
   * To enhance your experience of our website, as described in our cookie policy.
@@ -181,7 +181,7 @@ We operate CCTV on some of the trains that we run.
 
 ### Length of time CCTV footage is kept
 
-CCTV footage at stations and on train is generally held for a  **maximum  **of 12 months from the time of recording.
+CCTV footage at stations and on train is generally held for a maximum of 12 months from the time of recording.
 
 Recordings from body worn cameras are generally held for 28 days, unless required for legitimate business reasons.
 
@@ -245,7 +245,7 @@ You may opt-in to receive newsletters, exclusive discounts, special offers and o
 
 Alternatively write to our Customer Relations Team:
 
-**Customer Relations:**
+Customer Relations:
 
 FREEPOST RSCZ-UXZJ-EHHE   
 Greater Anglia Contact Centre  
@@ -297,7 +297,7 @@ Some of the cookies are placed with the consent of AEA by third parties with the
 
 Access to our database containing personal information on registered users of the site is restricted. In order to increase security we ask you to input a password when you register as a user of the site. Please keep this password secret. In addition, we encrypt your financial information using SSL (Secure Sockets Layer) technology so that no one else can access your credit card details as they travel through the Internet. SSL is certified by Verisign and is recognised as a secure way to pay on-line. As you may be aware, no data transmission over the Internet can be entirely secure. As a result, while we will always use reasonable endeavours to protect the personal information you provide to us, we cannot guarantee the security of your information and the use of our facilities (e.g. e-mail) is at your own risk. If you have any questions about paying for your ticket through the Site, please contact Customer Relations.
 
-**Advertising cookies**
+Advertising cookies
 
 Our website is supported by advertising. Advertising cookies, often placed by third parties, are used to track visitors across different websites. This helps us offer relevant and engaging advertisements during your visit to our website. Our advertising technology is provided by Google and you can choose to opt-out of interest based advertising using Google’s Ads Settings (<https://www.google.com/settings/u/0/ads/authenticated>). You can also control interest based advertising and learn more by visiting Your Online Choices (<http://www.youronlinechoices.com/uk/your-ad-choices>) and About Ads ([http://optout.aboutads.info](http://www.youronlinechoices.com/uk/your-ad-choices)). 
 
@@ -575,4 +575,4 @@ We may also keep your personal data for the purposes of our legitimate interests
 
 We may revise this Privacy Policy from time to time. The most current version of this policy will govern use of your information and will always be on our website. By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-**This Policy was last updated on 4th May 2018**
+This Policy was last updated on 4th May 2018
