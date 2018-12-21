@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303172546id_/http%3A//www.ruggable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221053823id_/https%3A//ruggable.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Kitchen Rugs Washable - Large Area Rugs | Privacy Policy
+# Privacy Policy – Ruggable
 
-PLEASE NOTE that our privacy policy has changed, effective January 1, 2015.
+PLEASE NOTE that our privacy policy has changed, effective March 1, 2016.
 
-Product Bliss, LLC and its affiliates (collectively, “us”, “our” or “we”), own and operate the RUGGABLE® 2-peice rug system brand.  Product Bliss collects customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting our website, or providing your information to us, you are accepting the practices described in this privacy policy.
+Product Bliss, LLC and its affiliates (collectively, “us”, “our” or “we”), own and operate the RUGGABLE® 2-piece rug system brand.  Product Bliss collects customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting our website, or providing your information to us, you are accepting the practices described in this privacy policy.
 
 **Personal information we collect about you**
 
@@ -38,7 +38,7 @@ Product Bliss works with reputable third parties who perform services on our beh
 
 **Marketing email communications**
 
-If you do not wish to receive Product Bliss marketing emails or promotions, you may opt out by clicking on the unsubscribe link found at the bottom of all Product Bliss marketing emails, or you may email [contactus@ruggable.com](mailto:contactus@ruggable.com) with “remove” in the subject line. Be sure to send the email from the address you want removed. Please be aware that it can take up to 10 business days to remove you from our marketing email lists.
+If you do not wish to receive Product Bliss marketing emails or promotions, you may opt out by clicking on the unsubscribe link found at the bottom of all Product Bliss marketing emails, or you may email [contactus@ruggable.com](mailto:contactus@ruggable.com) with “remove” in the subject line. Be sure to send the email from the address you want removed. Please be aware that it can take up to 10 business days to remove you from our marketing email lists.
 
 **Links to other sites**
 
@@ -60,16 +60,16 @@ We do not currently accept international orders, but if you are visiting Ruggabl
 
 **Your California rights**
 
-Product Bliss collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Product Bliss who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: Ruggable, 2 Piece Rug System Customer Relations 832 Coastal Beach Road, Henderson, NV 89002.  Alternatively, you may send us an email at [contactus@ruggable.com](mailto:contactus@ruggable.com) with the words "California Privacy Rights" in the subject line.
+Product Bliss collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Product Bliss who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: Ruggable Customer Relations 4950 Santa Fe Avenue, Vernon, CA  90058.  Alternatively, you may send us an email at [contactus@ruggable.com](mailto:contactus@ruggable.com) with the words "California Privacy Rights" in the subject line.
 
 **Privacy policy updates  **
 
 We may update our privacy policy from time to time. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If we make a material change to our privacy policy that would lessen your privacy rights, we will either continue to honor our prior policy for information that we collected when it was in force, or we will ask for your consent to the change. If you have any questions or concerns regarding our privacy policy, please contact us:
 
-  * By email:  [contactus@ruggable.com](mailto:contactus@jcrew.com)
-  * By phone: 877-RUGGABLE (877-784-4225)
-  * By mail:    Ruggable, 2 Piece Rug System Customer Relations, 832 Coastal Beach Road, Henderson, NV 89002
+    * By email:  contactus@ruggable.com
+    * By phone: 877-RUGGABLE (877-784-4225)
+    * By mail:  Ruggable Customer Relations 4950 S Santa Fe Avenue, Vernon, CA  90058
 
 
 
-Effective as of January 1, 2015.
+Effective as of March 1, 2016.
