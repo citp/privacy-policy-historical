@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625104925id_/https%3A//www.globalprivacy.astrazeneca.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221015301id_/https%3A//www.globalprivacy.astrazeneca.com) for the most accurate reproduction.*
 
 # AZGlobalPrivacy
 
@@ -8,7 +8,7 @@ _Who is Responsible for Your Personal Data_
 
 In this Privacy Notice, “AstraZeneca’’, ‘’We’’, ‘’Us’’ and ‘’Our’’ refers to the AstraZeneca [group companies](https://www.astrazeneca.com/global/en/global.html).
 
-We determine the purposes and manner in which your personal data is collected, used and/or disclosed and managed in line with AstraZeneca’s [internal global privacy standards](https://www.astrazeneca.com/content/dam/az/PDF/Data_Privacy_Policy_v30.pdf)
+We determine the purposes and manner in which your personal data is collected, used and/or disclosed and managed in line with AstraZeneca’s [internal global privacy standards](https://www.astrazeneca.com/content/dam/az/PDF/2018/Data_Privacy_Policy_v30.pdf)
 
 AstraZeneca takes the privacy and security of your personal data very seriously. This Privacy Notice outlines what personal data We may collect about you and how we may use it.
 
@@ -64,7 +64,7 @@ _How We Protect Your Information_
 
 We have in place appropriate privacy and security policies which are intended to ensure, as far as reasonably possible, the security and integrity of all Our information, including your personal data.
 
-More information on how AstraZeneca complies with its data privacy obligations can be found in our [internal global privacy standards](https://www.astrazeneca.com/content/dam/az/PDF/Data_Privacy_Policy_v30.pdf).
+More information on how AstraZeneca complies with its data privacy obligations can be found in our [internal global privacy standards](https://www.astrazeneca.com/content/dam/az/PDF/2018/Data_Privacy_Policy_v30.pdf).
 
 _What are Your Rights_
 
@@ -74,7 +74,7 @@ AstraZeneca has assigned a data protection officer responsible for overseeing As
 
 _Opting Out Of Further Communications From Us_
 
-If you have elected to receive information about Our products or services, or those of other AstraZeneca companies and wish to opt-out of receiving such information, then you can do so by sending an email to [informationrequest@astrazeneca.com](mailto:informationrequest@astrazeneca.com). You should clearly state on all communications: your name, username (if any), registration details (if any) and the name of this website.
+If you have elected to receive information about Our products or services, or those of other AstraZeneca companies and wish to opt-out of receiving such information, then you can do so by sending an email to [privacyrequests@astrazeneca.com](mailto:privacyrequests@astrazeneca.com). You should clearly state on all communications: your name, username (if any), registration details (if any) and the name of this website.
 
 Last updated January 2018
 
