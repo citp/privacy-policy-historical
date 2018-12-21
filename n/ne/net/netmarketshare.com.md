@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmarketshare.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626081338id_/https%3A//netmarketshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmarketshare.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221023000id_/https%3A//netmarketshare.com/privacy) for the most accurate reproduction.*
 
 # Login
 
@@ -59,7 +59,7 @@ Every new subscriber has the option of not receiving site news and special promo
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [support@netapplications.com](https://web.archive.org/web/20180626081338id_/https%3A//netmarketshare.com/support@netapplications.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [support@netapplications.com](https://web.archive.org/web/20181221023000id_/https%3A//netmarketshare.com/support@netapplications.com)
 
   
 
