@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toughnickel.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630002644id_/https%3A//toughnickel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toughnickel.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221131726id_/https%3A//toughnickel.com/privacy-policy) for the most accurate reproduction.*
 
 # HubPages Network Privacy Policy | ToughNickel
 
@@ -84,7 +84,7 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 
 ## 10\. Contact Information
 
-Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to HubPages c/o WeWork (Floor 8 - Room #802) 995 Market San Francisco, CA 94103, USA.
 
 If you are an end user whose use of the website is covered by the GDPR regulations, this section applies to you, and in the event of any inconsistency between this section and the remainder of the Privacy Policy and or the [Terms of Use](https://web.archive.org/user-agreement), this section shall control for you as it relates to GDPR.
 
@@ -132,7 +132,7 @@ Your rights under the GDPR can be viewed [here](https://ec.europa.eu/info/law/la
 
 You may access the consent dialogue tool and update/remove your consents by clicking here
 
-Beyond consent management, please submit GDPR-related data rights or other requests via email to: [GDPR@hubpages.com](mailto:gdpr@hubpages.com)
+Beyond consent management, please submit GDPR-related data rights or other requests via email to: [DPO@hubpages.com](mailto:dpo@hubpages.com)
 
 The Data Controller is HubPages, Inc. You may contact HubPages at: [Team@hubpages.com](mailto:team@hubpages.com)
 
