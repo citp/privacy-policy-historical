@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gionee.co.in privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019054135id_/http%3A//gionee.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gionee.co.in privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221044647id_/http%3A//gionee.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Policy - Gionee.co.in
+# Privacy Policy | Gionee
 
 The following information describes how Gionee would collect and use your personal information to provide services that you request or when you choose to provide us with your personal information.
 
