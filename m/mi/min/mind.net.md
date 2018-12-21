@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mind.net privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614024837id_/http%3A//infostructure.net/documents/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mind.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221031536id_/http%3A//infostructure.net/documents/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Scope
 
