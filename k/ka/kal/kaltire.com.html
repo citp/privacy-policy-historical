@@ -1,63 +1,18 @@
-<!--The following is the downloaded HTML source of the kaltire.com privacy policy that was archived on 2018-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180212171252id_/http%3A//www.kaltire.com/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaltire.com privacy policy that was archived on 2018-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221143753id_/https%3A//www.kaltire.com/en/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <meta charset="UTF-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-
 <title>Privacy Policy</title>
-
-<link href="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/dwd4488d8b/images/favicon.png" rel="shortcut icon">
+<link href="/on/demandware.static/Sites-Kaltire-Site/-/default/dwd4488d8b/images/favicon.png" rel="shortcut icon">
 <meta name="description" content="Kal Tire Information and Privacy Policy Details">
 <meta name="keywords" content="privacy policy, data policy, personal information">
-
-
-<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/css/fonts.css">
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/css/fonts.css">
 <!--[if lt IE 9]>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/js/lib/html5.js"></script>
 <![endif]-->
 <script type="text/javascript" async="" src="//us-tracker.inside-graph.com/gtm/IN-1000478-2/include.js"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -73,7 +28,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -119,27 +80,44 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
 
-<!-- UI -->
-
-<!-- Kaltire CSS -->
-<link rel="stylesheet" href="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/css/app.css">
-
+<link rel="stylesheet" href="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/css/app.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
-
 <meta name="google-site-verification" content="vNyK94kG0EUpdbEOzwVb9hNkWK9FYIIFU5_JJqJSr4U">
-
-
-
-
-
 <script type="text/javascript">
 if (window.jQuery) {
 jQuery(document).ready(function(){
@@ -161,96 +139,30 @@ window.location.reload();
 });
 }
 </script>
-
-
-
-
-
-
-
 <link rel="canonical" href="https://www.kaltire.com/en/privacy-policy.html">
-
 </head>
 <body>
 <div id="wrapper" class="pt_content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="header-banner">
-
-	 
-
-
-	
-
 <div id="helloBarContainer" class="hello-bar fullbleed">
-
-
-<p>Tire Specials On Now</p>&nbsp;<a class="hellobar button" href="http://www.kaltire.com/en/promotionstires/">Learn More<span class="hide-for-medium">&nbsp;›</span></a>
-
-
+<p>NEW! Book your winter tire change online.</p>&nbsp;<a class="hellobar button" href="/en/WINTER-TIRE-CHANGES/">BOOK NOW<span class="hide-for-medium">&nbsp;›</span></a>
 <i id="helloBarClose" class="fa fa-times"></i>
 </div>
- 
-	
 </div>
-
 <div class="header-nav fullbleed show-for-medium">
 <div class="row atroot" data-hide-for="large">
 <div class="small-12 columns">
 <div id="mainNavActionsWrapper" class="float-right">
 <ul id="headerNavActions">
-<li><a href="http://www.kaltire.com/en/contact-us.html">Contact Us</a></li>
-
-
+<li><a href="https://www.kaltire.com/en/contact-us.html">Contact Us</a></li>
 <li>
-
 <a href="https://www.kaltire.com/en/orders/" title="Sign in"><i class="icon-myaccount hide-for-medium"></i> Sign in</a>
-
 </li>
-
 <li id="headerNavLocationWrapper">
 <i class="icon-location"></i>
 <div id="locationChangeTriggerWrapper">
 <span>Location:</span>&nbsp;
-<a id="headerNavLocationCTA" href="" data-latitude="39.0481" data-longitude="-77.4728">Ashburn<span><i class="fa fa-pencil" aria-hidden="true"></i></span></a>
+<a id="headerNavLocationCTA" href="" data-latitude="37.751" data-longitude="-97.822">Please Enter Your Location<span><i class="fa fa-pencil" aria-hidden="true"></i></span></a>
 </div>
 <div id="locationChangeFormWrapper">
 <input id="locationChangeInput" data-url="/on/demandware.store/Sites-Kaltire-Site/default/Stores-FindNearestStore" type="text" size="50" placeholder="City or Postal Code" autocomplete="off">
@@ -258,22 +170,14 @@ window.location.reload();
 <input type="submit" name="Sumbit" class="hide">
 </div>
 </li>
-
-
-
-
-
 <input type="hidden" data-cart-total="null" id="cartTotal">
-
-<input type="hidden" data-customerdataobj="{&quot;city&quot;:&quot;SIMCOE&quot;,&quot;postalCode&quot;:&quot;N3Y 4L2&quot;}" id="customerdataobj">
-
+<input type="hidden" data-customerdataobj="{&quot;city&quot;:&quot;STEINBACH&quot;,&quot;postalCode&quot;:&quot;R5G 1X7&quot;}" id="customerdataobj">
 </ul>
 <ul class="mainNavActions hide-for-large">
 <li class="headerSearchWrapper">
-    <a class="searchFormTrigger" href=""><i class="icon-search"></i></a>
-    <div class="header-search">
-        
-<form role="search" action="http://www.kaltire.com/en/search/" method="get" name="simpleSearch">
+<a class="searchFormTrigger" href=""><i class="icon-search"></i></a>
+<div class="header-search">
+<form role="search" action="https://www.kaltire.com/en/search/" method="get" name="simpleSearch">
 <fieldset>
 <label class="visually-hidden" for="q">Search Catalog</label>
 <input class="seachFormInput" type="text" id="q" name="q" value="" placeholder="Search...">
@@ -283,70 +187,18 @@ window.location.reload();
 </fieldset>
 </form>
 <div class="search-suggestions" style="display: none;"></div>
-
-    </div>
+</div>
 </li>
 <li>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Report any requested source code -->
-
-<!-- Report the active source code -->
-
 
 
 <div class="mini-cart">
-
 <a class="mini-cart-link mini-cart-empty hide-for-small-only" href="https://www.kaltire.com/en/cart/" title="View Cart">
 <i class="icon-cart"></i>
 </a>
-
 </div>
-
 </li>
 <li><a id="mainNavLiveChatCTA" class="openLiveChatButton"><i class="icon-livechat"></i> <span class="show-for-large">Chat Now</span></a></li>
-
 </ul>
 </div>
 </div>
@@ -357,84 +209,25 @@ window.location.reload();
 <div class="small-12 columns" id="mainNavWrapper">
 <div class="title-bar" data-responsive-toggle="mainMenuWrapper" data-hide-for="medium">
 <div id="mobileMenuLogoWrapper">
-<a href="http://www.kaltire.com/en/home/">
+<a href="https://www.kaltire.com/en/home/">
 
-
-
-
-
-
-<!-- dwMarker="content" dwContentID="614a2e4f1a7c0e3e00836f894c" -->
-<img class="header-logo-image" data-interchange="[http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, small], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, medium], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, large], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, retina]">
-<!-- End content-asset -->
-
-
-
-
+<img class="header-logo-image" data-interchange="[https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, small], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, medium], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, large], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, retina]">
 
 </a>
 </div>
 <div id="mobileMenuTriggerWrapper">
 <ul>
-<li><a href="http://www.kaltire.com/en/locations/"><i class="icon-location"></i></a></li>
+<li><a href="https://www.kaltire.com/en/locations/"><i class="icon-location"></i></a></li>
 <li class="headerSearchWrapper">
 <a class="mobileSearchFormTrigger" href=""><i class="icon-search"></i></a>
 </li>
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Report any requested source code -->
-
-<!-- Report the active source code -->
-
-
-
 <div class="mini-cart">
-
 <a class="mini-cart-link mini-cart-empty hide-for-small-only" href="https://www.kaltire.com/en/cart/" title="View Cart">
 <i class="icon-cart"></i>
 </a>
-
 </div>
 </li>
 <li>
@@ -452,8 +245,7 @@ window.location.reload();
 </div>
 <div id="mobileSearchWrapper" class="clearfix">
 <div class="header-search hide-for-medium">
-
-<form role="search" action="http://www.kaltire.com/en/search/" method="get" name="simpleSearch">
+<form role="search" action="https://www.kaltire.com/en/search/" method="get" name="simpleSearch">
 <fieldset>
 <label class="visually-hidden" for="q">Search Catalog</label>
 <input class="seachFormInput" type="text" id="q" name="q" value="" placeholder="Search...">
@@ -463,327 +255,246 @@ window.location.reload();
 </fieldset>
 </form>
 <div class="search-suggestions" style="display: none;"></div>
-
 </div>
 </div>
 </div>
 <div class="top-bar" id="mainMenuWrapper">
 <div class="top-bar-left show-for-medium">
-<a href="http://www.kaltire.com/en/home/">
+<a href="https://www.kaltire.com/en/home/">
 
-
-
-
-
-
-<!-- dwMarker="content" dwContentID="614a2e4f1a7c0e3e00836f894c" -->
-<img class="header-logo-image" data-interchange="[http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, small], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, medium], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, large], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, retina]">
-<!-- End content-asset -->
-
-
-
-
+<img class="header-logo-image" data-interchange="[https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, small], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, medium], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, large], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, retina]">
 
 </a>
 </div>
 <div class="top-bar-right">
-
-	 
-
-
-	
-
-
-
-<ul id="mainNav" class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown" data-multi-open="false">
-    <li class="mega-menu">
-        <!-- small root menu item -->
-        <div class="mobile-menu-item-link hide-for-medium">
-            <a class="l1MenuItem content-custom-btn" href="http://www.kaltire.com/en/car-suv-and-truck-tires/"><span>Tires</span></a>
-        </div>
-
-        <!-- medium and up root menu item -->
-        <a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="tires-menu-wrapper" href="http://www.kaltire.com/en/car-suv-and-truck-tires/"><span>Tires</span></a>
-        
-        <!-- mobile root menu item arrow indicator -->
-        <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="tires-menu-wrapper" href="">&nbsp;</a>
-
-        <!-- small root menu item -->
-        <ul class="small-vertical menu hide-for-medium">
-            <li>
-                <div class="mobile-menu-wrapper">
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/">SHOP</a></h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tires-by-vehicle/">By Vehicle</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tires-by-size/">By Size</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tire-brands/">By Brand</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">Promotions</a></li>
-                    </ul>
-
-                    <h5>EXPLORE</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tire-brands/">Brands</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/car-tires/">Passenger Car Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/truck-and-suv-tires/">Truck &amp; SUV Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/specialty-tires/">Specialty Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-testing/">Kal's Tire Testing</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-accessories/">Tire Accessories</a></li>
-                        
-                    </ul>
-
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/customer-care-plan/">CUSTOMER CARE PLAN</a></h5>
-                    <ul>
-                        <li><peace of="" mind.="" free="" with="" every="" tire="" purchased.<="" li="">
-                    </peace></li></ul>
-                </div>
-            </li>
-        </ul>
-
-        <!-- medium and up mega menu -->
-        <div class="mega dropdown-pane bottom show-for-medium" id="tires-menu-wrapper" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25">
-            <div class="row" data-equilizer-watch="">
-                <div class="medium-3 columns links-type" data-equilizer="">
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/">SHOP</a></h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tires-by-vehicle/">By Vehicle</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tires-by-size/">By Size</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tire-brands/">By Brand</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">Promotions</a></li>
-                    </ul>
-                </div>
-                <div class="medium-3 columns links-type" data-equilizer="">
-                    <h5>Explore</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tire-brands/">Brands</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/car-tires/">Passenger Car Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/truck-and-suv-tires/">Truck &amp; SUV Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/specialty-tires/">Specialty Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-testing/">Kal's Tire Testing</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-accessories/">Tire Accessories</a></li>
-                    </ul>
-                </div>
-                <div class="medium-3 columns editorial-type" data-equilizer="">
-                    <a class="inactive content-custom-btn" href="javascript:void(0);"><img data-interchange="(http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dwc765ab43/demoimages/kt_demo_image_2.jpg, small), (http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dwc765ab43/demoimages/kt_demo_image_2.jpg, medium), (http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dwc765ab43/demoimages/kt_demo_image_2.jpg, large)"></a>
-                    <h5>CUSTOMER CARE PLAN</h5>
-                    <p>Peace of mind. Free with every tire purchased.
-                    <a class="content-custom-btn" href="http://www.kaltire.com/en/customer-care-plan/">Learn More.</a></p>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li class="mega-menu">
-
-        <!-- small root menu item -->
-        <div class="mobile-menu-item-link hide-for-medium">
-            <a class="l1MenuItem content-custom-btn" href="http://www.kaltire.com/en/car-suv-and-truck-wheels/"><span>Wheels</span></a>
-        </div>
-        
-        <!-- medium and up root menu item -->
-        <a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="wheels-menu-wrapper" href="http://www.kaltire.com/en/car-suv-and-truck-wheels/"><span>Wheels</span></a>
-        
-        <!-- mobile root menu item arrow indicator -->
-        <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="wheels-menu-wrapper" href="">&nbsp;</a>
-
-        <!-- small root sub-menu item -->
-        <ul class="small-vertical menu hide-for-medium">
-            <li>
-                <div class="mobile-menu-wrapper">
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/">SHOP</a></h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheels-by-vehicle/">By Vehicle</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheels-by-size/">By Size</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheel-brands/">By Brand</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionswheels/">Promotions</a></li>
-                    </ul>
-
-                    <h5>EXPLORE</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheel-brands/">Brands</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/car-wheels/">Car &amp; Mini-Van Wheels</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/truck-and-suv-wheels/">Truck &amp; SUV Wheels</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/content-search/?fdid=%27winter-wheels">Winter Wheels</a></li>
-                    </ul>
-
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-warranty/">WHEEL WARRANTY</a></h5>
-                    <ul>
-                        <li>Learn more about our free wheel warranty.</li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
-
-        <!-- medium and up mega menu -->
-        <div class="mega dropdown-pane bottom show-for-medium" id="wheels-menu-wrapper" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25">
-            <div class="row" data-equilizer-watch="">
-                <div class="medium-3 columns links-type" data-equilizer="">
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/">SHOP</a></h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheels-by-vehicle/">By Vehicle</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheels-by-size/">By Size</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheel-brands/">By Brand</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionswheels/">Promotions</a></li>
-                    </ul>
-                </div>
-                <div class="medium-3 columns links-type" data-equilizer="">
-                    <h5>EXPLORE</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/wheel-brands/">Brands</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/car-wheels/">Car &amp; Mini-Van Wheels</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/truck-and-suv-wheels/">Truck &amp; SUV Wheels</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/winter-wheels/">Winter Wheels</a></li>
-
-                    </ul>
-                </div>
-                <div class="medium-3 columns editorial-type" data-equilizer="">
-                    <a class="inactive content-custom-btn" href="javascript:void(0);"><img data-interchange="(http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dwe0ec90c0/homepage/wheel warranty@2x.png, small), (http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dwe0ec90c0/homepage/wheel warranty@2x.png, medium), (http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dwe0ec90c0/homepage/wheel warranty@2x.png, large)"></a>
-                    <h5>WHEEL WARRANTY</h5>
-                    <p>Learn more about our free wheel warranty.
-                    <a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-warranty/">Learn More.</a></p>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li class="mega-menu">
-
-        <!-- small root menu item -->
-        <div class="mobile-menu-item-link hide-for-medium">
-            <a class="l1MenuItem content-custom-btn" href="http://www.kaltire.com/en/content-search/?fdid=%09servicesLanding"><span>Services</span></a>
-        </div>
-        
-        <!-- medium and up root menu item -->
-        <a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="services-menu-wrapper" href="http://www.kaltire.com/en/tire-and-mechanical-services/"><span>Services</span></a>
-        
-        <!-- mobile root menu item arrow indicator -->
-        <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="services-menu-wrapper" href="">&nbsp;</a>
-
-        <!-- small root sub-menu item -->
-        <ul class="small-vertical menu hide-for-medium">
-            <li>
-                <div class="mobile-menu-wrapper">
-                    <h5>TIRE SERVICES</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/seasonal-changeover-and-swaps/">Winter Tire Changeover</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/flat-tire-repair/">Flat Tire Repair</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-storage/">Kal's Tire Lodge</a></li>
-                     </ul>
-
-                    <h5>MECHANICAL</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-alignment/">Wheel Alignment</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/brakes/">Brakes</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/steering-and-suspension/">Steering &amp; Suspension</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/oil-change/">Oil Change</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wiper-blades/">Wiper Blades</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/car-battery/">Vehicle Batteries</a></li>
-                    </ul>
-
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionsservices/">Promotions</a></h5>
-                    <ul>
-                        <li><a class="inactive content-custom-btn" href="javascript:void(0);"></a></li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
-
-        <!-- medium and up mega menu -->
-        <div class="mega dropdown-pane bottom show-for-medium" id="services-menu-wrapper" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25">
-            <div class="row" data-equilizer-watch="">
-                <div class="medium-3 columns links-type" data-equilizer="">
-                    <h5><a class="inactive content-custom-btn" href="javascript:void(0);">TIRE SERVICES</a></h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/seasonal-changeover-and-swaps/">Winter Tire Changeover</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/flat-tire-repair/">Flat Tire Repair</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-storage/">Kal's Tire Lodge</a></li>
-                        
-                    </ul>
-                </div>
-                <div class="medium-3 columns links-type" data-equilizer="">
-                    <h5>MECHANICAL</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-alignment/">Wheel Alignment</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/brakes/">Brakes</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/steering-and-suspension/">Steering &amp; Suspension</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/oil-change/">Oil Change</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wiper-blades/">Wiper Blades</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/car-battery/">Vehicle Batteries</a></li>
-                    </ul>
-                </div>
-                <div class="medium-3 columns editorial-type" data-equilizer="">
-                <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionsservices/">PROMOTIONS</a></h5>
-
-                </div>
-            </div>
-        </div>
-    </li>
-    <li><a class="l1MenuItem content-custom-btn" href="http://www.kaltire.com/en/locations/"><span>Locations</span></a></li>
-    <li class="mega-menu">
-
-        <!-- small root menu item -->
-        <div class="mobile-menu-item-link hide-for-medium">
-            <a class="l1MenuItem content-custom-btn" href="http://www.kaltire.com/en/promotionstires/"><span>PROMOTIONS</span></a>
-        </div>
-        
-        <!-- medium and up root menu item -->
-        <a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="promotions-menu-wrapper" href="http://www.kaltire.com/en/promotionstires/"><span>PROMOTIONS</span></a>
-        
-        <!-- mobile root menu item arrow indicator -->
-        <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="promotions-menu-wrapper" href="">&nbsp;</a>
-
-        <!-- small root sub-menu item -->
-        <ul class="small-vertical menu hide-for-medium">
-            <li>
-                <div class="mobile-menu-wrapper">
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">SPECIAL OFFERS</a></h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionswheels/">Wheels</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionsservices/">Services</a></li>
-                    </ul>
-
-                    <h5>FEATURE DEAL</h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">Save with Kal Tire's Monthly Specials. Learn More.</a></li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
-
-        <!-- medium and up mega menu -->
-        <div class="mega dropdown-pane bottom show-for-medium" id="promotions-menu-wrapper" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25">
-            <div class="row" data-equilizer-watch="">
-                <div class="medium-3 columns links-type" data-equilizer="">
-                    <h5><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">SPECIAL OFFERS</a></h5>
-                    <ul>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">Tires</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionswheels/">Wheels</a></li>
-                        <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionsservices/">Services</a></li>
-                    </ul>
-                </div>
-                <div class="medium-3 columns editorial-type" data-equilizer="">
-                </div>
-                <div class="medium-3 columns editorial-type" data-equilizer="">
-                    <a class="inactive content-custom-btn" href="javascript:void(0);"><img data-interchange="(http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw9aa30651/contentblocks/feature-deal-promo-block.jpg, small), (http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw9aa30651/contentblocks/feature-deal-promo-block.jpg, medium), (http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw9aa30651/contentblocks/feature-deal-promo-block.jpg, large)"></a>
-                    <h5>FEATURE DEAL</h5>
-                    <p>Save with Kal Tire's Monthly Specials.
-                    <a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">Learn More.</a></p>
-                </div>
-            </div>
-        </div>
-    </li>
+<ul class="vertical medium-horizontal menu" data-multi-open="false" data-responsive-menu="accordion medium-dropdown" id="mainNav">
+<li class="mega-menu">
+<div class="mobile-menu-item-link hide-for-medium"><a class="l1MenuItem content-custom-btn" href="https://www.kaltire.com/en/car-suv-and-truck-tires/"><span>Tires</span></a></div>
+<a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="tires-menu-wrapper" href="https://www.kaltire.com/en/car-suv-and-truck-tires/"><span>Tires</span></a>  <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="tires-menu-wrapper" href="">&nbsp;</a> 
+<ul class="small-vertical menu hide-for-medium">
+<li>
+<div class="mobile-menu-wrapper">
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/">SHOP</a></h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tires-by-vehicle/">By Vehicle</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tires-by-size/">By Size</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tire-brands/">By Brand</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionstires/">Promotions</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/financing/">Purchase Financing</a></li>
+</ul>
+<h5>EXPLORE</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tire-brands/">Brands</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/car-tires/">Passenger Car Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/truck-and-suv-tires/">Truck &amp; SUV Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/specialty-tires/">Specialty Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-testing/">Kal's Tire Testing</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-accessories/">Tire Accessories</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/customer-care-plan/">Customer Care Plan</a></li>
+</ul>
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/winter-tire-changes/">ONLINE APPOINTMENT BOOKINGS</a></h5>
+<ul>
+<li><peace every="" free="" li="" mind.="" of="" tire="" with=""> </peace></li>
+</ul>
+</div>
+</li>
 </ul>
 
- 
-	
+<div class="mega dropdown-pane bottom show-for-medium" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25" id="tires-menu-wrapper">
+<div class="row" data-equilizer-watch="">
+<div class="medium-3 columns links-type" data-equilizer="">
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/">SHOP</a></h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tires-by-vehicle/">By Vehicle</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tires-by-size/">By Size</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tire-brands/">By Brand</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionstires/">Promotions</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/financing/">Purchase Financing</a></li>
+</ul>
+</div>
+<div class="medium-3 columns links-type" data-equilizer="">
+<h5>Explore</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tire-brands/">Brands</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/car-tires/">Passenger Car Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/truck-and-suv-tires/">Truck &amp; SUV Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/specialty-tires/">Specialty Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-testing/">Kal's Tire Testing</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-accessories/">Tire Accessories</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/customer-care-plan/">Customer Care Plan</a></li>
+</ul>
+</div>
+<div class="medium-3 columns editorial-type" data-equilizer=""><a class="inactive content-custom-btn" href="javascript:void(0);"><img alt="" data-interchange="(https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dwc765ab43/demoimages/kt_demo_image_2.jpg, small), (https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dwc765ab43/demoimages/kt_demo_image_2.jpg, medium), (https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dwc765ab43/demoimages/kt_demo_image_2.jpg, large)" src="null"></a>
+<h5>ONLINE APPOINTMENT BOOKINGS</h5>
+<p>NEW! You can now book your winter tire change appointment online. <a class="content-custom-btn" href="https://www.kaltire.com/en/winter-tire-changes/">Learn More.</a></p>
+</div>
+</div>
+</div>
+</li>
+<li class="mega-menu">
+<div class="mobile-menu-item-link hide-for-medium"><a class="l1MenuItem content-custom-btn" href="https://www.kaltire.com/en/car-suv-and-truck-wheels/"><span>Wheels</span></a></div>
+<a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="wheels-menu-wrapper" href="https://www.kaltire.com/en/car-suv-and-truck-wheels/"><span>Wheels</span></a>  <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="wheels-menu-wrapper" href="">&nbsp;</a> 
+<ul class="small-vertical menu hide-for-medium">
+<li>
+<div class="mobile-menu-wrapper">
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/">SHOP</a></h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheels-by-vehicle/">By Vehicle</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheels-by-size/">By Size</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheel-brands/">By Brand</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionswheels/">Promotions</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/financing/">Purchase Financing</a></li>
+</ul>
+<h5>EXPLORE</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheel-brands/">Brands</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/car-wheels/">Car &amp; Mini-Van Wheels</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/truck-and-suv-wheels/">Truck &amp; SUV Wheels</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/winter-wheels/">Winter Wheels</a></li>
+</ul>
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-warranty/">WHEEL WARRANTY</a></h5>
+<ul>
+<li>Learn more about our free wheel warranty.</li>
+</ul>
+</div>
+</li>
+</ul>
+
+<div class="mega dropdown-pane bottom show-for-medium" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25" id="wheels-menu-wrapper">
+<div class="row" data-equilizer-watch="">
+<div class="medium-3 columns links-type" data-equilizer="">
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/">SHOP</a></h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheels-by-vehicle/">By Vehicle</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheels-by-size/">By Size</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheel-brands/">By Brand</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionswheels/">Promotions</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/financing/">Purchase Financing</a></li>
+</ul>
+</div>
+<div class="medium-3 columns links-type" data-equilizer="">
+<h5>EXPLORE</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/wheel-brands/">Brands</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/car-wheels/">Car &amp; Mini-Van Wheels</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/truck-and-suv-wheels/">Truck &amp; SUV Wheels</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/winter-wheels/">Winter Wheels</a></li>
+</ul>
+</div>
+<div class="medium-3 columns editorial-type" data-equilizer=""><a class="inactive content-custom-btn" href="javascript:void(0);"><img alt="" data-interchange="(https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dwe0ec90c0/homepage/wheel warranty@2x.png, small), (https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dwe0ec90c0/homepage/wheel warranty@2x.png, medium), (https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dwe0ec90c0/homepage/wheel warranty@2x.png, large)" src="null"></a>
+<h5>WHEEL WARRANTY</h5>
+<p>Learn more about our free wheel warranty. <a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-warranty/">Learn More.</a></p>
+</div>
+</div>
+</div>
+</li>
+<li class="mega-menu">
+<div class="mobile-menu-item-link hide-for-medium"><a class="l1MenuItem content-custom-btn" href="https://www.kaltire.com/en/content-search/?fdid=%20%20%20servicesLanding"><span>Services</span></a></div>
+<a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="services-menu-wrapper" href="https://www.kaltire.com/en/tire-and-mechanical-services/"><span>Services</span></a>  <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="services-menu-wrapper" href="">&nbsp;</a> 
+<ul class="small-vertical menu hide-for-medium">
+<li>
+<div class="mobile-menu-wrapper">
+<h5>TIRE SERVICES</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/winter-tire-changes/">Winter Tire Change</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/flat-tire-repair/">Flat Tire Repair</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-storage/">Kal's Tire Lodge</a></li>
+</ul>
+<h5>MECHANICAL</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-alignment/">Wheel Alignment</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/brakes/">Brakes</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/steering-and-suspension/">Steering &amp; Suspension</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/oil-change/">Oil Change</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wiper-blades/">Wiper Blades</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/car-battery/">Vehicle Batteries</a></li>
+</ul>
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionsservices/">Promotions</a></h5>
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+</li>
+</ul>
+
+<div class="mega dropdown-pane bottom show-for-medium" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25" id="services-menu-wrapper">
+<div class="row" data-equilizer-watch="">
+<div class="medium-3 columns links-type" data-equilizer="">
+<h5><a class="inactive content-custom-btn" href="javascript:void(0);">TIRE SERVICES</a></h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/winter-tire-changes/">Winter Tire Change</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/flat-tire-repair/">Flat Tire Repair</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-storage/">Kal's Tire Lodge</a></li>
+</ul>
+</div>
+<div class="medium-3 columns links-type" data-equilizer="">
+<h5>MECHANICAL</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-alignment/">Wheel Alignment</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/brakes/">Brakes</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/steering-and-suspension/">Steering &amp; Suspension</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/oil-change/">Oil Change</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wiper-blades/">Wiper Blades</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/car-battery/">Vehicle Batteries</a></li>
+</ul>
+</div>
+<div class="medium-3 columns editorial-type" data-equilizer="">
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionsservices/">PROMOTIONS</a></h5>
+</div>
+</div>
+</div>
+</li>
+<li><a class="l1MenuItem content-custom-btn" href="https://www.kaltire.com/en/locations/"><span>Locations</span></a></li>
+<li class="mega-menu">
+<div class="mobile-menu-item-link hide-for-medium"><a class="l1MenuItem content-custom-btn" href="https://www.kaltire.com/en/promotionstires/"><span>PROMOTIONS</span></a></div>
+<a class="l1MenuItem show-for-medium content-custom-btn" data-toggle="promotions-menu-wrapper" href="https://www.kaltire.com/en/promotionstires/"><span>PROMOTIONS</span></a>  <a class="mobile-submenu-trigger hide-for-medium content-custom-btn" data-toggle="promotions-menu-wrapper" href="">&nbsp;</a> 
+<ul class="small-vertical menu hide-for-medium">
+<li>
+<div class="mobile-menu-wrapper">
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionstires/">SPECIAL OFFERS</a></h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionstires/">Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionswheels/">Wheels</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionsservices/">Services</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/financing/">Purchase Financing</a></li>
+</ul>
+<h5>PRICE MATCH</h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/search/?cgid=price-match">We’ll match any eligible passenger or light truck tire price. Learn More.</a></li>
+</ul>
+</div>
+</li>
+</ul>
+
+<div class="mega dropdown-pane bottom show-for-medium" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true; vOffset:25" id="promotions-menu-wrapper">
+<div class="row" data-equilizer-watch="">
+<div class="medium-3 columns links-type" data-equilizer="">
+<h5><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionstires/">SPECIAL OFFERS</a></h5>
+<ul>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionstires/">Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionswheels/">Wheels</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionsservices/">Services</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/financing/">Purchase Financing</a></li>
+</ul>
+</div>
+<div class="medium-3 columns editorial-type" data-equilizer="">&nbsp;</div>
+<div class="medium-3 columns editorial-type" data-equilizer=""><a class="inactive content-custom-btn" href="javascript:void(0);"><img alt="" data-interchange="(https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw8f3f4d62/contentblocks/price-match-promo-block.jpg, small), (https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw8f3f4d62/contentblocks/price-match-promo-block.jpg, medium), (https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw8f3f4d62/contentblocks/price-match-promo-block.jpg, large)" src="null"></a>
+<h5>PRICE MATCH</h5>
+<p>We’ll match any eligible passenger or light truck tire price. <a class="content-custom-btn" href="https://www.kaltire.com/en/price-match/">Learn More.</a></p>
+</div>
+</div>
+</div>
+</li>
+</ul>
 <ul class="mainNavActions show-for-large">
 <li class="headerSearchWrapper">
-    <a class="searchFormTrigger" href=""><i class="icon-search"></i></a>
-    <div class="header-search">
-        
-<form role="search" action="http://www.kaltire.com/en/search/" method="get" name="simpleSearch">
+<a class="searchFormTrigger" href=""><i class="icon-search"></i></a>
+<div class="header-search">
+<form role="search" action="https://www.kaltire.com/en/search/" method="get" name="simpleSearch">
 <fieldset>
 <label class="visually-hidden" for="q">Search Catalog</label>
 <input class="seachFormInput" type="text" id="q" name="q" value="" placeholder="Search...">
@@ -793,107 +504,41 @@ window.location.reload();
 </fieldset>
 </form>
 <div class="search-suggestions" style="display: none;"></div>
-
-    </div>
+</div>
 </li>
 <li>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Report any requested source code -->
-
-<!-- Report the active source code -->
-
 
 
 <div class="mini-cart">
-
 <a class="mini-cart-link mini-cart-empty hide-for-small-only" href="https://www.kaltire.com/en/cart/" title="View Cart">
 <i class="icon-cart"></i>
 </a>
-
 </div>
-
 </li>
 <li><a id="mainNavLiveChatCTA" class="openLiveChatButton"><i class="icon-livechat"></i> <span class="show-for-large">Chat Now</span></a></li>
-
 </ul>
 <ul id="mobileNavActions" class="hide-for-medium">
-
-
 <li id="headerNavLocationWrapper">
-<a id="mobileLocationChangeTriggerWrapper" href=""><i class="icon-location"></i>&nbsp;Location:&nbsp;<span>Ashburn</span></a>
+<a id="mobileLocationChangeTriggerWrapper" href=""><i class="icon-location"></i>&nbsp;Location:&nbsp;<span>Please Enter Your Location</span></a>
 <div id="mobileLocationChangeFormWrapper">
 <input id="mobileLocationChangeInput" data-url="/on/demandware.store/Sites-Kaltire-Site/default/Stores-FindNearestStore" type="text" size="50" placeholder="City or Postal Code" autocomplete="off">
 <a id="mobileLocationChangeFormClose" href=""><i class="fa fa-times" aria-hidden="true"></i></a>
 <input type="submit" name="Sumbit" class="hide">
 </div>
 </li>
-
 <li>
-
 <a href="https://www.kaltire.com/en/orders/" title="Sign in"><i class="icon-myaccount hide-for-medium"></i> Sign in</a>
-
 </li>
-
-
-
-
-
 <input type="hidden" data-cart-total="null" id="cartTotal">
-
-<input type="hidden" data-customerdataobj="{&quot;city&quot;:&quot;SIMCOE&quot;,&quot;postalCode&quot;:&quot;N3Y 4L2&quot;}" id="customerdataobj">
-
-<li><a href="http://www.kaltire.com/en/contact-us.html"><i class="icon-contact"></i>&nbsp;Contact Us</a></li>
+<input type="hidden" data-customerdataobj="{&quot;city&quot;:&quot;STEINBACH&quot;,&quot;postalCode&quot;:&quot;R5G 1X7&quot;}" id="customerdataobj">
+<li><a href="https://www.kaltire.com/en/contact-us.html"><i class="icon-contact"></i>&nbsp;Contact Us</a></li>
 </ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-
 <div id="main" role="main" class="full-width clearfix">
-
 <div id="browser-check">
 <noscript>
 <div class="row atroot browser-compatibility-alert">
@@ -901,181 +546,117 @@ window.location.reload();
 </div>
 </noscript>
 </div>
-
 <div id="primary" class="primary-content">
 
-
-
-
-
-
-
-<!-- dwMarker="content" dwContentID="70448191dc1ef761f2df7669bf" -->
 <iscontent type="text/html" charset="UTF-8" compact="true">
-    <isinclude template="util/modules">
-    <div class="row atroot">
-        <div class="small-12 medium-10 columns privacypolicy-wrapper">
-            <h1 class="privacypolicy-title">Privacy Policy</h1>
-            
-            <h4>Kal Tire Privacy Policy</h4>
-            <p> At Kal Tire protecting your personal information is a priority. 
-            We are committed to providing our customers with exceptional service. 
-            Providing this service includes the collection and use of some 
-            personal information about our customers.</p>
-            
-            <h4>Personal Information Collected</h4>
-            <p> When you visit us at one of our locations, talk to us online, 
-            call us on the phone, or visit our website, we often will collect personal
-            information. We know your privacy is of the utmost importance and Kal Tire
-            does not and will not disclose trade, rent, sell or otherwise transfer
-            personal information for any purpose other than those set out herein.</p>
-            <p>We will obtain the consent of our clients and customers where required
-            and only handle their personal information in a manner that a reasonable
-            person would consider appropriate in the circumstances.  Our privacy 
-            commitment includes ensuring the accuracy, confidentiality and security of
-            our clients’ and customers’ personal information and allowing our clients
-            and customers to request access to, and correction of, their personal
-            information. Individuals are given the opportunity to opt-out of receiving
-            email communications from Kal Tire by using the unsubscribe mechanisms at 
-            the bottom of the emails. All email communications are reviewed regularly 
-            in order to ensure compliance with Canada’s anti-spam legislation (CASL).</p>
-            
-            <h4>Consent</h4>
-            <p>We will obtain client and customer consent to collect, use or disclose 
-            personal information (except where, as noted below, we are authorized to
-            do so without consent).</p>
-            <p>Consent can be provided orally, in writing, electronically, through an
-            authorized representative, or it can be implied where the purpose for 
-            collecting using or disclosing the personal information would be considered
-            obvious and the client or customer voluntarily provides personal information
-            for that purpose.</p>
-            <p>We may collect, use or disclose personal information without the client or
-            customer’s knowledge or consent in the following limited circumstances:</p>
-            <ul>
-                <li><span>when the collection, use or disclosure of personal information is permitted or required by law;</span></li>
-                <li><span>in an emergency that threatens an individual’s life, health, or personal security;</span></li>
-                <li><span>when the personal information is available from a public source (e.g., a telephone directory);</span></li>
-                <li><span>when we require legal advice from a lawyer;</span></li>
-                <li><span>for the purposes of collecting a debt;</span></li>
-                <li><span>to protect ourselves from fraud; or</span></li>
-                <li><span>to investigate an anticipated breach of an agreement or a contravention of law.</span></li>
-            </ul>
-            
-            
-            <h4>At kal tire locations</h4>
-            <p>When you visit a Kal Tire location we will often ask for information such 
-            as full name, phone number, address, and vehicle information. This information
-            allows us to accurately maintain records regarding your vehicle service, 
-            billing, and contact information.</p>
-            
-            <h4>kaltire.com</h4>
-            <p>Personal information, such as your postal code, is requested through our 
-            online web store in order to ensure that the product availability listed for
-            you at your nearest locations is accurate.</p>
-            
-            <h4>third party providers</h4>
-            <p>Kal Tire often uses service providers to assist us with rebate and customer
-            service functions. We only share the information necessary for these service providers
-            to perform their role, and require they adhere to the highest possible levels of 
-            confidentiality with respect to the use of this information. Rebates sent to customers
-            may come in many forms, including pre-paid cards, cheques, or other third party products
-            and it may be necessary to disclose information about you to third parties in order for
-            you to receive the rebate. You may request that we not provide information about you to 
-            third party rebate providers, but in that case the rebate will not be available to you.</p>
-            <p>Kal Tire is dedicated to ensuring we provide our customers with exceptional service. 
-            Part of this process is conducting follow-up customer service calls to our recent customers.
-            These calls are performed by a third party research service provider.</p>
-            <p>Information given to the research service provider includes details such as customer name,
-            phone number and transaction details (store visited, transaction date, transaction aliases, 
-            vehicle details, invoice number and amount, team member name).</p>
-            <p>This information is used primarily to contact customers to conduct the follow-up survey. 
-            The research provider does not give out personal information to any organization without your 
-            consent or request. The research service provider does not use surveys to sell anything, they 
-            are not direct marketers or telemarketers and their privacy standards meet or exceed the standards
-            of the Market Research and Intelligence Association (MRIA). We will not use or disclose client or
-            customer personal information for any additional purpose unless we obtain consent to do so.</p>
-            
-            <h4>SECURING PERSONAL INFORMATION</h4>
-            <p>We are committed to ensuring the security of client and customer personal information in order
-            to protect it from unauthorized access, collection, use, disclosure, copying, modification or 
-            disposal or similar risks. We will use appropriate security measures when destroying personal 
-            information of clients and customers. We will continually review and update our security policies 
-            and controls as technology changes to ensure ongoing personal information security.</p>
-            
-            <h4>PROVIDING CLIENTS AND CUSTOMERS ACCESS TO PERSONAL INFORMATION</h4>
-            <p>Our clients and customers have a right to access their personal information, subject to limited 
-            exceptions, such as solicitor-client privilege, for health and safety concerns, or where disclosure 
-            would reveal personal information about another individual. A request to access personal information 
-            must be made in writing and provide sufficient detail to identify the personal information being sought.
-            We will make the requested information available within 30 business days, or provide written notice of 
-            an extension where additional time is required to fulfill the request. A minimal fee may be charged for 
-            providing access to personal information.  Where a fee may apply, we will inform the client or customer 
-            of the cost and request further direction from the client or customer on whether or not we should proceed 
-            with the request. If a request is refused in full or in part, we will notify the client or customer in writing, 
-            providing the reasons for refusal and the recourse available to the client or customer.</p>
-            
-            <h4>CHANGES TO THE KAL TIRE PRIVACY POLICY</h4>
-            <p>Our privacy commitment includes maintaining and updating a Privacy Policy which ensures the accuracy, 
-            confidentiality and security of our clients and customers personal information. All changes will be posted
-            on kaltire.com</p>
-            
-            <h4>QUESTIONS AND COMPLAINTS:  THE ROLE OF THE PRIVACY OFFICER</h4>
-            <p>Our Privacy Officer is a designated individual responsible for ensuring that Kal Tire is compliant with
-            our Privacy Policy and the Personal Information Protection Act. Clients and customers should direct any 
-            complaints, concerns or questions regarding Kal Tire’s compliance in writing to the Privacy Officer. If the 
-            Privacy Officer is unable to resolve the concern, the client or customer may also write to the Information and 
-            Privacy Commissioner of British Columbia.</p>
-            
-            <p>Contact information for Kal Tire’s Officer: <a href="mailto:privacy@kaltire.com">privacy@kaltire.com</a></p>
-        </div>
-    </div>
-<!-- End content-asset -->
-
-
-
+<isinclude template="util/modules">
+<div class="row atroot">
+<div class="small-12 medium-10 columns privacypolicy-wrapper">
+<h1 class="privacypolicy-title">Privacy Policy</h1>
+<h4>Kal Tire Privacy Policy</h4>
+<p> At Kal Tire protecting your personal information is a priority.
+We are committed to providing our customers with exceptional service.
+Providing this service includes the collection and use of some
+personal information about our customers.</p>
+<h4>Personal Information Collected</h4>
+<p> When you visit us at one of our locations, talk to us online,
+call us on the phone, or visit our website, we often will collect personal
+information. We know your privacy is of the utmost importance and Kal Tire
+does not and will not disclose trade, rent, sell or otherwise transfer
+personal information for any purpose other than those set out herein.</p>
+<p>We will obtain the consent of our clients and customers where required
+and only handle their personal information in a manner that a reasonable
+person would consider appropriate in the circumstances. Our privacy
+commitment includes ensuring the accuracy, confidentiality and security of
+our clients’ and customers’ personal information and allowing our clients
+and customers to request access to, and correction of, their personal
+information. Individuals are given the opportunity to opt-out of receiving
+email communications from Kal Tire by using the unsubscribe mechanisms at
+the bottom of the emails. All email communications are reviewed regularly
+in order to ensure compliance with Canada’s anti-spam legislation (CASL).</p>
+<h4>Consent</h4>
+<p>We will obtain client and customer consent to collect, use or disclose
+personal information (except where, as noted below, we are authorized to
+do so without consent).</p>
+<p>Consent can be provided orally, in writing, electronically, through an
+authorized representative, or it can be implied where the purpose for
+collecting using or disclosing the personal information would be considered
+obvious and the client or customer voluntarily provides personal information
+for that purpose.</p>
+<p>We may collect, use or disclose personal information without the client or
+customer’s knowledge or consent in the following limited circumstances:</p>
+<ul>
+<li><span>when the collection, use or disclosure of personal information is permitted or required by law;</span></li>
+<li><span>in an emergency that threatens an individual’s life, health, or personal security;</span></li>
+<li><span>when the personal information is available from a public source (e.g., a telephone directory);</span></li>
+<li><span>when we require legal advice from a lawyer;</span></li>
+<li><span>for the purposes of collecting a debt;</span></li>
+<li><span>to protect ourselves from fraud; or</span></li>
+<li><span>to investigate an anticipated breach of an agreement or a contravention of law.</span></li>
+</ul>
+<h4>At kal tire locations</h4>
+<p>When you visit a Kal Tire location we will often ask for information such
+as full name, phone number, address, and vehicle information. This information
+allows us to accurately maintain records regarding your vehicle service,
+billing, and contact information.</p>
+<h4>kaltire.com</h4>
+<p>Personal information, such as your postal code, is requested through our
+online web store in order to ensure that the product availability listed for
+you at your nearest locations is accurate.</p>
+<h4>third party providers</h4>
+<p>Kal Tire often uses service providers to assist us with rebate and customer
+service functions. We only share the information necessary for these service providers
+to perform their role, and require they adhere to the highest possible levels of
+confidentiality with respect to the use of this information. Rebates sent to customers
+may come in many forms, including pre-paid cards, cheques, or other third party products
+and it may be necessary to disclose information about you to third parties in order for
+you to receive the rebate. You may request that we not provide information about you to
+third party rebate providers, but in that case the rebate will not be available to you.</p>
+<p>Kal Tire is dedicated to ensuring we provide our customers with exceptional service.
+Part of this process is conducting follow-up customer service calls to our recent customers.
+These calls are performed by a third party research service provider.</p>
+<p>Information given to the research service provider includes details such as customer name,
+phone number and transaction details (store visited, transaction date, transaction aliases,
+vehicle details, invoice number and amount, team member name).</p>
+<p>This information is used primarily to contact customers to conduct the follow-up survey.
+The research provider does not give out personal information to any organization without your
+consent or request. The research service provider does not use surveys to sell anything, they
+are not direct marketers or telemarketers and their privacy standards meet or exceed the standards
+of the Market Research and Intelligence Association (MRIA). We will not use or disclose client or
+customer personal information for any additional purpose unless we obtain consent to do so.</p>
+<h4>SECURING PERSONAL INFORMATION</h4>
+<p>We are committed to ensuring the security of client and customer personal information in order
+to protect it from unauthorized access, collection, use, disclosure, copying, modification or
+disposal or similar risks. We will use appropriate security measures when destroying personal
+information of clients and customers. We will continually review and update our security policies
+and controls as technology changes to ensure ongoing personal information security.</p>
+<h4>PROVIDING CLIENTS AND CUSTOMERS ACCESS TO PERSONAL INFORMATION</h4>
+<p>Our clients and customers have a right to access their personal information, subject to limited
+exceptions, such as solicitor-client privilege, for health and safety concerns, or where disclosure
+would reveal personal information about another individual. A request to access personal information
+must be made in writing and provide sufficient detail to identify the personal information being sought.
+We will make the requested information available within 30 business days, or provide written notice of
+an extension where additional time is required to fulfill the request. A minimal fee may be charged for
+providing access to personal information. Where a fee may apply, we will inform the client or customer
+of the cost and request further direction from the client or customer on whether or not we should proceed
+with the request. If a request is refused in full or in part, we will notify the client or customer in writing,
+providing the reasons for refusal and the recourse available to the client or customer.</p>
+<h4>CHANGES TO THE KAL TIRE PRIVACY POLICY</h4>
+<p>Our privacy commitment includes maintaining and updating a Privacy Policy which ensures the accuracy,
+confidentiality and security of our clients and customers personal information. All changes will be posted
+on kaltire.com</p>
+<h4>QUESTIONS AND COMPLAINTS: THE ROLE OF THE PRIVACY OFFICER</h4>
+<p>Our Privacy Officer is a designated individual responsible for ensuring that Kal Tire is compliant with
+our Privacy Policy and the Personal Information Protection Act. Clients and customers should direct any
+complaints, concerns or questions regarding Kal Tire’s compliance in writing to the Privacy Officer. If the
+Privacy Officer is unable to resolve the concern, the client or customer may also write to the Information and
+Privacy Commissioner of British Columbia.</p>
+<p>Contact information for Kal Tire’s Officer: <a href="mailto:privacy@kaltire.com">privacy@kaltire.com</a></p>
+</div>
+</div>
 
 </isinclude></iscontent></div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="footer-email-wrapper fullbleed">
 <div class="row">
 <div class="small-12">
@@ -1094,152 +675,118 @@ window.location.reload();
 </div>
 
 
-
-
-
-
-<!-- dwMarker="content" dwContentID="ed75e7c4c3153dba8a8e1906d8" -->
-<!-- Medium and up Screen Footer Menu  -->
 <div class="show-for-medium footer-wrapper">
-    <div class="row atroot">
-        <div class="medium-3 columns">
-            <ul class="footer-links">
-                <li><a class="inactive content-custom-btn" href="javascript:void(0);">SHOP</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/">Tires</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheels/">Wheels</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/tire-brands/">Brands</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/promotionstires/">Promotions</a></li>
-            </ul>
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-and-mechanical-services/">SERVICES</a></li>
-            </ul>
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/locations/">LOCATIONS</a></li>
-            </ul>
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="/resource-centre/">RESOURCE CENTRE</a></li>
-            </ul>
-        </div>
-        <div class="medium-3 columns">
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="http://jobs.jobvite.com/kaltire">CAREERS</a></li>
-                <li><a class="content-custom-btn" href="http://jobs.jobvite.com/kaltire/jobs">Current Openings</a></li>
-            </ul>
-            <ul class="footer-links">
-                <li><a class="inactive content-custom-btn" href="javascript:void(0);">CORPORATE</a></li>
-                <li><a class="content-custom-btn" href="/about/">About Us</a></li>
-                <li><a class="content-custom-btn" href="/newsroom/">Newsroom</a></li>
-            </ul>
-        </div>
-        <div class="medium-3 columns">
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="/commercial/">COMMERCIAL</a></li>
-                <li><a class="content-custom-btn" href="/commercial/truck/services/emergency-road-service/">Emergency Road-Side Assistance</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/locations/">Locations</a></li>
-                <li><a class="content-custom-btn" href="/commercial/truck/">Products</a></li>
-                <li><a class="content-custom-btn" href="/commercial/truck/services/">Services</a></li>
-            </ul>
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/">MINING</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/productivity-and-performance-services/">Site Solutions</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/products/">Product Sourcing</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/global-operations/">Global Operations</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/working-for-kal-tire-mining/">Careers</a></li>
-            </ul>
-        </div>
-        <div class="medium-3 columns">
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/contact-us.html">CONTACT US</a></li>
-                <li><a class="openLiveChatButton">Chat Now <span id="chatonlinenow">(Online now)</span></a></li>
-                <li><a href="tel:1-877-KAL-TIRE">Phone Us (1-877-KAL-TIRE)</a></li>
-                <li><a href="mailto:webstoresupport@kaltire.com">Email Web Store Support</a></li>
-            </ul>
-            <ul class="footer-social-media-wrapper">
-                <li><a class="content-custom-btn" href="https://www.facebook.com/KalTire" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                <li><a class="content-custom-btn" href="https://twitter.com/KalTire" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a class="content-custom-btn" href="https://www.youtube.com/user/TheKalTire" title="YouTube" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                <li><a class="content-custom-btn" href="https://www.instagram.com/kaltire" title="Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            </ul>
-        </div>
-    </div>
+<div class="row atroot">
+<div class="medium-3 columns">
+<ul class="footer-links">
+<li><a class="inactive content-custom-btn" href="javascript:void(0);">SHOP</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/">Tires</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheels/">Wheels</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/wheel-and-tire-packages/">Wheel &amp; Tire Packages</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/tire-brands/">Brands</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/promotionstires/">Promotions</a></li>
+</ul>
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-and-mechanical-services/">SERVICES</a></li>
+</ul>
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/locations/">LOCATIONS</a></li>
+</ul>
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="/resource-centre/">RESOURCE CENTRE</a></li>
+</ul>
+</div>
+<div class="medium-3 columns">
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="https://jobs.jobvite.com/kaltire">CAREERS</a></li>
+<li><a class="content-custom-btn" href="https://jobs.jobvite.com/kaltire/jobs">Current Openings</a></li>
+</ul>
+<ul class="footer-links">
+<li><a class="inactive content-custom-btn" href="javascript:void(0);">CORPORATE</a></li>
+<li><a class="content-custom-btn" href="/about/">About Us</a></li>
+<li><a class="content-custom-btn" href="/newsroom/">Newsroom</a></li>
+</ul>
+</div>
+<div class="medium-3 columns">
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="/commercial/">COMMERCIAL</a></li>
+<li><a class="content-custom-btn" href="/commercial/truck/services/emergency-road-service/">Emergency Road-Side Assistance</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/locations/">Locations</a></li>
+<li><a class="content-custom-btn" href="/commercial/truck/">Products</a></li>
+<li><a class="content-custom-btn" href="/commercial/truck/services/">Services</a></li>
+</ul>
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/">MINING</a></li>
+<li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/productivity-and-performance-services/">Site Solutions</a></li>
+<li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/products/">Product Sourcing</a></li>
+<li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/global-operations/">Global Operations</a></li>
+<li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/working-for-kal-tire-mining/">Careers</a></li>
+</ul>
+</div>
+<div class="medium-3 columns">
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/contact-us.html">CONTACT US</a></li>
+<li><a class="openLiveChatButton">Chat Now <span id="chatonlinenow">(Online now)</span></a></li>
+<li><a href="tel:1-877-KAL-TIRE">Phone Us (1-877-KAL-TIRE)</a></li>
+<li><a href="mailto:webstoresupport@kaltire.com">Email Web Store Support</a></li>
+</ul>
+<ul class="footer-social-media-wrapper">
+<li><a class="content-custom-btn" href="https://www.facebook.com/KalTire" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a class="content-custom-btn" href="https://twitter.com/KalTire" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a class="content-custom-btn" href="https://www.youtube.com/user/TheKalTire" title="YouTube" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a class="content-custom-btn" href="https://www.instagram.com/kaltire" title="Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+</ul>
+</div>
+</div>
 </div>
 
-<!-- Small Screen Footer Menu  -->
 <div class="hide-for-medium footer-wrapper">
-    <div class="row atroot">
-        <div class="medium-6 columns">
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tires/">SHOP</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/tire-and-mechanical-services/">SERVICES</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/locations/">LOCATIONS</a></li>
-                <li><a class="content-custom-btn" href="/resource-centre/">RESOURCE CENTRE</a></li>
-            </ul>
-        </div>
-        <div class="medium-6 columns">
-            <ul class="footer-links">
-                <li><a class="content-custom-btn" href="http://jobs.jobvite.com/kaltire">CAREERS</a></li>
-                <li><a class="content-custom-btn" href="/about/">CORPORATE</a></li>
-                <li><a class="content-custom-btn" href="/commercial/">COMMERCIAL</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/">MINING</a></li>
-                <li><a class="content-custom-btn" href="http://www.kaltire.com/en/contact-us.html">CONTACT US</a></li>
-            </ul>
-        </div>
-    </div>
-    <div class="row">
-        <div class="medium-12 columns">
-            <ul class="footer-social-media-wrapper">
-                <li><a class="content-custom-btn" href="https://www.facebook.com/KalTire" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                <li><a class="content-custom-btn" href="https://twitter.com/KalTire" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a class="content-custom-btn" href="https://www.youtube.com/user/TheKalTire" title="YouTube" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                <li><a class="content-custom-btn" href="https://www.instagram.com/kaltire" title="Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            </ul>
-        </div>
-    </div>
+<div class="row atroot">
+<div class="medium-6 columns">
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tires/">SHOP</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/tire-and-mechanical-services/">SERVICES</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/locations/">LOCATIONS</a></li>
+<li><a class="content-custom-btn" href="/resource-centre/">RESOURCE CENTRE</a></li>
+</ul>
 </div>
-<!-- End content-asset -->
-
-
-
-
+<div class="medium-6 columns">
+<ul class="footer-links">
+<li><a class="content-custom-btn" href="http://jobs.jobvite.com/kaltire">CAREERS</a></li>
+<li><a class="content-custom-btn" href="/about/">CORPORATE</a></li>
+<li><a class="content-custom-btn" href="/commercial/">COMMERCIAL</a></li>
+<li><a class="content-custom-btn" href="http://www.kaltiremining.com/en/">MINING</a></li>
+<li><a class="content-custom-btn" href="https://www.kaltire.com/en/contact-us.html">CONTACT US</a></li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="medium-12 columns">
+<ul class="footer-social-media-wrapper">
+<li><a class="content-custom-btn" href="https://www.facebook.com/KalTire" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a class="content-custom-btn" href="https://twitter.com/KalTire" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a class="content-custom-btn" href="https://www.youtube.com/user/TheKalTire" title="YouTube" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a class="content-custom-btn" href="https://www.instagram.com/kaltire" title="Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
 
 <div class="footer-copy-wrapper fullbleed">
 <div class="row atroot">
 <div class="small-12 medium-4 columns">
+<a id="footerLogoContainer" href="https://www.kaltire.com/en/home/">
 
-
-
-<a id="footerLogoContainer" href="http://www.kaltire.com/en/home/">
-
-
-
-
-
-
-<!-- dwMarker="content" dwContentID="0827cbb821d4accc1003442463" -->
-<img data-interchange="[http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, small], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, medium], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, large], [http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, retina]">
-<!-- End content-asset -->
-
-
-
-
+<img data-interchange="[https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, small], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, medium], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, large], [https://www.kaltire.com/on/demandware.static/-/Library-Sites-KaltireShared/default/dw2f34f456/logo/logo@2x.png, retina]">
 
 </a>
 </div>
-<div class="small-12 medium-8 columns">
+<div class="small-12 medium-2 columns">
+<a id="footerLiveChatCTA" class="openLiveChatButton"><i class="icon-livechat"></i> <span class="show-for-large">Chat Now</span></a>
+</div>
+<div class="small-12 medium-6 columns">
 
-
-
-
-
-
-<!-- dwMarker="content" dwContentID="95cfb2e949f82757bcdc5a165a" -->
-<p id="footerCopyContainer">Copyright © 2018 Kal Tire. All right reserved. <span><a class="content-custom-btn" href="http://www.kaltire.com/en/privacy-policy.html">Privacy Policy</a> | <a class="content-custom-btn" href="http://www.kaltire.com/en/terms-and-conditions.html">Terms and Conditions</a> | <a class="content-custom-btn" href="">Sitemap</a> </span></p>
-<!-- End content-asset -->
-
-
-
-
+<p id="footerCopyContainer">Copyright © 2018 Kal Tire. All right reserved. <span><a class="content-custom-btn" href="https://www.kaltire.com/en/privacy-policy.html">Privacy Policy</a> | <a class="content-custom-btn" href="https://www.kaltire.com/en/terms-and-conditions.html">Terms and Conditions</a> | <a class="content-custom-btn" href="/en/sitemap">Sitemap</a> </span></p>
 
 </div>
 </div>
@@ -1255,14 +802,11 @@ window.location.reload();
 <div class="modal-content">
 </div>
 </div>
-
-
-
 <!--[if gte IE 9 | !IE]><!-->
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/jquery-2.2.5.min.js" type="text/javascript"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/jquery-2.2.5.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -1270,21 +814,21 @@ window.location.reload();
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/slick.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/jquery.zoom.min.js"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/underscore-min.js"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/moment.min.js"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/clndr.min.js"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/slick.min.js" type="text/javascript"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/underscore-min.js"></script>
+<script src="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/moment.min.js"></script>
+<script src="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/clndr.min.js"></script>
 <script type="text/javascript">
 
 (function(){
-window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search...","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"C$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please enter a valid 10-digit number (no spaces or special chars.)","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare","COMPARE_CONFIRMATION":"Oops! You've selected too many products. The first product you selected to compare will be removed.","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Contact us","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid Email Address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_PASSWORD":"Please enter a password between 7-20 characters.","VALIDATE_NAME":"Please enter a valid Card Holder name.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Contact us","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-Kaltire-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-Kaltire-Site/default/Page-Include","continueUrl":"http://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Page-Show","staticPath":"http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/","addGiftCert":"/en/giftcert-purchase/","minicartGC":"/on/demandware.store/Sites-Kaltire-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-Kaltire-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-Kaltire-Site/default/Cart-MiniAddProduct","cartShow":"/en/cart/","giftRegAdd":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.kaltire.com/en/wallet/","addressesList":"https://www.kaltire.com/en/addressbook/","wishlistAddress":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-Kaltire-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-Kaltire-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-Kaltire-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-Kaltire-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-Kaltire-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-Kaltire-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-Kaltire-Site/default/Product-GetAvailability","removeImg":"http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-Kaltire-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-Kaltire-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-Kaltire-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingStart":"https://www.kaltire.com/en/shipping/","shippingMethodsList":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-Kaltire-Site/default/COBilling-ResetPaymentForms","compareShow":"/en/compare/","compareAdd":"/on/demandware.store/Sites-Kaltire-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-Kaltire-Site/default/Compare-RemoveProduct","compareEmptyImage":"http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-GetZipCode","billing":"/en/billing/","installationAppointment":"/en/appointment-locations/","setSessionCurrency":"/on/demandware.store/Sites-Kaltire-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-Kaltire-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-Kaltire-Site/default/Page-Include?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-Kaltire-Site/default/RateLimiter-HideCaptcha","getselectorvalues":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-GetSelectorValues","gettireswheelsurl":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-GetTiresWheelsUrl","showtiretypespage":"/en/tire-types/","showpackagespage":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-ShowPackagesPage","productselectormodal":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-ProductSelectorModal","getgspquestion":"/en/get-question/","getgspquestionlogic":"/on/demandware.store/Sites-Kaltire-Site/default/GuidedSellingPath-GetQuestionJSONLogic","getproductselinfo":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-ShowTireTypesTile","getDefaultVehicleImageUrl":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetDefaultVehicleImageUrl","verifyWheelAvailability":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-VerifyWheelAvailability","verifyWheelsAvailability":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-VerifyWheelsAvailability","getProductVehicleVisualizer":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetProductVehicleVisualizer","getWheelVehicleImage":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetVehicleImageByParams","setVisualizerSession":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-SetVisualizerSession","showProductSearchVehicleByWheel":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-ShowProductSearchVehicleByWheel","getSearchVehicleVisualizer":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetSearchVehicleVisualizer","setPackageID":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-SetPackagesSelectedID","updateServiceProduct":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-UpdateServiceProduct","checkYmmo":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-CheckYmmo","errorCheckYmmo":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-RenderYmmoCheckError","setContinueWithError":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-SetContinueWithError","showRecommendedServiceInfo":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-ShowRecommendedServiceInfo","editVehicleInCart":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-EditVehicleInCart","addToCart":"/on/demandware.store/Sites-Kaltire-Site/default/GTMDataLayer-AddToCart","removeFromCart":"/on/demandware.store/Sites-Kaltire-Site/default/GTMDataLayer-RemoveFromCart","validateCart":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-ValidateCart"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false};
+window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","isServiceCheckout":false};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","HIDE_MAP":"Hide Map","SHOW_MAP":"Show Map","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search...","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"C$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please enter a valid 10-digit number (no spaces or special chars.)","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare","COMPARE_CONFIRMATION":"Oops! You've selected too many products. The first product you selected to compare will be removed.","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Contact us","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid Email Address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_PASSWORD":"Please enter a password between 7-20 characters.","VALIDATE_NAME":"Please enter a valid Card Holder name.","ORDER_CALENDAR_TITLE":"Kal Tire Appointment","ORDER_CALENDAR_DESCRIPTION":"This is a calendar entry for your appointment at Kal Tire.","ORDER_CALENDAR_FILENAME":"KalTireAppointment","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Contact us","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-Kaltire-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-Kaltire-Site/default/Page-Include","continueUrl":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Page-Show","staticPath":"/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/","addGiftCert":"/en/giftcert-purchase/","minicartGC":"/on/demandware.store/Sites-Kaltire-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-Kaltire-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-Kaltire-Site/default/Cart-MiniAddProduct","cartShow":"/en/cart/","giftRegAdd":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.kaltire.com/en/wallet/","addressesList":"https://www.kaltire.com/en/addressbook/","wishlistAddress":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-Kaltire-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-Kaltire-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-Kaltire-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-Kaltire-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-Kaltire-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-Kaltire-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-Kaltire-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-Kaltire-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-Kaltire-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-Kaltire-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-Kaltire-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingStart":"https://www.kaltire.com/en/shipping/","shippingStartRedFlag":"https://www.kaltire.com/en/shipping/?setredflag=true","shippingMethodsList":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-Kaltire-Site/default/COBilling-ResetPaymentForms","compareShow":"/en/compare/","compareAdd":"/on/demandware.store/Sites-Kaltire-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-Kaltire-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-Kaltire-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-Kaltire-Site/default/StoreInventory-GetZipCode","billing":"/en/billing/","installationAppointment":"/en/appointment-locations/","setSessionCurrency":"/on/demandware.store/Sites-Kaltire-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-Kaltire-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-Kaltire-Site/default/Page-Include?cid=cookie_hint","locationsWithTires":"/en/appointment-locations/?storedTires=true","locationsWithoutTires":"/en/appointment-locations/?storedTiresNo=true","rateLimiterReset":"/on/demandware.store/Sites-Kaltire-Site/default/RateLimiter-HideCaptcha","getselectorvalues":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-GetSelectorValues","gettireswheelsurl":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-GetTiresWheelsUrl","showtiretypespage":"/en/tire-types/","showpackagespage":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-ShowPackagesPage","showservicespage":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-ShowServicesPage","productselectormodal":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-ProductSelectorModal","getProductFitmentMatch":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-GetProductFitmentMatch","getgspquestion":"/en/get-question/","getgspquestionlogic":"/on/demandware.store/Sites-Kaltire-Site/default/GuidedSellingPath-GetQuestionJSONLogic","getproductselinfo":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-ShowTireTypesTile","getDefaultVehicleImageUrl":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetDefaultVehicleImageUrl","verifyWheelAvailability":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-VerifyWheelAvailability","verifyWheelsAvailability":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-VerifyWheelsAvailability","getProductVehicleVisualizer":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetProductVehicleVisualizer","getWheelVehicleImage":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetVehicleImageByParams","setVisualizerSession":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-SetVisualizerSession","showProductSearchVehicleByWheel":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-ShowProductSearchVehicleByWheel","getSearchVehicleVisualizer":"/on/demandware.store/Sites-Kaltire-Site/default/Visualizer-GetSearchVehicleVisualizer","setPackageID":"/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-SetPackagesSelectedID","updateServiceProduct":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-UpdateServiceProduct","checkYmmo":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-CheckYmmo","errorCheckYmmo":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-RenderYmmoCheckError","setContinueWithError":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/ProductSelector-SetContinueWithError","showRecommendedServiceInfo":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-ShowRecommendedServiceInfo","editVehicleInCart":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-EditVehicleInCart","addToCart":"/on/demandware.store/Sites-Kaltire-Site/default/GTMDataLayer-AddToCart","removeFromCart":"/on/demandware.store/Sites-Kaltire-Site/default/GTMDataLayer-RemoveFromCart","validateCart":"https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/Cart-ValidateCart","getFlexitiUrl":"/on/demandware.store/Sites-Kaltire-Site/default/Flexiti-Integration"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"FINANCING_URL":"https://flexitifinancial.com/","NUM_DAYS":3,"NO_SLOTS_MSG":"Limited appointment availability.<br>Select 'More Times' to search:","CALL_API_BY_PAGE":true};
 }());
 </script>
 <script type="text/javascript">
@@ -1294,23 +838,17 @@ window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null};
 }());
 </script>
-<!-- Foundation JS -->
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/foundation/foundation.js"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/lib/jquery/jquery.smooth-scroll.js"></script>
 
-
-
-
-<script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyAJvV6H2XrwUPSNtpVpve5O4sF2GWWK9_c&amp;sensor=true&amp;libraries=places,geometry" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/js/app.js"></script>
-
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/foundation/foundation.js"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/lib/jquery/jquery.smooth-scroll.js"></script>
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyCwh_u0x_ZBT1ATLMmS2twcUDOVFMLxT60&amp;libraries=places,geometry" type="text/javascript"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/js/infobox.js"></script>
+<script src="https://www.kaltire.com/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/js/app.js"></script>
 <script>pageContext = {"title":"privacy-policy","type":"content","ns":"content"};</script>
 <script>
 var meta = "Kal Tire Information and Privacy Policy Details";
 var keywords = "privacy policy, data policy, personal information";
 </script>
-<!-- CHAT INTEGRATION -->
-
 
 <script type="text/javascript">
 (function(u,t,d){
@@ -1318,32 +856,21 @@ var i=d.createElement(t);i.type='text/javascript';i.async=true;i.src='//'+u;
 var s=d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(i,s);
 })('us-tracker.inside-graph.com/gtm/IN-1000478-2/include.js','script',document);
 </script>
-
-
 <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 
 
-
-
-
-
-
-
-
-	<!-- isml file to connect .ds and .js files -->
-<!--
-Work scheme: function to determine the page the customer is located and the tag to fire - sends formatted data
-from pdict to gtm.js which is responsible for pushing data into dataLayer
- -->
-
 <script> window.dataLayer = window.dataLayer || []; </script>
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/js/gtm.js"></script>
+<script src="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/js/gtm.js"></script>
 <script>
 $(document).ready(function() {
 
     // Map to hold popup windows event triggers
     var gtmPopupWindowDlMap = {
         'addtocartpopup' : function($modal){
+            var serviceCategory = $('.product-tile').data('gtm-dl-product').category;
+            if(serviceCategory === 'services' || serviceCategory === 'servicesHidden') {
+                $('.product-size').addClass('visibility-hidden');
+            }
             var modalTitle = $modal.find('.popup-title').text();
             if (modalTitle === 'Added to cart' || modalTitle === 'Replace the current tires in your cart?') {
                 dataLayer.push({
@@ -1686,7 +1213,7 @@ $(document).ready(function() {
                     var tiresWheels =  $(this).attr('href').indexOf('tires') > -1;
                     dataLayer.push({
                         'event' : 'gaTriggerEvent',
-                        'eventAction' : tiresWheels ? 'Shop Tire Brand' : 'Shop Wheel Brand', 
+                        'eventAction' : tiresWheels ? 'Shop Tire Brand' : 'Shop Wheel Brand',
                         'eventLabel' : $(this).find('img').attr('title'),
                         'eventCategory' : tiresWheels ? 'Tires - Shop By Brand' : 'Wheels - Shop By Brand'
                     });
@@ -1824,16 +1351,16 @@ $(document).ready(function() {
             }
         },
         {
-        	 eventType : 'userInteraction',
+             eventType : 'userInteraction',
              callBack : function(){
-            	 $(document).on('submit', 'form.submit-order:visible', function(e) {
-            		 dataLayer.push({
+                 $(document).on('submit', 'form.submit-order:visible', function(e) {
+                     dataLayer.push({
                          'event' : 'gaTriggerEvent',
                          'eventAction' : 'click',
                          'eventLabel' : 'Place Order',
                          'eventCategory' : 'Check-Out Order Review'
                      });
-            	 });
+                 });
              }
         },
         {
@@ -1931,28 +1458,30 @@ $(document).ready(function() {
                     var evCateg = '';
                     var evActLabel = '';
                     if($(this).data('tabid') == 'tire_vehicle'){
-                    	evCateg = 'Tires - Shop by Vehicle';
-                    	evActLabel = 'Shop Tires by Vehicle';
+                        evCateg = 'Tires - Shop by Vehicle';
+                        evActLabel = 'Shop Tires by Vehicle';
                     } else if ($(this).data('tabid') == 'tire_size') {
-                    	evCateg = 'Tires - Shop By Size';
-                    	evActLabel = 'Shop Tires by Size';
+                        evCateg = 'Tires - Shop By Size';
+                        evActLabel = 'Shop Tires by Size';
                     } else if ($(this).data('tabid') == 'wheel_vehicle') {
-                    	evCateg = 'Wheels - Shop by Vehicle';
-                    	evActLabel = 'Shop Wheels by Vehicle';
+                        evCateg = 'Wheels - Shop by Vehicle';
+                        evActLabel = 'Shop Wheels by Vehicle';
                     } else if ($(this).data('tabid') == 'wheel_size') {
-                    	evCateg = 'Wheels - Shop By Size';
-                    	evActLabel = 'Shop Wheels by Size';
+                        evCateg = 'Wheels - Shop By Size';
+                        evActLabel = 'Shop Wheels by Size';
                     } else if ($(this).data('tabid') == 'packages_vehicle') {
-                    	evCateg = 'Packages - Shop By Vehicle';
-                    	evActLabel = 'Shop Packages by Vehicle';
+                        evCateg = 'Packages - Shop By Vehicle';
+                        evActLabel = 'Shop Packages by Vehicle';
                     }
-                    
-                    dataLayer.push({
-                        'event' : 'gaTriggerEvent',
-                        'eventAction' : evActLabel,
-                        'eventLabel' : evActLabel,
-                        'eventCategory' : evCateg
-                    });
+
+                    if ($(this).data('tabid') !== 'service_default') {
+                        dataLayer.push({
+                            'event' : 'gaTriggerEvent',
+                            'eventAction' : evActLabel,
+                            'eventLabel' : evActLabel,
+                            'eventCategory' : evCateg
+                        });
+                    }
                 });
             }
         },
@@ -1965,7 +1494,7 @@ $(document).ready(function() {
                         'event' : 'gaTriggerEvent',
                         'eventAction' : 'launch',
                         'eventLabel' : 'Live Chat',
-                        'eventCategory' : 'Header'
+                        'eventCategory' : pageContext.ns
                     });
                 });
             }
@@ -2147,6 +1676,107 @@ $(document).ready(function() {
             }
         },
         {
+            event: "shopForServicesClick",
+            eventType : 'userInteraction',
+            callBack : function() {
+                $(document).on('click', 'a.step-1', function(e){
+                    var $selectorWrapper = $(e.target).closest('.selector-tab');
+                    if ($selectorWrapper.length > 0 && $selectorWrapper.data('tabid') == 'service_default') {
+                        dataLayer.push({
+                            'event' : 'gaTriggerEvent',
+                            'eventAction' : 'click',
+                            'eventLabel' : 'Shop for Services',
+                            'eventCategory' : 'Shop for Services'
+                        });
+                    }
+                });
+            }
+        },
+        {
+            event: "servicesTypeClick",
+            eventType : 'userInteraction',
+            callBack : function() {
+                $(document).on('click', '#service_default-tire_mount', function(e) {
+                    var clickedOption = $(e.target).closest('.selectoroption');
+                    if (clickedOption.length > 0) {
+                        var typeChoice = $(clickedOption[0]).data('value');
+                        console.log('Service Type: ' + typeChoice);
+                        dataLayer.push({
+                            'event' : 'gaTriggerEvent',
+                            'eventAction' : 'Service Type',
+                            'eventLabel' :  typeChoice,
+                            'eventCategory' : 'Shop for Services'
+                        });
+                    }
+                });
+            }
+        },
+        {
+            event: "servicesVehicleClick",
+            eventType : 'userInteraction',
+            callBack : function() {
+                $(document).on('click', '#service_default-VEHICLE_TYPE_1', function(e) {
+                    var clickedOption = $(e.target).closest('.selectoroption');
+                    if (clickedOption.length > 0) {
+                        var vehicleChoice = $(clickedOption[0]).data('value');
+                        dataLayer.push({
+                            'event' : 'gaTriggerEvent',
+                            'eventAction' : 'Vehicle Type',
+                            'eventLabel' :  vehicleChoice,
+                            'eventCategory' : 'Shop for Services'
+                        });
+                    }
+                });
+            }
+        },
+        {
+            event: "addServiceToCart",
+            eventType : 'userInteraction',
+            callBack : function() {
+                $(document).on('click', '.serviceAddGTMTrigger', function(e) {
+                    dataLayer.push({
+                        'event' : 'gaTriggerEvent',
+                        'eventAction' : 'Click BookService',
+                        'eventLabel' : 'BookService from PDP',
+                        'eventCategory' : 'Cart'
+                    });
+                });
+            }
+        },
+        {
+            event: "addToCartFromTile",
+            eventType : 'userInteraction',
+            callBack : function() {
+                $(document).on('click', '.add-from-tile', function(e) {
+                    dataLayer.push({
+                        'event' : 'gaTriggerEvent',
+                        'eventAction' : 'Click AddToCart',
+                        'eventLabel' : 'AddToCart from Product Card',
+                        'eventCategory' : 'Cart'
+                    });
+                });
+            }
+        },
+        {
+            event: "tireLodgeClick",
+            eventType : 'userInteraction',
+            callBack : function() {
+                $(document).on('click', '#storageModal', function(e) {
+                    var $clickedOption = $(e.target);
+                    if ($clickedOption.length > 0 && $clickedOption.hasClass('button')) {
+                        var lodgeChoice = $clickedOption.attr('id').trim();
+                        var eventLabel  = (lodgeChoice == 'tiresAreStored') ? 'Yes' : 'No';
+                        dataLayer.push({
+                            'event' : 'gaTriggerEvent',
+                            'eventAction' : 'click',
+                            'eventLabel' :  eventLabel,
+                            'eventCategory' : 'Tire Lodge'
+                        });
+                    }
+                });
+            }
+        },
+        {
             event: "gspNextAction",
             eventType : 'userInteraction',
             callBack : function() {
@@ -2165,8 +1795,8 @@ $(document).ready(function() {
                     } else if ($('.gsp-question-style-radioselectb').length > 0) {
                         lable = $('.gsp-question-style-radioselectb .selected strong').text();
                     }
-                    else if ($('.gsp-question-style-radioselectc').length > 0) { 
-                    	lable = $('.gsp-question-style-radioselectc .gspAnswer.selected p').text();
+                    else if ($('.gsp-question-style-radioselectc').length > 0) {
+                        lable = $('.gsp-question-style-radioselectc .gspAnswer.selected p').text();
                     }
 
                     dataLayer.push({
@@ -2276,8 +1906,7 @@ $(document).ready(function() {
 
 })
 </script>
-
-	<script type="text/javascript">
+<script type="text/javascript">
 		$(document).ready(function() {
 			var script = '/script',
 			gtmContainerId = 'GTM-NSTKHZ',
@@ -2291,18 +1920,13 @@ $(document).ready(function() {
 			gaECGlobals.cartUpdateItemQty = '';
 		});
 	</script>
-
-
-
-
-
 </div>
-<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/__Analytics-Tracking";
+        var trackingUrl = "https://www.kaltire.com/on/demandware.store/Sites-Kaltire-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -2314,9 +1938,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
-<!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="http://demandware.edgesuite.net/bbcx_prd/on/demandware.static/Sites-Kaltire-Site/-/default/v1518443139403/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script type="text/javascript" src="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+
+<script src="/on/demandware.static/Sites-Kaltire-Site/-/default/v1545325230038/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
