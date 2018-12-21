@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancestudio-pro.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616014113id_/https%3A//dancestudio-pro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancestudio-pro.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221230832id_/https%3A//dancestudio-pro.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -7,6 +7,8 @@ DanceStudio-Pro Privacy Policy
 Last updated: January 31, 2018
 
 At DanceStudio-Pro, we respect your privacy and are committed to maintaining your trust. This Privacy Policy describes our policies on the collection, use, and disclosure of information in connection with your use of our consumer-facing mobile application (“DanceStudio-Pro App”), our online business management software (“Software Service”), and any other DanceStudio-Pro products and services offered through any other websites and mobile applications that direct you to this Privacy Policy (collectively, the “DanceStudio-Pro Services”). When you access or use the DanceStudio-Pro Services, you agree to the terms and conditions of this Privacy Policy.
+
+[](https://secure.trust-guard.com/privacy/13404)
 
 This is an easily readable summary of our privacy policy.
 
@@ -196,7 +198,7 @@ The security of Personal Information is a high priority at DanceStudio-Pro. We m
 
 ## Use of Service By Minors
 
-The DanceStudio-Pro Services are not directed or targeted at children under the age of thirteen (18), and we request that they do not provide Personal Information through the DanceStudio-Pro Services.
+The DanceStudio-Pro Services are not directed or targeted at children under the age of eighteen (18), and we request that they do not provide Personal Information through the DanceStudio-Pro Services.
 
 ## International Data Transfer
 
@@ -205,16 +207,6 @@ The DanceStudio-Pro Services are controlled and operated by us from the United S
 ## Sensitive Information
 
 We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g. information related to racial or ethnic origin, political opinions, religion or other beliefs, biometrics or genetic characteristics, trade union membership or criminal background) on or through the DanceStudio-Pro Services or otherwise to us.
-
-## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
-
-DanceStudio-Pro participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List.
-
-DanceStudio-Pro is responsible for the processing of personal data it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. DanceStudio-Pro complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, DanceStudio-Pro is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.  
 
 Changes to Our Privacy Policy
 
