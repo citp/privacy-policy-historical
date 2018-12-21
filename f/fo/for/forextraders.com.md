@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630070953id_/https%3A//www.forextraders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221194048id_/https%3A//www.forextraders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Forextraders.com
 
@@ -280,4 +280,4 @@ Double Click | Double Click | Double Click is used for advertisers and to advert
   
 Version 1.0     18 June 2018
 
-We use cookies to enhance your visit on our website. If you continue to use the website, we assume that you agree to the use of cookies. Find out more about cookies and how you can decide you cookie settings by reading our privacy and cookie policy. Accept [Read More](https://www.forextraders.com/privacy-policy/)
+We use cookies to enhance your visit on our website. If you continue to use the website, we assume that you agree to the use of cookies. Find out more about cookies and how you can decide you cookie settings by reading our privacy and cookie policy. Accept Reject [Read More](https://www.forextraders.com/privacy-policy/)
