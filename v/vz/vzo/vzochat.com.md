@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621205510id_/http%3A//www.conferendo.com/en/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221101939id_/http%3A//www.conferendo.com/en/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement / Free Video Chat Conferendo
 
