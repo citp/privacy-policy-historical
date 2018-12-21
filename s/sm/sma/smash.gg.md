@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smash.gg privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625142245id_/https%3A//smash.gg/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smash.gg privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221024028id_/https%3A//smash.gg/about/privacy) for the most accurate reproduction.*
 
 # smash.gg
 
@@ -32,9 +32,6 @@ Privacy Policy Links: We make an effort to provide a link to this Privacy Policy
 Non-Identifiable Data: When you interact with the Services, we collect certain personally non-identifiable information ("Non-Personal Data"). The Non-Personal Data we collect includes without limitation Internet Protocol (IP) addresses, Internet browser type, other characteristics of your device and software, domain names of your Internet Service Provider, your approximate geographic location, a record of your usage of the Services, the time of your usage and aggregated Personal Data that cannot be used to specifically identify you. Such information, which is collected passively using various technologies, cannot, in and of itself, be used to specifically identify you. We also collect Non-Personal Data (including, without limitation, of the type set forth above) from third parties. The information we collect from third parties may be combined with the information we collect.
 
 Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, we often conduct research on our customer demographics, interests and behavior based on Personal Data and other information that we have collected. This research may be compiled and analyzed on an aggregate basis and this aggregate information does not identify you personally and therefore is considered and treated as Non-Personal Data under this Privacy Policy.
-
-  
-
 
 ## Our Use of Information That We Collect:
 
