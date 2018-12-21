@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerseymikes.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331054810id_/https%3A//www.jerseymikes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseymikes.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221194725id_/https%3A//www.jerseymikes.com/privacy-policy) for the most accurate reproduction.*
 
 # Jersey Mike's Subs - Privacy Policy
 
@@ -16,7 +16,7 @@ This website will not collect any personally identifiable information about you 
 You can visit and browse the Jersey Mike’s website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. This website may collect personally identifiable information about you by methods such as the following:
 
 **Registration Forms**
-    If you are offered the opportunity to enter a promotion, to become a registered user of jerseymikes.com, or to opt-in to receive Jersey Mike’s information through another site, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, and/or a unique individual password known only to you.
+    If you are offered the opportunity to enter a promotion, to become a registered user of jerseymikes.com, or to opt in to receive Jersey Mike’s information through another site, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, and/or a unique individual password known only to you.
 **Transactions and Activity**
     If you become a registered user or if you conduct transactions through this website, we will collect information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount, payment, and billing information as well as the nature, quantity and price of the goods or services you exchange and the individuals or entities with whom you communicate or transact business.
 **Email and other voluntary communications**
@@ -62,28 +62,26 @@ How Do We Protect the Personal Information We Collect?
 
 Jersey Mike’s maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from Jersey Mike’s in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Jersey Mike’s restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception. We require user names and passwords to access sensitive data. Unless you authorize unencrypted transmission, we will use industry standard encryption methods to protect your data transmission.
 
-How Do You Opt-out?
+How Do You Opt Out?
     
 
-In order to provide service to you, we may send you communications related to your transactions, security or the administration of its website. From time to time, Jersey Mike’s and its affiliates may also wish to send you other messages or updates about our website, Jersey Mike’s, our affiliates, or their promotions and other activities. If you do not wish to receive non-transaction/security related communications from Jersey Mike’s and its affiliates, please use our [contact form](https://www.jerseymikes.com/contact-us/corporate/privacy-terms) to let us know.
+In order to provide service to you, we may send you communications related to your transactions, security or the administration of its website. From time to time, Jersey Mike’s and its affiliates may also wish to send you other messages or updates about our website, Jersey Mike’s, our affiliates, or their promotions and other activities. If you do not wish to receive non-transaction/security related communications from Jersey Mike’s and its affiliates, please use our [contact form](https://www.jerseymikes.com/contact-us/business-inquiry/privacy-terms) to let us know.
 
-If you do not wish to receive email marketing messages, please use our [contact form](https://www.jerseymikes.com/contact-us/corporate/privacy-terms) to let us know. In addition, every email correspondence Jersey Mike’s sends contains instructions on how to stop additional marketing emails.
+If you do not wish to receive email marketing messages, please use our [contact form](https://www.jerseymikes.com/contact-us/business-inquiry/privacy-terms) to let us know. In addition, every email correspondence Jersey Mike’s sends contains instructions on how to stop additional marketing emails.
 
 How Do You Correct and Update Your Personal Information?
     
 
-You can change or correct your account information at any time. You can [update your Email Club settings here](http://www.jerseymikes.com/emailclub/update.php), or send your corrections using our [contact form](https://www.jerseymikes.com/contact-us/customer-service/email-club).
+You can change or correct your account information at any time. You can update your Email Club settings from the link at the bottom of any of the marketing emails we send you, from your account profile page, or send your corrections using our [contact form](https://www.jerseymikes.com/contact-us/customer-service/email-club).
 
 What is Our Privacy Policy If You Are Under 13 Years of Age?
     
 
-This website is directed toward and designed for use by persons aged 13 or older. Jersey Mike’s will not approve applications of, or establish or maintain registrations for any child whom Jersey Mike’s knows to be under the age of 13. Jersey Mike’s does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Jersey Mike’s nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom Jersey Mike’s otherwise has reason to believe is, under the age of 13, Jersey Mike’s will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be deleted from our files by requesting this via our [contact form](https://www.jerseymikes.com/contact-us/corporate/privacy-terms).
+This website is directed toward and designed for use by persons aged 13 or older. Jersey Mike’s will not approve applications of, or establish or maintain registrations for any child whom Jersey Mike’s knows to be under the age of 13. Jersey Mike’s does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Jersey Mike’s nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom Jersey Mike’s otherwise has reason to believe is, under the age of 13, Jersey Mike’s will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be deleted from our files by requesting this via our [contact form](https://www.jerseymikes.com/contact-us/business-inquiry/privacy-terms).
 
 What Happens When We Update Our Privacy Policy?
-
-Jersey Mike’s reserves the right to modify or supplement this policy at any time. If we make any material changes to our Policy, we will post a notice about the change at a prominent location on our web site. If you are a member of our Email Club, we will email you a notice of such changes.
-
+    Jersey Mike’s reserves the right to modify or supplement this policy at any time. If we make any material changes to our Policy, we will post a notice about the change at a prominent location on our web site. If you are a member of our Email Club, we will email you a notice of such changes.
 What If You Have Questions?
     
 
-If you have questions or concerns regarding this statement, you should first contact us using our [contact form](https://www.jerseymikes.com/contact-us/corporate/privacy-terms).
+If you have questions or concerns regarding this statement, you should first contact us using our [contact form](https://www.jerseymikes.com/contact-us/business-inquiry/privacy-terms).
