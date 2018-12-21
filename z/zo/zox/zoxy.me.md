@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoxy.me privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619162510id_/http%3A//www.zoxy.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoxy.me privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221232126id_/http%3A//www.zoxy.me/privacy-policy) for the most accurate reproduction.*
 
 # None
 
