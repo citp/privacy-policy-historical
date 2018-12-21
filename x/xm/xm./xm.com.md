@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630133151id_/https%3A//www.xm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222002152id_/https%3A//www.xm.com/privacy-policy) for the most accurate reproduction.*
 
 # XM Privacy Policy
 
@@ -6,7 +6,7 @@
 
 As part of our daily business operations, we need to collect personal information from our clients and prospective clients in order to provide them with our products and services and ensure that we can meet their needs when providing these products and services, as well as when providing them with the respective information.
 
-Your privacy is of utmost important to us, and it is our policy to safeguard and respect the confidentiality of information and the privacy of individuals. This Privacy Policy sets out how Trading Point of Financial Instruments Ltd (the “Company” or “XM”) collects, uses and manages the personal information we receive from you, or a third party, in connection with our provision of services to you or which we collect from your use of our services and/or our website (i.e., www.xm.com) and/or any other related websites and applications including, among others, the Company’s Members Area. The Privacy Policy also informs you of your rights with respect to the processing of your personal information.
+Your privacy is of utmost important to us, and it is our policy to safeguard and respect the confidentiality of information and the privacy of individuals. This Privacy Policy sets out how Trading Point of Financial Instruments UK Limited (the “Company” or “XM”) collects, uses and manages the personal information we receive from you, or a third party, in connection with our provision of services to you or which we collect from your use of our services and/or our website (i.e., www.xm.com) and/or any other related websites and applications including, among others, the Company’s Members Area. The Privacy Policy also informs you of your rights with respect to the processing of your personal information.
 
 Our Privacy Policy is reviewed regularly to ensure that any new obligations and technologies, as well as any changes to our business operations and practices are taken into consideration, as well as that it remains abreast of the changing regulatory environment. Any personal information we hold will be governed by our most recent Privacy Policy.
 
@@ -16,9 +16,9 @@ This Privacy Policy applies to the processing activities performed by XM to the 
 
 ## Who we are
 
-Trading Point of Financial Instruments Ltd is a licenced Cyprus Investment Firm (CIF), regulated by the Cyprus Securities and Exchange Commission (CySEC) under license number 120/10, with its registered office at 12, Richard & Verengaria Street Araouzos Castle Court, 3rd Floor 3042 Limassol, Cyprus P.O.Box 50626, 3608 Limassol, Cyprus. 
+Trading Point of Financial Instruments UK Limited is licenced and regulated by the Financial Conduct Authority (FCA) under license number 705428, with its registered office at 1 Ropemaker Street, London, EC2Y 9HT, United Kingdom. The Company is also registered with the Information Commissioner’s Office (ICO) in the United Kingdom with registration number ZA207621
 
-Trading Point of Financial Instruments Ltd is part of the XM Group. Each entity of the XM Group has its own separate Privacy Policy. Such entities operate their own websites and as such, if you are interested in learning about how such entities process your personal data, please refer to their corresponding privacy statements which may be found on their specific websites.
+Trading Point of Financial Instruments UK Limited is part of the XM Group. Each entity of the XM Group has its own separate Privacy Policy. Such entities operate their own websites and as such, if you are interested in learning about how such entities process your personal data, please refer to their corresponding privacy statements which may be found on their specific websites.
 
 ## Safeguarding the confidentiality of your personal information and protecting your privacy
 
@@ -26,7 +26,7 @@ The Company respects the privacy of any users who access its website(s), and it 
 
 The Company keeps any personal data of its clients and its potential clients in accordance with the applicable data protection laws and regulations.
 
-We have the necessary and appropriate technical and organisational measures and procedures in place to ensure that your information remains secure at all times. We regularly train and raise awareness for all of our employees to the importance of maintaining, safeguarding and respecting your personal information and privacy. We regard breaches of individuals’ privacy very seriously and will impose appropriate disciplinary measures, including dismissal from employment. We have also appointed a Data Protection Officer to ensure that our Company manages/processes your personal information in compliance with the applicable data protection laws and regulations and in accordance with this Privacy Policy. 
+We have the necessary and appropriate technical and organisational measures and procedures in place to ensure that your information remains secure at all times. We regularly train and raise awareness for all of our employees to the importance of maintaining, safeguarding and respecting your personal information and privacy. We regard breaches of individuals’ privacy very seriously and will impose appropriate disciplinary measures, including dismissal from employment. We have also appointed a Data Protection Officer (who is also a staff member of an associated XM Group entity) to ensure that our Company manages/processes your personal information in compliance with the applicable data protection laws and regulations and in accordance with this Privacy Policy.
 
 The personal information you provide us with when registering yourself as a user of the Company’s website(s) or of its services is classified as registered information, which is protected in several different ways. You can access your registered information after logging in to the Members Area by entering a username and a password that you select. It is your responsibility to make sure that your password is only known to you and not disclosed to anyone else. Registered information is securely stored in a safe location, and only authorised personnel have access to it via a username and a password. All personal information is transferred to the Company over a secure 128-bit SSL connection and thus all reasonable measures are taken to prevent unauthorised parties from viewing any such information. Personal information provided to the Company that does not classify as registered information is also kept in a safe place and accessible by authorised personnel only via a username and a password.
 
@@ -84,19 +84,19 @@ We may record any communications, electronic, by telephone, in person or otherwi
 
 We may process your personal data on the following bases and for the following purposes:
 
-  1. **Performance of a contract**
+  1.  **Performance of a contract**
 
 We process personal data in order to provide our services and products, as well as information regarding our products and services based on the contractual relationship with our clients (i.e. so as to perform our contractual obligations). In addition, processing of personal data takes place to be able to complete our client on-boarding/acceptance procedures.
 
 In view of the above, we need to verify your identity in order to accept you as our client and we will need to use those details in order to effectively manage your trading account with us. This may include third parties carrying out credit or identity checks on our behalf. The use of your personal information is necessary for us to know who you are as we have a legal obligation to comply with ‘Know Your Customer’ and customer due diligence’ regulatory obligations.
 
-  2. **Compliance with a legal obligation**
+  2.  **Compliance with a legal obligation**
 
 There are a number of legal obligations imposed by relevant laws to which we are subject, as well as specific statutory requirements (e.g. anti-money laundering laws, financial services laws, corporation laws, privacy laws and tax laws). There are also various supervisory authorities whose laws and regulations apply to us. Such obligations and requirements impose on us necessary personal data processing activities for credit checks, identity verification, payment processing, compliance with court orders, tax law or other reporting obligations and anti-money laundering controls.
 
 These obligations apply at various times, including client on-boarding/acceptance, payments and systemic checks for risk management.
 
-  3. **For the purposes of safeguarding legitimate interests**
+  3.  **For the purposes of safeguarding legitimate interests**
 
 We process personal data so as to safeguard the legitimate interests pursued by us or by a third party. A legitimate interest is when we have a business or commercial reason to use your information. Despite that, it must not unfairly go against what is right and best for you. Examples of such processing activities include the following:
 
@@ -112,61 +112,61 @@ We process personal data so as to safeguard the legitimate interests pursued by 
 
     * risk management.
 
-  4. **You have provided your consent**
+  4.  **You have provided your consent**
 
 Our storage and use of your personal data is based on your consent (other than for the reasons described or implied in this policy when your consent is not required). You may revoke consent at any time; however, any processing of personal data prior to the receipt of your revocation will not be affected.
 
-  5. **To assess the appropriateness of our services/products for the Clients**
+  5.  **To assess the appropriateness of our services/products for the Clients**
 
-  6. **To provide you with products and services, or information about our products and services, and to review your ongoing needs**
+  6.  **To provide you with products and services, or information about our products and services, and to review your ongoing needs**
 
 Once you successfully open a trading account with us, or subscribe to an update or webinar, we will need to use your personal information to perform our services and comply with our obligations to you. It is also in our legitimate interests to try to ensure that we are providing the best products and services so we may periodically review your needs based on our assessment of your personal information to try to ensure that you are getting the benefit of the best possible products and services from us.
 
-  7. **To help us improve our products and services, including customer services, and develop and market new products and services**
+  7.  **To help us improve our products and services, including customer services, and develop and market new products and services**
 
 We may, from time to time, use personal information provided by you through your use of the services and/or through client surveys to help us improve our products and services. It is in our legitimate interests to use your personal information in this way to try to ensure the highest standards when providing you with our products and services and to continue to be a market leader in the financial services industry.
 
-  8. **To form a profile about you**
+  8.  **To form a profile about you**
 
 We may, from time to time, use personal information provided by you through your use of the services and/or through client surveys to help us improve our products and services. It is in our legitimate interests to use your personal information in this way to try to ensure the highest standards when providing you with our products and services and to continue to be a market leader in the financial services industry.
 
-  9. **To investigate or settle enquiries or disputes**
+  9.  **To investigate or settle enquiries or disputes**
 
 We may need to use personal information collected from you to investigate issues or to settle disputes with you because it is in our legitimate interests to ensure that issues and disputes get investigated and resolved in a timely and efficient manner.
 
-  10. **To comply with applicable laws, court orders, other judicial process, or the requirements of any applicable regulatory authorities**
+  10.  **To comply with applicable laws, court orders, other judicial process, or the requirements of any applicable regulatory authorities**
 
 We may need to use your personal information to comply with any applicable laws and regulations, court orders or other judicial process, or the requirements of any applicable regulatory authority. We do this not only to comply with our legal obligations but because it may also be in our legitimate interest to do so.
 
-  11. **To send you surveys**
+  11.  **To send you surveys**
 
 From time to time, we may send you surveys as part of our customer feedback process. It is in our legitimate interest to ask for such feedback to try to ensure that we provide our services and products at the highest standards. However, we may from time to time also ask you to participate in other surveys and if you agree to participate in such surveys we rely on your consent to use the personal information we collect as part of such survey. All responses to any survey we send out whether for customer feedback or otherwise will be aggregated and depersonalised before survey results are shared with any third parties.
 
-  12. **Data analysis**
+  12.  **Data analysis**
 
 Our website pages and e-mails may contain web beacons or pixel tags or any other similar type of data analysis tools that allow us to track receipt of correspondence and count the number of users that have visited our webpage or opened our correspondence. We may aggregate your personal information (such as trading history) with the personal information of our other clients on an anonymous basis (that is, with your personal identifiers removed) so that more rigorous statistical analysis of general patterns may lead to us providing better products and services
 
 If your personal information is completely anonymised, we do not require a legal basis as the information will no longer constitute personal information. If your personal information is not in an anonymised form, it is in our legitimate interest to continually evaluate that personal information to ensure that the products and services we provide are relevant to the market.
 
-  13. **Marketing purposes**
+  13.  **Marketing purposes**
 
 We may use your personal information to send you marketing communications by email or phone or other agreed forms (including social media campaigns) to ensure that you are always kept up to date with our latest products and services. If we send you marketing communications we will either do so based on your consent or if it is in our legitimate interest.
 
 We will not disclose your information to any outside parties for the purpose of allowing them to directly market to you.
 
-  14. **Internal business purposes and record keeping**
+  14.  **Internal business purposes and record keeping**
 
 We may need to process your personal information for internal business and research purposes as well as for record keeping purposes. Such processing is in our own legitimate interests and is required in order to comply with our legal obligations. This may include any communications that we have with you in relation to the services and products we provide to you and our relationship with you. We will also keep records to ensure that you comply with your contractual obligations pursuant to the agreement governing our relationship with you.
 
-  15. **Legal Notifications**
+  15.  **Legal Notifications**
 
 Often the law requires us to advise you of certain changes to products or services or laws. We may need to inform you of changes to the terms or the features of our products or services. We need to process your personal information to send you these legal notifications. You will continue to receive this information from us even if you choose not to receive direct marketing information from us.
 
-  16. **Corporate restructuring**
+  16.  **Corporate restructuring**
 
 If we undergo a corporate re-structuring or part, or if all of our business is acquired by a third party, we may need or choose to use your personal information in association with that re-structuring or acquisition. Such use may involve sharing your information as part of a due diligence enquiries or disclosures pursuant to legal agreements. It is our legitimate interest to use your information in this way, provided we comply with any legal obligation we have to you.
 
-  17. **Physical security**
+  17.  **Physical security**
 
 If you enter any of our premises we may record your image on our CCTV for security reasons. We may also take your details to keep a record of who has entered our premises on any given day. It is in our legitimate interest to do this to maintain a safe and secure working environment.
 
@@ -251,7 +251,7 @@ If we rely on your consent as our legal basis for holding and processing your pe
 
 ## Storage of your personal information and retention period
 
-Safeguarding the privacy of your information is of utmost important to us, whether you interact with us personally, by phone, by mail, over the internet or any other electronic medium. We will hold personal information, for as long as we have a business relationship with you, in a combination of secure computer storage facilities and paper-based files and other records and we take the necessary measures to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure. 
+Safeguarding the privacy of your information is of utmost important to us, whether you interact with us personally, by phone, by mail, over the internet or any other electronic medium. We will hold personal information, for as long as we have a business relationship with you, in a combination of secure computer storage facilities and paper-based files and other records and we take the necessary measures to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure.
 
 When we consider that personal information is no longer necessary for the purpose for which it was collected, we will remove any details that will identify you or we will securely destroy the records. However, we may need to maintain records for a significant period of time (after you cease being our client). For example, we are subject to certain anti-money laundering laws which require us to retain the following, for a period of 5 years after our business relationship with you has ended:
 
@@ -270,29 +270,29 @@ We may keep your data for longer than 5 years if we cannot delete it for legal, 
 
 The rights that might be available to you in relation to the personal information we hold about you are outlined below
 
-**Information and access**
+ **Information and access**
 
 If you ask us, we will confirm whether we are processing your personal information and, if so, what information we process and, if requested, provide you with a copy of that personal information (along with certain other details) within thirty (30) days from the date of your request. If you require additional copies, we may need to charge a reasonable administration fee.
 
-**Rectification**
+ **Rectification**
 
 It is important to us that your personal information is up to date. We will take all reasonable steps to make sure that your personal information remains accurate, complete and up-to-date. If the personal information we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have disclosed your personal information to others, we will let them know about the rectification where possible. If you ask us, if possible and lawful to do so, we will also inform you with whom we have shared your personal information so that you can contact them directly.
 
-You may inform us at any time that your personal details have changed by e-mailing us at [support@trading-point.com](mailto:support@trading-point.com). The Company will change your personal information in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal information that we are required to keep for regulatory or other legal purposes.
+You may inform us at any time that your personal details have changed by e-mailing us at [support@xm.co.uk](mailto:support@xm.co.uk). The Company will change your personal information in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal information that we are required to keep for regulatory or other legal purposes.
 
-**Erasure**
+ **Erasure**
 
 You can ask us to delete or remove your personal information in certain circumstances such as if we no longer need it or you withdraw your consent (if applicable) provided that we have no legal obligation to retain that data. Such request will be subject to any retention limits we are required to comply with in accordance with applicable laws and regulations and subject to section 'Storage of Your Personal Information and Retention Period'. If we have disclosed your personal information to others, we will let them know about the erasure where possible. If you ask us, if possible and lawful to do so, we will also inform you with whom we have shared your personal information so that you can contact them directly.
 
-**Processing restrictions**
+ **Processing restrictions**
 
 You can ask us to ‘block’ or suppress the processing of your personal data in certain circumstances such as if you contest the accuracy of that personal information or object to us processing it. It will not stop us from storing your personal information. We will inform you before we decide not to agree with any requested restriction. If we have disclosed your personal information to others, we will inform about the restriction if possible. If you ask us, if possible and lawful to do so, we will also tell you with whom we have shared your personal information so that you can contact them directly.
 
-**Data portability**
+ **Data portability**
 
 Under the General Data Protection Regulation (679/2016), you have the right, in certain circumstances, to obtain personal information you have provided us with (in a structured, commonly used and machine readable format) and to re-use it elsewhere or ask us to transfer this to a third party of your choice.
 
-**Objection**
+ **Objection**
 
 You can ask us to stop processing your personal information, and we will do so, if we are:
 
@@ -305,19 +305,19 @@ You can ask us to stop processing your personal information, and we will do so, 
 
 
 
-**Automated decision-making and profiling**
+ **Automated decision-making and profiling**
 
 If we have made a decision about you based solely on an automated process (e.g. through automatic profiling) that affects your ability to use the services or has another significant effect on you, you can request not to be subject to such a decision unless we can demonstrate to you that such decision is necessary for entering into, or the performance of, a contract between you and us. Even if a decision is necessary for entering into or performing a contract, you may contest the decision and require human intervention. We may not be able to offer our services or products with you, if we agree to such request (i.e., end our relationship with you).
 
 ## Choice to opt-out submitting your personal information
 
-If you do not want us to use your personal information, you must inform the Company by sending an email to [dpo@trading-point.com](mailto:dpo@trading-point.com). If you decide to do so, we may not be able to continue to provide information, services and/or products requested by you and we will have no liability to you in this respect.
+If you do not want us to use your personal information, you must inform the Company by sending an email to [dpo@xm.co.uk](mailto:dpo@xm.co.uk). If you decide to do so, we may not be able to continue to provide information, services and/or products requested by you and we will have no liability to you in this respect.
 
 ## Data Protection Officer
 
 Our Data Protection Officer’s contact details are:
 
-Email address: [dpo@trading-point.com](mailto:dpo@trading-point.com)
+Email address: [dpo@xm.co.uk](mailto:dpo@xm.co.uk)
 
 Address: 12, Richard & Verengaria Street Araouzos Castle Court, 3rd Floor 3042 Limassol, Cyprus P.O.Box 50626, 3608 Limassol, Cyprus
 
@@ -333,10 +333,10 @@ If we decide to change our Privacy Policy, we will post those changes to this Pr
 
 ## If you have a complaint
 
-If you have a concern about any aspect of our privacy practices, you can submit a complaint. This will be acted upon promptly. To make a complaint, please contact us via email at [complaints@trading-point.com](mailto:complaints@trading-point.com).
+If you have a concern about any aspect of our privacy practices, you can submit a complaint. This will be acted upon promptly. To make a complaint, please contact us via email at [complaints@xm.co.uk](mailto:complaints@xm.co.uk).
 
-If you are not satisfied with our response to your complaint, you have the right to submit a complaint with our supervisory authority, the Office of the Commissioner for Personal Data Protection (the “Commissioner”). You can find details about how to do this on the Commissioner’s website at [http://www.dataprotection.gov.cy](http://www.dataprotection.gov.cy/) or by calling them on +357 22818456. 
+If you are not satisfied with our response to your complaint, you have the right to submit a complaint with our supervisory authority, the Information Commissioner’s Office (the “ICO”). You can find details about how to do this on the ICO’s website at <https://ico.org.uk/concenrs/> or by calling them on 0303 123 1113.
 
 ## How to contact us
 
-If you have any enquiries regarding this Privacy Policy, please e-mail us at [support@trading-point.com](mailto:support@trading-point.com) or at [dpo@trading-point.com](mailto:dpo@trading-point.com). 
+If you have any enquiries regarding this Privacy Policy, please e-mail us at [support@xm.co.uk](mailto:support@xm.co.uk) or at [dpo@xm.co.uk](mailto:dpo@xm.co.uk).
