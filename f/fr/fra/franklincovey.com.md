@@ -1,11 +1,55 @@
-> *The following text is extracted and transformed from the franklincovey.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707182102id_/https%3A//www.franklincovey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franklincovey.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221132807id_/https%3A//www.franklincovey.com/About/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Franklin Covey may share your personal information when we: (1) respond to subpoenas, court orders or legal process, and to exercise our legal rights or defend against legal claims; (2) believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Use or as otherwise required by law; or (3) transfer information about you if Franklin Covey is acquired by or merged with another entity.
+1\. Purpose of This Privacy Notice
 
-We may share your personal information to third parties for their use in performing internal functions on our behalf (for example, payment processing, maintenance, security, data analysis, hosting, and so forth). In such instances, the providers will be contractually required to protect personal information from additional use (including for marketing purposes) or transfer in accordance with this Privacy Policy and industry standards.
+This privacy notice describes how Franklin Covey collects and processes your personal data through your use of this website and the services on it, including any data you may provide.
 
-Occasionally, we make our customer list available to a few carefully screened firms offering products that may be of interest to you. If you prefer not to receive such mailings or not to have your information shared in this manner, you may opt-out at any time. See the [choice/opt-out section](http://archive.franklincovey.com/tc/subscribe "unsubscribe") below.
+This website is not intended to be used by children; Franklin Covey does not knowingly collect personally identifiable information from children.
 
-We do not share personal information obtained for the purposes of preparing invoices or reports for clients, nor is such information used for promotional or marketing purposes.  
+It is important that you read this privacy notice, together with any other privacy notice or fair processing notice provided when personal data is collected or processed, so that you are fully aware of how your data is used. This privacy notice is supplemental to any other notice and is not intended to override.    
+
+**Controller**
+
+Franklin Covey is comprised of several different legal entities, details of which are available at: <https://www.franklincovey.com/About/global-offices.html>.  This privacy notice is issued on behalf of Franklin Covey Co. Reference to "Franklin Covey," "we," "us," or "our" in this privacy notice implies Franklin Covey Co., who is responsible for processing your data. Unless otherwise stated, Franklin Covey Co. is the controller of this website.
+
+Franklin Covey’s data privacy manager will respond to questions regarding this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data privacy manager using the details provided below: 
+
+**Contact Information**
+
+Legal Entity:       Franklin Covey Co.
+
+Data Privacy Manager: Blaine Carter
+
+Email Address:   [privacy@franklincovey.com](mailto:privacy@franklincovey.com)      
+
+
+Postal Address:  2200 W Parkway Blvd, Salt Lake City, UT 84119, United States   
+
+The contact for our EU Representative: 
+
+   
+Legal Entity:       Franklin Covey Europe Ltd      
+
+
+Data Privacy Manager: Stephen Asker      
+
+
+Email Address:   [privacy@franklincovey.co.uk](mailto:privacy@franklincovey.co.uk)        
+
+
+Postal Address:  Ground Floor Blenheim Court, 19 George Street, Banbury, Oxfordshire OX16 5BH, United Kingdom    
+
+You have the right to file a complaint at any time with the Information Commissioner's Office (ICO), the supervisory authority for data protection issues. However, we would appreciate the opportunity to resolve your concerns before you approach the ICO, so please consider contacting us first.   
+
+
+**Changes to the Privacy Notice and Request for Current Data**
+
+This Privacy Notice was last updated on May 11th, 2018
+
+It is important that the personal data we hold about you is accurate and current. Please notify us of any changes to your personal information during your relationship with us.
+
+**Third-Party Links**
+
+This website may include links to third-party websites, plug-ins, and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites, and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
