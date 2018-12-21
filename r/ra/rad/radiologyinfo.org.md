@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623064953id_/https%3A//www.radiologyinfo.org/en/info.cfm%3Fpg%3Dabout-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222004439id_/https%3A//www.radiologyinfo.org/en/info.cfm%3Fpg%3Dabout-privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### Information we gather about your visit
 
-A limited amount of information about your visit to _RadiologyInfo.org_ is collected by the [American College of Radiology (ACR)](http://www.acr.org/ "go to the ACR website") and the [Radiological Society of North America (RSNA)](http://www.rsna.org/ "go to the RSNA website") for use in measuring the site's activity and to gather broad demographic information for the purpose of evaluating the effectiveness of the site. 
+A limited amount of information about your visit to _RadiologyInfo.org_ is collected by the [Radiological Society of North America (RSNA)](http://www.rsna.org/ "go to the RSNA website") and the [American College of Radiology (ACR)](http://www.acr.org/ "go to the ACR website") for use in measuring the site's activity and to gather broad demographic information for the purpose of evaluating the effectiveness of the site. 
 
   * #### Cookies
 
@@ -38,4 +38,4 @@ Email that you send to _radiologyinfo@rsna.org_ may be shared with RSNA or ACR s
 
 ### Disclosure
 
-ACR and RSNA will not disclose, give, sell, or transfer any personal information about your visit unless required to do so by US federal or state law.
+RSNA and ACR will not disclose, give, sell, or transfer any personal information about your visit unless required to do so by US federal or state law.
