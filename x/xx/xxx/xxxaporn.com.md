@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxaporn.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411064453id_/http%3A//media.xxxaporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxaporn.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221204416id_/http%3A//media.xxxaporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - media.xxxaporn.com
 
