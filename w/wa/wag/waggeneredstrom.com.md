@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630051658id_/https%3A//www.we-worldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221174736id_/https%3A//www.we-worldwide.com/privacy-policy) for the most accurate reproduction.*
 
 # WE Communications | Privacy Policy
 
@@ -80,41 +80,26 @@ We may use and Process Personal Data to provide Services to you, to administer t
 
 Subject to applicable law, other reasons that we may use or Process your Personal Data include, but are not limited to:
 
-  to fulfill your requests, such as to include your resume in our database(s) or to register you as a newsletter subscriber, etc.;
+  * to fulfill your requests, such as to include your resume in our database(s) or to register you as a newsletter subscriber, etc.;
+  * to evaluate your application for employment;
+  * to create de-identified, anonymized, aggregated or similar non-personally identifiable data, which we may use for any lawful business purpose;
+  * to engage in routine business uses and Disclosures that an ordinary and reasonable person should expect in the context of the Services that we provide, the reasons for which we collect Personal Data, and/or the ways that similar businesses ordinarily operate, including, for example, uses and Disclosures:
+  * to meet our obligations and enforce our rights, to make Disclosures to third parties who help us ( _e.g_., service providers, information technology providers, mailing and other business process providers, outsourcing providers and so on) and to operate and improve our business;
+  * for security, anti-fraud, authentication and verification purposes;
+  * to respond to questions or requests or to contact you for lawful purposes, including for surveys;
+  * to vendors and their service providers who reasonably need the Personal Data to do their jobs;
+  * to verify your identity, authority, professional history, or other information;
+  * to respond to or participate in commercial disputes ( _e.g_., lawsuits or investigations);
+  * to persons appearing to have a lawful interest in the Personal Data ( _e.g_., to an insurance company processing an insurance claim involving you); or
+  * to comply with applicable law;
+  * in connection with a merger or other business combination or separation (including, but not limited to, a voluntary or involuntary change in our business or structure, reorganization, sale of all or part of our stock or asset, spinoff, bankruptcy, or dissolution); 
+  * to respond to legal process or regulatory authorities (such as subpoenas; warrants; investigative demands from law enforcement, regulators or others; national or international security letters or demands; etc.);
+  * to protect against fraud, claims, or other liability or harm to you, us, or others;
+  * to exercise or perform a legal, ethical, contractual or other right or obligation, including enforcing agreements you have made;
+  * to Third Party Services,including (without limitation) analytic data service providers (see “Third Party Services” below); and
+  * for such lawful purposes as may be disclosed or evident at the time that you provide Personal Data to us ( _e.g_., when you provide Personal Data in response to a survey, to sign up for an event, or to register for a newsletter).
 
-  to evaluate your application for employment;
 
-  to create de-identified, anonymized, aggregated or similar non-personally identifiable data, which we may use for any lawful business purpose;
-
-    to engage in routine business uses and Disclosures that an ordinary and reasonable person should expect in the context of the Services that we provide, the reasons for which we collect Personal Data, and/or the ways that similar businesses ordinarily operate, including, for example, uses and Disclosures:
-
-  to meet our obligations and enforce our rights, to make Disclosures to third parties who help us ( _e.g_., service providers, information technology providers, mailing and other business process providers, outsourcing providers and so on) and to operate and improve our business;
-
-   for security, anti-fraud, authentication and verification purposes;
-
-  to respond to questions or requests or to contact you for lawful purposes, including for surveys;
-
-  to vendors and their service providers who reasonably need the Personal Data to do their jobs;
-
-  to verify your identity, authority, professional history, or other information;
-
-  to respond to or participate in commercial disputes ( _e.g_., lawsuits or investigations);
-
-  to persons appearing to have a lawful interest in the Personal Data ( _e.g_., to an insurance company processing an insurance claim involving you); or
-
-  to comply with applicable law;
-
-  in connection with a merger or other business combination or separation (including, but not limited to, a voluntary or involuntary change in our business or structure, reorganization, sale of all or part of our stock or asset, spinoff, bankruptcy, or dissolution); 
-
-  to respond to legal process or regulatory authorities (such as subpoenas; warrants; investigative demands from law enforcement, regulators or others; national or international security letters or demands; etc.);
-
-  to protect against fraud, claims, or other liability or harm to you, us, or others;
-
-  to exercise or perform a legal, ethical, contractual or other right or obligation, including enforcing agreements you have made;
-
-  to Third Party Services,including (without limitation) analytic data service providers (see “Third Party Services” below); and
-
-  for such lawful purposes as may be disclosed or evident at the time that you provide Personal Data to us ( _e.g_., when you provide Personal Data in response to a survey, to sign up for an event, or to register for a newsletter).
 
 It is not possible for us to list every lawful use that we might make of Personal Data, so the Disclosures described above are general, non-exclusive, illustrations.  We reserve the right to engage in any lawful use or Disclosure of Personal Data that is consistent with this Privacy Policy.  Note, however, that we will not engage in any of the uses described above to the extent that they are prohibited by applicable law. 
 
@@ -125,6 +110,10 @@ We may obtain separate consents from you (or provide separate disclosures to you
 We may use third party systems and services for a variety of purposes (collectively, “Third Party Services”).  Such third parties may collect Personal Data or other information through the Site and may have their own terms of use and privacy policies which may apply to you.  For example, we may use third parties which may use various kinds of tracking cookies or other Technologies through our Site to collect Internet and Site usage data (such as data about where Site users come from, what they do, where they go, etc.)  Such third party data is typically stored on that third party’s servers and analyzed by that party to provide reports and information to us.  We do not control these third parties' tracking technologies or how they may be used. The Site, our Products, and/or our Services might link to or have functionalities that lead to other sites or services maintained by third parties.  If you access such third-party sites or services, any information that you provide to such parties will be subject to their privacy policies and procedures and not to this Privacy Policy.  You agree, however, that if such third parties provide your Personal Data to us, this Privacy Policy will apply to what we receive.
 
 Please note that the Third Party Services that we may use may change from time to time and we may need to update this Privacy Policy to reflect these changes.
+
+**Cross Border Data Transfers**
+
+Sharing of information sometimes involves cross-border data transfers to or from the United States of America and other jurisdictions. For example, where the Services are available to individuals in the European Economic Area ("EEA"), personal information is transferred to the United States. We use the EU-US and Swiss-US Privacy Shield and standard contractual clauses approved by the European Commission to validate transfers of EEA residents’ personal information from the EEA to other countries. For more information about our Privacy Shield certification, please read our [Privacy Shield Policy](https://www.we-worldwide.com/privacy-shield-policy "Privacy Shield Policy").  Standard contractual clauses are commitments between companies transferring personal information of EEA residents to protect the privacy and security of the transferred personal information.
 
 **Security and Data Retention**
 
