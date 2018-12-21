@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petsdetective.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525181725id_/http%3A//petsdetective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsdetective.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221203744id_/http%3A//petsdetective.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - petsdetective.com
+# Privacy policy | petsdetective.com
 
 We are committed to safeguarding the privacy of visitors to the Pets Detective website (the “Site”); this policy sets out how we will treat your personal information.
 
