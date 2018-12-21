@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630140532id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222004852id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
 
 # Caring.com Privacy Policy | Caring.com
 
-## Last Updated: June 29, 2018
+## Last Updated: July 30, 2018
 
 This Privacy Policy describes how we collect, use and share information when you use our Services. The terms "we," "us," or "our" mean Caring.com, its operating company, parent company and each of their legal subsidiaries and affiliates. The term "Services," means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, "Use of Your Information") as described in this Privacy Policy.
 
@@ -36,7 +36,7 @@ The following are situations in which you may provide Your Information to us:
 
 
 
-**Information Third Parties Provide** We may collect information about you from sources other than you, such as from social media websites (i.e., Facebook, LinkedIn, Twitter or others), blogs, other users and our business partners. 
+**Information Third Parties Provide** We may collect information about you from sources other than you, such as from social media websites (i.e., Facebook, LinkedIn, Twitter or others), other users and our business partners. 
 
 **General Use and Preference Information** We may collect, receive and store information regarding your general use of our Services (such as details of how and when you used our Services, interactions with our Services, log in information, resources that you access, your Internet protocol address, your browser type, and your device type), as well as your preferences. 
 
@@ -69,7 +69,7 @@ We may make Use of Your Information for various lawful business purposes. Among 
   * _Engage in customer support._ For example, we might confirm and complete transactions requested by you, verify information you provide to us and provide you with administrative notices. 
   * _Contact you and provide you with information._ For example, we might provide or contact you through telephone, email, postal or other communications with Service updates, promotional materials, surveys, offers, quotes, personalized information and other information from us or our business partners. 
   * _Analyze, improve and manage our Services and operations._ For example, we might obtain feedback regarding our Services, understand and anticipate your needs and preferences, better understand your use of our Services, customize and tailor Service content and advertising, improve our marketing and promotional efforts, engage in statistical analysis and provide feedback to our vendors, advert 
-  * _Resolve problems and disputes, and engage in other legal and security matters._ For example, we may use Your Information to comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](/about/terms) and any other applicable agreements and policies, meet other legal and regulatory requirements, and to protect the security and integrity of our Services and your information. 
+  * _Resolve problems and disputes, and engage in other legal and security matters._ For example, we may use Your Information to comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/about/terms) and any other applicable agreements and policies, meet other legal and regulatory requirements, and to protect the security and integrity of our Services and your information. 
 
 
 
@@ -121,7 +121,7 @@ You must be at least 13 years of age to register with or use certain portions of
 
 ## User Generated Content
 
-We offer publicly accessible blogs and other interactive media through our Services. To request removal of Your Information from our blog or community forum, contact us at community@caring.com. In some cases, we may not be able to remove Your Information, in which case we will let you know if we are unable to do so and why.
+We offer publicly accessible interactive media through our Services. To request removal of Your Information from our community forum, contact us at community@caring.com. In some cases, we may not be able to remove Your Information, in which case we will let you know if we are unable to do so and why.
 
 You are responsible for any content, including personally identifiable information, that you contribute to be published or displayed ("posted") on our Services, or that you transmit to other users of our Services (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of our Services at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content. We are not responsible for circumvention of any privacy settings or security measures of our Services. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided through our Services, including User Generated Content, is governed by our Terms of Use.
 
@@ -172,3 +172,14 @@ Individuals who are residents of California and have provided their personally i
 > 
 
 California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
+
+## Special Notification for Oregon Residents -- Your Oregon Privacy Rights
+
+  * We will not share your referral information with a senior living facility or marketing affiliate without obtaining affirmative consent from you for each instance of sharing the information.
+  * We will not refer you to a facility in which our employees or immediate family members of our employees has an ownership interest.
+  * We will not contact you if you request in writing that we stop contacting you.
+  * We will provide you access to our records for your referral information within 30 calendar days of your request of those records.
+  * We will maintain your records for a minimum of three years after we refer you to senior living communities and are no longer receiving referral services from us.
+  * On our website, we include a link to a state agency website listing complaints concerning facilities, [here](https://www.caring.com/senior-living/assisted-living/oregon).
+
+
