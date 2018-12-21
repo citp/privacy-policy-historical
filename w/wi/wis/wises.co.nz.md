@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wises.co.nz privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308234411id_/https%3A//yellow.co.nz/yellow-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wises.co.nz privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221073806id_/https%3A//yellow.co.nz/yellow-privacy-policy) for the most accurate reproduction.*
 
 # Yellow Privacy Policy
 
