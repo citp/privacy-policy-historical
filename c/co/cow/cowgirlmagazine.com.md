@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cowgirlmagazine.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630051908id_/https%3A//cowgirlmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowgirlmagazine.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221174943id_/https%3A//cowgirlmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cowgirl Magazine
 
