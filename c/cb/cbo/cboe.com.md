@@ -1,94 +1,146 @@
-> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212060038id_/http%3A//www.cboe.com/useradmin/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221181328id_/http%3A//www.cboe.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# privacy
 
-Last Updated: May 27, 2016
+Last Updated: April 20, 2018
 
-Cboe Exchange, Inc. and its affiliates (collectively, "Cboe") has created this Privacy Statement and Policy in order to demonstrate our firm commitment to the privacy of the users of a Cboe World Wide Website ("Website"). By using or accessing the Website, you signify your acknowledgment and assent to the Privacy Statement and Policy set forth below.
+Cboe Global Markets, Inc. and its affiliates (collectively, "Cboe", “we”, “us”, or “our”) have created this Privacy Notice and Policy in order to demonstrate our firm commitment to the privacy of a) users of a Cboe World Wide Website ("Cboe Website"); b) Cboe customers and prospective customers; c) Cboe participants, members, users and such persons’ associated persons and representatives; and d) any other individuals from whom Cboe collects personal data during the course of its business activities. This Privacy Notice and Policy describes the personal data we collect, how Cboe uses your personal data, with whom we may share such data and how you can contact Cboe, access your personal data and exercise your rights regarding Cboe’s use of your personal data.  By using or accessing a Cboe Website, you signify your acknowledgment and assent to this Privacy Notice and Policy. ****
 
-## Notice of Changes
+**Data Collection and Dissemination**
 
-Cboe reserves the right to change or update this Privacy Statement and Policy or the Terms and Conditions for use of the Website at any time. Accordingly, if such changes are made, we will disclose those changes on the Website so that users are aware of our policies concerning information collection, use, and disclosure. Any changes or updates will be effective immediately upon posting to the Website.
+Except as otherwise provided in this Privacy Notice and Policy, the following discloses our data gathering and dissemination practices.
 
-## Information Collection and Dissemination
+Cboe values your privacy and processes your personal data, as a data controller, in accordance with applicable data protection laws, including the EU General Data Protection Regulation (“GDPR”).  Processing means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction. 
 
-Except as otherwise provided in this Privacy Statement and Policy, the following discloses our information gathering and dissemination practices for the Website.
+Cboe processes your personal data for certain legitimate business purposes/interests which may include some or all of the following:
 
-In general, users can visit the Website anonymously without providing any personal information. There are, however, cases where users may be asked for personal information. For example, online surveys are occasionally conducted to better understand the needs and profiles of our Website users. Our online surveys typically ask users for demographic and profile information such as zip code, age, and income level. In addition, personal information is requested if you voluntarily register to receive additional information about Cboe or if you want to purchase a product directly from the Website. Our voluntary Website registration form requests user personal information such as name, mailing address and/or e-mail address. Registered Users have certain "opt-out" choices which are described in the choice/opt-out section below. 
+  * To administer and manage our relationship with you
+  * To evaluate, review, approve, or enter into potential contractual arrangements
+  * To enable us to enhance, modify, personalize or otherwise improve our services/ communications for the benefit of users
+  * To keep you informed about our activities, products and services that we think may be of interest to you, as permitted by applicable law
+  * To enhance the security of our network and information systems
+  * To better understand how people interact with Cboe Websites
+  * To comply with certain obligations under applicable law, industry guidelines and internal policies
+  * To manage, administer and assign transactions that are effected on Cboe facilities 
+  * To determine the effectiveness of promotional campaigns and advertising
 
-In connection with your use of forums, discussion boards, social networking or other interactive portions of the Website certain personal information such as your name and affiliation may be collected in connection with your user profile. Such personal information will be made publicly accessible and certain portions thereof may be automatically annotated to or linked to postings you make to the Website. Cboe shall have no obligation to protect the privacy or confidentiality of such profile information or any information that you post to any interactive portion of the Website.
 
-Cboe shares information with advertisers on an aggregate basis, but users should refer to the privacy statements (accessible below) of the service providers to the Website for their policies regarding use of personal information.
 
-## Security
+Use of a Cboe Website may involve the collection of personal data by Cboe. There are also cases where users may be asked for personal data on a Cboe Website. For example, online surveys are occasionally conducted to better understand the needs and profiles of Cboe Website users. Our online surveys typically ask users for demographic and profile data such as zip code, age, and income level. In addition, personal data is requested if you voluntarily register to receive additional information about Cboe, sign up for Cboe products and services, or if you want to purchase a product directly from a Cboe Website. Voluntary Cboe Website registration forms may request user personal data such as name, mailing address and/or e-mail address. Registered users of Cboe Websites may have certain "opt-out" choices which are described in the choice/opt-out section below.  
 
-Cboe shall exercise reasonable precautions to safeguard and secure all information provided by users in connection with accessing this Website. The Website has security protections in place that help to protect against the loss, misuse and alteration of the information under our control. Security protections use technology consistent with current industry standards as existing from time to time. Cboe periodically tests the security protections of its information systems and monitors the effectiveness of its information security controls, systems and procedures. Although we take proper measures to safeguard against unauthorized disclosures of information and because such information can be accessed through the Internet, no assurances can be provided to users that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement and Policy.
 
-## Data Retention
+**What Data We Share**
 
-The Website will retain your information for as long as your myCboe account (if applicable) is active or as needed to provide you with products or services. If you wish to cancel your myCboe account or request that we no longer use your information to provide you products or services contact us using the information provided below.
+Cboe will only grant access to personal data on a need-to-know basis, and such access will be limited to the personal data that is necessary to perform the business function for which such access is granted.  No authorization will be extended to access personal data on a personal basis. 
 
-## Logged Files
+From time to time, your personal data may be processed on our behalf by, or shared with, Cboe affiliates and other unaffiliated parties. (collectively “third parties”). Third parties who process your data may include agents, suppliers, vendors, business partners, and regulatory agencies that are located in the United States and in other countries inside and outside the European Economic Area (“EEA”) for the purposes outlined above.  For data transfers outside the EEA to third parties, Cboe relies on appropriate safeguards, as defined in GDPR and as approved by the European Commission, to provide an adequate level of protection. 
 
-The Website logs IP addresses and browser types for administration purposes, including logging the IP addresses associated with each post to or use of the Website. Such logs will be reviewed in order to improve the materials and content available on the Website. In addition, such information will be used to assist law enforcement activities and in connection with investigations, questions, claims or complaints relating to postings to or use of the Website.
+Select third party providers which may process your personal data may be found in the “Service Providers” section below. 
 
-## Cookies
+**Security**
 
-A cookie is a small text file that is stored on a user's hard disk or browser which can be used by a Website to enable its users to store tailored information from the Website. Cboe uses cookies to better serve our users when they return to our Website by storing user authentication information and setting selections. A cookie does not retrieve any other data from your hard drive. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You may continue browsing our Website even if you decide not to accept the cookie, however certain capabilities of the Website may be impaired. For more information about cookies, including how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/). This Privacy Statement and Policy covers the use of cookies by the Websites and does not cover the use of cookies by any service providers to the Website. [See the "Service Providers" section below.]
+Cboe shall exercise reasonable precautions to safeguard and secure personal data. Cboe has security protections in place that help to protect against the loss, misuse and alteration of the data under our control. Security protections use technology consistent with current industry standards. Cboe periodically tests the security protections of its information systems and monitors the effectiveness of its information security controls, systems and procedures. Although we take proper measures to safeguard against unauthorized disclosures of data, no assurances can be provided that personal data that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice and Policy.
 
-## Policies for Children
+**Data Retention**
 
-Cboe does not knowingly collect or use any personal information from users under 13 years of age. No information should be submitted to this Website by guests under 13 years of age.
+Cboe will retain your personal data for as long as your account, membership, customer relationship or any other business relationship with Cboe, as applicable, is active and as needed to provide you with products or services. In addition, personal data may be retained for such additional time as may be required under applicable law. If you wish to cancel your account or request that we no longer use your personal data to provide you with products or services contact us using the contact information provided below.
 
-## Links to Third-Party Websites and Framing
+**Logged Files**
 
-For the user's convenience, cboe.com provides links to other external websites. The listing of a link by Cboe should not be construed as a sponsorship, endorsement or approval of such websites, their content, or as an indication of the value of any claims, recommendations or other information contained therein. It is strongly advised that a qualified investment professional be consulted prior to engaging in any transactions. Users should be aware that Cboe has no control over any linked website and is not responsible for the contents or privacy practices of any linked website or any link on a linked website. Cboe urges our users to be aware when they exit the Website and to carefully read the privacy statements of each website that collects user identifiable information. The Website Privacy Statement and Policy is applicable only to information collected by the Website.
+Cboe Websites log IP addresses and browser types for administrative purposes, including logging the IP addresses associated with each post to or use of a Cboe Website. Such logs will be reviewed in order to improve the user experience and to improve the materials and content available on a Cboe Website. In addition, such information may be used for information security-related activities in connection with performance monitoring, investigations, questions, claims or complaints relating to use of a Cboe Website.
 
-Cboe prohibits the framing of any materials available through its Website, caching, or unauthorized hypertext links to the Website. Cboe reserves the right to disconnect or otherwise disable any unauthorized frames or hypertext links.
+**Cookies**
 
-## Solicitation of Information from Third Parties
+When you use a Cboe Website, Cboe and third party service providers may use “cookies.”  Cookies involve placing small files/code on your device or browser that serve a number of purposes, such as remembering your preferences (e.g., language) and generally improving your experience on Cboe Websites. Specifically, we may use such technology for purposes such as to:
 
-Cboe does not solicit information about our users from third parties.
+  * Gather analytics about Cboe Websites, including demographic information in a non-identifiable form, in order to improve Cboe Websites’ performance and customize users’ experience;
+  * Support security measures, such as requiring re-login into your account; and
+  * More effectively market Cboe Websites and advertise other websites (including those of our advertising partners) that may be of interest to you.
 
-## Supplementation Information
 
-The Website supplements the information that we provide with information that is received from third parties.
 
-## Access to Personally Identifiable Information
+You can set your browser to notify you when you receive a cookie, giving you the opportunity to decide whether to accept it. You may continue browsing a Cboe Website even if you decide not to accept the cookie, however certain capabilities of Cboe Websites may be impaired.  This Privacy Notice and Policy covers the use of cookies by Cboe Websites and does not cover the use of cookies by any service providers to Cboe Websites. [See also the "Select Service Providers" section below.]
 
-If you choose to update or delete personal information previously provided, Cboe will endeavor to correct, update or remove the personal information from our database. You can do this by contacting our User Support organization at the contact points specified below.
+**Policies for Children**
 
-## Choice/Opt-Out
+Cboe does not intentionally collect or use any personal data from users under 16 years of age. No data should be submitted to Cboe Websites by users under 16 years of age.
 
-The Website provides registered users the opportunity to opt-out of receiving communications from us at the point where we request information about the user. If you opt in, Cboe may (1) share the information with those organizations with which Cboe has a direct or indirect business relationship; (2) use the information for its own internal purposes, or (3) contact you for market-related research.
+**Links to Third-Party Websites and Framing**
 
-If you prefer not to receive traditional mail or other off-line promotions from Cboe or from organizations with which Cboe has a direct or indirect business relationship, please e-mail [inethelp@cboe.com](mailto:inethelp@cboe.com). Please include your full name and mailing address.
+For the user's convenience, Cboe Websites may provide links to other external websites. The listing of a link by Cboe should not be construed as a sponsorship, endorsement or approval of such websites, their content, or as an indication of the value of any claims, recommendations or other information contained therein. Cboe Website users should be aware that Cboe has no control over any linked website and is not responsible for the contents or privacy practices of any linked website or any link on a linked website. Cboe urges our users to be aware of when they exit the Cboe Website and to carefully read the privacy statements of each website that collects personal data. This Privacy Notice and Policy is applicable only to data collected by a Cboe Website.
 
-To remove yourself from any Cboe e-mail lists, please e-mail [inethelp@cboe.com](mailto:inethelp@cboe.com) or visit [http://www.cboe.com](http://www.cboe.com/) and click E-mail Alerts from your personalized home page. Please note: if you are not already signed in to your myCboe service, you will need to do so using your user name and password. To unsubscribe by postal mail, please write to Cboe.com Internet Marketing, 400 S. LaSalle Street, Chicago, IL 60605. If you have any questions, send an e-mail via the "Contact Cboe" form located at [http://www.cboe.com/Contact](http://www.cboe.com/aboutcboe/contactcboeadv.aspx).
+**Access to Personal Data**
 
-## Special Cases
+If you choose to update or delete personal data previously provided to Cboe, to the extent allowed by law, Cboe will endeavor to correct, update or remove the personal data being maintained by Cboe. You can do this by contacting us via the “Contact Cboe” form located at http://www.cboe.com/Contact or at the contact points specified below.
 
-Cboe reserves the right to disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury or interference with (either intentionally or unintentionally) our rights or property, other Website users, or anyone else that could be harmed by such activities. We may also disclose personal information without notice to you in response to a subpoena, or when requested from a United States government regulatory body or law enforcement agency, when we believe in good faith that the law requires it or to respond to any emergency situation.
+**Choice/Opt-Out**
 
-## Services Providers
+Cboe Websites provide registered users the opportunity to opt out of receiving communications from us at the point where we request data about the user. If you opt in, Cboe may (1) share the data with those organizations with which Cboe has a direct or indirect business relationship; (2) use the data for its own internal purposes, or (3) contact you for market-related research.
 
-Cboe has selected DoubleClick, Inc., a subsidiary of Google, Inc. ("Google") as an ad-serving/sales agent for the Website. Please review [Google's Privacy Policy](http://www.google.com/intl/en/policies/privacy/) for information about DoubleClick's data use policy and security measures as they relate to advertising.
+If you prefer not to receive traditional mail or other off-line promotions from Cboe or from organizations with which Cboe has a direct or indirect business relationship, send an e-mail via the “Contact Cboe” form located at http://www.cboe.com/Contact. Please include your full name and mailing address.
 
-Cboe uses Google Analytics, a web analytics service provided by Google. Google Analytics uses cookies or similar technologies to help the Website analyze how users use the Website. Please review ["How Google uses data when you use our partners' sites or apps"](https://www.google.com/policies/privacy/partners/) for information about how Google uses information collected through Google Analytics and how you may refuse the use of cookies. 
+To remove yourself from any Cboe e-mail lists, please visit the Cboe Website and click on “E-mail Alerts” from your personalized home page. Please note: if you are not already signed in to your account, you will need to do so using your user name and password.  Alternatively, to remove yourself from any Cboe e-mail lists, you may send an e-mail via the “Contact Cboe” form located at http://www.cboe.com/Contact.
 
-Cboe has selected Pardot, LLC, a Salesforce company, as a marketing automation agent for the Website. Pardot uses cookies or similar technologies to help the Website analyze how users use the site. Please review [Pardot's Privacy Policy](http://www.pardot.com/company/legal/privacy-policy/) for information about Pardot's data use policy and security measures. Please also review ["How Does Pardot Track Activities?"](http://www.pardot.com/faqs/prospects/pardot-track-activities/) for information about how Pardot uses cookies and how you may refuse the use of cookies. 
+If you have any other questions about opting out of any communications from Cboe, send an e-mail via the "Contact Cboe" form located at [http://www.cboe.com/Contact](http://www.cboe.com/aboutcboe/contactcboeadv.aspx).
 
-Cboe has selected PayPal to provide certain web services for online seminar registration, fulfillment, credit card transactions and other services. Please review the PayPal Privacy Statement [here](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) for information about PayPal's data use policy and security measures. 
+**Data Subjects Rights Under GDPR**
 
-Interest-Based Advertising. Cboe uses third-party advertising companies to provide you with Cboe advertisements that may be relevant to your interests, as determined by your activity on Cboe Websites and other websites. This type of ad-customization is known as "online behavioral" or "interest-based" advertising. These advertising companies may use cookies or similar technologies to understand your interests based on, for example, pages visited and browsing patterns on Cboe Websites. The information collected when you interact with Cboe Websites, content or services is used to display ads for Cboe products or services on third-party websites. This information may uniquely identify a browser but is not personally identifiable. You can generally opt-out of receiving personalized ads from third-party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website ([www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)) and the DAA website ([www.aboutads.info/choices](http://www.aboutads.info/choices)). Some of the third-party advertising companies used by Cboe may have adopted the use of the DAA's Advertising Options icon (AdChoices) on these ads for the purpose of allowing users the ability to opt-out of this form of tracking. You may click on the AdChoices icon to opt-out of receiving interest-based ads that are served to you based on your activity on Cboe Websites and other websites. You can also elect to block all cookies by using the cookie blocking options built into your browser software [see the "Cookies" section above.]
+To the extent provided for under GDPR, effective May 25, 2018, if you are a data subject in the European Union you are entitled to access your personal data; obtain information on the processing of your personal data; have your personal data rectified or erased or their processing restricted; or exercise your right to data portability. You also are entitled to withdraw any consent that you might have given to the processing of your personal data, including any consent for any direct marketing purposes with future effect. These are known as “Data Subjects Rights.” 
 
-## Contact Information
+If you would like to exercise your Data Subjects Rights or learn more about the details of the processing of your personal data, please contact us using the information provided below or please fill out a form provided [here](https://www.cboe.com/legal/gdpr).  Cboe will respond to your request(s) as soon as reasonably practicable within the legally required period of time. To help protect your privacy, Cboe takes reasonable steps to verify your identity before granting access to your personal data or responding to your requests. 
 
-If you have any questions regarding our privacy policy please contact us using the information below.
+If you are not satisfied with Cboe’s response or believe that we are not processing your personal data in accordance with applicable law please contact Cboe’s Data Protection Officer using the contact information provided below.  You also may contact or register a complaint with the competent supervisory authority or seek other remedies under applicable law.
 
-Cboe Options Exchange  
+**Special Cases**
+
+Cboe reserves the right to disclose personal data in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury or interference with (either intentionally or unintentionally) our rights or property, other Cboe Website users, or anyone else that could be harmed by such activities. We may also disclose personal data without notice to you in response to a subpoena, or when requested from a governmental, regulatory body or law enforcement agency or any other forum of competent jurisdiction when we believe in good faith that such disclosure is required, or to respond to any emergency situation.
+
+**Select Service Providers**
+
+Cboe has selected DoubleClick, Inc., a subsidiary of Google, Inc. ("Google"), as an ad-serving/sales agent for Cboe Websites. Please review [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/) for information about DoubleClick's data use policy and security measures as they relate to advertising.  
+
+
+Cboe uses Google Analytics, a web analytics service provided by Google. Google Analytics uses cookies or similar technologies to help Cboe Websites analyze how users use Cboe Websites. Please review ["How Google uses data when you use our partners' sites or apps"](https://www.google.com/policies/privacy/partners/) for information about how Google uses information collected through Google Analytics and how you may refuse the use of cookies.   
+
+
+Cboe has selected Pardot, LLC, a Salesforce company (“Pardot”), as a marketing automation agent. Pardot uses cookies or similar technologies to help Cboe Websites analyze how specific users use the site and to deliver personalized website content. Please review [Pardot's privacy policy](http://www.pardot.com/company/legal/privacy-policy/) for information about Pardot's data use policy and security measures. Please also review ["How Does Pardot Track Activities?"](http://www.pardot.com/faqs/prospects/pardot-track-activities/) for information about how Pardot uses cookies and how you may refuse the use of cookies.   
+
+
+Cboe has selected PayPal Holdings, Inc. (“PayPal”) to provide certain web services for online seminar registration, fulfillment, credit card transactions and other services. Please review the PayPal Privacy Statement [here](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) for information about PayPal's data use policy and security measures.   
+
+
+Interest-Based Advertising. Cboe uses third-party advertising companies to provide you with Cboe advertisements that may be relevant to your interests, as determined by your activity on Cboe Websites and other websites. This type of ad-customization is known as "online behavioral" or "interest-based" advertising. These advertising companies may use cookies or similar technologies to understand your interests based on, for example, pages visited and browsing patterns on Cboe Websites. The data collected when you interact with Cboe Websites, content or services is used to display ads for Cboe products or services on third-party websites. You can generally opt out of receiving personalized ads from third-party advertisers and ad networks which are members of the Network Advertising Initiative (NAI) or which follow the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website ([www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)) and the DAA website ([www.aboutads.info/choices](http://www.aboutads.info/choices)). Some of the third-party advertising companies used by Cboe may have adopted the use of the DAA's Advertising Options icon (AdChoices) on these ads for the purpose of allowing users the ability to opt out of this form of tracking. You may click on the AdChoices icon to opt out of receiving interest-based ads that are served to you based on your activity on Cboe websites and other websites. You can also elect to block all cookies by using the cookie blocking options built into your browser software [see the "Cookies" section above.]
+
+**Notice of Changes**
+
+Cboe reserves the right to update or change this Privacy Notice and Policy or any part of it from time to time without prior notice. Cboe encourages you to review this Privacy Notice and Policy periodically for changes. You may at any time contact us to request a copy of this Privacy Notice and Policy.
+
+**Contact Information**
+
+If you have any questions regarding this Privacy Notice and Policy please contact us using the information below.
+
+Cboe Global Markets, Inc.  
 Attention: Marketing Technology  
 400 S. LaSalle Street  
 Chicago, IL 60605  
 Fax: 312-786-7367  
-E-mail: [http://www.Cboe.com/Contact](http://www.cboe.com/aboutcboe/contactcboeemail.aspx?Topic=Other+General+Inquiries).
+E-mail: [Contact Form](http://www.cboe.com/contact)
+
+Cboe Global Markets, Inc.  
+Attention: Membership Services  
+400 S. LaSalle Street  
+Chicago, IL 60605  
+Fax: 312-786-8140  
+E-mail: [Registration@cboe.com](mailto:Registration@cboe.com)
+
+Cboe Europe Limited  
+Attention: Participant Services  
+11 Monument Street, 5th Floor  
+London EC3R 8AF UK  
+[participantserviceseurope@cboe.com](mailto:participantserviceseurope@cboe.com)
+
+Cboe Global Markets, Inc.   
+Attention: Data Protection Officer  
+400 S. LaSalle Street  
+Chicago, IL 60605  
+E-mail: [dataprotection@cboe.com](mailto:dataprotection@cboe.com)
