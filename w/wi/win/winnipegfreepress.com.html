@@ -1,59 +1,57 @@
-<!--The following is the downloaded HTML source of the winnipegfreepress.com privacy policy that was archived on 2018-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630030634id_/https%3A//www.winnipegfreepress.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winnipegfreepress.com privacy policy that was archived on 2018-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221155644id_/https%3A//www.winnipegfreepress.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch geolocation cssanimations csstransforms csstransforms3d csstransitions localstorage svg svgclippaths formvalidation"><head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="theme-color" content="#0078a9"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">        <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagservices.com/tag/js/gpt.js" type="text/javascript"></script><script language="javascript" type="text/javascript" src="https://www.winnipegfreepress.com/includes/WFP_cookies.js"></script>
-        <script type="text/javascript">               ( function() {
+<meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="theme-color" content="#0078a9"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="//cdn.keywee.co/dist/analytics.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TK48WJ9"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagservices.com/tag/js/gpt.js" type="text/javascript"></script><script language="javascript" type="text/javascript" src="https://www.winnipegfreepress.com/includes/WFP_cookies.js"></script>
+<script type="text/javascript">   ( function() {
 var is_from_eu =cookiejar.fetch('is_from_eu');
-                        var membership_type = cookiejar.fetch('fpnp__primary_membership_type');
-                        var is_subscribe_path = false;
-                        var is_cxense_bot = false;
-                       if(navigator.userAgent.indexOf('cXensebot') > -1){
-                            is_cxense_bot = true;
-                       }
-                       if(document.location.pathname.indexOf("/subscribe") > -1){
-                               is_subscribe_path = true;
-                       }
-                        if((typeof(is_from_eu) =='undefined' || is_from_eu == null  || is_from_eu == false ||  is_from_eu == 'yes') && (!is_subscribe_path) && (!is_cxense_bot)){
-                               if(typeof(membership_type ) !== 'undefined' && (membership_type == 'digital-access-paid-subscription' || membership_type == 'print-delivery-and-digital-access' )){
-                                       // do not check if user is subscriber 
-                               }else{
-                                       try{
-                                                 var loadGeoScriptAsync = function(uri){
-                                                       return new Promise((resolve, reject) => {
-                                                      var tag = document.createElement('script');
-                                                      tag.src = uri;
-                                                      tag.type='text/javascript';
-                                                      tag.onload = () => {
-                                                        resolve();
-                                                      };
-                                                  var firstScriptTag= document.getElementsByTagName('script')[0];
-                                                  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-                                                 });
-                                                  }
-                                               var scriptLoaded = loadGeoScriptAsync('https://ssl.geoplugin.net/extras/cookielaw.js?k=67ff89604d31f4c1');
-                                               scriptLoaded.then(function(){
-                                                       var result = geop1ugin_cookieConsent();  
-                                                       if(typeof(result) !== "undefined"){
-                                                           if(result){
-                                                                 window.location.href='/gdpr';
-                                                           }else{
-                                                                  cookiejar.bake('is_from_eu','no',3650,'/',document.domain);
-                                                           }
-                                                        }
-                                                });
-                                           
-                                        }
-                                        catch(err){
-                                                 console.log("Error occurred on GeoPlugin");
-                                        }
-                               }
-                            
-                        }
-                } )();
-        </script>
-     
+var membership_type = cookiejar.fetch('fpnp__primary_membership_type');
+var is_subscribe_path = false;
+var is_cxense_bot = false;
+   if(navigator.userAgent.indexOf('cXensebot') > -1){
+is_cxense_bot = true;
+   }
+   if(document.location.pathname.indexOf("/subscribe") > -1){
+   is_subscribe_path = true;
+   }
+if((typeof(is_from_eu) =='undefined' || is_from_eu == null  || is_from_eu == false ||  is_from_eu == 'yes') && (!is_subscribe_path) && (!is_cxense_bot)){
+   if(typeof(membership_type ) !== 'undefined' && (membership_type == 'digital-access-paid-subscription' || membership_type == 'print-delivery-and-digital-access'  || membership_type ==  'digital-access-trial-only') ){
+   // do not check if user is subscriber or trial user
+   }else{
+   try{
+ var loadGeoScriptAsync = function(uri){
+   return new Promise((resolve, reject) => {
+  var tag = document.createElement('script');
+  tag.src = uri;
+  tag.type='text/javascript';
+  tag.onload = () => {
+resolve();
+  };
+  var firstScriptTag= document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+ });
+  }
+   var scriptLoaded = loadGeoScriptAsync('https://ssl.geoplugin.net/extras/cookielaw.js?k=67ff89604d31f4c1');
+   scriptLoaded.then(function(){
+   var result = geop1ugin_cookieConsent();  
+   if(typeof(result) !== "undefined"){
+   if(result){
+ window.location.href='/gdpr';
+   }else{
+  cookiejar.bake('is_from_eu','no',3650,'/',document.domain);
+   }
+}
+});
+
+}
+catch(err){
+ console.log("Error occurred on GeoPlugin");
+}
+   }
+
+}
+} )();
+</script> 
 <script type="text/javascript"> var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var a=document.getElementsByTagName('script')[0],b=document.createElement("script");b.async=true;b.src="https://www.googletagservices.com/tag/js/gpt.js";b.type='text/javascript';a.parentNode.insertBefore(b,a)}()); </script>
 <script async="" src="//js-sec.indexww.com/ht/p/185517-159829111959756.js"></script><script type="text/javascript">var gptadunit = "/3823844/winnipegfreepress.com";
 var mobileadunit = "/3823844/m.winnipegfreepress.com";
@@ -61,8 +59,8 @@ var mobileadunit = "/3823844/m.winnipegfreepress.com";
 <meta name="verify-v1" content="lzarxQ0dLetbrZM+htnHzoOylY1jBOWlVX9yx7oyG4c="><style type="text/css" title="style_pluck_comments">.pmobile-comments-vote-down{display: none;}.pmobile-comments-vote-up{display: none;}.pluck-comm-rate-controls{display: none;}.loggedout{display: none;}.loggedin{display: none;}.isSbscrbr{display: none;}.isNotSbscrbr{display: none;}.pmobile-comments-submit-wrap{display: none;}.pmobile-comments-comment-reply{display:none;}.pmobile-comments-comment{display:none;}.pluck-comm-input-content{display: none;}.pluck-comm-reply-button{display: none;}.pluck-login-comment-input{display: none;}.pmobile-auth-wrap{display: none;}</style>
 <style type="text/css" title="conditionals">.account-state-element.trial { display: none; }.account-state-element.pay-as-you-go { display: none; }.account-state-element.not-logged { display: none; }.account-state-element.subscriber { display: none; }</style>
 
-
-<meta name="publish-date" content="2015-05-10 14:41:25 CDT"><meta name="cXenseParse:taxonomy" content=""><meta name="cXenseParse:recs:category" content=""><meta name="cXenseParse:taxonomy" content="privacy-policy"><meta name="cXenseParse:recs:category" content="privacy-policy"><meta name="cXenseParse:recs:description" content="What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy policy? | FPLP recognizes the importance of protecting the privacy of personally identifiable information collected about our customers. This includes subscribers to and users of our services, purchasers of our products, advertisers (including those who advertise in classified ads), contest entrants, and visitors to our website. We adhere to fair information practices and limit the collection, use, and disclosure of personal information which is provided to us, to only that information which is necessary for our business purposes, and to provide services to you. | FPLP collects personal information when we provide our services and our products to our customers and to fulfill administrative functions associated with these services, for example to permit billing, delivery of our newspapers and for marketing and other customer relationship purposes. On occasion, we contract with others to provide these services to you and where we engage agents or contract with others to provide those services, we require those agents to demonstrate a similar commitment to maintaining your privacy. | We do not collect, use or disclose personal information about our customers without the consent of our customers, except where disclosure is permitted or required by law."><meta name="cXenseParse:recs:publishtime" content="2015-05-10T19:41:25.000Z"><meta name="cXenseParse:recs:wfp-updatedtime" content="2015-05-10T19:41:25.000Z"><meta name="cXenseParse:recs:articleid" content="33233389"><meta name="cXenseParse:recs:image" content="noimage"><meta name="cXenseParse:wfp-sourceimage" content="wfp-circle"><meta name="cXenseParse:wfp-contenttargetpath" content="/privacy-policy"><meta name="cXenseParse:wfp-contentcategory" content="Privacy Policy"><meta name="cXenseParse:wfp-mediacommentscost" content="Story|comments|0"><meta name="cXenseParse:wfp-contenttypename" content="WFP General Page"><meta name="cXenseParse:recs:custom0" content="wfp-circle"><meta name="cXenseParse:recs:custom1" content="/privacy-policy"><meta name="cXenseParse:recs:custom2" content="Privacy Policy"><meta name="cXenseParse:recs:custom3" content="Story|comments|0"><meta name="cXenseParse:recs:custom4" content="WFP General Page"><meta name="cXenseParse:recs:wordcount" content="1185"><meta property="article:modified_time" content="2015-05-10T19:41:25.000Z"><meta name="bt:modDate" content="2015-05-10T14:41:25-0500"><meta property="bt:isBlacklisted" content="true"><meta property="og:image" content="//media.winnipegfreepress.com/designimages/fb-og-image.png"><meta property="og:image:type" content="image/png"><meta property="og:image:height" content="200"><meta property="og:image:width" content="200"><meta property="fb:page_id" content="68559611193">
+<meta name="publish-date" content="2015-05-10 14:41:25 CDT">
+<meta name="cXenseParse:taxonomy" content=""><meta name="cXenseParse:recs:category" content=""><meta name="cXenseParse:taxonomy" content="privacy-policy"><meta name="cXenseParse:recs:category" content="privacy-policy"><meta name="cXenseParse:recs:description" content="What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy policy? | FPLP recognizes the importance of protecting the privacy of personally identifiable information collected about our customers. This includes subscribers to and users of our services, purchasers of our products, advertisers (including those who advertise in classified ads), contest entrants, and visitors to our website. We adhere to fair information practices and limit the collection, use, and disclosure of personal information which is provided to us, to only that information which is necessary for our business purposes, and to provide services to you. | FPLP collects personal information when we provide our services and our products to our customers and to fulfill administrative functions associated with these services, for example to permit billing, delivery of our newspapers and for marketing and other customer relationship purposes. On occasion, we contract with others to provide these services to you and where we engage agents or contract with others to provide those services, we require those agents to demonstrate a similar commitment to maintaining your privacy. | We do not collect, use or disclose personal information about our customers without the consent of our customers, except where disclosure is permitted or required by law."><meta name="cXenseParse:recs:publishtime" content="2015-05-10T19:41:25.000Z"><meta name="cXenseParse:recs:wfp-updatedtime" content="2015-05-10T19:41:25.000Z"><meta name="cXenseParse:recs:articleid" content="33233389"><meta name="cXenseParse:recs:image" content="noimage"><meta name="cXenseParse:wfp-sourceimage" content="wfp-circle"><meta name="cXenseParse:wfp-contenttargetpath" content="/privacy-policy"><meta name="cXenseParse:wfp-contentcategory" content="Privacy Policy"><meta name="cXenseParse:wfp-mediacommentscost" content="Story|comments|0"><meta name="cXenseParse:wfp-contenttypename" content="WFP General Page"><meta name="cXenseParse:recs:custom0" content="wfp-circle"><meta name="cXenseParse:recs:custom1" content="/privacy-policy"><meta name="cXenseParse:recs:custom2" content="Privacy Policy"><meta name="cXenseParse:recs:custom3" content="Story|comments|0"><meta name="cXenseParse:recs:custom4" content="WFP General Page"><meta name="cXenseParse:recs:wordcount" content="1185"><meta property="article:modified_time" content="2015-05-10T19:41:25.000Z"><meta name="bt:modDate" content="2015-05-10T14:41:25-0500"><meta property="bt:isBlacklisted" content="true"><meta property="og:image" content="//media.winnipegfreepress.com/designimages/fb-og-image.png"><meta property="og:image:type" content="image/png"><meta property="og:image:height" content="200"><meta property="og:image:width" content="200"><meta property="fb:page_id" content="68559611193">
 
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy policy?
@@ -78,9 +76,9 @@ FPLP recognizes the importance of protecting the privacy of personally identifia
 <title>Privacy Policy - Winnipeg Free Press</title>
 <meta name="description" content="What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy... - Privacy Policy - Winnipeg Free Press.">
 <meta name="keywords" content="privacy policy">
-<link type="text/css" rel="stylesheet" href="/includes/v4_enhancement_lib.css?v=76"><link type="text/css" rel="stylesheet" href="/includes/v5_base.css?v=975"><script src="https://use.fontawesome.com/0c21a0b8c1.js"></script>
-<link rel="shortcut icon" href="//media.winnipegfreepress.com/designimages/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="//media.winnipegfreepress.com/designimages/apple-touch-icon-57x57.png">
+<link type="text/css" rel="stylesheet" href="/includes/v4_enhancement_lib.css?v=76"><link type="text/css" rel="stylesheet" href="/includes/v6_base.css?v=63"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<script src="https://use.fontawesome.com/0c21a0b8c1.js"></script>
+<link rel="shortcut icon" href="//media.winnipegfreepress.com/designimages/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon-precomposed" sizes="57x57" href="//media.winnipegfreepress.com/designimages/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//media.winnipegfreepress.com/designimages/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//media.winnipegfreepress.com/designimages/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//media.winnipegfreepress.com/designimages/apple-touch-icon-144x144.png">
@@ -114,7 +112,7 @@ var account_json = decodeURIComponent(allTheCookie.replace(/(?:(?:^|.*;\s*)fpnp_
 if (account_json.length > 0) {
 var account = JSON.parse(account_json);
 var subscription = account.active_primary_membership_uri;
- console.log(subscription);
+console.log(subscription);
 }
 console.log(v4UserClientId);
 
@@ -123,45 +121,50 @@ console.log(v4UserClientId);
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-350959-63', 'auto'); 
-      ga('set', 'dimension4', '1185');
+    ga('set', 'dimension4', '1185');
     if(subscription){
-  ga('set', 'dimension2', subscription);
+ga('set', 'dimension2', subscription);
   } else {
-  ga('set', 'dimension2', 'not-logged-in');
+ga('set', 'dimension2', 'not-logged-in');
   }
     if(v4UserClientIdHash != ""){
-  ga('set', '&uid', v4UserClientIdHash);
+ga('set', '&uid', v4UserClientIdHash);
   }
   ga('send', 'pageview');
 </script>
-<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '973542559332472');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=973542559332472&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TK48WJ9');</script>
+<!-- End Google Tag Manager -->
 <script src="https://cdn.boomtrain.com/analyticstrain/ae6897195848feb20f96c5beac08e41b/analyticstrain.min.js"></script>
-
+<script>
+(function (w,d) {
+w.kwa || (w.kwa = function () {
+(w.kwa.q = w.kwa.q || []).push(arguments);
+});
+se = d.createElement('script'),
+fs = d.scripts[ 0 ];
+se.src = '//cdn.keywee.co/dist/analytics.min.js' ;
+fs.parentNode.insertBefore(se,fs)
+}( window , document ));
+kwa( 'initialize' ,771,{trackEU: false});
+</script>
 </head>
 <body class="beta">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK48WJ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <script src="/includes/jquery.min.js?v=1"></script>
 																										<div class="slide-menu notranslate" id="slide-menu">
-	<h3>June 29, 2018 <a href="#" id="nav-close-btn" class="fr"><i class="entypo-cancel"></i></a></h3>
+	<h3>December 21, 2018 <a href="#" id="nav-close-btn" class="fr"><i class="fa fa-times"></i></a></h3>
 	<div class="weather">
-		<img src="//media.winnipegfreepress.com/designimages/weather-icon-b.jpg" alt="">
+		<img src="//media.winnipegfreepress.com/designimages/weather-icon-o.jpg" alt="">
 		<p class="info">Winnipeg<br>
-		<span class="bold">23° C</span>, Partly cloudy</p>
+		<span class="bold">-11° C</span>, Overcast</p>
 		<p class="full"><a href="/weather">Full Forecast</a></p>
 	</div>
 	<div class="header-links">
@@ -177,14 +180,14 @@ console.log(v4UserClientId);
 				<a class="type-help" href="/help">Help</a>
 			</div>
 			<ul>
-				<li><a class="slide-menu-section" href="javascript:void(0);"><i class="entypo-mail contact-icon"></i></a>
+				<li><a class="slide-menu-section" href="javascript:void(0);"><i class="fa fa-envelope contact-icon"></i></a>
 					<ul class="slide-menu-inner">
 						<li><a href="/contact-us">Contact Us</a></li>
 						<li><a href="/newstips">Submit a News Tip</a></li>
 						<li><a href="/mediakit/#contact-info">Advertising Contact</a></li>
 											</ul>
 				</li>
-				<li><a class="slide-menu-section" href="javascript:void(0);"><i class="entypo-cog settings-icon"></i></a>
+				<li><a class="slide-menu-section" href="javascript:void(0);"><i class="fa fa-cog settings-icon"></i></a>
 					<ul class="slide-menu-inner">
 						<div class="loader"><p><img src="//media.winnipegfreepress.com/designimages/jq-lightbox-ico-loading.gif"><br>Finding your<br>information</p></div>
 						<div class="loggedin">
@@ -213,11 +216,11 @@ console.log(v4UserClientId);
 						</div>
 					</ul>
 				</li>
-				<li><a class="type-help" href="/help"><i class="entypo-help"></i></a></li>
+				<li><a class="type-help" href="/help"><i class="fa fa-question"></i></a></li>
 			</ul>
 			</div>
 			<ul>
-			<li><a class="slide-menu-section" href="javascript:void(0);">Replica E-Edition <i class="entypo-plus"></i></a>
+			<li><a class="slide-menu-section" href="javascript:void(0);">Replica E-Edition <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="http://ee.winnipegfreepress.com" target="_blank">Winnipeg Free Press</a></li>
 					<li><a href="http://winnipeg.can.newsmemory.com/?special=The+Herald">The Herald</a></li>
@@ -232,9 +235,9 @@ console.log(v4UserClientId);
 			<li><h5>Sections</h5></li>
 			<li><a href="//www.winnipegfreepress.com/">Home</a></li>
 			<li><a href="//www.winnipegfreepress.com/local">Local</a></li>
-			<li><a href="//www.winnipegfreepress.com/canada">Canada</a></li>
+						<li><a href="//www.winnipegfreepress.com/canada">Canada</a></li>
 			<li><a href="//www.winnipegfreepress.com/world">World</a></li>
-			<li><a class="slide-menu-section" href="javascript:void(0);">Arts &amp; Life <i class="entypo-plus"></i></a>
+			<li><a class="slide-menu-section" href="javascript:void(0);">Arts &amp; Life <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="//www.winnipegfreepress.com/arts-and-life">All Arts &amp; Life</a></li>
 					<li><a href="//www.winnipegfreepress.com/arts-and-life/entertainment/arts">The Arts</a></li>
@@ -253,14 +256,14 @@ console.log(v4UserClientId);
 					<li><a href="//www.winnipegfreepress.com/arts-and-life/entertainment/TV">TV</a></li>
 				</ul>        
 			</li>
-			<li><a class="slide-menu-section" href="javascript:void(0);">Business <i class="entypo-plus"></i></a>
+						<li><a class="slide-menu-section" href="javascript:void(0);">Business <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="//www.winnipegfreepress.com/business">All Business</a></li>
 					<li><a href="//www.winnipegfreepress.com/business/agriculture">Agriculture</a></li>
 										<li><a href="//www.winnipegfreepress.com/business/finance">Personal Finance</a></li>
 				</ul>
 			</li>
-			<li><a class="slide-menu-section" href="javascript:void(0);">Sports <i class="entypo-plus"></i></a>
+			<li><a class="slide-menu-section" href="javascript:void(0);">Sports <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="//www.winnipegfreepress.com/sports">All Sports</a></li>
 					<li><a href="//www.winnipegfreepress.com/sports/amateur">Amateur</a></li>
@@ -285,7 +288,7 @@ console.log(v4UserClientId);
 			<li><a href="//www.winnipegfreepress.com/sports/football/bombers">Blue Bombers</a></li>
 			<li><a href="//www.winnipegfreepress.com/travel">Travel</a></li>
 			<li><a href="//www.theleafnews.com/" target="_blank">The Leaf - Cannabis News</a></li>
-			<li><a class="slide-menu-section" href="javasctip:void(0);">Opinion <i class="entypo-plus"></i></a>
+			<li><a class="slide-menu-section" href="javasctip:void(0);">Opinion <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="//www.winnipegfreepress.com/opinion">All Opinion</a></li>
 					<li><a href="//www.winnipegfreepress.com/opinion/analysis">Analysis</a></li>
@@ -295,7 +298,7 @@ console.log(v4UserClientId);
 					<li><a href="//www.winnipegfreepress.com/opinion/send_a_letter">Send a Letter to the Editor</a></li>
 				</ul>
 			</li>
-			<li><a class="slide-menu-section" href="javascript:void(0);">Media <i class="entypo-plus"></i></a>
+			<li><a class="slide-menu-section" href="javascript:void(0);">Media <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="//www.winnipegfreepress.com/multimedia">All Media</a></li>
 					<li><a href="//www.winnipegfreepress.com/multimedia/interactive">Interactive Graphics</a></li>
@@ -306,7 +309,7 @@ console.log(v4UserClientId);
 			</li>
 			<li><a href="//www.winnipegfreepress.com/special">Special Coverage</a></li>
 			<li><a href="//www.winnipegfreepress.com/corrections">Corrections</a></li>
-			<li><a class="slide-menu-section" href="javasctip:void(0);">Canstar Community News <i class="entypo-plus"></i></a>
+			<li><a class="slide-menu-section" href="javasctip:void(0);">Canstar Community News <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="//www.winnipegfreepress.com/our-communities">All Canstar Community News</a></li>
 					<li><a href="//www.winnipegfreepress.com/our-communities/headliner/">The Headliner</a></li>
@@ -321,17 +324,40 @@ console.log(v4UserClientId);
 					<li><a href="//www.winnipegfreepress.com/our-communities/e-editions.html">E-Editions</a></li>
 				</ul>
 			</li>
-			<li><a href="https://homes.winnipegfreepress.com/winnipeg-real-estate">Homes</a></li>
-			<li><a href="https://autos.winnipegfreepress.com/">Autos</a></li>
+			<li><a class="slide-menu-section" href="javasctip:void(0);">Homes <i class="fa fa-plus"></i></a>
+				<ul class="slide-menu-inner">
+					<li><a href="https://homes.winnipegfreepress.com/winnipeg-real-estate">Property Listings</a></li>
+					<li><a href="https://homes.winnipegfreepress.com/winnipeg-real-estate-news/category-featured">Featured News</a></li>
+					<li><a href="https://homes.winnipegfreepress.com/winnipeg-real-estate-news/category-renovation-design">Renovation and design</a></li>
+					<li><a href="https://homes.winnipegfreepress.com/winnipeg-real-estate-news/category-new-homes">New homes</a></li>
+					<li><a href="https://homes.winnipegfreepress.com/winnipeg-real-estate-news/category-resale-homes">Resale homes</a></li>
+				</ul>
+			</li>
+			
+			<li><a class="slide-menu-section" href="javasctip:void(0);">Autos <i class="fa fa-plus"></i></a>
+				<ul class="slide-menu-inner">
+					<li><a href="https://autos.winnipegfreepress.com/">All Autos</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/cars/salebyowner">Sell Your Car</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/cars/search?type=1&amp;make=0&amp;model=0&amp;price=0&amp;dealer=0&amp;odometer=0&amp;year=0&amp;service=0&amp;bodystyle=0&amp;city=0">New Cars For Sale</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/cars/search?type=2&amp;make=0&amp;model=0&amp;price=0&amp;dealer=0&amp;odometer=0&amp;year=0&amp;service=0&amp;bodystyle=0&amp;city=0">Used Cars For Sale</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/cars/search?type=3&amp;make=0&amp;model=0&amp;price=0&amp;dealer=0&amp;odometer=0&amp;year=0&amp;service=0&amp;bodystyle=0&amp;city=0">Certified Pre-owned vehicles</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/news/section/2/autos-articles">Autos Articles</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/news/section/1/autos-reviews">Autos Reviews</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/news/section/3/backyard-mechanic">Backyard Mechanic</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/news/section/5/classic-cruising">Classic Cruising</a></li>
+					<li><a href="https://autos.winnipegfreepress.com/news/section/4/willys-garage">Willy's Garage</a></li>
+				</ul>
+			</li>
 			<li><a href="http://marketplace.winnipegfreepress.com">Classifieds</a></li>
 			<li><a href="http://flyertown.winnipegfreepress.com?p=wfp&amp;chrome=nohead&amp;locale=en&amp;utm_source=fm&amp;utm_medium=fm_4513&amp;utm_term=title&amp;utm_campaign=wishabi_1_0">Flyers</a></li>
-			<li><a href="http://marketplace.winnipegfreepress.com/winnipeg/jobs/search">Jobs</a></li>
+			<li><a href="https://www.winnipegfreepress.com/coupons">Coupons</a></li>
+			<li><a href="http://marketplace.winnipegfreepress.com/winnipeg/careers/search">Jobs</a></li>
 			<li><a href="https://passages.winnipegfreepress.com">Obituaries</a></li>
 						<li><a href="http://store.winnipegfreepress.com">Store</a></li>
 			<li><a href="http://archives.winnipegfreepress.com/">Archives</a></li>
 			<li><a href="//www.winnipegfreepress.com/contests">Contests</a></li>
 			<li><a href="//www.winnipegfreepress.com/publications">Publications</a></li>
-			<li><a class="slide-menu-section" href="javascript:void(0);"> About Us <i class="entypo-plus"></i></a>
+			<li><a class="slide-menu-section" href="javascript:void(0);"> About Us <i class="fa fa-plus"></i></a>
 				<ul class="slide-menu-inner">
 					<li><a href="//www.winnipegfreepress.com/about-us/">About Us</a></li>
 					<li><a href="//www.winnipegfreepress.com/biographies/">Staff Biographies</a></li>
@@ -345,7 +371,7 @@ console.log(v4UserClientId);
 					<li><a href="//www.winnipegfreepress.com/cafe">News Café</a></li>
 				</ul>
 			</li>
-<li><a href="//www.winnipegfreepress.com/privacy-policy/">Privacy Policy</a></li>
+			<li><a href="//www.winnipegfreepress.com/privacy-policy/">Privacy Policy</a></li>
 		</ul>
 		<div class="social-icons">
 			<a href="http://www.facebook.com/winnipegfreepress" target="_blank" title="Winnipeg Free Press on Facebook"><i class="fa fa-facebook-f"></i></a>
@@ -489,22 +515,20 @@ console.log(v4UserClientId);
 	</li>
 	<li><a href="https://autos.winnipegfreepress.com/">Autos</a>
 	</li>
-	<li><a href="http://marketplace.winnipegfreepress.com">Classifieds</a>
-	</li>
-	<li><a href="http://flyertown.winnipegfreepress.com?p=wfp&amp;chrome=nohead&amp;locale=en&amp;utm_source=fm&amp;utm_medium=fm_4513&amp;utm_term=title&amp;utm_campaign=wishabi_1_0">Flyers</a>
-	</li>
-	<li><a href="http://marketplace.winnipegfreepress.com/winnipeg/jobs/search">Jobs</a>
-	</li>
-	<li><a href="https://passages.winnipegfreepress.com">Obituaries</a>
-	</li>
+	<li><a href="http://marketplace.winnipegfreepress.com">Classifieds</a></li>
+	<li><a href="http://flyertown.winnipegfreepress.com?p=wfp&amp;chrome=nohead&amp;locale=en&amp;utm_source=fm&amp;utm_medium=fm_4513&amp;utm_term=title&amp;utm_campaign=wishabi_1_0">Flyers</a></li>
+	<li><a href="https://www.winnipegfreepress.com/coupons">Coupons</a></li>
+	<li><a href="http://marketplace.winnipegfreepress.com/winnipeg/careers/search">Jobs</a></li>
+	<li><a href="https://passages.winnipegfreepress.com">Obituaries</a></li>
 	</ul>
 </nav>
+									<div class="breadcrumbs">
+														<a href="/" class="entypo-home"></a>																					<i class="entypo-right-open"></i>
+																		<a href="/privacy-policy">Privacy Policy</a>												 																			</div>
 </header>
 </div>
 <div id="fixedHeaderClose" style="clear: both;"></div>
 </div>
-
-
 </div>
 
 <!-- WFP General Page -->
@@ -556,12 +580,13 @@ console.log(v4UserClientId);
 <div id="top-link">
 	<a href="#inner-wrap" class="cd-top"><i class="entypo-up-open"></i>Top</a>
 </div>
-		<footer><a href="/">© Winnipeg Free Press 2018</a></footer>
+			<footer><a href="/">© Winnipeg Free Press 2018</a></footer>
 	
 	
 <script src="/includes/common.min.js?v=1"></script>
 
 <script src="https://scdn.cxense.com/cx.js" type="text/javascript" async="async"></script>
+<script src="https://scdn.cxense.com/cx.cce.js"></script>
 <script type="text/javascript">
 	var cX = cX || {}; cX.callQueue = cX.callQueue || [];
 </script>		
@@ -570,9 +595,10 @@ console.log(v4UserClientId);
 <script src="/includes/xdomain.min.js?v=1" slave="https://fpnewsplatform.winnipegfreepress.com/portal/x/https"></script>	
 	
 
-	 		<script src="/includes/v6_script_fp.min.js?v=243"></script>
+	 		<script src="/includes/v6_script_fp.min.js?v=301"></script>
 		<script src="/includes/v6_script_lib.min.js?v=2"></script><div id="igWhMVYKzUcA" style="display: none;"></div>
-			 
+				<script src="https://www.winnipegfreepress.com/includes/30aea03c7ea5e6d2e7c3b36679463aaa/v6_handlebars.js"></script>
+	 
 
 
 <script>
@@ -588,8 +614,8 @@ console.log(v4UserClientId);
 	var isGeneralPage = true;
 	var isCustomPage = true;
 	var cxenseSiteID = "9222350621649330874";
-	var currentTime = "2018-06-29T08:06:34";
-	var currentTimezone = "-0700";
+	var currentTime = "2018-12-21T07:56:44";
+	var currentTimezone = "-0800";
 	var publicationName = "Winnipeg Free Press";
 	var dfpData = {"channels":["privacy-policy"],"imp":"privacy-policy"};
 	var environment = "";
@@ -606,7 +632,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-	<script src="/includes/main.min.js?v=12"></script>
+	<script src="/includes/main.min.js?v=13"></script>
 		
 	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 	</script>
@@ -628,4 +654,4 @@ function googleTranslateElementInit() {
 </script>
 
 
-<iframe name="xdomain-855e4304" id="xdomain-855e4304" src="https://fpnewsplatform.winnipegfreepress.com/portal/x/https" style="display:none;"></iframe></body></html>
+<iframe name="xdomain-2f110167" id="xdomain-2f110167" src="https://fpnewsplatform.winnipegfreepress.com/portal/x/https" style="display:none;"></iframe></body></html>
