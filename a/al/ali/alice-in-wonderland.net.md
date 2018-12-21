@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alice-in-wonderland.net privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630011930id_/http%3A//www.alice-in-wonderland.net/terms-conditions-cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alice-in-wonderland.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221141110id_/http%3A//www.alice-in-wonderland.net/terms-conditions-cookies-privacy) for the most accurate reproduction.*
 
 # Terms, conditions, cookies and privacy - Alice-in-Wonderland.net
 
@@ -20,7 +20,7 @@ Sometimes I review products on my blog. I may have purchased those myself, or I 
 
 Several plugins that I use for my website may collect personal data like IP-addresses. Also, you can choose to send personal data using fill-out forms on this site (for example, when commenting on a blog post or making a post on the forum). This website also makes use of cookies. A cookie is a small file that is sent with web pages and stored by your browser on the hard drive of your computer. With these cookies I try to improve my (future) service and your user experience when you visit my site.
 
-When necessary for keeping this site safe and secure, some personal data (like your IP address) will be stored without your explicit permission. Functional cookies (cookies that are necessary to make the website operate) and analytical cookies that have no impact on your privacy, will always be placed when you visit this website. You have a choice whether or not to accept the use of other types of cookies (like 3rd party cookies for social media or advertising).  
+When necessary for keeping this site safe and secure, some personal data (like your IP address) will be stored without your explicit permission. Functional cookies (cookies that are necessary to make the website operate) and analytical cookies that have no impact on your privacy, will always be placed when you visit this website. You have a choice whether or not to accept the use of other types of cookies (like 3rd party cookies for social media or advertising). You can make this choice using the bar at the bottom of the website. If you do not click on the accept or decline button but continue to use this site by clicking to other pages, this action is considered to be an acceptance.  
 If you want to change your choice, see the button in the paragraph ‘Manage cookies, advertisements and personal data’ at the bottom of this page.
 
 Below you can read more about the cookies set by web pages on this website and when your personal data is stored.
@@ -84,6 +84,15 @@ Using this cookie, Google Analytics reports with interest and demographic data o
 
 In addition, I will have the opportunity to use the display advertising features of Google Analytics, such as remarketing, integration of the DoubleClick platform and generating reports for Google Display Network impressions. This allows me amongst others to tailor my advertisements to your click behaviour during your previous visits to my website.
 
+### Hotjar
+
+If you have allowed all cookies on this site, a tool called Hotjar may collect data from your visit. It may among others record your mouse movements and scrolling behaviour. I use this data to analyse how visitors use my website, in order to improve the user experience.
+
+Site visitors are assigned a unique user identifier, so that Hotjar can keep track of returning visitors without relying on any personal information, such as the IP address. The last octet of IP addresses of visitors are set to 0, to ensure your full IP address is never stored.  
+When collecting data with recordings, Hotjar automatically suppresses keystroke data on password fields and other sensitive fields.
+
+You can read all details about your data safety, privacy and security [on the Hotjar website](https://help.hotjar.com/hc/en-us/articles/115011639887-Data-Safety-Privacy-Security). You can also read about [the cookies they store on your computer](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies).
+
 ### Security plugins
 
 To secure my site, I use plugins like Wordfence and Sucuri Security. These plugins store your IP-address and location. This is necessary to identify spammers and hackers and thereby keep this website safe.
@@ -109,8 +118,8 @@ Finally, you can [manage cookies in your web browser](http://www.google.nl/intl/
 If you have used the cookie bar on this website to accept or decline all types of cookies, you can click the button below to change your choice.  
 
 
-If you want to review your personal data or want your personal data to be removed from my databases under the General Data Protection Regulation (GDPR) law, you can [send me a request](https://web.archive.org/web/20180630011930id_/http://www.alice-in-wonderland.net/terms-conditions-cookies-privacy/lenny@alice-in-wonderland.net). This does not include any data I am obliged to keep for administrative, legal, or security purposes.
+If you want to review your personal data or want your personal data to be removed from my databases under the General Data Protection Regulation (GDPR) law, you can [send me a request](https://web.archive.org/web/20181221141110id_/http://www.alice-in-wonderland.net/terms-conditions-cookies-privacy/lenny@alice-in-wonderland.net). This does not include any data I am obliged to keep for administrative, legal, or security purposes.
 
 ## 4\. Company info and contact details
 
-I am not a registered business, this is my private website which I operate as a hobby. My name is Lenny de Rooy, I live in the Netherlands and you can contact me through email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#630f060d0d1a23020f0a00064e0a0d4e140c0d0706110f020d074d0d0617).
+I am not a registered business, this is my private website which I operate as a hobby. My name is Lenny de Rooy, I live in the Netherlands and you can contact me through email: [lenny@alice-in-wonderland.net](mailto:lenny@alice-in-wonderland.net).
