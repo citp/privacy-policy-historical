@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theeducation.pk privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123164410id_/http%3A//theeducation.pk/u/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeducation.pk privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221064229id_/http%3A//theeducation.pk/u/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Education In Pakistan
-
-ADVERTISEMENT 
+# Privacy Policy | Education In Pakistan
 
 **Privacy Policy For www.theeducation.pk**
 
@@ -16,3 +14,5 @@ For further information on Terms of Use or Privacy Policy, please contact at adm
 **By Admin**
 
 **www.theeducation.pk**
+
+## Papers, Notes, Books & Help For Students
