@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcleaks.net privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910203310id_/https%3A//mcleaks.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcleaks.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221221010id_/https%3A//mcleaks.net/privacypolicy) for the most accurate reproduction.*
 
 # MCLeaks.net - Privacy Policy
 
@@ -36,7 +36,7 @@ You may opt out of the use of the DoubleClick Cookie for interest-based advertis
 
 **Google**
 
-Google may collect and store data about you. For more information, visit <http://www.google.de/policies/privacy/partners/>
+Google may collect and store data about you. For more information, visit [http://www.google.de/policies/privacy/partners/](https://www.google.de/policies/privacy/partners/)
 
 **Service Providers**
 
