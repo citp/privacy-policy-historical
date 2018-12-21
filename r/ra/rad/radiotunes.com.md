@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiotunes.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630035424id_/https%3A//www.radiotunes.com/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotunes.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221163658id_/https%3A//www.radiotunes.com/member/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadioTunes | Enjoy amazing Free Internet Radio stations
 
@@ -162,4 +162,4 @@ We will keep and use your data as described in this Privacy Policy for (i) as lo
 
 The Data Controller for the Platform and any services provided through them is:
 
-Digitally Imported, Inc. 3773 E. Cherry Creek North Drive Suite 575 Denver, CO 80209-3825
+Digitally Imported, Inc. 501 S. Cherry St Suite 1100 Denver, CO 80246
