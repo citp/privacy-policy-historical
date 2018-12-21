@@ -1,144 +1,152 @@
-> *The following text is extracted and transformed from the capitalbank-us.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228022519id_/https%3A//www.capitalbank-us.com/customer_service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalbank-us.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221081821id_/https%3A//www.capitalbank-us.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Capital Bank | About Capital Bank
+# Privacy Notice for Customers of the First Horizon Family of Companies
 
-## Notice of your financial privacy rights. Important information about procedures for opening a new account.
+## Facts
 
-To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. What this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see your driver's license and other identifying documents.
+What does the First Horizon and First Tennessee Family of Companies do with your personal information?
 
-**We** , **our** , and **us** , when used in this notice, mean Capital Bank. This is our privacy notice for our clients. When we use the words "you" and "your" we mean the following types of clients:
+### Why?
 
-  * Our personal clients who have a continuing relationship by purchasing or holding financial products or services such as a: 
-    * Deposit account
-    * Loan account
-    * Safe deposit box
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 
+### What?
 
+The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-We will tell you the sources of the information we collect about you. We will tell you what measures we take to secure that information. We first define some terms.
+  * Social Security number and income
+  * Payment history and account balances
+  * Credit score and credit history
 
-**Nonpublic personal information** means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter, we will use the term "information" to mean nonpublic personal information as defined in this section.
 
-An **affiliate** is a company we own or control, a company that owns or controls us, or a company that is owned or controlled by the same company that owns or controls us. Ownership does not mean complete ownership, but means owning enough to have control.
 
-A **nonaffiliated third party** is a person we do not employ or a company that is not an affiliate of ours. This is also known as nonaffiliated third party, or simply, an "other party."
+### How?
 
-### The Information We Collect
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons the First Horizon and First Tennessee family of companies chooses to share; and whether you can limit this sharing.
 
-We collect information about you from the following sources:
+Capital Bank is a division of First Tennessee Bank National Association and is part of the First Horizon and First Tennessee family of companies.
 
-  * Information you give us on applications or other forms
-  * Information about your transactions with us
-  * Information about your transactions with our affiliates
-  * Information about your transactions with other parties
-  * Information from a consumer reporting agency
-  * Information we receive as a result of verifying client information
+Reasons we can share your personal information | Does the First Horizon and First Tennessee family of companies share? | Can you limit this sharing?  
+---|---|---  
+For our everyday business purposes, such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+For our marketing purposes – to offer our products and services to you | Yes | No  
+For joint marketing with other financial companies | Yes | No  
+For our affiliates' everyday business purposes – information about your transactions and experiences | Yes | No  
+For our affiliates' everyday business purposes – information about your creditworthiness | Yes | Yes  
+For our affiliates to market to you | Yes | Yes  
+For non-affiliates to market to you | Yes | Yes  
+  
+### To limit our sharing
 
+Call [877-242-9880](tel:8772429880) – our menu will prompt you through your choice(s)
 
+Please note:  
+If you are a _new customer_ , we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
-### The Confidentiality, Security, And Integrity of Your Information 
+However, you can contact us at any time to limit our sharing.
 
-We restrict access to information about you to those associates who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards to protect this information.
+### Once I limit sharing, what if I change my mind?
 
-### Your Information and Our Affiliates
+If you have opted out of sharing, but you have changed your mind and would like to authorize us to share your information for permissible purposes (including to non-affiliates for marketing purposes), you may opt in by submitting a written request. [Download an easy form to complete and give us permission](https://web.archive.org/-/media/files/ftb-2018-opt-in-form.pdf?la=en) to begin sharing your information for marketing and other permissible purposes.
 
-We may disclose information about you to our affiliates. Here are the kinds of information and the source of that information:
+Once you download the form, please complete it and mail your Opt-In Authorization request to: Account Services/Account Records Dept. - FOPW, 3451 Prescott, Memphis, TN 38118 for processing. Due to state privacy laws, the Opt-In form is not for use with residents of California, Illinois, North Dakota, or Vermont.
 
-Transaction and experience information from our account records:
+### Questions?
 
-  * Information about your transactions and experience with us, such as: 
-    * Name
-    * Address
-    * Account balances
-    * Account activity
-    * Types of accounts
-    * Parties to the transaction
-    * Payment history
-    * Deposit history
+Use one of the following three options:
 
+  * Call [877-242-9880](tel:877-242-9880).
+  * Send a message by logging into Digital Banking.
+  * Send a message by visiting www.ftb.com/questions or www.capitalbank-us.com/questions.
 
 
-Federal law allows us to disclose the information listed above with our affiliates. You do not have a right to opt out of the disclosure of this information.
 
-### Types of Affiliates
+The Privacy Notice can be found online by visiting www.ftb.com/privacy or www.capitalbank-us.com/privacy.
 
-We may disclose information about you to the following types of affiliates:
+### Who we are?
 
-  * Financial service providers, such as:
-  * Investment agencies
+**Who is providing this notice?**   
+Financial institutions within the First Horizon and First Tennessee family of companies that provide lending, investment, and insurance products and services. Capital Bank is a division of First Tennessee Bank National Association and is part of the First Horizon and First Tennessee family of companies.
 
+### What we do
 
+**How does the First Horizon and First Tennessee family of companies protect my personal information?**  
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
-### Reasons for Disclosure
+**How does the First Horizon and First Tennessee family of companies collect my personal information?**  
+We collect your personal information, for example, when you
 
-We may disclose information about you to our affiliates:
+  * Open an account or apply for a loan
+  * Use your credit or debit card or apply for insurance
+  * Seek advice about your investments
 
-  * To provide you with information about additional products and services.
-  * To evaluate our total relationship with you and our family of companies and give you the best price that relationship deserves.
-  * To give you the benefit of our entire relationship when paying overdrafts and determining credit limits.
 
 
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
 
-### Your Information and Other Parties
+**Why can't I limit all sharing?**  
+Federal law gives you the right to limit only
 
-We will not disclose information about you to anyone except as disclosed in this policy or as permitted by law. Examples of this might include disclosures necessary to service your account or prevent unauthorized transactions.
+  * Sharing for affiliates' everyday business purposes – information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for non-affiliates to market to you
 
-### Information About Former Clients
 
-We do not disclose information about former clients, except as permitted by law.
 
-### Authorized Sharing - Outside Marketing Services
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.
 
-We may disclose the following information to companies that perform marketing services on our behalf:
+**What happens when I limit sharing for an account I hold jointly with someone else?**  
+Your choices will apply to everyone on your account.
 
-  * Information you give us on an application or other forms, such as: 
-    * Name 
-    * Address
+### Definitions
 
+**Affiliates**  
+Companies related by common ownership or control. They can be financial and non-financial companies.
 
+  * _Our affiliates include companies with a First Horizon/First Tennessee name; financial companies such as First Tennessee Bank; and others such as FTB Advisors Insurance Services, Inc._
 
-We disclose the information listed above with companies that perform marketing services on our behalf. You do not have a right to opt out of the disclosure of this information. We may also disclose information about you to other outside marketing services as permitted by law.
 
-### Types of Businesses
 
-Here are the types of businesses with whom we may disclose information for outside marketing purposes:
+**Non-affiliates**  
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * Service providers that perform marketing services for us, such as: 
-    * Direct sales companies
+**Joint marketing**  
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
+  * _Our joint marketing partners include insurance and investment companies._
 
 
-### Reasons for Disclosing
 
-We may disclose information about you to companies that perform marketing services on our behalf to provide you with information about additional products and services.
+### Other Important Information
 
-### Authorized Sharing - Joint Marketing
+For California Residents: We will not share personal information with affiliates or non-affiliates except as necessary for us to follow the law or as permitted by law.
 
-We may disclose the following information to other financial institutions with whom we have joint marketing agreements:
+For Vermont Residents: We will not share your personal information with our affiliates or with non-affiliates to market their products and services to you. We will not use your personal information to market our affiliates' or non-affiliates' products or services to you. We may provide your name, contact information, and transaction information to companies that perform marketing services for us or to financial institutions with which we have joint marketing agreements.
 
-  * Information you give us on an application or other forms, such as: 
-    * Name 
-    * Address
-  * Information about your transactions with us, such as: 
-    * Account balances
+For Illinois and North Dakota Residents: We do not share your personal information for joint marketing with other financial institutions. We do not share your personal information with non-affiliates to market their products or services to you.
 
+For Insurance (Including Annuity) Customers: We do not share information we collect related to any insurance transaction with us with non-affiliates to market to you. Residents of certain states may receive additional information concerning use and sharing of information we collect related to an insurance transaction with us.
 
+For Nevada Residents: In accordance with Nevada law, you may request to be placed on the internal do not call list for the First Horizon and First Tennessee Family of Companies. To be placed on this list please call [877-242-9880](tel:877-242-9880).
 
-We disclose the information listed above with other financial institutions with whom we have joint marketing agreements. You do not have a right to opt out of the disclosure of this information.
+Online Privacy Notice: The Online Privacy Notice for the First Horizon and First Tennessee Family of Companies is available at www.ftb.com/privacy and www.capitalbank-us.com/privacy. The Online Privacy Notice describes how we use and collect information about our website users.
 
-### Types of Businesses
+### The First Horizon and First Tennessee Family of Companies:
 
-We may disclose information pursuant to joint marketing agreements to the following types of businesses:
+Capital Bank*  
+Capital Auto Finance Co.  
+First Horizon*  
+First Horizon Bank*  
+First Horizon Equity Lending*  
+First Horizon Home Loans*  
+First Horizon Insurance Services, Inc.  
+First Tennessee Bank National Association  
+FTB Advisors, Inc.  
+FTB Advisors Insurance Services, Inc  
+First Tennessee Home Loans*  
+FTN Financial Capital Markets*  
+FTN Financial Main Street Advisors, LLC  
+FTN Financial Securities Corp.
 
-  * Financial service providers, such as: 
-    * Insurance agents
+  
 
-
-
-### Reasons For Disclosing
-
-We may disclose information about you to other financial institutions with whom we have joint marketing agreements to provide you with information about additional products and services.
-
-#### [Privacy Brochure PDF  ](https://web.archive.org/web/20101228022519id_/https%3A//www.capitalbank-us.com/pdf/Capital_Bank_Privacy.pdf)
-
-This documents require Adobe Acrobat Reader. If you don't already have this software installed, you can download it for free from Adobe's website. Get Acrobat Reader now.
