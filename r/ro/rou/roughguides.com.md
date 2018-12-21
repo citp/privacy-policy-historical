@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630112907id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221224530id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies | Rough Guides
+# Privacy & Cookies - Rough Guides | Rough Guides
 
 ## 1\. Introduction
 
-© Rough Guides® is a trademark owned by Apa Group with its headquarters at 136 Tooley Street, London SE1 2TU, United Kingdom and this site is owned & operated by Apa Digital AG, Bahnhofplatz 6, 8854 Siebnen, Switzerland, registered in the Commercial Register of the Canton of Schwyz, registration number CH20.3033.676). Apa Digital AG is the data controller and responsible for your personal data (referred to as “Rough Guides,” or “we” or “us” or a similar construction).
+Your privacy, and the security and integrity of your personal information is very important to Rough Guides! This Privacy Policy (this “Policy”) provides you with details of how we collect and process your information and personal data through your use of our site www.roughguides.com (“Site”). This includes any information you may provide through our site when you purchase a product or service, sign up to our newsletter or use other services, for example to download information.
+
+This privacy policy was last updated on September 26th 2018.
+
+© Rough Guides® is a trademark owned by Apa Group with its headquarters at Mill Street, London SE1 2BA, United Kingdom and this site is owned & operated by Apa Digital AG, Bahnhofplatz 6, 8854 Siebnen, Switzerland, registered in the Commercial Register of the Canton of Schwyz, registration number CH20.3033.676). Apa Digital AG is the data controller and responsible for your personal data (referred to as “Rough Guides,” or “we” or “us” or a similar construction).
 
 ## 2\. Scope of Policy
 
-We want visitors to our website to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you, we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about the way we collect and use personal information and how we use cookies.
+This Privacy Policy (this “Policy”) together with the Rough Guides Terms & Conditions (as applicable) apply to your use of: our website at roughguides.com (the “Website”); and any of the services accessible through the Website (the “Services”).
+
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed and used by us.
 
 ### Complaints
 
@@ -24,18 +30,35 @@ So that there’s no misunderstanding about how we handle your personal data, we
 
 
 
-We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.  
-By providing us with your data, you warrant to us that you are over 13 years of age.
+We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-**By using our website you accept the terms of this Privacy Policy.**
+By viewing, using, or otherwise interacting with the Website, you agree to be bound by the rules applicable of this Policy. If you do not agree to it and/or any part of this Privacy Policy, please do not use the Website or any other service offered electronically by Rough Guides.
+
+Please note that there are some areas of the Website which you may use without any required login credentials and without the requirement that you establish an account or otherwise reveal your identity.
+
+If you provide the Information of any other person to us, you hereby represent and warrant that you are authorized by such person (or his or her parent or legal guardian) to provide such Information for our purposes as provided herein.
+
+By providing us with your data, you warrant to us that you are over 13 years of age. Minors may not submit booking requests and should not provide any Information to the Website without the preceding consent of their parents or their guardian. Should a minor although submit a booking request it is assumed that either his parents or guardian have not supervised him or her properly and that they become liable as set forth in the Terms and Conditions and Art 333 Swiss Civil Code.
+
+This Privacy Policy does not cover any ideas or suggestions you may submit for the Website; any information you submit in the form of social media, blogs, responses to comments, reviews or user opinion, and any other content you submit with the apparent intention that such information be published or displayed on the Website, each of which we may use for any purposes in our sole discretion without limitation. We recommend that you do not include any personal, financial, health, or other sensitive information in any such user reviews, comments, or other social media posting or content, as that information may be published and publicly available; any anonymized data.
+
+The limits of liability and disclaimers set forth in our [Terms and Conditions](https://www.roughguides.com/terms-conditions/) also apply to our liability and responsibility under this Privacy Policy.
 
 ## 3\. Information we may collect about you
 
-We will not collect any personal data from you unless you specifically provide it and we will only use that information for the purposes to which you have consented. We do not ask you to provide any more information than is reasonably necessary to enable you to participate in an activity on our website and to improve the website.  
-We do not generally disclose your personal information to third parties. We may have to sometimes, in which case we will inform you of our intention to do so when we collect the information and you will have the opportunity to consent to that use or not.  
-Except as described in this Privacy Policy, we do not maintain any personal information obtained from users through this website in a retrievable form.
+Subject to the disclosures made in this Privacy Policy, we will not collect any Information without your knowledge and without proper legal basis, including your consent.
 
-**1) Information you give us “Submitted Information”** : This is information you give us about you by filling in forms on the Website, or by corresponding with us (for example, by e-mail or via the chat functions on the Website). It includes information you provide when you register to use our services, subscribe to any of our services, enter into any transaction on the Website, participate in discussion boards or other social media functions on the Website, enter a competition, promotion or survey and when you report a problem with the Website or the Services. If you contact us, we will keep a record of that correspondence.  
+In order to use many of the features on the Website, including without limitation to make a booking request, you are required to create a user profile and provide secure login credentials (including username/email and password). By creating your user profile, you are aware that we are processing your personal data and the information you provide for the purposes described in this Privacy Policy and as may otherwise be permitted by applicable law.
+
+We may store certain Information pertaining to your travel package requests, including Information pertaining to other participants for whom you are arranging travel, in order to allow you to complete requested information without having to re-input information for future trips or services.
+
+In addition, from time to time Rough Guides may request information via surveys or contests. Participation in these surveys or contests is completely voluntary, and you have a choice whether or not to disclose this information. In addition to any use of information described in this Privacy Policy, information collected during surveys and contests will be used for the purposes specified on the forms on which it is collected.
+
+Except as described herein, we will not sell your Information to third parties for their promotional activities unrelated to the purposes for which your information was submitted.
+
+### **1) Information you give us “Submitted Information”**
+
+This is information you give us about you by filling in forms on the Website, or by corresponding with us (for example, by e-mail or via the chat functions on the Website). It includes information you provide when you register to use our services, subscribe to any of our services, enter into any transaction on the Website, participate in discussion boards or other social media functions on the Website, enter a competition, promotion or survey and when you report a problem with the Website or the Services. If you contact us, we will keep a record of that correspondence.  
 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.  
 The information you give us may include
 
@@ -46,10 +69,15 @@ The information you give us may include
   5. **Marketing and Communications Data** may include your preferences in receiving marketing communications from us (including your email address) and our third parties and your communication preferences.
   6. **Information that you post to our website** for publication on the internet (including your user name and the content of your posts)
   7. **Information contained in or relating to any communication that you send to us** or send through our website (including the communication content and metadata associated with the communication)
+  8. **Specific Information Required to Process a Booking Request** to enable us to submit a booking request and to process booking confirmations. We may require information such as each travel participant’s name, birthdate, postal address, telephone number, age, loyalty or rewards program information, visa or other travel/work/resident permit information, driver’s license information, and the like. We may require additional information related to your travel itineraries or preferences, such as meal preferences (possibly including related allergy/health or religious information), requirements for travel or boarding assistance, flight origin, flight destination, flight time, duration of flight, seat number, and any other travel agency your tour providers may be required to coordinate with.
 
 
 
-**2) Information we collect about you and your devices “Device information”**. Each time you visit our Website we may automatically collect the following information:
+All information discussed in this section may be shared, in addition to the other uses described in this Policy, with the travel provider from whom you have requested bookings or other services, as necessary or appropriate to properly confirm and assemble your tour package or other services.
+
+### **2) Information we collect about you and your devices “Device information”**
+
+Each time you visit our Website we may automatically collect the following information:
 
   1. **technical information** , including the internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device information
   2. **information about your visit** , including the full uniform resource locators (URL), clickstream to, through and from our site (including date and time), services you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page
@@ -60,30 +88,13 @@ The information you give us may include
 
 We may also process **Aggregated Data** from your personal data, but this data does not reveal your identity and as such in itself is not personal data. An example of this is where we review your Usage Data to work out the percentage of website users using a specific feature of my site. If we link the Aggregated Data with your personal data so that you can be identified from it, then it is treated as personal data
 
-## 4\. Uses made of the information
-
-Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.  
-We may use your personal information to:
-
-  1. administer our website and business;
-  2. personalise our website for you;
-  3. enable your use of the services available on our website;
-  4. supply to you services purchased through our website;
-  5. send statements, invoices and payment reminders to you, and collect payments from you;
-  6. send you email notifications that you have specifically requested;
-  7. send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter);
-  8. send you marketing communications relating to our business which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
-  9. deal with enquiries and complaints made by or about you relating to our website;
-  10. keep our website secure and prevent fraud;
-  11. verify compliance with the terms and conditions governing the use of our website (including monitoring private messages sent through our website private messaging service)
-
-
-
 ### Sensitive data
 
 We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
-Where we ARE required to collect personal data by law, or under the terms of the contract between us and you do not provide me with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have requested but if we do, we will notify you at the time.
+Where we ARE required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have requested but if we do, we will notify you at the time.
+
+## 4\. Uses made of the information
 
 ### How we use your personal data
 
@@ -99,7 +110,9 @@ Below is a summary of the key types of data that we make use of as part of the R
 
 We use information held about you in the following ways:
 
-1) **Submitted Information** : We will use this information:
+### 1) **Submitted Information**
+
+We will use this information:
 
   * to carry out our obligations arising from any transactions you enter into with us and to provide you with the information, products and services that you request from us;
   * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
@@ -109,7 +122,9 @@ We use information held about you in the following ways:
 
 
 
-2) **Device Information** : We will use this information:
+### 2) **Device Information**
+
+We will use this information:
 
   * to administer our Website for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
   * to personalise our website and services for you
@@ -126,7 +141,7 @@ We may associate any category of information with any other category of informat
 **What we use your information for** | **Type of Information** | **Our legitimate interests**  
 ---|---|---  
 Discussions with a prospective client/ supplier/ associate | a) Identity  
-b) Contact | Necessary for our legitimate interests for negotiating or performing a contract with you  
+b) Contact | Necessary for our legitimate interests for negotiating or performing a contract with you.  
 Managing current and former client/supplier/associate relationships including:  
 (a) Development of client/ supplier/ associate contract  
 (b) Manage payments, fees and charges  
@@ -143,45 +158,40 @@ g) Information contained in or relating to any communication that you send to us
 – to comply with legal obligations  
 Administration & protection of our business & website (including troubleshooting, data analysis, testing, system maintenance, resource allocation, support, reporting and hosting of data) | i) technical information  
 j) information about your visit  
-l) usage Data | Necessary for our legitimate interests for running our business and website  
+l) usage Data | Necessary for our legitimate interests for running our business and website.  
 Personalization of your experience with the Website and improve our content | i) technical information  
 j) information about your visit  
-l) usage Data | Necessary for our commercial interest in providing you with a good experience in our Website and Services  
-Necessary for our legitimate interests to define types of customers for my products and services, to keep my site updated and relevant, to develop my business and to inform my marketing strategy  
+l) usage Data | Necessary for our commercial interest in providing you with a good experience in our Website and Services.  
+Necessary for our legitimate interests to define types of customers for my products and services, to keep my site updated and relevant, to develop my business and to inform my marketing strategy.  
 Providing user support and to contact you for administrative purposes relating to your account, or to provide you support in response to your queries; please note that additional Information may be collected from or in response to your query (name, phone number, mailing address or email address and billing information) and other information necessary to assist you | 1) Submitted information  
 i) Technical information  
-j) Information about your visit | Necessary for our legitimate interest to aid our users with any problems and questions they have in the context of using our Website or Services  
+j) Information about your visit | Necessary for our legitimate interest to aid our users with any problems and questions they have in the context of using our Website or Services.  
 Create aggregate and anonymous demographic or other information which we may use for any purpose once decoupled from your personal or financial information (such as to assist our advertisers in choosing ad space or tracking campaigns) | i) Technical information  
-j) Information about your visit | Necessary for our legitimate interests to learn how customers use our products & services, to develop them, to grow our business and to inform our marketing strategy and serve more relevant advertising  
+j) Information about your visit | Necessary for our legitimate interests to learn how customers use our products & services, to develop them, to grow our business and to inform our marketing strategy and serve more relevant advertising.  
 To deliver relevant content and advertisements to you, track conversions and measure and understand the effectiveness of our advertising.  
-The platforms where you may see advertisements from me are as follows. In the link you can find instructions how you can amend your privacy/ad settings for that specific platform.  
-Facebook and Instagram  
-([ad settings](https://www.facebook.com/settings?tab=ads), [ad preferences](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen))Twitter  
-Youtube  
-Pinterest | a) Identity  
+The platforms where you may see advertisements from me are as follows. In the link you can find instructions how you can amend your privacy/ad settings for that specific platform.Facebook and Instagram ([ad settings](https://www.facebook.com/settings?tab=ads), [ad preferences](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen))  
+Twitter ([privacy](https://twitter.com/en/privacy))  
+Youtube ([privacy](https://www.youtube.com/account_privacy))  
+Pinterest ([privacy](https://policy.pinterest.com/en/privacy-policy)) | a) Identity  
 b) Contact  
 c) Profile  
 d) Usage  
 e) Marketing and Communications  
-f) Technical | Necessary for our legitimate interests to learn how customers use our products & services, to develop them, to grow our business and to inform our marketing strategy  
+f) Technical | Necessary for our legitimate interests to learn how customers use our products & services, to develop them, to grow our business and to inform our marketing strategy.  
 To deliver email marketing content, free resources, provide information pertaining to Rough Guides’ services which may be of interest to you and to make recommendations about other services that may be of interest to you. | a) Identity  
 b) Contact  
 c) Profile  
 e) Marketing and Communications  
 f) Technical | Consent  
   
-#### Shopping
+### Shopping
 
 To purchase ebooks from our online shop, you will be required to register an account. For this, you will be asked to provide your name, email address, a password and password reminder, your billing and delivery address. We do not share these personal details with any third parties. We use a third-party payment service (PayPal) to facilitate payment. We do not store credit card details nor do we share financial details with any third parties. Ebook purchases are subject to our [Terms and Conditions](https://www.roughguides.com/terms-conditions/) of Sale & Purchase.
 
-#### Forums and User Content
+### Forums and User Content
 
 If you sign up to one of our forums, we will ask you to provide a username and email address so that we can let people know who posts which comment and to enable us to deal with any inappropriate or offensive behaviour.  
 For the same reasons, if you provide comments on any articles or upload your own content to our sites, we may ask you to provide your email address.
-
-#### Email and other contact details
-
-You may wish to contact us from time to time by sending us letters or emails or by filling in contact forms on one of our websites. We will only use this information to respond to your query or suggestion.
 
 ## 5\. Marketing
 
@@ -203,8 +213,13 @@ You can ask us or third parties to stop sending you marketing messages at any ti
 
 ## 6\. Disclosure of your personal data
 
-Except as provided herein, we will not disclose your Information to third parties.  We do share your personal Information as necessary to fulfill your requests or to enable certain functions or features on the Website, as follows:
+Except as provided herein, we will not disclose your Information to third parties. We do share your personal Information as necessary to fulfil your requests or to enable certain functions or features on the Website, as follows:
 
+  * If you request a travel booking or otherwise use the features or functions of the Website to investigate or purchase travel services, we will share relevant portions of your Information (including state issued identification information, such as passport numbers) with the third party who provides the applicable services in order to confirm and complete bookings and perform related functions. This includes providing your Information as necessary to deliver tickets, ship items, and submit email communications to you on our behalf. Generally, this will not include your payment card information to the extent we process your payments through the Website (however, see below regarding our payment processing providers). See below for additional detail related to Information necessary to process bookings.
+  * If you use the Website to process deposits or payments for travel or other tourism or travel related services, we will provide your payment card information to our payment card processing provider(s) for the purposes of screening for fraud, processing payments, and handling any payment card related queries and other issues (and related purposes). We do not store your payment card information ourselves at any time and you should not provide us your payment card or national identification information outside of the secure areas of the Website which expressly request such information.
+  * We may be required to share your Information with government or regulatory agencies in order to comply with relevant requirements, including but not limited to border control agencies. This may include, without limitation, mandatory circumstances, such as those which involve national security, where Insight Guides is required to disclose your Information even without your consent. For example, to ensure travel security, governments may require access to passengers’ names and related records (typically name, flight origin, flight destination, flight time, duration of flight, seat location, travel agent, form of payment, credit card numbers, travel itinerary, address, telephone number).
+  * We may share your contact information`s with service provider who is sending the newsletter on our behalf.
+  * We may share your non-financial Information with other partners to fulfil your requests or our obligations to you and for the purposes of responding to your questions, but only to the extent permitted by applicable law.
   * We may disclose your personal information to any of our employees, officers, insurers or professional advisers, insofar as reasonably necessary for the purposes set out in this policy.
   * We may disclose your personal information: 
     * to the extent that we are required to do so by law;
@@ -273,15 +288,34 @@ Where we need to collect personal data by law, or under the terms of a contract 
 
 ## 10\. Cookies
 
-We use cookies on this site to enable certain parts of the site to function and to collect non-personal information about your use of the site so that we can improve our visitors’ experience.
+The Website uses a feature of your web browser called a “cookie” — a file that your browser places on your computer’s hard drive to uniquely identify your computer.
 
-### What are Cookies?
+The Website creates and then uses cookies to make log-in more convenient, to tell us whether you have previously visited the Website, to track your clicks through the Website, and to help us determine whether you came to the Website from a particular Internet link or advertisement.
 
-Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They cannot harm your computer and do not contain any information that enable us to identify you personally, they just enable our websites to recognise your computer and to identify certain other non-personal information such as which browser you are using. This information can be used to make the website work, to identify which parts of the site can work better or to analyse how often people visit the site and what they look at. We will not associate this data with any personally identifying information that you may choose to provide to us in other ways.
+Cookies can also be used to save and retrieve passwords and to save information on past usage of features and other preferences. We do not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you.
+
+Some of our business partners, sponsors, and advertisers also use cookies through the Website (for example, advertisers) to track the success of their advertising and marketing efforts, which is standard practice for many of the websites you may visit.
 
 **By your using this website, we imply that you have read this policy and agree to us sending you cookies.**
 
-For information about how you can change how your browser deals with cookies, please see the “Managing Cookies” section below.
+### How to disable Cookies
+
+You can generally activate or later de-activate the use of cookies through a functionality built into your web browser. To learn more about how to control cookie settings through your browser:
+
+  * [Click here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about the “Private Browsing” setting and managing cookie settings in Firefox;
+  * [Click here](https://support.google.com/chrome/answer/95647?hl=en) to learn more about “Incognito” and managing cookie settings in Chrome;
+  * [Click here](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) to learn more about “InPrivate” and managing cookie settings in Internet Explorer; or
+  * [Click here](https://support.apple.com/) to learn more about “Private Browsing” and managing cookie settings in Safari.
+
+
+
+If you want to learn more about cookies, or how to control, disable or delete them, please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance. In addition, certain third party advertising networks, including Google, permit users to opt out of or customize preferences associated with your internet browsing. To learn more about this feature from Google, click here.
+
+Many jurisdictions require or recommend that website operators inform users/visitors as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies.
+
+### Third Party cookies
+
+Some features used on this website may involve a cookie being sent to your computer by a third party. For example, if you view or listen to any embedded audio or video content you may be sent cookies from the site where the embedded content is hosted. Likewise, if you share any content on this website through social networks (for example by clicking a Facebook “like” button or a “Tweet” button) you may be sent cookies from these websites. We do not control the setting of these cookies so please check the websites of these third-parties for more information about their cookies and how to manage them.
 
 ### Which cookies do we use on this site and why?
 
@@ -297,24 +331,19 @@ Google Analytics | __utma, __utmb, __utmc, __utmz | These cookies are used to co
 Twitter | __utmv, _twitter_sess, auth_token, auth_token_session, external_referer, guest_id, k, lang, original_referer, remember_checked, secure_session, twid, twll | These cookies allow users to log in, share and comment on content using their Twitter account. | [Twitter Privacy Policy](https://twitter.com/privacy)  
 Newsletter | ASPSESSIONIDAAACTD | This cookie allows us to remember which users have signed up to our newsletter. | –  
 WordPress & First-Party Cookies | RS, bp-message, bp-message-type, id, UIDR, w3tc_logged_out, wordpress_ d664b4336b42b193c461aa90eeef7097, wordpress_logged_in_ d664b4336b42b193c461aa90eeef7097 | These cookies are used by our website to perform and its platform, WordPress, to perform general functions such as: determining if you are logged in or not, remembering if you have accepted our terms and conditions, allowing you to add comments. | –  
+Rough Guides | APA_ENTRYPOINT_COUNTER, APA_LAST_ENTRYPOINT_COUNTER, APA_USAGE_COUNTER_ebook, APA_USAGE_COUNTER_expert, APA_USAGE_COUNTER_promo, APA_USAGE_COUNTER_slide-in2, APA_USAGE_COUNTER_slide-in3, APA_USAGE_COUNTER_social, APA_USAGE_COUNTER_trip_voucher, APA_USAGE_COUNTER_trips, meteor_token, meteor_user_id, meteor_login_token, user-country-code, user-ip-data, SERVERID, rg_sso_token | These cookies are used by our website to perform and its platform, WordPress, to perform general functions such as: determining if you are logged in or not, remembering if you have accepted our terms and conditions, allowing you to add comments. | –  
   
-### Third Party Cookies
-
-Some features used on this website may involve a cookie being sent to your computer by a third party. For example, if you view or listen to any embedded audio or video content you may be sent cookies from the site where the embedded content is hosted. Likewise, if you share any content on this website through social networks (for example by clicking a Facebook “like” button or a “Tweet” button) you may be sent cookies from these websites. We do not control the setting of these cookies so please check the websites of these third-parties for more information about their cookies and how to manage them.
-
-### How to manage cookies
-
-To make full use of this site, your device must be set to accept cookies otherwise some of its (for example online shopping) may not work.
-
-If you nevertheless want to restrict, block or disable cookies, you can do so by changing your browser settings. If you would like more specific information about how to change your browser settings, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which has detailed information for each browser as well as more information about cookies in general.
-
 ## 11\. Third party links
 
-We provide links to other products & services offered by third party websites. Purchases made on those sites will be subject to the Terms and Conditions of Sale for those sites and buying anything from those sites will constitute an acceptance of those terms.
+The Website may be, in whole or in part, an advertising supported Website, and when responding to a third party advertisement or offer, you may submit your information to such third party outside of our control.
 
-The Website may be, in whole or in part, an advertising supported Website, and when responding to a third party advertisement or offer, you may submit your information to such third party outside of our control. We may also include social-media plugins like Facebook and Twitter buttons. We are in no way responsible for any of your activities in respect of your use of third party social media.
+We may also include social-media plugins like Facebook and Twitter buttons. We are in no way responsible for any of your activities in respect of your use of third party social media.
 
-The Website may contain links to other websites that are not controlled by Rough Guides. We are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by Rough Guides and the Website.
+The Website may contain links to other websites that are not controlled by Rough Guides. We are not responsible for the privacy practices of such other websites.
+
+We encourage our users to be aware when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information.
+
+This Privacy Policy applies solely to information collected by Rough Guides and the Website.
 
 ## 12\. Other Events
 
@@ -327,15 +356,10 @@ We may notify you of changes to this policy by email.
 
 ## 14\. Contact
 
-If you have any questions about this web site or our privacy policy, please contact us by writing to:
+Should you have an queries on our Privacy Policy please contact us:
 
-Rough Guides  
-APA Publications  
-136 Tooley Street  
-London  
-SE1 2TU  
-England
+Email: mail@roughguides.com
 
-or by telephoning: +44 (0)20 7403 0284.
+Address: Apa Group headquarters: Mill Street, London SE1 2BA, United Kingdom
 
-This Privacy Policy was last updated: 25 May 2018
+Website: www.roughguides.com
