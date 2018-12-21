@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103054id_/http%3A//www.spoke.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221041420id_/http%3A//www.spoke.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Spoke
 
@@ -50,8 +50,8 @@ If a registered user's Personal Data (such as zip code, phone, email or postal a
 Registered users may make changes to their Personal Data (generally effective upon submission) or seek a Personal Data Review via the "profile" page in their Spoke dashboard. Registered users may also contact support via a support request. Please see the Suppressing Your Information in the Spoke Directory section above for access and correction rights for unregistered individuals. If after trying these methods, you believe they are not effective, you may also send a letter seeking the necessary changes or deletions to the following address: 
 
 Spoke Software, Inc.   
-302F Toyon Ave. # 244   
-San Jose, CA 95127   
+2930 Domingo Avenue #244   
+Berkeley, CA 94705   
 Attn: Personal Information Review 
 
 Access requests will be responded to within 30 days of receipt of the request. 
@@ -61,8 +61,8 @@ Access requests will be responded to within 30 days of receipt of the request.
 If you no longer wish to receive promotional communications from Spoke, you may opt-out of receiving them by following the instructions included in each promotional communication, or by sending a letter requesting that you not receive specific communications to the following address: 
 
 Spoke Software, Inc.   
-302F Toyon Ave. # 244   
-San Jose, CA 95127   
+2930 Domingo Avenue #244   
+Berkeley, CA 94705   
 Attn: Opt Out Requests 
 
 Users must be able to receive service-related communications in order to continue accessing the Spoke service. 
