@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630134653id_/https%3A//www.healthcareers.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222003523id_/https%3A//www.healthcareers.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | Health Careers
 
