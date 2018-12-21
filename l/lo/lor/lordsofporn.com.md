@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lordsofporn.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609192040id_/http%3A//www.lordsofporn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lordsofporn.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221221915id_/http%3A//www.lordsofporn.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Lords of Porn Privacy Policy
 
