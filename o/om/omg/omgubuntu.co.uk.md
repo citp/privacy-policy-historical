@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgubuntu.co.uk privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125232726id_/http%3A//www.omgubuntu.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgubuntu.co.uk privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221044507id_/http%3A//www.omgubuntu.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - OMG! Ubuntu!
 
@@ -26,7 +26,7 @@ Amongst the services that either do or may uses cookies on this site are:
 
   * Google Analytics for analytics
   * Twitter, Facebook, Google+ and YouTube for social interaction
-  * Possible advertisements
+  * Advertisements
   * Disqus for commenting
   * PollDaddy for polls and surveys
   * YouTube, Vimeo, Vine and Instagram embeds
@@ -35,6 +35,8 @@ Amongst the services that either do or may uses cookies on this site are:
 
 
 Some advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. These cookies are generally used for geo-targeting purposes (like showing Wisconsin real estate ads to someone in Wisconsin, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can opt out of personalised advertising from Google by visiting [Ads Settings](https://www.google.co.uk/settings/ads) and [aboutads.info](http://www.aboutads.info/choices/).
 
 **You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings.**
 
