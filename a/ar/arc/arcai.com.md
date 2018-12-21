@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618184153id_/http%3A//www.arcai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221052639id_/http%3A//www.arcai.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Arcai.com
 
@@ -48,4 +48,4 @@ By using our web sites, you consent to the collection and use of your informatio
 
 Contacting arcai.com
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our privacy coordinator at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our privacy coordinator at support@arcai.com
