@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the iop.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622130109id_/http%3A//www.iop.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iop.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221012144id_/http%3A//www.iop.org/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Notice – Institute of Physics
 
-## Who we are
+Who we are
 
 The Institute of Physics _**(‘IOP’, ‘we’, ‘us’ or ‘our’)**_ is a scientific membership society working to advance physics for the benefit of all. Alongside professional support for our members, we engage with policymakers and the public to increase awareness and understanding of the value that physics holds for all of us.
 
 To support our members and our work with the physics community, members of the public and policy makers, we may gather and process your personal information in accordance with this Privacy Notice **(‘notice’)** and in compliance with the relevant data protection regulations and laws. This notice provides you with information regarding your rights and our obligations and explains how, why and when we process your personal information. Where you have linked to this notice from an IOP website, references in this notice to “website” or “websites” are to the specific IOP website which you have linked from.
 
-IOP’s registered office is at 76 Portland Place, London, W1B 1NT and we are a registered charity in England and Wales under charity number 293851 and in Scotland under charity number SC040092 **.** We are registered on the Information Commissioner's Office Register of Data Controllers; our registration number is Z6802378> **.**
+IOP’s registered office is at 37 Caledonian Road, London, N1 9BU and we are a registered charity in England and Wales under charity number 293851 and in Scotland under charity number SC040092 **.** We are registered on the Information Commissioner's Office Register of Data Controllers; our registration number is Z6802378 **.**
 
-This notice was last updated on 22nd May, 2018
+This notice was last updated on 22 May, 2018
 
 ## Your Privacy
 
@@ -36,7 +36,7 @@ You may give us personal information when you interact with us, for example appl
 
 If you apply for membership, we may collect additional information such as details of referees to support your application. We will also collect information during the course of your membership. For example, the services you use, your attendance at events, your professional achievements and other contact you have with us.
 
-If you’re a volunteer then we may collect extra information about you (e.g. references, details of emergency contacts etc.). This information will be retained for legal or contractual reasons, to protect you and us (including in the event of an insurance or legal claim) and for safeguarding purposes.
+If you’re a volunteer then we may collect extra information about you (eg references, details of emergency contacts etc). This information will be retained for legal or contractual reasons, to protect you and us (including in the event of an insurance or legal claim) and for safeguarding purposes.
 
  **Personal information created by your interaction with us**
 
@@ -68,7 +68,7 @@ Your personal information may be collected and used to help us deliver our chari
 
  **Managing and administering your membership**
 
-We use the personal information you provide as a member to service your membership and to provide guidance on career options, continued professional development and professional standards. This includes sending renewal information, membership magazines and handbooks and information about our Annual General Meeting to members by mail and email. We will also process your personal information if you have chosen to participate in our mentoring programme and to facilitate and support branch and special interest groups, committee and assessment panel members and to provide access to online resources through your MyIOP account. If you are a Chartered Physicist, Charted Engineer, Registered Scientist or Registered Science Technician we will also hold your personal information (including your registration number and registration date) on the relevant Register.
+We use the personal information you provide as a member to service your membership and to provide guidance on career options, continued professional development and professional standards. This includes sending renewal information, membership magazines and handbooks and information about our Annual General Meeting to members by mail and email. We will also process your personal information if you have chosen to participate in our mentoring programme and to facilitate and support branch and special interest groups, committee and assessment panel members and to provide access to online resources through your IOPConnect account. If you are a Chartered Physicist, Charted Engineer, Registered Scientist or Registered Science Technician we will also hold your personal information (including your registration number and registration date) on the relevant Register.
 
  **Communicating with you**
 
@@ -192,29 +192,56 @@ If you wish to talk through anything in our privacy policy, find out more about 
 
 
 
- **Cookies** : **What are Cookies?**  
-This Website may place small text files, called cookies, on your computer to distinguish you from other users of this Website. These cookies monitor how you use this Website so that IOP can make improvements, and are also used to give you the best user experience (for example by remembering your login details so that you do not have to enter them each time). Some cookies may also be placed by third parties, for example Facebook and Google, if you use their services via this Website to monitor how you use their services and to target relevant advertising to you when you visit other websites on which they advertise.
+##  **Cookies: What are Cookies?**
 
-In most cases, cookies do not contain personally identifiable data.
+This website may place small text files, called cookies, on your computer to distinguish you from other users of this website. These cookies monitor how you use this website so that we can make improvements, and are also used to give you the best user experience (for example by remembering your login details so that you do not have to enter them each time). Some cookies may also be placed by third parties, for example Facebook and Google, if you use their services via this website to monitor how you use their services and to target relevant advertising to you when you visit other websites on which they advertise.
 
- **What cookies may be placed?**  
-This Website may use the following types of cookies:
+## You have a choice…
 
-  *  **Strictly necessary cookies (Type 1):** these cookies are essential in order to enable you to move around this Website and use its features, such as accessing secure areas of this Website. Without these cookies, certain services you have asked for cannot be provided.
-  *  **Analytical/performance cookies (Type 2):** these cookies allow IOP to recognise and count the number of visits to this Website and to see how visitors move around this Website when they are using it, so that we can improve how this Website works. These cookies do not collect personally identifiable information.
-  *  **Functionality cookies (Type 3)** : these cookies remember choices you make to improve your experience; for example, your user name, language or region.
-  *  **Targeting cookies (Type 4)** : these cookies are placed by third parties to collect information about your browsing habits when you elect to use their services, in order to make advertising relevant to you and your interests.
+You have a choice as to whether or not you want to accept these useful cookies. Cookies are, by default, accepted by around 99% of web browsers, but you have the ability to change this within your browser settings. If you change the cookie settings you’re likely to experience a more reduced user experience and reduced functionality on many websites. More information about [cookies and details on how to remove them](https://beta.iop.org/www.aboutcookies.org) is available.
 
+## What cookies do we use?
 
+The cookies that we use on our website in most cases collect anonymous information in order to optimise our services.
 
-You can find out more information about the individual cookies actually used on this Website by viewing the [IOP Cookie Directory](http://www.iop.org/privacy/cookies/page_56534.html), which is updated regularly.
+## What cookies may be placed?
 
-IOP is not responsible for the use of cookies by third parties, and users are encouraged to read the privacy statements of those third party service providers before using their services. Links to third party privacy statements can be found in the [IOP Cookie Directory](http://www.iop.org/privacy/cookies/page_56534.html).
+This website may use the following types of cookies:
 
- **How do I opt-out of cookies?**  
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). You should note that deleting certain cookies may prevent you from accessing certain parts of this Website and/or may affect your user experience.
+### Strictly necessary cookies
 
-To opt out of being tracked by Google Analytics across all websites, and not just this Website, visit: <http://tools.google.com/dlpage/gaoptout>>
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
 
- **Links**  
-This Website may contain links to third party websites and services that are not under IOP’s control. Please be aware that IOP is not responsible for the privacy practices of such other websites. We encourage you to read the privacy statements of these third-party websites and services.
+### Analytical/performance cookies
+
+#### Google analytics
+
+This cookie allows us to see data on things like the number of users visiting our site and the browsing behaviour of those visitors. This type of data will let us understand which parts of our site get the most users and traffic and which parts of the website are underperforming. All of the information gathered is completely depersonalised and will never be tracked back to individuals.
+
+These cookies allow us to recognise and count the number of visits to this website and to see how visitors move around this website when they are using it, so that we can improve how this website works. These cookies do not collect personally identifiable information. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+### Functional cookies
+
+#### Google AdWords
+
+We use the code provided by Google AdWords to better track how successful (or not so successful) our advertising through the AdWords platforms has been which allows us to better understand what our users want. For example, we are able to see from which one of our adverts you clicked on and from which campaign you downloaded one of our PDF’s or became a new member.
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+### Tailored cookies
+
+These cookies may be set by us or third parties and record your visit to our site, the pages you have visited, your progress in completing any forms on our site and the links you have followed. They may be used to build a profile of your interests and/or to show you relevant adverts on other sites and we may share this information with third parties for this purpose. For example, if you leave our site and continue your journey elsewhere ads may appear on such websites from us which are tailored to you. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies you will experience less targeted advertising.
+
+IOP is not responsible for the use of cookies by third parties and users are encouraged to read the privacy statements of those third party service providers before using their services.
+
+#### Social shares
+
+All of the social sharing features on our website set their own cookies (eg Facebook, Twitter, LinkedIn, Instagram, Flickr, YouTube) so that we can track the social engagement.
+
+## Changing cookie preferences
+
+We have made changing your cookie preferences very easy; there is a cookie settings link in the footer of every page of this website. Click the link to change your cookie preferences with ease at any time. You will not be able to opt out of strictly necessary cookies.
+
+## Links
+
+This website may contain links to third party websites and services that are not under our control. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage you to read the privacy statements of these third-party websites and services.
