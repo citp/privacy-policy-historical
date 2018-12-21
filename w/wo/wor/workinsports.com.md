@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630134545id_/https%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222003502id_/https%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
 
 # WorkInSports.com - Privacy Policy
 
@@ -37,7 +37,7 @@ Should you post your resume, the amount of information you choose to keep confid
 Refer-A-Friend  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friends name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. WorkInSports.com stores this information for the sole purpose of sending this one-time email. 
 
-Your friend may contact [Customer Support](https://web.archive.org/web/20180630134545id_/https%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
+Your friend may contact [Customer Support](https://web.archive.org/web/20181222003502id_/https%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
 
 Target Job Information  
 We also use Personal Information to provide you with targeted job information. For example, your email job alert will contain job information based on the job locations and categories you choose. 
@@ -97,7 +97,7 @@ In the event WorkinSports.com goes through a business transition, such as a merg
 
 **Access to Personal Information**
 
-Upon request Work In Sports, LLC will provide you with information about whether we hold any of your personal information. If your personal information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your ï¿½Account Settingsï¿½ page or by contacting [Customer Support](https://web.archive.org/web/20180630134545id_/https%3A//www.workinsports.com/wiscontactus.asp). We will respond to your request to access within a reasonable timeframe. 
+Upon request Work In Sports, LLC will provide you with information about whether we hold any of your personal information. If your personal information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your ï¿½Account Settingsï¿½ page or by contacting [Customer Support](https://web.archive.org/web/20181222003502id_/https%3A//www.workinsports.com/wiscontactus.asp). We will respond to your request to access within a reasonable timeframe. 
 
 **Legal Disclaimer**
 
