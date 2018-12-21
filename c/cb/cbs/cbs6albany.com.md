@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529195418id_/http%3A//cbs6albany.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221152308id_/https%3A//cbs6albany.com/station/privacy) for the most accurate reproduction.*
 
 # Albany Privacy | News, Weather, Sports, Breaking News | WRGB
 
