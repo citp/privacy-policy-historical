@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theunlockr.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219231333id_/https%3A//theunlockr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunlockr.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222110642id_/https%3A//theunlockr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,6 +60,10 @@ whenever you are asked to fill in a form on the website, look for the box that y
 if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us. 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+**Third Party Analytics and Advertisements.**
+
+We may also allow third parties to provide analytics services and serve advertisements on our behalf across the Internet. These entities may use cookies, web beacons and other devices or technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Digital Trends and third parties to, among other things, analyze data, determine the popularity of certain content, deliver advertising or other content targeted to your interests and better understand the usage and visitation of our Services and other sites tracked by these third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
 **Opt Out**
 
