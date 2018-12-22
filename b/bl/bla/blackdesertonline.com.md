@@ -1,191 +1,184 @@
-> *The following text is extracted and transformed from the blackdesertonline.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415111540id_/https%3A//blackdesertonline.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdesertonline.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222065208id_/https%3A//www.blackdesertonline.com/account/Policy.html) for the most accurate reproduction.*
 
-# Black Desert Online, the next gen MMORPG
+# Black Desert Online Login
 
-We at Kakao Games Europe B.V., a Dutch company registered with the Dutch Trade register under n° 62780476, having its registered office at Stroombaan 12, 1181 VX Amstelveen, Netherlands (hereinafter, “Kakao Games Europe” or “we”), are committed to provide our players with transparency especially with regards to their personal data. The present document (our “Privacy Policy”) aims at providing you with simple and accurate information on the personal data we collect, how we collect it and for what purposes. Your rights with regards to the collected personal data are also stated in our Privacy Policy. If you have any question or comment, you can contact us directly at the following email address: support@blackdesert.zendesk.com 
+**Privacy Policy**
 
-**What do you mean by “personal data”?**
+We at Kakao Games Europe B.V., a Dutch company registered with the Dutch Trade register under no. 62780476, having its registered office at Handelsweg 59J 4th Floor, 1181 ZA Amstelveen, The Netherlands (hereinafter, “Kakao Games Europe” or “we”), take the protection your personal data seriously. That is why we ensure that your personal data is secured and monitored against abusive use and access by unauthorized parties. This document (hereinafter: “the Privacy Policy”) is intended to provide you with simple and accurate information about the personal data we collect, how we collect the personal data and for what purposes. Your rights with regard to the collected personal data are also mentioned in this Privacy Policy.
 
-In application of article 2 of [Directive 95/46/EC](http://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:31995L0046), personal data means any information related to you that would allow to directly or indirectly identify you. 
+Before using our services please read carefully this Privacy Policy. If you do not agree to this Privacy Policy, do not use our Services.
 
-**What personal data does Kakao Games Europe collect and process when I browse on the blackdesertonline.com website?**
+We reserve the right to make changes to this Privacy Policy at any time. In such event, we will notify you either with an official announcement on our website www.blackdesertonline.com (hereinafter: “the Website”) or with an email sent to your registered email address. Announced changes will only come into effect after a reasonable period of time. You can reject the updated Privacy Policy by stop using our Website.
+
+Data protection officer contact details:  
+You may contact our data protection officer (KyuMan Lym) using the contact details below:  
+by email at privacy@blackdesertonline.com  
+or by phone at +31 (0) 6 43 70 64 70 
+
+**What means “personal data”?**
+
+Personal data means "any information relating to an identified or identifiable natural person” ( [Article 4 (1) of the General Data Protection Regulation (hereinafter: “GDPR”)](https://gdpr-info.eu/art-4-gdpr/)).
+
+**What personal data do we gather about you and how, when you visit the Website?**
+
+We collect personal data in order to improve your experience at our Website. We also process data that you leave on our website. The Website uses "Cookies". These are small files that get saved on your computer and enable the analysis of your use of the Website. The data about your browsing behavior collected by the cookie usually gets sent to the Google servers in the US and is saved there. We do this to gather information about the pages users visit on our Website, to keep track of how often users come back and to see which pages are doing well on the Website. We also keep track of what information the browser shares. We do this online using the following tools and cookies:
 
 **Google Analytics**
 
-Purpose: Google Analytics allow us to measure the audience on our website. The data is collected by Google and Kakao Games Europe. 
+The website uses Google Analytics. This allows us to gain insight into how our site is used. This means, among other things, that we understand how you and where you are on our website. To obtain this insight, we collect and process data about your use of the website, your location from which you use the Website, your IP address and information about your browser and operation system.
 
-Consent: When you access our website, a banner is displayed informing you which cookies will be installed if you continue to browse on our website. By either continuing to browse or clicking “Got it!” on the banner, you give us your consent to the installation of Google Analytics cookies on your browser. Accessing the Privacy Policy from the banner will not trigger the use of Google Analytics cookies 
+When you access our website, a banner is displayed informing you which cookies will be installed if you continue browsing on our Website. If you continue browsing or click on "I agree" on the banner, you are giving your consent to use Google Analytics.
 
-"Cookies" are text files that get saved on your computer and enable the analysis of your use of the website. The information about your browsing behavior collected by the cookie usually gets sent to the Google servers in the US and saved there. 
+The collected and processed data expires after the end of the browser session and after two years from set/update.
 
-Data collected and processed: Google Analytics cookies collect data on history of web pages you visited, your IP address as well as browser and operating system information. 
+To opt out of being tracked by Google Analytics cookies on all the websites you visit, please go to https://tools.google.com/dlpage/gaoptout?hl=en
 
-Expiration: depending on the Google Analytics cookie, the expiration time varies between the end of the browser session and 2 years from set/update. 
+**Functional Cookies**
 
-**Facebook Pixel**
+We use functional cookies. The functional cookies we use are session ID cookies. These cookies are necessary for the proper functioning of the Website. For example, we use cookies to log in and respond. The functional cookies allow us to keep your account session open while you browse. This means that you do not have to log in at every page again.
 
-Purpose: Facebook Pixel is a tracking code provided by Facebook that allows us to track which advert brought you to our website, which pages you visited on it, and if you acquired any service from us, such as a pre-order package. It allows us to check the efficiency of our advertisement campaigns and of our website. 
+Your consent is not required for such cookies. Please note that session ID cookies are required for the proper functioning of our website.
 
-Consent: When you access our website, a banner is displayed informing you which cookies will be installed if you continue to browse on our website. By either continuing to browse or clicking “Got it!” on the banner, you give us your consent to use Facebook Pixel tracking code. Accessing the Privacy Policy from the banner will not trigger the use of Facebook Pixel tracking code. 
+Data collected and processed: IP address, browser information, date and time.
 
-Data collected and processed: Facebook Pixel collects data on history of web pages you visited, the actions you performed on them, your IP address as well as browser and operating system information. Since Facebook Pixel is a Facebook product, it also uses the information of your Facebook account in order to target audience for advertisement. 
+The collected and processed data expires after the end of the browser session if you have not checked the "Stay logged in" box when you signed up on our Website. If you checked the box 'stay logged in' the cookies expire after 24 months.
 
-Expiration: Facebook Pixel is not a cookie but a tracking JavaScript code in the html code of our website. When it is active (once you continue browsing on our website), it communicates with Facebook servers. 
+**Third Party Cookies**
 
-**Tracking code**
+We use tracking cookies. These third party cookies follow individual behavior on our website. It creates profiles, for example to enable targeted advertisements. The tracking cookies also collect data relating to the traffic to the website. We use this information to determine how our site is found and used to ultimately improve your experience on our website.
 
-Purpose: When you click on one of our commercial banners located on third party’s website directing you to our website, we use a tracking code that allows us to monitor the accounts created and the licenses sold to people who clicked on that specific commercial banner. This allows us to pay our advertisers based on the number of copies of the game sold to users coming from their website(s).< /P>
+We also use Facebook Pixel. Facebook Pixel is a tracking code cookie provided by Facebook. It allows us to track which advert brought you to our website and which pages you visited on it. It helps us to make our advertisement campaigns more efficient.
 
-Consent: Since commercial banners are located on third parties’ websites, we have no control over them, on the information you received regarding cookies and on the application of your right to oppose to such data collection. Kakao Games will however use its best efforts to ensure that third parties obtain your consent on Kakao Games Europe’s behalf when one of our commercial banner is placed on their website(s). 
+In addition we use social media functions. This provides us anonymous data that we can analyze to find how our information is shared outside of the website. These cookies are used to collect anonymous statistics and performance data.
 
-Data collected and processed: 
+When you access our website, a banner is displayed informing you which cookies will be installed if you continue browsing on our Website. If you continue browsing or click on "Got it!" on the banner, you are giving your consent to use the cookies.
 
-  * Name of the website on which you clicked on our commercial banner;
+You can remove cookies. You do this by changing the settings of your browser. At the bottom of this Privacy Policy you will find an instruction how to remove Cookies.
 
-  * Your IP address;
+**What personal data do we collect when you play a game on our Website and for what purposes?**
 
-  * If you create an account, the name of your account.
+When you decide to play a game on our Website, you have to create an account. The following data is processed when you create an account.
 
+_Name;_
 
+_Username/Nickname;_
 
+_Email address;_
 
-Duration: we keep the collected data for the duration required by law for billing documents. 
+_IP address;_
 
-**Session ID cookies**
+_Date of birth;_
 
-Purpose: every time you log in on our website or on the forum with the user account you registered on our website, we use session ID cookies that allow us to keep your account session open while your browse on it. This way, you do not have to log in again every time you open a new page. 
+This information is used to identify your account. It allows us to let you make in game purchase, access the offered games, request customer support and assist you if you lose your password. We use the data also to inform you about our product range, to improve our services and fix bugs. We do not sell your information to third parties for commercial purposes. We may also use your IP address in order to generate anonymous statistics about our player base.
 
-Consent: please note that session ID cookies are required for the proper operation of our website. Such cookies do not require your consent. 
+ When you play the game that services provided by us, following data is processed.
 
-Data collected and processed: 
+_Session information;_
 
-  * IP address;
+_IP address;_
 
-  * Browser information;
+_MAC address;_
 
-  * Date and time.
+_Hardware information._
 
+This information is used in order to:
 
+_Provide you customer support when you request it;_
 
+_Verify that you do not violate the terms of service;_
 
-Duration: 
+_Generate anonymous statistics about our player base;_
 
-  * If you did not check the “stay logged in” box when you logged in on our website, the cookies will expire when you close your Internet browser;
+_improve the game experience._
 
-  * If you checked the “stay logged in” box when you logged on our website, the cookies will expire after 24 months.
+Your anonymous hardware information (to the extent that you cannot be directly or indirectly identified based on such information) is not personal data and we do not sell your information to third parties for commercial purposes. 
 
+**What personal data we collect and process when you buy a game package or “Kakao Cash” for the virtual item shop?**
 
+Your billing information allow us to properly process your order, provide you customer support if required, comply with taxes and maintain business records. We require billing information for any transaction you perform on our website. The following data is processed for billing purposes:
 
+_Name;_
 
-You can find how to do remove cookies from your computer in our knowledge base article: [Removing Cookies](https://blackdesert.zendesk.com/hc/en-us/articles/205696422)
+_Address, including City, State and Country;_
 
-**What Personal data does Kakao Games Europe collect and process when I create an account?**
+_Payment method information._
 
-When you decide to create an account on our website blackdesertonline.com, you are required to provide the following information: 
+Your billing information are collected and processed by third parties who provide us billing services (Global Collect, Paypal, Payletter and Paymentwall). We will keep a copy of your billing data as well as the API key for the relevant payment method. We keep the collected data for the duration required by law for billing documents. 
 
-  * A valid email address;
+**Will Kakao Games Europe send me newsletters as soon as I have registered my email?**
 
-  * Your birthday;
+Yes, Kakao Games Europe will send you newsletters with relevant developments on the platform, game updates, offers or other relevant information for our users. The frequency depends on these factors.
 
-  * A nickname of your choice;
+**Who do you share my personal data with? And where do you store my data?**
 
-  * Your IP address.
+All personal data we have collected from you is accessible only to duly authorized employees of Kakao Games Europe for the purposes stated in our Privacy Policy.
 
+External companies or natural persons to the extent that such access to your personal data is required to provide you with the various services you require, and provided that a confidentiality agreement has been signed in advance to ensure the confidentiality of your personal data;
 
+Legal authorities, law enforcement agencies or a natural person if we are legally required and / or have received a request to provide the data;
 
+All relevant emergency services or law enforcement agencies if we think your health or safety is at risk;
 
-This information is used to identify your account. It allows us to let you use the shop on our website, access Black Desert Online, request customer support and assist you if you lose your password. We may also use your IP address in order to generate anonymous statistics about our player base. 
+All subsequent legal entities, in the case of a merger, acquisition, consolidation, sale or transfer of assets, or any event that affects the company and that requires us to transfer control over user data, provided that such a transfer is made authorized by applicable law and required for the performance of the envisaged transaction.
 
-**Will you send me emails about the game once I have registered on your website?**
-
-When you create an account, we will ask your permission to add you to our mailing list, allowing us to send you emails about the game, including news, updates and special offers. When registering your account, you will have to check a box in order to provide us your consent to receive such emails. If you do not check that box, you will not receive emails about the game. 
-
-You can unsubscribe from our mailing list at any time by clicking on the link provided for that purpose in any email you receive as a subscriber of our mailing list. 
-
-We may send you, from time to time, emails informing you about any major change we made to our Privacy Policy and/or our Terms of Service. You can stop receiving such emails by contacting customer support and requesting the deletion of your account. 
-
-**What personal data does Kakao Games Europe collect and process when I play Black Desert Online?**
-
-In order to connect to the game, you will be prompted to enter the username you registered on our website and your password. 
-
-When you connect to Black Desert Online for the first time, you will be prompted to choose a family name for all characters created on your account as well as a character name for each specific character. Since such information will be displayed in-game and on our forums if you use them, we advise you to avoid using any name that could directly or indirectly identify you. If by mistake you picked your own family name for your characters, please contact customer support. 
-
-During your gameplay, we will collect your session information, including your IP address, your MAC address, your hardware information, the time your session begun, how long it lasted, how and when it ended. 
-
-This information is used in order to: 
-
-  * provide you customer support when you request it;
-
-  * verify that you do not violate the terms of service;
-
-  * generate anonymous statistics about our player base;
-
-  * improve the game experience.
-
-
-
-
-Your anonymous hardware information (to the extent that you cannot be directly or indirectly identified based on such information) is not personal data and, as such, may be transferred to the developer of Black Desert Online, Pearl Abyss, a Korean Company, in order to improve the game or fix bugs. 
-
-All personal data collected while you play Black Desert Online will be kept a duration of 24 months. 
-
-We also keep a copy of all in-game chat logs for a duration of 24 months. 
-
-**What personal data does Kakao Games Europe collect and process when I buy a license for Black Desert Online or “Pearls” for the virtual items shop?**
-
-Your billing information allow us to properly process your order, provide you customer support if required, comply with taxes and maintain business records. We require billing information for any transaction you perform on our website, for instance if you decide to acquire: 
-
-  * a license to play Black Desert Online;
-
-  * “Pearls”, a virtual currency which can be used in the in-game shop of Black Desert Online, where you can acquire virtual items for the game.
-
-
-
-
-The following personal data are collected for billing purposes: 
-
-  * First name and last name;
-
-  * Address, including City, State and Country;
-
-  * Payment method information.
-
-
-
-
-Your billing information are collected and processed by third parties who provide us billing services (Global Collect and Paypal). 
-
-Kakao Games Europe will keep a copy of your billing data as well as the API key for the relevant payment method. 
-
-Duration: we keep the collected data for the duration required by law for billing documents. 
-
-**Who do you share my personal data with? Where are you storing my data?**
-
-By default, all the personal data we collected from you can only be accessed by duly authorized employees of Kakao Games Europe for the purposes mentioned in our privacy policy. 
-
-We may share your personal data with: 
-
-  * external companies or natural persons only to the extent such access to your personal data is required to provide you the different services you require, including customer support, and provided that a non-disclosure agreement was signed beforehand in order to guarantee the confidentiality of your personal data; 
-
-  * Legal agencies, law enforcement authorities or anyone with the proper legal authorization when we are required by law and/or have received a request to provide the data; 
-
-  * Any relevant emergency service or law enforcement authority if we believe your health or safety is threatened; 
-
-  * Any succeeding legal entities, in the event of a merger, acquisition, consolidation, sale or transfer of assets, or any event affecting the company and requiring us to transfer the control of users’ personal data, provided such transfer is allowed by applicable law and required for the execution of the considered operation. 
-
-
-
-
-All personal data is stored on our servers located in the European Union. If you play Black Desert Online on the North American server, we will store your personal data both in North America and the European Union. 
-
-**What happens if you decide to update the Privacy Policy?**
-
-We may be required to change our Privacy Policy from time to time in order to keep you informed about any new personal data collection and processing. In such event, we will notify our registered users either with an official announcement on our forums, either with an email sent to their registered email address which will provide a link to the updated Privacy Policy. Announced changes will only come into effect after a reasonable period of time. You can reject the updated Privacy Policy by stopping to use our website, the shop and Black Desert Online. 
+All personal data is stored on our servers located in the European Union.
 
 **What are my rights?**
 
-In accordance with the Dutch Data Protection Act (“ _Wet bescherming persoonsgegevens_ ”), the collection and processing of personal data on our website and on Black Desert Online has been declared to the Dutch Data Protection Authority ( _College Bescherming Persoonsgegevens_ ). 
+You have the following rights:
 
-In application of articles 35.1 and 36.1 of the Dutch Data Protection Act, you can request the communication and, if applicable, the correction or suppression of your personal data processed and stored by Kakao Games Europe by contacting us at the following email address: support@blackdesert.zendesk.com 
+**The right of access**
 
-Effective Date: 8thof December 2015 
+You have the right to obtain confirmation from us as to whether personal data concerning you has been processed by us. You also have the right to access the personal data and information about (inter alia): the purposes of the processing, the categories of personal data concerned, the recipients or categories of recipients to whom the data have been or will be disclosed.
+
+**The right to rectification**
+
+You have the right to obtain the rectification if the personal data that we have processed from you is incorrect or inaccurate. We will correct your personal data without undue delay.
+
+**The right to erasure (the right to be forgotten)**
+
+You have the right to obtain the deletion of your personal data if one of the reasons stated in [ article 17 GDPR](https://gdpr-info.eu/art-17-gdpr/) applies.
+
+**The right to restriction of processing**
+
+You have the right to obtain verification from us if one of the reasons mentioned in [ article 18 GDPR](https://gdpr-info.eu/art-18-gdpr/) applies.
+
+**The right to data portability**
+
+You have the right to receive the personal data that concerns you that you have provided to us. You receive the data in a structured, commonly used and machine-readable format. You also have the right to ask us to transmit this data to another controller.
+
+**The right to object**
+
+You have the right to object to the data processing if the data processing takes place on the grounds referred to [Article 6 (1) (e) or (f) GDPR](https://gdpr-info.eu/art-6-gdpr/). We will no longer process the personal data unless we are able to demonstrate convincing legitimate interests for the processing that exceed your interests, rights and freedom or when this is necessary for instituting, exercising or defending legal claims.
+
+**The right to lodge complaints with the Dutch Data Protection Authority (“DPA”)**
+
+You have the right to lodge a complaint about the processing of your personal data at the Dutch DPA. According to [Article 57 of the GDPR](https://gdpr-info.eu/art-57-gdpr/), the Dutch DPA is obliged to handle all complaints it receives.
+
+If you have questions about this privacy policy or your rights, please contact us. You can reach us at the following e-mail address: privacy@blackdesertonline.com
+
+Effective Date:  May 23, 2018
+
+Last reviewed: March 1, 2018
+
+**Appendix - How to remove cookies:**
+
+**Internet Explorer:**
+
+Launch Internet Explorer; at the top-right open the Internet Options Menu; on the General tab, select Delete, in the Browsing History Section; select the Cookies check-box, and click the Delete Button.
+
+**Chrome:**
+
+Open Chrome; at the top-right, click Settings; at the bottom click “Advanced”; in the 'Privacy and security' section, click Content settings; under “Cookies”, click “All cookies and site data”; at the top-right, click “Remove all”; at the bottom-right, click “Done”.
+
+**Opera:**
+
+Go to 'Settings'; Select “Preferences; Select “Advanced”; select “Cookies”; click on 'All cookies and site data'; there you can click on 'Delete all'.
+
+**Firefox:**
+
+Click the menu button and choose Options; Select “Privacy and Security”; under History, set Firefox will: to Use custom settings for history; click “Show Cookies”, the Cookies window will appear; In the Search: field, type the name of the site whose cookies you want to remove. The cookies that match your search will be displayed; select the cookie(s) in the list to remove and click Remove Selected.
+
+**Safari:**
+
+On the Safari Menu, click on 'Preferences'; select 'Privacy'; set your preferences for accepting cookies next to 'Block Cookies'; select 'Parties and Advertisers' - 'Always' or 'Never'; if there are any website data/cookies being stored, click 'Details’; to remove specific data, highlight the information and click 'Remove'; to remove the data from all the sites, click 'Remove All'.
