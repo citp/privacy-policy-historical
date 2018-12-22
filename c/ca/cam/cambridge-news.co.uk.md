@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527171852id_/https%3A//www.cambridge-news.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222185851id_/https%3A//www.cambridge-news.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Cambridge News
+# Privacy policy - Cambridgeshire Live
 
 **WHO WE ARE**
 
