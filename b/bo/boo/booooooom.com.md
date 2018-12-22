@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the booooooom.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130051050id_/https%3A//www.booooooom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booooooom.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222104907id_/https%3A//www.booooooom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – BOOOOOOOM! – CREATE * INSPIRE * COMMUNITY * ART * DESIGN * MUSIC * FILM * PHOTO * PROJECTS
 
-This Privacy Policy governs the manner in which Booooooom Design Inc collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.booooooom.com](http://www.booooooom.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Booooooom Design Inc.
+This Privacy Policy governs the manner in which Booooooom Design Inc collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.booooooom.com](https://www.booooooom.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Booooooom Design Inc.
 
 **Personal identification information**
 
@@ -39,6 +39,10 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
+**Deletion of Data**
+
+If you have signed up for an account, you can request that all your personal data be deleted at any time. We cannot delete your personal data except by also deleting your user profile and account, and any related submissions/uploaded content. 
+
 **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
@@ -49,7 +53,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Changes to this privacy policy**
 
@@ -59,4 +63,4 @@ Booooooom Design Inc has the discretion to update this privacy policy at any tim
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-This document was last updated on December 06, 2011
+This document was last updated on May 25, 2018
