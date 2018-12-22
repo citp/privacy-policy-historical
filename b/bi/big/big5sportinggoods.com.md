@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414091438id_/https%3A//www.big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222171756id_/https%3A//www.big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Big 5 Sporting Goods
 
-  * [home](https://web.archive.org/store/) >
-  * privacy policy
-
-
-
 Protecting your privacy is important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service accessible at [Terms of Service](https://web.archive.org/store/company/Terms+of+Service) . This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services. Such third-party websites, services or applications are conducted in accordance with their own completely separate privacy practices, which Big 5 does not endorse or control. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 
-###  How Do We Collect And Use Information?
+## How Do We Collect And Use Information?
 
 Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
 
@@ -29,7 +24,7 @@ We may also collect certain information that is not PII because it cannot be use
 
 **Information Collected Via Email.** We will also receive PII about you if you send us an email and we’ll use that PII in order to respond to your email communication.
 
-###  What Information Do We Share With Third Parties?
+## What Information Do We Share With Third Parties?
 
 We will not share any PII that we have collected from you except as described below:
 
@@ -47,7 +42,7 @@ We will not share any PII that we have collected from you except as described be
 
 **Sharing Your Wishlist.** You may create a “Wishlist” via your Account on the Services and you may share your Wishlist, via the Services. In order to do so, you will provide us with the email addresses with those persons with whom you would like to share your Wishlist. We will use these email addresses for the sole purposes of sharing your Wishlist and for no other purposes.
 
-###  The Security of Your Information
+## The Security of Your Information
 
 We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
@@ -55,19 +50,19 @@ While we try to protect the information that we collect, you should also take me
 
 Note: “Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from us asking for your personal information, do not respond. We would not and will not request your password, user name, credit card information, or other personal information through e-mail. Please report all “ phishing” attempts to [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com?subject:%20Feedback%20at%20big5sportinggoods.com%20-%20Phishing).
 
-###  Links to Other Sites
+## Links to Other Sites
 
 Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-###  Modifying Your Information
+## Modifying Your Information
 
 You can access and modify the PII associated with your Account by signing in to your Account and following the instructions for making such modifications via the Services. You may change most of your PII (but not, for example, change your username) associated with your online account. If you are unable to access and/or change your Personally Identifiable Information, please contact "Feedback" at [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com).
 
-###  International Transfer
+## International Transfer
 
 Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
 
-###  Our Policy Toward Children
+## Our Policy Toward Children
 
 Our Services are not directed to people under 18 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII from a child under 13 we will take steps to delete such information from our files as soon as possible. If you are a parent or guardian who knows or has discovered that your child under the age of 18 has submitted his or her Personally Identifiable Information or other information without your consent, permission or authorization, please notify us by sending an e-mail to [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com) or a letter to:
 
@@ -78,15 +73,15 @@ El Segundo, California 90245
 
 Upon receiving such a notice, we will take steps to: (a) notify you what information may have been used and/or disclosed; and (b) remove your child’s Personally Identifiable Information or other information from our databases, cease the use of such information, and direct any other party with access to such information to do the same.
 
-###  Changes to our Privacy Policy
+## Changes to our Privacy Policy
 
 Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
 
-###  Questions?
+### Questions?
 
 Please contact us at [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com) if you have any questions about our Privacy Policy.
 
-###  California Do Not Track Disclosures
+## California Do Not Track Disclosures
 
 For information on “ **Your California Privacy Rights** ” please see below:
 
