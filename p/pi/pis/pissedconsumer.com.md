@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630211303id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222071359id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
 
 # Pissed Consumer Privacy Policy @ Pissed Consumer
 
@@ -6,7 +6,7 @@ Last Modified: May 18, 2018
 
 ## Scope and Consent
 
-This Privacy Policy (the “Policy”) describes PissedConsumer.com’s collection, use, and protection of the information posters (“You”, “Your”) provide when using PissedConsumer.com (the “Site”, “We”, “Us”, “Our”). By creating an account on the Site, posting content on the Site, or using any other service on the Site, You consent to Our collection, use, and disclosure of Your information as described in this Policy. If You do not consent to have Your information used as described in this Policy, You must discontinue use of the Site immediately. This Policy incorporates all defined terms and conditions set forth in Our [Terms of Service Agreement](https://www.pissedconsumer.com/static/terms-of-use.html) (the “Agreement”). Any terms that are not defined in this Policy shall have the meaning given in the Agreement.
+This Privacy Policy (the “Policy”) describes PissedConsumer.com’s collection, use, and protection of the information posters (“You”, “Your”) provide when using PissedConsumer.com (the “Site”, “We”, “Us”, “Our”). By creating an account on the Site, posting content on the Site, or using any other service on the Site, You consent to Our collection, use, and disclosure of Your information as described in this Policy. If You do not consent to have Your information used as described in this Policy, You must discontinue use of the Site immediately. This Policy incorporates all defined terms and conditions set forth in Our [Terms of Use Agreement](https://www.pissedconsumer.com/static/terms-of-use.html) (the “Agreement”). Any terms that are not defined in this Policy shall have the meaning given in the Agreement.
 
 This Policy is intended to explain Our privacy practices and to inform You as to:
 
