@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624100450id_/http%3A//www.crainscleveland.com/article/99999999/STATIC/140629964) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222122546id_/https%3A//www.crainscleveland.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Crain's Cleveland Business
+# Privacy | Crain's Cleveland Business
 
-_Effective starting: May 18, 2018_
+**Privacy Policy**
 
-**_  Crainscleveland.com and the associated newsletters, news alerts, data centers, research reports, and other features are products_ of Crain Communications Inc. Our postal address is 700 West Saint Clair Avenue, Suite 310, Cleveland, Ohio 44113.  We can be reached by e-mail at  **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#284b5d5b5c47454d5a5b4d5a5e414b4d684b5a4941465b4b444d5e4d4449464c064b4745) **or by telephone at 877-824-9373.**
+_Effective starting: May 25, 2018_
 
-#### What this Privacy Policy covers
+**_  Crain's Cleveland Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 700 West Saint Clair Avenue, Suite 310, Cleveland, Ohio 44113.  We can be reached by e-mail at [](https://web.archive.org/cdn-cgi/l/email-protection#95b0a2f7b0a2f7b0a7a5f7e7f4fbf1caf0f8f4fcf9b0a7a5b0a2f1b0a2f1) or by telephone at 877-824-9373. **
+
+**What this Privacy Policy covers**
 
 This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by registering for and receiving any of our print publications, digital e-mails and newsletters; accessing our website; enrolling in any of our membership products; attending our events, conferences, and webinars; downloading of Crain and sponsor research and content; viewing our video, podcasts, and other content; and using our mobile and digital applications and social media channels (collectively, we refer to all of these products as Crain’s or our “Products” in this Privacy Policy), unless a different policy is displayed. Unless otherwise noted, our Products are provided by Crain in the United States and by Crain Communications Limited in the United Kingdom.   
 
@@ -17,18 +19,18 @@ This policy also explains your choices about how we use information about you. 
 This policy is intended to help you understand:
 
   * What information we collect about you
-  * How we use information we collect
-  * How we share information we collect
-  * How we store and secure information we collect
-  * How to access and control your information
-  * How we transfer information we collect internationally
+  * How we use information we collect 
+  * How we share information we collect 
+  * How we store and secure information we collect 
+  * How to access and control your information 
+  * How we transfer information we collect internationally 
   * Other important privacy information
 
 
 
 Where we provide the Products under contract with an organization (for example your employer) that organization controls the information processed by the Products. For more information, please see Notice to End Users below. 
 
-#### What information we collect about you
+**What information we collect about you**
 
 We collect information about you when you provide it to us, when you use our Products, and when other sources provide it to us, as further described below.  
 
@@ -36,11 +38,11 @@ We collect information about you when you provide it to us, when you use our Pro
 
 We collect information about you when you input it into the Products or otherwise provide it directly to us.    
 
-**_Account and Profile Information:_** We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Products. For example, you provide your contact information and, in some cases, billing information when you register for the Products. You also have the option of adding a display name, job title, industry, and other details to your profile information to be displayed in our Products.  We keep track of your preferences when you select settings within the Products.
+**_Account and Profile Information:  _**We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Products. For example, you provide your contact information and, in some cases, billing information when you register for the Products. You also have the option of adding a display name, job title, industry, and other details to your profile information to be displayed in our Products.  We keep track of your preferences when you select settings within the Products.
 
-**_Content you provide through our websites:_** The Products also include our websites owned or operated by us. We collect other content that you submit to these websites, which include social media or social networking pages operated by us. For example, you provide content to us when you provide comments or feedback or when you participate in any interactive features, surveys, contests, promotions, sweepstakes, activities or events.  
+**_Content you provide through our websites:  _**The Products also include our websites owned or operated by us. We collect other content that you submit to these websites, which include social media or social networking pages operated by us. For example, you provide content to us when you provide comments or feedback or when you participate in any interactive features, surveys, contests, promotions, sweepstakes, activities or events.  
 
-**_Information you provide through our support channels:_** The Products also include our customer support, where you may choose to submit information regarding a problem you are experiencing with a Product.  Whether you speak to one of our representatives directly or otherwise engage with our support team, you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue.
+**_Information you provide through our support channels:  _**The Products also include our customer support, where you may choose to submit information regarding a problem you are experiencing with a Product.  Whether you speak to one of our representatives directly or otherwise engage with our support team, you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue.
 
 **_Payment Information:   _**We collect certain payment and billing information when you register for certain paid Products.  You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
 
@@ -48,11 +50,11 @@ We collect information about you when you input it into the Products or otherwis
 
 We collect information about you when you use our Products, including browsing our websites and taking certain actions within the Products.          
 
-**_Your use of the Products_** : We keep track of certain information about you when you visit and interact with any of our Products. This information includes the features you use; the links you click on; the content you download from the Products; and how you interact with others on the Products. 
+**_Your use of the Products_** : We keep track of certain information about you when you visit and interact with any of our Products. This information includes the features you use; the links you click on; the content you download from the Products; and how you interact with others on the Products.  
 
 **_Device and Connection Information_** : We collect information about your computer, phone, tablet, or other devices you use to access the Products. This device information includes your connection type and settings when you install, access, update, or use our Products. We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, and device identifiers. We use your IP address and/or country preference in order to approximate your location to provide you with a better experience.  How much of this information we collect depends on the type and settings of the device you use to access the Products.  Server and data center service administrators can disable collection of this information via the settings or prevent this information from being shared with us by blocking transmission at the local network level.   
 
-**_Cookies and Other Tracking Technologies_** :
+**_Cookies and Other Tracking Technologies_** : 
 
 _What types of technologies do we use?_
 
@@ -62,7 +64,7 @@ _How do we use them?_
 
   * **Where strictly necessary.**   These cookies and other technologies are essential in order to enable the Products to provide the feature you have requested, such as remembering you have logged in.
   * **For  functionality.**  These cookies and similar technologies remember choices you make such as language or search parameters. We use these cookies to provide you with an experience more appropriate with your selections and to make your use of the Products more tailored.
-  * **For  performance and analytics.**  These cookies and similar technologies collect information on how users interact with the Products and enable us to improve how the Products operate.
+  * **For  performance and analytics.**  These cookies and similar technologies collect information on how users interact with the Products and enable us to improve how the Products operate. 
   * **Targeting Cookies or Advertising Cookies.**   These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.
   * **Social media cookies.** These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site. The social network and related service providers will record that you have done this. This information may be used for targeting/advertising activities.
 
@@ -70,7 +72,7 @@ _How do we use them?_
 
 _How can you opt-out?_
 
-To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Products.  We and our third-party partners also collect information using web beacons (also known as "tracking pixels").
+To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Products.  We and our third-party partners also collect information using web beacons (also known as "tracking pixels").
 
 Many browsers include their own management tools for removing local storage objects and to manage "flash cookies". You may be able to opt out of receiving personalized advertisements as described below under "Your Choices."
 
@@ -100,7 +102,7 @@ How we use the information we collect depends in part on which Products you use,
 
 **_To communicate with you about the Products_** : We use your contact information to send transactional communications via email and within the Products, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages.  We also provide tailored communications based on your activity and interactions with us.  For example, certain actions you take in the Products may automatically provide you with the requested content.  These communications are part of the Products and in most cases you can opt out of them.  If an opt out is available, you will find that option within the communication itself or in your account settings.   
 
-**_To market, promote and drive engagement with the Products:_** We use your contact information and information about how you use the Products to send promotional communications that may be of specific interest to you, including by email and by displaying Crain Product ads on other companies' websites and applications, as well as on other companies’ platforms and websites.  These communications are aimed at driving engagement and maximizing what you get out of the Products, including information about new features, survey requests, newsletters, and events we think may be of interest to you.  We also communicate with you about new product offers, promotions and contests.  You can control whether you receive these communications as described below under "Opt-out of communications."
+**_To market, promote and drive engagement with the Products:  _**We use your contact information and information about how you use the Products to send promotional communications that may be of specific interest to you, including by email and by displaying Crain Product ads on other companies' websites and applications, as well as on other companies’ platforms and websites.  These communications are aimed at driving engagement and maximizing what you get out of the Products, including information about new features, survey requests, newsletters, and events we think may be of interest to you.  We also communicate with you about new product offers, promotions and contests.  You can control whether you receive these communications as described below under "Opt-out of communications."
 
 **_Customer support_** : We use your information to resolve technical issues you encounter, to respond to your requests for assistance, to analyze crash information, and to repair and improve the Products.
 
@@ -108,7 +110,7 @@ How we use the information we collect depends in part on which Products you use,
 
 **_To protect our legitimate business interests and legal rights_** **:**  Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.  
 
-**_With your  consent_**: We use information about you where you have given us consent to do so for a specific purpose not listed above. 
+**_With your  consent_**: We use information about you where you have given us consent to do so for a specific purpose not listed above.  
 
 **_Legal basis for processing (for EEA users)_** : 
 
@@ -131,7 +133,7 @@ We share information we collect about you in the ways discussed below, includin
 
 When you use the Products, we share certain information about you with other users.
 
-**_For collaboration_** : You can create content, which may contain information about you, for other users to see.  For example, when you comment, we display your profile picture and name next to your comments so that other users with access to the page or issue understand who made the comment. 
+**_For collaboration_** : You can create content, which may contain information about you, for other users to see.  For example, when you comment, we display your profile picture and name next to your comments so that other users with access to the page or issue understand who made the comment.  
 
 **_Managed accounts_** : If you register or access the Products using an email address with a domain that is owned by your employer or organization, and such organization requests, certain information about you including your name, contact info, content and past use of your account may become accessible to that organization’s administrator.  If you are an administrator for a particular site or group of users within the Products, we may share your contact information with current or past users, for the purpose of facilitating service-related requests.  
 
@@ -149,9 +151,9 @@ We share information with third parties that help us operate, provide, improve,
 
 **_Third-Party Widgets_** : Some of our Products contain widgets and social media features, such as the Twitter "tweet" button. These widgets and features collect your IP address, which page you are visiting on the Products, and may set a cookie to enable the feature to function properly. Widgets and social media features are either hosted by a third-party or hosted directly on our Products. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-**_With your consent_** : We share information about you with third parties when you give us consent or we are allowed to do so under applicable laws. 
+**_With your consent_** : We share information about you with third parties when you give us consent or we are allowed to do so under applicable laws.  
 
-**_Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights_** : In exceptional circumstances, we may share information about you with a third-party if we believe that sharing is reasonably necessary to (a) comply with any applicable laws, legal process or governmental request, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect Crain, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.
+**_Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights_** : In exceptional circumstances, we may share information about you with a third-party if we believe that sharing is reasonably necessary to (a) comply with any applicable laws, legal process or governmental request, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect Crain, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person. 
 
 **Sharing with affiliated companies**
 
@@ -163,13 +165,13 @@ We share information we collect with affiliated companies and, in some cases, wi
 
 **Information storage and security**
 
-We use data hosting service providers in the United States, UK and Denmark to host the information we collect, and we use technical measures to secure your data.  While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others. Please refer to the Section below titled “ **How we transfer information we collect internationally”** for information on the transfer of EU citizen’s data outside of the EU.
+We use data hosting service providers in the United States, UK and Denmark to host the information we collect, and we use technical measures to secure your data.  While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others. Please refer to the Section below titled “ **How we transfer information we collect internationally”  **for information on the transfer of EU citizen’s data outside of the EU.
 
 **How long we keep information**
 
 How long we keep information we collect about you depends on the type of information, as described in further detail below.  After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.  
 
-**_Account information_** : We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Products.  We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Products.
+**_Account information_** : We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Products.  We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Products. 
 
 **_Managed  accounts_**: If the Products are made available to you through an organization (e.g., your employer), we retain your information as long as required by your employer.  For more information, see "Managed accounts and administrators" above.
 
@@ -185,9 +187,9 @@ You have the right to request a copy of your information, to object to our use o
 
 Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep.  If you have unresolved concerns, you may have the right to complain to a data protection authority in the country where you live, where you work or where you feel your rights were infringed.
 
-**_Access and update your information_** : Our Products give you the ability to access and update certain information about you from within the Product. For example, you can access your profile information from your account.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content. 
+**_Access and update your information_** : Our Products give you the ability to access and update certain information about you from within the Product. For example, you can access your profile information from your account.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content.  
 
-**_Deactivate your  account_**:  If you no longer wish to use our Products, you or your employer may be able to deactivate your account. If you can deactivate your own account, that setting is available to you in your account settings. Otherwise, please contact your employer. Please be aware that deactivating your account does not delete your information. 
+**_Deactivate your  account_**:  If you no longer wish to use our Products, you or your employer may be able to deactivate your account. If you can deactivate your own account, that setting is available to you in your account settings. Otherwise, please contact your employer. Please be aware that deactivating your account does not delete your information.  
 
 **_Delete your information_** : In some cases, you may ask us to delete accessing, storing, using and otherwise processing your information.  You request by contacting customer service. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.   
 
@@ -203,7 +205,7 @@ You may be able to opt out of receiving personalized advertisements from other c
 
 **_Data  portability_**: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier).  Depending on the context, this applies to some of your information, but not to all of your information.  Should you request it, we will provide you with an electronic file of your basic account information.  
 
-**How we transfer information we collect internationally**
+**How we transfer information we collect internationally  **
 
 **International transfers of information we collect**
 
@@ -217,7 +219,7 @@ We collect information globally and primarily store that information in the Unit
 
 **California Residents.**
 
-Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7615030502191b1304051304001f1513361504171f1805151a1300131a1718125815191b) or call 877-824-9373.
+Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [](https://web.archive.org/cdn-cgi/l/email-protection#46637124637124637476243427282219232b272f2a637476637122637122)or call 877-824-9373. **   **
 
 **Notice to End Users**
 
@@ -242,8 +244,8 @@ Your information is controlled by Crain Communications Inc.  If you have quest
 General Counsel  
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
-Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7202001b0413110b1a171e02321100131b1c5c111d1f)
+Detroit, MI  48207  
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d5d5f445b4c4e544548415d6d4e5f4c4443034e4240)
 
 313-446-6000
 
@@ -252,5 +254,5 @@ EU Representative:
 Crain Communications Limited  
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
-Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2252504b5443415b4a474e52624150434b4c0c414d4f)
+Detroit, MI  48207  
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e797958e9186849e8f828b97a78495868e89c984888a)
