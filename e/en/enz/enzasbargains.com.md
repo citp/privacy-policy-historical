@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enzasbargains.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630165834id_/https%3A//www.enzasbargains.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enzasbargains.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222032323id_/https%3A//www.enzasbargains.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EnzasBargains.com
 
@@ -107,7 +107,7 @@ Opt-out – You may opt-out of future email communications by following the unsu
 
 Access – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Amend – You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#92f7fce8f3d2f7fce8f3e1f0f3e0f5f3fbfce1bcf1fdff) to amend or update your personal information.
+Amend – You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e98c879388a98c8793889a8b889b8e8880879ac78a8684) to amend or update your personal information.
 
 Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
