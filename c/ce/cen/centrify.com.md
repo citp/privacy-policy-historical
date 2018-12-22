@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrify.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630234415id_/https%3A//www.centrify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrify.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222094051id_/https%3A//www.centrify.com/privacy) for the most accurate reproduction.*
 
 # Centrify Privacy Statement
 
@@ -90,7 +90,7 @@ Taking steps necessary prior to entering into a potential employment or consulta
 
 | 
 
-We keep information on unsuccessful applicants located in the EU for 6 months in case another relevant position arises and will contact you about it. If you prefer us not to, please let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9c9e859a8d8f95ac8f8982989e858a95c28f8381). Information on successful applicants will be used in our Human Resources systems and processes.  
+We keep information on unsuccessful applicants located in the EU for 6 months in case another relevant position arises and will contact you about it. If you prefer us not to, please let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#70000219061113093013151e04021916095e131f1d). Information on successful applicants will be used in our Human Resources systems and processes.  
   
 Information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, internet service provider (ISP), operating system, date/time stamp, and clickstream data and the actions you take on the Company's Web sites (such as the web pages viewed and the links clicked)
 
@@ -122,7 +122,7 @@ With our customer reference management software provider
 
 | 
 
-We use testimonials for our legitimate interests in promoting our business. You can request removal of your testimonials by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1a1a3b8a7b0b2a891b2b4bfa5a3b8b7a8ffb2bebc).
+We use testimonials for our legitimate interests in promoting our business. You can request removal of your testimonials by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b7c7c5dec1d6d4cef7d4d2d9c3c5ded1ce99d4d8da).
 
 | 
 
@@ -140,7 +140,7 @@ With our hosting provider (currently Amazon Web Services), our online community 
 
 | 
 
-Our legitimate interests in encouraging the sharing of ideas and experiences between Centrify End Users. You can request removal of your testimonials by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ccbcbea5baadafb58cafa9a2b8bea5aab5e2afa3a1).
+Our legitimate interests in encouraging the sharing of ideas and experiences between Centrify End Users. You can request removal of your testimonials by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9fefedf6e9fefce6dffcfaf1ebedf6f9e6b1fcf0f2).
 
 | 
 
@@ -202,7 +202,7 @@ Use is necessary for our legitimate interests in providing our Software and Serv
 
 | 
 
-We retain Billing Information for the duration of our contract with our Customer and thereafter an necessary for legal and audit purposes. You may request removal of your contact information by letting us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d5d5f445b4c4e546d4e4843595f444b54034e4240).  
+We retain Billing Information for the duration of our contract with our Customer and thereafter an necessary for legal and audit purposes. You may request removal of your contact information by letting us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21515348574042586142444f55534847580f424e4c).  
   
 Contact information, such as name, company name, title, email address, mailing address and phone number
 
@@ -220,7 +220,7 @@ Our legitimate interests in supporting our customers in their use of our Softwar
 
 | 
 
-We retain this information for the duration of our contract with our Customer and thereafter as an inactive account. You may request removal of your contact information by letting us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4434362d3225273d0427212a30362d223d6a272b29). Information in support cases may be retained indefinitely because historical data regarding customer issues is always relevant to the development of our Software and Services.  
+We retain this information for the duration of our contract with our Customer and thereafter as an inactive account. You may request removal of your contact information by letting us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed9d9f849b8c8e94ad8e8883999f848b94c38e8280). Information in support cases may be retained indefinitely because historical data regarding customer issues is always relevant to the development of our Software and Services.  
   
 [1] Specific vendors listed may change from time to time.  
 [2] Lawful basis refers to the need under EU privacy law to have a specific reason, recognized by law, for us to have and use your personal data.  
@@ -293,11 +293,11 @@ Centrify will retain personal data we process on behalf of our Customers for as 
 
 #### Security
 
-The security of our Customer’s personal data is important to us. Centrify uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Services are accessed over the Internet (from a browser or Centrify supplied on-premises Software) Transport Layer Security (TLS) technology protects Customer Data using both server authentications for data-in-transit and data encryption of Customer Data stored at rest in Centrify Services. These technologies are intended to ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access using unique encryption keys. Centrify hosts its Services in a secure server environment that uses firewalls, intrusion detection systems, and other advanced technology designed to prevent interference or access from outside intruders. No method of transmission over the Internet, or method of electronic storage, however, is 100% secure. Therefore, we cannot guarantee or warrant its absolute security. If you have any questions about security, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f686849f8097958fb695939882849f908fd895999b). Customers are responsible for maintaining the security and confidentiality of their End User usernames and passwords.
+The security of our Customer’s personal data is important to us. Centrify uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Services are accessed over the Internet (from a browser or Centrify supplied on-premises Software) Transport Layer Security (TLS) technology protects Customer Data using both server authentications for data-in-transit and data encryption of Customer Data stored at rest in Centrify Services. These technologies are intended to ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access using unique encryption keys. Centrify hosts its Services in a secure server environment that uses firewalls, intrusion detection systems, and other advanced technology designed to prevent interference or access from outside intruders. No method of transmission over the Internet, or method of electronic storage, however, is 100% secure. Therefore, we cannot guarantee or warrant its absolute security. If you have any questions about security, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#68181a011e090b11280b0d061c1a010e11460b0705). Customers are responsible for maintaining the security and confidentiality of their End User usernames and passwords.
 
 #### Marketing Opt-Out
 
-If at any time after consenting to our sending you marketing communications, you change your mind about receiving information from us, please send us a request specifying your new choice. Simply send your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#50202239263133291033353e24223936297e333f3d). Centrify will respond to your request within at most one month from the date of your request.
+If at any time after consenting to our sending you marketing communications, you change your mind about receiving information from us, please send us a request specifying your new choice. Simply send your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f1f1d06190e0c162f0c0a011b1d060916410c0002). Centrify will respond to your request within at most one month from the date of your request.
 
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and will only contact you in relation to these items.
 
@@ -330,7 +330,7 @@ Centrify partners with third-party ad networks, including Google, Facebook, Bing
 
 #### Community Forums
 
-Centrify provides community forums on the Company's Web sites. Any personal data you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Centrify is not responsible for the personal data you choose to submit in these forums. To request removal of your personal data from our blog or community forum, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5626243f2037352f1635333822243f302f7835393b). In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
+Centrify provides community forums on the Company's Web sites. Any personal data you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Centrify is not responsible for the personal data you choose to submit in these forums. To request removal of your personal data from our blog or community forum, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c1c1e051a0d0f152c0f0902181e050a15420f0301). In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
 
 #### Sharing of Information Collected
 
@@ -358,7 +358,7 @@ Centrify offers Visitors and Attendees who provide contact information a means
 
 #### Correcting and Updating Your Information
 
-Upon request Centrify will let Visitors and Attendees know whether we hold any of your personal data. Individuals may update or change their registration information by editing their user profile. To update a user profile, please login to [https://www.centrify.com/support](https://www.centrify.com/support/) with your Centrify username and password and click 'Account Settings.' If you wish to have your user account deactivated, cancel your account and/or have your personal data removed from our system, please login (as described in the preceding sentence) and contact us by creating a support ticket, or contact us using the information below. Personal data and Billing Information may be updated, changed or removed; you can do so by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0272706b7463617b4261676c76706b647b2c616d6f) or by regular mail addressed to:
+Upon request Centrify will let Visitors and Attendees know whether we hold any of your personal data. Individuals may update or change their registration information by editing their user profile. To update a user profile, please login to [https://www.centrify.com/support](https://www.centrify.com/support/) with your Centrify username and password and click 'Account Settings.' If you wish to have your user account deactivated, cancel your account and/or have your personal data removed from our system, please login (as described in the preceding sentence) and contact us by creating a support ticket, or contact us using the information below. Personal data and Billing Information may be updated, changed or removed; you can do so by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#92e2e0fbe4f3f1ebd2f1f7fce6e0fbf4ebbcf1fdff) or by regular mail addressed to:
 
 Centrify Corporation  
 Attn: Privacy  
@@ -375,7 +375,7 @@ As Centrify continues to develop its business, it may sell or purchase assets or
 
 Given that Centrify is an international business, use of Centrify Software and Services necessarily involves the transmission of data on an international basis (including the United States and countries outside the EEA). Centrify may store, process and/or transfer personal data to countries outside of the EEA (including countries where the European Commission has not made a decision of an adequate level of protection of personal data), especially to servers in the United States. The transfer of such data will be in compliance with local legislation for the cross-border transfer of data, where applicable. If you do not agree to this procedure you should not use our Software and Services. By using Software and Services, you consent to Centrify's transferring your information to countries outside your own and the EEA, if necessary, for the business purposes as outlined above.
 
-You have a right to see the personal data held by Centrify about you. If you wish to obtain a copy of particular information about you, or if you become aware the information we hold is incorrect and you would like to correct it, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9d9dbc0dfc8cad0e9caccc7dddbc0cfd087cac6c4).
+You have a right to see the personal data held by Centrify about you. If you wish to obtain a copy of particular information about you, or if you become aware the information we hold is incorrect and you would like to correct it, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5525273c2334362c1536303b21273c332c7b363a38).
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=dfd9d5a8-ee25-4a5c-b0b5-0773e9d4145c)
 
@@ -397,7 +397,7 @@ We may update this Privacy Statement to reflect changes to our information pract
 
 #### Contacting Us
 
-Questions regarding this Privacy Statement or the information practices of the Company's Web sites should be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3343415a4552504a7350565d47415a554a1d505c5e).
+Questions regarding this Privacy Statement or the information practices of the Company's Web sites should be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#48383a213e292b31082b2d263c3a212e31662b2725).
 
 **Centrify Corporation**  
 Attn: Privacy  
