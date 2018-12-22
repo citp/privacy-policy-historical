@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memecrunch.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611091523id_/http%3A//memecrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memecrunch.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222164505id_/http%3A//memecrunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Memecrunch: The best meme generator |
 
@@ -54,7 +54,7 @@ This Privacy Policy applies to Memecrunch's collection, use, storage and disclos
 
 3.4 Summary Data. Memecrunch may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
 
-3.5 Access. Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d4e484d4d524f497d505850585e4f48535e55135e5250). Memecrunch may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected. 
+3.5 Access. Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [support@memecrunch.com](mailto:support@memecrunch.com). Memecrunch may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected. 
 
 4\. Privacy Practices of Third Parties.
 
