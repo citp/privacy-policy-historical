@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the elementalknives.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630210923id_/https%3A//elementalknives.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementalknives.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222071020id_/https%3A//elementalknives.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Elemental Knives
+
+TL;DR: We will not share your information with any 3rd parties. Any information provided to us is used only to ship your order and email you (if opted in) exclusive offers and other interesting emails. We promise to not spam you with emails every day. Emails sent by us will be rare and worth opening. For more privacy information, see below.
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
