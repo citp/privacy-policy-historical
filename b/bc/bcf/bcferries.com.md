@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcferries.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620043504id_/https%3A//www.bcferries.com/about/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcferries.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222084258id_/https%3A//www.bcferries.com/about/privacy_statement.html) for the most accurate reproduction.*
 
 # British Columbia Ferry Services Inc. | BC Ferries - British Columbia Ferry Services Inc.
 
@@ -134,7 +134,7 @@ Contests and surveys**
 **  
 Your information rights**
 
-> **Access and correction** :  You may request access to your personal information and/or correction of that information by contacting us at the address noted below or visit our [Freedom of Information landing page](https://www.bcferries.com/about/foi/) for more details. If you seek records containing your personal information in electronic form, we will provide copies of the records in that form with our response, where it is reasonable to do so.
+> **Access and correction** :  You may request access to your personal information and/or correction of that information by contacting us at the address noted below or visit our [Freedom of Information landing page](https://web.archive.org/about/foi/) for more details. If you seek records containing your personal information in electronic form, we will provide copies of the records in that form with our response, where it is reasonable to do so.
 > 
 > **Processing** :  You may request details about how we process your personal information. Subject to legal, regulatory or other requirements or circumstances, we will tell you:
 > 
@@ -188,7 +188,7 @@ Updates**
 >  1-888-BC FERRY (1-888-223-3779)   
 >  [customerservice@bcferries.com](mailto:customerservice@bcferries.com)
 > 
-> To exercise your information rights, please visit our [FOI page](https://www.bcferries.com/about/foi/) or call, email or write to our FOIPP Office Manager at:  
+> To exercise your information rights, please visit our [FOI page](https://web.archive.org/about/foi/) or call, email or write to our FOIPP Office Manager at:  
 >  250-978-1502   
 >  [FOIPP@bcferries.com](mailto:FOIPP@bcferries.com)
 > 
