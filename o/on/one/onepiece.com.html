@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the onepiece.com privacy policy that was archived on 2017-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170221144209id_/https%3A//www.onepiece.com/en-us/shop/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onepiece.com privacy policy that was archived on 2018-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181222162829id_/https%3A//www.onepiece.com/en-us/shop/info/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-us"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js async-hide" lang="en-us"><!--<![endif]--><head>
 	<title>Privacy policy</title>
 	<!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=8" /><![endif]-->
 
@@ -20,7 +20,7 @@
 			<link href="https://onepiece-storage.storage.googleapis.com/assets/css/general_foundicons.css" rel="stylesheet" type="text/css">
 			<link href="https://onepiece-storage.storage.googleapis.com/assets/fonts/foundation-icons/foundation-icons.css" rel="stylesheet" type="text/css">
 			<link href="https://onepiece-storage.storage.googleapis.com/assets/css/jquery.slotmachine.min.css" rel="stylesheet" type="text/css">
-			<link href="https://onepiece-storage.storage.googleapis.com/assets/css/shop/app.css?r=62698" rel="stylesheet" media="screen">
+			<link href="https://onepiece-storage.storage.googleapis.com/assets/css/shop/app.css?r=33955" rel="stylesheet" media="screen">
 			<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 	
 			<link rel="icon" sizes="192x192" href="https://onepiece-storage.storage.googleapis.com/assets/gfx/icons/touch-icon.png">
@@ -39,7 +39,7 @@
 	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N37J2W"></script><script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/modernizr.js"></script>
 
 	<!--[if lt IE 9]>
-	<link href="https://onepiece-storage.storage.googleapis.com/assets/css/shop/ie.css?r=62698 rel="stylesheet" type="text/css">
+	<link href="https://onepiece-storage.storage.googleapis.com/assets/css/shop/ie.css?r=33955 rel="stylesheet" type="text/css">
 	<![endif]-->
 
 	<script>
@@ -52,13 +52,14 @@
 		var currency_code = "USD";
 		var b2b_ordertype = "";
 		var global_domain = "https://www.onepiece.com";
-		var split_testing = "B";
-		var texts = [];
+		var split_testing = "A";
+		var texts = {"notice-last-purchase":"[name] from [city], [country] bought [product]"};
 		var zip_pattern = /^\d{5}(?:\d{4})?$/;
-		var dataLayer = [{"variant":"b"}];
-		var has_ups = "1";
+		var dataLayer = [{"variant":"a"}];
 		var has_socials = "1";
 		var nosto_id_code = "jx95jp23";
+		var show_recent_sales = "1";
+		var force_cookie_disclaimer = false;
 
 		function route(c, a, i)
 		{
@@ -76,17 +77,52 @@
 		window.lazySizesConfig = window.lazySizesConfig || {};
 		window.lazySizesConfig.lazyClass = 'lazy';
 	</script>
-
+	<!--
 	<script type="text/javascript">
 		//<![CDATA[
 		(function(){function a(a){var b,c,d=window.document.createElement("iframe");d.src="javascript:false",(d.frameElement||d).style.cssText="width: 0; height: 0; border: 0";var e=window.document.createElement("div");e.style.display="none";var f=window.document.createElement("div");e.appendChild(f),window.document.body.insertBefore(e,window.document.body.firstChild),f.appendChild(d);try{c=d.contentWindow.document}catch(g){b=document.domain,d.src="javascript:var d=document.open();d.domain='"+b+"';void(0);",c=d.contentWindow.document}return c.open()._l=function(){b&&(this.domain=b);var c=this.createElement("scr".concat("ipt"));c.src=a,this.body.appendChild(c)},c.write("<bo".concat('dy onload="document._l();">')),c.close(),d}var b="nostojs";window[b]=window[b]||function(a){(window[b].q=window[b].q||[]).push(a)},window[b].l=new Date;var c=function(d,e){if(!document.body)return setTimeout(function(){c(d,e)},30);e=e||{},window[b].o=e;var f=document.location.protocol,g=["https:"===f?f:"http:","//",e.host||"connect.nosto.com",e.path||"/include/",d].join("");a(g)};window[b].init=c})();
 		nostojs.init(nosto_id_code);
 		//]]>
 	</script>
+	-->
 </head>
 
-<body><div style="display: none;"><div><iframe src="javascript:false" style="width: 0px; height: 0px; border: 0px;"></iframe></div></div>
+<body>
 
+	<div class="spinner-mobile">
+
+		<div class="spinner-inner">
+
+
+			<p>Loading</p>
+
+			<div class="lds-css">
+			  <div class="lds-gear" style="100%;height:100%">
+			    <div>
+			      <div></div>
+			      <div></div>
+			      <div></div>
+			      <div></div>
+			      <div></div>
+			      <div></div>
+			      <div></div>
+			      <div></div>
+			    </div>
+			  </div>
+			</div>
+
+						<p>Repositioning satellite...</p>
+
+		</div>
+
+	</div>
+
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-WFD6QVZ':true});</script>    
     <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N37J2W"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -107,13 +143,30 @@
 
 
 <!-- Nosto -->
-
-<div class="off-canvas-wrap docs-wrap" data-offcanvas="">
+<div id="cookie-policy">
+    <div class="close hide-cookie-policy">
+        <span>
+        	<i class="fi-x"></i>
+        </span>
+    </div>	
+	<div class="row">
+	    <div class="small-12 medium-9 columns message">
+	        Onepiece uses cookies to give you the best shopping experience. We have updated our <strong><a href="/en-us/shop/info/privacy">Privacy Policy</a></strong>, in line with new E-regulations.	        <strong>
+	        <a href="/en-us/shop/info/privacy">Learn more</a>	        </strong>
+	    </div>
+	    <div class="small-12 columns show-for-small button-column">
+	    	<button class="button success small expand accept-cookie-policy">Allow cookies</button>
+	    </div>  
+	    <div class="small-12 medium-3 columns hide-for-small button-column">
+	    	<button class="button success small accept-cookie-policy">Allow cookies</button>
+	    </div>  	    
+	</div>
+</div><div class="off-canvas-wrap docs-wrap" data-offcanvas="">
 	<div class="inner-wrap">
 		<div id="top-banner">
 	<div class="row">
 		<div class="small-12 columns text-center">			
-			<ul><li><strong>Free shipping</strong> on orders over $150</li><li>Easy exchange</li><li>No additional sales tax or duty fees</li></ul>		</div>
+			<ul><li>Worldwide Delivery</li><li><strong>Free shipping</strong> on orders over $<strong>150</strong></li><li>Easy exchange</li></ul>		</div>
 	</div>
 </div>
 <nav class="tab-bar show-for-small logo-small">
@@ -170,30 +223,118 @@
 
 <aside class="left-off-canvas-menu show-for-small" id="offCanvasMenu">
 	<ul class="off-canvas-list indent">
-		<li class="no-indent has-form"><form action="/en-us/shop/search/result" method="get" name="search" accept-charset="utf-8" class="search">	<div class="search-input">
-		<input type="text" id="search" name="query" value="" placeholder="SEARCH">		<a class="search-button" href="#">
-			<i class="fi-magnifying-glass"></i>
-		</a>
-	</div>
-</form></li>
+		<li><div id="ng-SearchDivWrapperMobile">
+    <div id="SearchDivWrapperMobile" ng-controller="angularSearchCtrlMobile" ng-init="" ng-cloak="">
+        <div class="ng-searchGroup">
+            <div class="ng-search-icon">
+                <i class="fi-magnifying-glass" ng-hide="showLoading"></i>
+                <i class="fi-loop" ng-show="showLoading"></i>
+            </div>     
+            <input type="text" autocomplete="off" name="searchQuery" placeholder="Type your search here" ng-model="query" ng-model-options="{debounce: 500}" ng-change="searchQuery()" ng-click="continueSearch()" ng-keyup="$event.keyCode == 13 ? displayResultsPage() : null">
+        </div>      
+        <div class="ng-searchResults" ng-show="showResultsWindow &amp;&amp; query.length>0">
+            <h4 ng-show="query.length < 3">You must type minimum 3 characters</h4>
+            <h4 ng-show="count == 0 &amp;&amp; query.length > 2"><b>No results are found for your search</b></h4>
+            <h6 ng-show="count > 9999999 &amp;&amp; query.length > 2">Following results are found for your search</h6>
+        	<div class="row" ng-show="count>0">
+
+
+
+
+            	<div class="columns small-12">
+
+            		<div ng-if="categories || categorytags">
+			            <h4 class="header-large">Categories</h4>
+			            <ul>
+			                <li ng-repeat="item in categories">
+			                    <a ng-href="<< item.selected_url_column >>">
+			                    	<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    </a>
+			                </li>
+			                <li ng-repeat="item in categorytags">
+			                    <a ng-href="<< item.selected_url_column >>">
+			                    	<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    </a>
+			                </li>			                
+			            </ul>		                      			
+            		</div>
+
+            		<div ng-if="pages">
+			            <h4 class="header-large">Pages</h4>
+			            <ul>
+			                <li ng-repeat="item in pages">
+			                    <a ng-href="<< item.selected_url_column >>">
+			                    	<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    </a>
+			                </li>
+			            </ul>            			
+            		</div>
+
+            	</div>
+            	<div class="columns small-12">
+            		<h4 ng-if="items" class="header-large">Products</h4>
+		            <ul>
+		                <li ng-repeat="item in items">
+		                    
+		                    	<div class="row">
+			                    	<div class="columns small-2 result-image">
+			                    		<a ng-href="<< item.selected_url_column >>">
+				                    		<img ng-src="<< item.image >>">
+				                    	</a>
+			                    	</div>
+			                    	<div class="columns small-10 result-text">
+			                    		<a ng-href="<< item.selected_url_column >>">
+			                    			<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    		</a>
+			                    	</div>	                    		
+		                    	</div>
+		                </li>
+		            </ul>
+		            <h4 ng-if="articles" class="header-large">Articles</h4>
+		            <ul>
+		                <li ng-repeat="item in articles">
+		                    
+		                    	<div class="row">
+			                    	<div class="columns small-2 result-image">
+			                    		<a ng-href="<< item.selected_url_column >>">
+				                    		<img ng-src="<< item.image >>">
+				                    	</a>
+			                    	</div>
+			                    	<div class="columns small-10 result-text">
+			                    		<a ng-href="<< item.selected_url_column >>">
+			                    			<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    		</a>
+			                    	</div>	                    		
+		                    	</div>
+		                </li>
+		            </ul>
+            	</div>
+
+
+
+           	
+            </div>
+        </div>
+    </div>
+</div></li>
 	</ul>
 
 	<ul class="tabs" data-tab="">
-	  <li class="tab-title "><a href="#panel1"><span>Shop Men</span></a></li>
-	  <li class="tab-title active"><a href="#panel2"><span>Shop Women</span></a></li>
+	  <li class="tab-title active"><a href="#panel1"><span>Shop Men</span></a></li>
+	  <li class="tab-title "><a href="#panel2"><span>Shop Women</span></a></li>
 	</ul>
 
 	<div class="tabs-content">
-	  <div class="content " id="panel1">
+	  <div class="content active" id="panel1">
 		
 <ul class="off-canvas-list">
-	<li><a href="/en-us/mens">All</a></li><li><a href="/en-us/mens/new-in-2">NEW IN</a></li><li><a href="/en-us/mens/ss17">SS17</a></li><li class="has-submenu"><a href="/en-us/mens/jumpsuits">Jumpsuits</a><ul class="left-submenu"><li class="back"><a href="#">Back</a></li><li><a href="/en-us/mens/jumpsuits">All</a></li><li><a href="/en-us/mens/originals">Originals</a></li><li><a href="/en-us/mens/original-2-0">Original 2.0</a></li><li><a href="/en-us/mens/limited">Limited</a></li><li><a href="/en-us/mens/prints">Prints</a></li><li><a href="/en-us/mens/traditions">Traditional</a></li><li><a href="/en-us/mens/mono">Basic</a></li></ul></li><li><a href="/en-us/mens/pants-and-shorts">Pants &amp; Shorts</a></li><li><a href="/en-us/mens/hoodies--sweatshirts">Hoodies &amp; Sweaters</a></li><li><a href="/en-us/mens/jackets">Jackets</a></li><li><a href="/en-us/mens/t-shirts">T-shirts</a></li><li><a href="/en-us/mens/underwear">Underwear</a></li><li><a href="/en-us/mens/accessories">Accessories</a></li><li><a href="/en-us/mens/sale">Sale</a></li><li><a href="/en-us/shop/product/giftcard">Gift Card</a></li>	
+	<li><a href="/en-us/mens/new-in-2" class="black">NEW IN</a></li><li><a href="/en-us/mens/bestsellers" class="black">Bestsellers</a></li><li class="has-submenu"><a href="/en-us/mens/jumpsuits" class="black">Jumpsuits</a><ul class="left-submenu"><li class="back"><a href="#">Back</a></li><li><a href="/en-us/mens/jumpsuits">All</a></li><li><a href="/en-us/mens/limited" class="black">Collections</a></li><li><a href="/en-us/mens/originals" class="black">Originals</a></li><li><a href="/en-us/mens/traditions" class="black">Norwegian Heritage</a></li><li><a href="/en-us/mens/limited-editions" class="black">Limited editions</a></li><li><a href="/en-us/mens/mono" class="black">Basics</a></li><li><a href="/en-us/mens/prints--patches" class="black">Prints &amp; Patches</a></li><li><a href="/en-us/mens/fitted-2" class="black">Fitted</a></li><li><a href="/en-us/mens/short-jumpsuits-2" class="black">Short jumpsuits</a></li></ul></li><li class="has-submenu"><a href="/en-us/mens/tops--bottoms" class="black">Tops &amp; Bottoms</a><ul class="left-submenu"><li class="back"><a href="#">Back</a></li><li><a href="/en-us/mens/tops--bottoms">All</a></li><li><a href="/en-us/mens/pants-and-shorts" class="black">Pants &amp; Shorts</a></li><li><a href="/en-us/mens/hoodies--sweatshirts" class="black">Hoodies &amp; Sweaters</a></li><li><a href="/en-us/mens/t-shirts" class="black">T-shirts</a></li></ul></li><li><a href="/en-us/mens/towel" class="black">Towel</a></li><li><a href="/en-us/mens/underwear" class="black">Underwear</a></li><li><a href="/en-us/mens/accessories" class="black">Accessories</a></li><li><a href="/en-us/mens/sale" class="red">Outlet</a></li><li><a href="/en-us/shop/product/giftcard" class="">Gift Card</a></li>	
 </ul>
 	  </div>
-	  <div class="content active" id="panel2">
+	  <div class="content " id="panel2">
 		
 <ul class="off-canvas-list">
-	<li><a href="/en-us/womens">All</a></li><li><a href="/en-us/womens/new-in-2">NEW IN</a></li><li><a href="/en-us/womens/ss17">SS17</a></li><li class="has-submenu"><a href="/en-us/womens/jumpsuits">Jumpsuits</a><ul class="left-submenu"><li class="back"><a href="#">Back</a></li><li><a href="/en-us/womens/jumpsuits">All</a></li><li><a href="/en-us/womens/originals">Originals</a></li><li><a href="/en-us/womens/original-2-0">Original 2.0</a></li><li><a href="/en-us/womens/limited">Limited</a></li><li><a href="/en-us/womens/prints">Prints</a></li><li><a href="/en-us/womens/traditions">Traditional</a></li><li><a href="/en-us/womens/mono">Basic</a></li><li><a href="/en-us/womens/fitted">Fitted</a></li><li><a href="/en-us/womens/short-jumpsuits">Short Jumpsuit</a></li></ul></li><li><a href="/en-us/womens/pants-and-shorts">Pants &amp; Shorts</a></li><li><a href="/en-us/womens/hoodies--sweatshirts">Hoodies &amp; Sweaters</a></li><li><a href="/en-us/womens/jackets">Jackets</a></li><li><a href="/en-us/womens/t-shirts">T-shirts</a></li><li><a href="/en-us/womens/underwear">Underwear</a></li><li><a href="/en-us/womens/accessories">Accessories</a></li><li><a href="/en-us/womens/sale">Sale</a></li><li><a href="/en-us/shop/product/giftcard">Gift Card</a></li>	
+	<li><a href="/en-us/womens/new-in-2" class="black">NEW IN</a></li><li><a href="/en-us/womens/bestsellers" class="black">Bestsellers</a></li><li class="has-submenu"><a href="/en-us/womens/jumpsuits" class="black">Jumpsuits</a><ul class="left-submenu"><li class="back"><a href="#">Back</a></li><li><a href="/en-us/womens/jumpsuits">All</a></li><li><a href="/en-us/womens/limited" class="black">Collections</a></li><li><a href="/en-us/womens/originals" class="black">Originals</a></li><li><a href="/en-us/womens/traditions" class="black">Norwegian Heritage</a></li><li><a href="/en-us/womens/limited-editions" class="black">Limited editions</a></li><li><a href="/en-us/womens/mono" class="black">Basics</a></li><li><a href="/en-us/womens/prints--patches" class="black">Prints &amp; Patches</a></li><li><a href="/en-us/womens/fitted-2" class="black">Fitted</a></li><li><a href="/en-us/womens/short-jumpsuits-2" class="black">Short jumpsuits</a></li></ul></li><li class="has-submenu"><a href="/en-us/womens/tops--bottoms" class="black">Tops &amp; Bottoms</a><ul class="left-submenu"><li class="back"><a href="#">Back</a></li><li><a href="/en-us/womens/tops--bottoms">All</a></li><li><a href="/en-us/womens/pants-and-shorts" class="black">Pants &amp; Shorts</a></li><li><a href="/en-us/womens/hoodies--sweatshirts" class="black">Hoodies &amp; Sweaters</a></li><li><a href="/en-us/womens/t-shirts" class="black">T-shirts</a></li></ul></li><li><a href="/en-us/womens/towel" class="black">Towel</a></li><li><a href="/en-us/womens/underwear" class="black">Underwear</a></li><li><a href="/en-us/womens/accessories" class="black">Accessories</a></li><li><a href="/en-us/womens/sale" class="red">Outlet</a></li><li><a href="/en-us/shop/product/giftcard" class="">Gift Card</a></li>	
 </ul>
 	  </div>
 	</div>
@@ -202,6 +343,10 @@
 		<li><a href="/en-us/kids">Kids</a></li>
 	</ul>
 	
+	<ul class="off-canvas-list" style="display: none">
+		<li><a href="/en-us/archive-sale">Archive sale</a></li>
+	</ul>
+
 	<hr>
 	
 	<ul class="off-canvas-list indent">	
@@ -221,7 +366,7 @@
 
 
 <li class="">
-	<a href="/en-us/blog/news" target="_self">News</a>
+	<a href="/en-us/blog/whats-new" target="_self">What's New</a>
 	
 </li>
 
@@ -229,7 +374,7 @@
 
 
 <li class="">
-	<a href="/en-us/blog/press-2" target="_self">Press</a>
+	<a href="/en-us/blog/insta-style" target="_self">Insta Style</a>
 	
 </li>
 
@@ -237,7 +382,7 @@
 
 
 <li class="">
-	<a href="/en-us/blog/videos" target="_self">Videos</a>
+	<a href="/en-us/blog/lookbooks" target="_self">Lookbooks</a>
 	
 </li>
 
@@ -249,8 +394,50 @@
 
 
 
+<li class="has-dropdown">
+	<a href="#" target="_self">Style Guide</a>
+		<ul class="dropdown">				
+		
+
 <li class="">
-	<a href="/en-us/ss17-lookbook" target="_self">Lookbook</a>
+	<a href="/en-us/onepiece-x-cest-normal" target="_self">onepiece x c’est normal</a>
+	
+</li>
+
+
+
+
+<li class="">
+	<a href="/en-us/winter-style-guide" target="_self">winter style guide</a>
+	
+</li>
+
+
+
+
+<li class="">
+	<a href="/en-us/aw18-collection" target="_self">aw18 collection</a>
+	
+</li>
+
+
+
+
+<li class="">
+	<a href="/en-us/poolside-style" target="_self">poolside style</a>
+	
+</li>
+
+
+
+
+<li class="">
+	<a href="/en-us/female-edit" target="_self">Female Edit</a>
+	
+</li>
+
+
+	</ul>
 	
 </li>
 
@@ -259,6 +446,7 @@
 		<li><a href="/en-us/support">Customer care</a></li>
 		<li><a href="/en-us/brandstores">Stores</a></li>
 		<li><a href="/en-us/shop/info/contact">Contact</a></li>
+		<li><a href="/en-us/shop/info/studentdiscount">Student Discount</a></li>
 		<li><a href="/en-us/onepiece">Legacy</a></li>
 
 		<hr>
@@ -295,9 +483,9 @@
 		<section class="main-section">
 		<header class="show-for-medium-up">
 	<div class="row header-large ">
-		<div class="medium-4 columns header-text-column">
-			<div class="locale-selector">
-				<span>Shipping to </span>
+					<div class="medium-4 columns header-text-column">
+				<div class="locale-selector">
+					<span>Shipping to </span>
 <span class="language-dropdown">
 	<a href="https://www.onepiece.com/en-us/shop/country/select" class="language-dropdown-country" data-dropdown="language-dropdown" data-options="is_hover:true;">United States</a>		<div id="language-dropdown" data-dropdown-content="" class="content language-dropdown-custom" aria-hidden="true" tabindex="-1">
 		<div class="row">
@@ -310,43 +498,129 @@
 		</div>
 	</div>
 </span>
-			</div>
-			<div class="login-account">
-				<a href="https://www.onepiece.com/en-us/login" class="login-dropdown-status" data-dropdown="login-dropdown" data-options="is_hover:true;">Support &amp; login</a>
+				</div>
+				<div class="login-account">
+					<a href="https://www.onepiece.com/en-us/login" class="login-dropdown-status" data-dropdown="login-dropdown" data-options="is_hover:true;">Support &amp; login</a>
 <div id="login-dropdown" data-dropdown-content="" class="content login-dropdown-custom" aria-hidden="true" tabindex="-1">
 	<div class="row">
 		<div class="small-12 columns">
 			<a href="https://www.onepiece.com/en-us/login" class="button tiny expand">Sign in</a>			<a href="/en-us/support">Customer care</a>			<a href="/en-us/shop/return/return">Return and exchange</a>			<a href="https://www.onepiece.com/en-us/shop/info/faq">FAQ</a>			<a href="https://www.onepiece.com/en-us/account">My orders</a>			<a href="/en-us/shop/account/register" style="">Not registered yet? Register now!</a>		</div>
 	</div>
-</div>			</div>
-		</div>
-		<div class="medium-4 columns text-center">
-							<a href="/en-us">
-					<div class="lazyload"><img alt="Onepiece logo" class="logo-horizontal" data-interchange="
+</div>				</div>
+			</div>
+				<div class="medium-4 columns text-center">
+												<a href="/en-us">
+									<div class="lazyload"><img alt="Onepiece logo" class="logo-horizontal" data-interchange="
 							[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo.png, (default)],
 							[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo-double.png, (retinasmall)],
-							[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo-double.png, (retina)]"></div>				</a>
-			
-		</div>
-		<div class="medium-4 columns text-right header-text-column">
-			<div class="header-search">
-				<form action="/en-us/shop/search/result" method="get" name="search" accept-charset="utf-8" class="search">	<div class="search-input">
-		<input type="text" id="search" name="query" value="" placeholder="SEARCH">		<a class="search-button" href="#">
-			<i class="fi-magnifying-glass"></i>
-		</a>
-	</div>
-</form>			</div>
-			<div class="header-cart">
-				
+							[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo-double.png, (retina)]"></div>									</a>
+									</div>
+					<div class="medium-4 columns text-right header-text-column">
+				<div class="header-search">
+					<div id="ng-SearchDivWrapper">
+    <style>
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  		display: none !important;
+	}
+	</style>
+    <div id="angularSearchDiv" ng-controller="angularSearchCtrl" ng-cloak="">
+
+        <div class="ng-searchGroup">
+            <div class="ng-search-icon">
+                <i class="fi-magnifying-glass" ng-hide="showLoading"></i>
+                <i class="fi-loop" ng-show="showLoading"></i>
+            </div>     
+            <input type="text" autocomplete="off" name="searchQuery" placeholder="Type your search here" ng-model="query" ng-model-options="{debounce: 500}" ng-change="searchQuery()" ng-click="continueSearch()" ng-keyup="$event.keyCode == 13 ? displayResultsPage() : null">
+        </div>      
+        <div class="ng-searchResults" ng-show="showResultsWindow &amp;&amp; query.length>0">
+            <h4 ng-show="query.length < 3">You must type minimum 3 characters</h4>
+            <h4 ng-show="count == 0 &amp;&amp; query.length > 2"><b>No results are found for your search</b></h4>
+            <h6 ng-show="count > 9999999 &amp;&amp; query.length > 2">Following results are found for your search</h6>
+        	<div class="row" ng-show="count>0">
+            	<div class="columns small-4">
+
+            		<div ng-if="categories || categorytags">
+			            <h4 class="header-large">Categories</h4>
+			            <ul>
+			                <li ng-repeat="item in categories">
+			                    <a ng-href="<< item.selected_url_column >>">
+			                    	<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    </a>
+			                </li>
+			                <li ng-repeat="item in categorytags">
+			                    <a ng-href="<< item.selected_url_column >>">
+			                    	<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    </a>
+			                </li>			                
+			            </ul>		                      			
+            		</div>
+
+            		<div ng-if="pages">
+			            <h4 class="header-large">Pages</h4>
+			            <ul>
+			                <li ng-repeat="item in pages">
+			                    <a ng-href="<< item.selected_url_column >>">
+			                    	<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    </a>
+			                </li>
+			            </ul>            			
+            		</div>
+
+            	</div>
+            	<div class="columns small-8">
+            		<h4 ng-if="items" class="header-large">Products</h4>
+		            <ul>
+		                <li ng-repeat="item in items">
+		                    
+		                    	<div class="row">
+			                    	<div class="columns small-2 result-image">
+			                    		<a ng-href="<< item.selected_url_column >>">
+				                    		<img ng-src="<< item.image >>">
+				                    	</a>
+			                    	</div>
+			                    	<div class="columns small-10 result-text">
+			                    		<a ng-href="<< item.selected_url_column >>">
+			                    			<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    		</a>
+			                    	</div>	                    		
+		                    	</div>
+		                </li>
+		            </ul>
+		            <h4 ng-if="articles" class="header-large">Articles</h4>
+		            <ul>
+		                <li ng-repeat="item in articles">
+		                    
+		                    	<div class="row">
+			                    	<div class="columns small-2 result-image">
+			                    		<a ng-href="<< item.selected_url_column >>">
+				                    		<img ng-src="<< item.image >>">
+				                    	</a>
+			                    	</div>
+			                    	<div class="columns small-10 result-text">
+			                    		<a ng-href="<< item.selected_url_column >>">
+			                    			<span ng-bind-html="item.customer_highlight_text.value"></span>
+			                    		</a>
+			                    	</div>	                    		
+		                    	</div>
+		                </li>
+		            </ul>
+            	</div>	                    		
+           	
+            </div>
+        </div>
+    </div>
+</div>				</div>
+				<div class="header-cart">
+					
 			<span class="cart-empty-icon hide-for-small">
 			<span>Cart empty</span>
 		</span>
-				</div>
-			<div class="header-wishlist">
-				
-			</div>			
-		</div>
-	</div>
+					</div>
+				<div class="header-wishlist">
+					
+				</div>			
+			</div>
+			</div>
 			<div class="row">
 			
 <nav class="top-bar" data-topbar="" data-options="mobile_show_parent_link:false" role="navigation">
@@ -356,43 +630,54 @@
 		<ul class="show-for-medium-up">
 				<li class="main">
 			<div class="has-dropdown">			
-				<a href="/en-us/mens">
+				<a href="/en-us/mens" class="">
 					Men				</a>
 								<ul class="dropdown">				
-					<li class=""><a href="/en-us/mens/new-in-2" target="_self">NEW IN</a></li><li class=""><a href="/en-us/mens/ss17" target="_self">SS17</a></li><li class="has-dropdown"><a href="/en-us/mens/jumpsuits" target="_self">Jumpsuits</a><ul class="dropdown"><li class=""><a href="/en-us/mens/originals" target="_self">Originals</a></li><li class=""><a href="/en-us/mens/original-2-0" target="_self">Original 2.0</a></li><li class=""><a href="/en-us/mens/limited" target="_self">Limited</a></li><li class=""><a href="/en-us/mens/prints" target="_self">Prints</a></li><li class=""><a href="/en-us/mens/traditions" target="_self">Traditional</a></li><li class=""><a href="/en-us/mens/mono" target="_self">Basic</a></li></ul></li><li class=""><a href="/en-us/mens/pants-and-shorts" target="_self">Pants &amp; Shorts</a></li><li class=""><a href="/en-us/mens/hoodies--sweatshirts" target="_self">Hoodies &amp; Sweaters</a></li><li class=""><a href="/en-us/mens/jackets" target="_self">Jackets</a></li><li class=""><a href="/en-us/mens/t-shirts" target="_self">T-shirts</a></li><li class=""><a href="/en-us/mens/underwear" target="_self">Underwear</a></li><li class=""><a href="/en-us/mens/accessories" target="_self">Accessories</a></li><li class=""><a href="/en-us/mens/sale" style="color: #B00" target="_self">Sale</a></li><li class=""><a href="/en-us/shop/product/giftcard" target="_self">Gift Card</a></li>				</ul>
+					<li class=""><a href="/en-us/mens/new-in-2" class="black" target="_self">NEW IN</a></li><li class=""><a href="/en-us/mens/bestsellers" class="black" target="_self">Bestsellers</a></li><li class="has-dropdown"><a href="/en-us/mens/jumpsuits" class="black" target="_self">Jumpsuits</a><ul class="dropdown"><a href="/en-us/mens/jumpsuits">All</a><li class=""><a href="/en-us/mens/limited" class="black" target="_self">Collections</a></li><li class=""><a href="/en-us/mens/originals" class="black" target="_self">Originals</a></li><li class=""><a href="/en-us/mens/traditions" class="black" target="_self">Norwegian Heritage</a></li><li class=""><a href="/en-us/mens/limited-editions" class="black" target="_self">Limited editions</a></li><li class=""><a href="/en-us/mens/mono" class="black" target="_self">Basics</a></li><li class=""><a href="/en-us/mens/prints--patches" class="black" target="_self">Prints &amp; Patches</a></li><li class=""><a href="/en-us/mens/fitted-2" class="black" target="_self">Fitted</a></li><li class=""><a href="/en-us/mens/short-jumpsuits-2" class="black" target="_self">Short jumpsuits</a></li></ul></li><li class="has-dropdown"><a href="/en-us/mens/tops--bottoms" class="black" target="_self">Tops &amp; Bottoms</a><ul class="dropdown"><a href="/en-us/mens/tops--bottoms">All</a><li class=""><a href="/en-us/mens/pants-and-shorts" class="black" target="_self">Pants &amp; Shorts</a></li><li class=""><a href="/en-us/mens/hoodies--sweatshirts" class="black" target="_self">Hoodies &amp; Sweaters</a></li><li class=""><a href="/en-us/mens/t-shirts" class="black" target="_self">T-shirts</a></li></ul></li><li class=""><a href="/en-us/mens/towel" class="black" target="_self">Towel</a></li><li class=""><a href="/en-us/mens/underwear" class="black" target="_self">Underwear</a></li><li class=""><a href="/en-us/mens/accessories" class="black" target="_self">Accessories</a></li><li class=""><a href="/en-us/mens/sale" class="red" target="_self">Outlet</a></li><li class=""><a href="/en-us/shop/product/giftcard" class="" target="_self">Gift Card</a></li>				</ul>
 							</div>
-		</li>
+		</li>	
 				<li class="main">
 			<div class="has-dropdown">			
-				<a href="/en-us/womens">
+				<a href="/en-us/womens" class="">
 					Women				</a>
 								<ul class="dropdown">				
-					<li class=""><a href="/en-us/womens/new-in-2" target="_self">NEW IN</a></li><li class=""><a href="/en-us/womens/ss17" target="_self">SS17</a></li><li class="has-dropdown"><a href="/en-us/womens/jumpsuits" target="_self">Jumpsuits</a><ul class="dropdown"><li class=""><a href="/en-us/womens/originals" target="_self">Originals</a></li><li class=""><a href="/en-us/womens/original-2-0" target="_self">Original 2.0</a></li><li class=""><a href="/en-us/womens/limited" target="_self">Limited</a></li><li class=""><a href="/en-us/womens/prints" target="_self">Prints</a></li><li class=""><a href="/en-us/womens/traditions" target="_self">Traditional</a></li><li class=""><a href="/en-us/womens/mono" target="_self">Basic</a></li><li class=""><a href="/en-us/womens/fitted" target="_self">Fitted</a></li><li class=""><a href="/en-us/womens/short-jumpsuits" target="_self">Short Jumpsuit</a></li></ul></li><li class=""><a href="/en-us/womens/pants-and-shorts" target="_self">Pants &amp; Shorts</a></li><li class=""><a href="/en-us/womens/hoodies--sweatshirts" target="_self">Hoodies &amp; Sweaters</a></li><li class=""><a href="/en-us/womens/jackets" target="_self">Jackets</a></li><li class=""><a href="/en-us/womens/t-shirts" target="_self">T-shirts</a></li><li class=""><a href="/en-us/womens/underwear" target="_self">Underwear</a></li><li class=""><a href="/en-us/womens/accessories" target="_self">Accessories</a></li><li class=""><a href="/en-us/womens/sale" style="color: #B00" target="_self">Sale</a></li><li class=""><a href="/en-us/shop/product/giftcard" target="_self">Gift Card</a></li>				</ul>
+					<li class=""><a href="/en-us/womens/new-in-2" class="black" target="_self">NEW IN</a></li><li class=""><a href="/en-us/womens/bestsellers" class="black" target="_self">Bestsellers</a></li><li class="has-dropdown"><a href="/en-us/womens/jumpsuits" class="black" target="_self">Jumpsuits</a><ul class="dropdown"><a href="/en-us/womens/jumpsuits">All</a><li class=""><a href="/en-us/womens/limited" class="black" target="_self">Collections</a></li><li class=""><a href="/en-us/womens/originals" class="black" target="_self">Originals</a></li><li class=""><a href="/en-us/womens/traditions" class="black" target="_self">Norwegian Heritage</a></li><li class=""><a href="/en-us/womens/limited-editions" class="black" target="_self">Limited editions</a></li><li class=""><a href="/en-us/womens/mono" class="black" target="_self">Basics</a></li><li class=""><a href="/en-us/womens/prints--patches" class="black" target="_self">Prints &amp; Patches</a></li><li class=""><a href="/en-us/womens/fitted-2" class="black" target="_self">Fitted</a></li><li class=""><a href="/en-us/womens/short-jumpsuits-2" class="black" target="_self">Short jumpsuits</a></li></ul></li><li class="has-dropdown"><a href="/en-us/womens/tops--bottoms" class="black" target="_self">Tops &amp; Bottoms</a><ul class="dropdown"><a href="/en-us/womens/tops--bottoms">All</a><li class=""><a href="/en-us/womens/pants-and-shorts" class="black" target="_self">Pants &amp; Shorts</a></li><li class=""><a href="/en-us/womens/hoodies--sweatshirts" class="black" target="_self">Hoodies &amp; Sweaters</a></li><li class=""><a href="/en-us/womens/t-shirts" class="black" target="_self">T-shirts</a></li></ul></li><li class=""><a href="/en-us/womens/towel" class="black" target="_self">Towel</a></li><li class=""><a href="/en-us/womens/underwear" class="black" target="_self">Underwear</a></li><li class=""><a href="/en-us/womens/accessories" class="black" target="_self">Accessories</a></li><li class=""><a href="/en-us/womens/sale" class="red" target="_self">Outlet</a></li><li class=""><a href="/en-us/shop/product/giftcard" class="" target="_self">Gift Card</a></li>				</ul>
 							</div>
-		</li>
+		</li>	
 				<li class="main">
 			<div class="has-dropdown">			
-				<a href="/en-us/kids">
+				<a href="/en-us/kids" class="">
 					Kids				</a>
 								<ul class="dropdown">				
-					<li class=""><a href="/en-us/kids/kids-2" target="_self">Kids</a></li><li class=""><a href="/en-us/kids/babies" target="_self">Babies</a></li>				</ul>
+					<li class=""><a href="/en-us/kids/kids-2" class="black" target="_self">Kids</a></li><li class=""><a href="/en-us/kids/babies" class="black" target="_self">Babies</a></li>				</ul>
 							</div>
-		</li>
+		</li>	
 				<li class="main">
 			<div class="has-dropdown">			
-				<a href="/en-us/blog">
+				<a href="/en-us/blog" class="">
 					blog				</a>
 								<ul class="dropdown">				
-					<li class=""><a href="/en-us/blog/celebs" target="_self">Celebs</a></li><li class=""><a href="/en-us/blog/news" target="_self">News</a></li><li class=""><a href="/en-us/blog/press-2" target="_self">Press</a></li><li class=""><a href="/en-us/blog/videos" target="_self">Videos</a></li>				</ul>
+					<li class=""><a href="/en-us/blog/celebs" class="" target="_self">Celebs</a></li><li class=""><a href="/en-us/blog/whats-new" class="" target="_self">What's New</a></li><li class=""><a href="/en-us/blog/insta-style" class="" target="_self">Insta Style</a></li><li class=""><a href="/en-us/blog/lookbooks" class="" target="_self">Lookbooks</a></li>				</ul>
 							</div>
-		</li>
+		</li>	
 				<li class="main">
-			<div class="">			
-				<a href="/en-us/ss17-lookbook">
-					Lookbook				</a>
+			<div class="has-dropdown">			
+				<a href="#" class="">
+					Style Guide				</a>
+								<ul class="dropdown">				
+					<li class=""><a href="/en-us/onepiece-x-cest-normal" class="" target="_self">onepiece x c’est normal</a></li><li class=""><a href="/en-us/winter-style-guide" class="" target="_self">winter style guide</a></li><li class=""><a href="/en-us/aw18-collection" class="" target="_self">aw18 collection</a></li><li class=""><a href="/en-us/poolside-style" class="" target="_self">poolside style</a></li><li class=""><a href="/en-us/female-edit" class="" target="_self">Female Edit</a></li>				</ul>
 							</div>
-		</li>
-		
+		</li>	
+				<li class="main">
+			<div class="has-dropdown">			
+				<a href="/en-us/sale" class="red">
+					Outlet				</a>
+								<ul class="dropdown">				
+					<li class=""><a href="/en-us/mens/sale" class="" target="_self">Men</a></li><li class=""><a href="/en-us/womens/sale" class="" target="_self">Women</a></li>				</ul>
+							</div>
+		</li>	
+					
+
 		</ul>
 	</section>
 </nav>
@@ -400,80 +685,143 @@
 	</header>
 <section id="privacy-policy">
 	<div class="row">
-		<div class="large-12 columns">	
-			<h1>Privacy policy</h1>
+		<div class="large-12 columns">
+						
+				<h1>PRIVACY POLICY</h1>
 
-			<h2>Payment</h2>
+				<p>Customer privacy is very important to us, and we’d like to outline in this document how any personal data collected from you via www.onepiece.com or in one of our global stores, will be protected, stored and used by us to communicate with you.</p>
 
-			<p>We accept credit card payments with Visa and MasterCard. Your credit card will be charged with the full order amount as soon as the order is registered. Our credit card provider is DIBS, they will securely handle your personal and financial information. DIBS has a PCI (Payment Card Industry) certification, with is an extensive program which aims to increase the security for all parties that store, process and transmit data. Read more about DIBS at dibs.se.
+				<p class="inline-header">WHY DO WE COLLECT YOUR DATA?</p>
 
-			</p><p>In selected countries you can pay with your PayPal or Amazon account. We also accept invoice payments with Klarna in Sweden, Norway, Denmark and Finland, and payment through Ideal in the Netherlands. Read more about Klarna at klarna.com, and Ideal at ideal.nl.
+				<p>We collect, use and store your basic personal details to process and send your orders to the correct person and location. We also collect it to keep you in the know about our latest products, special offers and sales. The more personal information we have about you, the more tailored we can make your email newsletters, best suited to your interests and style.</p>
 
-			</p><h2>Information security</h2>
+				<p class="inline-header">IS IT SECURE?</p>
 
-			<p>OnePiece Jump in currently does not collect personal information from simply accessing the website. We duly inform you from time to time in specific dedicated sections of the website in case there are activities implying the processing of your personal data and in that case we will ask your permission whenever required by laws.</p>
+				<p>Yes, it is very safe to leave your personal details with us. We use market-leading technology and software to ensure your personal data is secure. If we work with any third party services, we always ensure they have the correct, industry standard security measures to access our database.</p>
 
-			<p>In order to process your order, we will collect personal information about you (e.g. your name, e-mail address, shipping/billing address and phone number). Credit card information is only handled by our third-party credit card provider (DIBS).
+				<p class="inline-header">HOW DO WE USE YOUR DATA?</p>
 
-			</p><p>Personal information gathered is not shared with third parties (other than moderators or "agents", such as vendors or contractors, who are only processing such information for us or at our direction).
+				<p>You can rest assured that once you provide us with your personal details, they will be kept secure. We do not sell any of your personal data to any third party – including your name, phone number, address, email address and credit card/payment information.</p>
 
-			</p><p>Non-personal information such as you IP address is automatically recorded when you enter our web site. This information is only used to diagnose server problems and site administration.
+				<p>However, we share your data with the following categories of companies as an essential part of being able to provide our services to you, as set out in this statement:</p>
 
-			
-			</p><h2>Cookies</h2>
+				<ul>
+					<li>Companies that we use to get your orders to you, such as payment service providers, warehouses, and delivery companies</li>
+					<li><a href="/en-us/shop/info/cookies">Professional service providers</a> who help us to run our business, such as advertising partners, marketing technology platforms and website hosts</li>
+				</ul>
 
-			<p>A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is a small piece of data sent from a website and stored into your web browser so that they are recognized by the website in your next visit. Cookies (and similar technical tools) are used for different purpose: authentication of the user, monitoring of the session, storing of settings of configuration of the users accessing the server, etc.</p>
+				<p> As the 1st party data processor, we will process your personal data in the following ways:</p>
 
-			<p>Cookies are used on this site in order to provide a better user experience, and for collecting site usage statistics. Cookies must be enabled when ordering from this site. By browsing this site you consent to our use of cookies
+				<p>If you browse our website:</p>
 
-			</p><p>This policy refers exclusively to the cookies sent to your computer during the visit of the website www.onepiece.com. This policy does not refer to the cookies sent by other websites you may visit through links available in our webpages (for example when you select LIKE or SHARE on a specific item you are redirected to Facebook, same as when you select specific functional buttons and you are linked to other websites); to know more about their cookies we invite you to read the respective privacy and cookies policy.</p>
-			
-			<p>The website www.onepiece.com is owned and managed by OnePiece Jump in AS, a Norwegian Company. Norwegian Data Protection Law does not required to obtain authorization from the user before sending analytics cookies or technical cookies. Third-party cookies are sent to your browser through our website while your are browsing but from other servers/operators than Onepiece Jump in.</p>
+				<ul>
+					<li>IP address</li>
+					<li><a href="/en-us/shop/info/cookies">On-site behavior</a> for marketing purposes</li>
+				</ul>
 
-			<h2>Customer responsibilities</h2>
+				<p>If you sign up to our newsletter: </p>
 
-			<p>By using onepiece.com, you agree to comply with all applicable law, and such further limitations as may be set forth in any written or on-screen notice from OnePiece Jump in. You are not allowed to use this site in any purpose that is unlawful or prohibited by this agreement.
+				<ul>
+					<li>Email address</li>
+					<li>Your newsletter preferences</li>
+					<li>What products you have clicked on and/or put in your shopping cart</li>					
+				</ul>
 
-			</p><p>In all purchases or other transactions performed on this site, you must provide information that is accurate, complete and current.
+				<p>If you have a Onepiece account: </p>
 
-			</p><p>You cannot in any way attempt to violate the security of the site.
+				<ul>
+					<li>Email address </li>
+					<li>Name (optional)</li>
+					<li>Gender (optional) </li>
+					<li>Address (optional) </li>
+					<li>Phone number (optional)</li>
+					<li>Wishlist (optional) </li>
+					<li>Gift cards (optional)</li>
+					<li>Order history (optional)</li>
+				</ul>
 
-			</p><h2>Product information</h2>
+				
+				<p>
+					If you place or have previously placed an order with us:
+				</p>
 
-			<p>We attempt to be as accurate as possible in describing the products on the site. We do not warrant that the product descriptions or other content of this site is accurate, complete, reliable, current or error-free. We have made every effort to display as accurate colors as possible of the products on the site. Displayed product colors may differ slightly from real-life colors depending on your computer monitor.
+				<ul>
+					<li>Email address</li>
+					<li>Full name</li>
+					<li>Phone number</li>
+					<li>Delivery and/or billing address</li>
+					<li>Gender</li>
+					<li>Credit card information (we securely pass on your data to our payment partners, we do not store your credit card info)</li>
+				</ul>				     
+				
+				<p>If you order products or a gift card on behalf of a third party, you are held responsible for gaining their consent to submitting their personal data.</p>
 
-			</p><h2>Risk of loss</h2>
+				<p class="inline-header">HOW LONG DO WE SAVE YOUR DATA?</p>
 
-			<p>All product purchased from this site are transported and delivered to you by an independent carrier not affiliated with, or controlled by, OnePiece Jump in. When we deliver the items you have purchased on this site to the carrier, the responsibility of the product passes on to you.
+				<p>We will keep your data for direct marketing for a total of five years. For email marketing, we will consider you an inactive customer (and subsequently delete you data) if you haven't opened an email within the last three years. After these time periods your personal data will be deleted. </p>
 
-			</p><p>OnePiece Jump in may at any time update or close the site. We may discontinue or restrict your use of the site without any notice.
-		</p></div>
+				<p>We reserve the right to save your data for legal and tax purposes for a total of five years. You may opt out of our direct marketing during this period.</p>
+
+				<p class="inline-header">WHAT DO YOU NEED TO DO?</p>
+
+				<p>All that we ask of you is to keep your account password and other access information secret, ensure no one else makes a purchase while you’re signed into your Onepiece account, and always sign out when you end your online session.</p>
+
+				<p class="inline-header">HOW DO I CHANGE MY ACCOUNT SETTINGS?</p>
+
+				<p>If you wish to change your delivery address, email address or account password, you can log into your account here: https://www.onepiece.com/account. Here you can also view your order history, wish list, gift cards and linked social accounts (Facebook and Google+).</p>
+
+				<p>You are responsible for providing us with accurate personal information and updating it when necessary.</p>
+
+				<p class="inline-header">WHAT ABOUT COOKIES?</p>
+
+				<p>A cookie is a small text file that is saved to, and, during subsequent visits, retrieved from your computer or mobile device. If you use our online services, we will assume that you agree to the use of such cookie.</p>
+
+				<p>We use the following cookies when you visit our site:</p>
+
+				<ol>
+					<li>Site functionality cookies – allow you to navigate the site and use our features, such as “Add to Bag” and “Add to Wishlist”.</li>
+					<li>Site analytics cookies – allow us to measure and analyze how our customers use our website, to improve both its functionality and the customer experience.</li>
+					<li>Customer preference cookies – when you’re browsing or shopping on our site, these cookies will remember your preferences (e.g. your location), so we can make your shopping experience as seamless as possible, and quicker for you to order your purchases.</li>
+					<li>Targeting or advertising cookies – used to deliver adverts relevant to you. They also limit the number of times that you see an ad, and help us measure the effectiveness of our marketing campaigns.</li>
+				</ol>
+
+				<p><a href="/en-us/shop/info/cookies">Click here to view the full list of cookies we use on our website.</a></p>
+
+				<p>By using our site, you agree to Onepiece placing these sorts of cookies on your device and accessing them when you visit our site in the future. If you want to delete any cookies that are already on your computer, visit the “Help” section in your browser to delete any you wish to. Please note, deleting or disabling future cookies may affect your user experience; you might not be able to take advantage of certain functions on our site, and your shopping experience may be less seamless.</p>
+
+				<p class="inline-header">HOW DO I CHANGE MY MAIL SETTINGS?</p>
+
+				<p>We have a one click unsubscribe policy, and each communication gives you the opportunity to opt-out of receiving future Onepiece newsletters via a link at the bottom of the email. </p>
+
+				<p>Please note there are some communications that are an integral part of our company service and cannot be opted-out of. These communications include changes to your order, including information about a potential refund or exchange.</p>
+
+				<p class="inline-header">CHANGES TO THIS PRIVACY STATEMENT</p>
+
+				<p>This Privacy Policy is correct as of 22/05/2018</p>
+
+				<p class="inline-header">REGISTERED DETAILS</p>
+
+				<p>Our registered office and principal trading address is: Onepiece Jump In AS, Eilert Sundts Gate 41, 0355 Oslo, Norway. Our company registration number in Norway is 995135469. </p>
+
+				<p>Local Onepiece entities are as follows: </p>
+
+				<ul>
+					<li>UK &amp; Australia: Onepiece Jump In Limited</li>
+					<li>US &amp; Canada: Onepiece America LLC</li>
+					<li>All other countries: Onepiece Jump In AS</li>					
+				</ul>
+
+				<p>The Onepiece entity responsible for your purchases on our website and the processing of your personal data will depend on how you interact with our site and where you are located in the world.</p>
+
+				<p class="inline-header">CONTACT US</p>
+
+				<p>
+					If you have any queries about our customer privacy policy, or anything else, please contact us at <a href="mailto:support@onepiece.com">support@onepiece.com.</a>.
+				</p>
+
+					</div>
 	</div>
-</section>
-
-<section class="alt">
-	<div class="row">
-		<div class="large-12 columns">	
-			<h3>Contact us</h3>
-
-			<p>If you can't find the information you need on our site, or if you just want to give us feedback, please contact us directly by phone or e-mail. We recommend that you send us an e-mail, we usually get back to you within the next business day.
-
-			</p><h2>Phone numbers</h2>
-
-			<p>
-				Sweden: +46 851 729 898<br>
-				Norway: +47 845 24 810<br>
-	            Denmark: +45 699 60 365<br>
-	            USA: +1  202 525 7954<br>
-	            UK: +44 203 514 3371<br>
-	            Finland: +35 8942 419132
-
-			</p><h2>E-mail address</h2>
-
-			<p><a href="mailto:support@onepiece.com">support@onepiece.com</a>		</p></div>
-	</div>
-</section>
-<div id="sm-congrats" class="sm-modal reveal-modal" data-reveal="" aria-hidden="true" role="dialog">
+</section><div id="sm-congrats" class="sm-modal reveal-modal" data-reveal="" aria-hidden="true" role="dialog">
 	<img data-src="https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/smm-congrats.jpg">
 	<div class="row text-center">
 		<div class="small-12 columns type1 down1">
@@ -518,6 +866,22 @@
 	<div class="row text-center">
 		<div class="small-12 columns type3">
 			Please check and retype the email		</div>
+	</div>
+</div>
+
+<div id="sm-checkbox" class="sm-modal reveal-modal" data-reveal="" aria-hidden="true" role="dialog">
+	<img data-src="https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/smm-email.jpg">
+	<div class="row text-center">
+		<div class="small-12 columns type4 down1">
+			Invalid entry		</div>
+	</div>
+	<div class="row text-center">
+		<div class="small-12 columns type1">
+			You have to agree to receive our newsletter to participate in this competition		</div>
+	</div>
+	<div class="row text-center">
+		<div class="small-12 columns type3">
+			Please go back and check the box!		</div>
 	</div>
 </div>
 
@@ -566,22 +930,29 @@
 					</div>
 				</div>
 			
-			<div class="row hide-for-small">
-				<div class="small-12 columns text-center footer-newsletter">
-					<h4>Subscribe to our newsletter to receive exclusive deals and offers</h4>
-					<form action="/en-us/shop/newsletter/footer" method="post" accept-charset="utf-8">						<div class="row">
-							<div class="small-6 small-centered columns">
-								<div class="row collapse">
-									<div class="small-8 columns">
-										<input type="text" name="email" class="text-center" placeholder="your@email.com">									</div>
-									<div class="small-4 columns">
-										<input type="submit" name="signup" value="Sign up" class="button success postfix">									</div>
+							<div class="row hide-for-small">
+					<div class="small-12 columns text-center footer-newsletter">
+						<h4>Subscribe to our newsletter to receive exclusive deals and offers</h4>
+						<form action="/en-us/shop/newsletter/footer" method="post" accept-charset="utf-8">							<div class="row">
+								<div class="small-6 small-centered columns">
+									<div class="row collapse">
+										<div class="small-8 columns">
+											<input type="text" name="email" class="text-center" placeholder="your@email.com">										</div>
+										<div class="small-4 columns">
+											<input type="submit" name="signup" value="Sign up" class="button success postfix">										</div>
+										<div class="small-12 columns">
+
+											<label class="privacy-policy-notice" for="agree_newsletter_subscription_footer">
+												<input type="checkbox" class="default" required="required" id="agree_newsletter_subscription_footer">
+												I agree to receive emails about new products and exclusive offers. To learn more about our privacy policy, click <a href="/en-us/shop/info/privacy">Here</a>											</label>										
+
+										</div>
+									</div>
 								</div>
 							</div>
-						</div>
-					</form>				</div>
-			</div>
-
+						</form>					</div>
+				</div>
+			
 							<div class="row hide-for-small">
 					<div class="small-9 small-centered columns footer-bottom-menu footer-text">
 						<div class="row">
@@ -590,8 +961,9 @@
 								<ul>
 									<li><a href="/en-us/support">Customer care</a></li>
 									<li><a href="/en-us/shop/return/return">Return and Exchange</a></li>
-									<li><a href="/en-us/shop/product/giftcard">Gift cards</a></li>
-									<li><a href="/en-us/shop/info/terms">Terms and conditions</a></li>
+																			<li><a href="/en-us/shop/product/giftcard">Gift cards</a></li>
+																		<li><a href="/en-us/shop/info/terms">Terms and conditions</a></li>
+									<li><a href="/en-us/shop/info/privacy">Privacy Policy</a></li>									
 									<li><a href="/en-us/login">Sign in</a></li>
 								</ul>
 							</div>
@@ -599,7 +971,8 @@
 								<h4>Company</h4>
 								<ul>
 									<li><a href="/en-us/onepiece">Onepiece story</a></li>
-									<li><a href="/en-us/blog/impressum-2">Careers</a></li>
+									<li><a href="/en-us/blog/careers-2">Careers</a></li>
+									<li><a href="/en-us/blog/impressum-2">Imprint</a></li>
 									<li><a href="/en-us/brandstores">Stores</a></li>
 									<li><a href="/en-us/blog/press-2">Press</a></li>
 									<li><a href="/en-us/shop/info/contact">Contact</a></li>
@@ -609,9 +982,9 @@
 								<h4>Partners</h4>
 								<ul>
 									<li><a href="/en-us/shop/info/contact">Sales &amp; distribution</a></li>
-									<li><a href="https://www.brandbassador.com">Brand ambassadors</a></li>
-									<li><a href="/en-us/shop/info/unidays">Unidays</a></li>
-									<li><a href="http://member.impactradius.com/campaign-campaign-info/OnePiece.brand">Affiliate</a></li>
+									<li><a href="https://app.brandbassador.com/onepiece">Brand ambassadors</a></li>
+									<li><a href="/en-us/shop/info/studentdiscount">Student Discount</a></li>
+									<li><a href="/join-the-onepiece-affiliate-program">Affiliate</a></li>
 								</ul>
 							</div>
 						</div>
@@ -627,8 +1000,9 @@
 									<ul>
 										<li><a href="/en-us/support">Customer care</a></li>
 										<li><a href="/en-us/shop/return/return">Return and Exchange</a></li>
-										<li><a href="/en-us/shop/product/giftcard">Gift cards</a></li>
-										<li><a href="/en-us/shop/info/terms">Terms and conditions</a></li>
+																					<li><a href="/en-us/shop/product/giftcard">Gift cards</a></li>
+																				<li><a href="/en-us/shop/info/terms">Terms and conditions</a></li>
+										<li><a href="/en-us/shop/info/privacy">Privacy Policy</a></li>										
 										<li><a href="/en-us/login">Sign in</a></li>
 									</ul>
 								</div>
@@ -638,7 +1012,8 @@
 								<div id="company" class="content">
 									<ul>
 										<li><a href="/en-us/onepiece">Onepiece story</a></li>
-										<li><a href="/en-us/blog/impressum-2">Careers</a></li>
+										<li><a href="/en-us/blog/careers-2">Careers</a></li>
+										<li><a href="/en-us/blog/impressum-2">Imprint</a></li>			
 										<li><a href="/en-us/brandstores">Stores</a></li>
 										<li><a href="/en-us/blog/press-2">Press</a></li>
 										<li><a href="/en-us/shop/info/contact">Contact</a></li>
@@ -650,9 +1025,9 @@
 								<div id="partners" class="content">
 									<ul>
 										<li><a href="/en-us/shop/info/contact">Sales &amp; distribution</a></li>
-										<li><a href="https://www.brandbassador.com">Brand ambassadors</a></li>
-										<li><a href="/en-us/shop/info/unidays">Unidays</a></li>
-										<li><a href="http://member.impactradius.com/campaign-campaign-info/OnePiece.brand">Affiliate</a></li>
+										<li><a href="https://app.brandbassador.com/onepiece">Brand ambassadors</a></li>
+										<li><a href="/en-us/shop/info/studentdiscount">Student Discount</a></li>
+										<li><a href="/join-the-onepiece-affiliate-program">Affiliate</a></li>
 									</ul>
 								</div>
 							</li>
@@ -666,20 +1041,21 @@
 		<div class="small-12">
 			<div class="row">
 				<div class="large-12 columns text-center footer-logo">
-					<a href="/en-us">
-						<div class="lazyload"><img alt="Onepiece logo - Est. 2007" class="logo" data-interchange="
+											<a href="/en-us">
+											<div class="lazyload"><img alt="Onepiece logo - Est. 2007" class="logo" data-interchange="
 								[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo.png, (default)],
 								[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo-double.png, (retinasmall)],
-								[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo-double.png, (retina)]"></div>					</a>
-				</div>
+								[https://onepiece-storage.storage.googleapis.com/assets/gfx/theme/horizontal-logo-double.png, (retina)]"></div>											</a>
+									</div>
 			</div>
 
 			<div class="row">
 				<div class="large-12 columns text-center footer-text">
 					<p>
-						<a href="/en-us/shop/info/copyright">Copyright 2009-17 Onepiece Jump In AS</a><br>
+						<a href="/en-us/shop/info/copyright">Copyright 2009-18 Onepiece Jump In AS</a><br>
 						All rights reserved<br>
-						Designed in Oslo, Norway					</p>
+						Designed in Oslo, Norway<br><br>
+						<a href="/en-us/shop/info/privacy">Privacy Policy</a>					</p>
 				</div>
 			</div>
 
@@ -689,17 +1065,6 @@
 </div>		</div>
 	</div>
 </footer><div id="version-tag" class="row" style="display:none">PRODUCTION</div>
-<div id="cookie-policy">
-	<div class="row">
-	    <div class="small-9 columns message">
-	        We use cookies. By browsing this site you consent to our use of cookies. For more information, please read our <strong><a href="/en-us/shop/info/privacy">Privacy Policy</a></strong>.	    </div>
-	    <div class="small-3 columns close">
-	        <span>
-	        	<i class="fi-x"></i>
-	        </span>
-	    </div>
-	</div>
-</div>
 		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/jquery.js"></script>
 		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/fastclick.js"></script>
 		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/jquery.cookie.js"></script>
@@ -709,12 +1074,20 @@
 
 		<!-- USED FOR LAZYLOADING. DOCS: https://github.com/aFarkas/lazysizes/blob/gh-pages/README.md -->
 		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/lazysizes.min.js" async=""></script>
-		
+
+		<!-- USED FOR RECENT PURCHASE NOTIFS. DOCS: https://github.com/CodeSeven/toastr https://momentjs.com -->
+		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/toastr.min.js" async=""></script>
+		<script src="https://storage.googleapis.com/onepiece-storage/assets/js/vendor/moment-with-locales.min.js" async=""></script>
+
 		<!-- Audit this -->
 		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/jquery.fitvids.js"></script>
 		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/jquery.ba-throttle-debounce.js"></script>
 		<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/froogaloop2.min.js"></script>
 		<!-- -->
+
+		<!-- USER FOR ANGULAR MODULES IN THE SYSTEM -->
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.6.1/angular-sanitize.min.js"></script>
 
 					<script src="https://onepiece-storage.storage.googleapis.com/assets/js/vendor/foundation5.min.js"></script>
 		
@@ -727,6 +1100,7 @@
 					phone: /^\d{7,14}$/,
 					zip: zip_pattern,
 					nonchinese: /^[\u0000-~\u0080-þ]*$/,
+					address_maxlength: /^.{0,25}$/,
 				}
 			},
 			reveal : {
@@ -735,11 +1109,11 @@
 		});
 		</script>
 
-					<script src="https://onepiece-storage.storage.googleapis.com/assets/js/shop.js?r=62698"></script>
+					<script src="https://onepiece-storage.storage.googleapis.com/assets/js/shop.js?r=33955"></script>
 		
 		<!-- Optional scripts -->
 				
-				</section>
+						</section>
 		<a class="exit-off-canvas"></a>
 	</div>
 </div>
