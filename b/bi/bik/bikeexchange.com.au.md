@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexchange.com.au privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502200618id_/https%3A//www.bikeexchange.com.au/article/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexchange.com.au privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222031128id_/https%3A//www.bikeexchange.com.au/article/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -62,7 +62,7 @@ We may choose to transfer all or part of our business. In these types of transac
 
 **F. PROTECTING OURSELVES AND OTHERS**
 
-We may release Personal Information when we believe in good faith that release is necessary to comply with laws; enforce or apply our conditions of use and/or other agreements; or protect the rights, property, or safety of us, our employees, our users, or others. We may exchange information with other companies and organisations (including governmental authorities) for fraud protection and credit risk reduction.
+We may release Personal Information when we believe in good faith that release is necessary to comply with laws; notify the Office of the Australian Information Commissioner about a data breach or report a matter for investigation; enforce or apply our conditions of use and/or other agreements; or protect the rights, property, or safety of us, our employees, our users, or others. We may exchange information with other companies and organisations (including governmental authorities) for fraud protection and credit risk reduction.
 
 **G. WITH YOUR CONSENT**
 
