@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dot.gov privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630181717id_/https%3A//www.transportation.gov/dot-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dot.gov privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222043214id_/https%3A//www.transportation.gov/dot-website-privacy-policy) for the most accurate reproduction.*
 
 # DOT Website Privacy Policy | US Department of Transportation
 
@@ -112,3 +112,5 @@ For more information or for comments and concerns on our privacy practices, plea
 DOT has conducted Privacy Impact Assessments on applicable systems.
 
 [View our Privacy Impact Assessments](https://web.archive.org/individuals/privacy/privacy-impact-assessments)
+
+Updated:  Tuesday, August 4, 2015
