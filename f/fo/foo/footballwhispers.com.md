@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballwhispers.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630185041id_/https%3A//www.footballwhispers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballwhispers.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222045850id_/https%3A//www.footballwhispers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Whispers
 
@@ -8,7 +8,8 @@ Football Whispers, as served by All Sports Whispers Ltd, cares about your privac
 
   * Website (<https://www.footballwhispers.com/>)
   * Mobile apps (Football Whispers)
-  * Products we create such as widgets, components and graphics
+  * Products we create such as widgets, components, and graphics
+  * The Content Toolbox (toolbox.footballwhispers.com and toolbox.sportwhispers.com)
 
 
 
@@ -63,6 +64,7 @@ Your details are not passed on to any third parties except where we have agreeme
 
   * Hubspot
   * Amazon Web Services
+  * Auth0
   * Google Analytics (within which all data is aggregated and anonymised)
 
 
