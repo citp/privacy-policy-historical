@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhousedeals.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405091539id_/http%3A//www.myhousedeals.com/policies/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhousedeals.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222120709id_/https%3A//www.myhousedeals.com/policies/privacy-policy.asp) for the most accurate reproduction.*
 
 # MyHouseDeals.com Privacy Policy
 
@@ -20,6 +20,16 @@ We will use your information to respond to you, regarding the reason you contact
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 Your information may be shared or sold in the event REI Network, LP sells the company, merges with another company, or enters into any kind of operating agreement with another company.
+
+## Telephone Consumer Protection Act
+
+By providing your phone number and email address, you are agreeing to receive text messages, emails, and/or calls (Even if you are previously subscribed to the do not call list) from MyHouseDeals and our network of partners and affiliates (Lenders or related professional services) and their network of service providers.
+
+These calls might be recorded; and may be direct, auto-dialed or use pre-recorded/artificial voices.
+
+This consent is not a requirement or condition to purchase.
+
+Messages and data rates might apply.
 
 ## Your Access to and Control Over Information
 
