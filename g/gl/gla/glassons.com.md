@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916003505id_/http%3A//www.glassons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222230758id_/https%3A//www.glassons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glassons
 
@@ -6,9 +6,17 @@ Glassons. value our customers and respect your privacy. We collect information a
 
 This privacy policy applies only to information collected online by Glassons.com and describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. If our information practices change, we will post an updated policy on our website.
 
-If you have any questions about our privacy policy please contact us via the CONTACT US link, found on our website.
+If you have any questions about our privacy policy please contact us via the [CONTACT US](https://web.archive.org/faqs?c=Contact) link, found on our website.
 
-  
+  * What kind of information does Glassons collect?
+  * How does Glassons use my information?
+  * Does Glassons share my information?
+  * How do I access or change my information?
+  * How do I make choices about receiving promotional communications?
+  * How does Glassons protect children's privacy?
+  * How does Glassons use cookies?
+  * How do I know my personal information is secure?
+
 
 
 What kind of information does Glassons collect?
@@ -18,9 +26,6 @@ We may collect personal information about you, such as your name, email address,
 How does Glassons use my information?
 
 We may use your personal information in the following ways:
-
-  
-
 
   * To process and fulfill your order, including to send you emails to confirm your order status and shipment
   * To communicate with you and to send you information by email, postal mail or other means about our products, services and promotions, unless you have directed us not to contact you with promotional communications
@@ -57,7 +62,7 @@ You may also ask us to update your personal information by contacting us as desc
 
 How do I make choices about receiving promotional communications?
 
-Glassons wants to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, you can let us know by contacting our web administration as described in the CONTACT menu. You can choose to opt out of email promotional communications by clicking unsubscribe in the body of the email.
+Glassons wants to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, you can let us know by contacting our web administration as described in the CONTACT menu. You can choose to opt out of email promotional communications by clicking unsubscribe in the body of the email or by replying STOP to any SMS communication.
 
 If contacting our web administration please be sure to include your full name and the email address you used when you registered with or made a purchase from Glassons. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 working days to process your email request, during which period you may continue to receive communications from Glassons.
 
