@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becauseisaidiwould.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920000403id_/https%3A//becauseisaidiwould.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becauseisaidiwould.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222163453id_/https%3A//becauseisaidiwould.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | because I said I would.
 
@@ -40,7 +40,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 After a transaction, your private financial information (credit cards, social security numbers, specific payments, etc.) will not be stored on our servers.
 
 **When you share your promise, story or comment**  
- **When you share a promise card, personal story or comment on another story, you are consenting to publication of materials which may include personally identifiable or other private information.     Additional terms for Share Your Story are found [here](https://web.archive.org/yourpromisestory/).**
+**When you share a promise card, personal story or comment on another story, you are consenting to publication of materials which may include personally identifiable or other private information.     Additional terms for Share Your Story are found [here](https://web.archive.org/yourpromisestory/).**
 
 **Do** **we use cookies?**  
 Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
