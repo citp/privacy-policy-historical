@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622105708id_/http%3A//www.parkinson.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222150043id_/https%3A//www.parkinson.org/privacy) for the most accurate reproduction.*
 
 # Parkinson's Foundation: Better Lives. Together.
 
 #### Privacy Policy
 
-We at the Parkinson's Foundation are committed to respecting the privacy of our website visitors.  This page describes our privacy policy regarding the information we collect from you during your visit to our site, how we may use it, and how we will protect the information which you choose to provide us. Our privacy policy is reviewed against the Better Business Bureau Wise Giving Alliance’s Standards for Charity Accountability.
+We at the Parkinson's Foundation are committed to respecting the privacy of our website visitors.  This page describes our privacy policy regarding the information we collect from you during your visit to our site, how we may use it, and how we will protect the information which you choose to provide us. Our privacy policy is reviewed against the Better Business Bureau Wise Giving Alliance's Standards for Charity Accountability.
 
 ### Personally Identifiable Information
 
@@ -44,7 +44,11 @@ The Parkinson's Foundation takes data security seriously.  The foundation colle
 
 ### Logo Usage
 
-Use of the Parkinson's Foundation registered trademarks (logos) without Foundation permission is prohibited. Please send written requests or questions to Amy Katzel at [akatzel@parkinson.org](mailto:akatzel@parkinson.org).
+Use of the Parkinson's Foundation registered trademarks (logos) without Foundation permission is prohibited. Please send written requests or questions to Leilani Pearl at [lpearl@parkinson.org](mailto:lpearl@parkinson.org).
+
+### Return, Refund, and/or Cancellation Policy
+
+In the event you wish a refund of your gift or cancellation of a recurring credit card payment, please call, email us at [contact@parkinson.org](mailto:contact@parkinson.org) or write to the attention of Donor Services, Parkinson’s Foundation, 200 SE 1st Street, Suite 800, Miami, FL 33131, including your name, address, details of the amount donated, date of the donation, the reason for the request and, if a credit card authorization is to be cancelled, the card number, expiration date and ccv number.
 
 ### Changes
 
