@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808021603id_/https%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222171525id_/https%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Personal Money Store Privacy Policy
+# Privacy Policy | Personal Money Store
 
 ## MARKETING POLICY
 
@@ -24,21 +24,21 @@ This site is intended for you to submit a form with your personal information in
 
 ## HOW WE USE COLLECTED INFORMATION:
 
-The information we collect is used to help us connect you with a lender by submitting your information to various lenders or connecting services that accept the criteria you filled out on the informational form. The information will be used to determine your eligibility for a loan product by the lender. Your information may be sent to direct lenders or other lender connecting services in an attempt to get you connected to a lender. Your personal, demographic and profile information may be used to help improve our Website, for marketing, editorial, promotional, statistical analysis, and feedback purposes. Any information collected may be added to our databases for the purposes of sending upcoming postal mailings, emails, SMS text-messaging, telemarketing new product information, new service information, site updates and/or status of online orders. Currently we **do not** utilize these methods of communication with consumers but reserve the right to do so in the future.
+The information we collect is used to help us connect you with a lender by submitting your information to various lenders or connecting services that accept the criteria you filled out on the informational form. The information will be used to determine your eligibility for a loan product by the lender. Your information may be sent to direct lenders or other lender connecting services in an attempt to get you connected to a lender. Your personal, demographic and profile information may be used to help improve our Website, for marketing, editorial, promotional, statistical analysis, and feedback purposes. Any information collected may be added to our databases for the purposes of sending upcoming postal mailings, emails, SMS text-messaging, telemarketing new product information, new service information, site updates and other related purposes.
 
 Through your use and submission of information on our Website, you agree that even if your number is found on a do-not-call registry, or similar registry, you may be contacted in any manner contemplated in this section. We reserve the right to share, sell or otherwise disclose your information to third parties. If you utilize our opt out procedures we pass that information on to all third party loan providers and connecting services that receive your information and data for loan eligibility determination. Simply email [optout@personalmoneystore.com](mailto:optout@personalmoneystore.com) to opt out.
 
 By providing your personal information, you agree that it may be used for the following purposes: to obtain other information about you from third-parties when the information was improperly or incompletely filled out on our registration form; sharing of your information with trusted third parties such as credit bureaus, affiliated loan providers and/or other financial services providers in accordance with applicable law; and for other marketing products and services that we determine you might find of interest.
 
-We may employ other companies and individuals to perform certain functions on our behalf. These companies and individuals have access to our users’ personal information in order to perform their functions for Personal Money Store, but they are not permitted to use our users’ personal information for other purposes. Examples when other companies or individuals may use our users’ personal information may include sending direct mail and email, SMS text-messaging, telemarketing, analyzing data, removing duplicate information from customer lists and providing marketing analysis.
+We may employ other companies and individuals to perform certain functions on our behalf. These companies and individuals have access to our users’ personal information in order to perform their functions for Personal Money Store. Examples when other companies or individuals may use our users’ personal information may include sending direct mail and email, SMS text-messaging, telemarketing, analyzing data, removing duplicate information from customer lists and providing marketing analysis.
 
 Any and all sensitive Information that we collect from you and from third-parties as part of your request to be connected with a lender, will be used to determine your eligibility for a loan product. If you provide personally identifying information, such as your Social Security number, that information may be used to determine your financial status. Upon qualifying for a loan, your loan-specific financial information will be stored and utilized in accordance with the terms of your applicable lender’s Privacy Policy.
 
 If we believe that the service and/or Website is being or has been used in violation of the Website’s Terms and Conditions, or to commit unlawful acts, we reserve the right to release current or past user information under the following circumstances: if the information is subpoenaed; if we are sold or acquired; or when we consider it necessary or appropriate. Furthermore, by agreeing to these conditions, you hereby consent to disclosure of any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate. This includes, without limitation, sharing your email address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission enabling regulations.
 
-Click here for information on [filing complaints against financial industry companies](http://personalmoneystore.com/moneyblog/file-complaint/ "File complaint against a lender").
+Click here for information on [filing complaints against financial industry companies](https://personalmoneystore.com/about-us/file-complaint-against-lenders/ "File complaint against a lender").
 
-Submission of information through your use of our Website means that you agree to receive mobile marketing, including but not limited to text-message based marketing, from us and from our third party advertisers and marketers. Although we do not utilize this currently we retain the right to do so in the future. Even though your mobile telephone number may be listed on state and/or federal do-not-call registries, we retain the right, and you agree that we may contact you via text message based marketing and in accordance with applicable state and federal law. Additionally, your registration and/or use of our Website, amounts to your acknowledgment that such act constitutes an inquiry and/or request to be connected with a lender for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “TSR”). If your telephone number is listed at the Federal Trade Commission’s Do-Not-Call List, we retain the right and you consent to allow us to contact you via telemarketing, in accordance with the TSR.
+Submission of information through your use of our Website means that you agree to receive mobile marketing, including but not limited to text-message based marketing, from us and from our third party advertisers and marketers. Even though your mobile telephone number may be listed on state and/or federal do-not-call registries, we retain the right, and you agree that we may contact you via text message based marketing and in accordance with applicable state and federal law. Additionally, your registration and/or use of our Website, amounts to your acknowledgment that such act constitutes an inquiry and/or request to be connected with a lender for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “TSR”). If your telephone number is listed at the Federal Trade Commission’s Do-Not-Call List, we retain the right and you consent to allow us to contact you via telemarketing, in accordance with the TSR.
 
 ## HOW WE SAFEGUARD YOUR INFORMATION:
 
@@ -72,8 +72,9 @@ We reserve the right to change our policy at any time and without prior notice t
 
 Please contact Company directly via certified mail at
 
+Personal Money Store LLC  
 Attn: Compliance  
-1825 N Hutchinson Rd, Suite 201  
-Spokane Valley, WA 99212
+PO Box 632  
+Liberty Lake, WA 99019
 
 with any questions or concerns related to these Marketing Practices or your privacy, and/or to opt-out of having your information used by Company for marketing purposes.
