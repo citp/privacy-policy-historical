@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howtostudykorean.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630190829id_/http%3A//www.howtostudykorean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtostudykorean.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222051454id_/http%3A//www.howtostudykorean.com/privacy-policy) for the most accurate reproduction.*
 
-# How to study Korean | Privacy Policy
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at howtostudykorean@gmail.com.
 
