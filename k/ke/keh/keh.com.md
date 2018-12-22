@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829220858id_/https%3A//www.keh.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222172531id_/https%3A//www.keh.com/shop/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KEH Camera
+# Privacy Policy at KEH Camera Store
 
 Unfortunately your current device does not have features required to fully protect your sensitive data while shopping online. In order to protect your own security, we do not allow the placing of orders using insecure devices. To become our valued customer, please upgrade your Internet browser software to a more recent and secure version. We recommend using the latest version of [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), but any modern browser will enable you to shop with us. For additional information please feel free to contact our customer support on [ __](tel:1-800-342-5534)[ 1-800-342-5534 ](tel:+1-800-342-5534 "KEH Phone number") . 
 
