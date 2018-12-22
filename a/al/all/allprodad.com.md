@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allprodad.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127153951id_/https%3A//www.familyfirst.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allprodad.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222112305id_/https%3A//www.familyfirst.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family First : Family First
 
@@ -28,7 +28,7 @@ Family First emails, communications and websites may include links to external w
 
 ### OTHER IMPORTANT PRIVACY CONSIDERATIONS
 
-Our site is not intended for the independent use of children, and we will not knowingly collect information for any child under the age of thirteen. If you are the parent of a child and have a concern regarding your child’s information on our site, please contact us at info@familyfirst.net. Our website and associated services are hosted in the United States. Even if you are outside the United States, your information will be processed and stored in the United States, and you are consenting to such processing and storage.
+Our site is not intended for the independent use of children, and we will not knowingly collect information for any child under the age of thirteen. If you are the parent of a child and have a concern regarding your child’s information on our site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Our website and associated services are hosted in the United States. Even if you are outside the United States, your information will be processed and stored in the United States, and you are consenting to such processing and storage.
 
 ### MODIFICATIONS
 
