@@ -1,365 +1,1148 @@
-<!--The following is the downloaded HTML source of the lifehack.org privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230043132id_/http%3A//www.lifehack.org/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifehack.org privacy policy that was archived on 2018-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181222131653id_/https%3A//www.lifehack.org/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-JMBM"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMDVVBSGwEBUVBbBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<title>Privacy Policy</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
-<!--[if IE 7]>
-    <link rel="stylesheet" href="http://cdn-4.lifehack.org/wp-content/themes/lifehack-theme/css/font-awesome-ie7.min.css">
-<![endif]-->
-<!--[if lt IE 9]>
-  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<link rel="alternate" type="application/rss+xml" title="Lifehack RSS Feed" href="http://www.lifehack.org/feed">
-<link rel="alternate" type="application/atom+xml" title="Lifehack Atom Feed" href="http://www.lifehack.org/feed/atom">
-<link rel="pingback" href="">
-<link rel="shortcut icon" href="http://cdn-4.lifehack.org/wp-content/themes/lifehack-theme/images/favicon.ico">
-<link href="http://cdn-4.lifehack.org/wp-content/themes/lifehack-theme/images/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
-<link href="http://cdn-4.lifehack.org/wp-content/themes/lifehack-theme/images/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-<link href="http://cdn-4.lifehack.org/wp-content/themes/lifehack-theme/images/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-<link href="http://cdn-4.lifehack.org/wp-content/themes/lifehack-theme/images/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="5c8aa4cbf440b911c18f433e3ea447c8" data-appversion="751aa1f5e0fdd9cb85d17d5f20921f3e9ad6231d"></script>
-<link rel="canonical" href="http://www.lifehack.org/privacypolicy">
-<link rel="author" href="https://plus.google.com/115630067811557555750?rel=author">
-<link rel="stylesheet" id="default.css-style-css" href="http://cdn-4.lifehack.org/wp-content/themes/lifehack-theme/css/default.css?ver=1419851961" type="text/css" media="all">
-<link rel="stylesheet" id="custom-google-fonts-css" href="http://fonts.googleapis.com/css?family=PT+Serif%3A400%2C700%2C400italic%2C700italic%7CRoboto%3A400%2C500%2C700%2C300%2C300italic%2C400italic%2C500italic%2C700italic&amp;ver=3.9.3" type="text/css" media="all">
-<script type="text/javascript" src="http://cdn.jsdelivr.net/g/jquery@1.11.0,underscorejs@1.7.0,backbonejs@1.1.2,requirejs@2.1.9"></script>
-<meta property="fb:app_id" content="22054340448">
-<meta property="fb:admins" content="625666248">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="Tips for Life">
-<meta property="og:url" content="http://www.lifehack.org/privacypolicy">
-<meta property="og:site_name" content="Lifehack">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@lifehackorg">
-<meta name="twitter:domain" content="Lifehack">
-<link href="https://plus.google.com/100694246174303931807" rel="publisher">
-<style type="text/css">img#wpstats{display:none}</style>
-<script>
-			var css_path = "http://cdn-5.lifehack.org/wp-content/themes/lifehack-theme/css/default.css";
-			var css_version = "7d84021107580befe3447ab94daa961f";
-			var css;
-			try {
-				css = localStorage.getItem("lh.css");
-			} catch (e) {
-			}
-			if( css ){
-				var att=document.createAttribute("data-style-type");
-				att.value="ls";
-				var style = document.createElement("style");
-					script = document.getElementsByTagName("script");
-				style.setAttributeNode(att);
-				style.type = "text/css";
-				style.appendChild(document.createTextNode(css));
-				script[0].parentNode.insertBefore(style, script[0]);
-			}else{
-				window.scrollTo(0,0);
-			}
-	</script><script>window.jQuery || document.write('<script src="http://cdn-5.lifehack.org/wp-content/themes/lifehack-theme/scripts/lib/jquery_requirejs.js">');</script><script src="http://cdn-5.lifehack.org/wp-content/themes/lifehack-theme/scripts/lib/jquery_requirejs.js"><script type="text/javascript">var dataLayer = [{'pageType': 'other'}];</script><script type="text/javascript">var abtestList = {"637":"221056","629":"227077","626":"pager-t4"};</script><script type="text/javascript">
-	var cube_server_url = "http://t.lifehack.org:1080/1.0/event/put";
-	var newsletter_ask_confirm_url = "http://www.lifehack.org/newsletter/ask-confirm";
-	</script><script type="text/javascript">var app_ver = "751aa1f5e0fdd9cb85d17d5f20921f3e9ad6231d";</script><script>requirejs.config({ baseUrl: 'http://cdn-5.lifehack.org/wp-content/themes/lifehack-theme/scripts', }); require(['http://cdn-5.lifehack.org/wp-content/themes/lifehack-theme/scripts/main-built.js']);</script><script type="text/javascript">var ajax_url = "http://www.lifehack.org/wp-admin/admin-ajax.php";</script>
-</head>
-<!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
-<!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
-<!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
-<!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
-<!--[if gt IE 9]>  <body>             <![endif]-->
-<!--[if !IE]><!--> <body class="page page-id-334 page-template-default"> <!--<![endif]-->
-<div id="fb-root"></div>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-JMBM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-JMBM');</script>
-<header id="header">
-<div class="container">
-<div id="mobile-nav" class="visible-phone">
-<a href="/">
-<div class="logo"></div>
-</a>
-</div>
-</div>
-<div class="container">
-<nav id="category" class="hidden-phone">
-<ul class="lh-category-dropdown" role="menu">
-<li>
-<a href="/">
-<div class="logo"></div>
-</a>
-</li>
-<li data-submenu-id="submenu-communication" class=""><div class="communication"><a class="button communication" href="communication"> Communication</a><div class="cat-hover" id="submenu-communication"><div class="cat-post"><ul><li><a href="articles/communication/30-awesome-british-slang-terms-you-should-start-using-immediately.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="30 Awesome British Slang Terms You Should Start Using Immediately" bgcolor="#a7908c" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lifehack-britishslangterms-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lifehack-britishslangterms-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lifehack-britishslangterms-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lifehack-britishslangterms-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">30 Awesome British Slang Terms You Should Start Using Immediately</div></a></li><li><a href="articles/communication/being-single-what-its-about-and-why-may-the-best-way-live-your-life.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="Being Single: What It's About And Why It May Be The Best Way To Live Your Life" bgcolor="#948d85" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/single1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/single1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/single1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/single1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">Being Single: What It's About And Why It May Be The Best Way To Live Your Life</div></a></li><li><a href="articles/communication/20-sentences-people-with-depression-hate-hearing-the-most.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="20 Sentences People with Depression Hate Hearing the Most" bgcolor="#14110d" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/depression-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/depression-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/depression-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/depression-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">20 Sentences People with Depression Hate Hearing the Most</div></a></li><li><a href="articles/communication/11-differences-between-real-friends-and-fake-friends.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="11 Differences Between Real Friends and Fake Friends" bgcolor="#2f2c2a" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/friendship-468851_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/friendship-468851_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/friendship-468851_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/friendship-468851_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">11 Differences Between Real Friends and Fake Friends</div></a></li></ul></div><div class="sub-cat "><ul><li>MORE IN Communication</li><li name="Motivation" class="Motivation"><a href="communication/motivation">Motivation</a></li><li name="Relationships" class="Relationships"><a href="communication/relationships">Relationships</a></li></ul></div><div class="go-page"><a href="communication">Go to Communication</a></div></div></div></li><li data-submenu-id="submenu-lifestyle" class=""><div class="lifestyle"><a class="button lifestyle" href="lifestyle"> Lifestyle</a><div class="cat-hover" id="submenu-lifestyle"><div class="cat-post"><ul><li><a href="articles/lifestyle/7-morning-rituals-empower-your-day-change-your-life.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="7 Morning Rituals to Empower your day &amp; Change your Life" bgcolor="#9f928a" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/picjumbo1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/picjumbo1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/picjumbo1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/picjumbo1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">7 Morning Rituals to Empower your day &amp; Change your Life</div></a></li><li><a href="articles/lifestyle/how-eat-shrimps-with-spoon-and-fork-the-super-convenient-way.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="How To Eat Shrimps With Spoon And Fork (The Super Convenient Way)" bgcolor="#525c60" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/eating-shrimp-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/eating-shrimp-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/eating-shrimp-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/eating-shrimp-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">How To Eat Shrimps With Spoon And Fork (The Super Convenient Way)</div></a></li><li><a href="articles/lifestyle/how-you-react-crying-babies-will-determine-their-future.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="How You React to Crying Babies Will Determine Their Future" bgcolor="#938077" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/baby-165067_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/baby-165067_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/baby-165067_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/baby-165067_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">How You React to Crying Babies Will Determine Their Future</div></a></li><li><a href="articles/lifestyle/12-reasons-why-living-france-awesome.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="12 Reasons Why Living In France Is Awesome" bgcolor="#86878a" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Living-in-france-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Living-in-france-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Living-in-france-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Living-in-france-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">12 Reasons Why Living In France Is Awesome</div></a></li></ul></div><div class="sub-cat "><ul><li>MORE IN Lifestyle</li><li name="Family" class="Family"><a href="lifestyle/family">Family</a></li><li name="Fitness" class="Fitness"><a href="lifestyle/fitness-2">Fitness</a></li><li name="Food and Drink" class="Food and Drink"><a href="lifestyle/food-and-drink">Food and Drink</a></li><li name="Health" class="Health"><a href="lifestyle/health">Health</a></li><li name="Home" class="Home"><a href="lifestyle/home">Home</a></li><li name="Leisure" class="Leisure"><a href="lifestyle/leisure">Leisure</a></li></ul></div><div class="go-page"><a href="lifestyle">Go to Lifestyle</a></div></div></div></li><li data-submenu-id="submenu-money" class=""><div class="money"><a class="button money" href="money"> Money</a><div class="cat-hover" id="submenu-money"><div class="cat-post"><ul><li><a href="articles/money/8-things-warren-buffett-did-make-53000-age-16.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="8 Things Warren Buffett Did To Make $53,000 By Age 16" bgcolor="#d0c6ba" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Buffett2-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Buffett2-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Buffett2-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Buffett2-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">8 Things Warren Buffett Did To Make $53,000 By Age 16</div></a></li><li><a href="articles/money/5-things-you-should-rent-instead-buy-and-10-things-you-didnt-know-you-could-rent.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="5 Things You Should Rent Instead of Buy (And 10 Things You Didn't Know You Could Rent)" bgcolor="#ae9262" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lh-for-rent1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lh-for-rent1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lh-for-rent1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/lh-for-rent1-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">5 Things You Should Rent Instead of Buy (And 10 Things You Didn't Know You Could Rent)</div></a></li><li><a href="articles/money/10-sites-for-budget-travel-you-should-know-about.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="10 Sites for Budget Travel You Should Know About " bgcolor="#524c3e" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/alaska-69566_12801-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/alaska-69566_12801-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/alaska-69566_12801-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/alaska-69566_12801-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">10 Sites for Budget Travel You Should Know About </div></a></li><li><a href="articles/money/10-online-shopping-sites-wish-known-earlier.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="10 Online Shopping Sites I Wish I'd Known Earlier" bgcolor="#b7b8a5" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/12613711554_68b5e963c2_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/12613711554_68b5e963c2_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/12613711554_68b5e963c2_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/12613711554_68b5e963c2_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">10 Online Shopping Sites I Wish I'd Known Earlier</div></a></li></ul></div><div class="sub-cat no-sub-cat"><ul><li>MORE IN Money</li></ul></div><div class="go-page"><a href="money">Go to Money</a></div></div></div></li><li data-submenu-id="submenu-productivity" class=""><div class="productivity"><a class="button productivity" href="productivity"> Productivity</a><div class="cat-hover" id="submenu-productivity"><div class="cat-post"><ul><li><a href="articles/productivity/this-why-highly-successful-people-wear-the-same-thing-every-day.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="This Is Why Highly Successful People Wear The Same Thing Every Day" bgcolor="#14171a" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Steve_Jobs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Steve_Jobs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Steve_Jobs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Steve_Jobs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">This Is Why Highly Successful People Wear The Same Thing Every Day</div></a></li><li><a href="articles/productivity/10-quotes-from-warren-buffett-that-will-teach-you-how-successful-person.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="10 Quotes From Warren Buffett That Will Teach You How To Be A Successful Person" bgcolor="#3a3231" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/8714724188_cd9ea63e02_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/8714724188_cd9ea63e02_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/8714724188_cd9ea63e02_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/8714724188_cd9ea63e02_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">10 Quotes From Warren Buffett That Will Teach You How To Be A Successful Person</div></a></li><li><a href="articles/productivity/5-bad-study-habits-youve-probably-been-following.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="5 Bad Study Habits You've Probably Been Following" bgcolor="#6b6961" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/296747958_8c15e91e3f_b-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/296747958_8c15e91e3f_b-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/296747958_8c15e91e3f_b-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/296747958_8c15e91e3f_b-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">5 Bad Study Habits You've Probably Been Following</div></a></li><li><a href="articles/productivity/25-amazing-productivity-tips-from-successful-mompreneurs.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="25 Amazing Productivity Tips From Successful Mompreneurs" bgcolor="#97887a" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Mompreneurs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Mompreneurs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Mompreneurs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Mompreneurs-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">25 Amazing Productivity Tips From Successful Mompreneurs</div></a></li></ul></div><div class="sub-cat no-sub-cat"><ul><li>MORE IN Productivity</li></ul></div><div class="go-page"><a href="productivity">Go to Productivity</a></div></div></div></li><li data-submenu-id="submenu-technology" class=""><div class="technology"><a class="button technology" href="technology"> Tech</a><div class="cat-hover" id="submenu-technology"><div class="cat-post"><ul><li><a href="articles/technology/20-easy-photography-tricks-that-will-make-you-picture-taking-master.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="20 Easy Photography Tricks That Will Make You a Picture Taking Master" bgcolor="#a39a7d" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/photographer-16022_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/photographer-16022_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/photographer-16022_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/photographer-16022_1280-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">20 Easy Photography Tricks That Will Make You a Picture Taking Master</div></a></li><li><a href="articles/technology/30-challenging-apps-that-will-make-you-smarter.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="30 Challenging Apps that will Make You Smarter" bgcolor="#748077" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/9621971687_ede407a2ec_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/9621971687_ede407a2ec_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/9621971687_ede407a2ec_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/9621971687_ede407a2ec_k-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">30 Challenging Apps that will Make You Smarter</div></a></li><li><a href="articles/technology/the-10-best-and-10-worst-headphones-you-need-know.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="The 10 Best And 10 Worst Headphones You Need To Know" bgcolor="#818382" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/featured_image-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/featured_image-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/featured_image-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/featured_image-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">The 10 Best And 10 Worst Headphones You Need To Know</div></a></li><li><a href="articles/technology/7-apps-children-love-today-that-parents-need-aware.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="7 Apps Children Love Today That Parents Need To Be Aware Of" bgcolor="#696f66" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Playing-phones-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Playing-phones-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Playing-phones-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/12/Playing-phones-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">7 Apps Children Love Today That Parents Need To Be Aware Of</div></a></li></ul></div><div class="sub-cat "><ul><li>MORE IN Technology</li><li name="iOS" class="iOS"><a href="technology/ios">iOS</a></li><li name="Mac" class="Mac"><a href="technology/mac">Mac</a></li></ul></div><div class="go-page"><a href="technology">Go to Technology</a></div></div></div></li><li data-submenu-id="submenu-work" class=""><div class="work"><a class="button work" href="work"> Work</a><div class="cat-hover" id="submenu-work"><div class="cat-post"><ul><li><a href="articles/work/20-signs-that-youve-got-good-boss.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="20 Signs That You've Got a Good Boss" bgcolor="#81796f" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Boss-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Boss-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Boss-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Boss-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">20 Signs That You've Got a Good Boss</div></a></li><li><a href="articles/work/10-signs-its-time-really-think-about-your-career.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="10 Signs It's Time To Really Think About Your Career" bgcolor="#786352" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Career-seriously-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Career-seriously-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Career-seriously-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/12/Career-seriously-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">10 Signs It's Time To Really Think About Your Career</div></a></li><li><a href="articles/work/15-common-grammar-mistakes-youve-probably-made-well.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="13 Common Grammar Mistakes You've Probably Made As Well" bgcolor="#d98863" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Grammar-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Grammar-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Grammar-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-1.lifehack.org/wp-content/files/2014/11/Grammar-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">13 Common Grammar Mistakes You've Probably Made As Well</div></a></li><li><a href="articles/work/why-becoming-self-employed-the-answer.html"><div><img class="attachment-thumbnail wp-post-image lazy-img" alt="Why Becoming Self-Employed is The Answer" bgcolor="#91a0ac" data-bttrlazyloading-xs="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/4481758659_097abb6eb5_o-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-sm="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/4481758659_097abb6eb5_o-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-md="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/4481758659_097abb6eb5_o-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}" data-bttrlazyloading-lg="{&quot;src&quot;: &quot;http://cdn-media-2.lifehack.org/wp-content/files/2014/11/4481758659_097abb6eb5_o-170x170.jpg&quot;, &quot;width&quot; : 70,  &quot;height&quot; : 70}"></div><div class="title">Why Becoming Self-Employed is The Answer</div></a></li></ul></div><div class="sub-cat no-sub-cat"><ul><li>MORE IN Work</li></ul></div><div class="go-page"><a href="work">Go to Work</a></div></div></div></li>	<li data-submenu-id="submenu-more" id="submenu-more-button">
-<div class="more">
-<a class="button">
-<span class="icon icon_dots"></span>
-</a>
-</div>
-<div id="submenu-more">
-<div class="container">
-<ul class="big-section">
-<b>All Sections</b>
-<div class="category-column">
-<li><a class="main-category" href="communication">Communication</a></li>
-<li><a class="sub-category" href="communication/motivation">Motivation</a></li>
-<li><a class="sub-category" href="communication/relationships">Relationships</a></li>
-<li><a class="main-category" href="lifestyle">Lifestyle</a></li>
-<li><a class="sub-category" href="lifestyle/family">Family</a></li>
-<li><a class="sub-category" href="lifestyle/fitness-2">Fitness</a></li>
-<li><a class="sub-category" href="lifestyle/food-and-drink">Food And Drink</a></li>
-<li><a class="sub-category" href="lifestyle/health">Health</a></li>
-</div>
-<div class="category-column">
-<li><a class="sub-category" href="lifestyle/home">Home</a></li>
-<li><a class="sub-category" href="lifestyle/leisure">Leisure</a></li>
-<li><a class="main-category" href="money">Money</a></li>
-<li><a class="main-category" href="productivity">Productivity</a></li>
-<li><a class="main-category" href="technology">Technology</a></li>
-<li><a class="sub-category" href="technology/ios">iOS</a></li>
-<li><a class="sub-category" href="technology/mac">Mac</a></li>
-<li><a class="main-category" href="work">Work</a></li>
-</div>
-</ul>
-<ul class="section">
-<b>Products</b>
-<li><a href="http://quotes.lifehack.org" target="_blank">Quotes</a></li>
-<li><a href="http://lifehack.org/books" target="_blank">Books</a></li>
-<li><a href="http://apps.lifehack.org" target="_blank">Apps</a></li>
-<li><a href="http://deals.lifehack.org" target="_blank">Deals</a></li>
-<li><a href="http://www.listible.com/?ref=lifehack_header" target="_blank">Listible</a></li>
-</ul>
-<ul class="section">
-<b>About</b>
-<li><a href="about" target="_blank">About Lifehack</a></li>
-<li><a href="authors" target="_blank">Authors</a></li>
-<li><a href="contact" target="_blank">Contact</a></li>
-<li><a href="contribute" target="_blank">Contribute</a></li>
-<li><a href="advertise" target="_blank">Advertise</a></li>
-<li><a href="about/terms-and-conditions" target="_blank">Terms</a></li>
-<li><a href="privacypolicy" target="_blank">Privacy</a></li>
-</ul>
-<ul class="section">
-<b>Follow Us</b>
-<li><a href="newsletter/subscription" target="_blank">Newsletter</a></li>
-<li><a href="https://www.facebook.com/lifehackorg" target="_blank">Facebook</a></li>
-<li><a href="https://twitter.com/lifehackorg" target="_blank">Twitter</a></li>
-<li><a href="https://plus.google.com/+lifehack/" target="_blank">Google+</a></li>
-<li><a href="http://pinterest.com/lifehack/" target="_blank">Pinterest</a></li>
-<li><a href="https://www.youtube.com/user/LifehackOrg/" target="_blank">Youtube</a></li>
-<li><a href="http://instagram.com/lifehackorg" target="_blank">Instagram</a></li>
-<li><a href="http://feeds.lifehack.org/Lifehack" target="_blank">RSS</a></li>
-</ul>
-</div>
-</div>
-</li>
-</ul>
-</nav>
-<div id="navigation" class="visible-desktop">
-<ul class="lh-navigation-dropdown" role="menu">
-<li data-submenu-id="submenu-search" class="search">
-<a class="icon_search icon button"></a>
-<div class="search-popover nav-popover" id="submenu-search">
-<form action="http://www.google.com/cse" class="form-search">
-<input type="hidden" name="cx" value="partner-pub-9079061040234685:riohha-12jb">
-<input type="hidden" name="ie" value="UTF-8">
-<input type="text" name="q" class="input-medium search-query" id="nav-search" placeholder="Search Lifehack" value="Search Lifehack" autofocus="" onfocus="if (this.value == 'Search Lifehack') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Lifehack';}">
-</form>
-</div>
-</li>
-<li data-submenu-id="submenu-profile">
-<div class="nav-profile">
-<a class="icon icon_user" href="user/login" target="blank"></a>
-</div>
-</li>
-<li class="nav-bar-facebook">
-<div class="navbar-facebook-like pre-facebook-like">
-<div class="fb-like-button">
-<div class="icon icon_facebook-2"></div>
-<div class="fb-label">Like</div>
-</div>
-<div class="bubble">
-256K	</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</header>
-<script type="text/javascript">
-    $(function() {
-        $('#nav_user_login').attr('placeholder', 'Your Email Address');
-        $('#nav_user_pass').attr('placeholder', 'Password');
-    });
-</script>
-<div id="body">
-<div class="container">
-<div class="ad-row hidden-phone">
-<div id="div-gpt-ad-top" class="adslot ad-unit" data-dfp="SiteTop728x90" style="width:728px; height:90px;">
-</div>
-</div>	<div class="row">
-<div class="span8">
-<div class="entry">
-<h1>
-Privacy Policy </h1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html id="iubenda_policy" class="iubenda_fixed_policy"><head>
+
+
+
+  <title>Privacy Policy of Lifehack</title>
+
+  <meta http-equiv="Content-Language" content="en">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="date" content="2018-05-24">
+  <meta http-equiv="last-modified" content="2018-09-06">
+  <meta itemprop="name" content="Privacy Policy of Lifehack">
+  <meta itemprop="description" content="This Website collects some Personal Data from its Users.">
+  <meta itemprop="image" content="https://www.iubenda.com/seo/assets/default.png">
+  <meta name="locale" content="en">
+  <meta name="title" content="This Website collects some Personal Data from its Users.">
+  <meta name="description" content="This Website collects some Personal Data from its Users.">
+  <meta name="image" content="https://www.iubenda.com/seo/assets/default.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Privacy Policy of Lifehack">
+  <meta name="twitter:description" content="This Website collects some Personal Data from its Users.">
+  <meta name="twitter:site" content="@iubenda">
+  <meta name="twitter:image:src" content="https://www.iubenda.com/seo/assets/default.png">
+  <meta name="og:title" content="Privacy Policy of Lifehack">
+  <meta name="og:description" content="This Website collects some Personal Data from its Users.">
+  <meta name="og:image" content="https://www.iubenda.com/seo/assets/default.png">
+  <meta name="og:url" content="https://www.iubenda.com/privacy-policy/86497548/legal">
+  <meta name="og:site_name" content="iubenda">
+  <meta name="og:locale" content="en">
+  <meta name="og:type" content="website">
+  <meta name="fb:app_id" content="190131204371223">
+  <link rel="canonical" href="https://www.iubenda.com/privacy-policy/86497548/legal">
+
+  <meta name="viewport" content="width=device-width">
+  <meta name="robots" content="noindex, follow">
+
+  <link href="/assets/privacy_policy-0216fce84e15e12389b385d485043dce.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="/assets/privacy_policy-1c9e98df3bcbcb0c3a6299d231298734.js" type="text/javascript"></script>
+
+<style type="text/css">#iubenda_policy .close {display: none;}
+#iubenda_policy #wbars {   overflow-y: auto;   -webkit-box-shadow: none;   -moz-box-shadow: none;   box-shadow: none;   height: auto; }
+#iubenda_policy .iub_container {  margin-top: 30px;  margin-bottom: 30px; }
+#iubenda_policy .iub_container > .iub_footer {  -webkit-box-shadow: none;  -moz-box-shadow: none;  box-shadow: none;  -webkit-border-radius: none;  -moz-border-radius: none;  border-radius: none; }
+</style></head>
+<body>
+
+  
+
+  <div id="wbars_all">
+	  <div class="iub_container iub_base_container">
+	    <div id="wbars">
+	      <div class="iub_content legal_pp">
+
+
+          
+<div class="iub_header">
+
+    <h1>Privacy Policy of <strong>Lifehack</strong></h1>
+
+      <p>This Website collects some Personal Data from its Users.</p>
+</div> <!-- /header -->
+
+          
+<div class="one_line_col">
+
+  <h2 id="owner_of_the_data">Owner and Data Controller</h2>
+
+      <p>9/F, Tungtex Building, 203 Wai Yip Street, Kwun Tong, Hong Kong SAR</p>
+      <p><b>Owner contact email:</b> privacy@lifehack.org</p>
+
+</div> <!-- /one_line_col -->
+
+
+<div class="one_line_col">
+
+  <h2 id="types_of_data">Types of Data collected</h2>
+
+    <p>
+      Among the types of Personal Data that this Website collects, by itself or through third parties, there are:
+       email address, Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data, first name, last name, profession and picture.
+    </p>
+ 
+
+  <p>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.<br>Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.<br>Unless specified otherwise, all Data requested by this Website is mandatory and failure to provide this Data may make it impossible for this Website to provide its services. In cases where this Website specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.<br>Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.<br>Any use of Cookies – or of other tracking tools – by this Website or by the owners of third-party services used by this Website serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.</p>
+  <p>Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.</p>
+
+</div> <!-- /one_line_col -->
+
+
+<div class="one_line_col">
+
+  <h2 id="place_of_processing">Mode and place of processing the Data</h2>
+
+  <h3>Methods of processing</h3>
+
+  <p>The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.<br>The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Website (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.</p>
+
+  <h3>Legal basis of processing</h3>
+
+  <p>The Owner may process Personal Data relating to Users if one of the following applies:</p>
+  <ul>
+    <li>Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;</li>
+    <li>provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;</li>
+    <li>processing is necessary for compliance with a legal obligation to which the Owner is subject;</li>
+    <li>processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;</li>
+    <li>processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.</li>
+  </ul>
+  <p>In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract. </p>
+
+  <h3>Place</h3>
+
+  <p>The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.<br><br>
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.</p>
+  <p>Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.<br><br>
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.</p>
+
+  <h3>Retention time</h3>
+
+  <p>Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.</p>
+  <p>Therefore:</p>
+  <ul>
+    <li>Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.</li>
+    <li>Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of  this document or by contacting the Owner.</li>
+  </ul>
+  <p>The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.<br><br>
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.</p>
+
+</div> <!-- /one_line_col -->
+
+
+
+  <div class="one_line_col">
+
+    <h2 id="use_collected_data">The purposes of processing</h2>
+
+      <p>
+      The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes:
+         User database management, Analytics, Advertising, Contacting the User, Content performance and features testing (A/B testing), Data transfer outside the EU, Displaying content from external platforms, Infrastructure monitoring, Managing contacts and sending messages, Managing landing and invitation pages, Managing support and contact requests, Social features and Tag Management.
+      </p>
+     
+
+    <p>Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.</p>
+
+
+  </div> <!-- /one_line_col -->
+ 
+
+
+
+
+
+
+
+    <div class="one_line_col">
+
+      <h2 id="data_processing_detailed_info">Detailed information on the processing of Personal Data</h2>
+      <p>Personal Data is collected for the following purposes and using the following services:</p>
+
+      <ul class="for_boxes">
+
+
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4865567">Advertising</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Website, possibly based on User interests.<br>
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.<br>
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.<br>
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the <a href="http://optout.networkadvertising.org/" target="_blank" rel="noopener">Network Advertising Initiative opt-out page</a>.</p>
+
+
+                   <h4>Google AdSense (Google Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.<br>
+Users may decide to disable all the Doubleclick Cookies by clicking on: <a href="https://www.google.com/settings/ads/onweb/optout" target="_blank" rel="noopener">google.com/settings/ads/onweb/optout</a>.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
 <p>
-</p><p>Lifehack.org has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices covers all of the Lifehack.org sites. Your use of Lifehack.org Sites indicates your agreement to abide by the Terms in effect.</p>
-<p><strong>Links</strong><br>
-Lifehack.org sites contains links to other sites. Lifehack.org is not responsible for the privacy practices or the content of such Web sites.</p>
-<p><strong>Log files and Cookies</strong><br>
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don’t have to re-enter it each time you visit our site.</p>
-<p><strong>Community</strong><br>
-Our sites’ registration form requires users to give us contact information (like your name and email address), and we will not pass this information to any other organization.</p>
-<p><strong>Posts/Comments</strong><br>
-Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
-<p><strong>Third Party Advertisement</strong><br>
-The advertisement delivered to users by varies advertisers. Advertiser does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. Advertiser may, however, collect information which is specific to how you use the Internet.</p>
-<p><strong>Third Party Cookies</strong><br>
-Third parties partners like advertiser may use cookies on our sites. We have no access to those cookies and have no control and access to them. This privacy statement does not cover the use of such cookies.</p>
-<p><strong>Opt-Out</strong><br>
-If you have subscribed to our daily email newsletter, you can opt-out and unsubscribe from within the email newsletter that you receive.</p>
-<p><strong>Notification of Changes</strong><br>
-If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.</p>	<p></p>
-</div>
-</div>
-<div id="sidebar" class="span4 visible-desktop nolinks">
-<div id="sidebar-ads">
-<div id="div-gpt-ad-sidebar-0" class="adslot visible-desktop" data-dfp="Lifehack_Side_300x250" style="width:300px; height:250px;">
-</div>
-</div>
-<aside id="popular_post">
-<ul>
-<div id="popular_post_sticky"></div>
-</ul>
-</aside>
-</div>
-</div>
-</div>
-</div>
+Place of processing:
+United States
+–
+<a href="https://www.google.com/policies/technologies/ads/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://www.google.com/settings/ads/onweb/optout" target="_blank" rel="noopener">Opt Out</a>.
+Privacy Shield participant.
+</p>
 
-<aside id="welcome-popup-overlay"></aside>
-<aside id="welcome-popup-box" class="show-tracker popup" data-section="welcome-popup" data-popup-type="modal">
-<a class="close"> × </a>
-<div class="question">
-<h4 class="welcome-quote">It's never too late to start over. If you weren't happy with yesterday, try something different today. Don't stay stuck. Do better.</h4>
-<a class="button agree-button">I agree</a>
-<a class="button disagree-button">I disagree</a>
-</div>
-<div class="newsletter">
-<h4>We think so, too!</h4>
-<h5>Join Lifehack newsletter and we will inspire you to pursue a happier existence.</h5>
-<form action="newsletter/ask-confirm" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-<input type="email" id="mce-EMAIL" class="email" name="email" placeholder="Your email address">
-<input type="hidden" value="LifeHack" name="uri">
-<input type="hidden" value="en_US" name="loc">
-<input type="hidden" data-dojo-type="dijit/form/CheckBox" id="group_1" name="group[13][1]" value="1" class="av-checkbox" checked="">
-<button class="email-button newsletter-submit button-tracker" type="submit" value="Subscribe">
-Sign me for free!
-</button>
-</form>
-<div class="warning"> Please enter a valid email address</div>
-</div>
-<div class="facebook-like">
-<h4>We think so, too!</h4>
-<h5>Like us on Facebook and we will inspire you to pursue a happier existence.</h5>
-<div class="fb-like welcomebox-like" data-href="https://www.facebook.com/lifehackorg" data-page="question-box" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
-</div>
-</aside>
-<aside id="welcome-mobile-popup-overlay"></aside>
-<aside id="welcome-mobile-popup-box" class="show-tracker popup" data-section="mobile-welcome-popup" data-popup-type="modal">
-<div class="question-box">
-<a class="close"> × </a>
-<div class="question">
-<h4>It's never too late to start over. If you weren't happy with yesterday, try something different today. Don't stay stuck. Do better.</h4>
-<a class="button agree-button">I Agree</a>
-<a class="button disagree-button">I Disagree </a>
-</div>
-<div class="newsletter">
-<h4>We think so, too!</h4>
-<h5>Join Lifehack newsletter and we will inspire you to pursue a happier existence.</h5>
-<form action="newsletter/ask-confirm" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-<input type="email" id="mce-EMAIL" class="email" name="email" placeholder="Your email address">
-<input type="hidden" value="LifeHack" name="uri">
-<input type="hidden" value="en_US" name="loc">
-<input type="hidden" data-dojo-type="dijit/form/CheckBox" id="group_1" name="group[13][1]" value="1" class="av-checkbox" checked="">
-<button class="email-button newsletter-submit button-tracker" type="submit" value="Subscribe">
-Sign up for free!
-</button>
-</form>
-<div class="warning"> Please enter a valid email address</div>
-</div>
-<div class="newsletter-confirm">
-<p>Good to see you here and we hope you'll enjoy reading on Lifehack!</p>
-<p><b>Don't miss our confirmation email for you!</b></p>
-</div>
-</div>
-</aside>
-<aside id="after-share-email-box-overlay"></aside>
-<aside id="after-share-email-box" class="show-tracker popup" data-section="mobile-newsletter-popup" data-popup-type="modal">
-<a class="close"> × </a>
-<div class="newsletter">
-<h4>Don't Miss Any Tips!</h4>
-<form action="newsletter/ask-confirm" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-<input type="email" id="mce-EMAIL" class="email" name="email" placeholder="Your email address">
-<button class="email-button ok-button newsletter-submit button-tracker" type="submit" value="Subscribe">
-Subscribe
-</button>
-</form>
-<div class="warning"> Please enter a valid email address</div>
-</div>
-<div class="newsletter-confirm">
-<p>Good to see you here and we hope you'll enjoy reading on Lifehack!</p>
-<p><b>Don't miss our confirmation email for you!</b></p>
-</div>
-</aside>
-<aside id="popup-message-overlay"></aside>
-<aside id="popup-message-box">
-<a class="close"> × </a>
-<div id="popup-bookmark-add" class="dom-tracker" data-section="popup-bookmark-add">
-<h3>Great!</h3>
-<p>The post is successfully saved to your <a href="user/my-account?page=collection" target="_blank">collections</a>.</p> </div>
-<div id="popup-bookmark-delete" class="dom-tracker" data-section="popup-bookmark-delete">
-<h3>Well Done!</h3>
-<p>You have finished the post and the post is removed from your <a href="user/my-account?page=collection" target="_blank">collections</a>. Save your next post to read now.</p> </div>
-</aside>
 
-<footer id="footer">
-<div class="container">
-<div id="copyright" class="row">
-<div class="span12">
-Copyright 2005-2014 Lifehack. All rights reserved.
-</div>
-</div>
-</div>
-</footer>
-<script>
-		if (typeof st_go === 'undefined') {
-			var st_go = function () {};
-		}
-		if (typeof load_cmc === 'undefined') {
-			var load_cmc = function () {};
-		}
-	</script>	<script>
-				( function(){
+                                    <h4>Rubicon Project (The Rubicon Project, Inc.)</h4>
 
-					if (typeof lh_new_ab_test === 'undefined') {
-						// lh_new_ab_test is undefined
-						lh_new_ab_test = ["612B"];
-					}else{
-						// lh_new_ab_test is defined
-						lh_new_ab_test.push("612B");
-					}
-					
-				})();
-			</script>
-<script src="http://stats.wordpress.com/e-201401.js" type="text/javascript"></script>
+                   <div class="wrap">
+                     <p>Rubicon Project is an advertising service provided by The Rubicon Project, Inc.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://rubiconproject.com/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/" target="_blank" rel="noopener">Opt Out</a>.
+
+</p>
+
+
+                                    <h4>Facebook Audience Network (Facebook, Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Facebook Audience Network is an advertising service provided by Facebook, Inc. <strong>In order to understand Facebook's use of Data, consult <a href="https://www.facebook.com/about/privacy/" target="_blank" rel="noopener">Facebook's data policy</a>.</strong></p>
+
+<p>This Website may use identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Facebook Audience Network service. One of the ways Audience Network shows ads is by using the User's ad preferences. The User can control this in the <a href="https://www.facebook.com/ads/settings" target="_blank" rel="noopener">Facebook ad settings</a>.</p>
+
+<p>Users may opt-out of certain Audience Network targeting through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Audience Network related sections of this privacy policy, if available.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.facebook.com/about/privacy/ " target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://www.facebook.com/settings?tab=ads" target="_blank" rel="noopener">Opt Out</a>.
+Privacy Shield participant.
+</p>
+
+
+                                    <h4>AppNexus (AppNexus Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>AppNexus is an advertising service provided by AppNexus Inc.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.appnexus.com/en/company/platform-privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://www.appnexus.com/en/company/platform-privacy-policy#choices" target="_blank" rel="noopener">Opt out</a>.
+
+</p>
+
+
+                                    <h4>RhythmOne (Burst Media Corporation)</h4>
+
+                   <div class="wrap">
+                     <p>RhythmOne is an advertising service provided by RhythmOne, LLC.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.rhythmone.com/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://www.rhythmone.com/opt-out" target="_blank" rel="noopener">Opt out</a>.
+
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4860459">Analytics</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.</p>
+
+
+                   <h4>Google Analytics (Google Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.<br>
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.google.com/intl/en/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=en" onclick="javascript:return tryFunc('tryGaOptOut',{href:'https://tools.google.com/dlpage/gaoptout?hl=en'})" target="_blank">Opt Out</a>.
+Privacy Shield participant.
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4865900">Contacting the User</h3>
+               <div class="expand-content" style="display: none;">
+
+                   
+
+
+                   <h4>Mailing list or newsletter (this Website)</h4>
+
+                   <div class="wrap">
+                     <p>By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Website. Your email address might also be added to this list as a result of signing up to this Website or after making a purchase.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       email address.
+                     </p>
+
+
+
+                   
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4865942">Content performance and features testing (A/B testing)</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Website.</p>
+
+
+                   <h4>Google Website Optimizer (Google Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Google Website Optimizer is an A/B testing service provided by Google Inc.<br>
+Google may use Personal Data to contextualize and personalize the ads of its own advertising network.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.google.com/intl/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+Privacy Shield participant.
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4865964">Data transfer outside the EU</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>The Owner is allowed to transfer Personal Data collected within the EU to third countries (i.e. any country not part of the EU) only pursuant to a specific legal basis. Any such Data transfer is based on one of the legal bases described below.<br>
+Users can inquire with the Owner to learn which legal basis applies to which specific service.</p>
+
+
+                   <h4>Data transfer abroad based on consent (this Website)</h4>
+
+                   <div class="wrap">
+                     <p>If this is the legal basis, Personal Data of Users shall be transferred from the EU to third countries only if the User has explicitly consented to such transfer, after having been informed of the possible risks due to the absence of an adequacy decision and appropriate safeguards.<br>
+In such cases, the Owner shall inform Users appropriately and collect their explicit consent via this Website.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       various types of Data.
+                     </p>
+
+
+
+                   
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4866084">Displaying content from external platforms</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service allows you to view content hosted on external platforms directly from the pages of this Website and interact with them.<br>
+This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.</p>
+
+
+                   <h4>Google Fonts (Google Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Google Fonts is a typeface visualization service provided by Google Inc. that allows this Website to incorporate content of this kind on its pages.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Usage Data and various types of Data as specified in the privacy policy of the service.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.google.it/intl/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+Privacy Shield participant.
+</p>
+
+
+                                    <h4>Google Site Search (Google Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Google Site Search is a search engine embedding service provided by Google Inc. that allows this Website to incorporate content of this kind on its pages.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+Privacy Shield participant.
+</p>
+
+
+                                    <h4>Gravatar  (Automattic Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Gravatar is an image visualization service provided by Automattic Inc. that allows this Website to incorporate content of this kind on its pages.<br>
+Please note that if Gravatar images are used for comment forms, the commenter's email address or parts of it may be sent to  Gravatar - even if the commenter has not signed up for that service.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       email address and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://automattic.com/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                                    <h4>Spotify widget (Spotify AB)</h4>
+
+                   <div class="wrap">
+                     <p>Spotify is an audio content delivery service provided by Spotify AB that allows this Website to incorporate content of this kind on its pages.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+Sweden
+–
+<a href="https://www.spotify.com/us/legal/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                                    <h4>Vimeo video (Vimeo, LLC)</h4>
+
+                   <div class="wrap">
+                     <p>Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Website to incorporate content of this kind on its pages.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://vimeo.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                                    <h4>YouTube video widget (Google Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>YouTube is a video content visualization service provided by Google Inc. that allows this Website to incorporate content of this kind on its pages.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="http://www.google.it/intl/en/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+Privacy Shield participant.
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4866660">Infrastructure monitoring</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service allows this Website to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.<br>
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Website.</p>
+
+
+                   <h4>Bugsnag (Bugsnag Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Bugsnag is a monitoring service provided by Bugsnag Inc.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       various types of Data as specified in the privacy policy of the service.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://bugsnag.com/docs/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4866998">Managing contacts and sending messages</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.<br>
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.</p>
+
+
+                   <h4>ConvertKit (ConvertKit LLC)</h4>
+
+                   <div class="wrap">
+                     <p>ConvertKit is an email address management and message sending service provided by ConvertKit LLC.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies, email address, first name and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="http://convertkit.com/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4867031">Managing landing and invitation pages</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service helps with building and managing landing and invitation pages, i.e., pages for presenting a product or service, where you may add your contact information such as an email address.<br>
+Managing these pages means that these services will handle the Personal Data collected through the pages, including Usage Data.</p>
+
+
+                   <h4>Leadpages (Avenue 81, Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Leadpages is a landing page management service provided by Avenue 81, Inc., that allows this Website to collect the email addresses of Users interested in its service. <br>
+Leadpages allows the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of the created landing pages.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       email address, Usage Data and various types of Data as specified in the privacy policy of the service.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.leadpages.net/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4867064">Managing support and contact requests</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service allows this Website to manage support and contact requests received via email or by other means, such as the contact form.<br>
+The Personal Data processed depend on the information provided by the User in the messages and the means used for communication (e.g. email address).</p>
+
+
+                   <h4>Help Scout (Brightwurks Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Help Scout is a support and contact request management service provided by Brightwurks Inc.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       various types of Data as specified in the privacy policy of the service.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.helpscout.net/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4867348">Social features</h3>
+               <div class="expand-content" style="display: none;">
+
+                   
+
+
+                   <h4>Public profile (this Website)</h4>
+
+                   <div class="wrap">
+                     <p>Users may have public profiles that other Users can display. In addition to the Personal Data provided, this profile may contain Users' interactions with this Website.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       email address, first name, last name, picture and profession.
+                     </p>
+
+
+
+                   
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4867388">Tag Management</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service helps the Owner to manage the tags or scripts needed on this Website in a centralized fashion.<br>
+This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.</p>
+
+
+                   <h4>Google Tag Manager (Google LLC)</h4>
+
+                   <div class="wrap">
+                     <p>Google Tag Manager is a tag management service provided by Google LLC.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies and Usage Data.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://www.google.com/intl/en/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+Privacy Shield participant.
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+        
+           <li>
+            <div class="box_primary box_10 expand collapsed">
+               <h3 class="expand-click w_icon_24 policyicon_purpose_4860354">User database management</h3>
+               <div class="expand-content" style="display: none;">
+
+                   <p>This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Website, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Website.<br>
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Website.</p>
+
+
+                   <h4>Intercom (Intercom Inc.)</h4>
+
+                   <div class="wrap">
+                     <p>Intercom is a User database management service provided by Intercom Inc.
+Intercom can also be used as a medium for communications, either through email, or through messages within this Website.</p>
+                   </div>
+                   
+
+                     <p>
+                      Personal Data collected:
+                       Cookies, email address, Usage Data and various types of Data as specified in the privacy policy of the service.
+                     </p>
+
+
+
+                   
+<p>
+Place of processing:
+United States
+–
+<a href="https://docs.intercom.io/pricing-and-terms/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+
+</p>
+
+
+                  
+
+               </div> <!-- /expand-content -->
+             </div> <!-- /expand -->
+           </li>
+
+         
+
+      </ul>
+
+    </div> <!-- /one_line_col -->
+
+   
+
+ 
+
+
+
+
+  <div class="one_line_col">
+
+    <h2 id="further_data">Further information about Personal Data</h2>
+
+    <ul class="for_boxes">
+
+                  <li>
+                    <div class="box_primary box_10 expand collapsed">
+                     <h3 class="expand-click w_icon_24 icon_general">Selling goods and services online</h3>
+                     <div class="expand-content" style="display: none;">
+                         <div class="wrap">
+                           <p>The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.<br>
+The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by this Website depends on the payment system used.</p>
+                         </div>
+                     </div> <!-- /expand-content -->
+                    </div> <!-- /expand -->
+                  </li>
+                          <li>
+                    <div class="box_primary box_10 expand collapsed">
+                     <h3 class="expand-click w_icon_24 icon_general">Analysis and predictions based on the User’s Data (“profiling”)</h3>
+                     <div class="expand-content" style="display: none;">
+                         <div class="wrap">
+                           <p>The Owner may use the Personal and Usage Data collected through this Website to create or update User profiles. This type of Data processing allows the Owner to evaluate User choices, preferences and behaviour for the purposes outlined in the respective section of this document.<br>
+User profiles can also be created through the use of automated tools like algorithms, which can also be provided by third parties. To find out more, about the profiling activities performed, Users can check the relevant sections of this document.<br>
+The User always has a right to object to this kind of profiling activity. To find out more about the User's rights and how to exercise them, the User is invited to consult the section of this document outlining the rights of the User.</p>
+                         </div>
+                     </div> <!-- /expand-content -->
+                    </div> <!-- /expand -->
+                  </li>
+         
+
+    </ul>
+
+  </div> <!-- /one_line_col -->
+
+ 
+
+<div class="one_line_col">
+
+  <h2>The rights of Users</h2>
+
+  <p>Users may exercise certain rights regarding their Data processed by the Owner.</p>
+  <p>In particular, Users have the right to do the following:</p>
+
+  <ul>
+    <li><b>Withdraw their consent at any time.</b> Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.</li>
+    <li><b>Object to processing of their Data.</b> Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.</li>
+    <li><b>Access their Data.</b> Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.</li>
+    <li><b>Verify and seek rectification.</b> Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.</li>
+    <li><b>Restrict the processing of their Data.</b> Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+</li>
+    <li><b>Have their Personal Data deleted or otherwise removed.</b> Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.</li>
+    <li><b>Receive their Data and have it transferred to another controller.</b> Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.</li>
+    <li><b>Lodge a complaint.</b> Users have the right to bring a claim before their competent data protection authority.</li>
+  </ul>
+
+  <h3>Details about the right to object to processing</h3>
+  <p>Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.</p>
+  <p>Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. </p>
+
+  <h3>How to exercise these rights</h3>
+  <p>Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.</p>
+
+</div> <!-- /one_line_col -->
+
+
+    
+
+<div class="one_line_col">
+
+  <h2 id="further_data_processing_info">Additional information about Data collection and processing</h2>
+
+  <h3>Legal action</h3>
+  <p>
+    The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services.<br>The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+  </p>
+
+  <h3>Additional information about User's Personal Data</h3>
+  <p>
+    In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+  </p>
+
+  <h3>System logs and maintenance</h3>
+  <p>
+    For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose.
+  </p>
+
+  <h3>Information not contained in this policy</h3>
+  <p>
+    More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+  </p>
+
+    <h3>How “Do Not Track” requests are handled</h3>
+    <p>
+      This Website does not support “Do Not Track” requests.<br>To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+    </p>
+
+  <h3>Changes to this privacy policy</h3>
+  <p>
+    The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. <br><br>
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+  </p>
+
+
+</div> <!-- /one_line_col -->
+
+<div class="one_line_col">
+
+  <div class="box_primary box_10 definitions expand collapsed">
+
+    <h3 class="expand-click w_icon_24 icon_ribbon">
+      Definitions and legal references
+    </h3>
+
+    <div class="expand-content" style="display: none;">
+
+      <h4>Personal Data (or Data)</h4>
+      <p>Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.</p>
+
+      <h4>Usage Data</h4>
+      <p>Information collected automatically through this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.</p>
+
+      <h4>User</h4>
+      <p>The individual using this Website who, unless otherwise specified, coincides with the Data Subject.</p>
+
+      <h4>Data Subject</h4>
+      <p>The natural person to whom the Personal Data refers.</p>
+
+      <h4>Data Processor (or Data Supervisor)</h4>
+      <p>The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.</p>
+
+      <h4>Data Controller (or Owner)</h4>
+      <p>The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website.</p>
+
+      <h4>
+        This Website
+         (or this Application)
+      </h4>
+      <p>The means by which the Personal Data of the User is collected and processed.</p>
+
+      <h4>Service</h4>
+      <p>The service provided by this Website as described in the relative terms (if available) and on this site/application.</p>
+
+      <h4>European Union (or EU)
+</h4>
+      <p>Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
+</p>
+
+            <h4>Cookies</h4>
+            <p>Small sets of data stored in the User's device.</p>
+
+
+      <hr>
+
+      <h4>Legal information</h4>
+      <p>This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).</p>
+      <p>This privacy policy relates solely to this Website, if not stated otherwise within this document.</p>
+
+    </div> <!-- /expand-content -->
+
+  </div> <!-- /box_primary -->
+
+</div> <!-- /one_line_col -->
+
+	
+	         
+
+          
+<div class="iub_footer">
+
+  <p>
+    Latest update: May 24, 2018
+  </p>
+
+	 
+		<p>
+			<a href="//www.iubenda.com" title="iubenda - Privacy Policy generator" target="_blank" rel="noopener">iubenda</a> hosts this content and only collects
+			<a href="//www.iubenda.com/privacy-policy/65675001" target="_blank" rel="noopener">the Personal Data strictly necessary</a> for it to be provided
+		</p>
+
+                <a href="//www.iubenda.com/privacy-policy/86497548" title="Show the simplified Privacy Policy" class="show_comp_link iframe-preserve an-preserve">Show the simplified Privacy Policy</a>
+
+</div> <!-- /footer -->
+
 <script type="text/javascript">
-	st_go({v:'ext',j:'1:2.9.3',blog:'40206189',post:'334',tz:'-5'});
-	var load_cmc = function(){linktracker_init(40206189,334,2);};
-	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
-	else load_cmc();
-	</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"0027bab4d4","applicationID":"2151924","transactionName":"NlFTMUBRX0NWV0RbDQ8bcAZGWV5eGERRVQc=","queueTime":0,"applicationTime":213,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+  function tryFunc(fName,args){
+    if(typeof window[fName]==='function'){
+      window[fName](args);
+    }else{
+      if(args){
+        /* default behaviour is link */
+        if(args.href){
+          /* default link is target='_blank' */
+          window.open(args.href)
+        }
+      }
+    }
+    return false; /* inhibit default behaviour */
+  }
+</script>
+
+
+	
+	      </div> <!-- /content -->
+	    </div> <!-- /wbars -->
+	
+	      <div class="iub_footer">
+	
+	        <p>Privacy Policy generated with <a href="//www.iubenda.com" class="no_border" title="iubenda" target="_blank" rel="noopener"><img alt="iubenda" src="//www.iubenda.com/assets/site/logo_min.png"></a></p>
+	
+		        <a href="//www.iubenda.com" class="btn iubgreen" title="Generate a privacy policy" target="_blank" rel="noopener">Generate yours</a>
+	
+	      </div>
+	
+	  </div> <!-- /container base_container -->
+	</div> <!-- /wbars_wrapper -->
+
+ 
+
+
+  <script type="text/javascript">
+
+    var privacyPolicy = new PrivacyPolicy({
+      id:1210163,
+      noBrand:false
+    })
+
+    $(document).ready(function() {
+
+      privacyPolicy.start();
+
+      $(".expand-content").hide();
+      $(".expand").addClass("collapsed");
+      $(".expand .expand-click").click(function () {
+        $(this).parents(".expand").toggleClass("collapsed");
+        $(this).parents(".expand").toggleClass("expanded");
+        $(this).parents(".expand-item").toggleClass("hover");
+        $(this).children('.icon-17').toggleClass("icon-expand");
+        $(this).children('.icon-17').toggleClass("icon-collapse");
+        $(this).parents('.expand').children('.expand-content').slideToggle("fast");
+      });
+
+    });
+
+  </script>
+
+
+
+</body></html>
