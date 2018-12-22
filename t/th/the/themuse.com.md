@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themuse.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622214829id_/https%3A//www.themuse.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themuse.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222133447id_/https%3A//www.themuse.com/user/privacy) for the most accurate reproduction.*
 
 # The Muse Privacy Policy
 
