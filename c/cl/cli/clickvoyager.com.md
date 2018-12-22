@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickvoyager.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508043701id_/http%3A//www.clickvoyager.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickvoyager.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222105242id_/http%3A//www.clickvoyager.com/privacy.php) for the most accurate reproduction.*
 
 # Click Voyager - The Manual Traffic Exchange
 
@@ -37,7 +37,7 @@ This privacy policy applies only to our online activities and is valid for visit
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us [here](https://web.archive.org/web/20180508043701id_/http%3A//www.clickvoyager.com/contact.php).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us [here](https://web.archive.org/web/20181222105242id_/http%3A//www.clickvoyager.com/contact.php).
 
 **Update**  
 This Privacy Policy was last updated on: Friday, June 12th, 2015. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
