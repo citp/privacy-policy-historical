@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparklit.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622045211id_/https%3A//www.sparklit.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklit.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222073451id_/https%3A//www.sparklit.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ SparkLIT recognizes your right to confidentiality and is committed to protecting
 
 
 
-You should direct questions regarding this statement to any of our listed methods of contact: <http://www.sparklit.com/#contact>
+You should direct questions regarding this statement to any of our listed methods of contact: <https://adbutler.com/contact-us.spark>
 
 ## Your personal information
 
@@ -30,30 +30,34 @@ We share general demographic information with advertisers and partners as aggreg
 
 All performance statistics and data is kept private and not released to any of our partners without your permission. Occasionally, we may reference our own statistics, but the data will be an aggregate of our whole client base, and not identify any one party.
 
-SparkLIT certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.
+AdButler certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.
+
+## Company information
+
+You agree that AdButler may identify your company name and/or logo as an AdButler customer on client lists, marketing materials and/or press releases. If you wish to be excluded from this program, do so by emailing: "marketing AT adbutler.com".
 
 ## Security
 
-SparkLIT uses Transport Layer Security (TLS) encryption, more commonly known as HTTPS, for all of the data that we send and receive. This ensures that all user data in transit is both safe and secure, and additionally only available to the intended recipients. This ensures that online transactions and the transmission of personal information such as credit card details are safe from third-party interception.
+AdButler uses Transport Layer Security (TLS) encryption, more commonly known as HTTPS, for all of the data that we send and receive. This ensures that all user data in transit is both safe and secure, and additionally only available to the intended recipients. This ensures that online transactions and the transmission of personal information such as credit card details are safe from third-party interception.
 
 ## Cookies
 
-To better serve you, we use "cookies" to reduce the time required to login. A cookie is a small amount of information sent from a Web server to your computer. We use cookies to retrieve certain information you previously provided to SparkLIT, so that you do not need to reenter this information every time you login into the members area. Additionaly we use cookies to prevent multiple votes on our Web Poll and Survey services. Cookies are not used to access information entered on the secure server; this information can only be accessed when you enter your name and password. No other company has access to our cookies. We do not use the cookie to track your Internet activity once you leave SparkLIT.
+To better serve you, we use "cookies" to reduce the time required to login. A cookie is a small amount of information sent from a Web server to your computer. We use cookies to retrieve certain information you previously provided to AdButler, so that you do not need to reenter this information every time you login into the members area. Additionaly we use cookies to prevent multiple votes on our Web Poll and Survey services. Cookies are not used to access information entered on the secure server; this information can only be accessed when you enter your name and password. No other company has access to our cookies. We do not use the cookie to track your Internet activity once you leave AdButler.
 
 ## Your choice/opt out
 
-SparkLIT provides you with the opportunity to remove your personal information from our database and opt out of receiving communications from us at any time. Login to the members section and delete any products that you have signed for (See FAQ for more information).
+AdButler provides you with the opportunity to remove your personal information from our database and opt out of receiving communications from us at any time. Login to the members section and delete any products that you have signed for (See FAQ for more information).
 
-SparkLIT provides you with the opportunity to update or change any information you previously provided. Please login to the members area and make your changes (See FAQ for more information).
+AdButler provides you with the opportunity to update or change any information you previously provided. Please login to the members area and make your changes (See FAQ for more information).
 
 ## Your consent
 
-By using our Web site, you consent to SparkLIT collecting and using this information as outlined here. If we ever change our privacy policy, we will post any changes on this page so you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
+By using our Web site, you consent to AdButler collecting and using this information as outlined here. If we ever change our privacy policy, we will post any changes on this page so you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
 
 ## Bot/Data Collection
 
-SparkLIT and its affiliates will never affix any spybot or data collection software to any of its products.
+AdButler and its affiliates will never affix any spybot or data collection software to any of its products.
 
 ## Your comments/how to reach us
 
-If you have questions or comments about SparkLIT's privacy policy, please feel free to [contact us](http://www.sparklit.com/#contact).
+If you have questions or comments about AdButler's privacy policy, please feel free to [contact us](https://www.adbutler.com/contact-us.spark).
