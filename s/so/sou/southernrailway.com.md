@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630180759id_/https%3A//www.southernrailway.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222031746id_/https%3A//www.southernrailway.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Southern Railway
 
@@ -22,7 +22,7 @@ EC3R 8AJ
 Registered in England company no. 07934306
 
 **Our Data Protection Manager is:**  
-Julie Sadler  
+Paul Staiano  
 1st Floor, Monument Place  
 24, Monument Street  
 London  
