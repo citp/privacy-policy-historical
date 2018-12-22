@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the larouchepac.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630184800id_/http%3A//action.larouchepac.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larouchepac.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222045552id_/http%3A//action.larouchepac.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - LaRouchePAC Action Center
 
