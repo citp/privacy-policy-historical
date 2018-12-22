@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchallchannels.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927225424id_/http%3A//www.watchallchannels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchallchannels.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222231442id_/https%3A//www.watchallchannels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy - Live TV Online
 
@@ -18,7 +18,7 @@ Without cookies, it’s harder for an advertiser to reach its audience, or to kn
 
 But if at any moment, you decide not to share this information you are free to accept/reject or selectively turn off our cookies or third-party cookies in your browser settings. But you should note that cookies may be necessary to provide you with features such as bookmaking or adding a website to your personal favourites list.
 
-Google, as a third-party vendor, uses cookies to serve ads on [www.watchallchannels.com](http://www.watchallchannels.com/). Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third-party vendor, uses cookies to serve ads on [www.watchallchannels.com](http://178.62.54.242/). Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 ## Are there any risks with sharing this kind of information with us?
 
