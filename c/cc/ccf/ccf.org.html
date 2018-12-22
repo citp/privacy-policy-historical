@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccf.org privacy policy that was archived on 2018-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180201205240id_/https%3A//my.clevelandclinic.org/about/website/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccf.org privacy policy that was archived on 2018-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181222023048id_/https%3A//my.clevelandclinic.org/about/website/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><head>
         <meta charset="utf-8">
@@ -8,6 +8,8 @@
         <link href="//fonts.googleapis.com/earlyaccess/notokufiarabic.css" rel="stylesheet" type="text/css">
         <link href="//fonts.googleapis.com/earlyaccess/notosansscsliced.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="/assets/styles/vendor/magnific-popup.css">
+        <link rel="stylesheet" href="/assets/styles/vendor/calendar.css">
+        <link rel="stylesheet" href="/assets/styles/vendor/calendar-style.css">
         <link rel="stylesheet" href="/assets/styles/styles.css">
         <link rel="shortcut icon" href="/assets/imgs/favicon.ico" type="image/x-icon">
 
@@ -15,6 +17,7 @@
         <meta name="description" content="Learn more about the official privacy policy and security statement of Cleveland Clinic, as well as personal and non-personal information. Learn more today.">
         <meta property="og:title">
         <meta property="og:description" content="Official privacy policy, notice of privacy practices and information about how we protect the information entered into this website.">
+        <meta property="og:image" content="https://my.clevelandclinic.org/-/scassets/images/org/social/cc-fb.ashx">
         <meta property="twitter:card" content="summary">
         <link rel="canonical" href="https://my.clevelandclinic.org/about/website/privacy-security">
         <meta property="og:url" content="https://my.clevelandclinic.org/about/website/privacy-security">
@@ -37,13 +40,29 @@
         var MEDICAL_PERSONNEL_INDEX_NAME_ALPHA_ASC = 'medical_personnel_prod_name_asc';
         var MEDICAL_PERSONNEL_INDEX_NAME_ALPHA_DESC = 'medical_personnel_prod_name_desc';
         var SITE_INDEX_NAME_DEFAULT = 'Sitecore_Prod';
+        var CLINICAL_TRIALS_INDEX_NAME_DEFAULT = 'clinical_trials_prod';
         </script>
     </head>
     <body class="home">
 
+
+
+<!-- Begin GTM Data Layer -->
+        <script>
+        var dataLayer = window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+            'attributes': {
+                'primaryLocationId': '',
+                'physicianId': '',
+                'instituteId': ''
+            }   
+        });
+        </script>
+<!-- End GTM Data Layer -->
+
         <!-- Google Tag Manager -->
         <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-3M4W"
+            <iframe sandbox security="restricted" src="//www.googletagmanager.com/ns.html?id=GTM-3M4W"
                     height="0" width="0" style="display: none; visibility: hidden"></iframe>
         </noscript>
         <script>
@@ -57,7 +76,8 @@
             })(window, document, 'script', 'dataLayer', 'GTM-3M4W');</script>
         <!-- /=End Google Tag Manager -->
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+        <script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
         
         
         <header class="header">
@@ -85,10 +105,10 @@
                     <a class="nav--utility__link " title="From out of town?" href="/patients/information/travel-assistance" disablewebedit="True">From out of town?</a>
                 </li>
                 <li>
-                    <a class="nav--utility__link " href="http://giving.clevelandclinic.org" disablewebedit="True" target="_blank">Giving</a>
+                    <a class="nav--utility__link " href="/giving" disablewebedit="True">Giving</a>
                 </li>
                 <li>
-                    <a class="nav--utility__link " href="http://my.clevelandclinic.org/careers" disablewebedit="True">Careers</a>
+                    <a class="nav--utility__link " href="http://jobs.clevelandclinic.org/" disablewebedit="True" target="_blank">Careers</a>
                 </li>
 
             <li>
@@ -107,7 +127,7 @@
 
             <div class="nav--primary__menu clearfix">
                 <a class="button--small nav--primary__menu_toggle js-nav--primary__menu_toggle button--strong" href="#">
-                    Menu <i class="icon-arrow-white-down"></i>
+                    Menu <i class="icon-arrow-white-down" role="img" aria-label="Menu Arrow Down"></i>
                 </a>
                 <a href="/search" aria-label="Search" aria-controls="search-box" class="button--small nav--primary__search_toggle button button--search" aria-expanded="false">Search</a>
 
@@ -190,8 +210,8 @@
         
 
 
-<section class="hero-content  theme-light-gray-pattern">
-    <div class="container hero-pad">
+    <section class="hero-content  theme-light-gray-pattern">
+        <div class="container hero-pad">
 
 
 <nav class="breadcrumb breadcrumb__sticky-hidden">
@@ -213,44 +233,38 @@
 
 </nav>
 
+            <div class="l-66-33--1">
+                    <h1 class="hero-content__title lede">
 
-
-        <div class="l-66-33--1">
-                <h1 class="hero-content__title lede">
-
-                    Privacy &amp; Security
-                </h1>
-                        <div class="hero-content__subtitle">Official privacy policy, notice of privacy practices and information about how we protect the information entered into this website.</div>
-        </div>
-        <div class="l-66-33--2" id="js-contact-us-area">
+                        Privacy &amp; Security
+                    </h1>
+                                    <div class="hero-content__subtitle">Official privacy policy, notice of privacy practices and information about how we protect the information entered into this website.</div>
+            </div>
+         
+            <div class="l-66-33--2  " id="js-contact-us-area">
 
         <ul class="contact-box" id="appointment-expander">
 
-                    <li class="contact-box__phone">Questions   <a href="tel:800.223.2273">800.223.2273</a></li>
+                    <li class="contact-box__phone">Questions   <a href="tel:216.444.2200">216.444.2200</a></li>
 
-                        <li><a class="button--strong button--full button--arrow" href="https://my.clevelandclinic.org/WebContact/WebMail">Contact Us</a></li>
+                    <li><a href="https://my.clevelandclinic.org/WebContact/WebMail" class="button--strong button--full button--arrow">Contact Us</a></li>
         </ul>
-
 <div class="share">
-    <span class="share__title">Share</span>
-    <a class="share__link" href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://my.clevelandclinic.org/en/about/website/privacy-security', 'facebook-share-dialog', 'width=626,height=436'); return false;"><i class="icon-share-facebook"></i> <span class="element-invisible">Facebook</span></a>
-    <a class="share__link" href="#" onclick="window.open('https://twitter.com/share?text=Privacy &amp; Security&amp;url=https://my.clevelandclinic.org/en/about/website/privacy-security&amp;via=clevelandclinic', 'twitter-share-dialog', 'width=626,height=436'); return false;"><i class="icon-share-twitter"></i> <span class="element-invisible">Twitter</span></a>
-    <a class="share__link" href="#" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&amp;url=https://my.clevelandclinic.org/en/about/website/privacy-security&amp;title=Privacy &amp; Security&amp;source=cleveland-clinic', 'linkedin-share-dialog', 'width=850,height=436'); return false;"><i class="icon-share-linkedin"></i> <span class="element-invisible">Linkedin</span></a>
-    <a class="share__link" href="mailto:?subject=Cleveland Clinic - Privacy &amp; Security&amp;body=https://my.clevelandclinic.org/en/about/website/privacy-security" target="_blank"><i class="icon-share-email"></i> <span class="element-invisible">Email</span></a>
+    
+
+<span class="share__title">Share</span>
+<a class="share__link" href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://my.clevelandclinic.org/about/website/privacy-security', 'facebook-share-dialog', 'width=626,height=436'); return false;"><i class="icon-share-facebook" role="img" aria-label="Facebook Icon"></i> <span class="element-invisible">Facebook</span></a>
+<a class="share__link" href="#" onclick="window.open('https://twitter.com/share?text=Privacy &amp; Security&amp;url=https://my.clevelandclinic.org/about/website/privacy-security&amp;via=clevelandclinic', 'twitter-share-dialog', 'width=626,height=436'); return false;"><i class="icon-share-twitter" role="img" aria-label="Twitter Icon"></i> <span class="element-invisible">Twitter</span></a>
+<a class="share__link" href="#" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&amp;url=https://my.clevelandclinic.org/about/website/privacy-security&amp;title=Privacy &amp; Security&amp;source=cleveland-clinic', 'linkedin-share-dialog', 'width=850,height=436'); return false;"><i class="icon-share-linkedin" role="img" aria-label="LinkedIn Icon"></i> <span class="element-invisible">LinkedIn</span></a>
+<a class="share__link" href="mailto:?subject=Cleveland Clinic - Privacy &amp; Security&amp;body=https://my.clevelandclinic.org/about/website/privacy-security" target="_blank"><i class="icon-share-email" role="img" aria-label="Email Icon"></i> <span class="element-invisible">Email</span></a>
+    
+
 </div>
 
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        if (window.location.href.indexOf("dev.my.clevelandclinic.org/diabetes-center-treatment-guide") > -1) {
-            $('body').addClass("treatment-guides");
-        }
-    });
-</script>
 
 <div class="page-content">
     <script src="//cdnapisec.kaltura.com/p/2207941/sp/220794100/embedIframeJs/uiconf_id/37292221/partner_id/2207941"></script>
@@ -263,6 +277,9 @@
             <ul class="tabs">
                     <li class="tab">
                         <a class="tab-link js-tab-link" href="#privacy-tab" role="tab">Privacy Policy</a>
+                    </li>
+                    <li class="tab">
+                        <a class="tab-link js-tab-link" href="#telemedicine-tab" role="tab">Telemedicine Privacy Policy</a>
                     </li>
                     <li class="tab">
                         <a class="tab-link js-tab-link" href="#security-tab" role="tab">Security Statement</a>
@@ -359,6 +376,75 @@ MATERIALS POSTED ON THIS SITE OR CONNECTIVITY TO OR FROM THIS SITE TO ANY OTHER 
 <p>If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at <a href="mailto:webmail@ccf.org">webmail@ccf.org</a>.</p>
 <p>Last updated: 3/18/2009</p>
                     </div>
+                    <a class="accordion-section-title js-accordion-section-title js-accordion-section-title--tab-panel " href="#telemedicine-tab">
+                        Telemedicine Privacy Policy
+                    </a>
+                    <div class="accordion-content js-accordion-content grid-item accordion--l-grid__content-pad" id="telemedicine-tab">
+                <h2 class="lede">Telemedicine Privacy Policy</h2>
+<p>Effective Date: September 6, 2018</p>
+<p>This Privacy Policy applies to the telemedicine website or mobile application (the “Services”) provided by The Cleveland Clinic Foundation (“Cleveland Clinic,” “we,” “us,” or “our”).</p>
+<p>IMPORTANT NOTE: This Privacy Policy applies to individually identifiable information that you provide to us for purposes of obtaining medical care (such information is also referred to as “Protected Health Information” or “PHI”), which is subject to our Health Insurance Portability and Accountability Act Notice of Privacy Practices (the “HIPAA Notice”), and information that is not PHI. The HIPAA Notice describes how we can use and share your PHI and also describes your rights with respect to your PHI. This Privacy Policy supplements the HIPAA Notice for PHI. If there is ever any conflict between this Privacy Policy and the HIPAA Notice, the HIPAA Notice will apply. The HIPAA Notice does not apply to information that is not PHI.</p>
+<h3>I. Collection of Information</h3>
+<p>We may collect the following kinds of information when you use the Services:</p>
+<p>Information you provide directly to us as part of registration. For certain activities, such as when you register, use our telemedicine services, subscribe to our alerts, or contact us directly, we may collect some or all of the following types of information:</p>
+<ul>
+<li>Contact information, such as your full name, email address, mobile phone number, and address;</li>
+<li>Username and password;</li>
+<li>Payment information, such as your credit card number, expiration date, and credit card security code;</li>
+<li>Personal health information, including information about your diagnosis, previous treatments, general health, and health insurance;</li>
+<li>Doctor reviews; and</li>
+<li>Any other information you provide to us.</li>
+</ul>
+<p>We may combine such information with information we already have about you.</p>
+<p>Information we collect automatically. We may collect certain information automatically when you use our Services, such as your computer’s Internet protocol (IP) address, device and advertising identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, information about the links you click and pages you view within the Services, and other standard server log information. We may also collect certain location information when you use our Services, such as your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.</p>
+<p>We may use cookies, pixel tags, Local Shared Objects, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. By using the Services, you consent to our use of cookies and similar technologies.</p>
+<p>We may also collect technical data to address and fix technical problems and improve our Services. Your device or browser settings may permit you to control the collection of this technical data. By using the Services, you are consenting to us or any party acting on our behalf collecting this technical data.</p>
+<p>Information from Third-Party Services. If you access the Services from an advertisement on a third-party website, application, or other service (a “Third-Party Service”) we may receive information from the owner of the Third-Party Service related to you or that advertisement.</p>
+<p>Information we obtain from your health care providers and other sources. In connection with your treatment, we may collect medical records from your past, current, and future health care providers. This may include information about your diagnosis, previous treatments, general health, laboratory and pathology test results and reports, social histories, any family history of illness, and records about phone calls and emails related to your illness.</p>
+<p>We may also receive information about you from other sources, including through third-party services and organizations. We may combine our first-party data, such as your email address or name, with third-party data from other sources and use this to contact you (e.g. through direct mail). For example, if you access third-party services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, we may collect information from these third-party services.</p>
+<h3>II. Use of Information</h3>
+<p>We generally use the information we collect online to:</p>
+<ul>
+<li>Provide and improve the Services;</li>
+<li>Contact you;</li>
+<li>Fulfill your requests for products, services, and information;</li>
+<li>Send you information about additional clinical services or general wellness from us or on behalf of our affiliates;</li>
+<li>Analyze the use of the Services and user data to understand and improve the Services;</li>
+<li>Conduct research using your information, which may be subject to your separate written authorization;</li>
+<li>Prevent potentially prohibited or illegal activities and otherwise in accordance with our Terms of Use; and</li>
+<li>For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.</li>
+</ul>
+<h3>III. Sharing of Information</h3>
+<p>We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.</p>
+<ul>
+<li>Authorized third-party vendors and service providers. We may share your information with third-party vendors and service-providers that help us with specialized services, including providing medical advice, management and hosting of telemedicine services, billing, payment processing, customer service, email deployment, business analytics, marketing (including but not limited to advertising, attribution, deep-linking, direct mail, mobile marketing, optimization and retargeting) advertising, performance monitoring, hosting, and data processing. These third-party vendors and service providers may not use your information for purposes other than those related to the services they are providing to us. No information provided by patients during medical consultations is ever used for marketing purposes.</li>
+<li>Corporate affiliates. We may share your information with our affiliates.</li>
+<li>Legal purposes. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of Cleveland Clinic, our affiliates, patients, users, or the public. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an email to the email address in our records unless doing so would violate the law or unless you have not provided your email address to us.</li>
+<li>Business Transfers. HIPAA permits organizations to transfer PHI in certain circumstances. We can transfer your information as part of a transfer of the assets of the organization, merger, or consolidation or in the unlikely event of bankruptcy, if such transfer is permissible under HIPAA and the HIPAA Notice.</li>
+<li>Protected Health Information. We may transfer your PHI as described in the HIPAA Notice and permitted under HIPAA.</li>
+<li>With your consent or at your direction. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.</li>
+</ul>
+<p>If you choose to engage in public activities on the third party sites that we link to, you should be aware that any information you share there can be read, collected, or used by other users of these sites and forums. You should use caution in disclosing personal information while participating in these areas. We are not responsible for the information you choose to submit in public areas.</p>
+<h3>IV. Security</h3>
+<p>We use measures to protect Protected Health Information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction in accordance with HIPAA. We use measures designed to protect other information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure.</p>
+<h3>V. Your Choices</h3>
+<p>You may also request that we delete your personal information by sending us an email at privacy@ccf.org. We will delete such information unless we are required to maintain information in accordance with applicable law.</p>
+<p>You may be able to refuse or disable cookies by adjusting your web browser settings. Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section). Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies. For example, Local Shared Objects can be controlled through the instructions on Adobe’s Setting Manager page. If you choose to refuse, disable, or delete these technologies, some of the functionality of the Services may no longer be available to you.</p>
+<p>We do not share personal information with third parties for their own direct marketing purposes.</p>
+<h3>VI. Third-party Links and Content</h3>
+<p>Some of the Services may contain links to content maintained by third parties that we do not control. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.</p>
+<h3>VII. Limiting Data Collection and Do Not Track</h3>
+<p>Opt-Out. To opt out of interest-based advertising across browsers and devices from companies that participate in the Digital Advertising Alliance or Network Advertising Initiative opt-out programs, please visit their respective websites. You may also be able to opt out of interest-based advertising through the settings within the mobile app or your mobile device, but your opt-out choice may apply only to the browser or device you are using when you opt out, so you should opt out on each of your browsers and devices if you want to disable interest-based advertising for those browsers and devices. If you opt out, you will still receive ads but they may not be as relevant to you and your interests, and your experience on our Services may be degraded.</p>
+<p>Do-Not-Track Signals and Similar Mechanisms. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.</p>
+<h3>VIII. International Users</h3>
+<p>We maintain information in the United States of America and in accordance with the laws of the United States, which may not provide the same level of protection as the laws in your jurisdiction. By using the Services and providing us with information, you understand and agree that your information may be transferred to and stored on servers located outside your resident jurisdiction and, to the extent you are a resident of a country other than the United States, that you consent to the transfer of such data to the United States for processing by us in accordance with this Privacy Policy.</p>
+<h3>IX. Children</h3>
+<p>We do not knowingly allow individuals under the age of 18 to create accounts that allow access to our Services.</p>
+<h3>X. Changes to the Privacy Policy</h3>
+<p>We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” date above and post the new Privacy Policy. We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.</p>
+<h3>XI. Questions?</h3>
+<p>If you have any questions about this Privacy Policy or our practices, please email us at privacy@ccf.org.</p>
+                    </div>
                     <a class="accordion-section-title js-accordion-section-title js-accordion-section-title--tab-panel " href="#security-tab">
                         Security Statement
                     </a>
@@ -385,6 +471,10 @@ About Cleveland Clinic                </div>
 About This Website                </a>
                 </h3>
             <ul class="side-list-nav">
+                <li class="">
+                <a class="" href="/about/website/non-discrimination-notice">
+Non-Discrimination Notice                </a>
+                </li>
                 <li class="">
                 <a class="" href="/about/website/privacy-practices">
 Notice of Privacy Practices                </a>
@@ -427,12 +517,17 @@ Terms of Use                </a>
                 {
                     tabId: "privacy-tab",
                     videoPlaylistId: "",
-                    divId: "kaltura_player_93bfa9cb-3a3e-4e08-a902-d21f261c7ed9"
+                    divId: "kaltura_player_b56cc0c0-51ef-4340-8945-643e8bc3b060"
+                },
+                {
+                    tabId: "telemedicine-tab",
+                    videoPlaylistId: "",
+                    divId: "kaltura_player_16c3ec3a-2f44-4608-868e-05e45f4ef9c8"
                 },
                 {
                     tabId: "security-tab",
                     videoPlaylistId: "",
-                    divId: "kaltura_player_12d99ba2-3304-40ba-a19f-260a20ef26b7"
+                    divId: "kaltura_player_39bb3b24-75fb-4f64-8b7b-6c306fcf9e1f"
                 },
     ];
 
@@ -463,34 +558,36 @@ Terms of Use                </a>
 <script src="/assets/scripts/dist/page-scripts.js"></script>
 
 
-        
-
-
-<section class="footer-info theme-blue-gray-pattern">
+        <section class="contact-box-ribbon theme-blue-gray-pattern">
     <div class="container content-pad">
-        <img src="/-/scassets/images/org/logo/logo-ccf--white.ashx?la=en&amp;hash=77672FFD4BD132F88E1C230E97611757A635BCA1" alt="logo-ccf--white">
-        <h3 class="footer-info__call-us lede">Questions?</h3>
-        <div class="footer-info__action footer-info__action--number">Call us at<br> <a class="footer-info__number lighter-link" href="tel:800.223.2273">800.223.2273</a></div>
-              <div class="footer-info__action" id="js-chat--ec2--footer"></div>
-                      <div class="footer-info__action"><a href="/help" disablewebedit="True" class="button--secondary button--small button--full">Contact Us</a></div>
+
+        <ul class="contact-box" id="appointment-expander">
+
+                    <li class="contact-box__phone">Questions   <a href="tel:216.444.2200">216.444.2200</a></li>
+
+                    <li><a href="https://my.clevelandclinic.org/WebContact/WebMail" class="button--strong button--full button--arrow">Contact Us</a></li>
+        </ul>
+
+
+
     </div>
 </section>
 
 <section class="footer-social">
     <div class="container">
-<a href="https://www.facebook.com/ClevelandClinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-facebook"></i> <span class="element-invisible">Facebook</span>
+<a href="https://www.facebook.com/ClevelandClinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-facebook" role="img" aria-label="Facebook Icon"></i> <span class="element-invisible">Facebook</span>
 </a>
-<a href="https://twitter.com/clevelandclinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-twitter"></i> <span class="element-invisible">Twitter</span>
+<a href="https://twitter.com/clevelandclinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-twitter" role="img" aria-label="Twitter Icon"></i> <span class="element-invisible">Twitter</span>
 </a>
-<a href="https://www.youtube.com/user/clevelandclinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-youtube"></i> <span class="element-invisible">YouTube</span>
+<a href="https://www.youtube.com/user/clevelandclinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-youtube" role="img" aria-label="YouTube Icon"></i> <span class="element-invisible">YouTube</span>
 </a>
-<a href="https://www.instagram.com/clevelandclinic/" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-instagram"></i> <span class="element-invisible">Instagram</span>
+<a href="https://www.instagram.com/clevelandclinic/" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-instagram" role="img" aria-label="Instagram Icon"></i> <span class="element-invisible">Instagram</span>
 </a>
-<a href="https://www.linkedin.com/company/cleveland-clinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-linkedin"></i> <span class="element-invisible">LinkedIn</span>
+<a href="https://www.linkedin.com/company/cleveland-clinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-linkedin" role="img" aria-label="LinkedIn Icon"></i> <span class="element-invisible">LinkedIn</span>
 </a>
-<a href="https://www.pinterest.com/clevelandclinic/" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-pinterest"></i> <span class="element-invisible">Pinterest</span>
+<a href="https://www.pinterest.com/clevelandclinic/" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-pinterest" role="img" aria-label="Pinterest Icon"></i> <span class="element-invisible">Pinterest</span>
 </a>
-<a href="http://www.snapchat.com/add/clevelandclinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-snapchat"></i> <span class="element-invisible">Snapchat</span>
+<a href="http://www.snapchat.com/add/clevelandclinic" disablewebedit="True" class="footer-social__link" target="_blank">            <i class="icon-social-snapchat" role="img" aria-label="Snapchat Icon"></i> <span class="element-invisible">Snapchat</span>
 </a>    </div>
 </section>
 
@@ -499,7 +596,7 @@ Terms of Use                </a>
                             <div class="footer__item l-4col--1">
                                 <h5 class="footer__title lede">Actions</h5>
                                 <nav class="footer__nav">
-<a title="Appointments" href="/appointments" disablewebedit="True">Appointments</a><a title="Pay Your Bill" href="/patients/billing-insurance/myaccount-online-bill-pay" disablewebedit="True">Pay Your Bill</a><a href="/patients/billing-insurance/financial-assistance" disablewebedit="True">Financial Assistance</a><a title="Accepted Insurance" href="/patients/billing-insurance/accepted-insurance" disablewebedit="True">Accepted Insurance</a><a title="Make a Donation" href="http://giving.clevelandclinic.org/" disablewebedit="True" target="_blank">Make a Donation</a><a title="Refer a Patient" href="http://my.clevelandclinic.org/professionals/referring" disablewebedit="True">Refer a Patient</a><a title="Phone Directory" href="/about/contact/phone-directory" disablewebedit="True">Phone Directory</a>                                </nav>
+<a title="Appointments" href="/patients/information/access" disablewebedit="True">Appointments &amp; Access</a><a title="Pay Your Bill" href="/patients/billing-insurance/myaccount-online-bill-pay" disablewebedit="True">Pay Your Bill</a><a href="/patients/billing-insurance/financial-assistance" disablewebedit="True">Financial Assistance</a><a title="Accepted Insurance" href="/patients/billing-insurance/accepted-insurance" disablewebedit="True">Accepted Insurance</a><a title="Make a Donation" href="http://giving.clevelandclinic.org/" disablewebedit="True" target="_blank">Make a Donation</a><a title="Refer a Patient" href="http://my.clevelandclinic.org/professionals/referring" disablewebedit="True">Refer a Patient</a><a title="Phone Directory" href="/about/contact/phone-directory" disablewebedit="True">Phone Directory</a><a href="/about/community/events/calendar" disablewebedit="True">Events Calendar</a>                                </nav>
                             </div>
                             <div class="footer__item l-4col--2">
                                 <h5 class="footer__title lede">Blog, News &amp; Mobile Apps</h5>
@@ -509,12 +606,12 @@ Terms of Use                </a>
                             <div class="footer__item l-4col--3">
                                 <h5 class="footer__title lede">About Cleveland Clinic</h5>
                                 <nav class="footer__nav">
-<a href="/about" disablewebedit="True">About Us</a><a href="/locations" disablewebedit="True">Locations</a><a href="/departments/clinical-transformation/depts/quality-patient-safety" disablewebedit="True">Quality &amp; Patient Safety</a><a href="/about/community/diversity" disablewebedit="True">Office of Diversity &amp; Inclusion</a><a href="/departments/clinical-transformation/depts/patient-experience" disablewebedit="True">Patient Experience</a><a href="http://my.clevelandclinic.org/research" disablewebedit="True">Research &amp; Innovations</a><a href="/about/community/government-community" disablewebedit="True">Government &amp; Community Relations</a><a title="Careers" href="http://my.clevelandclinic.org/careers" disablewebedit="True">Careers</a><a href="/about/for-employees" disablewebedit="True">For Employees</a><a href="/professionals" disablewebedit="True">Resources for Medical Professionals</a>                                </nav>
+<a href="/about" disablewebedit="True">About Us</a><a href="/locations" disablewebedit="True">Locations</a><a href="/departments/patient-experience/depts/quality-patient-safety" disablewebedit="True">Quality &amp; Patient Safety</a><a href="/about/community/diversity" disablewebedit="True">Office of Diversity &amp; Inclusion</a><a href="/departments/patient-experience/depts/office-patient-experience" disablewebedit="True">Patient Experience</a><a href="http://my.clevelandclinic.org/research" disablewebedit="True">Research &amp; Innovations</a><a href="/about/community/government-community" disablewebedit="True">Government &amp; Community Relations</a><a title="Careers" href="http://jobs.clevelandclinic.org/" disablewebedit="True" target="_blank">Careers</a><a href="/about/for-employees" disablewebedit="True">For Employees</a><a href="/professionals" disablewebedit="True">Resources for Medical Professionals</a>                                </nav>
                             </div>
                             <div class="footer__item l-4col--4">
                                 <h5 class="footer__title lede">Site Information &amp; Policies</h5>
                                 <nav class="footer__nav">
-<a title="Send Us Feedback" href="https://my.clevelandclinic.org/webcontact/webmail" disablewebedit="True">Send Us Feedback</a><a href="/about/website/site-map" disablewebedit="True">Site Map</a><a href="/about/website" disablewebedit="True">About this Website</a><a href="/about/website/reprints-licensing" disablewebedit="True">Copyright, Reprint &amp; Licensing</a><a href="/about/website/terms-of-use" disablewebedit="True">Website Terms of Use</a><a href="/about/website/privacy-security" disablewebedit="True">Privacy Policy</a><a href="/about/website/privacy-practices" disablewebedit="True">Notice of Privacy Practices</a>                                </nav>
+<a title="Send Us Feedback" href="https://my.clevelandclinic.org/webcontact/webmail" disablewebedit="True">Send Us Feedback</a><a href="/about/website/site-map" disablewebedit="True">Site Map</a><a href="/about/website" disablewebedit="True">About this Website</a><a href="/about/website/reprints-licensing" disablewebedit="True">Copyright, Reprint &amp; Licensing</a><a href="/about/website/terms-of-use" disablewebedit="True">Website Terms of Use</a><a href="/about/website/privacy-security" disablewebedit="True">Privacy Policy</a><a href="/about/website/privacy-practices" disablewebedit="True">Notice of Privacy Practices</a><a href="/about/website/non-discrimination-notice" disablewebedit="True">Non-Discrimination Notice</a>                                </nav>
                             </div>
 
     </div>
@@ -527,9 +624,9 @@ Terms of Use                </a>
     </div>
 </footer>
 
-
-
-
-        <a href="#" class="back-to-top js-back-to-top"><img src="/assets/imgs/back-to-top-button.svg"></a>
+        <a href="#" class="back-to-top js-back-to-top"><img src="/assets/imgs/back-to-top-button.svg" alt="Back to Top"></a>
+        
+        
+        
     
 </body></html>
