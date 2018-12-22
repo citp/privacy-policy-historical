@@ -1,105 +1,150 @@
-> *The following text is extracted and transformed from the ou.org privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324210449id_/https%3A//www.ou.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ou.org privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222094110id_/https%3A//www.ou.org/privacy-policy) for the most accurate reproduction.*
 
 # Orthodox Union Web Site Privacy Policy - Orthodox Union
 
-Orthodox Union (“OU,” or “we” or “us” or “our”) values the relationships we have with our supporters, and we understand that these relationships are key to our continued success. We created this Privacy Policy to explain the types of information we collect about our supporters and visitors at [www.ou.org](http://www.ou.org/ "OU.ORG"), [www.oukosher.org](http://www.oukosher.org/ "oukosher.org"), [www.ouwestcoast.org](http://www.ouwestcoast.org/ "ouwestcoast.org"), [www.oupress.org](http://www.oupress.org/ "oupress.org"), [www.oujobs.org](http://www.oujobs.org/ "oujobs.org"), [www.oucommunity.org](http://www.oucommunity.org/ "oucommunity.org"), [www.ouisrael.org](http://www.ouisrael.org/ "ouisrael.org"), [www.ncsy.org](http://www.ncsy.org/ "ncsy.org"), [www.ncsysummer.com](http://www.ncsysummer.com/ "ncsysummer.com"), [www.ncsyalumni.org](http://www.ncsyalumni.org/ "ncsyalumni.org"), [www.njcd.org](http://www.njcd.org/ "njcd.org"), and [www.jliconline.org](http://www.jliconline.org/ "jliconline.org") (collectively, the “Sites”); how we protect this information; and how we use this information in connection with the services we offer through our Sites (the “Services”). Please note that this Privacy Policy does not apply to information we obtain by any other means (including offline or on or through another Web site).
+Last updated: May 25, 2018
 
-By visiting our Sites or using our Services, you agree to the terms of this Privacy Policy as they may be amended from time to time. For this reason, we ask that you please take a moment to review the sections below. You may click on a section title below to skip to that section of this Privacy Policy.
+This is a Privacy Policy for the Union of Orthodox Jewish Congregations of America (“OU,” “we,” “us,” “our”).  The Privacy Policy applies to the personal data we collect through:
 
-Purpose  
-Right to Opt In and Opt Out  
-What information is collected on our Sites?  
-How is Personal Information used?  
-Do we share Personal Information and Web Site Usage information with others?  
-Communications Sent to Wireless Devices  
-Security  
-Consent to Processing  
-Your California Privacy Rights  
-“Linked-To” Web Sites  
-Changes to this Privacy Policy  
-Contact Us
+  * Official OU websites and apps that link to this Privacy Policy (collectively, the “Sites”) [www.ou.org](http://www.ou.org/ "OU.ORG"),  [www.oukosher.org](http://www.oukosher.org/ "oukosher.org"), [www.jewishaction.com](https://jewishaction.com/),  [www.israelfreespirit.com](https://israelfreespirit.com/), [www.teachadvocacy.org](https://teachadvocacy.org/), [www.yachad.org](https://yachad.org/), [www.oudirect.org](https://oudirect.org/oudirect/login.aspx), [www.ncsy.org](https://ncsy.org/), [www.jufny.org](https://jufny.org/),  [www.resurf.com](https://resurf.com/), [www.nextstepisrael.com](https://nextstepisrael.com/), [www.teamyachad.com](https://teamyachad.com/), [www.oujlic.org](https://oujlic.org/), [www.ouisrael.org](https://www.ouisrael.org/), [www.advocacy.ou.org](https://advocacy.ou.org/), [www.bringbackshabbat.org](https://www.bringbackshabbat.org/), [www.jsusummer.com](https://jsusummer.com/), [www.ouservices.org](https://ouservices.org/), [www.ajop.com](https://ajop.com/), [www.torahhigh.org](https://torahhigh.org/), [www.teamsoflncsy.com](https://www.teamsoflncsy.com/), [www.jsu.org](http://jsu.org/) and [www.upreaching.com.](https://upreaching.com/)
+  * OU’s handling of personal data of individuals located outside the United States for 
+    * our kosher certification business and
+    * marketing and fundraising
 
-**Purpose**
 
-In order to make your use of our Sites as worthwhile as possible, we may collect Personal Information from and about you, and we may collect certain information from your computer about you and your visits to our Sites. “Personal Information” includes, for example, your name; home and/or business address; e-mail address; telephone, wireless, or fax number; SMS, text message, or other wireless device address; instant messaging address; credit card and other payment information; synagogue and demographic information; and other information that may identify you as an individual or allow us to contact you online or offline. This Privacy Policy explains, in general, what information is collected on our Sites, how that information is used, and with whom we may share such information.  
-**  
-Right to Opt In and Opt Out**
 
-You may have the right to “opt in” and “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on our Sites, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your contact information shared with other entities (outside of OU) for their marketing purposes. You may also opt out of receiving promotional e-mails or SMS messages by clicking on an opt out link within the promotional e-mail or SMS message you receive or by sending an e-mail to [ouinternet@ou.org](mailto:ouinternet@ou.org) indicating which promotional e-mails or SMS messages you no longer wish to receive.
+We may provide you with additional information relating to our privacy practices in the context of particular services (such as on a form or invitation that requests personal data).
 
-Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. If you do request to have us stop sharing your personal information with such third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personally identifiable information prior to such request. In these cases, please contact that entity directly.
+Under applicable law, OU is considered the “data controller” of the personal data we handle under this Privacy Policy.  OU’s contact information appears at the end of this Privacy Policy. 
 
-**What information is collected on our Sites?**
+**WHAT IS PERSONAL DATA?**
 
-User-Provided Information
+“Personal data” means information about a person that can be linked to that person.  For example, an identifiable individual’s email address and credit card number are personal data.
 
-We collect Personal Information from users of our Sites, for example, when users subscribe to our newsletter(s), make online donations, enter sweepstakes and contests, complete surveys, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on our Sites, submit a comment or question to us using a “contact us” or similar feature on our Sites, or send us an e-mail.  
-**  
-Web Site Usage Information  
-**  
-Cookies & Web beacons: We may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer’s hard drive. Cookies track where you travel on our Sites and what you look at and purchase. They may store your Site preferences, username, or password for future visits. Cookies may also enable us to relate your use of our Sites to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on our Sites.
+**CATEGORIES OF PERSONAL DATA WE HANDLE**
 
-Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to manage Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, our Sites or certain areas or features of our Sites.
+We handle the following types of personal data:
 
-We also may use “clear GIFs” (aka “Web beacons” or “pixel tags”) or similar technologies in our Sites or in our communications with you (such as in our e-mails), which help us to verify an individual’s viewing or receipt of a Web page or message, and may enable us to relate such viewing or receipt to other information, including Personal Information.
+  * Contact information, such as name, postal address, telephone number, and email address 
+  * Registration information
+  * Payment information, such as credit card number and expiration date
+  * User content posted on our blogs and or other online locations
+  * Records of your communications and transactions with us 
+  * Information about religious practice and community participation
+  * Job application data
+  * Data collected through cookies and similar technology:  We and third parties use cookies (technology that reads and writes data on your browser) and other technology to collect data through automated means when you visit our websites or use our apps.  This data is used for marketing, analytics and other purposes described in this Privacy Policy.  For more details, including certain opt-out options, please see our Cookies Policy below.
 
-IP Address and Clickstream Data: When you visit our Sites, we collect your browser type and IP address. Our servers may also record clickstream data, including: the referring page that linked you to our Sites (e.g., another Web site or a search engine); the pages you visit on our Sites; the Web site you visit after our Sites; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on our Sites or a referral site; and other Web usage activity and data logged by our Web servers.
 
-Any or all of these activities with regard to Web Site Usage Information may be performed on our behalf by our services providers.  
-**  
-How is Personal Information used?**
 
-We will use the Personal Information you provide to us on our Sites, for example, to respond to your requests, process your orders or donations, and to provide you with our product and service offerings. We may also use your Personal Information to maintain our internal record keeping. We may match information collected from you through different means or at different times, including both Personal Information and Web Site Usage Information, and use such information along with information obtained from other sources, including third parties.
+We may collect personal data from you or from other sources.  Depending on the nature of our relationship with you, those other sources may include business partners, community members, personal referrals, and publicly available sources such as LinkedIn or company websites.
 
-In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about programs, products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the Right to Opt In and Opt Out section above.
+**HOW WE USE YOUR PERSONAL DATA**
 
-We may analyze user behavior as a measure of interest in, and use of, our Sites and e-mails, both on an individual basis and in the aggregate.  
-**  
-Do we share Personal Information and Web Site Usage information with others?  
-**  
-OU may share your information (including Personal Information and Non-Personal Information) with third parties in certain circumstances, including the following:
+The specific uses of information we collect will depend on factors including the nature of the information, the purpose and context of the collection, and applicable law.  Uses include:
 
-When you contribute to a public area or feature of our Sites, such as our job board, the information that you submit or post will be made available to the general public. For this reason, we recommend that you do not submit any sensitive information on these areas of our Sites.
+  * Providing our services and programs
+  * Processing, evaluating, and responding to your requests, inquiries, and applications 
+  * Contacting you (such as by text message, email, phone calls, mail, push or messages on third-party platforms) about programs, products, services, companies and events, sponsored by us and others, that you have registered for or that we think might interest you.
+  * Administering contests, sweepstakes and events
+  * Determining appropriate advertising channels and venues and to place ads on such channels and venues, including placing advertising on social networking sites
+  * Measuring and managing the effectiveness of our advertising and marketing
+  * Conducting surveys, and performing market research and data analytics 
+  * Creating aggregated or otherwise anonymized data, which we may use and disclose without restriction
+  * Evaluating your job application and contacting you regarding possible employment 
+  * Verifying your identity, protecting against and preventing fraud, unauthorized activity, claims and other liabilities, and managing risk exposure 
+  * Complying with and enforcing applicable legal requirements, industry standards and our policies and terms, such as our terms of use and contract of carriage
+  * Operating, evaluating, and improving our business in other ways 
 
-We may provide visitors an opportunity to receive offers from other entities that have services, products and offers that we think might be of interest to you. Unless you elect not to receive such offers by following the instructions in the Right to Opt In and Opt Out section above, we may from time to time provide your contact information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your contact information with these types of third parties, follow the instructions to opt out in the Right to Opt In and Opt Out section above.
 
-Some of our contests, sweepstakes and other offerings may be co-sponsored by another company. Unless you instruct us not to by following the instructions in the Right to Opt In and Opt Out section above, we may share the information we obtain from you in connection with such offerings with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
 
-We may share your information with our affiliates, technical consultants, service providers, third party auditors, or other providers, vendors and third parties who use such information, on our behalf, to help provide our Sites or Services, enhance their functionality, provide associated services, process your donations and requests, or deliver content, samples, products, services, gifts and prizes.
+**HOW WE  SHARE YOUR PERSONAL DATA**
 
-We may disclose Web Site Usage Information and other non-personally identifiable information regarding our users and user behavior as a measure of interest in, and use of, our Sites and e-mails to third parties, including, for example, aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+How we share information collected in a particular situation will depend on factors including the nature of the information, the purpose and context of the collection, and applicable law.  Subject to such factors, we may share information for the purposes described above in the “How we use your personal data” section and as described below.
 
-We may disclose user information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of our Sites, or anyone else that could be harmed by such activities.
+  * When you contribute to a public area or feature of our Sites, the information that you submit or post will be made available to the general public.
+  * We may disclose personal data about you (i) if we are legally required to do so, (ii) to law enforcement authorities under appropriate circumstances, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual illegal activity. 
+  * We share personal data with related organizations or companies that assist us with the uses and disclosures of personal data described in this policy.  Examples include data backup companies, email service providers, and companies that target advertisements.
+  * We share personal data with joint marketing partners. 
+  * We share personal data with event, contest, or sweepstakes co-sponsors, unless you opt out of such sharing in accordance with the instructions in “Your Rights and Choices” below.
+  * We may transfer personal data in connection with a business sale, merger, consolidation, change in control, transfer of substantial assets, bankruptcy, liquidation or reorganization, or as part of pre-transaction review in relation to these transactions.  Whether the recipient of data in these cases will handle the data pursuant to this Privacy Policy depends on applicable law and other factors. 
+  * Some third parties’ embedded content or plugins on Sites may allow their operators to learn that you have visited or interacted with us, and they may combine this information with other, identifiable information they have collected about your visits to other websites or online services. These third parties may handle this information, and other information they directly collect through their content and plugins, pursuant to their own privacy policies.
 
-We reserve the right to transfer your Personal Information and other information in the event we, or a substantial portion of our assets, undergo a business restructuring, transfer of ownership, or similar transaction.  
-**  
-Communications Sent to Wireless Devices**
 
-In connection with our Services, we may send communications to wireless devices via e-mail or SMS. If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address unless and until you tell us that you do not want to receive such messages by following the instructions in the Opt In and Opt Out section above. Similarly, if you want to use our SMS services, you agree to receive SMS messages at the address or number you provide for such purposes unless and until you tell us that you do not want to receive such messages by following the instructions in the Opt In and Opt Out section above. You understand that your wireless carrier’s standard rates apply to these communications, and that you may change your mind at any time by following the instructions in the Opt In and Opt Out section. You represent that you are the owner or authorized user of the wireless device on which such communications will be received, and that you are authorized to approve the applicable charges. You must be 18 years of age or older and reside in the United States to use any SMS service.
 
-**Security  
-**  
-While we endeavor to protect the security and integrity of sensitive Personal Information collected via our Sites, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
+**INTERNATIONAL  TRANSFERS OF PERSONAL DATA**
 
-In the unlikely event that we believe the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you prefer for us to use the United States Postal Service to notify you in this situation, please e-mail us at ouinternet@ou.org.
+OU is based in the United States.  The recipients of the personal data disclosures described in the “How we share your personal data” section above may be located in the United States or elsewhere in the world.  Privacy laws in these countries may not provide protections equivalent to those of your country of residence, and your government may or may not deem such protections adequate.
 
-**Consent to Processing**
+**OUR LEGAL BASES FOR HANDLING YOUR PERSONAL DATA**
 
-By providing Personal Information to our Sites, you consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, pursuant to the laws of the United States, which may provide lesser privacy protections than the laws of other countries.  
-**  
-Your California Privacy Rights**
+The laws in some jurisdictions (such as in the European Union) require companies to tell you about the legal ground they rely on to use or disclose your personal data.  To the extent those laws apply, our legal grounds are as follows: 
 
-California law permits our users who are California residents to request certain information about our disclosure of their personal information to third parties for third parties’ direct marketing purposes. To make such a request, please send an e-mail to [ouinternet@ou.org](mailto:ouinternet@ou.org) or write to us at Orthodox Union, 11 Broadway, New York, NY 10004.  
-**  
-“Linked-To” Web Sites**
+  * To honor our contractual commitments to you:  In some cases, we process personal data to meet our obligation obligations to you, or to take steps at your request in anticipation of entering into such a contract with them.
+  * Consent:  Where required by law, and in some other cases, we handle personal data on the basis of your consent.  This may be implied consent where permitted by law, and it will be explicit consent where required by law.
+  * Legitimate interests:  In many cases, we handle personal data on the ground that it furthers our legitimate interests in commercial activities such as the following in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals:
+    * Customer service 
+    * Marketing
+    * Protecting our customers, community, users, personnel and property
+    * Analyzing and improving our business
+    * Processing job applications
+    * Managing legal issues
+  * We may also process personal data for the same legitimate interests of our customers, business partners and related organizations.
+  * Legal compliance:  We need to use and disclose personal data in certain ways to comply with our legal obligations.
+  * To protect the vital interests of the individual or others:  For example, we may collect or share personal data to help resolve an urgent medical situation.
 
-Our Sites may contain links, banners, widgets or advertisements that lead to other Web sites. When you click on these types of third-party content, the privacy policies of the Web sites to which you are linked will govern the collection and use of your information. OU does not have access to or control over any technologies or practices that may be used on linked to sites, and we are not responsible for the privacy practices of them. We encourage you to read the privacy statements of each and every Web site visited after leaving our Sites to learn about how your information is treated.  
-**  
-Changes to this Privacy Policy  
-**  
-We reserve the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting to our Sites. Under certain circumstances (for example, in connection with certain material changes), we may also elect to notify you of changes or updates to our Privacy Policy, or to request your consent for such changes, by additional means, such as posting a notice on the front page of our Sites or sending you an e-mail.
 
-**Contact Us**
 
-If you have any questions or comments regarding our privacy practices, you may contact us at [ouinternet@ou.org](mailto:ouinternet@ou.org).  
-Last updated: November 2010
+**HOW LONG WE KEEP PERSONAL DATA**
+
+We generally retain personal data for so long as it may be relevant to the purposes above, or for longer when required by law.  To dispose of personal data, we may anonymize it, delete it or take other appropriate steps.  Data may persist in copies made for backup and business continuity purposes for additional time.
+
+**YOUR RIGHTS AND CHOICES**
+
+You may opt out of receiving promotional e-mails by clicking on an opt out link within the promotional e-mail you receive or by sending an e-mail to [ouinternet@ou.org](mailto:ouinternet@ou.org) indicating which promotional e-mails you no longer wish to receive.  Certain other correspondence may contains similar opt-out functionality.  Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. 
+
+Additional options are available:
+
+  * You can opt out from certain cookie-related processing by following the instructions in our Cookie Policy below.
+  * Under the laws of the European Economic Area (and in some cases in Israel and other countries outside the United States), individuals have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances.  They may also object to our uses or disclosures of personal data, request a restriction on its processing, or withdraw any consent, though such actions typically will not have retroactive effect.  This also will not affect our ability to continue processing data in lawful ways (for example, if you opt out of the use of your telephone number for direct marketing, we might still decide to contact you by phone in an emergency). 
+  * For example, individuals in the European Economic Area have the right to opt out of all of our processing of their personal data for direct marketing purposes.  To exercise this right, they may contact us as described at the end of this Privacy Policy. 
+  * **Notice to California Residents:   **Subject to certain limits under California Civil Code § 1798.83, if you are a California resident, you may ask us to provide you with (i) a list of certain categories of personal data that we have disclosed to certain types of third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of the third parties that received certain personal data from us for their direct marketing purposes during that calendar year. 
+
+
+
+To exercise any of the above rights or choices (or any other rights under applicable law), please contact us as described at the end of this Privacy Policy. 
+
+The rights and options described above are subject to limitations and exceptions under applicable law.  In addition to those rights, you have the right to lodge a complaint with the relevant supervisory authority.  However, we encourage you to contact us first, and we will do our very best to resolve your concern.
+
+** SECURITY **
+
+In the event that we believe the security of your personal data in our possession or control may have been compromised, we may seek to notify you of that development. If we believe a notification is appropriate and we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you prefer for us to use the United States postal service to notify you in this situation, please contact us as described below.
+
+**UPDATES TO OUR PRIVACY POLICY**
+
+We may change this Privacy Policy to reflect changes in the law, our data handling practices or the features of our services, websites and apps.  The new version will be posted at OU.org.  We will indicate in the Privacy Policy when it was updated.  Where required by applicable law, we will apply changes only with your consent.
+
+**COOKIE POLICY**
+
+On our websites, we and third parties may collect certain information by automated means such as cookies, Web beacons, JavaScript and mobile device functionality.  This information may include unique browser identifiers, IP address, browser and operating system information, device identifiers (such as the Apple IDFA or Android Advertising ID), geolocation, other device information, Internet connection information, as well as details about individuals’ interactions with the websites.
+
+We and third parties may use automated means to read or write information on users’ devices, such as in various types of cookies and other browser-based or plugin-based local storage (such as HTML5 storage or Flash-based storage). 
+
+Cookies and local storage are files that contain data, such as unique identifiers, that we or a third party may transfer to or read from a user’s device for the purposes described in this Privacy Policy, such as recognizing the device, service provision, record-keeping, analytics and marketing. 
+
+You may be able to set your web browser to refuse certain types of cookies, or to alert you when certain types of cookies are being sent.  Some browsers offer similar settings for HTML5 local storage, and Flash storage can be managed [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html).  However, if you block or otherwise reject our cookies, local storage, JavaScript or other technologies, certain websites (including our own websites) may not function properly.
+
+In some cases, we facilitate the collection of information by advertising services administered by third parties.  The ad services may track users’ online activities over time by collecting information through automated means such as cookies, and they may use this information to show users ads that are tailored to their individual interests or characteristics and/or based on prior visits to certain sites or apps, or other information we or they know, infer or have collected from the users.  For example, we and these providers may use different types of cookies, other automated technology, and data (i) to recognize users and their devices, (ii) to inform, optimize, and serve ads and (iii) to report on our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services (including how they are related to visits to specific sites or apps). 
+
+To learn more about interest-based advertising generally, including how to opt out from the targeting of interest-based ads by some of our current ad service partners, visit [aboutads.info/choices](http://aboutads.info/choices) from each of your browsers.  For controls specific to advertising and analytics services offered by Google, click [here](https://support.google.com/adsense/troubleshooter/1631343?hl=en) and [here](https://tools.google.com/dlpage/gaoptout) from each of your browsers.  If you replace, change or upgrade your browser, or delete your cookies, you may need to use these opt-out tools again.  We do not respond to browser-based do-not-track signals.
+
+Please visit your mobile device manufacturer’s website (or the website for its operating system) for instructions on any additional privacy controls in your mobile operating system, such as privacy settings for device identifiers and geolocation.
+
+**HOW TO CONTACT US**
+
+To update your personal data or your preferences, to exercise your rights under privacy law, or to raise a privacy concern, or do make a data-related request, please contact us:
+
+Orthodox Union  
+11 Broadway  
+New York, NY 10004  
+[ouinternet@ou.org](mailto:ouinternet@ou.org).  
+
