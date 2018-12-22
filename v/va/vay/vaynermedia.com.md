@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vaynermedia.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630150930id_/https%3A//vaynermedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaynermedia.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222014537id_/https%3A//vaynermedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : VaynerMedia.com
 
-**This policy was last modified on May 23, 2018.**
+**This policy was last modified on October 8, 2018.**
 
-The website you have entered (VaynerMedia.com, its sub-domains, affiliated websites, and any services available therefrom, including any mobile versions of the website or mobile applications) (the “Site”) is operated by VaynerX, LLC and its affiliates (“VaynerX,” “we” or “us”). We respect your privacy rights and recognize the importance of protecting data collected from you and about you. This privacy policy (the “Privacy Policy”) describes how we collect, use, share, and protect that data.
+The website you have entered (its sub-domains, affiliated websites, and any services available therefrom, including any mobile versions of the website or mobile applications) (the “Site”) is operated by VaynerX, LLC and its affiliates (“VaynerX,” “we” or “us”). We respect your privacy rights and recognize the importance of protecting data collected from you and about you. This privacy policy (the “Privacy Policy”) describes how we collect, use, share, and protect that data.
 
 **If you do not accept and agree with this Privacy Policy, you must stop using the Site immediately. Your continued use of the Site constitutes your acceptance of this Privacy Policy.**
 
@@ -22,7 +22,7 @@ We also use various tracking technologies (such as cookies, clear GIFs, and/or p
 
 **          c. Third-parties may also automatically collect data about you. **
 
-Some embedded content on the Site may be served by third-party content providers. Please note that these companies may also use cookies or other similar technologies to collect data about you, both on the Site and throughout the Internet. Data collection and use by those third-parties is subject to the privacy policies of those third-parties.
+Some embedded content on the Site may be served by third-party content providers. Please note that these companies may also use cookies, pixels, tags or other similar technologies to collect data about you, both on the Site and throughout the Internet. Data collection and use by those third-parties is subject to the privacy policies of those third-parties.
 
 **          d. Our “Do Not Track” (DNT) Policy**
 
@@ -74,7 +74,7 @@ We do not control the privacy policies of third-party websites, our affiliates, 
 
 **          c. Sponsors or Event Partners. **In the instance of ticketed events, we may share your personal data with sponsors or event partners.
 
-**          d. Law Enforcement and Safety.**We may also share or disclose your data to comply with a court order or other legal obligation, to enforce the Site terms of use, and to protect the rights, property or safety of our users and other third-parties. We may disclose data to government or law enforcement officials or private parties as we determine, in our sole and absolute discretion, is necessary or appropriate to respond to claims or to comply with legal processes, to comply with laws, regulations or ordinances or to prevent or stop illegal, unethical or actionable activity.
+**          d. Law Enforcement and Safety. **We may also share or disclose your data to comply with a court order or other legal obligation, to enforce the Site terms of use, and to protect the rights, property or safety of our users and other third-parties. We may disclose data to government or law enforcement officials or private parties as we determine, in our sole and absolute discretion, is necessary or appropriate to respond to claims or to comply with legal processes, to comply with laws, regulations or ordinances or to prevent or stop illegal, unethical or actionable activity.
 
 **          e. Business Transfer. **In the event that VaynerX undergoes a merger, acquisition by another company or sale of its assets, your data will, in most instances, be part of the assets transferred.
 
@@ -104,7 +104,7 @@ As described above, we collect personal data about you when you voluntarily prov
 
 If you no longer wish to receive communications from VaynerX, you can opt-out from receiving such messages in the future by following the instructions in the emails or contacting us at privacy@vaynermedia.com.
 
-With respect to the Site’s use of cookies and other similar technologies, by adjusting settings on your browser, you may elect not to allow cookies to be placed, and thus opt-out of certain features of the Site and the Site’s automatic collection of certain data about you.
+With respect to the Site’s use of cookies, pixels, tags, and other similar technologies, by adjusting settings on your browser, you may elect not to allow cookies to be placed, and thus opt-out of certain features of the Site and the Site’s automatic collection of certain data about you.
 
 You may remove certain tracking technologies and opt-out of online behavioral advertising messaging by using the opt-out tools available from the Digital Advertising Alliance ([DAA Opt-Out Tool](http://youradchoices.ca/choices/)) and the Network Advertising Initiative ([NAI Opt-Out Tools](http://optout.networkadvertising.org/?c=1#!/)). Please note that these opt-out tools are device and browser specific, so you must repeat the opt-out from each of your browsers and devices.
 
@@ -118,11 +118,11 @@ We retain data only as long as necessary in light of the reasons it was collecte
 
 **9\. Foreign Jurisdictions; Personal Data Transfers**
 
-The Site is designed for and targeted to the United States. If you are accessing the Site from outside the United States, any data collected about you or data provided by you will be transferred to the United States in accordance with applicable laws. Please note that United States may have different standards for how your data is used and secured than the standards in place in your country. Personal data collected by VaynerMedia Limited (a wholly owned subsidiary of VaynerX located in the United Kingdom) may be transferred to VaynerMedia, LLC (a wholly owned subsidiary of VaynerX located in the United States) for the purposes as described in this Privacy Policy; personal data transfers between VaynerMedia Limited and VaynerMedia, LLC are subject to your prior explicit opt-in consent, as applicable, and are made in accordance with the European Commission’s Standard Contractual Clauses.
+The data that you provide to us or we obtain as a result of your use of this Site will be collected, stored, and processed in a destination outside the European Economic Area (“EEA”) that may not be subject to equivalent data protection laws, including the United States. We may transfer your personal data outside the EEA in order to store it and enable us to provide advertising, products or services to you. Where your personal data is transferred outside the EEA, including the US, we will take all steps reasonably necessary to ensure that your data is subject to appropriate safeguards and ensure that your data is treated securely and in accordance with this Privacy Policy. By using this Site and/or providing us with your personal data, you (a) consent to the transfer and/or processing of any personal data outside the EEA, including to the U.S., (b) acknowledge that U.S. law may not be equivalent to the data protection laws of your location and (c) understand that we will collect, transfer, store, process and/or deal with your personal data in accordance with this Privacy Policy.
 
 **10\. Children and Parents**
 
-We respect children’s privacy. We do not target or knowingly or intentionally collect personally identifiable information from children under the age of 13. By using the Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, you may not use the Site. If you become aware that your child has provided us with personal information without your consent, please email us at privacy@vaynermedia.com.
+We respect children’s privacy. We do not target or knowingly or intentionally collect personally identifiable information from children under the age of 13. By using the Site, you have represented and warranted that you are either at least 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, you may not use the Site. If you become aware that your child has provided us with personal information without your consent, please email us at privacy@vaynermedia.com.
 
 **11\. Your California Privacy Rights**
 
@@ -152,16 +152,18 @@ If you have any general questions about this Privacy Policy or other aspects of 
 
 VaynerX, LLC
 
-Attention: VaynerMedia.com Privacy Policy
+Attention: Privacy Policy
 
 10 Hudson Yards, 25th Floor
 
 New York, NY 10001
 
-VaynerMedia Limited,
+VaynerMedia Limited
 
-Runway East Shoreditch,
+Attention: Privacy Policy
+
+Runway East Shoreditch
 
 58 City Road, EC1Y, 2AL
 
-London, United Kingdom.
+London, United Kingdom
