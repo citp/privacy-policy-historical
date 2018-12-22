@@ -1,180 +1,130 @@
-> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324215646id_/https%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222111811id_/https%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# About us
 
-## TRAC SYSTEMS LIMITED
+## Privacy Notice
 
-## Privacy Policy
+This privacy notice tells you about how your personal information is handled within our services. We handle personal information for several purposes. For some, purposes we (Trac Systems Ltd) is the data controller. For others, the employer is the data controller. Each is described below.
 
-Trac Systems Limited is committed to preserving the privacy of all visitors to www.healthjobsuk.com. Please read the following Privacy Policy to understand how we use and protect the information that you provide to us.
+### Candidate account
 
-By using, registering or submitting any information on our Site you consent to the collection, use and transfer of your information under the terms of this Privacy Policy.
+Some personally identifiable information will be managed for your candidate account. The information is needed to provide the account through which job applications are made and managed, keep you informed about the service and to operate the opt-in Jobs-by-Email service. The lawfulness of processing is established under the General Data Protection Regulation article 6(1)(a) by your consent. Where you have a job application in your account, consent lawfulness of processing is also established under GDPR article 6(1)(b).
 
-1\. Definitions
+Your candidate account has a small number of fields about you, such as your contact details. They are held on the account so that you can change your details in one place and have them automatically applied to all applications in progress - for example if you change your address.
 
-1.1 The following words and expressions have the following meanings unless inconsistent with the context:
+Your candidate account also has your communications preferences and those for the Jobs-by-Email service to notify you about job vacancies if you choose to enable that feature. 
 
-"Compliance Officer"
+You can edit your details preferences by logging into your candidate account.
 
-| 
+If you do not provide information as needed this may prevent the account from being established or operated, and therefore prevent you from being able to make or manage your job application.
 
-Simon Headington, Trac Systems Limited, PO Box 8, Bakewell, Derbyshire, DE45 1YG, info@trac.jobs;  
-  
----|---  
-  
-"cookies"
+If you decide that you wish to erase your candidate account, you can login and do so. If there are job applications connected to the account then it will instead be placed into hibernation until they have expired and the account will then be erased automatically.
 
-| 
+Your account will also be erased automatically if you have not logged in for 730 days, are not subscribed to Jobs-by-Email, have no job applications and are not part of a redeployment exercise or talent pool.
 
-a small amount of data sent from the server, which is then stored on your computer's hard disc drive;  
-  
-"DPA"
+The data controller for this information is Trac Systems Ltd (www.trac.systems). Trac Systems provide an application tracking system, some recruitment support services and have staff and secure data storage located entirely in the UK.
 
-| 
+You may contact [dataprotection@trac.system](mailto:dataprotection@trac.system)s if you need to make an enquiry, a request for your personal information held as part of this candidate account, or to arrange for any mistakes to be corrected. If you have a complaint, please contact us so that we can investigate.
 
-Data Protection Act 1998 as amended;  
-  
-"data processors"
+The privacy notice pertaining to your candidate account is displayed on the login and account registration pages.
 
-"personal data"
+### From job application to starting work
 
-"process" or "processing"
+Personally identifiable information will be managed from the job application through to starting work. The information is needed to help recruit the best people, perform the necessary employment checks, arrange a contract of employment, get new recruits started in their work and fulfil legal/regulatory requirements. These are necessary steps prior to being able to establish, continue or vary a contract of employment.
 
-"sensitive personal data"
+In some special cases your information may have been entered without your having completed a job application. For example, where students are being placed from a training provider (and your information has been received from that training provider) or where employment checks need to be carried out on existing staff.
 
-| 
+During recruitment, the recruiters consider the information provided on the job application form and that provided for assessments and interviews.
 
-}  
-}  
-}  
-}
+As you get further through the process, employment checks may need to be performed such as identity, right-to-work (immigration), criminal records, professional registration, qualifications, references, occupational health and other checks. More information or documentation, such as proof of identity documents, may be needed from you. Only the necessary information is shared with organisations where they assist us with these checks and it is only for the purpose of performing those checks.
 
-| 
+To get a new recruit started in their work, induction training and some administrative requirements are completed. Some information will be requested from you at that time, such as bank details for your salary payments and emergency contact details in case you have an emergency at work. The information for those who have been recruited is entered into the employee management and records keeping systems that are used by the employer.
 
-as defined in the DPA;  
-  
-"Site"
+If you do not provide information as needed, this may hinder or prevent your application or employment.
 
-| 
+Any information you provide about your ethnic origin, religious beliefs and sexual orientation is used only for equal opportunities statistical monitoring of the recruitment process and workforce. It is protected throughout the process, is not visible to those assessing your application or to hiring managers, and cannot be used in a way which can identify you. It will not affect your application if you choose to not provide this information.
 
-www.healthjobsuk.com;  
-  
-"we", "us" or "our"
+If you indicate that you can be considered for a preferential or guaranteed interview owing to a disability you have, that information is used only for the purposes of arranging interviews.
 
-| 
+If you decide that you wish to leave a job application process, you can login to your applicant account then withdraw your application. For special cases (examples above) you should instead contact the employer.
 
-Trac Systems Limited a company registered in England and Wales with company number 04028397 whose registered office is at Heath Bank, Main Street, Great Longstone, Bakewell, Derbyshire, DE45 1TA; and  
-  
-"you", "your"
+Your information about your application through to starting work is automatically deleted from this recruitment management system once it is no longer regarded as necessary for the purpose for which it was collected. This is 400 days after the date the application was entered in this recruitment system or 200 days after your proposed/actual start date, whichever is the greater. This period allows obligations relating to lawful employment practices to be fulfilled such as statistical reporting and the defending of potential legal claims.
 
-| 
+The data controller for this information is the organisation to whom you have applied.
 
-an individual, company, or firm accessing our Site.  
-  
-2\. Introduction
+The privacy notice pertaining to a job application is
 
-2.1 This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that communications over the internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorised access or loss of personal data beyond our control. You may access most areas of our Site without registering with us. Certain areas of our Site are only open to you if you register.
+  * presented prior to starting the application process when applying via your Trac account;
+  * sent by email to applicants who details have been added to Trac by the employer; and
+  * shown at the end of the stored copy of the application form, visible via your Trac account.
 
-2.2 Our primary reasons for collecting your personal data are to:
 
-2.2.1 provide you with e-mail alerts in respect of jobs falling within your specified criteria if requested by you;
 
-2.2.2 provide your details to employers and/or recruitment agencies for the purposes of obtaining application packs for jobs if requested to do so by you;
+It shows the details for the organisation who is the data controller for your application (usually the employer) and any additional information that they wish to provide to you as part of the notice.
 
-2.2.3 process on-line applications, any other documents and any responses to pre-application questions you may submit on the Site; and
+### Disclosure and Barring Service check application form.
 
-2.2.4 provide you with the most efficient service possible.
+This service provides an online Disclosure and Barring Service check application form. The form provides some validation of your answers in order to help minimise the number of forms which are rejected by the Disclosure and Baring Service because they contain errors. When you submit your form, it is stored securely on our system that is dedicated to this purpose. The data controller is Trac Systems Ltd (www.trac.systems).
 
-2.3 This Privacy Policy may change from time to time so please check it periodically.
+Once you have completed both your DBS application form and your identity documents have been checked, your DBS application form is checked. If there appear to be problems with your answers then you may be asked to complete the form again. Otherwise it is electronically counter signed and delivered to the DBS via a secure channel.
 
-2.4 Our Site contains links to other websites. Please note that we are not responsible for the privacy practices of such other websites and advise you to read the privacy statements of each website you visit which collects personal information.
+It is important that you complete the DBS form carefully because it cannot be amended once it has been submitted to the DBS for processing.
 
-3\. Our Policy for Processing your Personal Data
+Once the DBS have performed their check, this system is notified that result is ready and that either:
 
-3.1 What personal data do we process and where do we get it from?
+  * the certificate contains no disclosure of criminal records information and therefore the employer does not need to see the certificate, or that
+  * the certificate does contain a disclosure of criminal records information and therefore the employer should expect you to show your certificate to them.
 
-3.1.1 When you register on our Site we will collect personal data from you.
 
-3.1.2 When you request an application pack on the Site we may collect personal data from you.
 
-3.1.3 When you complete an on-line application form, submit any document or respond to any pre application questions on the Site we will collect personal data from you.
+This system will notify the employer accordingly.
 
-3.1.4 Personal information may also be obtained automatically by your internet browser.
+The DBS do not provide this system, Trac Systems Ltd or the employer with information about the contents of a certificate (i.e. not informed of information about criminal records that it may contain).
 
-3.1.5 The types of personal data which we may collect from you could include, for example, your name, your contact details (such as your address and email address from you) and other information collected from you when registering to use the Site or when submitting an on-line application form, other document or answers to any pre-application questions on our Site.
+The DBS certificate is sent by the DBS directly to you as the applicant. It is your responsibility to show your certificate to the employer where required.
 
-3.1.6 We may also collect non-personally identifiable information about your visit to our Site through the use of cookies. This information may include, for example, the pages which you browse. This information helps us to better manage and develop our Site.
+If you believe there is a mistake with your certificate, you should appeal this directly with the DBS. They will investigate and reissue the certificate where appropriate.
 
-4\. What do we do with your Personal Data?
+Completed forms and result information are retained in this system for the time period specified by the DBS for providers who submit electronic checks. After that period they are deleted automatically.
 
-4.1 We will process your personal data so that:
+The lawfulness of processing is established under the General Data Protection Regulation article 6(1)(b) as necessary in order to provide you with the service described above and, usually, because it is a necessary step for the contract of employment for which the DBS check is being performed. If you have a complaint, please contact us at [dataprotection@trac.system](mailto:dataprotection@trac.system)s so that we can investigate.
 
-4.1.1 we can, if requested, provide you with email alerts for jobs falling within your specified criteria;
+### Employer's talent pool
 
-4.1.2 we can process any application forms, other documents or answers to pre-application questions submitted by you on our Site on behalf of relevant employers in accordance with their recruitment processes;
+This service provides a talent pool feature to employers. The employers add candidates to their talent pool according to their own policies. For example, by collecting sign-ups with consent at a recruitment fair.
 
-4.1.3 we can provide your contact details to employers and/or recruitment agencies for the provision of application packs by the employer and/or recruitment agency directly to you if requested by you. This may include transferring your contact details, but no other personal data, outside the EEA if the employer and/or recruitment agency is based outside the EEA;
+Personally identifiable information will be managed for this talent pool record. The information is needed to help operate the talent pool and match candidates to job vacancies. The lawfulness of processing is established because you have given your consent in accordance with General Data Protection Regulation article 6(1)(a) or, in the case of some special talent pools, under GDPR article 6(1)(b) where it is a necessary step prior to being able to establish, continue or vary a contract of employment.
 
-4.1.4 we can deal with the general queries you raise from time to time, by post, by email, by fax or by telephone; and
+The employer considers candidates who are in the talent pool for job vacancies that arise. When they identify that a candidate may be a match for the vacancy, they send an email message to inform them of the job vacancy and invite them to make an application. Records are kept of communications that are sent and received.
 
-4.1.5 we can process your registration details.
+The data controller for this information is the organisation that manages the talent pool. This application tracking system is provided by Trac Systems Ltd (www.trac.systems) as a data processor. Trac Systems provide some recruitment support services and have staff and secure data storage located entirely in the UK.
 
-4.2 Other purposes for which we may process your personal data are:
+Your entry in the talent pool expires automatically on a date set when it was added. Your talent pool records in this application tracking system will be automatically deleted after the expiry date. If you decide that you wish to leave before then, please contact the team who manage the talent pool.
 
-4.2.1 the general administration of your records by us;
+To make an enquiry, a request for your personal information held as part of this talent pool, or to arrange for any mistakes to be corrected, you may contact either the team who manage the talent pool or the data controller's Data Protection Officer.
 
-4.2.2 the general maintenance of our database and records by us including maintaining copies of any application submitted by you on the Site in accordance with the relevant employer's recruitment policy;
+The privacy notice pertaining to a talent pool is sent by email to the candidate at the time of being added to the talent pool. The privacy notice includes the contact details for the organisation who is the data controller for the talent pool (usually the employer).
 
-4.2.3 for security purposes to protect your personal data held and/or processed by us;
+### Employer's redeployment exercise
 
-4.2.4 for training our employees in respect of providing our service to you; and
+From time-to-time, employers undergo restructurings whereby some job roles will cease. Sometimes they make efforts to match those persons whose jobs are at risk with other jobs that become available. Our service allows employers to record the job matching needs of those persons so that they can be matched to those jobs.
 
-4.2.5 where you agree for our general marketing purposes; and
+Personally identifiable information is needed to help operate the redeployment exercise, match candidates to job vacancies and fulfil legal/regulatory requirements. The lawfulness of processing is established under the General Data Protection Regulation article 6(1)(b) because these are necessary steps prior to being able to establish, continue or vary a contract of employment, or because you have given your consent in accordance with article 6(1)(a).
 
-4.2.6 to send you e-mails from carefully selected companies who provide services which we think may be of interest to you where you have notified us that you are happy for us to use your personal data in this manner.
+The employer considers candidates who are in the redeployment pool for job vacancies that arise. When they identify that a candidate may be a match for the vacancy, they send an email message to inform them of the job vacancy and invite them to make an application. Records are kept of communications that are sent and received.
 
-4.3 When you enter our Site, your computer will automatically be issued with a cookie. Cookies in themselves do not identify the individual user, just the computer used. Many websites do this whenever a user visits their website in order to track traffic flows. If you wish to reject our cookie, you can configure your browser to do so (see Condition 10 below), alternatively you can ask your internet browser to alert you when a cookie is being set up. If you disable our Cookie you may find that you are unable to access certain features on the Site or that certain features, such as online application forms, may not operate correctly.
+The data controller for this information is the organisation that manages the redeployment exercise. This application tracking system is provided by Trac Systems Ltd (www.trac.systems) as a data processor. Trac Systems provide some recruitment support services and have staff and secure data storage located entirely in the UK.
 
-4.4 You acknowledge that by providing personal data to us, you consent to the processing of your personal data in accordance with this Privacy Policy _._
+Your entry in the redeployment pool expires automatically on a date set when it was added. If you decide that you wish to leave before then, please contact the team who are handling your possible redeployment.
 
-5\. Who else gets to see your Personal Data?
+Your redeployment records in this application tracking system will be automatically deleted one year after the expiry date. This period is necessary in order to be able to report on success levels of the redeployment exercise and for the possible establishment, exercise or defence of legal claims.
 
-5.1 Our data processors.
+To make an enquiry, a request for your personal information held as part of this redeployment pool, or to arrange for any mistakes to be corrected, you may contact either the team who manage the redeployment pool or the data controller's Data Protection Officer.
 
-5.2 Any third party employers and/or recruitment agencies advertising a job on our Site in respect of which you submit an on-line application, other document or answer pre-application questions on our Site or in respect of which you submit a request an application pack.
+The privacy notice pertaining to a redeployment record is sent by email to the candidate at the time of being added to the pool. The privacy notice includes the contact details for the organisation who is the data controller for the redeployment pool (usually the employer).
 
-6\. Your Rights
+### Cookies
 
-6.1 You have the right to object to your personal data being used for 'direct marketing' and/or 'host mailing' purposes (see Conditions 4.2.5, and 4.2.6 above). You can change your options in relation to the information you wish to receive at any time by clicking the "unsubscribe link" on any email we send to you, updating your account details on the Site or by contacting our Compliance Officer in writing by post or email.
+Web systems are operated by Trac Systems Ltd in order to provide this service. Those web systems set cookies on the browsers of the visitors to the applicable web sites. Those cookies are strictly necessary for running the service and therefore it is not necessary to ask the visitor's consent for the cookies to be set.
 
-6.2 As mentioned above you can set your internet browser to refuse cookies or you can ask your internet browser to alert you when a cookie is being set up (see Condition 10).
-
-6.3 You have the right under the DPA to request from us information as to what personal data we are processing about you. Such requests should be made in writing by post or email to the Compliance Officer and should be accompanied by a £10.00 fee. We will provide you with the relevant information within 40 days of receipt of the fee.
-
-6.4 You have other rights under the DPA in relation to our processing of your personal data.
-
-7\. Maintenance of your personal data
-
-7.1 We are committed to the security of your personal data. All of our employees and sub-contractors with access to your personal data and/or who are associated with the processing of that data are contractually obliged to respect the confidentiality of your personal data.
-
-7.2 We have implemented technology measures and security policies to protect the personal data that we have in our control from unauthorised access, improper use, alteration, unlawful or accidental destruction or accidental loss.
-
-8\. General application of our Privacy Policy
-
-8.1 This Privacy Policy only applies to the collection and use of your personal data provided to us and not to personal data you may provide directly to third parties (including but without limitation to the operators of third party websites linked to our Site, or any application form submitted by you directly to the relevant employer and/or recruitment agency). Any third parties will have their own policies in respect of processing personal data you provide to them and/or your personal data that we may disclose to them in accordance with this Privacy Policy.
-
-9\. Contact information
-
-9.1 If you have any queries about our processing or use of your personal data you should write, in the first instance to our Compliance Officer.
-
-9.2 If you want to learn more about your rights regarding your personal data, you should contact the Information Commissioner's office information line on: (0044) 01625 545745 or visit their website at [ www.ico.gov.uk ](http://www.ico.gov.uk/) .
-
-10\. Cookies
-
-10.1 Information on how to block cookies can normally be found within the help features of your browser. Information can also be found on the main browser websites:
-
-[ http://www.microsoft.com](http://www.microsoft.com/) (Internet Explorer)
-
-[ http://www.opera.com](http://www.opera.com/) (Opera)
-
-[ http://www.mozilla.org](http://www.mozilla.org/) (Firefox)
+No cookies are set by advertisers or tracking companies. No cookies are used for the purposes of building profiles of individuals.
