@@ -1,76 +1,107 @@
-> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102084902id_/https%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222154328id_/https%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buildium
 
-Last updated November 22, 2010
+Last updated August 13, 2018
 
-We know privacy is important to you. It’s important to us, too. That’s why we will never give your personal information to anyone except as required by law. Period. End of story. This Privacy Policy explains how we use the information we collect from you. We’ve tried hard to avoid any legalese, preferring plain English instead. If you have any questions about our policy, [please let us know](http://www.buildium.com/contact-us/).
+## How We Protect You
 
-Michael Monteiro, Co-Founder
+Buildium, LLC (“Buildium”) is committed to protecting the privacy of information and data that may be used to identify you, your personal information. The intention of this privacy policy (the “Privacy Policy”) is to disclose our information-gathering practices and describe how we use your personal information. The effective date of this Privacy Policy is August 13, 2018.
 
-## Definitions
+## Information We Collect
 
-  1. “We,” “us,” and “Buildium, LLC” refer to Buildium, LLC, a limited liability company formed in the state of Massachusetts.
-  2. “Buildium” refers to the services offered by Buildium, LLC.
-  3. “Subscriber” refers to an individual or entity using our services.
-  4. “Personal Information” refers to information about a Subscriber.
-  5. “Application Data” refers to tenants, leases, and other similar data a Subscriber enters in Buildium.
-  6. “Website” refers to [www.buildium.com](http://www.buildium.com/).
-  7. “Visitor” refers to an individual who visits any of our Websites.
+We collect personal information from you if you use our website, fill out forms on our website or on paper at events, or use any of our web-based products or services. The types of personal information we collect include, but are not limited to, the following:
 
-
-
-## Types of Information We Collect
-
-  1. Anonymous Information  
-When you visit our Website, we store files called “cookies” on your computer. We use these cookies to identify when you return to our Website and to analyze aggregate information like the number of unique visitors to our Website. Google may also use these cookies to display interest-based ads across their Display Network on our behalf. You can opt out of these ads by visiting [Google’s advertising opt out page](http://www.google.com/privacy_ads.html). If you disable cookies on your browser, you can still visit our Website, but you will not be able to use Buildium. That’s because we also use cookies to help us identify you after you have logged in.
-  2. Personal Information  
-When you sign up for Buildium, you give us Personal Information like your name, address, email, phone number, and billing information. You also reveal your IP address, browser, operating system, platform, and other similar information.
-  3. Application Data and Usage Information  
-We can see the tenants, leases, and other similar data you enter into Buildium. We also collect usage information that tells us how you utilize Buildium and we aggregate non-identifiable information like median market rents, vacancy rates, and other similar information used for benchmarking.
-  4. Email Analytics  
-When we send you an email, we may track when you open it and when you click on a link in the email. We do this to measure the effectiveness of our email campaigns.
+  * Contact details, such as name, title, company name, email address, phone number, and mailing address
+  * Taxpayer ID numbers (including social security numbers in the case of sole proprietors)
+  * Credit card information processed by our payment processor (Buildium does not retain your full credit card information)
+  * Personalization information including, but not limited to, an uploaded profile photo
+  * Details about your interest in our products and services
+  * Responses to surveys, polls, or assessments
+  * Information collected automatically from our website visitors including, but not limited to, your IP address, web browser, language, operating system, the date and time you accessed our website, and the link from which you accessed our website
 
 
 
-## Use of Your Personal Information
+## How We Use Your Personal Information
 
-We use your Personal Information only as follows:
+The personal information that we collect is used to perform our contractual obligations and for our other legitimate interests. In some cases, we may ask you for your consent to use your personal information, but any consent will be presented to you separately from this Privacy Policy. We may use your personal information for purposes including, but not limited to, the following:
 
-  1. **To promote the use of Buildium and other related services.** For example, if you give us your contact information and do not sign up, we may send you an email asking whether you want to sign up. Additionally, if you use Buildium, we may send you an email or direct mail piece telling you about a related service from us or one of our partners.
-  2. **To bill and collect money for the use of Buildium.** For example, we may send you an email asking you for a different payment method or otherwise to try to collect money owed. We use a third-party to process ACH and credit card payments. Our payment processor does not store, retain, or use your Personal Information for any other purpose.
-  3. **To communicate with you about your account.**
-  4. **To inform you about planned outages,** new features, and changes to our Privacy Policy.
-  5. **To provide customer support and obtain feedback.**
-  6. **To support and improve Buildium** including adding features and providing benchmarks based on aggregating and analyzing data across Subscribers.
-  7. **To meet legal requirements** like complying with court orders and valid subpoenas.
-  8. **To transfer your information** in the event of the sale of substantially all of the assets of our business to a third-party or in the event of a merger, consolidation, or acquisition. However, in such event, any acquirer will be subject to our obligations under this Privacy Policy.
+  * To deliver services, products, or transactions that you have requested
+  * To improve our website, including upgrading security measures
+  * To send you promotional materials or communications regarding our content and services that we feel may be of interest to you
+  * To evaluate the products and services that we offer and develop new or improved products or services and to better understand Buildium’s business environment
+  * For educational purposes, such as polls conducted in webinars
+  * To conduct general research on topics of interests to Buildium and its customers
 
 
 
-## Use of Your Application Data
+## How We Share Your Personal Information
 
-Your application data belongs to you. You may update, delete, or export (download) your data from Buildium at any time. We will not share your application data with anyone except as required by law. However, we may share non-identifiable aggregate information like median market rents, vacancy rates, and other similar information with third-parties. Only authorized personnel have access to view your data.
+We may share your information for any of these purposes with the following individuals and entities:
 
-We will use your Application Data only as follows:
-
-  1. **To provide customer support and obtain feedback.**
-  2. **To support and improve Buildium** including adding features and providing benchmarks based on aggregating and analyzing data across Subscribers.
-  3. **To provide services through third-parties** like tenant screening, electronic tax filing, electronic payments, outsourced mailing, and others.
-  4. **To meet legal requirements** like complying with court orders and valid subpoenas.
-  5. **To transfer your information** in the event of the sale of substantially all of the assets of our business to a third-party or in the event of a merger, consolidation, or acquisition. However, in such event, any acquirer will be subject to our obligations under this Privacy Policy.
+  * Vendors engaged by Buildium to provide certain services to you, including, but not limited to, payment processing management, credit screening, and vacancy management. Buildium maintains contracts with our vendors requiring them to only use your personal information as necessary to provide their services and requiring them to comply with the requirements of this Privacy Policy and applicable laws.
+  * Services used by Buildium to aid our ability to provide the best possible experience to you.
+  * Buildium may need to share your information for law enforcement or other legal purposes. This type of sharing may be necessary in connection with a lawsuit, claim or investigation, governmental inquiry, court order, enforcement of legal rights (e.g., contract terms, intellectual property rights, etc.), safety issue, or other similar legal or security matter. Sharing your information for these reasons is not a regular event, but could arise from time to time. We will strive to limit the types and amount of information we may need to share for legal purposes to that which is reasonably necessary.
+  * We may share (or receive) information about you, including personal contact information, in the event of an acquisition, merger, sale, corporate restructuring, bankruptcy, or other similar event that involves Buildium. If such an event occurs, Buildium will take reasonable steps to require that your information be handled in accordance with this Privacy Policy.
 
 
 
-## Notification of Changes
+Buildium will never sell, rent, or disclose your personal information to third-party entities except as described in this Privacy Policy.
 
-We will email you when we make any changes to our Privacy Policy. If we expand on how we use your Personal Information for marketing purposes, you can opt out by [emailing our customer care team](http://www.buildium.com/contact-us/).
+## Transfer of Information to the United States
 
-## Questions
+Buildium is headquartered in the United States. Information we collect from you will be processed in the United States. The United States has not sought nor received a finding of “adequacy” from the European Union. With respect to transfer from the European Union, Buildium relies on derogations for specific situations. In particular, Buildium collects and transfers personal information to the United States only with your consent, to perform on a contract with you (or in your interest), or to fulfill a compelling legitimate interests of Buildium in a manner that does not outweigh your rights and freedoms. Buildium endeavors to apply suitable safeguards to protect the privacy and security of your personal information and to use it in a manner that is consistent with this Privacy Policy. Buildium does not collect sensitive data such as data concerning health, gender, racial or ethnic origins, or genetic or biometric (known as special categories of data in the European Union) or personal information from children.
 
-If you have any questions about our Privacy Policy, please [email](http://www.buildium.com/contact-us/) or mail us at:
+## Data Retention
 
-Buildium, LLC  
-Privacy Department  
-225 Franklin St, #350  
-Boston, MA 02110
+Buildium retains personal information for as long as we have a legitimate business relationship with you or with an organization with which you are affiliated (such as your employer). We may also retain personal information about prospective customers or prospective employees until we determine that it is unlikely that we will provide you with services and/or employ you. We also may retain your personal information for as long as necessary to comply with our legal or contractual obligations.
+
+## Your Rights
+
+If you do not want to receive promotional or marketing communications from Buildium, you may opt-out at any time by clicking the “unsubscribe” link at the end of our emails. If you choose to unsubscribe, we will retain your contact information to ensure that we do not contact you again.  
+If you are located in the European Union, you may have the following legal rights under European Union law:
+
+  * To withdraw consent at any time, if we are processing your personal information on the basis of consent
+  * To access the personal information Buildium has about you
+  * To request that Buildium rectify or erase your personal information
+  * To request that Buildium restrict the way it uses your personal information
+  * To object to the way Buildium uses your personal information
+  * To ask Buildium to transfer your personal information to someone else
+  * To lodge a complaint with a data protection agency in the European Union
+
+
+
+EU residents that would like to request that their data be securely removed from our systems please follow these steps outlined in our [Data Removal Process](http://www.buildium.com/wp-content/uploads/2018/08/Buildium-Data-Removal-Process.pdf). If you are unable to remove the data please send a request to [privacy@buildium.com](mailto:privacy@buildium.com) and Buildium will remove all relevant data, so long as that removal is technically feasible, does not impact the accounting or business practices of our customers, and does not violate other regulatory or legal standards with which Buildium must comply.
+
+## Data Protection Addendum
+
+Follow this link to the [Data Protection Addendum](https://rightsignature.com/forms/DPA8-28-203655/token/c919c8517a8) which includes all required terms for GDPR compliance, plus Standard Contractual Clauses which serve as a safeguard to govern transfers of personal data out of the EU/EEA/Switzerland.
+
+## Security
+
+Buildium uses a number of security technologies and procedures to ensure your personal information is protected from unauthorized access, use, or disclosure. However, we cannot guarantee that third parties will not overcome these measures and gain access to your information. To the fullest extent permitted by law, Buildium disclaims any warranty or guarantee that your information will be protected from misuse, appropriation, alteration, or loss.
+
+## Links to External Websites
+
+This website contains links to websites that are not controlled by Buildium. Please be aware that we are not responsible for the content, security, and privacy practices of external sites. We encourage you to familiarize yourself with the privacy policy of all websites where you submit personal information.
+
+## Cookies We Use
+
+We and our authorized partners may use cookies and other information gathering technologies for a variety of purposes. These technologies may provide us with personal information, information about devices and networks you utilize to access our Websites, and other information regarding your interactions with our Websites. For detailed information about the use of cookies on the Websites, please read and review our [Cookie Policy](https://buildium.com/privacy-policy/cookie-policy).
+
+## Changes to Privacy Policy
+
+From time to time, Buildium may change or update this Privacy Policy. We recommend you regularly review this page. When we update this Privacy Policy, we will also revise the “last updated” date at the top of this page. Buildium will use reasonable commercial efforts to notify you of changes to this Privacy Policy that materially change the disclosures made here.
+
+## For California Residents
+
+**California “Do Not Track” Notice.** Buildium does not currently recognize and process “do not track” signals from different web browsers. For more information on “do not track” please visit [http://www.allaboutdnt.org](http://www.allaboutdnt.org/).
+
+**California Privacy Rights.** Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such a third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. If you are a California resident and want a copy of this notice, please submit an email request to privacy@buildium.com. In your request, please specify that you want a “Your Buildium California Privacy Rights Notice.” Please allow 30 days for a response.
+
+## Contact Information
+
+If you have questions about how we handle your personal data, please contact us by phone or email.
+
+Phone number: 1-888-414-1988  
+Email: [privacy@buildium.com](mailto:privacy@buildium.com).
