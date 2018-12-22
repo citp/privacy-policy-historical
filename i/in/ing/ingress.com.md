@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ingress.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630184930id_/http%3A//www.nianticlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingress.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222045730id_/http%3A//www.nianticlabs.com/privacy) for the most accurate reproduction.*
 
 # Niantic Privacy Policy - Niantic
 
-**Effective as of: June 18, 2018**
+**Effective as of: October 30, 2018**
 
 We are Niantic. We provide real-world augmented reality platforms, designed to enable you to interact in shared worlds, seamlessly blended with the real world. To do that, we need information about you. Protecting your privacy is really important to us. We only use your information where we have a legal basis to do so. This Privacy Policy will help you understand what information we collect, how we use it and what choices you have when you play any of our games, use our websites, buy merchandise from us, or take part in live events and promotions (the " **Services** ").
 
@@ -12,11 +12,11 @@ You should also read our Terms of Service which set out the contract between you
 
 **__1\. Who decides how your information is used?__**
 
-Niantic, Inc., is the data controller responsible for making decisions about how we use your personal information. If you have any questions or comments on this policy, you can:
+Niantic, Inc., is the data controller responsible for making decisions about how we use your personal information if you are based outside of the European Economic Area (EEA). If you are based in the EEA, your data controller is Niantic International Limited in the United Kingdom.
+
+If you have any questions or comments on this policy, you can:
 
   * Email us at _[privacy@nianticlabs.com](mailto:privacy@nianticlabs.com)_
-
-  * Write to us at 1 Ferry Building Suite 200, San Francisco, CA 94111
 
   * Contact our Data Protection Officer at _[dpo@nianticlabs.com](mailto:dpo@nianticlabs.com)_
 
@@ -37,22 +37,19 @@ We need to collect and use certain Personal Data to provide the Services to you 
 
     * If you choose to link your Facebook account to the Services, we will collect a unique user ID provided by Facebook and, if permitted by you, your Facebook registered email address.
 
-
-
-
 Depending on the particular Service you sign up for, we may support other third party single sign-on services and collect additional Personal Data from them. For details please read the Game Specific Disclosures at the end of this Privacy Policy.
 
 Some third-party providers may notify you that they make additional information, such as your public profile, available to us when you use their single sign-on services. We do not collect that information from them.
 
-  * We collect and use your device location information as you use our Services, including how you move around and events that occur during gameplay. Our Services include location based games whose core feature is to provide a gameplay experience tied to your real world location, so we need to know where you are to operate these games for you, and to plan the location of in-game resources (for example PokéStops within Pokémon GO). We identify your location using a variety of technologies, including GPS, the WiFi points you are accessing the Service through and mobile/cell tower triangulation.
+  * We collect and use your device location information as you use our Services (and, if you elect to turn on background location tracking for our Services, while you are not directly interacting with the Services), including how you move around and events that occur during gameplay. Our Services include location based games whose core feature is to provide a gameplay experience tied to your real world location, so we need to know where you are to operate these games for you, and to plan the location of in-game resources (for example PokéStops within Pokémon GO). We identify your location using a variety of technologies, including GPS, the WiFi points you are accessing the Service through and mobile/cell tower triangulation.
 
-  * We also collect and use your in-game actions and achievements as well as certain information about your mobile device collected during gameplay (including device identifiers, device OS, model, settings and information about third party applications installed on your device), to operate the Services for you and to ensure that we provide a fair gaming experience to all players in accordance with our Terms of Service (which includes anti-fraud and anti-cheating measures).
+  * We also collect and use your in-game actions and achievements, as well as certain information about your mobile device (including device identifiers, device OS, model, configuration, settings and information about third party applications or software installed on your device), to operate the Services for you and to ensure that we provide a fair gaming experience to all players in accordance with our Terms of Service (which includes anti-fraud and anti-cheating measures against behaviors prohibited under our Terms of Service).
 
   * We also use the information above to show in-game sponsored locations that are in your vicinity as part of the gameplay experience.
 
   * We further use the information above in order to provide technical and customer support to you.
 
-  * You also give us Personal Data when you make a purchase through us, subscribe to our publications, enter a competition, promotion, sweepstakes or survey or communicate with us. Depending on which of these Services you use, that may include your name, mailing address, phone number, country of residency, date of birth (as needed to verify eligibility), and email address. We use that information to fulfil those Services to you and to provide related customer support to you.
+  * You also give us Personal Data when you make a purchase through us, subscribe to our publications, register for a live event, enter a competition, promotion, sweepstakes or survey or communicate with us. Depending on which of these Services you use, that may include your name, mailing address, phone number, country of residency, date of birth (as needed to verify eligibility), and email address. We use that information to fulfil those Services to you and to provide related customer support to you.
 
 
 
@@ -63,13 +60,15 @@ In addition, we have and rely on a legitimate interest in using your Personal Da
 
   * Using your contact information, namely your email address in order to communicate with you to provide technical and customer support.
 
+  * Using your internal account ID in order to attribute to your account any user content (such as local points of interest) that you elect to submit to Niantic through the Services.
+
   * Using your email address and device information in order to share updates and news about the Services with you either within the games or by email. You can unsubscribe from these at any time in your device settings or in-app settings.
 
   * To provide social features within our games so you can interact and play with other players, including storing your communications with those players, find your friends and be found by them, and share your gameplay experience and achievements with your friends.
 
   * To offer new or additional features for our Services.
 
-  * To organize and run live events based on or featuring our games. Note that when you participate in live events your in-game actions and achievements, in-game username and your avatar will be visible to other event participants and to the public (for example on leaderboards displayed at the event and online).
+  * To organize and run live events based on or featuring our games. Note that when you participate in live events your in-game actions and achievements, in-game username and your avatar, team, and other components of your in-game profile will be visible to other event participants and to the public (for example on leaderboards displayed at the event and online).
 
   * To carry out anti-fraud and anti-cheating measures and to ensure that you and other users are complying with our Terms of Service.
 
@@ -79,6 +78,10 @@ In addition, we have and rely on a legitimate interest in using your Personal Da
 
 
 We will only use your Personal Data to do the following if we have your consent:
+
+  * If you elect to turn on background activity tracking in our Services (for example the Fitness Mode in Pokémon GO) we will collect your Personal Data as you use the Services as well as in the background when you do not have the Services open on your device. This includes your device location and your fitness activity data (such as Step Count, Calories Burned, and Distance Walked). We use background activity tracking to provide you certain functionalities in the Services such as in-game items and rewards tied to your fitness activity level and alerts for nearby gameplay events. You can change your mind and turn off background activity tracking at any time in your device settings or in-app settings.
+
+With your permission we use your device’s health app (Apple HealthKit if you use an Apple device, or Google Fit if you use an Android device) to collect your fitness activity data: we read and/or write your fitness activity data to your device’s health app to operate background activity tracking and to ensure you get "credit" in your device’s health app for all of the walking you do while playing our games. We do not use data collected through Apple Health Kit or through Google Fit for marketing or advertising purposes. Our Services cannot read from or write to your device’s health app without your consent. You can change your mind and disable our access to any type of fitness activity data at any time in your Apple Health or Google Fit app settings on your device.
 
   * If you elect to enable the Facebook User Friends permission available in some of our games, we will import from your linked Facebook account the list of your friends who also play the game and enabled Facebook User Friends. If you enable that permission, your Facebook profile picture and the name on your Facebook account will be visible to your friends in-game. You can change your mind and unfriend other players at any time from your in-app Friends settings. You can also revoke Facebook permissions for our games directly from your Facebook account settings.
 
@@ -112,7 +115,7 @@ We will not share any Personal Data that we have collected from or regarding you
 
 
 
-**Information Shared with Other Players.** When you use the Services, and in particular when you play our games, use social features within those games, or take part in live events, we will share certain Personal Data with other players. This Personal Data includes your in-game profile (such as your username, your avatar, and your team), your in-game actions and achievements, the real-world location of gameplay resources you interacted with when playing the games (for example PokéStops within Pokémon GO or Portals within Ingress), and your public in-game messages. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.
+**Information Shared with Other Players**. When you use the Services, and in particular when you play our games, use social features within those games, or take part in live events, we will share certain Personal Data with other players. This Personal Data includes your in-game profile (such as your username, your avatar, and your team), your in-game actions and achievements, the real-world location of gameplay resources you interacted with when playing the games (for example PokéStops within Pokémon GO or Portals within Ingress), and your public in-game messages. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.
 
 **Information Shared with Third Parties**. We share Anonymous Data with third parties for industry and market analysis. We may share Personal Data with our third-party publishing partners for their direct marketing purposes only if we have your express permission. We do not share Personal Data with any other third parties for their direct marketing purposes.
 
@@ -124,7 +127,7 @@ We will not share any Personal Data that we have collected from or regarding you
 
 Niantic operates its Services across the globe. Your Personal Data will very likely be transferred and stored in a country outside of your home country, including in the USA, for the purposes outlined in this Privacy Policy. The data protection laws in these countries may not be the same as in your home country.
 
-If we transfer your Personal Data from the European Economic Area (EEA) to other countries, including the USA, we ensure that a similar degree of protection is provided to your Personal Data as within the EEA by ensuring that at least one of the following safeguards is implemented:
+If we transfer your Personal Data from the EEA to other countries, including the USA, we ensure that a similar degree of protection is provided to your Personal Data as within the EEA by ensuring that at least one of the following safeguards is implemented:
 
   * The country that your Personal Data is transferred to is a country that the European Commission has deemed to provide an adequate level of protection for Personal Data as the EEA.
 
@@ -162,7 +165,7 @@ You can:
 
   * Request access to the Personal Data we hold on you.
 
-  * Delete or correct your Personal Data. The easiest way to update your account information is via your in-app settings. You can also submit a customer support request through our support website [here](https://support.pokemongo.nianticlabs.com/hc/requests/new?ticket_form_id=232387)for Pokémon GO, or [here](https://support.ingress.com/hc/articles/206618198) for Ingress.
+  * Delete or correct your Personal Data. The easiest way to update your account information is via your in-app settings. You can also submit a customer support request through our support website [here ](https://support.pokemongo.nianticlabs.com/hc/requests/new?ticket_form_id=232387)for Pokémon GO, or [here](https://support.ingress.com/hc/articles/206618198) for Ingress.
 
   * Object to us processing your Personal Data. Some of the Personal Data we hold is necessary for us to provide the Services to you and fulfill the promises we make to you in the Terms of Service.
 
@@ -183,9 +186,28 @@ We aim to provide the information or complete the outcome you request within 30 
 
 **__8\. Children__**
 
-As a general rule, if you are outside the EEA, children under 13 are not allowed to use the Services. If you are based in the EEA you may only use the Services if you are over 16, or the age needed to consent to the processing of personal data in your country of residence. We do however allow children to use the Pokémon GO Service, provided we have the required parental consent. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.
+As a general rule, children are not allowed to use the Services, and we do not collect Personal Data from them. We define "children" as follows:
 
-If we learn that we have collected Personal Data of a child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data, and we do not have parental consent, we will take steps to delete such information from our files as soon as possible.
+  * Residents outside of the EEA: anyone under 13 years old;
+
+  * Residents of the EEA: anyone under 16 years old, or the age needed to consent to the processing of personal data in your country of residence.
+
+
+
+
+We do however allow children to use the Pokémon GO Service, provided we have the required parental consent. Parents can provide and verify their consent through the Niantic Kids Parent Portal, or through Pokémon Trainer Club (for more details on Pokémon Trainer Club please read the Game-Specific Disclosures at the end of this Privacy Policy).
+
+The Niantic Kids Parent Portal is operated on Niantic’s behalf by Kids Web Services (KWS), a product of SuperAwesome Trading Ltd of 40 Long Acre, London WC2E 9LG, United Kingdom, www.superawesome.tv. You may contact SuperAwesome directly at [privacy@superawesome.tv](mailto:privacy@superawesome.tv) or +44 203 668 6677 for any questions related to their handling of user information, especially parent information. KWS is certified by the kidSAFE Seal Program, an FTC-Approved COPPA Safe Harbor Program. SuperAwesome is also a valid licensee, and participating member, of the Entertainment Software Rating Board’s Privacy Certified Program ("ESRB Privacy Certified").
+
+Verifiable parental consent is required for the collection, use, or disclosure of a child's Personal Data. Niantic will not collect, use, or disclose any Personal Data from a child if their parent or guardian does not provide such consent.
+
+Parents who wish to consent to their child accessing our Services must first create a Niantic Kids account so they can manage the privacy settings of their child’s account. Parents will then be required to verify their identity through the Niantic Kids Parent Portal operated by SuperAwesome. In order to perform that verification, SuperAwesome requires certain personal information about parents. Any such information is collected by SuperAwesome as a Third Party Service in accordance with their own Privacy Policy, which can be found at <https://parents.superawesome.tv/en/privacy>.
+
+Once verified, a parent can consent to their child creating a user account and accessing the Service. For user account creation, Niantic will collect the in-game username the child chooses to use on our Services, internal account IDs that we assign to the child’s account, and, with the parent’s permission, the child’s personal email address. We need that information to authenticate the child’s account, to make sure the child is eligible and able to receive the Services, and so that the child receives the correct version of the Services. As the child accesses and uses the Service, Niantic will also collect the child’s device location and other Personal Data listed in this Privacy Policy for the purpose of operating and providing the Service to the child, as described in this Privacy Policy.
+
+Parents have the right to refuse further collection, use, and/or disclosure of their child’s Personal Data by notifying us. As a parent, you understand that Niantic has a legitimate interest in providing your child’s Personal Data collected via the Services to third party providers for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy.
+
+If we learn that we have collected Personal Data of a child, and we do not have parental consent, we will take steps to delete such information from our files as soon as possible.
 
 **__9\. Changes to this Privacy Policy__**
 
@@ -208,8 +230,6 @@ For U.S. residents, after a Parent has registered a PTC account, TPCI will verif
 Parents have the right to refuse further collection, use, and/or disclosure of their Child’s Personal Data by notifying us. As a Parent, you understand that Niantic has a legitimate interest in providing your Child’s information collected via the Services to third party providers for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy.
 
 **Information shared with other players.** When you take certain actions in Pokémon GO and capture a Gym, your (or your authorized Child’s) username will be shared publicly through the game, including with other players, in connection with that Gym location.
-
-**Apple Watch and Apple Health App Data.** If you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data about your fitness activity (Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the "Health App Data"). We may store Health App Data on our servers in connection with your Pokémon GO user account. We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO. We will not use Health App Data for marketing or advertising purposes. We do not store Health App Data in iCloud. Pokémon GO cannot read from or write to the Health App Database without your consent.
 
 **__Additional Privacy Information for Ingress__**
 
