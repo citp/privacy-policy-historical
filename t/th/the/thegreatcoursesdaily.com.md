@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreatcoursesdaily.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630143908id_/https%3A//www.thegreatcoursesdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreatcoursesdaily.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222011921id_/https%3A//www.thegreatcoursesdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Great Courses Daily
 
@@ -10,7 +10,7 @@ Welcome to The Great Courses Daily and to thegreatcoursesdaily.com Website (“W
 
 **Information about Us**
 
-The Great Courses Daily Website is operated by The Teaching Company Sales, LLC, 4840 Westfields Blvd., Suite 500, Chantilly, VA 20151-2299 (under the trading name of “The Great Courses”). If you would like information on how to contact us, click Contact Us.
+The Great Courses Daily Website is operated by The Teaching Company Sales, LLC, 4840 Westfields Blvd., Suite 500, Chantilly, VA 20151-2299 (under the trading name of “The Great Courses”). If you would like information on how to contact us, click [Contact Us.](https://www.thegreatcoursesplus.com/us-contact-us)
 
   1. **What Information Is Collected**
 
@@ -74,7 +74,7 @@ We may share your personal information with our Internet Service Providers as ap
 
 We use third-party ad serving, analytics, and audience and traffic measurement services.   We may use a third-party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website or the use of our Services. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in.  Audience and traffic measurement services allow us to collect anonymous traffic and behavior information from the Website by monitoring anonymous visitor activity. Other companies’ uses of their cookies are subject to their own privacy policies, not this one. Please visit http://www.networkadvertising.org/optout_nonppii.asp in order to learn more about the information collection practices and “opt-out” procedures of third-party ad servers we may use.
 
-From time to time, The Great Courses Daily will send you email, catalogs, or other information about other products and services from The Great Courses or The Great Courses Plus.  In addition, we may make our mailing and email list(s) available to carefully screened companies. If you prefer we don’t send you email from The Great Courses Daily or share your name, address or email information, please contact our Customer Care team at 1-800-832-2412 or write to us at The Great Courses Daily, 4840 Westfields Blvd., Suite 500, Chantilly, VA, 20151-2299, Attn: Customer Care or unsubscribe at [contact@thegreatcoursesdaily.com](mailto:contact@thegreatcoursesdaily.com).
+From time to time, The Great Courses Daily will send you email, catalogs, or other information about other products and services from The Great Courses or The Great Courses Plus.  In addition, we may make our mailing and email list(s) available to carefully screened companies. If you prefer we don’t send you email from The Great Courses Daily or share your name, address or email information, please contact our Customer Care team at 1-800-832-2412 or write to us at The Great Courses Daily, 4840 Westfields Blvd., Suite 500, Chantilly, VA, 20151-2299, Attn: Customer Care or unsubscribe via the UNSUBSCRIBE link in the the newsletter.
 
 
 
@@ -94,19 +94,19 @@ The Great Courses makes reasonable efforts to ensure that our Internet Service P
 
 
 
-We may retain any personally identifiable information for as long as we deem necessary and appropriate. If you wish to request that we no longer use your information to contact you or otherwise provide you with feature access or use related to our Website, contact us at [Contact@thegreatcoursesdaily.com](mailto:Contact@thegreatcoursesdaily.com). We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We may retain any personally identifiable information for as long as we deem necessary and appropriate. If you wish to request that we no longer use your information to contact you or otherwise provide you with feature access or use related to our Website, [contact us](https://www.thegreatcoursesplus.com/us-contact-us). We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
   8. **Other Social Media Websites, Blogs, Message Boards**
 
 
 
-The Website and The Great Courses Daily may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment, the user name with which you registered for the Website and your current location may be made publicly available on the Website and through The Great Courses Daily. By using the commenting features of the Website, you acknowledge that your user name and location information will be disclosed. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our Website or community forum, contact us at: [Contact@TheGreatCoursesDaily.com](mailto:Contact@TheGreatCoursesDaily.com). In some cases, we may not be able to remove your personal information, in which case we will use reasonable efforts to let you know if we are unable to do so and why.
+The Website and The Great Courses Daily may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment, the user name with which you registered for the Website and your current location may be made publicly available on the Website and through The Great Courses Daily. By using the commenting features of the Website, you acknowledge that your user name and location information will be disclosed. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our Website or community forum, [contact us](https://www.thegreatcoursesplus.com/us-contact-us). In some cases, we may not be able to remove your personal information, in which case we will use reasonable efforts to let you know if we are unable to do so and why.
 
   9. **General Audience Website Not Directed Toward Children**
 
 
 
-This Website is a general audience Website. Our content is neither directed toward minors nor children who are under the age of 13. We do not knowingly collect personal information from children under the age of 13. If The Great Courses or our Internet Service Providers become aware that a minor or a child under the age of 13 has provided us with personal information without the parental consent, that information will be deleted from our databases. Parents who have questions about personal information that may have been submitted by a child under the age of 13 should email us at: [Contact@TheGreatCoursesDaily.com](mailto:Contact@TheGreatCoursesDaily.com)
+This Website is a general audience Website. Our content is neither directed toward minors nor children who are under the age of 13. We do not knowingly collect personal information from children under the age of 13. If The Great Courses or our Internet Service Providers become aware that a minor or a child under the age of 13 has provided us with personal information without the parental consent, that information will be deleted from our databases. Parents who have questions about personal information that may have been submitted by a child under the age of 13 should [contact us](https://www.thegreatcoursesplus.com/us-contact-us).
 
   10. **Consent to Privacy Policy**
 
@@ -128,7 +128,7 @@ For those Website users located outside the United States, we advise you that yo
 
 Other than as is stated by this Privacy Policy, the Great Courses will not share any personal information about you with outside third-parties for their direct marketing purposes to the extent prohibited by California law, unless you agree otherwise as authorized by your prior written consent.
 
-California residents have the right to request information from The Great Courses regarding the manner that we may share personal information with affiliated companies and third parties for their direct marketing purposes. To find out what and how we share such information, you may send us an e-mail request at: [Contact@TheGreatCoursesDaily.com](mailto:Contact@TheGreatCoursesDaily.com) or mail a request to: Legal Department/Privacy Officer, The Teaching Company Sales LLC d/b/a The Great Courses, 4840 Westfields Blvd. Suite #500 Chantilly, VA 20151-2299, and receive the following information:
+California residents have the right to request information from The Great Courses regarding the manner that we may share personal information with affiliated companies and third parties for their direct marketing purposes. To find out what and how we share such information, you may [contact us](https://www.thegreatcoursesplus.com/us-contact-us) or mail a request to: Legal Department/Privacy Officer, The Teaching Company Sales LLC d/b/a The Great Courses, 4840 Westfields Blvd. Suite #500 Chantilly, VA 20151-2299, and receive the following information:
 
   1. The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year, if any;
   2. The names and addresses of the third parties who received information for their direct marketing purposes; and
@@ -137,4 +137,4 @@ California residents have the right to request information from The Great Course
 
 
 
-If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact us by email at [Contact@TheGreatCoursesDaily.com](mailto:Contact@TheGreatCoursesDaily.com).
+If you have any questions about this Privacy Policy or the privacy practices of this Website, please [contact us](https://www.thegreatcoursesplus.com/us-contact-us).
