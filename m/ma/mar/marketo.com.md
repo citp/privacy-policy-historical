@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626101419id_/https%3A//legal.marketo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222204039id_/https%3A//www.marketo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice » Marketo Documents
 
 **Effective Date:** September 16, 2016
 
- **Amended:** May 15, 2018
+ **Amended:** October 5, 2018
 
 Marketo, Inc. and its Affiliates (Marketo International, Ltd.; Marketo EMEA, Ltd.; Marketo Australia Pty Ltd.; Marketo K.K.; Marketo Solutions Limited (UK); Marketo Solutions, Ltd. (Israel) aka Insightera, Inc.; Marketo Corporation Canada; Bizible; ToutApp, Inc.; Zubhium Inc.) (collectively, "Marketo", "we" or "us") know that you care about how the personal data we receive about you is used and shared, and we take your privacy seriously. This Privacy Notice describes Marketo’s privacy practices in relation to information that we collect through websites operated by us from which you are accessing this Privacy Notice (collectively, the “Domains”), through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Notice (the “Apps”), through our social media pages and apps located at https://www.facebook.com/Marketo, https://twitter.com/marketo, https://plus.google.com/+marketo and https://www.linkedin.com (collectively, the “Social Media Pages”), and other services provided by us both online and offline; as well as through email messages that we send to you that link to this Privacy Notice (collectively, including the Domains, the Apps and the Social Media Pages, the “Sites”). “You” or “user” refers to any individual who visits or otherwise uses the Sites. 
 
@@ -142,11 +142,15 @@ Your Personal Data may be stored and processed in any country where we have faci
 
 When transferring any Personal Data from the EEA and Switzerland to the U.S., we adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce. Marketo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. 
 
+Marketo U.S. affiliates ToutApp, Inc. and Bizible are Covered Entitiesunder Marketo’s Privacy Shield certification and comply with the Privacy Shield Principles.
+
 For the purposes of enforcing compliance with the Privacy Shield, we are subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. 
 
 If we have received your Personal Data in the U.S. and subsequently transfer it to a third party agent or service provider for processing, and such third party agent or service provider processes your Personal Data in a manner inconsistent with the Privacy Shield Principles, we remain responsible under the Privacy Shield unless we can prove we are not responsible for the event giving rise to the damage.
 
-If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Marketo’s certification, please visit http://www.privacyshield.gov/ or see our Privacy Shield Notice at http://legal.marketo.com/privacyshield. 
+An individual has the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. Please refer to Privacy Shield Annex I for additional information: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction> 
+
+If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Marketo’s certification, please visit <https://www.privacyshield.gov/> or see our Privacy Shield Notice at <https://legal.marketo.com/privacyshield>. 
 
 ### 15\. Questions, Concerns or Complaints 
 
@@ -155,5 +159,9 @@ Your privacy is important to us. If you have any questions, concerns, or complai
 Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us. 
 
 Marketo will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
+
+In compliance with the Privacy Shield Principles, Marketo commits to resolve complaints about our collection or use of yourPersonal Data.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Marketo’s Data Protection Officer as indicated above.
+
+Marketo has further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association’s International Centre for Dispute Resolution, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit <http://go.adr.org/privacyshieldfiling.html> for more information or to file a complaint. The services of the AAA/ICDR are provided at no cost to you.
 
 You may have the right to complain to a data protection authority about our collection and use of your Personal Data.  For more information, please contact your local data protection authority. (Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).)  
