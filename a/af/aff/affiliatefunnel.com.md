@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefunnel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015734id_/http%3A//www.affiliatefunnel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefunnel.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222180916id_/http%3A//www.affiliatefunnel.com/privacy.php) for the most accurate reproduction.*
 
 # Affiliate Funnel | Build YOUR Business!
 
@@ -64,13 +64,13 @@
 > You may choose to restrict the collection or use of your personal information in the following ways: 
 > 
 >   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
->   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by clicking the Unsubscribe link provided in each email, or emailing us at krmhelp@gmail.com or by contacting us at the [help desk](https://web.archive.org/web/20170606015734id_/http%3A//www.affiliatefunnel.com/tickets.php). 
+>   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by clicking the Unsubscribe link provided in each email, or emailing us at krmhelp@gmail.com or by contacting us at the [help desk](https://web.archive.org/web/20181222180916id_/http%3A//www.affiliatefunnel.com/tickets.php). 
 > 
 
 > 
 > We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 > 
-> You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at krmhelp@gmail.com or contact us at the [help desk](https://web.archive.org/web/20170606015734id_/http%3A//www.affiliatefunnel.com/tickets.php). 
+> You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at krmhelp@gmail.com or contact us at the [help desk](https://web.archive.org/web/20181222180916id_/http%3A//www.affiliatefunnel.com/tickets.php). 
 > 
 > If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect. 
 > 
@@ -88,8 +88,8 @@
 > 
 > Contact us here if you have any questions. 
 > 
-> Help Desk: [Contact Us](https://web.archive.org/web/20170606015734id_/http%3A//www.affiliatefunnel.com/tickets.php)
+> Help Desk: [Contact Us](https://web.archive.org/web/20181222180916id_/http%3A//www.affiliatefunnel.com/tickets.php)
 > 
 > By Email: krmhelp@gmail.com 
 > 
-> Please also refer to our [Terms of Service](https://web.archive.org/web/20170606015734id_/http%3A//www.affiliatefunnel.com/terms.php) again if needed.
+> Please also refer to our [Terms of Service](https://web.archive.org/web/20181222180916id_/http%3A//www.affiliatefunnel.com/terms.php) again if needed.
