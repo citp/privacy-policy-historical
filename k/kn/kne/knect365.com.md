@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knect365.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527171402id_/https%3A//knect365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knect365.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222080251id_/https%3A//knect365.com/privacy-centre/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | KNect365 Corporate pages
 
@@ -211,7 +211,7 @@ We apply appropriate protection to make sure your personal data remains adequate
 
 We use cookies (small text files stored in your browser) and other techniques such as web beacons (small, clear picture files used to follow your movements on our website). These collect information that tells us how our websites, web-related products and services are used.
 
-This, in turn, helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details to recognise you if you visit our website again. For more information please visit our [Cookie Policy](https://web.archive.org/privacy-centre/our-cookie-policy/)
+This, in turn, helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details to recognise you if you visit our website again. For more information please visit our [Cookie Policy](https://web.archive.org/privacy-centre/our-cookie-policy/).
 
 ### 5.3 Third-party links
 
@@ -296,7 +296,7 @@ Data Privacy Office, Knect365, Maple House, 149 Tottenham Court Road, London W1T
 
 You can also contact the Group Data Protection Officer for Informa at 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com)
 
-We hope to resolve any privacy concerns you may have. If you are not happy with our response, or you believe that your data protection or privacy rights have been infringed, you can complain to any supervisory authority or other public body with responsibility for enforcing privacy laws. In the UK, the UK Information Commissioner’s Office regulates and enforces data protection law - their procedures can be found at www.ico.org.uk
+We hope to resolve any privacy concerns you may have. If you are not happy with our response, or you believe that your data protection or privacy rights have been infringed, you can complain to any supervisory authority or other public body with responsibility for enforcing privacy laws. In the UK, the UK Information Commissioner’s Office regulates and enforces data protection law - their procedures can be found at [www.ico.org.uk](https://ico.org.uk/).
 
 ### 11\. Changes to Privacy Policy
 
