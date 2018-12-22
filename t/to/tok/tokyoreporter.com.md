@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223095848id_/http%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222175206id_/https%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Tokyo Reporter
+# Tokyo Reporter Privacy Policy
 
-This privacy policy governs the manner in which The Tokyo Reporter collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.tokyoreporter.com](http://www.tokyoreporter.com/) website (“Site”).
+This privacy policy governs the manner in which The Tokyo Reporter collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.tokyoreporter.com](https://www.tokyoreporter.com/) website (“Site”).
 
 ### Personal identification information
 
@@ -62,6 +62,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.tokyoreporter.com/contact/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.tokyoreporter.com/contact/).
 
 This document was last updated on May 25, 2015
