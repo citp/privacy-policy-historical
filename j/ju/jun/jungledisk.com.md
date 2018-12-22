@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012131220id_/https%3A//www.jungledisk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222220139id_/https%3A//www.jungledisk.com/privacy) for the most accurate reproduction.*
 
-# Jungle Disk - Privacy Policy
+# Jungle Disk, LLC. - Privacy Policy
 
 ## How Jungle Disk Uses Your Information
 
@@ -30,13 +30,13 @@
   * Cookies are unique text files sent to your browser and stored on your computer. Disabling the use of cookies may affect your ability to use some features of our service.
   * Jungle Disk also collects general information about visits to our websites. This information includes parameters such as the number of visits and browser details. No personally identifiable information is present in this data and it is utilized for the sole purpose of better understanding website usage to improve customer experiences.
   * Jungle Disk also makes use of Google Analytics Advertising features, including remarketing. Advertising cookies and related collected data is utilized to better understand the prospective customers visiting the website and to present display ads to those visitors via Google’s display ad network.
-  * If you wish to opt-out of this type of passive data collection, you may ultilize Google’s opt-out browser plugin: https://tools.google.com/dlpage/gaoptout/
+  * If you wish to opt-out of this type of passive data collection, you may utilize Google’s opt-out browser plugin: https://tools.google.com/dlpage/gaoptout/
 
 
 
 ### Links to Third Party Sites
 
-  * The Jungle Disk websites may contain links to other sites that are not under our control. These web sites have their own policies regarding privacy and you should review those policies prior to using the web sites. We have no responsibility for linked web sites and these links are provided solely for the convenience and information of our visitors.
+  * The Jungle Disk websites may contain links to other sites that are not under our control. These websites have their own policies regarding privacy and you should review those policies prior to using the web sites. We have no responsibility for linked web sites and these links are provided solely for the convenience and information of our visitors.
 
 
 
@@ -53,16 +53,12 @@
 
   * You may, at any time, choose to correct or update the information you have submitted to Jungle Disk by updating your account on our website.
   * If you cancel your account, your personal data and other information may be retained in our archive or backup records.
+  * If you are an EU citizen and provided us your personal data, rather than business information, and wish to have us remove your personal data simply ask us via email at privacy@jungledisk.com with ‘GDPR’ in the subject.
 
 
 
-If you have questions about this policy please contact Jungle Disk using one of the following options:
+## Contacting Jungle Disk
 
-Email: privacy@jungledisk.com  
-Mail:  
-Attn: Privacy Policy  
-Jungle Disk  
-110 E Houston St.  
-Ste. 209  
-San Antonio, TX 78205  
+  * If you have questions about this policy please contact Jungle Disk using one of the following options: Email: privacy@jungledisk.com Mail: Attn: Privacy Policy Jungle Disk 110 E Houston St. Ste. 209 San Antonio, TX 78205
+
 
