@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512012832id_/https%3A//www.ubuntu.com/legal/terms-and-policies/privacy-policy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222034349id_/https%3A//www.ubuntu.com/legal/terms-and-policies/privacy-policy%23cookies) for the most accurate reproduction.*
 
-# Privacy policy | Terms and policies | Ubuntu
+# Data privacy | Ubuntu
 
-Valid from 8 February 2016
+Canonical collects personal information from you in a number of different ways. For example, when you download one of our products, receive services from us or use one of our websites (including [www.canonical.com](https://www.canonical.com/) and [www.ubuntu.com](https://www.ubuntu.com/)).
 
-Your privacy matters to us. This policy outlines the information we collect from you — and what we do with it.
-
-Canonical collects personal information from you in a number of different ways. For example, when you download one of our products, receive services from us or use one of our websites (including [www.canonical.com](http://www.canonical.com/) and [www.ubuntu.com](https://www.ubuntu.com/)).
+[Full list of websites ›](https://web.archive.org/legal/websites)
 
 At Canonical, we consider your privacy to be extremely important to us. These are the fundamental principles that we follow in relation to your personal information:
 
@@ -17,13 +15,44 @@ At Canonical, we consider your privacy to be extremely important to us. These ar
 
 
 
-## What we collect
+Canonical Group Limited ( **“we”** , **“us”** and **“our”** ) are committed to protecting and respecting your privacy. Information collected for or on behalf of the Canonical group of companies will be the responsibility of Canonical Group Limited.
 
-We may collect the following types of personal information from you:
+[Full list of Canonical contracting entities ›](https://web.archive.org/legal/companies)
+
+This policy (together with our [terms of use](https://web.archive.org/legal/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting a Canonical website you are accepting and consenting to the practices described in this policy.
+
+For the purpose of applicable data protection legislation, the data controller is Canonical Group limited (06870835) of 5th Floor, Blue Fin Building, 110 Southwark Street, London SE1 0SU.
+
+Our nominated representative for all data privacy matters is Mrs Katherine Ollerhead, Director of Legal, Canonical Group Limited.
+
+## Privacy notices
+
+Specific details about personal data collection can be found in the relevant privacy notice:
+
+  * [Newsletter privacy notice ›](https://web.archive.org/legal/data-privacy/newsletter)
+  * [Webinar privacy notice ›](https://web.archive.org/legal/data-privacy/webinar)
+  * [Online purchase privacy notice ›](https://web.archive.org/legal/data-privacy/online-purchase)
+  * [Snap store privacy notice ›](https://web.archive.org/legal/data-privacy/snap-store)
+  * [Contact us and enquiries privacy notice ›](https://web.archive.org/legal/data-privacy/contact)
+  * [Single sign on privacy notice ›](https://web.archive.org/legal/data-privacy/sso)
+
+
+
+## Information we collect from you
+
+  * **Information you give us**. This is information about you that you give us by filling in forms on a Canonical website or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site, your login information where provided on a site or make a purchase on our site. It may includes the following: first name, last name; company name; company size; industry; job title; level; phone number; email address; state or province and country.
+  * **Information about your visit**. This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
+  * **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data (through a Privacy Notice) if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
+
+
+
+## How information is collected from you
+
+We may collect this information through the following routes:
 
 ### Websites
 
-When you register to use certain parts of our websites, such as wikis or message boards, or register for free accounts, we may ask for personal information such as your full name, email address and a password.
+When you register to use certain parts of our websites, such as wikis, webinars or message boards, or register for free accounts, we may ask for personal information such as your full name, email address and a password. Please see the Privacy Notice on collection for further details of how we will use your personal data.
 
 ### Chat rooms, forums and newsgroups
 
@@ -31,11 +60,17 @@ These are available to our community. Any information that you disclose in these
 
 ### Canonical products
 
-When you register for services or purchase any product from Canonical, we may ask for information such as your email address, billing address, and credit card information. Credit card information is only used in processing your transaction. Please note that we may use a third party payment processing merchant to process your payments.
+When you register for services or purchase any product from Canonical, we may ask for information such as your email address, billing address, and credit card information. Credit card information is only used in processing your transaction. Please note that we may use a third party payment processing merchant to process your payments. Please see the terms and conditions of purchase and/or relevant Privacy Notice for further information.
+
+### Webinars
+
+Some webinars are directly hosted by Canonical on our sites. Where a webinars is operated by a third party provider you will be directed to a third party website and the third party provider may collects information as part of the webinar registration process. This data will be collected in accordance with the third party provider’s terms and conditions. Please see “Links and third-party content” in the Terms and Conditions for further details.
 
 ### Non-personally identifying information
 
-Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor’s request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about how we use cookies, see the “cookie” section below.
+Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about how we use cookies, see the “cookie” section below.
+
+Please note that Canonical may also collect system information during installation of Ubuntu and on first login to Ubuntu. This system information is subject to a [Legal Notice](https://web.archive.org/legal/online-account-terms).
 
 ### Error reports
 
@@ -43,28 +78,13 @@ When you chose to send an error report, it includes a unique identifier for your
 
 ### Ubuntu online accounts
 
-When you use Ubuntu online accounts, your personal information is stored on your PC and it can be accessed by some applications. [View the legal notice explaining how we use this personal information.](https://web.archive.org/legal/online-accounts)
+When you use Ubuntu online accounts, your personal information is stored on your PC and it can be accessed by some applications. Further information can be found in a [Legal Notice](https://web.archive.org/legal/online-account-terms).
 
-### General
+### Contacting us
 
-If you contact us and provide us with information, we may keep a record of that correspondence and information
+If you contact us and provide us with information, we may keep a record of that correspondence and information.
 
-### Searching in the dash
-
-When you enter a search term into the dash Ubuntu will search your Ubuntu computer and will record the search terms locally. Depending on whether you have opted in or out (see the “Online Search” section below), we may also send your keystrokes as a search term to productsearch.ubuntu.com and selected third parties so that we may complement your search results with online search results from such third parties including: Facebook, Twitter, BBC and Amazon. Canonical and these selected third parties will collect your search terms and use them to provide you with search results while using Ubuntu.
-
-### By searching in the dash you consent to:
-
-  1. the collection and use of your search terms and IP address in this way; and
-  2. the storage of your search terms and IP address by Canonical and such selected third parties (if applicable).
-
-
-
-Canonical will only use your search terms and IP address in accordance with this Privacy Policy. For information on how our selected third parties may use your information, please see their privacy policies.
-
-You may restrict your dash so that we don’t send searches to third parties and you don’t receive online search results. To do this go to the Privacy panel and toggle the ’Include online search results’ option. The Privacy panel can be found in your System Settings or via a dash search. [For a current list of our selected third parties, please see the third party privacy policies.](https://web.archive.org/legal/terms-and-policies/privacy-policy/third-parties)
-
-## What do we do with the information we collect?
+## What do we do with your personal data
 
 We may use your information in the following ways:
 
@@ -82,56 +102,61 @@ We may use your information in the following ways:
 
 Unless you have notified us otherwise, Canonical may occasionally send you email to tell you about new features, solicit feedback, or just to keep you up to date with what’s going on. We may use various community websites (Launchpad Answers, Ubuntu Forums, blogs etc.) to communicate this type of information, so we expect to keep this type of information to a minimum. If you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications, modify the communications preferences in your account or contact us using the contact details provided below.
 
-## Access
+## What are your rights?
 
-The information you provide to us will be held on computers and may be accessed by or given to our staff working inside and outside of the UK and to third parties, including contractors and companies within Canonical’s group, for the purposes set out in this Privacy Policy, i.e. to provide you with products or services, or as otherwise agreed with you.
+You have the right to consent to our processing of personal data for marketing purposes and to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.
 
-You acknowledge that it may be necessary for your information to be processed by such parties and that it may be transferred to someone who provides a service to us in another country, including some outside of the European Economic Area, and you consent to such processing and transfer. If it is necessary to transfer your personal information outside of the European Economic Area we will make every effort to ensure that the person to whom we pass the personal information agrees to treat it with the same level of protection as we do.
+You can also exercise the right at any time by contacting us at [dataprotection@canonical.com](mailto:dataprotection@canonical.com) or by using the relevant [contact us](https://web.archive.org/contact-us) form.
 
-If we are sold or merge with another business entity your personal information may be disclosed to our new business partners or owners.
+Under the data protection legislation, you have the following rights. These consist of:
 
-Unless required by law, we will not otherwise share, sell or distribute any personal information you provide to us without your consent.
+  * The right to be informed
+  * The right of access
+  * The right to rectification
+  * The right to erasure
+  * The right to restrict processing
+  * The right to data portability
+  * The right to object
+  * Rights in relation to automated decision making and profiling.
 
+
+
+Each of these rights are supported by appropriate procedures within Canonical which allow the required action to be taken within the timescales stated in the applicable data protection legislation.
+
+You can also ask us to stop using your information – the simplest way to do this is to withdraw your consent, which you can do at any time, either by clicking the unsubscribe link at the end of any newsletter, or by emailing, writing or telephoning us using the contact details above.
+
+We keep your order information for so long as reasonably required in accordance with our record retention policy. Your personal information associated with the order will then be removed.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+These timescales are shown in Table 1.
+
+Data subject request | Timescale  
+---|---  
+The right to be informed | When data is collected (if supplied by data subject) or within one month (if not supplied by data subject)  
+The right of access | One month  
+The right to rectification | One month  
+The right to erasure | Without undue delay  
+The right to restrict processing | Without undue delay  
+The right to data portability | One month  
+The right to object | On receipt of objection  
+Rights in relation to automated decision making and profiling. | Not specified  
+  
 ## Cookies
 
-We use persistent cookies to support a smooth user experience. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. We also use cookies to better understand how you interact with our websites and services and to improve our websites and services overall.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-### Cookies we use:
+### What is a cookie?
 
-#### site cookie acceptance
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
-`_cookies_accepted`
+We use the following cookies:
 
-This cookie is used to record if a user has accepted the use of cookies on our website. To withdraw your consent after accepting this cookie, delete the `_cookies_accepted` cookie.
+  * **Strictly necessary cookies**. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * **Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies**. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies**. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
-[More about cookies](https://www.aboutcookies.org/)
 
-#### Google Analytics
 
-`_utma, _utmb, _utmc, _utmz`
-
-These cookies are used to collect information about how visitors use our website, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-[Google Analytics privacy](https://support.google.com/analytics/answer/6004245?hl=en)
-
-#### Crazyegg
-
-`is_returning`
-
-Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimize our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie.
-
-[Crazy Egg's complete Privacy Policy](https://www.crazyegg.com/privacy)
-
-#### Marketo Munchkin
-
-`_mkto_trk`
-
-Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.
-
-[Marketo's complete Privacy Policy](http://uk.marketo.com/trust/privacy.php)
-
-If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services.
-
-## How do we protect the information we collect
-
-Canonical is very concerned about protecting the confidentiality of your personal information. We have security measures, including administrative, physical and electronic measures, to protect against the loss, exposure, misuse or alteration of information that we have collected from you in the use of the services. These measures include SSL data encryption to transmit your personal information as well as technical architectures and systems to prevent unauthorised third parties from accessing your personal information.
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
