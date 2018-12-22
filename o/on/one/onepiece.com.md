@@ -1,47 +1,106 @@
-> *The following text is extracted and transformed from the onepiece.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221144209id_/https%3A//www.onepiece.com/en-us/shop/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepiece.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222162829id_/https%3A//www.onepiece.com/en-us/shop/info/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-## Payment
+Customer privacy is very important to us, and we’d like to outline in this document how any personal data collected from you via www.onepiece.com or in one of our global stores, will be protected, stored and used by us to communicate with you.
 
-We accept credit card payments with Visa and MasterCard. Your credit card will be charged with the full order amount as soon as the order is registered. Our credit card provider is DIBS, they will securely handle your personal and financial information. DIBS has a PCI (Payment Card Industry) certification, with is an extensive program which aims to increase the security for all parties that store, process and transmit data. Read more about DIBS at dibs.se. 
+We collect, use and store your basic personal details to process and send your orders to the correct person and location. We also collect it to keep you in the know about our latest products, special offers and sales. The more personal information we have about you, the more tailored we can make your email newsletters, best suited to your interests and style.
 
-In selected countries you can pay with your PayPal or Amazon account. We also accept invoice payments with Klarna in Sweden, Norway, Denmark and Finland, and payment through Ideal in the Netherlands. Read more about Klarna at klarna.com, and Ideal at ideal.nl. 
+Yes, it is very safe to leave your personal details with us. We use market-leading technology and software to ensure your personal data is secure. If we work with any third party services, we always ensure they have the correct, industry standard security measures to access our database.
 
-## Information security
+You can rest assured that once you provide us with your personal details, they will be kept secure. We do not sell any of your personal data to any third party – including your name, phone number, address, email address and credit card/payment information.
 
-OnePiece Jump in currently does not collect personal information from simply accessing the website. We duly inform you from time to time in specific dedicated sections of the website in case there are activities implying the processing of your personal data and in that case we will ask your permission whenever required by laws.
+However, we share your data with the following categories of companies as an essential part of being able to provide our services to you, as set out in this statement:
 
-In order to process your order, we will collect personal information about you (e.g. your name, e-mail address, shipping/billing address and phone number). Credit card information is only handled by our third-party credit card provider (DIBS). 
+  * Companies that we use to get your orders to you, such as payment service providers, warehouses, and delivery companies
+  * [Professional service providers](https://web.archive.org/en-us/shop/info/cookies) who help us to run our business, such as advertising partners, marketing technology platforms and website hosts
 
-Personal information gathered is not shared with third parties (other than moderators or "agents", such as vendors or contractors, who are only processing such information for us or at our direction). 
 
-Non-personal information such as you IP address is automatically recorded when you enter our web site. This information is only used to diagnose server problems and site administration. 
 
-## Cookies
+As the 1st party data processor, we will process your personal data in the following ways:
 
-A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is a small piece of data sent from a website and stored into your web browser so that they are recognized by the website in your next visit. Cookies (and similar technical tools) are used for different purpose: authentication of the user, monitoring of the session, storing of settings of configuration of the users accessing the server, etc.
+If you browse our website:
 
-Cookies are used on this site in order to provide a better user experience, and for collecting site usage statistics. Cookies must be enabled when ordering from this site. By browsing this site you consent to our use of cookies 
+  * IP address
+  * [On-site behavior](https://web.archive.org/en-us/shop/info/cookies) for marketing purposes
 
-This policy refers exclusively to the cookies sent to your computer during the visit of the website www.onepiece.com. This policy does not refer to the cookies sent by other websites you may visit through links available in our webpages (for example when you select LIKE or SHARE on a specific item you are redirected to Facebook, same as when you select specific functional buttons and you are linked to other websites); to know more about their cookies we invite you to read the respective privacy and cookies policy.
 
-The website www.onepiece.com is owned and managed by OnePiece Jump in AS, a Norwegian Company. Norwegian Data Protection Law does not required to obtain authorization from the user before sending analytics cookies or technical cookies. Third-party cookies are sent to your browser through our website while your are browsing but from other servers/operators than Onepiece Jump in.
 
-## Customer responsibilities
+If you sign up to our newsletter: 
 
-By using onepiece.com, you agree to comply with all applicable law, and such further limitations as may be set forth in any written or on-screen notice from OnePiece Jump in. You are not allowed to use this site in any purpose that is unlawful or prohibited by this agreement. 
+  * Email address
+  * Your newsletter preferences
+  * What products you have clicked on and/or put in your shopping cart
 
-In all purchases or other transactions performed on this site, you must provide information that is accurate, complete and current. 
 
-You cannot in any way attempt to violate the security of the site. 
 
-## Product information
+If you have a Onepiece account: 
 
-We attempt to be as accurate as possible in describing the products on the site. We do not warrant that the product descriptions or other content of this site is accurate, complete, reliable, current or error-free. We have made every effort to display as accurate colors as possible of the products on the site. Displayed product colors may differ slightly from real-life colors depending on your computer monitor. 
+  * Email address 
+  * Name (optional)
+  * Gender (optional) 
+  * Address (optional) 
+  * Phone number (optional)
+  * Wishlist (optional) 
+  * Gift cards (optional)
+  * Order history (optional)
 
-## Risk of loss
 
-All product purchased from this site are transported and delivered to you by an independent carrier not affiliated with, or controlled by, OnePiece Jump in. When we deliver the items you have purchased on this site to the carrier, the responsibility of the product passes on to you. 
 
-OnePiece Jump in may at any time update or close the site. We may discontinue or restrict your use of the site without any notice. 
+If you place or have previously placed an order with us: 
+
+  * Email address
+  * Full name
+  * Phone number
+  * Delivery and/or billing address
+  * Gender
+  * Credit card information (we securely pass on your data to our payment partners, we do not store your credit card info)
+
+
+
+If you order products or a gift card on behalf of a third party, you are held responsible for gaining their consent to submitting their personal data.
+
+We will keep your data for direct marketing for a total of five years. For email marketing, we will consider you an inactive customer (and subsequently delete you data) if you haven't opened an email within the last three years. After these time periods your personal data will be deleted. 
+
+We reserve the right to save your data for legal and tax purposes for a total of five years. You may opt out of our direct marketing during this period.
+
+All that we ask of you is to keep your account password and other access information secret, ensure no one else makes a purchase while you’re signed into your Onepiece account, and always sign out when you end your online session.
+
+If you wish to change your delivery address, email address or account password, you can log into your account here: https://www.onepiece.com/account. Here you can also view your order history, wish list, gift cards and linked social accounts (Facebook and Google+).
+
+You are responsible for providing us with accurate personal information and updating it when necessary.
+
+A cookie is a small text file that is saved to, and, during subsequent visits, retrieved from your computer or mobile device. If you use our online services, we will assume that you agree to the use of such cookie.
+
+We use the following cookies when you visit our site:
+
+  1. Site functionality cookies – allow you to navigate the site and use our features, such as “Add to Bag” and “Add to Wishlist”.
+  2. Site analytics cookies – allow us to measure and analyze how our customers use our website, to improve both its functionality and the customer experience.
+  3. Customer preference cookies – when you’re browsing or shopping on our site, these cookies will remember your preferences (e.g. your location), so we can make your shopping experience as seamless as possible, and quicker for you to order your purchases.
+  4. Targeting or advertising cookies – used to deliver adverts relevant to you. They also limit the number of times that you see an ad, and help us measure the effectiveness of our marketing campaigns.
+
+
+
+[Click here to view the full list of cookies we use on our website.](https://web.archive.org/en-us/shop/info/cookies)
+
+By using our site, you agree to Onepiece placing these sorts of cookies on your device and accessing them when you visit our site in the future. If you want to delete any cookies that are already on your computer, visit the “Help” section in your browser to delete any you wish to. Please note, deleting or disabling future cookies may affect your user experience; you might not be able to take advantage of certain functions on our site, and your shopping experience may be less seamless.
+
+We have a one click unsubscribe policy, and each communication gives you the opportunity to opt-out of receiving future Onepiece newsletters via a link at the bottom of the email. 
+
+Please note there are some communications that are an integral part of our company service and cannot be opted-out of. These communications include changes to your order, including information about a potential refund or exchange.
+
+This Privacy Policy is correct as of 22/05/2018
+
+Our registered office and principal trading address is: Onepiece Jump In AS, Eilert Sundts Gate 41, 0355 Oslo, Norway. Our company registration number in Norway is 995135469. 
+
+Local Onepiece entities are as follows: 
+
+  * UK & Australia: Onepiece Jump In Limited
+  * US & Canada: Onepiece America LLC
+  * All other countries: Onepiece Jump In AS
+
+
+
+The Onepiece entity responsible for your purchases on our website and the processing of your personal data will depend on how you interact with our site and where you are located in the world.
+
+If you have any queries about our customer privacy policy, or anything else, please contact us at [support@onepiece.com.](mailto:support@onepiece.com). 
