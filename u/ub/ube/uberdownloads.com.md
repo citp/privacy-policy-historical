@@ -1,196 +1,204 @@
-> *The following text is extracted and transformed from the uberdownloads.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517024159id_/http%3A//uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberdownloads.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222173615id_/http%3A//www.uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Uberdownloads - Freeware and shareware downloads
 
-## Uberdownloads - Privacy Statement
+**Last Updated May 23, 2018**
 
-### Overview of Our Privacy Policy
+downloadadmin.com ("Website") is a website owned and operated by Tightrope Interactive, Inc. ("Company"). 
 
-www.Uberdownloads.com (“Website”) is a website owned and operated by Tightrope Interactive, Inc. (“Company”).
+The Company takes privacy matters very seriously. This document describes our obligations under EU’s General Data Protection Regulation (GDPR), explains what type of data we are collecting and how we are using this data. This document pertains to the usage of our websites and browser extensions.
 
-We supply free and free-to-try software. Our Products may include Toolbars, which add search functionality to your browser. They also allow one click access to news and our offers. We refer to our software and Products throughout this agreement as our "Services". 
+##  1\. Scope
 
-We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software. 
+Sections 2-3 of this document apply to all data subjects in the European Union and European Economic Area whose personal data is collected, in line with the requirements of the GDPR Article 6.1(f).
 
-Please read this Privacy Policy carefully so that you understand our online privacy practices regarding: 
+Section 4 - our privacy policy applies to all data subjects not in the European Union and European Economic Area.
 
-  * Information we collect
-  * How we use the information
-  * How we share your information, if at all
-  * Your choices
+##  2\. Responsibilities
 
+The GDPR Owner is responsible for ensuring that this notice is made available to data subjects as the Company is collecting/processing their personal data.
 
+##  3\. Privacy Notice
 
-We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary this policy will govern. Where there is a conflict between this policy and our supplement, the supplement will govern. 
+###  3.1 Who are we? 
 
-We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites' homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+The Company develops and markets browser extensions. We create browser extensions and offer them to consumers. 
 
-### Some Terms We Use in This Policy
+  * Gdpr-requests@tightropeinteractive.com
+  * Tightrope Interactive: GDPR REQUEST
+  * 588 Sutter St #551
+  * San Francisco, CA 94102
+  * 1-888-792-7077
 
-_Offers_ include e-mail, promotions, advertisements contests and third-party software presented by our Partners and us. 
 
-_Personally Identifiable Information (PII)_ is any information that identifies or could be used to identify, contact or locate you. It also includes your credit card number. 
 
-_Partner_ is an advertiser, or other entity with whom we have a business relationship to provide Offers. 
+The personal data we will collect from you is:
 
-_Service_ includes, but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software, as well as our Toolbars. 
+  * IP Address – sent to us from your browser when you access one of our websites.
+  * GUID – an identification string created upon installing one of our extensions.
 
-_Subsidiary_ is an entity wholly owned or related to UberDownloads. 
 
-_User_ means an individual that has accessed the Sites on which we host our Products or Services. 
 
-_We_ and _Our_ refer to UberDownloads and its subsidiaries. 
+The personal data we collect will be used for the following purposes:
 
-_You_ and Your refer to each user and his or her agents. 
+  * Fraud detection to ensure our services are not being accessed or used in a fraudulent manner.
+  * Geography Detection to ensure we deliver correct services to users around the world.
 
-### What information do we collect? 
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously. 
+Our legal basis for processing for the personal data:
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee it's absolutely security. 
+  * GDPR Article 6.1(f) - where processing is necessary for the purposes of the legitimate interests pursued by the controller 
+  * GDPR Recital 47 - The processing of personal data strictly necessary for the purposes of preventing fraud also constitutes a legitimate interest of the data controller concerned.
 
-### What do we use your information for? 
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-  * To personalize your experience-Your information helps us to better respond to your individual needs. 
-  * To improve our website-We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+Any legitimate interests pursued by us, or third parties we use, are as follows:
 
-### E-mail Offers
+  * We use IP address and GUID to track and prevent fraudulent use of our services. 
+  * We use IP addresses to determine geography of our users, in order to deliver correct geographic services to users.
+  * We use GUID to deliver correct services and functionality to users of our extensions.
 
-By providing your e-mail address, and choosing to receive our Offers, you agree to receive e-mails from us. Should you have any questions or concerns, or if you would like to discontinue receiving Offers, simply email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and ask us to remove you from our lists. You will only receive Offers via e-mail from us and our Partners if you have indicated that you would like to receive them. 
 
-### Testimonials
 
-We post testimonials on our Sites. Testimonials may contain Personally Identifiable Information. We will obtain your consent via email prior to posting the testimonial or comment. 
+The special categories of personal data concerned are:
 
-### Do we use cookies? 
+  * We do not collect or process any special categories of personal data as defined by GDPR.
 
-Yes. Cookies are small files that sites and service providers may transfer to your computer's hard drive through your Web browser. They enable the site and service provider systems to recognize your browser and capture and remember certain information. You can turn off cookies in your settings at any time. 
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
 
-### Do we use Web beacons or Pixels? 
+###  3.2 Consent & Lawfulness of Processing
 
-Yes. We and our Partners employ a software technology that helps us better manage content on our site. Web beacons or Pixels are tiny graphics with a unique identifier, similar in function to cookies. They track your online Web movement. We embed Pixels invisibly on Web pages. They are about the size of the period at the end of this sentence. We do not tie the information gathered by Pixels to our customers' Personally Identifiable Information. 
+We lawfully process the personal data outlined in this document under GDPR Article 6.1(f).
 
-Some of the Partner Offers may also use Pixels. We have no control over our partners' Pixels. We also have no control over how they use information collected. 
+You can object to our processing of the personal data outlined in this document by contacting the GDPR owner with your IP address and GUID.
 
-### Do we collect software information? 
+### 3.3 Disclosure
 
-Yes. We employ a technology that allows us to determine the operating systems you are using and to view your computer's registry. Software installed on your computer has unique registry keys. By viewing your registry, we are able to detect whether you have a compatible operating system, compatible versions of DirectX, and Flash Player installed. We use your registry information to determine whether our software offers are compatible with software already present on your PC. We do not tie registry information gathered to our customers' Personally Identifiable Information. 
+The Company will pass on your personal data to third parties without first obtaining your consent. The personal data we will pass on is IP Address.
 
-### Do we collect hardware information? 
+The following third parties will receive your personal data as part of the processing activities:
 
-Yes. Your computer's operating system also stores hardware information that we examine to determine your computer's hardware configuration including the amount of memory and the type of video card your computer has, as well as the speed of your processor. We use the information to determine whether our software offers are compatible with your computer hardware. We do not tie hardware information to our customers' Personally Identifiable Information. 
+  * Oath - [Oath Privacy Policy](https://policies.oath.com/us/en/oath/privacy/index.html)
 
-### Do we disclose any information to outside parties? 
 
-We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other's rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-### Third party links
+###  3.4 Retention Period 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+Company will process personal data outlined in this document immediately upon your connection to our websites or installation of our extensions.
 
-### How Do Toolbars Affect Your Browser And Operating System? 
+IP address and GUID information in server logs will be retained for a period of 20 days. GUID information will be retained for a period of 90 days after the last connection to our services from a user with that GUID.
 
-Toolbars install into your Internet browser and allow you to search the Internet. If you consent to make a toolbar your default search, your Internet browser default search feature will be set and you will access search services (i) by entering queries in your browser search box; (ii) by entering queries in your browser address bar, and/or (iii) in response to misspelled, incorrectly formatted or unresolved DNS submissions in your browser address bar. 
+###  3.5 Your rights as a data subject
 
-Toolbars do not affect your operating system. Toolbars can be removed at any time. For more information regarding toolbars, please view our Terms of Service. 
+At any point while we are in possession of or processing your personal data, you, the data subject, have the following rights:
 
-If you would like to reset your browser, follow the General Toolbar Uninstall Instructions below. 
+  * Right of access – you have the right to request a copy of the information that we hold about you.
+  * Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+  * Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records.
+  * Right to restriction of processing – where certain conditions apply to have a right to restrict the processing.
+  * Right of portability – you have the right to have the data we hold about you transferred to another organization.
+  * Right to object – you have the right to object to certain types of processing such as direct marketing.
+  * Right to object to automated processing, including profiling – you also have the right to be subject to the legal effects of automated processing or profiling.
+  * Right to judicial review: in the event that Organization Name refuses your request under rights of access, we will provide you with a reason as to why. You have the right to complain as outlined in clause 3.6 below.
 
-### General Uninstall Instructions
 
-If, for any reason at all, you decide you no longer want the downloaded software or offers on your computer, you can easily uninstall them at any time. We're sorry to see you go! 
 
-The following are general instructions regarding the software uninstallation process: 
+You can contact the GDPR Owner outlined in this document in writing to exercise any of these rights. Include your IP Address and GUID in your communication in order to exercise these rights.
 
-### For Firefox Users
+All of the above requests will be forwarded on should there be a third party involved (as stated in 3.3 above) in the processing of your personal data.
 
-      * Go to the orange "Firefox" menu located at the top left of your Firefox browser window
-      * Select "Add-ons" to open the Add-ons Manager
-      * Under "Extensions" click the name of the add-on that you would like to disable or remove
-      * Select "Disable" or "Remove" 
-      * Select the "Restart Now" link to restart Firefox
-      * That's it! You will now have successfully uninstalled the software. 
+###  3.6 Complaints 
 
-### For Windows 7 & Vista Users
+In the event that you wish to make a complaint about how your personal data is being processed by the Company (or third parties as described in 3.3 above), or how your complaint has been handled, you have the right to lodge a complaint directly with the GDPR Owner.
 
-          * Go to the "Start Menu" located at the bottom right of your screen
-          * Select "Control Panel" 
-          * Under "Programs" click "Uninstall a Program" 
-          * Right click on the program you wish to remove, then click "Uninstall/Change"
-          * Follow the uninstallation steps
-          * That's it! You will now have successfully uninstalled the software. 
+Our GDPR Owner can be contacted directly here
 
-### For Windows XP Users
+###  3.7 Privacy Policy
 
-              * Go to the �Start Menu� located at the bottom right of your screen
-              * Select �Control Panel� 
-              * Click "Add or Remove Programs"
-              * Click the program you wish to remove, then click "Remove" or "Change/Remove"
-              * Follow the uninstallation steps
-              * That's it! You will now have successfully uninstalled the software. 
+Read more about how and why we use your data here. 
 
-### For Windows 95, 98, Me, NT, 2000, and XP Users In Classic View
+##  4\. Privacy Policy 
 
-                  * From the "Start Menu", select "Settings", and then "Control Panel" 
-                  * Double-click the "Add/Remove Programs" icon
-                  * Select the program you wish to remove and click on the "Remove" or "Change/Remove" button
-                  * Follow the prompts to finish the uninstallation of the software
-                  * That's it! You will now have successfully uninstalled the software. 
+### Personal Data
 
-_*Note: After you have uninstalled the software, certain data such as folders, files, registry keys, and cookies, may remain on your computer. We recommend that you clear your cookies after uninstalling._
+Under the EU’s General Data Protection Regulation (GDPR) personal data is defined as: 
 
-If for any reason you are having difficulties uninstalling your software, please reach us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * “any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”.
 
-### How do I opt out? 
 
-We currently do not send messages to or collect data from users. If at any time we do contact you, it would only be for support reasons. If in that regard, you would like stop receiving messages or notifications, you can click on an unsubscribe link from any message we provide to no longer receive our messages. 
 
-If you would like to be removed from our system, you can reach us via email 
+### What Personal Data does the Company collect and Store?
 
-at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+The personal data we will collect from you is:
 
-### California Online Privacy Protection Act Compliance
+  * IP Address – sent to us from your browser when you access one of our websites.
+  * GUID – an identification string created upon installing one of our extensions.
 
-Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account via the "Sign In" link on the top right of the home page. Then click on 'Page Settings' and then go to the 'Account' section. 
 
-### Children's Online Privacy Protection Act Compliance
+### How we use your information
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+This privacy notice tells you how the Company will collect and use your personal data for delivery of our website and extension services.
 
-### Online Privacy Policy Only
+### Why does the Company need to collect and store personal data?
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+In order for us to provide you our website and extension services we need to collect personal data for geography detection and fraud detection purposes. In any event, we are committed to ensuring that the information we collect and use is appropriate for this purpose, and does not constitute an invasion of your privacy. 
 
-### Terms & Conditions
+### Will the Company share my personal data with anyone else?
 
-Please also visit our "Terms of Service" section establishing the use, disclaimers, and limitations of liability governing the use of our website at Terms Of Service. 
+We may pass your personal data on to third-party service providers contracted to the Company in the course of dealing with you. The personal data we may share is your IP Address.
 
-### Your Consent
+Any third parties that we may share your data with are obliged to keep your details securely.
 
-By using our site, you consent to our privacy policy. 
+### How will the Company use the personal data it collects about me?
 
-### Changes to our Privacy Policy
+The Company will process (collect, store and use) the information you provide in a manner compatible with the EU’s General Data Protection Regulation (GDPR). We will endeavor to keep your information accurate and up to date, and not keep it for longer than is necessary. 
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+We will use your IP Address to help prevent fraudulent use of our services. For example, we can detect for abusive use of our services from any particular IP address or set of IP addresses and use firewalls to block this traffic from accessing our services.
 
-### Contact Us
+We will use the GUID generated upon installation in ensure proper delivery of the extension services. The GUID reflects which extension was installed and which country it was installed in. We use this information to deliver the correct content for each extension.
 
-If there are any questions regarding this privacy policy you may Contact Us at: 
+### What non-personally identifiable information does the Company store?
 
-UberDownloads  
-588 Sutter St. #551  
-San Francisco, CA 94102  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Non Personally Identifiable Information is data that cannot be used to identify a specific person. Examples of NPII can include items such the type of Web Browser you are using, the version of the web browser, the Operating System and the country you are located in.
 
-### Last Updated: October 4, 2012
+The Company retains some non-personally identifiable information to improve our website and for statistical purposes.
 
+### Do you use cookies?
 
+A cookie is a small text file sent to your browser. Cookies are stored on your computer’s hard drive for record keeping purposes.
 
+When you visit our website, the Company may store a cookie on your computer; such cookie identifies that you previously visited this website, and allows us to analyze our web traffic to improve our services and better serve our visitors. 
+
+### Web beacons or Pixels
+
+Web beacons or Pixels are tiny graphics, similar in function to cookies. They track your online Web movement on our web pages and extensions. We embed Pixels invisibly on Web pages. They are about the size of the period at the end of this sentence. We do not tie the information gathered by Pixels to our customers’ Personally Identifiable Information.
+
+We may use web beacons on our site to help track consumers how consumers use our websites and extensions in order to help improve our website sites and extensions. We do not collect or store personal data with web beacons or pixels
+
+### Under what circumstances will the Company contact me?
+
+The Company will not contact you in the course of normal business. We do not collect any contact information in the course of normal business.
+
+If you contact us by phone or email – we may communicate with you via the email or phone number you have contacted us with.
+
+### Children's Online Privacy
+
+We do not knowingly collect information about children under the age of 13. We encourage parents and guardians to be familiar with the web sites that their children visit the Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children’s Online Privacy Protection Act of 1998 (the "Act"). For more information about the Act and children’s on-line privacy in general, visit the FTC’s web site at www.ftc.gov/privacy. For safety tips on privacy visit www.OnGuardOnline.gov.
+
+### Document Owner and Approval
+
+The GDPR Owner is the owner of this document and is responsible for ensuring that this record is reviewed in line with the review requirements of the GDPR. 
+
+### Policy Updates
+
+We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here.
+
+**Enforcement / Redress**
+
+If you feel that we have not followed our Privacy Policy, please let us know. Also, if you have any questions or concerns about our Privacy Policy, its implementation, or would like a written copy, please feel free to contact us at:
+
+Tightrope Interactive, Inc. 588 Sutter St #551, San Francisco, CA 94102
+
+Alternatively, if you would like, contact us via e-mail at webmaster@downloadadmin.com
