@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the windstarcruises.com privacy policy that was archived on 2018-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630165735id_/https%3A//www.windstarcruises.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the windstarcruises.com privacy policy that was archived on 2018-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181222032227id_/https%3A//www.windstarcruises.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]--><!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]--><!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><!--<![endif]--><head id="head"><title>
 	Privacy Policy - Windstar Cruises
@@ -44,6 +44,11 @@ jQuery.noConflict();
 <script type="text/javascript" src="/Windstar/js/querystring-0.9.0-min.js"></script>
 <script type="text/javascript" src="/Windstar/js/global.js?v=2"></script>
 <script type="text/javascript" src="/Windstar/js/bcFormValidation.js"></script>
+
+<script type="text/javascript" src="https://js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js"></script>
+<script defer="" type="text/javascript" src="/Windstar/js/GTMdataTrack.js"></script>
+<script type="text/javascript" src="/Windstar/js/formsDataVerificationAPIs.js"></script>
+<script type="text/javascript" src="/Windstar/js/windstar-forms2.js"></script>
 
 <!--[if lte IE 8]>
     <meta http-equiv="refresh" content="0;url=http://www.windstarcruises.com/outdated-browser/" />
@@ -278,10 +283,10 @@ submitVisitorDetails(rPIServer, 'e596cb96-5e4d-459a-9834-a10116b42d71', null, '0
   </div>
 </div>
 
-<div class="window with-bottom-pad flourish">
+<div class="window with-bottom-pad">
   
 
-  <div class="page content-container group content-row  first">
+  <div class="page content-container group content-row ">
         
     <div class="title-container left">
       <div class="title left-title">
@@ -541,7 +546,7 @@ Attn: Privacy
   </div>
 
 
-  <div class="page content-container group content-row  last">
+  <div class="page content-container group content-row ">
         
     <div class="title-container left">
       <div class="title left-title">
@@ -629,57 +634,79 @@ We may update this Cookie Policy from time to time. We will post the most curren
   	<footer>
 		
 		<div id="nav-footer-window" class="window">
-			<div class="page">
-				
-				<div id="back-to-top" class="mobile-only"><a href="#"><div class="arrow-up"></div>Back to Top</a></div>
-			<div id="nav-footer" class="no-mobile">
-                  <div class="footer-column" style="width:29%;">
-                    <h3>Cruise Services</h3>
-                    <ul>
-                      <li><a href="/request-a-call">Vacation Planner</a></li>
-                      <li><a href="https://booking.windstarcruises.com/">My Windstar</a></li>
-                      <li><a href="/request-a-brochure">Request A Cruise Brochure</a></li>
-                      <li><a href="/find-cruise">Find A Cruise</a></li>
-                      <li><a href="/destinations">Cruise Destinations</a></li>
-                      <li><a href="/charters-incentives">Charters &amp; Incentives</a></li>
-                    </ul>
-                  </div>
-                  <div class="footer-column" style="width:23%;">
-                    <h3>The Company</h3>
-                    <ul>
-                      <li><a href="/our-company/">About Us</a></li>
-                      <li><a href="/our-company/awards/">Awards</a></li>
-                      <li><a href="/our-company/careers/">Careers</a></li>
-                      <li><a href="/our-company/contact-us/">Contact Us</a></li>
-                      <li><a href="/our-company/world-offices/">World Offices</a></li>
-                      <li><a href="/press-media/">Press and Media</a></li>
-                    </ul>
-                  </div>
-                  <div class="footer-column" style="width:21%;">
-                    <h3>Our Yachts</h3>
-                    <ul>
-                      <li><a href="/yachts/wind-surf/">Wind Surf</a></li>
-                      <li><a href="/yachts/wind-star/">Wind Star</a></li>
-                      <li><a href="/yachts/wind-spirit/">Wind Spirit</a></li>
-                      <li><a href="/yachts/star-pride/">Star Pride</a></li>
-                      <li><a href="/yachts/star-breeze/">Star Breeze</a></li>
-                      <li><a href="/yachts/star-legend/">Star Legend</a></li>
-                    </ul>
-                  </div>
-                  <div class="footer-column" style="width:21%;">
-                    <h3>Other Resources</h3>
-                    <ul>
-                      <li><a href="http://agenthub.windstarcruises.com">Agent Hub</a></li>
-                      <li><a href="/privacy-policy">Privacy Policy</a></li>
-                      <li><a href="/accessibility">Accessibility</a></li>
-                      <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
-                      <li><a href="http://www.xanterra.com">Xanterra</a></li>
-                      <li><a href="http://blog.windstarcruises.com">Blog</a></li>
-                    </ul>
-                  </div>
-                  
-                  <div class="" id="footer-search">
-					<div id="p_lt_ctl02_Search_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl02_Search_btnImageButton')">
+			<div>
+				<div id="nav-footer" class="no-mobile">
+					<div class="column-wrap" style="max-width:960px;margin:0 auto;">
+						<div class="footer-column" style="width:29%;">
+							<h3>Cruise Services</h3>
+							<ul>
+							  <li><a href="/request-a-call">Vacation Planner</a></li>
+							  <li><a href="https://booking.windstarcruises.com/">My Windstar</a></li>
+							  <li><a href="/request-a-brochure">Request A Cruise Brochure</a></li>
+							  <li><a href="/find-cruise">Find A Cruise</a></li>
+							  <li><a href="/destinations">Cruise Destinations</a></li>
+							  <li><a href="/charters-incentives">Charters &amp; Incentives</a></li>
+							</ul>
+						</div>
+						<div class="footer-column" style="width:23%;">
+							<h3>The Company</h3>
+							<ul>
+							  <li><a href="/our-company/">About Us</a></li>
+							  <li><a href="/our-company/awards/">Awards</a></li>
+							  <li><a href="/our-company/careers/">Careers</a></li>
+							  <li><a href="/our-company/contact-us/">Contact Us</a></li>
+							  <li><a href="/our-company/world-offices/">World Offices</a></li>
+							  <li><a href="/press-media/">Press and Media</a></li>
+							</ul>
+						</div>
+						<div class="footer-column" style="width:21%;">
+							<h3>Our Yachts</h3>
+							<ul>
+							  <li><a href="/yachts/wind-surf/">Wind Surf</a></li>
+							  <li><a href="/yachts/wind-star/">Wind Star</a></li>
+							  <li><a href="/yachts/wind-spirit/">Wind Spirit</a></li>
+							  <li><a href="/yachts/star-pride/">Star Pride</a></li>
+							  <li><a href="/yachts/star-breeze/">Star Breeze</a></li>
+							  <li><a href="/yachts/star-legend/">Star Legend</a></li>
+							</ul>
+						</div>
+						<div class="footer-column" style="width:21%;">
+							<h3>Other Resources</h3>
+							<ul>
+							  <li><a href="http://agenthub.windstarcruises.com">Advisor Hub</a></li>
+							  <li><a href="/privacy-policy">Privacy Policy</a></li>
+							  <li><a href="/accessibility">Accessibility</a></li>
+							  <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+							  <li><a href="http://www.xanterra.com">Xanterra</a></li>
+							  <li><a href="http://blog.windstarcruises.com">Blog</a></li>
+							</ul>
+						</div>
+					</div>
+					<div id="footer_icons">
+						<div style="width:27%;" class="xan">
+							<div class="xantainer">
+								<a href="https://www.xanterra.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/xanterra.png"></a>
+							</div>
+						</div>
+						<div style="width:71%;" class="others">              
+							<a href=""><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/windstar.png"></a>
+							<a href="https://www.vbt.com" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/vbt.png"></a>
+                      <a href="http://www.grandcanyongrandhotel.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/tg.png"></a>
+                      <a href="https://www.countrywalkers.com" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/cw.png"></a>
+                      <a href="https://www.holidayvacations.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/hv.png"></a>
+                      <a href="https://www.oasisatdeathvalley.com" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/oasis.png"></a>
+                      <a href="https://www.thetrain.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/gcl.png"></a>
+                      <a href="http://www.glaciernationalparklodges.com/lodging/cedar-creek-lodge/" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/ccl.png"></a>
+                      <a href="https://www.trailridgegiftstore.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/rm.png"></a>
+                      <a href="https://www.mtrushmorenationalmemorial.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/mr.png"></a>
+                      <a href="http://www.zionlodge.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/zion.png"></a>
+                      <a href="https://www.yellowstonenationalparklodges.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/ys.png"></a>
+                      <a href="http://www.glaciernationalparklodges.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/glacier.png"></a>
+                      <a href="https://www.grandcanyonlodges.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/gc.png"></a>
+						</div>
+					</div>
+					<div class="" id="footer-search">
+						<div id="p_lt_ctl02_Search_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl02_Search_btnImageButton')">
 	
     <label for="p_lt_ctl02_Search_txtWord" id="p_lt_ctl02_Search_lblSearch" style="display:none;">Search for:</label>
     <input type="hidden" name="p$lt$ctl02$Search$txtWord_exWatermark_ClientState" id="p_lt_ctl02_Search_txtWord_exWatermark_ClientState"><input name="p$lt$ctl02$Search$txtWord" type="text" maxlength="1000" id="p_lt_ctl02_Search_txtWord" class="brochure-blue-input">
@@ -688,12 +715,18 @@ We may update this Cookie Policy from time to time. We will post the most curren
 
 </div>
 
-				  </div>
-                  <div class="adamessage">If you are using a screen reader and are having problems using this website, please call 800-258-7245 for assistance.</div>
-                  <div class="copyright">© 2018 Windstar Cruises. All Rights Reserved.</div>
-				</div></div>
+					</div>
+					<div class="adamessage">If you are using a screen reader and are having problems using this website, please call 800-258-7245 for assistance.</div>
+					<div class="copyright">© 2018 Windstar Cruises. All Rights Reserved.</div>
+				</div>
+				<div id="back-to-top" class="mobile-only">
+					<a href="#">
+						<div class="arrow-up"></div>Back to Top
+					</a>
+				</div>
+			</div>
 		</div>
-      <script src="//cdn.leadmanagerfx.com/js/mcfx/1208" type="text/javascript"></script>
+		<script src="//cdn.leadmanagerfx.com/js/mcfx/1208" type="text/javascript"></script>
 	</footer>
 </div>
 <div style="display:none">
@@ -793,7 +826,7 @@ setTimeout("showTFNs()",100);
 <!-- <img src="//id.travelspike.com/px?id=728238&t=2" width="1" height="1" style="display: none;" alt=""/> original site pixel -->
 <!-- End of Conversion Pixel -->
 <!-- Conversion Pixel - Windstar Site Pixel - DO NOT MODIFY - Secure version -->
-<img src="https://secure.adnxs.com/px?id=728238&amp;t=2" width="1" height="1">
+<img src="https://secure.adnxs.com/px?id=728238&amp;t=2" width="1" height="1" style="height:1px;">
 <!-- End of Conversion Pixel -->
 
   
@@ -895,7 +928,7 @@ WebForm_InitCallback();Sys.Application.add_init(function() {
 			<div id="menu">
 	<div id="vacation-planner">
 		<div id="vp-call">
-			<div class="no-mobile" id="vp-title">Call Your Travel Professional or a Windstar Vacation Planner</div>
+			<div class="no-mobile" id="vp-title">Call Your Travel Advisor or a Windstar Vacation Planner</div>
             <div class="mobile-only" id="vp-title">Vacation Planner</div>
 			<a style="visibility: visible;" id="vp-phone-number" href="tel:1-800-258-7245">1-800-258-7245</a>
 		</div>
@@ -931,6 +964,31 @@ WebForm_InitCallback();Sys.Application.add_init(function() {
         <a href="http://www.agentcenter.windstarcruises.com" target="_blank">Agent Center</a>
 	</nav>
     <div id="subnav-footer" class="mobile-only">
+      
+      <div id="footer_icons" class="mob">
+          <div class="xan">
+            <div class="xantainer">
+              <a href="https://www.xanterra.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/xanterra.png"></a>
+            </div>
+          </div>
+          <div class="others">              
+            <a href=""><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/windstar.png"></a>
+            <a href="https://www.vbt.com" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/vbt.png"></a>
+            <a href="http://www.grandcanyongrandhotel.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/tg.png"></a>
+            <a href="https://www.countrywalkers.com" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/cw.png"></a>
+            <a href="https://www.holidayvacations.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/hv.png"></a>
+            <a href="https://www.oasisatdeathvalley.com" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/oasis.png"></a>
+            <a href="https://www.thetrain.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/gcl.png"></a>
+            <a href="http://www.glaciernationalparklodges.com/lodging/cedar-creek-lodge/" target="_blank"><img class="tall" src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/ccl.png"></a>
+            <a href="https://www.trailridgegiftstore.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/rm.png"></a>
+            <a href="https://www.mtrushmorenationalmemorial.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/mr.png"></a>
+            <a href="http://www.zionlodge.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/zion.png"></a>
+            <a href="https://www.yellowstonenationalparklodges.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/ys.png"></a>
+            <a href="http://www.glaciernationalparklodges.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/glacier.png"></a>
+            <a href="https://www.grandcanyonlodges.com" target="_blank"><img src="https://media.windstarcruises.com/media/xanterra_icons/for_darkbg/gc.png"></a>       
+          </div>
+        </div>
+      
         <div>© 2018 Windstar Cruises.</div>
         <div>All Rights Reserved</div>
         <div style="margin:10px 0;"><a style="color:#fff;" href="/terms-conditions/">Terms &amp; Conditions</a></div>
@@ -949,11 +1007,13 @@ WebForm_InitCallback();Sys.Application.add_init(function() {
           <li><a href="/destinations/panama-canal/">costa rica &amp; panama canal</a></li>
           <li><a href="/destinations/italy/">italy</a></li>
           <li><a href="/destinations/mediterranean/">mediterranean</a></li>
+          <li><a href="/destinations/mexico/">mexico</a></li>
           <li><a href="/destinations/greek-isles/">greece</a></li>
           <li><a href="/destinations/northern-europe/">northern europe</a></li>
           <li><a href="/destinations/tahiti/">tahiti</a></li>          
           <li><a href="/destinations/themed-cruises/">themed cruises</a></li>
           <li><a href="/destinations/ocean-crossings/">ocean crossings</a></li>
+          <li><a href="/destinations/south-pacific/">south pacific</a></li>
           <li><a href="/destinations/star-collector-voyages/">star collector voyages</a></li>
           <li><a href="/destinations/cruise-tours/">cruise tours</a></li>
         </ul>
@@ -975,6 +1035,7 @@ WebForm_InitCallback();Sys.Application.add_init(function() {
           <li><a href="/why-windstar/services/">services</a></li>
           <li><a href="/why-windstar/amenities/">amenities</a></li>
           <li><a href="/why-windstar/enrichment-programs/">enrichment programs</a></li>
+          <li><a href="/why-windstar/beyond-the-expected">watch now</a></li>
         </ul>
         <a href="http://blog.windstarcruises.com" target="_blank">Blog</a>
 		<a href="/specials/">Specials</a>
