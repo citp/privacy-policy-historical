@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orcon.net.nz privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129052528id_/https%3A//www.orcon.net.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcon.net.nz privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222131300id_/https%3A//www.orcon.net.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Orcon
 
