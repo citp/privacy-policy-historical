@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628010416id_/https%3A//www.escapistmagazine.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222211315id_/https%3A//www.escapistmagazine.com/content/privacy) for the most accurate reproduction.*
 
 # The Escapist : Privacy Policy
 
@@ -115,7 +115,7 @@ Attn: California Privacy
 
 Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: [privacy@escapistmagazine.com](mailto:privacy@escapistmagazine.com)
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deaeacb7a8bfbda79ebbadbdbfaeb7adaab3bfb9bfa4b7b0bbf0bdb1b3)
 
 The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to "Do Not Track" browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
 
@@ -153,5 +153,5 @@ Attn: Privacy
 
 Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: [privacy@escapistmagazine.com](mailto:privacy@escapistmagazine.com)  
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#30404259465153497055435351405943445d5157514a595e551e535f5d)  
 
