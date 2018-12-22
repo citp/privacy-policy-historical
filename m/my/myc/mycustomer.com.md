@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630144312id_/https%3A//www.mycustomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222012252id_/https%3A//www.mycustomer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | MyCustomer
 
-Sift Limited ("we") are committed to protecting and respecting your privacy.
+<https://sift.cvtr.io/cookies/optout>Sift Limited ("we") are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions-of-use) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
@@ -162,9 +162,9 @@ We keep your personal information for as long as we need to for the purposes for
 
 **Your rights**
 
-You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cda5a8a1bd8da0b4aeb8beb9a2a0a8bfe3aea2a0f2beb8afa7a8aeb9f080b48eb8beb9a2a0a8bfe8fffd9cb8a8bfb4). Please state the site(s) it is in reference to.
+You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [help@mycustomer.com](mailto:help@mycustomer.com?subject=MyCustomer%20Query). Please state the site(s) it is in reference to.
 
-You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93fbf6ffe3d3feeaf0e6e0e7fcfef6e1bdf0fcfeace0e6f1f9f6f0e7aedeead0e6e0e7fcfef6e1b6a1a3c2e6f6e1ea). Please state the site(s) it is in reference to.
+You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [help@mycustomer.com](mailto:help@mycustomer.com?subject=MyCustomer%20Query). Please state the site(s) it is in reference to.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -230,8 +230,21 @@ For more details on Google Analytics please visit their website[ http://www.goog
 
     * Drupal (<http://drupal.com/>) is our content management system and sets cookies to store user initiated interface preferences. This helps make your visits easier and the site more useful to you.
 
+  * **Convertr**  
+We use this service to validate data received via forms for example company name and email address.  Convertr will set the following cookies:
 
 
+
+What it does | Duration | Mandatory | Action  
+---|---|---|---  
+The PHPSESSIONID cookie is a mandatory cookie for the Convertr platform to operate.  We use this cookie to give the user feedback messages around form errors and to temporarily persist application data to this user. | This cookie will last for a maximum of 24 hours or be automatically removed when you close your browser | Yes | [Opt-out](https://sift.cvtr.io/cookies/optout)  
+The cvtr cookie is used to track which data source your clickcame from.  We use this only to attribute your click & conversion to the correct data source within our platform for reporting. | 30 days | No | [Opt-out](https://sift.cvtr.io/cookies/optout)  
+  
+  * For more details on Convertr please visit their website <https://www.convertrmedia.com/>
+
+
+
+**Third Party Cookies**
 
 Third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
@@ -245,10 +258,10 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Complaints**
 
-If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7018151c00301d09130503041f1d15025e131f1d4f0305121a1513044d3d09330503041f1d15025542402105150209) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
+If you have any complaints about the way we use your personal information please contact [help@mycustomer.com](mailto:help@mycustomer.com?subject=MyCustomer%20Query) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#650d00091525081c061016110a0800174b060a085a1610070f00061158281c261016110a080017405755341000171c) and please state the website(s) it is in reference to.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [help@mycustomer.com](mailto:help@mycustomer.com?subject=MyCustomer%20Query) and please state the website(s) it is in reference to.
 
 Thank you for visiting our site.
