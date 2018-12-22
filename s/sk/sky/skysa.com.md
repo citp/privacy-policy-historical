@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623053937id_/http%3A//www.skysa.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222153107id_/http%3A//www.skysa.com/page/privacy) for the most accurate reproduction.*
 
 # Free Website Apps, Toolbar, Chat Room, Website IM, and more. Easy Copy and Paste HTML Code.
 
