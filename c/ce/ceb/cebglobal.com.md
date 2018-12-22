@@ -1,126 +1,478 @@
-> *The following text is extracted and transformed from the cebglobal.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922160702id_/http%3A//www.cebglobal.com/exbd/privacy/index.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebglobal.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222172153id_/https%3A//www.gartner.com/privacy) for the most accurate reproduction.*
 
-# CEB Privacy Policy | CEB
+# Privacy
 
-The CEB (“we” or “us”), is committed to protecting your personal information. This Privacy Policy (the "Policy") explains how we collect and use the personal information that you provide online to our websites (the "Sites"), as well as offline when participating in any Program run by CEB. The Sites do not include any CEB websites described herein that are subject to their own privacy policies.
+Gartner and its affiliates are committed to protecting your information. Please read this Privacy Notice (" **the Notice** ") carefully as it sets out important information relating to how we handle your personal information.
 
-You should read this Policy before you submit any personal information to us. By using our Sites or registering your interest in us online, you consent to the collection and use of your personal information as outlined in this Policy. If you do not agree with the content of this Policy, you should refrain from using our Sites.
+**Gartner companies issuing the Notice**
 
-### 1\. WHO WE ARE
+In this Notice, references to "we", "us" or "Gartner" are references to Gartner Inc. and all its group companies doing business under the Gartner name listed [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp). Certain Gartner products and/or services which may be linked through www.gartner.com, or Gartner group companies with different business models have their own applicable privacy policies, and this Notice does not apply to them: I[conoculture](https://iconoculture.cebglobal.com/popups/privacystatement/index.aspx) , [L2](https://www.l2inc.com/privacy-policy), and the Gartner Digital Markets Companies of [Capterra](https://www.capterra.com/legal/privacy-policy), [GetApp](https://www.getapp.com/privacy_policy) and [Software Advice](https://www.softwareadvice.com/). 
 
-CEB, which owns and operates the Sites, has its principal place of business at 1919 North Lynn Street, Arlington, Virginia 22209, United States. More information about CEB and its network of Programs can be found at [www.cebglobal.com](https://web.archive.org/exbd/index.page/).
+Gartner and all its group companies will have access to information on individuals covered by this Notice. A list of our entities can be found [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp).
 
-CEB’s Workforce Surveys & Analytics team provides employee survey, selection, and assessment services that help the world’s largest companies drive productivity through more effective management of talent. The Workforce Surveys & Analytics Privacy Policy can be found at [/exbd/workforce-surveys-analytics/privacy-policy/index.page?](https://web.archive.org/exbd/workforce-surveys-analytics/privacy-policy/index.page?).
+**How to Contact Us**
 
-CEB Iconoculture Consumer Insights is a future-focused line of comprehensive consumer insights and strategic advisory services. The services are presented on a separate website with its own privacy policy, which can be found at [https://iconoculture.com/Popups/PrivacyStatement/index.aspx.](https://iconoculture.com/Popups/PrivacyStatement/index.aspx)
+Questions, comments and requests regarding this Privacy Notice should be addressed to our Data Protection Officer through the following means:
 
-CEB’s SHL Talent Measurement Solutions subsidiary (“SHL”) is a leader in talent measurement solutions that drive better business results for clients through superior people intelligence and decisions. SHL maintains its own membership in the U.S.-E.U. and U.S.-Swiss Safe Harbor Programs. More information about SHL can be found at [www.shl.com](http://www.shl.com/).
+Global Data Protection Officer  
+Legal Department  
+56 Top Gallant Road  
+Stamford, CT 09602  
+USA  
+Email Address: [privacy@gartner.com](mailto:privacy@gartner.com)
 
-### 2\. PERSONAL INFORMATION WE COLLECT
+### Introduction
 
-In General. We may collect and store any personal information you enter on our website or provide to us in some other manner. Personal information is data that identifies you, or that can be combined with other information to identify or contact you, and includes (but is not limited to) your name, business or personal email address, job title, organization, organization’s physical address, direct telephone number, photograph, and biographical details. You are not obligated to provide us with any personal information, although you may need to provide some information to register as a member, submit a question, or engage in other transactions on our Site. We strive to limit the type of personal information that we collect to information that helps us accomplish our goal of providing first-class services.
+This Notice sets out how we will collect and use personal information, and the choices and rights available to you in connection with our use of your personal information.
 
-You may use the send-to-colleague functionality on some of our Sites to send your colleagues information from CEB or its subsidiaries. In order to fulfill this request, we will ask you for your and your colleagues' names and email addresses. We do not retain this data after the email is sent.
+This Notice describes our practices when using your information when you:   
 
-Restricted Areas. If you access the Restricted areas of any of our Sites, we may collect additional information relating to your participation in Programs run by CEB or its subsidiaries. We also may obtain information about your access to and use of research materials, decision-support tools, and other online and offline resources we offer.
 
-My Workspace. The My Workspace feature of the CEB website allows Members to save content available on the CEB website to the Member’s workspace; create folders for different types of content; add labels, tags, and notes to folders and saved content; and share content and notes with, and receive content and notes from, other members. CEB may review information about your use of My Workspace, including the content you save, folders you create, any tags, labels, or notes you add to your saved content or folders you have created, and any content that you share, and use such information to recommend content, tools, or other CEB services we think may be of interest to you. Information about your use of My Workspace, including the content you have saved and any tags, labels, or notes you have added to content you have saved or folders you have created, will only be accessible to CEB and will not be visible to or otherwise shared with other CEB Members unless you choose to share it.
-
-Information from other sources. We also may periodically obtain both personal and non-personal information about you from other sources. Examples of information we may receive include updated contact information and additional demographic information. Please note that CEB or its subsidiaries may have previously collected personal information relating to you at the time you or your organization enrolled in a Program run by CEB or any of its subsidiaries, as well as in the course of allocating and issuing to you a unique ID and password to access the restricted areas of our Sites.
-
-Information collected automatically. When you visit our website, we automatically collect and analyze certain information about your computer. This information includes but may not be limited to the IP address used to connect your computer to the Internet, information about your browser type and language, the date and time you are accessing our site, the content of any undeleted cookies that your browser previously accepted from us, and the referring website address.
-
-Use of cookies and other technologies. We may use (or may contract with service providers to use) various technologies to collect information about your activities on our Sites.
-
-  * _Cookies_. When you visit our Sites, we may assign your computer one or more "cookies." A cookie is a small text file that contains information that can later be read by us to facilitate your access to our Sites and personalize your online experience. For example, whenever you sign into our Sites, we will record your user ID in a cookie file on your computer. If applicable, we may also record your password in this cookie file, if you checked the box entitled "Save this password for automatic sign-in." Also, through the use of a cookie, we may automatically collect information about your online activity on our Sites, such as the web pages you visit, the links you click, and the searches you conduct. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our Sites. 
-  * _Other Technologies_. We may use standard Internet technology, such as Web beacons (also called clear GIFs or pixel tags), locally stored objects (often referred to as “flash cookies”) and other similar technologies, to deliver or communicate with cookies and track your use of our Sites and content presented via the Sites. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer and measure the overall effectiveness of our online content, advertising campaigns, and the products and services we offer through the Sites. 
+  1. express an interest in or have signed up for our events or products including newsletters, apps, extensions, webinars and e-books, activate your Gartner user account and/or license;
+  2. attend a Gartner event; or
+  3. visit our websites (including our public website and member-based websites) or social media sites.  
 
 
 
-Information Collected by Third Parties. Third parties, such as vendors, advertising entities, and business partners, may use cookies and other technologies (such as Web beacons) to collect information about your online activities. The purposes for collecting this information includes: to measure usage of our Sites; to analyze, modify, and personalize advertising content on our Sites; and to provide ads about goods and services we hope will be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected.
 
-### 3\. HOW WE USE THE INFORMATION WE COLLECT
+This Notice also applies to information we collect from you via our survey or diagnostic tools. You may be shown an additional confidentiality notice before participating in a survey or diagnostic. Please note that in cases where the terms of any such survey- or diagnostic-specific confidentiality notice conflict with any terms in this Notice, the survey or diagnostic-specific confidentiality terms will take precedence over the terms in this Notice.
 
-In General. We use the information we collect about you for the following purposes:
+If you participate in the Shared Services Leadership Council, please refer to the information in the section below for Shared Services-specific terms.
 
-  * to respond to inquiries that you submit to us via the online "contact us" feature and determine which Programs and services will help you achieve your business goals; 
-  * to send you information about our programs and services that you have requested from us; 
-  * to administer your membership in any of our Programs and facilitate your access to and provide you with resources, decision-support tools, and other materials available to you; 
-  * to attribute content that you make available through the Sites; 
-  * to communicate with you about surveys, marketing, promotions, executive-oriented events, educational forums, and other exclusive opportunities offered by CEB and its subsidiaries, partners, and affiliates, including information about other Programs in which you may be interested; 
-  * for the purposes for which you provided the information; 
-  * to customize the advertising and content you see, including the display of targeted advertisements; 
-  * to engage in research and analysis in order to maintain, protect and improve our Programs and services, as well as develop new services; 
-  * to generate anonymous and/or aggregated reporting; 
-  * to enforce the legal terms that govern your use of the Sites; 
-  * to enhance the our network and our products and services; and 
-  * to ensure the technical functioning of the Sites. 
+This Notice will apply whether you have provided the information directly to us or we have obtained it from a different source, such as a third party. ****
+
+### 1\. INFORMATION THAT WE COLLECT ABOUT YOU
+
+#### 1.1 Data collection and usage
+
+**Information we collect directly from you or from the following sources:**
+
+  * Third party referrals including from within the Gartner group;
+  * Social media sites and other public internet sites, such as LinkedIn; and
+  * Public resources such as telephone directories, newspapers, internet sites, commercially available marketing lists, registries or public records.
+
+  
+---  
+  
+**Categories of information we collect about you include:**
+
+| 
+
+  * Personal information such as name and title, contact details, company name, business title and email address;
+  * Communications with you;
+  * Information you provide when posting content on social media sites.
+
+  
+  
+**We use this information for certain activities, including:**
+
+| 
+
+  * Facilitating the business through communication with corporate clients and other business contacts, for example, to communicate about vendor briefings or details of events or webinars;  
+
+  * For internal analysis and research to help us improve our services;  
+
+  * To send marketing to business contacts regarding our services and products which may be of interest and to promote our business and brand;  
+
+  * Administering our website, investigating any complaints and providing customer service;  
+
+  * Monitoring social media content to manage relations with our clients and promote our business and brand.  
+
+
+  
+  
+**We use this information because:**
+
+| 
+
+  * It is necessary for performing our obligations, or exercising our rights, under our contracts with clients;
+  * It is necessary for compliance with any legal or regulatory obligations that we are subject to;
+  * We have a legitimate business interest to:
+    * Manage and promote our business and  brand;
+    * Provide and improve our services;
+    * Operate our business; and
+  * We have your consent (where required under applicable law) to use your information for marketing. Where we rely upon your consent, you have the right to withdraw their consent by the Data Protection Officer.
+
+  
+  
+**Information we collect when you attend one of our events**  
+  
+**Categories of information we collect about you include:**
+
+| 
+
+  * Information you provide us when registering your attendance such as name, business email address, profile photograph, job title, professional interests and requested accommodation;
+  * Geo-location information at the event if you attend an event where we are using RFID-enabled badges and you do not opt-out of using an RFID-enabled badge;
+  * Information collected when we record one of our events.
+
+  
+  
+**We use this information for certain activities, including:**
+
+| 
+
+  * Enabling you to attend our events;
+  * Facilitating the smooth running of events;
+  * Analysing attendee interests in and interactions with the event through geo-location data (in certain cases);
+  * Marketing our events through the use of video;
+  * Providing recordings of certain event sessions to interested business contacts, attendees and online through our website or Gartner social media sites.
+
+  
+  
+**We use this information because:**
+
+| 
+
+  * It is necessary for performing our obligations, or exercising our rights, under our contracts with clients;
+  * It is necessary for compliance with any legal or regulatory obligations;
+  * We have a legitimate business interest to:
+    * Manage and promote our business and brand;
+    * Operate our events business;
+    * Provide and improve our services;
+    * Collect relevant information for hospitality and health and safety purposes
+
+  
+  
+**Information we collect from users of:**
+
+  * **Our website (member-based and public);**
+  * **Our apps and Gartner Everywhere browser extension; and**
+  * **Gartner webpages on social media sites such as Facebook or Twitter.**
+
+  
+  
+**  
+Categories of information we collect about you include:**  
+
+
+| 
+
+  * Information you provide when you enter information on our website, such as when you provide contact details, answer online questionnaires, or feedback forms;
+  * Information you provide when you subscribe to email newsletters such as name, email address, job title;
+  * Information you provide when registering for an online or member account including name, business or personal email address, job title, organization, organization’s physical address, direct telephone number, photograph, and biographical details;
+  * Where you have an online or member account, log-in and similar credentials and information about use and preferences for these services;
+  * When you link your Gartner account with your LinkedIn profile, we collect information from your profile, including your profile photograph;
+  * URLs of webpages visited when you are using Gartner Everywhere.
+
+  
+  
+**
+
+We use this information for certain activities, including:
+
+**  
+
+
+| 
+
+  * Enabling you to access your online Gartner accounts across devices;
+  * Personalizing the experience of our website, extension and apps;
+  * Administering our website, extension and app;
+  * Enabling peer networking opportunities based on your background and experience;
+  * Providing better, more customized client service;
+  * Investigating any complaints;
+  * Monitoring social media content to manage relations with our clients and promote our business and brand.
+
+  
+  
+**We use this information because:**
+
+| 
+
+  * It is necessary for performing our obligations, or exercising our rights, under our contracts with clients;
+  * It is necessary for compliance with any legal or regulatory obligations;
+  * We have a legitimate business interest to:
+    * Promote our brand and business through our website and through social media tools;
+    * Monitor, investigate and report any attempts to breach the security of our website;
+    * Provide and improve our services including, but not limited to, the Gartner Everywhere extension and our apps;
+    * Operate our business;
+  * We have your consent (where required under applicable law) to use your information for marketing. Where we rely on your consent, you have the right to withdraw consent by [contacting us](mailto:privacy@gartner.com).
+
+  
+  
+**Information we collect about the use of our website and apps from users.**  
+  
+**Categories of information we collect about you include:**
+
+| 
+
+  * Information captured in our web logs such as device information (e.g. device brand and model, screen dimensions), unique identification numbers (e.g. IP address and device ID), and browser information (e.g URL, browser type, pages visited, date/time of access), geo-location and other device-specific information, Internet connection information;
+  * Advertising information (such as size/type of ad, ad impressions, location/format of ad, data about interactions with ad);
+  * Behavioural information (such as information on the behaviour or presumed interests of individuals which are linked to those individuals and may be used to create a user profile); and
+  * Information captured by our cookies (see our [Cookie Policy](https://web.archive.org/en/about/policies/privacy/cookie-policy)).
+
+  
+  
+**We use this information for certain activities, including:**
+
+| 
+
+  * Personalizing the experience of our website;
+  * Administering our website;
+  * Performing statistical and trend analysis to improve the user experience and performance of our website;
+  * Providing better, more customized client service; 
+  * Investigating any complaints.
+
+  
+  
+**We use this information because:**
+
+| 
+
+  * It is necessary for compliance with any legal or regulatory obligations;
+  * We have a legitimate business interest to:
+    * Monitor, investigate and report any attempts to breach the security of our websites;
+    * Improve the performance and user experience of our websites;
+    * Customize the client experience.
+
+  
+  
+#### 1.2 Special categories of information
+
+Certain types of personal information are more sensitive than others. This includes information about health, disability, race, ethnicity, criminal offences (or alleged offences), political opinions, biometric information or religion. It is voluntary for you to disclose this information, but where we collect and receive these types of information about you, we have identified the type of special information, how we will use it and why we will use it.  
+
+
+**Information we collect when you attend one of our events**  
+  
+---  
+  
+**Categories of information we collect about you include:**
+
+| 
+
+  * Dietary requirements that may imply specific religious beliefs or medical conditions.
+  * Any physical or mental disability or impairment you may disclose to us.
+
+  
+  
+**We use this information for certain activities, including:**
+
+| 
+
+  * Providing hospitality that is suitable for attendees of our events.
+
+  
+  
+**We use this information because:**
+
+| 
+
+  * You have consented by providing us with the information. Where we rely on your consent, you have the right to withdraw your consent by contacting the Data Protection Officer as set out above.
+
+  
+  
+#### 1.3 Further information
+
+Where legitimate interests are mentioned above, a legitimate interest will only apply where we consider that your interests or rights which require protection of your personal data do not override our legitimate interests. If you require further information regarding our legitimate interests as applied to your personal information, you may contact our Data Protection Officer.
+
+Our websites and online services are for individuals who are at least 18 years of age. Our online services are not designed to be used by individuals under the age of 18.
+
+In certain circumstances, if you do not provide personal information which is required (for example, in relation to activating your Gartner license), we will not be able to perform our obligations under the contract with you or may not be able to provide you with products and services. We will make it clear if and when this situation arises and what the consequences of not providing the information will be. 
+
+_Communication with Colleagues_
+
+You may use the send-to-colleague functionality on some of our sites or apps to send your colleagues information from Gartner or its subsidiaries. In order to fulfil this request, we will ask you for your and your colleagues' names and email addresses. We do not retain this data after the email is sent. Please be aware that your name and e-mail address may be included in the communication sent to your colleague.
+
+_My Favorites_
+
+The My Favorites feature of the member websites allows clients to save content available to the member’s Favorites list, add labels, tags, and notes to saved content, and share content and notes with, and receive content and notes from, other clients. We may review information about your use of My Favorites, including the content you save, folders you create, any tags, labels, or notes you add to your saved content or folders you have created, and any content that you share, and use such information to recommend content, tools, or other Gartner services we think may be of interest to you. Information about your use of My Favorites will only be accessible to Gartner and will not be visible to or otherwise shared with other Gartner clients unless you choose to share it.
+
+_Restricted Areas_
+
+If you access the Restricted Areas of any of our sites (via browser or a Gartner app), we may collect information about your access to and use of research materials, decision-support tools, and other online and offline resources we offer.
+
+### 2\. WHEN WE DISCLOSE YOUR INFORMATION
+
+We may disclose your personal information to third parties as follows:
+
+  * To Gartner group companies in order to process the data for the above mentioned purposes;
+  *  When we have your consent or authorization to do so, e.g., when you have allowed an event sponsor to scan your attendee badge;
+  * To third parties who work on our behalf to service or maintain business contact databases and other IT systems, such as suppliers of the IT systems which we use to process personal information, or who provide other technical services, such as printing;
+  * To third parties providing services to us who have a need to access your information, such as our professional advisors (e.g. auditors and lawyers) or venues for our events;
+  * To comply with applicable laws, protect rights, safety and property, and respond to lawful requests from public authorities (such as disclosing data in appropriate situations for national security or law enforcement purposes);
+  * Subject to applicable law, in the event that Gartner is merged, sold, or in the event of a transfer of some or all of our assets (including in bankruptcy), or in the event of another corporate change, in connection with such a transaction, or for pre-transaction review in relation to such transactions.
 
 
 
-Member Profiles and Peer Networking _._ On some of our Member Sites, you may be able to create an online profile, which may include information about your job title, employer, and your experience in different areas. This profile enables other Members participating in the Member program to determine whether the Member’s background and expertise might make him or her a useful contact on a particular issue. You can choose how much, if any, of your profile information is displayed in member listings or when you post discussion messages in the Peer Networking/Discussion areas, and whether to make your information searchable by other Members in your particular Member program. When you create an online profile and choose to (i) display any of your profile information in the Member listings or when you post discussion messages; or (ii) make your profile information searchable by other Members; you acknowledge and agree that you are making that information about you available to other Members, who might use that information to contact you via messages sent through the Member Site to obtain the benefit of your expertise.
+Your personal information may be shared if we anonymize and/or aggregate it, as in these circumstances the information will cease to be personal information.
 
-Discussion Forums. In the event that you post personal information in discussion forums or other areas of the our Sites allowing users to upload or post content, that information can be viewed by any user with access to those areas. We discourage users from posting personal information in this fashion.
+_Utilization Information_
 
-Utilization information. We may share information with our organizational Members about how their own employees use the Sites and the resources available to them through the Sites (e.g., how Member employees used certain features of the Sites, utilization trends, which features were most popular with the Member’s employees.)
+We may share information with our organizational clients about how their employees use the sites and the resources available to them through the sites (e.g. how employees used certain features of the sites, utilization trends, which features were most popular with the member’s employees).
 
-### 4\. CHOICES ABOUT THE USE OF YOUR INFORMATION
+### 3\. INTERNATIONAL TRANSFERS 
 
-We believe that it is important to give you the opportunity to choose how your personal information is collected and used. We will not use your personal information for any purposes other than those described in this Policy or any service-specific privacy notices without first obtaining your explicit consent to do so.
+Gartner is a global company and, as such, we may transfer personal information to other Gartner group companies or suppliers outside your home jurisdiction. Gartner will take all reasonable steps to ensure that personal information is protected and any such transfers comply with applicable law.
 
-Marketing Communications: We hope you find value in the communications we provide, and we will respect your wishes not to receive marketing communications. Please note that we will continue to send you member services emails and other service-related communications regardless of any such request. These service-related communications are an integral part of the Programs to which you subscribe. We will not share your information and personal details with third parties for their own promotional or marketing purposes without giving you a choice about such sharing.
+Gartner may transfer and maintain the personal information of individuals covered by this Notice on servers or databases outside the European Economic Area (EEA). Some of these countries may not have the equivalent level of protection under their data protection laws as in the EEA.
 
-### 5\. DISCLOSURES OF PERSONAL INFORMATION
+The countries to which we transfer data outside of the EEA may include any of the countries in which Gartner does business. A list of Gartner office locations can be found [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp).
 
-We may share your personal information with other companies or individuals in the following instances:
+All Gartner entities have signed an Intragroup Agreement containing the European Union (“EU”) Commission Approved Standard Contractual Clauses for the transfer of data outside the European Economic Area. All Gartner entities have the same technical, physical, and administrative security controls and are required to comply with our data protection policies and procedures, applicable laws, and the terms of our client and member contracts governing the collection and use of information.
 
-  * When we engage service providers and third-party agents to process personal information on our behalf. When we do so, we contractually require these service providers to implement adequate technological and organizational security and privacy measures before they can receive any personal information from us to ensure that your personal information will be appropriately protected and only used for the purposes of performing the services for us. 
-  * For legitimate business purposes connected with the provision of goods, services, and benefits for customers of CEB or its subsidiaries. Where information is shared with a third party for a legitimate business purpose, we will seek reasonable assurances from that third party that the personal information will be processed for legitimate reasons and appropriately protected. 
-  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. 
-  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of CEB or its subsidiaries, our customers, or others; and in connection with our Terms of Service and other agreements. 
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+**Privacy Shield.**  Gartner, Inc. and its wholly-owned subsidiary CEB Inc. comply with the EU-US and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union and Switzerland to the United States, and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Gartner has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+Gartner’s accountability for information that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the information on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+### 4\. RETENTION PERIODS
+
+We will retain your personal information for as long as required to perform the purposes for which the data was collected, depending on the legal basis for which that data was obtained and/or whether additional legal/regulatory obligations mandate that we retain your personal information.  We may also retain personal information for the period during which a claim may be made in relation to our dealings with you.  
+
+In general terms, this will mean that your personal data will be kept for the duration of our relationship with you and:
+
+  * the period required by tax and company laws and regulations; and
+  * as long as it is necessary for you to be able to bring a claim against us and for us to be able to defend ourselves against any legal claims. This will generally be the length of the relationship plus the length of any applicable statutory limitation period under local laws. 
 
 
 
-We also may share aggregate or anonymous information with third parties, including advertisers, investors, and partners. Aggregate or anonymous information does not contain any personal information, and its use and disclosure is not subject to the terms of this Policy.
+### 5\. CHOICES ABOUT YOUR INFORMATION
 
-### 6\. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
+We believe it is important to give you choices about the use of your information. We will use your information as described in this Policy (or any other event- or service-specific Privacy Policy). If we want to use your information for a purpose not described in this Policy, we will first get your consent to do so.
 
-We operate the Sites in the United States and, depending on your country of residence; the submission of personal information to our Sites may involve some transfer of personal information to the United States. In addition, we may transfer personal information to our subsidiaries or affiliated companies in India, the United Kingdom, Germany, Singapore, and/or Australia for certain processing operations. You should be aware that privacy laws in the United States, India, Singapore, Australia, Germany, and the United Kingdom may not provide protections equivalent to those of your country of residence. We have taken steps to ensure that appropriate levels of protection necessary to maintain the security and quality of your personal information are in place and that any transferred data is processed only in accordance with this Policy.
+_Marketing Communications_
 
-### 7\. ACCESS AND CORRECTION OF PERSONAL INFORMATION
+We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address [here](mailto:privacy@gartner.com). If you gave us your email address to receive marketing communications, you can opt out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will _not_ sell or share your information or information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
 
-In some cases, Members can directly access their online profiles and other personal details, enabling them to amend, update or add information by themselves at any time by logging into the relevant Program webpage.
+_Gartner Everywhere_
 
-You can also request access to any personal information that we hold about you and ask us to correct any personal information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personal information in our possession, please email us at [privacy@cebglobal.com](mailto:privacy@cebglobal.com) or contact:
+Gartner Everywhere is an extension for Google Chrome that allows clients to customize their Gartner experience by providing them with Gartner research applicable to the websites they are browsing in real-time via an easy to access pop-up in their browser. You can easily disable the extension and its collection of URLs by doing the following: 
 
-Privacy & Data Protection Officer  
-CEB  
-1919 North Lynn Street  
-Arlington, Virginia 22209, USA
+  1. Click the extension Gartner Everywhere button on the top of the browser window.
+  2. Click the green toggle button to switch off.
+  3. Select the duration that you would like to switch off the extension for.
+  4. The extension will be automatically activated after the selected time period.
 
-### 8\. INFORMATION SECURITY
 
-We have implemented reasonable technical and organizational security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of personal information. Unfortunately, no data transmission over the Internet can be guaranteed to be entirely secure, and we assume no liability for any damage suffered by you caused by the interception, alteration, or misuse of information during transmission.
 
-We make reasonable efforts to restrict access to personal information to employees, contractors, and agents who need to know that information in order to operate, develop, or improve our Programs and services. We subject our third-party agents to contractual controls to ensure that they apply suitable protections to any personal information they access or receive from us.
+_Events_
 
-Please note that the effective security with respect to our Sites depends, in part, on you ensuring that any IDs and passwords that you have been issued by us are kept confidential and secure and that you adhere to the restrictions on password and ID-sharing set forth in our Terms of Service.
+When you attend one of our events, you will be issued an events badge with an RFID chip, which has a unique identifier that can be scanned from various distances. If you select an RFID-enabled badge, we may use it to track your location around our event sites so we can better understand your areas of interest. If you do not want us to track your location, you may obtain a non-RFID enabled badge by asking Events staff at the registration desk.
 
-### 9\. OTHER WEBSITES
+You may choose to share your contact details with our event sponsors by allowing them to scan your event badge. Our sponsors’ use of any information you choose to share with them in this way is governed by each sponsor’s Privacy Policy.
 
-To provide increased value to users of our Sites, we may provide links to other websites or resources that are not part of the network of Programs run by CEB or its subsidiaries. We do not exercise control over these websites or their privacy practices, and any information you provide to those sites is subject to the Privacy Policies of those sites, and not this Policy.
+_California Online Privacy Protection Act Notice Concerning Do Not Track Signals_
 
-### 10\. SAFE HARBOR
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click [here](http://allaboutdnt.com/).
 
-We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, and have certified that we adhere to the Safe Harbor Privacy Principles. We agree that any disputes regarding our privacy policies and related actions regarding data from Europe can be heard by the European Data Protection Authorities or the Swiss Federal Data Protection and Information Commissioner, and we will be subject to the determinations of those bodies. Any complaints about our adherence to the practices described in this privacy policy statement or non-compliance with the Safe Harbor Principles should first be addressed to CEB’s Privacy & Data Protection Officer at [privacy@cebglobal.com](mailto:privacy@cebglobal.com). To learn more about the Safe Harbor program and to view our certification information, please visit <http://export.gov/safeharbor/>.
+### 6\. DATA SUBJECT RIGHTS
 
-### 11\. CHILDREN
+You have certain rights, in certain circumstances, in relation to your personal information. A summary of each right and how an individual can take steps to exercise it is set out below. If you wish to exercise any of these rights, please contact us using the contact details specified above for the Data Protection Officer. Such requests should include appropriate identity verification information (such as your name, address, email address or other information reasonably required).
 
-Our Sites contain business-related content and are specifically aimed at and designed for use by adults. We do not knowingly solicit or collect personal information from or about individuals under the age of 18 years.
+Where we receive a request to exercise one of these rights, we shall provide information on the action we take on the request without undue delay and in any event within one month of receipt of the request. This may be extended by a further two months in certain circumstances, for example where requests are complex or numerous.
 
-### 12\. CHANGES TO THIS POLICY
+The information will be provided free of charge, except where requests are manifestly unfounded or excessive, in particular because of their repetitive character. In these circumstances we may charge a reasonable fee or may refuse to act on the request. We will advise you of any fees prior to proceeding with a request.
 
-This Policy may change from time to time. If we make material changes to this Policy, we will post any Policy changes on this page. If we feel it appropriate, we will provide a more prominent notice (including, for certain services, email notification). Your continued use of our Sites following such posts or notices will signal your acceptance of such changes.
+We may ask for additional information to verify your identity before carrying out a request.
 
-**Last Updated** : February 24, 2014
+Where we do not carry out a request, we shall inform you without delay and within one month of receipt of the request, providing our reasons for not taking the action requested.
+
+**Right**
+
+| 
+
+**How you can exercise the right**  
+  
+---|---  
+  
+**Right to access and/or correct your personal information**  
+
+
+| 
+
+You have the right to access personal information we hold about you, as well as to be provided with a copy of the information (in most circumstances). You also have the right to correct any information we may hold about you that is inaccurate.  
+  
+  
+**Right to restrict use of your personal information**  
+
+
+| You have the right to ask us to restrict processing of your personal data where one of the following applies:
+
+  * The processing is unlawful but you want us to restrict use of the data instead of deleting it;
+  * Where you contest the accuracy of your personal data, the restriction will apply until we have verified the accuracy or corrected your personal data;
+  * We no longer require the personal data for the purposes of processing, but you still require us to keep it in connection with a legal claim;
+  * You have exercised your right to object to the processing. The restriction will apply until we have taken steps to verify whether we have compelling legitimate grounds to continue processing.
+
+  
+  
+**Right to request deletion of your personal information**  
+
+
+| 
+
+You have the right to ask us to delete your personal information in certain circumstances. Please note that if you want us to refrain from sending you marketing communications, the best way to ensure that is to allow us to retain your information with a “do not contact” tag so we know not to contact you in the future.
+
+There are also certain exceptions where we may refuse a request for erasure, for example, where the personal data is required to comply with a legal obligation or for the establishment, exercise or defense of legal claims.  
+  
+**Right to object to processing of your personal information**  
+
+
+| 
+
+You may object to our use of your personal information for marketing purposes.
+
+You may also object to processing of your personal data in cases where we have used legitimate interests as the basis for processing. In such cases, we will stop processing your personal data until we verify that we have compelling legitimate grounds for processing that outweigh your interests, rights, and freedoms in asking us to stop processing the data, or in limited cases where we need to continue processing the data for the establishment, exercise, or defence of legal claims.  
+  
+  
+**Right to data portability  **  
+
+
+| 
+
+In most cases, you have the right to receive all personal data you have provided to us in a structured, commonly used, and machine-readable format and to transmit this data to another data controller, where technically feasible.  
+  
+**Right to lodge a complaint with a supervisory authority**  
+
+
+| 
+
+If you object to our processing of your personal data, you have the right to complain to the data protection authority (“DPA”) in the country where you reside, where you work, or where an alleged infringement of data protection laws has taken place.
+
+We agree that any disputes regarding our privacy policies and related actions regarding personal information from data subjects in the EU and Switzerland can be heard by a DPA and we will be subject to the determinations of those bodies (as further explained in the Privacy Shield Principles). Please contact us to be directed to the relevant DPA.
+
+In certain circumstances after they have first tried to resolve the dispute directly with us and with the DPA, data subjects in the EU and Switzerland may be able to invoke binding arbitration of disputes by the Privacy Shield arbitration panel.  
+  
+### 7\. SECURITY
+
+We have implemented administrative, technical, and physical security measures to help prevent unauthorized access. Despite these measures, no data transmission over the Internet can be entirely secure, and we cannot and do not guarantee or warrant the security of any information you transmit via our websites or apps. Please note that you are responsible for maintaining the security of your credentials used to access any Gartner service or account, and you must report suspected unauthorized activity to us.
+
+We make efforts to restrict access to information to only those employees, contractors, and agents who need such access in order to operate, develop, improve, or deliver our programs, products, and services.
+
+### 8\. COOKIES AND SIMILAR TECHNOLOGIES
+
+A cookie is a small text file which includes a unique identifier that is sent by a web server to the browser on your computer, mobile phone or any other internet enabled device when you visit an on-line site. Cookies and similar technologies are widely used to make websites work efficiently and to collect information about your online preferences.  For simplicity, we refer to all these technologies as "cookies".
+
+Some of our website pages may contain electronic images known as web beacons (also known as clear gifs, tags or pixels) that allow us to count users who have visited our pages. Web beacons collect only limited information, e.g. a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any information that could directly identify you.
+
+More detailed information on how we use cookies and other web technologies can be found [here](https://web.archive.org/en/about/policies/privacy/cookie-policy).
+
+### 9\. SHARED SERVICES
+
+The Shared Services Leadership Council (“Shared Services”) prides itself in facilitating clients’ connections with one another. If you use the Shared Services site, you agree to provide and share with other Shared Services users certain pieces of contact information which may include your name, job title, organization's name, business email address, phone number, and your business address.
+
+Shared Services encourages clients to participate in surveys, including Process Surveys and ASK Questions. If you participate in a Process Survey, your company name will be attributed to the quartile in which your response to the question falls and/or your response to the question. If you use the ASK question feature, your company name and individual name will attributed to that question. If you respond to an ASK Question, your company name and individual name will appear next to your response, and/or to any comments that are added to an ASK question. 
+
+### 10\. MISCELLANEOUS
+
+#### 10.1 Links
+
+To provide increased value to you, we provide links to other websites or resources that are not part of the products, programs, or services run by Gartner. We do not control these websites or their privacy practices, and any information you provide to these sites is subject to the Privacy Policies of those sites and not this Notice.
+
+#### 10.2 California Privacy Rights
+
+Subject to certain limits under California Civil Code § 1798.83, California residents may request certain information regarding our disclosure of information to third parties or their direct marketing purposes. To make such a request, please contact us as specified at the beginning of this Privacy Policy.
+
+#### 10.3 Changes to this Notice
+
+From time to time, we may change and/or update this Notice. If this Notice changes in any way, we will post an updated version on this website. We recommend you regularly review this website to ensure that you are always aware of our information practices and any changes to such. Any changes to this Notice will go into effect on posting to this page.
+
+#### How to Contact Us
+
+Questions, comments and requests regarding this Privacy Notice should be addressed to our Data Protection Officer through the following means:  
+
+
+Global Data Protection Officer  
+Legal Department  
+56 Top Gallant Road  
+Stamford, CT 06902  
+USA  
+Email Address: [privacy@gartner.com](mailto:privacy@gartner.com)
