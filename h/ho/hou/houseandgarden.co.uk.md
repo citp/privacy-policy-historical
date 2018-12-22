@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseandgarden.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626051408id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseandgarden.co.uk privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222215549id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Condé Nast Publications Ltd.
 
@@ -175,7 +175,7 @@ We may share your personal information:
 
 ### Service providers
 
-We work with service providers to perform some tasks on our behalf. This might include: analysis, payments, marketing, etc, and we may share your personal data with these providers to perform the necessary tasks. However, they are obliged not to disclose or use it for any other purposes. Any third-party processing of your data on our behalf will be subject to security and confidentiality obligations consistent with this privacy notice and applicable law.
+We work with service providers to perform some tasks on our behalf. This might include: analysis, payments, marketing, etc and including tagging and blending non-personal site user data to provide aggregate demographics on our audiences. We may share your personal data with these providers to perform the necessary tasks. However, they are obliged not to disclose or use it for any other purposes. Any third-party processing of your data on our behalf will be subject to security and confidentiality obligations consistent with this privacy notice and applicable law.
 
 ### Customer research & insight
 
@@ -205,7 +205,7 @@ If you are aged between 13 and 18, we request that you seek your parent or guard
 
 ## 6\. How long will we keep data?
 
-We will retain your personal information for as long as necessary to provide the individual service/s you have requested, while taking into account any legal requirements and tax and accounting rules.
+We will retain your personal information for as long as necessary to provide the individual service/s you have requested, while taking into account any legal requirements and tax and accounting rules. We do not store customer data for longer than 6 years after the last purchase.
 
 Where you sign up to receive email marketing from us we will retain your e-mail address after you ‘opt-out’ of receiving emails to ensure that we continue to honour and respect that request. To unsubscribe from marketing emails at any time, please click on the unsubscribe link at the bottom of any marketing email and update your account preferences. You may also use our [preference centre](https://web.archive.org/preferences/) to update what postal or email communications you wish you receive from us.
 
@@ -250,7 +250,7 @@ As a consumer, you have rights when it comes to your data:
 
 
 
-If you are unhappy with the way we have collected and are using your personal data please do not hesitate to contact us, using the contact details below.
+If you are unhappy with the way we have collected and are using your personal data please do not hesitate to contact us, using the contact details below or by contacting our Data Protection Officer on [dpo@condenast.co.uk](mailto:dpo@condenast.co.uk).
 
 You have the right to complain to a supervisory authority. In the UK this is the [Information Commissioner's Office.](https://ico.org.uk/)
 
