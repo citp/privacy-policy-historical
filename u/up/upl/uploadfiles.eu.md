@@ -1,54 +1,59 @@
-> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506234418id_/http%3A//uploadfiles.eu/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222234434id_/https%3A//modsbase.com/pages/privacy.html) for the most accurate reproduction.*
 
-# UploadFiles.eu
+# Modsbase.com - Base of your Mods
 
-## Privacy Policy
+Modsbase.com is a provider of online file storage service. Your use of the www.Modsbase.com site is governed by Modsbase Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website. 
 
-Uploadfiles.eu (we or us) is a provider of online file storage service. Your use of the Uploadfiles.eu site is governed by Data File Terms and Conditions and this Privacy Policy.   
-The purpose of this Privacy Policy is to respect the privacy of the visitors on its website, included as: to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website. We may update this policy from time to time, so we ask you to check the policy regularly. 
+Modsbase.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate. 
 
-Managing Your Information Preferences   
-You can check, review, correct, update, or change your Personal Information by changing the relevant setting in your Uploadfiles.eu profile or account (if you have one), or by e-mailing us at info@Uploadfiles.eu. Please note that it is your responsibility to keep the password confidential, therefore do not share it with anyone. You are entirely responsible for keeping your password inviolable. Do not use the same premium download account at the same time on other computers. If the offense we will set your account to premium expired. 
+**Your information during the registration**
 
-Information We Collect and How We Collect It   
-Personal Information.   
-You can use certain features of the Service without providing us with any information that identifies or may be used to directly identify you ("Personal Information"). We collect Personal Information only if you choose to share it with us when you register with Uploadfiles.eu, including your username, e-mail address. The decision to provide this information is optional. Uploadfiles.eu does not rent, sell, or share personal information about you with non-affiliated companies. 
+Modsbase.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. Modsbase.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
 
-Usage Data.   
-We automatically collect usage information that does not directly identify an individual user ("Usage Data"), such as: the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the links you use, and the time and duration of your use of the Service... Usage Data to help us understand how people use the Service, and to enhance the services we offer. For example, we use IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
+**Your account password**
 
-Cookies and Web Beacons.   
-We do not use Cookies (a small text file placed on your computer to identify your computer and Web browser when you use the Service) or Web beacons (an electronic file placed on a website that monitors usage) to collect Personal Information. We use cookies and Web beacons to track and analyze preferences of our users and, as a result, improve the quality of the Service. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). No other website can access any information about you from the cookies we may store on your local computer. Most Web browsers are initially set up to accept cookies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie. Of course, We do not share cookies or any other type of information with any other companies. 
+Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving Modsbase.com site. You are solely responsible for keeping your password inviolable. 
 
-How We Use Information and When We May Share Information   
-Generally.   
-We generally use Personal Information only for purposes of providing and communicating with you about the Service, including responding to your requests, making payments, notifying you of new products or services, and otherwise communicating with you about the Service. We will not disclose Personal Information to third parties without your consent, except as explained in this Privacy Policy. 
+**Certain exceptional disclosures**
 
-Ad Networks.   
-We may work with third-party advertising and marketing companies ("Ad Networks"). These companies may collect and use information about your use of the Service in order to provide advertisements about goods and services that may be of interest to you. Advertisements may be shown via the Services, or third-party websites. These companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons to collect information about your use of the Service, of other Internet services and websites. 
+We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials. 
 
-Google Analytics.   
-We also uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies," which are text files placed on your computer, to help Uploadfiles.eu analyze how users use our Service. We use this information to help us understand how people use the Service, and to enhance the services we offer. 
+**Your account at our service**
 
-Data Retention.   
-We will hold your Personal Information on our systems for as long as is necessary for the relevant activity. If you cancel your registration and your account is deleted Uploadfiles.eu will no longer use the Personal Information, but for infoistration purposes it will stay on our system for a period of one year before being deleted. 
+When you upload a file to our server, we give you a unique URL to download the file. We do not share download URLs with anyone, however we will provide the file to any browser requesting the file by its unique URL address. We reserve a right to review your account content for violations of our Terms and Conditions. If we determine that your files violate the Terms and Conditions, we may ban your account and will attempt to contact you. We reserve the right to cancel your account and remove the files from our servers. We do not own your account content, and will access your files for troubleshooting only. All your files are allowed to be downloaded only according to the security settings you define. We guarantee safety of your files, for that purpose we make backups of all files. 
 
-Compliance with Laws and Law Enforcement.   
-Uploadfiles.eu cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate for any of the following reasons: to respond to legal requests (including court orders and subpoenas); to protect the safety, property, or rights of Uploadfiles.eu, any our members, or any third party; to prevent or stop any illegal, unethical, or legally actionable activity; or to comply with the law. 
+**Using cookies**
 
-Be Careful When You Share Information   
-Please be aware that whenever you share information in an uploaded file via the Service, that information may be accessed by the recipient. That means that anyone with access to the shared file can potentially use it for any purpose, including potentially uploading, storing, or sharing files, sending unsolicited communications, or redirecting payments.   
-We reserve a right to review your account content for violations of our Terms and Conditions. If we determine that your files violate the Terms and Conditions, we may ban your account and will attempt to contact you. We reserve the right to cancel your account and remove the files from our servers. 
+Modsbase.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie. 
 
-Security   
-How we protect your information.   
-Uploadfiles.eu is very concerned about safeguarding the confidentiality of your Personal Information. We employ reasonable physical and electronic measures designed to protect your information from unauthorized access. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Service, we cannot and do not guarantee the security of any information you upload, store, share, transmit, or provide on or through the Service, and you do so at your own risk.   
-Credit card security.   
-All purchases on Uploadfiles.eu are handled by third party card processing company. We do not arrange and/or save numbers or any information from your credit cards. Please note that when you make payments to Uploadfiles.eu, the information you provide is submitted to a third-party payment provider. It is not received or maintained by Uploadfiles.eu, except that your e-mail address will automatically be provided to us when you first pay for a Premium account, so that we can establish your account and provide you with the special features offered to Premium account holders. 
+We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies. 
 
-Manage Content and Links to Other Websites   
-You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing linklists or file download links. We do not own your account content, and will access your files for troubleshooting only. All your files are allowed to be downloaded only according to the security settings you define. We guarantee safety of your files, for that purpose we make backups of all files.   
-Our Service may also contain links to other websites, or allow others to send you such links. The use of the Service to provide a link to material on Uploadfiles.eu servers or to a third party's website does not mean that we endorse it or that we are affiliated with it. We do not exercise control over the content uploaded and shared using the Service. We also do not exercise control over third-party websites. You access such content or third-party websites at your own risk. You should always read the privacy policy of a third-party website before providing any information to the operator of the website. 
+**Third party cookies**
 
-Children's Privacy   
-We do not knowingly collect Personal Information from children under the age of 13. By using our Services, you promise that you are at least 13 years old. If we become aware that a user is under the age of 13, we will terminate any account that user may have with Uploadfiles.eu. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records. 
+In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
+**Access to your information**
+
+You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing linklists or file download links. 
+
+If you want to change any personal information provided to us, feel free to contact our support team at Array. 
+
+**How we protect your information**
+
+Any information collected and processed within Modsbase.com is treated with the utmost confidentiality. Modsbase.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to Modsbase.com with EssentialSSL 256-bit SSL certificate. 
+
+**Credit card security**
+
+All purchases on Modsbase.com are handled by third party card processing company. Modsbase.com does not arrange and/or save numbers or any information from your credit cards. 
+
+**External links**
+
+If any part of the Modsbase.com website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information. 
+
+Contact information 
+
+**Should you have any questions or concerns regarding this Privacy Policy, please contact us.**
+
+
+  
+
