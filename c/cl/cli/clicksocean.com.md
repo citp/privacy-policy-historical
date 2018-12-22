@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksocean.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116144548id_/http%3A//clicksocean.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksocean.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222184328id_/http%3A//clicksocean.com/privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
