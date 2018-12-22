@@ -1,64 +1,141 @@
-> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014152455id_/http%3A//www.apl.com/help_center/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222072210id_/https%3A//www.apl.com/legal-terms/privacy-policy) for the most accurate reproduction.*
 
-# APL: Privacy Policy
+# Privacy Notice | APL
 
-Privacy Policy 
+## Privacy Notice
 
-**Contents:**[ Definition |Information Collected on the Site](http://www.apl.com/help_center/html/privacy_policy.html#information) | [Use of Cookies and Log Files](http://www.apl.com/help_center/html/privacy_policy.html#useofcookies) | [Security](http://www.apl.com/help_center/html/privacy_policy.html#security) | [Provision of Information to Others](http://www.apl.com/help_center/html/privacy_policy.html#provision) | [Links to Other Sites](http://www.apl.com/help_center/html/privacy_policy.html#links) | [Additional Information](http://www.apl.com/help_center/html/privacy_policy.html#additional) | [Updating Your Personal Information, Opt Out Policy](http://www.apl.com/help_center/html/privacy_policy.html#updating) | [Contact Us  
-](http://www.apl.com/help_center/html/privacy_policy.html#contact)  
-**Definition:** The terms “we”, “us” and “our” are used to refer to Neptune Orient Lines Limited (NOL) and the group of companies constituting its direct and indirect subsidiaries worldwide, including without limitation, American President Lines, Ltd, APL Co. Pte Ltd, APL Logistics Ltd and Eagle Marine Services, Ltd. 
+Personal data protection legislation aims at guarantying that individuals have a high level of control of their private life and personal data. As of May 2018, [Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679) (the General Data Protection Regulation or "GDPR") and the 2002/58/EC Directive (together, and with any other applicable European regulations applicable to the processing and protection of Personal Data) define the applicable legal framework in order to guarantee this level of protection for personal data.
 
-We are committed to maintaining the privacy of users who access our Web site (the "Site"). This Privacy Policy Statement (the "Privacy Policy") explains the types of information we gather and what we do with it. By using the Site, you agree to the terms and policies described in this Privacy Policy.
+The CMA CGM group undertakes to comply with the European Data Protection Regulations. To that extent, the terms “we”, “us”, “our” or “CMA CGM” are used to refer to CMA CGM S.A. (“CMA CGM”) and the group of companies constituting CMA CGM’s direct or indirect subsidiaries worldwide, including without limitation, ANL, APL and CNC. 
 
-**1\. Information Collected on the Site**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-We do not request or require any information from anonymous visitors to the Site. We collect personal information only from those users who wish to conduct business transactions on the Site and who have registered on the Site ("Registered Users"). Personal information means information about an identifiable individual and may include your name, address, telephone and fax number, e-mail address, financial information, such as a credit card number and employment-related information, such as may be found on a resume or job application. Personal information does not include business contact information (e.g. office address, telephone number) in those jurisdictions which do not recognize such information as being personal information. You are responsible for maintaining the confidentiality of any User ID which may be assigned to you, as well as any account number, account name, or passwords, if applicable, for the services you utilize through the Site.
+It is equally important that you understand what personal data is collected and how it is used. As such, this Notice is intended to provide you with these facts.
 
-We need the information Registered Users supply for (a) personal identification, (b) to allow us to contact you for service(s) or opportunities as requested by you, such as customer service or information about a job opportunity if you have submitted a resume on-line, (c) to make improvements to materials or products offered on the Site and to the Site in general, and (d) to enable Registered Users to access the functionalities described on the Site, including without limitation, tracking shipments, viewing outstanding charges , applying for employment, and obtaining other user-specific information. Your e-mail address is collected to send you an e-mail message confirming your new member registration as well as confirmations for other services you transact with us on-line. In addition, we may use such information (i) for demographic profiling, ad targeting, statistical analysis, to conduct surveys and similar marketing activities; (ii) to investigate violations of either the Privacy Policy or the "Terms of Use"; and (iii) to notify Registered Users about important changes to the Site or promotions or opportunities. You may always decline to receive these messages by following the process to [Opt Out](http://www.apl.com/help_center/html/privacy_policy.html#updating) as described below or as described within a particular message.
+## Commercial Relationship
 
-We will deactivate accounts of Registered Users that have been inactive for an extended period of time.
+### What personal data do we need?
 
-Registered Users may access and change their information at any time via the Site as described in Section 7 below. 
+We collect and process the following categories of personal data:
 
-**2\. Use of Cookies and Log Files**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-The Site does not use persistent or stored cookies; however, it does use temporary or per-session cookies. Temporary or per-session cookies act as a randomly generated session ID; they last only while the Registered User is logged onto the Web site, and are cancelled at the end of the session (i.e., the Registered User logs out of the Site or closes their Web browser program). The Site uses temporary cookies for security purposes. Each time a Registered User logs onto the Site, the Site server generates a temporary session ID, which it associates with the user's login name, password and computer during that particular session. This allows the Registered User to move from page to page in the Site during a specific session, without having to re-enter the user login name and/or password. The temporary cookie allows the Site server to continuously verify that the user is a permitted user as the user moves from page to page during a specific session. When the Registered User logs out of the Site the temporary session ID is cancelled, and is removed from the temporary memory of the user's computer; and the association in the Site server between the temporary session ID and the specific user login name and password is also terminated. 
+  * Identity and Contact Details (Name, Surname, Email address, etc.);
+  * Commercial Data (Contract / Order/ purchase/ usage history / services and products ...)
+  * Accounting (Invoice / payment data, …)
+  * Customer service history (Call center details, tickets, …)
 
-We also use log files for anonymous site usage analysis. A "log file" is a data file that records a Registered User's activity while using the Site. 
 
-**3\. Security**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-We store information received from Registered Users on secure computers. Only a small number of our employees and/or contractors have physical access to these computers. We use firewalls and other security technology to prevent our computers from being accessed by unauthorized persons.
 
-While we have taken measures to protect Registered Users' information, please know that (i) no computer system is immune from intrusion; and (ii) information transmitted to the Site may need to pass through many systems in order to process such information. Therefore, we cannot guarantee the absolute security or confidentiality of information transmitted to the Site. 
+### Why do we need it?
 
-**4\. Provision of Information to Others**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-When you submit personal information through this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which we transact business, including, without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by our trusted vendors. Such vendors are bound by contract not to use your personal information for their own purposes and to treat the information as confidential. 
+We use this information for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract.
 
-We have established relationships with various service providers whose services are available to you from this Site or from Web sites that are linked to this Site or who support us by providing services which are transparent to you. Typically, these providers offer services that our customers might find useful, such as those that can be used in conjunction with our services and products. In order to use those services, you may be required to provide personal information to the providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Web site will be subject to the privacy policy posted on such site, and personal information that you provide while on this Site in conjunction with a provider's service will be subject to this Privacy Policy. You should be aware that our agreements with these service providers often provide that they will share with us personal information collected from you. In such instances, we may use this information in a manner consistent with this Privacy Policy. 
+### How long do we keep it?
 
-When ordering products or services on the Site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
+We keep Commercial & accounting data related to you for 10 years in compliance with the French trade law ([Article L123-22 alinéa 2 du Code de commerce](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006219327)), or such other longer or shorter period as may be adjusted to comply with any relevant local regulations.
 
-If we sell assets (or the assets of a division or subsidiary) to another entity, or we (or a division or subsidiary) are acquired by, or merged with, another entity, we may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent.
+## Client service
 
-Other than as described in this Privacy Policy or as otherwise specifically communicated to you by us, we do not provide information supplied by users to any third parties, except where law, court order, or governmental authority requires or based upon the good faith belief that disclosure is necessary including, without limitation, to protect our rights when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or causing harm to third parties. 
+### What personal data do we need?
 
-**5\. Links to Other Sites**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-The Site may contain links to Web sites other than our own and for which we are not responsible. Such Web Sites may collect personal information from you. These Web sites may send their own cookies to you, and may collect information and use it in a way inconsistent with this Privacy Policy. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that Web site which should identify the entity that is collecting your personal information.  Unless we explicitly state otherwise, such references in no way indicate our endorsement, recommendation or preference of any such products, services or information contained on any other site. 
+We collect and process the following categories of personal data in relation to you:
 
-**6\. Additional Information**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-We may alter, update or otherwise change this Privacy Policy at any time to reflect material changes in the way we use your information. Any such changes will be posted on this page. You should periodically check this Privacy Policy to review the current terms and guidelines applicable to your use.  Your continued use of the Site following the posting of such changes will indicate your full acceptance of those changes.
+  * Identity and Contact Details (Name, Surname, Email address, etc.).
+  * Professional Information (Organisation name, position, etc.).
+  * Service Data (details about services and products you have requested or we have provided to you or your organisation).
+  * Marketing data (preferences on receiving marketing information from us and communication channel preferences).
+  * Specific interest & Engagements (professional and personal interests, interactions and engagement with CMA CGM, attendance at events, etc.)
 
-**7\. Updating Your Personal Information, Opt Out Policy**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-At any time, you can access and correct your personal information and privacy preferences, including exercising your right to unsubscribe as a Registered User of the Site by sending an e-mail to [homeport@apl.com](mailto:homeport@apl.com). As a Registered User, you will occasionally receive e-mail messages from us as described in [Section 1](http://www.apl.com/help_center/html/privacy_policy.html#information) above. If you would prefer not to receive these messages you may opt out by following the instructions within the e-mail message, changing your preferences or (for HomePort related emails) by contacting us at [homeport@apl.com](mailto:homeport@apl.com). We reserve the right to limit certain services to Registered Users who will accept e-mail messages. Non-Registered Users of Homeport can access and correct their personal information and privacy preferences with us by contacting [global_marketing@nol.com.sg. ](mailto:global_marketing@nol.com.sg.%20)
 
-**8\. Contact Us**       [Top](http://www.apl.com/help_center/html/privacy_policy.html#top)  
-If you have any inquiries or concerns with respect to your personal information or you have other related inquiries or concerns, you may write to us at the following address:
 
-Group General Counsel  
-Neptune Orient Lines Limited  
-456 Alexandra Road  
-#06-00 NOL Building  
-Singapore 119962  
-Email: [group_legal@nol.com.sg](mailto:group_legal@nol.com.sg)
+### Why do we need it?
 
-In your letter, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that this Privacy Policy has not been complied with so that we may investigate your inquiry. 
+We use this information:
 
-Please note that if you provide us with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), we cannot guarantee that your most recent privacy preference will be honored. 
+  * To inform you on services, offers, operational matters and rates offers / changes that may be of interest to you and to help us develop new products and services
+  * To develop our business profile and analyse our business trends and profiles;
+  * To evaluate client experience, assess client satisfaction, understand client's requirement and the level of service expected. This may lead to the implementation of local action plans to improve your experience.
+  * To conduct analytics.
+
+
+
+We will only provide you with marketing-related information after you have, where legally required to do so, opted-in to receive those communications. We will use your personal information for our legitimate interest to develop our business, provided that this interest is not overridden by your interests or fundamental rights and freedoms. We will give you the opportunity to opt out at any time.
+
+### How long do we keep it?
+
+We generally keep Marketing data for three years from the date it was collected after which time the data is deleted. Commercial and contact data may be retained longer to comply with applicable commercial laws.
+
+## Website
+
+### What personal data do we need?
+
+Using cookies and other tracking software, we automatically collect personal data about you when you access and use our websites, blogs, mobile sites, applications, sponsored content on social media sites (the " **Online Information** "), and information about the device you use to access the Online Information.
+
+For example, we may collect:
+
+  * Information about how you view the Online Information (such as the pages you view, the links you click).
+  * Information about your browser, usage patterns (Your IP address, browser type and language) and about the device you use to access the Online Information.
+  * If you connect to us from a social network, such as LinkedIn or Facebook, we will collect personal information from the social network in accordance with your privacy settings on that social network. The connected social network may provide us with information such as your name, profile picture, network, gender, username, user ID, age or age range, language, country, and any other information you have agreed it can share or that the social network provides to us.
+
+
+
+### Why do we need it?
+
+We use this information to monitor and improve our Online Information and business and to help us develop new products and services.
+
+“Cookies” are small text files that store information about your interactions with a particular website, either temporarily (known as a “temporary” or “session” cookie and deleted once you close your browser window) or more permanently on the hard drive of your computer (known as a “permanent” or “persistent cookie”). Cookies can make it easier to use a website by allowing servers to access certain information quickly:
+
+  * Session cookies can be used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., a website of an affiliated company) and can give helpful information.
+  * Persistent cookies can be used to customize a website for a user, such as by storing language preferences, user location, display settings etc. so that users do not have to re-enter this information each time they visit a website.
+
+
+
+Our website may use both session cookies and persistent cookies to store information that allows us to improve our customer service to you and provide you with the ability to navigate the website more easily.
+
+You can set your browser to decline cookies if you prefer (How to guide for [Chrome](https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en), [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies), [Opera](https://help.opera.com/en/latest/web-preferences/#cookies), [Safari](https://support.apple.com/kb/PH21411?locale=en_US&viewlocale=en_US)). If you do so, you may not be able to access important functions, areas of our websites or you may not be able to enjoy the convenience of easily navigating our website.
+
+### How long we keep it?
+
+Session cookies are deleted once you close your browser window. Persistent cookies generally last for 3 months and up to a maximum of 2 years.
+
+## International transfers
+
+Intra group transfers are done in accordance with the Binding Corporate Rules which governs the international transfer and processing of personal data within the Company around the world.
+
+[Access to Binding Corporate Rules](https://www.cma-cgm.com/static/eCommerce/Attachments/Binding%20Corporare%20Rules.pdf)
+
+We may use service providers located outside the European Economic Area. Where the recipient is located in a country which has not been deemed by the European Commission to have adequate data protection laws in place, we transfer the personal data using one of the following measures:
+
+  * Where we use providers based in the USA, we may transfer data to them if they are part of the “Privacy Shield” which requires them to provide similar protection to personal data shared between Europe and the USA. For further details, see European Commission: [EU-US Privacy Shield](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en).
+  * Standard Contractual Clauses approved by the European Commission, which give personal data the same protection it has within the European Economic Area. For more information on Standard Contractual Clauses, see European Commission: [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
+
+
+
+## Who processes your personal data?
+
+CMA CGM is a shipping and logistic company with offices and associated legal entities across the world. Your personal data may be shared with our offices and associated entities as necessary or appropriate.
+
+We may also use service providers to process your data. In this event, the processings are governed by a contract that complies with the applicable data protection laws and ensure the protection of your rights.
+
+We may disclose information about our clients to third parties in connection with a transaction, such as a merger, or an acquisition of all or a portion of our business, or our acquisition of another business.
+
+## What are your rights?
+
+At any time, you may:
+
+  * request to see your personal data that we have;
+  * request to correct or delete your personal data if you believe it is incorrect;
+  * object to our processing of your personal data or to transfer of your data;
+  * request an electronic copy of your personal data; or
+  * bring a complaint on how your personal data is handled.
+
+
+
+In any such instance, please contact customer support at [https://www.apl.com/help/contact](https://web.archive.org/help/contact). Go to “Contact” for more information.
+
+In addition, you can contact CMA CGM's Data Protection Officer by mail at
+
+[ _M_ Mailho.dpo@cma-cgm.com](mailto:ho%2Edpo%40cma-cgm%2Ecom)
+
+or by mail to the attention of Legal Department - Data Protection Officer, 4 quai d'Arenc, 13002 Marseille, France.
+
+When you contact us, we may seek additional information from you to make sure that the personal data we may possess belongs to you. Once verified, we will evaluate your request and provide you with a response[ .](https://web.archive.org/static/eCommerce/PDFFlyers/Nepal_ICD_Birgunj.pdf)
+
+Should you be unsatisfied with the answer, should you think that personal data processing does not follow the rules of law, you may file a complaint with the supervisory authority located in your jurisdiction.
