@@ -1,48 +1,96 @@
-> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428230327id_/https%3A//www.lindybop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222112742id_/https%3A//www.lindybop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how Lindy Bop uses and protects any information that you give us when you use this website. Lindy Bop is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Lindy Bop may change this policy from time to time by updating this page.
+Last updated May 2018  
+At Lindy Bop we value your privacy. It is important that you read and understand the privacy policy as it will explain how Lindy Bop collect and use your personal information and why we do this. This policy relates to your use of this website. All personal information is kept on a secure server.
 
-You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 16.8.2011.
+### Data Protection
 
-### What we collect
+For the purposes of data protection this policy refers to the 1998 Data Protection Act until 25th May 2018 and thereafter the EU General Data Protection Regulation (GDPR) or any subsequent, and successor, legislation.
 
-We may collect the following information:
+Melza Ltd is the data controller of the personal information we hold about you.
 
-Name and Address
+### Lindy Bop Privacy Policy FAQ’s
 
-Contact information including email address
+### What information do we collect?
 
-Demographic information such as postcode, preferences and interests
+• When you purchase from us at www.lindybop.co.uk we ask for, and collect, personal information such as your name, billing and delivery address, telephone number, email address, items ordered and payment details.  
+• If you set up an online account with us, we will also store your password.  
+• If you sign up to receive our email newsletter, we will request and store your email address.
 
-Other information relevant to customer surveys and/or offers
+### How do we use your personal information?
 
-What we do with the information we gather
+We use this information to make your shopping experience as easy and enjoyable as possible.
 
-We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a delivery of your order, carrying out credit and other security checks and for the purposes of customer research. We require this information to understand your needs and provide you with a better service, for the following reasons:
+• To process your order including delivery, payment and returns.  
+• Online account holders require an email address and password to access their account.  
+• To send you special offers and promotions that may be of interest if you have consented for us to do so or we believe may be of interest to you. You may opt-out of receiving these messages at any time.  
+• Any information we collect about customers' browsing and buying habits is used for statistical analysis and to continuously improve the Lindy Bop website and the products and services offered to our customers.  
+• To assist in the detection and prevention of fraud.  
+• Our Courier Service has selected access to your details for delivery purposes only.
 
-    * Internal record keeping.
-    * We may use the information to improve our products and services.
-    * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+### Why do we contact you?
 
+•If you have signed up for our newsletters, we contact you to update you about exciting new product launches, sales and offers which are exclusive to our Contact List. You can opt out of marketing emails at any time – see below for more details.  
+•When you make a purchase online, we will contact you by email to notify you of updates to your order.  
+•If using our click & collect service you will be notified by SMS when your order is ready to collect.  
+•We will also contact you about leaving reviews for products once you have received your order.  
+•If successful when entering any of our competitions or prize draws we will contact you by email to notify you.  
+•We will contact you by email if there is a problem with your order or if we need to get in touch regarding a refund.  
+•For items being delivered by our courier, the courier company will send you an email or a text message with a delivery update if you provided a valid phone number and email address when you placed the order.
 
+### What are your rights?
 
-### Security
+Right of access - You have the right to obtain confirmation that your data is being processed and request access to your personal data. You can make a request by email to [dp@lindybop.co.uk](mailto:dp@lindybop.co.uk), or in writing to:
 
-  * We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+DP - Melza Ltd  
+65 High Street  
+Basil Chambers  
+Manchester  
+M4 1FS  
+United Kingdom
 
+In the first instance we will provide a copy of the information free of charge. However, we may charge a reasonable administration fee when a request is manifestly unfounded or excessive or to comply with requests for further copies of the same information although this does not mean that we will charge for all subsequent access requests.
 
+We will without delay and within 1 month of your request (subject to extensions in some cases):
 
-### How we use cookies
+•confirm what personal data we hold about you;  
+•provide a copy of the data in commonly used electronic format if the request is made electronically.  
+•provide any supporting explanatory materials.
 
-  * A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-  * We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-  * Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-  * Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. Controlling your personal information You may choose to restrict the collection or use of your personal information in the following ways:
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@lindybop.co.uk We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+We can extend the time to respond by a further two months where requests are complex or numerous. If this is the case, we will inform you of this within one month of the receipt of the request and explain why the extension is necessary.
 
+Data portability – in addition to your access right you can require us to provide a copy of your information that we hold in a commonly used machine-readable format.
 
+Rights of Rectification and Erasure (the right to be forgotten) You may ask us to correct or remove information you think is inaccurate or no longer necessary.
 
-We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: Lindy Bop 3D Basil Chambers 65 High Street Manchester M4 1FS United Kingdom If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+### Marketing communications
+
+You can sign up to receive marketing communications through our online sign up form, when you create an account or during the checkout process. Simply tick the opt-in box at any of these stages.
+
+Marketing communications may be sent by email. If you have an online account you can choose your preferences.
+
+### How to unsubscribe from marketing communications?
+
+All Lindy Bop customers have the choice to refine or opt out of receiving marketing communications from us.
+
+If you do not wish to continue to receive marketing from us, click on the ‘Unsubscribe’ link in any email communications.
+
+### The bit we cannot control…
+
+Third party sites: Our site may contain links to and from the websites of our partner networks, advertisers and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+We will use cookies (electronic tags) to monitor your browsing and buying habits on our site, for example, which pages are visited, and whether they are purchased from. If you have registered with us then your computer will store an identifying cookie which will save you time each time you revisit Lindy Bop, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent. Please see our cookie policy for full details.
+
+### Any questions?
+
+If you have questions about your personal data or our privacy policy, please contact our data protection officer at [dp@lindybop.co.uk](mailto:dp@lindybop.co.uk) or phone 0161 399 0174  
+Alternatively, you can write to us at:
+
+DP - Melza Ltd  
+65 High Street  
+Basil Chambers  
+Manchester  
+M4 1FS  
+United Kingdom
