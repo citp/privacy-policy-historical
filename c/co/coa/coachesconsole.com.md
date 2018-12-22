@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachesconsole.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622051932id_/http%3A//coachesconsole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachesconsole.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222072741id_/https%3A//www.coachesconsole.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Coaches Console
 
