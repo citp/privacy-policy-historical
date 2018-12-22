@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativeadverts.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624132522id_/http%3A//alternativeadverts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeadverts.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222224453id_/http%3A//alternativeadverts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | policy
 
