@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hum.tv privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317154602id_/https%3A//www.hum.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hum.tv privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222160641id_/https%3A//www.hum.tv/privacy) for the most accurate reproduction.*
 
 # Privacy | HUM TV - Watch Dramas Online
 
@@ -12,15 +12,15 @@ The policy behind this strategy is to depict why we gather individual data of ou
 
 We collect different sets of information as per the given circumstances. The breakdown of information gathering for different visitors’ type is as follow:
 
-  * For Feedback, General Queries & Comments: 
+  * For Feedback, General Queries & Comments:
     1. Name
     2. Email
     3. Contact Number
     4. Address
-  * For Business Associates & Vendors: 
+  * For Business Associates & Vendors:
     1. Company Information
     2. Contact Person
-  * For Careers & Job Seekers: 
+  * For Careers & Job Seekers:
     1. Complete BIO
     2. Education
     3. Employment History
