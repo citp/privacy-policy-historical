@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africancasting.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622115632id_/http%3A//www.titancustomerhelp.com/support/kb/faq.php%3Fid%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africancasting.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222160945id_/http%3A//www.titancustomerhelp.com/support/kb/faq.php%3Fid%3D54) for the most accurate reproduction.*
 
 # TitanCustomerHelp
 
