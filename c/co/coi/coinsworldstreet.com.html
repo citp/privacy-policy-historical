@@ -1,0 +1,299 @@
+<!--The following is the downloaded HTML source of the coinsworldstreet.com privacy policy that was archived on 2018-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181222173723id_/https%3A//www.coinsworldstreet.com/privacypolicy) for the most accurate reproduction.-->
+
+<html><head></head><body>﻿
+    
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Cryptocoinstreet Ltd</title><link rel="icon" type="image/png" sizes="32x32" href="https://www.coinsworldstreet.com/favicon-32x32.png">
+		
+		<link rel="stylesheet" href="https://www.coinsworldstreet.com/build/css/bootstrap.min.css">	
+		 <link rel="stylesheet" href="https://www.coinsworldstreet.com/build/css/login_style.css">
+		 
+   
+	    
+ 	<script type="text/javascript" src="https://www.coinsworldstreet.com/home_files/jquery-3.2.1.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://www.google.com/recaptcha/api.js"></script>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-38404619-26"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-38404619-26');
+</script>
+
+    
+    <!-- livezilla.net PLACE SOMEWHERE IN BODY -->
+<script type="text/javascript" id="a058ba42dbff499d7d1a6509ac05cfee" src="https://www.2pay4you-holding.com/livezilla/script.php?id=a058ba42dbff499d7d1a6509ac05cfee" defer=""></script>
+<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
+
+
+ <div class="login-bga-img">
+            <nav class="navbar">
+              <div class="container-fluid">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle my-navbar" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>                        
+                  </button>
+                  <a class="navbar-brand" href="https://www.cryptocoinstreet.com">
+                    <img src="new_images/css_logo.png" class="img-responsive" alt="Logo">
+                  </a>
+                </div>
+                <!--div class="collapse navbar-collapse" id="myNavbar">
+                  <ul class="nav navbar-nav navbar-right login-navbar-manu">
+                    <li class="active">
+                        <a href="privacypolicy">Privacy Policy</a>
+                    </li>
+                    
+                    <li><a href="termsconditions">Legal Disclaimer</a></li>
+                    <li><a href="contact_us">Contact / Supp</a></li>
+                    <li><a href="https://www.coinsworldstreet.com/api_spec">API</a></li>
+                    <li><a href="register">Sign Up </a></li>
+                    <li><a href="sign">Login </a></li>
+                  </ul>
+                 
+                </div-->
+              </div>
+            </nav>
+ 
+<!------------------------------------------------------>
+
+
+					
+					
+					<!--span class="color_11"><a href="privacypolicy" title="Privacy Policy" class="top_links">Privacy Policy</a></span><br/>
+					<span class="color_11"><a href="termsconditions" title="Legal Disclaimer" class="top_links">Legal Disclaimer</a></span><br/>
+					<span class="color_11"><a href="https://www.coinsworldstreet.com/contact_us" title="Contact Us" class="top_links" >Contact / Support</a></span><br/>
+					<span class="color_11"><a href="https://www.coinsworldstreet.com/api_spec" title="API" target="_blank" class="top_links" >API</a></span-->
+					
+					
+				
+	
+			 <div style="display:none;" id="email_missing">Please Enter Email Address.</div>
+                 <div style="display:none;" id="sent_pass">New Password has been sent to your Email Address</div> 
+				 <div id="mess881" style="display:none;">Please Select Photo</div>
+					<div id="mess882" style="display:none;">Only .JPG , .PNG, .PDF , .GIF files can be uploaded.</div>
+<div id="mess883" style="display:none;">File size less than 1 MB.</div>
+				 <script>
+
+function show_photoupload()
+	{
+			document.getElementById('light33').style.display='block'; 
+			document.getElementById('fade33').style.display='block';
+			
+	}	
+function contact_valid_credit(frm)
+		{
+		
+	var msg='';
+	var ckeckFocus=0;
+		if(frm.photoupload1.value=='')
+	{ 
+	msg+=document.getElementById('mess881').innerHTML+"\n";
+			
+			if(ckeckFocus!=1)
+				frm.photoupload1.focus();
+			var ckeckFocus=1;	     	  
+		} 
+	 else if(frm.photoupload1.value!='')
+		  {
+		  
+			if (!/\.jpg|.jpeg|.png|.pdf|.gif$/i.test(frm.photoupload1.value))
+				{
+					msg+=document.getElementById('mess882').innerHTML+"\n";
+					frm.photoupload1.focus();
+				}
+			else  if(document.getElementById('photoupload1').files[0].size>2500000)
+				{
+					msg+=document.getElementById('mess883').innerHTML+"\n";
+					frm.photoupload1.focus();
+				}  
+	      }	
+		  
+  
+	if(msg)
+ 	  {	  
+	    alert(msg);
+		return false;
+	   }
+	   else
+	   {
+	   
+	  
+	   
+		 var formData = new FormData();
+			formData.append('file', $('#photoupload1')[0].files[0]);
+			
+			
+			document.getElementById('upload_btn').value="Uploading.....";
+		
+$.ajax({
+       url : 'photo_upload.php',
+       type : 'POST',
+       data : formData,
+       processData: false,  // tell jQuery not to process the data
+       contentType: false,  // tell jQuery not to set contentType
+       success : function(data) {
+	   
+	       console.log(data);
+		 
+		   if(data!='')
+		   	{
+			
+			document.getElementById('light33').style.display='none'; 
+			document.getElementById('fade33').style.display='none';
+         //  	alert("Your Document has been uploaded successfully.");
+			document.getElementById('customer_photo').src=data;
+			document.getElementById('upload_btn').value="Upload Photo"; 
+			}
+       }
+});
+		  
+		return false;
+	   } 
+
+		}
+
+</script>    <link href="css/register.css" rel="stylesheet" type="text/css">
+	
+<div class="content" style="padding-top:50px;">
+    	<div class="container" style="background-color:#d6d6d6; width:80%;">
+  
+				<div class="row featured-boxes login">
+					<!-- Errors -->
+									
+										
+				
+			
+				
+				<div class="row">
+										<div class="form-group">
+											<div class="col-md-12" style="padding-top:30px; text-align:left; font-size:23px; color:#000000; padding-left:5%; ">
+												PRIVACY POLICY
+											</div>
+										</div>
+									</div>
+									
+					<div class="featured-box info-content">
+							<div class="box-content" style="font-size:13px; color:#000000; ">
+							This Privacy Policy, as amended or otherwise changed from time to time (the “Privacy Policy”), explains the manner in which Cryptocoinstreet Ltd (“Cryptocoinstreet”) collects, uses, maintains and discloses user information obtained through the Cryptocoinstreet.com website (the “Site”). The terms “we,” “us,” and “our” refer to Cryptocoinstreet Ltd By using the Site, you (“User”) consent to the data practices prescribed in this Privacy Policy. On occasion, Cryptocoinstreet may revise this Privacy Policy to reflect changes in law, our personal data collection and use practices, the features on the Site, or advances in technology. If material changes are made to this Privacy Policy, the changes will be prominently posted on the Site. Capitalized terms not defined herein shall have the meanings ascribed to them in the Terms of Use.
+<br><br>
+Please note: This Privacy Policy does not cover any information that we may receive about you through channels external to Cryptocoinstreet.<br>
+<br>
+What information does Cryptocoinstreet collect?<br>
+We collect Personal Data and Anonymous Data, as described below.<br>
+<br>
+“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons.<br>
+We may collect Personal Data from you, such as your first and last name, e-mail and mailing addresses, date of birth, government issued identification, photographs, biometric information (including but not limited to device fingerprinting), company name, and password when you use our Site.<br>
+We may also collect other Personal Data provided by third party identity verification services or via social networking websites.
+ <br><br>
+If you tell us where you are (e.g., by allowing your mobile device or computer to send us your location), we may store that information.<br>
+Certain services, such as two-factor authentication, may require our collection of your phone number. We may associate that phone number to your mobile device identification information.
+<br><br>
+If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+<br><br>
+We also collect other types of Personal Data that you provide to us voluntarily when seeking support services, such as email, information submitted via online form, video conferencing service information, other contact information, or other information provided to support services staff.<br>
+We may collect other data, including but not limited to, referral URLs, your location, blockchain analytics information related to blockchain addresses you provide.
+<br><br>
+Some information is collected automatically by our servers:<br>
+Our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (“IP”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
+ <br><br>
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. Like many online services, we use cookies to collect information. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website.
+We retain information on your behalf, such as transactional data and other session data linked to your Account.
+ <br><br>
+How does Cryptocoinstreet use the information it collects?<br>
+In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
+ <br><br>
+facilitate the creation of and secure your Account on our network;
+identify you and perform identity verification through a service provider;
+provide improved administration of our Site and Services;
+improve the quality of experience when you interact with our Site and Services;
+send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+send you administrative e-mail notifications, such as account activity, transaction processing, security or support and maintenance advisories;
+identify, prevent, and report potentially suspicious, fraudulent, or illegal activities;
+notify you about important changes to our Terms; and respond to your inquiries related to employment opportunities or other requests.
+ <br>
+All data collected automatically will be used to administer or improve our services.<br>
+We use IP address to make our Site and Services more useful to you, and to perform identity verification.<br>
+We use information from log files to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
+ <br><br>
+We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs. We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. We reserve the right to use Anonymous Data and aggregated and other de-identified information for any purpose and disclose Anonymous Data to third parties in our sole discretion.
+ <br><br>
+Cryptocoinstreet does not sell user data to any third party.<br>
+How does Cryptocoinstreet share my personal information?<br>
+<br>
+We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.<br>
+It may be necessary to disclose your information to comply with any law, subpoenas, court orders, or government request, defend against claims, investigate or bring legal action against illegal or suspected illegal activities, enforce our Terms, or to protect the rights, safety, and security of Cryptocoinstreet, our users, or the public.
+ <br><br>
+We may share your Personal Data with third party service providers to provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; to verify your identity; and/or to provide other services to the Company. These third party service providers are required not to use your Personal Data other than to provide the services requested by Company.<br>
+We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.<br>
+Cryptocoinstreet may contain links to other third party websites which are regulated by their own privacy policies. Cryptocoinstreet is not responsible for the privacy policies of these third party websites even if they were accessed using the links from our site.<br><br>
+
+Other than as stated in this Privacy Policy, Cryptocoinstreet does not disclose any of your personal information to third parties unless required to do so by law enforcement, court order, or in compliance with legal reporting obligations.<br><br>
+
+How can you update your information?<br>
+You can update your information by contacting support and making a request.<br>
+We will retain your information for as long as your Account has not been closed or as needed to provide you access to your Account. If you wish to close your Account, open a ticket in our support center. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our Terms.<br><br>
+
+How does Cryptocoinstreet use cookies and persistent local data?<br>
+We collect web browser Information in order to enhance your experience on the site and track how the Services are being used. Cookies are small data files that are stored on your computer’s hard drive, and in addition to using cookies to provide you with a better user experience, we use cookies to identify and prevent fraudulent activity. The information collected can include, but is not limited to, your IP address, referral URLs, the type of device you use, your operating system, the type of browser you use, geographic location, and other session data. Cookies are not permanent and will expire after a short time period of inactivity. You may opt to deactivate your cookies, but it is important to note that you may not be able to access or use some features of our site. Please note that Cryptocoinstreet is not responsible or can be held liable for any loss resulting from your decision or inability to use such features.<br><br>
+
+What security precautions does Cryptocoinstreet take to protect me?<br>
+We take the protection of your personal information seriously. We use industry-standard data encryption technology and have implemented restrictions related to the storage of and the ability to access your personal information. Cryptocoinstreet servers and business operations are entirely located in the in Europe, South East Asia.<br><br>
+
+Please note that no transmission over the Internet or method of electronic storage can be guaranteed to be 100% secure.<br>
+<br>
+Contacting Us<br>
+If you have any questions about our Privacy Policy as outlined above, please contact us through our support center.<br>
+							</div></div>
+				</div>
+			
+		</div>
+	</div> 
+
+	﻿ <div class="footer">
+                <p>Cryptocoinstreet Ltd - The Innovative Exchanger</p>
+                <p>
+                    Cryptocoinstreet Ltd - Unit, 2 Alexandra Gate, Cardiff, United Kingdom, CF24 2SA ,Company number 11457348
+                </p>
+            </div>
+        </div>
+        
+<script type="text/javascript">
+
+  $('.collapse').on('shown.bs.collapse', function(){
+    $(this).parent().find(".fa-angle-right").removeClass("fa-angle-right").addClass("fa-angle-down");
+  }).on('hidden.bs.collapse', function(){
+    $(this).parent().find(".fa-angle-down").removeClass("fa-angle-down").addClass("fa-angle-right");
+  });
+
+</script>
+    
+
+
+
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  $(function() {
+    $( "#create_ts" ).datepicker(); 
+  });
+  
+  $(function() {
+    $( "#from_date" ).datepicker(); 
+  });
+  
+    $(function() {
+    $( "#to_date" ).datepicker(); 
+  }); 
+ 
+</script>
+</body></html>
