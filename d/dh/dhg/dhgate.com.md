@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091917id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222132007id_/https%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
 
 # DHgate - China Wholesale Marketplace - About Us
 
-Welcome to DHgate, your reliable online marketplace. 
+Welcome to DHgate, your reliable online marketplace.
 
 The web site identified by the uniform resource locator [www.dhgate.com](http://www.dhgate.com/) (the “ **Site** ”) is provided by Dunhuang Holding (HK) (“ **DHgate** ”) as a service to our customers. This Security and Privacy Policy (the “ **Agreement** ” or “ **Policy** ”) is entered into between you as a registered user of the site (“ **Registered User** ”) and DHgate.
 
-The security of your personal information is very important to us and we value your trust highly. We will not sell or loan your personal information to a third party under any circumstances. We will work hard to protect the security and privacy of any personal information you provide to us and will only use such information as we have described herein. 
+The security of your personal information is very important to us and we value your trust highly. We will not sell or loan your personal information to a third party under any circumstances. We will work hard to protect the security and privacy of any personal information you provide to us and will only use such information as we have described herein.
 
 By your use and access of the Site, you accept this Security and Privacy Policy.
 
@@ -14,17 +14,17 @@ By your use and access of the Site, you accept this Security and Privacy Policy.
 
 You may choose to use or access our Site without revealing any personal and transactional information about yourself, but you will need to register and create an account in order to make a purchase or take advantage of certain features and functions, including, but not limited to, “Save for Later” and “Address Book”. If you provide us with your information, you consent to the transfer and storage of the information on our server located in the People’s Republic of China (the “ **P.R.C.** ”).
 
-As set forth in more detail below, DHgate collects personal information that you provide when using the Site. This information includes your first and last name, email address, a password and other information required when you create your DHgate account or when you participate in or conduct surveys and contests via the Site, email, or other media of DHgate. In order to protect your confidentiality and verify your identity, we may ask you to confirm your personal information when you contact our Customer Service Department. 
+As set forth in more detail below, DHgate collects personal information that you provide when using the Site. This information includes your first and last name, email address, a password and other information required when you create your DHgate account or when you participate in or conduct surveys and contests via the Site, email, or other media of DHgate. In order to protect your confidentiality and verify your identity, we may ask you to confirm your personal information when you contact our Customer Service Department.
 
 In addition to the personal information we may collect and process during registration and any surveys, we also collect, store and process the following information about our users:
 
-1\. Purchase Information 
+1\. Purchase Information
 
-When you make a purchase from DHgate, we collect your name and payment method information. When you create an account at DHgate, you can choose to save your billing information in “My DHgate.” You can also save one or more shipping addresses in your DHgate Address Book. 
+When you make a purchase from DHgate, we collect your name and payment method information. When you create an account at DHgate, you can choose to save your billing information in “My DHgate.” You can also save one or more shipping addresses in your DHgate Address Book.
 
-2\. Services Account Information 
+2\. Services Account Information
 
-We collect personal information from users who wish to use any of the DHgate services, including but not limited to, DHgate’s Transaction Platform. In order to use these services you must provide your email address and password or create an account at DHgate. 
+We collect personal information from users who wish to use any of the DHgate services, including but not limited to, DHgate’s Transaction Platform. In order to use these services you must provide your email address and password or create an account at DHgate.
 
 3\. Cookies and Other Computer Information
 
@@ -65,7 +65,7 @@ Aside from the purposes described above, we will not share your personal informa
 
 **How can you control the use of your personal information?**
 
-You can modify or delete your personal information at any time. Simply go to My DHgate. Log in with your ID and password, then edit or delete your personal information at your discretion. 
+You can modify or delete your personal information at any time. Simply go to My DHgate. Log in with your ID and password, then edit or delete your personal information at your discretion.
 
 **How can we protect the security of your personal information?**
 
@@ -73,7 +73,7 @@ Your personal information is protected by the password you created when you crea
 
 **Minors**
 
-DHgate does not intentionally collect personal information about minors or other persons without full civil conduct capacity, but based on the properties of Internet, there is no way for DHgate and the Site to distinguish the age or capacity of the users. By accepting this Agreement through your use or access of the Site, you certify that you are a person over 18 years old with full capacity and ability to form a legally binding contract in the jurisdiction in which you are resident or in which you are entering into this Agreement. If you do not agree to (or cannot comply with) any of the terms of this Agreement, do not use the Site. 
+DHgate does not intentionally collect personal information about minors or other persons without full civil conduct capacity, but based on the properties of Internet, there is no way for DHgate and the Site to distinguish the age or capacity of the users. By accepting this Agreement through your use or access of the Site, you certify that you are a person over 18 years old with full capacity and ability to form a legally binding contract in the jurisdiction in which you are resident or in which you are entering into this Agreement. If you do not agree to (or cannot comply with) any of the terms of this Agreement, do not use the Site.
 
 Meanwhile, if a minor or other person does not have full civil conduct capacity and has provided personal information to us without the proper consent of their parent or legal guardian, such parent or legal guardian should contact us to remove such personal information.
 
@@ -91,6 +91,6 @@ DHgate will obtain your consent before allowing the download of any software fro
 
 DHgate reserves the right to update or modify this Security and Privacy Policy at any time without prior notice to you. The most current version of the Policy will govern DHgate’s use of the information and will always be at <http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4>. If DHgate makes a change that, in DHgate’s sole discretion, is material, DHgate will notify you via e-mail to the email address associated with your account. Your use of the Site following any such change constitutes your unconditional agreement to follow and be bound by the Security and Privacy Policy as amended.
 
-DHgate may transfer this Policy and all or part of its rights, obligations and interests to any party or entity in its sole discretion; however, a User may not assign its rights, obligations and interests under this Policy to any party or entity. 
+DHgate may transfer this Policy and all or part of its rights, obligations and interests to any party or entity in its sole discretion; however, a User may not assign its rights, obligations and interests under this Policy to any party or entity.
 
-Terms which have not been defined or stipulated in this Agreement shall be interpreted in accordance with the definition(s) or provision(s) of the Terms of Use of DHgate. 
+Terms which have not been defined or stipulated in this Agreement shall be interpreted in accordance with the definition(s) or provision(s) of the Terms of Use of DHgate.
