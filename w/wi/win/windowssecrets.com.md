@@ -1,288 +1,305 @@
-> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194004id_/http%3A//engage.informa.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222080250id_/https%3A//knect365.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Informa Engage
+# Privacy policy | KNect365 Corporate pages
 
-Contents
+## 1\. Introduction
 
-**Introduction**
+As an international business-to-business information services group, data and information is at the heart of what Informa does.
 
-**About Informa Engage**
+We take the privacy and protection of data and information seriously. We are committed to handling the personal information of all those we engage with, whether customers, suppliers, colleagues or any other community, in a way that is responsible and meets the legal requirements of the countries in which we operate.
 
-**What we collect**
+As part of using the Informa Group’s products and services, browsing our websites and contacting the business, data and information is collected. This privacy policy (the “Privacy Policy”) sets out Informa’s approach to safeguarding and maintaining the privacy of that personal information, and explains what data is collected, how it is used, the legal basis for its use, and the rights individuals have over that data.
 
-**How and why personal information is used**
+### 1.1 About Informa
 
-Lawful Processing in Europe
+Informa is an international business-to-business information services group, operating in over 20 countries. We serve commercial, professional and academic communities by helping them connect and learn, and by creating and providing access to content and intelligence that helps people and businesses work smarter and make better decisions faster.
 
-Product enquiries, sales and administration
+Informa is organised into four Operating Divisions: Academic Publishing (which trades as the Taylor & Francis Group), Business Intelligence, Global Exhibitions and Knowledge & Networking (which trades as KNect365).
 
-Marketing
+### 1.2 About KNect365
 
-Customer and Prospects Management including Analytics
+**Informa’s KNect365 division nurtures, builds and connects communities through the exchange of  insights and strategic thinking. We create platforms online and through face-to-face events that facilitate learning and networking, helping people build knowledge, work smarter and become leaders in their field.**
 
-Mobile Applications and Websites Analytics including Location Data
+This Privacy Policy explains how KNect365 collects, uses and protects your personal information. The following companies are controllers of the personal information you supply to KNect365:
 
-Online membership communities
+Informa Entity | Company number | Registered Office  
+---|---|---  
+IIR Limited | 1835199 | 5 Howick Place, London, SW1P 1WG, UK  
+Informa Telecoms and Media Limited | 00991704 | 5 Howick Place, London, SW1P 1WG, UK  
+TU-Automotive Limited | 09798474 | 5 Howick Place, London, SW1P 1WG, UK  
+Futurum Media Ltd | 09813559 | 5 Howick Place, London, SW1P 1WG, UK  
+New Ag International SARL | 507590990 | 2 rue de Lisbonne, 75008, Paris, France  
+EBD Group GmbH | 173151 | Isartorplatz 4, 80331, Munich, Germany  
+Informa Media Inc | 826197 | 1166 Avenue of the Americas, 10th Floor, New York, NY 10036, United States  
+KNect365 US Inc | 855093 | 708 3rd Avenue, 4th Floor, New York, 10017, United States  
+Informa Middle East Ltd (Dubai branch) | 126878 | TRADING ADDRESS: Level 20, Sheikh Rashid Tower, Dubai World Trade Center, P.O. Box 9428, Dubai, United Arab Emirates  
+Informa Australia PTY Ltd | 086268313 | Level 18, 347 Kent Street, Sydney NSW 2000, Australia  
+  
+This Privacy Policy is issued on behalf of KNect365, and where “KNect365”, I”, "we", "us" or "our" appears, it includes the relevant legal entity processing your data.
 
-Automated Decision-Making, Including Profiling
+### 2\. What we collect
 
-Compliance with our legal obligations
+This section explains the personal information that may be collected when using our products and services, and the other personal data we may receive from other sources.
 
-**How we protect personal information**
-
-International transfer of personal information
-
-Cookies
-
-Third Party Links
-
-**Who we share personal information with**
-
-**How long information is kept**
-
-**How to update your information and marketing preferences**
-
-**Your rights**
-
-**Contact Us**
-
-## **Introduction**
-
-As an international Business-to -Business Information Services Group, data and information is at the heart of what Informa does.
-
-We take the privacy and protection of data and information seriously, and are committed to handling the personal information of all those we engage with, whether customers, suppliers, colleagues or any other community, responsibly and in a way that meets the legal requirements of the countries in which we operate.
-
-As part of using the Informa’s products and services, browsing our websites and contacting the business, data and information is collected. This privacy policy (the “Privacy Policy”) sets out Informa’s approach to safeguarding and maintaining the privacy of that personal information, and explains what data is collected, how it is used, the legal basis for its use, and the rights individuals have over that data.
-
-**About Informa  
-**Informa is an international Business-to-Business Information Services Group, operating in over 20 countries. We serve commercial, professional and academic communities by helping them connect and learn, and by creating and providing access to content and intelligence that helps people and businesses work smarter and make better decisions faster.
-
-  * Informa is organised into four Operating Divisions; Academic Publishing (which trades as the Taylor & Francis Group), Business Intelligence (where Informa Media Inc and Informa Business Media Inc (which trades as “Informa Engage”), Global Exhibitions and Knowledge & Networking (which trades as KNect365)
-
-
-
-## **About Informa Engage**
-
-**Informa Engage  connects marketers with B2B decision makers.  By combining unrivaled reach, deep knowledge of specialist markets and sophisticated marketing, we engage buyers – activating real results for marketers.**
-
-This privacy policy is issued on behalf of Informa Engage. Where “Informa Engage ”, I”, “we”, “us” or “our” appears in this privacy policy, it includes the relevant Informa Engage brand/product processing your data.
-
-This Privacy Policy explains how Informa Engage collects, uses and protects your personal information to provide you access to our content, and information services.
-
-## **What we collect**
-
-**This section explains the personal information that may be collected when using our products and services, and the other personal data we may receive from other sources.**
+### 2.1 Your personal information
 
 In this Privacy Policy, the term “personal information” refers to the types of information we may collect and use, which includes:
 
-  * Contact details, such as your full name, e-mail address, postal address and telephone number;
+  * Contact details, such as your name, email address, postal address and telephone number;
   * Educational, nationality and professional background information;
+  * Photographs (optional) should you create an online profile on our website
   * Usernames and passwords;
   * Payment information, such as a credit or debit card number;
-  * Comments, feedback, posts and other content submitted;
-  * Interests and communication preferences including marketing permissions where appropriate; and
+  * Comments, feedback, posts and other content you submit; and
+  * Interests and communication preferences including marketing permissions where appropriate
   * Location information (e.g. through mobile apps).
 
 
 
 We collect and use your personal information in the following main categories:
 
-  * As customer / consumer data, related to transactions, prospective sales or analytics;
-  * As contact data, which includes academic and corporate customer contact data such as details of account manager / key contact at corporate customers, and subscriber / user data;
-  * In connection to an event, for instance exhibition or conference visitors, exhibitors, speakers, and attendee data;
-  * Product / intelligence data, collected through customer and market research surveys;
+  * As customer / consumer data (transactional, prospect and analytics) including prospect data;
+  * As contact data which includes corporate customer contact data (i.e. contact details of account manager / key contact at corporate customers); and subscriber / user data;
+  * In connection with an even, for instance customer event and trade show visitors, exhibitors, speakers, conference visitors and attendee data.
 
 
 
-**Sensitive personal data  
-**If collecting or storing sensitive personal data such as information relating to health, beliefs or political affiliation, we typically ask for your explicit consent. However, there are some situations where it will not be possible to request consent, such as if you have an accident at one of our events. If this does occur, we will ensure your privacy rights are protected.
+### 2.2 Sensitive personal data
 
-**Children’s personal data  
-**Our services and products are directed to academics and business professionals. They are not intended for children under the age of 13 and we do not knowingly collect personal data from this age group. If any information is collected from a child under the age of 13 without verification of parental consent, it will be deleted.
+If collecting or storing sensitive personal data such as information relating to health, beliefs or political affiliation, we typically ask for your explicit consent. However, there are some situations where it will not be possible to request consent, such as if you have an accident at one of our events. If this does occur, we will ensure your privacy rights are protected.
 
-## **How and why personal information is used**
+### 2.3 Children’s personal data
 
-**This section explains in detail how and why we use personal information.**
+Our services and products are directed to academics and business professionals. They are not intended for children under the age of 13 and we do not knowingly collect personal data from this age group. If any information is collected from a child under the age of 13 without verification of parental consent, it will be deleted.
 
-### **Lawful Processing in Europe**
+### 2.4 Collecting personal information
 
-Informa Engage  collects and uses personal information. The lawful bases we use for this activity in Europe, as required under European data protection laws, are:
+We collect personal information when you:
+
+  * Buy a product or service from us, including buying products online or over the phone
+  * Subscribe to newsletters, alerts or other services from us
+  * Ask us for more information about one of our events, including through live chat or by downloading a brochure, or contact us with a question or complaint
+  * Visit or browse websites owned and operated by KNect365
+  * Attend our events, if you are scanned by us or an exhibitor
+  * We may also collect information about you from other organisations, where appropriate. These include fraud-prevention agencies, business directories including public networks such as LinkedIn and credit reference agencies.
+
+
+
+### 3.How and why personal information is used
+
+This section explains how and why we use personal information.
+
+### 3.1 Lawful Processing in Europe
+
+As we collect and use personal information, the lawful bases we use for this activity in Europe, as required under European data protection laws, are:
 
   * Where it is necessary for entering into or performing a contract with you
-  * Where we have a legitimateinterest to do so, provided your rights do not override theseinterests
+  * Where we have a legitimate interest to do so, provided your rights do not override these interests
   * Where you have consented to its use
   * Where our colleagues believe it is in your vital interests to share your personal details, for example with emergency services
-  * Where required to comply with our legal obligation
+  * Where required to comply with our legal obligations
 
 
 
-### **Product enquiries, sales and administration**
+### 3.2 Product enquires, sales and administration
 
 As part of a purchase, product enquiry, request for information and for account administration, we collect information such as your name, country, job title, company information or academic affiliation, postal address, e-mail address and telephone number.
 
-If you have made an enquiry about us or our products or services, either online or over the phone, we will use your personal information to respond to the enquiry or to take other steps at your request, before you enter into a contract. For example, we collect the e-mail addresses and additional contact details of those who send e-mails to request information. Where a sales representative speaks to you over the phone, the calls are recorded for training and monitoring purposes only.
+If you have made an enquiry about us or our products or services, either online or over the phone, we will use your personal information to respond to the enquiry or to take other steps at your request, before you enter into a contract. For example, we collect the e-mail addresses and additional contact details of those who send e-mails to request information. Where a sales representative speaks to you over the phone, the calls may be recorded for training and monitoring purposes only.
 
-If you have registered for or purchased a product or services, including on a trial basis, your personal information will be used to provide that product or service, communicate about it and handle payments, as is necessary for the performance of the contract entered into with us.
+If you have registered for or purchased a product or services, including on a trial basis, your personal information will be used to provide that product or service, communicate about it and handle payments, as is necessary for the performance of the contract entered into.
 
-For purchases, payment information, including credit/debit card number/bank details and billing addresses are also collected.Where payment card processors are used to facilitate payment card transactions on our websites, your data will be collected and used according to that data processors’ privacy policy.
+For purchases, payment information, including credit/debit card number/bank details and billing addresses are also collected. Where payment card processors are used to facilitate payment card transactions on our websites, your data will be collected and used according to that data processors’ privacy policy.
 
-If your personal information is relevant to certain products and is freely available through public sources, such as on a website related to your work or profession, we may use this personal information for providing customers with our products, as is necessary for the purposes of our legitimate interests as a commercial organisation.
+If your personal information is relevant to certain products and is freely available through public sources, such as on a website related to your work or profession, we may use this personal information for providing customers with our products, as part of our legitimate interests as a commercial organisation.
 
-### **Marketing**
+### 3.3 Event and Exhibition Management
 
-We will use your personal information to send you newsletters, offers or other marketing emails that keep you up to date with news, events, products and research opportunities, from Informa Engage and other companies that may be of interest. Depending on the nature of your interaction with us and the laws of the country where you live, you may have actively given us your consent for this, by opting in, or we may be entitled to rely on your implied consent or our legitimate interests. The opportunity to opt out of future marketing emails will always be provided, and information on how to do this given when your personal information is collected and on every marketing email sent.
+If you have agreed to participate in one of our events as a speaker, sponsor, exhibitor or attendee, personal information is used in connection with the running of the event, to handle payments or for other purposes, as is necessary for performing the contract entered into. We will also use your personal information to maintain our databases, assess your qualities as a speaker or sponsor/exhibitor, promote events and encourage further engagement at our events, as part of the legitimate interests we have as a commercial organisation. At some of our events, your name badge may contain some of your personal information that you have provided to us, which may include your name, job title and company. When scanned, this information will be made available to us or the relevant exhibitor and processed in the manner as described above.
 
-**Sponsors and Gated Resources  
-**From time to time Informa Engage sponsors wish to contact our subscribers and customers who have indicated an interest in their products, services or events. If you register for or access services offered by these sponsors, you choose to share your name and contact details directly with those sponsors so that they may contact you. For example, if you register for a sponsor-branded (or co-branded with us) resource, we will collect your registration information on behalf of that sponsor for its own use. We may also keep a copy of that data for our own use, consistent with this privacy policy. We may provide a link to the sponsor’s privacy policy as well as to this policy on the registration page.
+In addition, we sometimes take photos and videos at our events, which may feature attendees, speakers, sponsors or exhibitors. Where photos and videos are taken that feature you as an attendee, sponsor or exhibitor, we may use those photos and videos for promotional purposes.
 
-Similarly, if you access third-party resources in certain registration-only, or “gated”websites, resource centers, or directory services on our websites, we may share your registration information when you access or click on a link to technical resources provided or sponsored by another company. This includes third-party resources sold through our online stores. In addition, we may share your contact information with sponsors of a particular e-newsletter if you click on their information. If you do not wish to have your information shared, the opportunity to opt-out is provided in the e-newsletter.
+### 3.4 Marketing
 
-When you register for an in-person or digital event, your registration information is provided to the sponsor(s) of such event. This information may also be provided to sponsors of special sessions within the larger event.
+We will use your personal information to send you newsletters, offers or other marketing emails to keep you up to date with our news, events and products that may be of interest. Depending on the nature of your interaction with us and the laws of the country where you live, you may have actively given your consent for this by opting in or we may be entitled to rely to legitimate interests to contact you with relevant marketing information. The opportunity to opt out of future marketing emails will always be provided, and information on how to do this is given when your personal information is collected and on every marketing email sent. Further information on how you can change your marketing preferences is provided in the section 8 below.
 
-If you want to know how a sponsor or advertiser will use your data, please review their particular privacy policy. As noted above, your registration for and log-on to any of the above services constitutes your consent to be contacted by any sponsors selected. The sponsor’s or advertiser’s privacy policies explain their use of your information.
+### 3.5 Customer and Prospects Management (including Analytics and Product Development)
 
-### 
+We may use your personal information and contact you to maintain our customer database in order to keep your information accurate and up-to-date; as well as to carry out internal analysis of the usage of our products and services, in order to improve them, develop new products and events and predict future customer behavior, as is necessary for the purposes of our legitimate interests as a commercial organisation. This may include automated profiling and campaign management techniques.
 
-### **Customer and Prospects Management including Analytics**
+We may use the personal data we hold about you, combined with publicly available data and your demographic data to better understand our customers and to improve the products and services we deliver.
 
-We may use your personal information, combined with publicly available data and demographic data,to maintain our customer database and carry out internal analysis of the usage of our products and services. This is done to improve those services, develop new products and predict future customer behavior, as part of our legitimate interests as a commercial organisation. This may include automated profiling and campaign management techniques.
+### 3.6 Mobile Applications and Website Analytics including location data
 
-### **Mobile Applications and Websites Analytics including Location Data**
-
-We may combine visitor session information, or other information collected through tracking technologies, with personally identifiable information in order to understand and measure your online experience and determine what products, promotions and services are likely to be of interest.
+We may combine visitor session information, or other information collected through tracking technologies with personally identifiable information, to understand and measure your online experiences and determine what products, promotions and services are likely to be of interest.
 
 Technical methods are also used in HTML e-mails sent to visitors, for purposes including: (i) to determine whether visitors have opened or forwarded e-mails and/or clicked on links in those e-mails, (ii) to customise the display of banner advertisements and other messages after closing an e-mail, and (iii) to determine whether a visitor has made an enquiry or a purchase in response to a particular e-mail.
 
 In compliance with the California Online Privacy Protection Act (CalOPPA) (e.g.: Browsers Do Not Track Signals) while we strive to offer you choice when using our website and mobile applications, we do not promise that we will be able to receive or honor web browser Do Not Track signals.
 
-### **Online membership communities**
+### 3.7 Bulletin Boards or Chat Areas
 
-You may choose to participate in online membership communities on our sites that allow you to create and publish a profile and other personal information. These communities may provide privacy controls that allow choice in how much of your profile and other information to make public or to share with others within the community.
+When you disclose personal information on any public bulletin board or chat areas of this website, or any other website used as a result of use of this website, such personal information can be collected and used by anyone who views that board or area. This may result in unsolicited messages from other participants or other parties, which we are not responsible for
 
-Privacy controls are usually found on the page on which you edit your profile, and each individual is responsible for understanding how those controls work, including default settings, and choosing how the information provided is shared and protected.  By participating in these online membership communities you may be contacted by other participants using the information provided.
+Where you engage on our customer enquiry chat areas, we will use any information provided to help recommend our products and/or assist with confirming any order you wish to place.
 
-When you disclose personal information on any public community boards or chat areas of this website, or any other website used as a result of use of this website, such personal information can be collected and used by anyone who views that board or area. This may result in unsolicited messages from other participants or other parties, outside of our control or responsibility.
+### 3.8 Automated Decision-Making, Including Profiling
 
-### ** ** **Automated Decision-Making, Including Profiling**
+We use algorithm-based technologies to personalise dynamic web content based on your explicit and/or implicit interests. We carry out general profiling such as segmentation, non-automated and automated decision-making based on profiling for the purpose of providing you with a more relevant experience and for the purposes of our legitimate interests as a commercial organisation. Solely automated decision making is never used in any way that produce a legal or similarly significant effect.
 
-We use algorithm-based technologies to personalise dynamic web content based on your explicit and/or implicit interests. We carry out general profiling such as segmentation, non-automated and automated decision-making based on profiling for the purpose of providing you with a more relevant experience and for the purposes of our legitimate interests as a commercial organisation. Automated decision making is never used in any way that produces a legal or similarly significant effect.
+Depending on the laws of the country where you live, you may have rights related to our decision. For example, if you live in the European Union, you may have the right not to be subject to our decision, or you may have the right to insist on human intervention in the process, express your point of view or contest the decision. To exercise any such right, contact us via one of the methods set out in section 10 below - Contacting Us. In some cases, we may have the right to continue with our decision, in accordance with applicable laws. This will be explained if it is the case. Otherwise, we will respond to your request as promptly as reasonably possible.
 
-Depending on the laws of the country where you live, you may have rights related to our decision.  For example, if you live in the European Union, you may have the right not to be subject to our decision, or you may have the right to insist on human intervention in the process, express your point of view or contest the decision. To exercise any such right, please contact us via one of the methods set out in the “Contact Us” section below. In some cases, we may have the right to continue with our decision, in accordance with applicable laws. This will be explained if it is the case. Otherwise, we will respond to your request as promptly as reasonably possible.
+### 3.9 Compliance with our legal obligations
 
-### **Compliance with our legal obligations**
+To ensure compliance with international trade sanction laws and regulations, we screen customers, vendors and suppliers against US, OFAC, BIS, UN, EU and UK sanctions lists. Should any screening checks flag an issue where we cannot continue in a contract with a customer or supplier, they will always be informed.
 
-To ensure compliance with international trade sanction laws and regulations, we screen customers, vendors and suppliers against US, OFAC, BIS, UN, EU and UK sanctions lists. Should any screening check flag an issue where we cannot continue in a contract with a customer or supplier, they will always be informed.
+### 4\. EBD Partnering Services
 
-## **How we protect personal information**
+This section applies to anyone who uses the EBD partnering services (partneringONE® and partnering360®).
 
-**Any personal information given to us will be treated with the utmost care and security.** **This section sets out some of the security measures in place.** **  **
+### 4.1 Usage information
 
-A variety of physical and technical measures is used to keep data safe and prevent unauthorised access to, or use or disclosure of personal information.
+In your use of EBD products and services, you will generate “Usage Information”.
+
+a) This includes your messages, participants of meetings, and information on how you use the products.
+
+b) Your Usage Information will be stored to facilitate your future use of EBD’s products and services, but will only ever be disclosed by EBD in aggregate form and no specific business relationships will be identifiable.
+
+c) Messages you send and receive on partneringONE, and the identity of meeting participants, are the property of your company and are potentially visible to all of your colleagues and the companies you have communicated with.
+
+d) Messages you send and receive on partnering360 are personal to you and are not shared with your colleagues.
+
+### 4.2 Using your information
+
+a) When you register to use one of EBD’s services or products (“Registered User”), for example, by registering for an event and submitting personal information to partneringONE, or by becoming a member of partnering360® you agree that your personal information can be reproduced, replicated, published, displayed, disseminated, and downloaded and printed for personal use by all other registered users of that event, service or product. You also agree that EBD may use personal information for internal recording keeping, analysis, research, product development and for answering your queries.
+
+b) If you have posted information about licensing opportunities in your company’s profile and selected the option to make such information available to other partneringONE users, you agree that other users (such as pharmaceutical companies) shall be entitled to view and export such information in order to facilitate their in-house evaluation and management of licensing opportunities. EBD will not disclose your email address or direct telephone number in connection with any product (other than as disclosed in this Privacy Policy) unless you include those contact details in such licensing opportunity information and select this option.
+
+c) You agree that EBD can display certain limited personal information on publicly accessible pages of our websites, which are visible to website visitors who are not registered users. EBD may choose to display information such as your name, job title, company name, country, a company profile copied or abstracted from company data you have provided (including company address, categories and description), and an indication that you attend and that your company is represented at certain specified events. You also agree that any messages you post as part of group discussions will be publicly visible.
+
+d) If you participate in events or services run by a third party using EBD platforms (for example, at which EBD is providing only the partnering service) you agree that EBD can disclose your personal information to that third party. You should review such third party’s terms and conditions and privacy policy and satisfy yourself that the third party handles your information in an appropriate way, as their agreement with you is separate to and independent of EBD’s agreement with you.
+
+e) Contacting us – to speak to us about how EBD uses your information or to update your marketing preferences for EBD only, please
+
+Email: [contact@ebdgroup.com](mailto:contact@ebdgroup.com)
+
+Telephone: +41 43 500 35 45
+
+Write to us: EBD GmbH, Baarerstrasse 139, 6300 Zug, Switzerland
+
+You can also contact us using the information provided below in section 10 - Contacting Us.
+
+### 5\. How we protect personal information
+
+Any personal information given to us will be treated with the utmost care and security. This section sets out some of the security measures in place.
+
+A variety of physical and technical measures are used to keep data safe and prevent unauthorised access to, or use or disclosure of personal information.
 
 Electronic data and databases are stored on secure computer systems and we control who has access to information, using both physical and electronic means. Our colleagues receive data protection training, and we have detailed security and data protection policies that colleagues are required to follow when handling personal data.
 
 All reasonable steps are taken to ensure that your personal information is kept secure from unauthorised access, but we cannot guarantee it will be secure during the transmission process to this website because this transmission is not controlled by us. We make use of HTTPS (HTTP Secure) whereby the communication protocol is encrypted via Transport Layer Security for secure communication over a computer network. The website is loaded via HTTPS, represented by the lock icon in your web browser, which ensures the transmission is secure and is demonstrated by a certificate issued by an official security certificate authority to us.
 
-### **International transfer of personal information**
+### 5.1 International transfer of personal information
 
 As an international business and because of the technologies we use, personal information may be accessed by our colleagues and third-party service providers from locations outside of the European Economic Area, whose data protection laws may not be as extensive as those in Europe.
 
 To ensure the same level of protection is in place when processing is conducted outside the European Economic Area, we use appropriate safeguards approved by the European Commission.
 
-We apply appropriate protection to make sure your personal data remains adequately protected and is treated in line with this Policy. Informa Engage has put in place international data transfer agreements between its companies and with relevant third-party service providers based on standard contractual clauses approved by the European Commission.
+We apply appropriate protection to make sure your personal data remains adequately protected and is treated in line with this Privacy Policy. KNect365 has international data transfer agreements between its companies and with relevant third-party service providers based on standard contractual clauses approved by the European Commission.
 
-### **Cookies**
+### 5.2 Cookies
 
-A cookie is a small text file containing a user ID that is automatically placed on a user’s computer or other device when visiting a website. Cookies record the pages visited and the actions taken on a website, but do not contain any personal information. From time to time, we may use cookies for purposes including administering the Website; tracking your activity on the Website; gathering broad demographic information for aggregate use to improve the Website; and offering time-saving or personalized features on the Website. For more information, please visitthe Cookie Policy for the site you are using, which can be found in the website footer.
+We use cookies (small text files stored in your browser) and other techniques such as web beacons (small, clear picture files used to follow your movements on our website). These collect information that tells us how our websites, web-related products and services are used.
 
-### **Third Party Links**
+This, in turn, helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details to recognise you if you visit our website again. For more information please visit our [Cookie Policy](https://web.archive.org/privacy-centre/our-cookie-policy/).
 
-This website contains links to websites of other businesses, including potentially websites of other businesses within Informa. These businesses will have their own privacy policies, tailored to their particular business practices and the sectors in which they operate, and if following those links, we recommend reviewing the privacy policy of each website to understand how personal data is used in that instance. The inclusion of links to these websites does not imply an endorsement or validation of their content, and we are not responsible for their privacy practices, nor do we accept any liability in connection with the content on such websites.
+### 5.3 Third-party links
 
-These third-party product providers may share your information with us, which we will use in accordance with this policy. In some cases, they will be acting as a controller of your information and therefore we advise you to read their privacy policy.
+This website contains links to other websites of event and media partners or customers’ companies and online assets and other businesses within Informa. These businesses will have their own privacy policies, tailored to their particular business practices and the sectors in which they operate, and if following those links, we recommend reviewing the privacy policy of each website to understand how personal data is used in that instance. The inclusion of links to these websites does not imply an endorsement or validation of their content, and we are not responsible for their privacy practices nor do we accept any liability in connection with the content on such websites.
 
-## **Who we share personal information with**
+We also do not take any responsibility for any posts or links posted on bulletin boards or chat areas on our websites (including any third-party links that may be posted).
 
-**As an international company, to provide you with services and products we may share your information for specific reasons. This section explains how and why we share personal data with other companies within the Informa Group , our suppliers, and other third parties.**
+### 6\. Who we share personal information with
 
-** ** **Sharing with Informa Group companies**  
-We may share your personal information with certain other companies within Informa for specific purposes.  For example, other Informa companies may assist us in providing products and services to you, in carrying out internal analysis of the usage of products and services, or in offering products and services which may be of interest.
+As an international company providing you with services and products, we may share your information for specific reasons. This section explains how and why we share personal data with other companies within Informa, suppliers and other third parties.
 
-**Sharing with Service Providers**  
-We may share your personal information with the following types of third parties, to assist us in providing products and services to you:
+### 6.1 Sharing with Informa Group companies
 
-  * Email marketing providers
-  * Web hosting providers
-  * Customer service providers
-  * Researchers
-  * Analytics providers
-  * Content platform providers
-  * Event collaboration partners
+We may share your personal information with certain other companies within Informa Group for specific purposes. For example, other Informa companies may assist in providing products and services to you, carry out internal analysis of the usage of products and services, or offer relevant products and services which may be of interest.
+
+### 6.2 Sharing with Service Providers
+
+We may share your personal information with third parties to assist in providing our products and services, including:
+
+  * Email marketing providers,
+  * Web hosting providers,
+  * Software development vendors,
+  * Registration companies, or
+  * Academic institutions for our distance learning and training courses
 
 
 
-We only share your personal information with such third parties, if and to the extent necessary for them to provide such assistance.
+We only share personal information with such third parties to the extent necessary for them to provide such assistance.
 
-**Sharing with other Organisations**  
-We may share your personal information with trusted partner organisations for their marketing purposes, in accordance with local data laws and where appropriate your consent.  If your personal information is subject to European data protection laws, we will not share it with third parties for their marketing purposes, unless you have actively given us your consent to do this.
+### 6.3 Sharing with other Organisations
 
-We may also share your personal information with third parties in the event of a sale, merger, acquisition, partnership, joint venture, or negotiations related to the same with respect to all or part of our business.
+We may share your personal information with trusted event and media partner organisations for their marketing purposes in accordance with local data laws. If your personal information is subject to European data protection laws, we may share your personal information with third parties for informative and marketing purposes, unless you tell us otherwise. If you are based in Canada, will only pass on your information to our third-party partners for marketing purposes where we have your consent to do so.
+
+We may share your personal information with third parties outside Informa Group in the event of a sale, merger, acquisition, partnership, joint venture, or negotiations related to the same with respect to all or part of our business.
 
 In some circumstances, we may be legally required to disclose your personal information, because a court, the police, another judicial or law enforcement body, or government entity has asked us for it.
 
-## **How long information is kept**
+### 7\. How long information is kept
 
-**We will only retain your personal information for as long as is necessary and as permitted by applicable laws.   **
+We will only retain your personal information for as long as is necessary and as permitted by applicable laws.
 
-We will retain your personal information while we are using it, as described in the section above, and may continue to retain it after these uses have ended where we have a legitimate business purpose. For example, if you have opted out of marketing communications from us, we will retain limited details about you to ensure we can honor your opt-out request. We may also continue to retain your personal information to meet our legal requirements or to defend or exercise our legal rights.
+We will retain your personal information while we are using it, as described in the section above and may continue to retain it after these uses have ended where we have a legitimate business purpose. For example, if you have opted out of marketing communications from us, we will retain limited details about you to ensure the opt-out request is honoured. We may also continue to retain your personal information to meet our legal requirements or to defend or exercise our legal rights.
 
-Personal information will only be retained for as long as is necessary and as permitted by applicable laws. The length of time for which we will retain your personal information will depend on the purposes for which we need to retain it. After we no longer need to retain your personal information, it will be deleted or securely destroyed.
+The length of time for which we will retain personal information will depend on the purposes for which it is retained it. After we no longer need to retain your personal information, it will be deleted or securely destroyed.
 
-## **How to update your information and marketing preferences**
+### 8\. How to update your information and marketing preferences
 
-**We want to ensure you remain in control of your personal information. We try to ensure that the personal information held about you is accurate and up-to-date, and will always give the opportunity to opt out of future marketing communications.**
+We want to ensure you remain in control of your personal information. We try to ensure that the personal information held about you is accurate and up-to-date, and will always give you the opportunity to opt out of future marketing communications.
 
-We will process your data to send marketing information that we believe is targeted and of interest to you. If you are a registered user, you can access your account information and make corrections or updates upon log-in.  The accuracy of such information is solely your responsibility.
+We will process your data to send marketing information that we believe is targeted and of interest to you. Information on how to opt out will be given when your personal information is collected and specified on every marketing email sent. If at any stage you would like to update or correct such personal information, or opt-out of future marketing communications, email [integrity@informa.com](mailto:integrity@informa.com) or write to us at: Database Manager, KNect365, Maple House, 149 Tottenham Court Road, London W1T 7AD.
 
-Information on how to opt out will be given when your personal information is collected and specified on every marketing email sent. You may opt-out of our email marketing lists by following the directions at the bottom of our emails. Please note that Informa Engage has a number of brands and products and we allow you to opt-out selectively.  To remove a specific email address from all of Informa’s marketing communications, send a request to [privacy@informa.com](mailto:privacy@informa.com). If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand, or contact the brand directly.
+### 9\. Your Rights
 
-You may receive email marketing messages from us about other companies’offerings as part of a business partner marketing program. To opt-out of a business partner marketing email program, follow the instructions at the bottom of any email sent as part of the program. Please note that opting-out of promotional mailings will not affect delivery of your subscription-based products.
+Informa operates in countries with data protection laws that may provide individuals the right to be able to access and control their information. We always will enable you to exercise those rights as provided by data protection laws.
 
-To remove a specific phone number or fax number from a specific brand’s marketing communications, please follow the opt-out directions provided during or in those communications.  To remove a specific phone/fax number from all of Informa’s marketing communications, send a request to [privacy@informa.com](mailto:privacy@informa.com).
+EU data protection laws give individuals a number of rights, where their data and information is processed by companies established in Europe. Under General Data Protection Regulation these are:
 
-## **Your rights**
-
-**Informa  Engage operates in countries with data protection laws that may provide individuals the right to be able to access and control their information. We always will enable you to be able to exercise the rights provided by data protection laws.**
-
-EU data protection laws give individuals a number of rights, where their data and information is collected and used by companies that are active and operating in Europe. Under the General Data Protection Regulation, these are:
-
-  * The right to confirmation whether or not we have your personal data and, if we do, to obtain a copy of the personal information we hold. This is known as subject access request;
+  * The right to confirmation whether or not we have your personal data and, if we do, to obtain a copy of the personal information we hold. This is known as a subject access request;
   * The right to have inaccurate data rectified;
   * The right to have your data erased. This does not however apply where it is necessary for us to continue to use the data for a lawful reason;
-  * The right to request the restriction or suppression of their personal data, such as, we will stop using the data but we may continue storing it)
+  * The right to request the restriction or suppression of personal data. We will stop using the data but we may continue storing it
   * The right to obtain your personal data that you have provided to us, on the basis of consent or performance of a contract, and where technically feasible, transmitted in a common electronic format to you or directly to another company.
   * The right to object to the use of your data. Specifically, you have the right to object to our use for marketing and in relation to automated decision making, including profiling where there may be legal or similarly significant effects.
 
 
 
-There are exceptions to the rights above. Where you make a request to us as part of these rights, we will always try to respond to your satisfaction, although there may be situations where we are unable to do so.
+There are exceptions to the rights above. We will always try to respond to your satisfaction, although there may be situations where we are unable to do so.
 
-Depending on the laws of the country where you live, you may have other rights in respect of your personal information. If you wish to exercise any legal right in respect of your personal information, please contact us via one of the methods set out in the Contact Us section below.
+Depending on the laws of the country where you live, you may have other rights in respect of your personal information. If you wish to exercise any legal right in respect of your personal information, please contact us via one of the methods set out in  section 10 below - Contacting Us.
 
 In some cases, we may be entitled to decline a request you have made regarding your personal information, in accordance with application laws. We will explain if that is the case. Otherwise, we will meet your request as promptly as we reasonably can. If you have requested that we stop sending you marketing messages, please note that you may still receive them for a short period while the request is processed.
 
-If you would like further information on your rights or wish to exercise them, please write to our Group Data Protection Officer at Informa, 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com).
+For further information on your rights or to exercise them, write to our Group Data Protection Officer at Informa, 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com)
 
-**If you have any questions about this Privacy Policy, contact our Group Data Protection Officer**
+### 10\. Contacting us
 
-If you would like further information on your rights or wish to exercise them, please email, [privacy@informa.com](mailto:privacy@informa.com) or write/call us at: Informa Customer Service, 9800 Metcalf Avenue Overland Park, KS 66212, Phone: 913-967-1710.
+If you have any questions about this Privacy Policy, please feel free to contact us.
 
-You can also contact Informa’s Group Data Protection Officer at Informa, 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com).
+If you have any questions about this Privacy Policy or our use of your information, please contact us by [dataprivacy@knect365.com](mailto:dataprivacy@knect365.com) or write to us at:
 
-We hope to resolve any privacy concerns you may have.
+Data Privacy Office, Knect365, Maple House, 149 Tottenham Court Road, London W1T 7AD.
 
-**Changes to Privacy Policy**
+You can also contact the Group Data Protection Officer for Informa at 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com)
 
-In order to keep up with changing legislation, best practice and changes in how we process personal data, we may revise this Privacy Policy at any time and without notice by posting a revised version on this website. Checking back periodically will mean you are aware of any changes. This Privacy Policy should be read in conjunction with the website’s Terms and is also subject to these Terms.
+We hope to resolve any privacy concerns you may have. If you are not happy with our response, or you believe that your data protection or privacy rights have been infringed, you can complain to any supervisory authority or other public body with responsibility for enforcing privacy laws. In the UK, the UK Information Commissioner’s Office regulates and enforces data protection law - their procedures can be found at [www.ico.org.uk](https://ico.org.uk/).
 
-This Privacy Policy was last updated on May 23, 2018.
+### 11\. Changes to Privacy Policy
+
+To keep up with changing legislation, best practice and changes in how we process personal data, this Privacy Policy may be revised at any time without notice by posting an updated version on this website. Checking back periodically will mean you are aware of any changes.
+
+This Privacy Policy was last updated on 22 May 2018.
