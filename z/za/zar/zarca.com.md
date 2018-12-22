@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622230955id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222083054id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,7 +87,7 @@ We do not share Information with any third parties except under the following ve
 
 **(c) Agents Acting on Our Behalf:** We may share some of your Information with other companies who provide us with technical and other type of services such as a credit card processor. They will be contractually granted access to only that Information which is necessary for them to do their jobs and they will be prohibited from using the Information for any other purpose including marketing or sharing the Information with any other party. We do not share any personally identifiable information with third parties who are not services providers.
 
-**(d) For Legal Reasons:** We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. Please note that under the Privacy Shield Framework, Zarca and is Customers may be subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, the Department of Transportation, or any other U.S. authorized statutory body, relating to the use and disclosure of Information.
+**(d) For Legal Reasons:** We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. Please note that under the Privacy Shield Framework, Zarca and is Customers may be subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, or any other U.S. authorized statutory body, relating to the use and disclosure of Information.
 
 **(e) Affiliates and Acquisition:** We may share Information with our affiliated companies or during any real or potential acquisition or merger of our company by or with another. We will notify you if your Information becomes subject to a different privacy policy.
 
@@ -114,7 +114,7 @@ Zarca complies with the U.S.-E.U. Privacy Shield Framework and the U.S.-Swiss Pr
 
 For purposes of our Customers that require compliance with the U.S.-E.U. or U.S.-Swiss Privacy Shield Framework, Zarca undertakes the following alternative dispute resolution process relating to privacy complaints and final resolutions: the independent dispute resolution body designated to address complaints and provide appropriate recourse, free of charge, to the individual, shall be through an arbitration panel, in accordance with the EU data protection authorities (“DPAs”), and the Swiss Federal Data Protection and Information Commissioner (“FDPIC”), with all privacy, including human resource (“HR”) and non-HR related complaints being addressed by said mechanism.
 
-In compliance with the Privacy Shield Principles, Zarca Interactive Inc., commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact at [privacy@zarca.com](mailto:privacy@zarca.com), and include the statement “Privacy Complaint” in the subject line of your email. Or you may contact us via mail, at:
+In compliance with the Privacy Shield Principles, Zarca Interactive Inc., commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact at [privacy@zarca.com](mailto:privacy@zarca.com)and include the statement “Privacy Complaint” in the subject line of your email. Or you may contact us via mail, at:
 
 2291 Wood Oak Drive  
 Suite 300  
@@ -136,4 +136,4 @@ If you have questions about this Privacy Policy or the Site, you may contact us 
 Suite 300  
 Herndon, VA 20171
 
-Last Updated: 11/3/2017
+Last Updated: 11/5/2018
