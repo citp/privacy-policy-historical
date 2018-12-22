@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteerhq.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630181708id_/https%3A//www.volunteerhq.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhq.org privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222043203id_/https%3A//www.volunteerhq.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | International Volunteer HQ
 
@@ -68,7 +68,7 @@ _Independent Local Teams_ : These organisations are independent from IVHQ and ac
 
 _Your emergency contact or insurer_ : In some circumstances, such as in emergencies or when volunteer safety is a concern, it is appropriate for IVHQ to share your personal information with your listed emergency contact or your insurance provider.
 
-_Our flights partners_ : Where a volunteer notifies IVHQ that they wish to receive quotations for flights or other travel services, we may share personal information such as your name, email address, travel dates, destination and home city with our flights partner. This information is provided solely for the purpose of providing a quotation that is relevant to your proposed travel.
+_Our flights partners_ : Where a volunteer notifies IVHQ that they wish to receive quotations for flights or other travel services, we may share personal information such as your name, email address, travel dates, destination and home city with our flights partners. This information is provided solely for the purpose of providing a quotation that is relevant to your proposed travel.
 
 _Your university or school_ : Where a volunteer applies using a school or university email address, or indicates that they are a student of an educational institution, we may share your name, contact details and the program details with this institution.
 
@@ -115,7 +115,7 @@ Email us: [info@volunteerhq.org](mailto:info@volunteerhq.org)
 
 Call us:
 
-  * International - +64 6 758 7949
+  * International - +64-6-758-7949
   * USA/Canada Toll Free - 1-877-342-6588
   * UK Toll Free - 0-808-234-1621
   * Australia Toll Free - 1-800-557-380
