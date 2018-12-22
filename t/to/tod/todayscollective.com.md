@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayscollective.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529105815id_/https%3A//todayscollective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayscollective.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222053035id_/http%3A//todayscollective.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Today's Collective
 
