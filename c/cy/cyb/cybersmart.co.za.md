@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybersmart.co.za privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623064007id_/https%3A//lightspeed.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybersmart.co.za privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222211601id_/https%3A//lightspeed.co.za/privacy.php) for the most accurate reproduction.*
 
 # Lightspeed Privacy Policy
 
