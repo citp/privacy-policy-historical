@@ -1,31 +1,21 @@
-> *The following text is extracted and transformed from the bitbin.it privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129101008id_/https%3A//bitbin.it/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitbin.it privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222191438id_/https%3A//bitbin.it/privacy_policy) for the most accurate reproduction.*
 
 # BitBin
 
 This Privacy Policy governs the manner in which BitBin collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.bitbin.it](http://www.bitbin.it/) website ("Site"). This privacy policy applies to the Site and all products and services offered by BitBin.
 
-**Personal identification information**
+**Collected information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+BitBin collects and processes various types of information in order to operate the site. The information includes:
 
-**Non-personal identification information**
+**IP address**. An anonymized version of your IP address is saved when viewing pages and posting information on BitBin. This is done to count paste hits accurately, and to help detect fraudulent activity such as automated traffic or spam.   
+**Username and password**. If you register to this site, your username and a cryptographic hash of your password will be stored to securely identify and authenticate you.   
+**Paste text**. Any paste text you upload will be stored until the paste is deleted. Paste text is stored and displayed in clear text by default: you can use BitBin's client-side encryption to encrypt your paste if you wish to. In this case, BitBin only stores and serves an encrypted copy of the paste text.   
+**User data**. If you have registered as an user, BitBin stores other data such as records of cryptocurrency transactions, whether your favorites are public, and other data you have changed or created during your activities on the site. This information is preserved until the deletion of your user account, at which point they may be deleted or stripped of personally identifying data.   
+**Cookies**. BitBin uses web cookies to allow you to login and use the features available to logged in users.   
+**Browser information**. Non-identifying browser information, such as the web browser name and version. If BitBin fails to fulfill a request due to a technical issue, BitBin will collect such data related to the request in order to help discover and fix the issue.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-**Web browser cookies**
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-**How we use collected information**
-
-BitBin may collect and use Users personal information for the following purposes:
-
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-
-
+Data stored by BitBin is NOT shared with third-parties. Copies of data hosted outside BitBin's server(s) are transferred and stored in an encrypted format, with only BitBin having access to the unencrypted, original data.
 
 **How we protect your information**
 
@@ -39,13 +29,9 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-**Advertising**
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
 **Changes to this privacy policy**
 
-BitBin has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+BitBin has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
 
 **Your acceptance of these terms**
 
@@ -58,4 +44,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.bitbin.it](http://www.bitbin.it/)  
 jannepulk@gmail.com
 
-This document was last updated on August 14, 2012
+This document was last updated on May 14th, 2018
