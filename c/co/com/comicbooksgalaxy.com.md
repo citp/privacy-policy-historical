@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbooksgalaxy.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523093344id_/http%3A//comicbooksgalaxy.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbooksgalaxy.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222231927id_/http%3A//comicbooksgalaxy.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | CBG
 
