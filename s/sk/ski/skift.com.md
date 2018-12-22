@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skift.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627220252id_/https%3A//www.skift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skift.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222202551id_/https%3A//skift.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Skift
 
-**UPDATED AND REVISED AS OF MAY 11, 2018**
+**UPDATED AND REVISED AS OF SEPTEMBER 26, 2018**
 
 This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Skift, Inc and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
@@ -59,7 +59,7 @@ Skift does not rent, sell, or share personal information about you with other pe
 
 We may provide personal information about our users to trusted partners and vendors who work on behalf of or with Skift under confidentiality and similar agreements prohibiting such parties’ further use of the information. These companies may use your personal information to help Skift communicate with you about offers from Skift and our marketing partners. However, these companies do not have any independent right to use or share this information.
 
-When you register for a contest, event, virtual trade-show, or other promotion that is sponsored by a third party, the third party will be provided personal information unless otherwise posted in connection with the promotion. This is noted on all forms upon submission. 
+When you register for a contest, event, virtual trade-show, or other promotion that is sponsored by a third party, the third party will be provided personal information unless otherwise posted in connection with the promotion. This is noted on all forms upon submission.
 
 ### DISPLAY OF ADVERTISING
 
@@ -122,7 +122,7 @@ We’ll also continue to monitor the guidance around GDPR compliance from privac
 
 Fulfilling our privacy and data security commitments is important to us. So we’re happy to help you prepare for all the changes the GDPR brings. This page will be revised to reflect GDPR-related information as it becomes available. If you have any questions about how Skift can help you with compliance, we hope you’ll reach out to us at [infosecurity@skift.com](mailto:infosecurity@skift.com).
 
-This privacy policy applies to all Skift websites including <http://skift.com/>; <https://research.skift.com/>; <https://forum.skift.com/> and all sites with this domain including, but not limited to <https://forum.skift.com/europe/>, <https://forum.skift.com/tech/>, <https://forum.skift.com/newyork/>; <https://edu.skift.com/>; <https://skiftx.com/>; <https://table.skift.com/>, <http://gadling.com/>.
+This privacy policy applies to all Skift websites including <http://skift.com/>; <https://research.skift.com/>; <https://forum.skift.com/>, [https://airlineweekly.skift.com](https://airlineweekly.skift.com/), [https://wellness.skift.com](https://wellness.skift.com/) and all sites with this domain including, but not limited to <https://forum.skift.com/europe/>, <https://forum.skift.com/tech/>, <https://forum.skift.com/newyork/>, <https://edu.skift.com/>, <https://skiftx.com/>, <https://table.skift.com/>, <http://gadling.com/>.
 
 ### CONTACT DETAILS
 
