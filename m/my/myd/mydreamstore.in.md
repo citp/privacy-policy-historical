@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydreamstore.in privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119214610id_/https%3A//mydreamstore.in/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydreamstore.in privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222192656id_/https%3A//mydreamstore.in/cms/privacy-policy) for the most accurate reproduction.*
 
 # My Dream Store
 
