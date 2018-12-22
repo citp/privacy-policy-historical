@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612134454id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222110616id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
 
 # Casino City: Privacy Policy
 
