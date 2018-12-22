@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gearnuke.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626163627id_/http%3A//gearnuke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearnuke.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222204540id_/https%3A//gearnuke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GearNuke
 
-This Privacy Policy governs the manner in which GearNuke collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://gearnuke.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by GearNuke.
+This Privacy Policy governs the manner in which GearNuke collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://gearnuke.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by GearNuke.
 
  **Personal identification information**
 
@@ -64,7 +64,7 @@ By using this Site, you signify your acceptance of this policy If you do not agr
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[GearNuke](http://gearnuke.com/)  
-<http://gearnuke.com/>  
+[GearNuke](https://gearnuke.com/)  
+<https://gearnuke.com/>  
 7618 Cinder Freeway, Red Herring, West Virginia, 25055-6430, United States, (681) 776-5317  
 media@gearnuke.com
