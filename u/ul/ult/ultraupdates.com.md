@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultraupdates.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630115953id_/https%3A//www.ultraupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraupdates.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222042541id_/https%3A//www.ultraupdates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ultra Updates - Graphic, Quotes & Web Design Inspiration
+# Privacy Policy – Ultra Updates – Quotes, Web & Graphic Design Inspiration
 
   
 
