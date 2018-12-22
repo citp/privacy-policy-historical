@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630142759id_/https%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222011603id_/https%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Communities Digital News
 
@@ -51,7 +51,7 @@ Communities Digital News email list collects email addresses and zip codes; This
 
 Email addresses will never be sold, bartered, or provided to any third party for any reason.
 
-We do not collect information from readers / site visitors who email writers or Communities Digital News ([[email protected]](https://web.archive.org/web/20180630142759id_/https://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
+We do not collect information from readers / site visitors who email writers or Communities Digital News ([jacquie.kubin@commdiginews.com](https://web.archive.org/web/20181222011603id_/https://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
 
 **_Data Collected in Connection with Emails_**
 
@@ -71,7 +71,7 @@ These advertiser platforms are guided by their own privacy policies.  Advertise
 
 Of those advertisements, they are delivered from hundreds of Advertisers across a multitude of Digital Content Provider properties. When you visit one of these properties, our automated system may collect “click stream data” related to your visit to the property.
 
-Please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#602a0103111509054e0b1502090e20030f0d0d150e09140905130409070914010c0e0517134e030f0d) if any advertising is seen as questionable or offensive.  Please note the advertisers name, and if possible, link the ad goes to.
+Please contact [Jacquie.kubin@communitiesdigitalnews.com](mailto:Jacquie.kubin@communitiesdigitalnews.com) if any advertising is seen as questionable or offensive.  Please note the advertisers name, and if possible, link the ad goes to.
 
 > _Click Stream Data is a virtual trail that a user leaves behind while  [surfing](http://www.webopedia.com/TERM/S/surf.html) the Internet. A clickstream is a record of a user’s activity on the Internet, including every Web site and every page of every Web site that the user visits, how long the user was on a page or site, in what order the pages were visited, any [newsgroups](http://www.webopedia.com/TERM/N/newsgroup.html) that the user participates in and even the e-mail addresses of mail that the user sends and receives. Both [ISPs](http://www.webopedia.com/TERM/I/ISP.html) and individual Web sites are capable of tracking a user’s clickstream. (definition provided by http://www.webopedia.com/TERM/C/clickstream.html)_
 
@@ -105,8 +105,8 @@ Therefore, while we strive to protect your personal data at all times, we cannot
 
 Communities Digital News, LLC  
 A Maryland Limited Liability Corporation  
-Contact: Jacquie Kubin – [[email protected]  
-](https://web.archive.org/cdn-cgi/l/email-protection#c58fa4a6b4b0aca0ebaeb0a7acab85a6aaa8a8a1aca2acaba0b2b6eba6aaa8)301-503-4533
+Contact: Jacquie Kubin – [Jacquie.kubin@commdiginews.com  
+](mailto:Jacquie.kubin@commdiginews.com)301-503-4533
 
 **GDPR COMPLIANCE**
 
@@ -114,7 +114,7 @@ The General Data Protection Regulation (“GDPR”), which takes effect on May 2
 
 We may engage secure third-party companies to store or process your personal data in the United States or in other countries. If you are a resident of the European Economic Area ( **“EEA”** ) we will take appropriate measures to ensure that your personal data receives an adequate level of data protection upon its transfer outside of the EEA. If you are a resident of a jurisdiction where transfer of your personal data requires your consent, then your consent to this Privacy Policy includes your express consent for such transfer of your data.
 
-If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, (3) correct, supplement or modify your information, you may either send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or a written request to:
+If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, (3) correct, supplement or modify your information, you may either send an e-mail to jacquie.kubin@commdiginews.com, or a written request to:
 
 **Communities Digital News LLC, Attn: Privacy Policy/ Data Protection Officer, PO Box 763, Rockville MD, 20852**
 
