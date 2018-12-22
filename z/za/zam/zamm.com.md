@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605015945id_/http%3A//www.zamm.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222223955id_/http%3A//www.zamm.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zamm.com | My Movies
 
