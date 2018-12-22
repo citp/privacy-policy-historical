@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the kinonation.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615070619id_/http%3A//filmhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinonation.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222104251id_/http%3A//www.filmhub.com/privacy) for the most accurate reproduction.*
 
 # Filmhub | Privacy Policy
 
-This privacy policy sets out how Kinonation uses and protects any information that you give Kinonation when you use this website. Kinonation is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Kinonation may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+When you use Filmhub you are trusting us with your information. We understand that this is a big responsibility and work hard to protect your information. This privacy policy sets out how Filmhub uses and protects any information that you give us when you use this website. Filmhub is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Filmhub may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ### What we collect
 
 We may collect the following information:
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * Personal Information. This is information that personally identifies you, such as your name, email, and address
+  * Business Information. This is information that identifies a company that you are associated with, such as company name, company address
+  * Payment Information. This is information that we need in order to pay you. This includes information such as taxpayer identification, country of residence, and PayPal account. Only you can update your Payment Information.
+  * other information relevant to customer surveys and/or offers, such your personal interest and preferences that you provide to us.
 
 
 
@@ -30,6 +30,10 @@ We require this information to understand your needs and provide you with a bett
 
 We will never sell your information.
 
+### Managing, Reviewing, and Updating your information
+
+When you are signed in, you will be able to review and update your information.
+
 ### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
@@ -46,13 +50,12 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ### Links to other websites
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide when visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 ### Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [contacting us](https://filmhub.zendesk.com/hc/en-us/requests/new)
 
 
@@ -62,3 +65,7 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [contact us](https://filmhub.zendesk.com/hc/en-us/requests/new).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+### About Us
+
+Filmhub is the name used by Kinonation, Inc. a Delaware corporation.
