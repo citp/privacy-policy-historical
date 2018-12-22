@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popthatzit.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622062544id_/http%3A//www.popthatzits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popthatzit.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222192813id_/https%3A//www.popthatzits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -72,3 +72,5 @@ If you have any questions about these Terms, please address them to [legull disp
 ## Last Updated
 
 These terms were last updated on _[legull display=”last_updated”]_
+
+﻿ 
