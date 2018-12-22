@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uinterview.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617140707id_/http%3A//uinterview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uinterview.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222080148id_/http%3A//uinterview.com/privacy) for the most accurate reproduction.*
 
-# Privacy - uInterview
+# Privacy |
 
 Use of this Web site constitutes acceptance of our Privacy Policy and Terms of Use.
 
