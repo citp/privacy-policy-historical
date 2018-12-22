@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002224215id_/https%3A//www.gigmasters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222150356id_/https%3A//www.gigmasters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,7 +103,7 @@ If you participate in certain public or community areas of our Site, such as a c
 
 **Your California Privacy Rights**
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes, send us an e-mail by clicking <http://www.gigmasters.com/contact>. To find out more about your opt-out rights, see the "Opt-in and Opt-out Section" section above.
+California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, send us an e-mail by clicking <http://www.gigmasters.com/contact>. To find out more about your opt-out rights, see the "Opt-in and Opt-out Section" section above.
 
 **Social Networking**
 
@@ -135,7 +135,7 @@ You may be able to review, update or modify certain of the Personal Information 
 
 **Company Testimonials/Notable Quotes**
 
-We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We may post the testimonial or notable quote with certain information, such as first name and last initial, event type, city, state, and quote for use on our company's Testimonials page (<http://www.gigmasters.com/testimonials>) and in our Notable Quotes sections. We may also post the customer’s full first and last name along with his or her testimonial, but will obtain the customer's consent prior to posting the full first and last name by  sending an e-mail to the customer to obtain consent to use his/her full first and last name. Requests for removal of a customer testimonial associated with personally identifiable information can be done in two ways:
+We post customer notable quotes on our web site which may contain personally identifiable information such as the customer’s name. We may post the testimonial or notable quote with certain information, such as first name and last initial, event type, city, state, and quote for use on our company’s Testimonials page (<http://www.gigmasters.com/testimonials>) and in our Notable Quotes sections. We may also post the customer’s full first and last name along with his or her testimonial, but will obtain the customer’s consent prior to posting the full first and last name by  sending an e-mail to the customer to obtain consent to use his/her full first and last name. Requests for removal of a customer testimonial associated with personally identifiable information can be done in two ways:
 
   1. Email <http://www.gigmasters.com/contact>
   2. Telephone: 866-342-9794
@@ -162,6 +162,6 @@ We may change this Policy from time to time. When we do, we will let you know by
 
 **Contact Us**
 
-If you have any questions or comments regarding our privacy practices, you should first contact us by email [at](http://at/)<http://www.gigmasters.com/contact>. You may also write to GigMasters.com, Incorporated, at 33 South Main Street, Norwalk, CT 06854 or call (866)-342-9794.
+If you have any questions or comments regarding our privacy practices, you should first contact us by email at <http://www.gigmasters.com/contact>. You may also write to GigMasters.com, Incorporated, at 50 Washington St., Ste 201 E, Norwalk, CT 06854 or call (866)-342-9794.
 
-**Last Updated: July 25** **, 2016**
+**Last Updated: March 19** **, 2018**
