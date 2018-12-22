@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709021656id_/https%3A//desihoes.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222201729id_/https%3A//www.desihoes.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Desi South Asian Sex Scandals
+
+Our website is made possible by displaying online advertisements to our visitors.  
+Please consider supporting us by disabling your ad blocker. 
 
 ## Privacy Policy
 
@@ -12,7 +15,7 @@ This Privacy Policy applies solely to the DesiHoes Site. The Site may contain li
 
 ## Information Collected on this Site
 
-When you visit the Site, we may collect passive information about your visit. Passive information is any form of aggregate data, navigational data, tracking data, click-stream data, or historical data. It may include the domain name of your internet service provider (e.g., whether you logged on from aol.com or whitehouse.gov), referral data (e.g., the address of the last URL you visited prior to clicking through to the Site) and browser and platform type (e.g., a Firefox browser on a Macintosh platform). We use this information to track how users are accessing and using the Site. In addition, when you visit the Site we generally collect the IP Address of the computer you are using to access the Site. (An IP, or "Internet Protocol," address is a unique number associated with your computer, that may be communicated to other computers and servers when you use the Internet.) We use this information for purposes of security and anti-fraud protection. DesiHoes also uses cookies and/or web beacons. (A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive, and that may be accessed when you use a website. A web beacon is a small, transparent graphic image placed on a website, which allows the site to record the actions of a visitor opening the page that contains the beacon.) We may use cookies or web beacons to: (1) determine whether visitors to the Site are unique, or whether the same user is visiting the site on multiple occassions; (2) help deliver advertisements; (3) track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) store your agreement to the terms and conditions for entering and using the Site; (5) monitor aggregate metrics such as total number of visitors, pages viewed, etc. These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. DesiHoes does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the DesiHoes [ Terms of Service](https://www.desihoes.com/static/terms), in the event of a dispute between DesiHoes and you, or if required by law to do so.
+When you visit the Site, we may collect passive information about your visit. Passive information is any form of aggregate data, navigational data, tracking data, click-stream data, or historical data. It may include the domain name of your internet service provider (e.g., whether you logged on from aol.com or whitehouse.gov), referral data (e.g., the address of the last URL you visited prior to clicking through to the Site) and browser and platform type (e.g., a Firefox browser on a Macintosh platform). We use this information to track how users are accessing and using the Site. In addition, when you visit the Site we generally collect the IP Address of the computer you are using to access the Site. (An IP, or "Internet Protocol," address is a unique number associated with your computer, that may be communicated to other computers and servers when you use the Internet.) We use this information for purposes of security and anti-fraud protection. DesiHoes also uses cookies and/or web beacons. (A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive, and that may be accessed when you use a website. A web beacon is a small, transparent graphic image placed on a website, which allows the site to record the actions of a visitor opening the page that contains the beacon.) We may use cookies or web beacons to: (1) determine whether visitors to the Site are unique, or whether the same user is visiting the site on multiple occassions; (2) help deliver advertisements; (3) track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) store your agreement to the terms and conditions for entering and using the Site; (5) monitor aggregate metrics such as total number of visitors, pages viewed, etc. These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. DesiHoes does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the DesiHoes [ Terms of Service](http://www.desihoes.com/static/terms), in the event of a dispute between DesiHoes and you, or if required by law to do so.
 
 ## Content You Submit to or Post on the Site
 
@@ -32,7 +35,7 @@ Protecting the privacy of young children is important to us. We do not knowingly
 
 ## Permitted Disclosures of Personal Information
 
-DesiHoes generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit User Content for posting on the Site. DesiHoes will not disclose any personally identifiable information it collects or obtains except: (1) as described in the DesiHoes [Terms of Service](https://www.desihoes.com/static/terms) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if DesiHoes is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect DesiHoes's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
+DesiHoes generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit User Content for posting on the Site. DesiHoes will not disclose any personally identifiable information it collects or obtains except: (1) as described in the DesiHoes [Terms of Service](http://www.desihoes.com/static/terms) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if DesiHoes is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect DesiHoes's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
 
 ## Security
 
@@ -40,7 +43,7 @@ Some pages of the Site may use security measures to protect against the loss, mi
 
 ## Questions or Concerns
 
-If you have any questions, concerns or complaints about DesiHoes's Privacy Policy and use of personal information, please use [feedback form](https://www.desihoes.com/feedback). This Privacy Policy was last revised on 26th of july 2009.   
+If you have any questions, concerns or complaints about DesiHoes's Privacy Policy and use of personal information, please use [feedback form](http://www.desihoes.com/feedback). This Privacy Policy was last revised on 26th of july 2009.   
 
 
 ## Indian Sex Mallu Choot MMS Scandal Girls Desi Porn
@@ -50,11 +53,3 @@ Indian Sex Videos has the most latest  Videos filmed by Indian Porn Videos. Desi
 ###### There are no commercially produced hardcore porn movies in India or **Indian Adult Site**. If few Indian blue films exists, it is an underground production that was produced illegally. With the invention of consumer video cameras, Indian girls have been filmed having sex by their lovers having sex or playing with themselves. These days cell phones are available to almost everyone in India and the hidden Indian Porn Videos are popping up every day on the internet. Although quality of videos from the cell phone is not the greatest, but we get to enjoy beautiful Indian amateur girls having sex.
 
 ##### We search the Internet every day to find the latest Porn Videos from India and Indian subcontinent. We select the best possibly quality Desi Porn Videos for our Indian niche website. In addition we add Arab Muslim and Asian Porn Videos for your enjoyment. Small portion of the website is dedicated to Non-Indian porn and Indian look alike porn. Desihoes has good collection of classic porn from around the world and feature some of the beast girls with huge breasts. Enjoy our website.
-
-DESIHOES is the leading Indian Porn Videos site.
-
-The DH has the best free Indian Amateur Sex Videos.
-
-Copyright © 2008-2017 Indian Porn Videos  
-Desi Porn by [Indian Sex](https://www.desihoes.com/)
-  *[DH]: Desi Hoes
