@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126084737id_/https%3A//www.topdrawersoccer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222141809id_/https%3A//www.topdrawersoccer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/topdrawersoccer.com).  
+
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
@@ -44,12 +48,6 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-      * To fulfill your service requests for services.
-      * To protect ourselves from liability,
-      * To respond to legal process or comply with law, or
-      * In connection with a merger, acquisition, or liquidation of the company.
   4. **USE OF WEB BEACONS OR GIF FILES**
 
 TopDrawerSoccer.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow TopDrawerSoccer.com to count users who have visited those pages and to deliver co-branded services. TopDrawerSoccer.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
