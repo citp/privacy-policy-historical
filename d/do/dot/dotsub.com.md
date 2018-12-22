@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630143745id_/https%3A//dotsub.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222011806id_/https%3A//dotsub.com/privacyPolicy) for the most accurate reproduction.*
 
 # Dotsub Privacy Policy | Dotsub
 
@@ -36,4 +36,4 @@ Dotsub reserves the right to change this Privacy Policy at anytime. In the event
 
 #### Contact Us
 
-If you have questions about the Dotsub privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#addddfc4dbccced4ede9c2d9ded8cf83cec2c0).
+If you have questions about the Dotsub privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3d3d1cad5c2c0dae3e7ccd7d0d6c18dc0ccce).
