@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometheaterreview.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217044208id_/http%3A//hometheaterreview.com/administrative/privacy_policy000287.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheaterreview.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222202234id_/https%3A//hometheaterreview.com/privacy-policy) for the most accurate reproduction.*
 
 # HomeTheaterReview.com Network Privacy Policy & Terms of Use
 
@@ -129,3 +129,5 @@ Thank you for visiting HomeTheaterReview.com.
 Privacy Policy & Terms of Use were updated on October 16, 2008.
 
 © 2008, Del Colliano Enterprises, Inc.
+
+* * *
