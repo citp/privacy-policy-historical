@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthyhomeeconomist.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429110457id_/https%3A//www.thehealthyhomeeconomist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthyhomeeconomist.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222060103id_/https%3A//www.thehealthyhomeeconomist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Healthy Home Economist
 
@@ -8,7 +8,33 @@ You acknowledge that this Privacy Policy is part of our Site Terms of Use, and b
 
 We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions, or deletions shall be effective immediately upon notice thereof, which may be given by any means including, but not limited to, issuing an E-mail to the E-mail address listed by registered users and posting the revised Policy on this page. You acknowledge and agree that it is your responsibility to maintain a valid E-mail address as a registered user, review this site and this Policy periodically, and to be aware of any modifications. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy.
 
-1.
+**GDPR Compliance (EU and UK users)**
+
+The Healthy Home Economist website collects email addresses of site users strictly by voluntary consent. This information is used for purposes of newsletter distribution only. 
+
+Emails to the newsletter list occur no more frequently than once per week and contain notification of new articles and content posted to the site.
+
+Email data is stored by Mailchimp. You can unsubscribe from our newsletter at any time using the link directly within each email we send. Alternatively, you can email newsletter@thehealthyhomeeconomist.com and we’ll manually remove you from our list.
+
+Google Analytics is used to measure traffic to our site and gather data on how the website and content is consumed. No personally identifiable information is sent or stored in Google Analytics. We use this data to improve our content and ensure we are always improving the experience for our users. Select third party partners have restricted access to this email data to facilitate newsletter sign-up and production.
+
+Ads shown to users in the UK and the EU are GDPR compliant and are delivered by AdThrive. We do not have any direct control over the ads shown on The Healthy Home Economist. Information that may be used by Adthrive includes:
+
+  * Browser settings
+  * Your device’s operating system
+  * Cookie information
+  * Other identifiers assigned to the device
+  * IP address
+  * Device activity, including web pages and mobile apps visited or used
+  * Geographic location of the device when it accesses a website or mobile application
+  * Purposes for storing information
+  * Access of information
+  * Ad selection and delivery
+  * Content selection and delivery
+  * Personalization
+  * Measurement
+
+
 
 **Types of Information Collected**
 
@@ -20,8 +46,6 @@ Personally Identifiable Information: This refers to information that lets us kno
 
 Non-Personally Identifiable Information: This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site’s Uniform Resource Locator (“URL”) that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol (“IP”) address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (“TCP/IP”) network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet.
 
-2.
-
 **Collection Methods and Use of Information**
 
 We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You may be asked to provide certain Personally Identifiable Information to us when you register for our newsletter. We may also collect information from you at other points on our site that state that such information is being collected.
@@ -29,8 +53,6 @@ We do not collect any Personally Identifiable Information about you unless you v
 In addition, we may also collect, or our third party ad server and/or content server may collect, certain Non-Personally Identifiable Information. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. Our third party ad servers, if we choose, will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our site.
 
 We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you. We also reserve the right to use your Personally Identifiable Information to enhance the operation of our site, improve our marketing and promotional efforts, statistically analyze site use, improve our product and service offerings, and customize our site’s content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems, and enforce our agreements with you, including our Site Terms of Use, and this Privacy Policy.
-
-3.
 
 **Release of Information**
 
@@ -42,8 +64,6 @@ Occasionally we may be required by law enforcement or judicial authorities to pr
 
 We may also provide Non-Personally Identifiable Information about our customers’ sales, traffic patterns, and related site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
 
-4.
-
 **Updating and Correcting Information**
 
 We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at:
@@ -54,15 +74,11 @@ Please include your name, address, and/or E-mail address when you contact us.
 
 We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site. In addition, it may be impossible to completely delete your information without some residual information due to backups. To unsubscribe from our newsletter, please follow the link in your email to unsubscribe through our mailing service.
 
-5.
-
 **User Choices on Collection and Use of Information**
 
 We may, from time to time, send you E-mail regarding our products and services or shipment updates. Newsletters are sent via MailChimp, a third party service. If you do not want to receive such mailings, simply tell us when you initially give us your personal information. Or, at any time you can easily edit your MailChimp preferences by following the link in the newsletter.
 
 You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our site may not work properly in your case.
-
-6.
 
 **Security of Information**
 
@@ -70,19 +86,13 @@ At our site you can be assured that your Personally Identifiable Information is 
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-7.
-
 **Cookies**
 
 When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer’s hard drive (if your Web browser permits) that can later be retrieved to identify you to us. The cookies make your use of the site easier, make the site run more smoothly, and help us to maintain a secure site. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly in that case.
 
-8.
-
 **Privacy Policies of Third Party Sites**
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
-
-9.
 
 **Miscellaneous Privacy Issues**
 
