@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downlinebuilderdirect.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621221757id_/http%3A//downlinebuilderdirect.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downlinebuilderdirect.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222161827id_/http%3A//downlinebuilderdirect.com/privacypolicy.php) for the most accurate reproduction.*
 
 # List Building - Downline Builder - Opt In List Building - Downline Builder Direct
 
