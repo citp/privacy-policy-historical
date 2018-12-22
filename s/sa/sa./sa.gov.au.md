@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523115356id_/http%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222113403id_/https%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
 
 # SA.GOV.AU - Privacy
 
-This statement sets out this site's policies relating to the privacy and security of your personal information and security of your other information while using SA.GOV.AU. If you were directed to this page from another website, this statement does not apply to content on that site.
+This statement sets out the policies of this website (SA.GOV.AU) that relate to the privacy and security of your personal information and security of your other information while using the site. If you were directed to this page from another website, this statement does not apply to any content or function on the other site.
 
 This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on the [Department of the Premier and Cabinet website](http://dpc.sa.gov.au/what-we-do/services-for-government/premier-and-cabinet-circulars).
 
@@ -20,4 +20,4 @@ This site collects and uses the following information from users:
 
 
 
-We use Google Analytics to monitor traffic and user behaviour on this website. Personal information is not recorded as part of this process. However, if you wish to prevent your data from being collected by Google Analytics you can [install a browser add-on](https://tools.google.com/dlpage/gaoptout)
+We use Google Analytics to monitor traffic and user behaviour on this website. Personal information is not recorded as part of this process. However, if you wish to prevent your data from being collected by Google Analytics you can [install a browser add-on](https://tools.google.com/dlpage/gaoptout).
