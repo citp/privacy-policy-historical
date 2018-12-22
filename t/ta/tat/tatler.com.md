@@ -1,203 +1,268 @@
-> *The following text is extracted and transformed from the tatler.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129072443id_/https%3A//www.condenast.co.uk/privacy/%3Futm_source%3DTatler%2520Magazine%26utm_campaign%3Dcookiewarning%26utm_medium%3Dreferral) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatler.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222215549id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookie Statement - The Condé Nast Publications Ltd.
+# Privacy Policy - The Condé Nast Publications Ltd.
 
-This privacy policy covers this website and all sites (together, the Websites) produced by Condé Nast Publications Ltd (Condé Nast, we, us). For a list of the websites, please click [here](https://web.archive.org/)
+## Introduction
 
-It is your responsibility to read and understand this privacy policy. By visiting our Website you are agreeing and consenting to the practices described in this privacy policy. If you do not agree to all of this privacy policy and do not wish to be bound by it, you are not authorised to access or otherwise use the Websites, or take part in any of the programmes and offers that we provide. In reviewing this privacy policy, please also read our User Agreement which can be found [here](https://web.archive.org/terms/)
+Condé Nast Britain is a subsidiary of Condé Nast International, a privately-owned company; we publish twelve of the world's leading multi-media brands in the UK, listed [here](https://web.archive.org/).
 
-Our legal status under UK data protection law is that of a data controller and in this capacity we will securely store and process your personal information which you have provided to us. Data controller is a legal term used in the Data Protection Act 1998 (the Act) to signify the person who controls what to do with any given personal information. As a data controller we have registered with the Information Commissioner's Office and our registration number is Z5497344.
+Condé Nast is renowned as the authority on the latest trends in beauty, fashion, interiors and luxury products, and for influential reporting - from cutting-edge exposés in current affairs to truthful views on travel experiences. Our portfolio includes VOGUE, GLAMOUR, HOUSE & GARDEN, TATLER, GQ, WIRED, THE WORLD OF INTERIORS, VANITY FAIR, Condé Nast TRAVELLER, BRIDES, GQ Style and LOVE.
 
-We are committed to safeguarding your privacy online. We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have. This privacy policy may change from time to time so please check back here frequently.
+Data privacy and protection is very important to us for everyone who uses our products and services, and who entrusts us with their information. We have written this privacy notice so you can better understand how we collect data, what we do with it and how we look after it. We will tell you how long we keep data and what happens when we no longer need it. We will also outline what rights you have over your data and how we protect and facilitate those rights.
+
+## Opting in and out of communications made easy
+
+Sometimes people want to read privacy notices because a business is asking for their permission to contact them for marketing. They want to be sure that, if they agree, it will be easy for them to withdraw permission in the future. We want you to be able to opt out as easily as you opted in. Any marketing email we send you will always have an “unsubscribe” link that will take you off that relevant marketing list. Please remember that you may have subscribed from another email address; you will only be able to use the link to “unsubscribe” from the address to which the marketing email has been sent. We make it easy for you to change your preferences for postal marketing as well, giving clear instructions for opting out on all direct mail.
+
+If you want to change the preferences you have with us for email or for postal marketing, you can use our online form [here](https://web.archive.org/preferences/).
 
 * * *
 
-### This privacy policy explains the following:
+## Contents
 
-  1. What personal information do we collect from you?
-  2. How is your personal information processed, stored and kept secure?
-  3. How do we use your personal information?
-  4. Do we share your personal information with anyone else?
-  5. Are there any age restrictions on supplying personal information tous?
-  6. How long will we keep your personal information?
-  7. Changing your mind about receiving marketing messages.
-  8. How do we use cookies?
-  9. Social media.
-  10. Other websites.
-  11. Access to personal information and keeping your personal information accurate and up-to-date.
-  12. How to contact us.
+  1. What personal data do we collect from you?
+  2. How do we use your personal information?
+  3. Legal bases for data processing – what does it mean and how do we use them?
+  4. Do we share your information with anyone else?
+  5. Do we collect information on children?
+  6. How long will we keep your data?
+  7. Profiling – what do we mean?
+  8. Data security and cross-border transfers
+  9. Link to other websites
+  10. Your data rights
+  11. How to contact us
 
 
+
+* * *
 
 ## 1\. What personal information do we collect from you?
 
-  * 1.1. What is personal information? Personal information is any information that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, email address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data.
-  * 1.2. Your personal information is collected when you register or fill in a form on a Website, contact Condé Nast, or complete a form in any of our publications which may relate, for example, to subscriptions, competitions, offers and promotions and personal information you provide in online surveys and forums on a voluntary basis. This includes information you provide when you register to use our Website, subscribe to newsletters, place an order or participate in discussion boards on our Website. The information you give us may include your name, address, email, phone number and payment details.
-  * 1.3. Personal information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information.
-  * 1.4. Condé Nast will from time to time collect information from you for the purpose of creating de-personalised data that does not reveal your identity. Condé Nast uses this information to improve our products and occasionally for other internal purposes. This information is only used in de-personalised form and is not connected to any name, address or other personal identifying information.
+We collect information:
+
+  * when you pay for any of our products or services
+  * when you register to receive one of our newsletters
+  * when you use any of our websites
+  * when you attend any of our events
+  * if you participate in any research we undertake
+  * if you join one of our communities or forums
+  * when you enter a competition
+  * if you contact us about a query or a complaint
 
 
 
-## 2\. How is your information processed, stored and kept secure?
+We collect the following types of information:
 
-  * 2.1. Your personal information may be processed both in and outside the UK. When you submit your details in whichever country you are situated you agree to the information being processed in the UK.
-  * 2.2. We may also process or transfer your personal information outside the UK (and possibly to places outside the European Economic Area, which is all EU member states plus Norway, Iceland and Liechtenstein). Condé Nast shall take reasonable steps to ensure that any transfer of your personal information to a country or territory outside the European Economic Area, whose laws may provide for a lesser standard of protection for your personal information than that provided under European law, shall have adequate protection (such as model contractual arrangements as approved by the EU).
-  * 2.3. The Websites and our servers, wherever they are based, have appropriate technical and organisational measures in place to protect against unauthorised or unlawful use of your personal information as well as the accidental loss, destruction or damage of your personal information whilst under our control.
-  * 2.4. However no data transmission over the internet can be guaranteed to be 100% secure and whilst we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us and you do so at your own risk.
+### Contact information
 
+When you use or subscribe to one of our services, such as purchasing a print or digital subscription, signing up to an email newsletter, entering a competition, joining one of our online communities or participating in any of our research projects, we will ask you to provide information such as your name, email and/or postal address so that we can provide you with the services requested.
 
+### General personal information
 
-## 3\. How do we use your personal information?
+When conducting surveys or running competitions, in addition to contact information, we may collect other personal information such as your gender, date of birth, marital status, etc.
 
-  * 3.1. Condé Nast processes personal information for the following purposes: 
-    * providing you with goods and/or services that you have requested and communicating with you about those products and services;
-    * monitoring, developing and improving the Websites, our services and your experience;
-    * providing a personalised service;
-    * conducting market research surveys;
-    * market research, community and forums management;
-    * running competitions;
-    * providing you with information about Condé Nast's, or our business partners' products and services where you have provided your consent. You will always be able to opt-out or unsubscribe from these messages;
-    * send out email alerts you have agreed to receive. You will always be able to unsubscribe from these messages;
-    * processing and dealing with any complaints or enquiries made by you or legally on your behalf;
-    * we may also be required to disclose your personal information to authorities who can request this information by law that is binding on Condé Nast, for instance for the prevention and detection of crime, the capture or prosecution of offenders and the assessment or collection of taxes; and
-    * other purposes related to any of the above.
-  * 3.2. Condé Nast may also contact you about your registration details, to manage any account or subscription you have with us, or to provide customer service, even if you have opted-out of or declined to consent to receiving promotional emails. We may also contact you if we consider that revisions to this privacy policy are sufficiently important to notify you about them.
+### Payment details
 
+When you purchase a product or service from us, such as subscribing to one of our magazines or attending one of our events, we will also ask you for your payment details in addition to your contact information, in order to secure payment and to authorise access to our products and services.
 
+### Online identifiers
 
-## 4\. Do we share your personal information with anyone else?
+When you visit one of our websites, we collect information about your web visit, such as how long you visited, what sites you visited or pages you looked at, your IP address and where you were when you visited, what sort of device you were using when you visited (such as a mobile phone or type of desktop PC, Mac etc).
 
-  * 4.1. We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
-  * 4.2. We may disclose your personal information to partners of Condé Nast who supply services to you on behalf of Condé Nast and who need to process personal information in the provision of such services. When you request goods and services from Condé Nast, you are consenting to the disclosure of your personal information to Condé Nast's partners who may provide such goods and services under contract and guarantee to our satisfaction that they have sufficiently robust processes in place to ensure the security of your personal information whilst it is in their care. 
-  * 4.3. We may disclose your personal information to third parties: 
-    * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-    * If all or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets.
-  * 4.4. We may disclose depersonalised data (such as aggregated statistics) about the users of our Websites in order to describe our sales, customers, traffic patterns and other site information to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying information.
-  * 4.5. Under certain circumstances we may occasionally be required by law, court order or governmental authority to disclose certain types of personal information and we reserve the right to comply with any such legally binding request. Examples of the type of situation where this would occur would be:
-    * in the administration of justice;
-    * where we have to defend ourselves legally;
-    * in complying with the mandatory requirements of a government department collecting information; and
-    * to protect or defend the rights or property of Condé Nast Publications Ltd or users of our services.
-  * 4.6. Other than this, Condé Nast will not disclose any of your personal information to any other third parties without your consent.
+### Behavioural data
 
+When you visit one of our websites, we collect data on your online behaviour (eg time spent on website, items clicked on, etc).
 
+When you buy a product or service from us, such as magazine subscription or a ticket to a Condé Nast event, we will collect information about what products and services you have bought from us.
 
-## 5\. Are there any age restrictions on supplying personal information to us?
+When you register for a newsletter or take part in research, we may collect data about your preferences, tastes and interests.
 
-  * If you are aged [16] or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the Websites. Users without this consent are not allowed to provide us with personal information. If we become aware that you are under [16] and are attempting to or have submitted personal information via the Websites without your parent/guardian's permission, we will not accept such information and we will take steps to remove such information from our records. This may involve us having to access and verify your age and other relevant details.
+### “Special” categories of data
+
+Sometimes, we may collect data in online surveys on what is called “special categories of data”. These could be data sets such as biometric information (including voice samples, facial recognition, etc), or political opinions, religion, philosophical beliefs, health, sexual orientation, etc. Whenever we conduct research on these topics, it is always optional, and we will make sure we have your consent to process this data. We will remind you at the time of why and how we are processing this data and what additional safeguards are in place for using, storing and ultimately either deleting or anonymising this data.
+
+* * *
+
+## 2\. How do we use your personal information?
+
+At Condé Nast Britain we collect different types of information about people for four main reasons:
+
+  1. To provide personalised services unique to individual users.
+  2. So we can monitor and improve the services we offer.
+  3. To sell advertising space on our websites. This helps us to keep our websites free for people who visit them.
+  4. To market products and services which we think would be relevant to you.
 
 
 
-## 6\. How long will we keep your personal information?
+### Newsletters
 
-  * We will hold your personal information on our systems only for as long as is necessary.
+When you sign up to one of our newsletters, you are giving consent for us to use the email address provided to send you relevant content for the brands you have signed up to. You can withdraw this consent for any newsletter by unsubscribing at any time.
 
+### Advertising
 
+We advertise on our site and in our newsletters to help keep most of the content free. We use cookies and similar technologies and work with trusted partners so that we can show you advertisements we believe might interest you, to control the number of times you see an ad and to measure the effectiveness of a campaign. We have a legitimate interest in using cookies but you can opt in or out of using them at any time. If you are interested and want to learn more about these, including how to opt out, please see our [Cookie Policy](https://web.archive.org/cookie-notice/). Please note, opting out of cookies does not mean you will not see any advertisements.
 
-## 7\. Changing your mind about receiving marketing messages.
+### Social Media Advertising
 
-  * We give you choices regarding the collection, use, and sharing of your personal information. When you register on one of our sites or respond to one of our communications or offers, we will ask you to make choices about receiving further marketing communications from us. Should you wish to stop receiving marketing communications from us, you will be able to unsubscribe or opt-out, or you can contact us and we will make the changes for you. Our contact details are at the end of this privacy policy. Please remember to include your full name and address in order that we may make the changes that you request.
+We work with social media networks such as Facebook Pixel to show you interest-based marketing content from our brands and selected advertisers if you have viewed a Condé Nast website. Data collected by the Facebook Pixel may also be anonymised and used in aggregate to help improve the quality and effectiveness of our websites and marketing efforts.
 
+You can limit the kind of tracking and profiling that Facebook undertakes by going to your Facebook account settings. You can also find out more about the pixels and cookies we use on our websites by reading our [Cookies policy](https://web.archive.org/cookie-notice/).
 
+### Research & Insight
 
-## 8\. How do we use cookies?
+We run various user communities, forums and reader panels. We send out research invitations to our research communities, to people who pay for our products and services and to people who have opted in to receive communications from us.
 
-### Condé Nast Cookies
+### Delivery of goods and services / Customer account management
 
-  * 8.1. "Cookies" are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Cookies are common and won't do anything to harm your system - they simply store or gather information. They help you to get the most out of your visit to our Websites. 
-  * 8.2. We may collect information about your computer including, where available, your IP address, operating system and browser type for system administration as part of our audit trail process. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. You are not obliged to accept cookies and you can adjust your browser's setting to prevent it from accepting cookies on your computer - go to www.allaboutcookies.org for instructions on how to disable cookies. However, you may not be able to take full advantage of our Websites if you do so. 
-  * 8.3. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they can be used to store information which may identify a user's computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies. 
-  * 8.4. Our Websites use two main types of cookies: 
-    * Per-session cookies. We only use these whilst you are visiting our website and they are deleted when you leave. They remember you as you move between pages, for example recording the items you add to an online shopping basket. They also help maintain security.
-    * Persistent cookies. These cookies stay on your computer until they expire or are deleted. We set automatic deletion dates so that we don't keep your information for longer than we need to.
-  * 8.5. Our Websites also use cookies, for example, to: 
-    * Gather customer journey information across our sites and fulfil any of your requests;
-    * Gain insight into the nature of our audience so we can tailor our content accordingly;
-    * Ensure your privacy when you visit our secure sites;
-    * Store login details for our secure sites;
-    * Store details of your marketing preferences to improve and enhance your visit to our sites;
-    * Evaluate our sites' advertising and promotional effectiveness - all information is anonymised and we don't share it with anyone;
-    * Provide advertising on our sites and on other sites which are tailored to your interests and preferences;
-    * Remember settings you have applied to a Website such as layout, font size, preferences, colours etc;
-    * Detect if a service has already been offered to you so that we don't ask you again.
+We will use the information you have provided for the provision of goods and/or services that you have requested and subsequently communicating with you about those products and services.
 
-Cookie | Domain | Description  
----|---|---  
-Analytics cookies  
-(__utm, __utma, __utmb, __utmc, __utmz, _ga, _gid, _gat)  |  Condé Nast Website  | 
+Please note too, that when you buy something from us - such as subscription or a ticket to an event - we may contact you about your registration details, to manage any account or subscription you have with us, or to provide customer service. This will be the case even if you have opted-out of, or declined to consent to, receiving promotional emails.
 
-Condé Nast uses Google Analytics, which sets a first-party cookie in order to anonymously identify when users return to specific websites.
+### Competitions
 
-Google uses the information sent with this cookie to store a history of website pages visited in a user's session. This data will not be used to associate any part of your identity, anonymous or not, with any other data held by Google.
+When you enter one of our online competitions, we will process your information for the purposes of picking a winner. If you have opted-in to receiving information from us about our products and services (eg receiving subscriptions offers, event invitations, signing up for editorial newsletters etc) then we will use the information you provide to make sure we offer you relevant products and services (based on where you live, your age, gender, tastes, preferences etc). If you have opted-in to receive news and offers from any competition sponsors, we will share your information with them.
 
-Further information about how to opt-out of this cookie can be found at <https://www.google.com/intl/en/policies/privacy/partners/>  
-  
-Advertisement cookies | Any | 
+Further details about this is outlined in the “who do we share information with” with section.
 
-From time to time, advertisers may include digital assets which set cookies on an advertiser's domain or on the domain of our Website. These cookies will only store anonymous information about your interaction with a specific advert and will not be used to personally identify you.
+### Partnerships programmes
 
-We may also share anonymised behavioural data with advertising partners, to improve the quality and relevance of our advertising. This means that when you are on other websites, you might be shown advertising based on your behaviour on our Website. We may also show you advertising on our site based on your behaviour on other sites.
+We work with our partners from the world of luxury goods, fashion, travel and retail so that we can present you with some outstanding offers and opportunities by either email or post. You will only ever receive partner messages from us if you have actively given permission. We won’t disclose your personal information to anyone, the messages will come from us and you can unsubscribe at any time from these messages.
 
-You may find out more information, including how to opt-out of these cookies being set in your browser by visiting <http://www.youronlinechoices.com/uk/your-ad-choices>  
-  
-Google Advertising cookies | google.com, doubleclick.net, invitemedia.com, admeld.com, googlesyndication.com, or googleadservices.com | 
+### Customer queries and complaints
 
-Condé Nast uses Google Double Click to serve advertisements. Advertisements are received from Google Double Click servers to your browser along with a cookie to anonymously identify you as you visit websites which serve advertising from Google Double Click servers.
+We process any information you provide when dealing with any complaints or enquiries made by you or legally on your behalf.
 
-In addition to providing website usage data as described above, Google Analytics may also collect anonymous demographic data such as age, gender and interests by placing a Google DoubleClick cookie in your browser. This data is aggregated and anonymised and helps us understand the types of users who visit our site. This cookie may also help us serve advertising tailored to your interests and preferences when you visit our sites or other sites that we advertise on.
+* * *
 
-More information about this cookie, including how to opt-out of receiving the cookie can be found at <http://www.google.com/settings/ads/onweb/>
+## 3\. Legal bases for data processing – what does it mean and how do we use them?
 
-If you opt out of this cookie, you will still see advertising when you visit our sites, but the content of the ads may not be as relevant to you.  
-  
-Facebook Like Button cookies | facebook.com | 
+The law on data protection sets out several different reasons why a company may collect and process your personal data and it is one of our duties to make sure you understand which of these lawful bases we are using to process your data.
 
-When you create or log in to an account on [http://www.facebook.com](http://www.facebook.com/) cookies are stored on your computer in order to remain logged-in to your facebook account when visiting [http://www.facebook.com](http://www.facebook.com/) again.
+### Consent
 
-The Facebook Like Button used on our Website is hosted by Facebook and your browser therefore sends this cookie data to Facebook when creating the button inside your browser. This data is used by Facebook in order to associate the Facebook Like Button with your Facebook account. This information is not accessible to us, and is not sent to us by Facebook.
+In specific situations, we can collect and process your data with your consent. For example, when you tick a box to receive email newsletters.
 
-More information about this cookie and Facebook's Privacy Policy can be found at <https://www.facebook.com/about/privacy/your-info-on-other#socialplugin>  
-  
-Twitter Share Button | twitter.com | 
+### Contractual obligations
 
-When you create or log in to an account on [http://www.twitter.com](http://www.twitter.com/) cookies are stored on your computer in order to remain logged-in to your twitter account when visiting [http://www.twitter.com](http://www.twitter.com/) again. The Twitter Share Button used on our Website is hosted by [http://www.twitter.com](http://www.twitter.com/) and your browser therefore sends this cookie data to Twitter when creating the button inside your browser. This data is used by Twitter in order to associate the Twitter Share Button with your Twitter account. This data is not accessible to us, and is not sent to us by Twitter.
+In certain circumstances, we need your personal data to comply with our contractual obligations.
 
-More information about this cookie and Twitter's Privacy Policy can be found at <https://twitter.com/privacy>  
-  
-Google +1 Button | google.com | 
+For example, when you purchase a print subscription to a magazine, we will keep your name and address to fulfil your subscription.
 
-When you create or log in to an account on [http://www.google.com](http://www.google.com/) cookies are stored on your computer in order to remain logged-in to your Google account when visiting [http://www.google.com](http://www.google.com/) again. The Google +1 Button used on our Website is hosted by [http://www.google.com](http://www.google.com/) and your browser therefore sends this cookie data to Google when creating the button inside your browser. This data is used by Google in order to associate the Google +1 Button with your Google account. This data is not accessible to us, and is not sent to us by Google.
+### Legal compliance
 
-More information about this cookie and Google's Privacy Policy can be found at <https://www.google.com/policies/privacy/>  
-  
-Communities and forum site cookies | Communities domains e.g. uk.voguevoices.com | Condé Nast uses Vision Critical as a provider of communities and forums. Vision Critical sets various cookies to administer the community websites. For a full list of Vision Critical cookies click here([/privacy/vision-critical-cookies/](https://web.archive.org/privacy/vision-critical-cookies/))  
-Oracle BlueKai DMP cookies | Condé Nast websites | The Oracle DMP creates profiles through the use of cookies, cross-device/cross-context technology (such as statistical IDs), or other unique identifiers provided to us by customers (such as mobile-device IDs) to learn about your journey across websites owned and operated by Conde Nast. This information is used in order to help us show you more relevant marketing content. To learn more about this cookie please visit Oracle BlueKai's privacy policy (<https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html>) or to opt out please visit the Oracle BlueKai registry (<http://www.bluekai.com/registry/>).  
-  
-  * 9.1. Social networking sites, such as Facebook, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
-  * 9.2. We do not control how your personal information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the information they may be sharing. If you do not want your networking sites to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Condé Nast is not responsible for how these third party sites may use information collected from or about you.
+If the law requires us to, we may need to collect and process your data.
+
+For example, we can pass on details of people involved in fraud or other criminal activity affecting us to law enforcement.
+
+### Legitimate interest
+
+In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests.
+
+For example, we personalise the marketing content we provide you.
+
+We will also use your address details to send you direct marketing information by post, telling you about products and services that we think might interest you.
+
+* * *
+
+### Condé Nast International and its subsidiaries
+
+We may share your personal information:
+
+  * With our parent company, Condé Nast International
+  * If all or any of our assets (eg a title owned by us) were to be sold to another business, the personal data relating to that title (eg the subscriber list / newsletter list etc) would be transferred to the new business owner.
 
 
 
-## 10\. Other websites.
+### Service providers
 
-  * 10.1. This privacy policy applies only to our Websites. There are links on these Websites to third party websites over which Condé Nast has no control and when you click on advertisements or links you will leave our Websites and go to another site and thereafter it is that third party's site whose privacy policy will apply.
-  * 10.2. Condé Nast accepts no responsibility or liability for any third party practices on third party websites. Condé Nast advises you to carefully read third party privacy statements prior to the use of any third party website.
+We work with service providers to perform some tasks on our behalf. This might include: analysis, payments, marketing, etc and including tagging and blending non-personal site user data to provide aggregate demographics on our audiences. We may share your personal data with these providers to perform the necessary tasks. However, they are obliged not to disclose or use it for any other purposes. Any third-party processing of your data on our behalf will be subject to security and confidentiality obligations consistent with this privacy notice and applicable law.
+
+### Customer research & insight
+
+We may disclose de-personalised data (such as aggregated statistics) about the audience of our products and services and/or research participants to describe our sales, customers, traffic patterns and other information to prospective partners, advertisers, investors and other reputable third parties, and for other lawful purposes. These statistics will never include identifiable personal information.
+
+### Law enforcement organisations
+
+Under certain circumstances we may occasionally be required by law, court order or governmental authority to disclose certain types of personal information and we reserve the right to comply with any such legally binding request.
+
+### Marketing partners
+
+With your explicit permission, we may share your information with other companies we are working with, such as competition sponsors. Whenever we share your information with another company, we will always ask for your permission, will name the company and will always be clear that your information will be shared with another organisation.
+
+* * *
+
+## 5\. Collecting data on children
+
+We do not knowingly collect and process information from children (anyone under the age of 13). The products and services we offer are generally aimed at people aged 18 and over.
+
+If you are under the age of 13, we ask that you do not give us any information about you or use our websites.
+
+If you are a parent or guardian of a child under 13 and you if you think that your child has used our websites or subscribed to a newsletter or provided their information to us without your consent, please contact us at [datacontroller@condenast.co.uk](mailto:datacontroller@condenast.co.uk) and we will delete and/or stop processing your child’s personal information within a reasonable time.
+
+If you are aged between 13 and 18, we request that you seek your parent or guardian’s permission before providing us with your information or using our websites or apps.
+
+* * *
+
+## 6\. How long will we keep data?
+
+We will retain your personal information for as long as necessary to provide the individual service/s you have requested, while taking into account any legal requirements and tax and accounting rules. We do not store customer data for longer than 6 years after the last purchase.
+
+Where you sign up to receive email marketing from us we will retain your e-mail address after you ‘opt-out’ of receiving emails to ensure that we continue to honour and respect that request. To unsubscribe from marketing emails at any time, please click on the unsubscribe link at the bottom of any marketing email and update your account preferences. You may also use our [preference centre](https://web.archive.org/preferences/) to update what postal or email communications you wish you receive from us.
+
+In some circumstances you can ask us to delete your data: see ‘Your rights’ below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+* * *
+
+## 7\. Profiling
+
+We may sometimes use the data you share with us, and that we collect about you when browsing our websites and products, to personalise our services and to tailor marketing content. For example, we may use information you have provided to send you information about products we think you may be interested in. If you do not want to receive this material, you can unsubscribe at any point.
+
+* * *
+
+## 8\. Cross-border transfers and security
+
+We make sure that we have appropriate security measures to protect your information and make sure that, when we ask another organisation to provide a service for us, they have appropriate security measures and follow the same high standards of security and data protection as we do.
+
+If we or our service providers transfer any information out of the European Economic Area (EEA), it will only be done with the relevant protection (stated under UK law) being in place.
+
+* * *
+
+## 9\. Links to other websites
+
+Our website may contain links to other websites run by other organisations. This privacy policy applies only to Condé Nast Britain websites‚ so we encourage you to read the privacy statements on any other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you have accessed them using links from our websites.
+
+* * *
+
+## 10\. Your rights
+
+As a consumer, you have rights when it comes to your data:
+
+  1. **The right to be informed.** At every point where we are collecting your data, we will inform you of why it is being collected and how it is being processed.
+  2. **The right of access.** If you wish to see what information we hold on you, you may send us what is called a Subject Access request. We will require photocopies of two pieces of identification. We will respond within 30 days of receipt of your request. There is no cost to you in requesting to see your data, but please note that we reserve the right to charge you if you make subsequent requests. You can use the contact details below for a Subject Access Request.
+  3. **The right to rectification.** We offer the opportunity to amend your personal information by contacting us using the details below.
+  4. **The right to erasure.** If you wish to cancel all communications with us, we can anonymise or de-identify your data. Please contact us using the details below. Please make sure you inform us of **all** email accounts, profiles, names etc that you may have used with us that you wish to erase.
+  5. **The right to restrict processing.** You can opt-out or restrict the processing of your data by: 
+    * Amending your cookie settings in your browser
+    * Unsubscribing from postal and email communications, using our [preference centre](https://web.archive.org/preferences/)
+    * Contacting [datacontroller@condenast.co.uk](mailto:datacontroller@condenast.co.uk)
 
 
 
-## 11\. Access to personal information and keeping your personal information accurate and up-to-date.
+If you are unhappy with the way we have collected and are using your personal data please do not hesitate to contact us, using the contact details below or by contacting our Data Protection Officer on [dpo@condenast.co.uk](mailto:dpo@condenast.co.uk).
 
-  * 11.1. You are entitled to see the information we hold about you. If you wish to access the personal information held by us, you should contact us in writing using the information provided below.
-  * 11.2. If we are legally able, we will provide you with copies of all the personal information we hold about you, on payment of a nominal administration charge of £10. We are also obliged to request that you provide us with identification so that we can be certain that you are entitled to receive the requested data.
-  * 11.3. Please help us to keep our records of your personal information up-to-date by notifying us of any changes or corrections to the personal information we hold about you.
-  * 11.4. If you are a member of one of our online communities and forums you will be able to directly log in and review some your personal information and amend/delete accordingly.
+You have the right to complain to a supervisory authority. In the UK this is the [Information Commissioner's Office.](https://ico.org.uk/)
 
+* * *
 
+Thank you for reading our Privacy Policy. If you would like to contact us to understand more about our privacy policy or wish to contact us concerning any matter relating to individual rights and your personal information, then please email or write to us at:
 
-If you do not understand or accept this privacy policy or wish to contact us concerning any matter relating to your personal information then please email [datacontroller@condenast.co.uk](mailto:datacontroller@condenast.co.uk) or write to us at:
+Email: [datacontroller@condenast.co.uk](mailto:datacontroller@condenast.co.uk)
 
 **The Data Controller  
-Condé Nast Publications Limited  
-Vogue House  
-Hanover Square  
-London, W1S 1JU**
+Condé Nast Publications,  
+Vogue House,  
+Hanover Square,  
+London,  
+W1S 1JU **
