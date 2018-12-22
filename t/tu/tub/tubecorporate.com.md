@@ -1,49 +1,89 @@
-> *The following text is extracted and transformed from the tubecorporate.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203111739id_/http%3A//tubecorporate.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubecorporate.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222222839id_/https%3A//tubecorporate.com/privacy-policy) for the most accurate reproduction.*
 
-# Webmaster Programs
+# Tube Corporate
 
-Pursuant to our [Terms of Use](https://web.archive.org/terms "Terms and Conditions"), this document describes how we treat personal information related to your use of tubecup.com (the "Website"), including information you provide when using it.
+In compliance with current regulations on the protection of personal data you are informed of the following aspects.
 
-We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual's jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
+You may contact TubeCorporate.com at the following email address for any query, request or clarification regarding the processing of your personal data: support@tubecorporate.com.
 
-**Data Collected**
+#### What Personal Information we Process and How we get it 
 
-Browsing the Website. You can watch videos and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
+The data we will process for the purposes stated further on in this document is limited to the business contact data related to the company, entity or organization you work for or with whom you collaborate.
 
-Registering on the Website. Registration of an account is required for uploading videos and accessing other features on the Website. We require the following personal information at the time of registration: your username and password (which you generate), e-mail address, age confirmation and gender. Your IP address is recorded automatically. Your username and gender will become publicly accessible on the Website.
+The data we will process has been obtained through your browsing information archive files, as informed via the cookies policies of the websites of each of our Users (websites which show our ad formats). The data obtained is: URL of the website displaying our ads, referral URL, IP, country, geographical area, browser and operating system.
 
-Usage Information. We may record information about your usage of the Website such as your subscriptions, which users you communicate with, the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
+#### Transfers of Your Personal Information to Other Countries
 
-Uploaded Content. Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.
+If we share the information with EU and other regions with complete data protection laws, we can ensure that all of the data is transferred according this Privacy Policy and permitted by data protection legislation.
 
-Correspondences. We may keep a record of any correspondence between you and us.
+By using the Website, you agree to the possibility of transfer of the information we collect about you (including personal information) to any country in which we, members of our corporate group or our service provider are located.
 
-Cookies. When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
+#### Retention of Personal Information
 
-**Data Usage**
+  * We will only keep your Personal Data for as long as necessary to reach the purposes we collected it for, including satisfying any legal, accounting, or reporting requirements.
+  * To find out the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of Your personal data, and the potential risk of harm from unauthorized use of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the legal requirements.
+  * Where we no longer need to process your Personal Data for the purposes which are set out in this Privacy Policy, we will delete your Personal Data from our system.
+  * We will also delete your Personal Data upon your request. Contact us throughout the Contact Form to find out how to do it. 
+  * If you have questions about our data retentions, please send us an e-mail at [support@tubecorporate.com](mailto:support@tubecorporate.com?subject=Privacy)
+  * The period for which we keep your Personal Data that is necessary for compliance and legal enforcement purposes varies and it depends on the nature of our legal obligations in the individual case.
 
-We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
 
-We will not use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for non-marketing or administrative purposes.
 
-We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates). They may also be used to provide targeted advertising based on your country of origin and other personal information.
+#### How We Protect Your Personal Information
 
-We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes. 
+We take security measures (including physical, electronic and procedural measures) to protect your Personal Data from disclosure and unauthorized access. For example, only authorized employees are allowed to have an access to Personal Information of our users, and they can do this only for authorized business functions. In addition to this, we use encryption while transferring your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from accessing to your personal information. However, keep in mind that we can not completely eliminate the security risks associated with the storage and transfer of personal data.
 
-Your username may be displayed to other users alongside content you upload, including videos, comments and messages.
+You are responsible for maintaining the secrecy of your unique password and account information any time. We are not responsible for the exclusion of any privacy or security measures contained on the website
 
-Any videos that you submit may be redistributed through the internet and other media channels and may be viewed by the general public.
+#### Choices About How We Collect, Use and Disclose Your Personal Information
 
-**Disclosures of Information**
+We're trying to provide you with the choice regarding your Personal Information.
 
-We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
+You can not provide us with your Personal Information, but it will close the access to some of the functions of our Website, because such information will be needed the registration as a member; taking part in the contest; promotion; survey; asking a question.
 
-If you upload any illegal material to the Website, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
+You can set your browser to refuse browser cookies, or to alert you when cookies are being sent. If you disable cookies, note that some parts of the Website may be inaccessible or won’t function properly.
 
-**Miscellaneous**
+If you no longer want to receive promotional emails and newsletters, you will need unsubscribe. You can do it by contacting our Support Team throughout Live Chat.
 
-If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information.
+If you want to delete or deactivate your account - you need to contact our Support Team. 
 
-While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
+If you delete your account information, your personal information and user profile data is no longer will be available to you. After deleting your account, if you decide to have an account with us in the future, you will have to sign up once again and your personal information will be no longer available.
 
-You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at [contact us](https://web.archive.org/contact "Terms and Conditions")
+#### Your rights related to your personal information
+
+Subject to local law, you have certain rights regarding the Personal Information we collect, including the right
+
+  * to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access);
+  * to correct inaccurate Personal Information concerning you (right to rectification);
+  * to delete your Personal Information ( “right to be forgotten”);
+  * to receive the Personal Information provided by you in a structured format and to send those Personal Information to another data controller (right to data portability)
+  * to object to the use of your Personal Information where such use is based on our legitimate interests or on public interests (right to object);
+  * in unique cases, to restrict our use of your Personal Information (right to restriction of processing).
+
+
+
+If we ask for your permission to use your Personal Information, you can reject it at any time. Note that in case of a withdrawal of your permission you may no longer be able to use some functions of our Website and services.
+
+You may, at any time, send us an e-mail at [support@tubecorporate.com](mailto:support@tubecorporate.com?subject=Privacy) to find out your above rights in accordance with the applicable legal requirements and limitations. If you are located in the EU, you have a right to submit a complaint with your local data protection authority.
+
+Note that some requests to delete Personal Information will require the deletion of your personal account as the provision of user accounts (e.g., your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request.
+
+#### Cooperation
+
+We regularly review our compliance with this privacy policy. Please feel free to send any questions regarding this privacy policy by contacting us through this Website at support@tubecorporate.com. When we receive a formal written complaint, it is our policy to contact the complaining party. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints.
+
+#### No Rights of Third Parties
+
+This privacy policy does not create rights feasible by third parties or require disclosure of any Personal Information relating to users of the Website.
+
+#### Our Policy Towards Minors
+
+Our Website is not directed to persons under the age of 18 and we do not knowingly collect Personal Information from minors. If you become aware that your child has provided us with Personal Information, please contact us at support@tubecorporate.com. If we become aware that a minor has provided us with Personal Information, we remove such information and terminate that person’s account.
+
+#### No Error Free Performance
+
+We do not guarantee error-free performance under this privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy.
+
+#### Contact Information
+
+If you have any questions about this privacy policy, please contact us at [support@tubecorporate.com](mailto:support@tubecorporate.com?subject=Privacy). 
