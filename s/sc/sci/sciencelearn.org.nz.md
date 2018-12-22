@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the sciencelearn.org.nz privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129055354id_/https%3A//www.sciencelearn.org.nz/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencelearn.org.nz privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222190550id_/https%3A//www.sciencelearn.org.nz/about/privacy) for the most accurate reproduction.*
 
 # Privacy — Science Learning Hub
+
+  * Collection, storage and use of personal information
+  * Collection and use of statistical information
+  * Cookies
+  * Privacy Commissioner
+
+
 
 The purpose of this privacy policy is to let website users know when we collect personal information and what we do with it. We don’t use, share or transfer personal information in connection with the website except as set out in this policy or as otherwise set out somewhere on the website.
 
@@ -8,11 +15,11 @@ The purpose of this privacy policy is to let website users know when we collect 
 
 You can view materials on the website without disclosing any personal information.
 
-However, you may choose to disclose personal information to us when you give feedback, in submission forms or if you choose to register with the website. This information will be viewable by site administrators, certain other members of the Science Learning Hub team and sometimes third-party contractors who administer or work on the website, provide us with services or work on special projects with us. Please don’t send us sensitive personal information or include any sensitive personal information in submission forms.
+However, you may choose to disclose personal information to us when you give feedback, in submission forms or if you choose to register with the website. This information will be viewable by site administrators, certain other members of the Science Learning Hub – Pokapū Akoranga Pūtaiao team and sometimes third-party contractors who administer or work on the website, provide us with services or work on special projects with us. Please don’t send us sensitive personal information or include any sensitive personal information in submission forms.
 
 **Storage of information**
 
-If you provide personal information, it will be held by the Science Learning Hub. It may be shared with third-party contractors to the extent necessary for them to administer or work on the website or to work on special projects with us. Email addresses are not made available to the public. Unless required by law, we will not publicise the names or email addresses of individuals who provide feedback to us without their consent.
+If you provide personal information, it will be held by the Science Learning Hub – Pokapū Akoranga Pūtaiao. It may be shared with third-party contractors to the extent necessary for them to administer or work on the website or to work on special projects with us. Email addresses are not made available to the public. Unless required by law, we will not publicise the names or email addresses of individuals who provide feedback to us without their consent.
 
 **Use of personal information**
 
@@ -20,11 +27,11 @@ We will only use personal information provided to us for the purpose of administ
 
 **Feedback**
 
-Feedback is important to us, and we use it to evaluate and improve the website. If you provide feedback by email, through social media or via a third-party tool available through our website, that feedback will be sent to an appropriate Science Learning Hub team member. We may pass on relevant comments to other people who administer or contribute content to the website and to other stakeholders for the purposes of reporting. This could include your email address and other identifying information that you have provided.
+Feedback is important to us, and we use it to evaluate and improve the website. If you provide feedback by email, through social media or via a third-party tool available through our website, that feedback will be sent to an appropriate Science Learning Hub – Pokapū Akoranga Pūtaiao team member. We may pass on relevant comments to other people who administer or contribute content to the website and to other stakeholders for the purposes of reporting. This could include your email address and other identifying information that you have provided.
 
 **Registration**
 
-Information submitted as part of the optional registration process will be accessible by website administrators and certain other members of the Science Learning Hub team. It may also be shared with other organisations for the purpose of reporting.
+Information submitted as part of the optional registration process will be accessible by website administrators and certain other members of the Science Learning Hub – Pokapū Akoranga Pūtaiao team. It may also be shared with other organisations for the purpose of reporting.
 
 ### Collection and use of statistical information
 
@@ -47,7 +54,7 @@ Some of this information is collected via third-party analytics and monitoring s
 
 **Use of statistical information**
 
-The statistical information referred to above will be viewable by website administrators and certain other members of the Science Learning Hub team. It may also be shared with other organisations for the purpose of reporting.
+The statistical information referred to above will be viewable by website administrators and certain other members of the Science Learning Hub – Pokapū Akoranga Pūtaiao team. It may also be shared with other organisations for the purpose of reporting.
 
 ### Cookies
 
