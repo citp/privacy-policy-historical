@@ -1,174 +1,63 @@
-> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905001307id_/http%3A//www.stjoseph.com/media-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222182013id_/http%3A//www.stjoseph.com/media-privacy-policy) for the most accurate reproduction.*
 
-# Media Privacy Policy | St. Joseph Communications
+# Privacy Policy | St. Joseph Communications
 
-## MEDIA PRIVACY POLICY
+St. Joseph Communications’ Privacy Policy has been developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients. The Policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our products and services and receiving news and related content through our online properties. It reflects our commitment to protecting the privacy and confidentiality of the personal information entrusted to us by our clients. This Policy will be continuously assessed against new technologies, business practices, and client needs.
 
-Your privacy is important to us. St. Joseph Media, its subsidiaries and affiliates (collectively referred to as “SJM”, “us” or “we”) are committed to maintaining the privacy, security and accuracy of the personal information they collect, use and disclose in accordance with applicable legislation. This privacy policy (the “Privacy Policy”) is a statement of principles and guidelines concerning the protection of personal information of our individual clients, individual service providers and other individuals (“you”), with the exception of our personnel, whose personal information is collected, used and disclosed in accordance with our Personnel Privacy Policy.
+The Policy applies to all current and prospective clients of St. Joseph Communications and/or our subsidiaries and/or affiliates (collectively “St. Joseph”), as well as to users of our online properties.
 
-CONSENT
+### COLLECTION OF PERSONAL INFORMATION
 
-BY SUBMITTING PERSONAL INFORMATION TO SJM OR ITS AGENTS, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY, THE PRIVACY PREFERENCES YOU HAVE MADE KNOWN TO US AND AS PERMITTED OR REQUIRED BY LAW. Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain of the identified purposes at any time by contacting us. If you refuse or withdraw your consent, we may not be able to provide you or continue to provide you with certain services or information that may be of value to you.  
-****
+St. Joseph has organized its business into four strategic platforms: Content, Print, and Media. Each of our platforms collects personal information from clients where such information is required for the provision of a particular product or service.
 
-**
+Content and Print  
+Our Content and Print platforms collect personal information that may include an individual’s name, address (postal and/or e-mail), telephone number as well as banking, financial, credit card and/or credit information.
 
-  1. – Who are we?
-  2. – What personal information do we collect?
-  3. – Why do we collect your personal information?
-  4. – To whom do we disclose your personal information?
-  5. – Control of your personal information
-  6. – Where is your personal information stored?
-  7. – How can you access your personal information?
-  8. – How do we protect your personal information?
-  9. – Privacy and our Websites
-  10. – Changes to the Privacy Policy
-  11. – Contact Us
+As agents involved in data processing, variable imaging, and direct mailing, we may also obtain personal information from third parties such as our clients, list owners, and other media owners. Typically, the personal information is provided to us with specific instructions on how it is to be used. We make all reasonable efforts to ensure that such personal information is used only for the purposes stipulated and that it is subject to strict terms of confidentiality.
 
-**
+Media  
+Our Media platform may collect personal information through surveys, questionnaires, and other means. In addition to name, address (postal and/or e-mail), telephone number, and transaction information, we may collect demographic information (i.e., age, gender, income, occupation, and education) and opinions of subscribers, or potential subscribers, to our magazines and other print properties. For more details, please visit our Magazine websites.
 
-  1. **Who are we?**
+Modes of Collection  
+St. Joseph collects personal information about clients through various applications and order forms, including credit applications, surveys and questionnaires, face-to-face interactions, and our online properties. For certain transactions, we may obtain personal information about a client from third parties, such as consumer reporting agencies.
 
-SJM is a company that focuses on the printing of magazines, the development and integration of Web solutions, and content solutions for a wide range of clients.
+USE OF PERSONAL INFORMATION  
+St. Joseph Communications uses the personal information we collect to provide clients with our products and services, manage our business, and comply with regulatory and industry requirements. More specifically, we use personal information to create and maintain client accounts, communicate with our clients, supply clients with our products and services, and provide them with information about existing or new products and services that we believe would be of value to them. We may also use information about client interests and preferences, as well as feedback we receive from surveys, to improve our products and customer service. St. Joseph makes all reasonable efforts to ensure that information is used responsibly, and only for its intended purposes.
 
-This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publications and our individual service providers.
+DISCLOSURE OF PERSONAL INFORMATION  
+Content, Print and Media  
+Depending on the nature of the products and services our clients require, our Content, Print or Media platforms may disclose personal information to other business platforms or divisions of St. Joseph, financial institutions, credit reporting agencies, and third party service providers such as data processing and marketing companies.
 
-**2\. What personal information do we collect?**
+Media  
+In addition to the disclosures outlined in the preceding paragraph, our Media platform may disclose personal information to advertisers, third party service providers including providers of marketing and promotional services, and other organizations that offer products or services that we believe would be of value to our clients.
 
-Canadian privacy legislation defines personal information broadly as information about “an identifiable individual” or as information that allows an individual to be identified. The types of personal information that we may collect from you from time to time include: your name, address, telephone number, e-mail address, your forwarding address (e.g. during a vacation), previous address(es), payment information (for billing purposes), your mailing preferences (such as “no scents”, “no wrappers”, etc.), delivery instructions, and individual customer service preferences (such as “do not solicit”). In addition, from time to time, we may ask you to provide us with more detailed information regarding your interests, occupation, and background. For example, we sometimes ask our customers to complete surveys in order to get a better sense of who they are and what issues, products or services may be of interest to them and our readership. Finally, from time to time, we may acquire demographic and other information about you (e.g. your occupation and interests) from an outside organization, but only if you have previously agreed to allow such an organization to disclose the information to companies such as SJM.
+Other  
+We will request your express consent to the use and disclosure of your personal information for specific types of transactions on the application or other forms used in connection with those transactions. Where it is reasonable to imply your consent to the use and disclosure of your personal information in accordance with this Policy (e.g., in connection with a mailing for the renewal of a subscription), we may do so. Where it is reasonable, we may also imply your consent to the use and disclosure of your personal information in accordance with this Policy from continuing requests for our products and services now that you are knowledgeable about our personal information practices. We will obtain your express consent before using or disclosing your personal information for any purposes not identified in this Policy.
 
-**3\. Why do we collect your personal information?**
+St. Joseph discloses personal information where we are required to do so by law and may disclose personal information to our purchaser or new corporate entity in the event of a sale, merger, or substantial restructuring of our business.
 
-We collect your personal information for the purposes listed below:
+### LIMITING THE USE AND DISCLOSURE OF PERSONAL INFORMATION
 
+Subject to contractual and other legal obligations, you are entitled to withdraw your consent to our use and disclosure of your personal information. Specifically, if you prefer that we do not use or disclose your personal information for marketing and promotional purposes, please notify our Privacy Officer. Please note that your request may take three to four weeks to implement. We are legally bound to inform you that withdrawing your consent may preclude us from providing you with certain products or services.
 
+In the case of personal information obtained from third parties, we will work with clients, list owners, and other media owners to fulfill the right of clients to know of the existence, use, and disclosure of their personal information and to provide access to that information.
 
+### USE OF COOKIES
 
-**(a) To provide the product, service or information you requested**
+Similar to other commercial websites, our websites utilize a standard technology called “cookies” and web server logs to collect information about how our websites are used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our websites, and the websites visited just before and just after our websites. This information is collected on an aggregate basis. None of this information is associated with you as an individual. If you choose to correspond with us via e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of non-electronic information, such as that received by mail and telephone.  
+Information obtained through our websites is used for internal review, to improve the content of our webpages, and to customize the content and/or layout of our pages for each individual visitor; it is not shared with other organizations for commercial purposes.
 
-If you are a customer of one of our publications, we use your name and address (postal and/or e-mail) in order to deliver the product, service or information you requested and to follow up with you about the transaction (i.e., send a bill, notify you that your subscription is expiring, etc.). If you enter into a contest offered through one of our websites or printed publications, we use your personal information to administer the contest on our own behalf or on behalf of our sponsors.
+### ACCURACY OF PERSONAL INFORMATION
 
-**(b) To process payment**
+St. Joseph will try to ensure that information about you is accurate, complete, and up-to-date. We may update the personal information in our records from time-to-time, where current information is required for the provision of a particular product or service. Please inform us of any change of name, address, or other information. Should you have questions about the accuracy of factual information we have collected about you, you will have access to that information to verify and update it. If we have disclosed inaccurate information about you to a third party, we will be pleased to contact the third party in order to correct the information.
 
-Your credit card number, debit card number, or banking information for pre-authorized payments is used only for processing payments and for presenting you with payment options – not for marketing purposes.
+### INDIVIDUAL ACCESS
 
-**(c) To send you information**
+If you have any questions about the collection, use, or disclosure of your personal information by St. Joseph, or if you simply want to know whether we have any of your personal information on file, you may contact our Privacy Officer by one of the methods outlined below. St. Joseph will respond to your requests for access in accordance with applicable privacy legislation. In the event that we refuse access to you, we will provide you with the reasons for our refusal upon request. Exceptions may include information that contains references to other individuals, information that cannot be disclosed for legal, security, or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege.
 
-From time to time we may send you further information about the publication, its offers, or other products produced under its name.
+### QUESTIONS OR CONCERNS
 
-**(d) Other purposes**
-
-In addition, from time to time, we may use your personal information for the following purposes:
-
-  * to detect and protect SJM and other third parties against error, fraud, theft and other illegal activity, and to audit compliance with SJM policies and contractual obligations;
-  * to understand your needs and preferences, including to contact and communicate with you and to conduct surveys, research and evaluations;
-  * to obtain audited statements regarding numbers of subscribers per publication;
-  * to engage in business transactions, including the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving SJM;
-  * for any other purpose we may indicate to you from time to time.
-
-
-  4. **  
-To whom do we disclose your personal information?**
-
-We may disclose your personal information to the following third parties in the following circumstances:
-
-
-
-  * **(a) Disclosure to Service Providers**
-
-We may disclose your personal information to other companies that provide services on our behalf, including label printers, invoice printers, fulfillment contractors, auditors, our software developers (including website developers and hosts), data processing, document management and office services. In addition, we may disclose your personal information to an organization or individual retained by SJM to evaluate your creditworthiness or to collect debts outstanding on an account or to our auditors. We will only provide those companies the information they need to deliver the service and they are prohibited from using that information for any other purpose.
-
-  * **(b) Disclosure to Affiliates and Business Units**
-
-We may disclose your personal information to any of the companies and business units that form part of the St Joseph Communications group in order to serve you better and to provide you with information about our group’s products and services.
-
-  * **(c) Disclosure to Trading Partners**
-
-From time to time our magazines or websites may make their list of customers available to other carefully screened organizations (such as other magazines, book publishers, banks or charities) that want to let you know about a product or service that might interest you. The material to be sent to you is reviewed by us before the names and addresses (including e-mail addresses) are released to ensure the organization is reputable and material is appropriate and not misleading.
-
-  * **(d) Disclosure in Business Transfers**
-
-SJM may be involved in the sale or transfer of some or all of its business. As part of that sale or transfer, SJM may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Privacy Policy.
-
-  * **(e) Law Enforcement and Legal Disclosure**
-
-SJM may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where SJM has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to St. Joseph Communication’s legal counsel.
-
-
-
-
-If you would prefer for us NOT to share your information as described above in sections 4(a)-4(d), simply inform us (see “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” below).
-
-**5\. Control of your personal information**
-
-At SJM, we want you to be able to maintain control over how we use your personal information. In particular:
-
-  * You may have the right to “opt out” of some or all of the identified purposes, uses and disclosures listed in sections 3 and 4 above.
-  * You always have the option to instruct us not to use your name, address, e-mail address, etc. beyond providing you with the product, service or information you requested. See “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” below.
-  * E-mail communications will always include an identification of the sender and an “Unsubscribe” option.
-  * If you receive a mailing from any of our consumer magazines and you wish to know the source of your name (i.e. what list it came from), we will make every reasonable effort to determine the source and provide you with the information. For this request, or to confirm that any personal information we may have is correct, please contact us (See “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” below). (Note that some account information can be confirmed by visiting the customer care section of our consumer magazine websites).
-
-
-  * As mentioned above, we may not be able to provide you with our services if you withdraw your consent to our use of your personal information. 
-
-**6\. Where is your personal information stored?**
-
-Your personal information is stored in secured locations and on servers controlled by SJM, located either at our offices or at the offices of our service providers. For access to your personal information, please contact our Chief Privacy Officer using the contact information in the “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” section below.
-
-**7\. How can you access your personal information?**
-
-Upon written request, subject to certain exceptions, SJM will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Chief Privacy Officer, using the contact information in the “[Contact Us](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/question12)” section below.
-
-**8\. How do we protect your personal information?**
-
-We make every reasonable effort to protect against the loss, misuse, and alteration of personal information under our control. Our security policies are periodically reviewed and enhanced as necessary.
-
-Only authorized employees and suppliers have access to your personal information. Where information is sent to a third party for processing, we make sure, through our contracts with them, that all your information is kept secure. We keep your information for the time we are providing you with a product or service, and for a reasonable time thereafter in the event that you wish to resume service.
-
-We operate secure data networks protected by industry standard firewall and password protection systems. Credit card information is processed using industry-standard encryption and security. We do not collect personal information from bulletin boards or forums. However, we cannot guarantee that personal information voluntarily disclosed in chat rooms or discussion boards will not be collected and used by others, which may result in unsolicited messages to you from other parties.
-
-**9\. Privacy and our websites**
-
-SJM sometimes collects personal information through its various websites. In this section, we provide you with additional information regarding such collection.
-
-**Cookies** – When an individual visitor accesses SJM websites, we may use a browser feature called a “cookie” to collect information such as the type of Internet browser and operating system the visitor uses, the domain name of the websites from which the visitor came, date and duration of the visit, number of visits, average time spent on our websites, pages viewed, Anonymized userIDs for logged in Registered Users and Subscribers, Device IP Address (which does not reveal your identity) and number of cookies accumulated. A cookie is a small text file containing a unique identification number that identifies the visitor’s browser, but not necessarily the visitor, to our computers each time our websites are visited.
-
-
-
-
-Unless a visitor specifically informs us (e.g. by enrolling for our services or sending us correspondence from the websites), we will not know who the individual visitors are. In addition to the identified purposes described in our Privacy Policy, we may use this website information and share it with other organizations with whom we have a commercial relationship to measure the use of our websites and to improve the functionality and content of the websites.
-
-Visitors can reset their browsers either to notify them when they have received a cookie or refuse to accept cookies. If you wish to disable cookies, please see  ** _Appendix 1 “How to disable cookies”_**
-
-However, if a visitor refuses to accept cookies, he or she may not be able to use some of the features available on our websites.
-
-**Online Communications** – In order to provide our website visitors with a product, service or information, visitors may voluntarily submit personal information to us for purposes such as asking a question, obtaining information, subscribing to, reviewing or downloading a publication, participating in contests and surveys. If you are known to SJM as a registered user of an online service, we may combine and store personal information about your use of our websites and the online information you have provided with certain other online and offline information we may have collected.
-
-**E-Mail Communications** – Occasionally, we may send marketing or promotional e-mail communications to you with information that may be useful, including information about the products and services of SJM and other third parties with whom we have a relationship. We will include instructions on how to unsubscribe and inform us of preferences if recipients decide they do not want to receive any future marketing or promotional e-mails from SJM.
-
-Also, if you send us an email message, we may retain that message and your email address, as well as any response we send you.
-
-**Advertisers** – If you submit some of your personal information on any SJM website to request information from a third party (such as an advertiser), we are not responsible for any use of your personal information by such third party. Hence, we suggest that you first learn more about such third party’s privacy policies prior to submitting your personal information by visiting its website or contacting it by postal mail or telephone.
-
-**Opinion Polls** – Opinion polls on our websites are anonymous. We do not correlate votes submitted via such polls with names or individual email addresses, unless otherwise disclosed at the point of collection.
-
-**Searches** – For your convenience, search functions are sometimes provided on our websites. We keep logs of the words searched to learn more about what kind of information our visitors are seeking, and thus improve our services.
-
-**Hyperlinks** – For your convenience, SJM’s websites sometimes contain hyperlinks to websites managed by third parties. By activating these hyperlinks, you will leave SJM’s websites for those of the third parties, which may have different privacy policies and practices than SJM. SJM cannot be held liable for the use of such third party websites.
-
-**Advertising to Children** – We believe that none of SJM’s websites appeal directly to children of 13 years old or less. We do not knowingly direct our advertising at children under the age of 13, except as permitted by law.
-
-**Individuals Under 18** – No personal information should be submitted or posted on our websites by individuals under 18 years of age without their parent’s or guardian’s permission. We may request name, address, phone number, email address and date of birth from an individual under 18 years of age for contest participation so that we may notify him or her if selected as a winner. In the event we do so, we will request their parent’s or guardian’s consent prior to collection.
-
-No information collected from online guests under 18 years of age is used for any marketing or promotional purposes whatsoever by SJM. Unless otherwise disclosed at collection, we do not provide any personal information collected through any SJM website from individuals under 18 years old, regardless of its source, to any third party for any purpose whatsoever.
-
-**10\. Changes to the Privacy Policy**
-
-SJM reserves the right to modify or supplement this Privacy Policy at any time. If we make a change to this Privacy Policy, we will post such change on our websites and make such revised policy and change available upon request to the Chief Privacy Officer. However, SJM will obtain the necessary consents required under applicable Privacy Laws if it seeks to collect, use or disclose an individual’s personal information for purposes other than those to which consent is obtained unless otherwise required or permitted by law.
-
-**11\. Contact Us**
-
-SJM has appointed a Chief Privacy Officer to oversee compliance with this Privacy Policy and applicable Privacy Laws. To access your personal information, inform us of changes you believe need to be made to that information, request that we investigate a concern you have about our personal information practices, or obtain further information about this Policy and the practices outlined herein, please contact:
+To access your personal information, inform us of changes you believe need to be made to that information, request that we investigate a concern you have about our personal information practices, or obtain further information about this Policy and the practices outlined herein, please contact:
 
 ### CONTACT:
 
@@ -179,30 +68,3 @@ Concord ON L4K 4P3
 Tel: 905-660-3111  
 Fax : 905-660-3872  
 E-mail: privacyofficer@stjoseph.com
-
-**Appendix 1**
-
-**  
-****How to disable cookies?**[](https://web.archive.org/web/20170905001307id_/https://stjoseph.com/media-privacy-policy/appendix)
-
-Most browsers are initially set up to accept cookies, but offer a number of ways to control cookie preferences. Typically, users can:
-
-  1. Disable all cookies (not recommended)
-  2. Require approval each time a website attempts to place a cookie
-  3. Remove cookies manually or have them deleted automatically after a certain period
-
-
-
-For step-by-step instructions on how to modify cookie preferences, please consult your browser’s support documentation. You can find instructions for commonly used browsers here:  
-****
-
-**
-
-  * [Internet Explorer](http://windows.microsoft.com/en-ca/windows-vista/block-or-allow-cookies)
-  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-  * [Safari](https://support.apple.com/kb/PH19214?locale=en_US)
-  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-
-**
-
-The user should understand that while SJM does not require a user to use cookies, for technical reasons, certain services will not function if a user sets his/her browser to not accept cookies.
