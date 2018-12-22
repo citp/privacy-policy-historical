@@ -1,113 +1,225 @@
-> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317155847id_/https%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222161943id_/https%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
 
 # K&N Engineering, Inc. Privacy Policy
 
-**Last Updated: 5/5/16**
+**Last Updated: 8/14/18**
 
- **Privacy Policy Overview**
+Thank you for visiting this website. K&N Engineering, Inc., by and through our subsidiary, K&N Filters (Europe) Ltd. (“K&N,” “we”, “us”, or “our”) is responsible for this website and is the controller of data provided to us through it. We respect your privacy and aim to protect it along with your personal data. This privacy notice will inform you how we collect, process, and control your personal data when you visit us atthis website, or at any of our other related sites, [listed here](https://web.archive.org/site-list), which are collectively referred to as the K&N Sites. It also applies to situations when we send you communications that you request from us.
 
-K&N Engineering, Inc. ("K&N," "us," or "we") knows that you care how information about you is used and shared and respects the privacy of the visitors to the [http://www.knfilters.com](https://web.archive.org/default.aspx) website (this "Site"). We have created this Privacy Policy ("Privacy Policy") to demonstrate our commitment to privacy and security and supplement our [Terms of Use](https://web.archive.org/terms_of_use.aspx) . This Privacy Policy is an agreement between K&N and you, as the user of this Site ("you"). It explains what information of yours will be collected by us when you use this Site, how the information will be used, how you can control the collection, when this Privacy Policy is effective, how we may change this Privacy Policy, and the steps we take to ensure that your personal information is protected. We request that you read this Privacy Policy carefully.
+Advertisements displayed to you when you use our Sites and elsewhere may be customized and targeted to your interests and known preferences based on your personal data collection through our services. Please read below for more information about advertising and your rights.
 
-In this Privacy Policy, "personal information" means any information by which you can be identified or contacted, such as your name (first and last), mailing address, email address, telephone number, billing information, etc.
+**1.** **Who We Are**
 
-All activities which you engage in on this Site are voluntary. You are not required to provide any personal information to us unless you choose to access features or services on the Site which require the information. If you do not agree with the terms of this Privacy Policy or other [Terms of Use](https://web.archive.org/terms_of_use.aspx) posted on this Site, then you should immediately exit this Site, discontinue using the Site, and do not provide us with any personal information. By your use of this Site, you signify your agreement to the terms of this Privacy Policy as well as to our [Terms of Use](https://web.archive.org/terms_of_use.aspx). The [Terms of Use](https://web.archive.org/terms_of_use.aspx) of this Site are expressly incorporated herein by reference and made a part of this Privacy Policy. This Privacy Policy applies only to information collected through this Site and does not apply to any information we may collect from you at any place other than this Site. 
+K&N has its principal place of business at P.O. Box 1329 Riverside, CA 92502. Any questions about your data privacy or this privacy policy, pleasecontact us at [privacy@knfilters.com](mailto:privacy@knfilters.com), or at physical address.
 
-**Information We Collect**
+_Third Party Links_
 
- **User-Provided Information:** You may be required to provide personal information to access or use certain parts of our Site, or features of the Site or services, including without limitation, when you place an order, chat with a specialist, subscribe to a newsletter, fill out a form, participate in any of our programs such as contests, sweepstakes or surveys, contact us with a comment, testimonial, question or complaint, etc. If you do not provide the requested personal information, you may not be able to access or use the features of the Site or service where such information is requested.
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. When you visit a page that includes one of these sharing tools, the third party company that operates the tool may be collecting information about your browser, device, and online activity through its own tracking technologies and subject to its own separate privacy policy. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-Depending upon the nature of the transaction, the personal information collected may include your name, address, telephone number, email address, fax number, date of birth, age, gender, credit card information, debit card information, K&N part number and date of purchase, vehicle VIN number, vehicle license plate number and state, or other demographic information. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+**2.** **The Data We Collect About You When You Visit K &N Sites**
 
-We may also collect personal information about you from other third parties, such as demographic firms, to make our future services and marketing efforts more efficient and personalized for you. We may combine all information we collect and may disclose this information within our corporate family of companies or our service providers.
+We collect several different types of personal data, which is information relating to an identified or identifiable natural person, from you depending on how you interact with our K&N Sites. Most often, the information we collect is related to the purchase of a product from our website. This information includes your full name, email address, shipping address, billing address, and phone number (“Contact Information”). When you make a purchase from our site, we collect credit card payment or financial account information in order to process the sale (“Billing Information”). If you sign up to receive emails, newsletters, or other information from us, we collect your name and email address (“Marketing Information”).
 
- **Cookies Information:** When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the Site. A cookie does not collect personal information about you. We use both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Site or services may not function properly if the ability to accept cookies is disabled.
+Some of the personal data we request from you is required in order for you to use our Sites, including ordering products and/or services through them. If you do not wish to provide such personal data to us, you are not obligated to, but you may not be able to use a particular features of our Sites, including ordering products, as a result. Below are some examples of where and how we collect personal data from you.
 
-**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") addresses or other device identifiers, browser information, Internet Service Provider ("ISP"), operating system, location, date/time stamp, clickstream data, referring/exit pages and URLs, domain names, landing pages, pages viewed, and other such information.
+_Product Purchases_ : __ When you purchase products offered through one of our Sites, we collect your credit card and other payment information and keep a history of your purchases. We use this information for purposes such as to process your orders, to better assist you when you visit or contact us in the future, as well as to improve our product offerings when we send you information about these in accordance with this Privacy Policy.
 
- **Clear Gifs Information:** When you use the Site or services, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personal information from your account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make this Site better for our users.
+_Selecting Products_ : When you use our “Search By Vehicle” “Search By Keyword” and “Search By Part” features, we may collect the information provided through those features and associate it with other personal information. We use this information for purposes such as to process your orders, to better assist you when you visit or contact us in the future, as well as to improve our product offerings when we send you information about these in accordance with this Privacy Policy.
 
- **How We Use Your Information**
+_Providing Product Reviews_ : If you review one of our products or provide feedback and testimonials, we may post this data on our website and in other marketing advertising. We do so to provide customers with third-party feedback and reviews from actual customers, which we believe helps provide a more honest buying experience. We also use it to evaluate our own products and make improvements to our products and/or services.
 
-We use the personal information you provide and any general information we receive from you to (a) operate, maintain, and provide to you the best possible features, products, functionality of the Site and experience; (b) analyze visits to the Site and learn about the interests of our visitors in aggregate and also on a personal level to better understand your interests and needs, so we can assess product demand and improve our products and services and deliver to you the type of content, features, products and promotions that you are most interested in; (c) process registration requests when you register for our programs or services, or otherwise administer your participation in our programs or services; (d) respond to your comments, questions or complaints and determine your satisfaction with our programs, products and services; (e) administer a promotion, contest, sweepstakes, survey or other Site feature; and (f) send you marketing communications and other information and materials you have chosen to receive regarding our products, services, marketing or special events. We also use your personal information for our everyday business purposes such as security, processing online orders, payment processing, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance.
+_Customer Service Communications_ : We offer a live chat feature to help provide you with the best customer service we can offer. If you choose to use this feature, we may collect specific information about you necessary to communicate with you and respond to your customer services requests. When you call one of our customer service representatives, or e-mail us with a comment or question, you may be asked for information that identifies you, such as your name, mailing address, order number, postal code and/or telephone number, to help us promptly answer your question. We retain this information as necessary to assist you in the future, for instance with any further queries you may have. We also use your feedback, suggestions and comments to monitor and/or improve our publications, product offerings, and Services, among other things.
 
-Any personal information or content you voluntarily disclose for posting to the Site (for instance, any content you post) (referred to herein as "User Content") becomes available to the public via the Site and our business partners. User Content includes, but is not limited to, testimonials, reviews, comments, photos, videos, etc. If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
+_Promotions or Surveys_ : When you enter a contest or sweepstakes ("promotion") or participate in a survey or poll ("survey") we may ask you to provide your name, address, phone number and e-mail address. Sometimes we use third-party services to administer and administer and conduct our promotions, so if you use those services when participating in a promotions the policies, including privacy policies, of those third-parties will apply in addition to ours. We use the information we collect on promotion entry forms to administer your participation in the promotions and for other purposes stated on the entry form. Our surveys ask for opinions on various issues and may be sponsored by our advertisers and partners. Information obtained through surveys is aggregated and used internally. We also share survey information with advertisers and marketing partners in an aggregated form that does not personally identify you. In the event personal information is requested as part of a survey, such personal information will only be provided to unaffiliated third parties after ensuring that depending on the circumstances you have either consented or not objected.
 
-By providing K&N your email address, you consent to our using the email address to send you Site and service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages including, but not limited to, newsletters, payment information, credit card update notifications, account status, legal updates, changes to features of the Site or services, product updates, special offers or promotions, or other account information. If you do not want to receive such email messages, you may opt out by contacting us [privacy@knfilters.com](mailto:privacy@knfilters.com) or clicking on the opt out link contained in the email message. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of service-related emails.
+_Website Information_ : We collect the IP (Internet protocol) addresses of all visitors to our Sites and clickstream and other related information, such as information about your computer or device, web browser and operating system and their settings, the referring page that linked you to our site, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next website you visit when you leave our site, and any search terms you have entered on our site (“Technical Data”). We use this information to monitor and improve our website, products, and services.
 
-K&N may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Site is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
+When we collect data that does not identify you as a natural person, we are permitted to use and disclose this information for any purpose, notwithstanding anything contrary in this Privacy Policy, except where prohibited by law.
 
-K&N may develop special sites or administer promotions in cooperation with other companies. If you register at these "co-branded" sites or consent to receive email communications from our promotional partners, we may share your registration information (such as name and email address) with those companies.
+**3\. Cookies and Web Beacons**
 
-K&N reserves the right, but has no obligation, to monitor the User Content you post on the Site. K&N has the right to remove any such information or material for any reason or no reason including, without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our [Terms of Use](https://web.archive.org/terms_of_use.aspx), or to protect or defend K&N’s rights or property or those of any third party. K&N also reserves the right to remove information upon the request of any third party.
+Like many websites, our server logs capture Technical Data automatically as your browse the particular K&N Sites. We do this through several means.
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Site and services; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access information.
+_Cookies_ : To enhance your experience on our Sites, we place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Other information you provide to us may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Sites, and relate your use of the Sites to other information about you. To learn more about how we use cookies on Sites based in the EU, please visit the Cookie Policy on the Site you are using.
 
- **How We Share Your Information**
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to [ http://www.allaboutcookies.org ](http://www.allaboutcookies.org/) / to find out how, or check your browser’s instructions.
 
-Personally Identifiable Information: K&N will not rent or sell your personal information to others. We may disclose potentially personally-identifying and personally-identifying information to those of our employees, contractors (including website operators), affiliated organizations, service providers, promotional partners and other third parties that provide support services to us or help us market our products and services, administer our programs and operations, fulfill your requests and orders, administer surveys, contests, and sweepstakes, or process any other information on our behalf to provide services available at our Site. We may store personal information in locations outside the direct control of K&N (for instance, on servers or databases co-located with hosting providers).
+_Local Shared Objects_ : Local shared objects, such as Flash cookies, also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see [ http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html ](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) .
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+_HTML 5_ : HTML5, the language some websites are coded in, may be used to store information on your computer or device about your Site usage activities. This information may be retrieved by us to help us manage our Sites, such as by giving us information about how our Sites are being used by our visitors, how they can be improved, and to customize them for our users.
 
-Except as otherwise described in this Privacy Policy, K&N will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/terms_of_use.aspx) , take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site; and (c) to exercise or protect the rights, property, or personal safety of K&N, our users or others.
+_Cache Cookies_ : Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Site or Sites in the past.
 
-We fully cooperate with law enforcement agencies in identifying those who use our Site or services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful, as determined in our sole discretion. Release of your personal information for security purposes, as described in this agreement to any person or entity under any circumstances shall be based on a determination made solely by us, exercising our own discretion, permission for which is expressly granted by you to us in accordance with this Privacy Policy.
+_Web Beacons_ : Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
 
- **Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain services.
+_Mobile Device IDs and Location-Based Information_ : Certain mobile devices, including smart phones and tablet devices, contain unique device IDs that can be used to identify their physical location. Some mobile device IDs are persistent, while others may be resettable by accessing the device’s privacy settings. Mobile devices also typically transmit caller ID data (which may include a phone number) when used to transmit a telephone call or text message. When you use mobile devices to access our Services, we may collect and transmit unique device IDs and collect caller ID data, as well as other information about your device, including without limitation, your wireless carrier, the make, model, operating system, capacity and settings of your device, the names, package IDs and versions of other software you have downloaded to your device and information about how you interact with and navigate within our Service. With your consent, we or our authorized service providers and partners also may use precise geolocation technology such as GPS or Wi-Fi triangulation or mobile Bluetooth beacon technology to collect information about the exact location of your mobile device. Precise location information may be collected both while you are using one of our mobile applications and continuously over time while our apps are not in use but are running in the background of your device. You can withdraw your consent to the further collection and use of your precise device location data through any of our mobile apps by accessing your device’s privacy settings as further explained below.
 
-K&N allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+We use cookies (and other analytics/tracking tools) to understand usage of the Sites and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we use cookies to personalize your experience on our Sites (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings). These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf.
 
-K&N does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks K&N to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. 
+**4.** **How We Use Your Personal Data.**
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers. 
+We will only use your personal data when allowed by law. Generally, we will use your personal data: (a) where we need to perform the contract we are about to enter into or have entered into with you; (b) where it is necessary for our legitimate interests and your interests and fundamental rights do not override those interests; and (c) where we need to comply with a legal or regulatory obligation. Generally, uses include the following actions:
 
-**How We Protect Your Information**
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
 
-K&N uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to K&N or the Site and you do so at your own risk. Once we receive your transmission of information, K&N makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online.
+_Purposes for which we will use your personal data_
 
-**Compromise of Personal Information**
+Below is a chart of some of the common ways in which we process your personal data. We have identified what our legitimate interests are where appropriate. Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-In the event that personal information is compromised as a result of a breach of security, K&N will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+**Purpose/Activity**
 
- **Children's Privacy**
+| 
 
-Protecting the privacy of young children is especially important. For that reason, K&N does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on this Site. In the event we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [privacy@knfilters.com](mailto:privacy@knfilters.com). 
+**Type of data**
 
-**Social Media Interactions**
+| 
 
-K&N invites you to socialize and share your experiences with K&N using Social Media tools such as Facebook, Twitter, Pinterest, LinkedIn, YouTube, Google+ and Instagram. If you choose to use these tools, you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program’s privacy policies. We also use Facebook Social Plugins to allow Facebook to share information and friends’ activities with its members while they are on our Site. For example, Social Plugins allow Facebook to show you your friends’ "Likes" on our product pages if you are logged into Facebook while using the services on our Site. K&N does not receive or control any of the content from Facebook Social Plugins. 
+**Lawful basis for processing including basis of legitimate interest**  
+  
+---|---|---  
+  
+To fulfill a purchase order. 
 
-For more information about Facebook Social Plugins and other social media tools, [click here](https://developers.facebook.com/docs/plugins/). 
+| 
 
-We may allow you to sign in to your account using Facebook Connect. If you choose to do this, we may collect information necessary to facilitate social interactions such as friend lists, birthday, check-ins, basic profile information and your profile picture but only if the privacy settings you and your friends set within Facebook allow it. We will use the information we collect to create and facilitate an interactive social experience and to bring you products, services and programs from K&N. K&N will always comply with its Privacy Policy as well as with Facebook Connect terms regarding use of Facebook profile information.
+Contact Information 
 
- **Links to Other Websites**
+Billing Information 
 
-We are not responsible for the practices employed by websites linked to or from our Site nor the information or content contained therein. K&N may provide links to other websites to you solely as a convenience, and the inclusion of linked sites does not imply endorsement by K&N of any of the linked sites. Please remember that when you use a link to go from our Site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our Site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding. We do not ensure the security of your personal information if you visit websites not belonging to K&N.
+| 
 
- **Notification Procedures**
+In furtherance of performance of a contract with you.   
+  
+Notifying you about changes to our terms or privacy notice. 
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Site page, as determined by K&N in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+| 
 
- **Changes to Our Privacy Policy**
+Contact Information 
 
-We reserve the right to change this Privacy Policy at any time. If we change our privacy policies and procedures, we will post those changes on our Site to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. Changes, modifications, additions, or deletions to this Privacy Policy will be effective immediately on their posting to this Site. You should check this Privacy Policy periodically as its terms may change from time to time. Your continued use of the Site after we post any such modifications will constitute your acknowledgment of the modified policy and your agreement to abide and be bound by the modified policy. We will revise the "Last Updated" date found at the beginning of this Privacy Policy when we post changes to it.
+| 
 
- **Contact Us**
+Necessary to comply with a legal obligation   
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data). 
 
-If you have any questions about this Privacy Policy, the practices of this Site, your dealings with this Site, or wish to update us with your preferences, you may contact us using one of the following methods:
+| 
 
-  * Email [privacy@knfilters.com](mailto:privacy@knfilters.com)
+Contact Information 
+
+Technical Data 
+
+| 
+
+Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganization or group restructuring exercise)   
+  
+To provide you with information and marketing communications about our products and services. 
+
+| 
+
+Contact Information 
+
+| 
+
+Consent 
+
+Legitimate Interests   
+  
+To respond to customer service requests including order status and chat communications. 
+
+| 
+
+Contact Information 
+
+| 
+
+Legitimate Interest 
+
+Consent   
+  
+**5.** **Disclosures Of Your Personal Data**
+
+From time to time, we may need to share your personal data with others.
+
+_Third Party Service Providers_ . We may share your information, including Contact Data and Technical Data, with third party service providers who perform various functions to enable us to provide our devices and help us operate our business, such as website design, sending email communications, fraud detection and prevention, customer care, or performing analytics. Our contracts with these third parties require them to maintain the confidentiality of the personal data we provide to them, only act on our behalf and under our instructions, and not use personal data for purposes other than the product or service they're providing to us or on our behalf.
+
+_Protection of K &N and Others_ . We may share personal data when we believe it is appropriate to enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of K&N, our products and services, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and risk reduction. This does not include selling, renting, sharing, or otherwise disclosing personal data of our customers for commercial purposes in violation of the commitments set forth in this Notice.
+
+_Response to Subpoenas and Other Legal Requests_ . We may share your information with courts, law enforcement agencies, or other government bodies when we have a good faith belief we're required or permitted to do so by law, including to meet national security or law enforcement requirements, to protect our company, or to respond to a court order, subpoena, search warrant, or other law enforcement request.
+
+_Sale of Our Business_ . If we sell, merge, or transfer any part of our business, we may be required to share your information. If so, you will be asked if you'd like to stop receiving promotional information following any change of control.
+
+_With your Consent_ . Other than as set out above, we will provide you with notice and the opportunity to choose when your personal data may be shared with other third parties.
+
+**6\. Your Choices Regarding Personal Data**
+
+You have choices regarding how we use your personal data. We respect your choices and attempt to honor them whenever possible.
+
+_Email Marketing_
+
+You can remove yourself from promotional emails by clicking the unsubscribe button that appears in the email you receive or by emailing your unsubscribe request to us at privacy@knfilters.com. Please note that it sometimes takes a few days to process unsubscribe requests, but we take efforts to respond to these requests as reasonably practicable. Also, if you receive third-party email offers, you may unsubscribe from those emails by clicking on the unsubscribe button contained within those emails.
+
+_Analytics and Interest Based Advertising_
+
+Please see our Cookie Policy regarding how we use tracking technologies and your choices regarding them.
+
+_Precise Device Location Tracking_
+
+Precise location tracking can be turned off and on using your mobile devices location privacy settings. All major operating systems provide their own instructions for how to turn off precise location sharing and these instructions are usually found in the device’s privacy settings.
+
+**7\. Data Security**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+**8\. EU Data Subjects Terms**
+
+_Privacy Rights ****_
+
+EU data subjects have certain rights with respect to your personal data that we collect and process. We respond to all requests we receive from individuals in the EEA wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+  * _Access, Correction or Deletion_ . You may request access to, correction of, or deletion of your personal data. You can often go directly into the Service under Account Settings to take these actions. 
 
 
 
- **IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS**
+Please note that even if you request for your personal data to be deleted, certain aspects may be retained for us to: meet our legal or regulatory compliance (e.g. maintaining records of transactions you have made with us); exercise, establish or defend legal claims; and to protect against fraudulent or abusive activity on our Service. Data retained for these purposes will be handled as described in “Data Retention” subsection, below.
 
- **Your California Privacy Rights**
+  * _Objection_ . You may object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms. 
+  * _Restriction_ . You have the right to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
+  * _Portability_ . You have the right to request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+  * _Withdraw Consent_ . If we have collected and processed your personal data with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal data conducted in reliance on lawful processing grounds other than consent. 
+  * _File a complaint_ . You have the right to file a complaint with a supervisory authority about our collection and processing of your personal data. 
 
-California Civil Code Section 1798.83 permits our customers who are California residents to request and obtain from us a list of what personal information (if any) we shared with third parties or corporate affiliates for those entities’ direct marketing purposes in the preceding calendar year, and the names and addresses of those third parties. Requests may be made only once a year and are free of charge.
 
-If you are a California resident and would like a copy of this notice, please submit a written request to the following address: **K &N Engineering, Inc. Attn.: Legal 1455 Citrus Street, Riverside, CA. 92507**. For all requests, you must put the statement "K&N California Privacy Rights Notice" in the body of your request, as well as your name, street address, city, state, and zip code. You also need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
- **California Do Not Track Disclosures**
+To file a request or take action on one of your rights, please contact us at the contact details provided. You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
-California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to "Do Not Track" (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. K&N does not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+_Data Retention_
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. In some circumstances you can ask us to delete your data (see “EU Data Subjects Legal Rights”). In some circumstances we may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+_International Data Transfers_
+
+The personal data you provide to us is being transmitted to us and processed in the United States and by our affiliates and their service providers in jurisdictions where we or they operate. Your personal data will be protected subject to this privacy policy and contracts that impose data protections as required by the country where your data was collected. By using our Services you consent to the transfer, processing, storage and access of your personal data of your personal data in and/or outside of the jurisdiction in which you reside. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personal data. If your personal data is collected in Europe, we will transfer your personal data subject to suitable safeguards, including standard contractual clauses where appropriate.
+
+**9\. Children’s Privacy**
+
+We are committed to complying with the Children's Online Privacy Protection Act (COPPA). K&N Sites and services are not directed to children under the age of 16. We do not knowingly collect personal information from children under the age of 16. If we receive personal information that we discover was provided by a child under the age of 16, we will promptly destroy such information. Additional information is available on the Direct Marketing Association's home page at http://www.the-dma.org. If you would like to learn more about COPPA, visit the Federal Trade Commission home page at [http://www.ftc.gov](http://www.ftc.gov/).
+
+**10\. California Privacy Rights**
+
+If you are a California resident, you also have the ability to ask us for a notice identifying the categories of personal information, as defined by California Civil Code Section 1798.83, we share with our affiliates and/or third parties for their direct marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to privacy@knfilters.com
+
+**11\. Updates to Our Privacy Policy**
+
+We may revise this Privacy Policy, so please review it periodically. If you continue to visit this Site and use the Services made available to you after such changes have been made, you hereby provide your consent to the changes.
+
+We will post any updates to this Privacy Policy on this webpage, and the revised version will be effective when it is posted. If you are concerned about how your information is used, please bookmark this page and read this Privacy Policy periodically.
+
+**12\. How to Contact Us**
+
+If you have any questions or wish to register a complaint in relation to this Privacy Notice or the manner in which your personal data is used by us, please contact us by any of the following means:
+
+By Email: privacy@knfilters.com
+
+By Post: P.O. Box 1329 Riverside, CA 92502
