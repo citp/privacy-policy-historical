@@ -1,47 +1,59 @@
-> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529085318id_/http%3A//www.telikompng.com.pg/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222032141id_/http%3A//www.telikompng.com.pg/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Home
+# Privacy Policy
 
-Telikom PNG Limited is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Telikom PNG Limited Web site and governs data collection and usage. By using the Telikom PNG Limited website, you consent to the data practices described in this statement.
+##  Privacy Policy 
 
-Collection of your Personal Information
+**Privacy Policy**
 
-Telikom PNG Limited collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Telikom PNG Limited also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Please read this policy carefully as it gives you important information about how Telikom PNG Limited (“TPNG”) handles your personal information.
 
-There is also information about your computer hardware and software that is automatically collected by Telikom PNG Limited. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Telikom PNG Limited for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Telikom PNG Limited Web site.
+This privacy policy sets out how we use and protect any information that you provide us.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Telikom PNG Limited public message boards, this information may be collected and used by others. Note: Telikom PNG Limited does not read any of your private online communications.
+TPNG is devoted to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when accessing your account information, you can be assured that such information will only be used in accordance with this privacy statement.
 
-Telikom PNG Limited encourages you to review the privacy statements of Web sites you choose to link to from Telikom PNG Limited so that you can understand how those Web sites collect, use and share your information. Telikom PNG Limited is not responsible for the privacy statements or other content on Web sites outside of the Telikom PNG Limited and Telikom PNG Limited family of Web sites.
+TPNG has a firm policy of protecting the confidentiality and security of information that we collect from our Customers, Contractors and Staff. We do not share your non‐public personal information with unaffiliated third parties. Information is only shared with your consent except for the specific purposes below, in accordance with all applicable laws of Papua New Guinea.
 
-Use of your Personal Information
+Do note that TPNG reserves the right to change this policy at any time.
 
-Telikom PNG Limited collects and uses your personal information to operate the Telikom PNG Limited Web site and deliver the services you have requested. Telikom PNG Limited also uses your personally identifiable information to inform you of other products or services available from Telikom PNG Limited and its affiliates. Telikom PNG Limited may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+USE OF INFORMATION
 
-Telikom PNG Limited does not sell, rent or lease its customer lists to third parties. Telikom PNG Limited may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Telikom PNG Limited may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Telikom PNG Limited, and they are required to maintain the confidentiality of your information.
+We limit the collection and use of non‐public personal information to the minimum we believe is necessary to deliver our services to you. For customers, this means our services include providing you with information about your services, usage and bills. For contractors and staff, services include tasks that need to be actioned for service management.
 
-Telikom PNG Limited does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+WHAT WE COLLECT
 
-Telikom PNG Limited keeps track of the Web sites and pages our customers visit within Telikom PNG Limited, in order to determine what Telikom PNG Limited services are the most popular. This data is used to deliver customized content and advertising within Telikom PNG Limited to customers whose behavior indicates that they are interested in a particular subject area.
+Where required, we only obtain non‐public personal information directly from you such as:
 
-Telikom PNG Limited Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Telikom PNG Limited or the site; (b) protect and defend the rights or property of Telikom PNG Limited; and, (c) act under exigent circumstances to protect the personal safety of users of Telikom PNG Limited, or the public.
+  * First name, last name and job title
+  * Contact information including home address, email address, business address, home telephone numbers and business telephone numbers
+  * National Identity Number
+  * Passport Number
+  * Employee Identification Number
+  * Accounts with us and transactions and interactions by us, with us or through us
 
-Use of Cookies
 
-The Telikom PNG Limited Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Telikom PNG Limited pages, or register with Telikom PNG Limited site or services, a cookie helps Telikom PNG Limited to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Telikom PNG Limited Web site, the information you previously provided can be retrieved, so you can easily use the Telikom PNG Limited features that you customized.
+DISCLOSURE
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Telikom PNG Limited services or Web sites you visit.
+We do not disclose any non‐public personal information about our Customer or former Customers to anyone, except when we believe it necessary to deliver services required by Customers, or where disclosure is required by law.
 
-Security of your Personal Information
+Except in those specific situations, without your consent, we will not make any disclosures of non‐public personal information to other companies.
 
-Telikom PNG Limited secures your personal information from unauthorized access, use or disclosure. Telikom PNG Limited secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+WHAT WE DO WITH THE INFORMATION WE GATHER
 
-Changes to this Statement
+We require this information to understand your needs and provide you with better services for the following reasons:
 
-Telikom PNG Limited will occasionally update this Statement of Privacy to reflect company and customer feedback. Telikom PNG Limited encourages you to periodically review this Statement to be informed of how Telikom PNG Limited is protecting your information.
+  * Internal record keeping;
+  * We send emails about bill statements or service incident updates as needed;
+  * From time to time, we may also use your information to contact you for general account information about our services and its use. We may contact you by email, phone, fax or mail;
+  * We may use the information to customize our website and apps to provide better service to you;
 
-Contact Information
 
-Telikom PNG Limited welcomes your comments regarding this Statement of Privacy. If you believe that Telikom PNG Limited has not adhered to this Statement, please contact Telikom PNG Limited at [webmasters@telikompng.com.pg](mailto:webmasters@telikompng.com.pg). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+SECURITY
+
+We are committed to ensuring that your information is secure. To prevent unauthorized access or disclosure to your information, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect.
+
+CONTROLLING YOUR PERSONAL INFORMATION
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
