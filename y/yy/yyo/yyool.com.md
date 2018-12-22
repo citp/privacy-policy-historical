@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yyool.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613091756id_/http%3A//yyool.com/9-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yyool.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222222001id_/http%3A//yyool.com/9-2) for the most accurate reproduction.*
 
 # Privacy & Policy – Free Online Game, Arcade, Multiplayer, Aventure, Action games News & Updates
 
