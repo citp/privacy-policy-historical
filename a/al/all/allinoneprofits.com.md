@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622053831id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222155407id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
 
 # All In One Profits
 
-| [**A lot of traffic**](https://aioptk.com/17m6)  
-find out right now| [ **Turn 20 into 500**](https://5ksolution.com/?ref=pesamob)  
-Earn Monthly Income.  
-100% Matching Bonus  
-Bitcoin or Paypal | [**EASY MONEY MAKING**](http://onyalist.com/EmailProcessing/leonkouame)  
-A Legit Easy Way To  
-Make Money Online  
-Email Processing| [ **Your Free Report**](http://bit.ly/2o5Dxoi)  
-Download Your Free  
-Report The Expert  
-Guide To Affiliate| [ **Get Your FREE Funnel**](http://www.clkmg.com/DanielNewbycm/Funnelx)  
-This is the SAME  
-System I use to   
-Bring in 300+Days  
+| [**Make Money In 24 Hrs**](http://trackr.leadsleap.com/743ym5h6/aioptxt)  
+GUARANTEED!!!  
+Click Here &...  
+Get Started Today!| [ ***Earn Free Bitcoin***](https://aiopsplashbuilder.com/splash.php?id=38335)  
+Litecoin, Dogecoin,  
+And Dashcoin Too  
+100% FREE & FUN!| [ **90 Minute Work Week**](https://iwebatool.net/violet47)  
+Complete Hands Free   
+Build on autopilot  
+Simple to use| [ **New system pays you**](http://www.exituselite.com/lcp/sfenners/instant_phone/)  
+instantl daily| [ **R U An Action Taker?**](http://www.moolavine.com/invite.php?id=5644)  
+Unique System,  
+Designed to Generate  
+Residual Income.  
 ---|---|---|---|---  
   
 
