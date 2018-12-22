@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalbloggers.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427202053id_/http%3A//digitalbloggers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalbloggers.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222202023id_/http%3A//digitalbloggers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
