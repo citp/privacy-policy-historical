@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killersalesvideo.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708184431id_/http%3A//killersalesvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killersalesvideo.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222211416id_/http%3A//www.killersalesvideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Killer Sales Video
 
