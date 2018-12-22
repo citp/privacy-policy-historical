@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609143734id_/https%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222181937id_/https%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy - nixCraft
 
@@ -35,7 +35,9 @@ We do use cookies to store information, such as your personal preferences when y
 
 #### Advertising and Third-party ads
 
-Because of effective Internet advertising, the content is free to you. We do accept advertising on our site. These advertising or advertiser put cookies on your computer and by clicking on external links on this website, you will be visiting independent sites which have separate privacy policies .
+Because of effective Internet advertising, the content is free to you. We do accept advertising on our site. These advertising or advertiser put cookies on your computer and by clicking on external links on this website, you will be visiting independent sites which have separate privacy policies.
+
+nixCraft may receive commission for any products sold from an affiliate link. This site only include affiliate links that go to a product’s home page.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you may visit ad vendor websites to opt out of cookies (if the vendor offers this capability).
 
@@ -50,7 +52,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * Google, as a third party vendor, uses cookies to serve ads on Site.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to Site and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy](http://www.google.com/privacy_ads.html) policy.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy](https://www.google.com/privacy_ads.html) policy.
 
 
 
@@ -72,7 +74,7 @@ We donâ€™t.
 
 nixCraft may use the anonymous data or information to improve this site, including, but not limited to:
 
-  * To understand a userâ€™s needs and create content that is relevant to the user;
+  * To understand a user’s needs and create content that is relevant to the user;
   * To generate statistical studies;
   * To communicate back to the user;
   * To personalize a Site for the user;
@@ -80,18 +82,6 @@ nixCraft may use the anonymous data or information to improve this site, includi
   * To enforce terms of use on a Site
 
 
-
-### Do you share my information with other parts of your company?
-
-No.
-
-### Do you share my information with other companies?
-
-No.
-
-### Do you sell my information to anyone?
-
-No.
 
 ### How can I start or stop receiving e-mail from you?
 
@@ -102,5 +92,3 @@ Simply click on unsubscribe link in e-mail.
 Questions regarding Site policy, should be directed to us via [e-mail](https://web.archive.org/tips/contact-us) only. This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to Site. The date of the most recent revisions will appear on this page.
 
 Please note that this privacy policy is subject to change without any prior notice to visitors.
-
-Last updates on: Apr 30, 2018.
