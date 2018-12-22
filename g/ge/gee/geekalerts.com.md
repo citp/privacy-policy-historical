@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekalerts.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630084035id_/https%3A//www.geekalerts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekalerts.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222051128id_/https%3A//www.geekalerts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Here is a video in which Google explains what cookies do and how they can help w
 
 ## Third-party Ads
 
-We allow [third-party vendors](https://www.google.com/adsense/support/bin/answer.py?answer=94149) to serve ads when you visit GeekAlerts. These companies may use information (see “Cookies and Web Beacons”) about your visits in order to provide advertisements about goods and services of interest to you. Read more [about this practice](https://www.google.com/privacy_ads.html) and to know your choices about not having this information used by these companies.
+We allow [third-party vendors](https://www.google.com/adsense/support/bin/answer.py?answer=94149) to serve ads when you visit GeekAlerts. These companies may use information (see “Cookies and Web Beacons”) about your visits in order to provide advertisements about goods and services of interest to you. Read more [about this practice](http://www.google.com/privacy_ads.html) and to know your choices about not having this information used by these companies.
 
 ## Links to Other Websites
 
