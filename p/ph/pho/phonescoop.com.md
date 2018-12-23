@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonescoop.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930040104id_/http%3A//www.phonescoop.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonescoop.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223212825id_/https%3A//www.phonescoop.com/site/privacy.php) for the most accurate reproduction.*
 
 # Phone Scoop Privacy Policy (Phone Scoop)
 
@@ -25,7 +25,7 @@ We collect and use e-mail addresses for the following purposes:
 
 ## Access
 
-If you wish to correct/add/remove the personal information submitted to Phone Scoop, please log in using your account, and use the "Your Account" link, found in the left-hand navigation bar on every page. Or, you may contact us directly using the [contact form](https://web.archive.org/site/contact.php?c=20).
+If you wish to correct/add/remove the personal information submitted to Phone Scoop, please log in using your account, and use the "Account" link, found in the left-hand navigation bar on every page. Or, you may contact us directly using the [contact form](https://web.archive.org/site/contact.php?c=20).
 
 ## Cookies
 
@@ -35,14 +35,31 @@ However, cookies tell us nothing about who you are, unless you specifically give
 
 The use of advertising cookies sent by third-party servers is standard in the Internet industry. In addition to phonescoop.com cookies, you may also receive cookies from our advertisers and affiliate partners. Phone Scoop cannot and does not control these cookies.
 
-We use third-party advertising companies to serve ads when you visit our site. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this web site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative's consumer web site](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our site. We work directly with the ad networks Ziff Davis and Google. They, in turn, each have multiple partners that they use to select relevant ads, deliver them, and measure success. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this web site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative's consumer web site](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Traffic Data
 
-Each time a visitor comes to the Phone Scoop site, information is collected to improve the overall quality of the site. Phone Scoop collects the visitor's domain name/IP Address (e.g., whether the user is logged on from netscape.com or yale.edu or 255.255.255.0), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to an Phone Scoop site), and browser/platform type (e.g., a Netscape browser on a Macintosh platform).
+Each time a visitor comes to the Phone Scoop site, information is collected to improve the overall quality of the site. Phone Scoop collects the visitor's domain name/IP Address (e.g., whether the user is logged on from netscape.com or yale.edu or 255.255.255.0), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to a Phone Scoop site), and browser/platform type (e.g., a Netscape browser on a Macintosh platform).
+
+This traffic data is collected and stored on both Phone Scoop and Google servers. We use Google Analytics to determine general information about how many people are using our site and how they navigate the site. This data is strictly aggregated, not personal. The only analytics data shared with third parties is the number of people that visit our site. The traffic data on our servers is log data that is retained strictly for internal audit purposes; it is not shared.
 
 In addition, Phone Scoop's advertisement delivery system collects similar aggregate information, for ad rotation control, accounting, and reporting.
 
 Phone Scoop also counts, tracks, and aggregates each visitor's activity into our analysis of general traffic flows at phonescoop.com. Phone Scoop may share this information, on an aggregated basis only, with potential advertisers and business partners. Phone Scoop will not disclose your individual identity or personal data. When Phone Scoop does present aggregated information to potential advertisers and business partners, no one will be able to identify you or contact you.
 
 If you have any questions or concerns about our privacy policy or practices, please do not hesitate to contact us using the [contact form](https://web.archive.org/site/contact.php?c=21).
+
+## Who We Are
+
+Phone Scoop is a brand of Phone Factor LLC, a company that solely publishes phonescoop.com. It is a company incorporated in Pennsylvania, United States, and currently operates in New York, United States. It is wholly owned by its founder, Richard Brome.
+
+## Policy History
+
+Updated May 24, 2018   Show Changes
+
+  * Updated link name from "Your Account" to "Account".
+  * Added names of our ad network partners and description of their partner companies.
+  * Added paragraph on where we store traffic data and how we use it.
+  * Added "Who we are" section.
+
+
