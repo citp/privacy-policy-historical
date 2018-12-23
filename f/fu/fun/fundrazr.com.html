@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fundrazr.com privacy policy that was archived on 2018-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180622205152id_/https%3A//fundrazr.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fundrazr.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223040936id_/https%3A//fundrazr.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -17,7 +17,7 @@
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="FundRazr">
 <meta name="run-location" content="website"> 
 
-<link rel="stylesheet" type="text/css" href="/style/main.bundle.css?cb=180622065849">
+<link rel="stylesheet" type="text/css" href="/style/main.bundle.css?cb=181220060218">
 
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;cookie=0&amp;status=1&amp;status=1&amp;oauth=1&amp;version=v2.8&amp;appId=18015191938"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KNHWLG"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   	//function to queue $(document).ready(fn) jquery calls before jquery is loaded.
@@ -28,7 +28,7 @@
 </script>
 	<title>Privacy policy - FundRazr</title>
 	
-   	<link rel="stylesheet" type="text/css" href="/style/bootstrap-responsive.css?cb=180622065849">
+   	<link rel="stylesheet" type="text/css" href="/style/bootstrap-responsive.css?cb=181220060218">
 	<style type="text/css">
 		#terms {
 		    margin-top: 30px;
@@ -72,7 +72,7 @@ $(function() {
 </script>
 </head>
 
-<body data-mobile="">
+<body data-mobile="" class="">
 	
 	<div id="fb-root"></div>
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNHWLG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -100,11 +100,11 @@ $(function() {
 	
 		
 		
-		<div id="navbar" class="navbar _flex navbar-top">
+		<div id="navbar" class="navbar _flex navbar-top ">
 			<div class="navbar-inner">
 				
 				
-				<div class="container">
+				<div id="navbar-container" class="container">
 				
 					
 					
@@ -114,6 +114,9 @@ $(function() {
 					
 						 
 					<div id="nav-lhs">
+							
+							
+							
 							
 							<a class="brand " href="https://fundrazr.com" target="_top">
 								<img src="/img/wordmarks/fr-wordmark_234x52.png">
@@ -209,6 +212,9 @@ $(function() {
 		
 		
 		
+		
+		
+		
 		<li><a href="https://fundrazr.com/manage" target="_top">Campaigns</a></li>
 		
 		
@@ -233,10 +239,10 @@ $(function() {
 	</ul>
 									</li>
 										<li class="logged-out" style="display: block">
-											<a href="/login?page=https%3A%2F%2Ffundrazr.com%2Fprivacy-policy%3F" rel="nofollow" target="_top">Sign in</a>
+											<a data-action="login" href="/login?page=https%3A%2F%2Ffundrazr.com%2Fprivacy-policy%3F" rel="nofollow" target="_top">Sign in</a>
 										</li>
 							</ul>
-						
+							
 						</div>
 					</div>
 				</div>
@@ -246,7 +252,7 @@ $(function() {
 		
 		
 		
-		<div id="super-container" class="scrollable">
+		<div id="super-container" class=" scrollable">
 			
 			<noscript><div class="alert alert-error text-center" style="margin: 0 auto 10px;">You need to enable JavaScript to use FundRazr</div></noscript>
 				<div class="container " style="min-height: 350px;">
@@ -443,7 +449,7 @@ $(function() {
 		
 		
 		
-		<div id="footer-main" class="row">
+		<div id="footer-main" class="row-fluid">
 				
 				<div class="span3">
 					<h4>Fund anything</h4>
@@ -562,10 +568,12 @@ $(function() {
 	
 	<div id="bottom-bar-spacer"></div>
 	
-	<script src="/js/main.bundle.js?cb=180622065849"></script>
+	<script src="/js/main.bundle.js?cb=181220060218"></script>
+	<script src="//cdn.embedly.com/widgets/platform.js"></script>
+	
 	<script>
 		$(function() {
-			$FR.config.cacheBreaker = '180622065849';
+			$FR.config.cacheBreaker = '181220060218';
 			$FR.config.supportEmailAddress = 'support@fundrazr.com';
 			$FR.session.isMobileClient = false;
 			$FR.session.isReturningUser = false;
@@ -630,7 +638,7 @@ $(function() {
 			    path		: '/bundle/', 
 			    mode		: 'map',
 			    cache		: true,
-			    cachebreaker: '180622065849'
+			    cachebreaker: '181220060218'
 			});
 			
 			// Copy to clipboard initialization
@@ -650,6 +658,16 @@ $(function() {
 			$FR.start('pageUtils');
 			$FR.register('header', FundRazr.module.Header);
 			$FR.start('header');
+			
+			if (window.embedly) {
+				embedly('defaults', {
+					cards: {
+						'key': $FR.config.embedlyApiKey,
+						'controls': '0',
+						'align': 'left'
+					}
+				});
+			}
 		});
 		
 		// Execute queued jquery $(document).ready() function calls after jquery script loads
