@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the veganricha.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124031720id_/https%3A//www.veganricha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veganricha.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223225252id_/https%3A//www.veganricha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vegan Richa
 
-### **Privacy Policy of VeganRicha.com**
-
-I deeply care about you and your privacy. I am wary of your personal information, your interactions with me on and off the blog. Your privacy is really important to me and I always keep it in mind whenever the question of privacy and securing that information comes up. Below outlines what is received and logged when you visit [www.veganricha.com](https://www.veganricha.com/) and how it is used. If you have any questions about the policy below, feel free to contact me at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b293238333a3332353c373e1b3c363a323775383436)
+I (Richa) deeply care about you and your privacy. I am wary of your personal information, your interactions with me on and off the blog. Your privacy is really important to me and I always keep it in mind whenever the question of privacy and securing that information comes up. Below outlines what is received and logged when you visit [www.veganricha.com](https://www.veganricha.com/) and how it is used. Blog automatically uses https so that your data on the wire is secured. If you have any questions about the policy below, feel free to contact me at [richahingle@gmail.com](mailto:richahingle@gmail.com)
 
 I will be updating this page from time to time with modified date at the bottom. You should check this page to ensure that you are up-to-date with the latest policy.
 
@@ -24,15 +22,29 @@ We use this information to improve the content of the blog as well as understand
 
 ###  **Cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
- <http://www.allaboutcookies.org/> is an excellent resource to understand this more. Here is an excerpt from the site and also a link on how to disable cookies.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
- _Also known as browser cookies or tracking cookies, cookies are small, often encrypted text files, located in browser directories. They are used by web developers to help users navigate their websites efficiently and perform certain functions. Due to their core role of enhancing/enabling usability or site processes,  _[ _disabling cookies_](http://www.allaboutcookies.org/manage-cookies/) _ _ _may prevent users from using certain websites._
+###  **Comments**
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. Visitor comments may be checked through an automated spam detection service.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+###  **Media**
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
 ###  **Analytics**
 
@@ -66,6 +78,12 @@ You should go through the individual privacy policy and make sure you understand
 
 Content on our site contain links to other websites such as other bloggers, affiliates such as Amazon or other media sites such as YouTube. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. You should exercise caution and look at the privacy statement applicable to the website in question.
 
+### How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
 ###  **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
@@ -82,4 +100,40 @@ We do not sell, rent, trade, or otherwise share personal information we have u
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
- _Last updated on: 11/27/16_
+* * *
+
+## Source: WP Recipe Maker
+
+Bootstrapped Ventures, the developer of WP Recipe Maker, does not have access to any of the data collected by the plugin. This is all stored in your local database and not communicated back to us. Take note of the following topics for your own privacy policy.
+
+## What personal data we collect and why we collect it
+
+### Comments
+
+When comment ratings are enabled we store the rating a user has given to a recipe along with the personal data WordPress core stores.
+
+### Cookies
+
+When user ratings are enabled we store a WPRM_User_Voted_%recipe% cookie (with %recipe% the ID of the recipe) that contains the rating this user has given to a particular recipe. This cookie is used as (one of the) measures to prevent rating spam.
+
+### IP Address
+
+When user ratings are enabled we store the IP address upon voting. This is used as (one of the) measures to prevent rating spam.
+
+### Their own manually input information
+
+With the Recipe Submission feature personal data can be collected, depending on the fields that were added to the form. This can include the user email and name. When using the reCAPTCHA feature you will be agreeing to their terms of use and privacy policy.
+
+## How long we retain your data
+
+Our cookies are stored for 30 days. User submitted data is stored indefinitely in the local database.
+
+* * *
+
+## Source: WP Ultimate Post Grid
+
+WP Ultimate Post Grid does not collect any data. Fonts in the grid templates will be loaded from the Google Web Font API (fonts.googleapis.com) unless changed in the Template Editor. You will be agreeing to their Terms of Use and Privacy Policy.
+
+* * *
+
+ _Last updated on: 05/26/18_
