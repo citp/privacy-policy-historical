@@ -1,413 +1,964 @@
-<!--The following is the downloaded HTML source of the dotloop.com privacy policy that was archived on 2016-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323033428id_/https%3A//www.dotloop.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotloop.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223172809id_/https%3A//www.dotloop.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch no-istouch no-isios an-flip-support draganddrop"><head>
-        
-<script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMOUVJTGwEHVlFWAAA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},y={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return y}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:21,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:21,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),a.xhrWrappable&&t(2),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:22,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:23,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:23,ee:"QJf3ax"}],8:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:5,2:23,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:12,4:8,5:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],11:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:21,2:22,handle:"D5DuLP"}],12:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:21,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],21:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],22:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],23:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:22,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script><script src="//cdn.optimizely.com/js/695651806.js"></script>
-        <title>dotloop - peoplework, not paperwork.</title>
+<!DOCTYPE html><html lang="en" class=" async-hide"><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="keywords" content="dotloop, real estate agents, offers, online sales tool, negotiations, approvals, brokers, home sales, selling a house, esign, esignature, online signature, online contracts, Transaction platform, secure transactions, secure transaction, mobile transaction">
-        <meta name="description" content="dotloop provides an online platform to empower real estate professionals to get deals done. Find out why we are the top choice for industry leading brands.">
-        <meta property="og:title" content="dotloop - peoplework">
-        <meta property="og:description" content="dotloop is the collaboration platform where real estate pros get deals done.">
-        <meta property="og:image" content="https://www.dotloop.com/my/static/images/external/logo_large.jpg">
-        <meta name="google-site-verification" content="jdflWKGAhJuhkCbskspakEeSwWgNTuxgWutrbQ4ztNY">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="apple-itunes-app" content="app-id=605565510">
+        <link rel="manifest" href="/my/static/manifest.android.json">
+        <title>Our Privacy Policy | Dotloop</title>
 
-        
-        <link rel="shortcut icon" href="/my/static/favicon.ico">
-<link rel="apple-touch-icon" href="/my/static/images/apple-touch-icons/touch-icon.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/my/static/images/apple-touch-icons/touch-icon-ipad.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/my/static/images/apple-touch-icons/touch-icon-iphone-retina.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/my/static/images/apple-touch-icons/touch-icon-ipad-retina.png">
+<!-- Start The SEO Framework by Sybre Waaijer -->
+<meta name="description" content="In order to better protect your privacy, we provide this notice explaining our practices and the choices you can make with your information.">
+<meta property="og:image" content="/wp-content/uploads/2016/07/cropped-smileyface-lb.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Our Privacy Policy | Dotloop">
+<meta property="og:description" content="In order to better protect your privacy, we provide this notice explaining our practices and the choices you can make with your information.">
+<meta property="og:url" content="https://www.dotloop.com/privacy-policy/">
+<meta property="og:site_name" content="Dotloop">
+<meta property="fb:app_id" content="1391167134273067">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@dotloop">
+<meta name="twitter:title" content="Our Privacy Policy | Dotloop">
+<meta name="twitter:description" content="In order to better protect your privacy, we provide this notice explaining our practices and the choices you can make with your information.">
+<meta name="twitter:image" content="/wp-content/uploads/2016/07/cropped-smileyface-lb.png">
+<meta name="twitter:image:width" content="512">
+<meta name="twitter:image:height" content="512">
+<link rel="canonical" href="https://www.dotloop.com/privacy-policy/">
+<script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/61cc2f3c-bf24-41ac-ad6c-5f24925e3e89.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580466900000/467208.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6&amp;appId=1391167134273067"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.dotloop.com/","name":"Dotloop"}},{"@type":"ListItem","position":2,"item":{"@id":"/privacy-policy/","name":"Our Privacy Policy"}}]}</script>
+<meta name="google-site-verification" content="Kf2Bd830HkIGSMG8WCnwLigKlBxem-nBz9TPOrASEro">
+<!-- End The SEO Framework by Sybre Waaijer | 0.00368s -->
 
-        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-<!--[if lt IE 9]>
-    <script src="//html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-<![endif]-->
-
-        
-
-        
-                       
-            <link rel="stylesheet" type="text/css" href="/my/static/style/b1b0c27ff020ddfddb56072d2a0bbb32/external/main/trust.css">
-        
-    </head>
-
+		<script type="text/javascript">
+		var ajaxurl = 'https://www.dotloop.com/wp-admin/admin-ajax.php';
+		</script>
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="/wp-includes/js/wp-emoji-release.min.js?ver=4.9.9" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wpos-magnific-style-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/plugins/meta-slider-and-carousel-with-lightbox/assets/css/magnific-popup.css?ver=1.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpos-slick-style-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/plugins/meta-slider-and-carousel-with-lightbox/assets/css/slick.css?ver=1.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-igsp-public-css-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/plugins/meta-slider-and-carousel-with-lightbox/assets/css/wp-igsp-public.css?ver=1.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="master_css-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/build/style.min.css?ver=1540575901" type="text/css" media="all">
+<link rel="stylesheet" id="tooltip-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/css/tooltip.css?ver=1539977713" type="text/css" media="all">
+<link rel="stylesheet" id="formstyling-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/css/forms.css?ver=1539977713" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="mcs-styles-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/css/jquery.mCustomScrollbar.css?ver=1539977713" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap_form_css-css" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/css/bootstrap-formhelpers-selectbox.css?ver=4.9.9" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dotloop.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=%2Fprivacy-policy%2F&amp;format=xml">
+<style type="text/css"></style><link rel="icon" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/cropped-smileyface-lb-32x32.png" sizes="32x32">
+<link rel="icon" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/cropped-smileyface-lb-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/cropped-smileyface-lb-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2016/07/cropped-smileyface-lb-270x270.png">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700" rel="stylesheet" type="text/css">
+        <link rel="shortcut icon" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/favicon.ico">
+        <link rel="apple-touch-icon" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/apple-touch-icons/touch-icon.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/apple-touch-icons/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/apple-touch-icons/touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/apple-touch-icons/touch-icon-ipad-retina.png">
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+      <script src="//js.hs-analytics.net/analytics/1464674400000/467208.js" async=""></script>
     
-    <!--[if lt IE 7 ]>
-    <body class="ie6 trust preload "> <![endif]-->
-    <!--[if IE 7 ]>
-    <body class="ie7 trust preload "> <![endif]-->
-    <!--[if IE 8 ]>
-    <body class="ie8 trust preload "> <![endif]-->
-    <!--[if IE 9 ]>
-    <body class="ie9 trust preload "> <![endif]-->
-    <!--[if gt IE 9]>
-    <body class="ie trust preload "> <![endif]-->
-    <!--[if !IE]><!-->
-    <body class="trust preload  "> <!--<![endif]-->
-        <script type="text/javascript">
-    window.app = window.app || {};
-    app.bootstrap = app.bootstrap || {};
-    app.bootstrap.get = function(objName, backboneObj, options) {
-        // Get the object from the bootstrap data
-        var objValue = app.bootstrap[objName] || undefined,
-            isBackboneEntity = objValue instanceof Backbone.Model || objValue instanceof Backbone.Collection;
+<!-- External Script : GA -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-5MWV6XT':true});</script>
+<!-- Modified Analytics tracking code with Optimize plugin -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-2679774-13', 'dotloop.com');
+    ga('require', 'GTM-5MWV6XT');
+    ga('send', 'pageview');
+</script>
 
-        if(objValue !== undefined) {
-            // Merging options.
-            options = _.defaults(options || {}, { parse: true }),
+<!-- External Script : AdWords Remarketing Tag -->
+<!-- Global site tag (gtag.js) - Google AdWords: 934655310 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-934655310"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());gtag('config', 'AW-934655310');
+</script>
 
-            // If this object has a cid (meaning it's a backbone entity), then use it as is, otherwise create a new backbone entity
-            resultObj = isBackboneEntity ? objValue : new backboneObj(objValue, options);
+<!-- External Script : Facebook Pixel Code -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1521107018212781'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1521107018212781&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
 
-            // Return the backbone object, only update the bootstrap obj if a regular JS object was just converted to a backbone entity
-            return isBackboneEntity ? resultObj : app.bootstrap.add(objName, resultObj);
-        }
-        return undefined;
+
+<!-- External Script : Ambassador Cookie Fetching Snippet -->
+<script>
+function mbsyUpdateForm() {
+   var mbsyInterval = setInterval(mbsyGetShortCode, 100);
+   function mbsyGetShortCode() {
+      var mbsyShortCode = window.mbsy_short_code;
+      var mbsyField = document.querySelector('input[name=mbsy]');
+      if (mbsyShortCode && mbsyField) {
+        mbsyField.value = mbsyShortCode;
+        clearInterval(mbsyInterval);
+      }
     }
-    app.bootstrap.add = function(objName, obj) {
-        app.bootstrap[objName] = obj;
-        return obj;
-    }
-</script>
-        <script type="text/javascript">
-    app.bootstrap.add('systemSettings', {"metricsEnabled":true,"signPdfs":true,"debugMode":false,"hideNonEditableSignatures":true,"strikethroughDisabled":false,"classicDisabled":true,"postSigningPopupCheckboxDefaultChecked":false,"doubleUpgradeNowEnabled":false,"metricsRootUrl":"","disableTransactionTypesDropdown":false});
-</script>
-        <div id="color-palette" style="display:none;">
-    <div id="dlMainDarker" class="dlMainDarker"></div>
-    <div id="dlMainDark" class="dlMainDark"></div>
-    <div id="dlMain" class="dlMain"></div>
-    <div id="dlMainLight" class="dlMainLight"></div>
-    <div id="dlMainLighter" class="dlMainLighter"></div>
-    <div id="dlGrayDarker" class="dlGrayDarker"></div>
-    <div id="dlGrayDark" class="dlGrayDark"></div>
-    <div id="dlGray" class="dlGray"></div>
-    <div id="dlGrayLight" class="dlGrayLight"></div>
-    <div id="dlGrayLighter" class="dlGrayLighter"></div>
-    <div id="dlNavBG" class="dlNavBG"></div>
-    <div id="dlSecondaryAttention" class="dlSecondaryAttention"></div>
-    <div id="dlHighlight" class="dlHighlight"></div>
-</div>
-
-<script type="text/javascript">
-    window.app = window.app || {};
-    app.colors = app.colors || {};
-    app.colors.getAll = function() {
-        var colors = [];
-        $('#color-palette').children().each(function(){
-            var key = $(this).attr('id');
-            var value = $(this).css('background-color');
-            colors.push({key : value});
-        });
-        return colors;
-    };
-    app.colors.get = function(name) {
-        return $('#'+name,'#color-palette').css('background-color')
-    };
-</script>
-        <script type="text/javascript">
-    app.bootstrap.add('mobileDeepLinkInfo', null);
+  }
+  mbsyUpdateForm();
 </script>
 
-        <section id="banner-deep-link" class="responsive bg-darker bg-main-darker banner-deep-link text-center super hide"></section>
+<!-- External Script : Ambassador Fetching Cookie -->
+<script type="text/javascript" src="https://mbsy.co/embed/v2/getcookie/dotloop"></script>
 
-    <!-- header -->
-<header class="container header" id="header">
-    <div class="logo pull-left">
-        <a href="/">
-            <img src="/my/static/images/external/logo.png">
-        </a>
-    </div>
-    <nav class="top-nav pull-right">
-        <ul class="top-nav-list">
-            
-    
-        <li><a href="/teams">Teams</a></li>
-    
-    
+<!-- External Script : Ambassador -->
+<script>(function (u, n, i, v, e, r, s, a, l) {u[r] = {}; u[r].uid = '14535893-f53d-45c8-9fab-88e3c8343a0d';a = n.createElement(v); a.src = e; a.async = s;n.getElementsByTagName(i)[0].appendChild(a);})(window, document, 'head', 'script', 'https://cdn.getambassador.com/us.js', 'mbsy', true);</script><script src="https://cdn.getambassador.com/us.js" async=""></script>
 
+    <script async="" src="//static.hotjar.com/c/hotjar-189526.js?sv=5"></script></head>
 
+    <body class="page-template page-template-template-subpage page-template-template-subpage-php page page-id-60 page-parent privacy-policy responsive">
+    	
     
-        <li><a href="/brokers">Brokers</a></li>
-    
-    
-
-
-    
-        <li><a href="/agents">Agents</a></li>
-    
-    
+<!-- External Script : Hubspot Tracking Code -->
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/467208.js"></script>
+<!-- End of HubSpot Embed Code -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=1391167134273067";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 
 
-    
-        <li><a href="/serviceproviders">Service Providers</a></li>
-    
-    
 
+<header class="header" id="header">
+    <div id="dotloop-hellobar"></div>
+	<div class="container">
+		<div class="logo pull-left">
+                    <a href="/"> <img src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/external/logo.png"></a>
+        		</div>
+        		<nav class="top-nav pull-right alt">
 
-    
-        <li><a href="/mobile">Mobile</a></li>
-    
-    
-
-
-    
-    
-        <li class="active"><a href="/trust">Security</a></li>
-    
-
-
-    
-        <li><a href="/products">Products</a></li>
-    
-    
-
-
-    <li><a href="http://marketing.dotloop.com/uptime">Uptime</a></li>
-
-<li><a href="/#signin" class="visible-md visible-lg">Sign In</a></li>
-
-
-        </ul>
-    </nav>
-    
+			<div class="menu-primary-navigation-container"><ul id="menu-primary-navigation" class="top-nav-list"><li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="/agents/">Agents</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="/brokers/">BROKERS</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="/teams/">Teams</a></li>
+<li id="menu-item-2096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2096"><a href="/products/plans-pricing/">Plans</a></li>
+<li id="menu-item-702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="/blog/">Blog</a></li>
+<li id="menu-item-573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-573"><a href="https://www.dotloop.com/#signup">Get Started</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-26"><a href="https://www.dotloop.com/#signin">Sign In</a></li>
+</ul></div>
+		</nav>
+		<nav id="pushy-links" class="pull-right">
+			<a href="#signin">SIGN IN</a>
+			<a id="open-menu" class="margin-right-40">MENU
+			<div class="menu-icon-btn"></div>
+			</a>
+		</nav>
+    	</div>
 </header>
 
-  <div class="site-wrapper">
-    <div class="container">
-<div class="news row-fluid">
+<div id="side-menu-container">
+    <div class="site-overlay"></div>
+    <nav id="pushy" class="pushy pushy-left"> <a id="close-menu" class="close-icon-btn">✕</a>
+    	<div class="menu-primary-navigation-container"><ul id="menu-primary-navigation-1" class="side-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="/agents/">Agents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="/brokers/">BROKERS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="/teams/">Teams</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2096"><a href="/products/plans-pricing/">Plans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-573"><a href="https://www.dotloop.com/#signup">Get Started</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-26"><a href="https://www.dotloop.com/#signin">Sign In</a></li>
+</ul></div>      <div class="margin-top-20">
+      	<a class="close-pushy-menu" href="#signup">Try Free</a>
+      	<a class="small" href="#signup"><span class="lower">or</span> Buy for $29 User/Month</a>
+      </div>
+    </nav>
+  </div>
+			<div class="layout-blocks">
+				 <section class="layout-block block-col-single block-elem-align-center width-full-width block-bg-white block-align-left block-display-no_image">
+	<div class="block-container">
+		<h2 class="title"></h2>
+		<h3 class="subtitle"></h3>
 
-  <aside class="related-content span5">
-    <div class="category-articles">
-        <ul class="unstyled">
-            <li>
-              <a href="dmca-process"><strong>dotloop DMCA Procedure</strong></a>
-            </li>
-            <li>
-              <a href="terms-conditions"><strong>Terms &amp; Conditions</strong></a>
-            </li>
-            <li>
-              <a href="privacy-policy" class="active"><strong>Privacy Policy</strong></a>
-            </li>
-        </ul>
-    </div>
-  </aside>
-
-  <section class="news-article terms-privacy span13">
-    <article>
-      <div class="row-fluid">
-        <div class="article-content">
-          <header>
-            <h3>Privacy Policy</h3>
-          </header>
-          <div class="article-body">
-            <div id="50a17447-8400-4c63-8a30-8e038f6d8075"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Dotloop,-Inc/asc?rid=50a17447-8400-4c63-8a30-8e038f6d8075"></script><a href="//privacy.truste.com/privacy-seal/Dotloop,-Inc/validation?rid=9ca3c6f0-1288-4204-9687-403d9dc1c221" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Dotloop,-Inc/seal?rid=9ca3c6f0-1288-4204-9687-403d9dc1c221" alt="TRUSTe online privacy certification"></a></div><br>
-
-<!-- Our Commitment To Privacy -->
-<p><strong>Our Commitment To Privacy</strong><br>
-This Privacy Policy applies to www.dotloop.com owned and operated by Dotloop, Inc. Your privacy is important to us. In order to better protect your privacy, we provide this notice (the "Policy") explaining our information practices and the choices you can make about the way your information is collected and used. By providing personal information to Dotloop, Inc. ("Dotloop", "We", "Us", or "Our") through our website www.dotloop.com, you agree and consent that we may collect, use, and disclose your personal information in accordance with this Policy. To make this Policy easy to find, we make it available on our homepage.</p>
-<p>Dotloop, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, <a href="http://www.dotloop.com">http://www.dotloop.com</a> and does not cover information that may be collected through our mobile application. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here.</a></p>
-<!-- Our Commitment To Privacy -->
-
-<!-- The Information We Collect -->
-<p><strong>The Information We Collect</strong><br>
-This Policy applies to all information collected or submitted on dotloop.com. We consider "personal information" to mean information about an identifiable individual. The type of personal information collected on the website includes, but is not limited to: Name, Address, Email Address, Phone Number, and your involvement in a real estate transaction. We also collect billing information such as credit card numbers. Contact information of other people may also be collected from or submitted by you during the transaction process or for other communication purposes. The same types of information previously described in this paragraph will also apply to other people's information. </p>
-<!-- The Information We Collect -->
-
-<!-- The Way We Use Information -->
-<p><strong>The Way We Use Information</strong><br>
-We use the information you provide when processing or completing a transaction on dotloop to communicate to the other parties involved. We do not share this information with outside parties except to the extent necessary to complete a transaction, where required or permitted by law, or as set forth in this Policy (see Information Sharing section below). We do not sell your personal information to third parties. We may share your personal information with third parties who may offer services that may be of interest ("Third Party Sharing").</p>
+		
+		
+					<div class="block-content">
+				<h1 style="text-align:center;">Privacy Policy</h1>
+<p>&nbsp;</p>
+<p><a href="https://privacy.truste.com/privacy-seal/validation?rid=9ca3c6f0-1288-4204-9687-403d9dc1c221" target="_blank"><img src="https://privacy-policy.truste.com/privacy-seal/seal?rid=9ca3c6f0-1288-4204-9687-403d9dc1c221" alt="TRUSTe"></a></p>
+<div>
+<h2>Our Commitment to Privacy</h2>
+<p>This Privacy Policy applies to <a href="http://dotloop.wpengine.com/" target="_blank">dotloop.wpengine.com</a> operated by Dotloop, LLC (“Dotloop”, “We”, “Us”, or “Our”). Your privacy is important to us. In order to better protect your privacy, we provide this notice (the “Policy”) explaining our information practices and the choices you can make about the way your information is collected and used. By providing personal information to Dotloop through our website <a href="http://dotloop.wpengine.com/" target="_blank">dotloop.wpengine.com</a>, you consent to Dotloop collecting, using, and disclosing your personal information in accordance with this Policy. To make this Policy easy to find, we make it available on our homepage.</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.<wbr>com/watchdog/request</a>.</p>
+<p>&nbsp;</p>
+<h3>The Information We Collect</h3>
+<p>&nbsp;<br>
+This Policy applies to all information collected or submitted on <a href="https://www.dotloop.com/" target="_blank">dotloop.com</a>. We consider “personal information” to mean information about an identifiable individual. The type of personal information collected on the website includes, but is not limited to: Name, Address, Email Address, Phone Number, and your involvement in a real estate transaction. We also collect billing information such as credit card numbers. Contact information of other people may also be collected from or submitted by you during the transaction process or for other communication purposes. When we need to collect credit card data from you in connection with a transaction, portions of pages on our website utilize framing technology that preserves the look and feel of our website but allows your credit card data to be sent securely and directly to our payment processor instead of to dotloop. </p>
+<p>&nbsp;</p>
+<h3>The Way We Use Information</h3>
+<p>&nbsp;<br>
+We use the information you provide when processing or completing a transaction on dotloop to communicate to the other parties involved. We do not share this information with outside parties except to the extent necessary to complete a transaction, where required or permitted by law, or as set forth in this Policy (see Information Sharing section below). We do not sell your personal information to third parties. We may share your personal information with third parties who may offer services that may be of interest (“Third Party Sharing”).</p>
 <p>Similarly, we use the information you provide about someone else for communications required during the transaction process. If you provide personal information about your client(s) to us for the purpose of completing a transaction, you represent and warrant that you have obtained their consent to do so. Such information may be shared with outside parties to complete a transaction for Third Party Sharing.</p>
-<p>If you wish to opt out of such Third Party Sharing, please email us with your request at <a href="mailto:support@dotloop.com">support@dotloop.com</a>. We use return email addresses to answer the email we receive. dotloop may use the information collected from you to provide you with additional information about dotloop's services, partners, promotions, and events. Every marketing email from dotloop contains instructions on how to opt out of receiving further marketing emails.</p>
-<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where dotloop.com is used so that we can better understand customer behavior and improve our website to better suit our customers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form.</p>
-<p>At times dotloop.com may make certain non-identifying information available to strategic partners that work with dotloop.com to provide products and services.  Such information helps us make our advertising and email communications more relevant to your interests and needs.</p>
-<p>We may provide your personal information to companies that provide services to help us with our business activities such as improving system performance or offering customer service. These companies are authorized to use your personal information <i>only as necessary to provide</i> these services to us.</p>
+<p>If you wish to opt out of such Third Party Sharing, please email us with your request at <a href="mailto:support@dotloop.com" target="_blank">support@dotloop.com</a>. We use return email addresses to answer the email we receive. dotloop may use the information collected from you to provide you with additional information about dotloop’s services, partners, promotions, and events. Every marketing email from dotloop contains instructions on how to opt out of receiving further marketing emails.</p>
+<p>We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where <a href="https://www.dotloop.com/" target="_blank">dotloop.com</a> is used so that we can better understand customer behavior and improve our website to better suit our customers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form.</p>
+<p>We may provide your personal information to companies that provide services to help us with our business activities such as improving system performance or offering customer service. These companies are authorized to use your personal information&nbsp;only as necessary to provide&nbsp;these services to us.</p>
 <p>In the event that we enter into a business transaction, such as a merger with or an acquisition by another company, or a sale of some or all of our assets, your personal information may be among the assets that are transferred or disclosed in connection with such a transaction, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
 <p>Finally, we never use or share the personal information provided to us online in ways unrelated to the ones described in this Policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-<!-- The Way We Use Information -->
-
-<!-- Our Commitment To Data Security -->
-<p><strong>Our Commitment To Data Security</strong><br>
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). You should note, though, that the internet is not a 100% secure environment. There is no guarantee that information you provide or that we maintain may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about security on our website, you can contact us at <a href="mailto:support@dotloop.com">support@dotloop.com</a></p>
-<!-- Our Commitment To Data Security -->
-
-<!-- How You Can Access Your Information -->
-<p><strong>How You Can Access Your Information</strong><br>
-You can retrieve, correct or update your personal information by accessing your account on dotloop.com or by contacting us at the contact information listed below. We will respond to your request within a reasonable timeframe.</p>
-<p>We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-<!-- How You Can Access Your Information -->
-
-<!-- Opt out Preferences and Service Related Emails -->
-<p><strong>Opt out Preferences and Service Related Emails</strong><br>
-We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do no have an option to opt out of these emails, which are not promotional in nature.</p>
-<!-- Opt out Preferences and Service Related Emails -->
-
-<!-- Tracking Technologies / Cookies -->
-<p><strong>Tracking Technologies / Cookies</strong><br>
-Technologies such as: cookies, beacons, tags and scripts are used by Dotloop, Inc. and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. </p>
-<p>We use cookies to remember users' settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some areas of our site may not be possible.</p>
-<ul><li><strong>Log Files</strong></li></ul>
-<p>As is true of most websites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or click stream data. We do not link this automatically collected data to other information we collect about you.</p>
-<p>We use local storage objects such as HTML5 to store content information and preferences.</p>
-<p>Various browsers may offer their own management tools for removing HTML5.</p>
-<ul><li><strong>Behavioral Targeting</strong></li></ul>
-<p>We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com" target="_blank">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
-<!-- Tracking Technologies / Cookies -->
-
-<!-- Information Sharing -->
-<p><strong>Information Sharing</strong><br>
-Normally, we will not disclose personal information unless you have authorized the disclosure. There are some circumstances where we may disclose personal information without consent. Such circumstances include where we are required or permitted by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect the rights, privacy, safety or property of an identifiable person or group; or where the information is public. We will not disclose more information than required or permitted.</p>
+<p>&nbsp;</p>
+<h3>Our Commitment to Data Security</h3>
+<p>&nbsp;<br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). You should note, though, that the internet is not a 100% secure environment. There is no guarantee that information you provide or that we maintain may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about security on our website, you can contact us at <a href="mailto:support@dotloop.com" target="_blank">support@dotloop.com</a>.</p>
+<h3>How You Can Access Your Information</h3>
+<p>Upon request, Dotloop will provide you with information about whether we hold any of your personal information. You can retrieve, correct or update your personal information by accessing your account on <a href="https://www.dotloop.com/" target="_blank">dotloop.com</a> or by contacting us at the contact information listed below. We will respond to your request within a reasonable timeframe.</p>
+<p>We will retain your information for as long as your account is active or as needed to provide you services, or as necessary to facilitate compliance with real estate transaction record retention requirements. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>&nbsp;</p>
+<h3>Opt out Preferences and Service Related Emails</h3>
+<p>&nbsp;<br>
+We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.</p>
+<p>&nbsp;</p>
+<h3>Passive Collection</h3>
+<p>&nbsp;<br>
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate, and administer the site.</p>
+<p>&nbsp;</p>
+<h3>Tracking Technologies</h3>
+<p>&nbsp;<br>
+Dotloop and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.</p>
+<p>&nbsp;</p>
+<h3>Behavioral Targeting</h3>
+<p>&nbsp;<br>
+We partner with a third party ad network to either display advertising on our website or to manage advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking&nbsp;<a href="https://preferences-mgr.truste.com/" target="_blank">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+<p>&nbsp;</p>
+<h3>Information Sharing</h3>
+<p>&nbsp;<br>
+Normally, we will not disclose personal information unless you have authorized the disclosure. There are some circumstances where we may disclose personal information without consent. Such circumstances include where we are required or permitted by law, such as to comply with a subpoena, or similar legal process; including to meet national security or law enforcement requirements; when we believe in good faith that disclosure is necessary to protect the rights, privacy, safety or property of an identifiable person or group; or where the information is public. We will not disclose more information than required or permitted.</p>
 <p>We endeavor to ensure that your personal information is as accurate as necessary and generally retain personal information as long as is necessary to fulfill the purposes for which it was collected.</p>
-<p>We operate in the United States. Any information provided through dotloop.com will be processed and stored in the United States, where privacy laws may offer different levels of protection from those in Canada or other countries and personal information may be subject to access by and disclosure to law enforcement agencies in the United States. We may also share personal information with organizations that perform services on our behalf. We require those service providers to take the necessary precautions to protect the personal information. </p>
+<p>We operate in the United States. Any information provided through <a href="https://www.dotloop.com/" target="_blank">dotloop.com</a> will be processed and stored in the United States, where privacy laws may offer different levels of protection from those in Canada or other countries and personal information may be subject to access by and disclosure to law enforcement agencies in the United States. We may also share personal information with organizations that perform services on our behalf. We require those service providers to take the necessary precautions to protect the personal information.</p>
 <p>In most cases and subject to legal or contractual restrictions, you are free to refuse or withdraw your consent at any time upon reasonable, advance notice.</p>
-<!-- Information Sharing -->
-
-<!-- Changes to the Policy -->
-<p><strong>Changes to the Policy</strong><br>
+<p>&nbsp;</p>
+<h3>Changes to the Policy</h3>
+<p>&nbsp;<br>
 By providing information to us, you signify your consent to this Policy. If you do not agree to this Policy or the Terms of Use, please do not use the website, or provide your information to us. We reserve the right, at our discretion, to change, modify, add or remove portions of this Policy at any time and we will update this page to reflect the date of the last update. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Please check this page periodically for changes. Your continued use of our Services following the posting of changes to these terms will mean you accept those changes. The date of the last update is located at the bottom of this Policy.</p>
-<!-- Changes to the Policy -->
-
-<!-- Links to Third Party Websites -->
-<p><strong>Links to Third Party Websites</strong><br>
-Our website may contain "links" to other websites. We cannot be responsible for the content or privacy practices employed by other sites. We encourage you to review the privacy policies of these websites before disclosing any personal information to or through them.</p>
+<p>&nbsp;</p>
+<h3>Links to Third Party Websites</h3>
+<p>&nbsp;<br>
+Our website may contain “links” to other websites. We cannot be responsible for the content or privacy practices employed by other sites. We encourage you to review the privacy policies of these websites before disclosing any personal information to or through them.</p>
 <p>Our website and application uses the Google Maps Application Programming Interface (API) and so the Google Privacy Policy is incorporated into this Policy.</p>
-<!-- Links to Third Party Websites -->
-
-<!-- Testimonials -->
-<p><strong>Testimonials</strong><br>
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at <a href="mailto:support@dotloop.com">support@dotloop.com</a>.</p>
-<!-- Testimonials -->
-
-<!-- Social Media Features and Widgets -->
-<p><strong>Social Media Features and Widgets</strong><br>
-Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. </p>
-<!-- Social Media Features and Widgets -->
-
-<!-- Invite a User -->
-<p><strong>Invite a User</strong><br>
-If you choose to use our referral service to tell a friend or colleague about our site or share a document, we will ask you for that person's name and email address. We will automatically send email inviting him or her to visit the site or register. We store this information for the sole purpose of sending email and tracking the success of our referral program. </p>
-<p>Your friend may contact us at <a href="mailto:support@dotloop.com">support@dotloop.com</a> to request that we remove this information from use.</p>
-<!-- Invite a User -->
-
-<!-- DotLoop Blog -->
-<p><strong>DotLoop Blog</strong><br>
-Our website offers publicly accessible blogs or community forums. Our blog is managed by a third party application that may require you to register to post a comment.  We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.</p>
-<!-- DotLoop Blog -->
-
-<!-- DotLoop Data Privacy Guarantee -->
-<p><strong>The Dotloop Data Privacy Guarantee affirms that:</strong><br></p>
+<p>&nbsp;</p>
+<h3>Testimonials</h3>
+<p>&nbsp;<br>
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at&nbsp;<a href="mailto:support@dotloop.com" target="_blank">support@dotloop.com</a>.</p>
+<p>&nbsp;</p>
+<h3>Social Media Features and Widgets</h3>
+<p>&nbsp;<br>
+Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p>&nbsp;</p>
+<h3>Invite a User</h3>
+<p>&nbsp;<br>
+If you choose to use our referral service to tell a friend or colleague about our site or share a document, we will ask you for that person’s name and email address. We will automatically send email inviting him or her to visit the site or register. We store this information for the sole purpose of sending email and tracking the success of our referral program.</p>
+<p>Your friend may contact us at&nbsp;<a href="mailto:support@dotloop.com" target="_blank">support@dotloop.com</a>&nbsp;to request that we remove this information from use.</p>
+<p>&nbsp;</p>
+<h3>DotLoop Blog</h3>
+<p>&nbsp;<br>
+Our website offers publicly accessible blogs or community forums. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.</p>
+<p>&nbsp;</p>
+<h3>The Dotloop Data Privacy Guarantee affirms that:</h3>
+<p>&nbsp;</p>
 <ul>
-    <li><p>Dotloop customers own the data they put into dotloop. This includes all customer data, from user information to transaction data.</p></li>
-    <li><p>Dotloop will not use this data as part of other Zillow Group products or services unless customers have given us permission to do so. This covers all Zillow Group businesses.</p></li>
-    <li><p>Dotloop does not disclose customer data except where required by law or authorized by the customers in question.</p></li>
+<li>Dotloop customers own the data they put into dotloop. This includes all customer data, from user information to transaction data.</li>
+<li>Dotloop will not use this data as part of other Zillow Group products or services unless customers have given us permission to do so. This covers all Zillow Group businesses.</li>
+<li>Dotloop does not disclose customer data except where required by law or authorized by the customers in question.</li>
 </ul>
 <p>This guarantee applies to all data previously entered in dotloop as well as to data entered in dotloop moving forward.</p>
-<!-- DotLoop Data Privacy Guarantee -->
-
-<!-- How To Contact Us -->
-<p><strong>How To Contact Us</strong><br>
-Should you have other questions or concerns about this Policy, please email us at <a href="mailto:support@dotloop.com">support@dotloop.com</a>. You may also write to us at:</p>
-<p>Dotloop, Inc.<br>
+<p>&nbsp;</p>
+<h3>How To Contact Us</h3>
+<p>&nbsp;<br>
+Should you have other questions or concerns about this Policy, please email us at&nbsp;<a href="mailto:support@dotloop.com" target="_blank">support@dotloop.com</a>. You may also write to us at:</p>
+<p>Dotloop, LLC<br>
 700 West Pete Rose Way<br>
 Suite 446<br>
-Cincinnati, OH 45203</p>
-<p>Last updated:  December 7, 2015</p>
-<!-- How To Contact Us -->
+Cincinnati, <abbr title="Ohio">OH</abbr> 45203</p>
+<p>Last updated: March 15, 2018</p>
+</div>
+			</div>
+		
+			</div>
+</section>
+
+			</div>
+		<div id="forms">
+    <div class="logo">
+            <a href="/"> <img src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/external/logo.png">
+            </a>
+    </div>
+
+    <!-- Sign In form -->
+    <div class="scale-fade signin-form-wrap">
+      <div class="scale-fade">
+        <h2 class="title">Welcome to dotloop.</h2>
+        <h5 class="sub-title">Please complete these fields.</h5>
+        <p class="attention-text">Login failed</p>
+        <div class="error-container error-container-inverted smaller-size"></div>
+        <div class="signin form tooltip-validate">
+          <form autocomplete="off" class="signin-form">
+            <div class="loading-bg">
+              <div class="loading-status center-in-parent on">
+                <div class="loading-bar">
+                  <div class="loading-icon an-pulse"></div>
+                  <div class="loading-icon an-pulse loading-delay"></div>
+                </div>
+              </div>
+            </div>
+            <div class="form-border">
+              <div>
+                <input type="text" tabindex="201" autofill="true" name="signinUsername" widget-type="textfield" value="" cid="c86" key="username" placeholder="Your Email" class=" form-field">
+              </div>
+              <div>
+                <input type="password" tabindex="202" autofill="true" name="signinPassword" widget-type="textfield" value="" cid="c86" key="password" placeholder="Your Password" class=" form-field">
+              </div>
+            </div>
+            <div class="options clearfix">
+              <div class="checkbox ">
+                <input type="checkbox" tabindex="203" id="checkBx" class="form-field" label="home.signin.stay.signed.in" widget-type="checkbox" value="" cid="c86" key="rememberMe">
+                <label for=""></label>
+                <a class="label-text shorten margin-left-20">Stay signed in</a> </div>
+              <a tabindex="205" class="pull-right btn-show-forgot" href="#forgotpassword">Forgot your password?</a> </div>
+            <a tabindex="204" id="signinAnchor" class="button-main reverse brand-outlined round centered huge margin-top-40">Sign In</a><br>
+          </form>
+          <div class="margin-top-20 uppercase small"> <a tabindex="9" href="#signup">Sign up</a> if you are not a member. </div>
+        </div>
+      </div>
+    </div>
+    <!-- //Sign In form -->
+
+    <!-- Sign Up form -->
+    <div class="scale-fade signup-form-wrap">
+      <div class="scale-fade">
+        <h2 class="title"> Last week, <span id="count">27,998</span> people signed up for dotloop </h2>
+        <h5 class="sub-title"> </h5>
+        <p class="attention-text">Signup failed.</p>
+        <div class="error-container error-container-inverted smaller-size"></div>
+        <div class="signup form tooltip-validate">
+          <form autocomplete="off" class="signup-form">
+            <div class="loading-bg">
+              <div class="loading-status center-in-parent on">
+                <div class="loading-bar">
+                  <div class="loading-icon an-pulse"></div>
+                  <div class="loading-icon an-pulse loading-delay"></div>
+                </div>
+              </div>
+            </div>
+            <div class="form-border">
+              <div>
+                                <input type="hidden" name="signupSource" value="/privacy-policy/">
+                <input type="text" autofill="true" name="signupName" tabindex="1" widget-type="textfield" value="" cid="c87" key="name" placeholder="Full Name" class=" form-field">
+              </div>
+              <div>
+                <input type="text" autofill="true" name="signupEmail" tabindex="2" widget-type="textfield" value="" cid="c87" key="emailAddress" placeholder="Your Email" class=" form-field">
+              </div>
+              <div>
+                <input type="password" autofill="true" name="signupPassword" tabindex="3" widget-type="textfield" value="" cid="c87" key="password" placeholder="New Password" class=" form-field">
+              </div>
+                <div>
+              <div id="selectRole">
+                <div class="bfh-selectbox form-field select" tabindex="4" data-name="signupRole">
+                  <div data-value="">Select Role</div>
+                  <div data-value="1">Realtor/Agent</div>
+                  <div data-value="2">Transaction coordinator</div>
+                  <div data-value="3">Brokerage manager</div>
+                  <div data-value="4">Property management</div>
+                  <div data-value="5">Utilities</div>
+                  <div data-value="6">Home Improvement</div>
+                  <div data-value="7">Mortgage</div>
+                  <div data-value="8">Home Security</div>
+                  <div data-value="9">Home Inspection</div>
+                  <div data-value="10">Moving &amp; storage</div>
+                  <div data-value="11">Home Warranty</div>
+                  <div data-value="12">Attorney</div>
+                  <div data-value="13">Home Insurance</div>
+                  <div data-value="14">Escrow/Title</div>
+                  <div data-value="15">Other home services</div>
+                  <div data-value="16">Other</div>
+                </div>
+              </div>
+                </div>
+                <div>
+              <div id="selectState">
+                  <div class="bfh-selectbox form-field select" tabindex="5" data-name="signupState">
+                    <div data-value="">Select State</div>
+                    <div data-value="AK"> Alaska </div>
+                    <div data-value="AL"> Alabama </div>
+                    <div data-value="AR"> Arkansas </div>
+                    <div data-value="AZ"> Arizona </div>
+                    <div data-value="CA"> California </div>
+                    <div data-value="CO"> Colorado </div>
+                    <div data-value="CT"> Connecticut </div>
+                    <div data-value="DC"> District Of Columbia </div>
+                    <div data-value="DE"> Delaware </div>
+                    <div data-value="FL"> Florida </div>
+                    <div data-value="GA"> Georgia </div>
+                    <div data-value="HI"> Hawaii </div>
+                    <div data-value="IA"> Iowa </div>
+                    <div data-value="ID"> Idaho </div>
+                    <div data-value="IL"> Illinois </div>
+                    <div data-value="IN"> Indiana </div>
+                    <div data-value="KS"> Kansas </div>
+                    <div data-value="KY"> Kentucky </div>
+                    <div data-value="LA"> Louisiana </div>
+                    <div data-value="MA"> Massachusetts </div>
+                    <div data-value="MD"> Maryland </div>
+                    <div data-value="ME"> Maine </div>
+                    <div data-value="MI"> Michigan </div>
+                    <div data-value="MN"> Minnesota </div>
+                    <div data-value="MO"> Missouri </div>
+                    <div data-value="MS"> Mississippi </div>
+                    <div data-value="MT"> Montana </div>
+                    <div data-value="NC"> North Carolina </div>
+                    <div data-value="ND"> North Dakota </div>
+                    <div data-value="NE"> Nebraska </div>
+                    <div data-value="NH"> New Hampshire </div>
+                    <div data-value="NJ"> New Jersey </div>
+                    <div data-value="NM"> New Mexico </div>
+                    <div data-value="NV"> Nevada </div>
+                    <div data-value="NY"> New York </div>
+                    <div data-value="OH"> Ohio </div>
+                    <div data-value="OK"> Oklahoma </div>
+                    <div data-value="OR"> Oregon </div>
+                    <div data-value="PA"> Pennsylvania </div>
+                    <div data-value="RI"> Rhode Island </div>
+                    <div data-value="SC"> South Carolina </div>
+                    <div data-value="SD"> South Dakota </div>
+                    <div data-value="TN"> Tennessee </div>
+                    <div data-value="TX"> Texas </div>
+                    <div data-value="UT"> Utah </div>
+                    <div data-value="VA"> Virginia </div>
+                    <div data-value="VT"> Vermont </div>
+                    <div data-value="WA"> Washington </div>
+                    <div data-value="WI"> Wisconsin </div>
+                    <div data-value="WV"> West Virginia </div>
+                    <div data-value="WY"> Wyoming </div>
+                    <div data-value="OT"> Other </div>
+                  </div>
+              </div>
+                </div>
+            </div>
+            <div class="terms-of-use"> By clicking Sign Up, you agree with dotloop's <a href="/terms-conditions" target="_blank">Terms of Use</a> &amp; <a href="/privacy-policy" target="_blank">Privacy Policy</a>. </div>
+            <a tabindex="6" id="signupAnchor" class="button-main reverse brand-outlined round centered huge margin-top-20"> Sign up for free </a>
+          </form>
+          <div class="margin-top-20 uppercase small"> <a tabindex="7" href="#signin">Sign In</a> if you are already a member. </div>
+        </div>
+      </div>
+    </div>
+    <!-- //Sign Up form -->
+
+    <!-- Forgot Password -->
+    <div class="scale-fade forgot-form-wrap" id="forgetPassword" style="display: none;">
+      <h2 class="title">Request password</h2>
+      <h5 class="sub-title">Please complete these fields.</h5>
+      <p class="attention-text">Request failed.</p>
+      <div class="error-container error-container-inverted smaller-size"></div>
+      <div class="forgot form tooltip-validate">
+        <form autocomplete="off" class="forgot-form">
+          <div class="loading-bg">
+            <div class="loading-status center-in-parent on">
+              <div class="loading-bar">
+                <div class="loading-icon an-pulse"></div>
+                <div class="loading-icon an-pulse loading-delay"></div>
+              </div>
+            </div>
+          </div>
+          <div class="form-border">
+            <div>
+              <input type="text" tabindex="100" id="fpEmailAddress" value="" placeholder="Your Email" class="form-field">
+            </div>
+            <div class="captcha padded-vertical"><img src="/"></div>
+            <div>
+              <input type="text" tabindex="101" id="fpCaptcha" widget-type="textfield" value="" cid="c89" key="captchaAnswer" placeholder="Enter the code above" class=" form-field">
+            </div>
+          </div>
+          <a tabindex="102" id="forgetPassButton" class="button-main reverse brand-outlined round centered huge margin-top-40">Request</a><br>
+          <div class="margin-top-20 uppercase small"> <a tabindex="103" href="#signin">Sign In</a> if you remember. </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- //Forgot Password -->
+
+  </div>
+  <a id="close-form" class="close-icon-btn">✕</a>
+
+
+<!-- Demo Form Modal -->
+  <div id="modal-demo" class="modal modal-demo">
+    <div class="inner-container">
+      <div class="head">
+        <h3>Tell us about yourself. We'll call you within 1 business day!</h3>
+        <a href="javascript:void(0);" class="close closeNL">x</a>
+      </div>
+      <div class="pop-body">
+		<!--[if lte IE 8]>
+		<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+		<![endif]-->
+		<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+		<script>
+		  hbspt.forms.create({
+		    sfdcCampaignId: '701d0000000w4TqAAI',
+		    css: '',
+		    portalId: '467208',
+		    formId: 'ba2f4033-a439-4770-b0ee-12ca795815dd',
+                    onFormSubmit: function(){
+                         var span = document.createElement('span');
+                         span.innerHTML = '<!-- Google Code for dotloop lead Conversion Page --><script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 934655310;var google_conversion_language = "en";var google_conversion_format = "3";var google_conversion_color = "ffffff";var google_conversion_label = "Dom_CMufzmMQzurWvQM";var google_remarketing_only = false;/* ]]> */<' + '/script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"><' + '/script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/934655310/?label=Dom_CMufzmMQzur…"/></div></noscript>';
+                         document.getElementsByTagName("body")[0].appendChild(span);
+                          ga('send', {
+                              hitType: 'event',
+                              eventCategory: 'Dynamic Form',
+                              eventAction: 'Submission',
+                              eventLabel: 'demo'
+                          });
+                    }
+		  });
+		</script>
+      </div>
+    </div>
+  </div>
+  <!-- //Demo Form Modal -->
+
+  
+    <script>
+      var dynamicFormsArr = [];
+    </script>
+            <div id="modal-newsletter" class="modal modal-demo">
+        <div class="inner-container">
+          <div class="head">
+            <h3>Subscribe to Newsletter</h3>
+            <a href="javascript:void(0);" class="close closeNL">x</a>
+          </div>
+          <div class="pop-body">
+        <!--[if lte IE 8]>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+        <![endif]-->
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+        <script>
+          dynamicFormsArr.push('newsletter');
+          hbspt.forms.create({
+            sfdcCampaignId: '7010W000002Jin5QAC',
+            css: '',
+            portalId: '467208',
+            formId: '2cc9ccad-1a28-49e1-8d6a-8ed6aed239fa',
+                        onFormSubmit: function(){
+                             var span = document.createElement('span');
+                             span.innerHTML = '';
+                             document.getElementsByTagName("body")[0].appendChild(span);
+                              ga('send', {
+                                  hitType: 'event',
+                                  eventCategory: 'Dynamic Form',
+                                  eventAction: 'Submission',
+                                  eventLabel: 'newsletter'
+                              });
+                        }
+          });
+          if(location.hash === '#newsletter'){
+            $('#modal-newsletter').addClass('modal-active');
+            $('#modal-newsletter form input[name="firstname"]').focus();
+            try {
+                if( typeof ga !== 'undefined') {
+                    ga('send', {
+                        hitType: 'pageview',
+                        page: location.pathname + 'newsletter'
+                    });
+                }
+            } catch (err) {
+                // silent GA failure
+            }
+            $(document).on('click', '#newsletter', function() {
+              alert('test');
+            });
+            madeChange = true;
+          }
+        </script>
           </div>
         </div>
       </div>
-    </article>
-  </section>
-
-</div>
-</div>
-  </div>
-
-    
-
-
-
-               
-                   
-            <!-- Footer -->
-            
-
-            
-                <footer>
-                    <div class="container">
-                        <div class="pull-left">
-                            <div class="links">
-                                <ul>
-                                    <li><a href="https://dotloop.com/movement">The movement</a></li>
-                                    <li><a href="https://dotloop.com/about">About </a></li>
-                                    <li><a href="https://dotloop.com/news">News</a></li>
-                                    <li><a href="https://dotloop.com/news/categories/3">Blog</a></li>
-                                    <li><a href="https://dotloop.com/careers">Careers</a></li>
-                                </ul>
-                            </div>
-                            <div class="links">
-                                <ul>
-                                    <!-- <li><a href="#">Products</a></li> -->
-                                    <li><a href="/brokers">Brokers </a></li>
-                                    <li><a href="/agents">Agents</a></li>
-                                    <!-- <li><a href="#">Teams</a></li> -->
-                                    <li><a href="http://support.dotloop.com/">Help</a></li>
-                                    
-                                        <li><a href="http://marketing.dotloop.com/uptime">Uptime</a></li>
-                                    
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="pull-right">
-                            <div class="social">
-                                <span class="twitter"><a href="http://twitter.com/dotloop" target="_blank">&nbsp;</a></span>
-                                <span class="facebook"><a href="http://www.facebook.com/dotloop" target="_blank">&nbsp;</a></span>
-                                <span class="in"><a href="http://www.linkedin.com/company/dotloop" target="_blank">&nbsp;</a></span>
-                                <span class="tube"><a href="http://www.youtube.com/user/DotLoopTV" target="_blank">&nbsp;</a></span>
-                            </div>
-                            <div class="clear"></div>
-                            <div class="copyright">© 2016 dotloop, Inc. &nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://dotloop.com/terms-conditions">Terms of Use</a>  &nbsp;&nbsp;&nbsp;   <a href="https://dotloop.com/privacy-policy">Privacy Policy</a> </div>
-                        </div>
-                    </div>
-                </footer>
-            
-            <!-- footer -->
-            
-            
-            
-        
-            <script src="/my/static/js/c85b1bda6f826cd165deb5f3c79f4274/external/common.js"></script>           
-            
-            <script src="/my/static/js/8bd47272a328752bb9bed3c7753629b8/external/main/trust-main.js"></script>       
-            <script>
-            	app.pageName = '';
-	        </script>     
-        
-        
-        <!-- GA -->
+                                                                            <div id="modal-dlthree" class="modal modal-demo">
+        <div class="inner-container">
+          <div class="head">
+            <h3>Download the REAL Trends Report</h3>
+            <a href="javascript:void(0);" class="close closeNL">x</a>
+          </div>
+          <div class="pop-body">
+        <!--[if lte IE 8]>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+        <![endif]-->
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
         <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-2679774-13', 'dotloop.com');
-    
-        ga('send', 'pageview');
-    
+          dynamicFormsArr.push('dlthree');
+          hbspt.forms.create({
+            sfdcCampaignId: '7010W000002BqRNQA0',
+            css: '',
+            portalId: '467208',
+            formId: '094d137f-7b3a-450f-93bf-6cc3f2cc7d10',
+                        onFormSubmit: function(){
+                             var span = document.createElement('span');
+                             span.innerHTML = '';
+                             document.getElementsByTagName("body")[0].appendChild(span);
+                              ga('send', {
+                                  hitType: 'event',
+                                  eventCategory: 'Dynamic Form',
+                                  eventAction: 'Submission',
+                                  eventLabel: 'dlthree'
+                              });
+                        }
+          });
+          if(location.hash === '#dlthree'){
+            $('#modal-dlthree').addClass('modal-active');
+            $('#modal-dlthree form input[name="firstname"]').focus();
+            try {
+                if( typeof ga !== 'undefined') {
+                    ga('send', {
+                        hitType: 'pageview',
+                        page: location.pathname + 'dlthree'
+                    });
+                }
+            } catch (err) {
+                // silent GA failure
+            }
+            $(document).on('click', '#dlthree', function() {
+              alert('test');
+            });
+            madeChange = true;
+          }
+        </script>
+          </div>
+        </div>
+      </div>
+                <div id="modal-dlfour" class="modal modal-demo">
+        <div class="inner-container">
+          <div class="head">
+            <h3>Download: 10 Ways to Recruit Millennials</h3>
+            <a href="javascript:void(0);" class="close closeNL">x</a>
+          </div>
+          <div class="pop-body">
+        <!--[if lte IE 8]>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+        <![endif]-->
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+        <script>
+          dynamicFormsArr.push('dlfour');
+          hbspt.forms.create({
+            sfdcCampaignId: '7010W000002BqRNQA0',
+            css: '',
+            portalId: '467208',
+            formId: '36cc7341-ce4f-4b6c-b02d-e245886dc407',
+                        onFormSubmit: function(){
+                             var span = document.createElement('span');
+                             span.innerHTML = '';
+                             document.getElementsByTagName("body")[0].appendChild(span);
+                              ga('send', {
+                                  hitType: 'event',
+                                  eventCategory: 'Dynamic Form',
+                                  eventAction: 'Submission',
+                                  eventLabel: 'dlfour'
+                              });
+                        }
+          });
+          if(location.hash === '#dlfour'){
+            $('#modal-dlfour').addClass('modal-active');
+            $('#modal-dlfour form input[name="firstname"]').focus();
+            try {
+                if( typeof ga !== 'undefined') {
+                    ga('send', {
+                        hitType: 'pageview',
+                        page: location.pathname + 'dlfour'
+                    });
+                }
+            } catch (err) {
+                // silent GA failure
+            }
+            $(document).on('click', '#dlfour', function() {
+              alert('test');
+            });
+            madeChange = true;
+          }
+        </script>
+          </div>
+        </div>
+      </div>
+                <div id="modal-dlfive" class="modal modal-demo">
+        <div class="inner-container">
+          <div class="head">
+            <h3>Download: 10 Ways to Recruit Millennials</h3>
+            <a href="javascript:void(0);" class="close closeNL">x</a>
+          </div>
+          <div class="pop-body">
+        <!--[if lte IE 8]>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+        <![endif]-->
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+        <script>
+          dynamicFormsArr.push('dlfive');
+          hbspt.forms.create({
+            sfdcCampaignId: '',
+            css: '',
+            portalId: '467208',
+            formId: '550e585a-00cc-47b5-be75-b03a7aea29e6',
+                        onFormSubmit: function(){
+                             var span = document.createElement('span');
+                             span.innerHTML = '';
+                             document.getElementsByTagName("body")[0].appendChild(span);
+                              ga('send', {
+                                  hitType: 'event',
+                                  eventCategory: 'Dynamic Form',
+                                  eventAction: 'Submission',
+                                  eventLabel: 'dlfive'
+                              });
+                        }
+          });
+          if(location.hash === '#dlfive'){
+            $('#modal-dlfive').addClass('modal-active');
+            $('#modal-dlfive form input[name="firstname"]').focus();
+            try {
+                if( typeof ga !== 'undefined') {
+                    ga('send', {
+                        hitType: 'pageview',
+                        page: location.pathname + 'dlfive'
+                    });
+                }
+            } catch (err) {
+                // silent GA failure
+            }
+            $(document).on('click', '#dlfive', function() {
+              alert('test');
+            });
+            madeChange = true;
+          }
+        </script>
+          </div>
+        </div>
+      </div>
+                                                                                  <script>
+      function dynamicForms() {
+        var madeChange = false;
+        $('body').removeClass('overlay-active sign-up sign-in');
+        $('#forgetPassword').hide();
+
+        dynamicFormsArr.forEach(function(dynamicForm) {
+          if(location.hash === '#'+dynamicForm){
+            $('#modal-'+dynamicForm).addClass('modal-active');
+            $('#modal-'+dynamicForm+' form input[name="firstname"]').focus();
+              registerPageView( location.pathname + dynamicForm );
+            madeChange = true;
+          }
+        });
+
+        if( madeChange ){
+          window.scrollTo( 0, 0 );
+        }
+      }
+    </script>
+
+
+<!-- Footer -->
+<footer>
+  <div class="container">
+
+        <div class="row">
+      <div class="footer-block col-sm-3 col-md-2 hidden-xs"><img src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/external/logo.png"></div>
+      <section class="footer-block col-xs-4 col-sm-3 col-md-2 nav_menu-2 widget_nav_menu"><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="/agents/">Agents</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="/brokers/">Brokers</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="/teams/">Teams</a></li>
+<li id="menu-item-2225" class="pricingpage-footer menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="/products/plans-pricing/">Plans</a></li>
+<li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="/products/">Products</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-72"><a href="https://www.dotloop.com/#signup">Sign Up</a></li>
+<li id="menu-item-455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-455"><a href="https://www.dotloop.com/#signin">Sign In</a></li>
+</ul></div></section><section class="footer-block col-xs-4 col-sm-3 col-md-2 nav_menu-3 widget_nav_menu"><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-2226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="/blog/">Blog</a></li>
+<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="/customers/">Customers</a></li>
+<li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-720"><a href="/resource-center/">Resource Center</a></li>
+<li id="menu-item-2621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2621"><a href="/integrations/directory/">Integrations</a></li>
+<li id="menu-item-2643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2643"><a href="https://dloop.co/2jKb5FW">Premier Agent</a></li>
+<li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="/refer/">Referrals</a></li>
+<li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2064"><a href="/resource-center/training/">Training</a></li>
+</ul></div></section><section class="footer-block col-xs-4 col-sm-3 col-md-2 nav_menu-4 widget_nav_menu"><div class="menu-footer-menu-3-container"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-2066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2066"><a href="http://info.dotloop.com/newsletter">Newsletter</a></li>
+<li id="menu-item-2640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2640"><a href="/mobile/">Mobile</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a target="_blank" href="http://support.dotloop.com">Support</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-60 current_page_item menu-item-65"><a href="/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="/security/">Security</a></li>
+<li id="menu-item-721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-721"><a target="_blank" href="http://www.zillow.com/jobs/">Careers</a></li>
+</ul></div></section><section class="footer-block col-xs-6 col-md-2 text-2 widget_text"><h3>Contact Us</h3>			<div class="textwidget"><h3>1-888-dotloop</h3>
+<h3>support@dotloop.com</h3></div>
+		</section>      <div class="col-social col-xs-6 col-md-2">
+        <ul class="social-icon">
+          <li><a href="https://www.linkedin.com/company/dotloop" target="_blank"><img src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/linkedin-32px-999999.png" alt=""></a></li>
+          <li><a href="https://twitter.com/dotloop" target="_blank"><img src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/twitter-32px-999999.png" alt=""></a></li>
+          <li><a href="https://www.facebook.com/DotLoop/" target="_blank"><img src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/fb-32px-999999.png" alt=""></a></li>
+        </ul>
+      </div>
+    </div>
+
+        <nav class="text-center">
+    	<a href="http://www.zillowgroup.com/" target="_blank">
+          <img class="margin-top-40" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/img/external/zillow-grey.jpg">
+        </a>
+    </nav>
+	<div class="legal margin-top-5">dotloop® and PEOPLEWORK, NOT PAPERWORK® are registered trademarks of dotloop, Inc. © 2018 dotloop, Inc.</div>
+  </div>
+    <!-- footer -->
+    <script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/application/js.cookie.js?ver=1539977713"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/application/jquery.mCustomScrollbar.js?ver=1539977713"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/sticky-bar.js?ver=1539977713"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/application/bootstrap.min.js?ver=1539977713"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/application/popup-form.js?ver=1539977713"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/application/bootstrap-tooltip.js?ver=1540575902"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/application/bootstrap-formhelpers-selectbox.js?ver=1539977713"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/js/menu.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_posts = {"ajaxurl":"https:\/\/www.dotloop.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-content/themes/dotloop/assets/build/hellobar.js?ver=1539977713"></script>
+<script type="text/javascript" src="https://35blqf1aden92dok8un11nz1-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
+
+<!-- External Script : Async HubSpot Analytics Code -->
+<script type="text/javascript">
+	(function(d,s,i,r) {
+	  if (d.getElementById(i)){return;}
+	  var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+	  n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/467208.js';
+	  e.parentNode.insertBefore(n, e);
+	})(document,"script","hs-analytics",300000);
 </script>
 
-          
-            <!-- SnapEngage -->
-            <script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/61cc2f3c-bf24-41ac-ad6c-5f24925e3e89.js"></script>
-        
-    
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"2720471","applicationTime":4,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"69d533d3cd","transactionName":"M1BTNUUAWEVUU01bWgoaYhFFCFhRdl9XRkcLWV0ERU5GRFxGWFFMSUVeDV4CTxYdd3xmHA==","agent":"","errorBeacon":"bam.nr-data.net"}</script><script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
+<!-- External Script : Hotjar Tracking Code for https://dotloop.wpengine.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:189526,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
+
+<!-- External Script : SnapEngage -->
+<script type="text/javascript">
+    (function() {
+        var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+        se.src = '//storage.googleapis.com/code.snapengage.com/js/61cc2f3c-bf24-41ac-ad6c-5f24925e3e89.js';
+        var done = false;
+        se.onload = se.onreadystatechange = function() {
+ 
+            if (!done && (!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+                done = true;
+                
+                var partUrlToHideButton = [
+                    "/resource-center",
+                    "/blog",
+                    "/kw","/c21","/cb","/era","/bhgre","/remax",
+                    "/learn-more","/offer","/agents","/customers","/premium",
+                             ];
+
+                var exactUrlToHideButton = [
+                    "https://www.dotloop.com/resource-center/",
+                    "https://www.dotloop.com/blog/",
+                    "https://www.dotloop.com/kw/",
+                    "https://www.dotloop.com/brokers/learn-more/",
+                    "https://www.dotloop.com/products/","https://www.dotloop.com/premium/",
+                ];
+ 
+                var url = window.location.href;
+ 
+                function hideChatButtonOnThisPage() {
+                    SnapEngage.hideButton();
+                    SnapEngage.setCallback('Close', function (type, status) {
+                        SnapEngage.hideButton();
+                    });
+                };
+ 
+                partUrlToHideButton.forEach(function(partUrl) {
+                    if(url.indexOf(partUrl) !== -1){
+                        hideChatButtonOnThisPage();
+                    }
+                });
+ 
+                exactUrlToHideButton.forEach(function(exactUrl) {
+                    if(url === exactUrl){
+                        hideChatButtonOnThisPage();
+                    }
+                });
+            }
+        };
+ 
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+    })();
+</script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script>
+        $('.faqs').slick({
+          arrows: false,
+          dots: true,
+          mobileFirst: true,
+          responsive: [
+            {
+              breakpoint: 768,
+              settings: {
+                dots: false,
+                focusOnSelect: true,
+                vertical: true,
+                verticalSwiping: true,
+                slidesToShow: 2
+              }
+            }
+          ]
+        });
+        $('body').on('click', '.dotloop-hellobar i', function() {
+            $('.dotloop-hellobar').slideUp(200);
+            Cookies.set('hideDotloopHellobar', 'true', { expires: 7 });
+        });
+    </script>
+</footer>
+
+
 
 </body></html>
