@@ -1,198 +1,310 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223202659id_/http%3A//agl.com.au/privacy-policy) for the most accurate reproduction.*
 
-# AGL - AGL Privacy Policy
+# Privacy Policy | AGL
 
-The AGL Group comprises AGL Energy Limited and its related bodies corporate. See ‘AGL Companies’ in the ‘Who We Are’ section of www.agl.com.au for a list of our companies. All references to ‘AGL’, ‘we’, ‘us’ and ‘our’ in this Privacy Policy apply to these companies, except to the extent that one of the following applies:
+**Effective Date: March 2018**
 
-  * Powerdirect's [Privacy Policy and Credit Reporting Policy](http://www.powerdirect.com.au/privacy-policy/w1/i1001198/)  – these policies apply to all personal information handled by Powerdirect Pty Ltd, and
-  * Connectnow’s [Privacy Policy](http://www.connectnow.com.au/privacy-policy.asp) this applies only to customer information handled by Connect Now Pty Ltd.
+### 1\. About us
 
+The AGL Group provides a wide range of energy and energy-related, products and services. This policy describes how we handle your personal information.
 
+The AGL Group (AGL Energy Limited and its related companies) provides gas, electricity and other energy-related products and services.
 
-AGL is bound by the Australian Privacy Principles (Principles) contained in the Privacy Act 1988 (Privacy Act). The Principles are designed to protect the confidentiality of information and the privacy of individuals by regulating the way personal information is managed. Personal information is, generally, information or an opinion relating to an individual, which can be used to identify that individual. AGL may also handle information about companies and other persons in the ways described here.
+This policy describes how the AGL Group handles your personal information. You can find out more about the AGL Group on our [website](https://web.archive.org/about-agl/who-we-are).
 
-To find out details specifically relating to our handling of personal information obtained from credit reporting bodies and certain other consumer credit-related personal information, please visit our [Credit Reporting Policy](https://web.archive.org/site-pages/credit-reporting-policy) page.
+### 2\. Your privacy is important to us
 
-* * *
+We keep your information safe. We aim to be clear and open about what we do with it.
 
-### 1\. Summary 
+We understand that your privacy is important to you, and we value your trust. That’s why we protect your information and aim to be clear and open about what we do with it.
 
-We collect personal information about customers, shareholders, employees and other individuals. We collect personal information through personal contact, records of communications and third parties including public sources. See Collection of personal information below for details.
+This policy describes how we handle your _personal information_ – that is, information that identifies you or can be reasonably linked to your identity. When we collect this information, we follow the obligations set out in the _Privacy Act 1988_ (Cth).
 
-We handle personal information for purposes including to provide, manage and enhance our products and services, understand you and conduct direct marketing. See Use and disclosure of personal information below for details, including how to opt out of direct marketing.
+We update our privacy policy when our practices change. You can always find the most up-to-date version on our website.
 
-This Privacy Policy sets out some additional information for particular individuals and contexts. See the sections on Customers, Online, Shareholders, Job Applicants and Staff below where relevant to you. Our separate Credit Reporting Policy may also be applicable to you as a customer or guarantor in connection with some credit arrangements.
+We describe how we handle credit reporting information in our [Credit Reporting Policy](https://web.archive.org/terms-conditions/credit-reporting-policy).
 
-We take various steps to protect the security of personal information and to destroy or de-identify that information when no longer needed. You may be entitled to access and correct your personal information that we hold in certain circumstances. See Accessing and correcting your personal information below for details.
+### 3\. What information do we collect?
 
-You can contact us (see below for details) with any queries or concerns about privacy. In some cases, you may be able to raise your concerns with an external body. See Complaints about an interference with privacy below for details.
+We collect information about you when you interact with us. We may also collect information about you from other people and organisations.
 
-* * *
+We only collect your personal information when we need it to provide our products and services or to comply with the law. The kinds of information that we collect depends on how you interact with us. Here are some examples.
 
-### 2\. Collection of personal information
+####  Information we collect from you
 
-AGL Energy collects certain personal information in various circumstances, such as when you contact us or engage with us.
+We collect the name and contact details (landline, mobile, email) of our customers and their authorised representatives as well as shareholders, business contacts, job applicants and contractors and others. We may also collect:
 
-The types of personal information that we collect may include information about:
+  * **If you are a customer:** Your date of birth, address (supply and mailing if different), concession details (where applicable), other forms of identification (such as driver’s licence or passport), payment details, ABN (if applicable) and information about your use of our products and services including energy usage and production information. For example, how much energy you use and when you use it. We may also collect information about appliances used and the timing and efficiency of use where you have sensors or other technology installed.
+  * **If you are an authorised representative on another person’s account:** first name, last name, date of birth, telephone number, address and the relationship with our customer.
+  * **If you are a shareholder:** Your tax file number, if you provide it.
+  * **If you apply for a job with us:** Information that you provide about your right to work, employment history, qualifications and ability.
 
-(a) customers  
-(b) shareholder  
-(c) suppliers  
-(d) employees  
-(e) personal contacts at corporate clients or suppliers  
-(f) applicants for employment with AGLand   
-(g) other people who come into contact in the ordinary course of business 
 
-The types of personal information (including historical information) we collect include your name, contact details, identification information, organisation, positions held, information in forms you submit, payment details and enquiry/complaint details. We also collect metering data and personal information about your interactions and transactions with us, including any contact we have with you by telephone, email or online.
 
-We may collect your health information or organisational affiliation to determine your eligibility for specific discounts, services or treatment (e.g. hardship). We will check that you have consented prior to collecting, using or disclosing your sensitive information, unless the collection of the information is required or authorised by law. Sensitive information is information or an opinion about an individual’s racial or ethnic origin, political opinions, membership of a political association, religious beliefs or afﬁliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record, genetics, biometrics or health. 
+If you give us personal information about other people, we will assume that they have agreed that you can do this.
 
-Some personal information is collected under laws including a range of energy industry laws applicable to us. For example, we are required to record information we are provided about customers on life support as these customers have a special need for continuity in their power supply.
+####  Information we collect from others
 
-This information is collected in a variety of ways, including by way of personal contact such as business activities and events, as well as mail, telephone, email and online. Please note that our websites do not provide systems for secure transmission across the internet, except where indicated. We may monitor and record your communications with us (including email and telephone) and operate video and audio surveillance devices in our premises for purposes including security, record-keeping and training. 
+  * **When you get a quote to apply to open an account with us:** Your credit history information.
+  * **When you use our websites mobile apps and platforms:** Your IP address, device identifiers and information about how you use our websites. We use web analytics services to do this, including Google Analytics, Google AdSense, DoubleClick, Adobe or Microsoft.
+  * **When you participate in market research about us:** Information about you and your responses from the service provider that conducted the research.
+  * **When you engage with our sales partners:** Your name, address and contact details, so we can contact you about products you may be interested in.
+  * **If you are a business contact for our customers or service providers:** Your name, job title and contact details.
+  * **If you are a shareholder:** To comply with the law and manage your shares in AGL, we may collect details about your investment from our shareholder register service provider. You can find more information on our [Shareholder Services](https://web.archive.org/about-agl/investors/shareholder-services) page on our website.
+  * **If you apply for a job with us:** Professional background, qualifications and memberships, and references from your former employers. Where it is relevant to the role, we may also collect screening check information (such as background, medical, drugs and alcohol, criminal records, bankruptcy, directorship and company checks), and abilities testing, including psychometric testing.
 
-We may also collect and use personal information available from other AGL Group companies, from public sources such as telephone listings, and from other third party sources including where it is necessary to identify customers. For example, builders and real estate agents may provide details of new occupants and tenants who are using gas and/or electricity.
 
-Where you provide us with personal information about someone else you must have first obtained their consent to provide their personal information to us based on this Privacy Policy.
 
-* * *
+#### Sensitive information
 
-### 3\. Use and disclosure of personal information
+The Privacy Act protects your _sensitive information_ , such as information about your health or ethnicity. Where we need this information for your account (for example, to ensure continuous service to your property or to assist with translation services), we’ll ask for your permission — except where otherwise allowed by law.
 
-In general, AGL may use or disclose personal information for the following purposes:
+### 4\. How do we use your information?
 
-(a) provide our products and services to customers;  
-(b) understand you and meet your needs;  
-(c) process payments and refunds;  
-(d) verify your identity and personal information;  
-(e) maintain and update our records and carry out other administrative tasks;  
-(f) communicate and manage our relationship with you and your organisation;  
-(g) help manage and enhance our products and services, including by conducting surveys and other research;  
-(h) deal with your applications, enquiries and concerns;  
-(i) prevent, detect, investigate and deal with unlawful activity and misconduct (whether actual or suspected); and  
-(j) comply with legal obligations and protect our lawful interests.
+We use your information to deliver our products and services, manage our business and comply with the law. We also use your information for other reasons, such as to better understand you and your needs.
 
-We may not be able to do these things without your personal information. For example, we may not be able to provide our services, communicate with you or deal with your enquiries.
+We collect and use your information so we can:
 
-We may also use and disclose your personal information in connection with acquisitions or potential acquisitions of our business.
+  * confirm your identity
+  * provide you with the products and services that you have asked for
+  * handle payments and refunds
+  * communicate with you about your account
+  * respond to applications, questions, requests or complaints that you have made to us
+  * improve customer experience and do market research
+  * if you are a shareholder, manage your shareholding
+  * if you have applied to work with us, assess your application
+  * investigate possible fraud and illegal activity
+  * comply with laws, including assisting government agencies and law enforcement investigations, and
+  * manage our business.
 
-We also use your personal information to promote and market products and services to you, including through telephone and electronic methods such as email, SMS, websites and mobile apps. This is to keep you informed of products, services and special offers and may continue after you cease to acquire services from us. 
 
-If you do not wish us to contact you to promote and market products, services and special offers (whether it be through electronic methods or otherwise), or if you have subscribed to any of our newsletters or subscriptions and no longer wish to receive such communications, please call 131 245.
 
-We may exchange personal information with:
+If we don’t have your personal information, we may not be able to do these things. For example, we may not be able to deliver the products or services you have asked for, or respond to your questions. 
 
-(a) service providers and specialist advisers who have been contracted to provide installation and maintenance, meter reading, administrative, financial, research, archival, auditing, accounting, customer contact, sales, legal, business consulting, banking, payment, credit management, debt collection, delivery, data processing, data analysis, information broking, research, marketing, investigation, website, technology or other services;  
-(b) other energy retailers for example in connection with migrating your services or where we are a service provider to them;  
-(c) the Australian Energy Market Operator (AEMO) which manages energy supply, demand and capacity in accordance with applicable regulation;  
-(d) insurers, lawyers, courts, tribunals and regulatory authorities (including the Australian Tax Office) as required or authorised by law or in accordance with their reasonable information requests;  
-(e) insurance investigators; or  
-(f) your representatives and anyone else authorised by you, as specified by you or the contract.
+####  Direct marketing
 
-The third parties described above may be located in Australia, India, the Philippines, New Zealand, Fiji, South Africa, Indonesia and other countries. The countries named in this Policy may change from time to time. As such, for an up-to-date list of these countries please see the current version of this Privacy Policy, which is available on request or via www.agl.com.au.
+We may also use your personal information to tell you about products or services that we think you might be interested in. We may send you marketing messages in various ways, including by mail, email, telephone, SMS, and advertising through our apps, websites, or third-party websites.
 
-* * *
+If you tell us how you would prefer to be contacted, we will contact you in that way where we can.
 
-### 4\. Additional information for particular individuals and contexts
+If you don’t want to receive direct marketing messages, you can opt out:
 
-##### 4.1 Customers
+  * by filling out a [Do Not Contact form](https://web.archive.org/help/manage-communication-preferences) on our website
+  * by contacting our Customer Solutions Team (call [131 245](tel:131245), or see section 9 below), or
+  * by following the instructions in any marketing communication you receive from us (for example, using the ‘unsubscribe’ link in an email or responding to an SMS as instructed)
 
-We may exchange your personal information with debt buyers and any relevant loyalty program partners.
 
-In some cases, customers are introduced to us by third party introducers such as sales partners and energy comparison services. We may collect your personal information from those parties.
 
-We may also collect information about your use of our products and services through means such as devices like Smart Meters and Solar Command. With these devices, we are able to remotely collect and provide you with detailed data regarding energy usage and usage times. This gives you and us the ability to monitor your usage, see trends and forecasts, set alerts, diagnose issues, compare usage to similar properties, reduce environmental impacts and identify product and service improvements. We may also give you the ability from time to time to connect ‘smart appliances’ to provide appliance-specific usage data. If you do not wish us to contact you to promote and market products, services and special offers, you can opt out as described in Section 3 of this Policy. We may also use de-identified usage data for a range of purposes including network planning and product and service development and improvement.  
-If our metering business Active Stream provides Smart Meter services where you are a customer of an energy retailer other than AGL, we are subject to greater restrictions on our ability to disclose your personal information to other AGL companies unless we obtain consent or another exception applies.  
-Please see your customer terms and conditions for further terms relevant to your privacy. If you apply for or obtain services from us on credit, then our [Credit Reporting Policy](https://web.archive.org/site-pages/credit-reporting-policy) may be relevant to you.
+Please note that we may still send you important administrative and safety messages even if you opt out of receiving marketing communications.
 
-##### 4.2 Online
+#### Using data to give you better service
 
-We operate a range of online services to provide information and services. These include our websites (e.g. agl.com.au), mobile apps, email and social media profiles (Online Facilities).
+We’re always working to develop and improve our products and services, and ensure that they better meet your needs.
 
-Our Online Facilities may use ‘cookies’ from time to time. A cookie is a piece of information that allows our system to identify and interact more effectively with your device. The cookie helps us to maintain the continuity of your browsing session and remember your details and preferences when you return. You can configure web browser software to reject cookies however some parts of our websites may not have full functionality in that case.
+New technologies let us combine information we have about our customers and users with data from other sources, such as third-party websites or the Australian Bureau of Statistics.
 
-In some cases third parties may use cookies and other technologies such as web beacons and JavaScript on our Online Facilities in connection with online services like banner advertising, traffic analytics and surveys. This may allow them to collect information about your use of our Online Facilities (including your computer’s IP address) which they may store in the United States or other countries. The use of these technologies allows them to deliver customised advertising content, measure the effectiveness of their advertising, evaluate users use of our Online Facilities and other websites and provide other services relating to website activity and internet usage. Those third parties may also transfer the information they collect to others where required to do so by law, or where those others process the information on their behalf. The services we may use from time to time include Google Analytics, Google AdSense, DoubleClick, Yahoo, Adobe and Microsoft. You can find more details in the privacy policies for those services, including information on how to opt-out of certain conduct.
+We also collect information about people that does not identify them such as website and advertising analytics, and data from service providers.
 
-If you are considering sending us any other personal information through our Online Facilities or other electronic means, please be aware that the information may be insecure in transit, particularly where no encryption is used (e.g. email, standard HTTP). We are subject to laws requiring us to protect the security of personal information once it comes into our possession. 
+We analyse this data to help us learn more about our customers and improve our products and services. Where we work with partners or service providers to do this, we do not pass on personal information about you.
 
-Our Online Facilities may contain links to third party websites or services. We are not responsible for the privacy practices or policies of those sites or services.
-
-##### 4.3 Shareholders
-
-If you are a shareholder of one of the companies within the AGL Energy Group, you may be required to provide us with your tax ﬁle number, which is kept securely on the relevant share register. In accordance with Australian tax laws, we may provide certain advice to the Australian Tax Ofﬁce, including dividend information. We may also collect details of your investment including dividends paid. We are required or authorised to collect certain information about shareholders under laws including the Taxation Administration Act and the Corporations Act. We collect, use and disclose your personal information to manage your investment with us and provide shareholder services.
-
-Section 173 of the Corporations Act 2001 describes the circumstances in which our companies are required to grant access on request to their share register. The share register sets out all shareholders’ names, addresses and shareholdings. We may provide information from the share register to meet speciﬁc requests such as identifying the top 100 shareholders.
-
-AGL Energy may exchange your personal information with your stockbroker, accountant, a family member or other person who you have authorised to be contacted on your behalf. In those circumstances, you will be required to identify that party as your authorised agent. We may also exchange your personal information with our shareholder registry service provider. For more details about our current provider and the services they provide, please see [Shareholder Services](https://web.archive.org/about-agl/investor-centre/shareholder-services). Our provider also has its own privacy policy and/or statement which you should review on their website or by contacting them.
-
-##### 4.4 Job applicants
-
-If you apply for a position with us, we may also collect information about your qualifications, experience, character, screening checks (including health, reference, background, directorship, financial probity, identity, eligibility to work, vocational suitability, drugs/alcohol and criminal record checks). We collect, use and disclose your personal information to assess your application, conduct screening checks and consider and contact you regarding other positions. We may exchange your personal information with academic institutions, recruiters, screening check providers, health service providers, professional and trade associations, law enforcement agencies, referees and your current and previous employers. Without your personal information we may not be able to progress considering you for positions with us.
-
-##### 4.5 Staff
-
-This section applies to our current and former employees and contractors in addition to the recruitment section above.
-
-We may collect information relating to your current or former employment or engagement including information about your training, disciplining, resignation, termination, terms and conditions, emergency contact details, performance, conduct, use of our IT resources, payroll matters, union or professional/trade association membership, recreation, leave and taxation, banking or superannuation affairs. We are required or authorised to collect your personal information under various laws including the Fair Work Act, Superannuation Guarantee (Administration) Act and Taxation Administration Act. 
-
-We collect, use and disclose your personal information for purposes relating to your employment or engagement with us including engagement, training, disciplining, payroll, superannuation, health and safety, administration, insurance (including workcover) and staff management purposes. We may exchange your personal information with your representatives (including unions) and our service providers including providers of payroll, banking, staff benefits, surveillance and training services. Without your personal information we may not be able to effectively manage your employment or engagement.
-
-Please note that companies within the AGL Energy Group are not bound by the Principles in relation to handling of their own current or former employees’ records where directly related to the employment relationship. We may rely on this exemption notwithstanding this Privacy Policy.
-
-* * *
-
-### 5\. Management of personal information
-
-We realise that your personal information may change frequently with changes of address and personal circumstance. You can help us to ensure that the personal information we hold about you is accurate and up-to-date. Please contact us promptly by a method set out in Section 8 of this Policy to inform us of any changes to your personal information.
-
-We hold personal information electronically and in hard copy form, both at our own premises and with the assistance of our service providers. We implement a range of measures to protect the security of that personal information. We are also required to take reasonable steps to destroy or de-identify personal information when no longer needed for any permitted purpose.
-
-* * *
-
-### 6\. Accessing and correcting your personal information
-
-Under the Principles, you may have the right to obtain access to personal information which AGL Energy holds about you and to advise us of any perceived inaccuracy. We will consider any recommendation by you to change or correct information and advise you of the action taken. 
-
-My AGL IQ®.  
-
-You may also request to access your personal information by contacting us by a method set out in Section 8 of this Policy. Depending upon the personal information you seek, you may be asked:
-
-(a) to complete an Information Request Form
-
-(b) to verify your identity in writing, and/or
-
-(c) if the inquiry involves extensive administration time or resources, to pay a fee. If this is the case, we will advise the likely cost in advance and can help refine your request if required.
-
-Please note that in circumstances prescribed by the Privacy Act, you may be refused access to or correction of your personal information (for example, if providing access would be unlawful or would have an unreasonable impact upon the privacy of other individuals). In these circumstances we are required to provide you our reasons and if you request, make a note of your requested correction with the relevant information.
-
-* * *
-
-### 7\. Complaints about an interference with privacy
-
-If you consider that any action taken by AGL Energy breaches this Privacy Policy or the Principles, you can make a complaint by contacting us by a method set out in Section 8 of this Policy. We will endeavour to act promptly in response to a complaint. More details about our complaints process generally are set out in the AGL Standard Complaints and Dispute Resolution Policy which can be accessed under [Our Commitments](https://web.archive.org/about-agl/what-we-stand-for/our-commitments). 
-
-If your privacy concerns are not resolved to your satisfaction, you may contact:
-
-(a) from 12 March 2014, your relevant energy industry ombudsman with jurisdiction to handle privacy complaints, including:  
-[ (1) Energy and Water Ombudsman (Victoria)](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/www.ewov.com.au) and on 1800 500 509; and  
-[ (2) Energy & Water Ombudsman NSW ](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/www.ewon.com.au)and on 1800 246 545; or  
   
-(b) The [Office of the Australian Information Commissioner](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/www.oaic.gov.au) and on 1300 363 992.
 
-* * *
 
-### 8\. How to Contact us
+### 5\. Who do we share your information with?
 
-You can contact the AGL Energy Group about a privacy-related issue by phone, post or by ﬁlling in our [online enquiry form](https://web.archive.org/residential/contact-us). 
+We share your information for the purposes set out in section 4, with our service providers, and to comply with the law. When we do this, we take steps to keep your information safe.
 
-**Phone:** 131 245 (available 24/7)
+We share your personal information with other people and companies where we need to for the purposes set out in section 4. This includes sharing:
 
-**Address:** AGL Customer Advocacy, Locked Bag 14120 MCMC VIC 8001
+  * with our installation and maintenance partners, so they can make installations and maintain products and services that we offer
+  * with other energy companies and other companies that help us deliver our products and services, or to migrate your service if you change energy providers
+  * with credit reporting agencies to process new applications
+  * with insurance investigators
+  * with people that you have asked us to give your information to, such as your authorised representatives or legal advisors
+  * if you have applied to work with us, with your previous employers to confirm your work history
+  * to comply with laws, and assist government agencies and law enforcement.
 
-* * *
 
-### 9\. Updates to this policy
 
-Our Privacy Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment.
+We also share personal information with people and organisations that help us with our business, such as professional advisors, IT support, and corporate and administrative services including debt collectors. We only do this where it’s needed for those services to be provided to us. When we do this, we take steps to require our service providers to protect your information.
 
-Last updated: 26 August 2015
+AGL’s website links to a number of third party websites. We are not responsible for the privacy practices of these other sites. We recommend that individual’s review the Privacy Policy on these websites.
+
+####  Sending personal information overseas
+
+Some of our service providers are located or operate outside of Australia. Where we need to, we send them information so that they can provide us services. The countries where our service providers may be located are India, Indonesia, Fiji, New Zealand, the Philippines, South Africa, the USA and some member states within the European Union. 
+
+  
+
+
+###  6\. Keeping your information safe
+
+We train our staff in how to keep your information safe and secure. We use secure systems and environments to hold your information. We only keep your information for as long as we need it.
+
+We store the information we collect in secure buildings and systems, or using trusted service providers. Here are some examples of the things we do to protect your information.
+
+  
+|   
+  
+---|---  
+**Staff obligations and training** | We train our staff in how to keep your information safe and secure.
+
+Our staff are required to keep your information secure at all times, and are bound by internal processes and policies that confirm this.
+
+Access to personal information is controlled through access and identity management systems.  
+  
+**System security** | We take steps in accordance with the _Guide to Securing Personal Information_ published by the Office of the Information Commissioner, to secure our systems and the Personal Information we collect.
+
+We also share non-personal information about how people use our websites with security service providers to ensure that our websites are protected.  
+  
+**Services providers and overseas transfers** | When we send information overseas or use service providers that handle or store data, we require them to take steps to keep your information safe and use it appropriately.  
+**Building security** | We use a mix of ID cards, alarms, cameras, guards and other controls to protect our offices and buildings.  
+**Destroying or de-identifying data when no longer required** | We aim to keep personal information only for as long as we need for our business or to comply with the law.
+
+When we no longer need personal information, we take reasonable steps to destroy or de-identify it.  
+  
+### 7\. Accessing, updating and correcting your information
+
+You can ask to see a copy of the personal information that we hold about you, or ask us to update or correct it.
+
+You can ask us for a copy of the personal information that we hold about you by contacting us. Before we give you your information, we will need to confirm your identity.
+
+If you use [My Account](https://web.archive.org/help/managing-my-account), you can also log in to access your billing information and update your contact and payment details. To access other information, you may need to contact us.
+
+#### How can you contact us?
+
+See section 9 for details on how you can contact us.
+
+#### How long will it take?
+
+We try to make your information available within 30 days after you ask us for it. If it will take longer, we’ll let you know.
+
+#### Can we refuse to give you access?
+
+In some cases, we can refuse access or only give you access to certain information. For example, we’re not able to let you see information that is commercially sensitive. If we do this, we’ll write to you explaining our decision.
+
+#### Can you correct or update your information?
+
+You can ask us to correct or update any of your personal information that we have. If we’ve given the information to another party, you can ask us to let them know it’s incorrect.
+
+If we don’t think the information needs to be corrected, we’ll let you know why. You can ask us to include a statement that says you believe our record about you is inaccurate, incomplete, misleading or out of date.
+
+### 8\. Making a privacy complaint
+
+If you’re concerned about how we’ve handled your information, let us know and we’ll try to fix it. If you’re not satisfied with how we handled your complaint, you can contact the Australian Privacy Commissioner.
+
+#### How can you make a privacy complaint?
+
+If you are concerned about your privacy or how we’ve handled your personal information, you can make a complaint and we’ll try to fix it. See section 9 for details on how you can contact us.
+
+You can read more about how we handle complaints on the ‘[Our Commitments](https://web.archive.org/about-agl/who-we-are/our-commitments)’ page on our website. You can also read our [Complaints and Dispute Resolution Policy](https://web.archive.org/-/media/aglmedia/documents/contact-us/agl_dispute_resolution_policy.pdf?la=en&hash=460B3B689F8ADA454711777014320525).
+
+#### How do we manage privacy complaints?
+
+We will:
+
+  * keep a record of your complaint
+  * respond to you about your complaint and let you know how we will try to resolve it and how long that may take.
+
+
+
+#### What else can you do?
+
+If you’re not satisfied with how we have managed your privacy complaint, you can contact your local Ombudsman at any time for advice or to make a complaint. The Ombudsman is independent, and their services are free.
+
+You can contact the Energy and Water Ombudsman in your state via the details below.
+
+  
+|   
+|   
+  
+---|---|---  
+**Energy and Water Ombudsman NSW**  
+Reply Paid 86550,  
+Sydney South NSW 1234  
+| [Online complaint form](https://www.ewon.com.au/page/making-a-complaint/complaint-forms)
+
+Phone:[1800 246 545](tel:1800246545)
+
+Email: [complaints@ewon.com.au](mailto:complaints@ewon.com.au)
+
+| Website: [www.ewon.com.au](http://www.ewon.com.au/)  
+**Energy and Water Ombudsman Victoria**  
+Reply Paid 469  
+Melbourne VIC 8060 | [Online complaint form](https://www.ewov.com.au/complaints/online-complaint-form)
+
+Phone:[1800 500 509](tel:1800500509)
+
+Email: [ewovinfo@ewov.com.au](mailto:ewovinfo@ewov.com.au)
+
+|  Website: [www.ewov.com.au](http://www.ewov.com.au/)  
+**Energy and Water Ombudsman Queensland**  
+PO Box 3640   
+South Brisbane BC Qld 4101 | [Online complaint form](http://www.ewoq.com.au/submit-a-complaint/)
+
+Phone:[1800 662 837](tel:1800662837)
+
+Email: [complaints@ewoq.com.au](mailto:complaints@ewoq.com.au) or [info@ewoq.com.au](mailto:info@ewoq.com.au)
+
+|  Website: [www.ewoq.com.au](http://www.ewoq.com.au/)  
+   
+**Energy and Water Ombudsman South Australia**  
+GPO Box 2947  
+Adelaide SA 5001 | [Online complaint form ](http://www.ewosa.com.au/index.php/complaint-form)
+
+Phone:[1800 665 565](tel:1800665565)
+
+|  Website: [www.ewosa.com.au](http://www.ewosa.com.au/)  
+**Energy and Water Ombudsman Western Australia**  
+PO Box Z5386  
+St Georges Terrace  
+Perth WA 6831 | Phone:[1800 754 004](tel:1800754004)
+
+Email: [energyandwater@ombudsman.wa.gov.au](mailto:energyandwater@ombudsman.wa.gov.au)
+
+| Website: [www.ombudsman.wa.gov.au/  
+energyandwater/index.html](http://www.ombudsman.wa.gov.au/energyandwater/index.html)  
+  
+  
+You can also complain to the Australian Privacy Commissioner who can be found at the Office of the Australian Information Commissioner (OAIC).
+
+  
+|   
+|   
+  
+---|---|---  
+**Office of the Australian Information Commissioner**  
+GPO Box 5218  
+Sydney NSW 2001 | [Online complaint form](https://forms.business.gov.au/smartforms/landing.htm?formCode=APC_PC)
+
+Phone:[1300 363 992](tel:1300363992)
+
+Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+
+| Website: [www.oaic.gov.au](http://www.oaic.gov.au/)  
+  
+### 9\. Contact us
+
+To ask us a question, access your personal information, request a correction to your personal information, make a complaint, or get a printed copy of this policy, you can use our online enquiry form. Or you can contact our Customer Solutions team.
+
+  
+|   
+|   
+  
+---|---|---  
+**AGL Customer Advocacy**  
+Locked Bag 14120  
+MCMC VIC 8001 | [Online enquiries form](https://web.archive.org/contact-us)
+
+Phone:[131 245](tel:131245) (available 24/7).
+
+If you’re deaf or hard of hearing, or have difficulty speaking, you can use the [National Relay Service](https://relayservice.gov.au/).
+
+| Website: [www.agl.com.au](http://www.agl.com.au/)  
+  
+  
+  
+If you need to contact us about something else, you can find out how on the [Contact us](https://web.archive.org/contact-us) page on our website.
+
+  
+
