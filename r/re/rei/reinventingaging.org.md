@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601075913id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223080201id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy · Reinventing Aging
 
 **Your Privacy**
 
@@ -20,7 +20,7 @@ By using the Website, you hereby agree, without limitation or qualification, to 
 
 Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
-If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for review.
+If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to support@reinventingaging.org for review.
 
 **How can you stop receiving email from us?**
 
@@ -49,4 +49,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of reinventingaging.org then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions regarding the privacy policy of reinventingaging.org then you may contact us at support@reinventingaging.org
