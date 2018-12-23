@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolicool.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702064911id_/https%3A//www.coolicool.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolicool.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223155437id_/https%3A//www.coolicool.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,4 +40,4 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 Upon your request, we will:  
 (a) correct or update your personal information;  
 (b) stop sending emails to your email address;  
-(c) disable your account to prevent any future purchases through that account. You can make these requests on our coolicool facebook ([www.facebook.com/CooliCoolFans](http://www.facebook.com/CooliCoolFans)) or email your requests to CooliCool.com's Customer Support Center ([sales@CooliCool.com](mailto:sales@coolicool.com)) Please do not email your credit card number or other sensitive information.
+(c) disable your account to prevent any future purchases through that account. You can make these requests on our coolicool facebook ([www.facebook.com/CooliCoolFans](https://www.facebook.com/CooliCoolFans)) or email your requests to CooliCool.com's Customer Support Center ([support@coolicool.com](mailto:support@coolicool.com)) Please do not email your credit card number or other sensitive information.
