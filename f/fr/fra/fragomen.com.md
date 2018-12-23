@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616003306id_/https%3A//www.fragomen.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223180100id_/https%3A//www.fragomen.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy policies | Fragomen
 
@@ -369,46 +369,23 @@ Please see our Legal Notices.
 
 ___________________________________
 
-We know that slavery, servitude, forced labour and human trafficking is a global and growing issue given the rapid rise in global migration, existing in every region in the world and in every type of economy, whether industrial, developing or in transition. No sector or industry can be considered immune or untainted.
+This statement is made on behalf of Fragomen (GB) Limited and Fragomen LLP (the "Fragomen UK") in respect of its actions and activities during the financial year ending 31 December 2018, pursuant to section 54(1) of the Modern Slavery Act 2015 (the "MSA").
 
-Fragomen has a zero tolerance approach to modern slavery of any kind within our operations and supply chain. Our positive contribution to the work of our clients is matched by our commitment to running our own operations responsibly. We are committed to ensuring that slavery, human trafficking, child labour – indeed, any abuse of human rights – have no place in or around our organisation. We are proud of the steps we have taken to combat slavery and human trafficking and are pleased to reinforce that commitment through this statement.
+Fragomen UK is part of "Fragomen Worldwide" ("Fragomen"), which is a professional immigration services business made up of law firms and consultancies in more than 40 offices worldwide. In countries where Fragomen does not have offices or in-house practice groups, we work with carefully selected local advisors to deliver services to our clients in more than 170 countries.
 
-Fragomen is a professional immigration services firm made up of law firms and consultancies in more than 40 offices worldwide and operating as Fragomen LLP, a limited liability partnership, in England, under English law. In countries where we do not have offices or in house practice groups, we work with carefully selected local advisors to deliver services to our clients in more than 170 countries.
+As a professional services organisation, we consider the risk of modern slavery existing within our business to be low. However, to ensure that we are compliant with all applicable legislation, and because of our commitment to the eradication of modern slavery and human trafficking, we have established a cross-functional working group, led by our Executive Committee and Leadership Team, to: identify and assess potential risk areas in our supply chains; mitigate the risks of slavery and human trafficking occurring in our supply chains; monitor potential risk areas; and protect whistle-blowers.
 
-Members of our Executive Committee and Leadership Team are responsible for managing the firm’s worldwide operations (including Fragomen LLP). These professionals drive Fragomen’s values, ethics, vision, client services, structure and support teams, and make certain that our firm remains compliant with all applicable legislation relating to employee terms and conditions, and ensures that the firm invests heavily in supporting the health and wellbeing of our staff across all jurisdictions in which we operate.
+Fragomen UK has a zero tolerance approach to modern slavery of any kind within our operations and supply chain. Our positive contribution to the work of our clients is matched by our commitment to running our own operations responsibly. Therefore, we are committed to ensuring that slavery, human trafficking, child labour and any other abuse of human rights has not place in or around our organisation. We are proud of the steps that we have taken to combat slavery and human trafficking, and pleased to reinforce that commitment through this statement.
 
-We are committed to ensuring that there is no modern slavery or human trafficking in our supply chains or in any part of our business. Our Anti-slavery and Human Trafficking Policy reflects our commitment to acting ethically and with integrity in all our business relationships and to implementing and enforcing effective systems and controls to ensure slavery and human trafficking is not taking place any where in our supply chains.
+In the last year, Fragomen UK has fulfilled our principal objectives in relation to the MSA by taking significant steps to raise awareness of its requirements and engaging with its detail with our staff and key suppliers:
 
-As a professional services organisation, we consider the risk of modern slavery existing within our business to be low. However, to ensure that we are compliant with all applicable legislation we have carried out our own due diligence programme through a cross-functional working group.
+  * Online training on the MSA's requirements and the escalation of concerns, is mandatory for our UK employees; and
 
-As part of our initiative to identify and mitigate risk we have in place systems to:
-
-  * Identify and assess potential risk areas in our supply chains.
-
-  * Mitigate the risk of slavery and human trafficking occurring in our supply chains.
-
-  * Monitor potential risk areas in our supply chains.
-
-  * Protect whistle blowers.
+  * In contractual agreements and compliance statements, we have obtained warranties and undertakings from our key suppliers and business partners that there is no slavery, servitude, forced or compulsory human labour, abuse of power over vulnerable individuals, human trafficking or any other form of exploitation in any part of their businesses or supply chains.
 
 
 
 
-We have zero tolerance to slavery and human trafficking. To ensure all those in our supply chain and contractors comply with our values and ethics we have in place a rigorous supply chain compliance programme.  
-Training
+Over the next 12-18 months, we plan to refine our online training and increase our engagement with external stakeholders in relation to MSA-related risks.
 
-We are currently focusing on raising internal awareness to enable the relevant members of staff to understand the requirements of the Modern Slavery Act and to give them the tools to flag potential issues.
-
-Over time, we will seek to develop an e-learning solution for all our staff, which will ensure that Modern Slavery is targeted more persistently, regardless of staff turnover or changes in the supply chain.
-
-A key focus for the next 12-18 months is to engage in more detail with our staff and our key suppliers.
-
-This statement is made pursuant to section 54(1) of the Modern Slavery Act 2015 and constitutes slavery and human trafficking statement for the financial year ending 31 December 2017.
-
-Attn: Caron Pope  
-Fragomen LLP  
-95 Gresham St.  
-London, EC2V 7NA  
-United Kingdom
-
-_Last Updated: November 2017_
+_Last Updated: November 2018_
