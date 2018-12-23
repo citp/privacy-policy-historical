@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bursaries2017.co.za privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125144806id_/http%3A//www.bursaries2017.co.za/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bursaries2017.co.za privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223194218id_/http%3A//www.zabursaries.co.za/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy of bursaries2017
 
-**SA Bursaries 2016 - 2017** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+**SA Bursaries** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -10,7 +10,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, SA Bursaries 2016 - 2017 uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, SA Bursaries uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
