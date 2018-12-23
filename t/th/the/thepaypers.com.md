@@ -1,27 +1,152 @@
-> *The following text is extracted and transformed from the thepaypers.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905222524id_/https%3A//www.thepaypers.com/aboutus/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaypers.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223191414id_/https%3A//www.thepaypers.com/aboutus/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # About us | Privacy policy | The Paypers
 
-Privacy Policy Data privacy
+Privacy Policy
 
-Information we collect may include personal data related to individuals such as name, phone and e-mail address. We treat all this information as confidential. We do not sell it to a third party, except hand it over as required by law or as necessary for us to provide you with the required services. We reserve the right, at our discretion, to modify this policy at any time. If we make any substantial changes in the way we use your personal information we will post a notification on this site.
+Privacy Statement
 
-Sharing your data
+The Paypers ("we"; "us"), is committed to protecting and respecting your privacy. This Privacy Policy governs the data which we collect from users and other third parties in the course of our business, as well as the way in which we protect and process such information. Please read this policy carefully to understand how we will treat your personal data.
 
-Because [ The Paypers](https://www.thepaypers.com/news) sometimes operates with partners, we may occasionally use our contact base as a channel for those partners. Your data will not be transferred to them in such cases. We assure that we will not do so for content that is not within the scope of our professional activities. Moreover, if you receive such information, The Paypers will always ensure an opt-out possibility for further notifications.
+1\. Data controller
 
-Identification data
+For the purpose of the General Data Protection Regulation (the "GDPR"), the data controller is The Paypers (Company registration 34345453), having its registered address at Strawinskylaan381, TF-L3, 1077 XX, Amsterdam, The Netherlands). 
 
-When you voluntarily supply us with your personal information such as your name, phone number and/or e-mail address or other contact information, we may use it to correspond with you. In the future, we may also (re)use it to start a subscription upon your request, or to register you for a particular service or event.
+2\. Information we may collect about you
 
-Browsing
+Data regarding you and your business is collected, retained, and processed as subject to and in accordance with the requirements of the GDPR. We may collect personal data that includes: name, job title, contact information including email address and country of residence, employer details, IP address, other information relevant to customer surveys and/or others.
 
-If you browse [ The Paypers website](https://www.thepaypers.com/news), you do so anonymously. We may use your IP address (the Internet address of your computer) to administer our website and to collect and distribute aggregate statistics about our visitors such as traffic patterns and related site information.
+We may collect and process the following data about you: 
 
-Cookies
+(a) Information you provide when you use our website www.thepaypers.com (the "website"). This includes information provided by you at the time you download a report or register for one of our services. We may also ask you for information if you report a problem with our website.
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies in order to track your user session. We do not store any confidential or personal information.
+(b) If you contact us by email, through our contact form, by telephone, or in writing, we may keep a copy of that correspondence or communication.
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please e-mail us at [info@thepaypers.com](mailto:info@thepaypers.com).
+(c) Details of your visits to the website and the resources that you access.
+
+If you have provided us with the personal data of another person, you thus confirm that they consent to the processing of his/her personal data and that you have informed him/her of our identity as a data controller and provided him/her with a copy of this policy.
+
+3\. IP Addresses and Cookies
+
+We may collect information about your mobile phone, computer, or other device from which you access the website. Such information may include your domain name and IP address, details of your computer operating system and browser, the website you visited prior to visiting our website and unique number identifiers that are automatically generated by our systems when you visit our website. This will include details of the choices you make on our website indicating whether you wish to receive information on other products and services.
+
+Some of this information is retained in the "cookie" files on your computer. These files retain useful information that can speed your navigation through frequently visited sites. They can also retain records that track site usage and preferences. These cookies can be disabled or deleted by activating the setting on your browser if you do not wish them to be used. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log in to our website.
+
+Please note that our advertisers may also use cookies, over which we have no control.
+
+4\. Legal basis for data processing
+
+We can process personal data on various legal bases. 
+
+For processing operations for which we obtain consent for a specific processing purpose, Article 6(1)(a) of the GDPR is our legal basis. 
+
+If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as for example when processing operations are necessary to provide our service, the processing is based on Article 6(1)(b) of the GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. 
+
+If our company is subject to a legal obligation by which processing of personal data is required, such as for the fulfilment of tax obligations, our processing is based on Article 6(1) (c) of the GDPR.
+
+Finally, we can base our processing operations on Article 6(1)(f) of the GDPR: this legal basis is used for processing operations which are not covered by the above-mentioned legal grounds, if that processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data.
+
+5\. Uses made of your information
+
+We use the information collected about you for the following purposes:
+
+  * **Headlines service.** We have to hold the details of the people who have requested to receive our headlines service in order to provide it. However, we only use these details to provide the service that the person has requested and for other closely related purposes. For example, we might use information about people who have requested to download a publication to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this
+  * **Details of download request of our reports and guides, registration to our webinars.** We need to use the contact details provided to us in order to contact you to progress the download or registration request. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use information about people who have requested to download a publication to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this
+  * To carry out our obligations arising from any contracts entered into between you and us. To report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns and does not identify any individual.
+  * To assist us in developing new and improved products as indicated by user practice and preferences, based on our analysis of patterns of site usage. 
+  * To provide you with details of changes to our products or of other product offerings which we believe may be of interest to you from The Paypers or other third-party providers. 
+
+
+
+We will not share your data with third parties for marketing purposes unless we have procured your express consent to do so.
+
+6\. Retention of your information
+
+We take appropriate measures to ensure that any information collected from you is kept only for so long as is necessary for the purpose for which such information is used.
+
+We normally update your personal data within seven (7) working days of any new or updated personal data being provided to us, to ensure that the personal data we hold about you is as accurate as possible.
+
+We protect your data by:
+
+  * Offering you a secure transmission method to send us personal or company information.
+  * Implementing security policies and technical measures to protect data from:
+  *     * unauthorised access;
+    * improper use or disclosure;
+    * unauthorised modification; and
+    * unlawful destruction or accidental loss.
+
+
+
+7\. Disclosure of your information
+
+We may disclose your personal information to third parties:
+
+(a) In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+
+(b) If we or substantially all of our assets are acquired by a third party, in which case personal data held about our customers will be one of the transferred assets.
+
+(c) If we are under a duty to disclose or share your personal data to comply with any legal obligation.
+
+(e) If it is required to do so to deliver our services. We sometimes outsource certain functions of our business to service providers: some of these service providers may use cloud-based systems: in that case, your personal data would be hosted on their servers, but under our direction and control.
+
+(f) To protect the rights, property, or safety of The Paypers, our customers, or others.
+
+(g) Where we have received your permission for us to do so.
+
+8\. Your rights under the GDPR _Right of access_
+
+The GDPR gives you the right to access information held about you. If you wish to exercise such right, please submit a request to us in writing at [dpo@thepaypers.com](mailto:dpo@thepaypers.com)
+
+Any access request shall be subject to your providing acceptable proof of identification. 
+
+If we are processing your personal data, we will provide you with a copy of that personal data.
+
+If you require additional copies, we may charge a reasonable administrative fee.
+
+_Right of rectification_
+
+You are entitled to have your personal data rectified if it is inaccurate or incomplete. You should instruct us to correct or update any personal data we hold about you (for instance if you change your address or your name).
+
+You can instruct us to do this at any time by contacting us at [dpo@thepaypers.com](mailto:dpo@thepaypers.com)
+
+_Right to erasure_
+
+You have a right to have your personal data erased and to prevent processing in specific circumstances. If you wish to exercise such right, please submit a request to us in writing at [dpo@thepaypers.com](mailto:dpo@thepaypers.com).
+
+_Right to restrict processing_
+
+In certain circumstances, you have the right to obtain from us restriction of processing (especially when the accuracy of the personal data is contested by you, for a period enabling us to verify the accuracy of the personal data).
+
+_Right to withdraw your consent_
+
+In certain circumstances, we must have your consent before we contact you. You have the right to withdraw your consent to processing of your personal data at any time by contacting us at [dpo@thepaypers.com](mailto:dpo@thepaypers.com)
+
+_Right to data portability_
+
+With effect from May 25, 2018, you have the right, in certain circumstances, to obtain personal data you have provided us with, in a structured, commonly used and machine-readable format, and to reuse it elsewhere or ask us to transfer this to a third party of your choice.
+
+_Right to object_
+
+You have the right to object to:
+
+  * Processing based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling).
+  * Direct marketing (including profiling).
+  * Processing for purposes of scientific/historical research and statistics.
+
+
+
+9\. Links to other websites
+
+Our website offers links to many third-party websites. We are not responsible for the accuracy or efficacy of the information or data policies or procedures of these third parties. If you access these sites using the links provided on our website, you should satisfy yourself as to the relevant data policies in effect on these sites.
+
+10\. Changes in privacy policy
+
+Any changes we may make to our Privacy Policy in the future will be posted on this page and on our website. Please check this page occasionally to ensure you are happy with any changes.
+
+If you have any questions about our privacy policy, or if you want to request information about our privacy policy, please contact us at [dpo@thepaypers.com](mailto:dpo@thepaypers.com) or in writing at the address set out on the Contact Us page of the website.
+
+11\. Contact
+
+If any of your personal data changes, or if you have any questions, comments or requests regarding the protection of your personal data or this policy, please contact us by email at [dpo@thepaypers.com](mailto:dpo@thepaypers.com) or in writing at the address set out on the Contact Us page of the website.
 
  
