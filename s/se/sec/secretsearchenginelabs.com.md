@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretsearchenginelabs.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604095642id_/http%3A//www.secretsearchenginelabs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretsearchenginelabs.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223082514id_/http%3A//www.secretsearchenginelabs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Terms and Conditions - Secret Search Engine Labs
 
@@ -33,4 +33,4 @@ When you submit peronal information, such as your name and email address, to our
 We will however provide your peronal information to our subcontractors for the sole purpose of doing for us what we would have othervise done ourself with your information. i.e. we can have a reliable third party send out our email to you. 
 
 Copyright (C) 2007 - 2018 Text Ad King and SecretSearchEngineLabs.com. All Rights Reserved.   
-[Terms and Conditions](https://web.archive.org/terms-and-conditions.php) \- [Privacy Policy](https://web.archive.org/privacy-policy.php) \- [Advertising](https://web.archive.org/web/20180604095642id_/http%3A//www.secretsearchenginelabs.com/advertise.php) \- [About Us](https://web.archive.org/about.php) \- [Login](https://web.archive.org/login.php)
+[Terms and Conditions](https://web.archive.org/terms-and-conditions.php) \- [Privacy Policy](https://web.archive.org/privacy-policy.php) \- [Advertising](https://web.archive.org/web/20181223082514id_/http%3A//www.secretsearchenginelabs.com/advertise.php) \- [About Us](https://web.archive.org/about.php) \- [Login](https://web.archive.org/login.php)
