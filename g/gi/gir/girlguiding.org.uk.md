@@ -1,198 +1,235 @@
-> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122014042id_/https%3A//www.girlguiding.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223061836id_/https%3A//www.girlguiding.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Girlguiding
+# Privacy notice | Girlguiding
 
-Girlguiding is committed to protecting your privacy. This policy details the information we collect from you when you access the Girlguiding website and the steps we take to ensure this information remains confidential.
+Girlguiding is committed to protecting your privacy. This notice details the information we collect from you when you access the Girlguiding website and the steps we take to ensure this information remains confidential.
 
-## Our intentions
+We all give our personal data out daily – our names, contact details, or other bits of information – and most of us want to be feel sure that our data is being handled properly.
 
-We collect some basic information from you in order to improve your browsing experience. Except as explained in this policy statement, we will not release any personal information to a third party under any circumstances unless expressly authorised to do so by you, or if we are obliged to do so by law.
+As someone who is in contact with Girlguiding, you may have given us information about yourself, like your name, or email address, or other details. Our privacy notice explains what Girlguiding does with this information – it tells you how we gather, use, disclose and manage your personal data.
 
-All information will be dealt with in accordance with the Data Protection Act 1998 and we will always aim to meet current Internet best practices. To find out more about Data Protection, please read our [Data Protection Policy](https://web.archive.org/making-guiding-happen/policies/girlguiding-policies/data-protection-policy/).
+We take your privacy very seriously. We aim always to be clear to you about the way Girlguiding manages data, so we make sure our privacy notice is up to date. You should read this page from time to time to check that you are happy with any changes we make.
 
-#### The information we collect from you 
+Our privacy notice is as comprehensive as possible, but it doesn’t cover every aspect of our collection and use of personal data. Please contact us if you need more information, or have any questions about this notice. Our contact details are in the ‘Get in touch’ section below.
 
-We currently collect information about your computer in order to tailor the web pages we provide to you. This information is collected from your computer regardless of whether or not you register with us and is not personal to you. This includes the following:
+## What do: ‘Girlguiding’, ‘we’ or ‘us’ refer to?
 
-  * operating system (eg Microsoft Windows 7)
-  * browser software (eg Google Chrome)
-  * your browser’s custom settings (eg the presence of a Macromedia Flash plug-in)
-  * your IP address (the unique Internet network address of your machine)
-  * your geographic location (or that of your Internet service provider)
-  * access times (the time spent on the Girlguiding website)
-  * referring domain (the website you were browsing prior to your visit to the Girlguiding website).
+In this notice ’Girlguiding’, ‘us’, ‘we’ and ‘our’ refer to the registered charity, The Guide Association (no. 306016 in England, Wales, and Northern Ireland) and our trading subsidiary, The Guide Association Trading Service Ltd (company no. 4301686).
 
+Our registered charity number is 306016 (England and Wales) and SC038436 (Scotland).
 
+Registered / Head office address:  
+Girlguiding  
+17-19 Buckingham Palace Road  
+London, SW1W 0PT
 
-If you register with us, you also provide us with the following personal information:
+#### What personal information does Girlguiding collect, and how? 
 
-  * name
-  * date of birth
-  * email address.
+We collect the following personal information (where relevant or applicable):
 
+  * Name
+  * Parents’/guardian’s name(s)
+  * Contact details, including address, telephone number and email address
+  * Date of birth
+  * Payment information (bank or credit card details) if you donate to us or buy from our online shop
+  * Records of your correspondence with us
+  * Records of your participation with us (including as a member or as a volunteer)
+  * Donation history and Gift Aid details
+  * Information you enter on our website
+  * Photographs, video or audio recordings
+  * Biographical information
+  * Any other information you share with us
 
 
-We collect this information in order to identify you on any subsequent visit to the Girlguiding website and to allow us to notify you of any important service announcements or significant website updates. If you do not wish to receive information from us, you can choose not to by editing your personal details.
 
-If you are an active member of Girlguiding you will be able to access our secure members’ area and Go! the membership database. To do this, you will need to provide us with the following personal information:
+This information may be collected from:
 
-  * membership number
-  * postcode
-  * date of birth.
+  * Information you fill out on the website (including via GO - our volunteer platform, digital forms and online surveys)
+  * Telephone or face to face conversations with you and/or your parent/guardian
+  * Local or regional Girlguiding groups
+  * Third party companies and websites, like Just Giving, Virgin Money Giving and Committed Giving
+  * Publicly available sources, like Companies House or the Charity Commission website
+  * Communication on social media
 
 
 
-If you apply for more details of guiding activities in your area, we will also request the following information in order to locate your nearest Girlguiding representatives:
+We sometimes also collect sensitive personal data, for example information about health, religion, sexuality, ethnicity, political and philosophical beliefs and criminal records. We normally only record this data where we have your consent. But sometimes we are permitted to do this in other circumstances, under data protection law. For example, we may make a record that a person is in a vulnerable circumstance to make sure that we don’t send fundraising messages to them – by doing this we comply with charity law and the Code of Fundraising Practice. 
 
-  * home address
-  * telephone number.
+#### Why and how do you use my personal data? 
 
+Data helps us support and improve interactions with Girlguiding. Examples include:
 
+  * Updating you on Girlguiding policies and procedures
+  * Providing volunteer care and support
+  * Monitoring equal opportunities
+  * Managing guiding activities, and making sure the right care is in place for activities
+  * Communicating with you, for example when collecting membership details or arranging payments
+  * Processing your donation and claiming gift aid
+  * Managing fundraising
+  * Developing our services
+  * Keeping a record of your relationship with Girlguiding for our administration, and to let you know about changes to our services or policies
+  * Investigating and responding to complaints, legal claims or other issues
+  * Fulfilling your online order for goods or services, including processing payment and letting you know about delivery
+  * Carrying out research to improve our services and communications
+  * Preventing and detecting fraud and error
+  * Assessing applications for volunteering and employment
+  * Keeping you up to date with our fundraising and marketing activity through our website, direct mail, SMS/text campaigns, email and telephone (see below for more information)
 
-There are occasions where we ask for extra personal information, such as registration for an event or online questionnaires. Any details collected are stored securely offline and are not stored on our web server.
 
-Finally, in the case of our online shopping website, we also collect your home address and credit/debit card details in order to process your requested orders. For more details on how we handle such sensitive data, please see the credit card details section of this policy.
 
-#### Online Donations 
+### **We use marketing materials for the following**
 
-If you donate online to Girlguiding the following privacy policy will apply to the information that you provide.
+  * Updates about Girlguiding’s work, including newsletters and other publications
+  * Appeals and fundraising activities including requests for donations; information about legacy gifts, raising funds or taking part in a fundraising event, and updates on the impact that fundraising activities have had on our work
+  * Information about events
+  * Information about shop products
+  * Volunteering information about how to support Girlguiding, along with updates about the impact of your work
 
-Girlguiding will retain the following personal information:
 
-  * your first name and last name
-  * your address, including country
-  * your email address
-  * the telephone numbers you provide, if any
-  * your age range (18-25, 26-45, 46-65, 66-85, 85+)
-  * your gender
-  * whether or not you are a member of Girlguiding
-  * whether or not you are a UK taxpayer
-  * when you supply this information to us, we are legally obliged by the Data Protection Act 1998 to ensure that we only use this information for the purpose for which it was requested, and to ensure that it is kept securely.
 
+We may also use your personal information to build a profile of your interests and preferences. This helps us send you only relevant and timely information. And building profiles helps us improve the experience our supporters have – if we understand their background we can make appropriate requests to those who may be willing and able to give more than they already do. This helps us raise funds sooner and more cost-effectively.
 
+There’s other information we can use, which is publically available in places like public registers. This can include listed directorships, typical earnings in a geographical area, information from the electoral roll, press reports and social media posts.
 
-If you have selected either (or both) of the options giving us permission to contact you ("I am happy to be contacted by Girlguiding for marketing purposes" and "I would like to be kept up-to-date with how my contribution is being spent"), Girlguiding may send communications to you by email or post from time to time.
+#### Can I change my consent? 
 
-This policy is in addition to our general privacy policy.
+Yes! You can withdraw your consent, unsubscribe from or update your marketing preferences at any time. Just use the details in the ‘Get in touch’ section below.
 
-### Special note for users under the age of 18
+If you make changes to your consent, we will update your record as soon as we possibly can. Emails will be stopped immediately, but it may take up to 60 days for our systems to update and stop post being sent to you.
 
-If you are under the age of 18, you must obtain permission from your parent or guardian before registering or providing any personal information to us.
+If you tell us you don’t want marketing, fundraising or campaign communications, you may still receive messages about transactions and services from other connections you have with us (as described below).
 
-#### What we do with this information 
+You can also opt out of receiving fundraising communications from us by signing up to [the fundraising preference service](https://www.fundraisingregulator.org.uk/the-fundraising-preference-service).
 
-The information about your computer detailed above is written to a text log file held on our web server. These log files are only accessible to the Web Manager at Girlguiding and the server administrators at the third-party hosting company that manage the server.
+#### When is it legal to use personal information? 
 
-The personal information you provide when you register with us is stored in a secure database on our own web server at the hosting company. This information is only accessible to the Web Manager at Girlguiding and the server administrator at the hosting company.
+We need a lawful basis to collect and use your personal data under data protection law. The law allows for six ways to process personal data (and additional ways for sensitive personal data). Four of these are relevant to Girlguiding. We can use process information on the basis of:
 
-In the case of our online shopping website, your personal information is temporarily stored on a secure area on our server. Once we have processed any online purchases you make through this website, this information is deleted from the server and stored securely offline at our Trading Service offices.
+  * Your consent (for example to send you direct marketing by email or SMS)
+  * Your contractual relationship with us (for example to provide you with goods or services that you have purchased from us)
+  * The necessity for compliance with a legal obligation (for example to process a gift aid declaration and carrying out due diligence on large donations)
+  * Girlguiding’s legitimate interests (please see below for more information)
 
-#### What we store in cookie files 
 
-When you log in to the Girlguiding website, we store a small text file called a 'cookie' on your computer's disk drive. This process is a very common practice, is completely harmless and cannot be used to run programs or deliver viruses to your computer.
 
-This cookie holds information including the date of your last visit to the Girlguiding website and your personal log in preferences. If you chose to be recognised on your next visit to the website, we will store your chosen user name in this cookie file.
+#### What does ‘legitimate interest’ mean? 
 
-In the case of our online shopping website, we also store some additional information to improve the functionality of the website. When you log in to access the checkout, you are also asked if you would like the website to remember you on your next visit. If you choose this option, your email address and/or Shop Account Number will be stored in another cookie on your computer.
+Personal data may be legally collected and used if it is necessary for a legitimate interest of the organisation using the data, as long as its use is fair and does not adversely impact the rights of the individual concerned.
 
-We never store credit/debit card details in a cookie as these are not secure.
+When we use your personal information, we will always consider if it is fair and balanced to do so, and if it is within your reasonable expectations. We will balance your rights and our legitimate interests to ensure that we use your personal information in ways that are not unduly intrusive or unfair. Girlguiding’s legitimate interests include:
 
-Instructions on how to view the contents of a cookie created by us can be found in your browser's Help pages (usually accessible by pressing the 'F1' key while you have your browser open).
+  * Charity governance. This includes delivery of our charitable purposes, statutory and financial reporting and other regulatory compliance purposes and intergroup transfers of data between Girlguiding and our trading subsidiary.
+  * Administration and operational management. This includes answering enquires, giving information and services, research, events management, administration of volunteers and employment and recruitment requirements. This involves sharing information with regional and local Girlguiding branches. 
+  * Fundraising and campaigning. This includes administering campaigns and donations and sending direct marketing by post (and in some cases making marketing calls), sending thank you letters, analysis, targeting and segmentation to develop communication strategies and maintaining communication suppressions.
 
-You can also prevent cookies being stored on your computer by setting your browser's preferences accordingly, and instructions can be found in your browser's Help pages. You will still be able to browse many parts of the Girlguiding website, but certain functionality may be restricted.
 
-#### How we protect your personal information 
 
-We seek to comply with the Data Protection Act 1998 and take all reasonable care to prevent any unauthorised access to your personal data.
+If you would like more information on our uses of legitimate interests or to change our use of your personal data please get in touch with us using the details in the ‘Get in touch’ section below.
 
-Girlguiding does not sell or share any personal information about you to any outside vendors or advertising agencies.
+#### If you are 14 or under 
 
-Our secure servers use the strongest encryption technology available, technology that is also used by banks and credit card companies to secure their online transactions. In addition, our network is guarded by computers called ‘firewalls’.
+If you are under the age of 14, you must get permission from your parent or guardian before registering or giving us any information.
 
-All purchases made on our website are secure. This means it's safe for you to input sensitive information, such as your credit card number, when you place an order for any goods on our online shopping website.
+#### How long do you keep personal data for? 
 
-We would not transfer your information outside of the EEA (European Economic Area) without obtaining your consent first.
+Girlguiding keeps your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-#### Credit card details 
+We decide how long is appropriate to keep personal data. We do this by considering the amount, nature and sensitivity of the personal data; the potential risk of harm from unauthorised use or disclosure of your personal data; the purposes for which we process your personal data, whether we can achieve those purposes through other means, and the legal requirements.
 
-Girlguiding understands the natural concerns you may have about entering sensitive personal or credit card details. We would therefore like to assure you that this information is stored securely on a remote server and only aspects required for online transactional purposes are held online.
+If you ask to receive no further contact from us, we will keep some basic information about you on our suppression list to avoid sending you more unwanted messages.
 
-The personal information and credit card details that we request are only used by us to fulfill your order.
+#### Do you share my data with other organisations? 
 
-The personal information that is required for our accounts is kept securely, in accordance with our internal security policy, and only for as long as required by law.
+We do not share or sell your personal information to third-party organisations for marketing, fundraising or campaigning purposes.
 
-All information will be kept confidential. Upon receipt of your request, we will delete any credit card details we hold.
+We share your personal information with our trading company and relevant regional and local Girlguiding organisations to:
 
-All credit card details are taken via a secure connection and NOT stored on this web server.
+  * Administer your membership of Girlguiding
+  * Manage your participation in Girlguiding activities
+  * Conduct market research so we can improve our offerings to you and as an organisation overall
 
-Any person found to be using credit cards fraudulently on this website will be prosecuted.
 
-#### Viewing your personal information 
 
-You also have the legal right to request a copy of the information we hold about you, and to have any inaccuracies corrected, by submitting a written request to:
+We share your personal information with an international affiliate of Girlguiding if you tell us you have an interest in joining that international affiliate.
 
-The Web Manager
+We also share personal information:
 
-Girlguiding
+  * With data processors working on our behalf. For example, if you buy an item in our online shop, we use a third party to process payments.
+  * Where we are required to by law, for example to law enforcement or regulatory bodies
+  * Where it is necessary to protect the vital interests of an individual
+  * If we have your consent
 
-17-19 Buckingham Palace Road
 
-London
 
-SW1W 0PT.
+We may use third-party suppliers to manage events, campaigns or mailings for fundraising appeals; to carry out research surveys or for storage of your personal information on our behalf. You can find out more about the suppliers that we use by contacting us using the details in the ‘Get in touch’ section below.  
 
-There is a standard fee of £10 for each request of this nature.
+We screen and monitor these companies to get the best protection of your privacy and security. They may only use the data in accordance with data protection legislation, under strict instructions from Girlguiding and in accordance with a data processing agreement.
 
-#### How long do we hold your information on file? 
+#### How do you protect my personal information? 
 
-We hold information about you for as long as you actively subscribe as a user.
+We use technical and organisational ways to protect your data and prevent the loss, misuse or alteration of your personal information.
 
-Any cookie we store on your computer is set to expire three months after your last visit to the Girlguiding website and is automatically removed from your computer once this three month period has elapsed.
+Unfortunately the transmission of data over the internet is not completely secure. Although we do our best to protect your personal data we can’t guarantee the security of your data transmitted to our website. But once we receive your information we use strict procedures and security features to try to prevent unauthorised access.
 
-#### Our contact with you 
+We process all credit card payments securely through our secure payment gateway which is PCI DSS Compliant. We do not store credit card details.
 
-When you register with us, you are given the option to subscribe to one or all of our email newsletters via the My Subscriptions page.
+We only use the personal information and credit card details that we request to fulfil your order or process your donation.
 
-If you would rather not receive any such contact from us, you can log in to the website and edit your preferences by clicking on My Subscriptions link on the left-hand-side of the page. You can also achieve this by following the unsubscribe instructions on any email newsletter you receive from us.
+And we keep the personal information that is required for our accounts secure, and only for as long as required by law.
 
-#### Contacting us 
+The information we collect from you may be transferred to and processed and/or stored at a destination outside the European Economic Area (EEA). If we send your personal data outside the EEA we will take reasonable steps to make sure the recipient uses appropriate measures to protect your information.
 
-If you have any concerns about the Girlguiding privacy policy or feel that we are not adhering to the provisions set out here, please do not hesitate to contact us by writing to:
+#### How do you use cookies and digital marketing? 
 
-The Web Manager
+ Cookies are small text files placed on your computer by websites that you visit. They are widely used to make websites work more efficiently for visitors, and to provide information to the owners of the site.
 
-Girlguiding
+We use cookies to:
 
-17-19 Buckingham Palace Road
+  * Remember certain information about users so they don’t have to give the same information again
+  * Measure how people use our websites so we can improve the way information is provided
+  * Display adverts based on what parts of Girlguiding websites people have visited
 
-London
 
-SW1W 0PT.
 
-Alternatively you can email the Web Manager at web@girlguiding.org.uk or telephone 0207 834 6242.
+You agree to our use of cookies by continuing to use our websites. You can find more information on the exact cookies that we use on our ‘Cookies’ page.
 
-### Your consent
+### Remarketing
 
-By using the Girlguiding website you consent to the provisions detailed in this policy.
+The Girlguiding website may share your personal data with remarketing services - including Facebook, Google Adwords and Google Analytics - to serve our adverts to you on third party websites. Third-party vendors, including Facebook and Google, use cookies to serve ads based on someone’s past visits to the Girlguiding website. Please visit [our cookies page](https://web.archive.org/privacy-policy/cookies/) for further information.
 
-## Disclaimer
+#### Disclaimer 
 
-We cannot be responsible for any information you disclose in public community areas of the Girlguiding website or those that are listed in our website directory. This information can be viewed or collected by any third party and you should always be wary of publishing any personal information in public community areas.
+We cannot be responsible for any information you give in public community areas of the Girlguiding websites, or on websites that we link to from our platforms. This information can be viewed or collected by any third party - you should always be wary of publishing any personal information in public community areas.
 
-We also encourage you to read the privacy policy of any websites listed in our website directory that you choose to visit so you may understand what information is collected from you and for what purpose.
+You should also read the privacy notices of any other websites that we link to from Girlguiding websites which you visit. This is so you may understand what information is collected from you and for what purpose.
 
-Girlguiding cannot be held responsible for the policies of any third party website listed in our website directory and you access these websites at your own risk.
+Girlguiding cannot be held responsible for the policies of any third party website that we link to, and you access these websites at your own risk.
 
-## Changes to this privacy policy
+## Get in touch with us 
 
-We reserve the right to amend this policy at any time in response to your feedback, new or altered Girlguiding systems and procedures, Internet best practices and UK and European law.
+If you have any concerns about the Girlguiding privacy notice or about how we deal with data, or how we’ve used your data, please get in touch. Write to or email the data protection team at:
 
-© Girlguiding
-
-17-19 Buckingham Palace Road
-
-London
-
+The data protection officer  
+Girlguiding  
+17-19 Buckingham Palace Road  
+London  
 SW1W 0PT
+
+Email: [dataprotection@girlguiding.org.uk](mailto:dataprotection@girlguiding.org.uk)
+
+We will be happy to help and discuss your concerns.
+
+You can also make a complaint to the[ information commissioner’s office](http://www.ico.org.uk/) and [the fundraising regulator](http://www.fundraisingpreference.org.uk/) .
+
+### Changes to this privacy notice
+
+Keep up to date with changes to this privacy notice by checking the website section from time to time.
+
+© Girlguiding  
+17-19 Buckingham Palace Road  
+London  
+SW1W 0P
+
+Last updated: 23 May 2018
 
 ## Explore the Girlguiding site
