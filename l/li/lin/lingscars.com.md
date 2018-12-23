@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the lingscars.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906001742id_/https%3A//www.lingscars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingscars.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223145235id_/https%3A//www.lingscars.com/privacy.php) for the most accurate reproduction.*
 
 # CAR LEASING CHEAP NEW UK CARS FOR LEASE CONTRACT HIRE CAR LEASING
 
+|  **LINGsCARS.com LTD Privacy Policy**  
+---  
+  
 HaHaHa! Bugger me! If you are reading this then you must be REALLY worried about your privacy, well... don't worry!
 
 Overview
@@ -78,4 +81,213 @@ I hope you feel you can trust me. If you've read this far, you deserve a free ca
   
   
   
+  
+  
+|   
+---  
+  
+  
+_I am the Viz UK business ambassador!  
+Post me Ferrero-Rochers! Yum Yum!_  
+  
+**Unlike most other internet car leasing sites, I publish all my contact information openly!  
+ _...so, you know who I am_** \- Ling
 
+ **THE UK's **FAVOURITE**  
+CAR LEASING WEBSITE!**
+
+  
+  
+  
+**Boss:** Ling Valentine MSc IoD  
+LING World Headquarters  
+Vance Business Park  
+Gateshead, **NE11 9NE**  
+Tel 0191 460 9444  
+Fax 0870 486 1130  
+[sales@LINGsCARS.com](mailto:sales@lingscars.com)  
+ _ **I prefer email to phone**_ \- Ling  
+VAT No: 866 0241 30  
+Co Reg No: 6178634  
+Consumer Credit Licence: 663330  
+Data Protection No: Z1098490  
+Best Before: 17/08/2007  
+  
+[   
+](https://web.archive.org/feature/location.php)  
+   
+  
+  
+**Latest BBC NEWS from LING in CHINGLISH!**
+
+**LATEST:  ** _The men were arrested on board cargo ship in Thames Estuary. You give me happy happy luck luck._ \- news replorted 13:19
+
+**LATEST:  ** Der Spiegel is to file criminal complaint against its rogue reporter Claas Relotius. Eating rice!!  \- news replorted 12:46
+
+_More than 80,000 human bliengs attend as Emperor Akihito gives last birthday address before male gender human bleing's abdication. Sweet sour chicken feet time!_ \- news replorted 12:34
+
+**Anti-government protesters hurled objects at old bill bobbys and chased after them in central Paris. Eating rice!!** \- news replorted 12:08
+
+_**The man and woman quizzed over drone sightings at Gatwick Airport having been released without charge. What the hell I mean??!!** _ \- news replorted 11:34
+
+The women sent Christmas presents after learning that 60% of care home residents don' receive visitors. Eating rice!!  \- news replorted 11:21
+
+_**The fishing vessel with 14 adults and two children on board was sailing towards Uk. What you wan'?!!** _ \- news replorted 10:38
+
+**Hollywood actor Michael Sheen is helping pay for security and protection of garage wall graffiti.** \- news replorted 10:20
+
+_Manchester United great Peter Schmeichel thinks club should appoint director of silly kick-kick game and believes bloody man would make velly damn good boiled chicken-feet candidate_ \- news replorted 09:26
+
+**Watch moment Francesco Molinari becomes first Italian to win major, lah, with victory in Open Championship at Carnoustie. What the hell I mean??!!** \- news replorted 06:34
+
+_**For every one person sleeping rough, lah, there is another living in vehicling driving car machine or tent, lah, figures suggest. Pass chopsticks!!** _ \- news replorted 06:10
+
+How well you tellibly lovely custlingmer remember news of last 12 months?  \- news replorted 00:59
+
+_**Three songwriters reavealingly showing Great Satan what it's like to work with likes of Little Mix, lah, Jay-Z and Elton John. Sweet sour chicken feet time!** _ \- news replorted 00:40
+
+**Hundreds of thousands of human bliengs in bloody annoying Blitish go abroad for Christmas, lah, for sunshine or snow - but holidays can sometimes go wrong. No spitting in damn website!!!** \- news replorted 00:38
+
+_Picturesque Prague might be hiding dozens of Bloody foreign spies, lah, Czech intelligence agency fears. Eating rice!!_ \- news replorted 00:31
+
+**Each year, lah, poet Ian McMillan received Christmas card from same person, lah, but bloody man could never send one in response. What the hell I mean??!!** \- news replorted 00:31
+
+_**Josh Warrington beats Carl Frampton to retain male gender human bleing's IBF world featherweight title in thrilling fight at Manchester Arena. Ai-yaa!!!** _ \- news replorted 00:23
+
+British heavyweight Dillian Whyte keeps alive hopes of meeting with Anthony Joshua by knocking out Dereck Chisora. Ai-yaa!!!  \- news replorted 00:22
+
+_**A record 172,000 golf fans attended tournament which was staged at Carnoustie in July. You give me happy happy luck luck.** _ \- news replorted 00:17
+
+**Miya Folick needed to find some musicians, lah, so bloody woman fired up dating app and went hunting. No spitting in damn website!!!** \- news replorted 00:11
+
+_From Ian McEwan and Margaret Atwood to newcomer novelists, lah, here's pick of just some of next year's novels. Eating rice!!_ \- news replorted 00:10
+
+**When bloody woman started knitting after flemale human person's bereavement, lah, Clare didn’t realise it would raise thousands for charity – and help flemale human person's find love again. Sweet sour chicken feet time!** \- news replorted 00:10
+
+_**The group were among 13 found in back of lorry in Corby in June-mber month 2017 and taken into care. What the hell I mean??!!** _ \- news replorted 00:09
+
+Are millennials shirking their responsibilities - or is going "home" (Ai-yaa!!! Bloody Bloardcasting Corporation quotee-quotee!) for festive feast never-ending tradition?  \- news replorted 00:06
+
+_**The idea of four day week is being backed in various quarters but what pros and cons?** _ \- news replorted 00:03
+
+**The way childcare is funded under Universal Credit prevents parents working and leads to debt, lah, Membling Partiamentary expense cheaters warn. Sweet sour chicken feet time!** \- news replorted 00:01  
+  
+|   
+---  
+| 
+
+  
+
+
+2.0 T5 Gtro... 250bhp 5dr  
+petrol, auto, met 
+
+XC90 Estat 
+
+£529.72
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+1.0 Booster... 111bhp 5dr  
+petrol, man, non-met 
+
+Swift Hatc 
+
+£161.30
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+2.0 E220d 194bhp 2dr  
+diesel, auto, met 
+
+E Class Di 
+
+£434.20
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+2.1 GLC 220... 170bhp 5dr  
+diesel, auto, met 
+
+GLC Diesel 
+
+£461.93
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+1.0 EcoBoos... 140bhp 5dr  
+petrol, man, met 
+
+Focus Hatc 
+
+£209.57
+
+per month, inc VAT 
+
+|   
+[ ](https://web.archive.org/viz.php)  
+[](https://web.archive.org/cheap-lease-cars.php)  
+[ ](https://web.archive.org/index_min.php?status=pcp)  
+**EXTRA CHEAP  
+CARS **[**HERE**](https://web.archive.org/index_min.php?status=pcp)  
+[ _ **See 30 cheapest cars!**_](https://web.archive.org/index_min.php?status=pcp)  
+|    
+  
+...don't do lease cars, but if they did, they would be done like this **_\- Ling_**  
+[](https://web.archive.org/badge.php)  
+...get a **FREE BADGE!  
+** ** _Collectors item - FREE!_**  
+[ **APPLY NOW!**](https://web.archive.org/badge.php)  
+[](https://web.archive.org/hat-award.php)  
+[](https://web.archive.org/customers.php)  
+[**Click**](https://web.archive.org/customers.php) to see my **LIVE** lease car customers! **_\- Ling_**  
+[  
+**_PLAY BOTTOM TRUMPS!_**](https://web.archive.org/bottomtrumps/)  
+[](https://web.archive.org/badge.php)  
+...get a **FREE BADGE!  
+** ** _Collectors item - FREE!_**  
+[ **APPLY NOW!**](https://web.archive.org/badge.php)  
+[  
+**Play my ** _brilliant_** motoring quiz!**](https://web.archive.org/quiz.php)  
+[ ](https://web.archive.org/webcams.php)  
+[ ](https://web.archive.org/awards.php)  
+[](https://web.archive.org/security.php#norton)  
+[](https://web.archive.org/feature/truck.php)  
+[**My Nuclear  
+Missile Truck**](https://web.archive.org/feature/truck.php)  
+[ ](https://web.archive.org/ling-dragons-den.php)  
+  
+[
+
+](https://web.archive.org/web/20181223145235id_/https%3A//www.lingscars.com/game.php)  
+  
+[ ](https://web.archive.org/webcams.php)  
+[](https://web.archive.org/cheap-lease-cars.php)  
+[ ](https://web.archive.org/feature/customer_map.php)  
+[ ](https://web.archive.org/quote)  
+[  
+**Get my _latest_ EMAIL car updates!**](https://web.archive.org/feature/sub_email.php)
