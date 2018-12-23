@@ -1,94 +1,144 @@
-> *The following text is extracted and transformed from the metronews.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013733id_/http%3A//www.metronews.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metronews.ca privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223025515id_/http%3A//notices.torstar.com/privacy-policy/index.html) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Torstar
 
-**Our commitment to privacy** : Free Daily News Group (operating as Metro Toronto knows that protecting the privacy and confidentiality of your personal information is important to consumers). Collection, use and disclosure of personal information by Metro Toronto and its affiliates are governed by the _Personal Information Protection and Electronic Documents Act_ (the “Act”), and any applicable provincial legislation. This Privacy Code explains what personal information is collected from its customers and how it is used. It also explains how you can ask questions, make suggestions, and complain about our privacy practices. This Privacy Code applies to personal information (see below) collected by Metro Toronto including its websites. Be aware that our websites may contain links to other websites provided and maintained exclusively by third parties not subject to this Privacy Code. Please review the privacy policies on any external websites to determine their information handling practices.
+[Voir en français](https://web.archive.org/politique-de-confidentialite)
 
-This Privacy Code is available to the public in electronic form at www.metronews.ca and in paper form from Metro Toronto, 1 Concorde Gate, Toronto, M3C 3N6. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability.
+### OUR COMMITMENT TO ACCOUNTABLE PRIVACY PRACTICES
 
-**Please read this Privacy Code carefully, and check back periodically as we update it from time to time. By submitting your personal information to Metro Toronto, you signify your agreement to the terms and conditions of this Privacy Code.**
+We are a progressive media company with a long, proud history in newspapers and a passion for embracing the opportunities created by the rapidly evolving world of digital and mobile media. This is the main privacy policy for the Torstar Companies and covers all related websites, applications and services that do not have a separate policy. A reference to “we”, “us” or “our” is a reference to the Torstar Companies.
 
-**What is personal information?** Personal information is any information about an identifiable individual. Personal information does not include the name, title, business address or telephone number of an employee of an organization. Information used solely for journalistic purposes is exempted from the Act.
+Our visitors and customers have different privacy concerns. This policy provides a snapshot of our personal information practices so that you may easily understand what information we collect and why, as well as how to access and update or correct your personal information. If you are interested, drop down menus contain more information.
 
-Metro Toronto is responsible for personal information under its control. Our employees are informed about the importance of privacy and receive periodic information to update them about our Privacy Code and related policies.
+We may change this policy from time to time. If you continue to use our products and services after we make changes, you are consenting to the updated policy. If the changes are significant, we will provide you with notice and archive prior versions.
 
-**Children:** If you are under 18, be sure to obtain your parent or guardian's permission before you send any personal information to us, or anyone else, over the Internet. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating.
+In this policy, **customized experience** means content, recommendations, advertising, and offers (including from selected third party sponsors or advertisers) that may be personalized or tailored to your interests. Our **products** and **services** include anything you purchase, register for, use or attend such as contests, newsletters, auctions, advertising, events, commenting functions, and services provided through our websites and applications. We may refer to our websites and applications as our **digital properties.**
 
-**What personal information do we collect, and why?** Metro Toronto collects personal information for specific, limited purposes. Information is collected by fair and lawful means.
+Read More
 
-  * We collect personal contact information (for example, name, address, email address and telephone numbers) if you: sign up for a newsletter; subscribe to a club; register on an online forum or website, or to attend a paid event; purchase any product from Metro Toronto are a classified advertiser or auction participant; or provide it to us when you attend a trade or consumer show. This information is used to fulfill your request and respond to your inquiries.
+We collect personal information you provide directly to us **when you purchase our products, register for, use or attend our services, donate to our charities or fill out our surveys.** We collect information we get from third parties or from you when you **visit us, call us or you use our services.** Unless the information collected or compiled is sensitive in nature, we assume your consent for all purposes set out in this policy.
 
-  * If you enter a contest or other promotion, we use your personal contact information to administer the contest or promotion including contacting, announcing and promoting prizewinners.
+Commonly Collected Personal Information | Purpose  
+---|---  
+**Contact information** such as name, address, postal code, email address, telephone number | 
 
-  * We collect purchase history and a list of promotions offered to you (‘history”), in order to gain a better understanding of your interests so that we may develop better products and services, and to determine eligibility for our products and services.
-
-  * We may also use personal contact and history information from time to time to contact you about changes, enhancements or other notices related to goods or services you requested and which Metro Toronto provides. In addition, we may use this information to send you offers or information from us, our affiliates and from selected sponsors or advertisers (“Marketing Offers”). If you do not wish to receive Marketing Offers, you may opt-out at any time by following the procedure set out in our opt-out policy (see below).
-
-  * We keep notes and special instructions on file for classified advertisers and subscribers to help us fulfill your request and provide customer service.
-
-  * We only collect credit card information if you: register on a paid website; enter a paid contest; register to attend a paid event; purchase any product from Metro Toronto; are a classified advertiser or an auction participant. This credit card information is used for the purpose of fulfilling your order.
-
-  * If you are a freelancer, or other service provider, we collect your social insurance number for tax reporting purposes and your contact information in order to pay you. We may also collect financial information from freelancers or other service providers and from advertisers (for example, banking details and credit history) to assess credit risk, sales data to prepare royalty reports and other information to help us evaluate your services.
-
-  * Purposes for the collection, use or disclosure of personal information, which are not set out in this Privacy Code, will be set out at the time of collection. You will be given a reasonable opportunity to opt-out of any additional purposes no later than the time of collection.
-
-
-
-
-We also collect certain non-personal information, like internet cookies and data for market research.
-
-We may place advertising or other links on our sites that originate from outside advertisers. If you view these ads, the advertisers may assign a cookie. Metro Toronto does not control these cookies, nor is it responsible for any marketing or other use of your name by these advertisers.
-
-  * _Market Research_ : Occasionally, we ask our customers to complete market research surveys. Survey results are aggregated and shared with our advertisers, sponsors and affiliates in a manner that does not disclose personal information.
-
-
-
-
-**To whom does Metro Toronto disclose personal information, and why?** Metro Toronto may disclose your personal information under the following circumstances:
-
-  * In order to provide you with Marketing Offers (see above), Metro Toronto may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the procedure set out in our opt-out policy (see below).
-
-  * Metro Toronto may transfer your personal information to service providers acting on its behalf in order to perform processing and other specialized services, for example, prize fulfillment of our contests, collection of overdue accounts, product delivery, or credit card processing.
-
-  * When Metro Toronto needs to disclose your personal information to unrelated parties, for example, if we find you have violated any stated terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities and other legal reasons.
-
-  * Metro Toronto may disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this Privacy Code and to use and disclose it only for the purposes for which it was collected.
-
-
-
-
-**Consent and opt-out policy.** In general, Metro Toronto seeks consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, Metro Toronto obtains your express opt-in consent to use or disclose sensitive personal information.
-
-If you do not wish to receive Marketing Offers, you may opt-out at any time by doing any of the following:
-
-  * follow the instructions at the bottom of any email Marketing Offer you receive.
-
-  * inform your telemarketer at the time you are called with a Marketing Offer.
-
-  * Call Customer Service at **416-486-4900 and** request that your personal information not be used for Marketing Offers.
-
-  * **email** Customer Service at adinfo@metronews.ca **and** request that your personal information not be used for Marketing Offers.
-
-
-
-
-We reserve the right to use and disclose your personal information without consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests.
-
-**Safeguards:** Metro Toronto maintains personal information in a combination of paper and electronic files. We take technical, contractual, administrative and physical security measures to protect your personal information.
-
-Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, or includes information such as your credit card number, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure. Materials posted to online forums such as bulletin boards or chat rooms are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other internet users.
-
-**How to access and correct your personal information.** Metro Toronto provides you with the means to access, update, edit or delete any subscriber or registration information you have provided at any time by calling. Alternatively, you may call Customer Service at 416-486-4900 **and** we will make the changes upon receipt of appropriate evidence.
-
-We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
-
-**How to challenge our privacy practices.** Metro Toronto encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning Metro Toronto Privacy Code, would like a copy, or if you have a complaint, please contact Customer Service at:
-
-1 Concorde Gate, Suite 300, Toronto, M3C 3N6  
-416-486-4900  
-[adinfo@metronews.ca](mailto:adinfo@metronews.ca)
-
-This Privacy Code was last updated on **May 2, 2004.**
+  * provide requested products and services and related non-promotional communications
+  * provide requested information, rewards points and receipts
+  * verify delivery
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
 
   
-<< Back
+**Transaction information** relating to products and services purchased or used and customized experience history | 
+
+  * provide requested products and services and related non-promotional communications
+  * provide requested information, rewards points and receipts
+  * verify delivery
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+
+  
+**Demographic and survey information** such as postal code, gender, marital status, birth date/year, interests, household expenditures, reasons for cancellation and other customer service information, location preferences, interests and other preferences | 
+
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+
+  
+**Social media identifiers** (such as single sign on through Facebook, Google or other social media accounts) and other information you share with us or make public via your social networking platform. You may control what information you share through the social networking sites’ privacy settings. | 
+
+  * verify your identity when you use social login so that you may access your account and use our services
+  * provide a customized experience
+  * develop better products and services
+
+  
+**Subscriber id and passwords** | 
+
+  * verify your identity so that you may access your account and use services
+
+  
+**Credit card, PayPal or banking information and transaction ID** | 
+
+  * to complete a sale or donation
+  * to process refunds and apply credit
+  * to track your purchase history in PayPal or other payment processor
+
+  
+**Audio or video recordings** if you call us or come to our offices or events | 
+
+  * to create a record of our interaction
+  * for security, training and quality assurance purposes
+
+  
+**Usage data, including content and advertisements viewed** on our digital properties, search history, content you share, products and services you download, purchase or subscribe for, language preference, transaction history, time spent and other digital information through cookies, pixel tags, web beacons, and other technologies. We also collect information about the site you came from before visiting our digital properties and the site you go to next. | 
+
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+  * advertising delivery verification
+
+  
+**Your device and location.** We collect information about your device such as IP address, browser type, device type, unique device identifiers and operating system. We also collect information about your location, if enabled on your device or derived from your IP address. | 
+
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+
+  
+**User-generated content and public activities** such as comments on online forums, public user profiles you generate and classified listings you create. **This information is considered public and is subject to the applicable terms of use.** | 
+
+  * promote our products and services
+  * provide a customized experience
+  * develop better products and services
+
+  
+  
+Read More
+
+We may share your personal information within the Torstar Companies, our charities and our affiliates. We combine information internally across different Torstar Companies, products and services and may further combine information with demographic information, publicly available records and other third party information sources and may use this information to provide you with a customized experience and to develop and promote our products and services. We may be able to identify you by location and across different digital properties and devices using cookies, web beacons and other technologies and derive information based on our records. We may assign you a unique customer identification number. Personal information is not shared outside of the Torstar Companies unless:
+
+  * You have **consented**.
+  * We are permitted or required to do so by **law**.
+  * We have engaged an **authorized service provider** to carry out services on our behalf. Personal information may be transferred outside of your province and/or outside of Canada for processing or storage. Read more
+  * We are required to share the information with **merchants** from whom you have purchased something or registered for something to allow them to provide the products or services to the correct individuals and to allow them to keep track of what they have provided. Read more
+
+
+
+
+We have in place **measures to keep personal information we collect secure** , which may include:
+
+  * **Limiting** the number of people who view or process personal information
+  * **Locking** and restricting access to paper files
+  * Using appropriate methods to **secure electronic files** , including computer passwords, firewalls and encryption.
+
+
+
+Once we no longer require your personal information for purposes you have consented to, we securely dispose of it.
+
+Read More
+
+You may **access and update your personal information** and use of products and services provided by the Torstar Companies by:
+
+  * updating your account information for the relevant product or service;
+  * updating your preferences if a customer preference option is provided by the relevant product or service;
+  * **Google Analytics:** you may opt-out of data analytics services provided by Google by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and installing the add-on for your browser;
+  * **Offers and advertising:** you may opt-out of direct offers and advertisements by following the instructions at the bottom of the email or speaking with any telemarketer; 
+  * You may opt-out of online behavioural advertising where applicable by clicking the  icon on ads appearing on our websites or by visiting <http://youradchoices.ca/choices/> and <https://networkadvertising.org/understanding-online-advertising/what-are-my-options>. More information about online behavioural advertising is here.
+  * Contact customer service for the relevant product or service by telephone or email. We will be happy to help you update your information or address any concerns you may have.
+
+
+
+If you have questions or concerns that have not been resolved to your satisfaction by customer service, you may contact Torstar’s Chief Privacy Officer in writing at:
+
+Chief Privacy Officer  
+Torstar Corporation  
+One Yonge Street, 5th floor  
+Toronto ON  
+M5E 1E6  
+[CPO@torstar.ca](mailto:CPO@torstar.ca)
+
+Read More
+
+This Privacy Policy is effective as of December 14, 2017.
