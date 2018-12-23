@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdtracks.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503135521id_/http%3A//www.hdtracks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdtracks.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223180426id_/http%3A//www.hdtracks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HDtracks - The World's Greatest-Sounding Music Downloads
 
