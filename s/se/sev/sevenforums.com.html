@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sevenforums.com privacy policy that was archived on 2018-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614192000id_/https%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sevenforums.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223215759id_/https%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Windows 7 Help Forums</title>
@@ -24,7 +24,7 @@
 * vBulletin 3.8.10 Release Candidate 2 CSS
 * Style: 'SF [default]'; Style ID: 178
 */
-@import url("clientscript/vbulletin_css/style-8767d7e5-00178.css");
+@import url("clientscript/vbulletin_css/style-0855a281-00178.css");
 </style>
 <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=388">
 
@@ -48,7 +48,7 @@ var vb_disable_ajax = parseInt("0", 10);
 // -->
 </script>
 <script type="text/javascript" src="clientscript/vbulletin_global.js?v=388"></script>
-
+<script type="text/javascript" src="clientscript/vbulletin_menu.js?v=388"></script>
 
 
 
@@ -56,7 +56,6 @@ var vb_disable_ajax = parseInt("0", 10);
 
 	<link rel="alternate" type="application/rss+xml" title="Windows 7 Help Forums RSS Feed" href="external.php?type=RSS2">
 	
-
 
 
 
@@ -307,6 +306,89 @@ list-style-type:none;
 
 
 
+
+<!-- login form -->
+	<div class="vbmenu_popup" id="userlogin_menu" style="display:none">
+		<form action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=388"></script>
+		<table cellpadding="0" cellspacing="3" border="0">
+		<tbody><tr>
+			<td class="smallfont"><label for="navbar_username">User Name</label></td>
+			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td>
+			<td class="smallfont" colspan="2" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label></td>
+		</tr>
+		<tr>
+			<td class="smallfont"><label for="navbar_password">Password</label></td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102"></td>
+			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
+		</tr>
+		</tbody></table>
+		<input type="hidden" name="s" value="">
+		<input type="hidden" name="do" value="login">		
+		<input type="hidden" name="vb_login_md5password">
+		<input type="hidden" name="vb_login_md5password_utf">
+		</form>
+                </div>
+		<!-- / login form -->
+<!-- NAVBAR POPUP MENUS -->
+
+	
+	<!-- header quick search form -->
+	<div class="vbmenu_popup" id="navbar_search_menu" style="display:none" align="left">
+		<table cellpadding="4" cellspacing="1" border="0">
+
+		<tbody><tr>
+			<td class="thead">Advanced Search</td>
+		</tr>
+		<tr>
+			<td class="vbmenu_option" title="nohilite">
+				<form action="search.php?do=process" method="post">
+
+					<input type="hidden" name="do" value="process">
+					<input type="hidden" name="quicksearch" value="1">
+					<input type="hidden" name="childforums" value="1">
+					<input type="hidden" name="exactname" value="1">
+					<input type="hidden" name="s" value="">
+					<input type="hidden" name="securitytoken" value="guest">
+					<div><input type="text" class="bginput" name="query" size="25" tabindex="1001"><input type="submit" class="button" value="Go" tabindex="1004"></div>
+					<div style="margin-top:6px">
+						<label for="rb_nb_sp0"><input type="radio" name="showposts" value="0" id="rb_nb_sp0" tabindex="1002" checked="checked">Show Threads</label>
+						&nbsp;
+						<label for="rb_nb_sp1"><input type="radio" name="showposts" value="1" id="rb_nb_sp1" tabindex="1003">Show Posts</label>
+					</div>
+				</form>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="vbmenu_option"><a href="search.php" accesskey="4" rel="nofollow">Advanced Search</a></td>
+		</tr>
+		
+		</tbody></table>
+	</div>
+	<!-- / header quick search form -->
+	
+
+	
+<!-- / NAVBAR POPUP MENUS -->
+
+<!-- PAGENAV POPUP -->
+	<div class="vbmenu_popup" id="pagenav_menu" style="display:none">
+		<table cellpadding="4" cellspacing="1" border="0">
+		<tbody><tr>
+			<td class="thead" nowrap="nowrap">Go to Page...</td>
+		</tr>
+		<tr>
+			<td class="vbmenu_option" title="nohilite">
+			<form action="index.php" method="get" onsubmit="return this.gotopage()" id="pagenav_form">
+				<input type="text" class="bginput" id="pagenav_itxt" style="font-size:11px" size="4">
+				<input type="button" class="button" id="pagenav_ibtn" value="Go">
+			</form>
+			</td>
+		</tr>
+		</tbody></table>
+	</div>
+<!-- / PAGENAV POPUP -->
 
 
 
@@ -666,15 +748,14 @@ sponsored, or otherwise approved by Microsoft Corporation.
 <a href="http://www.designermedia.com/">© Designer Media Ltd</a>
  
   </div> 
-<div class="smallfont" align="left"><br>All times are GMT -5. The time now is <span class="time">14:20</span>.</div>   
+<div class="smallfont" align="left"><br>All times are GMT -5. The time now is <span class="time">16:58</span>.</div>   
    
 </td>
 <td valign="top" width="15%" style="padding-left:5px;padding-right:5px;">
 <a href="https://twitter.com/sevenforums" target="_blank"><img width="28" height="28" border="0" alt="Twitter" src="img/social/social_twitter.png" title="Twitter"></a>
             <a href="http://www.facebook.com/sevenforums" target="_blank"><img width="28" height="28" border="0" alt="Facebook" src="img/social/social_fb.png" title="Facebook"></a>
             <a href="https://plus.google.com/+Sevenforums010" target="_blank"><img width="28" height="28" border="0" alt="Google+" src="img/gplus.png" title="Google+"></a>
-<a href="https://itunes.apple.com/us/app/seven-forums/id492006177?ls=1&amp;mt=8" target="_blank"><img width="28" height="28" border="0" alt="Seven Forums iOS App" src="img/appstore.png" title="Seven Forums iOS App"></a>
-<a href="https://play.google.com/store/apps/details?id=com.tapatalk.sevenforumscom" target="_blank"><img width="28" height="28" border="0" alt="Seven Forums Android App" src="img/gplay.png" title="Seven Forums Android App"></a>
+
         <br><br>
 
 
