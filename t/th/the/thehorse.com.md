@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623075725id_/https%3A//thehorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223204203id_/https%3A//thehorse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Horse
 
 ##### _(Effective & Last Modified February 1, 2014)_
 
-**PLEASE NOTE:** Our Privacy Policy has changed effective February 1, 2014. If you submitted personally identifiable information to this date, and wish to opt-out of having that previously submitted information from being treated under this new policy, please contact us at [admin@TheHorse.com](mailto:admin@TheHorse.com).
+ **PLEASE NOTE:** Our Privacy Policy has changed effective February 1, 2014. If you submitted personally identifiable information to this date, and wish to opt-out of having that previously submitted information from being treated under this new policy, please contact us at [admin@TheHorse.com](mailto:admin@TheHorse.com).
 
 Welcome to TheHorse.com (“Website”), an interactive online service operated by The Horse Media Group LLC (“us”, “we”, or “our”).
 
@@ -74,11 +74,11 @@ Our Website may link to or contain links to other third party websites that we d
 
 You may contact us as provided below if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
-**Email:** [admin@TheHorse.com](mailto:admin@TheHorse.com)
+ **Email:** [admin@TheHorse.com](mailto:admin@TheHorse.com)
 
-**Phone:** 1-800-582-5604
+ **Phone:** 1-800-582-5604
 
-**Mail:** THE HORSE
+ **Mail:** THE HORSE
 
 PO Box 919003
 
