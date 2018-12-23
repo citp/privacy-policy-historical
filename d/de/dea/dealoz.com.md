@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealoz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091443id_/http%3A//dealoz.com/price/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealoz.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223010857id_/https%3A//dealoz.com/price/privacy) for the most accurate reproduction.*
 
 # DealOz.com Privacy Policy
 
@@ -17,7 +17,7 @@ DealOz.com has agreed to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should contact our Privacy Department at Contact Us. 
+If you feel that this company is not abiding by its posted privacy policy, you should contact our Privacy Department at [Contact Us](https://web.archive.org/price/user/create_ticket?prev=https%3A%2F%2Fdealoz.com%2Fprice%2Fprivacy). 
 
 **Information Collection and Use**
 
@@ -71,7 +71,7 @@ When our registration form asks users to enter sensitive information (such as yo
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our web site, you can send an email to Contact Us. 
+If you have any questions about the security at our web site, you can send an email to [Contact Us](https://web.archive.org/price/user/create_ticket?prev=https%3A%2F%2Fdealoz.com%2Fprice%2Fprivacy). 
 
 **Supplementation of Information**
 
@@ -79,7 +79,7 @@ DealOz.com does not supplement any information we receive from our users with an
 
 **Communication/Special Offers**
 
-We send all new members a welcoming email to verify password and username. From time to time the established users may receive information from DealOz.com which the users may find interesting or useful. If a user does not wish to receive this type of information they may unsubscribe from such communications by writing us at Contact Us. 
+We send all new members a welcoming email to verify password and username. From time to time the established users may receive information from DealOz.com which the users may find interesting or useful. If a user does not wish to receive this type of information they may unsubscribe from such communications by writing us at [Contact Us](https://web.archive.org/price/user/create_ticket?prev=https%3A%2F%2Fdealoz.com%2Fprice%2Fprivacy). 
 
 **Site and Service Updates**
 
@@ -87,7 +87,7 @@ We also send our users site and service announcement updates. Members are not ab
 
 **Correct/Update/Delete Personal Information**
 
-If a user personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user personal data provided to us. This can be done by clicking on the "My Account" link at the bottom of the website or by visiting [https://www.dealoz.com/price/user/profile](https://web.archive.org/price/user/profile) or by emailing our Customer Support at Contact Us. 
+If a user personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user personal data provided to us. This can be done by clicking on the "My Account" link at the bottom of the website or by visiting [https://www.dealoz.com/price/user/profile](https://web.archive.org/price/user/profile) or by emailing our Customer Support at [Contact Us](https://web.archive.org/price/user/create_ticket?prev=https%3A%2F%2Fdealoz.com%2Fprice%2Fprivacy). 
 
 **Notification of Changes**
 
