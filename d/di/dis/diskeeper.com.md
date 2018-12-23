@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619172344id_/http%3A//www.condusiv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223111030id_/http%3A//www.condusiv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Condusiv Technologies
 
@@ -80,7 +80,7 @@ Cookies enable us to identify your device. We use cookies that are strictly nece
 
 Like many websites, we do not currently respond to “do not track” browser headers. But with most internet browsers, you can take steps to limit the use of cookies. If you do not want us to use cookies in your browser, you can remove cookies from your computer's hard drive, or set your browser to block cookies or to send a warning notice before a cookie is stored on your computer. However, please note that you may not be able to use many of the services on our website or other websites without cookies. 
 
-More detailed information on cookies can be found at [www.allaboutcookies.org](https://web.archive.org/web/20180619172344id_/http%3A//www.condusiv.com/www.allaboutcookies.org). 
+More detailed information on cookies can be found at [www.allaboutcookies.org](https://web.archive.org/web/20181223111030id_/http%3A//www.condusiv.com/www.allaboutcookies.org). 
 
 ### 3\. The legal basis for processing your Personal Data
 
