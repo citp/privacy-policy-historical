@@ -1,83 +1,64 @@
-> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522035547id_/http%3A//www.lawsociety.org.uk/about-the-website/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223180741id_/http%3A//www.lawsociety.org.uk/about-the-website/privacy-policy) for the most accurate reproduction.*
 
-# Privacy statement - The Law Society
+# Privacy policy - The Law Society
 
-This policy (together with our [Conditions of use](http://www.lawsociety.org.uk/legal-notice) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+You have a number of rights in relation to your personal information under data protection law. In relation to certain rights, we may ask you for information to confirm your identity and, where applicable, to help us to search for your personal information.
 
-Use of this website by you constitutes acceptance by you of this privacy policy ("Privacy Policy"). If you do not wish to accept this Privacy Policy, please leave this website immediately.
+Except in rare cases where additional time may be required, we will respond to you within one month from either (i) the date that we have confirmed your identity, or (ii) where we do not need to do this because we already have this information, from the date we received your request.
 
-## Purpose
+### Accessing your personal information
 
-The purpose of this Privacy Policy is:
+Under data protection laws you have a legal right to ask to see a copy of the personal information that we hold about you. Such requests are called **subject access requests**.
 
-  * to assure you that we recognise and fully respect the privacy and personal data of the visitors to this website; and
-  * to explain what personal information we collect from this website and how we ensure its best protection.
+If you would like to make a subject access request, please complete the [subject access request form](https://web.archive.org/about-us/documents/subject-access-request-form) (PDF, 320kb).
 
+You will also need to provide one form of identification and proof of your address, for example, staff pass, driving licence, utility bill, and if appropriate, any particulars about the source or location of the information you are requesting.
 
+Please return completed forms to:
 
-This Privacy Policy governs this website at [www.lawsociety.org.uk](http://www.lawsociety.org.uk/) (referred to in this Privacy Policy as the "Website"). Other sites to which the Website may be linked are not covered by this Privacy Policy.
+Information Compliance Manager  
+The Law Society  
+113 Chancery Lane  
+London WC2A 1PL 
 
-This Privacy Policy covers only information which is collected by the Law Society from the Website. It does not cover information which the Law Society holds about solicitors and other regulated persons in pursuance of its statutory functions and duties under the Solicitors Act 1974. For details about regulatory data contact the Solicitors Regulation Authority.
+Or via email to [informationcompliance@lawsociety.org.uk](mailto:informationcompliance@lawsociety.org.uk)
 
-## Data protection
+Further information about subject access requests can be found on the Information Commissioner's website [https://ico.org.uk](https://ico.org.uk/)
 
-The Law Society complies with the Data Protection Act 1998 (the "Act"). For the purposes of the Act, The Law Society is the data controller and sole owner of the personal data collected on the Website.
+We may not provide you with a copy of your personal information if this concerns other individuals or if we have another lawful reason to withhold that information.
 
-The Law Society does not sell, share or transfer this information except as set out in this Privacy Policy.
+### Correcting and updating your personal information
 
-We use up-to-date industry procedures to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+The accuracy of your information is important to us and we are working on ways to make it easier for you to review and correct the information that we hold about you.
 
-The Act gives you the right to access details that we hold about you. Your right of access can be exercised in accordance with the Act. A small fee may be payable in respect of any access request.
+In the meantime, if you change your name or address/email address, or you discover that any of the other information we hold is inaccurate or out of date, please let us know by contacting us in any of the ways described at the end of this policy or by updating your details on My Law Society.
 
-For more information please refer to our [Data Protection Policy](http://www.lawsociety.org.uk/get-in-touch/data-protection).
+### Withdrawing your consent
 
-## Information we may collect from you
+Where we rely on your consent as the legal basis for processing your personal information, as set out under section 4 on how we use your personal information, you may withdraw your consent at any time by contacting us using the details at the end of this policy.
 
-It is not necessary for you to register with us in order to access the Website. However we may collect some information from interactive features such as online surveys, contact and registration forms. The basic personal information about you which we may collect and process is:
+If you would like to withdraw your consent or object to receiving any direct marketing to which you previously opted-in, you can do so using the unsubscribe tool in that communication (if it is an email), or by writing to us or calling us using the contact details at the end of this policy. If you withdraw your consent, our use of your personal information before you withdraw is still lawful.
 
-  * your name
-  * your user type (eg solicitor, trainee solicitor, law student, member of the public)
-  * your e-mail address
-  * your user ID and password.
+If you have provided consent for your details to be shared with a third party, and wish to withdraw this consent, please also contact the relevant third party in order to amend your preferences.
 
+### Objecting to our use of your personal information and automated decisions made about you
 
+Where we rely on our legitimate business interests as the legal basis for processing your personal information for any purpose(s), as outlined under section 4 on how we use your personal information, you may object to us using your personal information for these purposes by emailing or writing to us at the address at the end of this policy. Except for the purposes for which we are sure we can continue to process your personal information, we will temporarily stop processing your personal information in line with your objection until we have investigated the matter. If we agree that your objection is justified in accordance with your rights under data protection laws, we will permanently stop using your data for those purposes. Otherwise we will provide you with our justification as to why we need to continue using your data.
 
-Depending on what you are registering for, additional information may be collected from you.  
-We may also collect and process information provided by you at the time of posting material to the Website, as well as details of your visit to the Website (including, but not limited to, traffic data, location data, weblogs and other communication data), and the resources that you use. Further, if you contact us, we may also keep a record of that correspondence.
+You may object to us using your personal information for direct marketing purposes and we will automatically comply with your request. If you would like to do so, please email or write to us at the address at the end of this policy.
 
-## Uses made of the information
+### Erasing your personal information or restricting its processing
 
-We may use information held about you in the following ways:
+In certain circumstances, you may ask for your personal information to be removed from our systems by emailing or writing to us at the address at the end of this policy. Unless there is a reason that the law allows us to use your personal information for longer, we will make reasonable efforts to comply with your request.
 
-  * to ensure that content from the Website is presented in the most effective manner for you and for your computer
-  * to allow you to participate in interactive features of our service, when you choose to do so, and
-  * to notify you about changes to our service.
-  * We may also use your data for the purposes of advertising, marketing and public relations, so as to provide you with information about goods and services which may be of interest to you.
+You may also ask us to restrict processing your personal information where you believe it is unlawful for us to do so, you have objected to its use and our investigation is pending or you require us to keep it in connection with legal proceedings. In these situations we may only process your personal information whilst its processing is restricted if we have your consent or are legally permitted to do so, for example for storage purposes, to protect the rights of another individual or company or in connection with legal proceedings.
 
+### Transferring your personal information in a structured data file ('data portability')
 
+Where we rely on your consent as the legal basis for processing your personal information or need to process it in connection with a contract we've entered into with you, as set out under section 4 on how we use your personal information, you may ask us to provide you with a copy of that information in a structured data file. We will provide this to you electronically in a structured, commonly used and machine readable form, such as a CSV file.
 
-If you do not want us to use your data in this way, please update your details at My Law Society or by contacting us at [the supportcentre@lawsociety.org.uk](mailto:TheSupportCentre@LawSociety.org.uk).
+You can ask us to send your personal information directly to another service provider, and we will do so if this is technically possible. We may not provide you with a copy of your personal information if this concerns other individuals or we have another lawful reason to withhold that information.
 
-## Cookies
+### Complaining to the UK data protection regulator
 
-Please see our separate page on [cookies](http://www.lawsociety.org.uk/About-The-Website/Cookies/ "cookies").
-
-## Changing the information we hold about you
-
-If you would like to change any information we hold about you that has been collected via use of this Website or want to it to be removed from our database, you should contact us at [TheSupportCentre@LawSociety.org.uk](mailto:TheSupportCentre@LawSociety.org.uk).
-
-## Third Parties
-
-We may forward the information collected about you to selected third parties who may use it for marketing purposes, and for providing the services you order from them. You can exercise your right to prevent us sharing your data with these third parties at any time by changing your mailing preferences in [My Law Society](https://www.lawsociety.org.uk/log-in) or by contacting us at [TheSupportCentre@LawSociety.org.uk](mailto:TheSupportCentre@LawSociety.org.uk). We may also disclose information we have collected about you to third parties where required to do so by law or in order to enforce or apply our Conditions of use.
-
-## Consent
-
-By using the Website, you consent to the collection and use of your personal information in the manner set out above.
-
-The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-## Changes to Privacy Policy
-
-The internet and data privacy best practice are both developing. We therefore reserve the right to revise this Privacy Policy at any time. If this Privacy Policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [TheSupportCentre@LawSociety.org.uk](mailto:TheSupportCentre@LawSociety.org.uk).
+We'd like to be able to resolve all your concerns, and we hope that we can do so. Where we haven't been able to do this, you have the right to complain to the Information Commissioner's Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO's website for further details: [https://ico.org.uk](https://ico.org.uk/).
