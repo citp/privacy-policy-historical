@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlespicejar.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623170538id_/http%3A//littlespicejar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlespicejar.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223210538id_/http%3A//littlespicejar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Little Spice Jar
 
