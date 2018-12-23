@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsbe.gov privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624122301id_/http%3A//www.ncsbe.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsbe.gov privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223145733id_/https%3A//www.ncsbe.gov/Privacy) for the most accurate reproduction.*
 
 # Home Page
 
@@ -44,4 +44,4 @@ NCSBE will occasionally update this Statement of Privacy to reflect company and 
 
 Contact Information
 
-NCSBE welcomes your comments regarding this Statement of Privacy. If you believe that NCSBE has not adhered to this Statement, please contact NCSBE at [ncsbe.Service@ncsbe.gov](mailto:ncsbe.Service@ncsbe.gov). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+NCSBE welcomes your comments regarding this Statement of Privacy. If you believe that NCSBE has not adhered to this Statement, please contact NCSBE at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0ded3c3d2d59ee3d5c2c6d9d3d5f0ded3c3d2d59ed7dfc6). We will use commercially reasonable efforts to promptly determine and remedy the problem.
