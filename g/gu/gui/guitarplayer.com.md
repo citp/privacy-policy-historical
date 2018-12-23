@@ -1,219 +1,200 @@
-> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626080652id_/http%3A//www.newbaymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223053005id_/https%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
-# NewBay Media Privacy Policy | NewBay Media
+# Privacy Policy - Future
 
-Last Updated: September 26, 2016.
+(Updated May 2018)
 
-### [EUROPEAN RESIDENTS PLEASE REFER TO OUR EUROPEAN PRIVACY POLICY](http://www.newbaymedia.com/euro-privacy-policy/)
+**Introduction**
 
-We are pleased that you have elected to visit the websites, mobile-optimized versions of the websites, and digital applications to which this Privacy Policy applies and which are operated by, or on behalf of, NewBay Media LLC and its Affiliates (collectively, “NewBay,” “us” and “we”). To see a list of the websites and applications to which this Policy is linked (collectively, the “Websites” or the “Sites”), you can click here: <http://www.newbaymedia.com/privacy-policy-site-list/>
+This policy covers the processing of personal data by Future plc, whose registered address is at Quay House, The Ambury, Bath, BA1 1UA, and its associated group companies (“ **Future** ”, “ **we** ” or “ **us** ”). Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone.
 
-NewBay respects privacy rights, and is committed to safeguarding the Personal Information entrusted to us by our clients and visitors to our Sites.  NewBay has implemented this Privacy Policy to govern the use of Personal Information that we collect through the Websites, including Personal Information you send to us. This Privacy Policy does not govern Personal Information collected from any other source or in any other manner.  This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how the collected information is used and with whom it is shared; (iii) how we intend to protect the information; and (iv) how you can access such information and have it modified and/or removed.
+Under the General Data Protection Regulation (GDPR) and related laws, we have a legal duty to protect the personal information we collect from you. GDPR says that ‘personal data’ is any information relating to a living individual who can be identified, either directly or indirectly, from that information. This could include your name, email address, postal address or telephone number, or information collected online and used to identify you.
 
-This Privacy Policy may be changed from time to time, and we reserve the right to make changes without prior individual notice. Such changes are effective upon publication of the revised Privacy Policy. Please review this Privacy Policy often so that you will remain abreast of NewBay’s current policies, including its policies concerning the gathering and use of information that may be collected on our Sites. You are responsible for making sure you are aware of the provisions of NewBay’s most current Privacy Policy.  You can tell when the Privacy Policy was last modified by checking the “updated” date.
+For the purposes of GDPR, the ‘Data Controller’ for all Future services based in the UK is Future Publishing Limited. For all services based in the United States, the Data Controller is Future US, Inc, and in Australia it is Future Publishing (Overseas) Limited. As Data Controller we are responsible for, and control, the processing of your personal data for the purposes of Future’s services.  
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any comments, concerns or questions, including any requests to exercise your legal rights, you can contact our DPO.
 
-The Privacy Policy is incorporated by reference in and made a part of our Terms and Conditions of Use of the Sites, and explains how users’ information and data is collected and used.
+**We encourage you to read this policy in full but please click on the links below for a shortcut to the following sections:**  
+Contact details  
+What data do we collect and how do we use it?  
+What lawful bases do we rely on for processing?  
+Who may we share your data with?  
+What data is collected on our websites?  
+Links to other websites  
+Storage and retention of data  
+Security  
+Protecting children’s privacy  
+Your rights  
+Policy changes  
+Further information
 
-  * **Your California Privacy Rights**
-  * **Collection and Use of Information**
-    * **Personal Information**
+**Contact details**
 
+Future’s Data Protection Officer can be contacted:  
+By email: DPO@futurenet.com  
+By telephone: +44 (0)1225 442244  
+By post: Data Protection Enquiries, Future Publishing Limited, Quay House, The Ambury, Bath, BA1 1UA
 
-  * **IP Address**
-  * **Location Information**
-  * **Social Networks**
-  * **Other Information**
-  * **Your Consent**
+**What data do we collect and how do we use it?**
 
+**Information you provide to us** | When you participate in, access, purchase or sign up to any of our services, activities or online content, such as magazine subscriptions, newsletters, surveys, competitions or events, we receive personal information about you which we use to provide these services. This may consist of data such as your name, email address, postal address and telephone number. You will be able to select how we use your information for marketing purposes and you can update your marketing preferences at any time.  
+---|---  
+**Ordering a product  
+or service from us** | If you order a product or service from us, you will need to provide certain personal details, including payment information, so the order can be fulfilled. In some cases, we will use or direct you to a third party which will collect this information from you and fulfill your order. For example, if you order a subscription to our publications, you may be able to access those products through a digital newsstand such as Apple Newsstand.  
+**Attending an event** | If you attend one of our events, awards or conferences we may receive personal information about you, including your name and contact details and any dietary and accessibility requirements.  
+**Content you share with us** | When you choose to share comments, photos, videos and other content with, us we may receive personal information about you.  
+**Information  
+collected online** | We may collect information about how you use our websites or other content online, and the device you use to access the services. Please see **What data is collected on our websites?** and our [Cookies Policy](https://www.futureplc.com/cookies-policy) for further details about how we use this data and information on opting out.  
+ 
 
-    * **Use of Your Personal Information**
+**eCommerce**
 
+| Some of our websites contain links to products and services offered by third party websites. If you click on those links we will use data collected about your activity on our site to direct you to the third party site. We and the third party may collect data to show us that you have clicked on the link and whether you purchased any products and services. We may receive a commission from the third party if you link to their site from a Future site and purchase goods and services from them.   
+**Email communications** | We use web beacons in our emails to track the success of our marketing campaigns. If you open an email from us, we can see which of the pages of our website you visited. Our web beacons don’t store any information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened an email from us. We may keep track of the emails that we send you. We also keep a record of what communications you have selected to receive or not to receive. If you would like to opt out of receiving such emails you can unsubscribe at any time or contact our DPO.  
+**Information from other sources** | We may receive information about you from other sources (for example, missing information about your postal or email addresses) and add it to the personal information we hold about you. We may also receive data from other sources, such as our business partners, and social media platforms.  
+  
+**What lawful bases do we rely on for processing?**
 
-      * **Opting In and Opting Out of Electronic Communications**
-      * **Do Not Track Signals**
-      * **Use of Your Personal Information within NewBay**
-      * **Use of Your Personal Information by our Service Providers **
-      * **If NewBay changes ownership**
-      * **Lawful access, legal action and investigations**
+In order to process your personal data, we must have a lawful reason for doing so. GDPR sets out six lawful bases under which organisations can collect, use and store personal data. We rely on four of the lawful bases:
 
+Necessary for the performance of a contract  
+If you are our customer, for example a subscriber of a magazine or an attendee at one of our events, we will process your personal data on the basis that it is necessary for us to provide our products and services to you.
 
-    * **Use of Cookies, Google Analytics, Chart Beat and Yahoo Analytics**
+Consent  
+In some instances we rely on your specific consent to process your personal information. This is where you have actively agreed and ‘opted-in’, for example to receive marketing communications from us, and you have the right to withdraw your consent at any time.
 
+Compliance with laws  
+We may have to process and share your personal data in order to comply with our legal obligations, or to protect our rights or the rights of others. For example, we are required to collect certain information from you when processing your subscription payment for tax or financial reporting reasons.
 
-  * **Disclosure of Information to Non-Affiliated Third Parties**
+Legitimate interests  
+In some situations we rely on our legitimate business interests in order to collect and use your personal data. In these situations, we have conducted a balancing test to carefully consider the impact of the processing on your interests, rights and freedoms. We will only undertake the processing if we are satisfied there is no negative impact on you. We rely on Legitimate Interests for the following activities:
 
+  * providing, maintaining, improving and developing our products and services;
+  * sending direct marketing communications about our products and services to customers;
+  * sending marketing communications related to the products and services of carefully selected companies in a business-to-business context;
+  * managing suppression and unsubscribe requests;
+  * researching publicly available business contact details;
 
-  * **Retention of Personal Information**
-  * **Your Privacy Choices – Limiting Information Sharing/Accessing Your Information**
-  * **Protection and Security of Information**
-  * **Use of the Sites by Children**
-  * **Links to Other Websites**
-  * **Governing Law**
-  * **Contact Us**
+  * managing certain aspects of our events;
+  * analysing the use of our products and services;
+  * using analytics to identify usage trends and determining the effectiveness of campaigns;
+  * allowing you to comment on on our sites;
+  * dealing with queries and complaints;
+  * personalising your experience on our sites;
+  * identifying fraudulent behaviour and ensuring our websites and systems are secure.
 
 
 
-**California Privacy Rights.**
+If you object to our reliance on Legitimate Interests for any purpose please contact our DPO.
 
-Under California law, California residents who have provided personally identifiable information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of Personal Information that had been so disclosed unless the company has a policy of not disclosing such information if the user has exercised an option to opt out of such information sharing..  NewBay gives you the right to opt out of having your Personal Information disclosed to third parties for the third parties’ direct marketing purposes. Because NewBay provides you with an opportunity to opt out of such disclosure, NewBay does not have to provide you with such lists. For the avoidance of all doubt, these opt-out options are available for all users and are not just limited to California users. If you are a California resident who would like information on how to exercise your rights concerning third party disclosures under California law, you may send an email to [CaliforniaPrivacyInfo@nbmedia.com](mailto:CaliforniaPrivacyInfo@nbmedia.com).
+**Who may we share your data with?**
 
-**Collection and Use of Information**
+Agents  
+We use third parties to perform certain functions on our behalf including fulfilling orders, sending emails, organising and managing events, running competitions and promotions, conducting surveys or polls, removing repetitive information from customer lists, comment hosting, website analysis, data analysis and processing credit card payments. They will have access to your personal information if necessary to perform their function but they cannot use it or disclose it for any other purpose, unless you have specifically given them consent to do so.
 
-**Personal Information**
+Aggregate information  
+We may share aggregated, non-personally identifiable information, such as demographics and website usage statistics, with advertisers, sponsors and other organisations.
 
-Personal Information is information that uniquely identifies you, such as your name, address, email address and telephone number.  At times, NewBay may collect your Personal Information.  For example, we collect your Personal Information if you create an account or register for portions of the Sites that may require registration, purchase a product on the Sites, enter a sweepstakes or contest, complete a survey, subscribe to our magazines or newsletters, or send us an email, and provide us with your name, address, telephone number and/or email address.  If you are purchasing goods at our Websites, you may be asked to provide certain financial information, such as credit card information to our payment processers (which will be used solely for your purchase and not retained).  We may also collect your Personal Information if you post, display and/or publish User Content on the Sites.  Additionally, when you enter any password-protected area of a Site, then the Site will recognize who you are and will collect information that you submit.  Any information collected about you from that Site may be associated with other information that NewBay has collected about you.
+Option to receive marketing information from associated third parties  
+Throughout the website you may be given the opportunity to receive marketing information which may be of interest to you from associated third parties. Only if you elect to receive such information, will we share your personal information with our associated third parties and they are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. The use of your personal information by such third parties will be subject to their own privacy policy and practices. We are not responsible for the privacy policy or practices of any such third party. If you do not want to receive marketing information from associated companies you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing our DPO at DPO@futurenet.com giving your email address and details of the information you no longer wish to receive.
 
-REMEMBER to exercise discretion and caution when you post content on the Sites – any Personal Information so posted will not be held confidentially, and it may be publicly viewable. With respect to all communications you make to or through the Sites, including but not limited to feedback, questions, comments, suggestions and the like: (i) you shall have no right to confidentiality in your communications and NewBay shall have no obligation to protect your communications from disclosure; (ii) NewBay shall be free to reproduce, use, publish, display, disclose and distribute your communications to others without limitation, in any way now known or hereafter devised; and (iii) NewBay shall be free to use any ideas, concepts, know-how, information, data content or techniques contained in your communications for any purpose whatsoever, including but not limited to the development, production and marketing of products and services that incorporate such information, without any compensation to you.
+Products or services offered in partnership with third parties  
+Certain products or services available through this website may be provided to you in partnership with a third party. That third party may require you to disclose personal information to them in order to receive such products or services. If you request a product or service offered in partnership with a third party, the identity of the third party will be disclosed to you and your personal information will be transferred to that third party. The use of your personal information by that third party is subject to its privacy policy and practices and we are not responsible for this.
 
-**_Financial Information._ **
+Group Companies  
+We only share your personal information with our group companies if you have elected to receive marketing information from them which may be of interest to you. They are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. If you do not want to receive marketing information from our group companies you can notify us and you can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive or by emailing our DPO at DPO@futurenet.com, giving your email address and details of the information you no longer wish to receive.
 
-NewBay may require billing and payment information such as credit and debit card information when you subscribe to a newsletter or magazine or purchase a product or otherwise engage in a payment transaction on the Sites. However, almost all payment transactions entered into on the Sites are processed directly by PayPal. In any instances where another third party payment processer is utilized, that payment processer will be identified when you engage in the particular transaction.  You will provide your payment information to PayPal, and PayPal’s Privacy Policy and Terms and Conditions of Use will govern use and disclosure of that information.  We encourage you to read carefully PayPal’s Privacy Policy and Terms and Conditions of Use. NewBay does not collect or store your financial information.
+Third-Party Ad Serving and Audience and Traffic Measurement Services
 
-Our payment processers process your payment for any purchases or sales made on the Sites, to protect against or identify possible fraudulent transactions, and otherwise as may be reasonably needed to manage our business in connection with your transaction.
+We may use a third-party network advertiser to serve the advertisements on this website or we may use an audience or traffic measurement service to analyse the traffic on this website. Network advertisers are third parties that display advertisements based on your visits to this website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and traffic measurement services allow us to collect traffic and behavioural information from the website by monitoring anonymous visitor activity. This website’s advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Please see **What data is collected on our websites?** and our [Cookies Policy](https://www.futureplc.com/cookies-policy) for further details and information on opting out.
 
-**IP Address**
+Auditing organisations  
+We may share your personal data with the Audit Bureau of Circulations, a third-party auditing organisation. This is so they can verify aggregated statistics about circulation and usage of our products, or review our policies, processes and procedures for compliance with relevant standards. You can view their privacy policy by following this link: [www.abc.org.uk/privacy-policy](http://www.abc.org.uk/privacy-policy)
 
-An IP (Internet Protocol) address is a number that is automatically assigned to your computer by your internet service provider when you log on. Your IP address is not linked to your Personal Information but NewBay does reserve the right to use IP addresses to identify individuals who threaten the Sites or other users or visitors.  IP addresses may also be used to help diagnose problems with the Sites and to gather broad demographic information.
+**What data is collected on our websites?**
 
-**Location Information.**
+‘Cookies’ are small data files which are sent to your computer, mobile phone or other device so that the website can remember information about your browsing activity. We use cookies on our websites for a variety of purposes:
 
-NewBay may, and may permit our advertisers to, collect your location via certain services we provide through digital applications, wireless access protocol services (“WAP Services”) or mobile phone service (“Mobile Services”). We, or the service provider, will inform you of such collection at the time you use the service. Your use of any or all of these services constitutes consent by you to collect, use, and disclose information concerning your location.
+Information storage and access  
+The storage of information, or access to information that is already stored, on your device such as advertising identifiers, device identifiers, cookies, and similar technologies.
 
-**Social Networks**
+Content selection, delivery, reporting  
+The collection of information, and combination with previously collected information, to select and deliver content for you, and to measure the delivery and effectiveness of such content. This includes using previously collected information about your interests to select content, processing data about what content was shown, how often or how long it was shown, when and where it was shown, and whether the you took any action related to the content, including for example clicking on content. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, such as websites or apps, over time.
 
-If you use your login credentials from a social networking site (e.g., Facebook or Twitter) to log in on a  NewBay  Site, we may receive information from the social networking site in accordance with the terms and conditions of that site. You can request to share your information with these social networking sites, and NewBay will share information with them in accordance with your request. However, information once disclosed to a social networking site will be subject to the terms and conditions and any other policies of such social networking site.
+Measurement  
+The collection of information about your use of the content, and combination with previously collected information, used to measure, understand, and report on your usage of the service. This does not include personalisation, the collection of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, i.e. on other service, such as websites or apps, over time.
 
-**Other Information**
+Personalisation  
+The collection and processing of information about your use of this service to subsequently personalise advertising and/or content for you in other contexts, such as on other websites or apps, over time. Typically, the content of the site or app is used to make inferences about your interests, which inform future selection of advertising and/or content.
 
-When you access the Websites, NewBay will automatically receive some information about your use of the service.  The type of information that is automatically collected by NewBay includes such things as the date and time of access of the Websites, the Internet protocol (IP) address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, the referring website address, and the specific activities you are engaged in while visiting the Sites.  This aggregate tracking information is used to help NewBay improve and enhance the website experience for all of its visitors.
+Ad selection, delivery, reporting
 
-**Your Consent**
+The collection of information, and combination with previously collected information, to select and deliver advertisements for you, and to measure the delivery and effectiveness of such advertisements. This includes using previously collected information about your interests to select ads, processing data about what advertisements were shown, how often they were shown, when and where they were shown, and whether you took any action related to the advertisement, including for example clicking an ad or making a purchase. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise advertising and/or content for you in other contexts, such as websites or apps, over time.
 
-We only collect, use and/or disclose your Personal Information with your consent. Your consent may be implied from the circumstances or may be expressly given for a particular purpose.  For example, when you submit your Personal Information to us and post to our Site you are consenting to the collection, handling, use and disclosure of your Personal Information for the purposes identified or apparent at the time of collection and as otherwise described in this Privacy Policy.
+Please see our [Cookies Policy](https://www.futureplc.com/cookies-policy/) for more information.
 
-NewBay does not knowingly collect or maintain any Personal Information from children under the age of 13, and no part of any of the Sites is designed with the purpose of attracting such children.
+**Links to other websites**
 
-**Use of Your Personal Information**
+Our websites may include links to third party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and, when you leave our website, we encourage you to read the privacy notice of every website you visit. We may monetise some of these links through the use of third party affiliate programmes. Notwithstanding such affiliate programmes, we are not responsible for the content or privacy policies of these websites or for third party advertisers, nor for the way in which they use information they collect about you.
 
-We use your Personal Information for the purposes for which it is submitted, such as to reply to your emails, an interactive chat session, and inquiries, to allow you to participate in promotions, such as contests, and to purchase products through the Sites.  Your Personal Information may also be used in the following ways:
+**Storage and retention of data**
 
-  * to deliver materials, information and services to you,
-  * to give you notice of and/or resolve any problems that may arise in connection with our services,
-  * to better understand the needs and interests of our customers,
-  * to analyze the success of our products and services and Sites,
-  * to manage the Sites’ interactive functionality,
-  * to help NewBay improve and enhance the Site experience for all of its visitors, and customize the content on our Sites,
-  * for compliance with NewBay’s legal and regulatory obligations,
-  * as otherwise reasonably required to provide customer  services and maintain the Sites,
-  * to investigate potential breaches of the Terms and Conditions of the Sites,
-  * to investigate potentially unlawful activity,
-  * for any other purpose outlined in this Privacy Policy and/or the Terms and Conditions of which this Privacy Policy is a part, and
-  * as permitted by law.
+Your information is collected and stored on our secure systems, mainly based in the UK and European Economic Area (EEA). Where we use third party service providers to store data, we have appropriate agreements in place to ensure that your personal data is protected. Your personal data may be transferred to a country outside the EEA if, for example, a supplier or service is based outside the EEA. We will take all steps reasonably necessary to ensure your data is treated securely, including ensuring the location has been granted ‘adequacy status’ by the European Commission, or using our agreement with the supplier contains model contractual clauses approved by the European Commission, or ensuring the company we are transferring the data to is certified under the EU-US Privacy Shield.
 
+We hold personal data for a variety of different purposes and the length of time we keep your data will vary depending on the services or products we are providing. We will only keep your data for a reasonable period of time, which is based on the purpose for which we are using your data. Once that purpose has been fulfilled, we will securely delete that data or anonymise your information (so that we, or anyone else, can no longer tell that data relates to you) unless we are required to retain the data longer for legal, tax or accounting reasons.
 
+**Security**
 
-We may also use your Personal Information to contact you via direct postal mail and/or electronically to the extent such activity is permitted by law, and, with your consent, regarding your relationship with NewBay. This information may also be used to help NewBay and its commercial partners deliver targeted advertisements, promotions and other initiatives to you.
+We are committed to protecting the personal data we hold. In accordance with GDPR, we adopt appropriate technical and organisational measures to help prevent unauthorised access to your information and ensure data is held securely. We also require any third parties to whom we may transfer personal data to have appropriate security measures in place. We ask third parties to complete Data Security Questionnaires so we can be sure they are a safe place for your data.
 
-**_Opting in and opting out of electronic communications_.**
+**Protecting children’s privacy**
 
-You may opt out of receiving electronic communications, such as emails, from NewBay at any time by (i) sending an e-mail directly to NewBay at privacyinfo@nbmedia.com; (ii) writing to NewBay’s corporate offices at Attenton: Privacy Info, NewBay Media, LLC, 28 E. 28th Street, 12th Floor, New York, NY 10016; or (iii) clicking on the “opt-out” or “unsubscribe” link in any electronic communication you receive.
+Our products and services are for a general audience and not aimed at children. However, we recognise that some of our publications, for example in our Knowledge and Gaming portfolios, may appeal to a younger audience. We do not knowingly collect any personal information from children under the age of sixteen or send any marketing communications to children. If we are running a competition which might be of interest to children, our competition rules specify that a parent or guardian must consent to entry. If, in the future, we collect personally identifiable information from children in connection with our products and services, we will do so in compliance with all relevant laws and regulations including, without limitation, obtaining parental consent where necessary. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit <https://www.google.co.uk/intl/en/safetycenter/families/start/> for more information about keeping your family safe online. If you are a parent or guardian and are concerned that we may be processing personal data related to your child, please contact our DPO.
 
-**_Do Not Track Signals_.**
+**Your rights**
 
-Certain web browsers provide users with an option by which you may have your browser send a “Do Not Track” signal to websites that you are visiting, advising the recipient website that you do not want to have your online activity tracked.  However, the way browsers communicate such “Do Not Track” signals is not yet uniform and accordingly, our Sites do not take any action in response to such signals.  In the event a final standard is developed and accepted, we may reassess how we should respond to such signals.
+You have the right to request:
 
-**_Use of Your Personal Information Within NewBay._**
+  * Access to the personal data we hold about you.
+  * The correction of your personal data when incorrect, out of date or incomplete.
+  * The erasure of your personal data.
+  * That we stop using your personal data for direct marketing if you object to it.
+  * That we stop any consent-based processing of your personal data after you withdraw that consent.
+  * The right to request a transfer of your data to another service provider.
 
-In order to provide you with efficient and reliable services and to improve product and service options available to you, NewBay may share your Personal Information with our affiliated entities, in which case your personal information will be collected, used, disclosed, managed and stored in accordance with this policy as set forth herein. Our affiliates are companies controlled or owned by us, or companies that control us, or are under common control with us. The Sites are intended for users in the United States and its territories and possessions, but if you use a Site from any country outside the United States, the various communications will necessarily result in the transfer of information across international boundaries, and by visiting the Site, you consent to these transfers as required or permitted by applicable law.
 
-**_Use of Your Personal Information by_ _Our Service Providers._**
 
-From time to time, we may hire third parties to assist us with certain functions and services, such as data processing, computer software and website maintenance and development, transaction processing, promotional and marketing services, customer service, professional, legal or accounting services and/or business and sales analysis. NewBay may share your Personal Information, without restriction (and regardless of whether you have chosen to limit our sharing of your Personal Information as collected on the Websites), with such companies that we hire to perform services for us.  In such situations, NewBay requires that these companies agree to maintain the confidentiality of your Personal Information and to comply with the safeguards described in this Privacy Policy.  These companies have access to the Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes. Furthermore, in compliance with privacy laws, we also provide our opt-out lists to non-affiliated third party companies so that communications sent by those companies on NewBay’s behalf do not get sent to addresses appearing on our opt-out lists.
+Your right to withdraw consent  
+Whenever you have given us your consent to use your personal data, you have the right to change your mind at any time and withdraw that consent.
 
-**_If NewBay changes ownership_.**
+Where we rely on our legitimate interest  
+In cases where we are processing your personal data on the basis of our legitimate interest, you can ask us to stop for reasons connected to your individual situation. We must then do so unless we believe we have a legitimate overriding reason to continue processing your personal data.
 
-We may also share your Personal Information as required to allow for a change in ownership of NewBay and/or any of NewBay’s affiliated entities and/or of any business(es) to which the Sites relate, and the related transfer of user information to the new owner.  In the event of any such change of ownership, your Personal Information will continue to be protected by the terms of this Privacy Policy unless and until you are notified of a change.
+Direct marketing  
+You have the right to stop the use of your personal data for direct marketing activity through all channels, or selected channels. We must always comply with your request. Remember, you can always stop direct marketing messages by clicking on an unsubscribe link in any of our emails or getting in touch with us.
 
-**_Lawful access, legal action and investigations_.**
+Exercising your rights  
+If you wish to exercise any of your rights please contact the Data Protection Officer:  
+By post: Future Publishing Limited, Quay House, The Ambury, Bath BA1 1UA; or  
+By email: DPO@futurenet.com.
 
-Your Personal Information may be disclosed to non-affiliated third parties as either permitted by, or to comply with, applicable laws and regulations.  Your Personal Information may be transmitted through and stored on servers outside your home country, and may be accessed by authorities in those jurisdictions. We may disclose Personal Information if we believe it is necessary to investigate, prevent, or take action regarding suspected illegal activities or fraud, situations involving the physical safety of any person, violations of our Terms and Conditions, or otherwise in accordance with applicable law.  For example, NewBay may disclose your Personal Information to comply with investigations by regulatory authorities or enforcement agencies in the United States of America or elsewhere, or to protect against or prevent actual or potential fraud.  Furthermore, NewBay may disclose your Personal Information if it has a reasonable good faith basis to believe that it is required to do so by law, compelled by court order or legal process, or is reasonably necessary and/or appropriate to: (i) protect the rights, property and/or safety of NewBay or any other person or entity; or (ii) prevent or take action concerning any alleged: (a) illegal activity or (b) breach of the Terms and Conditions or Privacy Policy of the Websites.
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). If you have authorised a third party to submit a request on your behalf, we will ask them to prove they have your permission to act. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. If this is case, we will notify you and keep you updated.
 
-**Use of Cookies, Google Analytics, ChartBeat and Yahoo Analytics**
+No fee usually required  
+You will not usually have to pay a fee to access your personal data (or to exercise any of the rights), however, we may charge a reasonable fee if your request is unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. If we choose not to action your request we will explain to you the reasons for our refusal.
 
-The Sites make use of “cookies” – small data files which we may send to your computer on the basis of the information that we have collected about your visit.  They contain information allowing us to recognize when you are visiting the Sites and to keep track of your preferences.  Through the use of a cookie, we also may automatically collect information about your online activity on our Sites, such as the web pages you visit, the links you click, and the searches you conduct on our site.  Cookies are stored in your computer’s browser or on your hard disk and can then be retrieved by the website.  Our Sites use two kinds of cookies: so-called “session” cookies, which are deleted from your computer when you leave the Sites and are used purely to help you to navigate around the Sites; and “persistent” cookies, which remain on your computer so that the Sites can recognize you when you return. The Sites also use plug-ins.  A plug-in is a piece of software which the user downloads into the user’s web browser that allows certain web-based software to operate.  In order to interact on the Sites, you may be required to install certain plug-ins.
+Information Commissioner’s Office  
+If you feel you need to, you also have the right to make a complaint at any time to the ICO, the UK data protection supervisory authority (www.ico.org.uk).
 
-We may also use third-party advertising companies to target and show you advertisements when you visit the Sites.  On occasion, NewBay permits third-party advertisers and ad networks to place their own cookies on our Sites to track visitors’ activities on the Sites.  This enables such companies to recognize visitors so that when those visitors visit a third-party website, advertising can be delivered that is tailored to their individual interests (whether for NewBay products or for the products or services of others), based on what has been learned from the visitors’ activity on NewBay’s Sites.  This practice is called “interest-based advertising,” and the practices of these third-parties are not covered by this Privacy Policy.
+**Policy changes**
 
-NewBay offers you choices about the collection of information on our Sites. NewBay adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. If you decide you do not want to receive personalized ads from third-party advertisers and ad networks please visit [www.AboutAds.info/choices](http://www.aboutads.info/choices), where you can learn more about opting out from receiving interest-based advertising.
+We may amend this Privacy Policy from time to time, so we encourage you to check it periodically. If we make material changes we will endeavour to provide you with appropriate notice before such changes take effect.
 
-If you want to delete any cookies that were already sent to your computer or personal device, please refer to your web browser’s “Help” facility.  In addition, most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or disable cookies altogether. Details about this can normally be found in the “Help” facility provided with your browser. Please note that if you disable cookies you may not be able to take advantage of some of the Websites’ interactive functionality.
+**Further information**
 
-The Websites use ChartBeat, Yahoo Analytics and Google Analytics, web analytics tools that help website owners understand how visitors engage with their website. We can view a variety of reports about how visitors interact with our Sites so we can improve it. ChartBeat, Yahoo Analytics and Google Analytics collect information anonymously, and use cookies, and IP addresses, and they report website trends without identifying individual visitors. For more information related to ChartBeat, click here: [http://www.chartbeat.com](http://www.chartbeat.com/) **.** For more information related to Google Analytics, click here: _<http://www.google.com/analytics/learn/privacy.html>_ For more information about Yahoo Analytics, click here <https://policies.yahoo.com/us/en/yahoo/privacy/topics/analytics/>. You can opt-out of Google Analytics by installing the Google Analytics Opt-out Browser Add-On. For information about and to install Google Analytics Opt-out Browser Add-on, click here: _<https://tools.google.com/dlpage/gaoptout?hl=en> _
+General information about data protection may be found at the Information Commissioner’s website: <https://ico.org.uk/>
 
-**Disclosure of Information to Non-Affiliated Third Parties**
+For more information about cookies please visit <http://www.allaboutcookies.org/> and for more information about how to manage cookies please refer to our [Cookies Policy](https://www.futureplc.com/cookies-policy/).
 
-From time to time, NewBay sells or markets Personal Information collected on the Websites to non-affiliated third parties for their marketing purposes. However, if you do not want your Personal Information sold or marketed to non-affiliated third parties, you can opt out by unchecking the box indicating your consent to such practices on our subscription forms or by following the unsubscribe link at the bottom of any of our emails. ** ** Other aggregated and/or anonymous information may be disclosed without your consent. NewBay may disclose aggregated statistics about visitors to its Websites, along with anonymous information concerning individual visitors of its Websites.  We may combine anonymous information and/or aggregate information we collect with additional anonymous information collected from other sources. We may share anonymous information (including aggregate information) we collect regarding our users with third parties (such as advisors, promotional sponsors, and investors) for various business purposes including conducting general business analysis, and developing website content and services.
+Information about direct marketing may be found at the Direct Marketing Association’s website: <https://dma.org.uk/>
 
-**Retention of Personal Information**
-
-Personal Information is retained to deliver our services, to otherwise fulfill identified or apparent purposes, and for record-keeping. At some point NewBay may elect to destroy, erase or anonymize your Personal Information. Once anonymized, NewBay undertakes not to re-identify the information.
-
-Information posted on the Websites may continue to be displayed on this Website, or on any successor website for as long as the Websites or any successor sites are available, and may be archived by third party websites. You may request a copy of your Personal Information in order for it to be updated or removed from a particular webpage by writing to [PrivacyInfo@nbmedia.com](mailto:PrivacyInfo@nbmedia.com).  To the extent permitted by applicable law, we reserve the right to refuse requests for the removal of Personal Information from the Websites.
-
-**Your Privacy Choices – Limiting Information Sharing/Accessing Your Information**
-
-You may have the right to request a copy of the Personal Information that we hold about you, which includes the right to amend or correct that information, as appropriate, and to receive an account of how it has been used and a list of the organizations to whom it has been disclosed. In some circumstances, you may have the right to object to NewBay’s use of that Personal Information.  If you wish to update, amend, or change your Personal Information [PrivacyInfo@nbmedia.com](mailto:PrivacyInfo@nbmedia.com) **.**
-
-To protect the confidentiality of your information and respect your wishes for how it is used NewBay offers “opt out” alternatives.  Specifically, you may instruct us **not** to share Personal Information about you with our affiliated entities.  As noted above, you may also opt-out of receiving electronic communications from us at any time.  You may make your privacy choice at any time and it will remain in effect until you change it.
-
-If you would like to check, change, or confirm your privacy choices please contact us at: [privacyinfo@nbmedia.com](http://PrivacyInfo@nbmedia.com/).
-
-**Protection and Security of Information**
-
-NewBay maintains reasonable standards of confidentiality and security for the Websites and the Personal Information collected from the Websites. Physical, technical, electronic and managerial procedures have been employed to safeguard the security and integrity of Personal Information collected through the Websites.  The Personal Information you provide is secured using industry standard security technology.  NewBay also restricts its own employees’ access to Personal Information.  However, it is possible that someone may intercept or access communications, transmissions and/or Personal Information. You must also seek to protect against unauthorized access to any passwords and/or accounts that you use in connection with the Websites, and you should remember to log off of the Websites once you have completed your activities on the Websites or if you have decided to step away from your computer.
-
-In the event that NewBay determines that there has been a security breach that results in the unauthorized disclosure of Personal Information to a third party, NewBay will promptly notify consumers whose Personal Information it reasonably believes has been compromised by posting information on the Websites and, if email contact is possible, then also by sending an email notification with respect to the situation.
-
-You acknowledge that the security of online transactions you conduct using the Websites cannot be guaranteed. To the fullest extent permitted at law, NewBay shall not accept responsibility for misuse or loss of, or unauthorized access to, your Personal Information.
-
-**Your Responsibility for Your Username and Password.**
-
-If you have an account with the Websites, you are solely responsible for the security of your username and password, and shall take precautions to keep your password private to prevent any unauthorized use. Neither NewBay nor any other person or entity will be responsible for any losses, damages or consequences suffered due to careless or unauthorized use of a password.  Please see the Terms and Conditions for the Websites for further details: <http://www.newbaymedia.com/terms-and-conditions/>.
-
-**Use of the Sites by Children**
-
-The Sites are not intended for use by children, particularly children under the age of 16.  Parents should carefully supervise their children’s activities on the Sites.  Children should not disclose information about themselves in public discussion areas on the Sites as such disclosures may invite unsolicited messages from other parties.
-
-**_Links to Other Websites and Services_**
-
-From time to time, the NewBay Site may contain links to other websites that are not controlled and/or maintained by NewBay.  Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices.  Please review the privacy policies of such other websites for information concerning what information is collected on such websites and how it is used.  NewBay is not responsible for the contents or privacy practices of any linked site or any link on a linked site.
-
-Our Site also includes social media features, such as Facebook Connect, Twitter, LinkedIn, and AddThis. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites.  Your interactions with these features are governed by the privacy policy of the company providing the feature, which we encourage you to review.
-
-NewBay also allows visitors to the Sites to post comments and feedback about Site Content through DISQUS, a comment hosting service. The collection and disclosure of information provided to or through DISQUS by you is governed by that platform’s terms of use and related policies, which you can read at https://help.disqus.com/customer/portal/topics/215159-terms-and-policies.
-
-**Governing Law**
-
-This Privacy Policy shall be governed by the laws of the State of New York of the United States of America, without regard to its conflict of law provisions.  Please click here to review the terms relating to **_Disputes and Governing Law_ **for the Websites: http://www.newbaymedia.com/terms-and-conditions/
-
-**_Contact Us_**
-
-If you have any questions or complaints concerning this Privacy Policy or our handling of your Personal Information (other than with respect to California Privacy Rights) you may contact us at:
-
-Attention: Privacy Info
-
-NewBay Media, LLC
-
-28 E. 28th Street, 12th floor
-
-New York, NY 10016
-
-If you have any questions concerning California Privacy Rights you may contact us at [CaliforniaPrivacyPolicy@nbmedia.com](mailto:PrivacyInfo@nbmedia.com)  ** ** or write to us at:
-
-Attention: California Privacy Info
-
-NewBay Media, LLC
-
-28 E. 28th Street, 12th floor
-
-New York, NY 10016
+To unsubscribe from all emails contact: DPO@futurenet.com
