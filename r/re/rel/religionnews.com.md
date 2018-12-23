@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616112422id_/https%3A//religionnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223153905id_/https%3A//religionnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Religion News Service
 
@@ -24,7 +24,7 @@ Your personal information may be collected, processed and stored by RNS or its s
 
 _Withdrawal of Consent_
 
-You have the right, at any time, to withdraw your consent to RNS’s collection and processing of your information, or to the transfer of your personal data to the United States and other countries where RNS operates. You may withdraw your consent by emailing RNS at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You have the right, at any time, to withdraw your consent to RNS’s collection and processing of your information, or to the transfer of your personal data to the United States and other countries where RNS operates. You may withdraw your consent by emailing RNS at webhelp@religionnews.com.
 
   1. **THE TYPE OF INFORMATION THE WEBSITE COLLECTS**
 
@@ -113,7 +113,7 @@ If you’re worried about your children’s activities or their privacy on our s
 
 
 
-We give you choices regarding our use and disclosure of your personal information.  If you do not want to receive any information by email, regular mail or telephone calls, you may opt-out of further communications provided by RNS at any time by: (i) sending RNS an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection); or (ii) writing to RNS at
+We give you choices regarding our use and disclosure of your personal information.  If you do not want to receive any information by email, regular mail or telephone calls, you may opt-out of further communications provided by RNS at any time by: (i) sending RNS an email at webhelp@religionnews.com; or (ii) writing to RNS at
 
 Religion News Service LLC, 30 Neff Hall, Columbia, MO 65211.
 
@@ -129,7 +129,7 @@ We retain your personal information for the period necessary to fulfill the purp
 
 Under California’s “Shine the Light Law”, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses.  If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year.
 
-To obtain this information on behalf of RNS, please send an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with “Request for California Privacy Information” on the subject line and in the body of your message.  We will provide the requested information to you at your email address in the response.  Please be aware that not all information is covered by the “Shine the Light “ requirements and only information on covered sharing will be included in our response. ** **
+To obtain this information on behalf of RNS, please send an email message to webhelp@religionnews.com with “Request for California Privacy Information” on the subject line and in the body of your message.  We will provide the requested information to you at your email address in the response.  Please be aware that not all information is covered by the “Shine the Light “ requirements and only information on covered sharing will be included in our response. ** **
 
 **VIII. INTERNATIONAL USERS**
 
@@ -192,4 +192,4 @@ Natalie Feibish
 Religion News Service LLC  
 30 Neff Hall  
 Columbia, MO 65211 USA  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bfc8daddd7dad3cfffcddad3d6d8d6d0d1d1dac8cc91dcd0d2)
+[webhelp@religionnews.com](mailto:webhelp@religionnews.com)
