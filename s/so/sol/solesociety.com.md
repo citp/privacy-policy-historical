@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128030454id_/https%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223190528id_/https%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ We receive and store certain types of information whenever you interact with our
 
 Usage information, such as the numbers and frequency of visitors to our site and its components may also be used in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience. Sole Society never discloses aggregate information to a partner in a manner that would identify you personally.
 
-Furthermore, the Site may share with or provide third-parties and affiliates access to your personally-identifiable and non-personally-identifiable information through joint marketing campaigns or when we believe you would benefit from receiving contact from that party. The Site will not share any of your personally-identifiable financial information with any third-party or affiliate that is not otherwise privy to such information as previously described within this Privacy Policy.
+Furthermore, the Site may share with or provide third-parties and affiliates access to your personally-identifiable and non-personally-identifiable information through joint marketing campaigns or when we believe you would benefit from receiving contact from that party. The Site will not share any of your personally-identifiable financial information with any third-party or affiliate that is not otherwise privy to such information as previously described within this Privacy Policy. 
 
 **E-mail Communications:**
 
@@ -36,7 +36,7 @@ We may use cookies to compile usage or "clickstream" information about you or ot
 
 Our advertising partners may also transmit cookies to your browser or device, when you click on ads that appear on the Services. Also, if you click on a link to a third party website or service, a third party may also transmit cookies to you.  Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices.  Please be aware that cookies placed by third parties may continue to track your activities online even after you have left our Services, and those third parties may not honor “Do Not Track” requests you have set using your browser or device.
 
-**Information Collected From Other Websites and Do Not Track Policy**  
+**Information Collected From Other Websites and Do Not Track Policy**   
 Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services.  Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy.  Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites.  Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
 **California Privacy Disclosure:**
