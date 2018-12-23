@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615151533id_/http%3A//www.free-stuff.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223195610id_/http%3A//www.free-stuff.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Free Stuff | Freebies, Free Stuff and Free Samples
 
