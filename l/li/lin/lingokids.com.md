@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the lingokids.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625220910id_/https%3A//www.lingokids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingokids.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223164039id_/https%3A//www.lingokids.com/privacy) for the most accurate reproduction.*
 
 # English for Kids - Lingokids - The natural way to learn English
+
+We use cookies to improve our content, to analyze traffic and to personalize user's web experience. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the Lingokids website. However, you can change your cookie settings at any time [here](https://web.archive.org/privacy#cookies). 
+
+## Privacy Policy
+
+Effective Date: May 25th, 2018 
+
+Click here for Specific terms for EU users
 
 Lingokids is founded on the principle of improving the world’s access to quality education and we are committed to providing an educational, entertaining, and safe service for kids and parents. We know that you care about how your family’s personal information is used and shared, and we take your privacy and safety very seriously. We are extremely sensitive to family and educator concerns about their and their children’s personal information and safety. 
 
@@ -14,25 +22,44 @@ THIS IS A BINDING AGREEMENT BETWEEN YOU AND COMPANY. BY USING THE SERVICES, YOU 
 
 This Privacy Policy explains how the Company may collect, use, and disclose information we obtain through our website or the Services provided pursuant to the Terms. As used in this Privacy Policy, “Personal Information” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as your name, address, email address, or phone number. We do not consider Personal Information to include information that has been aggregated and/or de-identified so that it does not allow a third party to easily identify a specific individual. 
 
-* register with and log in to our website 
-* use our Services 
-* submit information to us when you purchase Classes; and 
-* communicate with us. 
+###  Table of Contents 
+
+  * 1\. Information We Collect
+  * 2\. How We Use Information
+  * 3\. When We Disclose Information to Third Parties
+  * 4\. Security
+  * 5\. Children's Privacy
+  * 6\. How to Access, Change, or Delete Account Information
+  * 7\. Links to Other Services
+  * 8\. International Users
+  * 9\. California Specific Terms
+  * 10\. Specific terms for EU users
+  * 11\. Changes to our Privacy Policy
+  * 12\. Contact Us
+
+
+
+###  1\. Information We Collect 
+
+We collect information, including Personal Information, when you: 
+
+  * register with and log in to our website 
+  * use our Services; and 
+  * communicate with us. 
+
+
 
 We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service. 
 
-**A. Consent to Record the Class.** We record every Class participated by both Student and Online Teacher, including the videos and voices of the Student and Online Teacher and any user present. We also record every Class of the Online Teacher. The purpose of recording each Class is to allow the parent to review the study situation of the Student and to allow us to manage the performance of Online Teachers. The recorded videos will be kept strictly confidential and will be for our internal use only. We will not disclose the recorded videos to the public or share the recorded videos with any third parties without the parents’ and Online Teacher’s express consent except in the case that we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy or liquidation where the business will not continue as a going concern, receivership, sale of the Company’s assets, or transition of the Services to another provider. 
+**A. Payment Information.** If you make any purchases through our website, we may collect certain information regarding your purchase (such as your name and zip code) as necessary to process your order. You will be required to provide certain payment and billing information directly to our payment processing partners, including your name, credit card information, billing address and zip code. 
 
-**B. Payment Information.** If you make any purchases through our website, such as for Classes, We may collect certain information regarding your purchase (such as your name and zip code) as necessary to process your order. You will be required to provide certain payment and billing information directly to our payment processing partners, including your name, credit card information, billing address and zip code. 
+**B. Using the Services.** We collect information that you submit to us through our website. For example, when you post comments, make a purchase, we will collect the information you include in these submissions, including any Personal Information. 
 
-**C. Using the Services.** We collect information that you submit to us through our website. For example, when you post comments, make a purchase, take or teach a Class, modify any Classes purchased, we will collect the information you include in these submissions, including any Personal Information.  
-As an Online Teacher, when you create your Teacher Account, you will be required to provide certain Information, including your first and last name, a username (which will be your email address), the country in which you reside, your nationality, your gender, your time zone, and a password. If you are a teacher, we collect and store all of the additional information that you provide to us in your profile including employment information. This may include: your time availability, your location, pictures and videos you choose to post, your phone number, address, Skype accounts, or other information. 
+**C. Messages.** We collect and process information you provide, including any Personal Information, in the context of composing, sending, or receiving messages through our Company’s messaging function and we may collect information about your use of our Services. This includes testimonials, which may contain Personal Information. 
 
-**D. Messages.** We collect and process information you provide, including any Personal Information, in the context of composing, sending, or receiving messages through our Company’s messaging function and we may collect information about your use of our Services. This includes testimonials, which may contain Personal Information. 
+**D. Customer Support.** We collect all information that you provide to us, including any Personal Information, when you contact us for customer support purposes. 
 
-**E. Customer Support.** We collect all information that you provide to us, including any Personal Information, when you contact us for customer support purposes. 
-
-**F. Cookies, Automatic Data Collection, and Related Technologies.** As you navigate through and interact with our website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
+**E. Cookies, Automatic Data Collection, and Related Technologies.** As you navigate through and interact with our website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
 
   * Details of your visits to our website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the website. 
   * Information about your computer and internet connection, including your IP address, operating system, and browser type. 
@@ -64,13 +91,13 @@ You can set your browser to refuse all or some browser cookies, or to alert you 
 
 We use information collected from you to: 
 
-Provide, administer, and facilitate your use of our Services, including to display customized content; process or fulfill your request(s) and/or order(s) for Classes, products, services, information or features; communicate with you concerning your account by: 
+Provide, administer, and facilitate your use of our Services, including to display customized content; process or fulfill your request(s) and/or order(s) for products, services, information or features; communicate with you concerning your account by: 
 
 Responding to your questions or concerns;
 
-Sending you administrative messages and information, including comments from Online Teachers, those about changes to the Services, and updates to our Terms, and Privacy Policy; 
+Sending you administrative messages and information, those about changes to the Services, and updates to our Terms, and Privacy Policy; 
 
-Emailing you information or providing in app messages about your progress in Classes, rewards programs, new services, new features, promotions, newsletters, and other available Classes, which you can opt out of at any time; Sending push notifications to your wireless device to provide updates and other relevant messages. You can manage push notifications from the "options" or "settings" page for the mobile application. 
+Emailing you information or providing in app messages about your rewards programs, new services, new features, promotions, newsletters, which you can opt out of at any time; Sending push notifications to your wireless device to provide updates and other relevant messages. You can manage push notifications from the "options" or "settings" page for the mobile application. 
 
 Understand and improve the services and develop new products, services or features; 
 
@@ -100,17 +127,11 @@ Information collected from Child Users is never used to market to Child Users. S
 
 
 
-**Online Teacher Background Check.** In order to promote the safety and integrity of the Site and Service, as an Online Teacher you authorize us to utilize third party service providers to use your Personal Information to scan on an ongoing basis a variety of sources, which may include, but are not limited to, national criminal databases, sex offender registries, certain media streams, terrorist watch lists, criminal and fugitive watch lists, fraud watch lists, law enforcement reports, and other data to assist us in verifying the information you provide us (such as your name, address, email address, etc.). The results of any Verification Checks will be made available to us. For the legitimate business purpose of protecting the safety and integrity of the website and users, you authorize us to utilize a third party consumer reporting agency to use your Personal Information to run periodic background checks on you when you register with us. 
-
 ###  3\. When We Disclose Information to Third Parties 
 
-We will share your information which may include registration information, profile information, and shared content and Class information with the following third parties or under the following circumstances or as otherwise described in this Privacy Policy: 
+We will share your information which may include registration information, profile information, and shared content with the following third parties or under the following circumstances or as otherwise described in this Privacy Policy: 
 
-**About Users with the Online Teacher.** We may share Class information, course, assignment, and quiz completion activity, and certain registration information and profile information with Online Teachers for the Classes in which you purchase or for which you request information. If you communicate with an Online Teacher, such as by asking a question, that Online Teacher will be able to view your name. By using the Services, Adult Users hereby consent to our sharing of your information to Online Teachers. For sharing of Child Users’ data, please see the below Children’s Privacy section. We do not control how Online Teachers treat such information and are not liable for their use of such information. 
-
-**About Online Teachers with the User.** We may share Class information, certain registration information and profile information such as your name, company email address, video, image or other information with parents and children that are using the Service. If you communicate with a User, such as by asking a question or teaching a Class, that User will be able to view your name and other information like an an email address. We will never share your phone details, payment details, or other sensitive information with a user. If you have concerns with what information is shared with users email hello@lingokids.com. 
-
-**Online Forums.** If you post information in a Company forum, for example, the Online Teachers Forum, that information may be viewed by any Site Visitor or Registered User who accesses the forum. 
+**Online Forums.** If you post information in a Company forum, that information may be viewed by any Site Visitor or Registered User who accesses the forum. 
 
 **Third Party Business Partners, Service Providers, Contractors or Agents.** We may share your information with third party companies that perform services on our behalf, including for payment processing, order fulfillment, video conferencing, scheduling, data analysis, marketing services, advertising services (including but not limited to retargeted advertising), e-mail and hosting services, and customer services and support. We may also share your information with third party companies that we partner with to provide certain services to you in connection with the Services. Those partners’ collection and use of information is subject to their privacy policies and other terms. You should review such privacy policies, terms, and other agreements. 
 
@@ -141,19 +162,9 @@ Our practices for notifying and obtaining parents' consent when we collect Perso
 
 All operators that collect or maintain information from children through our website. This section only applies to children under the age of 13 and supplements our general privacy policy. Only the other provisions of this Privacy Policy applies to teens and adults. 
 
-**Information We Collect from Children.** Children can access some parts of our website and its content and use some of its features without providing us with Personal Information. However, most content and features of the Classes and Services are available only to Students of the registered accounts and require us to collect certain information, including Personal Information, from them. In addition, we use certain technologies, such as cookies, to automatically collect information from our users (including children) when they visit or use the website. 
+**Information We Collect from Children.** Children can access some parts of our website and its content and use some of its features without providing us with Personal Information. However, most content and features of the Services are available only to Students of the registered accounts and require us to collect certain information, including Personal Information, from them. In addition, we use certain technologies, such as cookies, to automatically collect information from our users (including children) when they visit or use the website. 
 
 We only collect as much information about a child as is reasonably necessary for the child to participate in the educational activity in our Services, and we do not condition his or her participation on the disclosure of more Personal Information than is reasonably necessary. 
-
-**Information We Collect Directly.** We/the Online Teacher assess the academic level of the child while taking Classes, and the child will be required to disclose information relating to his or her education during this process. The child will also be required to provide questions, answers, comments and other information when taking the interactive online Class with the Online Teacher (including, but not limited to Class, assignment, and quiz completion activity, interchanges with the Class Online Teachers, answers to questions, writing exercises and other items submitted to satisfy the Class requirements). We may request additional information from your child, but this information is optional. We specify whether information is required or optional when we request it. 
-
-**Consent to Record the Class.** We record every Class participated in by both Student and Online Teacher, including the videos and voices of the Student and Online Teacher and any other Adult User present. The purpose of recording each Class is to allow the parent to review the study situation of the Student and to allow us to manage the performance of Online Teachers. The recorded videos will be kept strictly confidential and will be for our internal use only. We will not disclose the recorded videos to the public or share the recorded videos with any third parties without the parents’ express consent except if we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy or liquidation where the business will not continue as a going concern, receivership, sale of the Company’s assets, or transition of the Services to another provider. 
-
-For any Student under the age of thirteen, a parent must be present during the first Class session over video call. Prior to teaching the student, we will ask the parent for their consent to have the video call and/or record the Student during this and all future Class sessions. If the the parent does not consent, any recordings will be deleted from Lingokids possession. 
-
-If the parent decides to revoke a prior consent to our current recording practice at any time, we will discontinue recording the Classes after receipt of the parent's request. If a parent requests for the prior recordings to be deleted, any prior recording of the Student will be deleted from Lingokids possession. 
-
-We will use this live video method to obtain your consent to our collection of other Personal Information from your child, whenever applicable. 
 
 **Automatic Information Collection and Tracking.** We use technology to automatically collect information from our users, including children, when they access and navigate through the website and use certain features. The information we collect through these technologies may include: 
 
@@ -169,8 +180,6 @@ For information about our automatic information collection practices, including 
 **How We Use Your Child's Information.** We use the Personal Information we collect from your child to: 
 
   * register with and log in to our website 
-  * track and communicate with the child, you and/or the Online Teacher about the child's academic performance in the Class 
-  * use internally to improve our future Class offering and other feature of our Services. 
   * We use the information we collect automatically through technology and other non-personal information we collect to improve our website and to deliver a better and more personalized experience by enabling us to: 
     * Estimate our customer size and usage patterns. 
     * Store information about the child's preferences, allowing us to customize the content according to individual interests. 
@@ -194,7 +203,7 @@ You can review, change, or delete your child's Personal Information by sending u
 
 ### 6\. How to access, Change or Delete Account Information
 
-An Adult User or Online Teacher can review or change the information they provided when registering for the Services, including by adding or removing Child Users to the Account, by updating information through the Parent Section of the Services or, for Teacher Accounts, by emailing Company support. In addition, at any time, Users may contact us to request that we provide for their review, or delete from our records, any Personal Information they have provided about Child Users associated with their Account, or to cease collecting Personal Information from those Child Users, as applicable. Please keep in mind that a request to delete Personal Information may lead to cancellation of your Account. 
+An Adult User can review or change the information they provided when registering for the Services, including by adding or removing Child Users to the Account, by updating information through the Parent Section of the Services by emailing Company support. In addition, at any time, Users may contact us to request that we provide for their review, or delete from our records, any Personal Information they have provided about Child Users associated with their Account, or to cease collecting Personal Information from those Child Users, as applicable. Please keep in mind that a request to delete Personal Information may lead to cancellation of your Account. 
 
 When we change or delete any Personal Information at your request, we will make good faith efforts to make the changes in our then active databases as soon as reasonably practicable. Changing setting options may not result in immediate changes to the settings, which are subject to our operations and maintenance schedules. 
 
@@ -226,7 +235,9 @@ To know more about what what categories of data we collect and how we use the in
 
 The legal basis for the data processing is user’s consent to it. This consent is requested through Controller’s forms during the registration - web or app. 
 
-####  10.4. International transfer. We store information about users on servers primarily located in the United States and we may also store such information on servers and equipment in other countries. If you are accessing our Services from outside of the United States, please know the data and personal information you submit may be transferred to and stored on servers in the United States or other countries. 
+####  10.4. International transfer.
+
+We store information about users on servers primarily located in the United States and we may also store such information on servers and equipment in other countries. If you are accessing our Services from outside of the United States, please know the data and personal information you submit may be transferred to and stored on servers in the United States or other countries. 
 
 ####  10.5 Service Providers
 
@@ -252,7 +263,7 @@ The people who provide us with any personal data have the following rights:
 
 ###  10.7 Authorities 
 
-At Monkimun Inc. we are committed to take data protection very seriously Check the Spanish Data Protection Agency website for more details about your rights. Additionally, we inform you about the possibility to make a claim before the competent control authority if you believe that your exercise of your rights was not satisfactory enough. : the Agencia Española de Protección de Datos (C/ Jorge Juan, 6. 28001 – Madrid. phone number: +34 901 100 099). More info at http://www.agpd.es/ 
+At Monkimun Inc. we are committed to take data protection very seriously Check the Spanish Data Protection Agency website for more details about your rights. Additionally, we inform you about the possibility to make a claim before the competent control authority if you believe that your exercise of your rights was not satisfactory enough: the Agencia Española de Protección de Datos (C/ Jorge Juan, 6. 28001 – Madrid. phone number: +34 901 100 099). More info at http://www.agpd.es/ 
 
 ###  11\. Changes to Our Privacy Policy 
 
