@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anointedtube.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610140952id_/http%3A//anointedtube.com/read/privacy-policy-/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anointedtube.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223024151id_/http%3A//anointedtube.com/read/privacy-policy-/7) for the most accurate reproduction.*
 
 # Privacy Policy/Copyright Notification
 
-This privacy policy sets out how Anointedtube uses and protects any information that you give while using <http://anointedtube.com/> 
+This privacy policy sets out how Anointedtube uses and protects any information that you give while using [http://anointedtube.com/](https://anointedtube.com/) 
 
   
 
@@ -142,7 +142,7 @@ We will not sell, distribute or lease your personal information to third parties
   
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us at [anointedtube@hotmail.com](mailto:anointedtube@hotmail.com)
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us at [[email protected]](https://anointedtube.com/cdn-cgi/l/email-protection#debfb0b1b7b0aabbbaaaabbcbb9eb6b1aab3bfb7b2f0bdb1b3)
 
   
 
@@ -201,4 +201,4 @@ A statement by you that you have a good-faith belief that the disputed use is no
   
 
 
-A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf. Please send your copyright notification to [anointedtube@hotmail.com](mailto:anointedtube@hotmail.com)
+A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf. Please send your copyright notification to [[email protected]](https://anointedtube.com/cdn-cgi/l/email-protection#573639383e3923323323223532173f38233a363e3b7934383a)
