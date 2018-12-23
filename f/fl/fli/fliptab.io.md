@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fliptab.io privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620021712id_/http%3A//www.fliptab.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliptab.io privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224001924id_/http%3A//www.fliptab.io/privacy) for the most accurate reproduction.*
 
 # Fliptab Privacy Policy
 
@@ -54,5 +54,6 @@ Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.  
 For any concerns please contact us at:  
 fliptab.io@gmail.com   
+Sivensys SRL   
 Str. Bacinschi, Nr 8, Iasi, Romania  
 +40 373 782818
