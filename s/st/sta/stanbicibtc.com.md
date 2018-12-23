@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623093131id_/http%3A//www.stanbicibtc.com/nigeriagroup/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223151348id_/http%3A//stanbicibtc.com/nigeriagroup/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
 
 # Privacy and security statement | Stanbic IBTC Holdings - Nigeria
 
@@ -129,4 +129,4 @@ Stanbic IBTC Asset Management Limited, Stanbic IBTC Bank PLC, Stanbic IBTC Capit
 
 **Queries and complaints**
 
-If you have any queries or complaints about privacy, please contact  **+234 1 422 2222**  or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10536563647f7d7562737162757e797775627971506364717e727973797264733e737f7d) 
+If you have any queries or complaints about privacy, please contact  **+234 1 422 2222**  or [Customercarenigeria@stanbicibtc.com](mailto:Customercarenigeria@stanbicibtc.com) 
