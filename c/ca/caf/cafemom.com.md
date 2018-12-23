@@ -1,128 +1,305 @@
-> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625145213id_/http%3A//mobile.cafemom.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224604id_/https%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – RockYou
 
-_LAST UPDATED: June 07, 2016 For the prior Privacy Policy, please[click here](https://web.archive.org/about/privacy_policy/archive/20130605.php)._
+Privacy Policy  [Pinsuda Singchai](https://rockyou.com/author/pinsuda-singchai/ "Posts by Pinsuda Singchai") 2018-10-24T09:42:35+00:00 
 
-This Privacy Policy explains how CMI Marketing, Inc. d/b/a CafeMedia ("CafeMom" or "we") collects, protects, uses and shares information about you when you use the CafeMom website (the "Site"). We hope this information increases your confidence in CafeMom and enhances your experience on our Site. Each time that you use the Site, you signify that you agree to be bound by the [Terms of Service](https://web.archive.org/about/tos.php) and this Privacy Policy. If you do not agree to the terms of this Privacy Policy you must discontinue using the Service and terminate your membership if you are a registered user. 
+**RockYou Privacy Policy**
 
-## I. ABOUT CAFEMOM
+RockYou, Inc. and its subsidiaries (collectively, “RockYou”) provides a host of websites, gaming applications, mobile applications and other gaming services, as well as a technology that allows our partners to show ads to the users of those games. RockYou recognize that its customers, visitors, users, and others (collectively or individually “Users”) who use games, applications, websites, and other services provided by RockYou (collectively, the “RockYou Sites”) as well as visitors to our partners’ games and applications value their privacy. This Privacy Policy details important information regarding the collection, use, and disclosure of User information collected on the RockYou Sites and other sites and services that integrate RockYou technology.
 
-CafeMom.com is an online service for moms that allows our mom members to set up unique personal profiles and through those profiles to create an online network of other moms and join in conversation. Site members ("Members") can view each other's profiles, communicate with old friends and make new friends on the Site, share photos and videos, play games, create and post in groups, comment on blog posts, and more. To enrich our Members' experience, we request and display some personal information to other Members and visitors, which allows our users to identify each other and expand their network of friends. Registered Members can change their profile information at any time to manage who can see certain personal information and can control how other Members and CafeMom communicates with them. 
+**THE INFORMATION ROCKYOU COLLECTS**
 
-## II. INFORMATION WE COLLECT
+**Information You Provide Us**
 
-**_From Members_**  
-CafeMom collects information from you when you register with our Site, update your profile, interact with other Members and non-Member users, and use various features of our Site. To register with the Site, we ask you to provide your name, birthdate, zip code and email address, and select a screen name and password. Once you are registered you will be given the option to add additional information about you and your family to your profile.
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the RockYou Sites, fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third-party social media sites, request customer support, or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number, fax number, financial information (credit card number, expiration date and security code), and any other information you choose to provide.
 
-We also collect information regarding your activities on the Site, including interaction with other users and your use of the Site. From time to time we may ask you to respond to surveys or other similar requests for information and we collect any information you may provide. We collect information from you when you participate in sweepstakes, games or other promotions offered on our Site. We may also collect information about you through other methods, including research surveys or information we obtain from third parties, including social media platforms, verification services, and data services, as well as public sources. 
+When you use the RockYou Sites on Facebook or use your login credentials from Facebook or another social network service, we may collect and record the information you provide us voluntarily through Facebook or other social network service in accordance with the policies and terms of Facebook or other social network service and your settings with that service. The types of personal information collected may vary depending on your activity, social network settings, and the permissions you grant, but may include your name, Facebook user identification number, email address, gender, current city, profile picture, and age or date of birth.
 
-**_From All Users_**  
-Like most standard Website servers, we collect information from all visitors to the Site. We collect this information using a variety of methods, including weblogs, cookies, web beacons, widgets and the like.
+In the event that you wish to claim a prize won through one of RockYou’s rewards-based gaming applications (e.g., Bingo by Ryzing), you will need to follow certain procedures set forth in the terms of such application. Some of these procedures may include the submission of certain personal information, such as your photo identification or Social Security Number.
 
-Cookies we utilize on the Site may include session ID cookies, persistent cookies, or more advanced technology such as HTML5 or Media Stamp. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. You may configure your browser to prevent cookies from being set on your computer. If you reject cookies you may still use the Site but your ability to use some areas of the Site may be limited and you may not be able to use certain features of the Site, including playing games or entering sweepstakes or contests.
+**Location Data**
 
-Similar cookies and other technologies are used by our partners, which may also include Flash cookies, which are a form of persistent cookies technically called "Local Shared Objects" (LSOs). Flash cookies are set through a mechanism in Adobe Flash Player. With Flash cookies your data is stored in multiple places and it may be restored once you delete it. Please check with your browser's site on the most updated information on how to delete Flash cookies. HTML5 or Media Stamp technology has a local storage feature that, when used, allows for quicker access to a website upon a return visit. HTML5 is currently supported by some mobile devices and desktop browsers. HTML5 Media Stamp data is not stored in a browser's "cookies" file.
+If you consent to allow a RockYou Site or one of our partners access information about your location, we may collect information about your precise location and share it with third parties for the purpose showing ads that are targeted to your interests. We also use your IP address to derive information about your general location (for example, your city or town).
 
-Our Site web pages and our e-mail newsletters contain web beacons (also known as pixel tags). These web beacons allow us and our partners to count users who have visited a web page or opened a newsletter, as well as to collect the other types of information described below.
+**Automatically Collected Information**
 
-The information we collect through the Site includes, but is not limited to, the browser you are using, the internet address from which you linked to our Site, the operating system of your computer, the unique IP address of the computer you used to access our Site, and usage and browsing habits on the Site. We and our partners also use cookies, pixels and these other technologies to collect data regarding your browsing, engagement and purchasing habits on our Site, in the emails that we send to you, and on other internet websites.
+When you interact with a RockYou Site or a website, mobile application, or other gaming service that integrates RockYou’s technology, we collect certain information about your mobile device or computer system, including your browser type, browser language, platform type, MAC Address, IP Address, mobile advertising ID, Facebook ID, cookie information, and information about your interactions with the RockYou Sites or other apps or games that integrate RockYou’s technology, such as referring / exit pages and URLs, clicks, domain names, landing pages, pages viewed and the order in which those pages were viewed, the amount of time spent on particular pages, and the date and time of your request.
 
-In addition to the foregoing, the Site provides search functionality and we collect the searches conducted on the Site by a user and may combine that information with other information from such user.
+**Cookies and Other Tracking Technologies**
 
-## III. HOW WE USE YOUR INFORMATION
+We and our partners, affiliates, and analytics and other providers use technologies such as cookies, beacons, pixels, tags, scripts, and SDKs to analyze trends, administer the RockYou Sites, advertise, and to gather demographic information about our users. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
-For purposes of this Privacy Policy, the information we collect that is associated with a single user or Member, or combined in the aggregate is known as "Data." We keep Data no longer than necessary for legitimate business purposes or as required by law.
+Cookies are a small text file containing a string of alphanumeric characters that help us improve the RockYou Sites and your experience, see which areas and features of the RockYou Sites are popular, and count visits. Web beacons are electronic images that may be used in the RockYou Sites or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. An SDK is a piece of computer code that developers include in their mobile applications.
 
-**General Use of Site.** We use the Data we collect, including both personally identifiable information ("PII") and non-PII in both aggregated and individual forms, to provide the Site, advertising and Site support. We may process and use this Data for purposes consistent with this Privacy Policy including, but not limited to: 
+**Information We Collect from Other Sources**
 
-  * Customize, measure, and improve the Site design and optimization, and the content and advertising provided through it, which include research and development;
-  * Enforce our Terms of Service and detect fraud and other illegal activities;
-  * Let you know about new products or services from us or other companies we work with as well as promotional offers, based on your preference settings;
-  * Evaluate potential inclusion in the Site's influencer program;
-  * Let you know about changes to the Site, the Terms of Service, this Privacy Policy, and other terms that apply to our Site; and
-  * Update any programs or other tools that we provide in conjunction with the Site.
+RockYou and partners that use RockYou technology may obtain information from other sources and combine that with information we collect through the RockYou Sites or our partners’ services. For example, we may collect information about you from third parties, including but not limited to game partners, identity verification services, advertisers, mailing list providers, and publicly available sources.
+
+**THIRD-PARTY ADVERTISERS**
+
+RockYou allows other companies, called third-party ad servers or ad networks, to serve advertisements within the RockYou Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, device, or mobile application, the advertisements and links that appear on the RockYou Sites or our partners’ sites. These third parties automatically receive your IP address when this happens. They may also use other technologies (such as cookies, SDKs, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. RockYou does not provide any personal information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks RockYou to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the target audience.
+
+**USE OF INFORMATION**
+
+We use the information we collect to operate, maintain, and provide you the features and functionality of the RockYou Sites. We also use the information we collect to show ads and report on how they perform, including to show ads that are targeted to users’ interests across their devices, limiting the number of times users see ads, customizing ads to users’ locations, determining how users respond to ads, and reporting on the effectiveness of ads. Finally, we use the data we collect to protect the rights of RockYou and others, including to detect, prevent, investigate, and deter fraudulent, unauthorized, or illegal activity.
+
+**SHARING OF INFORMATION**
+
+RockYou will not share, sell, rent or trade information that identifies you other than as described in this privacy policy. RockYou may share information that identifies you as follows:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * When you post information publicly, such as in discussion boards, messages and chat areas, within your public profile page, etc., that information will be publicly available;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of RockYou or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among RockYou and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
 
 
 
-In addition we may combine the Data we have collected with similar types of data provided by third parties for similar purposes. We use this Data to create a better Site and better user experience, as well as to help diagnose and troubleshoot server malfunctions, to analyze trends, track user movement in the aggregate, and gather broad demographic information. We may use this Data in these forms for internal business purposes, such as determining how much traffic certain portions of the Site receive, for license reporting and assessment of service levels, to better understand how the Site is used, to gauge traffic patterns and determine what types of content and services are most popular with users of the Site, or determining which search queries are the most popular.
+In addition, companies that use RockYou’s technology to collect data about their users will have access to that data and may use it for their own purposes, and may share such data with third parties such as advertising partners. Finally, we may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-Using this Data, we are able to measure the effectiveness of our advertising and how visitors use our Site. This allows us to learn what pages are most attractive to our visitors, which parts of our Site are the most interesting and what kind of offers our Members like to see.
+**YOUR CHOICES**
 
-We use cookies to differentiate users of the Site from Members, to customize the content of certain sections of the Site and to enable us to track and cater to the interests of users, in order to enhance their experience on the Site. For example, we may use such Data to determine which blogs, articles, or games to recommend to you. We may also use Data to send you targeted offers and other communications.
+**Public Profiles**
 
-We may use a Member's registration information to verify that you are the person authorized to use the Site or to manage your account.
+The profiles you create and any content that you post on the RockYou Sites will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. To request removal of your personal information from our blog or community forum, contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
 
-**When You Register.** When you register with CafeMom, you create your own profile and privacy settings. Your profile information, as well as your screen name and photo, are displayed as specified in your privacy settings to allow you to connect with other CafeMom Members or to all users of the Site. Your real name is never displayed on the Site (unless you use it as your screen name), but your real name will be included in emails that you "send to a friend." You can choose to allow Members and non-Member users to search for you by using your real name or most other information you have entered in your profile.
+**Location Information**
 
-Most of the information you provide to CafeMom in your profile can be set to be seen by all users of the Site, Members only, friends only, or no one. However, please be aware that certain personal profile information is displayed for all users and cannot be hidden. Specifically, your screen name and photo are always displayed on the Site and therefore are viewable by all users. In addition, because this information is publicly displayed on the Site it may appear in the results of searches conducted on Internet search engines.
+When you first launch any of our applications that collect location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.
 
-By using the search functionality on the Site CafeMom Members can find other moms with similar interests and challenges. When you find other Members, you can view their personal profiles to find out more about them based on the information they have decided to share on the Site.
+**Cookie Information**
 
-**Sharing of Information.** We use third parties to assist us in delivering parts of the Site to you. We may share portions of your Data with these third parties to the extent necessary for them to provide these services. As described in more detail below, we may also provide Non-PII elements of your Data to third parties who deliver ads to you. We will not provide your PII to these advertisers unless you expressly authorize us to do so.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the RockYou Sites.
 
-We may also share weblog data and other similar non-PII Data with third parties. For example, we may share traffic data for the Site with a third party that analyzes and publishes Website traffic surveys.
+**Targeted Advertising**
 
-Posts to the Site are viewable by either all users of the Site, Members only, or group members only (as determined by the group owner), and CafeMom tries to maintain the privacy setting of each group as determined by such group owner. Note that posts may also be collected by Internet search engines, such as Google.
+To opt out of the use of information about your web browsing activity to show ads that are targeted to your interests by companies that participate in the Digital Advertising Alliance, please visit <http://www.aboutads.info/choices/>, or if you are in the EU <http://www.youronlinechoices.eu/>. To opt out of use of information about your app usage for purposes of showing ads that are targeted to your interests, please use the settings on your device (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android).
 
-You may authorize other Internet sites such as Facebook to access and publish on their websites some of your Data, including your activity on the Site.
+**Promotional Communications**
 
-**Advertisements.** We, or our partners acting at our request, may deliver advertisements to you through the Site or through third party sites, as described in more detail below.
+You may opt out of receiving promotional communications from us by following the instructions in those messages or by emailing us at [privacy@rockyou.com](mailto:privacy@rockyou.com). If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 
-_Members_
+**Mobile/Push Notifications**
 
-If you are a Member, we may use your Data, regardless of where we gathered such information, to determine what type of ad to display to you on the Sites. In addition, we may send certain demographic information, like ZIP code, age, and gender to our advertising partners, so that the advertising you see is more relevant to you.
+We may also occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt out from receiving these types of communications by turning them off on the app or at the device level through your settings.
 
-_Contextual Advertising_
+**LINKS TO OTHER SITES**
 
-We, or our advertising partners, automatically deliver ads to all users of the Site, whether they are registered or not, based on non-personal information including: (i) the IP address associated with your computer or location data from your mobile phone for purposes of determining your approximate geographic location; (ii) the type of web page that is being displayed, such as a news or games page, for example; (iii) the content on the page that is shown, such as a news article about a certain movie; (iv) the browser you are using; (v) the operating system and/or computer brand you are using; and (vi) for mobile users, the cellular network you are using. This advertising activity automatically applies to all users and it is purely contextual.
+The RockYou Sites include links to other web sites whose privacy practices may differ from those of RockYou. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
 
-_Interest-Based Advertising_
+**OUR COMMITMENT TO CHILDREN’S PRIVACY**
 
-For information on how CafeMom uses various technologies to features ads relevant to your interests, and how to opt out of having us collect information for the purposes of interest-based ads, [click here](https://web.archive.org/about/interest_based_ads.php).
+Protecting the privacy of young children is especially important to RockYou. For that reason, RockYou does not knowingly collect or maintain information on the RockYou Sites from persons under 13 years of age, and no RockYou Sites are directed to persons under 13. If you are under 13 years of age, please do not use or access the RockYou Sites at any time or in any manner. If RockYou learns that personal information of persons under 13 years of age has been collected on the RockYou Sites then RockYou will take the appropriate steps to delete this information.
 
-**Sale of Business or Assets.** In the event that CafeMom, substantially all of its assets, or a line of business is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, PII and non-PII of our Members may be one of the assets sold or merged in connection with that transaction. Information about our Members may also need to be disclosed in connection with a commercial transaction where CafeMom or an affiliate, is seeking financing, investment, support or funding.
+**INTERNATIONAL USERS & PRIVACY SHIELD**
 
-**Photos, Videos, and Posts.** As a CafeMom Member you can share personal content. Please be aware that by using any of these features, your personally identifiable information may be accessible to Members and non-Members, and CafeMom has no control over how those users may use your personally identifiable information.
+The RockYou Sites are hosted in the United States. If you access the RockYou Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from the laws of the United States, please be advised that through your continued use of the RockYou Sites, you are transferring your personal information to the United States.
 
-**Monitoring.** We have the right, but not the obligation, to monitor any activity and content associated with the public and private forums, including in-Site Member emails and interactive areas on our Site. Please review our [Terms of Service](https://web.archive.org/about/tos.php) for more information regarding your appropriate use of these areas.
+RockYou (and its subsidiaries) participate in and have certified compliance with the EU-U.S. Privacy Shield Framework. RockYou is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
-**CafeMom Mobile.** When you provide us with your mobile telephone number to access certain features of CafeMom Mobile you agree that this action constitutes a purchase, inquiry and/or application for purposes of telemarketing laws. Regardless of the fact that your mobile telephone number may be listed with the Federal Do-Not-Call Registry, or your local State Do-Not-Call list, you expressly consent to receive future information about CafeMom's programs and services from us, and in that regard, you hereby consent to our contacting you pursuant to the business relationship established using the information you provided to us. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
+RockYou is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. RockYou complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-**We'll send you our email and newsletters.** CafeMom may send you service-related announcements and emails from time to time. For instance, if a friend sends you a message, you may receive an email alerting you to that fact. We may also use your information to send you e-newsletters, updates and communications about CafeMom. We may ask you which newsletters you wish to receive. You may change your newsletter preferences (i) at any time by simply updating your account, which you can do by clicking on the "Privacy + Settings" button posted throughout the Site, or (ii) by opting-out of receiving future emails as described at the bottom of each communication from CafeMom.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, RockYou is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, RockYou may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-**Sweepstakes and Promotions.** On occasion, we offer sweepstakes and other promotions in conjunction with a sponsor. By participating in a promotion, you submit to that promotion's terms and conditions including providing us with permission, if required, to share your personally identifiable information with a particular sponsor.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-**Third Party Offers.** On occasion, we are able to offer you special products or services through a relationship with a third party. In those cases, the offer will be brought to you by CafeMom and fulfilled by the third party. If you accept the offer, you will become a customer of the company that is fulfilling the offer and we will not have control over their use of the personally identifiable information that you provide to them when you accept the offer.
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-**Invite a Friend.** If you do become a Member, not only can you enjoy all of the benefits of membership, but you can also invite other individuals to join by providing us with their first names and email addresses. Using the information you give us on these potential Members, we will send them an email invitation to join CafeMom. The only way these individuals can become Members, however, is if they come to our Site and sign up themselves. We do not use this information for other purposes.
+**DATA RETENTION**
 
-**Legal Matters; Safety.** We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or may expose us to legal liability. Additionally, we may disclose your information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.
+We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it, such as to mediate your access to the RockYou Sites, for advertising, or as needed to provide you services. We also retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## IV. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-CafeMom contains links to other sites and social media platforms like Facebook and Twitter. It is possible for you to receive information directly from our partners and other companies if you access them through a link on the Site or if you go directly to their Websites or platforms. Once you are on their sites, any data that you supply to these partners, for example, to obtain information or buy products directly from them, is beyond our reach and will be the responsibility of each of the linked-to entities and not CafeMom. We are not responsible for the privacy practices or the content of these Websites or social media platforms, or any other third party destinations linked to or referenced on our Site.
+We do not share personal information with third parties for their own marketing purposes unless you affirmatively agree to such disclosure. California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
 
-**Security.** We have multiple layers of security on our systems. We have implemented software and hardware security, including firewalls, data encryption, and private networks intended to protect your personally identifiable information from unauthorized access. We use firewalls and intrusion-detection devices that are designed to defend against hackers and notify us if any attempts are made to compromise our network. We regularly review additional software upgrades to enhance our security measures. However, despite our efforts, no system can completely guaranty that there will never be unauthorized access to your personally identifiable information, and your use of the Site indicates that you are willing to assume this risk.
+**RESIDENTS OF THE EUROPEAN ECONOMIC AREA**
 
-**Your California Privacy Rights.** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address referenced below.
+If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under the law regarding the processing of your personal data.
 
-**A Note to Users Based Outside of the United States.** Our computer systems are currently based in the United States, so your PII will be processed by us in the United States, where data protection and privacy regulations may be different than other parts of the world, such as the European Union. If you create an online account to use the Site as a visitor from outside the United States, you will have agreed to the terms of the Privacy Policy and our Terms of Service and you will have consented to the transfer to and processing of all such information in the United States, which many not offer an equivalent level of protection of that in the European Union or certain other countries.
+**Legal Basis for Processing**
 
-**Children's Privacy.** CafeMom does not encourage participation or visitation by children. Visitors who are known to be under the age of 16 are prohibited from becoming CafeMom Members. CafeMom does not knowingly collect personally identifiable information from children under the age of 16.
+If you are a resident of the EEA, when we process your personal data we will only do so in the following situations:
 
-**Updating Your Personal Information.** If you are a CafeMom Member, you can update your personally identifiable information at any time. To do this, just click on the "Privacy + Settings" link listed throughout the Site. However, we are unable to update or delete any of your personally identifiable information that has been previously shared with a third party as permitted in this Privacy Policy.
+  * When we have your consent to do so, such as if you consent to allow us to show ads that are targeted to your interests based on your visits to websites, apps, or games with which we work to show ads.
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the RockYou services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to the RockYou Sites, and to provide, secure, and improve the RockYou Sites.
 
-**Waiver.** CAFEMOM ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS, ALTERATION OR MISUSE OF PERSONAL OR OTHER INFORMATION LAWFULLY PROVIDED BY CAFEMOM TO THIRD PARTIES, OR WITH REGARD TO THE FAILURE OF ANY THIRD PARTY TO ABIDE BY THIS PRIVACY POLICY OR AGREEMENT BETWEEN THAT THIRD PARTY AND CAFEMOM.
 
-**Changes to the Privacy Policy.** We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the "Effective Date" posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the privacy policy in effect when the information was obtained from you.
 
-**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at feedback@cafemom.com 
+**Data Subject Requests**
 
-Or write to us at:  
-Privacy Department  
-CafeMom  
-417 Fifth Avenue, 7th Floor  
-New York, NY 10016
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may contact us as indicated below.
 
-© 2016 CMI Marketing, Inc. All rights reserved.
+**Questions or Complaints**
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+
+**CHANGES AND UPDATES TO THIS PRIVACY POLICY**
+
+This Privacy Policy may be revised periodically reflected by the “effective date” below. Please revisit this page frequently to become aware of any changes. If we materially change how we use your personal information, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
+
+**Date Last Modified:**
+
+This Privacy Policy was last modified October 23, 2018
+
+**Contact Information:**
+
+Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+RockYou, Inc.  
+1111 Broadway, FL 3  
+Oakland, CA 94607
+
+**RockYou Privacy Policy**
+
+RockYou, Inc. and its subsidiaries (collectively, “RockYou”) provides a host of websites, gaming applications, mobile applications and other gaming services, as well as a technology that allows our partners to show ads to the users of those games. RockYou recognize that its customers, visitors, users, and others (collectively or individually “Users”) who use games, applications, websites, and other services provided by RockYou (collectively, the “RockYou Sites”) as well as visitors to our partners’ games and applications value their privacy. This Privacy Policy details important information regarding the collection, use, and disclosure of User information collected on the RockYou Sites and other sites and services that integrate RockYou technology.
+
+**THE INFORMATION ROCKYOU COLLECTS**
+
+**Information You Provide Us**
+
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the RockYou Sites, fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third-party social media sites, request customer support, or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number, fax number, financial information (credit card number, expiration date and security code), and any other information you choose to provide.
+
+When you use the RockYou Sites on Facebook or use your login credentials from Facebook or another social network service, we may collect and record the information you provide us voluntarily through Facebook or other social network service in accordance with the policies and terms of Facebook or other social network service and your settings with that service. The types of personal information collected may vary depending on your activity, social network settings, and the permissions you grant, but may include your name, Facebook user identification number, email address, gender, current city, profile picture, and age or date of birth.
+
+In the event that you wish to claim a prize won through one of RockYou’s rewards-based gaming applications (e.g., Bingo by Ryzing), you will need to follow certain procedures set forth in the terms of such application. Some of these procedures may include the submission of certain personal information, such as your photo identification or Social Security Number.
+
+**Location Data**
+
+If you consent to allow a RockYou Site or one of our partners access information about your location, we may collect information about your precise location and share it with third parties for the purpose showing ads that are targeted to your interests. We also use your IP address to derive information about your general location (for example, your city or town).
+
+**Automatically Collected Information**
+
+When you interact with a RockYou Site or a website, mobile application, or other gaming service that integrates RockYou’s technology, we collect certain information about your mobile device or computer system, including your browser type, browser language, platform type, MAC Address, IP Address, mobile advertising ID, Facebook ID, cookie information, and information about your interactions with the RockYou Sites or other apps or games that integrate RockYou’s technology, such as referring / exit pages and URLs, clicks, domain names, landing pages, pages viewed and the order in which those pages were viewed, the amount of time spent on particular pages, and the date and time of your request.
+
+**Cookies and Other Tracking Technologies**
+
+We and our partners, affiliates, and analytics and other providers use technologies such as cookies, beacons, pixels, tags, scripts, and SDKs to analyze trends, administer the RockYou Sites, advertise, and to gather demographic information about our users. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+
+Cookies are a small text file containing a string of alphanumeric characters that help us improve the RockYou Sites and your experience, see which areas and features of the RockYou Sites are popular, and count visits. Web beacons are electronic images that may be used in the RockYou Sites or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. An SDK is a piece of computer code that developers include in their mobile applications.
+
+**Information We Collect from Other Sources**
+
+RockYou and partners that use RockYou technology may obtain information from other sources and combine that with information we collect through the RockYou Sites or our partners’ services. For example, we may collect information about you from third parties, including but not limited to game partners, identity verification services, advertisers, mailing list providers, and publicly available sources.
+
+**THIRD-PARTY ADVERTISERS**
+
+RockYou allows other companies, called third-party ad servers or ad networks, to serve advertisements within the RockYou Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, device, or mobile application, the advertisements and links that appear on the RockYou Sites or our partners’ sites. These third parties automatically receive your IP address when this happens. They may also use other technologies (such as cookies, SDKs, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. RockYou does not provide any personal information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks RockYou to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the target audience.
+
+**USE OF INFORMATION**
+
+We use the information we collect to operate, maintain, and provide you the features and functionality of the RockYou Sites. We also use the information we collect to show ads and report on how they perform, including to show ads that are targeted to users’ interests across their devices, limiting the number of times users see ads, customizing ads to users’ locations, determining how users respond to ads, and reporting on the effectiveness of ads. Finally, we use the data we collect to protect the rights of RockYou and others, including to detect, prevent, investigate, and deter fraudulent, unauthorized, or illegal activity.
+
+**SHARING OF INFORMATION**
+
+RockYou will not share, sell, rent or trade information that identifies you other than as described in this privacy policy. RockYou may share information that identifies you as follows:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * When you post information publicly, such as in discussion boards, messages and chat areas, within your public profile page, etc., that information will be publicly available;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of RockYou or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among RockYou and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
+
+
+
+In addition, companies that use RockYou’s technology to collect data about their users will have access to that data and may use it for their own purposes, and may share such data with third parties such as advertising partners. Finally, we may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+**YOUR CHOICES**
+
+**Public Profiles**
+
+The profiles you create and any content that you post on the RockYou Sites will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. To request removal of your personal information from our blog or community forum, contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+**Location Information**
+
+When you first launch any of our applications that collect location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.
+
+**Cookie Information**
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the RockYou Sites.
+
+**Targeted Advertising**
+
+To opt out of the use of information about your web browsing activity to show ads that are targeted to your interests by companies that participate in the Digital Advertising Alliance, please visit <http://www.aboutads.info/choices/>, or if you are in the EU <http://www.youronlinechoices.eu/>. To opt out of use of information about your app usage for purposes of showing ads that are targeted to your interests, please use the settings on your device (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android).
+
+**Promotional Communications**
+
+You may opt out of receiving promotional communications from us by following the instructions in those messages or by emailing us at [privacy@rockyou.com](mailto:privacy@rockyou.com). If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+
+**Mobile/Push Notifications**
+
+We may also occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt out from receiving these types of communications by turning them off on the app or at the device level through your settings.
+
+**LINKS TO OTHER SITES**
+
+The RockYou Sites include links to other web sites whose privacy practices may differ from those of RockYou. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
+
+**OUR COMMITMENT TO CHILDREN’S PRIVACY**
+
+Protecting the privacy of young children is especially important to RockYou. For that reason, RockYou does not knowingly collect or maintain information on the RockYou Sites from persons under 13 years of age, and no RockYou Sites are directed to persons under 13. If you are under 13 years of age, please do not use or access the RockYou Sites at any time or in any manner. If RockYou learns that personal information of persons under 13 years of age has been collected on the RockYou Sites then RockYou will take the appropriate steps to delete this information.
+
+**INTERNATIONAL USERS & PRIVACY SHIELD**
+
+The RockYou Sites are hosted in the United States. If you access the RockYou Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from the laws of the United States, please be advised that through your continued use of the RockYou Sites, you are transferring your personal information to the United States.
+
+RockYou (and its subsidiaries) participate in and have certified compliance with the EU-U.S. Privacy Shield Framework. RockYou is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+
+RockYou is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. RockYou complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, RockYou is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, RockYou may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**DATA RETENTION**
+
+We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it, such as to mediate your access to the RockYou Sites, for advertising, or as needed to provide you services. We also retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
+
+We do not share personal information with third parties for their own marketing purposes unless you affirmatively agree to such disclosure. California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+**RESIDENTS OF THE EUROPEAN ECONOMIC AREA**
+
+If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under the law regarding the processing of your personal data.
+
+**Legal Basis for Processing**
+
+If you are a resident of the EEA, when we process your personal data we will only do so in the following situations:
+
+  * When we have your consent to do so, such as if you consent to allow us to show ads that are targeted to your interests based on your visits to websites, apps, or games with which we work to show ads.
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the RockYou services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to the RockYou Sites, and to provide, secure, and improve the RockYou Sites.
+
+
+
+**Data Subject Requests**
+
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may contact us as indicated below.
+
+**Questions or Complaints**
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+
+**CHANGES AND UPDATES TO THIS PRIVACY POLICY**
+
+This Privacy Policy may be revised periodically reflected by the “effective date” below. Please revisit this page frequently to become aware of any changes. If we materially change how we use your personal information, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
+
+**Date Last Modified:**
+
+This Privacy Policy was last modified October 23, 2018
+
+**Contact Information:**
+
+Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+RockYou, Inc.  
+1111 Broadway, FL 3  
+Oakland, CA 94607
