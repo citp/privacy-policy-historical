@@ -1,215 +1,276 @@
-<!--The following is the downloaded HTML source of the vinomofo.com privacy policy that was archived on 2017-07-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170707233415id_/https%3A//www.vinomofo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vinomofo.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223023452id_/https%3A//www.vinomofo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
+<link rel="alternate" href="https://www.vinomofo.com/privacy" hreflang="x-default"><link rel="alternate" href="https://www.vinomofo.co.nz/privacy" hreflang="en-nz"><link rel="alternate" href="https://www.vinomofo.com.sg/privacy" hreflang="en-sg">
 <title>
-Vinomofo - Privacy
+Privacy | Vinomofo Australia
 </title>
-<link rel="stylesheet" href="https://assets.vinomofo.com/assets/site/application-9ee91d4516597e9ae25dca06a3c0b34b38a87f510db4c064dff6a5aca6045afb.css">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="nidIScU8r9HYsigq2saDk+e3SeY2Ld6d9oGkyr8liMwot61lGQTZwedW/kcA/IJvGborLOQQGnxavOlA82kKNQ==">
+<link rel="stylesheet" href="https://assets.vinomofo.com/assets/site/application-04694ea7b068c7fe4e5e7e2cda8a85f763ce1a825d0cf849752fc7943ef124df.css">
 <!--[if lte IE 9]>
-<link rel="stylesheet" href="https://assets.vinomofo.com/assets/site/application_split2-cf8b92ca5065456643f787391d3160774ce36f6f81d032be03fba70ca9f4ddbd.css" />
+<link rel="stylesheet" href="https://assets.vinomofo.com/assets/site/application_split2-85b11200dc01df595672943c47f0e6976b76f26d473413ae04dd1771e385337f.css" />
 <![endif]-->
-<link rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Merriweather:300,300italic|Montserrat:400,700|Dancing+Script">
+<link rel="stylesheet" media="all" href="https://assets.vinomofo.com/assets/site/kona-84a077710304924bfeaf806c1c8f409aeee11c4f058a6703ee00e8362448a6f4.css">
+<link rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Montserrat:100,200,300,400,600|Merriweather:300,300italic">
 <script src="https://js.stripe.com/v2/stripe.js"></script>
+<script src="https://js.stripe.com/v3/stripe.js"></script>
 <script>
+  // Stripe v2
   Stripe.setPublishableKey("pk_live_4rBGl3lZRWh8HEjE8utwt5yK");
+  
+  // Stripe v3
+  var stripe = Stripe("pk_live_4rBGl3lZRWh8HEjE8utwt5yK");
+  var elements = stripe.elements();
 </script>
 
+<meta content="NZIOKVNEID" property="algolia:app_id">
+<meta content="44f374ad924956c89228d088bf6ce1f4" property="algolia:search_key">
 <!--[if lt IE 9]>
 <script src="https://assets.vinomofo.com/assets/site/legacy-ie/ltIE9-595170a35a808d2b387338b0abb82280306002d4e78e1f331d17107ed8c7ae16.js"></script>
 <![endif]-->
 <!--[if lt IE 10]>
 <script src="https://assets.vinomofo.com/assets/site/legacy-ie/ltIE10-4f01242f76e1ee693ba691ba2ef499a81f63dd0cdc7f7821b9d88a619c10e210.js"></script>
 <![endif]-->
-<script src="https://assets.vinomofo.com/assets/site/application-632bbf3a0260647a36be67efb04d2b1013fe996e3f07c01d7566a776eb195afc.js"></script>
+<script src="https://assets.vinomofo.com/assets/site/application-c0a3e4be0a6712f37bfbe149ce8ab35a664ed7dc9dba221a4fc091b91bcafe06.js"></script>
+<script type="text/javascript">
+    $(document).on('turbolinks:load content_added_dynamically', function(e) {
+        var scope = $(e.target);
+        var strategies = [{"type":"MobileNumberStrategy","pattern":"^04","format":"(\\d{1,4})(\\d{1,3})?(\\d{1,3})?","length":[10],"spaces":"^(\\d{4}|\\d{4}\\s\\d{3})$"},{"type":"LandlineNumberStrategy","pattern":"^0[2378]","format":"^(\\d{1,2})(\\d{1,4})?(\\d{1,4})?","length":[10],"spaces":"^(\\d{2}|\\d{2}\\s\\d{4})$"},{"type":"FreecallNumberStrategy","pattern":"^1[38]00","format":"^(\\d{1,4})(\\d{1,3})?(\\d{1,3})?","length":[10],"spaces":"^(\\d{4}|\\d{4}\\s\\d{3})$"}];
+        $('.phone-field input, .telephone-field input, .c-field__input.tel', scope).phoneNumber({ strategies: strategies });
+
+        $('.standard-form-group.select2.phone-field select', scope).on('select2:open', function() {
+            $('input.select2-search__field').phoneNumber({ strategies: strategies });
+        });
+    });
+</script>
+
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 <meta content="text/html;charset=UTF-8" http-equiv="content-type">
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" name="viewport">
 <link href="/favicon.ico" rel="shortcut icon">
 <link href="/favicon.ico" rel="apple-touch-icon">
+<meta content="Vinomofo" property="og:site_name">
+<meta content="175025662545953" property="fb:pages">
+<meta content="183484865017669" property="fb:app_id">
+<meta content="https://www.vinomofo.com/vinomofo" property="article:publisher">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="@vinomofo" name="twitter:site">
+<meta content="@vinomofo" name="twitter:creator">
 <meta content="index, follow" name="robots">
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="sOTALzZaFuwfMviaT5evqRCEQjmzFBNb/4KJ41S4m5iJnnoqO0JszBCdFho0v+ustc5xSqml/jcNyZ6HtLPUkQ==">
-<script src="https://assets.vinomofo.com/assets/analytics-78f65b8530aa74eedc6521995a84151e3b94a1d24e3b45ece946173d690c2ea4.js"></script>
-<script>analytics.load("y1mS9HXXGoSvNsRVHqXGD32g6zUdREQ9");</script>
-
-
-<script>
-  var _clt = {
-    "custId": "",
-    "siteId": "88866cbd61"
-  };
-</script>
-<script src="https://d2bi4ao7qfdozx.cloudfront.net/88866cbd61/cl_sp.min.js"></script>
+<meta content="y1mS9HXXGoSvNsRVHqXGD32g6zUdREQ9" name="analytics-api-key">
+<script src="https://assets.vinomofo.com/assets/analytics-149faf6b9c3cc339e4825d61cc7df9be31aa07b94e4887b3e689d08b52b6e242.js"></script>
 <script>
   var _googleApiKey = "AIzaSyDmKRPAO92faYpNMwx7nk29nJ66uC5NpTY"
 </script>
+<meta content="no-cache" name="turbolinks-cache-control">
 </head>
 <body class="pages" data-action="show" data-controller="pages" id="show">
 <script>
   UTIL.init_within_body();
 </script>
+<a class="c-skip-link" href="#main">Skip to content</a>
 
 
-<div id="menu">
-<div class="menu-scale-wrapper">
-<ul>
-<li class="profile">
-<div class="picture-wrapper"><picture class="square circle"><source src="https://assets.vinomofo.com/assets/common/default-profile-image-63c9605cf872c481782aa96d54b76eeaf44732e75b33ab1995fef60b224d00e2.png" media="default"><div class="img-wrapper"></div></picture></div>
-<span class="greeting">もしもし Mofo!</span>
-<span class="motto">Looks like I picked the wrong week to quit Vinomofo</span>
-</li>
-<li class="buttons visible-xs-block">
-<a rel="nofollow" href="tel:1300846666"><i class="ion-ios-telephone"></i>
-</a></li>
-<li></li>
-</ul>
-<ul class="wines">
-<li>
-<label>Wines</label>
-</li>
-<li><a href="/wines">All Deals</a></li>
-<li><a href="/wines/red-wine">Red Wine</a></li>
-<li><a href="/wines/white-wine">White Wine</a></li>
-<li><a href="/wines/rose-sparkling">Rosé/Sparkling</a></li>
-<li><a href="/wines/mixed-case">Mixed Cases</a></li>
-<li><a href="/wines/black-market">Black Market</a></li>
-<li><a href="/clubs">Wine Clubs</a></li>
-</ul>
-<ul>
-<li>
-<label>Your Stuff</label>
-</li><li><a href="/login">Login</a></li>
-
-</ul>
-<ul>
-<li>
-<label>Other Stuff</label>
-</li>
-<li><a href="/vinofiles">Articles</a></li>
-<li><a href="/about">About Us</a></li>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="/shipping">Shipping</a></li>
-<li><a href="/returns">Returns</a></li>
-<li><a href="/privacy">Privacy</a></li>
-<li><a href="/terms">Terms of Use</a></li>
-<li><a href="/jobs">Jobs</a></li>
-</ul>
-<ul>
-<li>
-<label>Social</label>
-</li>
-<li><a target="_blank" rel="nofollow" href="https://www.facebook.com/vinomofo">Facebook</a></li>
-<li><a target="_blank" rel="nofollow" href="https://twitter.com/vinomofo">Twitter</a></li>
-<li><a target="_blank" rel="nofollow" href="https://linkedin.com/company/vinomofo">LinkedIn</a></li>
-<li><a target="_blank" rel="nofollow" href="http://instagram.com/vinomofo">Instagram</a></li>
-<li><a target="_blank" rel="nofollow" href="https://www.youtube.com/user/Vinomofo">YouTube</a></li>
-</ul>
+<div class="c-page-container">
+<header class="c-site-header" role="banner">
+<div class="c-promo-bar">
+<div class="c-promo-bar__inner">
+<div class="c-promo-bar__call-us"></div>
+<div class="c-promo-bar__contact-us">
+<a class="c-promo-bar__contact-us--visit" href="/contact">Contact Us</a>
+<a class="c-promo-bar__contact-us--call" href="tel:1300846666"><span class="sr-only">1300 846 666</span>
+<i aria="hidden" class="ion-ios-telephone"></i>
+</a></div>
+<div class="c-promo-bar__service-message">
+<p class="c-promo-bar__service-message__text">
+Get your wine in time for Christmas
+… <a href="https://www.vinomofo.com/christmas-and-new-year-delivery-cutoff-dates">read more</a>
+</p>
+</div>
+<div class="c-promo-bar__account-links">
+<div class="c-promo-bar__auth-links">
+<a href="/login">Login</a>
+<span class="c-promo-bar__auth-link__separator">or</span>
+<a href="/join">Join Now</a>
+</div>
+</div>
 </div>
 </div>
 
-<div id="menu-pusher">
-<div id="nav-wrapper">
-<div id="header">
-<nav id="navbar">
-<div class="container">
-<div class="navbar-strip">
-<div class="menu-toggle">
-<button class="menu-button" data-toggle="menu" type="button">
-<span class="lines"></span>
-<span class="text">&nbsp;</span>
+<div class="c-site-header__inner">
+<div class="c-site-header__menu-toggle">
+<button aria-controls="menu__drawer" aria-expanded="false" aria-label="Menu" class="js-menu-show c-menu-button" id="menu__button" role="button" type="button">
+<span class="c-menu-button__lines"></span>
 </button>
 </div>
-<div class="left-of-logo">
-<a class=" " href="/wines">All Deals
-</a>
-<a class=" " href="/wines/red-wine">Reds
-</a>
-<a class=" " href="/wines/white-wine">Whites
-</a>
-<a class="hidden-md " href="/wines/rose-sparkling">Rosé/Sparkling
-</a>
-<a class=" " href="/wines/mixed-case">Mixed
-</a>
+<div aria-label="Menu" class="js-sidebar c-sidebar" id="menu__drawer" role="region">
+<nav class="c-site-navigation" role="navigation">
+<button aria-label="Close menu" class="js-menu-hide c-menu-button c-menu-button--close">
+<span class="c-menu-button__lines"></span>
+<strong class="c-menu-button__text">
+<span>Close</span>
+</strong>
+</button>
+<div class="c-user-profile">
+<div class="c-user-profile__image"><picture class="square circle"><source src="https://assets.vinomofo.com/assets/common/default-profile-image-63c9605cf872c481782aa96d54b76eeaf44732e75b33ab1995fef60b224d00e2.png" media="default"><div class="img-wrapper"></div></picture></div>
+<p class="c-user-profile__greeting">Hi Mofo!</p>
+<p class="c-user-profile__motto">To Vinomofo, perchance to dream</p>
 </div>
-<a class="logo" href="/today">
-<img alt="Vinomofo" title="Vinomofo" width="170" height="50" src="https://assets.vinomofo.com/assets/common/vm-logo-2582281190c0febf053465f6c1d32b59b884bf1f8a71d37720f597c5c8209d77.png">
-</a>
-<div class="right-of-logo">
-<a class=" " href="/wines/black-market">Black Market
-</a>
-<a class=" " href="/clubs">Clubs
-</a>
-<a class=" " href="/vinofiles">Articles
-</a>
+<div class="c-sidebar__buttons">
 </div>
-<div class="utility-buttons"><a class="utility-button invite" href="/invites" rel="nofollow">
-<div class="translate-wrapper">
-<i class="ion-ios-people-outline"></i>
+<div class="c-sidebar__menu">
+<h3 class="c-sidebar__title" id="sidebar__your-stuff">Your Stuff</h3>
+<ul aria-labelledby="sidebar__your-stuff">
+<li class="c-sidebar__menu-item"><a rel="nofollow" href="/join">Join Now</a></li>
+<li class="c-sidebar__menu-item"><a rel="nofollow" href="/login">Login</a></li>
+</ul>
 </div>
-<span>Invite</span>
-</a>
-<a class="utility-button account" href="/account" rel="nofollow">
-<div class="translate-wrapper">
-<i class="ion-ios-gear-outline"></i>
+<div class="c-sidebar__menu c-sidebar__menu--wines">
+<h3 class="c-sidebar__title" id="sidebar__wines">Wines</h3>
+<ul>
+<li class="c-sidebar__menu-item"><a href="/wines">All Wines</a></li>
+<li class="c-sidebar__menu-item"><a href="/wines/red-wine">Red Wine</a></li>
+<li class="c-sidebar__menu-item"><a href="/wines/white-wine">White Wine</a></li>
+<li class="c-sidebar__menu-item"><a href="/wines/rose-sparkling">Rosé/Sparkling</a></li>
+<li class="c-sidebar__menu-item"><a href="/wines/mixed-case">Mixed Cases</a></li>
+<li class="c-sidebar__menu-item"><a href="/wines/black-market">Black Market</a></li>
+<li class="c-sidebar__menu-item"><a href="/wine-clubs">Wine Clubs</a></li>
+<li class="c-sidebar__menu-item"><a href="https://articles.vinomofo.com?vm=au">Articles</a></li>
+</ul>
 </div>
-<span>Account</span>
-<div class="alert-count">1</div>
-</a>
-<a class="utility-button cart" href="/checkout" rel="nofollow">
-<div class="translate-wrapper">
-<i class="ion-ios-cart-outline"></i>
+<div class="c-sidebar__menu">
+<h3 class="c-sidebar__title" id="sidebar__other-stuff">Other Stuff</h3>
+<ul aria-labelledby="sidebar__other-stuff">
+<li class="c-sidebar__menu-item"><a href="https://articles.vinomofo.com?vm=au">Articles</a></li>
+<li class="c-sidebar__menu-item"><a href="/about">About Us</a></li>
+<li class="c-sidebar__menu-item"><a href="/contact">Contact Us</a></li>
+<li class="c-sidebar__menu-item"><a href="/shipping">Shipping</a></li>
+<li class="c-sidebar__menu-item"><a href="/returns">Returns</a></li>
+<li class="c-sidebar__menu-item"><a href="/privacy">Privacy</a></li>
+<li class="c-sidebar__menu-item"><a href="/terms">Terms of Use</a></li>
+<li class="c-sidebar__menu-item"><a href="/jobs">Jobs</a></li>
+</ul>
 </div>
-<span>Cart</span>
-</a>
-</div>
-</div>
-<div class="menu-items-strip">
-<a class=" " href="/wines">All Deals
-</a>
-<a class=" " href="/wines/red-wine"><span class="long-version">Red Wine</span>
-<span class="short-version">Reds</span>
-</a>
-<a class=" " href="/wines/white-wine"><span class="long-version">White Wine</span>
-<span class="short-version">Whites</span>
-</a>
-<a class=" " href="/wines/rose-sparkling">Rosé/Sparkling
-</a>
-<a class=" " href="/wines/mixed-case"><span class="long-version">Mixed Cases</span>
-<span class="short-version">Mixed</span>
-</a>
-<a class=" " href="/wines/black-market">Black Market
-</a>
-<a class=" " href="/clubs"><span class="long-version">Wine Clubs</span>
-<span class="short-version">Clubs</span>
-</a>
-<a class=" " href="/vinofiles">Articles
-</a>
-</div>
+<div class="c-sidebar__menu">
+<h3 class="c-sidebar__title" id="sidebar__social">Social</h3>
+<ul aria-labelledby="sidebar__social">
+<li class="c-sidebar__menu-item"><a target="_blank" rel="nofollow" href="https://www.facebook.com/vinomofo">Facebook</a></li>
+<li class="c-sidebar__menu-item"><a target="_blank" rel="nofollow" href="https://twitter.com/vinomofo">Twitter</a></li>
+<li class="c-sidebar__menu-item"><a target="_blank" rel="nofollow" href="https://linkedin.com/company/vinomofo">LinkedIn</a></li>
+<li class="c-sidebar__menu-item"><a target="_blank" rel="nofollow" href="http://instagram.com/vinomofo">Instagram</a></li>
+<li class="c-sidebar__menu-item"><a target="_blank" rel="nofollow" href="https://www.youtube.com/user/Vinomofo">YouTube</a></li>
+</ul>
 </div>
 </nav>
 
+</div>
+<a class="c-site-header__logo  c-site-header__logo--xmas" title="Back to the homepage" href="/"><svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 191.5 64.3">
+  <style>
+    .st0{fill:#77b204}.st1{fill:#4c4c4c}.st2{fill:#fff}.st3{fill:#dd2c2c}.st4{fill:#ba0f0f}.st5{fill:#ededed}.st6{fill:#a00000}.st7{fill:#f23838}
+  </style>
+  <path d="M87.1 60.1h18.4v1.4H87.1v-1.4z" class="st0"></path>
+  <path d="M52.1 29.5h-.4v24.2h-6v.3H52V29.8h.1zM30.5 11.3l-1 4.4-6.3 38h-6.6v.3h6.9l6.3-38 1.1-4.7h-.3zM41.4 11.3H41l-.7 2.3v37.6l.8 2.5h-8.2l-.1.3h8.6l-.8-2.5V13.9zM58.2 33.3l.5 1.9h.3l-.5-1.6-6.7-22.3h-.2zM16.5 11.3l-.4 1.2.2 1.3.3 1.9h-.1l2.8 18.8.2 1.8h.3l-.2-1.5L16.8 16h.1l-.3-1.9-.2-1.3.5-1.5zM131.2 47.7c-.7-.9-.7-2.4-.7-2.4V20.1s-.1-3.1 2.3-3.1c.6 0 1 .2 1.3.4-.3-.4-.9-.7-1.6-.7-2.4 0-2.3 3.1-2.3 3.1V45c.1 0 0 1.8 1 2.7zM105.5 30.5l.3 2.3h.1l.1-.5-.2-1.5-4.1-19.5h-.2zM77.9 47.7c-.7-.9-.7-2.4-.7-2.4V20.1s-.1-3.1 2.3-3.1c.6 0 1 .2 1.3.4-.3-.4-.8-.7-1.6-.7-2.4 0-2.3 3.1-2.3 3.1V45s0 1.8 1 2.7z" class="st1"></path>
+  <path d="M139.2 13.1c2.6 2.7 2.5 6.7 2.5 6.7V45s.1 9.2-9.2 9.2c-3 0-5-1-6.3-2.3 1.4 1.5 3.4 2.6 6.6 2.6 9.2 0 9.2-9.2 9.2-9.2V20.1s0-4.3-2.8-7zm23.5 22h-9.5v16l.9 2.6h-8.2l-.1.3h8.6l-.9-2.6v-16h9.5V29h-.3v6.1zm.3-23.8h-.2l1.1 6.8-2.3-.7h-8.4v11.2h.3V17.8h8.4l2.3.7-1.2-7.2zm19.4 1.8c2.6 2.7 2.5 6.7 2.5 6.7V45s.1 9.2-9.2 9.2c-3 0-5-1-6.3-2.3 1.4 1.5 3.4 2.6 6.6 2.6 9.2 0 9.2-9.2 9.2-9.2V20.1c.1 0 .1-4.3-2.8-7zm-117 .4v40.2h-5.9l.1.3h6.1V13.8l.8-2.5h-.4l-.7 2.2zm34.3 13.7v-1.8h.1v-.3h-.4v26l.9 2.6h-7.7l-.1.3h8.1l-.9-2.6V27.2zM119 17.1V14l.9-2.7h-.4l-.8 2.4v37.4l.9 2.6h-7.7l-.1.3h8.1l-.9-2.6V17.1zm-33.1-4c2.6 2.7 2.5 6.7 2.5 6.7V45s.1 9.2-9.2 9.2c-3 0-5-1-6.3-2.3 1.4 1.5 3.4 2.6 6.6 2.6 9.2 0 9.2-9.2 9.2-9.2V20.1s0-4.3-2.8-7zm26.4 12.3l.1-.3h-.4l-.3 1.8-4.4 26.8h-2.6v.3h2.9l4.4-26.8.3-1.8z" class="st1"></path>
+  <path d="M22 9.4h-.7l.5 1.5-.1.8-.4 2.4-2.7 18.8-.3 1.8h-.4l-.2-1.8-2.8-18.8h.1l-.3-1.9-.2-1.3.5-1.5H7.3l1 4.7h.1l6.3 38h6.9l6.3-38L29 9.4h-7zm35.5 0h-.8l.8 2.6v21.6h-.4l-.5-1.9-6.7-22.3h-7l.9 2.7v40h6.3V27.9h.4l.5 2 6.7 22.2h6.1V11.9l.8-2.5h-7.1zm20.1-.5c-9.2 0-9.2 9.2-9.2 9.2v25.2s-.1 9.2 9.2 9.2c9.2 0 9.2-9.2 9.2-9.2V18.2s.1-9.3-9.2-9.3zm0 37.6c-2.4 0-2.3-3.1-2.3-3.1V18.2s-.1-3.1 2.3-3.1 2.3 3.1 2.3 3.1v25.2s.1 3.1-2.3 3.1zM39.5 9.4h-8.6l.9 2.7v37.4l-.9 2.6h8.6l-.8-2.5V12l.8-2.6z" class="st2"></path>
+  <path d="M160 15.9l2.3.7-1.2-7.1h-17.2l.8 2.6v37.5l-.9 2.6h8.7l-.9-2.6v-16h9.5v-6.5h-9.5V15.9zM130.9 8.9c-9.2 0-9.2 9.2-9.2 9.2v25.2s-.1 9.2 9.2 9.2c9.2 0 9.2-9.2 9.2-9.2V18.2s.1-9.3-9.2-9.3zm0 37.6c-2.4 0-2.3-3.1-2.3-3.1V18.2s-.1-3.1 2.3-3.1 2.3 3.1 2.3 3.1v25.2s.2 3.1-2.3 3.1zM117.1 15.2v-3.1l.9-2.7h-9.3l-4 19.5-.4 2.3h-.1l-.3-2.3-4.1-19.5h-9.2l.8 2.7v37.4l-.8 2.6h8.1l-.9-2.6v-26h.4l.2 1.8 4.4 26.8h2.9l4.4-26.8.3-1.8h.4v26.1l-.9 2.5h8.1l-.9-2.6v-3.1z" class="st0"></path>
+  <path d="M174.5 47.7c-.7-1-.7-2.4-.7-2.4V20.1s-.1-3.1 2.3-3.1c.6 0 1 .2 1.3.4-.3-.4-.8-.7-1.6-.7-2.4 0-2.3 3.1-2.3 3.1V45s0 1.8 1 2.7z" class="st1"></path>
+  <path d="M174.2 8.9c-9.2 0-9.2 9.2-9.2 9.2v25.2s-.1 9.2 9.2 9.2 9.2-9.2 9.2-9.2V18.2s0-9.3-9.2-9.3zm0 37.6c-2.4 0-2.3-3.1-2.3-3.1V18.2s-.1-3.1 2.3-3.1 2.3 3.1 2.3 3.1v25.2s.1 3.1-2.3 3.1z" class="st0"></path>
+  <path d="M164.2 7.6c.2-.2.4-.8.5-1.8.1-.5 1.6-1.4 3.2-2.4 2-1.2 4.4-2.3 4.7-2.4.7-.2 7.8 3.5 8.6 4.4.7.8 7.2 2.8 8.4 5.7 1.2 2.9-.1 7.8-.2 8l-12.4-3-14.7-3.5s0-2.7.2-3.4c.4-.7 1.5-1.3 1.7-1.6z" class="st3"></path>
+  <path d="M164 7.7c.2-.2.4-.8.5-1.8.1-.5 1.6-1.4 3.2-2.4l-1.5 2.1c-.5.7-.7 1.8-.2 2.4.5.6 1.3.5 2 .4.7-.1 1.3-.1 2-.3.9-.1 1.8-.2 2.4-.7.9-.6 1.4-1.6 1.3-2.7 0-1.1-.8-2-1.7-2.4.9-.4 1.8-.1 2.6.5.8.5 1.3 1.3 1.7 2.2 1.3 2.7 2 5.7 1.7 8.6 0 .8-.2 1.7-.8 2.3 0 .1-.1.1-.2.2l-14.7-3.5s0-2.7.2-3.4c.4-.7 1.5-1.3 1.5-1.5z" class="st4"></path>
+  <path d="M163.7 10.5c.7.1 1.4-.4 1.3-1.1.3.2.6.5.9.7-.2-.2-.2-.4 0-.5.2-.2.3-.2.5-.3.3 0 .5 0 .8-.1l4.2-.6c.3-.1.4-.4.7-.5.3.4.6.7.9 1.1.3-.4.5-.8.9-1.2 0 .3 0 .5.2.8.1.3.5.5.7.3.3-.1.4-.5.2-.7.6.3 1.3.5 2 .8 1.7.7 3.3 1.3 4.9 2.2 1.5.9 3 2 4.3 3.2.4.4.8.8 1.2 1.1 0 .2.1.3.1.6.3 0 .5 0 .9-.1 0 .3-.1.7-.2 1 .2-.2.5-.2.7 0 .2.2.3.4.4.7.3.6.9 1.4.8 2.2-.1.7-.7 1.4-1.2 2-.9 1-1.8 2.1-2.8 3 .2.2.2.5 0 .6-.3 0-.5 0-.8-.1v.8c0 .1-1.9.3-2.2.2-.6-.1-1.3-.5-.7-1.2.3-.4.7-.4.4-.9-.3-.5-1.1-1.1-1.5-1.5-.2-.3-.5-.5-.6-.7-.2-.3-.4-.5-.5-.9-.3.1-.7.2-1 .3-.1-.4-.2-.9-.2-1.3-.3.1-.6.2-.9.4.3-.1-1.2-1.1-1.4-1.2-.7-.2-1.4-.5-2.1-.7-1.5-.6-3.3-.8-4.9-1-.2.4-.4.7-.6 1.1-.3-.4-.6-.7-.9-1.1.1.4-.2 1-.6 1.1-.5.2-1-.2-1.1-.6 0 .4-.5.8-1 1-.7.3-1.2.5-1 1.4 0 .1 0 .3.1.4 0-.1-.4 0-.5 0-.2-.1-.4 0-.6-.2-.4-.2-.3-.3-.7-.1 0-.4.1-.7.1-1-.3 0-.6-.3-.7-.5-.3-.5-.2-1.2-.3-1.8-.3-1.4-.5-2.8-.2-4.2 0-.1.1-.2.1-.3.2-1.3 1.1-1.9 1.9-2.6z" class="st5"></path>
+  <path d="M175.2.5c1.8.5 5.3 4 7.1 4.5 1.6.5 2.9 0 3.8.2 1.5.2 4.6 2.4 4.5 4.2s-.9 3-2.9 4.9c-.3.3-.7.6-1.2 1.1-2.9 2.6-8.4 7.5-10.2 7-1.1-.3-1-4-1.1-10 0-4.5-.3-7.6-.7-9.2-.3-1-.6-1.4-.9-1.4-.9.2-2.8.1-2.8.1s2.5-2 4.4-1.4z" class="st3"></path>
+  <path d="M186.9 17.2c-1 0-1.7.8-2.4 1.4-.3.2-.5.5-.7.7-.3.1-.4.4-.6.7-.2.3-.2.6 0 .8.1.3.5.4.8.2-.1.4-.1.8.1 1.1s.6.5 1 .5c-.3.3-.4.7-.2 1.1.2.4.7.6 1 .5.3 0 .6-.3.9-.6.6-.7 1.4-1.4 1.8-2.3s.7-2 .2-2.9c-.4-.5-1.1-1.1-1.9-1.2zM174 16.2c.3-.3.4-.8.4-1.4 0-1 0-1.9.1-2.8 0-.7 0-1.5-.5-1.9-.3-.3-.8-.4-1.2-.2-.4.1-.8.5-.8.9-.5-.7-1.6-.7-2.2 0-.3-.5-.7-.7-1.2-.8-.5 0-1 .2-1.4.7-.3-.3-.8 0-1 .3-.2.4-.1.7 0 1.2-.2-.4-.9-.6-1.4-.4-.5.2-.8.7-1 1.2 0 .5 0 1.1.1 1.6 0 .5.3 1.1.7 1.5.5.5 1.2.5 2 .5 2 .1 3.9.1 5.9.2.4-.1 1.1-.2 1.5-.6z" class="st2"></path>
+  <path d="M176.4 8.8c.2 2.5 0 5 .5 7.5.3.9.6 1.9 1.4 2.2.9.4 1.9-.1 2.8-.5 1.8-1 3.4-1.8 5.2-2.8l.2.2c-2.9 2.6-8.4 7.5-10.2 7-1.1-.3-1-4-1.1-10 0-4.5-.3-7.6-.7-9.2 1.2 1.5 1.8 3.6 1.9 5.6z" class="st4"></path>
+  <path d="M175 4.9c0 1.1-.1 2.2 0 3.2-.1-1.3-.3-2.5-.5-3.7 0-.5-.2-1-.6-1.3-.3-.2-.6-.2-.8-.4-.3-.2-.5-.5-.3-.7.1-.2.3-.2.5-.2.2.1.3.1.5.2.7.7 1 1.8 1.2 2.9zM186.9 14.8c.1.3.2.4.3.6.2.2.3.4.5.5.2.1.4-.1.5-.3 0 .5.2 1.1.6 1.4-.3-.9-.6-2-.2-2.8.4-.8 1.3-1.4 1.3-2.3-.9 1-1.9 2-3 2.9z" class="st6"></path>
+  <path d="M182.9 12.3c1 .4 2.2.7 3.3.5 1.1-.1 2.2-.7 2.7-1.7.5-.9.3-2.2-.2-3.1-.6-.9-1.5-1.6-2.6-1.9-1.1-.3-2.2-.4-3.3-.3-.5 0-1.1.1-1.7 0-.5 0-1.1-.3-1.5-.8.6.2 1.1.2 1.6.4-1.7-1.7-3.7-3.1-5.8-4.2-.3-.2-.6-.3-.9-.3-.3 0-.6.2-.6.6 0 .3.4.5.6.7 1.4 1 2.1 2.6 2.7 4.2.6 1.5 1.2 3.2 2.3 4.4 1 .9 2.4 1.4 3.4 1.5zM169.3 6c1-.1 1.8-.8 2.6-1.4.3-.3.6-.7.5-1-.1-.4-.6-.6-1-.6-1-.1-2.1.2-2.9.9-.4.3-.7.9-.5 1.4.2.5.8.6 1.3.7z" class="st7"></path>
+  <path d="M172.8 28.8c.4.2.8 0 .9-.4.1 1.4 1.5 1.4 2.5 1.4.4 0 2.2.1 1.9-.7.1.3.6.3.8 0 .2-.3.2-.7 0-1 .2.2.3.3.6.3.2 0 .4-.2.4-.4.1-.4-.1-.8.1-1 .2-.2.4-.3.5-.6 0-.1 0-.6-.1-.8 0-.6-.3-1.2-.4-1.9-.1-.3-.6-1.6-1.1-.8.1-.2 0-.4-.1-.6-.1-.1-.2-.3-.4-.3-.2-.2-.5-.2-.6-.4-.6-.4-1.7-.3-2.5-.2-1.4.2-2.8 1.2-3.3 2.5-.1.3-.3.6-.1.9-.4 0-.7.3-.7.7 0 .3.3.7.7.7-.3.1-.3.6-.2.9.1.3.6.4.9.3-.1.1-.2.3-.1.4 0 .4.2.7.3 1z" class="st5"></path>
+  <path d="M176.4 27.6c.4-.1.9-.6.7-1-.1.6.6 1.1 1.2 1.1s1.2-.6 1.4-1.2.1-1.2-.2-1.8c-.5-1.2-1.5-2.1-2.6-2.5-.4-.1-.9-.2-1.3 0s-.5.8-.2 1.1c-.6-.4-1.5-.2-2 .3s-.5 1.4-.1 2c.1.3.4.4.7.6.4.2.7.5 1 .7.6.3 1 .6 1.4.7z" class="st2"></path>
+</svg>
+
+</a><ul class="c-site-header__links">
+<li class="c-site-header__link c-site-header__link--search">
+<button aria-label="Open search" class="js-header-search-show">
+<i aria-hidden="true" aria-label="Search for Wines" class="ion-ios-search" title="Search for Wines"></i>
+</button>
+</li>
+<li class="c-site-header__link c-site-header__link--cart">
+<a href="/cart" rel="nofollow">
+<i aria-hidden="true" aria-label="Shopping Cart" class="ion-ios-cart-outline" title="Shopping Cart"></i>
+</a>
+</li>
+</ul>
+
+<div class="c-site-header__bottom">
+<ul class="c-quick-links">
+<li>
+<a class="c-quick-links__link" href="/wines">
+All Wines
+</a>
+</li>
+<li>
+<a class="c-quick-links__link" href="/wines/red-wine">
+Red Wine
+</a>
+</li>
+<li>
+<a class="c-quick-links__link" href="/wines/white-wine">
+White Wine
+</a>
+</li>
+<li>
+<a class="c-quick-links__link" href="/wines/rose-sparkling">
+Rosé/Sparkling
+</a>
+</li>
+<li>
+<a class="c-quick-links__link" href="/wines/mixed-case">
+Mixed Cases
+</a>
+</li>
+<li>
+<a class="c-quick-links__link" href="/wines/black-market">
+Black Market
+</a>
+</li>
+<li>
+<a class="c-quick-links__link" href="/wine-clubs">
+Wine Clubs
+</a>
+</li>
+<li>
+<a class="c-quick-links__link" href="https://articles.vinomofo.com">
+Articles
+</a>
+</li>
+</ul>
+
+</div>
+</div>
+</header>
+
+
+<main class="c-page-content" id="main" role="main">
 <div class="notification-bar-flash">
 </div>
 
-</div>
-</div>
-<div id="page-wrapper">
-<div id="page">
 <div class="medium-editor-document">
-<div class="layout-single-column"><h2>Our Privacy Policy</h2><h4 class="centre-align">Note from the founders:</h4><div><hr></div><blockquote>We’d just like to apologise for the formal and legal tone of our privacy policy, but it’s required with stricter new privacy laws, which is good for everyone, really. Just know that basically, we’re a members-only site, we look after our members, and that means we respect your privacy, we don’t share your information with other parties, and we don’t spam people. We try to do good. But here’s the formal stuff that you might like to know…</blockquote><blockquote>Cheers, Andre Eikmeier + Justin Dry, co-founders</blockquote><p><br></p><h4 class="centre-align">Our commitment to open and transparent management of your personal information</h4><div><hr></div><ol><li>At Vinomofo we are committed to the open and transparent management of your personal information in line with our obligations under the privacy laws and to you as our valued customers.</li><li>To offer the goods and services we provide in our business as an online retailer, we will need to collect personal information.</li><li>Personal information is defined as information that can identify you in some way.</li><li>This policy sets out how we collect and use personal information including: how we collect and protect your information; how we use your information; disclosure of information; our compliance with direct marketing and spam laws; offshore disclosure of information; and how you can correct information or complain about our use of your personal information.</li><li>The 13 Australian Privacy Principles can be found at http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles</li><li>We will only collect information in accordance with the law, the Australian Privacy Principles and through fair means.</li></ol><p><br></p><h4 class="centre-align">Collecting and looking after your information</h4><div><hr></div><ol><li>We only collect personal information with your consent, and which is necessary for our business.</li><li>We collect this information so we can deliver our goods and services to you, carry on our business and provide you with anything else you might require.</li><li>On signing up, and placing an order, we will collect from you: your name, email contact, phone number, address, date of birth; and your credit card details if you select that payment method (we do not store credit card details, only payment tokens via our secure payment gateway Stripe)</li><li>When you visit our website we may automatically collect information about: your computer’s operating system; your computer’s browser type and capability, your computer’s Internet Protocol (IP) Address and geolocation; pages visited on our site, including how you were referred to each page; and web page usage statistics, including the time spent on each web page.</li><li>We may record phone calls for customer service training purposes.</li><li>We will not identify users or their browsing activities except where we are compelled to by law or in accordance with our website Terms and Conditions.</li><li>We store this information on secure cloud servers. These servers are protected by best practice cloud security measures which are in place to protect your personal information from loss, unauthorised access, unauthorised use, modification, disclosure or any other misuse.</li></ol><p><br></p><h4 class="centre-align">Use of your personal information</h4><div><hr></div><ol><li>We use your personal information for the purpose of carrying on our business as an online retailer, including securing payment for and delivering your orders and any other related activities that you may expect from us.</li><li>We also use that information, or for a related secondary purpose where you would reasonably expect us to use the information or where permitted by law.</li><li>We use the sort of information collected from your computer (mentioned in point 4 of ‘Collecting and looking after your information’) for the purposes of managing our website, improving our business and ultimately delivering better results for our customers.</li><li>Use of your information will only be made in accordance with Australian Privacy Principle 6.</li></ol><p><br></p><h4 class="centre-align">Disclosure of your personal information</h4><div><hr></div><ol><li>If we do disclose your personal information it will only be for the primary purpose for which it was collected or for a related secondary purpose where you would reasonably expect us disclose the information.</li><li>We may disclose your personal information in any other way that is required or authorised by you or the law.</li><li>We may disclose your personal information, with consent, for the purpose of carrying on our business as an online retailer and any other related activities that you may expect from us.</li><li>Typical situations where your consent will be implied include, but are not limited to disclosure to third parties that provide services such as our payment gateway, marketing, logistic and technology support which are required to fulfil a transaction.</li><li>In addition, disclosure of your information will only be made in accordance with Australian Privacy Principle 6.</li></ol><p><br></p><h4 class="centre-align">Direct marketing and spam</h4><div><hr></div><ol><li>We will only use your information for direct marketing (advertising, special offers, updates etc) if you have given express or implied consent to receive it.</li><li>We will only ever send you direct marketing communications that are consistent with our obligations under Australian Privacy Principle 7 and the Spam Act 2003 (Cth).</li><li>We will always make it clear and simple to opt out of these communications and will respond to an opt out request within 5 business days.</li><li>There are lots of links that will allow you to opt-out of direct marketing communications on the communications themselves but if they aren’t showing up, for whatever reason, please email team@vinomofo.com to request an opt-out.</li></ol><p><br></p><h4 class="centre-align">Offshore disclosure</h4><div><hr></div><ol><li>As part of our business, disclosure of your personal information may be made. Sometimes this disclosure will need to be made to offshore entities for the purpose of storing and processing our data.</li><li>When disclosing your information to a foreign entity it is still our responsibility to ensure your personal information is protected. We ensure, amongst other things, that: the current privacy policy of the foreign entity complies with Australian requirements and in line with Vinomofo’s privacy obligations; if necessary, we will seek further agreements or consents from the foreign entity; and we will mitigate any risk of a breach of this privacy policy even when the disclosure is to a foreign entity.</li><li>The countries where these entities reside are varied due to the nature of wireless networks and cloud computing it is not practical for us to notify you of which country your personal information may be located but we know that disclosure may be made to the following countries: United States.</li><li>Where an offshore disclosure is made it is always in accordance with the Australian Privacy Principle, particularly Australian Privacy Principle 1 and 8.</li></ol><p><br></p><h4 class="centre-align">Your rights to correct or complain</h4><div><hr></div><ol><li>We are only allowed to, and only want to, keep your personal information if it is correct.</li><li>At any time you can contact us and seek access to or correction of the personal information we hold about you.</li><li>We are contactable by email at team@vinomofo.com or write to us at: Vinomofo Pty Ltd t/a Vinomofo, Tenancy 4, Level 2, 6 Palmer Parade, Cremorne, VIC 3121, Australia.</li><li>If you wish to complain about a breach of your rights under the Privacy Act 1988 (Cth) please contact us on the email and postal addresses above providing details of your complaint in writing.</li><li>We will respond to any complaint within 30 days. If you aren’t happy with our response you can complain directly to the Office of the Australian Information Commissioner at http://www.oaic.gov.au/privacy/making-a-privacy-complaint</li></ol><p><br></p><div><hr></div><blockquote class="pull-quote">If you have any questions about privacy, your personal information, direct marketing, spam or our obligations or this policy please contact us at team@vinomofo.com.</blockquote><div><hr></div><p class="centre-align">This Privacy Policy was last updated on 12 March 2014.</p><p><br></p><p>Still awake? Well done. I nodded off at least twice while typing that out. Here’s a video of a sausage dog puppy sleep-digging:</p><figure><div class="video-wrapper"><iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/_Jxh7eyIGu8"></iframe></div></figure><p><br></p></div>
+<div class="layout-single-column"><h2>Our Privacy Policy</h2><h4 class="centre-align">Note from the founders:</h4><div><hr></div><blockquote>We’d just like to apologise for the formal and legal tone of our privacy policy, but it’s required with stricter new privacy laws, which is good for everyone, really. Just know that basically, we’re a members-only site, we look after our members, and that means we respect your privacy, we don’t share your information with other parties, and we don’t spam people. We try to do good. But here’s the formal stuff that you might like to know…</blockquote><blockquote>Cheers, Andre Eikmeier + Justin Dry, co-founders</blockquote><p><br></p><h4 class="centre-align">Our commitment to open and transparent management of your personal information</h4><div><hr></div><ol><li>At Vinomofo we are committed to the open and transparent management of your personal information in line with our obligations under the privacy laws and to you as our valued customers.</li><li>To offer the goods and services we provide in our business as an online retailer, we will need to collect personal information.</li><li>Personal information is defined as information that can identify you in some way.</li><li>This policy sets out how we collect and use personal information including: how we collect and protect your information; how we use your information; disclosure of information; our compliance with direct marketing and spam laws; offshore disclosure of information; and how you can correct information or complain about our use of your personal information.</li><li>The 13 Australian Privacy Principles can be found at http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles</li><li>We will only collect information in accordance with the law, the Australian Privacy Principles and through fair means.</li></ol><p><br></p><h4 class="centre-align">Collecting and looking after your information</h4><div><hr></div><ol><li>We only collect personal information with your consent, and which is necessary for our business.</li><li>We collect this information so we can deliver our goods and services to you, carry on our business and provide you with anything else you might require.</li><li>On signing up, and placing an order, we will collect from you: your name, email contact, phone number, address, date of birth; and your credit card details if you select that payment method (we do not store credit card details, only payment tokens via our secure payment gateway Stripe)</li><li>When you visit our website we may automatically collect information about: your computer’s operating system; your computer’s browser type and capability, your computer’s Internet Protocol (IP) Address and geolocation; pages visited on our site, including how you were referred to each page; and web page usage statistics, including the time spent on each web page.</li><li>We may record phone calls for customer service training purposes.</li><li>We will not identify users or their browsing activities except where we are compelled to by law or in accordance with our website Terms and Conditions.</li><li>We store this information on secure cloud servers. These servers are protected by best practice cloud security measures which are in place to protect your personal information from loss, unauthorised access, unauthorised use, modification, disclosure or any other misuse.</li></ol><p><br></p><h4 class="centre-align">Use of your personal information</h4><div><hr></div><ol><li>We use your personal information for the purpose of carrying on our business as an online retailer, including securing payment for and delivering your orders and any other related activities that you may expect from us.</li><li>We also use that information, or for a related secondary purpose where you would reasonably expect us to use the information or where permitted by law.</li><li>We use the sort of information collected from your computer (mentioned in point 4 of ‘Collecting and looking after your information’) for the purposes of managing our website, improving our business and ultimately delivering better results for our customers.</li><li>Use of your information will only be made in accordance with Australian Privacy Principle 6.</li></ol><p><br></p><h4 class="centre-align">Disclosure of your personal information</h4><div><hr></div><ol><li>If we do disclose your personal information it will only be for the primary purpose for which it was collected or for a related secondary purpose where you would reasonably expect us disclose the information.</li><li>We may disclose your personal information in any other way that is required or authorised by you or the law.</li><li>We may disclose your personal information, with consent, for the purpose of carrying on our business as an online retailer and any other related activities that you may expect from us.</li><li>Typical situations where your consent will be implied include, but are not limited to disclosure to third parties that provide services such as our payment gateway, marketing, logistic and technology support which are required to fulfil a transaction.</li><li>In addition, disclosure of your information will only be made in accordance with Australian Privacy Principle 6.</li></ol><p><br></p><h4 class="centre-align">Direct marketing and spam</h4><div><hr></div><ol><li>We will only use your information for direct marketing (advertising, special offers, updates etc) if you have given express or implied consent to receive it.</li><li>We will only ever send you direct marketing communications that are consistent with our obligations under Australian Privacy Principle 7 and the Spam Act 2003 (Cth).</li><li>We will always make it clear and simple to opt out of these communications and will respond to an opt out request within 5 business days.</li><li>There are lots of links that will allow you to opt-out of direct marketing communications on the communications themselves but if they aren’t showing up, for whatever reason, please email team@vinomofo.com to request an opt-out.</li></ol><p><br></p><h4 class="centre-align">Offshore disclosure</h4><div><hr></div><ol><li>As part of our business, disclosure of your personal information may be made. Sometimes this disclosure will need to be made to offshore entities for the purpose of storing and processing our data.</li><li>When disclosing your information to a foreign entity it is still our responsibility to ensure your personal information is protected. We ensure, amongst other things, that: the current privacy policy of the foreign entity complies with Australian requirements and in line with Vinomofo’s privacy obligations; if necessary, we will seek further agreements or consents from the foreign entity; and we will mitigate any risk of a breach of this privacy policy even when the disclosure is to a foreign entity.</li><li>The countries where these entities reside are varied due to the nature of wireless networks and cloud computing it is not practical for us to notify you of which country your personal information may be located but we know that disclosure may be made to the following countries: United States.</li><li>Where an offshore disclosure is made it is always in accordance with the Australian Privacy Principle, particularly Australian Privacy Principle 1 and 8.</li></ol><p><br></p><h4 class="centre-align">Your rights to correct or complain</h4><div><hr></div><ol><li>We are only allowed to, and only want to, keep your personal information if it is correct.</li><li>At any time you can contact us and seek access to or correction of the personal information we hold about you.</li><li>We are contactable by email at <a href="mailto:team@vinomofo.com" target="_blank">team@vinomofo.com</a> or write to us at: Vinomofo Pty Ltd t/a Vinomofo, Tenancy 4, Level 2, 6 Palmer Parade, Cremorne, VIC 3121, Australia.</li><li>If you wish to complain about a breach of your rights under the Privacy Act 1988 (Cth) please contact us on the email and postal addresses above providing details of your complaint in writing.</li><li>We will respond to any complaint within 30 days. If you aren’t happy with our response you can complain directly to the Office of the Australian Information Commissioner at http://www.oaic.gov.au/privacy/making-a-privacy-complaint</li></ol><p><br></p><div><hr></div><blockquote class="pull-quote">If you have any questions about privacy, your personal information, direct marketing, spam or our obligations or this policy please contact us at <a href="mailto:team@vinomofo.com" target="_blank">team@vinomofo.com</a>.</blockquote><div><hr></div><p class="centre-align">This Privacy Policy was last updated on 12 March 2014.</p><div><hr></div></div>
 </div>
 
-<footer class="site-footer">
+
+</main>
+<div class="js-close-overlay c-page-container__overlay"></div>
+</div>
+<footer class="site-footer" role="contentinfo">
 <nav class="footer-nav">
 <div class="container">
 <div class="row">
 <div class="col-sm-12 text-center">
 <div class="h2 mofotype">Like Scrolling, eh?</div>
 <p>
-Welcome to the official footer of the
-site, where all the links and boring
-stuff is.
+Welcome to the official footer of the site, where all the links and boring stuff is.
 </p>
 </div>
 </div>
@@ -221,11 +282,11 @@ stuff is.
 <li>
 <div class="h3">Wines</div>
 </li>
-<li><a href="/wines">All Deals</a></li>
+<li><a href="/wines">All Wines</a></li>
 <li><a href="/wines/red-wine">Red Wine</a></li>
 <li><a href="/wines/white-wine">White Wine</a></li>
 <li><a href="/wines/mixed-case">Mixed Cases</a></li>
-<li><a href="/clubs">Wine Clubs</a></li>
+<li><a href="/wine-clubs">Wine Clubs</a></li>
 </ul>
 </div>
 <div class="col-sm-3 col-xs-6">
@@ -260,263 +321,11 @@ stuff is.
 <li><a target="_blank" rel="nofollow" href="https://twitter.com/vinomofo">Twitter</a></li>
 <li><a target="_blank" rel="nofollow" href="https://linkedin.com/company/vinomofo">LinkedIn</a></li>
 <li><a target="_blank" rel="nofollow" href="http://instagram.com/vinomofo">Instagram</a></li>
-<li><a target="_blank" rel="nofollow" href="https://plus.google.com/110221228584382196407">GooglBAHAHAHA</a></li>
+<li><a target="_blank" rel="nofollow" href="https://www.youtube.com/user/Vinomofo">YouTube</a></li>
 </ul>
 </div>
 
 </div>
-</div>
-</div>
-</div>
-<div class="container">
-<div class="row">
-<div class="col-md-9 col-md-offset-2 col-sm-10 col-sm-offset-1">
-<div class="location-selection">
-<img alt="Flag of United States" title="United States" width="28" class="flag" src="//assets.vinomofo.com/assets/site/flags/us-b5b0da5ae266460e1cb6084e6f48f18a0fbc3c7cd286ecd3f6386503326e698a.png">
-Looks like you’re browsing Vinomofo from
-<em>the US.</em>
-<form class="standard-form" action="/set_browsing_country" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="O9JalXin2tAcot7K6XTbY6PFMtXtAorS3ddPO3Ba5HndysVJt7DTDh6wGXZriwxH4ofQIiW2sH9gYzoGUyQT8g=="><div class="overlay-container">
-<button class="text-button" type="button">Not right?</button>
-<div class="standard-form-group browsing_country_code select"><div class="standard-form-control-container"><div class="standard-form-control-wrapper"><select class="standard-form-control" id="fe643463-c1cf-4351-96bc-9f94317fe07c" name="[browsing_country_code]"><option value="CN">中国</option>
-<option value="JP">日本</option>
-<option value="MO">澳门</option>
-<option value="TW">台湾</option>
-<option value="EG">مصر</option>
-<option value="QA">قطر</option>
-<option value="TH">ไทย</option>
-<option value="KM">جزر القمر</option>
-<option value="IN">भारत</option>
-<option value="KR">대한민국</option>
-<option value="OM">عمان</option>
-<option value="TD">تشاد</option>
-<option value="TN">تونس</option>
-<option value="ME">Црна Гора</option>
-<option value="ET">ጒት፥ጵ።</option>
-<option value="IL">ישראל</option>
-<option value="LB">لبنان</option>
-<option value="LY">ليبيا</option>
-<option value="NP">नेपाल</option>
-<option value="YE">اليمن</option>
-<option value="LK">ශ්‍රී ලංකාව</option>
-<option value="BT">འབྲུག།</option>
-<option value="CY">Κύπρος</option>
-<option value="DJ">جيبوتي</option>
-<option value="GR">Ελλάδα</option>
-<option value="IQ">العراق</option>
-<option value="JO">الأردن</option>
-<option value="KW">الكويت</option>
-<option value="MA">المغرب</option>
-<option value="MN">Монгол</option>
-<option value="RS">Србија</option>
-<option value="IR">ایران، جمهوری اسلامی</option>
-<option value="BH">البحرين</option>
-<option value="DZ">الجزائر</option>
-<option value="KH">កម្ពុជា</option>
-<option value="UA">Україна</option>
-<option value="BD">বাংলাদেশ</option>
-<option value="BG">България</option>
-<option value="BY">Беларусь</option>
-<option value="SD">السّودان</option>
-<option value="SS">جمهوريّة السّودان</option>
-<option value="AE">الإمارات العربيّة المتحدّة</option>
-<option value="AF">افغانستان</option>
-<option value="KZ">Қазақстан</option>
-<option value="MR">موريتانيا</option>
-<option value="AM">Հայաստանի Հանրապետութիւն</option>
-<option value="GE">საქართველო</option>
-<option value="MK">Македонија</option>
-<option value="SA">السّعوديّة</option>
-<option value="SY">الجمهوريّة العربيّة السّوريّة</option>
-<option value="RU">Российская Федерация</option>
-<option value="KP">조선민주주의인민공화국</option>
-<option value="AX">Åland</option>
-<option value="AS">American Samoa</option>
-<option value="AD">Andorra</option>
-<option value="AO">Angola</option>
-<option value="AI">Anguilla</option>
-<option value="AG">Antigua and Barbuda</option>
-<option value="AR">Argentina</option>
-<option value="AW">Aruba</option>
-<option value="AU">Australia</option>
-<option value="AZ">Azərbaycan</option>
-<option value="BS">Bahamas</option>
-<option value="BB">Barbados</option>
-<option value="BE">België</option>
-<option value="BZ">Belize</option>
-<option value="BJ">Bénin</option>
-<option value="BM">Bermuda</option>
-<option value="BO">Bolivia, Estado plurinacional de</option>
-<option value="BQ">Bonaire, Sint Eustatius en Saba</option>
-<option value="BA">Bosna i Hercegovina</option>
-<option value="BW">Botswana</option>
-<option value="IO">British Indian Ocean Territory</option>
-<option value="BN">Brunei Darussalam</option>
-<option value="BF">Burkina Faso</option>
-<option value="BI">Burundi</option>
-<option value="CV">Cabo Verde</option>
-<option value="CM">Cameroon</option>
-<option value="CA">Canada</option>
-<option value="KY">Cayman Islands</option>
-<option value="CF">Centrafricaine, République</option>
-<option value="CZ">Česká republika</option>
-<option value="CL">Chile</option>
-<option value="CX">Christmas Island</option>
-<option value="CC">Cocos (Keeling) Islands</option>
-<option value="CO">Colombia</option>
-<option value="CG">Congo</option>
-<option value="CK">Cook Islands</option>
-<option value="CR">Costa Rica</option>
-<option value="CI">Côte d'Ivoire</option>
-<option value="CU">Cuba</option>
-<option value="CW">Curaçao</option>
-<option value="DK">Danmark</option>
-<option value="DE">Deutschland</option>
-<option value="DM">Dominica</option>
-<option value="EC">Ecuador</option>
-<option value="EE">Eesti</option>
-<option value="SV">El Salvador</option>
-<option value="ER">Eritrea</option>
-<option value="ES">España</option>
-<option value="FK">Falkland Islands (Malvinas)</option>
-<option value="FJ">Fiji</option>
-<option value="FO">Føroyar</option>
-<option value="FR">France</option>
-<option value="GA">Gabon</option>
-<option value="GM">Gambia</option>
-<option value="GH">Ghana</option>
-<option value="GI">Gibraltar</option>
-<option value="GD">Grenada</option>
-<option value="GP">Guadeloupe</option>
-<option value="GU">Guam</option>
-<option value="GT">Guatemala</option>
-<option value="GG">Guernsey</option>
-<option value="GW">Guiné-Bissáu</option>
-<option value="GQ">Guinea Ecuatorial</option>
-<option value="GN">Guinée</option>
-<option value="GY">Guyana</option>
-<option value="GF">Guyane française</option>
-<option value="HT">Haïti</option>
-<option value="HM">Heard Island and McDonald Islands</option>
-<option value="HN">Honduras</option>
-<option value="HK">Hong Kong</option>
-<option value="HR">Hrvatska</option>
-<option value="ID">Indonesia</option>
-<option value="IE">Ireland</option>
-<option value="IS">Ísland</option>
-<option value="IM">Isle of Man</option>
-<option value="IT">Italia</option>
-<option value="JM">Jamaica</option>
-<option value="JE">Jersey</option>
-<option value="KE">Kenya</option>
-<option value="KI">Kiribati</option>
-<option value="LV">Latvija</option>
-<option value="LS">Lesotho</option>
-<option value="LR">Liberia</option>
-<option value="LI">Liechtenstein</option>
-<option value="LT">Lietuva</option>
-<option value="LU">Luxembourg</option>
-<option value="MG">Madagascar</option>
-<option value="HU">Magyarország</option>
-<option value="MW">Malawi</option>
-<option value="MY">Malaysia</option>
-<option value="ML">Mali</option>
-<option value="MT">Malta</option>
-<option value="MH">Marshall Islands</option>
-<option value="MQ">Martinique</option>
-<option value="MU">Mauritius</option>
-<option value="YT">Mayotte</option>
-<option value="MX">México</option>
-<option value="FM">Micronesia, Federated States of</option>
-<option value="MZ">Moçambique</option>
-<option value="MD">Moldova, Republica</option>
-<option value="MC">Monaco</option>
-<option value="MS">Montserrat</option>
-<option value="NA">Namibia</option>
-<option value="NR">Nauru</option>
-<option value="NL">Nederland</option>
-<option value="NZ">New Zealand</option>
-<option value="NI">Nicaragua</option>
-<option value="NE">Niger</option>
-<option value="NG">Nigeria</option>
-<option value="NU">Niue</option>
-<option value="NF">Norfolk Island</option>
-<option value="NO">Norge</option>
-<option value="MP">Northern Mariana Islands</option>
-<option value="NC">Nouvelle-Calédonie</option>
-<option value="AT">Österreich</option>
-<option value="PK">Pakistan</option>
-<option value="PW">Palau</option>
-<option value="PS">Palestine, State of</option>
-<option value="PA">Panamá</option>
-<option value="PG">Papua New Guinea</option>
-<option value="PY">Paraguay</option>
-<option value="PE">Perú</option>
-<option value="PH">Pilipinas</option>
-<option value="PN">Pitcairn</option>
-<option value="PL">Polska</option>
-<option value="PF">Polynésie française</option>
-<option value="PT">Portugal</option>
-<option value="PR">Puerto Rico</option>
-<option value="DO">República Dominicana</option>
-<option value="CD">République démocratique du Congo</option>
-<option value="RE">Réunion, Île de la</option>
-<option value="RO">România</option>
-<option value="RW">Rwanda</option>
-<option value="EH">Sahara Occidental</option>
-<option value="SH">Saint Helena, Ascension and Tristan da Cunha</option>
-<option value="KN">Saint Kitts and Nevis</option>
-<option value="LC">Saint Lucia</option>
-<option value="MF">Saint Martin (French part)</option>
-<option value="VC">Saint Vincent and the Grenadines</option>
-<option value="BL">Saint-Barthélemy</option>
-<option value="PM">Saint-Pierre-et-Miquelon</option>
-<option value="SM">San Marino</option>
-<option value="VA">Santa Sede (Stato della Città del Vaticano)</option>
-<option value="ST">São Tomé e Príncipe</option>
-<option value="CH">Schweiz</option>
-<option value="SN">Sénégal</option>
-<option value="SC">Seychelles</option>
-<option value="AL">Shqipëria</option>
-<option value="SL">Sierra Leone</option>
-<option value="SG">Singapore</option>
-<option value="SX">Sint Maarten (Nederlands deel)</option>
-<option value="SI">Slovenija</option>
-<option value="SK">Slovensko</option>
-<option value="SB">Solomon Islands</option>
-<option value="SO">Soomaaliya</option>
-<option value="GS">South Georgia and the South Sandwich Islands</option>
-<option value="ZA">Suid-Afrika</option>
-<option value="FI">Suomi</option>
-<option value="SR">Suriname</option>
-<option value="SE">Sverige</option>
-<option value="SZ">Swaziland</option>
-<option value="TZ">Tanzania, United Republic of</option>
-<option value="TF">Terres australes françaises</option>
-<option value="TL">Timor-Leste</option>
-<option value="TG">Togo</option>
-<option value="TK">Tokelau</option>
-<option value="TO">Tonga</option>
-<option value="TT">Trinidad and Tobago</option>
-<option value="TR">Türkiye</option>
-<option value="TM">Türkmenistan</option>
-<option value="TC">Turks and Caicos Islands</option>
-<option value="TV">Tuvalu</option>
-<option value="UG">Uganda</option>
-<option value="GB">United Kingdom</option>
-<option selected="selected" value="US">United States</option>
-<option value="UM">United States Minor Outlying Islands</option>
-<option value="UY">Uruguay</option>
-<option value="VE">Venezuela, República Bolivariana de</option>
-<option value="VN">Việt Nam</option>
-<option value="VG">Virgin Islands, British</option>
-<option value="VI">Virgin Islands, U.S.</option>
-<option value="WF">Wallis et Futuna</option>
-<option value="ZM">Zambia</option>
-<option value="ZW">Zimbabwe</option></select></div></div></div>
-</div>
-<button class="btn btn-primary btn-sm submit-button" type="submit">Save</button>
-</form></div>
-
 </div>
 </div>
 </div>
@@ -535,7 +344,10 @@ Looks like you’re browsing Vinomofo from
 </ul>
 
 <div class="h3">Seriously...</div>
-<p>At Vinomofo, we love our wine, but we like to also lead long and happy lives, and be good to the world and the people in it. We all try to drink responsibly, in moderation, and we really hope you do too.</p>
+<p>
+At Vinomofo, we love our wine, but we like to also lead long and happy lives, and be good to the world
+and the people in it. We all try to drink responsibly, in moderation, and we really hope you do too.
+</p>
 <p>Don’t be that guy...</p>
 <p class="copyright">Copyright Vinomofo #thismeansnothingatall</p>
 </div>
@@ -544,109 +356,60 @@ Looks like you’re browsing Vinomofo from
 </div>
 </footer>
 
-<div id="vm-pageview-pixel-wrapper">
-<img alt="" height="1" src="/pageview" style="border-style:none;position:fixed;" width="1">
+<div class="c-header-search">
+<form action="/wines/search" class="c-header-search__form" method="GET">
+<label aria-hidden="true" class="c-header-search__label" for="header-search-term">
+What can we get for you?
+</label>
+<input autocomplete="off" class="c-header-search__term" id="header-search-term" name="q" placeholder="Search for wines..." type="text">
+<button aria-label="Submit search" class="c-header-search__submit" type="submit">
+Press ENTER to search
+<span>or ESC to close</span>
+</button>
+<button aria-label="Close search" class="js-header-search-hide c-header-search__close">
+<i aria-hidden="true" class="ion-ios-close-outline"></i>
+</button>
+</form>
 </div>
 
-</div>
-</div>
-</div>
-<div class="autoopen fade modal" id="global-modal" tabindex="-1">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-body">
-<button class="btn btn-link close-button" data-dismiss="modal" type="button">×</button>
-<div class="flag-hero" style="background-image: url(https://assets.vinomofo.com/assets/site/flags/us-b5b0da5ae266460e1cb6084e6f48f18a0fbc3c7cd286ecd3f6386503326e698a.png)"></div>
-<div class="hide-on-success">
-<h3>
-Hi, looks like you’re based in
-the US?
-That’s exciting...
-</h3>
-<p>
-We’re launching an
-<strong>epic online pop-up event</strong>
-in the US
-soon, and we invite you to
-be a foundation member of our global
-tribe of wine-loving mofos in
-the US.
-</p>
-<p>
-It’s a private event, and numbers are
-limited, so we hope you can join us!
-</p>
-<p>
-Cheers,
-<br>
-Andre + Justin, co-founders
-</p>
-</div>
-<div class="show-on-success">
-<h3>
-Boom!
-</h3>
-<p>
-You’re in
-<span class="global-first-name"></span>
-! Welcome to the tribe.
-We’ll keep you posted about our
-upcoming launch date - it’s going to
-be big!
-</p>
-<p>
-Have an awesome day.
-</p>
-</div>
 
-</div>
-<div class="modal-footer">
-<div class="hide-on-success">
-<p>
-YES, I’d like priority access to the upcoming online pop-up event:
-</p>
-<form class="register-interest-form guest-user standard-form" action="/global_prelaunch_interests" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"><div class="standard-form-group name text-field"><div class="standard-form-control-container"><div class="standard-form-control-wrapper"><input name="global_prelaunch_interest[name]" placeholder="Full name" label="false" class="standard-form-control" id="cfb0c8e9-eb8c-4e75-8585-b6f5bcb1f985" type="text"></div></div></div>
-<div class="standard-form-group email email-field"><div class="standard-form-control-container"><div class="standard-form-control-wrapper"><input name="global_prelaunch_interest[email]" placeholder="Email address" label="false" class="standard-form-control" id="bf55d4de-5042-4a32-9c3f-a0d50e196bd1" type="email"></div></div></div>
-<button class="btn btn-success" type="submit">Boom!</button>
-</form></div>
-<div class="show-on-success">
-<p>Share with your friends:</p>
-<div class="share-buttons">
-<a class="share-facebook" target="_blank" data-href="https://www.vinomofo.com/" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.vinomofo.com%2F"><i class="ion-social-facebook"></i>
-</a><a text="Help me bring Vinomofo to the US! " class="share-twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Help%20me%20bring%20Vinomofo%20to%20the%20US%21%20&amp;&amp;url=https%3A%2F%2Fwww.vinomofo.com%2F"><i class="ion-social-twitter"></i>
-</a><a target="_blank" class="share-email" href="mailto:?subject=&amp;body=Help%20me%20bring%20Vinomofo%20to%20the%20US%21%20https%3A%2F%2Fwww.vinomofo.com%2F"><i class="ion-email"></i>
-</a></div>
-
-</div>
-<form class="dismiss-form" action="/global_prelaunch_interests/dismiss" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
-
-</form></div>
-</div>
-</div>
-</div>
-
-  <script id="analytics-events">
-
-  analytics.page();
+<script id="analytics-events">
+    var smallScreen = window.matchMedia("only screen and (max-width: 760px)");
 
 
-    /*
-    * because segments GTM integration is different to other integrations
-    * the first page() call ^above^ only initializes GTM (but tracks page views in other integrations),
-    * the second page() call below sends a event named 'Loaded A Page' specifically to GTM
-    */
-    analytics.page({}, {
-      integrations: {
-        "All": false,
-        "Google Tag Manager": true
-      }
-    });
+    analytics.page();
+
 
     /*
     * resetting the user last, so previous events are still attributed to the user before sign out
     */
-    analytics.ready(function () { if (null != analytics.user().id()) analytics.reset(); });
-  </script>
+    analytics.ready(function () {
+      if (null != analytics.user().id()) {
+        analytics.reset() // Clear user data
+        if (typeof Intercom != "undefined") {
+          Intercom("shutdown") // Sign out of Intercom session
+        }
+        analytics.page() // Reload page, resetting Intercom
+      }
+    });
+</script>
+
+    <script type="text/javascript">
+        if (window.addthis) {
+            window.addthis = null;
+            window._adr = null;
+            window._atc = null;
+            window._atd = null;
+            window._ate = null;
+            window._atr = null;
+            window._atw = null;
+        }
+        var addthis_config = {
+            services_exclude: 'print, printfriendly'
+        }
+    </script>
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b9743cc3040bc6d" type="text/javascript"></script> 
+
 
 
 
