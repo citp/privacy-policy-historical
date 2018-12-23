@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openstm32.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623082750id_/http%3A//www.openstm32.org/privacy%252Bnotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstm32.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223103928id_/http%3A//www.openstm32.org/privacy%252Bnotice) for the most accurate reproduction.*
 
 # OpenSTM32 Community Site | privacy notice
 
@@ -12,7 +12,7 @@ Any questions regarding this Policy and our privacy practices should be sent by 
 
 ## Who are we?
 
-Ac6 is a training, consulting and Embedded tools editor based in France but providing its services worldwide. We focus on Embedded Systems technologies, both hardware and software, and partner with various other companies active in the embedded systems world, such as ST Microelectronics for which we developped _System Workbench for STM32_ and provide it through the [OpenSTM32.org](https://web.archive.org/web/20180623082750id_/http%3A//www.openstm32.org/OpenSTM32.org) website (this site). 
+Ac6 is a training, consulting and Embedded tools editor based in France but providing its services worldwide. We focus on Embedded Systems technologies, both hardware and software, and partner with various other companies active in the embedded systems world, such as ST Microelectronics for which we developped _System Workbench for STM32_ and provide it through the [OpenSTM32.org](https://web.archive.org/web/20181223103928id_/http%3A//www.openstm32.org/OpenSTM32.org) website (this site). 
 
 ## How do we collect information from you?
 
