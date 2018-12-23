@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110134557id_/http%3A//www.arzoo.com/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223202511id_/http%3A//www.arzoo.com/privacypolicy.do) for the most accurate reproduction.*
 
 # Cheap Air Tickets, Flights Tickets, Airfare, Holiday Packages, Online Hotels Booking, Amusement Theme Parks Tickets in Mumbai India - Arzoo.com
 
