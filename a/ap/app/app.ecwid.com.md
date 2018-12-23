@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the app.ecwid.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234325id_/https%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app.ecwid.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223022023id_/https%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+If you are citizen of European Union please refer to [EU Privacy Policy](https://web.archive.org/eu-privacy-policy) that explains the manner in which Ecwid Inc . collects, uses, discloses and otherwise treats personal information of European Union citizens.
 
 Ecwid, Inc. (“Ecwid”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy covers the information practices of our user interfaces, including our website Ecwid.com, that link to this Privacy Policy: [https://www.ecwid.com](https://www.ecwid.com/).
 
