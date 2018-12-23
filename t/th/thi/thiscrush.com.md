@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thiscrush.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623230344id_/http%3A//thiscrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiscrush.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224005855id_/http%3A//www.thiscrush.com/privacy.php) for the most accurate reproduction.*
 
-# ThisCrush - Privacy Policy
+# Privacy Policy
 
 Last update: 15/05/2018Notice Version: 1.0
 
@@ -117,7 +117,7 @@ If you use our mobile application, you may have to provide PD to use it.
 
 Our Use of Cookies
 
-Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer or mobile device; it may contain other information as well. For additional information, please visit our Cookie policy (linking to [http://thiscrush.com/cookie-policy.php](https://web.archive.org/cookie-policy.php)) 
+Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer or mobile device; it may contain other information as well. For additional information, please visit our Cookie policy (linking to [https://thiscrush.com/cookie-policy.php](https://web.archive.org/cookie-policy.php)) 
 
 By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer. 
 
@@ -171,7 +171,7 @@ We may also use a technology called web beacons to collect general information a
 
 Google Ad and Content Network Privacy Notice
 
-Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <http://www.aboutads.info/choices/> For European users visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [http://www.aboutads.info/choices/](https://www.aboutads.info/choices/) For European users visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
 Google Analytics Privacy Notice
 
