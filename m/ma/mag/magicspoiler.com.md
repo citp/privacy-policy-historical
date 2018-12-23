@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622174932id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223034804id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MTG Visual Spoiler
 
@@ -35,6 +35,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 —————————————————————————————————————————-
 
 Opt-out for different third-party suppliers in particular US-companies is attainable following the link: [optout.networkadvertising.org](http://optout.networkadvertising.org/)
+
+[Click here to opt out of Personalized Ads from Google.](https://adssettings.google.com/ "Out out personalized ads from Google")
 
 Opt-out separately for each company:
 
