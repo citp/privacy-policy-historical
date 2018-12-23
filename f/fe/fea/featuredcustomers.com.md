@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the featuredcustomers.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416133431id_/https%3A//www.featuredcustomers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featuredcustomers.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224003925id_/https%3A//www.featuredcustomers.com/privacy) for the most accurate reproduction.*
 
 # FeaturedCustomers Privacy Policy
 
 ## Welcome to FeaturedCustomers.com!
 
-We are really excited to have you visit our website and hope you make good use of our service, and, ultimately, that the experience of others by way of software reviews, case studies, and customer testimonials can lead you to making the right business software decision.
+We are really excited to have you visit our website and hope you make good use of our service, and, ultimately, that the experience of others by way of customer references, case studies, success stories, customer stories, and customer testimonials can lead you to making the right business software decision.
 
 ### Please read through this entire Privacy Policy thoroughly. We will work to keep this up to date.
 
@@ -27,7 +27,7 @@ While using our Site, we may ask you to provide us with certain personally ident
 
 In an effort to provide you with assistance in deciding on the right business software for you, please be advised that FeaturedCustomers.com can and may pass on any information you fill out on any part of the Website to our Business Software Providers (“Providers”), including but not limited to your name, emails, phone numbers, physical addresses and information about your organization, including but not limited to name, industry, company revenue and company size, as well as information regarding your current software usage and software needs. In order for FeaturedCustomers.com and our Providers to further help you in your decision-making process, representatives of FeaturedCustomers.com and/or representatives of our Providers can and may reach out to you directly to talk about their products, services and/or promotions, which may include but is not limited to calling you, emailing you, and adding you to our newsletter. In addition, your information can and may be used for overall improvement of the Website, our customer service, our Providers’ services, and for the compiling and aggregating of statistics.
 
-Our Website consists of customer testimonials, app reviews, case studies and more that are targeted at assisting you and your organization in your business software decision-making process. This may include information about you, including but not limited to your name, photo, your LinkedIn ID, and the company you work for, as well as information about your organization, including the information aforementioned in the previous paragraph.
+Our Website consists of customer references & reviews, customer testimonials, success stories, case studies, customer stories, and customer videos that will help you make the right purchasing decisions. This may include information about you, including but not limited to your name, photo, your LinkedIn ID, and the company you work for, as well as information about your organization, including the information aforementioned in the previous paragraph.
 
 If you want to remove or change your personal information that is being displayed publicly on the Website under public pages, please send your request to info@featuredcustomers.com.
 
