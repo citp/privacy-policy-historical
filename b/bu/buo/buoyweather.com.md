@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buoyweather.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522234550id_/http%3A//www.buoyweather.com/info.jsp%3Fid%3D21737) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buoyweather.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223065101id_/http%3A//www.buoyweather.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BUOYWEATHER.COM
 
@@ -8,7 +8,7 @@ Surfline\Wavetrak, Inc. ("Buoyweather", "we", "our", or "us") respects your priv
 
 This Privacy Policy applies to information we collect from all sources, including without limitation in connection with our websites, mobile sites, applications, widgets, and electronic newsletters or communications (collectively the "Services") that link to this Privacy Policy. 
 
-Questions regarding this policy and our practice should be directed to [Buoyweather Support](https://web.archive.org/web/20180522234550id_/http%3A//www.buoyweather.com/Support@buoyweather.com), by e-mail to Support@Buoyweather.com, or by postal mail to Buoyweather, 300 Pacific Coast Highway, Suite 310, Huntington Beach, CA 92648.
+Questions regarding this policy and our practice should be directed to [Buoyweather Support](https://web.archive.org/web/20181223065101id_/http%3A//www.buoyweather.com/Support@buoyweather.com), by e-mail to Support@Buoyweather.com, or by postal mail to Buoyweather, 300 Pacific Coast Highway, Suite 310, Huntington Beach, CA 92648.
 
 **Privacy Policy**  
 This Privacy Policy is incorporated into and subject to our [Terms of Use](http://www.buoyweather.com/info.jsp?id=21738) ("Terms"). It tells you what information we collect, how we protect it and what choices you have about how that information is used. Most information collected is to enable us to best meet the needs of our users, as action sports participants, in a highly customized and responsive manner, however we may also use collected information for business reasons, such as analytics, evaluation of the Services, improvement of the Services, and other uses set forth herein.
@@ -16,7 +16,7 @@ This Privacy Policy is incorporated into and subject to our [Terms of Use](http:
 Any capitalized terms used but not defined herein shall have the meaning provided for such terms in the Terms.
 
 **Children's Privacy**  
-Protecting the privacy of young children is especially important. For that reason, Buoyweather does not knowingly collect or maintain personal information from persons under 13 years-of-age. If Buoyweather learns that personal information of persons under 13-years-of-age has been collected on or through the Services, Buoyweather will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who has become a registered user or subscriber of Buoyweather or any of the Services or otherwise set up an Account, then please contact Buoyweather at [Buoyweather Support](https://web.archive.org/web/20180522234550id_/http%3A//www.buoyweather.com/Support@buoyweather.com) to have that child's account terminated and personal information deleted.
+Protecting the privacy of young children is especially important. For that reason, Buoyweather does not knowingly collect or maintain personal information from persons under 13 years-of-age. If Buoyweather learns that personal information of persons under 13-years-of-age has been collected on or through the Services, Buoyweather will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who has become a registered user or subscriber of Buoyweather or any of the Services or otherwise set up an Account, then please contact Buoyweather at [Buoyweather Support](https://web.archive.org/web/20181223065101id_/http%3A//www.buoyweather.com/Support@buoyweather.com) to have that child's account terminated and personal information deleted.
 
 **Public Forum Discussions and Comments**  
 Please note that any information that you reveal in a public forum (such as a bulletin board or comments) will be seen by third parties not related to Buoyweather and is therefore not subject to this privacy policy. All such information may be disclosed, used, or reproduced by Buoyweather in accordance with our Terms. 
@@ -155,7 +155,7 @@ Our advertising service vendors and other third parties will at times also use T
 
 ## SECTION 8 - UPDATING YOUR PERSONAL INFORMATION AND CONTACTING BUOYWEATHER 
 
-You can always contact us in order to delete your Personal information from our systems by e-mailing us at [support@Buoyweather.com](https://web.archive.org/web/20180522234550id_/http%3A//www.buoyweather.com/mailto@support@Buoyweather.com). You can always update the Personal information that you have provided to us and change your Privacy choices by updating the "[My Account](https://www.buoyweather.com/account/overview)" section on the web site.
+You can always contact us in order to delete your Personal information from our systems by e-mailing us at [support@Buoyweather.com](https://web.archive.org/web/20181223065101id_/http%3A//www.buoyweather.com/mailto@support@Buoyweather.com). You can always update the Personal information that you have provided to us and change your Privacy choices by updating the "[My Account](https://www.buoyweather.com/account/overview)" section on the web site.
 
 Any other questions? Contact Buoyweather Support at support@Buoyweather.com 
 
