@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accengage.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614043114id_/https%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accengage.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223192628id_/https%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Accengage | The #1 Mobile Engagement Solution for Push Notifications, Mobile Retargeting, Tracking & Analytics
+# Privacy Policy | Accengage
 
 Accengage provides a service for mobile application publishers (“Service”) which allows enterprise customers of Accengage (“Customers”) to provide content to individuals who have installed Customers’ mobile applications (“Users”).
 
