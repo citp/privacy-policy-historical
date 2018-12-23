@@ -1,29 +1,71 @@
-> *The following text is extracted and transformed from the uaeexchangeindia.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125122140id_/http%3A//www.uaeexchangeindia.com/our-products/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaeexchangeindia.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223092550id_/https%3A//www.uaeexchangeindia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy ' XPay | UAE Exchange India
+# Privacy Policy | UAE Exchange India
 
-#### Privacy Policy
+UAE EXCHANGE is strongly committed to protecting the customer privacy. As an esteemed customer/registered member of www.uaeexchangeindia.com, the customer may be randomly selected to savings and benefits on services provided by the Company. In addition, look forward to receiving exclusive promotions offering special deals. So, we’ve provided this Privacy Policy, which sets forth our policies regarding the collection, use and protection of the personal information of those using the www.uaeexchangeindia.com website. Personal information means information that can be linked to a specific individual, such as name, address, telephone number, e – mail address, and credit card number. We encourage the customer to review our Privacy Policy, and become familiar with it, but the customer should know that we do not sell or rent our customers’ personal information to third parties.
 
-Xpayshop.com is committed to protect and respect your privacy and your right to fair and just processing of your personal information. When you choose to provide us with information about yourself, we recognise that you trust us to act in a responsible manner to guard your recognizable data from damage, abuse, modification, or demolition. It is our objective to use the information you provide us for better products and services. You are advised to read this Privacy Policy carefully. By visiting Xpayshop.com, you expressly give us consent to use & disclose your personal information in accordance with this Privacy Policy. 
+  **Collection of Information**
 
-Note: Our privacy policy may change at any time without prior notification. To make sure that you are aware of any changes, kindly review the policy periodically. 
+We collects and stores information, personal or otherwise, that the customer voluntarily provides either while on the site or in response to emails in relation to features provided on the site. A few examples of what we stores include: (i) name, email address and demographic information that the customer provide when the customer enroll or take part in site activities and information provided in search requests or questions that the customer submit to the site. The customer can visit our website without revealing the customer’s identity or any personal information, but the customer may be unable to access certain options, offers and services. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
 
-##### PERSONAL AND NON PERSONAL INFORMATIONS
+ 
 
-Personal Information means and includes all information that can be linked to a specific individual or to identify any individual, such as name, address, mailing address, telephone number, email ID, credit card number, cardholder name, card expiration date, information about your mobile phone and any details that may have been voluntarily provide by the user in connection with availing any of the services on Xpayshop.com. Non Personal information means and includes our geographic location, details of Your telecom service provider or internet service provider, the type of browser (Internet Explorer, Firefox, Opera, Google Chrome etc.), the operating system of Your system, device and the Website You last visited before visiting the Website, The duration of Your stay on the Website is also stored in the session along with the date and time of Your access, You hereby consent to the collection, storage, processing and transfer of any or all of Your Personal Information and Non-Personal Information by Xpayshop.com and by its group Companies. We will not sell, share or rent your personal information to any 3rd party or use your email address/mobile number for unsolicited emails and/or SMS ( Third party excludes group Companies). Any emails and/or SMS sent by Xpayshop.com or its group Companies will only be in connection with the provision of agreed services & products of Xpayshop.com & of its group Companies. You further agree that such collection, use, storage and transfer of Your Information shall not cause any loss or wrongful gain to you or any other person. 
+For better management of the site, we may (i) log the customer’s browsing history, (ii) log non-personally-identifiable information, including IP address, profile information, aggregate user data, and browser type, and (iii) record User IP addresses for security and monitoring purposes.
 
-Cookies/ Web server logs: We may gather certain data via computerized means, such as cookies and web beacons, when a user visits our website. A “cookie” is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. No personal information will be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information and the same may be shared with third parties. We also collect unspecified data from our website visits to help us provide better customer service.
+  **Cookies**
 
-##### HOW DO WE USE THE INFORMATION WE COLLECT?
+We may place a text file called a “cookie” in the browser files of the customer’s computer. The cookie itself does not contain personal information although it will enable us to relate the customer’s use of this site to information that the customer has specifically and knowingly provided. But the only personal information a cookie can contain is information the customer supply. A cookie cannot read data off the customer’s hard disk or read cookie files created by other sites. We may use cookies to track user traffic patterns. Our advertising system may deliver a cookie to better track ad impressions and click rates.
 
-We use the personal information we collected from you to furnish you with the data or substance that you have asked for, and, at times, to get in touch with you about our services. If you no longer want to have information from us, you may direct us a mail through our “Contact Us” link or use our E-mail Alert form to change your preferences; or follow the “unsubscribe” link provided in the e-mail that you receive. 
+ 
 
-We may utilize different organizations and peoples to perform functions on our behalf. Our employees, operators and temporary workers who have access to personally identifiable information are required to ensure that the data’s are protected in a way that is reliable with this Privacy Statement. 
+The customer can refuse cookies by turning them off in the customer browser. If the customer has set the customer’s browser to warn the customer before accepting cookies, the customer will receive the warning message with each cookie. The customer need not have to turned on cookies to use this site. Even without a cookie, the customer can still use most of the features in our store, including ticket booking, confirmation, ticket availability/rates etc.
 
-##### LINKS
+  **Member Communications and Email**
 
-Xpayshop.com may contain links to other websites. This Privacy Statement does not reflect the privacy practices of those sites. Xpayshop.com are not answerable for the confidentiality practices or the contents of such websites. Xpayshop.com does not have any obligation for the ideas of third parties uttered on or through our website. 
+We employ a strict policy against sending unsolicited email. Please note the opting not to receive email does not exempt the customer from receiving administrative emails that include but are not limited to, notices about vital program and membership status changes, Privacy Policy and Terms of Service updates and purchase and redemption confirmation emails, if any.
 
-##### CONTACT 
+ 
 
-If you have any questions, requests or worries about this Confidentiality Policy or our privacy practices or desire to demand a print of the particular data we have about you, please communicate with our helpline at 1800 3000 1555. 
+Our Customer Care department may contact the customer in response to the customer’s inquiries, to provide services at the customer’s request and to manage the customer traveling/ticketing requirement. We will communicate by email or telephone in accordance with the customer’s wishes.
+
+  **UAE EXCHANGE Advertisers and 3rd Party Websites**
+
+Web portals AMADEUS (www.amadeus.com), Galileo (www.galileo.com) and UAE EXCHANGE (http://www.uaeexchangetravel.com/) all share a common enrollment and sign-on. Information in the customer Member Profile is shared among these portals, and each portal maintains its own privacy policy for protection of the customer personal information.
+
+ 
+
+Our website and email may contain links to various other sites. While we makes every effort to ensure that our advertisers post clear and complete Privacy Policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from that of ours. The privacy practices of other websites and companies are not covered by this policy.   Except as specifically set forth below, it is our policy not to provide the customer’s personally identifiable information to our advertisers unless the customer make the choice to share it with them. We occasionally pass personally identifiable information via a secure interface to certain of our advertisers for the purpose of making it easier for the customer to sign up for their offers, however, this information is only to be used by the advertiser if the customer agree to submit the information to the advertiser for the purposes of completing an offer.
+
+ 
+
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the customer’s information and are prohibited from using that information for any other purpose.
+
+ 
+
+We may share non-personally identifiable information collected in aggregate, anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of our member base. We do not disclose the customer’s first name, last name, address, email address, or any other personally identifiable information to these third parties unless the customer give his express consent.
+
+ 
+
+We occasionally send the information we gather about our Members to trusted third-party data processors to organize, process and/or analyze the data on our behalf. We use this information to enhance our program offerings; namely to tailor advertisements, updates, and offers to the customer particular interests and to ensure that the customer opt-out requests are honored. All such third-party data processors are prohibited from using the customer’s personal information except to provide these services to us. They are contractually bound to observe the strict policy stated herein, so the customer can rest assured that the confidentiality of the customer personally identifiable information will be maintained.
+
+  **Security**
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect the customer’s personal information, we cannot guarantee its absolute security.
+
+ 
+
+We reserve the right to disclose the customer’s personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site.
+
+  **Changes to this Privacy Policy**
+
+We may amend this policy from time to time. If we make any material changes in the way we use the customer’s personally identifiable information collected at this site we will notify the customer by email and at the top of this Privacy Policy web page. Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, the customer may wish to bookmark this page and/or periodically review this page to make sure the customer has the latest version.
+
+ 
+
+###   Contact Us
+
+If the customer have any questions or suggestions regarding our Privacy Policy, please contact Customer Care at ;
+
+Tollfree No: 1800 3000 1555
+
+Address: Head Office, First Floor, Airlines Bldg, M.G. Road, Kochi – 682 011
