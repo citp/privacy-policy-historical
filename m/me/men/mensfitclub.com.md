@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mensfitclub.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317193659id_/https%3A//mensfitclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensfitclub.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223065558id_/https%3A//mensfitclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Men's Fit Club
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Mensfitclub.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 Mensfitclub.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
-
-### Personal Information
 
 Mensfitclub.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
@@ -53,4 +51,4 @@ If you do not agree to Mensfitclub.com Privacy Policy as posted here on this web
 
 ### Advertising
 
-"We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)."[.](https://web.archive.org/cheap-terbinafine-drug)
+"We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
