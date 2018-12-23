@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311041044id_/https%3A//www.daysoftheyear.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223113445id_/https%3A//www.daysoftheyear.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Days Of The Year
 
@@ -27,7 +27,7 @@ We may use the information we collect from you when you register, sign up for ou
 
 
 
-How do we protect your information?
+How do we protect your information? 
 
   * We only provide articles and information. We never ask for credit card numbers.
   * We use regular Malware Scanning.
