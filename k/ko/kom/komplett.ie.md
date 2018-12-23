@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128042924id_/https%3A//www.komplett.ie/cms/service/privacy_statement/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223044615id_/https%3A//www.komplett.ie/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Komplett.ie
+# Privacy Policy | Komplett
 
 Please read the following Privacy Statement to understand how we use and protect your personal data. By using this site, you consent to the collection, use and transfer of your information under the terms of this privacy statement.
 
@@ -68,4 +68,4 @@ In each case, you must make your request in writing, post it and send it to our 
 
 This Privacy Statement covers Komplett.ie only. Other links within this site to other websites or framed third party sites within Komplett.ie are not covered by this document.
 
-Last updated July 2015.
+Last updated July 2017.
