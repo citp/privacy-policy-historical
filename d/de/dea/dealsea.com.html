@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealsea.com privacy policy that was archived on 2018-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180522165505id_/https%3A//dealsea.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealsea.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223072116id_/https%3A//dealsea.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -12,25 +12,20 @@
 <link rel="shortcut icon" href="https://i.dealsea.com/favicon.ico" type="image/x-icon">
 <link href="https://i.dealsea.com/css/magnific-popup-main.css" type="text/css" rel="stylesheet">
 <link rel="stylesheet" media="screen" type="text/css" href="https://i.dealsea.com/css/dsv2b120.css" title="css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-9041999-2']);
-  _gaq.push(['_trackPageview']);
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-9041999-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  gtag('config', 'UA-9041999-2');
 </script>
-
 <script type="text/javascript">
 function showhide(id) {
   var content = document.getElementById(id);
   content.style.display == "block" ? content.style.display = "none" : content.style.display = "block"; 
 }
 </script>
-
 <!--[if lte IE 8]>
 <style type="text/css">
 #col1 {margin: 20px 340px 25px 10px;}
@@ -40,8 +35,6 @@ function showhide(id) {
 .jqmWindow {wdith: 500px;}
 </style>
 <![endif]-->
-
-
 </head>
 
 <body>
@@ -178,7 +171,7 @@ Your Personal Information may be shared as required or permitted by law as descr
 
 <div class="mfp-hide white-popup-block" id="popup"></div><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="https://i.dealsea.com/jscript/plugins-1.0.min.js"></script>
-<script type="text/javascript" src="https://i.dealsea.com/jscript/jquery.magnific-popup.min.js"></script><script type="text/javascript" src="https://i.dealsea.com/jscript/dealsea_14aw.js"></script>
+<script type="text/javascript" src="https://i.dealsea.com/jscript/jquery.magnific-popup.min.js"></script><script type="text/javascript" src="https://i.dealsea.com/jscript/dealsea_14ay.js"></script>
 <script>
 $(function(){
     $('.r-container h3').click(function() {
@@ -207,6 +200,68 @@ $(function() {
         btntxt.match(/more/i) ? $(this).html('<span>less &#8743</span>') : $(this).html('<span>more &#8744</span>');
 		$(this).css('cursor', '').css('color', '');
     });
+
+
+    $('.vote-up').click(function() {
+      var thumb = $(this);
+      var pid = thumb.attr('id');
+      var count = thumb.siblings('.mini-count');
+      $.get("/postlikes?post_id=" + pid, function(data, status){
+        if (status == 'success') {
+          var num = count.text().match(/\d+/);
+          num++;
+                  count.text(num);
+                  $.cookie('_pup_'+pid, 1);
+                  thumb.off('click');
+        }
+      });
+	var cli = thumb.closest("li");
+	$('<li style="color:#C9435B;">Thanks for votting, you are in the winning draw list. Good luck!</li>').insertBefore(cli).delay(2000).fadeOut();
+    });
+        
+        $('.vote-up').each(function() {
+                var pid = $(this).attr('id');
+                if ($.cookie('_pup_'+pid) == 1) {
+                        $(this).off('click');
+                }
+        });
+
+
+	$(".addwlist").click(function() {
+		$.ajax({
+			url: '/addwishlist.php'
+		}).done(function(data) {
+			$('#popup').html(data);
+			
+			$.magnificPopup.open({
+			  items: {
+				src: '#popup',
+				type: 'inline'
+			  }
+			});
+		});
+
+		$(document).off('click', 'button[type="submit"]');
+		$(document).on('click', 'button[type="submit"]', function() {
+			var dataString = $('form').serialize()+'&submit=submit'; 
+			$.ajax({
+				type: "POST",
+				url: '/addwishlist.php',
+				data: dataString,
+				success: function(data) {
+					$('#popup').html(data);
+					$.magnificPopup.open({
+					  items: {
+						src: '#popup',
+						type: 'inline'
+					  }
+					});
+				}
+			});
+			return false;
+		});
+	});
+
 });
 
 
