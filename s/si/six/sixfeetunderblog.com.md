@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfeetunderblog.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628110718id_/http%3A//sixfeetunderblog.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfeetunderblog.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223223131id_/http%3A//sixfeetunderblog.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Six Feet Under Blog
 
