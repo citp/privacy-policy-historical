@@ -1,105 +1,209 @@
-> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620232252id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223214857id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs2Careers
 
-Last update on: July 12, 2017
+Last modified: June 20, 2018
 
-Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy.
+### **Introduction**
 
-By registering with Jobs2Careers and/or using our site at www.Jobs2Careers.com ("the Site") or any other site that is operated by Jobs2Careers and displays a link to this Privacy Policy, you are accepting the policies and practices described in this Privacy Policy. Each time you visit the Site or provide us with information you agree that you are consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described in this Privacy Policy. 
+Jobs-to-Careers.com and Jobs2Careers.com (our " **Website** ") is owned by Talroo, Inc. f/k/a InsidersReferral.com Inc. and Jobs2Careers ( **"We"** ). We respect your privacy and are committed to protecting it through our compliance with this policy.
 
-####  Information Collection 
+This policy describes the types of information we may collect from you or that you may provide when you register on www.jobs2careers.com (the " **Website** ") or visit our Website, and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-### **Account Information:**
+This policy applies to information we collect:
 
-In order to become a Jobs2Careers user, you may optionally create an account on the Site. To create an account, you are required to provide: your email address, first and last name and zip code. 
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by emailing us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com) or by contacting us at any of the contact information listed below. The name and email address on the account must match our records to request access. We will respond to your request to access within 30 days.
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-### **Cookies, Log Files & IP Address:**
-
-As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to provide you with a more relevant site experience. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your information, so you don't have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. This type of information is collected to make our Services more useful to you and to help us improve the Site. We may also use third party vendors to support our Site and optimize our display advertising. Some of these vendors, for example Google, may use technology like Remarketing with Google Analytics, and this type of information to inform, optimize, and serve ads based on your past visits to our website. You must accept cookies to access Jobs2Careers as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only. 
-
-You are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain Service Providers, please click [here](http://www.networkadvertising.org/choices/) and [here](http://www.google.com/analytics/learn/privacy.html). To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager [here](https://www.google.com/settings/ads/onweb/). 
-
-Once we redirect you to a job page hosted by third-party sites, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You understand that Jobs2Careers has no control over third-party sites, thus your privacy is subject to third-party site's privacy policy.
-
-### **Information from Other Sources:**
-
-We may receive information about you, including personal information, from third parties via an opt-in process, and may combine this information with other information we maintain about you. For an example, one of our marketing partners may present the opportunity to become a site member. If a user opts-in on a third party site, the marketing partner will provide contact information like name, email address, and zip code. If we do so, this policy governs any combined information that we maintain in personally identifiable format. 
-
-#### Children
-
-Minors (users under the age of 18) are not eligible to use Jobs2Careers, and we ask that minors (under the age of 18) do not submit any personal information to us or use the service. 
-
-#### Use of Information
-
-We use personal information to enhance, improve, operate, and maintain Jobs2Careers; to provide you with services you request; to contact you in connection with your transactions, postings and other activities on the Site, to forward to you messages from other users, and to communicate with you about Job opportunities and other products and services that we believe may be of interest to you. 
-
-#### Information Sharing and Disclosure
-
-Jobs2Careers collects the following categories of personally identifiable information: first and last name; home address, including name of a city and state or zip code; email address; telephone number, information about your job candidacy and job search (e.g., the number of years of work experience you have), information about your activities on Jobs2Careers, and demographic information, such as gender, geographic area, and preferences, when any of this information is linked to personal information that identifies you. 
-
-We will share your personal information with third parties only in the ways that are described in this privacy policy. 
-
-Jobs2Careers may share this personal information with the following categories of third party persons: any person or entity to whom you have given us permission to share personal information; any third party affiliate, agent, service provider or business partner of such person or entity; any affiliate, agent, service provider or business partner who provides a service that you request on our site; any court, law enforcement agency or other investigator; any owner, successor or purchaser of Jobs2Careers or its assets. The use of information by each of these third parties is subject to such third-party's privacy policy. 
-
-When we share your personal information with our third party affiliate, agent, service provider or business partner to help us with our business activities or provide services to us. These companies are authorized to use your personal information only as necessary to provide these services to us. 
-
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties and not to Jobs2Careers. 
-
-If you opt-in to receive education consultation, Jobs2Careers may share your personal information with third-party education lead-generation companies to provide the requested consultation. They may call you by phone and send emails to you to provide education related information. 
-
-Please be aware that we may send you certain communications relating to the Jobs2Careers service, such as service announcements, administrative messages and the Jobs2Careers Newsletter, that are considered "transactional or relationship" messages or are otherwise non-commercial, without offering you the opportunity to opt out of receiving them. 
-
-We may also disclose your personal information: 
-
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if InsidersReferral.com, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so
+  * On the Website.
+  * In e-mail, text and other electronic messages between you and the Website.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
 
-By registering on Jobs2Careers, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc.) 
+It does not apply to information collected by:
 
-#### Third Party Cookies
+  * Us offline or through any other means, including on any other website operated by us that does not link to this privacy policy or any third party (including our affiliates and subsidiaries); or
+  * Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>. 
 
-#### Data Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We use reasonable security measures and generally accepted standards to protect personal information from unauthorized use, alteration, and disclosure. We restrict access of your personal information from our employees, unless we believe it is reasonably necessary to do their jobs. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using the Website, you agree to this privacy policy.
 
-#### Links to Other Sites
+This policy may change from time to time (see _Changes to our Privacy Policy_). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-The Site contains links to other sites (including co-branded links). Please be aware that Jobs2Careers does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
+### **Children Under the Age of 13**
 
-#### Blog / Forum
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on the Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of the Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com).
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+### **Information We Collect About You and How We Collect It**
 
-#### Social Media Widgets
+We collect several types of information from and about users of our Website, including information:
 
-Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+  * By which you may be personally identified, such as your name, postal address, e-mail address, and telephone number ("personal information");
+  * That is about you but individually does not identify you, such as information about your job candidacy and job search (e.g., your work experience), information about your activities on the Website, and demographic information, such as gender, geographic area, and preferences; and
+  * About your Internet connection, the equipment you use to access our Website, and usage details.
 
-#### Single Sign-On
 
-You can log in to our Blog using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
-#### Changes to this Privacy Policy
+We collect this information:
 
-Jobs2Careers reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting Jobs2Careers.com. If we change this Privacy Policy, we will notify users by posting notice on our site or by notice sent using contact information we have on file, and will update the "last updated" date at the top of this Privacy Policy. If we make a change that is materially less restrictive upon our use and disclosure of personal information that we collected prior to the effective date of the change, we will notify users as described above and will seek consent before using or disclosing any previously-collected information in a manner that would violate the prior privacy policy. 
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the Website, including usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners. We may receive information about you, including personal information, from third parties via an opt-in process, and may combine this information with other information we maintain about you.
 
-#### Opt-out
 
-To stop receiving job alerts and marketing offers from Jobs2Careers.com, click [here](https://web.archive.org/unsubscribe.php), by following the unsubscribe instructions included in these emails or you can contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). It may take up to 3 business days for the opt-out notification to be fully processed. 
 
-#### Contact Us
+Please note that some of our pages utilize framing techniques to serve content from our partners while preserving the look and feel of our Website. Please be aware that you are providing your personal information to these third parties and not to us.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). or by mail to: InsidersReferral.com, Inc. 6433 Champion Grandview Way, Bldg 2, Suite 100, Austin, TX 78750. By phone: (512) 717-0630 
+**_Information You Provide to Us_** **.** The information we collect on or through our Website may include:
+
+  * Information that you provide by filling in forms on our Website. This includes information provided when you create an account, subscribe to our service, or request further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys we might ask you to complete for research purposes.
+  * In connection with chargeable services, details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
+
+
+
+You may communicate with other users and/or provide information to be published or displayed through on the Website, including on our blog or community forums (collectively, " **User Contributions** "). Your User Contributions are posted and transmitted to others at your own risk. We cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+
+**_Single Sign-On_**
+
+You can log in to our blog using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us, such as your name and e-mail address, to pre-populate our sign-up form. Services like Facebook Connect give you the option to post information about your activities on this Website to your profile page to share with others within your network. PLEASE NOTE THAT YOUR RELATIONSHIP WITH FACEBOOK OR ANY OTHER THIRD-PARTY WEBSITE IS GOVERNED SOLELY BY YOUR AGREEMENT WITH SUCH THIRD-PARTY WEBSITE.
+
+**_Information We Collect Through Automatic Data Collection Technologies_** **.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including your Internet protocol address, browser type, domain names, access times, and operating system, and details of your visits to our Website, including traffic data, location data, logs and other communication data, and the resources that you access and use on the Website.
+
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
+
+The information we collect automatically may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
+
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Recognize you when you return to our Website.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. You must accept cookies to access the Website as a registered user.
+  * **Web Beacons.** Pages of the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+  * **Web Analytics.** We may use Google Analytics or other analytics software to track aggregate and anonymous user behavior on our Website.  To learn more, please review the document entitled "How Google uses data when you use our partners' sites or apps," located at [google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners). 
+
+
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or that you provide to us.
+
+### **Third-Party Use of Cookies and Other Tracking Technologies.**
+
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our websites. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.  For information about how you can opt out of receiving targeted advertising from many providers, see _Choices About How We Use and Disclose Your Information._
+
+### **How We Use Your Information**
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its content to you.
+  * To provide you with information, products or services that you request from us, including information about job opportunities.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account/subscription, including expiration and renewal notices.
+  * To send you our newsletter.
+  * To forward you messages from other users.
+  * To contact you in connection with your transactions, postings, and other activities on the Website.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide through it.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please adjust your preferences in your account profile or send an email to [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com).  For more information, see _Choices About How We Use and Disclose Your Information._.
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+
+### **Disclosure of Your Information**
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates, and other related parties.
+  * To monitor, review, store and analyze your content (including your resumes) that you send, store or receive, including via automated means and otherwise, for data analysis, quality control, and to refine the Website or any other of our products or services (including to provide better search results and other listings for job seekers and employers, provide you with personally relevant product features, and to prevent and block fraud and spam or reduce unwanted mail).
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about our users is among the assets transferred.
+  * To third parties to market their products or services to you if you have not opted out of receiving such marketing communications. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see _Choices About How We Use and Disclose Your Information._.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our [terms of use](http://www.jobs2careers.com/term.php) and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, our safety or that of our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### **Choices About How We Use and Disclose Your Information**
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Opting out of job alerts and marketing offers from us.** [Click here](http://www.jobs2careers.com/unsubscribe.php) to stop receiving job alerts and marketing offers from us. You may also opt out by following the unsubscribe instructions included in our emails or by contacting us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). It may take up to three business days for the opt-out notification to be fully processed.
+  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by sending us an e-mail stating your request to [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com).
+
+
+
+We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website: <http://www.networkadvertising.org/choices>.
+
+### **SMS Service**
+
+You may register to receive communications, including job alerts and marketing communications, via short message service (" **SMS Service** "). Participation in the SMS Service is not necessary to use the Website. By registering to participate in the SMS Service, you certify that you are authorized: (i) to enroll the designated mobile phone number in the SMS Service, and (ii) to incur any mobile message or data charges that may be incurred by participating in the SMS Service.
+
+You may subscribe to the SMS Service by entering and submitting your mobile phone number and full name in the provided submission form available on our Website. By entering this information and completing the submission form, you consent to us and other third parties contacting you on your mobile phone for marketing purposes.
+
+By subscribing to the SMS Service, you expressly consent and agree to accept and receive communications via text message to your mobile device and to the cellular/mobile telephone number(s) that you provided to us. The information in any message may be subject to certain time lags and/or delays.
+
+You can text STOP to stop receiving text messages from us and HELP to receive help. You consent that following such a request to unsubscribe, you may receive one final message confirming that you have unsubscribed.
+
+By participating in the SMS Service, you approve any such charges from your mobile carrier. Check your carrier's plan for details. You acknowledge and agree that you are solely responsible and liable for obtaining, maintaining, and paying all charges related to your mobile device(s).
+
+We are not responsible for incomplete, lost, late, or misdirected messages, including (but not limited to) undelivered messages resulting from any form of filtering by your mobile carrier or service provider or otherwise.
+
+You acknowledge and agree that the SMS Service may be provided in some cases through automatic telephone dialing technology, an artificial voice or a pre-recorded voice. By providing us your phone number, you expressly consent to receive the SMS Service through automatic dialing technology, artificial and pre-recorded voice. You agree to receive notifications from us, our representatives, employees, and agents, through any means authorized under this privacy policy or the Terms of Use, including phone calls and text messages that use automatic telephone dialing technology, artificial voice or pre-recorded voice or live person.
+
+We reserve the right, in our sole discretion, to cancel or suspend any or all of the SMS Service, in whole or in part, for any reason, with or without notice to you.
+
+### **Push Notifications**
+
+We work with third-party vendors to provide you with push notifications through your web browser. If you choose to participate in a push notification program by opting in on our Website, your participation in such a program will be governed by the applicable third-party vendors' terms and conditions and privacy policy. If you wish to opt out of any push notification program, you may do so by adjusting your browser settings, or you may opt out within a given notification.  If you encounter any difficulty in opting out of a push notification program, please email us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com).
+
+### **Accessing and Correcting Your Information**
+
+You can review and change your personal information by sending us an e-mail to [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com) to request access to, correct, or delete any personal information that you have provided to us. The name and email address on the account must match our records to request access. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+### **Your California Privacy Rights**
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com).
+
+### **Do Not Track**
+
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not respond to Do Not Track browser settings or signals. In addition, we deploy cookies, web beacons, and other technologies on our Website. Those tools may be used by us, our customers, and third parties to collect information about you and your Internet activity, even if you have turned on the Do Not Track signal.
+
+### **Data Security**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+### **Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the e-mail address specified in your account or through a notice on the Website's home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+### **Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com).
 
 Registration skipped. Redirecting to jobs... 
 
