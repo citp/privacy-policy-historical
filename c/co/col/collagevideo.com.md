@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125232536id_/https%3A//www.collagevideo.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223061611id_/https%3A//www.collagevideo.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Collage Video
+# Privacy Statement | Collage Video
 
 ## Privacy Statement for Collage Video
 
