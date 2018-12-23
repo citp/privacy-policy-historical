@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smashwords.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625172647id_/https%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smashwords.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223055243id_/https%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <link href="/static/img/swlogo57x57.png" rel="apple-touch-icon" type="image/png">
@@ -12,19 +12,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-<link rel="stylesheet" href="/static/dist/css/app.b7b8496c9252e1bcb411.css">
-<link rel="stylesheet" href="/static/dist/css/vendor.063fb9651d1e7c43384f.css">
+<link rel="stylesheet" href="/static/dist/css/main.dc0894b0.chunk.css">
   <title>Smashwords – About Smashwords — Privacy Policy</title>
 </head>
 
 <body ng-app="smashwords-core">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/dist/manifest.128370cdf2744341495f.js"></script>
-<script src="/static/dist/vendor.063fb9651d1e7c43384f.js"></script>
-<script src="/static/dist/app.b7b8496c9252e1bcb411.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/dist/js/runtime.95e78d3e.js"></script>
+<script src="/static/dist/js/2.342f9426.chunk.js"></script>
+<script src="/static/dist/js/1.1b78ba03.chunk.js"></script>
+<script src="/static/dist/js/main.45b7cd98.chunk.js"></script>
 
   <script>
-      Raven.config('https://db0acfea578c4f0293ca21d2993d003f@app.getsentry.com/10253',
-          {whitelistUrls: [/smashwords.com/]}).addPlugin(AngularPlugin, angular).install();
+      Raven.config('https://db0acfea578c4f0293ca21d2993d003f@sentry.io/10253',
+          {whitelistUrls: [/smashwords.com/], release: 'v2018.12.21.01'}).addPlugin(AngularPlugin, angular).install();
   </script>
   <script>
     window.angularData = {};
@@ -84,9 +84,6 @@
         </div>
       </div>
       <div>
-        <script>
-            $(document).ready(oldsw.makeAdultControlWork);
-        </script>
         <div id="navMenu" class="cf visible-md visible-lg ">
             <ul>
                 <li><a href="https://www.smashwords.com/" title="Browse books by categories, or view our authors">
@@ -94,11 +91,23 @@
                 <li><a href="https://www.smashwords.com/about" title="Learn more about publishing and reading ebooks on Smashwords">About</a></li>
                 <li><a href="https://www.smashwords.com/about/how_to_publish_on_smashwords" title="Learn how to publish your ebook on Smashwords">
                         How to Publish on Smashwords</a></li>
-                            <li class="last"><a href="https://www.smashwords.com/about/supportfaq" title="Read our support FAQ">FAQ</a></li>
+                <li class="last"><a href="https://www.smashwords.com/about/supportfaq" title="Read our support FAQ">FAQ</a></li>
                 <li class="last"><a href="https://www.smashwords.com/signup" title="Sign up with Smashwords">Join for Free!</a></li>
                 <li class="adult-control pull-right">
-                    <a class="btn btn-info" id="adultToggle" href="" title="Currently hiding all adult content in book lists and search results. Click to change preference to show them instead.">
-                        Adult Content: <i class="icon-ban-circle"></i>                    </a>
+                    <a onclick="$('#filterMenuMenu').toggle(33);" class="btn btn-info" style="display: inline;" title="Erotica controls">
+    Filtering
+</a>
+<a href="/about/filtering" target="_blank" style="display: inline;">
+    <i class="glyphicon glyphicon-info-sign" title="Learn more about filtering."></i>
+</a>
+<div id="filterMenuMenu" style="display: none;">
+            <button type="button btn-filter" class="btn btn-xs btn-block btn-default active" style="margin: 0px;" onclick="oldsw.contentFilteringChange('no_erotica');" title="Blocks erotica books from appearing on the home page and in search results.">
+            Exclude erotica        </button>
+            <button type="button btn-filter" class="btn btn-xs btn-block btn-default " style="margin: 0px;" onclick="oldsw.contentFilteringChange('no_taboo');" title="Mainstream erotica is carried by most major ebook stores.  Excludes 'taboo' erotica.">
+            Include mainstream erotica        </button>
+            <button type="button btn-filter" class="btn btn-xs btn-block btn-default " style="margin: 0px;" onclick="oldsw.contentFilteringChange('no_filtering');" title="Allow all erotica, including books with 'taboo' themes.">
+            Include all erotica        </button>
+    </div>
                 </li>
             </ul>
         </div>
@@ -127,6 +136,12 @@
             <a href="/" title="Home">
                 <i class="icon-home icon-fixed-width"></i>
                 Home
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="/books" title="Home">
+                <i class="icon-list icon-fixed-width"></i>
+                Classic Interface
             </a>
         </li>
         <li class="list-group-item">
@@ -302,28 +317,46 @@
 </div>
       </div>
     </div>
-        <div style="clear:both;"></div>
+    <div style="clear:both;"></div>
     <footer class="footer">
       <nav>
         <ul class="inline">
-          <li><a href="https://www.smashwords.com/about">About</a></li>
+                    <li><a href="https://www.smashwords.com/about">About</a></li>
           <li><a href="https://www.smashwords.com/press">Press Room</a></li>
           <li><a href="http://blog.smashwords.com">Blog</a></li>
           <li><a href="https://www.smashwords.com/podcast">Smart Author Podcast</a></li>
-          <li><a href="https://www.smashwords.com/about/affiliate">Affiliates</a></li>
-          <li><a href="https://www.smashwords.com/about/supportfaq">FAQ</a></li>
+                        <li><a href="https://www.smashwords.com/about/affiliate">Affiliates</a></li>
+                    <li><a href="https://www.smashwords.com/about/supportfaq">FAQ</a></li>
           <li><a href="#showTop" id="showBottom">Support</a></li>
           <li><a href="https://www.smashwords.com/about/privacy">Privacy Statement</a></li>
           <li><a href="https://www.smashwords.com/about/tos">Terms of Service</a></li>
-          <li><a href="https://www.smashwords.com/about/jobs">Jobs</a></li>
-          <li><a href="https://www.smashwords.com/signin">Sign In</a></li>
-          <li><a href="https://www.smashwords.com/signup">Join Now for Free</a></li>
-        </ul>
+                              <li style="vertical-align: top;">
+              <a onclick="$('#filterMenuFooter').toggle(33);" class="btn btn-xs btn-default" style="display: inline;" title="Erotica controls">
+    Filtering
+</a>
+<a href="/about/filtering" target="_blank" style="display: inline;">
+    <i class="glyphicon glyphicon-info-sign" title="Learn more about filtering."></i>
+</a>
+<div id="filterMenuFooter" style="display: none;">
+            <button type="button btn-filter" class="btn btn-xs btn-block btn-default active" style="margin: 0px;" onclick="oldsw.contentFilteringChange('no_erotica');" title="Blocks erotica books from appearing on the home page and in search results.">
+            Exclude erotica        </button>
+            <button type="button btn-filter" class="btn btn-xs btn-block btn-default " style="margin: 0px;" onclick="oldsw.contentFilteringChange('no_taboo');" title="Mainstream erotica is carried by most major ebook stores.  Excludes 'taboo' erotica.">
+            Include mainstream erotica        </button>
+            <button type="button btn-filter" class="btn btn-xs btn-block btn-default " style="margin: 0px;" onclick="oldsw.contentFilteringChange('no_filtering');" title="Allow all erotica, including books with 'taboo' themes.">
+            Include all erotica        </button>
+    </div>
+          </li>
+          <li class="visible-xs visible-sm">
+              <a href="https://www.smashwords.com/books">Classic Interface</a>
+          </li>
+                        <li><a href="https://www.smashwords.com/signin">Sign In</a></li>
+              <li><a href="https://www.smashwords.com/signup">Join Now for Free</a></li>
+                  </ul>
       </nav>
       <small>
           Copyright © 2018 Smashwords, Inc. All rights reserved.
       </small>
-    </footer>
+          </footer>
   </div>
   <script>
     $(function(){
@@ -340,7 +373,7 @@
               $( ".header-search" ).submit(); },
           source: function( request, response ) {
               $.ajax({ dataType: "json", type : 'Get',
-                  url: '//api.datamuse.com/sug?k=smashwords&v=smashwords_plus_adult_erotica&s=' + encodeURIComponent(request.term),
+                  url: '//api.datamuse.com/sug?k=smashwords&v=smashwords_plus_adult&s=' + encodeURIComponent(request.term),
                   success: function(data) { response( $.map( data, function(item) { return item["word"]; })) }, });
               last_req = request.term; }
       }); });
