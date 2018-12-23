@@ -1,24 +1,38 @@
-> *The following text is extracted and transformed from the gundrymd.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401191506id_/https%3A//gundrymd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundrymd.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223113632id_/https%3A//gundrymd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Gundry MD Supplements and Skincare Products
 
-#### SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
+[EU Residents Click Here](https://gundrymd.com/gdpr)
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+#### SECTION 1 – INFORMATION WE COLLECT
 
-When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+Information Provided by You: We may collect personal information that you provide to us. “Personal information” is information that can be used to identify you individually, and includes items such as your name, home address, e-mail address, telephone number, demographic information, and/or payment information, such as your account or card number, if used to make a purchase from our website. The type of personal information that we may collect depends on your use of this website and what information you provide to us.
 
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
+#### SECTION 2 – USE AND SHARING OF INFORMATION
 
-#### SECTION 2 – CONSENT
+We use the information that we collect about you for a variety reasons, including the following:
 
-How do you get my consent?  
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+• Verifying your identity;  
+• Fulfilling your product orders;  
+• Responding to your questions;  
+• Providing you with access to certain areas and features of this website;  
+• Communicating with you about your purchases and activities on this website;  
+• Marketing campaigns to market products and services to you (unless you have opted-out);  
+• Adapting content, advertisements, and offers we provide to you directly or through third-party partners;  
+• Improving the Website and our customers’ experience; and  
+• Sending notices or information.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.  
-How do I withdraw my consent?
+We may share your personal information with our parent entities, subsidiaries and affiliates for internal reasons, primarily for business and operational purposes. Except as otherwise provided in this Privacy Policy, we will not share any of your personal information with third parties without your specific consent. We may share non-personal information, such as user statistics or demographics, as specifically set forth in this Privacy Policy.
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@gundrymd.com](mailto:support@gundrymd.com) or mailing us at: Gundry MD™, 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States
+We also contract with certain vendors to assist us in providing services to our customers. These vendors use the Personal Information that you submit to us in order to perform the following tasks:
+
+• Order processing at checkout;  
+• Credit card authorization and identity verification;  
+• Order shipping and handling;  
+• Emailing newsletters and other promotional materials for customers on our mailing list;  
+• Storing and “backing up” our customer records.
+
+Finally, notwithstanding the foregoing, we may transfer and disclose information, including your personal information, usage information, and identifying information, including IP address, to third parties to comply with a legal obligation; at the request of governmental authorities; or otherwise to protect the rights, property, safety, or security of third parties, users of this Website, or the public.
 
 #### SECTION 3 – DISCLOSURE
 
@@ -42,11 +56,11 @@ PCI-DSS requirements help ensure the secure handling of credit card information 
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. We do not sell, trade, or otherwise transfer to outside parties your personal information unless we provide you with advance notice. This does not include website hosting partners and other third parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our website policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
 
-Our store’s payment gateway is hosted by 1ShoppingCart.com. 1ShoppingCart.com has access to aggregate data about our customers in order to assist 1ShoppingCart.com in analyzing Site performance and making improvements to 1ShoppingCart.com products. 
+Our store’s payment gateway is hosted by 1ShoppingCart.com. 1ShoppingCart.com has access to aggregate data about our customers in order to assist 1ShoppingCart.com in analyzing Site performance and making improvements to 1ShoppingCart.com products.
 
 In addition, all orders are processed through Network Merchants, LLC. The personally identifiable information Network Merchants, LLC acquires in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using their payment services. It may include, for example, the amount of the transaction, the consumer’s name, credit card number and expiration date, checking account number, billing address, and shipping address.
 
-Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personal consumer information is used to process payment transactions and for no other purpose. 
+Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personal consumer information is used to process payment transactions and for no other purpose.
 
 Network Merchants, LLC stores transaction information on secure computers located in a locked data center. Only a small number of employees involved in the management of the data center have physical access to these computers. Where possible, Network Merchants, LLC encrypts information stored on their computers as a further measure of protection. Network Merchants, LLC uses state-of-the-art firewalls and other security technology to prevent their computers from being accessed by unauthorized persons. Information security is critical to our business. Nevertheless, nothing can be 100% secure. We cannot ensure or warrant the security of any information you transmit to us.
 
@@ -80,7 +94,7 @@ Please outline in your letter or email that you are making a “California Shine
 
 #### SECTION 10 – CHILDREN’S PRIVACY
 
-This Website is not directed to children under the age of thirteen (13) and we do not knowingly collect personal information from children under the age of thirteen on the Website. Children may not use our services. We have no way of distinguishing the age of individuals who address our Website. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+This Website is not directed to children under the age of thirteen (13) and we do not knowingly collect personal information from children under the age of thirteen on the Website. Children may not use our services. We have no way of distinguishing the age of individuals who visit our Website. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
 
 #### QUESTIONS AND CONTACT INFORMATION
 
