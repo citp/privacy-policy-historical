@@ -1,105 +1,305 @@
-> *The following text is extracted and transformed from the littlethings.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624130028id_/https%3A//www.littlethings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlethings.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224604id_/https%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Rights
+# Privacy Policy – RockYou
 
-Last Updated: May 2nd, 2018
+Privacy Policy  [Pinsuda Singchai](https://rockyou.com/author/pinsuda-singchai/ "Posts by Pinsuda Singchai") 2018-10-24T09:42:35+00:00 
 
-The LittleThings™ website located at www.littlethings.com (the “Site”) is an Internet property of RockYou Inc. (“LittleThings™,” “we” or “us”). This LittleThings® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or LittleThings® (“LT Content,” and together with the User Submitted Content, “Content”); (c) access links to LittleThings®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, LittleThings® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “LittleThings® Offerings”). 
+**RockYou Privacy Policy**
 
-Capitalized terms not defined herein shall have the meanings set forth in the LittleThings® Website Terms and Conditions (“Terms and Conditions”). **IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE LITTLETHINGS® OFFERINGS.**
+RockYou, Inc. and its subsidiaries (collectively, “RockYou”) provides a host of websites, gaming applications, mobile applications and other gaming services, as well as a technology that allows our partners to show ads to the users of those games. RockYou recognize that its customers, visitors, users, and others (collectively or individually “Users”) who use games, applications, websites, and other services provided by RockYou (collectively, the “RockYou Sites”) as well as visitors to our partners’ games and applications value their privacy. This Privacy Policy details important information regarding the collection, use, and disclosure of User information collected on the RockYou Sites and other sites and services that integrate RockYou technology.
 
-Facebook® is a registered trademark of Facebook, Inc. (“Facebook”). Please be advised that LittleThings® is not in any way affiliated with Facebook, and the LittleThings® Offerings are not endorsed, administered or sponsored by Facebook.
+**THE INFORMATION ROCKYOU COLLECTS**
 
-## Your California Privacy Rights
+**Information You Provide Us**
 
-If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: help@littlethings.com; send mail to: 520 Broadway, 3rd Floor, Santa Monica, California 90401; or call us at: (310) 879-1935.
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the RockYou Sites, fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third-party social media sites, request customer support, or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number, fax number, financial information (credit card number, expiration date and security code), and any other information you choose to provide.
 
-Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: help@littlethings.com; send mail to: 520 Broadway, 3rd Floor, Santa Monica, California 90401; or call us at: (310) 879-1935.
+When you use the RockYou Sites on Facebook or use your login credentials from Facebook or another social network service, we may collect and record the information you provide us voluntarily through Facebook or other social network service in accordance with the policies and terms of Facebook or other social network service and your settings with that service. The types of personal information collected may vary depending on your activity, social network settings, and the permissions you grant, but may include your name, Facebook user identification number, email address, gender, current city, profile picture, and age or date of birth.
 
-## Personal Information Collected
+In the event that you wish to claim a prize won through one of RockYou’s rewards-based gaming applications (e.g., Bingo by Ryzing), you will need to follow certain procedures set forth in the terms of such application. Some of these procedures may include the submission of certain personal information, such as your photo identification or Social Security Number.
 
-For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable information from or about an individual. We collect personal information when you access certain of the LittleThings® Offerings. In order to post a comment via the Interactive Services, you must have a Facebook® account. Your Facebook® account name will appear as your screen name when posting a comment. Where a User places a comment using her/his Facebook® account, LittleThings® may collect some or all of the following (depending on the User’s Facebook® account settings and the discretion of Facebook®): (a) the User’s e-mail address; (b) the information listed in the “About Me” section of the User’s Facebook® account; (c) the “interests” associated with the User’s Facebook® account; (d) the User’s Facebook® account ID and the “likes” associated with the User’s Facebook® account; and (e) any other information collected via the Facebook® account interface (collectively, “Registration Data”).
+**Location Data**
 
-## Use of Personal Information
+If you consent to allow a RockYou Site or one of our partners access information about your location, we may collect information about your precise location and share it with third parties for the purpose showing ads that are targeted to your interests. We also use your IP address to derive information about your general location (for example, your city or town).
 
-By submitting your personal information by and through the LittleThings® Offerings, you agree that we may share, sell, rent, lease or otherwise provide that personal information to any third party for any purpose, and we may work with other businesses to bring selected retail opportunities to our Users. These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); and (d) direct marketers.
+**Automatically Collected Information**
 
-We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from User lists, analyzing data and providing marketing analysis. The agents performing these limited functions on our behalf shall have access to our Users’ personal information as needed to perform these functions for us, but we do not permit them to use User personal information for other purposes.
+When you interact with a RockYou Site or a website, mobile application, or other gaming service that integrates RockYou’s technology, we collect certain information about your mobile device or computer system, including your browser type, browser language, platform type, MAC Address, IP Address, mobile advertising ID, Facebook ID, cookie information, and information about your interactions with the RockYou Sites or other apps or games that integrate RockYou’s technology, such as referring / exit pages and URLs, clicks, domain names, landing pages, pages viewed and the order in which those pages were viewed, the amount of time spent on particular pages, and the date and time of your request.
 
-We will also use your personal information for customer service, to provide you with information that you may request, to customize your experience with the LittleThings® Offerings and/or to contact you when necessary in connection with your use of the LittleThings® Offerings. We may also use your personal information for internal business purposes, such as analyzing and managing our business including, without limitation, the LittleThings® Offerings. We may also combine the information we have gathered about you with information from other sources.
+**Cookies and Other Tracking Technologies**
 
-By submitting your personal information by and through the LittleThings® Offerings, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
+We and our partners, affiliates, and analytics and other providers use technologies such as cookies, beacons, pixels, tags, scripts, and SDKs to analyze trends, administer the RockYou Sites, advertise, and to gather demographic information about our users. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
-Where you provide “prior express written consent” within the meaning of the Telephone Consumer Protection Act (47 USC § 227), and its implementing regulations adopted by the Federal Communications Commission (47 CFR § 64.1200), as amended from time-to-time (“TCPA”), you consent to receive telephone calls, including artificial voice calls, pre-recorded messages and/or calls (including SMS text messages) delivered via automated technology, to the telephone number(s) that you provided. Please note that you are not required to provide this consent in order to obtain access to the LittleThings® Offerings, and your consent simply allows LittleThings® to contact you via these means. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.
+Cookies are a small text file containing a string of alphanumeric characters that help us improve the RockYou Sites and your experience, see which areas and features of the RockYou Sites are popular, and count visits. Web beacons are electronic images that may be used in the RockYou Sites or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. An SDK is a piece of computer code that developers include in their mobile applications.
 
-We reserve the right to release current or past Registration Data and other personal information: (i) in the event that we believe that the LittleThings® Offerings are being or have been used in violation of the Terms and Conditions or to commit unlawful acts; (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, we shall provide you with e-mail notice, and opportunity to challenge the subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (iii) if we are sold, merge with a third party, are acquired or are the subject of bankruptcy proceedings; provided, however, that if LittleThings® is involved in a bankruptcy proceeding, merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personal information, as well as any choices that you may have regarding your personal information.
+**Information We Collect from Other Sources**
 
-You hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with third-parties for suppression purposes in compliance with applicable law including the CAN-SPAM Act of 2003, as amended from time to time. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. 
+RockYou and partners that use RockYou technology may obtain information from other sources and combine that with information we collect through the RockYou Sites or our partners’ services. For example, we may collect information about you from third parties, including but not limited to game partners, identity verification services, advertisers, mailing list providers, and publicly available sources.
 
-## User Submitted Content/Interactive Services/Social Media Websites
+**THIRD-PARTY ADVERTISERS**
 
-If you submit personal information via User Submitted Content, Feedback by and through the Interactive Services and/or any applicable Social Media Pages appearing on Social Media Websites, you should be aware that the personal information that you submit using such forums can be read, collected or used by other users of these forums (depending on your privacy settings, in the case of Social Media Websites), and could be used to send you unsolicited messages or otherwise contact you without your consent or desire. We are not responsible for the personal information that you choose to submit in these forums.
+RockYou allows other companies, called third-party ad servers or ad networks, to serve advertisements within the RockYou Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, device, or mobile application, the advertisements and links that appear on the RockYou Sites or our partners’ sites. These third parties automatically receive your IP address when this happens. They may also use other technologies (such as cookies, SDKs, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. RockYou does not provide any personal information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks RockYou to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the target audience.
 
-Further, by submitting User Submitted Content, you: (a) represent and warrant that LittleThings’® use of your submission does not and will not breach any agreement, violate any law, violate any Social Media Website’s terms of service or infringe upon any third party’s rights; (b) agree that LittleThings® is free to use in any manner all or part of the User Submitted Content and/or other material on an unrestricted basis without the obligation to notify, identify or compensate you or anyone else; and (c) grant LittleThings® all necessary rights, including a waiver of all copyright, trademark, privacy and moral rights, to use all User Submitted Content and/or other material, in whole or in part, or as a derivative work, without any duty of LittleThings® to anyone whatsoever.
+**USE OF INFORMATION**
 
-## Non-Personal Information Collection and Use
+We use the information we collect to operate, maintain, and provide you the features and functionality of the RockYou Sites. We also use the information we collect to show ads and report on how they perform, including to show ads that are targeted to users’ interests across their devices, limiting the number of times users see ads, customizing ads to users’ locations, determining how users respond to ads, and reporting on the effectiveness of ads. Finally, we use the data we collect to protect the rights of RockYou and others, including to detect, prevent, investigate, and deter fraudulent, unauthorized, or illegal activity.
 
-IP Addresses/Browser Type
+**SHARING OF INFORMATION**
 
-We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Safari, Chrome, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or iOS) and the domain name of your Internet service provider (e.g., Verizon, AT&T). We use the non-personally identifiable information that we collect to improve the design and content of the LittleThings® Offerings and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze usage of the LittleThings® Offerings.
+RockYou will not share, sell, rent or trade information that identifies you other than as described in this privacy policy. RockYou may share information that identifies you as follows:
 
-Cookies
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * When you post information publicly, such as in discussion boards, messages and chat areas, within your public profile page, etc., that information will be publicly available;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of RockYou or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among RockYou and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
 
-When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to assign an anonymous, unique identifier to the applicable User’s computer or other device. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To find out more about Cookies, please visit www.cookiecentral.com. We use Cookies to improve the quality of the LittleThings® Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).
 
-Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a Cookie is being sent. To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use the LittleThings® Offerings; provided, however, that certain functions of the LittleThings® Offerings may be impaired or rendered inoperable if the use of Cookies is disabled. We reserve the right to retain Cookie data indefinitely.
 
-Behavioral Tracking
+In addition, companies that use RockYou’s technology to collect data about their users will have access to that data and may use it for their own purposes, and may share such data with third parties such as advertising partners. Finally, we may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-LittleThings® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities (such as websites visited, advertisements selected and pages viewed) after they leave the Site. LittleThings® uses these Cookies to target applicable Users with advertisements regarding LittleThings® Offerings and other products and/or services that LittleThings® thinks may be of interest to applicable Users. In addition, third parties such as Google® may engage in a similar form of behavioral tracking of, and targeted advertising to, Users that visit the Site. Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers. In addition, Users may be able to opt-out of this form of tracking utilizing the options made available by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) or [Digital Advertising Alliance](http://www.aboutads.info/choices/). To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.
+**YOUR CHOICES**
 
-Aggregate Data
+**Public Profiles**
 
-LittleThings® reserves the right to transfer and/or sell aggregate or group data about users of the LittleThings® Offerings for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of LittleThings® Offerings Users as a group, without disclosing personally identifiable information.
+The profiles you create and any content that you post on the RockYou Sites will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. To request removal of your personal information from our blog or community forum, contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
 
-## Third-Party Websites
+**Location Information**
 
-This Site may contain links to third-party owned and/or operated websites including, without limitation, the Social Media Websites. LittleThings® is not responsible for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase through one of these third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and LittleThings® has no responsibility or liability relating to them.
+When you first launch any of our applications that collect location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.
 
-## Security
+**Cookie Information**
 
-We endeavor to safeguard and protect our Users’ personal information. When Users make personal information available to us, their personal information is protected both online and offline (to the extent that we maintain any personal information offline). The privacy of your personal information is very important to us 
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the RockYou Sites.
 
-Access to your personal information is strictly limited, and we take reasonable measures to ensure that your personal information is not accessible to the public. The servers that we store personal information in are kept in a secure physical environment. We also have security measures in place to protect the loss, misuse and alteration of personal information under our control. Please be advised, however, that while we take every reasonable precaution available to protect your data, no storage facility, technology, software, security protocols or data transmission over the Internet can be guaranteed to be 100% secure. Computer hackers that circumvent our security measures may gain access to certain portions of your personal information, and technological bugs, errors and glitches may cause inadvertent disclosures of your personal information; provided, however, that any attempt to breach the security of the network, our servers, databases or other hardware or software constitutes a crime punishable by law. For the reasons mentioned above, we cannot warrant that your personal information will be absolutely secure. Any transmission of data at or through the Site is at your own risk. 
+**Targeted Advertising**
 
-All of our Users’ personal information is restricted in our offices. Only employees or third party agents who need the personal information to perform a specific job are granted access to personal information. Our employees are dedicated to ensuring the security and privacy of all user personal information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
+To opt out of the use of information about your web browsing activity to show ads that are targeted to your interests by companies that participate in the Digital Advertising Alliance, please visit <http://www.aboutads.info/choices/>, or if you are in the EU <http://www.youronlinechoices.eu/>. To opt out of use of information about your app usage for purposes of showing ads that are targeted to your interests, please use the settings on your device (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android).
 
-## Minors
+**Promotional Communications**
 
-Visitors under eighteen (18) years of age are not permitted to use and/or submit their personal information at the Site. LittleThings® does not knowingly solicit or collect information from visitors under eighteen (18) years of age. LittleThings® encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
+You may opt out of receiving promotional communications from us by following the instructions in those messages or by emailing us at [privacy@rockyou.com](mailto:privacy@rockyou.com). If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 
-## Opt-Out/Unsubscribe
+**Mobile/Push Notifications**
 
-To opt-out of receiving e-mail communications from us, you can follow the instructions at the end of the applicable e-mail message or e-mail us at: help@littlethings.com.
+We may also occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt out from receiving these types of communications by turning them off on the app or at the device level through your settings.
 
-Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for LittleThings® Offerings, as well as to respond to any inquiry or request made by you. To opt-out of receiving LittleThings® Offerings-related and inquiry response-related messages from LittleThings®, you must cease requesting and/or utilizing the LittleThings® Offerings and cease submitting inquiries to LittleThings®, as applicable.
+**LINKS TO OTHER SITES**
 
-## Deleting, Modifying and Updating Your Information
+The RockYou Sites include links to other web sites whose privacy practices may differ from those of RockYou. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
 
-At your request, we will: (a) inform you of what personal information we have on file for you; (b) amend the personal information that we have on file for you; and/or (c) remove personal information that you have provided to us, or that we have collected. You may do so by e-mailing us at: help@littlethings.com. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
+**OUR COMMITMENT TO CHILDREN’S PRIVACY**
 
-Please be advised that deleting your personal information may terminate your access to certain of the LittleThings® Offerings. If you wish to continue using the full complement of LittleThings® Offerings, you may not be able to delete all of the personal information that we have on file for you.
+Protecting the privacy of young children is especially important to RockYou. For that reason, RockYou does not knowingly collect or maintain information on the RockYou Sites from persons under 13 years of age, and no RockYou Sites are directed to persons under 13. If you are under 13 years of age, please do not use or access the RockYou Sites at any time or in any manner. If RockYou learns that personal information of persons under 13 years of age has been collected on the RockYou Sites then RockYou will take the appropriate steps to delete this information.
 
-Please be further advised that, after you delete your personal information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+**INTERNATIONAL USERS & PRIVACY SHIELD**
 
-## Changes to this Privacy Policy
+The RockYou Sites are hosted in the United States. If you access the RockYou Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from the laws of the United States, please be advised that through your continued use of the RockYou Sites, you are transferring your personal information to the United States.
 
-LittleThings® reserves the right to change or update this Privacy Policy at any time by posting a notice on the Site that we are changing our Privacy Policy. If the manner in which we use personal information changes, LittleThings® will notify Users by: (a) sending the modified policy to our Users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your information in this different manner and we will only use your information in this different manner where you opt-in to such use.
+RockYou (and its subsidiaries) participate in and have certified compliance with the EU-U.S. Privacy Shield Framework. RockYou is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
-## Contact Us
+RockYou is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. RockYou complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-If you have any questions about this Privacy Policy, please e-mail us at: help@littlethings.com.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, RockYou is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, RockYou may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-## Filing a Complaint with the Federal Trade Commission
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-To file a complaint regarding our privacy practices, please [Click Here.](https://www.ftccomplaintassistant.gov/FTC_Wizard.aspx?Lang=en)
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**DATA RETENTION**
+
+We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it, such as to mediate your access to the RockYou Sites, for advertising, or as needed to provide you services. We also retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
+
+We do not share personal information with third parties for their own marketing purposes unless you affirmatively agree to such disclosure. California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+**RESIDENTS OF THE EUROPEAN ECONOMIC AREA**
+
+If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under the law regarding the processing of your personal data.
+
+**Legal Basis for Processing**
+
+If you are a resident of the EEA, when we process your personal data we will only do so in the following situations:
+
+  * When we have your consent to do so, such as if you consent to allow us to show ads that are targeted to your interests based on your visits to websites, apps, or games with which we work to show ads.
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the RockYou services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to the RockYou Sites, and to provide, secure, and improve the RockYou Sites.
+
+
+
+**Data Subject Requests**
+
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may contact us as indicated below.
+
+**Questions or Complaints**
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+
+**CHANGES AND UPDATES TO THIS PRIVACY POLICY**
+
+This Privacy Policy may be revised periodically reflected by the “effective date” below. Please revisit this page frequently to become aware of any changes. If we materially change how we use your personal information, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
+
+**Date Last Modified:**
+
+This Privacy Policy was last modified October 23, 2018
+
+**Contact Information:**
+
+Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+RockYou, Inc.  
+1111 Broadway, FL 3  
+Oakland, CA 94607
+
+**RockYou Privacy Policy**
+
+RockYou, Inc. and its subsidiaries (collectively, “RockYou”) provides a host of websites, gaming applications, mobile applications and other gaming services, as well as a technology that allows our partners to show ads to the users of those games. RockYou recognize that its customers, visitors, users, and others (collectively or individually “Users”) who use games, applications, websites, and other services provided by RockYou (collectively, the “RockYou Sites”) as well as visitors to our partners’ games and applications value their privacy. This Privacy Policy details important information regarding the collection, use, and disclosure of User information collected on the RockYou Sites and other sites and services that integrate RockYou technology.
+
+**THE INFORMATION ROCKYOU COLLECTS**
+
+**Information You Provide Us**
+
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the RockYou Sites, fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third-party social media sites, request customer support, or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number, fax number, financial information (credit card number, expiration date and security code), and any other information you choose to provide.
+
+When you use the RockYou Sites on Facebook or use your login credentials from Facebook or another social network service, we may collect and record the information you provide us voluntarily through Facebook or other social network service in accordance with the policies and terms of Facebook or other social network service and your settings with that service. The types of personal information collected may vary depending on your activity, social network settings, and the permissions you grant, but may include your name, Facebook user identification number, email address, gender, current city, profile picture, and age or date of birth.
+
+In the event that you wish to claim a prize won through one of RockYou’s rewards-based gaming applications (e.g., Bingo by Ryzing), you will need to follow certain procedures set forth in the terms of such application. Some of these procedures may include the submission of certain personal information, such as your photo identification or Social Security Number.
+
+**Location Data**
+
+If you consent to allow a RockYou Site or one of our partners access information about your location, we may collect information about your precise location and share it with third parties for the purpose showing ads that are targeted to your interests. We also use your IP address to derive information about your general location (for example, your city or town).
+
+**Automatically Collected Information**
+
+When you interact with a RockYou Site or a website, mobile application, or other gaming service that integrates RockYou’s technology, we collect certain information about your mobile device or computer system, including your browser type, browser language, platform type, MAC Address, IP Address, mobile advertising ID, Facebook ID, cookie information, and information about your interactions with the RockYou Sites or other apps or games that integrate RockYou’s technology, such as referring / exit pages and URLs, clicks, domain names, landing pages, pages viewed and the order in which those pages were viewed, the amount of time spent on particular pages, and the date and time of your request.
+
+**Cookies and Other Tracking Technologies**
+
+We and our partners, affiliates, and analytics and other providers use technologies such as cookies, beacons, pixels, tags, scripts, and SDKs to analyze trends, administer the RockYou Sites, advertise, and to gather demographic information about our users. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+
+Cookies are a small text file containing a string of alphanumeric characters that help us improve the RockYou Sites and your experience, see which areas and features of the RockYou Sites are popular, and count visits. Web beacons are electronic images that may be used in the RockYou Sites or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. An SDK is a piece of computer code that developers include in their mobile applications.
+
+**Information We Collect from Other Sources**
+
+RockYou and partners that use RockYou technology may obtain information from other sources and combine that with information we collect through the RockYou Sites or our partners’ services. For example, we may collect information about you from third parties, including but not limited to game partners, identity verification services, advertisers, mailing list providers, and publicly available sources.
+
+**THIRD-PARTY ADVERTISERS**
+
+RockYou allows other companies, called third-party ad servers or ad networks, to serve advertisements within the RockYou Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, device, or mobile application, the advertisements and links that appear on the RockYou Sites or our partners’ sites. These third parties automatically receive your IP address when this happens. They may also use other technologies (such as cookies, SDKs, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. RockYou does not provide any personal information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks RockYou to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the target audience.
+
+**USE OF INFORMATION**
+
+We use the information we collect to operate, maintain, and provide you the features and functionality of the RockYou Sites. We also use the information we collect to show ads and report on how they perform, including to show ads that are targeted to users’ interests across their devices, limiting the number of times users see ads, customizing ads to users’ locations, determining how users respond to ads, and reporting on the effectiveness of ads. Finally, we use the data we collect to protect the rights of RockYou and others, including to detect, prevent, investigate, and deter fraudulent, unauthorized, or illegal activity.
+
+**SHARING OF INFORMATION**
+
+RockYou will not share, sell, rent or trade information that identifies you other than as described in this privacy policy. RockYou may share information that identifies you as follows:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * When you post information publicly, such as in discussion boards, messages and chat areas, within your public profile page, etc., that information will be publicly available;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of RockYou or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among RockYou and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
+
+
+
+In addition, companies that use RockYou’s technology to collect data about their users will have access to that data and may use it for their own purposes, and may share such data with third parties such as advertising partners. Finally, we may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+**YOUR CHOICES**
+
+**Public Profiles**
+
+The profiles you create and any content that you post on the RockYou Sites will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. To request removal of your personal information from our blog or community forum, contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+**Location Information**
+
+When you first launch any of our applications that collect location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.
+
+**Cookie Information**
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the RockYou Sites.
+
+**Targeted Advertising**
+
+To opt out of the use of information about your web browsing activity to show ads that are targeted to your interests by companies that participate in the Digital Advertising Alliance, please visit <http://www.aboutads.info/choices/>, or if you are in the EU <http://www.youronlinechoices.eu/>. To opt out of use of information about your app usage for purposes of showing ads that are targeted to your interests, please use the settings on your device (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android).
+
+**Promotional Communications**
+
+You may opt out of receiving promotional communications from us by following the instructions in those messages or by emailing us at [privacy@rockyou.com](mailto:privacy@rockyou.com). If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+
+**Mobile/Push Notifications**
+
+We may also occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt out from receiving these types of communications by turning them off on the app or at the device level through your settings.
+
+**LINKS TO OTHER SITES**
+
+The RockYou Sites include links to other web sites whose privacy practices may differ from those of RockYou. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
+
+**OUR COMMITMENT TO CHILDREN’S PRIVACY**
+
+Protecting the privacy of young children is especially important to RockYou. For that reason, RockYou does not knowingly collect or maintain information on the RockYou Sites from persons under 13 years of age, and no RockYou Sites are directed to persons under 13. If you are under 13 years of age, please do not use or access the RockYou Sites at any time or in any manner. If RockYou learns that personal information of persons under 13 years of age has been collected on the RockYou Sites then RockYou will take the appropriate steps to delete this information.
+
+**INTERNATIONAL USERS & PRIVACY SHIELD**
+
+The RockYou Sites are hosted in the United States. If you access the RockYou Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from the laws of the United States, please be advised that through your continued use of the RockYou Sites, you are transferring your personal information to the United States.
+
+RockYou (and its subsidiaries) participate in and have certified compliance with the EU-U.S. Privacy Shield Framework. RockYou is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+
+RockYou is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. RockYou complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, RockYou is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, RockYou may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**DATA RETENTION**
+
+We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it, such as to mediate your access to the RockYou Sites, for advertising, or as needed to provide you services. We also retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
+
+We do not share personal information with third parties for their own marketing purposes unless you affirmatively agree to such disclosure. California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+**RESIDENTS OF THE EUROPEAN ECONOMIC AREA**
+
+If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under the law regarding the processing of your personal data.
+
+**Legal Basis for Processing**
+
+If you are a resident of the EEA, when we process your personal data we will only do so in the following situations:
+
+  * When we have your consent to do so, such as if you consent to allow us to show ads that are targeted to your interests based on your visits to websites, apps, or games with which we work to show ads.
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the RockYou services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to the RockYou Sites, and to provide, secure, and improve the RockYou Sites.
+
+
+
+**Data Subject Requests**
+
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may contact us as indicated below.
+
+**Questions or Complaints**
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+
+**CHANGES AND UPDATES TO THIS PRIVACY POLICY**
+
+This Privacy Policy may be revised periodically reflected by the “effective date” below. Please revisit this page frequently to become aware of any changes. If we materially change how we use your personal information, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
+
+**Date Last Modified:**
+
+This Privacy Policy was last modified October 23, 2018
+
+**Contact Information:**
+
+Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: [privacy@rockyou.com](mailto:privacy@rockyou.com).
+
+RockYou, Inc.  
+1111 Broadway, FL 3  
+Oakland, CA 94607
