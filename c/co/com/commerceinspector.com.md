@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerceinspector.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626203109id_/http%3A//www.commerceinspector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceinspector.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223055305id_/http%3A//www.commerceinspector.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Commerce Inspector
 
@@ -63,4 +63,4 @@ The website contains links to other websites. We are not responsible for the con
 This site uses cookies for the purpose of remembering who you are when you return to the site.
 
 (11) Contact  
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to support@commerceinspector.com.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
