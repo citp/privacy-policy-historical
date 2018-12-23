@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624121554id_/https%3A//ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223145656id_/https%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
-# North Carolina General Assembly
+# Privacy Statement - North Carolina General Assembly
 
 Privacy Statement
 
@@ -28,7 +28,7 @@ The NCGA uses this information to help us make our site more useful to visitors,
 For Web site security purposes and to ensure that this service remains available to all users, the state utilizes a computer system that employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. These attempts to cause damage or unauthorized access to confidential data could be subject to legal action according to [N.C.G.S. � 14-453 - 459](https://web.archive.org/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_14/Article_60.html).
 
 **Links to Other Web Sites:**  
-The North Carolina General Assembly Web site contains links to other Web sites. The North Carolina General Assembly is not responsible for the privacy practices or the of such Web sites.
+The North Carolina General Assembly Web site contains links to other Web sites. The North Carolina General Assembly is not responsible for the privacy practices or the policies of such Web sites.
 
 **Cookies:**  
 A cookie is a small data file that certain web sites write to your Web browser (your computer's hard drive) so it can later be read back from that browser. A cookie file can contain certain information such as a user ID that the site uses to track the pages you have visited on that site. If you are interested, more information on cookies can be found by visiting the Cookie Central web site at [http://www.cookiecentral.com/](http://www2.ncleg.net/gascripts/redirects/ExitDisclaimer.pl?http://www.cookiecentral.com/)
