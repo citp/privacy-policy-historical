@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logdown.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601225953id_/http%3A//logdown.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logdown.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223162851id_/http%3A//logdown.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy « Logdown
 
