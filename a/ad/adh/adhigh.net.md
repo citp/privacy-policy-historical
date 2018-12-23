@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adhigh.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627164558id_/https%3A//getintent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhigh.net privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223182650id_/https%3A//getintent.com/privacy) for the most accurate reproduction.*
 
 # Getintent privacy policy | You are on the safe side of programmatic advertising
 
@@ -10,7 +10,7 @@ This policy explains how our ad serving technology powers our business. In parti
 
 ### Details
 
-Getintent runs an online advertising solution that enables us to buy ad space on websites for online advertising. Our clients are businesses engaged in Internet advertising – advertisers, agencies and other technology providers. Our ad serving technology powers this business. When ad space on a website is sold, to an advertiser or agency, the technology fulfills the transaction by delivering the ad to that publisher’s site. Generally, an Internet user’s computer comes into contact with Getintent when a user visits a website whose publisher has a patrnership with Getintent. The ads sent by the Getintent technology are sent from the domain px.adhigh.net.
+Getintent runs an online advertising solution that enables us to buy ad space on websites for online advertising. Our clients are businesses engaged in Internet advertising – advertisers, agencies and other technology providers. Our ad serving technology powers this business. When ad space on a website is sold, to an advertiser or agency, the technology fulfills the transaction by delivering the ad to that publisher’s site. Generally, an Internet user’s computer comes into contact with Getintent when a user visits a website whose publisher has a patrnership with Getintent. The ads sent by the Getintent technology are sent from the domains adhigh.net, digitmate.bid, cpagen.win.
 
 ### Platform
 
@@ -54,7 +54,7 @@ Our technology does not collect any personally identifiable information about yo
 
 Our technology uses cookies for ad selection in order to enhance ad effectiveness. Getintent believes that cookies enhance your web experience by limiting the repetitiveness of advertising and increasing the level of relevant ads. Because some users may not want information to be collected by using cookies, we will only drop a cookie on your computer if you have opted-in for this. Currently the market is working on the best way to ask user permission for the dropping of cookies.
 
-To opt-out or opt-in please [visit the page](https://px.adhigh.net/opt-out).
+To opt-out or opt-in please visit the following pages: [adhigh.net](https://px.adhigh.net/opt-out "Follow link"), [digitmate.bid](https://px.digitmate.bid/opt-out "Follow link"), [cpagen.win](https://px.cpagen.win/opt-out "Follow link").
 
 ### Information sharing policy
 
