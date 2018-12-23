@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebuyinginstitute.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601100217id_/http%3A//www.homebuyinginstitute.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebuyinginstitute.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224005033id_/http%3A//www.homebuyinginstitute.com/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -28,3 +28,5 @@ We use third-party advertising companies to serve ads when you visit our website
 Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it to serve ads to our site visitors based on their visit to out sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html).
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+You can learn more about Google's [ad personalization here](https://policies.google.com/technologies/partner-sites), and view their general [privacy policy here](https://policies.google.com/privacy).
