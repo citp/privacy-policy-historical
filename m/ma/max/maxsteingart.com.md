@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxsteingart.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623083752id_/http%3A//www.maxsteingart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxsteingart.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223021802id_/http%3A//maxsteingart.com/privacy.html) for the most accurate reproduction.*
 
 # Max Steingart
 
