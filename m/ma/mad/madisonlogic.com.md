@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112717id_/https%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224524id_/https%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Account-Based Marketing from Madison Logic
 
-** ** _Updated April 2018_
+** ** _Updated October 10 2018_
 
 ## **Overview**
 
@@ -45,7 +45,7 @@ Beyond the processing of your Personal Data for the performance of a contract wi
   * advertising and market- and opinion research purposes, provided you did not object against such use of your data (see section “Updating Personal Data and your Data Subject Rights” below);
   * improvement of our products and services including our website;
   * prevention and investigation of criminal offences (in particular fraud); and
-  * defence or enforcement of legal claims.
+  * defense or enforcement of legal claims.
 
 
 
@@ -106,9 +106,9 @@ In certain situations, we may be required to disclose Personal Data: (a) to prot
 
 ## **Updating Personal Data and your Data Subject Rights   **
 
-Upon request, we will provide you with information about whether we hold, or process on behalf of a third party, any Personal Data relating to you to the extent required by our participation in the EU-U.S. Privacy Shield or other applicable legal requirements.
+Upon request, we will provide you with information about whether we hold, or process on behalf of a third party, any Personal Data relating to you to the extent required by applicable legal requirements.
 
-You may also request that we verify, correct, or update Personal Data collected through the Platform. We will respond to such request within a reasonable timeframe. However, please note that we may delete certain records that contain Personal Data that you have submitted through the Platform in accordance with our routine record keeping. We are under no obligation to store Personal Data indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Data.
+You may also request that we verify, correct, or update Personal Data collected through the Platform. We will respond to such request within a reasonable time frame. However, please note that we may delete certain records that contain Personal Data that you have submitted through the Platform in accordance with our routine record keeping. We are under no obligation to store Personal Data indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Data.
 
 We will retain your Personal Data for as long as your account is active or as needed to provide the Platform. You may request that we cancel your account or request that we no longer use your Personal Data to provide the Platform. However, we may retain and use your information to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -126,7 +126,7 @@ Where your Personal Data is processed in the context of our activities in the Eu
 
 
 
-If you wish to exercise any of the rights described above or you have any questions or concerns about how we treat your Personal Data, please contact us at <http://go.madisonlogic.com/RequestMyInfo.html> or by mail to 257 Park Avenue South, 5th Floor, NY, NY 10010 We will respond to your request within one month of receipt, either to provide the information or confirm completion of the act requested or, in certain circumstances, to notify you of an extension of the timeframe for response by a maximum of two further months.
+If you wish to exercise any of the rights described above or you have any questions or concerns about how we treat your Personal Data, please contact us at <http://go.madisonlogic.com/RequestMyInfo.html> or by mail to 257 Park Avenue South, 5th Floor, NY, NY 10010 We will respond to your request within one month of receipt, either to provide the information or confirm completion of the act requested or, in certain circumstances, to notify you of an extension of the time frame for response by a maximum of two further months.
 
 ## **Data Security Precautions & Retention**
 
@@ -150,23 +150,13 @@ As we develop our business, we might sell or buy businesses or assets. In the ev
 
 ## **Children**
 
-Madison Logic does not knowingly collect Personal Data or Usage Information from children under the age of 13 through its website (http://madisonlogic.staging.wpengine.com) or from any of our affiliates and partners. If you are under 13, please do not give us any Personal Data, and do not provide Personal Data to any website or web service without consulting your parent or guardian. If you have reason to believe that a child under the age of 13 has provided Personal Data to Madison Logic, please contact us at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com) and we will seek to delete such Personal Data from our database.
+Madison Logic does not knowingly collect Personal Data or Usage Information from children under the age of 13 through its website or from any of our affiliates and partners. If you are under 13, please do not give us any Personal Data, and do not provide Personal Data to any website or web service without consulting your parent or guardian. If you have reason to believe that a child under the age of 13 has provided Personal Data to Madison Logic, please contact us at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com) and we will seek to delete such Personal Data from our database.
 
 ## **Consent to Processing and Transfer of Information**
 
 The Platform and the servers and facilities that maintain the data we hold are operated in the United States and other countries outside of the European Union. As an international business, our use of information necessarily involves the transmission of Personal Data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be accessed, transferred to and processed in the United States. By using the Platform, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen.
 
-To protect your Personal Data in these circumstances, Madison Logic Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Madison Logic is committed to subjecting all Personal Data received from European Union ( **“EU”** ) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles, and to complying with the Privacy Shield Principles for all onward transfers of Personal Data from the EU, including the onward transfer liability provisions (in addition to complying with its obligations pursuant to GDPR).  To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov/list.
-
-Madison Logic is responsible for the processing of any Personal Data that it receives, under the Privacy Shield Framework, and subsequently, is also responsible for transfers to a third party acting as an agent on its behalf.
-
-With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Madison Logic is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Madison Logic may be required to disclose Personal Data in response to lawful requests by public authorities, including for national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider free of charge at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions (as more fully described on the Privacy Shield website at https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-If you have any inquiries or complaints about Madison Logic’s handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at privacy@madisonlogic.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint online at https://feedback-form.truste.com/watchdog/request, which provides an independent third-party dispute resolution service based in the United States. If neither Madison Logicnor our third-party dispute resolution resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, click here.
-
-When Madison Logic receives information and then transfers it to a third-party service provider acting as an agent on Madison Logic’s behalf, Madison Logic has certain liability under the Privacy Shield if both: (i) the agent processes the information in a manner inconsistent with the Privacy Shield; and (ii) Madison Logic is responsible for the event giving rise to the damage under the Privacy Shield.
+If you have any inquiries or complaints about Madison Logic’s handling of your personal data, or about our privacy practices generally, please contact us at privacy@madisonlogic.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint online at https://feedback-form.truste.com/watchdog/request, which provides an independent third-party dispute resolution service based in the United States.
 
 ## **Social Media Widgets**
 
