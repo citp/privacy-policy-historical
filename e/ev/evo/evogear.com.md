@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evogear.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022033701id_/https%3A//www.evo.com/what-is-your-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evogear.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223191807id_/https%3A//www.evo.com/what-is-your-privacy-policy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -23,6 +23,7 @@ Evolucion Innovations, Inc. (“evo”, “we”, “us”, “our”) is commit
   * Your Choices
   * Third Party Advertising, Analytics and Services
   * Your California Privacy Rights
+  * Your EU Privacy Rights
   * Changes to this Policy
   * Contact Us
 
@@ -100,6 +101,10 @@ We also use a third party to "power" product reviews on our Services. When you s
 ## Your California Privacy Rights
 
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. However, under the law, a business is not required to provide this information if it permits California residents to optin to, or opt out of  this type of sharing. evo qualifies for this alternative option. To opt out of having your information shared with third parties for direct marketing purposes, please [call Customer Service](https://www.evo.com/customer-care-phone-hours). 
+
+## Your EU Privacy Rights
+
+evo complies with the practices and rules outlined in the General Data Protection Regulations (GDPR) in effect as of May 25, 2018. If you are visiting from the EU, any data collected during your visit is governed by the GDPR. Please review our [GDPR Notification](https://www.evo.com/gdpr-notices) for details about the data we collect, how we use that data and your rights under the GDPR.
 
 ## Changes to this Privacy Policy
 
