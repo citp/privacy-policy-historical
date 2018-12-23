@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildbit.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627151854id_/https%3A//wildbit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildbit.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223164631id_/https%3A//wildbit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wildbit
 
@@ -7,7 +7,7 @@
 
 **Effective Date: May 25, 2018**
 
-This Privacy Policy applies to the websites: [](http://www.privacyshield.gov/)[www.wildbit.com](https://web.archive.org/web/20180627151854id_/https%3A//wildbit.com/www.wildbit.com), [www.beanstalkapp.com](http://www.beanstalkapp.com/), and [www.postmarkapp.com](http://www.postmarkapp.com/) (the “Sites”) owned and operated by Wildbit, LLC (collectively, “Wildbit”, “we”, “us”, or “our”). This Privacy Policy describes how Wildbit collects, uses, shares and secures the personal information you provide, as well as the information about our customers' customers or end users that we process on behalf of our customers. It also describes your choices regarding use, access, correction and deletion of your personal information.
+This Privacy Policy applies to the websites: [](http://www.privacyshield.gov/)[www.wildbit.com](https://web.archive.org/web/20181223164631id_/https%3A//wildbit.com/www.wildbit.com), [www.beanstalkapp.com](http://www.beanstalkapp.com/), [www.conveyor.com](https://conveyor.com/), and [www.postmarkapp.com](http://www.postmarkapp.com/) (the “Sites”) owned and operated by Wildbit, LLC (collectively, “Wildbit”, “we”, “us”, or “our”). This Privacy Policy describes how Wildbit collects, uses, shares and secures the personal information you provide, as well as the information about our customers' customers or end users that we process on behalf of our customers. It also describes your choices regarding use, access, correction and deletion of your personal information.
 
 ## 1\. EU-U.S. and Swiss-U.S. Privacy Shield Frameworks 
 
