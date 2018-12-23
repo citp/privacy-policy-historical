@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115836id_/https%3A//connatix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224831id_/https%3A//connatix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connatix
 
@@ -70,7 +70,7 @@ You may 'opt-out' of profiling your Information for personalized ads at any time
 
 We share your Information with the ad networks who allow us to serve you with personalized ads.
 
-We will share your Information with ad networks we are engaged with (" **Affiliates** "), to operate our Solution and serve you with personalized ads. Affiliates are obligated to use your Information only as necessary to provide personalized ads. The list of our Affiliates is available at [list of authorized sub-processors](https://web.archive.org/web/20180628115836id_/https://connatix.com/sub-processors).
+We will share your Information with ad networks we are engaged with (" **Affiliates** "), to operate our Solution and serve you with personalized ads. Affiliates are obligated to use your Information only as necessary to provide personalized ads. The list of our Affiliates is available at [list of authorized sub-processors](https://web.archive.org/web/20181223224831id_/https://connatix.com/sub-processors).
 
  _The legal basis under EU law for this processing is the explicit consent you provided to the Publisher._
 
@@ -100,7 +100,7 @@ If we organize the operation of our company within a different framework, or thr
 
 Connatix and its Affiliates use cookies to collect profiled Information. 
 
-Connatix and its Affiliates use cookies to collect profiled Information. Cookies are packets of information. Cookies are packets of information sent by Connatix's (or Affilfiates’) servers to your browser and then sent back by the browser. You can [manage cookies through browser settings](https://web.archive.org/web/20180628115836id_/https://connatix.com/managecookies).
+Connatix and its Affiliates use cookies to collect profiled Information. Cookies are packets of information. Cookies are packets of information sent by Connatix's (or Affilfiates’) servers to your browser and then sent back by the browser. You can [manage cookies through browser settings](https://web.archive.org/web/20181223224831id_/https://connatix.com/managecookies).
 
  _The legal basis under EU law for these cookies is the explicit consent you provided to the Publisher._
 
