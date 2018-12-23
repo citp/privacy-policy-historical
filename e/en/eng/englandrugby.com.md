@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englandrugby.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603163212id_/http%3A//www.englandrugby.com/about-the-rfu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englandrugby.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223173837id_/https%3A//www.englandrugby.com/about-the-rfu/privacy-policy) for the most accurate reproduction.*
 
 # RFU - About the RFU
 
@@ -17,11 +17,11 @@ The two Privacy Notices available below explain what data is used and why.
 
 [The Game Management System Privacy Notice](https://web.archive.org/mm/Document/AboutRFU/General/01/32/98/22/GMSPrivacyNotice_English.pdf) also explains how the RFU, clubs, constituent bodies and referee societies use data entered into the Game Management System.
 
-Use of www.englandrugby.com and other websites operated by the RFU is subject to our [cookie policy](http://www.englandrugby.com/about-the-rfu/privacy-policy/#cookies).
+Use of www.englandrugby.com and other websites operated by the RFU is subject to our [cookie policy](https://www.englandrugby.com/about-the-rfu/privacy-policy/#cookies).
 
 The General Data Protection Regulation(GDPR) will also apply to clubs, constituent bodies and referee societies.  
 The RFU has provided guidance for the game in the form of a [GDPR toolkit](https://web.archive.org/governance/club-support/gdpr/) and associated documents.  
-These can be found in the [GDPR for rugby clubs section](http://www.englandrugby.com/governance/club-support/gdpr/).
+These can be found in the [GDPR for rugby clubs section](https://www.englandrugby.com/governance/club-support/gdpr/).
 
 The GDPR gives individuals a number of rights in relation to their data. Further detail is set out in the Privacy Notices above. If you would like to make a Subject Access Request in respect of data held by the RFU, please fill in [this form](https://web.archive.org/mm/Document/AboutRFU/General/01/32/98/20/RFUSubjectAccessRequestForm_English.pdf) and send it either by email to [legal@rfu.com](mailto:legal@rfu.com) or by post to The Data Protection Officer, Rugby Football Union, Rugby House, Twickenham Stadium, Twickenham TW2 7BA. Please note that if you would like to make a Subject Access Request in respect of data held by a club, constituent body, referee society, World Rugby or another rugby body, you will need to contact that body directly.
 
