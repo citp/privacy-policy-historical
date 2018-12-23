@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitstars.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016074529id_/https%3A//www.profitstars.com/More-From-ProfitStars/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitstars.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223191246id_/https%3A//www.profitstars.com/More-From-ProfitStars/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
