@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614024214id_/https%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223102954id_/https%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CodeProject
 
@@ -62,7 +62,7 @@ Of course, any time you choose to post an editorial, or other message on the Sit
 
 ### Cookies
 
-We use cookies, a piece of text stored on a user’s computer by their web browser, to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the registration process and is not placed on your hard drive, to store your session information during your visit to the Site. Read our [Cookie Policy](https://web.archive.org/web/20180614024214id_/https%3A//www.codeproject.com/info/Cookies.aspx) for more information.
+We use cookies, a piece of text stored on a user’s computer by their web browser, to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the registration process and is not placed on your hard drive, to store your session information during your visit to the Site. Read our [Cookie Policy](https://web.archive.org/web/20181223102954id_/https%3A//www.codeproject.com/info/Cookies.aspx) for more information.
 
 ### Anonymous Information
 
