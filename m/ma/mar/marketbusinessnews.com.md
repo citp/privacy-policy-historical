@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketbusinessnews.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623171338id_/http%3A//marketbusinessnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketbusinessnews.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223221432id_/https%3A//marketbusinessnews.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Market Business News
 
@@ -22,11 +22,11 @@ Like many sites, we use “cookies” to collect information. You can instruct y
 **DoubleClick Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on our Site. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Site or other sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) page.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](https://www.google.com/ads/preferences/) page.
 
 Market Business News uses Remarketing with Google Analytics to advertise on third party sites to you after you visited our Site. We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](https://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
 **Communications**  
 We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in any email we send.
