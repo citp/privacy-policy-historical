@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaeatimes.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623085932id_/http%3A//tech.gaeatimes.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaeatimes.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223042240id_/http%3A//tech.gaeatimes.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
