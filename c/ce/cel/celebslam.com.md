@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebslam.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031132812id_/http%3A//www.celebslam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebslam.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223201454id_/http%3A//www.celebslam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
