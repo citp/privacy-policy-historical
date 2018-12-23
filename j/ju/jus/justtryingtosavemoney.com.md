@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justtryingtosavemoney.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030163313id_/http%3A//www.justtryingtosavemoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justtryingtosavemoney.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223234733id_/http%3A//www.justtryingtosavemoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Just Trying To Save Money
 
