@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the msg91.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001135852id_/https%3A//msg91.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msg91.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223200157id_/https%3A//msg91.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Msg91.com
 
+## Your information. Our responsibility.
+
 ### Your privacy. On priority.
 
-This application (hereinafter "Application") collects some Personal Data from its Users. The Data are collected and processed for the purposes set out below.
+This application (hereinafter “Application”) collects some Personal Data from its Users. The Data are collected and processed for the purposes set out below.
 
 ### Data Processing Ownership
 
@@ -22,7 +24,7 @@ The Personal Data may be freely inserted by the User or the Data Subject, or col
 
 Any use of Cookies by the Application or the owners of third party services used by the Application, unless stated otherwise, serves to identify the User and remember his/her preferences for the sole purpose of providing the service required by the User.
 
-Failure to provide certain Personal Data, in particular Navigation Data, by deactivating the Application's Cookies may make it impossible to surf or for the Application to provide its services.
+Failure to provide certain Personal Data, in particular Navigation Data, by deactivating the Application’s Cookies may make it impossible to surf or for the Application to provide its services.
 
 The Personal Data collected may regard both the User and third parties whose data the User provides.
 
@@ -48,7 +50,7 @@ The Data concerning the User or the Data Subject are collected for the following
 
 The use of Data for additional purposes by the Owner may in some cases, and for legal purposes, require specific consent by the User or the Data Subject.
 
-### Detailed information on the processing of Personal Data and the services provided by third parties 
+### Detailed information on the processing of Personal Data and the services provided by third parties
 
 Personal Data collected for the following purposes and using the following services :
 
@@ -58,21 +60,21 @@ The services contained in this section enable the Owner to monitor and analyze w
 
 ### Google Analytics (Google)
 
-Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine Application use, to prepare reports on an Application's activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine Application use, to prepare reports on an Application’s activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal data collected: Browsing and usage Data and Cookie. 
+Personal data collected: Browsing and usage Data and Cookie.
 
-Place of Processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of Processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
 ### Contacting the User Contact form (This Application)
 
-By filling in the Contact form with their Data, the Users authorizes the Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form's header. 
+By filling in the Contact form with their Data, the Users authorizes the Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
 Personal data collected: Country, Email, First Name, Phone number and Various types of data.
 
-### Additional information about data processing Legal Protection 
+### Additional information about data processing Legal Protection
 
-The User's Personal Data may be used for legal purposes by the Owner of the Application in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User.
+The User’s Personal Data may be used for legal purposes by the Owner of the Application in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User.
 
 ### Additional information
 
@@ -80,7 +82,7 @@ Specific information may be shown on the pages of the Site concerning particular
 
 ### Maintenance
 
-The User's Personal Data may be further used in ways and for purposes required for Application maintenance.
+The User’s Personal Data may be further used in ways and for purposes required for Application maintenance.
 
 ### System Logs
 
@@ -104,11 +106,11 @@ Any information regarding a natural person, a legal person, an institution or an
 
 ### Browsing and usage Data
 
-Information collected automatically from the Site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the visitor, the various time details per visit (e.g., the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, and other parameters about the operating system and the user's IT environment.
+Information collected automatically from the Site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the visitor, the various time details per visit (e.g., the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, and other parameters about the operating system and the user’s IT environment.
 
 ### User
 
-Means the individual user of the Application's services or products.
+Means the individual user of the Application’s services or products.
 
 ### Data Subject
 
@@ -122,4 +124,4 @@ The natural person, legal person, public administration or any other organizatio
 
 The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Site.
 
-This privacy policy is exclusive to this application.
+**This privacy policy is exclusive to this application.**
