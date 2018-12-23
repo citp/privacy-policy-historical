@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004416id_/http%3A//www.muscletech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223182636id_/https%3A//www.muscletech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MuscleTech
 
@@ -31,6 +31,15 @@ We may use personal information collected from visitors to our Site for any of t
 ### DISCLOSURE OF INFORMATION
 
 We may transfer or otherwise disclose information collected from visitors to our Site for the following purposes: (1) to Iovate’s employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for Iovate; (2) as necessary if Iovate has reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with our rights and property, other users of our Site, or anyone else who could be harmed by such activities; (3) to announce winners of sweepstakes and contests; (4) to announce the results of surveys and polls; (5) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (6) as provided for under the “Unforeseen Circumstances” section below.
+
+### DO I HAVE A SAY?  
+
+
+Of course you do!  You can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of great features that are available on our site.
+
+If you do not want to receive e-mail or other mail from us, we do ask that you amend your preferences to indicate that you do not want to receive any offers or information from us in the future.  Please  keep in mind that even if you have chosen not to receive e-mail messages from any up-date that we do send out concerning amendments to our Terms of Use, Privacy Policy, and other legal notices sent out by us will still govern your use of our website.  It will remain your sole responsibility to review the site for any important changes to our Terms of Use.
+
+What about cookies?  You will find that the “Help” feature for most Internet browsers will guide you on how to manage how cookies interact with you.  Did you know that you can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Web site of its manufacturer?  To help you in deciding on how you would like to use cookies, keep in mind that cookies allow you to take advantage of some of the features available on website.  For this reason, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use products or services that will require you to Login.
 
 ### CHILDREN
 
