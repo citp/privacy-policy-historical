@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blcklst.com privacy policy that was archived on 2018-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623092744id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blcklst.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223200023id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><head>
         <title>Privacy Policy | The Black List</title>
@@ -9,7 +9,6 @@
 <meta charset="UTF-8">
 
         
-
 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css">
 <link rel="stylesheet" href="/css/foundation/foundation.min.css">
 
@@ -17,10 +16,11 @@
   @import url(/js/zendesk/zenbox.css?v=1);
 </style>
 
-<link rel="stylesheet" href="/css/shared.min.css?v=1.6">
+<link rel="stylesheet" href="/css/shared.min.css?v=1.9">
+<link rel="stylesheet" href="/js/divascookies/css/divascookies_style_dark_bottom.css">
 <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/75bcd048-fc97-49f1-acc0-b7ff3f9bad82.css">
 
-<link rel="stylesheet" href="/css/page/legal.min.css?v=2.00">
+<link rel="stylesheet" href="/css/page/legal.min.css?v=1.06">
 
 
 
@@ -39,7 +39,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="text/javascript" src="/js/parsley.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/zendesk/zenbox.js"></script>
-<script type="text/javascript" src="/js/shared.min.js?v=1.5"></script>
+<script type="text/javascript" src="/js/shared.min.js?v=1.8"></script>
+<script type="text/javascript" src="/js/divascookies/js/jquery.divascookies-0.6.min.js"></script>
 
 <!-- Global site tag (gtag.js) - Google AdWords: 860766098 -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-860766098"></script>
@@ -77,7 +78,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-    <meta class="foundation-mq"></head>
+    </head>
     <body class="privacy-policy">
         <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFH4B3M"
@@ -89,26 +90,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="top-bar">
             <div class="top-bar-title">
                 <a href="/">
-                    <img alt="black list logo" src="https://s3-us-west-2.amazonaws.com/theblacklist-production/images/black-list-transparent-logo-small.png">
+                    <img alt="black list logo" src="https://files.blcklst.com/images/black-list-transparent-logo-small.png">
                 </a>
-                <span data-responsive-toggle="responsive-menu" data-hide-for="large" style="display: none;">
+                <span data-responsive-toggle="responsive-menu" data-hide-for="large">
                     <button class="menu-icon light" type="button" data-toggle=""></button>
                 </span>
             </div>
-            <div id="responsive-menu" style="display: block;">
+            <div id="responsive-menu">
                 <div class="top-bar-left">
                 </div>
                 <div class="top-bar-right">
-                    <ul class="menu vertical large-horizontal dropdown" data-responsive-menu="drilldown large-dropdown" role="menubar" data-dropdown-menu="h1edp8-dropdown-menu" data-mutate="8k7vbz-responsive-menu">
+                    <ul class="dropdown menu vertical large-horizontal" data-responsive-menu="drilldown large-dropdown">
 
-                            <li role="menuitem"><a href="/about">About</a></li>
-                            <li role="menuitem"><a href="/events">Events</a></li>
-                            <li role="menuitem"><a href="/podcast">Podcast</a></li>
-                            <li role="menuitem"><a href="https://blog.blcklst.com">Blog</a></li>
-                            <li role="menuitem"><a href="/lists">Lists</a></li>
-                            <li role="menuitem"><a href="/itunes" target="_blank" class="special-casing">iTunes</a></li><li role="menuitem">
-                            </li><li role="menuitem"><a class="action-link" data-open="login-modal" aria-controls="login-modal" aria-haspopup="true" tabindex="0">Login</a></li>
-                            <li role="menuitem"><a class="action-link" href="/register">Register</a></li>
+                            <li><a href="/about">About</a></li>
+                            <li><a href="/events">Events</a></li>
+                            <li><a href="/podcast">Podcast</a></li>
+                            <li><a href="https://blog.blcklst.com">Blog</a></li>
+                            <li><a href="/lists">Lists</a></li>
+                            <li><a href="/itunes" target="_blank" class="special-casing">iTunes</a></li><li>
+                            </li><li><a class="action-link" data-open="login-modal">Login</a></li>
+                            <li><a class="action-link" href="/register">Register</a></li>
 
                     </ul>
                 </div>
@@ -117,7 +118,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 
-
+<div class="reveal tiny" id="login-modal" data-reveal="">
+    <button class="close-button" data-close="" aria-label="Close modal" type="button">
+        <span aria-hidden="true">×</span>
+    </button>
+    <h3>Login</h3>
+    <form data-parsley-validate="" method="post" action="https://login.blcklst.com/member_login">
+        <label>Email or username</label>
+        <input placeholder="Username" name="credential_0" tabindex="1" type="text" value="" required="" data-parsley-error-message="Username required">
+        <label>Password</label>
+        <input placeholder="Password" name="credential_1" tabindex="2" type="password" required="" data-parsley-error-message="Password required" autocomplete="off">
+        <input type="hidden" name="destination" value="https://blcklst.com/loggedin/">
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+    <br><br>
+    <p>Forgot <a href="/login">password?</a> </p>
+</div>
 
 
 
@@ -146,7 +163,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h4>Types of Information We Collect</h4>
                         <p>
                         We have the ability to collect two types of information from people who visit our site: Personally Identifiable Information 
-                        and Aggregate Information.
+                        and Aggregate Information. Personally Identifiable Information is any information by which you can be identified, such as your 
+                        name, address, telephone number, email address, credit card information, personal interests, etc.
                         </p>
                         <p>
                         Personally Identifiable Information is any information by which you can be identified, such as your name, address, 
@@ -280,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                          •	The disclosure is necessary for the purpose for which the personal information was obtained;
                         </p>
                         <p>
-                        •	The disclosure is to financial service providers in order to fulfill and carry out the purchase and provision of goods and services requested by you;
+                        •	The disclosure is to financial service and payment providers in order to fulfill and carry out the purchase and provision of goods and services requested by you;
                         </p>
                         <p>
                         •	The disclosure is permitted by relevant law;
@@ -496,9 +514,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="small-12 large-offset-2 large-2 columns social">
                 <h3>Follow Us</h3>
                 <ul class="social-icons">
-                    <li><a href="https://www.facebook.com/theblcklst/" target="_blank"><img alt="facebook" src="https://s3-us-west-2.amazonaws.com/theblacklist-production/images/facebook_icon.png"></a></li>
-                    <li><a href="https://twitter.com/theblcklst" target="_blank"><img alt="twitter" src="https://s3-us-west-2.amazonaws.com/theblacklist-production/images/twitter_icon.png"></a></li>
-                    <li><a href="https://www.instagram.com/theblcklst" target="_blank"><img alt="instagram" src="https://s3-us-west-2.amazonaws.com/theblacklist-production/images/instagram_icon.png"></a></li>
+                    <li><a href="https://www.facebook.com/theblcklst/" target="_blank"><img alt="facebook" src="https://files.blcklst.com/images/facebook_icon.png"></a></li>
+                    <li><a href="https://twitter.com/theblcklst" target="_blank"><img alt="twitter" src="https://files.blcklst.com/images/twitter_icon.png"></a></li>
+                    <li><a href="https://www.instagram.com/theblcklst" target="_blank"><img alt="instagram" src="https://files.blcklst.com/images/instagram_icon.png"></a></li>
                 </ul>
                 <div class="vertical-spacer-small"></div>
             </div>
@@ -529,20 +547,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
 
 
-<div class="reveal-overlay"><div class="reveal tiny" id="login-modal" data-reveal="bu7a2u-reveal" role="dialog" aria-hidden="true" data-yeti-box="login-modal" data-resize="login-modal">
-    <button class="close-button" data-close="" aria-label="Close modal" type="button">
-        <span aria-hidden="true">×</span>
-    </button>
-    <h3>Login</h3>
-    <form data-parsley-validate="" method="post" action="https://login.blcklst.com/member_login">
-        <label>Email or username</label>
-        <input placeholder="Username" name="credential_0" tabindex="1" type="text" value="" required="" data-parsley-error-message="Username required">
-        <label>Password</label>
-        <input placeholder="Password" name="credential_1" tabindex="2" type="password" required="" data-parsley-error-message="Password required" autocomplete="off">
-        <input type="hidden" name="destination" value="https://blcklst.com/loggedin/">
-        <br>
-        <input type="submit" value="Submit">
-    </form>
-    <br><br>
-    <p>Forgot <a href="/login">password?</a> </p>
-</div></div><div id="zenbox_tab" href="#" title="Support" class="ZenboxTabRight" classname="ZenboxTabRight" style="display: block; background-color: black; border-color: black; position: fixed; bottom: 0px;"><img src="/js/zendesk/images/tab_support_right.png"></div><div id="zenbox_overlay" style="display: none;"><div id="zenbox_container">  <div class="zenbox_header"><img id="zenbox_close" src="/js/zendesk/images/close_big.png"></div>  <iframe id="zenbox_body" frameborder="0" scrolling="auto" allowtransparency="true"></iframe></div><div id="zenbox_scrim">&nbsp;</div></div></body></html>
+</body></html>
