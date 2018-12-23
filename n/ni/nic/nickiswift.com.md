@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickiswift.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629173302id_/http%3A//www.nickiswift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickiswift.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223183400id_/https%3A//www.nickiswift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,11 @@ Third party advertisers, or companies working on their behalf, may serve directl
 
 Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you choose not to receive tracking pixels, you will need to disable HTML images in your email program and browser, but that may affect images in other emails you receive and the web pages you browse.
 
-NickiSwift also uses analytics technologies such as Google Analytics, Quantcast and comScore. For Google's privacy practices see www.google.com/analytics/learn/privacy.html and to opt out of data recording and analysis by Google Analytics on the NickiSwift Website, see https://tools.google.com/dlpage/gaoptout. For Quantcast's privacy practices see https://www.quantcast.com/privacy/, and to opt out of receiving interest-based content and ads enabled by Quantcast, see https://www.quantcast.com/opt-out/. For comScore's privacy practices see http://www.comscore.com/About-comScore/Privacy-Policy and http://www.scorecardresearch.com/privacy.aspx, and to opt out of having comScore associate site visits with your browser, see http://www.scorecardresearch.com/preferences.aspx.
+NickiSwift also uses analytics technologies such as Google Analytics, Quantcast and comScore. For Google's privacy practices see www.google.com/analytics/learn/privacy.html and to opt out of data recording and analysis by Google Analytics on the NickiSwift Website, see <https://tools.google.com/dlpage/gaoptout>. For Quantcast's privacy practices see <https://www.quantcast.com/privacy/>, and to opt out of receiving interest-based content and ads enabled by Quantcast, see https://www.quantcast.com/opt-out/. For comScore's privacy practices see <http://www.comscore.com/About-comScore/Privacy-Policy> and <http://www.scorecardresearch.com/privacy.aspx>, and to opt out of having comScore associate site visits with your browser, see <http://www.scorecardresearch.com/preferences.aspx>.
+
+NickiSwift may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit our website.
+
+To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI's website <[http://optout.networkadvertising.org](http://optout.networkadvertising.org/)>, which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.
 
 ## Do Not Track
 
