@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616051509id_/http%3A//www.latamdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223171536id_/http%3A//www.latamdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - See How to Protect Yourself When Dating Latina Girls on Latamdate.com.
 
 Welcome to LatamDate.com ("LatamDate" or the "Site"). We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. As such, we provide this Privacy Policy explaining our online information practices and the choices you can make about the way your personal data is collected, processed, maintained and disposed by LatamDate, a subsidiary site of Qpid Network. The [Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat your Personal Information when you use LatamDate.com, as part of Qpid Network services ("Services"). The following describes our privacy practices that are specific to LatamDate.com and other Qpid Network sites. We reserve the right to update it at any time, and all changes are effective upon posting without notice to you. You are encouraged to revisit this page from time to time. Your use of the Site or our Services after such changes constitutes your agreement to such changes.
 
-* What Information We Collect
+* ### What Information We Collect
 
 The types of Personal Information that we collect fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII). PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any information that does not reveal your identity. The following paragraphs explain what PII and non-PII we collect from you, and how we use such information.
 
-* How We Collect and Use Information
+* ### How We Collect and Use Information
 
   * _Cookies._  We use “cookies” to keep track of some types of information while you are visiting any of our Websites or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our websites and distinguish repeat visitors from new ones. They also allow us to save member preferences and track member trends. We rely on cookies for the proper operation of our Websites; therefore if your browser is set to reject all cookies, the Website(s) will not function properly and you may not enjoy all of our Services. Members who refuse cookies assume all responsibility for any resulting loss of functionality of our Websites. We do not link the cookies to any of our members’ PII.
 
@@ -32,7 +32,7 @@ The types of Personal Information that we collect fall under two general categor
 
 
 
-* Mobile Device Additional Terms
+* ### Mobile Device Additional Terms
 
   * _Mobile Device_  If you use a mobile device to access our site or download any of our applications, we may collect device information (such as your mobile device ID, model and manufacturer), operating system and version information, and IP address.
 
@@ -42,7 +42,7 @@ The types of Personal Information that we collect fall under two general categor
 
 
 
-* Disclosure of Your Information
+* ### Disclosure of Your Information
 
   * _Disclosure to Your Matches._  Our matching services remain an integral part of providing our Services which involves disclosing your profile information to your matches. Photos and other profile information posted by you will be available to other members matched with you. We never share your contact information with your matches without your consent.
 
@@ -56,23 +56,23 @@ The types of Personal Information that we collect fall under two general categor
 
 
 
-* Third-Party Advertising
+* ### Third-Party Advertising
 
 We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of LatamDate.com or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous.
 
-* Age Restrictions
+* ### Age Restrictions
 
 Our age restrictions are set forth in each applicable Terms of Use. We do not target our Websites or our Services to anyone under the age of 18, any information we may receive from any visitor we believe to be under the age of 18 will be deleted from our database.
 
-* Security
+* ### Security
 
 We use encryption and authentication tools to guard against loss, misuse and alteration of our your information shared with us. Security measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data, which are applied to all repositories and transfers of user information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk. Once we receive your transmission, we will do our best to protect its security on our systems.
 
-* Links to or Access from Other Sites
+* ### Links to or Access from Other Sites
 
 You may be able to access your account or content of your account from third party sites, such as social networking sites, by way of various applications. The privacy policies and practices of such sites which apply to information you provided to such sites may differ from our practices as set forth in this Privacy Policy. You are encouraged to review their policies and practices to ensure that your privacy is protected. Such sites may also place their cookies or other files on your computer and they may collect personal data or solicit other information from you. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any Personal Information on such site.
 
-* Opt-Out
+* ### Opt-Out
 
 You may use the following options for removing your information, including any unauthorized profile, from our e-mail database if you wish to opt out of receiving promotional e-mails and newsletters.
 
@@ -82,7 +82,7 @@ You may use the following options for removing your information, including any u
 
 3.Select from our FAQs to find the answer you are looking for, or send us a ticket and our customer service team will be happy to assist you.
 
-* Updating Your Personal Information
+* ### Updating Your Personal Information
 
 We provide users the following options for updating information previously submitted, including deletion of your Personal Information.
 
@@ -90,21 +90,29 @@ We provide users the following options for updating information previously submi
 
 2.You can send ticket to our customer service team to amend or delete your account information at any time.
 
-* Data Retention
+* ### Data Retention
 
 Because many of our members tend to use our Services at different points of their relationship-seeking life, we retain your Personal Information for continued service and convenience purposes until you advise us not to do so. Notwithstanding the foregoing, we may retain Personal Information in order to comply with applicable laws, keep accurate records, resolve disputes, prevent fraud, enforce our Terms of Use or other agreements, or for any other legally permissible purpose.
 
-* Contacting Us
+* ### Information Protection
+
+  * _Your Data Protection._ We take appropriate steps to maintain the security of your data on our Platform. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. We have security measures in place to protect the loss, misuse and alteration of the information under our control. While we take reasonable precautions against possible security breaches of our Platform, website, member database and records, no application, website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe and to log out of your Account after use.
+
+  * _Your Account and Password(s)._ You should not disclose or share your login details to any third parties. Try not to use your birthdate or anything too obvious or predictable as your password(s) such that unscruplous individuals may try to gain unauthorized access to your Account. You are solely responsible for maintaining the confidentiality of your password(s) and for restricting access to your computer, and for all activities that occur under your Account or password(s). We will not be liable for any loss that you may incur as a result of someone else using your Account or password(s), either with or without your knowledge. You agree to notify us immediately of any unauthorized use of your Account and/or password(s) and any other breach of security relating to our Platform and websites. You agree that any information you provide to us will be current, accurate and complete and that you will keep such information up to date by notifying us of any changes.
+
+
+
+* ### Contacting Us
 
 If you have any questions about this Privacy Policy, the practices of our Websites, or your dealings with any of our Websites, you can contact us at 
 
-* Onward transfer and consent to international processing
+* ### Onward transfer and consent to international processing
 
 We are a growing corporation with users and operations in multiple countries, including the European Union. We have developed data practices designed to assure information is appropriately protected but we cannot always know where Personal Information may be accessed or processed. In addition, we may employ other companies and individuals to perform functions on our behalf. If we disclose Personal Information to such authorised third party, we will seek assurances that any information we may provide to them is safeguarded adequately and in accordance with this Privacy Policy and the requirements of applicable privacy laws.
 
 If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal data, including sensitive data, by us from your region to countries which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. By providing your Personal Information, you consent to any transfer and processing in accordance with this Privacy Policy.
 
-* Acceptance of Privacy Policy
+* ### Acceptance of Privacy Policy
 
 Your use of our Websites, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable Terms of Use.  **BY USING OUR WEBSITES, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE APPLICABLE TERMS OF USE.**
 
@@ -112,7 +120,7 @@ If we decide to amend our Privacy Policy, we will post those changes on this pag
 
 Your continued use of any portion of our Websites following posting of our updated Privacy Policy will constitute your acceptance of the changes.
 
-* Effective Date
+* ### Effective Date
 
 This Privacy Policy was last revised on May 24, 2018.
 
