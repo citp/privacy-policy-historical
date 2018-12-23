@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurporn1.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622103048id_/http%3A//www.amateurporn1.com/static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurporn1.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223155846id_/http%3A//www.amateurporn1.com/static/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Amateur Porn 1
 
@@ -22,7 +22,7 @@ Amsterdam, Noord Holland 1101BV
 
 Netherlands
 
-If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: iclickt2@gmail.com
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 2\. General
 
@@ -278,7 +278,7 @@ We reserve the right to make changes to this Privacy Policy. We recommend that y
 
 11\. Any Questions
 
-If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: iclickt2@gmail.com
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 \- End -
 
