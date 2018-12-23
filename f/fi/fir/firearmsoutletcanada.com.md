@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firearmsoutletcanada.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208143925id_/http%3A//www.firearmsoutletcanada.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firearmsoutletcanada.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223235737id_/https%3A//www.firearmsoutletcanada.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
