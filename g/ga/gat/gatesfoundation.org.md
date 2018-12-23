@@ -1,132 +1,393 @@
-> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126231932id_/https%3A//www.gatesfoundation.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223174444id_/https%3A//www.gatesfoundation.org/Privacy-and-Cookies-Notice) for the most accurate reproduction.*
 
-# Privacy Policy - Bill & Melinda Gates Foundation
+# Privacy & Cookies Notice - Bill & Melinda Gates Foundation
 
-Privacy Policy  
-**Gatesfoundation.org Privacy and Information Security Policy ("Privacy Policy" or "Policy")**
+BILL & MELINDA GATES FOUNDATION PRIVACY & COOKIES NOTICE
 
-Effective Date: February 23, 2013
+Last updated May 17, 2018 [Update history](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice/Update-History)
 
-Welcome. This Policy is designed to help you understand generally how Gatesfoundation.org and other Foundation Web properties (the "Site") collect personally identifying information about you and how the Foundation uses and discloses that personal information. Gatesfoundation.org is a Web site of the Bill & Melinda Gates Foundation (the "Foundation," "we," "us" etc.), a charitable trust existing under the laws of the State of Washington, U.S.A. You may contact us at our Address For Legal Notices below. This Policy applies to information that personally identifies you (other than publicly available information) ("personal information") collected on Gatesfoundation.org or any additional Foundation Web properties or third-party sites managed by the Bill & Melinda Gates Foundation or, where indicated, other information you provide to us.  
-**USE OF OUR SITE OR PROVISION OF ANY PERSONAL INFORMATION CONSTITUTES AGREEMENT TO THIS POLICY. DO NOT USE THE SITE OR PROVIDE INFORMATION (OR ALLOW OTHERS TO DO SO ON YOUR BEHALF) IF YOU (AND YOUR PRINCIPAL IF YOU ARE ACTING AS AGENT) DO NOT AGREE WITH ALL OF THE TERMS OF USE INCLUDING THIS POLICY AND ANY APPLICABLE SUPPLEMENTAL PRIVACY POLICY.**
+We are committed to the lawful, fair, and transparent collection and use of personal data. This notice is intended to help you understand how our foundation (including our affiliates) collects and uses your personal data, as well as how we share, store, and protect that data. If at any time you have questions about this notice, please [let us know](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Contact). 
 
-**Table of Contents**
+We may update this notice and any supplemental privacy notices to reflect changes in our practices and applicable law. We will post a notice of any material updates on our sites.
 
-  1. How Does This Policy Relate to Use of the Site?
-  2. Information We Collect That You Do Not Provide
-  3. Information We Collect That You Do Provide
-  4. Information You Provide About Others
-  5. What We Generally Do with Personal Information Collected
-  6. Your Ability to Update Personal Information
-  7. Information Security
-  8. Your Particular Consents
-  9. Children
-  10. Identity Theft
-  11. Amendments
-  12. Information About Enforcement of Our Policy
-  13. Supplemental Privacy Policy—Jobs
+Contents  
 
 
+* * *
 
-**1\. How Does This Policy Relate to Use of the Site?**   
-This Policy is part of and incorporated into the Gatesfoundation.org Terms of Use ("Terms of Use"), which is the contract between you and the foundation governing use of the Site. Parts of the Terms of Use affect this Policy, so, unless you have already done so, please review them prior to using the Site. Terms used but not defined in this Policy have the definitions in the Terms of Use.
+[When this notice applies](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Applicability)  
+[What data we collect about you](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Collection)  
+[How we use your data](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Use)  
+[When we share your data](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Disclosures)  
+[How we store and protect your data](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#StoreandSecure)  
+[How you can access and control your data](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#AccessControl)  
+[How to contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Contact)
 
-This Policy is supplemented by additional policies relevant to particular activities, and each of the supplemental policies is incorporated into this Policy. Here are examples of areas in which you will encounter supplemental privacy policies but this list is not complete: if a supplemental policy is included on the Site with respect to a particular activity, or if one is included on a Third Party site relating to the mission of the Foundation, those supplemental policies will also apply and are also incorporated.
+[Supplemental Privacy Notice for Event Participants](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#SuppNoticeEvents)  
+[Supplemental Privacy Notice for Job Applicants](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#SuppNoticeJobs)  
+[Cookies & Similar Technologies](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Cookies)
 
-**2\. Information We Collect That You Do Not Provide  
-**Sometimes we collect personal information without you having to enter any information on the Site. For example, we may receive personal information from public sources or from third parties (which we may combine with other information from other sources).
-
-In addition, we collect some information automatically from visitors to the Site, for example through the use of "cookies", "web beacons", and other tracking mechanisms. We collect at least the following: your domain name and host for Internet access; the Internet address of the site from which you came; the date and time of your access; your computer's IP address and information about its operating system, browser and host; the date and time you access the Site and the pages you visit. If you do not want to receive cookies, you may set your browser to reject them. However, if you turn cookies off, you may not have access to some of the Site's services and features. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issues cookies when you access the Site. We also may employ Web beacons from third parties to help us compile aggregated statistics regarding the operations of our site. We prohibit Web beacons on our site from being used by third parties to collect or access your personal information.
-
-**3\. Information We Collect That You Do Provide**  
-It is always your choice, or the choice of anyone acting for you, whether to provide personal information. However, some must be provided to participate in certain programs or activities (such as to apply for a job), so the decision not to provide information might limit or eliminate certain functions of the Site or the ability to participate. Other information is up to your good judgment, e.g., do not provide personal information about yourself that could be misused by others in a chat room, bulletin board, blog or similar forum and do not provide personal information about others without their permission. The kinds of personal information we tend to request about you or others include but are not limited to your name, email address, native language, organization name, job title, city, state / province, region, age, locations for internet access and devices used. Additional information about what we collect is available in any supplemental privacy policies for particular activities.
-
-**4\. Information You Provide About Others**  
-Do not supply personal information about others unless you are authorized or required to do so by applicable law or contract and you consent to the Terms of Use (including this Policy and supplemental policies) on behalf of yourself and the "data subject" (the person about whom you supply personal information). Before supplying personal information about others (except as otherwise allowed by law or contract), you must make available for the data subject's review, and obtain their written consent to, said Terms of Use and policies. By submitting any personal information about others, you represent and warrant that you are authorized to do so and that you did all of the foregoing before submitting the information. If applicable law allows you to supply the information without doing the foregoing, you represent and warrant that you have abided by that law and that it allows us to receive and Disclose the information under this Policy without any further action on our part. You agree to indemnify, defend and hold us harmless against any failure by you to comply with this paragraph.
-
-The Foundation works with Third Parties on certain programs, and often those Third Parties own and/or are responsible for that program’s Web site. In those cases, if you provide personal information, you will be giving it to a third party and their privacy policy will apply. You agree that if they provide it to us then we may apply our Policy to what we receive.
-
-**5\. What We Generally Do with Personal Information Collected**   
-In general, we use personal information we collect to pursue our mission and operations and to engage in the activity (and related activities) for which we collect it.  Specifically, we may use your personal information to:
-
-  * to fulfill our obligations to you and to respond to any questions or requests;
-  * to contact you about material changes in our site terms or policies;
-  * to comply with the law or in good faith belief that such action is necessary to conform with the requirements of law or to comply with legal process served on us; 
-  * to provide to third parties as a result of any reorganization process; 
-  * if you sign up for a blog, feed or newsletter, we may put you on our mailing list or even the list of a Third Party who we think has a similar mission.
-  * if you apply for a job, we'll use the information to find out about you and share it with service providers and others we view as relevant to the employment process.
+When this notice applies   
 
 
+* * *
 
-Further information is available in the supplemental policies for some activities, but you should assume that we will use all information for all lawful purposes. Subject to applicable law, we reserve the right to make all lawful, worldwide uses of personal information, including without limitation, to: collect, use, access (or bar access), process, fulfill, disclose, display, share, respond to legal process or otherwise exercise our rights under applicable law, transfer, store, verify,  enforce, delete, and otherwise deal with personal information, and information other than personal information (collectively "Disclose").
+_Our sites_  
+This notice applies to personal data we collect, including through our websites, mobile apps, online portals, electronic forms, surveys, and interactive exhibits (collectively, “our sites”). 
 
-**6\. Your Ability to Update Personal Information**  
-To the extent our systems require your personal information, in general, they provide the ability for you to update your information.  If you have any questions about what personal information about you the Foundation retains, please contact us via the Write to Us form [here](https://web.archive.org/Who-We-Are/General-Information/Contact-Us/Write-to-Us). The foundation endeavors to keep your personal information accurate and up to date.   If your personal information has changed, you may submit your new information there as well. Some activities allow some updating, e.g., you may update your "Jobs" profile by using the functionality in that section of the Site. 
+_Supplemental privacy notices_  
+This notice may be supplemented by a supplemental privacy notice applicable to a particular interaction with us, which may be either embedded in this notice (such as the [Supplemental Privacy Notice for Job Applicants](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#SuppNoticeJobs) and [Supplemental Privacy Notice for Event Participants](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#SuppNoticeEvents)) or made available to you separately. We will tell you when a supplemental privacy notice applies. 
 
-We keep personal information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. We may discard personal information in our discretion, so you should retain your own records, and not rely upon our storage of any personal information or other data.
+_Links to third-party sites_  
+This notice does not apply to any third-party sites that may link to, or be accessible from, our sites. Your interactions with these sites are governed by the third parties’ applicable privacy notices, statements, or policies. We encourage you to read them.
 
-**7\. Information Security**  
-We use reasonable technical and organizational measures to protect the personal information received from our users from unauthorized use or disclosure.
-
-**8\. Your Particular Consents**   
-In addition to consenting to the Terms of Use, including this Policy (and any relevant supplemental policies), the Foundation is interested in letting you know about, and receiving your particular consent to, a few activities relating to personal information that will help us to deal with personal information that is Disclosed in furtherance of our mission, operations and programs. These are described immediately below.
-
-  * **Consent to International Transfer and Disclosure of Personal Information.** We are involved in programs and activities in a variety of countries. You agree that the Foundation and those with whom we share personal information ("Recipients") may Disclose and transfer your personal information worldwide (including outside the European Economic Area, if you are based in the European Economic Area) for any purpose relating to our or their mission, operations, programs, or otherwise that is not allowed or prohibited by this Policy.
-  * **Consent to Electronic Notice If There is a Security Breach:** If we or a Recipient is required to provide notice of unauthorized access or other invasion of certain security systems, you agree that we (or they) may do so when required (or voluntarily) by posting notice on our Site or sending notice to any email address we have for you, in our (or their) good faith discretion. You agree that notice to you will count as notice to others for whom you are acting, and agree to pass the notice on to them.
+What data we collect about you  
 
 
+* * *
 
-**9\. Children  
-**We do not want to collect information from children. Do not provide any personal information unless you are at least 13 years of age, and please caution your children not to provide any. If a child under 13 has provided personal information, a parent or guardian may so inform us by writing us at Our Address for Legal Notices (see below) and we will use commercially reasonable efforts to delete it from our database, subject to applicable law and this Policy.
+_Data you provide about yourself_  
+We collect your personal data when you voluntarily provide it to us. For example, you may give us: your email address, country of residence, and areas of interest if you choose to receive newsletters, updates, or other information from us; your contact information, and any other personal data you choose to include, if you email, text, or instant message us, or contact us through our sites; and any personal data contained in, or included with, any proposal documents, feedback, comments, photos, videos, or other information you submit via online portals, forms, surveys, or interactive portions of our sites.
 
-**10\. Identity Theft**  
-If anyone believes they're a victim of identity theft entitled by law to request information from us, write us at Our Address For Legal Notices and we'll explain what information we require in order to respond. After receiving that information, we’ll supply (without charge) information we then have that we are legally required to provide (subject to applicable law and reserving all rights and defenses).
+It is always your choice whether to provide this personal data. However, some personal data must be provided to participate in certain programs, activities, or events (such as to sign up for a newsletter, apply for a job, or register to participate in one of our events), so the decision not to provide information might limit or eliminate certain functions of our sites or your ability to participate. Please do not disclose more personal data than is requested.
 
-**11\. Amendments  
-**We will be changing what we do and how and why we Disclose data periodically—this Policy describes what we currently envision, but that will change as we change. You agree that this Policy amends and replaces any previous privacy polic(ies). We may further amend all or part of this Policy in the same way that we make amendments to our Terms of Use and such amended versions will be posted on this page.
+_Personal data you provide about others_  
+Do not provide personal data about others unless you are authorized or required to do so by contract or applicable law. You may provide personal data on behalf of another person if you have provided them with a copy of this notice and any applicable supplemental privacy notice, and obtained their explicit consent. We may ask you to provide evidence of that notice and consent.
 
-**12\. Information About Enforcement of Our Policy**  
-This Policy is part of and supplemented by our Terms of Use, which together with any supplemental privacy policy form a contract. If there is a conflict between the Terms of Use and this Policy, the latest version of this Policy will control. We and you are bound by the Terms of Use, including this Policy. If you think we are in default, you may contact us by writing to Our Address For Legal Notices. There are no third party beneficiaries of this Policy.
+_Data we receive from third parties and other sources_  
+We may receive personal data about you from other sources, including your company/organization, professional references, publicly-available sources, third-party analytics providers, and other third parties. For example, we may receive your personal data if: someone at your company/organization designates you as a contact person for that company/organization or includes information about you in proposal documents; another visitor includes it in any feedback, comments, photos, videos, or other information submitted via online portals, electronic forms, surveys, or interactive portions of our sites; or one of our employees or service providers provides or a third party acting on apparent authority provides it to us when registering you to access our facilities or our sites, apply for a job, or participate in one of our events. 
 
-Our Address for Legal Notices: 
+_Data we collect automatically, including cookies and similar technologies_  
+We may collect some personal data automatically. For example, when you visit a foundation site, we may collect your Internet Protocol (IP) address, Internet service provider (ISP), and browser type and language. We also may use cookies and similar technologies to collect data about your interaction with our sites, including referring webpage, pages visited on our sites, and crash data. Please see [Cookies & Similar Technologies](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Cookies) for more information, including how to manage cookies and similar technologies.
+
+_Special categories of data_  
+We will not intentionally collect any “special categories of data” under the EU General Data Protection Regulation (GDPR) without your explicit consent for one or more specified purposes or as otherwise permitted or required by applicable law. Special categories of data include personal data (a) revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership; or (b) concerning health or data concerning a natural person’s sex life or sexual orientation. 
+
+_Minors_  
+Our sites are not intended for minors (individuals under the age of 13, or equivalent minimum age depending on jurisdiction), and we do not knowingly collect personal data from minors. If you become aware of any personal data we have collected from a minor, please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Contact). If we learn that we have collected personal data from a minor, we will take steps to delete the data without notice as soon as possible.
+
+How we use your data  
+
+
+* * *
+
+_Purposes_  
+We may use your personal data to: send you information you have expressly chosen to receive _[with your consent]_ ; review and respond to proposal documents, feedback, comments, photos, videos, or other information you submit via online portals, electronic forms, surveys, or interactive portions of our sites _[for our legitimate interests and/or to perform a contract with you]_ ; administer and inform our program strategies and charitable activities _[for our legitimate interests]_ ; administer, safeguard, and improve our sites, systems, facilities, events, and other business operations _[for our legitimate interests]_ ; protect our rights and the safety of others _[for our legitimate interests]_ ; contribute to our archive of information in the public interest _[for our legitimate interests]_ ; and/or comply with applicable law, court order, subpoena, or legal process served on us _[to comply with legal obligations]_.
+
+_Additional purposes_  
+Additional purposes for using your personal data may be described in a supplemental privacy notice.
+
+_Legal bases under the GDPR_  
+If you are in the European Union, we will collect and use your personal data only if we have one or more legal bases for doing so under the GDPR. The legal bases depend on your interaction with us and our sites. This means we collect and use your personal data only where: you have given your consent for one or more specific purposes; it is necessary to perform a contract we are about to enter into or have entered into with you; it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests; it is necessary to protect the vital interests of you or another natural person; or it is necessary to comply with a legal obligation. We will indicate in brackets the legal basis or bases on which we are relying following each purpose. Where we are relying on consent as the legal basis, we will notify you and seek additional consent before using your personal data for a new purpose that is inconsistent with the original purpose for which we collected it.
+
+When we share your data  
+
+
+* * *
+
+_Employees, agents, affiliates, service providers, and partners_  
+We may share your personal data with our employees, agents, and affiliates who have a business need to know, our services providers (including contingent workers, consultants, contractors, vendors, and out-sourced service providers) to process it for us based on our instructions and for no other purpose, and with partners that are collaborating with us to fund projects or host events. We do not share your personal data with any third party (including our service providers) for marketing purposes. If you believe personal data you provided to us is being misused by a third party, please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Contact) right away.
+
+_Other visitors to our sites_  
+If you submit feedback, comments, photos, videos, or other information to interactive portions of our sites, such submission may be made publicly available to anyone who visits those areas of our site. Other visitors may access, re-post, or use such submission. Even if you remove or delete your submission, copies may remain in cached or archived areas of our sites or retained by other visitors. Please use your discretion when submitting personal data in these contexts.
+
+_Law enforcement_  
+We may share your personal data with law enforcement, other government agencies or authorities, or third parties as required by applicable law, court order, subpoena, or legal process served on us.
+
+How we store and protect your data  
+
+
+* * *
+
+_Storage and transfers_  
+Your personal data may be stored in your region or in any other country where we or our service providers have facilities. We may also allow employees and service providers located around the world to access personal data as provided in this notice. If you are in the European Union, we will ensure your legal rights and protections travel with any such “transfer” of your personal data outside the European Economic Area, Switzerland, or Canada. We do this by signing “standard contractual clauses” approved by the European Commission that give personal data the same protection it has in the European Union, and/or requiring that our service providers be certified under the EU-US Privacy Shield Framework or Swiss-US Privacy Shield Framework, as applicable. 
+
+_Storage period_  
+We will store your personal data until it is no longer needed to fulfill the purpose(s) for which it was collected or as otherwise required or permitted by law. After such time, we will either delete or anonymize your personal data or, if this is not possible, we will securely store your personal data and isolate it from any further use until deletion is possible. We may dispose of any data in our discretion without notice, subject to applicable law. Please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Contact) if you would like more details regarding our retention periods for different categories of personal data.
+
+_Protection_  
+As the transmission of data via the internet is not completely secure, we cannot guarantee the security of your information transmitted to our sites and any such transmission is at your own risk. However, we maintain appropriate technical and organizational measures, including performing regular self-assessments, to prevent unauthorized disclosure of, or access to, personal data. We limit access to personal data and require that employees authorized to access personal data maintain the confidentiality of that data. We hold our service providers to at least the same data privacy and security standards to which we hold ourselves. Our standard information security requirements for service providers are available here: [www.gatesfoundation.org/InformationSecurityRequirements.pdf](https://docs.gatesfoundation.org/Documents/Information%20Security%20Requirements_gforg.pdf).
+
+How you can access and control your data  
+
+
+* * *
+
+_Access and control_  
+Generally, newsletters, auto-generated emails, and updates from us will include links to access, correct, or delete your personal data and to manage any subscriptions directly. If you wish to obtain confirmation that we hold personal data about you, access, correct, or delete your personal data, withdraw any consent you previously provided to us, or object to or restrict our processing of it in any other context, please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Contact). We will respond to all legitimate requests within 30 days. 
+
+_Other rights_  
+To the extent provided by applicable laws (including the GDPR), you also may have the right to have the data or content deactivated, blocked, anonymized, or deleted, as appropriate, request and receive a copy of the personal data you have provided us and to transmit this data to a third party, and lodge a complaint with the applicable data protection authority. To exercise any of these rights that you are not able to do directly, please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#Contact).
+
+How to contact us  
+
+
+* * *
+
+_If you reside in the EU:_  
+  
+---  
+  
+Mail:    
+
+| 
 
 Bill & Melinda Gates Foundation  
+Attn: Privacy Notice Inquiry  
+62 Buckingham Gate  
+Westminster, London  
+SW1E 6AJ  
+U.K.  
+  
+Email:   
+
+| 
+
+[privacy@gatesfoundation.org](mailto:privacy@gatesfoundation.org)  
+  
+_If you reside outside the EU:_  
+  
+---  
+  
+Mail:    
+
+| 
+
+Bill & Melinda Gates Foundation  
+Attn: Privacy Notice Inquiry  
 P.O. Box 23350  
 Seattle, WA 98102  
-Attn: Legal
+U.S.A.  
+  
+Email:   
 
-**13\. Supplemental Privacy Policy—Jobs**
+| 
 
-Welcome. This Supplemental Privacy Policy—Jobs ("Jobs Policy") supplements the Privacy Policy for Gatesfoundation.org ("Site"). It applies if you use the “Jobs” section of the Site or if you allow or cause someone else to use it for you. If an applicant has a disability and needs assistance using our online systems, completing a profile, an application for employment, or any other aspect of the application process, please notify our Disability Coordinator (at [disability.accomodations@gatesfoundation.org](mailto:disability.accomodations@gatesfoundation.org)) and we will make appropriate arrangements. We are an equal opportunity employer.
-
-This Jobs Policy is part of our Privacy and Information Security Policy ("Privacy Policy") which is part of our Terms of Use; terms used but not defined in this Jobs Policy are defined in those documents. CREATING A PROFILE, SUBMITTING ANY INFORMATION RELATING TO A POSSIBLE JOB OPPORTUNITY, MAKING ANY APPLICATION(S), OR ALLOWING SOMEONE ELSE (SUCH AS A RECRUITER) TO DO THAT FOR YOU, WILL BE YOUR CONSENT TO OUR TERMS OF USE, INCLUDING OUR PRIVACY POLICY AND THIS SUPPLEMENTAL POLICY.
-
-If you are a recruiter, friend or someone other than job applicant ("Applicant"), you represent and warrant to the Foundation that you have shown the Applicant the Terms of Use (including the Privacy Policy and Jobs Policy) and that you have obtained written consent from the Applicant to those terms and policies or that you are otherwise authorized to do so and to submit personal information about Applicant.
-
-**Information That We Collect in Jobs.** In addition to the personal information that we collect on the Site generally, in the Jobs section you may set up a "profile" which will require you to supply your email address and create a password and secret question to allow you to access your profile later. When you create a profile, submit an application, or authorize us to obtain a "consumer report" (such as a background check), we tend to collect this kind of information: name, address, telephone number, resume', employment, compensation and educational history, previous grants from us, social security number (or national insurance number for an Applicant based in the UK or other local equivalent) and so on. We keep track of when applications are submitted and persons using your password can see several months of that history by clicking on "My Jobs" if you have a profile.
-
-The information submitted about an Applicant online tends to be preliminary information. If we think there might be a good fit for a position, we often will ask the Applicant to complete a more formal application and also to authorize us to obtain a "consumer report" or "consumer investigative report." Under U.S. law, a "consumer report" is a report bearing on credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living which is expected to be used or collected to serve as a factor in establishing Applicant's eligibility for employment. An "investigative consumer report" tends to be the same thing but the information is obtained through personal interviews with neighbors, friends, associates or acquaintances etc. of the Applicant. Both kinds of reports (or other information we collect) can include information from court, administrative and criminal records.
-
-**Access to Information.** You may update your profile personal information by using that Site functionality in the Jobs section. The foundation retains profiles in accordance with our records retention policy. We reserve the right to delete them and other information stored by or for you, so don’t store, for example, the only copy of a resume with us (and sometimes information will need to be re-entered). Profiles may be deleted at any time upon request by contacting us via our [Write to Us form](https://web.archive.org/Who-We-Are/General-Information/Contact-Us/Write-to-Us). Neither changes to or deletion of a profile will alter information already submitted or relied upon. 
-
-**How We Use Information Collected in Jobs.** In addition to the uses of personal information allowed in the Privacy Policy, we make these kinds of uses of personal information submitted for a job. We Disclose it:
-
-  * to recruiters and other third parties who help us authenticate Applicants or review qualifications and credentials or to contact references;
-  * to our affiliates and other Third Parties or persons with whom Applicant might work if Applicant gets the job;
-  * when we are looking for someone who might fit a job need of ours or a Third Party, and to contact a previous Applicant to see if he or she might be interested in a job for which the Applicant did not apply. However, we do this in our discretion and without any obligation to do so; 
-  * to communicate about receiving the application or about the job for which application was made, or to deliver legal or other notices; and
-  * to comply with applicable laws such as checking names against anti-terrorism lists or complying with immigration restrictions. 
+[privacy@gatesfoundation.org](mailto:privacy@gatesfoundation.org)  
+  
+[Back to top](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#PrivacyNotice)  
 
 
+* * *
 
-If Applicant gets a job with us, we store the application and other information upon which we relied in Applicant’s personnel file and we may base post-employment decisions on it (including disciplinary actions).
+BILL & MELINDA GATES FOUNDATION SUPPLEMENTAL PRIVACY NOTICE FOR EVENT PARTICIPANTS
 
-**Passwords; Redact Your Resume.** The Terms of Use require you to keep secret your password and other access credentials confidential. That's especially important if you don't want persons obtaining your password to be able to see any resume or a profile or to see other information available (e.g., positions for which applications have been made). Also, take steps to create a safe resume: before uploading a resume, remove any sensitive information such as social security numbers, identification numbers (e.g., driver's license), financial information, dates of birth etc. – we don't need or want that information in a resume.
+Last updated May 17, 2018 [Update history](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice/Update-History)
 
-**Security.**
+This notice supplements our [Privacy & Cookies Notice](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#PrivacyNotice) and describes how we [collect](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#EventsCollect), [use](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#EventsUse), and [share](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#EventsShare) additional personal data when you participate in a foundation event (whether as an attendee, guest, or speaker), and how to [access and control](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#EventsAccess) this additional data. Please [let us know](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#EventsContact) if you have any questions about this supplemental notice.
 
-  * We store data associated with your application on a site provided by a service provider. The data is not encrypted but the service provider has agreed to provide a commercially reasonable level of security. Your resume and other data will also circulate through our offices and relevant Third Parties, and as explained in the Terms of Use, we do not guarantee security; also, we do not control Third Parties. 
-  * You should assume the Site, storage and use generally is not encrypted and you should take steps to promote security (e.g., see the "Passwords; Redact Your Resume" section above).
-  * Please be wary of email "phishing" or other scams by persons pretending to be us or a Third Party working with us – if you are contacted and asked for sensitive personal information such as financial information or your social security number etc., you should assume that someone is trying to defraud you. We will already have that information if you provided it to us on one of our documents and so will anyone with whom we share personal information: generally we don’t need to ask for it again. If you'd like to check with us to help determine if the person communicating with you is really us or someone we shared with, please contact us via our [Write to Us form](https://web.archive.org/Who-We-Are/General-Information/Contact-Us/Write-to-Us).
+What additional data we collect about event participants  
 
 
+* * *
+
+_Event registration_  
+When you register to participate in a foundation event, we will ask you to provide your name, email address, company/organization, professional title, email address, phone number, emergency contact name and phone number, and any dietary or disability-based accommodation needs. In addition, if you participate as a presenter, panelist, or facilitator at the event, we may collect your photograph and presentation materials. We may also collect feedback and evaluations about you as a presenter, panelist, or facilitator. We will indicate on the form which data is required. Please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#EventsContact) if you have any questions about why certain data is required.
+
+_Mobile app_  
+For some large events, you may have the option to download a mobile app for participant communication and information sharing. When you download the app, the app store may require the device identifier associated with your device, but neither we nor our mobile app provider will collect any personal data through the mobile app.
+
+_Travel/hotel bookings, ground transportation, and expense reimbursement_  
+For some events and participants, we may offer to book your travel/hotel, arrange ground transportation, and reimburse certain out-of-pocket expenses. If so, we may ask you to provide your full name, gender, date of birth, home airport, airline and seat preference, frequent flyer number, global entry number, special meal needs, hotel preference, and any other travel-related needs. If booking international travel, we may ask you to provide your passport number, passport expiration date, and passport country of issuance. If arranging ground transportation, we may ask you to provide your flight arrival/departure information and mobile phone number. If reimbursing expenses, we may ask you to provide bank account number and other personal data required to transfer funds to you. 
+
+_Event photography and audio video recordings_  
+We frequently take photos and record audio and/or video in public areas of our events. If so, we may make and store photographs containing your likeness and recordings of your voice and likeness. We may associate your image and the sound of your voice with your name if you are identified during the recording or identify yourself by name. 
+
+How we use this additional data  
+
+
+* * *
+
+_Event registration_  
+We may use this information to register you to attend the event _[with your consent]_ ; send email to you (and your assistant if one is indicated) to confirm your registration and provide you with updates regarding the event _[with your consent]_ ; print your physical badge at the event _[for our legitimate interests]_ ; track and administer dietary and physical accommodation requests _[with your consent]_ ; review and potentially share your photo, materials, and other information you have authorized us to share with other event participants _[with your consent and for our legitimate interests]_ ; send you reports, materials, and updates _[with your consent]_ ; contact you about future events _[with your consent]_ ; review and respond to feedback, comments, photos, videos, or other information you submit via registration forms or post-event surveys _[for our legitimate interests]_ ; administer, safeguard, and improve our event operations _[for our legitimate interests]_.
+
+_Event photography and audio or video recordings_  
+We may use, edit, copy, exhibit, publish, or distribute photos and audio or video recording for any charitable purpose relating to the event itself or foundation events in general _[for our legitimate interests]_.
+
+_Travel/hotel bookings, ground transportation, and expense reimbursement_  
+We may use this information to assist you with travel/hotel bookings, arrange ground transportation, and reimburse certain out-of-pocket expenses _[with your consent]_.
+
+When we share this additional data  
+
+
+* * *
+
+_Event service providers and partners_  
+Unless otherwise stated on a registration site, we use Cvent, Inc. to manage our online registration and mobile app, if applicable. We may share your personal data with Cvent, Inc. (or alternative service provider), other service providers, and event partners as needed to provide you with information and services associated with the event.
+
+_Travel/hotel bookings service providers_  
+Unless otherwise stated on a registration site, we use Carlson Wagonlit Travel (CWT) and Corporate Travel Management Inc. (CMT) to manage travel/hotel bookings. If you ask us to book your travel/hotel, we may share your personal data with CWT or CMT (or alternative service provider) to arrange travel/hotel accommodations.
+
+_Airlines, hotels, and ground transportation companies_  
+If booking travel/hotel or arranging ground transportation for you, we or our service providers may share your personal data with airlines, hotels, and ground transportation companies for that purpose. When we do, neither we nor our service providers will have direct control over that personal data, and the airline, hotel, or ground transportation company may use your personal data in accordance with its privacy policies.
+
+_Expense reimbursement service provider_  
+Unless otherwise stated on a registration site, we use SAP Concur to manage expense reimbursement. If you request expense reimbursement, we may share your personal data with SAP Concur (or alternative service provider) to process your request.
+
+How you can access and control this additional data  
+
+
+* * *
+
+You may update your registration information anytime by going directly to your registration account. If you wish to access or correct other personal data, or object to our data processing, please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#EventsContact). Please note that neither changes to, or deletion of, such personal data will alter personal data already relied upon or no longer in our control.
+
+How to contact us  
+
+
+* * *
+
+[Back to top](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#PrivacyNotice)  
+
+
+* * *
+
+BILL & MELINDA GATES FOUNDATION SUPPLEMENTAL PRIVACY NOTICE FOR JOB APPLICANTS
+
+Last updated May 17, 2018 [Update history](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice/Update-History)
+
+This notice supplements our [Privacy & Cookies Notice](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#PrivacyNotice) and describes how we [collect](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CareersCollection), [use](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CareersUses), [share](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CareersDisclosure), and [retain](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CareersRetention) additional personal data when you participate in our job application process, and how you can [access and control](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CareersAccess) this additional data. Please [let us know](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CareersContact) if you have any questions about this supplemental notice. 
+
+What additional data we collect about job applicants  
+
+
+* * *
+
+_Data you provide about yourself_  
+When you participate in our job application process, we will ask you to provide personal data such as: your name, email address, mailing address, and telephone number; your resume/CV, work experience, educational history, and skills; links to any relevant websites or your LinkedIn profile; whether you are legally authorized to work in the country in which the position is located; whether you will require sponsorship to obtain legal authorization; whether you are 18 years or older; and whether you are currently working for a grantee of ours. In addition, we will ask you to voluntarily provide information regarding your gender, veteran status, ethnicity, and disability status. This information, or your decision not to provide this information, will not impact your application in any way. 
+
+Before uploading a resume, please remove any sensitive personal data such as government-issued ID numbers, financial information, photos, dates of birth, etc. We do not need or want that data in a resume.
+
+_Data we receive from other sources_  
+We may receive personal data about you from other sources, your references, prior employers, a person or company/organization authorized by you to submit an application on your behalf, and/or publicly-available sources.
+
+_Data we collect from consumer reports or consumer investigative reports_  
+If we think there might be a good fit for a position, we may ask you to authorize us to obtain a consumer report or consumer investigative report. A consumer report is a report bearing on credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living which is expected to be used or collected to serve as a factor in establishing an applicant’s eligibility for employment. An investigative consumer report tends to be the same thing but the information is obtained through personal interviews with neighbors, friends, associates, or acquaintances. Both kinds of reports may include information from court, administrative, and criminal records if and to the extent permitted by applicable law. If you choose not to provide this authorization upon request, we will not be able to offer you employment.
+
+How we use this additional data  
+
+
+* * *
+
+_General_  
+In addition to the uses specified under the [Privacy & Cookies Notice,](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#PrivacyNotice) we may use personal data we collect in this context to: identify and contact applicants _[for our legitimate interests]_ ; evaluate applicants and make hiring decisions _[for our legitimate interests]_ ; match applicants to other career opportunities within the foundation _[for our legitimate interests]_ ; prepare applicants for employment if a job has been offered and accepted _[for our legitimate interests and/or to perform a contract with you]_ ; keep records related to our hiring practices _[for our legitimate interests and/or to comply with legal obligations]_ ; comply with applicable employment-related laws such as checking names against anti-terrorism lists, complying with immigration restrictions, or assisting the government in an investigation _[to comply with legal obligations]_. If you are hired as a foundation employee, this information may be used for additional employment and business purposes subject to any internal privacy policies and notices. _[for our legitimate interests and/or to perform a contract with you]_.
+
+_Sensitive personal data_  
+We believe our employees should reflect the rich diversity of the global populations we aim to serve, and we support this diversity through all our employment practices. Accordingly, we ask applicants to provide information regarding their gender, veteran status, and ethnicity. If you choose to provide this information, we will keep it separate from your application and use it solely for the purpose of monitoring, informing, and reporting on our diversity efforts _[for our legitimate interests]_.
+
+When we share this additional data  
+
+
+* * *
+
+We may share your personal data with service providers (including Workday, Inc., recruiters, and other third parties) that assist us with recruiting, application, and employment processes and our affiliates and other third parties with whom you might work if you are offered and accept the job. 
+
+How long we keep this additional data  
+
+
+* * *
+
+We store personal data of all applicants in accordance with the Privacy & Cookies Notice. If you accept a job with us, we may retain your application and any other information we relied on during the application process as part of your employee file. Please note that we have the right to delete accounts and application information at any time, so you may want to retain copies of any information, including resumes/CVs, you provide to us during the application process.
+
+How you can access and control this additional data  
+
+
+* * *
+
+You may update your contact information anytime by going directly to your account. If you wish to access or correct other personal data, or object to our data processing, please [contact us](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CareersContact). Please note that neither changes to, or deletion of, such personal data will alter personal data already relied upon or no longer in our control.
+
+How to contact us  
+
+
+* * *
+
+Mail:    
+
+| 
+
+Bill & Melinda Gates Foundation  
+Attn: Human Resources  
+P.O. Box 23350  
+Seattle, WA 98102  
+  
+---|---  
+  
+Email:   
+
+| 
+
+[HR@gatesfoundation.org](mailto:HR@gatesfoundation.org)  
+  
+[Back to top](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#PrivacyNotice)  
+
+
+* * *
+
+BILL & MELINDA GATES FOUNDATION COOKIES & SIMILAR TECHNOLOGIES
+
+Last updated May 17, 2018 [Update history](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice/Update-History)
+
+This notice describes the different types of cookies and similar technologies we may use in connection with our sites. Unless you have adjusted your browser setting so that it will refuse cookies, cookies may be issued when you visit our sites. For more information, see [managing cookies and similar technologies](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#CookiesManaging) below. By continuing to use our sites, you consent to the relevant cookies and similar technologies being placed on your computer or device.
+
+Cookies and similar technologies we use  
+
+
+* * *
+
+_Cookies_  
+Our sites may use cookies, which are small text files stored on your computer or device when you access a website. More information about cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/). We use cookies to remember you and your preferences and help us understand how you engage with our sites. 
+
+_Click-through URLs_  
+If you “opt in” to receive newsletters, updates, or other information from us, our emails may use a “click-through URL” linked to content on our sites. When you click one of these URLs, they pass through a separate web server before arriving at the destination page on our sites. We use this click-through data to help us understand how recipients respond to, or interact with, our emails. 
+
+Third-party cookies and similar technologies  
+
+
+* * *
+
+_Third-party analytics services_  
+We use third-party analytics services, including Google Analytics and others, to collect information about your use of our sites and enable us to improve how our sites. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners](https://policies.google.com/privacy/partners). Google Analytics and other third-party analytics services use cookies and similar technologies to collect information about use of our sites and to report website trends to us, without identifying individuals to us. We use this information to see the overall patterns of usage on our sites, help us record any difficulties you have with our sites, and tell us whether our communication efforts are effective. 
+
+_Social media and video sites_  
+If you choose to share our digital content with friends through social networks, such as Facebook and Twitter, or to watch a video posted to a third-party media site (such as YouTube), you may be sent cookies from these third-party websites. We do not control the setting of these cookies, so please check the third-party websites for more information about their cookies and how to manage them.
+
+Managing cookies and similar technologies  
+
+
+* * *
+
+_Cookies_  
+You do not need to have cookies enabled to browse our sites unless you want us to remember you and your preferences when you return. If you prefer not to allow cookies, most cookies can be managed or blocked through your browser. More information about managing cookies is available at the following links:
+
+  * [Adobe Flash](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
+  * [Android Browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+  * [Internet Explorer](https://support.microsoft.com/en-us/kb/260971)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+  * [Safari (Desktop)](https://support.apple.com/kb/PH5042?locale=en_US)
+  * [Safari (Mobile)](https://support.apple.com/en-us/HT201265)
+
+
+
+_Click-through URLs_  
+If you prefer not to be tracked in this way, please do not click text or graphic links in emails you receive from us.
+
+_Third-party analytics services_  
+You can opt out of data collection or use by Google and other third-party analytics services we may use on some of our sites at the following links: 
+
+  * Adjust: [www.adjust.com/opt-out](http://www.adjust.com/opt-out/)
+  * AppsFlyer: [www.appsflyer.com/optout](https://www.appsflyer.com/optout)
+  * Clicktale: [www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)
+  * Flurry Analytics: <https://aim.yahoo.com/aim/us/en/optout/>
+  * Google Analytics: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout) (requires you to install a browser add-on)
+  * Kissmetrics: [kissmetrics.com/user-privacy](https://kissmetrics.com/user-privacy)
+  * Mixpanel: [mixpanel.com/optout](https://mixpanel.com/optout)
+  * Nielsen: [www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices)
+  * Visible Measures: [www.visiblemeasures.com/viewer-settings-opt-out](http://www.visiblemeasures.com/viewer-settings-opt-out)
+  * WebTrends: [ondemand.webtrends.com/support/optout.asp](https://ondemand.webtrends.com/support/optout.asp)
+
+
+
+_Do-not-track requests_  
+There is no standard for how online service should respond to “Do Not Track” signals or other mechanisms that may allow you to opt out of the collection of information across networks of websites and online services. Therefore, we do not honor “Do Not Track” signals. As standards develop, we will revisit this issue and update this notice if our practices change. More information about Do Not Track is available at [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+
+[Back to top](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice#PrivacyNotice)
