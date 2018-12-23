@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lgassist.com.au privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529202254id_/http%3A//lgassist.com.au/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lgassist.com.au privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223015150id_/http%3A//www.lgassist.com.au/cm/privacy) for the most accurate reproduction.*
 
 # Privacy policy: LG Assist
 
