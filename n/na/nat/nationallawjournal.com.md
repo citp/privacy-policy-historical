@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationallawjournal.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622203212id_/https%3A//www.alm.com/privacy-policy-new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationallawjournal.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223063856id_/https%3A//www.alm.com/privacy-policy-new) for the most accurate reproduction.*
 
 # Privacy Policy - ALM
 
@@ -10,34 +10,36 @@ ALM takes data privacy seriously. This Privacy Policy explains who we are, how w
 
 This Privacy Policy covers the personal information we collect (1) when providing services through applications and websites that are affiliated with ALM and that link to this Privacy Policy and (2) in the usual course of ALM’s business, such as in connection with our recruitment, events, sales and/or marketing activities (collectively, the “ **Services** ”).
 
-References to “ **ALM** ,” may be construed as references to ALM Media, LLC (a Delaware limited liability company with offices at 120 Broadway, 5th Floor, New York, NY 10271) and its parents, subsidiaries, or divisions, including but not limited to, ALM Media Properties, LLC, ALM International, Ltd., Legal Week Limited and ALM Media Canada, Inc.
+References to “ **ALM** ,” may be construed as references to ALM Media, LLC (a Delaware limited liability company with offices at 150 East 42nd Street, Mezzanine Level, New York, NY 10017) and its parents, subsidiaries, or divisions, including but not limited to, ALM Media Properties, LLC, ALM International, Ltd., Legal Week Limited and ALM Media Canada, Inc.
 
 If you are a resident of the European Economic Area (EEA), please also review Section 13 below which contains important additional information.
 
 We recommend that you read this Privacy Policy in full to ensure you are fully informed. However, to make it easier for you to review those parts of this Privacy Policy which apply to you, we have divided up the document into the following sections:
 
-  1. Who We Are
-  2. Information We Collect
-    1. Information We Collect Directly
-    2. Information We Collect Automatically
-    3. Information We Collect From Third Party Sources
-  3. How We Use the Information We Collect
-  4. How We Share Information
-  5. Tracking Technologies and Advertising and Analytics Services
-  6. Your Choices/How to Opt Out
-  7. Right of Access
-  8. California Privacy Rights
-  9. Links to Other Websites
-  10. How We Keep Your Information Secure
-  11. Children
-  12. How Long Do We Retain Your Information?
-  13. Additional Notice to Residents of the European Economic Area (EEA)
-    1. Your Data Protection Rights
-    2. Legal Basis for Processing Personal Information
-    3. International Data Transfers
-  14. Changes to This Privacy Policy
-  15. Dispute Resolution for United States Residents/Arbitration/Limitation of Liability
-  16. Contact Information
+    1. Who We Are
+    2. Information We Collect
+      1. Information We Collect Directly
+      2. Information We Collect Automatically
+      3. Information We Collect From Third Party Sources
+    3. How We Use the Information We Collect
+    4. How We Share Information
+    5. Tracking Technologies and Advertising and Analytics Services
+    6. Your Choices/How to Opt Out
+    7. Right of Access
+    8. California Privacy Rights
+    9. Links to Other Websites
+    10. How We Keep Your Information Secure
+    11. Children
+    12. How Long Do We Retain Your Information?
+    13. Additional Notice to Residents of the European Economic Area (EEA)
+      1. Your Data Protection Rights
+      2. Legal Basis for Processing Personal Information
+      3. <ahref=”#section13_3″>International Data Transfers
+
+
+  1. Changes to This Privacy Policy
+  2. Dispute Resolution for United States Residents/Arbitration/Limitation of Liability
+  3. Contact Information
 
 
 
@@ -193,9 +195,11 @@ We retain personal information we collect from you where we have an ongoing legi
 
  **13.1 Your Data Protection Rights**
 
-  * You may request access to or ask us to correct, update, or delete your personal information. You can update account information by logging into your online account and updating your contact and profile information. You also can view, change, or update your editorial newsletter preferences, email marketing preferences, and alert preferences by logging into your online account and going to your preference center [_here_](https://store.law.com/Registration/myAccount.aspx). However, if you don’t have an account with us or want to contact us directly about accessing, correcting, updating, or deleting your personal information or changing your marketing preferences, you can do so at any time by contacting us using the contact details provided in Contact Us in Section 16. We will consider your request in accordance with applicable laws.
-  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided in Contact Us in Section 16.
-  * Similarly, if we have collected and processed your personal information with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+    * You may request access to or ask us to correct, update, or delete your personal information. You can update account information by logging into your online account and updating your contact and profile information. You also can view, change, or update your editorial newsletter preferences, email marketing preferences, and alert preferences by logging into your online account and going to your preference center [_here_](https://store.law.com/Registration/myAccount.aspx). However, if you don’t have an account with us or want to contact us directly about accessing, correcting, updating, or deleting your personal information or changing your marketing preferences, you can do so at any time by contacting us using the contact details provided in Contact Us in Section 16. We will consider your request in accordance with applicable laws.
+    * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided in Contact Us in Section 16.
+    * Similarly, if we have collected and processed your personal information with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+
   * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority (contact details for data protection authorities in the EEA, are available [_here_](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 
@@ -204,8 +208,10 @@ We respond to all requests we receive from individuals wishing to exercise their
 
  **13.2 Legal Basis for Processing Personal Information**
 
-  * If you are a resident of the EEA, our legal basis for collecting and using the personal information described in this Privacy Policy will depend on the personal information concerned and the specific context in which we collect it.
-  * However, we will normally collect personal information from you where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. Typically, our legitimate interests include: improving, maintaining, providing, and enhancing our technology, products, content, and services; ensuring the security of the Services; and conducting marketing activities.
+    * If you are a resident of the EEA, our legal basis for collecting and using the personal information described in this Privacy Policy will depend on the personal information concerned and the specific context in which we collect it.
+    * However, we will normally collect personal information from you where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. Typically, our legitimate interests include: improving, maintaining, providing, and enhancing our technology, products, content, and services; ensuring the security of the Services; and conducting marketing activities.
+
+
   * If you have signed up for the Services on your own behalf, we may need your personal information to perform a contract with you. In some limited cases, we may also have a legal obligation to collect personal information from you.
   * Where required by law, we will collect your personal information only where we have your consent to do so.
   * If you have any questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided in Contact Us in Section 16.
@@ -214,7 +220,9 @@ We respond to all requests we receive from individuals wishing to exercise their
 
  **13.3 International Data Transfers**
 
-  * The Services are operated in the United States. If you are located anywhere outside of the United States (including in the EEA), please be aware that information we collect, including personal information, will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your personal information may be subject to access requests from governments, courts, or law enforcement in the United States according to the laws of the United States.
+    * The Services are operated in the United States. If you are located anywhere outside of the United States (including in the EEA), please be aware that information we collect, including personal information, will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your personal information may be subject to access requests from governments, courts, or law enforcement in the United States according to the laws of the United States.
+
+
   * However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy. These include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European data protection law. Our standard Contractual Clauses can be provided upon request by contacting us at [_ALMLegal@alm.com_](mailto:ALMLegal@alm.com). We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
 
 
@@ -235,8 +243,9 @@ If you have any questions, comments or concerns, please contact us using the det
 
 ALM Media, LLC  
 Attn: Customer Service  
-120 Broadway, 5th Floor  
-New York, NY 10271  
+150 East 42nd Street  
+Mezzanine Level  
+New York, NY 10017  
 Phone: 877-256-2472  
 Email: [customercare@alm.com](mailto:customercare@alm.com?subject=Privacy)
 
@@ -246,7 +255,8 @@ For the purposes of EU data protection legislation, American Lawyer Media Limite
 
 ALM Media, LLC  
 Attn: Customer Service  
-120 Broadway, 5th Floor  
-New York, NY 10271  
+150 East 42nd Street  
+Mezzanine Level  
+New York, NY 10017  
 Phone: 877-256-2472  
 Email: [EEAcustomercare@alm.com](mailto:EEAcustomercare@alm.com)
