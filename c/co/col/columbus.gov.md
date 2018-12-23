@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623161712id_/https%3A//www.columbus.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223161713id_/https%3A//www.columbus.gov/Privacy) for the most accurate reproduction.*
 
 # 
 
@@ -65,7 +65,7 @@
 > 
 > * * *
 
-**Linking Policy**  
+**Linking Policy**   
 
 
 > This policy describes the terms for linking to and from all non-library Web sites maintained by the City of Columbus. The City of Columbus' Director of Technology is responsible for administering this policy.
@@ -80,6 +80,6 @@
 > 
 > This policy does not give any party the right to link on the City of Columbus Web site. You may email or submit a written request for a link to the Department of Technology's Web Team (put in postal and email address). You will subsequently be notified whether your link will be included on a City of Columbus Web site, within 30 days of your communication to the City. If you do no receive a written confirmation from us within 30 days you should consider that your request has been denied without prejudice to the later refilling of the request. If approved, the link is not to exceed the duration of an event without additional approval.
 
-**Linking to Columbus.gov**
+ **Linking to Columbus.gov**
 
 > Unless you are subsequently advised otherwise by the City of Columbus, Director of Technology, you are granted permission to create hyperlinks to the content of a Web site maintained by the City of Columbus, provided that the link accurately describes the content as it appears on the site. No relationship with the City is to be implied or expressed by the link or the context in which the link appears. The link shall open to the City's Web site in a full browser window and not within the content of the linking site, such as in an HTML frame. The City has the right to revoke this permission at any time. Be advised that the City's site organization, page titles, and URL's may change at any time. The City is not responsible for notification of these changes.
