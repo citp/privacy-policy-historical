@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getanaffair.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417080152id_/https%3A//www.getanaffair.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getanaffair.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223112031id_/https%3A//www.getanaffair.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casual Dating at GetAnAffair
 
@@ -8,36 +8,36 @@ This policy (together with our [terms and conditions of use](https://web.archive
 
 **This policy will tell you about:**
 
-• Who we are  
-• Your rights to access and/or amend data held and opt out of consenting to uses of your data  
-• What data we collect  
-• What we do with this data  
-• Where we store this data  
-• How long we store your data for  
-• Steps taken to keep data safe  
-• Our Cookie policy  
-• Our right to amend our policy  
-• Special rules on children and data  
-• Special rules for California residents
+· Who we are  
+· Your rights to access and/or amend data held and opt out of consenting to uses of your data  
+· What data we collect  
+· What we do with this data  
+· Where we store this data  
+· How long we store your data for  
+· Steps taken to keep data safe  
+· Our Cookie policy  
+· Our right to amend our policy  
+· Special rules on children and data  
+· Special rules for California residents
 
 **1\. WHO WE ARE**
 
-We, Ldate Services Limited , are the owner of this website and, for the purposes of the Data Protection Act 1998 (as amended), we are the data controller, maintaining a data controller registration with the Information Commissioner.
+We, cWdZIGdmcmlhViBuaWJ5aE8= , are the operator of this website and, for the purposes of the Data Protection Act 1998 (as amended), we are the data controller, maintaining a data controller registration with the Information Commissioner. 
 
 Our contact details are:
 
-Name: Ldate Services Limited
+Name: cWdZIGdmcmlhViBuaWJ5aE8=
 
-Address: Dositheou 42, Strovolos, 2028, Nicosia, Cyprus
+Address: ZnFhbnlmViBhdnRldkkgdWZ2Z3ZlTyAsbnliZ2ViRyAsYWpiRyBxbmJFICxmZXJvem51UCBnYXJxdmVHICw2NDEga2JPIC5CLkM=
 
-Phone: 18008485413
+Phone: ODUxNDU2ODAwODE=
 
 Email for Customer services: support@getanaffair.com
 
-We own and/or operate a large number of social, dating, lifestyle and entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites. 
+We operate a large number of social, dating, lifestyle and entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the "Services" within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to "us" or "we" or "our" will include our Group Companies and Partner Sites. 
 
 **(a) ABOUT OUR GROUP COMPANIES**  
-As a large organisation we have a number of subsidiary and sister companies ("Group Companies") that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. For data protection purposes, these companies are called data processors. Our Group Companies are all wholly/majorly owned by us, or our parent company. 
+As a large organisation we have a number of subsidiary and sister companies ("Group Companies") that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. For data protection purposes, these companies are called data processors. Our Group Companies are all wholly/majorly operated by us, or our parent company. 
 
 **(b) ABOUT OUR PARTNER SITES**  
 If you are reading this policy you are using one of our sites or apps. We have an extensive network of sites that we categorise as casual sites (for adults looking for short-term consensual casual relationships). We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below **Creation of duplicate profiles across our Partner Sites** ) and we will market our different products and services to you (See below **Marketing** ). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you. 
@@ -78,13 +78,13 @@ When you use our Services to search for other users, explore our Services, or in
 
 
 **(d) Information we collect from other social networks that you use**  
-Some of our Services have the ability to link your use of the Services to other social networks you might have access to. If you have an account with another social network e.g. Facebook, you can share the data you have on our site with that network. To enhance your experience and create a personalised service we may ask you to login to your Facebook account. By doing so you grant us access to your information stored on your Facebook profile including without limitation your personal information, photographs, videos, interests and locations. When you login to the other network or install our app, we will receive the basic information from you including but not limited to your name, photos, gender, networks, user ID, friends list and any other information you make public and your email address. If you have logged into other social networks and linked them to any of our profiles you grant permission for us to post updates, including location information, on your behalf therefore please exercise caution. You can turn off location data – see below. 
+Some of our Services have the ability to link your use of the Services to other social networks you might have access to. If you have an account with another social network e.g. Facebook, you can share the data you have on our site with that network. To enhance your experience and create a personalised service we may ask you to log in to your Facebook account. By doing so you grant us access to your information stored on your Facebook profile including without limitation your personal information, photographs, videos, interests and locations. When you log in to the other network or install our app, we will receive the basic information from you including but not limited to your name, photos, gender, networks, user ID, friends list and any other information you make public and your email address. If you have logged in to other social networks and linked them to any of our profiles you grant permission for us to post updates, including location information, on your behalf therefore please exercise caution. You can turn off location data – see below. 
 
 **(e) Information we collect about your location**  
-We can collect location data from your computer and/or mobile device. When accessing the Services from a mobile device you will be given the option to allow location sharing with our application. If you do not wish to share your location data with us please turn off this feature by following your mobile device instructions to do so. We can track your IP address if you are using a computer to access the Services. If you are using a mobile device we use GPS with an accuracy range of 20 to 100 metres. Although location data is anonymous and can’t identify you, it can be shown to other users so please exercise caution if you do not wish to publicise your location. If you choose to change or turn off location sharing, in order to provide you with a more localised service and localised matches, we will show you as being at a randomly generated location within the postal code area that you have provided. We also use your location data to research our own Services, develop new products and improve our Services, including using third parties to help us either provide the Services to you or develop new ones, and target advertising to suit your user experience. Your devices can give us lots of information about the device including the brand, model, version of operating system, installed app details, email accounts, mobile carrier and so on. We may also connect your account with location data from Foursquare and can show your Foursquare check ins on our map within some of our Services. 
+We can collect location data from your computer and/or mobile device. When accessing the Services from a mobile device you will be given the option to allow location sharing with our application. If you do not wish to share your location data with us please turn off this feature by following your mobile device instructions to do so. We can track your IP address if you are using a computer to access the Services. If you are using a mobile device we use GPS with an accuracy range of 20 to 100 metres. Although location data is anonymous and can’t identify you, it can be shown to other users so please exercise caution if you do not wish to publicise your location. If you choose to change or turn off location sharing, in order to provide you with a more localised service and localised matches, we will show you as being at a randomly generated location within the postal code area that you have provided. We also use your location data to research our own Services, develop new products and improve our Services, including using third parties to help us either provide the Services to you or develop new ones, and target advertising to suit your user experience. Your devices can give us lots of information about the device including the brand, model, version of operating system, installed app details, email accounts, mobile carrier and so on. We may also connect your account with location data from Foursquare and can show your Foursquare check-ins on our map within some of our Services. 
 
 **(f) Information we collect about your Contacts**  
-Some features of the Services allow you to share your user experience with people you know (“your Contacts”), or to invite them to join the Services. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address. If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses. You may also choose to invite friends through your connected social networks. You assume all responsibility for ensuring that when you select a friend to be invited by email, application or SMS that the person wants to receive that invite from you. 
+Some features of the Services allow you to share your user experience with people you know "your Contacts"), or to invite them to join the Services. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address. If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses. You may also choose to invite friends through your connected social networks. You assume all responsibility for ensuring that when you select a friend to be invited by email, application or SMS that the person wants to receive that invite from you. 
 
 **4A. HOW WE USE YOUR INFORMATION – AN OVERVIEW**
 
@@ -150,13 +150,13 @@ If you choose to upload your Contact’s name and email address and/or mobile nu
 
 **(d) When we disclose your information to third parties and why**  
 _**Legal disclosures**_  
-We may be required by law e.g. through potential or actual litigation, court order, public or governmental authorities, or rules and regulations within or out with your country of residence to disclose all or part of your information to third parties. We may also deem it necessary to make such a disclosure in the event of an issue of national security, law enforcement or other such similar situations as we deem necessary including, for example, allegations of alleged infringement of copyright, trade marks or other third parties’ rights by users. 
+We may be required by law e.g. through potential or actual litigation, court order, public or governmental authorities, or rules and regulations within or out with your country of residence to disclose all or part of your information to third parties. We may also deem it necessary to make such a disclosure in the event of an issue of national security, law enforcement or other such similar situations as we deem necessary including, for example, allegations of alleged infringement of copyright, trademarks or other third parties’ rights by users. 
 
 _**Third Party Service Providers**_  
 We share your personal information with third party service providers in order to provide the Services to you including third parties who assist us with information processing, credit and payment processing, fulfilment of your subscription order, managing and hosting data, conducting consumer research or satisfaction surveys. These disclosures relate to providing our Services, improving our Services and delivering targeted advertising to you. We do not provide your contact details to third parties for direct marketing by them to you without your express consent. 
 
 _**Change of ownership of the business**_  
-As we continue to develop our business, we might sell, buy or otherwise transfer our assets either within in our corporate group, or with third parties. In such transactions, the information we have collected about you in accordance with this Privacy Policy and through your use of the services (including payment activity and billing methods) will generally be one of the transferred business assets. Also in the unlikely event that any of our group companies or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
+As we continue to develop our business, we might sell, buy or otherwise transfer our assets either within in our corporate group, or with third parties. In such transactions, the information we have collected about you in accordance with this Privacy Policy and through your use of the services (including payment activity and billing methods) will generally be one of the transferred business assets. Also in the unlikely event that any of our group companies or our assets is purchased, your information will also be one of the transferred assets. We may share information about you with: 
 
   * Other companies in the same corporate group as us;
   * A buyer or prospective buyer of our business;
@@ -179,11 +179,11 @@ We may share your non-personal information we collect under any of the above cir
 **(a) When we market to you directly about our products and services**  
 We may share your information with our Partner Sites and Group Companies to develop and deliver targeted advertising to you of our Partner Sites and Group Companies’ products and services, or to help us to prepare marketing reports. We may send you information about our Partner Sites and Group Companies’ products and services, news and offers, and selected third party products and services that we think may be of interest to you. We may do this by contacting you through your email address or mobile phone number that you have provided. Any communication received from us, as consented to by you, will clearly state that it is being sent by us. You have the option to opt-out of our marketing communications at any time (see below). 
 
-**(b) When third parties market to you (Our “third party Partner Services”)**  
+**(b) When third parties market to you (Our "third party Partner Services")**  
 If you have consented to receive marketing communications from third parties, referred to as Partner Services, your data may be passed on to such third parties as we enter into data sharing agreements with, from time to time, for marketing and analytical reporting purposes. We cannot be held liable for the content of the third party’s communications or products/services they are promoting. If you have provided this consent, but change your mind, you can opt-out at any time (see below). Please be advised that you will also require to contact the individual third parties who have been marketing to you if you wish to stop receiving their communications directly. 
 
 **(c) Opting Out of Marketing**  
-If you change your mind about the marketing consent you have granted to us, you can amend your preferences under the “My Account” section of your chosen Site or emailing our support team. 
+If you change your mind about the marketing consent you have granted to us, you can amend your preferences under the "My Account" section of your chosen Site or emailing our support team. 
 
 **6\. WHERE WE STORE YOUR DATA**
 
@@ -193,25 +193,31 @@ The personal data that we collect from you may be transferred to, and stored at,
 
 Generally speaking, we only store data for as long as it is necessary to provide products and Services to you and others, with information typically being held until you cancel your membership.   
 For data storage purposes however our users are considered as either being:   
-(a) Active Users; this means you regularly log on to our Services and use the Services in any way;  
-(b) Inactive Users: this means that you have not cancelled your account but you haven’t logged in for 9 months, or conducted any activity on our Services in that time;  
-(c) Cancelled: this means that you have followed our cancellation process and actively cancelled your membership.  
+(a) Active Users; this means you regularly log in to our Services and use the Services in any way;  
+(b) Inactive Users: this means that you have not canceled your account but you haven’t logged in for 9 months, or conducted any activity on our Services in that time;  
+(c) Canceled: this means that you have followed our cancellation process and actively canceled your membership.  
 (d) Deactivated: this means that you have chosen to make your profile temporarily invisible to other users. 
 
 **(a) Active Users**  
 If you are an Active User we will store your data until you cancel your account. 
 
 **(b) Inactive Users**  
-If you are an Inactive User, you should be aware that we will continue to store your data until you cancel you account, including continue to market to you if you have consented to marketing. Just because you haven’t logged on for a few months, we hope you will return to use the Services regularly and we want your information to be there for your convenience so you should be aware that you will still appear in our search results for other users, and your profile will remain visible. The responsibility to change your preferences or cancel your account lies with you. 
+If you are an Inactive User, you should be aware that we will continue to store your data until you cancel your account, including continue to market to you if you have consented to marketing. Just because you haven’t logged in for a few months, we hope you will return to use the Services regularly and we want your information to be there for your convenience so you should be aware that you will still appear in our search results for other users, and your profile will remain visible. The responsibility to change your preferences or cancel your account lies with you. 
 
-**(c) Cancelled Users**  
-If you are a Cancelled User, we will delete all of your data 9 months after the date of cancellation. It is important that we retain your data for this short period after cancellation to ensure that we can answer any payment or other account related queries, or provide information to third parties in line with our disclosure provisions outlined in this policy e.g. assisting police investigations. Even after you remove information from your profile or delete your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies. 
+**(c) Canceled Users**  
+If you are a Canceled User who had paid for subscription at least once, we will delete all of your data 6 (six) months after the date of cancellation. If you are a free Canceled User and you have never paid for a subscription, we may delete all of your data immediately after you complete the cancellation procedure (remove account). Once you become a Canceled User, you will not be able to restore your data. It is important that we retain data of paid members for this short period after cancellation to ensure that we can answer any payment or other account related queries, or provide information to third parties in line with our disclosure provisions outlined in this policy e.g. assisting police investigations. Even after you remove information from your profile or delete/cancel your account, copies of this information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, copied or stored by other users or has been shared with search engines. We cannot control, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies. 
 
-**d) Deactivated users**  
-If you select to 'Deactivate my account' / 'Hide my profile' in the account settings this is considered to mean that you have deactivated your account. Your profile and personal data will continue to be stored, allowing you to reactivate your account. When you use this option, your account / profile will be temporarily invisible to other users, and will remain so until you cancel your account or reactivate your profile. To re-activate your profile simply login again and your profile will be automatically re-activated. De-activating your profiles does NOT cancel your paid subscriptions, to ensure you are not further charged you must properly cancel your account, not simply de-activate it. For cancelling your membership please contact our support 18008485413 and mention your user ID or follow guide by App Store℠, Google Play or other application platforms authorized by application. 
+**(c)(i) Canceled Users - Paid users**  
+If you are a Canceled User who has paid for a subscription at least once during the lifetime of your membership, we will delete all of your data 6 (six) months after the date of cancellation. Once deleted, you will not be able to restore your data. It is important that we retain data of paid members for this short period after cancellation to ensure that we can answer any payment or other account related queries, or provide information to third parties in line with our disclosure provisions outlined in this policy, e.g. assisting police investigations. 
+
+**(c)(ii) Canceled Users - Free users**  
+If you are a Canceled User and have never paid for a subscription, we may delete all of your data shortly after you complete the cancellation procedure (account removal). Once deleted, you will not be able to restore your data. Whether a free user or a paid user, even after you remove information from your profile or delete/cancel your account, copies of this information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, copied or stored by other users or has been shared with search engines. We cannot control, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies. 
+
+**(d) Deactivated users**  
+If you select to 'Deactivate my account' / 'Hide my profile' in the account settings this is considered to mean that you have deactivated your account. Your profile and personal data will continue to be stored, allowing you to reactivate your account. When you use this option, your account / profile will be temporarily invisible to other users, and will remain so until you cancel your account or reactivate your profile. To re-activate your profile simply log in again and your profile will be automatically re-activated. De-activating your profiles does NOT cancel your paid subscriptions, to ensure you are not further charged you must properly cancel your account, not simply de-activate it. For cancelling your membership please contact our support ODUxNDU2ODAwODE= and mention your user ID or follow guide by App Store℠, Google Play or other application platforms authorized by application. 
 
 **(e) Storage of activity data**  
-Whilst we retain your Personal Data, Sensitive Personal Data and Anonymous Data as outlined at (a) to (c) above, there are some features of our Services that we store data in respect of, for different periods of time. For example, messages, winks and other similar activities are only stored for 21 days. All other profile and activity information including photographs, blocked list, search histories etc. are stored until 9 months after your account is cancelled. 
+Whilst we retain your Personal Data, Sensitive Personal Data and Anonymous Data as outlined from (a) to (c) above, there are some features of our Services that we store data in respect of, for different periods of time. For example, messages are only stored for 30 days, winks and other similar activities are stored for 10 days. For paid members (including those who have previously paid and are now free users) all other profile and activity information including photographs, blocked list, search histories etc. are stored for a period 6 months post cancellation of your account. 
 
 **(f) Banned and terminated users**  
 If your account is ever terminated by us, or you are detected as a potential or actual scammer, or a potential or otherwise threat to our business or our users, your email address will be retained on our internal blacklist for as long as we deem necessary to protect the business and its users. 
@@ -228,7 +234,7 @@ When you post information about yourself or use the messaging service, the amoun
 
 **9\. OUR COOKIE POLICY**
 
-We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here. Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends and to share your non-personal information with carefully selected third parties for marketing purposes.   
+We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here. Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the operators of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends and to share your non-personal information with carefully selected third parties for marketing purposes.   
 Cookies help us to improve the Services and to deliver a better and more personalised service. They enable us: 
 
   * To estimate our audience size and usage pattern;
@@ -238,7 +244,7 @@ Cookies help us to improve the Services and to deliver a better and more persona
   * To provide anonymised statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners to help these selected third parties to deliver relevant advertisements to you.
 
   
-We use this non-personal information to help improve the services we provide to you. When you visit the publicly available sections of the Services, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. 
+We use this non-personal information to help improve the services we provide to you. When you visit the publicly available sections of the Services, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login process faster and easier. 
 
 _**Controlling and deleting cookies**_  
 You have the right to choose whether or not to accept cookies and we explain how you can exercise this right below. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Sites and the websites of other companies. You may block cookies in several ways: 
@@ -257,18 +263,18 @@ This table shows fully the cookie functions and why they are used, although our 
 Cookie Functions | Cookie Purposes  
 ---|---  
 Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. You can opt-out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout#sthash.1CRxgddB.dpuf).  
-Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our website “remembers” you and allows you full access without the need to keep entering your log in details.  
+Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our website "remembers" you and allows you full access without the need to keep entering your login details.  
 Security and site integrity | We may use cookies and other devices, such as CAPTCHAs, to help keep the Site and our members safe and secure by protecting the Site from fraud and spam attacks to keep your data safe.  
 Site features and services | These cookies and local storage devices provide the functionality that our members enjoy, such as uploading of photographs, chats, instant messaging, your account settings etc. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between the website with your other favourite social networks. In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data you should always read their privacy policies. Third parties who place cookies on your device when you use the Site include Twitter and Facebook whose own privacy policies apply.  
 Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Services.  
 Ad Serving & Behavioural Advertising | We sell space on some of our websites to advertisers. We use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (i.e. it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.   
 Advertisements on this Site and the other sites you visit are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites. In order to do this, our advertising partner may need to place a cookie on your computer.   
 For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and select your country.   
-These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](https://web.archive.org/web/20170417080152id_/https%3A//www.getanaffair.com/staticPage/www.youronlinechoices.com) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
+These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
   
 **10\. OUR RIGHTS TO AMEND THIS POLICY**
 
-We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties. We may also contact you from time to time to advise of any changes if we feel such notification is necessary depending on the extent of the changes. We will update the “last updated date” at the top of these terms, and if we believe a change is material, we will inform you by email using the last known email address we hold for you. It is your responsibility to check this privacy policy and terms and conditions regularly. If at any time you do not agree to any of the terms, you must stop accessing or using the website. If you continue to access and use the website your will be deemed to have accepted any changes. 
+We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties. We may also contact you from time to time to advise of any changes if we feel such notification is necessary depending on the extent of the changes. We will update the "last updated date" at the top of these terms, and if we believe a change is material, we will inform you by email using the last known email address we hold for you. It is your responsibility to check this privacy policy and terms and conditions regularly. If at any time you do not agree to any of the terms, you must stop accessing or using the website. If you continue to access and use the website your will be deemed to have accepted any changes. 
 
 **11\. LINKS TO OTHER THIRD PARTY WEBSITES**
 
