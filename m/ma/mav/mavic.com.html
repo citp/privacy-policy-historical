@@ -1,0 +1,875 @@
+<!--The following is the downloaded HTML source of the mavic.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223142745id_/https%3A//www.mavic.com/en-int/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#"><head profile="http://www.w3.org/1999/xhtml/vocab">
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W7DXQR"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+                <script type="text/javascript">
+              dataLayer = [{'gtmCustomPageName': 'en-int/privacy-policy','adobea':{
+                  'pageName': "privacy-policy",
+                  'channel': "privacy-policy",
+                  'prop1': "privacy-policy",
+                  'prop12': "en-int",
+                  'prop22': "guest",
+                  'eVar18': "",
+                  'prop7': ""
+              }}];
+          </script>
+              <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-W7DXQR');</script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="https://www.mavic.com/fr-fr/politique-de-confidentialite-0" rel="alternate" hreflang="fr-fr">
+<link href="https://www.mavic.com/en-gb/privacy-policy" rel="alternate" hreflang="en-gb">
+<link href="https://www.mavic.com/it-ch/informativa-privacy" rel="alternate" hreflang="it-ch">
+<link href="https://www.mavic.com/fr-ch/politique-de-confidentialite-0" rel="alternate" hreflang="fr-ch">
+<link href="https://www.mavic.com/de-ch/datenschutzerklarung-0" rel="alternate" hreflang="de-ch">
+<link href="https://www.mavic.com/es-es/politica-de-privacidad-0" rel="alternate" hreflang="es-es">
+<link href="https://www.mavic.com/en-nl/privacy-policy" rel="alternate" hreflang="en-nl">
+<link href="https://www.mavic.com/de-lu/datenschutzerklarung-0" rel="alternate" hreflang="de-lu">
+<link href="https://www.mavic.com/it-it/informativa-privacy" rel="alternate" hreflang="it-it">
+<link href="https://www.mavic.com/de-de/datenschutzerklaerung-0" rel="alternate" hreflang="de-de">
+<link href="https://www.mavic.com/fr-lu/politique-de-confidentialite-0" rel="alternate" hreflang="fr-lu">
+<link href="https://www.mavic.com/en-fi/privacy-policy" rel="alternate" hreflang="en-fi">
+<link href="https://www.mavic.com/fr-ca/politique-de-confidentialite" rel="alternate" hreflang="fr-ca">
+<link href="https://www.mavic.com/en-be/privacy-policy-0" rel="alternate" hreflang="en-be">
+<link href="https://www.mavic.com/en-int/privacy-policy" rel="alternate" hreflang="x-default">
+<link href="https://www.mavic.com/en-ca/privacy-policy" rel="alternate" hreflang="en-ca">
+<link href="https://www.mavic.com/en-us/privacy-policy" rel="alternate" hreflang="en-us">
+<link href="https://www.mavic.com/ja-jp/puraibasiporisi" rel="alternate" hreflang="ja-jp">
+<link href="https://www.mavic.com/ko-kr/gaeinjeongbo-ceoribangcim" rel="alternate" hreflang="ko-kr">
+<link href="https://www.mavic.com/de-at/datenschutzerklarung-0" rel="alternate" hreflang="de-at">
+<link href="https://www.mavic.com/fr-be/politique-de-confidentialite-0" rel="alternate" hreflang="fr-be">
+<meta name="google-site-verification" content="frMVSE8Z2yUyriPvJ6vBPdk2QskpV0JPwq0TiTsyJ1k">
+<meta name="description" content="PRIVACY POLICY&nbsp;&nbsp;&nbsp;September 15, 2016 (update May 1, 2018)Amer Sports is committed to protecting your privacy and complying with applicable data protection and privacy laws. This Privacy Policy (“Policy”) is designed to help you to understand what kind of information we collect in connection with our products and services and how we process and use such information. Throughout this Policy the term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person).&nbsp;">
+<meta name="robots" content="follow, index">
+<link rel="canonical" href="https://www.mavic.com/en-int/privacy-policy">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="PRIVACY POLICY&nbsp;&nbsp;&nbsp;September 15, 2016 (update May 1, 2018)Amer Sports is committed to protecting your privacy and complying with applicable data protection and privacy laws. This Privacy Policy (“Policy”) is designed to help you to understand what kind of information we collect in connection with our products and services and how we process and use such information. Throughout this Policy the term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person).&nbsp;">
+<meta property="og:updated_time" content="2018-05-24T19:59:04+02:00">
+<meta property="article:published_time" content="2018-05-24T19:59:04+02:00">
+<meta property="article:modified_time" content="2018-05-24T19:59:04+02:00">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=QEEYA5GMRl">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=QEEYA5GMRl">
+<link rel="icon" type="image/png" href="/favicon-32x32.png?v=QEEYA5GMRl" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=QEEYA5GMRl" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png?v=QEEYA5GMRl" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png?v=QEEYA5GMRl" sizes="16x16">
+<link rel="manifest" href="/manifest.json?v=QEEYA5GMRl">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=QEEYA5GMRl" color="#000000">
+<link rel="shortcut icon" href="/favicon.ico?v=QEEYA5GMRl">
+<meta name="msapplication-TileColor" content="#ffe500">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=QEEYA5GMRl">
+<meta name="theme-color" content="#ffe500">
+      <title>Privacy Policy | Mavic</title>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+      <link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/default/files/css/css_hTLrwzbU9bZhjvzx-j5entbJFEHkjJyd6RgHEla8FhA.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/default/files/css/css_gVm8YxI98QxgRnHEkum8d97NRD8K-B1Zzd5jvRx43ts.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/default/files/css/css_hEhnoZQShiN1WAErEWuNGUptKBM1h4T0HpQ4dWVn7pw.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/default/files/css/css_JsRsoA8-W2GfTPSoBHK-Ev-DnTGJgpCXmBaU9WiZFMQ.css" media="print">
+<link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/all/themes/custom/mavic_bootstrap_theme/css/style-blessed0.css?pk3g55" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/all/themes/custom/mavic_bootstrap_theme/css/style-blessed1.css?pk3g55" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.mavic.com/sites/all/themes/custom/mavic_ecom/css/dist/header-footer.css?pk3g55" media="all">
+        <!-- HTML5 element support for IE6-8 -->
+        <!--[if lt IE 9]>
+          <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <script type="text/javascript">
+                var pathToFile = "https://www.mavic.com/sites/default/files/";
+        </script>
+        <script src="https://www.mavic.com/sites/all/modules/contrib/respondjs/lib/respond.min.js?pk3g55"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
+<script src="https://www.mavic.com/sites/default/files/js/js_vSmhpx_T-AShyt_WMW5_TcwwxJP1imoVOa8jvwL_mxE.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script><script src="/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js"></script>
+<script src="https://www.mavic.com/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="https://www.mavic.com/sites/default/files/js/js_Adc8nMgIT4H8ej4mKlDCSI9Te71kbmi5Ot56mzhTVMw.js"></script>
+<script src="https://www.mavic.com/sites/default/files/js/js_FLMSGd_LHAj41jz4qpiAFSkXPr9BvCvs2-maXtC16ls.js"></script>
+<script src="https://www.mavic.com/sites/default/files/js/js_ju8dkG8uV8524AcOPHzyn0T9EI-644HwE0V8Q-gjCRM.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en-int\/","ajaxPageState":{"theme":"mavic_bootstrap_theme","theme_token":"CU5s6J87_78NnY3SAheXuRhIN8CxaGGReIvPPS9ilSk","js":{"\/\/cdnjs.cloudflare.com\/ajax\/libs\/gsap\/1.18.4\/TweenMax.min.js":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/gsap\/1.18.5\/plugins\/ScrollToPlugin.min.js":1,"\/\/cdn.jsdelivr.net\/jquery.slick\/1.6.0\/slick.min.js":1,"sites\/all\/themes\/custom\/mavic_ecom\/js\/polyfill\/browser-polyfill.min.js":1,"\/\/maps.googleapis.com\/maps\/api\/js?v=3.exp\u0026sensor=true\u0026key=AIzaSyAB0-zVPPAoTeJtPqBDHPva2eJpDCnIeEY":1,"sites\/all\/themes\/custom\/mavic_ecom\/js\/src\/locale.js":1,"sites\/all\/themes\/custom\/mavic_ecom\/js\/dist\/vendors.min.js":1,"sites\/all\/themes\/custom\/mavic_ecom\/js\/dist\/main.min.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/respondjs\/lib\/respond.min.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/resp_img\/resp_img.js":1,"sites\/all\/modules\/mavic\/mavic_comparator\/js\/new_functions.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/enquire.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/jquery.fittext.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/ua-parser.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/marker-clusterer.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/shop_finder.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/infobubble.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/jquery.succinct.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/jquery.cycle2.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/jquery.fullsizable.1.6.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/jquery.matchHeight.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/imgLiquid-min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/selectboxit.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/masonry.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/menu.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/custom-video.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/ResizeSensor.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/ElementQueries.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/jquery.dotdotdot.min.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/general.js":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/javascripts\/arnaud.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/css\/fonts.css":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/css\/selectboxit.css":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/css\/fullsizable.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/mavic\/mavic_comparator\/css\/mavic_comparator.css":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/css\/article-print.css":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/css\/style-blessed0.css":1,"sites\/all\/themes\/custom\/mavic_bootstrap_theme\/css\/style-blessed1.css":1,"sites\/all\/themes\/custom\/mavic_ecom\/css\/dist\/header-footer.css":1}},"gss":{"key":"003003641089747231996:bsnpnwdxyvo"},"respImg":{"default_suffix":"__mini","current_suffix":false,"forceRedirect":"0","forceResize":"0","reloadOnResize":"0","useDevicePixelRatio":1,"suffixes":{"__wide":1136,"__narrow":740,"__mini":1}},"GLOBAL":{"shoppath":"https:\/\/shop.mavic.com\/en-int"},"lang":"en","mavic_core":{"baseUrl":"https:\/\/www.mavic.com\/en-int","baseDomainUrl":"https:\/\/www.mavic.com","lang":"en-int"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+            </head>
+    <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1234091 node-type-mv-page i18n-en" style="">
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W7DXQR"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <a href="#" id="overlay_menu"></a>
+        <div id="activeLang" lang="en" uri="www.mavic.com/en-int/privacy-policy" href="www.mavic.com"></div>
+        <div id="skip-link">
+            <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+        </div>
+                
+<div id="maquette"></div>
+    <!-- Header layout -->
+  <div class="mv-popin-language">
+    <div class="mv-popin-language__container">
+        <i class="icon-close"></i>
+        <div class="mv-popin-language__content">
+            <p class="mv-popin-language__title"></p>
+
+            <div id="popin-language__list-language-items" class="mv-popin-language__section">
+                <p class="mv-popin-language__subtitle">Mavic.com</p>
+                <div class="js-list-language-items"></div>
+                <span class="mv-popin-language__description">
+                    <span class="label_shipping"></span>
+            </span></div>
+
+            <div id="popin-language__stay-on" class="mv-popin-language__section">
+                <a href="#" class="mv-popin-language__subtitle">
+                    <span class="label_stay"></span>
+                </a>
+                <span class="mv-popin-language__description">
+                <span class="label_shipping"></span>
+                </span>
+            </div>
+
+            <div class="mv-popin-language__selector mv-popin-language__section">
+                <select class="form-item-select--fullwidth">
+                    <option value="0" data-country="int" data-lang="en"></option>
+                </select>
+                <a href="#" class="tiny-cta"><span class="label_button"></span></a>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="main-header">
+  <!-- #languages-menu -->
+  <div id="languages-menu" class="languages-menu">
+    <div class="mvcontainer">
+      <div class="mv-visible-xs mv-visible-sm languages-menu__close"><a class="tiny-cta tiny-cta--grey-secondary" data-switch="" href="#languages-menu">Close</a></div>
+      <div class="section-header-underlined section-header-underlined--marged">
+        <div class="section-header-underlined__title">Select your Country and Language</div>
+      </div>
+      <div class="mvrow">
+                <div class="mvcol-xs-12 mvcol-sm-6 mvcol-lg-3">
+          <div class="header-menu-section">
+            <div class="header-menu-section__title">Europe                                    <span class="icon-cart"></span>
+                </div>
+            <ul class="header-menu-section__list">
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="de-at" data-country="at" data-language="de" data-language-fallback="" href="https://www.mavic.com/de-at" class="menu-lang-link">
+                        Österreich                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                      Belgium                                            <a data-prefix="fr-be" data-country="be" data-language="fr" data-language-fallback="" href="https://www.mavic.com/fr-be" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> Français                                                    </a>
+                                            <a data-prefix="en-be" data-country="be" data-language="en" data-language-fallback="" href="https://www.mavic.com/en-be" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> English                                                    </a>
+                                                      </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="en-fi" data-country="fi" data-language="en" data-language-fallback="" href="https://www.mavic.com/en-fi" class="menu-lang-link">
+                        Finland                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="fr-fr" data-country="fr" data-language="fr" data-language-fallback="fr" href="https://www.mavic.com/fr-fr" class="menu-lang-link">
+                        France                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="de-de" data-country="de" data-language="de" data-language-fallback="de" href="https://www.mavic.com/de-de" class="menu-lang-link">
+                        Deutschland                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="it-it" data-country="it" data-language="it" data-language-fallback="it" href="https://www.mavic.com/it-it" class="menu-lang-link">
+                        Italia                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                      Luxembourg                                            <a data-prefix="fr-lu" data-country="lu" data-language="fr" data-language-fallback="" href="https://www.mavic.com/fr-lu" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> Français                                                    </a>
+                                            <a data-prefix="de-lu" data-country="lu" data-language="de" data-language-fallback="" href="https://www.mavic.com/de-lu" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> Deutsch                                                    </a>
+                                                      </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="en-nl" data-country="nl" data-language="en" data-language-fallback="" href="https://www.mavic.com/en-nl" class="menu-lang-link">
+                        Netherlands                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="es-es" data-country="es" data-language="es" data-language-fallback="es" href="https://www.mavic.com/es-es" class="menu-lang-link">
+                        España                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                      Switzerland                                            <a data-prefix="de-ch" data-country="ch" data-language="de" data-language-fallback="" href="https://www.mavic.com/de-ch" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> Deutsch                                                    </a>
+                                            <a data-prefix="fr-ch" data-country="ch" data-language="fr" data-language-fallback="" href="https://www.mavic.com/fr-ch" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> Français                                                    </a>
+                                            <a data-prefix="it-ch" data-country="ch" data-language="it" data-language-fallback="" href="https://www.mavic.com/it-ch" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> Italiano                                                    </a>
+                                                      </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="en-gb" data-country="gb" data-language="en" data-language-fallback="" href="https://www.mavic.com/en-gb" class="menu-lang-link">
+                        United Kingdom                                              </a>
+                                  </li>
+                        </ul>
+          </div>
+          <!-- /.header-menu-section -->
+        </div>
+        <!-- /.mvcol -->
+                <div class="mvcol-xs-12 mvcol-sm-6 mvcol-lg-3">
+          <div class="header-menu-section">
+            <div class="header-menu-section__title">Asia                </div>
+            <ul class="header-menu-section__list">
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="ja-jp" data-country="jp" data-language="ja" data-language-fallback="ja" href="https://www.mavic.com/ja-jp" class="menu-lang-link">
+                        日本                                              </a>
+                                  </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="ko-kr" data-country="kr" data-language="ko" data-language-fallback="ko" href="https://www.mavic.com/ko-kr" class="menu-lang-link">
+                        한국                                              </a>
+                                  </li>
+                        </ul>
+          </div>
+          <!-- /.header-menu-section -->
+        </div>
+        <!-- /.mvcol -->
+                <div class="mvcol-xs-12 mvcol-sm-6 mvcol-lg-3">
+          <div class="header-menu-section">
+            <div class="header-menu-section__title">America                </div>
+            <ul class="header-menu-section__list">
+                              <li class="header-menu-section__list__item">
+                                      Canada                                            <a data-prefix="en-ca" data-country="ca" data-language="en" data-language-fallback="" href="https://www.mavic.com/en-ca" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> English                                                    </a>
+                                            <a data-prefix="fr-ca" data-country="ca" data-language="fr" data-language-fallback="" href="https://www.mavic.com/fr-ca" class="tiny-cta tiny-cta--grey-secondary menu-lang-link"> Français                                                    </a>
+                                                      </li>
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="en-us" data-country="us" data-language="en" data-language-fallback="" href="https://www.mavic.com/en-us" class="menu-lang-link">
+                        USA                                                <span class="icon-cart"></span>
+                                              </a>
+                                  </li>
+                        </ul>
+          </div>
+          <!-- /.header-menu-section -->
+        </div>
+        <!-- /.mvcol -->
+                <div class="mvcol-xs-12 mvcol-sm-6 mvcol-lg-3">
+          <div class="header-menu-section">
+            <div class="header-menu-section__title">Other Countries                </div>
+            <ul class="header-menu-section__list">
+                              <li class="header-menu-section__list__item">
+                                                              <a data-prefix="en-int" data-country="int" data-language="en" data-language-fallback="en" href="https://www.mavic.com/en-int" class="menu-lang-link">
+                        International                                              </a>
+                                  </li>
+                        </ul>
+          </div>
+          <!-- /.header-menu-section -->
+        </div>
+        <!-- /.mvcol -->
+              </div>
+      <!-- /.mvrow -->
+    </div>
+    <!-- /.mvcontainer -->
+  </div>
+  <!-- /#languages-menu -->
+
+  <!-- .header-top -->
+  <nav class="header-top">
+    <div class="mvcontainer">
+      <div class="mvrow">
+        <div class="mvcol-xs-12 mvcol-md-3 mv-hidden-xs mv-hidden-sm">
+          <a class="header-top__lang" data-switch="" href="#languages-menu">International / English</a>
+        </div>
+        <div class="mvcol-xs-12 mvcol-md-9 clearfix">
+                      <div class="header-top__item active header-top__item--disabled"><a class="header-top__link header-top__link--mlast" href=""><i class="icon-cart header-top__icon"></i><span class="mv-hidden-xs mv-hidden-sm">My Cart<span class="js-mycart"></span></span></a></div>
+            <div class="header-top__item header-top__item--disabled"><a class="header-top__link" href=""><i class="icon-account header-top__icon"></i><span class="mv-hidden-xs mv-hidden-sm">My account</span></a></div>
+            <div class="header-top__item"><a class="header-top__link header-top__link--mfirst" href="https://www.mavic.com/en-int/dealer-finder"><i class="icon-location header-top__icon"></i><span class="mv-hidden-xs mv-hidden-sm">Find a dealer</span></a></div>
+            <div class="mv-hidden-xs mv-hidden-sm header-top__item">
+                              <a class="header-top__link" href="https://www.mavic.com/en-int/contact">
+                                  <i class="icon-call header-top__icon"></i>
+                    <span class="mv-hidden-xs mv-hidden-sm">Contact us</span>
+                              </a>
+                          </div>
+                  </div>
+      </div>
+    </div>
+  </nav>
+  <!-- /.header-top -->
+
+  <!-- .header-menu -->
+  <nav class="ecom-header-menu">
+    <div class="mvcontainer">
+      <div class="mvrow ecom-header-menu__mainlist-wrapper">
+        <div class="ecom-header-menu__logo-container">
+                  <span class="ecom-header-menu__logo">
+                    <a href="https://www.mavic.com/en-int">
+              <img src="https://www.mavic.com/sites/all/themes/custom/mavic_ecom/medias/images/logo.svg" height="66" alt="Mavic">
+            </a>
+                  </span>
+                            <div class="ecom-header-menu__mobilemenu mv-visible-xs mv-visible-sm"><i class="icon-hamburger"></i></div>
+          <a href="#main-search" class="ecom-header-menu__mobilesearch mv-visible-xs mv-visible-sm collapsed" data-toggle="collapse" aria-expanded="false" aria-controls="main-search"><i class="icon-search"></i></a>
+                  </div>
+                <div class="mvcol-xs-12 mvcol-md-10 mvcol-lg-9 ecom-header-menu__main-menu">
+          <div class="header-list-container invisible" id="header-mainlist">
+
+            <ul class="ecom-header-menu__list header-menu-list" role="tablist">
+              <li role="presentation" class="header-menu-list__item">
+                <a id="tab1" href="#header-sublist-products" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sublist-products">Products</a>
+              </li>
+              <li role="presentation" class="header-menu-list__item">
+                <a id="tab2" href="#header-sublist-support" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sublist-support">Services</a>
+              </li>
+              <li role="presentation" class="header-menu-list__item">
+                <a id="tab4" href="#header-sublist-news" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sublist-news">News</a>
+              </li>
+              <li role="presentation" class="header-menu-list__item">
+                <a id="tab5" href="#header-sublist-inside" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sublist-inside">Inside Mavic</a>
+              </li>
+            </ul>
+
+            <div class="mv-visible-xs mv-visible-sm header-list-container__mobile-footer">
+                            <div class="header-list-container__mobile-footer-language">
+                <a data-switch="" href="#languages-menu">International / English (change)</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="main-search" class="mvcol-xs-12 mvcol-md-2 mvcol-lg-3 ecom-header-menu__search collapse">
+          <form class="gss search search--mainmenu" action="https://shop.mavic.com/en-int/catalogsearch/result/">
+            <input type="search" class="search__input ui-autocomplete-input" placeholder="Search..." name="q"><input id="submitSearch" type="submit" class="search__submit" value="Search">
+          </form>
+                  </div>
+              </div>
+
+      <!-- Sub menu products -->
+      <div class="ecom-header-menu__sublist-wrapper ecom-header-menu__sublist-wrapper--first hidden js-wrapper" id="header-sublist-products" role="tabpanel" aria-labelledby="tab1">
+          <div class="mvrow height100">
+
+            
+                    <div class="mvcol-xs-12 mvcol-md-3 mvcol-md-offset-2 height100">
+        <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-first with-submenu" role="tablist">
+            <li class="header-menu-list__item visible-xs visible-sm">
+                <a href="#header-mainlist" class="header-menu-list__back">Products</a>
+            </li>
+                                                            <li role="presentation" class="header-menu-list__item">
+                    <a id="tab5207" href="#header-sub-sublist-5207" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sub-sublist-5207">
+                        Road and Triathlon                    </a>
+                </li>
+                                                                            <li role="presentation" class="header-menu-list__item">
+                    <a id="tab5356" href="#header-sub-sublist-5356" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sub-sublist-5356">
+                        Allroad / Gravel                    </a>
+                </li>
+                                                                            <li role="presentation" class="header-menu-list__item">
+                    <a id="tab5266" href="#header-sub-sublist-5266" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sub-sublist-5266">
+                        MTB                    </a>
+                </li>
+                                                                            <li role="presentation" class="header-menu-list__item">
+                    <a id="tab5317" href="#header-sub-sublist-5317" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sub-sublist-5317">
+                        Track                    </a>
+                </li>
+                                                                            <li role="presentation" class="header-menu-list__item">
+                    <a id="tab5320" href="#header-sub-sublist-5320" class="header-menu-list__link" role="tab" aria-selected="false" aria-controls="header-sub-sublist-5320">
+                        Casual wear and goodies                    </a>
+                </li>
+                                    </ul>
+    </div>
+        <!-- Sub sub menu Road and Triathlon -->
+    <div class="mvcol-md-7 ecom-header-menu__sublist-wrapper hidden js-wrapper" id="header-sub-sublist-5207" role="tabpanel" aria-labelledby="tab5207">
+        <div class="mvrow height100">
+            <div class="mvcol-md-8 mvcol-lg-7 height100">
+                <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-secondary">
+                    <li class="header-menu-list__item visible-xs visible-sm">
+                        <a href="#header-sublist-products" class="header-menu-list__back">
+                            Road and Triathlon                        </a>
+                    </li>
+                                                                                                <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/wheels.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Wheels                                </a>
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/wheels/accessories.html" class="header-menu-list__sublink tiny-cta pull-right">Accessories</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/rims.html" class="header-menu-list__link">
+                                    Rims                                </a>
+                                                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/tyres.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Tyres                                </a>
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/tyres/accessories.html" class="header-menu-list__sublink tiny-cta pull-right">Accessories</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/helmets.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Helmets                                </a>
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/helmets/women.html" class="header-menu-list__sublink tiny-cta pull-right">Women</a>
+<a href="https://shop.mavic.com/en-int/road-and-triathlon/helmets/men.html" class="header-menu-list__sublink tiny-cta pull-right">Men</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/footwear.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Footwear                                </a>
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/footwear/women.html" class="header-menu-list__sublink tiny-cta pull-right">Women</a>
+<a href="https://shop.mavic.com/en-int/road-and-triathlon/footwear/men.html" class="header-menu-list__sublink tiny-cta pull-right">Men</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/apparel.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Apparel                                </a>
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/apparel/women.html" class="header-menu-list__sublink tiny-cta pull-right">Women</a>
+<a href="https://shop.mavic.com/en-int/road-and-triathlon/apparel/men.html" class="header-menu-list__sublink tiny-cta pull-right">Men</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/road-and-triathlon/accessories.html" class="header-menu-list__link">
+                                    Accessories                                </a>
+                                                            </li>
+                                                            </ul>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Sub sub menu Allroad / Gravel -->
+    <div class="mvcol-md-7 ecom-header-menu__sublist-wrapper hidden js-wrapper" id="header-sub-sublist-5356" role="tabpanel" aria-labelledby="tab5356">
+        <div class="mvrow height100">
+            <div class="mvcol-md-8 mvcol-lg-7 height100">
+                <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-secondary">
+                    <li class="header-menu-list__item visible-xs visible-sm">
+                        <a href="#header-sublist-products" class="header-menu-list__back">
+                            Allroad / Gravel                        </a>
+                    </li>
+                                                                                                <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/allroad-gravel/wheels.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Wheels                                </a>
+                                <a href="https://shop.mavic.com/en-int/allroad-gravel/wheels/accessories.html" class="header-menu-list__sublink tiny-cta pull-right">Accessories</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/allroad-gravel/rims.html" class="header-menu-list__link">
+                                    Rims                                </a>
+                                                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/allroad-gravel/tyres.html" class="header-menu-list__link">
+                                    Tyres                                </a>
+                                                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/allroad-gravel/apparel.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Apparel                                </a>
+                                <a href="https://shop.mavic.com/en-int/allroad-gravel/apparel/men.html" class="header-menu-list__sublink tiny-cta pull-right">Men</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/allroad-gravel/footwear.html" class="header-menu-list__link">
+                                    Footwear                                </a>
+                                                            </li>
+                                                            </ul>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Sub sub menu MTB -->
+    <div class="mvcol-md-7 ecom-header-menu__sublist-wrapper hidden js-wrapper" id="header-sub-sublist-5266" role="tabpanel" aria-labelledby="tab5266">
+        <div class="mvrow height100">
+            <div class="mvcol-md-8 mvcol-lg-7 height100">
+                <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-secondary">
+                    <li class="header-menu-list__item visible-xs visible-sm">
+                        <a href="#header-sublist-products" class="header-menu-list__back">
+                            MTB                        </a>
+                    </li>
+                                                                                                <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/mtb/wheels.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Wheels                                </a>
+                                <a href="https://shop.mavic.com/en-int/mtb/wheels/accessories.html" class="header-menu-list__sublink tiny-cta pull-right">Accessories</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/mtb/rims.html" class="header-menu-list__link">
+                                    Rims                                </a>
+                                                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/mtb/tyres.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Tyres                                </a>
+                                <a href="https://shop.mavic.com/en-int/mtb/tyres/accessories.html" class="header-menu-list__sublink tiny-cta pull-right">Accessories</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/mtb/helmets.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Helmets                                </a>
+                                <a href="https://shop.mavic.com/en-int/mtb/helmets/women.html" class="header-menu-list__sublink tiny-cta pull-right">Women</a>
+<a href="https://shop.mavic.com/en-int/mtb/helmets/men.html" class="header-menu-list__sublink tiny-cta pull-right">Men</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/mtb/footwear.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Footwear                                </a>
+                                <a href="https://shop.mavic.com/en-int/mtb/footwear/women.html" class="header-menu-list__sublink tiny-cta pull-right">Women</a>
+<a href="https://shop.mavic.com/en-int/mtb/footwear/men.html" class="header-menu-list__sublink tiny-cta pull-right">Men</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item clearfix">
+                                <a href="https://shop.mavic.com/en-int/mtb/apparel.html" class="header-menu-list__link header-menu-list__link--inline pull-left">
+                                    Apparel                                </a>
+                                <a href="https://shop.mavic.com/en-int/mtb/apparel/women.html" class="header-menu-list__sublink tiny-cta pull-right">Women</a>
+<a href="https://shop.mavic.com/en-int/mtb/apparel/men.html" class="header-menu-list__sublink tiny-cta pull-right">Men</a>                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/mtb/accessories.html" class="header-menu-list__link">
+                                    Accessories                                </a>
+                                                            </li>
+                                                            </ul>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Sub sub menu Track -->
+    <div class="mvcol-md-7 ecom-header-menu__sublist-wrapper hidden js-wrapper" id="header-sub-sublist-5317" role="tabpanel" aria-labelledby="tab5317">
+        <div class="mvrow height100">
+            <div class="mvcol-md-8 mvcol-lg-7 height100">
+                <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-secondary">
+                    <li class="header-menu-list__item visible-xs visible-sm">
+                        <a href="#header-sublist-products" class="header-menu-list__back">
+                            Track                        </a>
+                    </li>
+                                                                                                <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/track/wheels.html" class="header-menu-list__link">
+                                    Wheels                                </a>
+                                                            </li>
+                                                            </ul>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Sub sub menu Casual wear and goodies -->
+    <div class="mvcol-md-7 ecom-header-menu__sublist-wrapper hidden js-wrapper" id="header-sub-sublist-5320" role="tabpanel" aria-labelledby="tab5320">
+        <div class="mvrow height100">
+            <div class="mvcol-md-8 mvcol-lg-7 height100">
+                <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-secondary">
+                    <li class="header-menu-list__item visible-xs visible-sm">
+                        <a href="#header-sublist-products" class="header-menu-list__back">
+                            Casual wear and goodies                        </a>
+                    </li>
+                                                                                                                                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/casual-wear-and-goodies/hoodies.html" class="header-menu-list__link">
+                                    Hoodies                                </a>
+                                                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/casual-wear-and-goodies/tees.html" class="header-menu-list__link">
+                                    Tees                                </a>
+                                                            </li>
+                                                                                                                        <li class="header-menu-list__item">
+                                <a href="https://shop.mavic.com/en-int/casual-wear-and-goodies/goodies.html" class="header-menu-list__link">
+                                    Goodies                                </a>
+                                                            </li>
+                                                            </ul>
+            </div>
+            
+        </div>
+    </div>
+
+          </div>
+      </div>
+      <!-- endof: Sub menu products -->
+
+      <!-- Sub menu support -->
+      <div id="header-sublist-support" class="ecom-header-menu__sublist-wrapper ecom-header-menu__sublist-wrapper--first hidden js-wrapper" role="tabpanel" aria-labelledby="tab2">
+          <div class="mvrow height100">
+
+            <div class="mvcol-xs-12 mvcol-md-10 mvcol-md-offset-2 height100">
+              <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-first">
+                <li class="header-menu-list__item mv-visible-xs mv-visible-sm">
+                  <a href="#header-mainlist" class="header-menu-list__back">Services</a>
+                </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/care" class="header-menu-list__link">Mavic Care</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/riding-is-believing" class="header-menu-list__link">Riding is believing</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/my-mavic" class="header-menu-list__link">MyMavic</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/size-charts" class="header-menu-list__link">Size Charts</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/utilization-guide" class="header-menu-list__link">User guides</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/contact" class="header-menu-list__link">Contact us</a>
+                  </li>
+                              </ul>
+            </div>
+
+          </div>
+      </div>
+      <!-- endof: Sub menu support -->
+
+      <!-- Sub menu Technology
+      <div id="header-sublist-techno" class="ecom-header-menu__sublist-wrapper ecom-header-menu__sublist-wrapper--first hidden js-wrapper" role="tabpanel" aria-labelledby="tab3">
+          <div class="mvrow height100">
+                      </div>
+      </div>
+           endof: Sub menu Technology -->
+
+      <!-- Sub menu News -->
+      <div id="header-sublist-news" class="ecom-header-menu__sublist-wrapper ecom-header-menu__sublist-wrapper--first hidden js-wrapper" role="tabpanel" aria-labelledby="tab4">
+          <div class="mvrow height100">
+
+            <div class="mvcol-xs-12 mvcol-md-10 mvcol-md-offset-2 height100">
+              <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-first">
+                <li class="header-menu-list__item mv-visible-xs mv-visible-sm">
+                  <a href="#header-mainlist" class="header-menu-list__back">Services</a>
+                </li>
+                                  <li class="header-menu-list__item">
+                    <a href="http://engineerstalk.mavic.com/en/" class="header-menu-list__link">Our new technologies</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://mavic.exposure.co/" class="header-menu-list__link">Stories</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/mavic-live" class="header-menu-list__link">Live</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/events" class="header-menu-list__link">Events</a>
+                  </li>
+                              </ul>
+            </div>
+
+          </div>
+      </div>
+      <!-- endof: Sub menu News -->
+
+      <!-- Sub menu Inside Mavic -->
+      <div id="header-sublist-inside" class="ecom-header-menu__sublist-wrapper ecom-header-menu__sublist-wrapper--first hidden js-wrapper" role="tabpanel" aria-labelledby="tab5">
+          <div class="mvrow height100">
+
+            <div class="mvcol-xs-12 mvcol-md-10 mvcol-md-offset-2 height100">
+              <ul class="ecom-header-menu__list header-menu-list header-menu-list--sublist header-menu-list--sublist-first">
+                <li class="header-menu-list__item mv-visible-xs mv-visible-sm">
+                  <a href="#header-mainlist" class="header-menu-list__back">Inside Mavic</a>
+                </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/history" class="header-menu-list__link">History</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/who-we-are" class="header-menu-list__link">Who we are</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/sustainability" class="header-menu-list__link">Sustainability</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/repairability" class="header-menu-list__link">Repairability</a>
+                  </li>
+                                  <li class="header-menu-list__item">
+                    <a href="https://www.mavic.com/en-int/teams-riders" class="header-menu-list__link">Teams and riders</a>
+                  </li>
+                              </ul>
+            </div>
+
+          </div>
+      </div>
+      <!-- endof: Sub menu Inside Mavic -->
+
+    </div>
+    <!-- /.mvcontainer -->
+  </nav>
+  <!-- /.header-menu -->
+</header>
+
+      <div id="mobile-btn-container">
+        <a class="mobile-btn findashop" href="https://www.mavic.com/en-int/shop-finder"></a><!-- /.findashop -->
+        <a class="mobile-btn search" href="#"></a>
+    </div>
+    <div class="header-menu__right"></div>
+    <!-- /.container -->
+    <div class="breadcrumb container hidden-xs">
+        <div class="container">
+            <div id="breadcrumb-inner">
+              <nav class="breadcrumb"><ul class="breadcrumb__wrapper clearfix" itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li class="breadcrumb__item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/en-int" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1"></li><li class="breadcrumb__item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en-int/privacy-policy" class="active"><span itemprop="name">Privacy Policy</span></a><meta itemprop="position" content="2"></li></ul></nav>
+              
+            </div>
+        </div>
+    </div>
+
+<section id="content" class="container">
+        <h1 class="page-title" id="page-title">
+        Privacy Policy      </h1>
+  
+  <div>
+  <div>
+    <div class="block block-system">
+  <div class="block-inner clearfix">
+                
+    <div>
+      <article>
+            <div>
+        <div class="row">
+              <!-- 1 column tpl -->
+        <div class="col-sm-120">
+          <div class="simple-text">
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"> <p><strong>PRIVACY POLICY&nbsp;&nbsp;&nbsp;September 15, 2016 (update May 1, 2018)</strong></p>
+<p>Amer Sports is committed to protecting your privacy and complying with applicable data protection and privacy laws. This Privacy Policy (“Policy”) is designed to help you to understand what kind of information we collect in connection with our products and services and how we process and use such information. Throughout this Policy the term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person).&nbsp;</p>
+<p>“Amer Sports” refers to Amer Sports Corporation, including all its group companies, affiliates and subsidiaries from time to time (also referred to as “we”, “us”, or “our”). Brands of Amer Sports are listed in&nbsp;<a href="http://www.amersports.com/brands">www.amersports.com/brands</a>. You acknowledge and agree that your personal data collected may be used in accordance with this Policy by and for one or more Amer Sports group companies, which will be regarded, individually or jointly, as data controllers in respect of such data.&nbsp;</p>
+<p>This Policy applies to personal data collected in connection with products and services offered by Amer Sports or from other interactions with us where a link or other appropriate reference of incorporation to this Policy is made, for example, in connection with our products, websites, applications and other types of services offered by Amer Sports typically in electronic form, as well as other services such as customer care and warranty services, customer events, or promotions and campaigns.</p>
+<p>We&nbsp;&nbsp;typically provide additional privacy related terms in connection with a particular Amer Sports product or service. Such product or service specific terms prevail over this Policy to the extent of any conflict. Our products or services may also contain links to other companies’ websites and other third party services that have privacy policies of their own. We recommend that you carefully read the privacy policies of such services. Amer Sports is not responsible for the privacy practices or contents of any such third party services.</p>
+<p>Where a consent from you to the processing of personal data described in this Policy is required under the applicable law, such consent will be obtained by appropriate mechanism such as ticking a box stating your consent, choosing technical settings for a service or website, or other statement or conduct clearly indicating your acceptance to the processing, depending on the product, website, service or application you are using.</p>
+<p>&nbsp;</p>
+<p><strong>DATA COLLECTED</strong></p>
+<p>We collect your personal data typically when you purchase our products or services, use or register into our services, enter into a sales promotion or a campaign, or otherwise interact with us. Below are examples of the categories of the data we collect on you.&nbsp;</p>
+<p>Technical Information.For the most part, you may visit our websites or use our products or services without having to identify yourself. However, certain technical information is normally collected as a standard part of your use of our services. Such information includes, for example, your IP-address, access times, the website you linked from, pages you visit, the links you use, the ad banners and other content you viewed, information about your devices and other such technical information your browser provides us with or as may be otherwise collected in connection with certain products and services. When you use our services or otherwise interact with us over telecommunications networks, certain additional information, such as your mobile subscription number, may be transmitted to us by the telecommunications operator as a standard part of that communication.&nbsp;&nbsp;Please also see the section “Use of Cookies and Web Beacons” below.</p>
+<p>Information you provide us.When you register to our services, make a purchase, enter a sales promotion or otherwise interact with us, we may ask you to provide us with certain information such as your name, email address, street address, as well as user names, passwords and other such credentials that are used to authenticate users and to validate their actions or that may be needed to provide you with the products and services you have requested or to communicate with you, as well as information uploaded by you such as location, route information, pictures etc. We may collect training data, demographic information, for example, your age, gender, postal code and language preferences.</p>
+<p>We may also collect other information you provide, such as your consents, preferences and feedback, information relating to your devices and other such information you provide us with. Please note that certain non-identifiable information collected from you may become personally identifiable when you provide us with your personal data. Some of our services may allow you to submit information about other people, for example, if you make an order for a product that you wish us to send directly to another recipient.</p>
+<p>Special categories of personal data.&nbsp;We may collect your biometrical and health related data such as blood pressure, heart rate, fingerprints or similar depending on the service or product you have purchased. Users are requested to grant consent for such data collection explicitly per each service or product in question. For certain services or applications, this may be done by adjusting the settings of the application or service. Denial of the consent may affect the provision of the relevant service.</p>
+<p>Your transactions with us.We collect or request information relating to your purchase or use of our products or services as well as your other interactions with us. Such information may include, for example, details of the queries or requests you have made, the products and services provided (including delivery details), purchasing details (including payments made, credit card details, billing address, credit checks and other such financial information), details of agreements between you and Amer Sports, records of contacts and communications, information and details relating to the content you have provided us with and other such transactional information. We may, in accordance with applicable law, record your communication with our customer care or with other similar contact points.</p>
+<p>Location data.Certain services may involve the use of your location data. Use of your location data is, however, subject to your prior consent for each service.</p>
+<p>Data obtained from third parties.In addition to the personal data we obtain from you, we may obtain, in accordance with applicable laws, certain personal data from list rental companies and other publicly available sources. This may include personal data such as credit information and address information updates.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>THE PURPOSES OF PROCESSING</strong></p>
+<p>Amer Sports processes your personal data for the purposes described in this Policy and/or any additional service specific privacy information. Please note that one or more purposes may apply simultaneously.&nbsp;</p>
+<p>Provision of products and services. We may process and use your personal data to provide you the product or service you have requested, fulfill your other requests such as customer service, process your order or as otherwise may be necessary to perform or enforce the contract between you and Amer Sports. We may also process and use your personal data to ensure the functionality and security of our products and services, to identify you, and to prevent and detect fraud and other misuses.</p>
+<p>Development of products and services. We may process and use your personal data to develop our products and/or services. However, for the most part we only use aggregate and statistical information in the development of our products and services, and not data directly identifiable to you. We may also process and use your personal data to personalize our offerings and to provide you with service more relevant to you, for example, to make recommendations and to display customized content and advertising. We may combine personal data collected in connection with your use of a particular Amer Sports product and/or service with other personal data we may hold about you, except where such personal data was collected for a different purpose.&nbsp;</p>
+<p>Communicating with you and marketing. We may process and use your personal data to communicate with you, for example, to provide information relating to our products and/or services you are using or to contact you for customer satisfaction queries. We may process and use your personal data for marketing. Marketing purposes may include using your personal data for personalized marketing or research purposes in accordance with applicable laws, for example, to conduct market research and to communicate our&nbsp;&nbsp;products, services or promotions to you via our own or third parties’ electronic or other services.&nbsp;</p>
+<p>In addition, some of our products and services may be used to promote products and services of other companies. However, Amer Sports does not disclose your personal data to such companies for their marketing purposes without your prior consent.&nbsp;</p>
+<p>Profiling/personalization.We may process and use your personal data for profiling/personalization for such purposes as targeted direct marketing and improvement of our products or services. We may also create aggregate and statistical information based on your personal data. Profiling/personalization includes automated processing of your personal data for evaluating, analyzing or predicting your personal preferences or interests in order to, for example, send you marketing messages concerning products or services best suitable for you.</p>
+<p>&nbsp;</p>
+<p><strong>TRANSFERS OF YOUR PERSONAL DATA</strong></p>
+<p>We may disclose your personal data to third parties solely as stated below in this Policy, or as obligated by mandatory law.</p>
+<p>Amer Sports group companies.You acknowledge and agree that we may share your personal data within Amer Sports group companies, and may transfer your personal data for the use of other Amer Sports group companies for the purposes set forth in this Policy, when a group company/group companies are involved in the provision of the services to you or to other group companies. This may include, for example billing and delivery of your purchases, provision of services such as customer service, development and maintenance of digital solutions and managing, analyzing and profiling/personalization of customer data as set forth above.&nbsp;&nbsp;Other group companies/brands of Amer Sports, than the one you have separately subscribed to as a consumer, will not send you e-mail or text message based marketing.&nbsp;</p>
+<p>Opting-out from e-mail/SMS based marketing.You may opt-out from brand marketing e-mails by following the guidance in those e-mails (typically provided via “unsubscribe” link) or by contacting the respective brand/group company as set forth in the e-mail and in their web site. If you opt-out, we may still send you non-marketing e-mails, such as service notifications or other information or if you are a business customer, we may send business relation information. You may also opt-out from any SMS based direct marketing by contacting the respective group company/brand as set forth in their site or via SMS as may be applicable.</p>
+<p>Service providers and other authorized third parties. We may transfer your personal data to authorized third parties who process personal data on behalf of Amer Sports for the purposes described in this Policy, such as e.g., technical, logistics, e-commerce, marketing and other service providers.&nbsp;&nbsp;Such parties are not permitted to use your personal data for any other purposes than for what your personal data was collected, and we require them to act consistently with applicable laws and this Policy as well as to use appropriate security measures to protect your personal data.&nbsp;</p>
+<p>We may also transfer your personal data, including heart rate data, biometrical data or other health related data, to a service partner, if you use such services where a third party company needs to process such data for the provision of the respective service or where you separately agree that a third party company may process your data in connection with the services or products of Amer Sports.</p>
+<p>International transfers.Our products and services may be provided using resources and servers located in various countries around the world. Therefore your personal data may be transferred outside the country where you use our services, including to countries outside the European Economic Area (EEA), where the level of data protection may not be deemed adequate by the European Commission. In such cases we take steps to ensure that adequate protection for your personal data is provided as required by applicable laws. For international transfers of your personal data, we generally rely on agreements that are based on the Standard Contractual Clauses (“SCCs”) of the European Commission. You may find the SCCs&nbsp;<a href="http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm">here</a>. If you wish to know more about international transfers of your personal data, you may contact us via the contact details given below.</p>
+<p>Other disclosures.We may disclose and otherwise process your personal data in accordance with applicable laws to defend Amer Sports’ legitimate interests, for example, in civil or criminal legal proceedings.&nbsp;</p>
+<p>Mergers and Acquisitions.If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers, for the purposes of such transactions.</p>
+<p>&nbsp;</p>
+<p><strong>DATA CONCERNING MINORS</strong></p>
+<p>Amer Sports does not seek to collect any information from or engage in any transactions with persons under the legal age in their respective country.&nbsp;&nbsp;Our databases may nevertheless contain personal data of children due to the fact that it is not always possible to determine precisely the age of the user. We reserve the right to block the service from any person who is or whom we reasonably suspect of being a minor.&nbsp;</p>
+<p>Amer Sports’ policy is to request that minors do not make purchases or engage in other legal acts on our products and services without the consent of a parent or legal guardian, unless otherwise permitted by applicable law. If you are a minor but have your legal guardian’s consent, you must be able to prove that such consent exists upon request.</p>
+<p>&nbsp;</p>
+<p><strong>DATA QUALITY AND RETENTION</strong></p>
+<p>We take reasonable steps to keep the personal data we possess accurate and up-to-date and to delete out of date or otherwise incorrect or unnecessary personal data.</p>
+<p>Certain Amer Sports products and services may allow you to manage your profile and the information in such profile. We encourage you to access your personal data via your profile from time to time to ensure that it is correct and up-to-date. Please remember that for such electronic services where you may manage your profile, it is your responsibility to provide us with correct details as well as to update the personal data you have provided us with in case of any changes.</p>
+<p>We store your personal data only for a period necessary for the purpose in question or as long as required by applicable laws.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>DATA SECURITY</strong></p>
+<p>Amer Sports implements appropriate technical and organizational security measures to prevent and minimize risks associated with providing and processing personal data.&nbsp;</p>
+<p>Such security measures include, where appropriate, the use of firewalls, secure server facilities, encryption, implementing proper access rights management systems and processes, careful selection of processors, sufficient training of Amer Sports’ personnel involved in the processing, and other necessary measures to provide appropriate protection for your personal data against unauthorized use or disclosure. Where appropriate, we may also take back-up copies and use other such means to prevent accidental damage or destruction of your personal data. If a particular part of an Amer Sports website supports on-line transactions, we will use an industry standard security measure, such as the one available through “Secure Sockets Layer” (“SSL”), to protect the confidentiality and security of online transactions.</p>
+<p>&nbsp;</p>
+<p><strong>USE OF COOKIES AND WEB BEACONS</strong></p>
+<p>From time to time when you visit an Amer Sports website, information may be placed on your computer to allow us to recognize your computer in the form of a text file known as a “cookie”. Our use of cookies is intended to provide benefits to you, such as eliminating the need for you to enter your password frequently during a session or the need to re-enter items you place in a shopping cart if you do not finish a transaction in a single visit. Cookies are also used for website traffic analysis and profiling.&nbsp;</p>
+<p>Some of the Amer Sports websites may also use other kinds of local storage technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. You may prevent Flash cookies from being stored by following the instructions provided by Adobe at&nbsp;<a href="http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html">http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html</a>.</p>
+<p>Amer Sports may use so called web beacons (or “pixel tags”) in connection with some websites. However, we do not use them to identify individual users personally. Web beacons are typically graphic images that are placed on a website and they are used to count visitors to a website and/or to access certain cookies. This information is used to improve our services. Web beacons do not typically collect any other information than what your browser provides us with as a standard part of any internet communication. If you turn off cookies, the web beacon will no longer be able to track your specific activity. The web beacon may, however, continue to collect information of visits from your IP-address, but such information will no longer be personally identifiable.</p>
+<p>If you wish to disable cookies, or want to be notified before they are placed, you may do this in your browser settings. For example, if you are using Internet Explorer, you may disable and manage cookies by following the instructions&nbsp;<a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies">here</a>. Further information about controlling of cookies can be found from:&nbsp;&nbsp;<a href="https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options">https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options</a>.</p>
+<p>However, we may not be able to provide certain services or you may not be able to view certain parts of this site if you have disabled cookies.&nbsp;</p>
+<p>Some of our business partners whose content is linked to or from our website may also use cookies or web beacons. However, we have no access to or control over these cookies.</p>
+<p>You acknowledge and agree to the storage of cookies, other local storage technologies, beacons and other information on your devices and to the access of such cookies, local storage technologies, beacons and information by us and by the third parties mentioned above.</p>
+<p>&nbsp;</p>
+<p><strong>YOUR RIGHTS</strong></p>
+<p>You have the right to request information and access to the personal data we have collected from and of you. You also have the right to request that we replenish, rectify, anonymize or delete any incomplete, incorrect, unnecessary or outdated personal data we hold on you. However, we cannot delete such personal data that is necessary for compliance with binding legal obligations or if the personal data must be retained according to applicable laws. You have the right to request and receive the personal data we have collected on you in a commonly used and machine-readable form. In case you consider your personal data collected by us to be inaccurate, you do not wish your personal data to be deleted where the processing of your personal data has been deemed unlawful or the personal data is no longer necessary, or you have objected to the processing and the existence of legitimate grounds for processing is still under consideration, you may request restriction of processing of your personal data.&nbsp;</p>
+<p>You may also at any time object to your personal data being processed for direct marketing purposes, sending promotional materials, profiling, or for the performance of market research. Further, where your personal data is processed based on your consent, you have the right to withdraw your consent for such processing at any time.</p>
+<p>In case you wish to make use of your rights mentioned above, you may, as appropriate and in accordance with applicable laws, exercise such rights by contacting us through the contact points referred in the marketing materials or below in this Policy. In some cases, especially if you wish us to delete or cease the processing of your personal data, this may also mean that we may not be able to continue to provide the services to you. We encourage you to use available profile management tools for the above purposes as such tools often provide you with direct access to your personal data and allow you to effectively manage it.</p>
+<p>Please note that Amer Sports may need to identify you and to ask for additional information in order to be able to fulfill your above requests. Please also note that applicable law may contain restrictions and other provisions that relate to your above rights</p>
+<p>&nbsp;</p>
+<p><strong>COMPLAINT TO THE SUPERVISORY AUTHORITY&nbsp;</strong></p>
+<p>In the event you consider Amer Sports’ processing activities of your personal data to be inconsistent with the applicable data protection laws or that Amer Sports has not sufficiently ensured the realization of your rights, you may lodge a complaint with the local supervisory authority responsible for data protection matters.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>THE CONTROLLER OF YOUR PERSONAL DATA AND CONTACT DETAILS</strong></p>
+<p>The data controllers responsible for the purposes of the applicable data protection laws are, as applicable:</p>
+<p>1) Amer Sports Corporation</p>
+<p>Konepajankuja 6</p>
+<p>00511 Helsinki</p>
+<p>Finland</p>
+<p>and/or</p>
+<p>2) The Amer Sports group company, whose webpage, application, product or service you are using (name and registered address available during the purchase or registration process)</p>
+<p>and/or, as applicable,</p>
+<p>3) The Amer Sports group company which uses your personal data for its direct marketing or similar purposes (name and registered address available in the marketing material received by you).</p>
+<p>You may contact the above mentioned data controllers as set forth in their respective sites or at the following address:</p>
+<p>Amer Sports Corporation</p>
+<p>c/o Legal</p>
+<p>Konepajankuja 6</p>
+<p>00510 Helsinki</p>
+<p>Finland</p>
+<p>&nbsp;</p>
+<p><strong>CHANGES TO THIS PRIVACY POLICY</strong></p>
+<p>Amer Sports may from time to time update and change this Privacy Policy. If the changes include new purposes of processing, Amer Sports will give you prior notice of such changes and, where necessary, request your consent.&nbsp;</p>
+ </div>
+      </div>
+</div>
+          </div>
+        </div>
+        <!-- EOF 1 column tpl -->
+          </div>
+    
+  </div>
+
+</article>    </div>
+  </div>
+</div>  </div>
+</div>
+  </section><!-- /#content -->
+
+<!-- Footer -->
+<footer class="main-footer">
+  
+<!-- Footer -->
+<footer class="main-footer">
+      <nav class="footer-menu">
+    <div class="mvcontainer">
+      <div class="mvrow">
+
+                  <div class="mvcol-xs-12 mvcol-sm-3 mvcol-md-3">
+            <div class="footer-list-item__head">Mavic Services</div>
+            <ul class="footer-menu__list">
+                                              <li class="footer-list-item">
+                  <a href="https://www.mavic.com/en-int/my-mavic" class="footer-list-item__link">MyMavic</a>
+                </li>
+                                <li class="footer-list-item">
+                  <a href="https://www.mavic.com/en-int/careers/home" class="footer-list-item__link">Careers</a>
+                </li>
+                                <li class="footer-list-item">
+                  <a href="https://www.mavic.com/en-int/contact-redirect" class="footer-list-item__link">Contact us</a>
+                </li>
+                                          </ul>
+          </div>
+                  <div class="mvcol-xs-12 mvcol-sm-3 mvcol-md-3">
+            <div class="footer-list-item__head">Mavic Pro</div>
+            <ul class="footer-menu__list">
+                                              <li class="footer-list-item">
+                  <a href="https://www.mavic.com/en-int/dealer-portal" class="footer-list-item__link">Dealer portal</a>
+                </li>
+                                <li class="footer-list-item">
+                  <a href="https://www.mavic.com/en-int/distributors" class="footer-list-item__link">Find a distributor</a>
+                </li>
+                                          </ul>
+          </div>
+        
+
+        <div class="mvcol-xs-12 mvcol-sm-6">
+          <div class="mvrow">
+            <div class="mvcol-xs-12 mvcol-md-6">
+              <div class="footer-list-item__head">Join the community</div>
+              <ul class="footer-menu__list">
+                <li class="footer-list-item clearfix">
+                  <a href="https://www.facebook.com/mavic" class="footer-list-item__icon"><i class="icon-social-fb"></i></a>
+                  <a href="https://twitter.com/mavic" class="footer-list-item__icon"><i class="icon-social-twitter"></i></a>
+                  <a href="https://www.instagram.com/maviccycling/" class="footer-list-item__icon"><i class="icon-social-instagram"></i></a>
+                  <a href="https://vimeo.com/channels/mavic" class="footer-list-item__icon"><i class="icon-social-vimeo"></i></a>
+                  <a href="https://www.youtube.com/user/adminMavic" class="footer-list-item__icon"><i class="icon-social-youtube"></i></a>
+                  <a href="https://www.strava.com/clubs/166469" class="footer-list-item__icon"><i class="icon-strava"></i></a>
+                </li>
+              </ul>
+            </div>
+            <div class="mvcol-xs-12 mvcol-md-6">
+                              <div class="footer-list-item__head">Newsletter</div>
+                <ul class="footer-menu__list">
+                  <li class="footer-list-item">
+                    <div class="footer-list-item__txt">Get exclusive news about Mavic products, innovation &amp; events </div>
+                    <div class="footer-list-item__bt">
+                      <a class="cta cta--secondary cta--blockxs" href="https://www.mavic.com/en-int/newsletter-en" data-tracking="onclickGotoNewsletter">Subscribe</a>
+                    </div>
+                  </li>
+                </ul>
+                          </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </nav>
+    <nav class="footer-secondary mvcontainer">
+                <a href="https://www.mavic.com/en-int" class="footer-secondary__link">© 2018 Mavic</a>
+                      <a href="https://www.mavic.com/en-int/cookies" class="footer-secondary__link">Cookies</a>
+                      <a href="https://www.mavic.com/en-int/privacy-policy" class="footer-secondary__link">Privacy Policy</a>
+                      <a href="https://www.mavic.com/en-int/terms-and-conditions" class="footer-secondary__link">Terms and conditions</a>
+                      <a href="https://www.mavic.com/downloads/warranty/Warranty_User_Guide.pdf" class="footer-secondary__link">Warranty Policy</a>
+            </nav>
+</footer>
+<!-- endof: Footer -->
+</footer>
+<!-- endof: Footer -->
+
+<div id="scrollToTop">
+    <a href="#" title="Top">Top</a>
+</div><!-- /#scrollToTop -->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.5/plugins/ScrollToPlugin.min.js"></script>
+<script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<script src="https://www.mavic.com/sites/all/themes/custom/mavic_ecom/js/polyfill/browser-polyfill.min.js?pk3g55"></script>
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=true&amp;key=AIzaSyAB0-zVPPAoTeJtPqBDHPva2eJpDCnIeEY"></script>
+<script src="https://www.mavic.com/sites/all/themes/custom/mavic_ecom/js/src/locale.js?pk3g55"></script>
+<script src="https://www.mavic.com/sites/all/themes/custom/mavic_ecom/js/dist/vendors.min.js?pk3g55"></script>
+<script src="https://www.mavic.com/sites/all/themes/custom/mavic_ecom/js/dist/main.min.js?pk3g55"></script>
+<script src="https://www.mavic.com/sites/default/files/js/js_OTdL_00eEtQq3wzsUAHLDYwgtcHpzbgUFYeJRcQf8f8.js"></script>
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a60385c4b6","applicationID":"56771587","transactionName":"ZQMDMEQFVhVZUkNdWlxJNBZfS1EIXFRPGkVaFg==","queueTime":0,"applicationTime":216,"atts":"SUQARgwfRRs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
