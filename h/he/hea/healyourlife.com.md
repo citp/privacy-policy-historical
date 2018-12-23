@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healyourlife.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527092906id_/http%3A//www.healyourlife.com/content/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healyourlife.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223172234id_/http%3A//www.healyourlife.com/content/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy - Heal Your Life
 
