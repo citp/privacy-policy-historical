@@ -1,350 +1,306 @@
-<!--The following is the downloaded HTML source of the gtplanet.net privacy policy that was archived on 2016-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160202065256id_/http%3A//www.gtplanet.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gtplanet.net privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223205715id_/https%3A//www.gtplanet.net/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" dir="LTR"><head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-852.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=360623070677053"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4PU1ZADQUHVFdX"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-		
-	<link rel="stylesheet" type="text/css" href="/assets/12/12.css?v=26">
-	<link rel="stylesheet" type="text/css" href="/assets/12/blog.css?v=12">
-	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-	<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
-	<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
-	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	<meta name="msapplication-TileColor" content="#262626">
-	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-	<link rel="alternate" type="application/rss+xml" title="GTPlanet RSS News Feed" href="http://feeds2.feedburner.com/gtplanet">
-	<link href="https://plus.google.com/100725184981906372806" rel="publisher"> <!-- Google+ -->
-	<!--[if lt IE 9]>
-	  <link rel="stylesheet" type="text/css" href="/assets/12/ie.css">
-	<![endif]-->
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/assets/15/15.min.css?v=1529548823">
+<link rel="stylesheet" href="/assets/15/wp.css?v=1543287323">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link href="https://plus.google.com/100725184981906372806" rel="publisher"> 
+<meta property="fb:admins" content="75200365"> 
+<meta name="msapplication-TileColor" content="#262626">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<title>Privacy Policy – GTPlanet</title>
 
-	<title>Privacy Policy – GTPlanet</title>
-		
-			<link rel="canonical" href="https://www.gtplanet.net/privacy/">
-		
-		
-	<!-- meta data -->
-					<meta property="og:image" content="/apple-touch-icon.png">
-				
-				
-				
-		<meta property="fb:admins" content="75200365">
-	<!-- / meta data -->
-	
-	<!-- Google Analytics -->
-		<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		
-		ga('create', 'UA-289424-1', 'auto');
-		ga('require', 'displayfeatures');
-		ga('send', 'pageview');
-		
-		</script>
-	<!-- End Google Analytics -->
-
-			<!-- Google DFP -->
-			<script type="text/javascript">
-			var googletag = googletag || {};
-			googletag.cmd = googletag.cmd || [];
-			(function() {
-			var gads = document.createElement('script');
-			gads.async = true;
-			gads.type = 'text/javascript';
-			var useSSL = 'https:' == document.location.protocol;
-			gads.src = (useSSL ? 'https:' : 'http:') + 
-			'//www.googletagservices.com/tag/js/gpt.js';
-			var node = document.getElementsByTagName('script')[0];
-			node.parentNode.insertBefore(gads, node);
-			})();
-			var show_ads = true;
-			var adBlock = true;	/* assumed true until proven false */
-			</script>
-		
-			<script type="text/javascript">
-			googletag.cmd.push(function() {
-
-				// determine leaderboard type
-				if (document.documentElement.clientWidth < 730) {
-					googletag.defineSlot('/1009834/GR-LeaderboardMobile', [320, 50], 'div-gpt-ad-1375297324586-0').addService(googletag.pubads());
-				} else {
-					googletag.defineSlot('/1009834/GR-Leaderboard', [728, 90], 'div-gpt-ad-1320814961759-0').addService(googletag.pubads());
-				}
-				
-								
-				googletag.pubads().enableSingleRequest();
-				googletag.enableServices();
-			});
-			</script>
-			
-			<script>
-			var trackThrustmasterLink = function(url) {
-			   ga('send', 'event', 'banner', 'click', 't300rs_0', {'hitCallback':
-			     function () {
-			     document.location = url;
-			     }
-			   });
-			}
-			</script>
-		<!-- / Google DFP -->
-		
-		<!-- Start VSW Ad Block -->
-		<style type="text/css">
-			body .era_ad_block.thumbnail {
-				margin-top: 20px !important;
-				font-size: 16px !important;
-				box-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 1px 0 rgba(255,255,255,0.9) inset !important;
-				border-radius: 5px !important;
-			}
-			body .era_ad_block.thumbnail .vsw-ad-header {
-				color: #000 !important;
-				font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-				font-weight: bold !important;
-				font-size: 16px !important;
-				padding-top: 5px !important;
-			}
-			body .era_ad_block.thumbnail .vsw-ad-title {
-				color: #000 !important;
-			}
-			body .era_ad_block.thumbnail .vsw-ad-item:hover .vsw-ad-title {
-				color: #000 !important;
-			}
-			body .era_ad_block.thumbnail .vsw-ad-item {
-				margin-right: 0 !important;
-				margin-left: 7px !important;
-			}
-			body .era_ad_block.thumbnail .vsw-search-box-container {
-				margin-top: 25px !important;
-			}
-			body .era_ad_block.thumbnail .vsw-ad-container {
-				margin-top: 25px !important;
-			}
-		</style>
-	
-			
-			<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.gtplanet.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
-			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.gtplanet.net/wp-includes/js/wp-emoji-release.min.js?ver=4.4.1" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="thickbox.css-css" href="https://www.gtplanet.net/wp-includes/js/thickbox/thickbox.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="wwcAmzAffProducts-css" href="https://www.gtplanet.net/wp-content/plugins/woozone/modules/product_in_post/style.css?ver=4.4.1" type="text/css" media="all">
-<script type="text/javascript" src="https://www.gtplanet.net/forum/js/jquery/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="https://www.gtplanet.net/wp-content/plugins/woozone//lib/frontend/frontend.js?ver=4.4.1"></script>
-<link rel="https://api.w.org/" href="https://www.gtplanet.net/wp-json/">
 <link rel="canonical" href="https://www.gtplanet.net/privacy/">
+<link rel="publisher" href="https://plus.google.com/+gtplanet">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy – GTPlanet">
+<meta property="og:description" content="GTPlanet has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices. This site contains links to other sites.…">
+<meta property="og:url" content="https://www.gtplanet.net/privacy/">
+<meta property="og:site_name" content="GTPlanet">
+<meta property="article:publisher" content="https://www.facebook.com/gtplanet">
+<meta property="article:section" content="Other">
+<meta property="fb:app_id" content="128397884866">
+<meta property="og:image" content="https://www.gtplanet.net/wp-content/uploads/2015/08/email@at.png">
+<meta property="og:image:secure_url" content="https://www.gtplanet.net/wp-content/uploads/2015/08/email@at.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="GTPlanet has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices. This site contains links to other sites.…">
+<meta name="twitter:title" content="Privacy Policy – GTPlanet">
+<meta name="twitter:site" content="@gtplanetnews">
+<meta name="twitter:image" content="https://www.gtplanet.net/wp-content/uploads/2015/08/email@at.png">
+<meta name="twitter:creator" content="@gtplanetnews">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.gtplanet.net\/","sameAs":["https:\/\/www.facebook.com\/gtplanet","http:\/\/gtplanetnews","https:\/\/plus.google.com\/+gtplanet","https:\/\/www.youtube.com\/user\/gtplanet","https:\/\/twitter.com\/gtplanetnews"],"@id":"https:\/\/www.gtplanet.net\/#organization","name":"GTPlanet","logo":""}</script>
+
+<link rel="alternate" type="application/rss+xml" title="GTPlanet » Feed" href="https://www.gtplanet.net/feed/">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="sv-wc-payment-gateway-payment-form-css" href="https://www.gtplanet.net/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/lib/skyverge/woocommerce/payment-gateway/assets/css/frontend/sv-wc-payment-gateway-payment-form.min.css?ver=5.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-featherlight-css" href="https://www.gtplanet.net/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.0" type="text/css" media="all">
+<script type="text/javascript" src="https://www.gtplanet.net/forum/js/jquery/jquery-1.11.0.min.js"></script>
+<link rel="https://api.w.org/" href="https://www.gtplanet.net/wp-json/">
 <link rel="shortlink" href="https://www.gtplanet.net/?p=13">
 <link rel="alternate" type="application/json+oembed" href="https://www.gtplanet.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gtplanet.net%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.gtplanet.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gtplanet.net%2Fprivacy%2F&amp;format=xml">
-<link rel="icon" href="https://www.gtplanet.net/wp-content/uploads/2016/01/cropped-favicon-512x512-32x32.png" sizes="32x32">
-<link rel="icon" href="https://www.gtplanet.net/wp-content/uploads/2016/01/cropped-favicon-512x512-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://www.gtplanet.net/wp-content/uploads/2016/01/cropped-favicon-512x512-180x180.png">
-<meta name="msapplication-TileImage" content="https://www.gtplanet.net/wp-content/uploads/2016/01/cropped-favicon-512x512-270x270.png">
-	
-	<!-- jQuery fallback -->
-	<script>window.jQuery || document.write('<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"><\/script>')</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<script src="/assets/15/15.min.js?v=1529524906"></script>
+<script src="/assets/15/wp.js?v=1529125033"></script>
 
+<script>
+			adBlock = true;
+		</script>
+<script src="/assets/15/advertisement.js" type="text/javascript"></script>
+<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-289424-1', 'auto');
+            ga('require', 'displayfeatures');
+            ga('set', 'dimension4', adBlock);
+
+            if ( getCookie('xf_usertype') ) {
+                ga('set', 'dimension1', 'registered');
+            } else {
+                ga('set', 'dimension1', 'guest');
+            }
+
+            if ( getCookie('xf_usertype') == 'premium' ) {
+                ga('set', 'dimension2', 'true');
+            }
+
+                            ga('set', 'contentGroup2', 'News: Other');
+            
+            ga('send', 'pageview');
+		</script>
+
+
+<script type="text/javascript">
+    const isPremium = (getCookie('xf_usertype') === 'premium')
+    if ( !isPremium ) {
+		if ( getCookie('xf_usertype') == 'registered' ) {
+			/* hide overlay ads for logged in users */
+			var tyche = { mode: 'tyche', config: 'https://config.playwire.com/1021099/v2/websites/68655/banner.json', forcePath:'/loggedin' }
+		} else {
+			var tyche = { mode: 'tyche', config: 'https://config.playwire.com/1021099/v2/websites/68655/banner.json' }
+		}
+
+        var head = document.getElementsByTagName('head')[0];
+        var js = document.createElement("script");
+        js.type = "text/javascript";
+        js.src = "//cdn.intergi.com/hera/tyche.js";
+        head.appendChild(js);
+    }
+</script><script type="text/javascript" src="//cdn.intergi.com/hera/tyche.js"></script>
+
+<style type="text/css">
+        div[id^="pw-oop-mobile_in_article"] {
+            width: 300px !important;
+            margin: 0 auto;
+        }
+    </style>
 </head>
-
-<body class="page page-id-13 page-template-default">
-	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=360623070677053";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-	
-	<div class="gtp-header gradient">
-		<form action="/search" method="get" accept-charset="UTF-8">
-			<div class="page-width christmas-lights">
-				<a id="logo" href="/">GTPlanet</a>
-				
-				<ul class="nav-menu">
-					<li><a href="#" class="nav-menu-tab popup-button">Menu <span id="nav-menu-arrow">▼</span></a></li>
-					<li><a href="#" class="nav-menu-search" id="google-search-tab">Search</a></li>
-				</ul>
-				
-				<ul class="nav">
-					<li><a href="/">News</a></li>
-					<li><a href="/forum/">Forums</a></li>
-					<li><a href="/store/">Store</a></li>
-					<li id="more-tab"><a href="#meta-links">More...</a></li>		
-					<li id="searchbox">
-							<input id="g-search-textfield" name="q" type="text" placeholder="Search..">
-							<input id="g-search-submit" type="submit" name="submit" value="Go">&nbsp;
-					</li>
-					<li class="social-li">
-						<ul class="socials">
-							<li><a href="https://plus.google.com/+gtplanet/posts" class="popup-button" id="gp" title="GTPlanet on Google+">Google+</a></li>
-							<li><a href="https://www.youtube.com/user/gtplanet" class="popup-button" id="yt" title="GTPlanet on YouTube">YouTube</a></li>
-							<li><a href="https://www.facebook.com/gtplanet" class="popup-button" id="fb" title="GTPlanet on Facebook">Facebook</a></li>
-							<li><a href="https://www.twitter.com/gtplanetnews" class="popup-button" id="tw" title="GTPlanet on Twitter">Twitter</a></li>
-						</ul>
-					</li>
-				</ul>
-				
-				<div class="nav-search-popup" id="g-search-popup">
-					<a href="#">Advanced Search Options</a>
-				</div>
-				
-				<div class="social-popup" id="gp-pop">
-					<div class="g-plus" data-width="260" data-href="//plus.google.com/100725184981906372806" data-rel="publisher"></div>
-				</div>
-				
-				<div class="social-popup" id="fb-pop">
-					<div class="fb-like-box" data-href="http://www.facebook.com/gtplanet" data-width="200" data-show-faces="false" data-stream="false" data-header="false"></div>
-				</div>
-				
-				<div class="social-popup" id="tw-pop">
-					<a href="https://twitter.com/GTPlanetNews" target="_blank" class="twitter-follow-button" data-width="190" data-show-count="true" data-show-screen-name="true" data-size="large" data-lang="en">Follow @GTPlanetNews</a>
-				</div>
-				
-				<div class="social-popup" id="yt-pop">
-					<iframe id="yt-pop-iframe" frameborder="0" scrolling="no" src="about:blank" style="border: 0px; height: 100px; background:#FFF; overflow-x: hidden; overflow-y: hidden; width: 250px;"></iframe>
-				</div>			
-			</div>
-		</form>
-	</div>
-	
-		<div id="pre-content">
-			<div id="div-gpt-ad-1320814961759-0" style="width: 728px; height: 90px; margin: 0px auto; display: block;">
-				<script type="text/javascript">
-					if (document.documentElement.clientWidth > 730) {
-						document.getElementById('div-gpt-ad-1320814961759-0').style.display = "block";
-						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1320814961759-0'); });
-					}
-				</script>
-			</div>
-
-			<div id="div-gpt-ad-1375297324586-0" style="width:320px;height:50px;margin:0 auto;display: none;">
-				<script type="text/javascript">
-					if (document.documentElement.clientWidth < 730) {
-						document.getElementById('div-gpt-ad-1375297324586-0').style.display = "block";
-						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1375297324586-0'); });
-					}
-				</script>
-			</div>
-			
-	</div>
-		
-	
-	<div class="page-width">
-	<div class="wp-post-container whitebox">
-		<h1>Privacy Policy</h1>
-	<div class="wp-post">
-		<p>GTPlanet has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.</p>
-<p>Our site’s registration form requires users to give us demographic information (such as location). Demographic and profile data is also collected at our site. We use this data to tailor the visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.</p>
-<p>This site contains links to other sites. GTPlanet.net is not responsible for the privacy practices or the content of such Web sites.</p>
-<p><strong>Public Forums</strong></p>
-<p>This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. GTPlanet.net cannot be held responsible in any way for any information posted or otherwise distributed by public users via its chat or forum mediums.</p>
-<p><strong>Security</strong></p>
-<p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
-<p><strong>Choice/Opt-Out</strong></p>
-<p>Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</p>
-<p><strong>Third Party Advertising</strong></p>
-<p>We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>.</p>
-<p><strong>Third Party Cookies</strong></p>
-<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” in your browser.</p>
-<p><strong>Correct/Update Personal Information</strong></p>
-<p>This site gives users the following options for changing and modifying information previously provided, located <a href="https://www.gtplanet.net/forum/account/personal-details">here</a>.</p>
-<p><strong>Contacting GTPlanet</strong></p>
+<body class="page-template-default page page-id-13 christmas woocommerce-js wp-featherlight-captions group-blog">
+<script>if (isPremium) { document.body.classList.add('premium') }</script>
+<header class="gtp-header">
+<nav class="gtp-pageWidth">
+<ul>
+<li class="logo"><a href="/">GTPlanet</a></li>
+<li class="mobile-header-button searchpop"><a href="#">Search</a></li>
+<li class="mobile-header-button menu"><a href="#">Menu</a></li>
+<li class="text dropdown games ">
+<a href="/category/gaming/">Games</a>
+<ul>
+<li><a href="/category/gran-turismo-sport/">Gran Turismo Sport</a></li>
+<li><a href="/category/forza-horizon-4/">Forza Horizon 4</a></li>
+<li><a href="/category/assetto-corsa-competizione/">Assetto Corsa Competizione</a></li>
+<li><a href="/category/project-cars-2/">Project CARS 2</a></li>
+<li><a href="/category/forza-motorsport-7/">Forza Motorsport 7</a></li>
+<li><a href="/category/f1-2018/">F1 2018</a></li>
+<li><a href="/category/hardware/">Gaming Hardware</a></li>
+<li><a href="/category/product-reviews/">Product Reviews</a></li>
+<li><a href="/category/gaming/">All Games...</a></li>
+</ul>
+</li>
+<li class="text dropdown">
+<a href="/category/cars/">Cars</a>
+<ul>
+<li><a href="/category/automotive-news/">Auto News</a></li>
+<li><a href="/category/car-culture/">Car Culture</a></li>
+<li><a href="/category/cars/">More On Cars...</a></li>
+</ul>
+</li>
+<li class="text dropdown">
+<a href="/category/racing/">Racing</a>
+<ul>
+<li><a href="/category/esports/">eSports</a></li>
+<li><a href="/category/motorsports/">Motorsports</a></li>
+<li><a href="/category/racing/">More On Racing...</a></li>
+</ul>
+</li>
+<li class="text dropdown">
+<a href="/forum/">Forums</a>
+<ul>
+<li><a href="/forum/find-new/posts">Latest Posts</a></li>
+<li><a href="/forum/media">Media Gallery</a></li>
+<li><a href="/forum/resources">Resource Database</a></li>
+<li><a href="/forum/">All Forums...</a></li>
+</ul>
+</li>
+<li class="text dropdown">
+<a class="textLink" href="/store/">Store</a>
+<ul>
+<li><a href="/product-category/apparel/">Apparel</a></li>
+<li><a href="/product-category/books/">Books</a></li>
+<li><a href="/store/">More Categories...</a></li>
+</ul>
+</li>
+<li class="search">
+<form action="/search" method="get" accept-charset="UTF-8">
+<input id="gtp-header-mainSearchField" type="text" name="q" placeholder="Search...">
+<button type="submit">Go</button>
+</form>
+</li>
+<li class="social"><a id="facebook" href="https://www.facebook.com/gtplanet">Facebook</a></li>
+<li class="social"><a id="instagram" href="https://www.instagram.com/gtplanetnews">Instagram</a></li>
+<li class="social"><a id="youtube" href="https://www.youtube.com/user/gtplanet">YouTube</a></li>
+<li class="social"><a id="twitter" href="https://twitter.com/gtplanetnews">Twitter</a></li>
+</ul>
+</nav>
+</header>
+<div class="gtp-content">
+<div class="gtp-pageWidth">
+<div class="page gtp-whitebox" id="post-13">
+<h1>Privacy Policy</h1><p>GTPlanet has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.</p>
+<p>This site contains links to other sites. GTPlanet is not responsible for the privacy practices or the content of such sites.</p>
+<h2>Information We Hold</h2>
+<p>The type of data we process and collect includes:</p>
+<ul>
+<li>Your name or username</li>
+<li>Your email address</li>
+<li>Your IP address</li>
+<li>Your billing/shipping address</li>
+<li>Basic payment information (we <strong>do not</strong> store credit card numbers)</li>
+</ul>
+<p>Further data may be collected if you choose to share it, such as any profile fields you complete on your profile. We collect some or all of this information in the following cases:</p>
+<ul>
+<li>When you register as a member of this site</li>
+<li>You fill out our contact form</li>
+<li>You browse the site (see our <a href="https://www.gtplanet.net/forum/help/cookies">Cookie Policy</a> for more information)</li>
+<li>You fill out fields on your profile</li>
+<li>You purchase a product or service from us</li>
+</ul>
+<h2>How Your Information Is Used</h2>
+<p>We may use your information in the following ways:</p>
+<ul>
+<li>For the purposes of making you a registered member of our site, in order for you to contribute content to this site.</li>
+<li>We may use your email address to inform you of activity on our site.</li>
+<li>Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.</li>
+<li>We may use your address to verify payment details or shipping information.</li>
+</ul>
+<p>We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you’re using.</p>
+<h2>Email Opt-In/Opt-Out</h2>
+<p>In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails <a href="https://www.gtplanet.net/forum/account/contact-details">in your profile</a>.</p>
+<p>All emails sent by GTPlanet also include links with instructions on how to disable or opt-out from further mailings.</p>
+<h2>Keeping Your Information Secure</h2>
+<p>We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.</p>
+<h2>Cookie Usage</h2>
+<p>Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.</p>
+<p>We have a detailed cookie policy and more information about the cookies that we set on&nbsp;<a href="https://www.gtplanet.net/forum/help/cookies">this page</a>.</p>
+<p>In the course of serving advertisements, our third-party advertising partners may place or recognize their own cookies in your browser.</p>
+<h2>Right To Access Personal Data</h2>
+<p>You have a right to access the personal data we hold about you or obtain a copy of it. To do so please&nbsp;<a href="http://www.gtplanet.net/contact">contact us</a>. If you believe that the information we hold for you is incomplete or inaccurate, you may&nbsp;ask us to complete or correct that information.&nbsp;You also have the option to change or modify information previously provided&nbsp;<a href="https://www.gtplanet.net/forum/account/personal-details">in your account settings</a>.</p>
+<p>You also have the right to request the erasure of your personal data. Please&nbsp;<a href="http://www.gtplanet.net/contact">contact us</a>&nbsp;if you would like us to remove your personal data.</p>
+<h2>Public<strong> Forums</strong></h2>
+<p>This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. GTPlanet cannot be held responsible in any way for any information posted or otherwise distributed by public users via its chat or forum mediums.</p>
+<h2>Third Party Advertising</h2>
+<p>We use various third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+<h2>Acceptance Of This Policy</h2>
+<p>Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.</p>
+<p>We reserve the right to change this policy at any time.</p>
+<h2>Contacting GTPlanet</h2>
 <p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can <a href="https://www.gtplanet.net/contact">contact us online</a>&nbsp;(webmaster<img class="alignnone wp-image-34651" src="https://www.gtplanet.net/wp-content/uploads/2015/08/email@at.png" alt="email@at" width="12" height="12">gtplanet.net)&nbsp;or via the address below:</p>
-<p>GTPlanet Networks<br>
+<p style="padding-left: 30px;">GTPlanet Networks<br>
 P.O. Box 755<br>
 London, KY 40743</p>
-	</div>
 </div>
-</div> <!-- / page-width -->
-
-<br style="clear:both;">
-
-
-<div class="sticky-footer">
-	<div class="gtp-footer">
-		<div class="page-width footer-link-container">
-			<ul class="footer-links">
-				<li id="footer-social-li">
-					<ul class="footer-socials">
-						<li><a href="https://plus.google.com/+gtplanet" class="popup-button gp" title="GTPlanet on Google+">Google+</a></li>
-						<li><a href="https://www.youtube.com/user/gtplanet" class="popup-button yt" title="GTPlanet on YouTube">YouTube</a></li>
-						<li><a href="https://www.facebook.com/gtplanet" class="popup-button fb" title="GTPlanet on Facebook">Facebook</a></li>
-						<li><a href="https://twitter.com/gtplanetnews" class="popup-button tw" title="GTPlanet on Twitter">Twitter</a></li>
-					</ul>
-				</li>
-				<li>
-					<ul id="meta-links">
-						<li><a href="/contact">Contact</a></li>
-						<li><a href="/faq">F.A.Q.</a></li>
-						<li><a href="/tos">Terms of Service</a></li>
-						<li><a href="/aup">Acceptable Use Policy</a></li>
-						<li><a href="/privacy">Privacy Policy</a></li>
-					</ul>
-				</li>
-			</ul>
-			<div class="smallfont" id="gtp-legal">
-				<span id="copyright">©2016 GTPlanet</span>
-			</div>
-		</div>
-	</div>
+</div> 
+</div> 
+<footer class="gtp-footer">
+<nav class="page-width">
+<ul>
+<li><a href="/contact/">Contact</a></li>
+<li><a href="/advertising/">Advertising</a></li>
+<li><a href="/faq/">F.A.Q.</a></li>
+<li><a href="/tos/">Terms of Service</a></li>
+<li><a href="/aup/">Acceptable Use</a></li>
+<li><a href="/privacy/">Privacy</a></li>
+</ul>
+<div>
+©2018 GTPlanet<br>
+GTPLANET® and the "planet" logo are registered trademarks. All rights reserved.
 </div>
+</nav>
+</footer>
+<script type="text/javascript" src="//s.skimresources.com/js/39375X1015946.skimlinks.js"></script>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
 <script type="text/javascript">
-	/* Responsive Ad Repositioning */
-	if (document.documentElement.clientWidth < 1000) {
-					}
-</script>
-
-
-
-<!-- start/ wwcAmzAff woocommerce-tabs amazon fix -->
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<script type="text/javascript" src="https://www.gtplanet.net/wp-content/plugins/woocommerce/assets/js/jquery-payment/jquery.payment.min.js?ver=3.0.0"></script>
 <script type="text/javascript">
-jQuery('.woocommerce-tabs #tab-description .aplus p img[height=1]').css({ 'height': '1px' });
-</script>
-<!-- end/ wwcAmzAff woocommerce-tabs amazon fix -->
-
-<span id="wwcAmzAff_current_aff" class="display: none;" data-current_aff="{&quot;user_country&quot;:{&quot;key&quot;:&quot;com&quot;,&quot;website&quot;:&quot;.com&quot;,&quot;affID&quot;:&quot;com&quot;}}"></span><script type="text/javascript">
 /* <![CDATA[ */
-var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/www.gtplanet.net\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.gtplanet.net/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
-<script type="text/javascript" src="https://www.gtplanet.net/wp-includes/js/wp-embed.min.js?ver=4.4.1"></script>
-
-<script src="/assets/12/advertisement.js"></script>
-<script src="/assets/12/12.js?v=7"></script>
+<script type="text/javascript" src="https://www.gtplanet.net/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/lib/skyverge/woocommerce/payment-gateway/assets/js/frontend/sv-wc-payment-gateway-payment-form.min.js?ver=5.3.0"></script>
+<script type="text/javascript" src="https://www.gtplanet.net/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.0"></script>
+<script type="text/javascript" src="https://www.gtplanet.net/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
 
 
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4b7034a51a","applicationID":"567065","transactionName":"YwdXYEUDVxdWVEBcXFpNdFdDC1YKGEdVUlY=","queueTime":0,"applicationTime":383,"atts":"T0BUFg0ZRBk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-<!-- ZenCache file path: /cache/zencache/cache/https/www-gtplanet-net/privacy.html -->
-<!-- ZenCache file built for (https://www.gtplanet.net/privacy/) in 0.37836 seconds, on: Feb 2nd, 2016 @ 6:52 am UTC. -->
-<!-- This ZenCache file will auto-expire (and be rebuilt) on: Feb 2nd, 2016 @ 6:57 am UTC (based on your configured expiration time). --></body></html>
+</body></html>
