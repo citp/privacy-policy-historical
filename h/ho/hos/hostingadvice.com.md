@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hostingadvice.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522043833id_/http%3A//www.hostingadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingadvice.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223181635id_/https%3A//www.hostingadvice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HostingAdvice.com
 
-At HostingAdvice.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by HostingAdvice.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us [here](http://www.hostingadvice.com/contact/ "Contact Us").
+At HostingAdvice.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by HostingAdvice.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](https://www.hostingadvice.com/contact/ "Contact Us").
 
 ## Log Files
 
