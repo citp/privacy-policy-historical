@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelmouse.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604093311id_/https%3A//www.rebelmouse.com/st/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelmouse.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223120543id_/https%3A//www.rebelmouse.com/st/Privacy_Policy) for the most accurate reproduction.*
 
 # RebelMouse
 
