@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendotoday.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619213548id_/http%3A//nintendotoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendotoday.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223050509id_/http%3A//nintendotoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NintendoToday
 
