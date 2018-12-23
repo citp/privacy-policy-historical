@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623092744id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223200023id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Black List
 
@@ -14,7 +14,7 @@ When you visit sites on the Internet, the owner of the site is able to collect i
 
 #### Types of Information We Collect
 
-We have the ability to collect two types of information from people who visit our site: Personally Identifiable Information and Aggregate Information. 
+We have the ability to collect two types of information from people who visit our site: Personally Identifiable Information and Aggregate Information. Personally Identifiable Information is any information by which you can be identified, such as your name, address, telephone number, email address, credit card information, personal interests, etc. 
 
 Personally Identifiable Information is any information by which you can be identified, such as your name, address, telephone number, email address, credit card information, personal interests, etc. 
 
@@ -71,7 +71,7 @@ Likewise, we may disclose your Personally Identifiable Information to third part
 
 • The disclosure is necessary for the purpose for which the personal information was obtained; 
 
-• The disclosure is to financial service providers in order to fulfill and carry out the purchase and provision of goods and services requested by you; 
+• The disclosure is to financial service and payment providers in order to fulfill and carry out the purchase and provision of goods and services requested by you; 
 
 • The disclosure is permitted by relevant law; 
 
