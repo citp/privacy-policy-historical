@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sideshowcollectors.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620031355id_/http%3A//www.sideshowcollectors.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideshowcollectors.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224001708id_/http%3A//www.sideshowcollectors.com/forums/privacy.php) for the most accurate reproduction.*
 
 # Sideshow Freaks - Privacy
 
