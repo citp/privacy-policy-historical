@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongmenstayyoung.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623035712id_/http%3A//strongmenstayyoung.com/strongmen/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmenstayyoung.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223205259id_/http%3A//strongmenstayyoung.com/strongmen/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy at Strong Men Stay Young
 
@@ -48,4 +48,4 @@ Any aggregate visitor information we collect is used for internal review only an
 If you have any questions regarding our privacy policy please contact us to request more information. 
 
 **Contact Information**   
-You can find an email form to contact us online, and our address on our [Contact Us Page](http://strongmenstayyoung.com/strongmen/contact/). 
+You can find an email form to contact us online, and our address on our [Contact Us Page](https://strongmenstayyoung.com/strongmen/contact/). 
