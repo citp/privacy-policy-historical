@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the vrfocus.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808144649id_/https%3A//www.vrfocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrfocus.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223081244id_/https%3A//www.vrfocus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – VRFocus
+
+**This privacy policy governs the collection, storage, use of personal information collected by **VRFocus Ltd.**. It provides details about the personal information that we collect from you, how we use your personal information, your rights regarding the personal information that we hold about you. Please read this privacy policy carefully – by using our services, you confirm that you have read, understood, agree to this privacy policy in its entirety.**
+
+Kevin Joyce, Chief Executive Officer, **VRFocus Ltd.** : kjoyce@vrfocus.com
 
 **VRFocus** (together with its subsidiaries, “vrfocus.com” or “we”) has adopted a set of Privacy Principles applicable to all UK-based companies. **VRFocus** has implemented those Principles in this Privacy Policy, which describes how we collect, use, and share personally identifiable information (information that can be used to identify you, such as your full name, email address, mailing address, or telephone number) (“PII”) we obtain from and about individuals located in the UK both online and offline.
 
@@ -26,4 +30,28 @@ You can set your computer to alert you each time a cookie is being sent or to re
 
 We may contact you regarding account status, changes to this Policy, our User Agreement or other terms of use, to confirm your registration, for customer service purposes or for any other business reason related to your use **VRFocus**.
 
-All of **VRFocus** ’ policy is delivered in accordance with UK law. The collection of PII and the responsibilities of the authorities collecting such data may differ in countries not governed by UK law, for which **VRFocus** cannot be accountable for.
+All of **VRFocus** ’ policy is delivered in accordance with UK law. All data collected by **VRFocus** is held within the UK and not shared with any external company or entity without consent. The collection of PII and the responsibilities of the authorities collecting such data may differ in countries not governed by UK law, for which **VRFocus** cannot be accountable for.
+
+#### How long does VRFocus Keep your PII?
+
+Cookie data is typically stored for a period of 56 months, unless otherwise determined by your browser. Other information is not stored without direct user consent; i.e. opting into a mailing list.
+
+#### What are your rights in relation to the information VRFocus collects?
+
+You have the following rights:
+
+• to ask us to provide you with copies of personal information that we hold about you at any time, subject to a fee specified by law;
+
+• to ask us to update or correct any out of date or incorrect personal information that we hold about you (in accordance with applicable data protection legislation);
+
+• to request that we send you (or another data controller) your personal information in a structured, commonly used and machine-readable format (in accordance with applicable data protection laws); and
+
+• the right to opt-out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you.
+
+If you want to exercise any of these rights, please write to us (either by post or e-mail) at the address specified below.
+
+If you object to our processing of your personal information for certain purposes or you want us to stop using or to delete your personal information, you can contact us and tell us why. In certain circumstances we may not be able to stop using your personal information but, if that is the case, we’ll let you know and tell you why.
+
+If you wish to raise a complaint on how we have handled your personal data, you can contact us to have the matter investigated. Please contact us at kjoyce@vrfocus.com.
+
+If you are not satisfied with our response or believe we are not processing your personal information accordance with the law you can complain to the Information Commissioner’s Office <https://ico.org.uk/> or seek a remedy through local courts if you believe your rights have been breached.
