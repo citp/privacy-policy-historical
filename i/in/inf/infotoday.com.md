@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infotoday.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620052702id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotoday.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223100954id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
 # ITI Privacy and Cookies Policy
 
-_Last updated: 25 May 2018._  
+_Updated: 9 August 2018._  
 Questions or comments about this privacy policy may be directed to: **[privacy@infotoday.com](mailto:privacy@infotoday.com)**.
 
 The various Information Today, Inc. websites include: information about our company; subscription, sales, and delivery of content for periodicals, books, and directories that we publish; and conferences that we organize. 
@@ -13,20 +13,32 @@ For each visitor to our websites, our Web servers log the IP address of the comp
 
 The Information Today/Plexus Publishing Online Store website (hosted by Yahoo!, at **[**bookstore.infotoday.com**](http://bookstore.infotoday.com/)** ) collects information about customers, including purchase and contact information, and securely provides it to Information Today, Inc., which is solely responsible for its use.  We only use that information to complete a transaction requested by a customer. Every transaction conducted at the Information Today Online Store website is encrypted for the customers' protection.  The Yahoo! privacy policy is available at **<http://docs.yahoo.com/info/privacy/>**. 
 
-###  **_Your information/Personal Data_**
+### **_Your information/Personal Data_**
 
-Each time you request information from us, register for an electronic newsletter, sign up for an online event (Webinar), register to attend one of ITI's conferences, submit a proposal to speak at one of ITI's conferences, subscribe to an online service, register to view/download premium content on one of our websites, or make a purchase from our online store, we request certain personal data, including: Full Name, Mailing/Postal Address, Email Address, Phone Number(s), Employer, and Job Title. We may also ask for additional emloyment demographic information including industry sector, number of employees, and company income. 
+Each time you request information from us, register for an electronic newsletter, sign up for an online event (Webinar), register to attend one of ITI's conferences, submit a proposal to speak at one of ITI's conferences, subscribe to an online service or print publication, register to view/download premium content on one of our websites, or make a purchase from our online store, we request certain personal data, including: Full Name, Mailing/Postal Address, Email Address, Phone Number(s), Employer, and Job Title. We may also ask for additional employment demographic information including industry sector, number of employees, and company income. When you submit a proposal to speak at a conference, we may also request biographical information as well as your history of speaking at other conferences. 
 
-We use personal data you submit to us to complete transactions such as conference registrations, subscription fulfillment, or communication regarding requests to speak at a conference. As part of this information collection process, we may include you in our email mailing lists. We will request your consent to send you email via these lists. We may use these mailing lists or your information or for internal marketing and promotional purposes to occasionally notify you of Information Today, Inc. products and services we think will interest you. We may also share this information with sponsors of our premium content, webinars, and conferences so that they may extend you offers of interest. 
+We use personal data you submit to us to complete transactions such as conference registrations, subscription fulfillment, or communication regarding requests to speak at a conference. As part of this information collection process, we may include you in our email mailing lists. We will request your consent to send you email via these lists. We may use these mailing lists or your information or for internal marketing and promotional purposes to occasionally notify you of Information Today, Inc. products and services we think will interest you. We may also send you email on behalf of our sponsors. If you don't wish to receive such notifications and offers from ITI, you can request to be removed from our mailing lists. Every email message sent to mailing lists maintained by Information Today, Inc. contains a link to automatically unsubscribe from the list or lists, to which the email was sent.
 
-We will seek to advise any companies or other third parties to whom we provide your information to follow similar privacy policies. However, we cannot assume any responsibility for any actions or policies of these third parties. 
+For the purposes of the General Data Protection Regulation (GDPR), our lawful bases for processing the personal data of EU individuals are _Contract_ , _Legitimate Interest_ , and _Consent_. In the case of accepting your registration and payment to attend one of our conferences, or if you subscribe to one of our publications, we process your personal data in order to fulfil our contractual obligations to you. In some cases we use legitimate interest as a lawful basis for processing your data, including sharing of your personal data with sponsors of our premium content, webinars, and conferences so that they may extend you offers of interest. We define ‘legitimate interest’ as providing you with additional useful information on related products and services that we or our sponsors provide, based on the interests you have expressed by downloading sponsored premium content or viewing sponsored webinars. If you register to attend or speak at one of our UK-based conferences, you will be asked for your consent to receive related information from third parties, including conference sponsors and exhibitors. 
 
-If you don't wish to receive such notifications and offers from ITI, you can request to be removed from our mailing lists. Every email message sent to mailing lists maintained by Information Today, Inc. contains a link to automatically unsubscribe from the list or lists, to which the email was sent.
+You have the right to access, update, delete, or request a copy of the personal data we hold about you. If you want it to be updated, or removed from our systems, please contact us via email (to **[privacy@infotoday.com](mailto:privacy@infotoday.com)** ), telephone (609-654-6266), fax (609-654-4309), or in writing (Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055-8750). 
 
-You have the right to access, update, delete, or request a copy of the personal data we hold about you. If you want it to be updated, or removed from our systems, please contact us via email (to **[help@emediapro.com](mailto:help@emediapro.com)** ), telephone (609-654-6266), fax (609-654-4309), or in writing (Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055-8750).  
+Information Today, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Information Today, Inc. is required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.   
 
 
-### _Social buttons_
+### _EU-U.S. Privacy Shield_
+
+Information Today, Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Information Today, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit **<https://www.privacyshield.gov/>**
+
+In compliance with the Privacy Shield Principles, Information Today, Inc. commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Information Today, Inc. via email at: [ **privacy@infotoday.com**](mailto:privacy@infotoday.com)
+
+Information Today, Inc. has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU. 
+
+In cases of onward transfers of data, received pursuant to the EU-U.S. Privacy Shield, Information Today, Inc. is potentially liable.
+
+The Privacy Shield Framework provides the option for an EU individual to invoke binding arbitration to determine whether Information Today, Inc. has violated its obligations under the Privacy Shield Principles as to that individual and whether any such violation remains fully or partially unremedied.
+
+###  **__**_Social buttons_
 
 On many of the pages of our websites you will see ‘social buttons’. These enable users to share or bookmark the web pages. There may be buttons for: Twitter, Google +, Facebook's ‘Like’, LinkedIn's ‘Share’, YouTube, or others. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Information Today, Inc.'s. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on our websites. 
 
