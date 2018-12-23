@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902033738id_/https%3A//www.farmersalmanac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223174022id_/https%3A//www.farmersalmanac.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Terms of Usage - Farmers' Almanac
+# Privacy Policy and Terms of Usage - Farmers’ Almanac
 
 **Privacy Policy and Terms of Usage**  
 Farmers’ Almanac and its parent company Geiger, recognize the importance of protecting the privacy of all information provided by users of our websites, subscribers to our Almanac, recipients of our e-mail newsletters, and all of our customers. You are able to visit much of this website and enjoy many of our articles and features without providing any personally identifiable information. Sometimes, however, we do require personally identifiable information to provide you with additional web site features, products and services that you request. The types of personally identifiable information that may be collected on these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information (for online store purchases only), and information about your interests in, and use of, various products, programs, and services.
