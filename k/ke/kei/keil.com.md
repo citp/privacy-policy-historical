@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525015159id_/http%3A//www.keil.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223204111id_/http%3A//keil.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Arm
 
@@ -49,7 +49,7 @@ We collect and use personal data about you with your consent to provide, maintai
   * Enable you to access the Arm Community or register on the Arm Education Media’s digital content hub; 
   * Activate, administer and monitor software tools;
   * Provide you with technical and customer support; and
-  * Allow you to enrol in educational courses or training schemes about our products and services.
+  * Allow you to enroll in educational courses or training schemes about our products and services.
 
 
 
@@ -141,9 +141,9 @@ Where the legal justification for our processing of your personal data is our le
 
 **Withdrawing Consent**
 
-If you have consented to our processing of your personal data, you have the right to withdraw your consent at any time, free of charge such as where you wish to opt out from marketing messages that you receive from us.  If you wish to withdraw your consent, please contact us at opt-out[at]arm.com.
+If you have consented to our processing of your personal data, you have the right to withdraw your consent at any time, free of charge such as where you wish to opt out from marketing messages that you receive from us.  If you wish to withdraw your consent, please contact us at [opt-out@arm.com](mailto:opt-out@arm.com).
 
-You can make a request to exercise any of these rights in relation to your personal data by sending the request by mail to Privacy Counsel of Arm Limited, 110 Fulbourn Road, Cambridge, CB1 9NJ or email to privacy[at]arm.com.  For your own privacy and security, at our discretion we may require you to prove your identity before providing the requested information. 
+You can make a request to exercise any of these rights in relation to your personal data by sending the request by mail to Privacy Counsel of Arm Limited, 110 Fulbourn Road, Cambridge, CB1 9NJ or email to [privacy@arm.com](mailto:privacy@arm.com).  For your own privacy and security, at our discretion we may require you to prove your identity before providing the requested information. 
 
 ### Children’s Privacy
 
@@ -155,7 +155,7 @@ We may modify this Policy at any time. If we make changes to this Policy then we
 
 ### Contact Us
 
-To contact us, please email privacy[at]arm.com or write to us at:
+To contact us, please email [privacy@arm.com](mailto:privacy@arm.com) or write to us at:
 
 Privacy Counsel  
 Arm Limited  
