@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbeauty.co privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203033403id_/https%3A//herbeauty.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbeauty.co privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223162424id_/https%3A//herbeauty.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Her Beauty
 
