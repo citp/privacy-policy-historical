@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615130234id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223134817id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # SpeedyPC – Legal - Privacy Policy
 
@@ -8,7 +8,7 @@ SpeedyPC SOFTWARE is dedicated to maintaining the confidentiality of your person
 
 We collect information from you including name, address, email address, etc. when you purchase or register SpeedyPC Software programs and when you download a evaluation version. This information is used to verify transactions during use of SpeedyPC Software programs or the SpeedyPC Software website. Payment processing merchants utilized by SpeedyPC Software and SpeedyPC Software customers use the same careful privacy criteria as SpeedyPC Software. The SpeedyPC Software website is not intended for users under the age of 18, and SpeedyPC Software does not intentionally gather information on users under the age of 18.
 
-To unsubscribe from future communications, [click here](https://web.archive.org/web/20180615130234id_/http%3A//www.speedypc.com/legal/privacy_unsubscribe.php). 
+To unsubscribe from future communications, [click here](https://web.archive.org/web/20181223134817id_/http%3A//www.speedypc.com/legal/privacy_unsubscribe.php). 
 
 SpeedyPC Software is not responsible for the information posted by users on public message boards, blogs, forums, etc., nor does SpeedyPC Software supervise the potential use of this information by third-parties. SpeedyPC Software makes no claims of privacy or confidentiality for items which users post in public spaces.
 
@@ -75,7 +75,7 @@ If you choose to delete functionality cookies, any settings you picked will not 
 
 **Advertising Cookies**
 
-If you see ads with an “i” symbol, you can click it to learn more about behavioral targeting advertising. You can also find out additional information at [www.youronlinechoices.eu](https://web.archive.org/web/20180615130234id_/http%3A//www.speedypc.com/legal/www.youronlinechoices.eu)
+If you see ads with an “i” symbol, you can click it to learn more about behavioral targeting advertising. You can also find out additional information at [www.youronlinechoices.eu](https://web.archive.org/web/20181223134817id_/http%3A//www.speedypc.com/legal/www.youronlinechoices.eu)
 
 **Third-Party Targeted Advertising Cookies**
 
@@ -117,7 +117,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20180615130234id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20181223134817id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
@@ -129,4 +129,4 @@ If our privacy policy is changed, this page will be accordingly updated and alte
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact SpeedyPC Software through our [Support](https://web.archive.org/web/20180615130234id_/http%3A//www.speedypc.com/product/support-options-speedypc.aspx "SpeedyPC Product Support") section.
+If there are any questions regarding this privacy policy you may contact SpeedyPC Software through our [Support](https://web.archive.org/web/20181223134817id_/http%3A//www.speedypc.com/product/support-options-speedypc.aspx "SpeedyPC Product Support") section.
