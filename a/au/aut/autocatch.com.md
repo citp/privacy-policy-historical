@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocatch.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626205041id_/http%3A//notices.torstar.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocatch.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223025515id_/http%3A//notices.torstar.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Torstar
 
@@ -47,7 +47,7 @@ Commonly Collected Personal Information | Purpose
   * promote our products and services
 
   
-**Social media identifiers** (such as single sign on through Facebook, Google or other social media accounts) and other information you share with us or make public via your social networking platform. You may control what information you share though the social networking sites’ privacy settings. | 
+**Social media identifiers** (such as single sign on through Facebook, Google or other social media accounts) and other information you share with us or make public via your social networking platform. You may control what information you share through the social networking sites’ privacy settings. | 
 
   * verify your identity when you use social login so that you may access your account and use our services
   * provide a customized experience
