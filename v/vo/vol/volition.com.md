@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Volition® LLC PRIVACY POLICY STATEMENT
 
 [](http://www.volition.com/cgi-bin/ads.pl?banner=acop12060)
 
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/index.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/free.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/getpaid.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/prize.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/coupons.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/home.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/auto.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/health.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/food.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/travel.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/sites.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/index.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/free.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/getpaid.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/prize.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/coupons.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/home.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/auto.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/health.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/food.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/travel.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/sites.html)  
 [](http://forum.volition.com/)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/www.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/fwebm.html)  
-[](https://web.archive.org/web/20180624191452id_/http%3A//www.volition.com/recommend.html)
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/www.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/fwebm.html)  
+[](https://web.archive.org/web/20181223214903id_/http%3A//www.volition.com/recommend.html)
 
 [](http://www.volition.com/cgi-bin/ads.pl?banner=playhangman)
 
