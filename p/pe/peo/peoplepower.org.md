@@ -1,16 +1,39 @@
-> *The following text is extracted and transformed from the peoplepower.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626095601id_/https%3A//go.peoplepower.org/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepower.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223220919id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
 
-# This is the privacy statement for PeoplePower.org. | PeoplePower.org
+# American Civil Liberties Union Privacy Statement | American Civil Liberties Union
 
-This website is a hub for organizing and deploying ACLU volunteers. We do that using a variety of digital tools, such as tools for sending emails, scheduling events and allowing volunteers to communicate with one another. Each of these tools has its own privacy rules, determined by the individual vendors, and different from the rules here on this website. Where possible, you can see those other rules by reviewing the respective privacy statements of the various service providers (for example, when you use a communications service, or one of the scheduling tools). Some of the tools may use tracking devices, or otherwise automatically collect information about you. Some will disclose information about you to companies involved in the operation of the platform, or to other volunteers.
+_Passively Collected Data_
 
-Any information you actively provide to this site, for example by typing in your own name, address or phone number, will be shared in at least some of those ways. That information will also be shared with the main database used by ACLU and its affiliates.
+Like most websites, we may automatically receive and record information in our server logs from your browser when you visit aclu.org. The information that we collect with these automated methods may include your IP address, cookie information, browser type, system type, and the referring URL.
 
-While you are on this site, however, information we automatically collect (such as your IP address and the referring URL), will only be used for purposes of operating this site. No tracking devices will be placed on your device while you are on this site, except by us or on our behalf, in either case for the exclusive purpose of operating this site.
+We use this type of information to measure and improve the performance of our site.  On occasion we also access this type of information to investigate or maintain the stability and security of our site.
 
-To review, change or withdraw any information you have actively shared with People Power, please contact [info@peoplepower.org](mailto:info@peoplepower.org).
+_Voluntarily Submitted Data_
 
-To review, change or withdraw any copies of that information that have been shared with the ACLU, you have the following options:
+Certain pages on the ACLU site may invite you to share personally identifying information, such as your name, address, email address, or telephone number.  Sharing that information will allow you to make a donation, join our email list, sign a petition, or participate in other similar online activities.
 
-• Click on the link in the footer of any email you receive from the ACLU and use our preference center  
-• Send e-mail to: [aclupreferences@aclu.org](mailto:aclupreferences@aclu.org)
+We may use that voluntarily submitted data to:
+
+  * Fulfill your orders or transactions.
+  * Contact you about other ACLU activities or news, or about opportunities to support the ACLU.
+  * In the case of petitions, we may display on our website your first name, last initial, city and state, and deliver your first and last name, city and state, zip code, or congressional district to the advocacy target. Where required for federal agencies to accept public comments, we may also submit your email address and other required information.
+  * In the case of direct messages to advocacy targets (such as your member of congress), all required information fields (e.g. name, email address, etc.) will be passed on to the advocacy target with your message.
+  * In the case of blog comments, post your comment and, if given, your name.
+  * Deliver content to you on platforms such as social media, other websites, search results pages and mobile apps.
+  * If you have joined People Power, share your name and contact information with other volunteers, and acknowledge your participation in specific volunteer activities.
+
+
+
+_When We May Share Your Information With Other Organizations_
+
+When we give you an opportunity to voluntarily submit information about yourself, we may give you the option of indicating that you permit us to share that data with other parties such as coalition partners or specific legislators. We will not share your data with such parties unless you have indicated that you permit us to do so.
+
+We sometimes allow other nonprofit, nonpartisan organizations to contact our members, or to contact other individuals who have chosen to share their information with us. Working with other organizations in this way, either on a rental basis or in an exchange, is critical to maintaining a strong membership base by allowing us to lower costs while reaching the widest possible audience. In order to protect your privacy, we do this through secure arrangements in which the external organization does not directly receive information about you. All such communications are done on a one-time use basis and are carried out  by a third-party vendor, which keeps your information confidential.  The external organization learns information about you only if you choose to respond to that third-party communication. If you don’t wish us to make information about you available for this type of communication, please let us know by clicking <https://www.aclu.org/contact-us> and submitting a request to opt out.  We will be sure to honor your request.
+
+In addition to those ways of sharing information with unrelated organizations, we may also share information with our own ACLU affiliates around the country.  Our affiliates are bound to use that information only as allowed under this Online Privacy Statement, and with regard to their own operations.
+
+_Our Email List_
+
+If you sign up for our email list, we may collect data by using an embedded image to track whether you open our email and by using a URL that enables us to identify that you have taken an action, such as clicking a link in an email or signing an online petition.
+
+This allows us to build a more effective advocacy program, to inform you about the ACLU issues you care about most, and to make it simpler for you to sign petitions and fill out surveys.
