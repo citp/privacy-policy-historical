@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the tufts.edu privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623181809id_/https%3A//www.tufts.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tufts.edu privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223181538id_/https%3A//www.tufts.edu/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement & Terms of Use | Tufts University
+# Privacy Statements & Terms of Use | Tufts University
 
 ## Tufts Websites
-
-Privacy Statement  |  Terms & Conditions of Use 
-
-## European Economic Area (EEA) Privacy Statements
-
-European Economic Area (EEA) Privacy Statement  |  How to Make a Subject Access Request under the GDPR  |  European Economic Area (EEA) Privacy Statement for Prospective Students and Applicants  |  EEA Privacy Statement for Students  |  EEA Privacy Statement for Students in Tufts-Sponsored Study Abroad Programs in the EEA  |  EEA Privacy Statement for Job Applicants, Faculty, Staff, Consultants and Other Persons Providing Services  |  EEA Privacy Statement for Alumni and Donors  |  EEA Privacy Statement for Research Participants
-
-### Privacy Statement
 
 This Privacy Statement discloses the privacy practices for tufts.edu and other Tufts University websites (together, a "Site" or "Sites") that have pointed you to this page. Please read these terms with the Terms & Conditions of Use. Sites may have additional privacy policy or policies. If you leave a Site and visit a website operated by a third party, Tufts University cannot be held responsible for the protection and privacy of any information that you provide while visiting such third-party websites. Accordingly, please exercise caution and review the privacy statement applicable to the website in question. To the extent permissible under applicable law, by using and/or participating in these Sites, you signify that you have read these terms and agree to be bound by and comply with them. If you do not agree to be bound by these terms, please promptly exit all Sites.
 
@@ -103,6 +95,10 @@ The email address you provide may be used to send you information, respond to in
 
 To the extent provided, we may use your user information in order to process student, financial aid or job applications, student or employee registrations, and other services and benefits that we provide to our students, employees and other persons.
 
+#### Sites Use by Minors
+
+The Sites are not directed to individuals under the age of thirteen (13), and we do not knowingly collect personal information from individuals under 13.
+
 #### Will Tufts share my personal information with others?
 
 User information may be shared with third-party partners to the extent necessary for such third parties to provide services to us or to users of our Sites, or provide and improve web services or other communications to users. Any third parties who receive user information for this purpose are prohibited from using or sharing user information for any purpose other than providing services to Tufts or to users.
@@ -121,9 +117,9 @@ Tufts University reserves the right to change, modify, or otherwise amend this P
 
 This Privacy Statement was last updated on May 25, 2018.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/PrivacyStatement.pdf)]
 
-### Terms & Conditions of Use
+Back to top
 
 Please read these Terms & Conditions of Use ("Terms of Use" or "Terms") and the Privacy Statement carefully before accessing tufts.edu or other Tufts University sites ("Site" or "Sites") or participating in any chatroom, newsgroup, bulletin board, mailing list, website, transaction or other online forum available at any of the Sites. Other Sites may also have additional terms and conditions. By using and/or participating in these Sites, you signify that you have read these terms and agree to be bound by and comply with them. If you do not agree to be bound by these terms, please promptly exit all Sites.
 
@@ -141,10 +137,8 @@ You agree that Tufts University has the right and discretion to monitor any acti
 
 You agree to use the Sites in accordance with all applicable laws. Because Tufts University is a nonprofit, tax-exempt organization, you agree that you will not use the Sites for organized partisan political activities or for the promotion of for profit businesses or products. You further agree that you will not e-mail to or post any of the following content anywhere on the Sites, or on any other Tufts computing resources:
 
-Content that defames or threatens others
-
-Harassing statements or content that violates federal or state law
-
+  * Content that defames or threatens others
+  * Harassing statements or content that violates federal or state law
   * Content that discusses illegal activities with the intent to commit them
   * Content that infringes another's intellectual property, including, but not limited to, copyrights, trademarks or trade secrets
   * Material that contains obscene (i.e. pornographic) language or images
@@ -226,13 +220,15 @@ These Terms are effective as of October 30, 2015.
 
 Tufts University reserves the right to change, modify, or otherwise these Terms at its sole discretion and at any time as it deems circumstances warrant.
 
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/TermsandCond.pdf)]
+
 Back to top
 
-### European Economic Area (EEA) Privacy Statement
+## European Economic Area (EEA) Privacy Statements
 
 _Effective starting May 25, 2018_
 
-This European Economic Area (EEA) Privacy Statement discloses information about the privacy practices with respect to personal data protected under the General Data Protection Regulation (GDPR) for the EEA. The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
+This EEA Privacy Statement discloses information about the privacy practices with respect to personal data protected under the General Data Protection Regulation (GDPR) for the EEA. The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
 
 In addition to this statement, other notices have been published applying to the use and other processing that may be subject to the GDPR of personal data of Prospective Students and Applicants; Students; Students in Tufts-sponsored Study Abroad Programs in the EEA; Job Applicants, Faculty, Staff, Consultants and Other Persons Providing Services; Alumni and Donors; and Research Participants.
 
@@ -350,9 +346,9 @@ Tufts University reserves the right to change, modify, or otherwise amend this P
 
 This Privacy Statement was last updated on May 25, 2018.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/EEAPrivSt.pdf)]
 
-### How to Make a Subject Access Request under the GDPR
+Back to top
 
 The General Data Protection Regulation (GDPR) for the European Economic Area (EEA) provides individuals with rights relating to their EEA Personal Data.
 
@@ -388,9 +384,9 @@ If we determine not to fulfill your request, we are required to notify you withi
 
 As provided in the GDPR, if a person’s data requests are clearly unfounded or excessive, we may charge a reasonable fee taking into account the administrative costs or decline to act on the requests.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/HowSAR.pdf)]
 
-### European Economic Area (EEA) Privacy Statement for Prospective Students and Applicants
+Back to top
 
 This statement provides information about the use of EEA Personal Data provided by prospective students and applicants for admission to the schools’ programs and for financial aid for those programs. This statement provides notice under the General Data Protection Regulation (GDPR) for the European Economic Area (EEA). The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
 
@@ -451,13 +447,13 @@ The University considers the processing of your personal information for the abo
 
 Your application and related materials will be shared with the appropriate faculty and staff at Tufts. Each school has developed its own practices for sharing your personal information based on its consideration of the type and sensitivity of the personal information, the purpose for which the information was provided or otherwise collected, the purpose for sharing the personal information, and the safeguards used to protect the shared information. Accordingly, under certain, considered circumstances, and when relevant, your personal information may also be shared with:
 
-  * _Parents and Guardians._ In some cases, we may share your information with a parent or guardian if necessary to properly complete the admissions process or in the event of an emergency.
+  * _Parents, Spouses, and Guardians_. In some cases, we may share your information with a parent, spouse, or guardian if necessary to properly complete the admissions process or in the event of an emergency.
   * _Service Providers._ We may use third parties to support our operations and provide services to our students. In such cases, we may share your information with these third parties.
   * _School Counselors and Administrators._ We may share your information with your school counselors and administrators.
   * _University Affiliated Programs._ We may share your information with third parties that are affiliated with the University for the purpose of contacting you about goods, services, or experiences that may be of interest to you.
   * _Research and Studies._ We may share your information with third parties that study admissions or other topics related to higher education. We may also share your information with third parties that conduct research or develop products or services designed to improve admissions and other higher education functions.
   * _Required by Law._ We may share your information with third parties to the extent we are required to do so by law, court order, or subpoena. In the case of international applicants, we may share your information with appropriate agencies including the U.S. Citizenship and Immigration Services in order to act as your sponsor for visa purposes.
-  * _Emergency Circumstances._ We may share your information with third parties if, in our sole judgment, such disclosure is necessary to protect the health, safety, or property of any person.
+  * _Emergency Circumstances._ We may share your information with a person you have designated as an emergency contact or with other third parties if, in our sole judgment, such disclosure is necessary to protect your health, safety, or property or the health, safety, or property of any other person.
   * _Compelling Purpose._ We may share your information in other cases when there is a compelling purpose regarding benefit to Tufts or members of our community.
   * _De-Identified and Aggregate Information._ We may use and disclose information about our applicants in de-identified or aggregate form without limitation.
 
@@ -473,7 +469,7 @@ If you are accepted and decide to enroll, Tufts will also provide data about you
 
 We will store your EEA Personal Data for as long as necessary to complete the application process. Some schools store applicant information permanently. If you are admitted, your personal information will normally be kept for at least one year or longer after the completion of the application process, depending on the policy of the school to which you applied. If you are admitted and decide to enroll, your personal information will be kept as part of your student record for the duration of your studies (and it may be used as part of our assessment of any future application you make for further studies at Tufts). Details about how long different types of information are retained by Tufts is published at [Records Retention Schedule](https://sites.tufts.edu/dca/records-management/records-policies/records-retention-schedule/) and is available from the school to which you applied. Additional information about how long student information may be retained is available in the EEA Privacy Statement for Students.
 
-8\. What rights do I have with respect to my EEA Personal Data?
+#### 8\. What rights do I have with respect to my EEA Personal Data?
 
 The GDPR provides you with several specific data protection rights with respect to your EEA Personal Data. These are generally described below. Further details, including how to submit a request, are published at How to make a Subject Access Request under the GDPR.
 
@@ -498,9 +494,9 @@ Tufts University reserves the right to change, modify, or otherwise amend this P
 
 This Privacy Statement was last updated on May 25, 2018.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/EEAPrivProsStuApp.pdf)]
 
-### EEA Privacy Statement for Students
+Back to top
 
 The following statement has been prepared to provide notice to students whose EEA Personal Data is collected, used or otherwise processed by Tufts University, including its schools, while they are students at Tufts. This statement provides notice under the General Data Protection Regulation (GDPR) for the European Economic Area (EEA). The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
 
@@ -573,14 +569,14 @@ As described above, your EEA Personal Data may be shared with relevant Tufts sta
 We may also share your EEA Personal Data as relevant with:
 
   * _Your Funders and Sponsors_. We may share your EEA Personal Data with organizations that may provide you funding or other financial sponsorship.
-  * _Parents and Guardians_. In some cases, we may share your EEA Personal Data with a parent or guardian if necessary, including in the event of an emergency.
+  * _Parents, Spouses, and Guardians_. In some cases, we may share your EEA Personal Data with a parent, spouse, or guardian if necessary, including in the event of an emergency.
   * _Service Providers_. We may use third parties to support our operations and provide services to our students. In such cases, we may share your EEA Personal Data with such third parties.
   * _University Affiliated Programs_. We may share your EEA Personal Data with third parties that are affiliated with the University for the purpose of contacting you about goods, services, or experiences that may be of interest to you. These may include the providers of any external/collaborative learning and training placements or fieldwork opportunities.
   * _Student Organizations_. We may share your EEA Personal Data with student clubs and other organizations in order to facilitate your knowledge of those groups.
   * _Research and Studies_. We may share your EEA Personal Data with third parties that study topics related to higher education. We may also share your EEA Personal Data with third parties that conduct research or develop products or services designed to improve higher education functions.
   * _Higher Education Organizations_. We may share your EEA Personal Data with the National Student Clearinghouse and other relevant higher education organizations.
   * _Required by Law and/or Governmental Authorities_. We may share your EEA Personal Data with third parties to the extent we are required to do so by law, court order, or subpoena. In the case of international students, we may share your EEA Personal Data with appropriate agencies including the U.S. Citizenship and Immigration Services in order to act as your sponsor for visa purposes. On occasion and when necessary, we may share your EEA Personal Data with local governmental authorities, including the police and other law enforcement bodies, and statutory regulatory bodies.
-  * _Emergency Circumstances_. We may share your EEA Personal Data with third parties if, in our sole judgment, such disclosure is necessary to protect the health, safety, or property of any person.
+  * _Emergency Circumstances_. We may share your EEA Personal Data with a person you have designated as an emergency contact or with other third parties if, in our sole judgment, such disclosure is necessary to protect your health, safety, or property or the health, safety, or property of any other person.
   * _Compelling Purpose_. We may share your EEA Personal Data in other cases when there is a compelling purpose regarding benefit to the Tufts or members of our community.
   * _De-Identified and Aggregate Information_. We may use and disclose information about our students in de-identified or aggregate form without limitation.
 
@@ -625,9 +621,9 @@ Tufts University reserves the right to change, modify, or otherwise amend this P
 
 This Privacy Statement was last updated on May 25, 2018.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/EEAPrivStStu.pdf)]
 
-### EEA Privacy Statement for Students in Tufts-Sponsored Study Abroad Programs in the EEA
+Back to top
 
 The following statement has been prepared to provide notice to students whose EEA Personal Data is collected, used or otherwise processed by Tufts University, including its schools, for students applying to Tufts-sponsored study abroad programs in the EEA, and for students while they are studying in those programs. This statement provides notice under the General Data Protection Regulation (GDPR) for the European Economic Area (EEA). The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
 
@@ -703,14 +699,14 @@ We may also share your EEA Personal Data as relevant with:
   * _Affiliated Universities and Colleges_. If the Tufts-sponsored program is affiliated with a university or college in the EEA, we will share EEA Personal Data with the staff and faculty of that university or college as part of providing courses and other educational offerings and experiences to you.
   * _Host Families_. If you will be residing with a host family, some of your EEA Personal Data will be shared with them, including your name, contact information, and other information that will be helpful for the family to provide you with a positive experience in their home.
   * _Your Funders and Sponsors_. We may share your EEA Personal Data with organizations that may provide you funding or other financial sponsorship.
-  * _Parents and Guardians_. In some cases, we may share your EEA Personal Data with a parent or guardian if necessary, including in the event of an emergency.
+  * _Parents, Spouses, and Guardians_. In some cases, we may share your EEA Personal Data with a parent, spouse, or guardian if necessary, including in the event of an emergency.
   * _Service Providers_. We may use third parties to support our operations and provide services to our students. In such cases, we may share your EEA Personal Data with such third parties.
   * _University Affiliated Programs_. We may share your EEA Personal Data with third parties that are affiliated with the University for the purpose of contacting you about goods, services, or experiences that may be of interest to you. These may include the providers of any external/collaborative learning and training placements or fieldwork opportunities.
   * _Student Organizations_. We may share your EEA Personal Data with student clubs and other organizations in order to facilitate your knowledge of those groups.
   * _Research and Studies_. We may share your EEA Personal Data with third parties that study topics related to higher education. We may also share your EEA Personal Data with third parties that conduct research or develop products or services designed to improve higher education functions.
   * _Higher Education Organizations_. We may share your EEA Personal Data with the National Student Clearinghouse and other relevant higher education organizations.
   * _Required by Law and/or Governmental Authorities_. We may share your EEA Personal Data with third parties to the extent we are required to do so by law, court order, or subpoena. In the case of international students, we may share your EEA Personal Data with appropriate agencies including the U.S. Citizenship and Immigration Services in order to act as your sponsor for visa purposes. On occasion and when necessary, we may share your EEA Personal Data with local governmental authorities, including the police and other law enforcement bodies, and statutory regulatory bodies.
-  * _Emergency Circumstances_. We may share your EEA Personal Data with third parties if, in our sole judgment, such disclosure is necessary to protect the health, safety, or property of any person.
+  * _Emergency Circumstances_. We may share your EEA Personal Data with a person you have designated as an emergency contact or with other third parties if, in our sole judgment, such disclosure is necessary to protect your health, safety, or property or the health, safety, or property of any other person.
 
 
 
@@ -745,15 +741,15 @@ If you have any questions about how your EEA Personal Data is used, or wish to e
 
 If you are not happy with the way your EEA Personal Data is being handled, or with the response received from us, you have the right to lodge a complaint with the GDPR supervisory authority in the EEA country where you habitually reside or where you believe an infringement of the GDPR occurred.
 
-12\. Changes to this Privacy Statement
+#### 12\. Changes to this Privacy Statement
 
 Tufts University reserves the right to change, modify, or otherwise amend this Privacy Statement at its sole discretion and at any time as it deems circumstances warrant. Any such changes will be posted on this page.
 
 This Privacy Statement was last updated on May 25, 2018.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/EEAStudyAbroad.pdf)]
 
-### EEA Privacy Statement for Job Applicants, Faculty, Staff, Consultants and Other Persons Providing Services
+Back to top
 
 The following statement has been prepared to provide notice to job applicants, faculty, staff, consultants and other persons providing services whose EEA Personal Data is collected, used or otherwise processed by Tufts University. This statement provides notice under the General Data Protection Regulation (GDPR) for the European Economic Area (EEA). The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
 
@@ -803,7 +799,7 @@ If you are applying for a faculty position through the Interfolio online portal,
 
 Tufts will use the details you provide on your application form, together with the supporting documents requested and additional details provided by any persons submitting letters of recommendation, and information recorded following any interview process.
 
-If you are required to undergo certain background checks or procedures as part of the job application and offer process (e.g. criminal convictions checks or visa application procedures), we will use this information as described at Background Checks Data [link to background checks section below].
+If you are required to undergo certain background checks or procedures as part of the job application and offer process (e.g. criminal convictions checks or visa application procedures), we will use this information as described at Background Checks Data.
 
 #### 6\. What is the purpose and lawful basis of the processing?
 
@@ -830,7 +826,7 @@ As well as circulating your application and related materials to the appropriate
   * _Recommendations_. In checking your references, we may share your information with persons submitting letters of recommendation. For most staff applications, Tufts contracts with a third-party service that solicits information from references on an anonymous basis.
   * _Service Providers_. We may use third parties to support our operations and provide services to our applicants. In such cases, we may share your information with such third parties.
   * _Required by Law_. We may share your information with third parties to the extent we are required to do so by law, court order, or subpoena. In the case of international applicants, we may share your information with appropriate agencies including the U.S. Citizenship and Immigration Services for visa and right to work check purposes.
-  * _Emergency Circumstances_. We may share your information with third parties if, in our sole judgment, such disclosure is necessary to protect the health, safety, or property of any person.
+  * _Emergency Circumstances_. We may share your information with a person you have designated as an emergency contact or with other third parties if, in our sole judgment, such disclosure is necessary to protect your health, safety, or property or the health, safety, or property of any other person.
   * _Compelling Purpose_. We may share your information in other cases when there is a compelling purpose regarding benefit to Tufts or members of our community.
   * _De-Identified and Aggregate Information_. We may use and disclose information about our applicants in de-identified or aggregate form without limitation.
 
@@ -838,7 +834,7 @@ As well as circulating your application and related materials to the appropriate
 
 #### 8\. How is my EEA Personal Data used if I become a member of faculty, staff, a consultant or otherwise selected for a position at Tufts?
 
-If you receive an offer of employment and you accept it, we will use your EEA Personal Data for the purposes described at Faculty, Staff, Consultants and Other Persons Providing Services [add link to section below], as amended from time to time.
+If you receive an offer of employment and you accept it, we will use your EEA Personal Data for the purposes described at Faculty, Staff, Consultants and Other Persons Providing Services, as amended from time to time.
 
 #### 9\. How long will my EEA Personal Data be kept?
 
@@ -848,7 +844,7 @@ In addition, if you apply for a faculty appointment, the school may also retain 
 
 #### II. Background Check Data
 
-This page describes how your EEA Personal Data is used and stored if you are required to undergo certain background checks or procedures as part of the application and offer process. It supplements the general information about how we use your EEA Personal Data as an applicant for a position (see Job Applicants) [add link to job applicant section]. The checks and procedures covered by this section include basic background checks, including verification of education and prior employment, CORI reports, security clearance checks, any application for immigration purposes including where visa sponsorship is required, and similar processes that will only affect some applicants, whether because of the type of position you are applying for or because of your individual status. The sensitive information that may be processed may include information about past criminal convictions, including sex offender convictions, motor vehicle records, and your fitness to practice in certain regulated professions. If any of these checks affect you, we will make this clear to you at the relevant point in the application process.
+This page describes how your EEA Personal Data is used and stored if you are required to undergo certain background checks or procedures as part of the application and offer process. It supplements the general information about how we use your EEA Personal Data as an applicant for a position (see Job Applicants). The checks and procedures covered by this section include basic background checks, including verification of education and prior employment, CORI reports, security clearance checks, any application for immigration purposes including where visa sponsorship is required, and similar processes that will only affect some applicants, whether because of the type of position you are applying for or because of your individual status. The sensitive information that may be processed may include information about past criminal convictions, including sex offender convictions, motor vehicle records, and your fitness to practice in certain regulated professions. If any of these checks affect you, we will make this clear to you at the relevant point in the application process.
 
 In all cases, we will only use any information gathered as part of any relevant check or procedure for that specific purpose, and it is our policy to handle, store, retain and destroy relevant materials in accordance with applicable laws and regulations and standards of practice. This means that access to any relevant materials (including any forms completed by Tufts) is strictly controlled. We retain the results of the relevant checks. We will only share any relevant information with external parties insofar as we are required to do so or doing so is necessary (this may include partner organizations or employers and third party vendors who provide associated services).
 
@@ -862,7 +858,7 @@ As a member of faculty, staff, consultant or other person providing services at 
 
 #### 2\. How does this webpage relate to other information about data protection?
 
-When you were a job applicant, you were told how Tufts would use your EEA Personal Data during the recruitment process and for related purposes. (see Job Applicants [add link to section above]). You were referred to this webpage for a fuller statement of the uses we would make of your EEA Personal Data if you became a member of faculty, staff, consultant, or other person providing services at Tufts University. In addition to the information published here, when you use specific services and facilities offered by Tufts, you will be told about other uses of your EEA Personal Data. For example, there are separate statements for persons who use or engage with Tufts websites (see [Privacy Statement](https://www.tufts.edu/about/privacy)), IT services (see [Use of Institutional Systems Policy](https://it.tufts.edu/ispol)), the Office of Equal Opportunity (see <http://oeo.tufts.edu/>) and the libraries (see [Tufts University Libraries Privacy Policy](http://www.library.tufts.edu/privacyPolicy.html)).
+When you were a job applicant, you were told how Tufts would use your EEA Personal Data during the recruitment process and for related purposes. (see Job Applicants). You were referred to this webpage for a fuller statement of the uses we would make of your EEA Personal Data if you became a member of faculty, staff, consultant, or other person providing services at Tufts University. In addition to the information published here, when you use specific services and facilities offered by Tufts, you will be told about other uses of your EEA Personal Data. For example, there are separate statements for persons who use or engage with Tufts websites (see [Privacy Statement](https://www.tufts.edu/about/privacy)), IT services (see [Use of Institutional Systems Policy](https://it.tufts.edu/ispol)), the Office of Equal Opportunity (see <http://oeo.tufts.edu/>) and the libraries (see [Tufts University Libraries Privacy Policy](http://www.library.tufts.edu/privacyPolicy.html)).
 
 #### 3\. Who will process my EEA Personal Data?
 
@@ -944,25 +940,25 @@ The GDPR provides you with several specific data protection rights with respect 
 
 
 
-#### 9\. How can I access my personnel file?
+#### 2\. How can I access my personnel file?
 
 In addition to your rights to access your EEA Personal Data, as described above, you may also request a copy of your personnel file. See [Statement on Personnel Records](https://access.tufts.edu/personnel-records).
 
-#### 10\. Where can I go if I have questions?
+#### 3\. Where can I go if I have questions?
 
 If you have any questions about how your EEA Personal Data is used, or wish to exercise any of your rights, please consult the EEA Privacy Statement and How to make a Subject Access Request under the GDPR. If you need further assistance, please contact Tufts’ Data Privacy Team at [dataprivacy@tufts.edu](mailto:dataprivacy@tufts.edu).
 
 If you are not happy with the way your EEA Personal Data is being handled, or with the response received from us, you have the right to lodge a complaint with the GDPR supervisory authority in the EEA country where you habitually reside, where you work, or where you believe an infringement of the GDPR occurred.
 
-#### 11\. Changes to this Privacy Statement
+#### 4\. Changes to this Privacy Statement
 
 Tufts University reserves the right to change, modify, or otherwise amend this Privacy Statement at its sole discretion and at any time as it deems circumstances warrant. Any such changes will be posted on this page.
 
 This Privacy Statement was last updated on May 25, 2018.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/EEAPrivStJobs.pdf)]
 
-### EEA Privacy Statement for Alumni and Donors
+Back to top
 
 The following Statement has been prepared to provide notice to alumni and donors whose EEA Personal Data is collected, used or otherwise processed by Tufts University. This statement provides notice under the General Data Protection Regulation (GDPR) for the European Economic Area (EEA). The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
 
@@ -1091,9 +1087,9 @@ Tufts University reserves the right to change, modify, or otherwise amend this P
 
 This Privacy Statement was last updated on May 25, 2018.
 
-Back to top
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/EEAAlum.pdf)]
 
-### EEA Privacy Statement for Research Participants
+Back to top
 
 The following statement has been prepared to provide notice to research participants whose EEA Personal Data is collected, used or otherwise processed by Tufts University, including its schools. This statement provides notice under the General Data Protection Regulation (GDPR) for the European Economic Area (EEA). The GDPR became effective on May 25, 2018. The GDPR is a regulation adopted for the EEA that governs the use and processing of personal information. Tufts is committed to processing your EEA Personal Data in compliance with the GDPR and has prepared this statement to provide you with information about your rights under the GDPR.
 
@@ -1105,27 +1101,27 @@ For purposes of this statement for participants, your personal information is EE
 
 The GDPR often uses the term “processing,” which includes any way of working with personal data, from collecting to using to sharing to disposing of it. GDPR Article 4(2).
 
-#### 3\. How does this webpage relate to other information about data protection?
+#### 2\. How does this webpage relate to other information about data protection?
 
 The general information published on this page is intended to supplement the specific information that you have already been given (for example on a participant information sheet or a consent form) in connection with your participation in a research study or project run by academic researchers affiliated with Tufts University. The below information applies to all studies and projects that are conducted by Tufts researchers. In the unlikely event that there is any contradiction between this general information and the specific information that you have already been given, the specific information takes precedence.
 
 In addition to the information published here, when you use specific services and facilities offered by Tufts, you may be told about other uses of your EEA Personal Data. For example, there are separate statements for persons who use or engage with Tufts websites (see Privacy Statement) and IT services (see [Use of Institutional Systems Policy](https://it.tufts.edu/ispol)).
 
-#### 4\. What EEA Personal Data will be processed, who will process my EEA Personal Data, and who will my EEA Personal Data be shared with?
+#### 3\. What EEA Personal Data will be processed, who will process my EEA Personal Data, and who will my EEA Personal Data be shared with?
 
 You have already been told about the types of personal information we will use in connection with the specific research study or project you are participating in and (where applicable) its sources, any data sharing or international transfer arrangements, and any automated decision-making that affects you.
 
 You have already been told about the types of personal information we will collect and process in connection with the specific research study or project you are participating in and where and how we might collect those data, any data sharing or international transfer arrangements that may be part of the research project, and any automated decision-making that affects you.
 
-#### 5\. What is the purpose and legal basis of the processing of EEA Personal Data?
+#### 4\. What is the purpose and legal basis of the processing of EEA Personal Data?
 
 In general terms, we use your EEA Personal Data (including, where appropriate, EEA Personal Data that is sensitive) to carry out academic and/or translational research in the public interest.
 
-#### 6\. How long will my EEA Personal Data be kept?
+#### 5\. How long will my EEA Personal Data be kept?
 
 You have already been told about the long-term use (and, where applicable, re-use) and retention of your EEA Personal Data in connection with the specific research study or project you are participating in. General information about how long different types of information are retained by Tufts is published at [Records Retention Schedule](https://sites.tufts.edu/dca/records-management/records-policies/records-retention-schedule/).
 
-#### 7\. What rights do I have with respect to my EEA Personal Data?
+#### 6\. What rights do I have with respect to my EEA Personal Data?
 
 The GDPR provides you with several specific data protection rights with respect to your EEA Personal Data. These are generally described below. Further details, including how to submit a request, are published at How to make a Subject Access Request under the GDPR.
 
@@ -1138,7 +1134,7 @@ The GDPR provides you with several specific data protection rights with respect 
 
 
 
-#### 8\. Where can I go if I have questions?
+#### 7\. Where can I go if I have questions?
 
 If you have any questions about the particular research study you are participating in, please use any contact details you have already been supplied with.
 
@@ -1146,10 +1142,12 @@ If you have any questions about how your EEA Personal Data is used, or wish to e
 
 If you are not happy with the way your EEA Personal Data is being handled, or with the response received from us, you have the right to lodge a complaint with the GDPR supervisory authority in the EEA country where you habitually reside or where you believe an infringement of the GDPR occurred.
 
-#### 9\. Changes to this Privacy Statement
+#### 8\. Changes to this Privacy Statement
 
 Tufts University reserves the right to change, modify, or otherwise amend this Privacy Statement at its sole discretion and at any time as it deems circumstances warrant. Any such changes will be posted on this page.
 
 This Privacy Statement was last updated on May 25, 2018.
+
+[[Click here for a PDF.](https://web.archive.org/sites/default/files/EEAResearch.pdf)]
 
 Back to top
