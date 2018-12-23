@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vinomofo.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707233415id_/https%3A//www.vinomofo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinomofo.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223023452id_/https%3A//www.vinomofo.com/privacy) for the most accurate reproduction.*
 
-# Vinomofo - Privacy
+# Privacy | Vinomofo Australia
 
 ## Our Privacy Policy
 
@@ -74,14 +74,12 @@
 
   1. We are only allowed to, and only want to, keep your personal information if it is correct.
   2. At any time you can contact us and seek access to or correction of the personal information we hold about you.
-  3. We are contactable by email at team@vinomofo.com or write to us at: Vinomofo Pty Ltd t/a Vinomofo, Tenancy 4, Level 2, 6 Palmer Parade, Cremorne, VIC 3121, Australia.
+  3. We are contactable by email at [team@vinomofo.com](mailto:team@vinomofo.com) or write to us at: Vinomofo Pty Ltd t/a Vinomofo, Tenancy 4, Level 2, 6 Palmer Parade, Cremorne, VIC 3121, Australia.
   4. If you wish to complain about a breach of your rights under the Privacy Act 1988 (Cth) please contact us on the email and postal addresses above providing details of your complaint in writing.
   5. We will respond to any complaint within 30 days. If you aren’t happy with our response you can complain directly to the Office of the Australian Information Commissioner at http://www.oaic.gov.au/privacy/making-a-privacy-complaint
 
 
 
-> If you have any questions about privacy, your personal information, direct marketing, spam or our obligations or this policy please contact us at team@vinomofo.com.
+> If you have any questions about privacy, your personal information, direct marketing, spam or our obligations or this policy please contact us at [team@vinomofo.com](mailto:team@vinomofo.com).
 
 This Privacy Policy was last updated on 12 March 2014.
-
-Still awake? Well done. I nodded off at least twice while typing that out. Here’s a video of a sausage dog puppy sleep-digging:
