@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the baseballamerica.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623081936id_/https%3A//www.baseballamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballamerica.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223185556id_/https%3A//www.baseballamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Baseball America Enterprises Privacy Policy
 
 [
 
-Join Now! Bundle Print + Digital + eEdition And Save $60/year
+Sign Up! Join our newsletters, get a FREE e-Edition
 
-](https://web.archive.org/sign-up/ "Sign Up")
+](https://go.baseballamerica.com/newsletters "https://go.baseballamerica.com/newsletters")
 
 [ ](https://web.archive.org/)
 
