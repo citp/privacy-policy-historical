@@ -1,164 +1,245 @@
-> *The following text is extracted and transformed from the breakingbadstore.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229112434id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingbadstore.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223231211id_/https%3A//www.breakingbadstore.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# CafePress.com : Customer Service : CafePress Privacy Statement
+# Privacy Policy – Breaking Bad Store
 
-**Effective: May 2016**
+Last Updated: May 24, 2018
 
-CafePress values the trust you place in us when you use CafePress.com and our affiliated websites, applications or tools (collectively, our “Websites”).Your privacy and trust are important to us and who we are as a company.This Privacy Statement describes our collection, use, disclosure, retention, and protection of your information. This Privacy Statement applies to our Websites that link to it, regardless of how you access or use them, including through mobile devices. 
+* * *
 
-BY USING OUR SERVICES AND/OR REGISTERING WITH US, YOU ARE ACCEPTING THE TERMS OF THIS PRIVACY STATEMENT AND OUR USER AGREEMENT, AND YOU ARE CONSENTING TO OUR COLLECTION, USE, DISCLOSURE, RETENTION, AND PROTECTION OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT. IF YOU DO NOT PROVIDE THE INFORMATION WE REQUIRE, WE MAY NOT BE ABLE TO PROVIDE ALL OF OUR SERVICES TO YOU. 
+Welcome to our online shop! This shop is owned and operated by Araca Merchandise L.P. Like you, everyone at Araca is a huge fan of entertainment. We specialize in creating online shops that help fans pursue their passion for collecting. Thank you for visiting and have a great time!
 
-If you do not agree to the terms of this Privacy Statement, please do not use our Websites. We may make changes to this Privacy Statement from time to time. We will post any changes to our Websites. Your continued use of our Websites following the posting of any changes will mean you accept those changes. 
+Your privacy is important to us. Araca Merchandise L.P. and its affiliates (“Araca,” “we,” “us,” or “our”) provide this notice explaining our information practices and the choices you can make about the collection and use of information while you are shopping in our online shops, including via mobile sites (collectively, the “Services”). For certain offerings of our Services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
-**Information We Collect About You**
+_By visiting our shop, you are accepting and consenting to the practices described in this Privacy Policy. Please read them carefully.   You can change your consent to this Privacy Policy, or manage your privacy preferences, at any time here. _
 
-**How We Use Your Information**
+The following is a summary of the highlights of our Privacy Policy that we thought you would be most interested in:
 
-**How We Share Your Information With Others**
+Information We Collect From You
 
-**Tracking and Interest-Based Advertising**
+  * **Account information you provide**.   When you register for an account or engage with our Services, you provide personal information (e.g., name, address, e-mail, phone number, credit card information) to allow us to service your account.
+  * **Other information you provide**.  You may also provide us with information when interacting with our Services, e.g., information about your interests in our products and services.
+  * **Your activity in the Store**. We collect information on the Store pages you visit and the products you buy.
+  * **Information from your device**.  We collect information from the browser you use, and your navigation to and away from our Store.  We use Cookies to collect this information. 
 
-**How We Secure Your Information**
+| 
 
-**How to Access and Modify Your Information**
+Managing Your Information
 
-**How to Limit the Use of Your Information**
-
-**Other Important Information**
-
-**Questions or Report a Problem**
+  * You may erase, update or correct your profile information through our [Account Settings page](https://web.archive.org/account/) or by sending us an email to [privacy@araca.com](mailto:privacy@araca.com)
+  * If you want to unsubscribe or receive fewer promotional e-mails, click the Update Your Preferences link included in our marketing emails, or simply follow the unsubscribe instructions in our marketing e-mails.
+  * To reject certain cookies, choose the option in your browser settings to receive a notice before a cookie is stored on your device.
+  * To opt-out of use of cookies by certain of our advertisers or technology vendors who help deliver ads tailored to your profile and preferences, visit [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/).
+  * Your devices provide certain opt-out choices that you can control. Consult your device settings for more information.
 
   
+---|---  
+  
+How We Use Your Information
 
+  * **To fulfill your orders**.  We use the account information you provide to fulfill your requests, track and ship orders, and to communicate with you regarding an order.
+  * **To improve our Services**.  We use your purchases and preferences to enhance and improve our product offerings, services, and business operations.
+  * **To suggest additional Services and products**.  We may display personalized content and advertising from us or from our business partners to provide information on products and messages we think will interest you.
 
-### **Information We Collect About You**
+| 
 
-We collect, process, and retain information from you and any devices (including mobile devices) you may use when you use our Websites or services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us. The specific information we collect depends upon your use of the Websites, as described below. 
+Disclosure of Information
 
-**_Information You Give Us:_** We receive and store information you enter on our Websites or give us in any other way, including your name, physical address, phone number, email address, and payment information. 
+We may share your information:
 
-**_Information About Your Interaction With Our Websites:_** We collect information about your interactions with our Websites, such as the purchases you make or the advertisements you view. 
+  * Where we have your consent.
+  * With third party service providers and other companies that work on our behalf or with our affiliates.
+  * With business partners, such as those who sponsor a sweepstakes, contest or promotion.
+  * With the licensor of this website, and the licensor’s affiliates.
+  * In the event of a corporate transaction.
+  * When required by law.
 
-**_Information We Automatically Collect:_** We receive and store certain types of information whenever you interact with us or our Websites. Our Websites use “cookies,” tagging and other tracking technologies to help enable you to shop on our Websites, and enable us to enhance or personalize your online browsing and shopping experience. This information includes computer and connection information such as statistics on your page views, traffic to and from our Websites, referral URL, ad data, your IP address, and device identifiers; this information may also include your browsing history, transaction history, and your web log information. 
+  
+  
+Additional Information
 
-**_Location Information:_** When you download or use **apps created by CafePress** or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. Geo-location information allows us to provide location-based services, such as advertising, search results, and other personalized content. 
+  * We take appropriate security measures designed to safeguard the information we collect.
+  * We do not sell products for purchase by children. We sell products for purchase by adults.
+  * We operate internationally, but our computer systems are based in the U.S., so your information will be processed in the U.S. that may have different data laws than your country.
 
-**_Information From Social Media and Other Sites:_** When you interact with our Websites or services on a social media platform, we may collect the personal information that you make available to us on that page, including your account ID or username and other information included in your posts. If you choose to log in to your CafePress account with or through a social networking service, CafePress and that service may share certain information about you and your activities. 
+| 
 
-**_Information From Other Sources:_** We may supplement the personal information we collect with information from third parties and add it to your account information. Information from third parties may include, but is not limited to, demographic information that is publically available, additional contact information, group affiliations, occupational information, and educational background. 
+Contact us
 
-### **How we Use your information**
+If you have any questions about this Privacy Policy, please contact us at [privacy@araca.com](mailto:privacy@araca.com) or at
 
-We use your information to help us personalize and continually improve your experience on the Websites, including fulfilling your orders and requests for information, analyzing and compiling trends and statistics, and communicating with you. For information about how to manage your information and the choices you have, see **how to limit the use of your information** below. 
+Araca Merchandise L.P.   
+Attn: Privacy Resolution Team   
+459 Park Ave.    
+San Fernando, CA 91340  
+  
+## INFORMATION WE COLLECT
 
-**_General Uses._**
+We collect information about you in a few different ways, including when you provide it to us directly through the Services and from your interaction with our Services. Certain third parties may also collect information about you, either directly or from your interaction with our Services.
 
-We may use your information to: 
+### Information You Provide to Us.
 
-  * Provide, maintain, and improve the Websites for internal or other business purposes;
-  * Fulfill requests for information;
-  * Provide, produce, and ship the products that you order or the services you request;
-  * Provide customer support;
-  * Track and evaluate the use of the Websites;
-  * Communicate with you about your Customer Account, Content Owner Account, profile or transactions with us, or changes to our policies or terms;
-  * Send you information about features and enhancements on or to our Websites;
-  * Send you newsletters or other materials;
-  * Send you offers or other communications about our products and services, such as special or promotional events, including services, products, or events for which we collaborate or co-offer with a third party;
-  * Administer contests, sweepstakes, promotions, and surveys;
-  * Detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal;
-  * Optimize or improve our products, services and operations; and
-  * Perform statistical, demographic, and marketing analyses of users of the Websites and their viewing patterns.
+We collect information that you voluntarily give to us. When you create an account to browse and purchase products in the shop, you provide us information like your name, address, email address, telephone number, and credit card and billing information.   We may also collect content you choose to post to our Services, like comments, product reviews and ratings, and videos and photos. For example, you may upload a photo to the shop in order to customize merchandise you would like to purchase.
 
+### Information We Collect from Your Device.
 
+We also collect certain information when you use our Services, such as the type of browser you are using (e.g., Chrome, Firefox, Internet Explorer, Safari) and the version of your browser, the type of operating system you are using (e.g., Windows, Mac OS, iOS, Android), the domain name of your Internet service provider or mobile carrier, IP address, mobile device IP address (e.g., MAC address), unique device identifier, your precise location information, and certain usage information.
 
-We may use the information from one portion of the Websites on other portions of the Websites, and we may combine information gathered from multiple portions of the Websites into a single record. We may also use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. 
+### Information From Other Sources.
 
-We do not share your personal information with third parties, except as set forth below. We may disclose information that does not specifically identify you, such as aggregate information, device identifiers or other unique identifiers to third parties in any manner we deem appropriate. For information about how to manage your information and the choices you have, see **how to limit the use of your information** below. 
+We may, on occasion, combine information we receive online with outside records and use such information in accordance with this Privacy Policy, such as to enhance our ability to market to you products or services that may be of interest to you and to personalize your experience
 
-**_Third-Party Service Providers:_** We have affiliates and service providers that perform functions on our behalf, including, but not limited to: hosting, content syndication, content management, technical integration, marketing, analytics, customer service, and fraud protection. For example, we use third parties to process payments made to us and assist with product fulfillment and other operations. These third parties may have access to your personal information when needed to perform their functions. If we share information with these third parties that personally identifies you, such as your name, address, or phone number, we will require the third parties to maintain the confidentiality and security of your personal information, and they will be restricted from using, selling, or distributing such personally identifiable information in any way other than to provide the requested services to the Websites. 
+### Cookies and Other Technical Information.
 
-**_Business Partners:_** We may engage in activities that include sharing your personally identifying information with business partners who provide products and services that we think you may be interested in. 
+Our Services use “cookies” and other similar technology such as “Web beacons.” Cookies are text files containing small amounts of information which are downloaded to your device when you visit a site. Cookies are then sent back to the originating site on each subsequent visit, or to another site that recognizes that cookie.
 
-**_Sale, Assignment or Change of Control:_** We may change our ownership or corporate organization while providing the Websites. We may transfer to another entity or its affiliates some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or any business, other change of control transaction or financing. Under such circumstances, we would request the acquiring party to follow the practices described in this Privacy Statement. Nevertheless, we cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Privacy Statement. 
+Cookies do a lot of different jobs, like remembering your preferences, and generally improving the user experience. You can find more information about cookies at [All About Cookies](http://www.allaboutcookies.org/). Web beacons are electronic images that often work in conjunction with cookies.
 
-**_Law Enforcement, Legal Process, and Emergency Situations:_** We may also use or disclose your personal information if required to do so by law or on the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or our Websites; (b) protect and defend our rights or property, the Websites or our users, or (c) act to protect the personal safety of us, users of the Websites or the public. In particular, if you are a Content Owner (as defined by our **User Agreement** ), we may disclose your information to a third party that alleges that you have infringed their intellectual property rights through the products sold through our Websites. Similarly, if you allege that a Content Owner is infringing upon your intellectual property rights, we may disclose your information to that Content Owner. 
+We use cookies for the following purposes:
 
-### **Tracking and interest-based advertising**
-
-Like many websites, we use tracking technologies such as cookies, web beacons and similar technologies to record your preferences, track the use of our Websites and exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the Websites, and make it easier to use and more relevant. 
-
-We partner with third party advertising companies who also use these tracking tools to provide advertisements on our Websites or other websites. These third parties may use these technologies to collect information about you when you use the Websites. They may collect information about your online activities over time and across different websites and other online services. They may also use persistent identifiers to track your Internet usage across other websites in their networks beyond the Websites. They may use this information to provide you with interest-based advertising or other targeted content. While we do not knowingly provide these entities with information that personally identifies you such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us. To learn more about the third-party collection and use of your information, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Digital Advertising Alliance](http://www.aboutads.info/choices/). 
-
-Some content or applications, including advertisements, on the Websites may be served by unaffiliated third parties. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. We are not responsible for the content or privacy practices on any website not operated by CafePress to which our Websites link or that link to our Websites. 
-
-Your browser or device may include “Do Not Track” functionality. CafePress’ information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this Privacy Statement, whether or not a Do Not Track signal is received. 
-
-### **How We Secure Your Information**
-
-We do our best to provide you with a safe and convenient shopping experience. Our Websites incorporate physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including the use of encryption, firewalls, limited access and other controls where appropriate. **_While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline._**
-
-You can help protect the privacy of your own information by using encryption and other techniques to prevent unauthorized interception of your personal information. You are responsible for the security of your information when using unencrypted, public or otherwise unsecured networks. 
-
-### **How to Access and Modify your information**
-
-We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access and make corrections to it. This includes: 
-
-  1. Giving you the ability to see, review, and change your personal information by signing in to your account at **cafepress.com**. 
-
-
-  2. Honoring any statutory right you might have to access, modify or erase your personal information. To request access and to find out whether any fees may apply, if permitted by applicable state, federal, or national law (outside of the United States), please contact [**privacy@cafepress.com**](mailto:privacy@cafepress.com). 
+  1. **Required Functions**.      Certain cookies are required for the basic functionality of our shopping cart.
+  2. **Analytics**.  We use cookies to track and collect data across our Store, which we review in order to provide a better shopping experience.
+  3. **Marketing**.  We use cookies to provide you with relevant marketing materials from this Store.
+  4. **Marketing Additional Services**.  We use cookies to alert our customers to additional services and products provided by third-parties.
 
 
 
-We may not be able to delete your personal information without also deleting your user account. You will not be permitted to examine the personal information of any other person or entity. In order to verify your identity, you may be required to provide us with personal information prior to accessing any records containing information about you. We may not accommodate a request to change or delete personal information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect. 
+Our service providers also use cookies, and these cookies may be stored on your computer when you visit our website for the following purposes:
 
-### **How to limit the use of your information**
+  1. to provide us with our core shopping cart functionality.
+  2. to analyze the use of our website.
+  3. to provide our customers with a wishlist feature and to notify customers when items are back in stock.
 
-In many instances, you have choices about the information you provide and limiting how we use your information. These choices, and any related consequences, are described in detail below. 
 
-**_Personal Information:_** You may choose not to provide your personal information, such as your name, address, phone number or payment information, but then you might not be able to take advantage of many of our site and/or checkout features. 
+  4. to provide recommended shopping suggestions.
+  5. to provide our shopping cart with the ability to geo-locate a user based on their IP Address.
+  6. to provide us with a content-delivery network for content on our store.
+  7. to provide us with a mailing list signup popup.
 
-**_Emails, Newsletters, and other Communications:_** When you create an account through our Websites, you are required to provide us with an accurate e-mail address through which we may contact you. Registration through our Websites or apps constitutes your express acknowledgment that CafePress may use your e-mail address to communicate with you about product offerings from CafePress, its affiliates, selected vendors, and/or partners. While you cannot opt-out of receiving notifications and other communications regarding your account or your transactions, you can opt-out of receiving newsletters and promotional emails and other marketing communications from us by: (1) using the “unsubscribe” feature in our marketing e-mails; (2) clicking **unsubscribe** here; or (3) contacting **Customer Service**. 
 
-**_Location Tracking:_** Most mobile devices allow you to control or disable the use of location services by any application on your mobile device through the device’s settings’ menu. 
 
-**_Online Tracking and Interest-Based Advertising:_** You also have choices to limit some tracking mechanisms that collect information when you use the Websites. Many web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. If you choose to decline cookies, certain features of our Websites, including the Websites themselves, may not function properly or remain accessible to you. In addition, you may also render some web beacons unusable by rejecting or removing their associated cookies. Note that if you choose to remove cookies, you may remove opt-out cookies that affect your advertising preferences. 
+Cookies allow you to take advantage of some of our shop’s essential features. If you block or otherwise reject some of our cookies, you will not be able to add items to your shopping cart.
 
-You may opt out of tracking of analytics data by Google Analytics, one of our customer usage analytics providers, by clicking [here](http://www.google.com/intl/en/policies/privacy/). 
+By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein.   For information on how to opt-out of certain cookies, please review the section below entitled Your Choices: Cookies.
 
-Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/)and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php). 
+We do not currently alter our practices when we receive Do Not Track signals because there is no consensus among industry participants as to what "Do Not Track" means in this context. To find out more about "Do Not Track," you may wish to visit [All About Do Not Track](http://allaboutdnt.com/).
 
-Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see: 
+## HOW WE USE THE INFORMATION
 
-Apple: <http://support.apple.com/kb/HT4228>
+We use information we, or our third party service providers, collect about you for a few different purposes, either as described in this policy or as we otherwise disclose to you when you interact with our Services. For example, we may use your information as follows:
 
-Android: <http://www.google.com/policies/technologies/ads/>
+### Providing Products and Services.
 
-Windows: <http://choice.microsoft.com/en-US/opt-out>
+We use the information we collect about you to:
 
-Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms. 
+  * provide you with our products, programs, and services;
+  * process your transactions, track and ship orders;
+  * administer surveys, sweepstakes or contests;
+  * respond to your inquiries about our offerings;
+  * provide, personalize, and improve our offerings and Services; and
+  * offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you.
 
-### **Other Important Information**
 
-**_Users Under Thirteen:_** Our Services are intended for users ages 13 and older only. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. 
 
-**_Users Thirteen to Seventeen:_** Prospective users between the ages of 13 and 17 can only use our Services under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your personal information in our database and/or **opt-out** from receiving communications from us. If you wish to do so, please contact us at [**privacy@cafepress.com**](mailto:privacy@cafepress.com). 
+### Communicating with You.
 
-**_Users Outside of the United States:_** If you use our Websites outside of the United States, you understand and consent to the transfer of your personal information to, and the collection, processing, and storage of your personal information in, the United States and other countries. The laws in the U.S. regarding personal information may be different than the laws of your state or country. 
+We use the information we collect about you to communicate with you, including via email, phone, sms text message or push notifications, as you decide, for reasons such as:
 
-**_Notice to California Residents:_** If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding the disclosure of your personal information by CafePress and its related companies to third parties for the third parties' direct marketing purposes. To make such a request, please send your request, by mail, to: 
+  * to confirm purchases you have made through our Services;
+  * to confirm that your purchases have shipped;
+  * to invite you to review purchases made via the Services;
+  * to notify you of items left in your shopping cart;
+  * to notify you when you have won a contest or sweepstakes;
+  * to notify you when we make changes to our user agreements;
+  * to fulfill a request by you for an online newsletter;
+  * to provide you with product recommendations;
+  * to provide you with access to personalized information based on your location;
+  * to contact you about your account with us; and
+  * to offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you.
 
-CafePress Inc.  
-Attn: Legal - CA Privacy  
-11909 Shelbyville Road  
-Louisville, KY 40243 
 
-### **Questions or Report a Problem**
 
-For questions about our Privacy Statement, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact CafePress Inc. by email, telephone or postal mail: 
+We use the information that you provide about others to enable us to send them invitations, gifts, cards, or other content on your behalf or through our Services. From time to time, we also may use this information to offer products, programs, or services to them.
 
-**CafePress Customer Service**  
-6901 A Riverport Drive  
-Louisville, KY 40258  
-(877) 809-1659  
-Email: [**Customer Service**](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-895837539590351752/escalate!PAGETYPE)
+### Improving and Personalizing the Service.
+
+We use aggregate information about you and non-personal information that we collect to improve the design, functionality and content of our Services, and to enable us to personalize your experience with our Services and offerings. We use this information to (i) provide, maintain, personalize, protect, improve, and develop our products, programs, and services and to operate our business, (ii) to analyze usage and performance of our Services, and (iii) for us and our affiliates, business partners, and selected third parties to offer you products, programs, or services.
+
+**Retaining Your Information**.  We keep your data as long as required to service your account, to promote our legitimate business interests, and to comply with our legal and contractual obligations.  You may remove your data at any time by emailing [privacy@araca.com](mailto:privacy@araca.com). 
+
+## INFORMATION SHARING AND DISCLOSURE
+
+### Legal and Law Enforcement Purposes.
+
+We may disclose personal information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We also may disclose such information to third parties in connection with fraud-scoring, detection, and prevention activities or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](https://web.archive.org/pages/terms-and-conditions/), to protect our rights and the rights of others, and as otherwise required by law.
+
+### Business Transactions.
+
+We may transfer information about you in the event of or negotiation of a business transaction, such as if we are acquired by, sold to, or merged with another company, or in connection with financing, bankruptcy, or dissolution proceedings.
+
+### Service Providers.
+
+Our agents and contractors, such as our shipping partners, order management system and fraud prevention providers, may have access to personal information to help carry out the services they are performing for us, such as shipping orders, processing orders, hosting product reviews, and preventing fraud.
+
+### Licensors and Other Third Parties.
+
+We may disclose aggregate information and non-personal information about you to certain of our product and/or website Licensors and their affiliates, and business partners to improve our Services, and we may disclose personal information about you to certain product Licensors to communicate with you about their own products and services if you choose to receive such communications.
+
+### Technology Providers and Ad Servers.
+
+While using the Service, third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Services and elsewhere. For more information about third party ad servers and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
+
+### Video Purchasing Information.
+
+We may share the titles of the films or TV shows that you have purchased through our Services (e.g., DVDs or Blu-rays) with third party services, including our Product Licensors or business partners, in order to fulfill your order, create and track wish lists and order histories, recommend products to you based on your interests, for research purposes, and to improve our Services.
+
+### Linked Sites.
+
+Some of our Sites contain links to other sites whose information practices may be different from ours. Visitors should consult the other sites’ privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties.
+
+### Sponsors and Co-Promotions.
+
+We sometimes may offer contests, sweepstakes, promotions, games, applications or social network integrations that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personal information that you voluntarily submit to participate in the activity. We have no control over these third parties' use of this information.
+
+## YOUR CHOICES
+
+There are a number of ways you can learn about, control and make changes to how we and third parties collect, use and share your information.
+
+### Profile Information.
+
+You may update or correct your profile information through our [Account Settings page](https://web.archive.org/account/) or by sending us an email to [privacy@araca.com](mailto:privacy@araca.com)
+
+### Marketing Communications.
+
+We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you can visit our Marketing Preference page where you may choose how often you would like to receive certain communications from us or where you may choose to unsubscribe from receiving certain communications from us. Additionally, you may follow the “unsubscribe” instructions provided in any marketing email you receive from us. You may also send us an email at [privacy@araca.com](mailto:privacy@araca.com) with your request, and we will edit your preferences accordingly. Please note, if you unsubscribe or opt out of communications, we may still send you non-promotional e-mails, such as e-mails about your account, order and shipping confirmations, notifications that you left something in your shopping cart, or in regard to our ongoing business relations.
+
+### Cookies.
+
+Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you wish to reject cookies from our site, but wish to accept those from other sites, you may choose the option in your browser settings to receive a notice before a cookie is stored on your device. Please consult the “Help” section of your browser for more information. To find out more, please consult [All About Cookies](http://www.allaboutcookies.org/). If you choose to remove or reject cookies, this could affect certain features of our Services and may result in removing opt-out cookies used to express your choice about online tracking and personalized ads. You can choose to opt-out of use of cookies by many of our advertisers, advertising technology vendors and other advertising-related services who help deliver ads tailored to your profile and preferences at the following: [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). If you remove your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices. You can avoid the use of cookies by Google Analytics relating to your use of our shop by downloading and installing the Browser Plugin available [here](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+
+### Video Purchasing Information.
+
+If you reside in the U.S., you may withdraw your consent for us to use and share your video purchasing information with certain third parties that are not incidental to our ordinary course of business, on a specific title by title basis, or from any ongoing disclosures with such third parties, by emailing us at [privacy@araca.com](mailto:privacy@araca.com).
+
+### Device Settings.
+
+Devices and device system software provide certain opt-out choices that you can control. For example, Apple iOS and Google Play Services provide an opt-out choice that you can use to control in-app advertisements, and mobile device operating systems provide opt-out choices for push notifications or alerts and collection of location information. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device. Please consult your device settings for more information or to opt out using these mechanisms.
+
+## California Residents.
+
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to [privacy@araca.com](mailto:privacy@araca.com).
+
+## Security.
+
+Your security is important to us and we have put in place appropriate technical and organizational procedures designed to safeguard the information we collect through the Services. Unfortunately, no security system can be guaranteed to be 100% secure, so we cannot guarantee the security of the information you provide to us. To help protect your information, you should not share your account information or password, reuse your password on other websites, or use a password you have used on other websites. For more information on password protection practices click [here](http://oag.ca.gov/privacy/safe-password-practices). If you share your account information or password with others or allow others to access your account, you will be responsible for their actions. While you are responsible for maintaining the confidentiality and security of your account information, if you become aware of a security issue affecting our Services or any authorized use of your account, please let us know immediately by contacting us at [privacy@araca.com](mailto:privacy@araca.com).
+
+## General Audience Service.
+
+We do not sell products for purchase by children. We sell products for purchase by adults. Therefore, we do not knowingly collect personal information from children under the age of 13.
+
+## International Transfers.
+
+We operate internationally, however our computer systems are currently based in the United States. Your personal information will be processed by us in the U.S. where data protection and privacy regulations may be different from those of your country of residence. If you use our Services from outside the U.S., you consent to the collection and/or processing in the U.S. of your personal information, which includes the use of cookies as described above.
+
+## Changes to this Policy.
+
+From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personal information by placing a notice on this website or by sending you an email message. We encourage you to periodically check back and review this policy so that you always will know our current privacy practices.
