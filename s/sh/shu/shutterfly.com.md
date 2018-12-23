@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206113722id_/http%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224001956id_/http%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Shutterfly, Inc.
+# Shutterfly, Inc. Online Privacy and Security | Shutterfly, Inc
 
 Last Updated: September 30, 2016
 
@@ -13,7 +13,7 @@ Our Online Privacy and Security is organized as follows:
   3. Authorized Third Parties
   4. Use of Information
   5. Information Sharing With Third Parties
-  6. Children's Information
+  6. Children’s Information
   7. Access to Your Account Information and Preferences
   8. Confidentiality and Security
   9. Third Party Sites
@@ -26,7 +26,7 @@ Our Online Privacy and Security is organized as follows:
 
 ## 1\. Information Collected
 
-We collect personal information when you register with any of our family of brands via our websites, mobile sites or mobile applications (collectively, our "Sites and Apps") and when you use any of our products or services. Personal information is any information about you that is personally identifiable, such as your name, address, email address or phone number, Facebook Connect sign-in information (if applicable), and any other information that is not otherwise publicly available. 
+We collect personal information when you register with any of our family of brands via our websites, mobile sites or mobile applications (collectively, our “Sites and Apps”) and when you use any of our products or services. Personal information is any information about you that is personally identifiable, such as your name, address, email address or phone number, Facebook Connect sign-in information (if applicable), and any other information that is not otherwise publicly available.
 
 In addition, if you send email invitations to friends and family to allow them to view your pictures or saved projects, or if you invite them to participate in Shutterfly Share Sites, those email addresses are personal information.
 
@@ -42,21 +42,22 @@ If you tag yourself, friends, family, or others in pictures, we may use facial r
 
 We use cookies, pixel tags, and/or other similar technologies to collect visitor information.
 
-Cookies, for example, are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
+Cookies, for example, are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
 
 ## 3\. Authorized Third Parties
 
 We use third-party service providers to serve ads on our behalf across the Internet and sometimes on our Sites and Apps. They may collect anonymous information about your visits to our Sites and Apps and your interaction with our products and services. They may also use information about your visits to our Sites and Apps and other sites and mobile applications to target ads for products and services. For instance, they may collect web log data from you (such as IP address and information about your browser or operating system) or place or recognize a unique cookie on your browser to enable you to receive customized ads. Through this process, demographic or other interest data may be associated with your browser or device in a non-personally identifiable manner. No personally identifiable information is collected in this process. They do not know the name, address, email address, phone number or any personally identifiable information about the user.
 
-The NAI (Network Advertising Initiative) allows for the central opting out of all of its members' cookies from a single opt-out page. If you prefer not to receive relevant advertising on web pages, please click on the following link: <http://www.networkadvertising.org/choices/>. If you delete your cookies, use a different browser or buy a new computer, you will need to renew your opt-out choice.
+The NAI (Network Advertising Initiative) allows for the central opting out of all of its members’ cookies from a single opt-out page. If you prefer not to receive relevant advertising on web pages, please click on the following link: <http://www.networkadvertising.org/choices/>. If you delete your cookies, use a different browser or buy a new computer, you will need to renew your opt-out choice.
 
 We also work with third party service providers to monitor certain pages of our Sites and Apps for such purposes as reporting traffic and other advertising statistics. Where authorized by us, these third party providers may use cookies and/or other monitoring technologies to compile anonymous statistics about our visitors. No personally identifiable information is transferred to these third party service providers.
 
-We may also allow third parties to provide us with analytics about your visits to our Sites and Apps. The third party analytics services may use cookies, web beacons and other technologies to collect information about your use of the Sites and Apps and other websites, including your IP address, web browser, pages viewed, time spent on pages, and links clicked. This information is provided to us on an aggregated, non-PII basis, and may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand our users' online activity. 
+We may also allow third parties to provide us with analytics about your visits to our Sites and Apps. The third party analytics services may use cookies, web beacons and other technologies to collect information about your use of the Sites and Apps and other websites, including your IP address, web browser, pages viewed, time spent on pages, and links clicked. This information is provided to us on an aggregated, non-PII basis, and may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand our users’ online activity.
 
 ## 4\. Use of Information
 
-We use your information for the following general purposes: to fulfill your requests for products and services, administrative purposes, to improve our services, to customize the advertising and content you see, to contact you, and for internal business purposes. We use third party information you provide to us solely to provide services you specifically request.
+We use your information for the following general purposes: to fulfill your requests for products and services, administrative purposes, to improve our services, to customize the advertising and content you see, to contact you, and for internal business purposes.  
+We use third party information you provide to us solely to provide services you specifically request.
 
 For example, sharing your pictures electronically is one of the key benefits we offer. You are able to send an email invitation to your selected recipients, and then to allow them to view, save, or purchase products from your pictures. This email invitation contains a link created specifically for your pictures. The email also may include information about special promotional offers from our family of brands and/or carefully-screened third parties.
 
@@ -70,7 +71,7 @@ Your accounts may also contain a calendar where you can store birthdays, anniver
 
 When you add personal messages to your products, an order-processing representative may view your message. However, third parties are not allowed to view or use this information.
 
-We use anonymous information, such as that pertaining to web or mobile pages you have viewed, in order to analyze trends, track user's movements, provide a better user experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally. See "Authorized Third Parties."
+We use anonymous information, such as that pertaining to web or mobile pages you have viewed, in order to analyze trends, track user’s movements, provide a better user experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally. See “Authorized Third Parties.”
 
 As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling all or a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that we or substantially all of our assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this privacy policy.
 
@@ -82,9 +83,9 @@ Every now and then, we will invite customers to take part in surveys, promotions
 
 If you log in through Facebook Connect, information you provide to us may be shared with Facebook.
 
-**California's "Do Not Track" Notice:** "Do Not Track" ("DNT") is a preference you can set in your web browser to let the sites you visit know that you do not want them collecting information about you. Our sites do not currently respond to "Do Not Track" settings. For further details regarding DNT, visit [donottrack.us](http://donottrack.us/).
+**California’s “Do Not Track” Notice:** “Do Not Track” (“DNT”) is a preference you can set in your web browser to let the sites you visit know that you do not want them collecting information about you. Our sites do not currently respond to “Do Not Track” settings. For further details regarding DNT, visit [donottrack.us](http://donottrack.us/).
 
-## 6\. Children's Information
+## 6\. Children’s Information
 
 Our Sites and Apps are not intended for children, and we will not knowingly collect personally identifiable information from children. If we become aware that a subscriber is under the age of 13, we will remove their personally identifiable information from our files.
 
@@ -110,7 +111,7 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## 12\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20180206113722id_/http%3A//shutterflyinc.com/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://www.shutterflyinc.com/contact/) page of any of our brands.
 
 ## 13\. Updates to Privacy Policy
 
