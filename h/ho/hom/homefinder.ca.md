@@ -1,128 +1,144 @@
-> *The following text is extracted and transformed from the homefinder.ca privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609200218id_/http%3A//www.metroland.com/page/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.ca privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223025515id_/http%3A//notices.torstar.com/privacy-policy/index.html) for the most accurate reproduction.*
 
-# Metroland - Privacy Policy
+# Privacy Policy | Torstar
 
 [Voir en français](https://web.archive.org/politique-de-confidentialite)
 
-### Privacy Code
+### OUR COMMITMENT TO ACCOUNTABLE PRIVACY PRACTICES
 
-**Our commitment to privacy:** Metroland Media Group Ltd. and its subsidiaries ("Metroland") know that protecting the privacy and confidentiality of your personal information is important to you. This Privacy Policy governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by Metroland. The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the “Act”), and any applicable provincial legislation. This Privacy Policy explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
+We are a progressive media company with a long, proud history in newspapers and a passion for embracing the opportunities created by the rapidly evolving world of digital and mobile media. This is the main privacy policy for the Torstar Companies and covers all related websites, applications and services that do not have a separate policy. A reference to “we”, “us” or “our” is a reference to the Torstar Companies.
 
-This Privacy Policy governs the collection, use and disclosure of your personal information in any form, whether written, electronic or otherwise, by Metroland. Be aware that our websites, digital properties, mobile applications and mobile enabled sites (our “Sites”) may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Policy and for which Metroland has no responsibility. Please review the privacy policies on any third party websites to determine their information handling practices.
+Our visitors and customers have different privacy concerns. This policy provides a snapshot of our personal information practices so that you may easily understand what information we collect and why, as well as how to access and update or correct your personal information. If you are interested, drop down menus contain more information.
 
-This Privacy Policy is available to the public through our Sites and in paper form from Metroland. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability. Please read this Privacy Policy carefully, and check back periodically as we may update it from time to time.
+We may change this policy from time to time. If you continue to use our products and services after we make changes, you are consenting to the updated policy. If the changes are significant, we will provide you with notice and archive prior versions.
 
-**What is personal information?** Personal information is any information about an identifiable individual. 
+In this policy, **customized experience** means content, recommendations, advertising, and offers (including from selected third party sponsors or advertisers) that may be personalized or tailored to your interests. Our **products** and **services** include anything you purchase, register for, use or attend such as contests, newsletters, auctions, advertising, events, commenting functions, and services provided through our websites and applications. We may refer to our websites and applications as our **digital properties.**
 
-Metroland is responsible for personal information in its possession and under its control. Metroland has implemented policies and practices to give effect to this Privacy Policy, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, Metroland’s parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of Metroland.
+Read More
 
-What is excluded from privacy protection? This Privacy Policy does not impose restrictions on: business contact information (e.g. name, title, work contact information) collected, used or disclosed solely for the purpose of communicating with the individual in relation to their employment, business or profession; information collected, used or disclosed solely for journalistic, literary or artistic purposes; publicly available information, such as an individual’s name, telephone number and address when listed in a directory or made available through directory assistance; or information that is aggregated and not associated with a specific individual, including demographic information and statistics.
+We collect personal information you provide directly to us **when you purchase our products, register for, use or attend our services, donate to our charities or fill out our surveys.** We collect information we get from third parties or from you when you **visit us, call us or you use our services.** Unless the information collected or compiled is sensitive in nature, we assume your consent for all purposes set out in this policy.
 
-**Children:** If you are under the age of majority in your jurisdiction of residence, be sure to obtain your parent or guardian’s permission before you send any personal information to us, or anyone else. We encourage parents to get involved with their children’s online usage and to be aware of the activities in which they are participating.
+Commonly Collected Personal Information | Purpose  
+---|---  
+**Contact information** such as name, address, postal code, email address, telephone number | 
 
-**What personal information do we collect, and why?**
+  * provide requested products and services and related non-promotional communications
+  * provide requested information, rewards points and receipts
+  * verify delivery
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
 
-  * We collect personal contact information (such as your name, address, email address and telephone numbers) and may also collect your language preference if you: sign up for a newsletter; subscribe to a newspaper; sign up to receive electronic messages including by email or SMS; register on an online forum, Site, or application, or to attend a paid event; participate in a research survey; purchase any product or service from Metroland or its agents; are a classified advertiser or auction participant; provide it to us when you attend a trade or consumer show; or set preferences on any of our Sites. We may also infer your language preference from your browser settings when you visit our Sites. This information is used to fulfill your request for information, products or services, to provide targeted advertising, and to respond to your inquiries. From time to time this information may be used to provide reward points or apply credit, as applicable in the circumstances.
-  * We will retain your subscriber ID and passwords to allow you to login to our Sites and so that upon request by you we may remind you of them. We will also retain any user setting preference you set for any of our Sites so that we can respect those settings.
-  * If you enter a contest or other promotion, we collect and use your personal contact information, and may use your language preference, to administer the contest or promotion including contacting, announcing and promoting prizewinners, and responding to your inquiries. In addition, sometimes our contest rules provide that we may contact contest entrants with promotions and product information. Those rules will also include a way for you to indicate to us that you do not want to be contacted for this purpose. Some contests may also involve co-sponsors, who have their own privacy practices. In these cases, the contest rules and/or entry forms will indicate that your personal information is also being collected by these co-sponsors and will provide you with the ability to opt-out from receiving promotions and product information from them.
-  * We maintain transactional information (such as purchase history, a list of promotions offered to you, vouchers used, contests entered and coupons ordered) in order to fulfill your request for information, products or services, to respond to your inquiries, and to provide a more personalized experience on our Sites.
-  * Certain of our Sites will ask you to provide and may allow you to update location preferences, which we use to gain a better understanding of your interests so that we may improve our products and services and develop new products and services and so that we can provide you with more targeted offers, advertising, information and content (including offers and other information that has been supplied by our affiliates and selected sponsors or advertisers), including on websites you visit (“Marketing Offers”). Some of our Sites may also collect, use and store your current location or a history or location preferences or settings to establish your location, improve your experience and, from time to time, to send you information, such as Marketing Offers, that is most relevant to your geographic location. You may manage how your mobile device and mobile browser share location information with us, as well as how your mobile browser handles cookies and related technologies, by adjusting your mobile device privacy and security settings. Please refer to instructions provided by your mobile services provider or the manufacturer of your device to learn how to adjust your settings.
-  * We may collect demographic information (such as gender, marital status, year of birth, date of birth, whether or not you have children, how many children you have), as well as express interests or category preferences, and may use this information along with your personal contact information and language preference in order to gain a better understanding of your interests so that we may improve our products and services and develop new products and services, and to determine your eligibility for other products and services.
-  * We may also use demographic information, personal contact information, language preference, transactional information and express interests or category preferences to contact you about changes, enhancements or other notices related to products or services you requested from us or which Metroland provides. In addition, we may use this information to send you Marketing Offers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
-  * If you register for any Site using any social media login credentials, such as Facebook Login , we may collect, use and disclose your information from the social media account (such as email address and birthday in the case of Facebook Login) for the purpose of fulfilling your request for information, products or services, to respond to your inquiries, to gain a better understanding of your interests so that we may improve our products and services and develop new products and services, to determine your eligibility for other products and services , to contact you about changes, enhancements or other notices related to products or services you requested from us or which Metroland provides, to provide you with Marketing Offers, or to administer any contest that you have entered. Our access to your personal information will vary according to the particular social media credentials used. Please refer to the privacy settings of the social media website or application to determine how you may adjust our permissions and manage the interactivity between Metroland and your social media account.
-  * We keep notes and special instructions for classified advertisers and subscribers to help us fulfill your request and provide customer service. We may record or monitor your telephone calls with our customer service representatives for training and quality assurance purposes. We may also keep records of your interactions with our customer service team, and will use this information to fulfill your request for information, products or services, to respond to your inquiries, to improve our products and services and develop new products and services, to contact you about changes, enhancements or other notices related to products or services you requested from us or which Metroland provides, or to provide you with Marketing Offers.
-  * We collect your credit card information and, in some circumstances, PayPal account information if you: subscribe to a newspaper; register on a paid Site; register to attend a paid event; purchase any product or voucher from Metroland or through one of our Sites; are a classified advertiser or an auction participant. This credit card information is used for the purpose of fulfilling your order, or processing refunds or applying credit, if applicable.
-  * If you choose to opt-out of any use of your personal information in accordance with our opt-out policy, we will keep your contact information and details with respect to your opt-out on a list so that your request can be honoured and we may retain your information to fulfill legal or regulatory obligations or for other purposes permitted by law. If you provide a complaint to any of our departments, we will collect your contact information and the nature of your complaint, for the purpose of investigating your concerns and responding to you.
-  * If you provide freelance or other services to us or if we are otherwise required to report a taxable benefit that we have provided to you, we may collect your social insurance number for tax reporting purposes and your contact and banking information in order to pay you.
-  * We may also use or collect additional information from freelancers, other service providers and from advertisers, such as financial information (for example, banking details and credit history) to assess credit risk, sales data to prepare royalty reports and other relevant information to help facilitate your provision of services and to help us evaluate the quality of your services.
-  * We may use your personal information for the purposes of: managing, administering, collecting or otherwise enforcing your accounts; maintaining business records for reasonable periods of time and generally managing and administering our business; and meeting all relevant Canadian and international regulatory, legal, insurance, audit, security and processing requirements.
-  * Occasionally, we ask our customers to complete market research surveys. If you choose to participate in these surveys and provide your personal information for that purpose, your information will be aggregated as part of the survey results and shared with our advertisers, sponsors and affiliates in a manner that does not identify you. However, your information will also be used by us to gain a better understanding of your interests so that we may develop new products and services, to determine your eligibility for other products and services, and to provide you with Marketing Offers.
-  * Other than as permitted or required by law, if we wish to collect, use or disclose your personal information for purposes that are not contemplated in this Privacy Policy, we will identify those purposes at the time of collection. You will be given a reasonable opportunity to opt-out of any such additional purposes.
+  
+**Transaction information** relating to products and services purchased or used and customized experience history | 
+
+  * provide requested products and services and related non-promotional communications
+  * provide requested information, rewards points and receipts
+  * verify delivery
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+
+  
+**Demographic and survey information** such as postal code, gender, marital status, birth date/year, interests, household expenditures, reasons for cancellation and other customer service information, location preferences, interests and other preferences | 
+
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+
+  
+**Social media identifiers** (such as single sign on through Facebook, Google or other social media accounts) and other information you share with us or make public via your social networking platform. You may control what information you share through the social networking sites’ privacy settings. | 
+
+  * verify your identity when you use social login so that you may access your account and use our services
+  * provide a customized experience
+  * develop better products and services
+
+  
+**Subscriber id and passwords** | 
+
+  * verify your identity so that you may access your account and use services
+
+  
+**Credit card, PayPal or banking information and transaction ID** | 
+
+  * to complete a sale or donation
+  * to process refunds and apply credit
+  * to track your purchase history in PayPal or other payment processor
+
+  
+**Audio or video recordings** if you call us or come to our offices or events | 
+
+  * to create a record of our interaction
+  * for security, training and quality assurance purposes
+
+  
+**Usage data, including content and advertisements viewed** on our digital properties, search history, content you share, products and services you download, purchase or subscribe for, language preference, transaction history, time spent and other digital information through cookies, pixel tags, web beacons, and other technologies. We also collect information about the site you came from before visiting our digital properties and the site you go to next. | 
+
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+  * advertising delivery verification
+
+  
+**Your device and location.** We collect information about your device such as IP address, browser type, device type, unique device identifiers and operating system. We also collect information about your location, if enabled on your device or derived from your IP address. | 
+
+  * provide a customized experience
+  * develop better products and services
+  * promote our products and services
+
+  
+**User-generated content and public activities** such as comments on online forums, public user profiles you generate and classified listings you create. **This information is considered public and is subject to the applicable terms of use.** | 
+
+  * promote our products and services
+  * provide a customized experience
+  * develop better products and services
+
+  
+  
+Read More
+
+We may share your personal information within the Torstar Companies, our charities and our affiliates. We combine information internally across different Torstar Companies, products and services and may further combine information with demographic information, publicly available records and other third party information sources and may use this information to provide you with a customized experience and to develop and promote our products and services. We may be able to identify you by location and across different digital properties and devices using cookies, web beacons and other technologies and derive information based on our records. We may assign you a unique customer identification number. Personal information is not shared outside of the Torstar Companies unless:
+
+  * You have **consented**.
+  * We are permitted or required to do so by **law**.
+  * We have engaged an **authorized service provider** to carry out services on our behalf. Personal information may be transferred outside of your province and/or outside of Canada for processing or storage. Read more
+  * We are required to share the information with **merchants** from whom you have purchased something or registered for something to allow them to provide the products or services to the correct individuals and to allow them to keep track of what they have provided. Read more
 
 
 
-**Cookies and Online Behavioural Advertising**
 
-  * If you use any of our Sites, we may assign a cookie. A cookie is a small text file that is stored on your Internet browser and that can collect and store information. We use cookies to better understand how you use our Sites, to make sure our ads and dynamic content are served correctly, to improve the performance of our Sites and to improve your experience. For example, a cookie may recall a set of preferences you have set for our Site and record items that you have registered for. Storing cookies on your web browser allows us to present you with web pages and other content that are attuned with your preferences. For example, if you are a registered user, you may see a welcome page with your name on it. These activities are invisible to you, and are generally intended to improve your Internet surfing convenience. Unless you have set your preferences so that you will be alerted when a cookie is being stored on your computer, you won’t know about it.
-  * If you are concerned about cookies, please review and adjust your web browser preferences. However, please be aware that by disabling cookies, you may not be able to use all portions of our Sites, particularly pages requiring registration.
-  * We may place advertising or other links on our Sites that originate from outside advertisers and other third parties. If you view these ads, the advertisers may assign or recognize cookies. Metroland does not control these cookies, nor is it responsible for any marketing or other use of your information by these advertisers or other third parties.
-  * Our Sites may use Web beacon, gif, or other technologies to better tailor and manage advertising on those sites. These technologies may be in use on a number of pages across web sites. When you access these pages, a notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons or gifs usually work in conjunction with cookies. If you don’t want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. If you turn off cookies, Web beacons, gifs and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other cookie information and are disregarded.
-  * Many of our Sites use third-party advertising companies to serve ads when you visit the Site. These companies may use information (such as web pages you visit and your response to ads but not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. Some ads appearing on our Sites are delivered to you by AdTech or DoubleClick, which are web advertising companies. These third parties may, from time to time, use information that they collect about your visits to this site, such as the number of times you have viewed an ad (but not your name, address, email address or telephone number) to serve additional ads about goods and services that may be of interest to you. If you do not wish to have your information used in this way, please click on the following link: [DoubleClick Opt Out](https://www.google.com/settings/ads/onweb/), [AdTech Opt-Out.](http://adinfo.aol.com/about-our-ads/) The following link has useful information about how to opt out of cookies that are placed by companies who are members of the network NAI (Network Advertising Initiative): [NAI Opt-Out](http://www.networkadvertising.org/choices/). For more information on online behavioural advertising or to opt-out from other third-party advertising companies, visit the Digital Advertising Alliance of Canada website at [Your Ad Choices](http://www.youradchoices.ca/choices/).
-  * We may also use IP (Internet protocol) addresses to display or allow our third party advertising providers to display more targeted advertising and content.
+We have in place **measures to keep personal information we collect secure** , which may include:
+
+  * **Limiting** the number of people who view or process personal information
+  * **Locking** and restricting access to paper files
+  * Using appropriate methods to **secure electronic files** , including computer passwords, firewalls and encryption.
 
 
 
-**Analytics**
+Once we no longer require your personal information for purposes you have consented to, we securely dispose of it.
 
-  * We use IP (Internet protocol) addresses to gather demographic and statistical information about our users, for systems administration and to diagnose problems with our servers, and to administer our Sites.
-  * We may, from time to time, track and analyze anonymous usage and browsing patterns of visitors to our Sites to provide our advertisers with more targeted advertising opportunities and to help users see advertising that is most likely to interest them. We may use third party analytics service providers in order to gather such data on user behaviour.
-  * We and our third party service providers may, from time to time, use cookies, web beacons and other technologies to track and analyze certain information about user behaviour and interaction with our Sites, websites operated by our affiliates or websites that are a part of our service provider’s networks (such as browser version and name, how you were directed to the relevant website, or to register with us, page views, date and time of registration or installation, push notification subscription status, push notification engagement activity, details with respect to use of mobile applications and their functionality) and with e-mails we send to you (such as open and click activity), and about your device (such as device model and type, and OS version and name). We may use third party analytics service providers in order to gather such data on user behaviour, and to provide us with other data collection, reporting, ad response measurement and site analytics. This information is used to improve your experience, to help us develop new products and services, to gain a better understanding of your interests so that we may develop new products and services, to determine your eligibility for other products and services, and to provide you with customized advertising, customized content and Marketing Offers that we believe may be of particular interest to you. These third party service providers may also collect and use certain aggregated or anonymized information, which is subject to their own privacy policies.
+Read More
 
+You may **access and update your personal information** and use of products and services provided by the Torstar Companies by:
 
-
-We may combine personal information we have collected about you or received from you with publicly available records or with other third party information sources in order to better understand our customers and enhance our ability to provide you with products, services and Marketing Offers that may be of interest to you.
-
-**User Generated Content**
-
-All information, data, text, graphics, images, messages, reviews, opinions, suggestions or other materials created by users on any Site, including but not limited to its comment forums and chat boards, is public information and may be used and disclosed by Metroland in accordance with Metroland’s [Terms and Conditions.](https://web.archive.org/terms-of-use)
-
-**Who does Metroland disclose personal information to, and why?** Metroland may disclose your personal information under the following circumstances:
-
-  * To provide you with Marketing Offers, Metroland may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
-  * We may share some of your personal information with merchants from who you have purchased something or from whom you have registered for something to allow them to provide the products or services to the correct individuals and to allow them to keep track of what they have provided. We provide as much information to the merchant as is necessary for these purposes. These merchants may contact you directly with respect to such products or services. We will only share personal information with a merchant if you purchase something or register for something relating to that particular merchant.
-  * We may disclose or share non-personally identifiable information with partners, advertisers, merchants and/or prospective merchants to help explain our business and the effectiveness of our business or for promotional purposes. For example, we may disclose aggregated demographic information which does not include any personally identifiable information.
-  * Metroland may transfer your personal information to third party service providers, which may be located outside of Canada (including in the United States), in order to fulfill your order or perform processing and other specialized services (such as credit card or payment processing, prize fulfillment of our contests, collection of overdue accounts, management of customer service requests, data analysis for purposes of managing and administering our business, delivery of Marketing Offers and other communications, product delivery, circulation auditing and industry accreditation).
-  * Metroland may provide your name and credit card information on a confidential basis to a third party (which party may be outside of Canada) for the purpose of updating your credit card information to ensure that your ongoing subscription to Metroland products and services is not interrupted.
-  * Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Policy and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
-  * Metroland may disclose your personal information to our affiliates who provide internal audit, management, billing or administrative services on our behalf.
-  * Metroland may disclose your contact information on a confidential basis to our advertisers for the sole purpose of newspaper or flyer delivery verification.
+  * updating your account information for the relevant product or service;
+  * updating your preferences if a customer preference option is provided by the relevant product or service;
+  * **Google Analytics:** you may opt-out of data analytics services provided by Google by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and installing the add-on for your browser;
+  * **Offers and advertising:** you may opt-out of direct offers and advertisements by following the instructions at the bottom of the email or speaking with any telemarketer; 
+  * You may opt-out of online behavioural advertising where applicable by clicking the  icon on ads appearing on our websites or by visiting <http://youradchoices.ca/choices/> and <https://networkadvertising.org/understanding-online-advertising/what-are-my-options>. More information about online behavioural advertising is here.
+  * Contact customer service for the relevant product or service by telephone or email. We will be happy to help you update your information or address any concerns you may have.
 
 
 
-**Legal Purposes**
-
-  * Metroland may disclose your personal information to third parties if you have violated our terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities, for other legal reasons (which may include lawful access by Canadian, U.S. or other foreign courts, law enforcement or governmental authorities) and as otherwise permitted or required by law.
-
-
-
-**Sale of Business**
-
-  * Metroland may disclose your personal information on a confidential basis to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties.
-
-
-
-**Implied consent and Marketing Offer opt-out policy.** In general, when you provide us with your personal information, Metroland relies upon your implied consent to our collection, use and disclosure of such information for the purposes identified or described in this Privacy Policy or, if applicable, otherwise at the time of collection. Metroland obtains your express opt-in consent to use or disclose sensitive personal information.
-
-If you do not wish to receive Marketing Offers, you may opt-out at any time from receiving (i) Marketing Offers from Metroland or (ii) Marketing Offers from third parties by doing any of the following:
-
-  * follow the instructions at the bottom of any email Marketing Offer you receive.
-  * inform your telemarketer at the time you are called with a Marketing Offer.
-  * call Customer Service at 1-866-287-6732 and request that your personal information not be used for Marketing Offers.
-  * email Customer Service at [privacyofficer@metroland.com](mailto:privacyofficer@metroland.com) and request that your personal information not be used for Marketing Offers.
-
-
-
-It may take 2-4 weeks to fully process your opt-out request. Please note that if you opt-out of receiving Marketing Offers, you may continue to receive certain transactional messages from us.
-
-We reserve the right to use and disclose your personal information without your consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests.
-
-**Safeguards:** Metroland has technical, contractual, administrative and physical security measures to protect your personal information in a manner that is reasonable and appropriate to the nature of the personal information you provide to Metroland. For example, when you provide credit card information to us, we work to help protect the security of your credit card information by using industry standard secure sockets layer (SSL) encryption technology.
-
-Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our Site is secure. Credit card numbers should not be sent by email. Materials posted to online forums such as bulletin boards or comment sites are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other Internet users. Metroland is not responsible for personal information you choose to post or submit in any online forum on any of its Sites.
-
-**How to access and correct your personal information.** How to access and correct your personal information. Some of our Sites provide you with the means to access, update, edit or delete certain subscriber or registration information by going to the appropriate page on the Site and changing or deleting such information as desired. Alternatively, or for other information, you may call Customer Service at 1-866-287-6732 and we will make the changes upon receipt of appropriate evidence.
-
-We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
-
-**How to address concerns regarding your privacy.** Metroland encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Policy. If you have a question concerning Metroland's Privacy Policy, would like a copy, or if you have any questions or concerns regarding the manner in which we or our Canadian, U.S. or other service providers treat your personal information, please contact Customer Service at: 1-866-287-6732 or [privacyofficer@metroland.com](mailto:privacyofficer@metroland.com)
-
-Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation’s Chief Privacy Officer in writing as follows:
+If you have questions or concerns that have not been resolved to your satisfaction by customer service, you may contact Torstar’s Chief Privacy Officer in writing at:
 
 Chief Privacy Officer  
 Torstar Corporation  
-One Yonge Street, 6th floor  
+One Yonge Street, 5th floor  
 Toronto ON  
 M5E 1E6  
-Fax: (416) 869-4183
+[CPO@torstar.ca](mailto:CPO@torstar.ca)
 
-This Privacy Code was last updated on November 24, 2015
+Read More
+
+This Privacy Policy is effective as of December 14, 2017.
