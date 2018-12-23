@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectpokemon.org privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515194944id_/https%3A//projectpokemon.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpokemon.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223043645id_/https%3A//projectpokemon.org/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Project Pokemon Forums
 
@@ -72,3 +72,17 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://projectpokemon.org/home/contact/). 
 
 This document was last updated on December 20, 2017. 
+
+### Third Parties
+
+**Google Analytics**
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services.
+
+**Spam Defense**
+
+The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
+
+**Invisible reCAPTCHA**
+
+This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
