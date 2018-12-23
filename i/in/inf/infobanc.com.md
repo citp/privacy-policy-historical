@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623082635id_/http%3A//www.infobanc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223011452id_/http%3A//www.infobanc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - infobanc.com
 
@@ -29,7 +29,7 @@ _keyboard_arrow_right_ **Choice/Opt-Out** infobanc.com provides users the opport
 
 _keyboard_arrow_right_ **Permanent Removal/Termination of Membership** \- Any member (free or paid) can terminate his/her membership of infobanc.com by log-in to Member's Control Panel and de-activate his/her membership. This process automatically removes the member's profile from directory listing amd mailing lists. Such de-activated members never receive any e-mail from us, except reply e-mail in case he/she has written to us. However, we do not monitor public forums and bulletin boards. In case such de-activated member has posted any message in a public forum, he/she needs to inform us for removal of such message giving specific URL 
 
-_keyboard_arrow_right_ **Opt-out via email** \- Additionally. one may send e-mail at info@infobanc.com for unsubscription/opt-out or [ contact us ](https://web.archive.org/web/20180623082635id_/http%3A//www.infobanc.com/contactus.htm)
+_keyboard_arrow_right_ **Opt-out via email** \- Additionally. one may send e-mail at info@infobanc.com for unsubscription/opt-out or [ contact us ](https://web.archive.org/web/20181223011452id_/http%3A//www.infobanc.com/contactus.htm)
 
 _keyboard_arrow_right_ **Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
