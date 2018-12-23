@@ -1,73 +1,59 @@
-<!--The following is the downloaded HTML source of the tfaw.com privacy policy that was archived on 2017-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171023003139id_/https%3A//www.tfaw.com/Help/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tfaw.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223185923id_/https%3A//www.tfaw.com/Help/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
-    <script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript" async="" src="https://btn.createsend1.com/js/sb.min.js?v=2" class="createsend-script"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcAUF5ACgQFVldaBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>    
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-site-verification" content="VWMqkK2RhxljJLwG_mBCUpvTQQi2bbNK5ucOBeg7aFg">
-<!--    <meta name="viewport" content="width=1200">-->
-    <meta name="format-detection" content="telephone=no">
-
-    <script type="text/javascript" src="//www.tfaw.com/static/minified/js/yui.min.js?2017-01-27-02-02-00"></script>
+<meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NM8WCWQ"></script><script>var dataLayer=window.dataLayer||[];</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NM8WCWQ');</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css">
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<script type="text/javascript" src="//www.tfaw.com/static/minified/js/yui.min.js?2017-01-27-02-02-00"></script>
 <script type="text/javascript" src="//www.tfaw.com/static/minified/js/jquery-tools.min.js?2017-01-27-02-02-00"></script>
 <script type="text/javascript" src="//www.tfaw.com/static/minified/js/tfaw.min.js?2017-01-27-02-02-00"></script>
 <link rel="stylesheet" href="//www.tfaw.com/static/minified/css/jquery.min.css?2017-01-27-02-02-00">
 <link rel="stylesheet" href="//www.tfaw.com/static/minified/css/tfaw.min.css?2017-01-27-02-02-00">
 <link rel="stylesheet" href="//www.tfaw.com/static/minified/css/yui.min.css?2017-01-27-02-02-00">
 <link rel="stylesheet" href="//www.tfaw.com/static/vendor/css/font-awesome.min.css"><link rel="stylesheet" href="//www.tfaw.com/static/css/etc/10-res.css">
-    
-
-
-    <base href="https://www.tfaw.com/Help/Privacy-Policy/">
-    <title>TFAW.com: Home &gt; Help &gt; Privacy Policy</title>
-
-    
-    <link rel="alternate" type="application/rss+xml" title="TFAW New Releases" href="/rss/new_releases.php">
-    <link rel="alternate" type="application/rss+xml" title="TFAW Deal of the Day" href="/rss/deal_of_the_day_rss.php">
-    <link rel="alternate" type="application/rss+xml" title="TFAW Blog" href="/blog/feed/">
-
-    <style type="text/css">
-        body {
-            background-image: url(//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/bg_light_grey_fade4.gif);
-        }
-    </style>
-
-    <meta name="ROBOTS" content="NOODP">
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
-    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="apple-mobile-web-app-title" content="TFAW">
-    <meta name="application-name" content="TFAW">
-    <meta name="msapplication-TileColor" content="#b91d47">
-    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-
-    <script type="text/javascript">function utmx_section() { }; function utmx() { }</script><script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-105503-1', 'auto');
-ga('require', 'displayfeatures');ga('send', 'pageview');</script>
-    <!--[if IE]>
+</head><body id="doc_body" bgcolor="#FFFFFF" link="#000000" vlink="#000000" alink="#CC0000"><div id="cookie_warning_dropdown" class="active">
+This website uses cookies so you can place orders and we can provide the most secure and effective website possible. By using tfaw.com you accept our use of cookies. <a href="https://www.tfaw.com/Help/Privacy-Policy">Learn more</a> or <a id="cookie_dismiss">Continue.</a>
+</div>
+<script>jQuery(function(){if(readCookie('cookie_dismiss')){jQuery('#cookie_warning_dropdown').slideUp();}});jQuery('#cookie_dismiss').click(function(){jQuery('#cookie_warning_dropdown').slideUp();var date=new Date();date.setTime(date.getTime()+(10*365*24*60*60*1000));var expires=date.toUTCString();document.cookie='cookie_dismiss=true; path=/; expires='+expires+';';});function readCookie(cookieName){var nameEquals=cookieName+"=";var cookieArray=document.cookie.split(';');for(var ii=0;ii<cookieArray.length;++ii){var cookie=cookieArray[ii];while(cookie.charAt(0)==' '){cookie=cookie.substring(1,cookie.length);}if(cookie.indexOf(nameEquals)==0){return cookie.substring(nameEquals.length,cookie.length);}}return null;}</script>
+<style>.hidden{visibility:hidden;padding:0;height:0}#cookie_dismiss{cursor:pointer}#cookie_warning_dropdown{box-sizing:border-box;width:100%;position:relative;padding:10px;line-height:3vh;height:0;overflow:hidden;font-size:2vh;text-align:center;background-color:#6b99fd;color:#000}@media screen and (min-width:747px),screen and (max-height:415px){#cookie_warning_dropdown{padding:0 10px 0 10px;line-height:30px;font-size:12px}}#cookie_warning_dropdown.active{height:16vh}@media screen and (min-width:1169px){#cookie_warning_dropdown.active{height:30px}}@media screen and (min-width:747px) and (max-width:1168px){#cookie_warning_dropdown.active{height:60px}}@media screen and (min-width:673px) and (max-width:746px){#cookie_warning_dropdown.active{height:11vh}}@media screen and (min-width:520px) and (max-width:672px){#cookie_warning_dropdown.active{height:14vh}}@media screen and (max-aspect-ratio:9/18) and (max-height:815px){#cookie_warning_dropdown.active{height:17vh}}@media screen and (max-width:800px) and (max-height:415px){#cookie_warning_dropdown.active{height:60px}}@media screen and (min-height:1080px) and (max-aspect-ratio:2/3){#cookie_warning_dropdown.active{height:60px;line-height:24px;font-size:12px}}@media screen and (max-width:605px) and (min-height:1080px) and (max-aspect-ratio:2/3){#cookie_warning_dropdown.active{height:auto;line-height:24px;font-size:12px}}</style>
+<base href="https://www.tfaw.com/Help/Privacy-Policy/">
+<title>TFAW.com: Home &gt; Help &gt; Privacy Policy</title>
+<link rel="alternate" type="application/rss+xml" title="TFAW New Releases" href="/rss/new_releases.php">
+<link rel="alternate" type="application/rss+xml" title="TFAW Deal of the Day" href="/rss/deal_of_the_day_rss.php">
+<link rel="alternate" type="application/rss+xml" title="TFAW Blog" href="/blog/feed/">
+<style type="text/css">body{background-image:url(//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/bg_light_grey_fade4.gif)}</style>
+<meta name="ROBOTS" content="NOODP">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="apple-touch-icon" sizes="57x57" href="/xapple-touch-icon-57x57.png.pagespeed.ic.jHmabKer70.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/xapple-touch-icon-60x60.png.pagespeed.ic.oSP-Ru_0Lt.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/xapple-touch-icon-72x72.png.pagespeed.ic.opQO8Vo6Ku.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/xapple-touch-icon-76x76.png.pagespeed.ic.HnUdS2VS4L.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/xapple-touch-icon-114x114.png.pagespeed.ic.AeLyzLlVb4.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/xapple-touch-icon-120x120.png.pagespeed.ic.R_fD75lVt6.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/xapple-touch-icon-144x144.png.pagespeed.ic.P4c8yjSElZ.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/xapple-touch-icon-152x152.png.pagespeed.ic.vu6GX1hpXB.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/xapple-touch-icon-180x180.png.pagespeed.ic.HBAvKTmgf7.png">
+<link rel="icon" type="image/png" href="/xfavicon-32x32.png.pagespeed.ic.TduNT8vA1-.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/xfavicon-194x194.png.pagespeed.ic.ohqLOnzU4p.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/xfavicon-96x96.png.pagespeed.ic.8UUBgP8XWv.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/xandroid-chrome-192x192.png.pagespeed.ic.BKuT8pjq4X.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/xfavicon-16x16.png.pagespeed.ic.M5p_j69dEA.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="TFAW">
+<meta name="application-name" content="TFAW">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="text/javascript">function utmx_section(){};function utmx(){}</script>
+<!--[if IE]>
     <style type="text/css">
         legend {
             position: absolute;
@@ -77,192 +63,113 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         }
     </style>
     <![endif]-->
-
-    <script language="JavaScript" type="text/javascript">
-        var send_clicked = 0;
-
-        var Color = new Array();
-        Color[1] = "666666";
-        Color[2] = "777777";
-        Color[3] = "999999";
-        Color[4] = "AAAA66";
-        Color[5] = "999966";
-        Color[6] = "777777";
-        Color[7] = "666666";
-
-        function waittofade() {
-            if (document.getElementById('fade')) {
-                setTimeout("fadeIn(7)", 1000);
-            }
-        }
-
-        function fadeIn(where) {
-            if (where >= 1) {
-                document.getElementById('fade').style.backgroundColor = "#" + Color[where];
-                if (where > 1) {
-                    where -= 1;
-                    setTimeout("fadeIn(" + where + ")", 150);
-                } else {
-                    where -= 1;
-                    setTimeout("fadeIn(" + where + ")", 150);
-                    document.getElementById('fade').style.backgroundColor = "transparent";
-                }
-
-            }
-        }
-    </script>
-            <!-- Facebook Pixel Code -->
-        <script>
-            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-                n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-                t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-                document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-            fbq('init', '983952651699381');
-            fbq('track', "PageView");
-        </script>
-        <noscript><img height="1" width="1" style="display:none"
-                       src="https://www.facebook.com/tr?id=983952651699381&ev=PageView&noscript=1"/>
-        </noscript>
-        <!-- End Facebook Pixel Code -->
-            
-    <script type="text/javascript">//<![CDATA[
-    var tlJsHost = "https://secure.comodo.com/";
-    document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
-    //]]>
-    </script><script src="https://secure.comodo.com/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
-
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4df002d76102bdb2"></script>
-</head>
-
-<body id="doc_body" bgcolor="#FFFFFF" link="#000000" vlink="#000000" alink="#CC0000">
-
-    <link rel="stylesheet" media="(max-width: 864px)" href="//www.tfaw.com/static/vendor/css/bootstrap.min.css?2017-01-27-02-02-00">
-    <script src="//www.tfaw.com/static/vendor/js/tether.min.js?2017-01-27-02-02-00" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
-<script src="//www.tfaw.com/static/vendor/js/bootstrap.min.js?2017-01-27-02-02-00" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-<style>
-  #mobile-container {
-    display: none;
-  }
-    @media (max-width: 864px) {
-    .hide-me-too-mobile {
-      display: none;
-    }
-
-    #mobile-container {
-      display: block;
-    }
-  }
-  </style>
+<script language="JavaScript" type="text/javascript">var send_clicked=0;var Color=new Array();Color[1]="666666";Color[2]="777777";Color[3]="999999";Color[4]="AAAA66";Color[5]="999966";Color[6]="777777";Color[7]="666666";function waittofade(){if(document.getElementById('fade')){setTimeout("fadeIn(7)",1000);}}function fadeIn(where){if(where>=1){document.getElementById('fade').style.backgroundColor="#"+Color[where];if(where>1){where-=1;setTimeout("fadeIn("+where+")",150);}else{where-=1;setTimeout("fadeIn("+where+")",150);document.getElementById('fade').style.backgroundColor="transparent";}}}</script>
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');fbq('init','983952651699381');fbq('track',"PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=983952651699381&ev=PageView&noscript=1"/>
+</noscript>
+<script type="text/javascript">var tlJsHost="https://secure.comodo.com/";document.write(unescape("%3Cscript src='"+tlJsHost+"trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://secure.comodo.com/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4df002d76102bdb2"></script>
 
 
-  <!-- LIVE CHAT -->
-      <div class="hide-me-mobile provide-support-livechat">
-            <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
-      <div id="ci42S5" style="z-index:100;position:absolute"></div>
-      <div id="sc42S5" style="position:fixed;margin-left:0;margin-top:570px;z-index:999;"></div>
-      <div id="sd42S5" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&amp;ps_t=1580362617874&amp;account_id=none&amp;discount_code=&amp;online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif&amp;offline-image= %2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_off_dark.gif"></script></div>
-      <script type="text/javascript">var se42S5 = document.createElement("script");
-        se42S5.type = "text/javascript";
-        var se42S5s = (location.protocol.indexOf("https") == 0 ? "https" : "http") + "://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&ps_t=" + new Date().getTime() + "&account_id=none&discount_code=&online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif&offline-image= %2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_off_dark.gif";
-        setTimeout("se42S5.src=se42S5s;document.getElementById('sd42S5').appendChild(se42S5)", 1)</script>
-      <noscript>
-        <div style="position:fixed;margin-left:0;margin-top:570px;z-index:999;"><a
-            href="http://messenger.providesupport.com/messenger/tfaw.html" target="_blank"><img
-              src="%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif" border="0"></a></div>
-      </noscript>
-      <!-- END ProvideSupport.com Custom Images Chat Button Code -->
-    </div>
-    <!-- LIVE CHAT end -->
-  <div class="hide-me-desktop">
-    <div class="homebrew-nav">
-        <div class="skinny">
-            <a class="f-l" href="/">
-                <img class="hide-me-supersmall" src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo.png" border="0" alt="TFAW.com" width="250" height="65">
-                <img class="planet-icon show-me-supersmall" src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo_iconsm.png" border="0" alt="TFAW.com">
-            </a>
-            <a class="f-r nav" id="btn-res-nav" href="javascript:;">
-                <i class="fa fa-bars" aria-hidden="true"></i>
-            </a>
-            <a class="f-r nav" id="btn-res-cart" href="/Cart">
-                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                                <div id="res-cart-count" style="display: none;" class="count">0</div>
-            </a>
-            <a class="f-r nav" id="btn-res-search" href="javascript:;">
-                <i class="fa fa-search" aria-hidden="true"></i>
-            </a>
-        </div>
-        <div style="display:none;" class="skinny res-nav-items">
-           
-            <div class="group">
-                <div class="navbox">
-                    <a href="/Comics">Comics</a>
-                </div>
-                <div class="navbox">
-                    <a href="/Graphic-Novels">Graphic Novels</a>
-                </div>
-            </div>
-            <div class="group">
-                <div class="navbox">
-                    <a href="/Statues">Statues</a>
-                </div>
-                <div class="navbox">
-                    <a href="/Toys">Toys</a>
-                </div>
-            </div>
-            <div class="group">
-                <div class="navbox">
-                    <a href="/Companies">Companies</a>
-                </div>
-                <div class="navbox">
-                    <a href="/Themes">Themes</a>
-                </div>
-            </div>
-            <div class="group">
-                <div class="navbox">
-                    <a href="/More-Products">More Products</a>
-                </div>
-                <div class="navbox">
-                    <a href="/DOD?qt=ia_nav_dod_resp"><i class="fa fa-tag" aria-hidden="true"></i> Deal of the Day</a>
-                </div>
-            </div>
-            <div class="group">
-                <div class="navbox flatter">
-                    <a href="/Coming-Next-Week?qt=ia_nav_cnw_resp">Coming Next Week</a>
-                </div>
-                <div class="navbox flatter">
-                    <a href="/Arriving-This-Week?qt=ia_nav_atw_resp">Arriving this Week</a>
-                </div>
-            </div>
-            <div class="group">
-                <div class="navbox flatter">
-                    <a href="/New-Last-Week?qt=ia_nav_nlw_resp">New Last Week</a>
-                </div>
-                <div class="navbox flatter">
-                    <a href="/Promos/Nick-and-Dent?qt=ia_nav_nd_resp">Nick &amp; Dent</a>
-                </div>
-            </div>
-            <div class="group">
-                <div class="navbox flatter">
-                    <a href="//blog.tfaw.com">Blog</a>
-                </div>
-                <div class="navbox flatter">
-                    <a href="/Comics/Pre-Orders">Pre-Order Comics</a>
-                </div>
-            </div>
-                         <div class="group">
-                <div class="navbox flatter full-width">
-                    <a href="/Your-Account/LogIn"><i class="fa fa-power-off" aria-hidden="true"></i> Log In</a>
-                </div>
-            </div>
-                    </div>
-    </div>
-    <div>
-            </div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NM8WCWQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<link rel="stylesheet" media="(max-width: 864px)" href="//www.tfaw.com/static/vendor/css/A.bootstrap.min.css,q2017-01-27-02-02-00.pagespeed.cf.dMX1TSPDwZ.css">
+<script src="//www.tfaw.com/static/vendor/js/tether.min.js,q2017-01-27-02-02-00+bootstrap.min.js,q2017-01-27-02-02-00.pagespeed.jc.kiiU11PKja.js"></script><script>eval(mod_pagespeed_BJ_NsFKv4U);</script>
+<script>eval(mod_pagespeed_Yv3ALonw5a);</script>
+<style>#mobile-container{display:none}@media (max-width:864px){.hide-me-too-mobile{display:none}#mobile-container{display:block}}</style>
+<div class="hide-me-mobile provide-support-livechat">
+<div id="ci42S5" style="z-index:100;position:absolute"></div>
+<div id="sc42S5" style="position:fixed;margin-left:0;margin-top:570px;z-index:999;"></div>
+<div id="sd42S5" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&amp;ps_t=1580362618524&amp;account_id=none&amp;discount_code=&amp;online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif&amp;offline-image= %2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_off_dark.gif"></script></div>
+<script type="text/javascript">var se42S5=document.createElement("script");se42S5.type="text/javascript";var se42S5s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&ps_t="+new Date().getTime()+"&account_id=none&discount_code=&online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif&offline-image= %2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_off_dark.gif";setTimeout("se42S5.src=se42S5s;document.getElementById('sd42S5').appendChild(se42S5)",1)</script>
+<noscript>
+<div style="position:fixed;margin-left:0;margin-top:570px;z-index:999;"><a href="http://messenger.providesupport.com/messenger/tfaw.html" target="_blank"><img src="%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif" border="0"></a></div>
+</noscript>
 </div>
-
+<div class="hide-me-desktop">
+<div class="homebrew-nav">
+<div class="skinny">
+<a class="f-l" href="/">
+<img class="hide-me-supersmall" src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo.png" border="0" alt="TFAW.com" width="250" height="65">
+<img class="planet-icon show-me-supersmall" src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo_iconsm.png" border="0" alt="TFAW.com">
+</a>
+<a class="f-r nav" id="btn-res-nav" href="javascript:;">
+<i class="fa fa-bars" aria-hidden="true"></i>
+</a>
+<a class="f-r nav" id="btn-res-cart" href="/Cart">
+<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+<div id="res-cart-count" style="display: none;" class="count">0</div>
+</a>
+<a class="f-r nav" id="btn-res-search" href="javascript:;">
+<i class="fa fa-search" aria-hidden="true"></i>
+</a>
+</div>
+<div style="display:none;" class="skinny res-nav-items">
+<div class="group">
+<div class="navbox">
+<a href="/Comics">Comics</a>
+</div>
+<div class="navbox">
+<a href="/Graphic-Novels">Graphic Novels</a>
+</div>
+</div>
+<div class="group">
+<div class="navbox">
+<a href="/Statues">Statues</a>
+</div>
+<div class="navbox">
+<a href="/Toys">Toys</a>
+</div>
+</div>
+<div class="group">
+<div class="navbox">
+<a href="/Companies">Companies</a>
+</div>
+<div class="navbox">
+<a href="/Themes">Themes</a>
+</div>
+</div>
+<div class="group">
+<div class="navbox">
+<a href="/More-Products">More Products</a>
+</div>
+<div class="navbox">
+<a href="/DOD?qt=ia_nav_dod_resp"><i class="fa fa-tag" aria-hidden="true"></i> Deal of the Day</a>
+</div>
+</div>
+<div class="group">
+<div class="navbox flatter">
+<a href="/Coming-Next-Week?qt=ia_nav_cnw_resp">Coming Next Week</a>
+</div>
+<div class="navbox flatter">
+<a href="/Arriving-This-Week?qt=ia_nav_atw_resp">Arriving this Week</a>
+</div>
+</div>
+<div class="group">
+<div class="navbox flatter">
+<a href="/New-Last-Week?qt=ia_nav_nlw_resp">New Last Week</a>
+</div>
+<div class="navbox flatter">
+<a href="/Promos/Nick-and-Dent?qt=ia_nav_nd_resp">Nick &amp; Dent</a>
+</div>
+</div>
+<div class="group">
+<div class="navbox flatter">
+<a href="//blog.tfaw.com">Blog</a>
+</div>
+<div class="navbox flatter">
+<a href="/Comics/Pre-Orders">Pre-Order Comics</a>
+</div>
+</div>
+<div class="group">
+<div class="navbox flatter full-width">
+<a href="/Your-Account/LogIn"><i class="fa fa-power-off" aria-hidden="true"></i> Log In</a>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
 <script type="text/html" id="search-overlay-template">
     <div class="hide-me-desktop" id="search-overlay">
         <div class="search-form-wrapper">
@@ -277,864 +184,656 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         <a href="javascript:;" class="search-close"><i class="fa fa-times-circle-o"></i></a>
     </div>
     <div class="hide-me-desktop" id="dark-overlay"></div>
-</script>  <div class="hide-me-mobile" id="header-container" style=" z-index: 750; width:835px; margin:0 auto; margin-top:15px; margin-bottom:10px;">
-  
-  <div style="position:relative;margin-bottom:5px; margin-right:10px;">
-    <span style="">
-                          <a href="/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo.png" border="0" alt="TFAW.com" width="250" height="65"></a>
-                </span>
-    <table id="livechat-table" style="position: absolute; top:0px; right:0px;" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td valign="top" align="center">
-            <div><strong>Get the latest news.</strong></div>
-          <div class="createsend-button" style="height:22px;display:inline-block;" data-listid="r/41/207/223/B9470E4BA016F894"></div>
-          <script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=2'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();</script>
-        </td>
-        <td valign="top">
-          <div class="trust-seal-container">
-    <!-- Phone Number -->
-    <div class="trust-seal phone-trust-seal">
-        <span class="phone-number">800-862-0052</span>
-        <span class="hours">M-F 9am-5pm PST</span>
-            </div>
-    <!-- end .phone-trust-seal -->
+</script> <div class="hide-me-mobile" id="header-container" style=" z-index: 750; width:835px; margin:0 auto; margin-top:15px; margin-bottom:10px;">
+<div style="position:relative;margin-bottom:5px; margin-right:10px;">
+<span style="">
+<a href="/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo_xmas1.png" border="0" alt="TFAW.com" width="250" height="65" style="margin-right: 0px !important;"></a><a href="/gift-ideas/?qt=ia_topgift"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo_xmas2.png" border="0" alt="TFAW.com Gift Ideas" width="150" height="65" style="margin-left: 0px !important;"></a>
+</span>
+<table id="livechat-table" style="position: absolute; top:0px; right:0px;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" align="center">
+<div><strong>Get the latest news.</strong></div>
+<a href="#" id="gr_subscribe" style="text-decoration: none;"><span class="gr-subscribe-button">Subscribe</span></a>
+<script src="https://www.email.darkhorse.com/view_webform_v2.js?u=YeIwb&amp;webforms_id=UfH6">
+            {
+              "name": "Newsletter Subscribe",
+              "selector": {
+                "clickToShow": "#gr_subscribe"
+              }
+            }
+          </script>
+<script type="application/javascript">document.getElementById('gr_subscribe').onclick=clearGRCookie;window.onload=clearGRCookie;function clearGRCookie(){document.cookie.split(/; */).forEach(function(c){if(c.match(new RegExp(/grwf2_sent_\d*/))){document.cookie=c+'; expires=Thu, 01 Jan 1970 00:00:01 GMT';}});}</script>
+</td>
+<td valign="top">
+<div class="trust-seal-container">
+<div class="trust-seal phone-trust-seal">
+<span class="phone-number">800-862-0052</span>
+<span class="hours">M-F 9am-5pm PST</span>
 </div>
-<!-- end #trust-seal -->
-        </td>
-        <td valign="top">
-          <table border="0" cellpadding="0" cellspacing="0" id="cart-table">
-            <tbody><tr>
-              <td align="center"><span id="cart-status">
-            Your cart is empty            </span></td>
-            </tr>
-            <tr>
-              <td>
-                <a href="/Cart/">
-                  <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_checkout.png" width="120" height="24" border="0" alt="">
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="1" border="0" alt="">
-              </td>
-            </tr>
-          </tbody></table>
-        </td>
-      </tr>
-    </tbody></table>
-    <div class="hide-me-mobile" style="position:absolute; right:0px; top: 50px;">
-      <span class="login-status">No matter what you're into, we've got just the thing for your collection!</span>    </div>
-  </div>
-  <div id="nav" style="border:1px solid #6f7d8f; position: relative; z-index: 11; border-radius: 15px;">
-    <div style="height:34px; padding:0;">
-      <table id="nav-menu-table" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td class="rollovertd"><a href="/Graphic-Novels" class="menuitem">Graphic Novels</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
+</div>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" id="cart-table">
+<tbody><tr>
+<td align="center"><span id="cart-status">
+Your cart is empty </span></td>
+</tr>
+<tr>
+<td>
+<a href="/Cart/">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_checkout.png" width="120" height="24" border="0" alt="">
+</a>
+</td>
+</tr>
+<tr>
+<td><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="1" border="0" alt="">
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<div class="hide-me-mobile" style="position:absolute; right:0px; top: 50px;">
+<span class="login-status">No matter what you're into, we've got just the thing for your collection!</span> </div>
+</div>
+<div id="nav" style="border:1px solid #6f7d8f; position: relative; z-index: 11; border-radius: 15px;">
+<div style="height:34px; padding:0;">
+<table id="nav-menu-table" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td class="rollovertd"><a href="/Graphic-Novels" class="menuitem">Graphic Novels</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Graphic Novels</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Art-Books/">Art Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/First-Looks/">First Looks</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Hardcovers/">Hardcovers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Nick-And-Dent/">Nick And Dent</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Recommended/">Recommended</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Graphic Novels</span></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Top Publishers</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Companies/Marvel+Comics">Marvel Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Companies/DC+Comics">DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Companies/Viz+Communications">Viz Communications</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Companies/IDW+Publishing">IDW Publishing</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Companies/Dark+Horse">Dark Horse</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Top Genres</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Genres/Superhero">Superhero</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Genres/Fantasy">Fantasy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Genres/Science-Fiction">Science-Fiction</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Genres/Action-Adventure">Action-Adventure</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Genres/Horror">Horror</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr></tbody>
-        </table>
-    </td>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr class="submenu-item-heading"><td><span class="submenuheader">Graphic Novels</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Art-Books/">Art Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/First-Looks/">First Looks</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Hardcovers/">Hardcovers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Nick-And-Dent/">Nick And Dent</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Recommended/">Recommended</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Top-20-Hottest/">Top 20 Hottest</a></td></tr></tbody>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="/Comics" class="menuitem">Comics</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Comics</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Back-Issues/">Back Issues</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Best-Sellers/">Best-Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/First-Looks/">First Looks</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Kids/">Kids</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Supplies/">Supplies</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Indy/">Indy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/DC-Rebirth/">DC Rebirth</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Secret-Empire/">Secret Empire</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Resurrxion/">Resurrxion</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Dark-Nights-Metal/">Dark Nights Metal</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Marvel-Legacy/">Marvel Legacy</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Comics</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Comics">See all 7564 Comics</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Top Genres</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Genres/Superhero">Superhero</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Genres/Science-Fiction">Science-Fiction</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Genres/Fantasy">Fantasy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Genres/Action-Adventure">Action-Adventure</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Genres/Horror">Horror</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-This-Week/">New This Week</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Top Publishers</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Companies/Marvel+Comics">Marvel Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Companies/DC+Comics">DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Companies/IDW+Publishing">IDW Publishing</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Companies/Image+Comics">Image Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Companies/Dynamite+Entertainment">Dynamite Entertainment</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Popular Series</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Series/Star-Wars">Star Wars</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Series/Buffy-The-Vampire-Slayer">Buffy the Vampire Slayer</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Series/Justice-League">Justice League</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Series/Star-Wars-Poe-Dameron">Star Wars Poe Dameron</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Series/Detective-Comics">Detective Comics</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Variants/">Variants</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/">New Comic Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Marvel-Comics">&nbsp;New Marvel Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-DC-Comics">&nbsp;New DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Image-Comics">&nbsp;New Image Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-IDW-Comics">&nbsp;New IDW Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Dark-Horse-Comics">&nbsp;New Dark Horse Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Boom-Studios-Comics">&nbsp;New Boom Studios Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Vertigo-Comics">&nbsp;New Vertigo Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Story-Arcs/">New Story Arcs</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Annuals/">Annuals</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Civil-War-II/">Civil War II</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Inhumans-Vs-X-Men/">Inhumans Vs X-Men</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Spider-Man-Clone-Conspiracy/">Spider-Man Clone Conspiracy</a></td></tr></tbody>
-        </table>
-    </td>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr class="submenu-item-heading"><td><span class="submenuheader">Comics</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Back-Issues/">Back Issues</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Best-Sellers/">Best-Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/First-Looks/">First Looks</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Kids/">Kids</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Supplies/">Supplies</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Indy/">Indy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/DC-Rebirth/">DC Rebirth</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Secret-Empire/">Secret Empire</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Dark-Nights-Metal/">Dark Nights Metal</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Marvel-Legacy/">Marvel Legacy</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Comics</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Comics">See all 6171 Comics</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-This-Week/">New This Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Variants/">Variants</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/">New Comic Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Marvel-Comics">&nbsp;New Marvel Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-DC-Comics">&nbsp;New DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Image-Comics">&nbsp;New Image Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-IDW-Comics">&nbsp;New IDW Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Dark-Horse-Comics">&nbsp;New Dark Horse Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Boom-Studios-Comics">&nbsp;New Boom Studios Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Story-Arcs/">New Story Arcs</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Annuals/">Annuals</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Civil-War-II/">Civil War II</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Inhumans-Vs-X-Men/">Inhumans Vs X-Men</a></td></tr></tbody>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="/Statues" class="menuitem">Statues</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Statues</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/In-Stock-Statues/">In-Stock Statues</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Statues</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Statues">See all 317 Statues</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Top Genres</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Genres/Superhero">Superhero</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Genres/Science-Fiction">Science-Fiction</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Genres/Horror">Horror</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Genres/Fiction">Fiction</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Genres/Action-Adventure">Action-Adventure</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Top Companies</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Companies/DC+Comics">DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Companies/Koto+Inc.">Koto Inc.</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Companies/Diamond+Select">Diamond Select</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Companies/Dark+Horse">Dark Horse</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Companies/Kotobukiya">Kotobukiya</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr></tbody>
-        </table>
-    </td>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr class="submenu-item-heading"><td><span class="submenuheader">Statues</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/In-Stock-Statues/">In-Stock Statues</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Statues</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Statues">See all 292 Statues</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr></tbody>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="/Toys" class="menuitem">Toys</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Toys</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/In-Stock-Toys/">In-Stock Toys</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Genres/">Genres</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Recommended/">Recommended</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Toys</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Toys">See all 827 Toys</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Top Companies</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Companies/Funko">Funko</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Companies/Diamond+Select">Diamond Select</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Companies/DC+Comics">DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Companies/Dark+Horse">Dark Horse</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Companies/NECA">NECA</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr></tbody>
-        </table>
-    </td>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr class="submenu-item-heading"><td><span class="submenuheader">Toys</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/In-Stock-Toys/">In-Stock Toys</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Genres/">Genres</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Recommended/">Recommended</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Toys</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Toys">See all 1091 Toys</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr></tbody>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="/More-Products" class="menuitem">More Products</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">More Products</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Apparel/">Apparel</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Books/">Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Cards/">Cards</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Collectibles/">Collectibles</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Games/">Games</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Grab-Bags/">Grab Bags</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Journals/">Journals</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Lunch-Boxes/">Lunch Boxes</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Merchandise/">Merchandise</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Models/">Models</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Plush/">Plush</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Ship-Replicas/">Ship Replicas</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Stationery/">Stationery</a></td></tr></tbody>
-        </table>
-    </td>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr class="submenu-item-heading"><td><span class="submenuheader">More Products</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Apparel/">Apparel</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Books/">Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Cards/">Cards</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Collectibles/">Collectibles</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Games/">Games</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Grab-Bags/">Grab Bags</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Journals/">Journals</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Lunch-Boxes/">Lunch Boxes</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Merchandise/">Merchandise</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Models/">Models</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Ship-Replicas/">Ship Replicas</a></td></tr></tbody>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="/Themes" class="menuitem">Themes</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Themes</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Adventure-Time/">Adventure Time</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Aliens/">Aliens</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Batgirl/">Batgirl</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Batman/">Batman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Berserk/">Berserk</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Buffy-the-Vampire-Slayer/">Buffy the Vampire Slayer</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Captain-Marvel/">Captain Marvel</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Cyborg/">Cyborg</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Deadpool/">Deadpool</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Doctor-Strange/">Doctor Strange</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Game-of-Thrones/">Game of Thrones</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Guardians-of-the-Galaxy/">Guardians of the Galaxy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Hellboy/">Hellboy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Hulk/">Hulk</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Iron-Man/">Iron Man</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Manga/">Manga</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Power-Rangers/">Power Rangers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Predator/">Predator</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Serenity/">Serenity</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Spider-Man/">Spider-Man</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Star-Trek/">Star Trek</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Supergirl/">Supergirl</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Superman/">Superman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Star-Wars/">Star Wars</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Thor/">Thor</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Videogame/">Videogame</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Walking-Dead/">Walking Dead</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Wolverine/">Wolverine</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Wonder-Woman/">Wonder Woman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/X-Men/">X-Men</a></td></tr></tbody>
-        </table>
-    </td>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr class="submenu-item-heading"><td><span class="submenuheader">Themes</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Adventure-Time/">Adventure Time</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Aliens/">Aliens</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Batgirl/">Batgirl</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Batman/">Batman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Berserk/">Berserk</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Buffy-the-Vampire-Slayer/">Buffy the Vampire Slayer</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Captain-Marvel/">Captain Marvel</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Cyborg/">Cyborg</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Deadpool/">Deadpool</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Doctor-Strange/">Doctor Strange</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Game-of-Thrones/">Game of Thrones</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Guardians-of-the-Galaxy/">Guardians of the Galaxy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Hellboy/">Hellboy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Hulk/">Hulk</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Iron-Man/">Iron Man</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Manga/">Manga</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Power-Rangers/">Power Rangers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Predator/">Predator</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Serenity/">Serenity</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Spider-Man/">Spider-Man</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Star-Trek/">Star Trek</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Star-Wars/">Star Wars</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Superman/">Superman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Supergirl/">Supergirl</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Thor/">Thor</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Videogame/">Videogame</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Walking-Dead/">Walking Dead</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Wolverine/">Wolverine</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Wonder-Woman/">Wonder Woman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/X-Men/">X-Men</a></td></tr></tbody>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="/Companies" class="menuitem">Companies</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
 <tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Archie-Comics">Archie Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Boom!-Studios">Boom! Studios</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Dark-Horse">Dark Horse</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/DC-Comics">DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Dynamic-Forces">Dynamic Forces</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Dynamite-Entertainment">Dynamite</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Fantagraphics">Fantagraphics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/IDW-Publishing">IDW Publishing</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Image-Comics">Image Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Kotobukiya">Kotobukiya</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Marvel-Comics">Marvel Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Oni-Press">Oni Press</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Titan-Comics">Titan Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Top-Shelf-Productions">Top Shelf</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Valiant-Entertainment-LLC">Valiant</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Vertigo">Vertigo</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Zenescope-Entertainment">Zenescope</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies">All Companies...</a></td></tr></tbody>
-        </table>
-    </td>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="https://blog.tfaw.com" class="menuitem">Blog</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
 <tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/general-news/">General News</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/graphic-content/">Graphic Content</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/interviews/">Interviews</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/new-products/">New Products</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/product-reviews/">Product Reviews</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/special-sales/">Special Sales</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/upcoming-products/">Upcoming Products</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/">Blog Index...</a></td></tr></tbody>
-        </table>
-    </td>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
 </td><td class="rollovertd"><a href="/Promos" class="menuitem">Quicklinks</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
 <tr>
-    <td class="inner-submenu">
-        <table cellpadding="0" cellspacing="0">
-        <tbody>
+<td class="inner-submenu">
+<table cellpadding="0" cellspacing="0">
+<tbody>
 <tr class="submenu-item-url"><td><a rel="nofollow" href="/Arriving-This-Week">Arriving This Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/New-Last-Week">New Last Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/New-Releases">All New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Recently-Restocked">Recently Restocked</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Coming-Next-Week">Coming Next Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Pre-Orders">All Pre-Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos/Nick-and-Dent">50% Off Nick &amp; Dents</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/DOD">Deal of the Day</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Grab-Bags">50¢ Grab Bags</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos/1-Dollar-Comics-Sale">$1 Back Issue Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos/2-Dollar-Comics-Sale">$2 Back Issue Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos">Other Promotions</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Subscriptions">Subscriptions</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Contests">Contests</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/offer/comments">Testimonials</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/newsletters">Newsletter Signup</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/help/watchdog">Watchdog Alerts</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/help/wish-lists">Wish Lists</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/home/gift-certificates">Gift Certificates</a></td></tr></tbody>
-        </table>
-    </td>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
-</td>        </tr>
-      </tbody></table>
-    </div>
-    <div style="padding: 10px 0 0 0;height:40px; border-top: 1px solid #6f7d8f; background-color:#d4dcde;
-                border-bottom-right-radius: 15px; border-bottom-left-radius: 15px;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td>
-            <form action="/Search" onsubmit="return didFormSumbit();">
-              <table border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td width="10"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" height="10" width="10" border="0" alt=""></td>
-                  <td valign="middle">
-                    <div style="position: relative; padding: 0px; margin: 0px; z-index: 0;">
-                      <input type="hidden" name="_results_use_stopwords" value="true">
-                      <input id="myInput" name="quick_sstring" placeholder="Searching for.." class="sitewide-search-input quicksearch" size="25" maxlength="60">
-
-                      <div id="Auto-complete-container"></div>
-                    </div>
-                  </td>
-                  <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="28" border="0" alt=""></td>
-                  <td valign="middle">
-                    <select name="_results_sstype_search" class="quicksearch sitewide-filter">
-                      <option value="">All fields</option>
-                      <option value="titles">Titles</option>
-                      <option value="people">People</option>
-                      <option value="brands">Companies</option>
-                      <option value="">------</option>
-                      <option value="graphic-novels">Graphic Novels</option>
-                      <option value="comics">Comics</option>
-                      <option value="statues">Statues</option>
-                      <option value="toys">Toys</option>
-                      <option value="movies">Movies</option>
-                      <option value="new-releases">New Releases</option>
-                      <option value="pre-orders">Pre-Orders</option>
-                    </select>
-                  </td>
-                  <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-                  <td valign="middle"><input type="submit" value="Search" class="smallsubmit sitewide-smallsubmit"></td>
-                  <td width="15"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td>
-                  <td><a href="/PowerSearch" class="subnav">POWER SEARCH</a></td>
-                </tr>
-              </tbody></table>
-            </form>
-          </td>
-          <td valign="middle" align="right">
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <!--
-            <td valign="middle"><a href="https://www.tfaw.com/Subscriptions" class="subnav">SERVICES</a></td>
-            <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-            <td valign="middle"><span class="subnav-middot">&middot;</span></td>
-            -->
-                <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-                <td valign="middle"><a href="/Help" class="subnav">HELP</a></td>
-                <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-                <td valign="middle"><span class="subnav-middot">·</span></td>
-                <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-                <td valign="middle"><a href="https://www.tfaw.com/Your-Account" class="subnav">YOUR&nbsp;ACCOUNT</a></td>
-                <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-                <td valign="middle"><span class="subnav-middot">·</span></td>
-                <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-                <td valign="middle"><a href="https://www.tfaw.com/Your-Account/Login" id="mysubnav-login" onmouseover="$D.setStyle(this, 'backgroundColor','#c23015');$D.setStyle(this, 'color','white');" onmouseout="$D.setStyle(this, 'backgroundColor','white');$D.setStyle(this, 'color','#4c5d6d');">LOGIN</a></td>                <td width="15"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-
-      </tbody></table>
-    </div>
-  </div>
-
-  
-  <div class="hide-me-mobile" align="center" style="padding-top:7px;padding-bottom:0px;vertical-align:bottom;">
-    <a href="/DOD?qt=ia_nav_dod">
-      <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_deal.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-    </a>
-
-    <a href="/New-Last-Week?qt=ia_nav_nlw">
-      <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_new.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-    </a>
-
-    <a href="/Arriving-This-Week?qt=ia_nav_atw">
-      <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_arriving.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-    </a>
-
-    <a href="/Coming-Next-Week?qt=ia_nav_cnw">
-      <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_coming.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-    </a>
-
-    <a class="nd-replacement-button" id="nd-replacement-button-things" data-qt-string="nav_Button_Things" href="/Sale?qt=nav_Button_Things">
-      <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_things.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-    </a>
-
-  </div>
-
-</div>
-
-  <table class="hide-me-too-mobile" border="0" cellpadding="0" cellspacing="0" width="865" align="center">
-    <tbody><tr>
-      <!-- Lefthand margin -->
-      <td width="15">
-        <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-      </td>
-      <!-- Left channel -->
-      <td valign="top">
-        <div class="sidenav"><!-- **~1~** -->
-          </div>        
-        
-<noscript>
-  <div style="position:relative; width:170; border:1px solid #2F3E5F; padding:5px; margin:0 auto; margin-top:0px; margin-bottom:15px;">
-    <table border="0" cellpadding="0" cellspacing="0">
-      <tr>
-        <td valign="top">
-          <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/warning.png" width="26" height="24" border="0" alt="WARNING" align="left" hspace="5" vspace="3">
-        <span style="font-size:11px;">
-                    To get the most out of your TFAW.com experience, please enable Javascript in your browser.
-        </span>
-        </td>
-      </tr>
-    </table>
-  </div>
-</noscript>
-
-
-
-  <div class="sidebarheader"><a href="/Offer/Comments?qt=ia_ccbanhdr" class="sidebarheader">CUSTOMERS SAY</a></div>
-  <div style="margin-top:5px; padding-bottom:15px;" align="center">
-            <a href="/Offer/Comments?qt=ia_ccban"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/CustCom5_170.gif" width="170" height="105" border="0" alt="Customer Testimonials"></a>
-  </div>
-
-
-  <div class="divider" style="margin-top:0px; padding-bottom:10px;">
-  </div>
-
-  <div class="sidebarheader" style="padding-bottom:10px;">GREAT TFAW DEALS</div>
-
-          <div style="margin-top:0px; padding-bottom:15px;">
-      <a rel="nofollow" href="http://www.tfaw.com/Search?sstring=supergirl+lau&amp;qt=ia_ban170_Supergirl_Sep17"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/17_09-Supergirl14-170x170.jpg" width="170" height="170" border="0" alt="Supergirl"></a>
-    </div>
-      <div style="margin-top:0px; padding-bottom:15px;">
-      <a rel="nofollow" href="http://www.tfaw.com/Comics/Profile/Captain-America-695___552625?qt=ia_ban170_Sep17_CapAmerica"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/17_09-Captain_America-170x170.jpg" width="170" height="170" border="0" alt="Cap"></a>
-    </div>
-      <div style="margin-top:0px; padding-bottom:15px;">
-      <a rel="nofollow" href="http://www.tfaw.com/sale/?qt=ia_ban170_sale"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/Jan17_Sale.jpg" width="170" height="54" border="0" alt="Comic Books for Sale"></a>
-    </div>
-      <div style="margin-top:0px; padding-bottom:15px;">
-      <a rel="nofollow" href="http://www.tfaw.com/Newsletter?qt=ia_ban170_Newsletter_APR17"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/Newsletter_170x170.jpg" width="170" height="170" border="0" alt="Newsletter"></a>
-    </div>
-      <div style="margin-top:0px; padding-bottom:15px;">
-      <a rel="nofollow" href="http://www.tfaw.com/Promos/Nick-and-Dent?qt=ia_ban170_NickDent_may16"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/nd_may16.jpg" width="170" height="54" border="0" alt="Nick &amp; Dents"></a>
-    </div>
-  
-<br><br>
-
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="170" height="5" border="0" alt="">
-      </td>
-      <!-- Gutter -->
-      <td width="20">
-        <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="20" height="20" border="0" alt="">
-      </td>
-      <!-- Right channel -->
-      <td width="100%" valign="top">
-              <div class="legacy-message" id="message-d735efc7d9bdf107570f352a2da25a51">
-        As we complete our annual warehouse inventory this week orders may experience slight delays in processing.  Please allow 2-4 business days for orders to be processed and shipped. <a class="message-close-button" data-message-id="d735efc7d9bdf107570f352a2da25a51"></a>
-      </div>        <b><a href="/" class="greylink">Home</a> <span class="greyarrow">&gt;</span> <a href="/Help" class="greylink">Help</a> <span class="greyarrow">&gt;</span> <span class="bluebold">Privacy Policy</span></b> <!-- Breadcrumb trail -->
-        <div style="height:10px;"></div>
-        <!-- **~2~** -->
-        <table border="0" class="hide-me-too-mobile" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-        <td colspan="3"><span class="sectionheader"><h2>Privacy Policy</h2></span></td>
-      </tr>
-       <tr>
-         <td colspan="3"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0"></td>
-       </tr><tr><td valign="top"><span class="bodytext"><p>
-    Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc.
-</p>
-<p>
-    Things From Another World, Inc. recognizes the privacy concerns of visitors to its site on the Internet. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as your name, address, or email address, is automatically collected from visitors to our site. We may collect certain non-personal information used only to optimize our web pages for your computer (i.e., the identity of your Internet browser and the type of operating system you use). We may also use non-personal information to determine the total number of visitors to our website.
-</p>
-<p>
-    We will not sell, rent, or give out your personal information to any party outside of our company. Things From Another World values your privacy and your information very much. All customer information is stored on our SSL server behind 128-bit encryption, the most secure encryption available commercially at this time. We are verified by <a href="http://www.trustlogo.com/">Comodo</a>, one of the leading SSL Certification companies.
-</p>
-<p>
-    Personally identifiable information about visitors to the Things From Another World, Inc. site is collected only when knowingly and voluntarily submitted. In those instances when we do collect such information, the following applies:
-</p>
-
-<b>I. POLICIES THAT APPLY TO INDIVIDUALS AGE 13 AND OVER</b> 
-
-<p> 
-    </p><p>
-        <b>COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION BY THINGS FROM ANOTHER WORLD, INC.</b> 
-    
-        </p><p>
-           <b>General.</b>  Personally identifiable information about visitors to this Site (that is, information such as a visitor's name, e-mail address, mailing address, or telephone number) is collected only when knowingly and voluntarily submitted. Such information may be requested in connection with our sweepstakes, contests, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, requests for suggestions, visitors' requests for products or services, and visitors' requests for additional information. 
-        </p>
-    
-        <p>
-           <b>Joint Collection of Personal Information.</b> Sometimes Things From Another World, Inc. collects personal information jointly with business partners or sponsors.  The identity of the entities collecting personal information will be clear at the time your personal information is collected.   A detailed description of shared use can also be found in the specific Terms of Use for this Site, and in the rules for sweepstakes and promotions. 
-        </p>
-    <p></p>
-    
-    <p> 
-        <b>WHAT THINGS FROM ANOTHER WORLD, INC. DOES (AND DOESN'T DO) WITH THE PERSONAL INFORMATION WE COLLECT</b> 
-        
-        </p><p>
-           <b>General.</b> Things From Another World, Inc. uses personally identifiable information only for the purpose for which it is submitted unless we disclose other uses at the time of collection, in which case you will have the opportunity to instruct us not to use your data in other ways (i.e., "opt-out"). 
-       </p>
-       <p>
-           <b>Sharing Personal Information.</b>  Things From Another World, Inc. may share personally identifiable information with other Dark Horse companies or with some of our business partners who would like to send you information about their products or services.  However, when we collect your information, you will have the opportunity to instruct us not to share your information in these ways. 
-       </p>
-       <p>
-           <b>LINKS/CO-BRANDED SITES</b> 
-           </p><p>
-                Things From Another World, Inc. has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a Things From Another World, Inc. logo; however, they are not operated or maintained by Things From Another World, Inc.. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners. 
-            </p>
-            
-            <p> 
-                Things From Another World, Inc. chooses its advertisers and business partners carefully. However, Things From Another World, Inc. is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement, or approval by Things From Another World, Inc. of the content, policies, or practices of such third party sites.  We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information.  Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third party site. 
-            </p>
-            <p>
-                This Site may also be linked to Web sites operated by companies affiliated with Things From Another World, Inc.. Things From Another World, Inc. may share information collected by our affiliated companies; however this Privacy Policy will apply to any personal information we receive in this manner.  Visitors to our affiliated company's sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
-            </p>
-            
-            <b>NON-PERSONALLY IDENTIFIABLE INFORMATION</b> 
-            
-            <p>
-                When visitors come to our Site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor.  Collecting such information involves the logging of IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator or Internet Explorer), and Internet service providers (e.g., AOL or NET.COM) used by each visitor to the Site.  Although such information is not personally identifiable, it can be used to determine the IP address of the visitor's Internet Service Provider and the geographic location of his or her point of connectivity to the Internet.
-            </p>
-            <p>
-                Cookies are small bits of information that our site places on the hard drive of your computer to enable us to do a number of things to make your visit and future visits to the site more enjoyable.  For example, cookies allow a visitor to quickly log on to a site he/she has used before by storing a password.  Cookies are not used to obtain information about a user that was not previously provided in a cookie.  The cookie itself does not contain any personally identifiable information about a visitor, and Things From Another World, Inc. does not use cookies in order to obtain such information.  Things From Another World, Inc. will never save credit card information in cookies.  Most major sites on the Internet use cookies. Visitors may receive cookies from third parties, but Things From Another World, Inc. cannot control the content of these cookies.  You should consult your browser owner's manual for instructions on how to refuse cookies.
-            </p>
-            <p>
-                Things From Another World, Inc. uses non-personally identifiable information and information obtained through the use of cookies in order to improve the Site.  By tracking how many people visit our Site and where visitors go on our Site, we are able to determine which part of the Site users like the best, which part needs some improvement, and what changes should be made.  By obtaining this information, we are able to continually improve our Site and bring you the best online experience possible.  Things From Another World, Inc. may also disclose some of non-personal information we obtain to advertisers to inform them of how many people have seen or linked to their advertisements on our Site.  However, we will never disclose personally identifiable information to these advertisers. 
-            </p>
-            <b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION </b> 
-            
-            <p>
-                Visitors may review, change, or delete personal information from our records at any time.  If you would like to review, change, or delete your personal information, please contact us at "privacy1 at tfaw dot com", call us at 503-652-8815, or write us at Dark Horse Network, Attn:  Personal Info, 10956 SE Main St, Milwaukie, OR 97222. If you have requested the deletion of your information, we will immediately delete your information from our database and refrain from collecting any other personally identifiable information from your child, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information.  This residual information will not be given to any other third party or used for any commercial purpose.
-            </p>
-            <b>SECURITY AND INTEGRITY OF PERSONAL INFORMATION</b>
-            
-            <p>
-                Things From Another World, Inc. has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of personal information collected by this Site.
-            </p>
-            
-            <b>II. ADDITIONAL POLICIES THAT APPLY TO CHILDREN UNDER 13</b>
-            
-            <p>
-                <b>KIDS AND INTERNET SAFETY</b>
-            </p>
-            <p>
-                We at Things From Another World, Inc. understand that the Internet presents an opportunity for us to reach the public in new and exciting ways with information about our programming, fun games, exciting sweepstakes and contests, e-mail, chat rooms, bulletin boards, and other forms of interactivity.  Things From Another World, Inc. also recognizes the privacy concerns of parents, and the importance of protecting the privacy of the information this Site collects from kids. Parents of kids who visit this Site can be confident that any personal information that may be provided to this Site will be collected and maintained in accordance with the Children's Online Privacy Protection Act ("COPPA").  Things From Another World, Inc. encourages parents to supervise their kids' activities online and to participate in their kids' online activities whenever possible.  However, we understand that parents may not always be able to supervise their kids' activities on the Internet.  That's why Things From Another World, Inc. has developed a Site that parents can feel is safe for their kids and kids will find cool, informative, educational, and fun!  Because there's always room for improvement, Things From Another World, Inc. welcomes any suggestions on how to make the Site a better, safer place to hang out.
-            </p>
-            <p>
-                Section I of this Privacy Policy applies to the collection of personal information from all visitors to this site, regardless of age. Section II describes the special, additional policies Things From Another World, Inc. applies to the collection, use, and disclosure of personal information submitted to this Site by kids under 13.
-            </p>
-            
-            <b>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13</b>
-            
-            <p>
-                When a visitor to our Site is under the age of 13, Things From Another World, Inc. does not require the disclosure of more personally identifiable information than is reasonably necessary for him or her to participate in an activity as a condition of such participation.
-            </p>
-            <p>
-                Things From Another World, Inc. may use different types of personally identifiable information submitted to this Site by kids under 13 in a variety of ways, which are described below. In each instance, we comply with the parental consent requirements of COPPA.
-            </p>
-            <p>
-                <b>A. Use of a Child's Information by Things From Another World, Inc.</b> 
-                </p><ul>
-                    <li>
-                        We may collect a child's e-mail address in connection with a contest, sweepstakes or game for the sole purpose of communicating with the child on a one-time-only basis (i.e., to contact a contest winner).  This information will not be used to re-contact the child, and will be deleted from our records when the contest or game is over.  Parental consent is obtained before we send the winner a prize.
-                    </li>
-                    <li>
-                        We may collect a child's e-mail address in order to respond more than once to a child's specific request.  For example, the child may want to subscribe to an online newsletter or receive other online communications from Things From Another World, Inc. In these instances, Things From Another World, Inc. will also obtain a parent's e-mail address along with the child's.  Before any further contact with the child, Things From Another World, Inc. will send an e-mail to the parent (a) notifying him or her we have collected the child's e-mail address in order to respond more than once to the child's request for a subscription, information, etc; (b) informing the parent that he or she can refuse us permission to contact the child, and how to do so; and (c) informing the parent that if he or she does not respond to the e-mail within 72 hours, Things From Another World, Inc. may use the child's information for the purpose for which it was submitted.
-                    </li>
-                    <li>
-                        We may collect a child's personally identifiable information (including name, e-mail address, mailing address, and phone number) for such activities as joining the Dark Horse Message Boards, chats, forums, surveys, games, bulletin boards, requests for suggestions, subscription registrations, content submissions, requests for products or services, or requests for additional information.  In these instances, we will initially collect only the child's name and online contact information and the e-mail address of the child's parent.  Before using this information for any purpose, we will send the parent an e-mail that (a) informs the parent that we wish to collect and use the child's personal information and need the parent's consent to do so, and (b) provides the parent with a link to access to this Privacy Policy, which describes our information collection and use policies as required by COPPA.  If the proposed use of the child's personal information does not involve disclosure to a third party, then Things From Another World, Inc. will ask the parent to provide consent by return e-mail.  Upon receipt of the e-mail consent, we will send the parent a confirming e-mail. If the proposed use of the child's personal information involves disclosure to third parties, the e-mail we send to the parent will ask the parent either to (i) return by postal mail or fax a consent form that will be attached to the e-mail, or (ii) call a toll-free number where consent can be given over the phone.  If parental consent is not obtained by one of these methods within 72 hours, Things From Another World, Inc. will delete all of the child's and parent's personally identifiable information from its records.  In addition, parents can revoke a prior consent at any time.
-                    </li>
-                    <li>
-                        We may collect a child's name and e-mail address to the extent reasonably necessary to protect the security of this Site, to protect against liability, or as required or permitted by law.  Information collected for these reasons will not be used for any other purpose.
-                    </li>
-                </ul> 
-                <b>B. Sharing Children's Personal Information with Third Parties.</b> 
-                
-                <p>
-                    Things From Another World, Inc. may share a child's personal information with our affiliated companies and promotional partners for their marketing purposes. These third parties have not agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from Things From Another World, Inc..  As noted above, parents may exercise their option not to consent to the disclosure of their child's personal information to third parties.  Parents may consent to Things From Another World, Inc.'s collection and use of a child's personal information without consenting to the disclosure of the information to third parties.
-                </p>
-                <b>LINKS/CO-BRANDED SITES</b>
-                <p>
-                    As noted in Section I of this Privacy Policy, this Site may link directly to sites operated by Things From Another World, Inc.'s advertisers, business partners, and affiliated companies.  Those sites, which are not controlled by Things From Another World, Inc., may collect personal information from your child.  Parents should therefore check the relevant site's privacy policy to understand how it collects and uses kids' personal information.  Things From Another World, Inc. will not share in any personal information obtained by a site from a child under the age of 13 unless that site follows the requirements of COPPA.
-                </p>
-                <b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION COLLECTED FROM CHILDREN UNDER 13</b>
-                <p>
-                    Parents of children under age 13 may review, change, or delete personal information about their kids from our records at any time.  If you would like to review, change, or delete your child's personal information, please <a href="/Help/Getting-Help">contact us</a>. If you have requested deletion of your child's information, we will immediately delete your child's information from our database and refrain from collecting any other personally identifiable information from your child.  However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information.  This residual information will not be given to any other third party or used for any commercial purpose.
-                </p>
-            <p></p>
-        <p></p>
-    <p></p>
-<p>
-    <b>Privacy Policy Changes</b> 
-    </p><p>
-        Things From Another World, Inc. reviews its privacy policy periodically, and it may be subject to change.
-    </p>
-<p></p>
-<p>
-</p></span></td></tr><tr><td colspan="3"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td></tr></tbody></table>      </td>
-      <!-- Righthand margin -->
-      <td width="15">
-        <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-      </td>
-    </tr>
-  </tbody></table>
-
-
-<div id="mobile-container" class="container-fluid">
-  <div class="row">
-    <div class="col-12 text-center">
-            <div class="alert alert-info alert-dismissible fade show">
-        <button type="button" class="close dismiss-message-trigger" data-dismiss="alert" aria-label="Close" data-message-id="d735efc7d9bdf107570f352a2da25a51">
-          <span aria-hidden="true">×</span>
-        </button>
-        As we complete our annual warehouse inventory this week orders may experience slight delays in processing.  Please allow 2-4 business days for orders to be processed and shipped.      </div>
-      
-<script>
-  jQuery(document).ready(function($) {
-    $('.dismiss-message-trigger').on('click', function () {
-      var msg_id = jQuery(this).attr('data-message-id');
-
-      $.ajax({
-        url: '/ajax.php',
-        data: {dismiss_message: msg_id},
-        method: 'GET'
-      });
-    });
-  });
-</script>
-    </div>
-  </div>
-  <div class="mt-1 row">
-    <div class="col-12 col-md-8 offset-md-2">
-          <div class="blurb-mod-header">Privacy Policy</div>
-    <div class="blurb-mod-text">
-      <p>
-    Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc.
-</p>
-<p>
-    Things From Another World, Inc. recognizes the privacy concerns of visitors to its site on the Internet. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as your name, address, or email address, is automatically collected from visitors to our site. We may collect certain non-personal information used only to optimize our web pages for your computer (i.e., the identity of your Internet browser and the type of operating system you use). We may also use non-personal information to determine the total number of visitors to our website.
-</p>
-<p>
-    We will not sell, rent, or give out your personal information to any party outside of our company. Things From Another World values your privacy and your information very much. All customer information is stored on our SSL server behind 128-bit encryption, the most secure encryption available commercially at this time. We are verified by <a href="http://www.trustlogo.com/">Comodo</a>, one of the leading SSL Certification companies.
-</p>
-<p>
-    Personally identifiable information about visitors to the Things From Another World, Inc. site is collected only when knowingly and voluntarily submitted. In those instances when we do collect such information, the following applies:
-</p>
-
-<b>I. POLICIES THAT APPLY TO INDIVIDUALS AGE 13 AND OVER</b> 
-
-<p> 
-    </p><p>
-        <b>COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION BY THINGS FROM ANOTHER WORLD, INC.</b> 
-    
-        </p><p>
-           <b>General.</b>  Personally identifiable information about visitors to this Site (that is, information such as a visitor's name, e-mail address, mailing address, or telephone number) is collected only when knowingly and voluntarily submitted. Such information may be requested in connection with our sweepstakes, contests, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, requests for suggestions, visitors' requests for products or services, and visitors' requests for additional information. 
-        </p>
-    
-        <p>
-           <b>Joint Collection of Personal Information.</b> Sometimes Things From Another World, Inc. collects personal information jointly with business partners or sponsors.  The identity of the entities collecting personal information will be clear at the time your personal information is collected.   A detailed description of shared use can also be found in the specific Terms of Use for this Site, and in the rules for sweepstakes and promotions. 
-        </p>
-    <p></p>
-    
-    <p> 
-        <b>WHAT THINGS FROM ANOTHER WORLD, INC. DOES (AND DOESN'T DO) WITH THE PERSONAL INFORMATION WE COLLECT</b> 
-        
-        </p><p>
-           <b>General.</b> Things From Another World, Inc. uses personally identifiable information only for the purpose for which it is submitted unless we disclose other uses at the time of collection, in which case you will have the opportunity to instruct us not to use your data in other ways (i.e., "opt-out"). 
-       </p>
-       <p>
-           <b>Sharing Personal Information.</b>  Things From Another World, Inc. may share personally identifiable information with other Dark Horse companies or with some of our business partners who would like to send you information about their products or services.  However, when we collect your information, you will have the opportunity to instruct us not to share your information in these ways. 
-       </p>
-       <p>
-           <b>LINKS/CO-BRANDED SITES</b> 
-           </p><p>
-                Things From Another World, Inc. has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a Things From Another World, Inc. logo; however, they are not operated or maintained by Things From Another World, Inc.. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners. 
-            </p>
-            
-            <p> 
-                Things From Another World, Inc. chooses its advertisers and business partners carefully. However, Things From Another World, Inc. is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement, or approval by Things From Another World, Inc. of the content, policies, or practices of such third party sites.  We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information.  Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third party site. 
-            </p>
-            <p>
-                This Site may also be linked to Web sites operated by companies affiliated with Things From Another World, Inc.. Things From Another World, Inc. may share information collected by our affiliated companies; however this Privacy Policy will apply to any personal information we receive in this manner.  Visitors to our affiliated company's sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
-            </p>
-            
-            <b>NON-PERSONALLY IDENTIFIABLE INFORMATION</b> 
-            
-            <p>
-                When visitors come to our Site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor.  Collecting such information involves the logging of IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator or Internet Explorer), and Internet service providers (e.g., AOL or NET.COM) used by each visitor to the Site.  Although such information is not personally identifiable, it can be used to determine the IP address of the visitor's Internet Service Provider and the geographic location of his or her point of connectivity to the Internet.
-            </p>
-            <p>
-                Cookies are small bits of information that our site places on the hard drive of your computer to enable us to do a number of things to make your visit and future visits to the site more enjoyable.  For example, cookies allow a visitor to quickly log on to a site he/she has used before by storing a password.  Cookies are not used to obtain information about a user that was not previously provided in a cookie.  The cookie itself does not contain any personally identifiable information about a visitor, and Things From Another World, Inc. does not use cookies in order to obtain such information.  Things From Another World, Inc. will never save credit card information in cookies.  Most major sites on the Internet use cookies. Visitors may receive cookies from third parties, but Things From Another World, Inc. cannot control the content of these cookies.  You should consult your browser owner's manual for instructions on how to refuse cookies.
-            </p>
-            <p>
-                Things From Another World, Inc. uses non-personally identifiable information and information obtained through the use of cookies in order to improve the Site.  By tracking how many people visit our Site and where visitors go on our Site, we are able to determine which part of the Site users like the best, which part needs some improvement, and what changes should be made.  By obtaining this information, we are able to continually improve our Site and bring you the best online experience possible.  Things From Another World, Inc. may also disclose some of non-personal information we obtain to advertisers to inform them of how many people have seen or linked to their advertisements on our Site.  However, we will never disclose personally identifiable information to these advertisers. 
-            </p>
-            <b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION </b> 
-            
-            <p>
-                Visitors may review, change, or delete personal information from our records at any time.  If you would like to review, change, or delete your personal information, please contact us at "privacy1 at tfaw dot com", call us at 503-652-8815, or write us at Dark Horse Network, Attn:  Personal Info, 10956 SE Main St, Milwaukie, OR 97222. If you have requested the deletion of your information, we will immediately delete your information from our database and refrain from collecting any other personally identifiable information from your child, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information.  This residual information will not be given to any other third party or used for any commercial purpose.
-            </p>
-            <b>SECURITY AND INTEGRITY OF PERSONAL INFORMATION</b>
-            
-            <p>
-                Things From Another World, Inc. has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of personal information collected by this Site.
-            </p>
-            
-            <b>II. ADDITIONAL POLICIES THAT APPLY TO CHILDREN UNDER 13</b>
-            
-            <p>
-                <b>KIDS AND INTERNET SAFETY</b>
-            </p>
-            <p>
-                We at Things From Another World, Inc. understand that the Internet presents an opportunity for us to reach the public in new and exciting ways with information about our programming, fun games, exciting sweepstakes and contests, e-mail, chat rooms, bulletin boards, and other forms of interactivity.  Things From Another World, Inc. also recognizes the privacy concerns of parents, and the importance of protecting the privacy of the information this Site collects from kids. Parents of kids who visit this Site can be confident that any personal information that may be provided to this Site will be collected and maintained in accordance with the Children's Online Privacy Protection Act ("COPPA").  Things From Another World, Inc. encourages parents to supervise their kids' activities online and to participate in their kids' online activities whenever possible.  However, we understand that parents may not always be able to supervise their kids' activities on the Internet.  That's why Things From Another World, Inc. has developed a Site that parents can feel is safe for their kids and kids will find cool, informative, educational, and fun!  Because there's always room for improvement, Things From Another World, Inc. welcomes any suggestions on how to make the Site a better, safer place to hang out.
-            </p>
-            <p>
-                Section I of this Privacy Policy applies to the collection of personal information from all visitors to this site, regardless of age. Section II describes the special, additional policies Things From Another World, Inc. applies to the collection, use, and disclosure of personal information submitted to this Site by kids under 13.
-            </p>
-            
-            <b>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13</b>
-            
-            <p>
-                When a visitor to our Site is under the age of 13, Things From Another World, Inc. does not require the disclosure of more personally identifiable information than is reasonably necessary for him or her to participate in an activity as a condition of such participation.
-            </p>
-            <p>
-                Things From Another World, Inc. may use different types of personally identifiable information submitted to this Site by kids under 13 in a variety of ways, which are described below. In each instance, we comply with the parental consent requirements of COPPA.
-            </p>
-            <p>
-                <b>A. Use of a Child's Information by Things From Another World, Inc.</b> 
-                </p><ul>
-                    <li>
-                        We may collect a child's e-mail address in connection with a contest, sweepstakes or game for the sole purpose of communicating with the child on a one-time-only basis (i.e., to contact a contest winner).  This information will not be used to re-contact the child, and will be deleted from our records when the contest or game is over.  Parental consent is obtained before we send the winner a prize.
-                    </li>
-                    <li>
-                        We may collect a child's e-mail address in order to respond more than once to a child's specific request.  For example, the child may want to subscribe to an online newsletter or receive other online communications from Things From Another World, Inc. In these instances, Things From Another World, Inc. will also obtain a parent's e-mail address along with the child's.  Before any further contact with the child, Things From Another World, Inc. will send an e-mail to the parent (a) notifying him or her we have collected the child's e-mail address in order to respond more than once to the child's request for a subscription, information, etc; (b) informing the parent that he or she can refuse us permission to contact the child, and how to do so; and (c) informing the parent that if he or she does not respond to the e-mail within 72 hours, Things From Another World, Inc. may use the child's information for the purpose for which it was submitted.
-                    </li>
-                    <li>
-                        We may collect a child's personally identifiable information (including name, e-mail address, mailing address, and phone number) for such activities as joining the Dark Horse Message Boards, chats, forums, surveys, games, bulletin boards, requests for suggestions, subscription registrations, content submissions, requests for products or services, or requests for additional information.  In these instances, we will initially collect only the child's name and online contact information and the e-mail address of the child's parent.  Before using this information for any purpose, we will send the parent an e-mail that (a) informs the parent that we wish to collect and use the child's personal information and need the parent's consent to do so, and (b) provides the parent with a link to access to this Privacy Policy, which describes our information collection and use policies as required by COPPA.  If the proposed use of the child's personal information does not involve disclosure to a third party, then Things From Another World, Inc. will ask the parent to provide consent by return e-mail.  Upon receipt of the e-mail consent, we will send the parent a confirming e-mail. If the proposed use of the child's personal information involves disclosure to third parties, the e-mail we send to the parent will ask the parent either to (i) return by postal mail or fax a consent form that will be attached to the e-mail, or (ii) call a toll-free number where consent can be given over the phone.  If parental consent is not obtained by one of these methods within 72 hours, Things From Another World, Inc. will delete all of the child's and parent's personally identifiable information from its records.  In addition, parents can revoke a prior consent at any time.
-                    </li>
-                    <li>
-                        We may collect a child's name and e-mail address to the extent reasonably necessary to protect the security of this Site, to protect against liability, or as required or permitted by law.  Information collected for these reasons will not be used for any other purpose.
-                    </li>
-                </ul> 
-                <b>B. Sharing Children's Personal Information with Third Parties.</b> 
-                
-                <p>
-                    Things From Another World, Inc. may share a child's personal information with our affiliated companies and promotional partners for their marketing purposes. These third parties have not agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from Things From Another World, Inc..  As noted above, parents may exercise their option not to consent to the disclosure of their child's personal information to third parties.  Parents may consent to Things From Another World, Inc.'s collection and use of a child's personal information without consenting to the disclosure of the information to third parties.
-                </p>
-                <b>LINKS/CO-BRANDED SITES</b>
-                <p>
-                    As noted in Section I of this Privacy Policy, this Site may link directly to sites operated by Things From Another World, Inc.'s advertisers, business partners, and affiliated companies.  Those sites, which are not controlled by Things From Another World, Inc., may collect personal information from your child.  Parents should therefore check the relevant site's privacy policy to understand how it collects and uses kids' personal information.  Things From Another World, Inc. will not share in any personal information obtained by a site from a child under the age of 13 unless that site follows the requirements of COPPA.
-                </p>
-                <b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION COLLECTED FROM CHILDREN UNDER 13</b>
-                <p>
-                    Parents of children under age 13 may review, change, or delete personal information about their kids from our records at any time.  If you would like to review, change, or delete your child's personal information, please <a href="/Help/Getting-Help">contact us</a>. If you have requested deletion of your child's information, we will immediately delete your child's information from our database and refrain from collecting any other personally identifiable information from your child.  However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information.  This residual information will not be given to any other third party or used for any commercial purpose.
-                </p>
-            <p></p>
-        <p></p>
-    <p></p>
-<p>
-    <b>Privacy Policy Changes</b> 
-    </p><p>
-        Things From Another World, Inc. reviews its privacy policy periodically, and it may be subject to change.
-    </p>
-<p></p>
-<p>
-
-    </p></div>    </div>
-  </div>
-</div>
-
-<script>
-  jQuery(document).ready(function() {
-    jQuery('.close').on('click', function() {
-      jQuery(this).parent().hide(500);
-    });
-  });
-</script>
-<table class="hide-me-mobile" id="footer_table" cellpadding="0" cellspacing="0" border="0" align="center" width="865">
-  <tbody><tr>
-    <td width="15">
-      <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-    </td>
-    <td>
-      <table width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr>
-          <td>
-            <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="10" border="0" alt="">
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table width="100%" cellpadding="0" cellspacing="0" border="0">
-              <tbody><tr>
-                                  <td align="left">
-                    <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--18105.html" target="bizrate.com"><img src="https://medals.bizrate.com/medals/dynamic/18105_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
-                  </td>
-                                <td align="center" valign="bottom">
-                  <b>What do you think about our site? We welcome your <a href="/Help/Contact-Form?messageabout=feedback">feedback</a>!</b><br><br>
-                                    <a class="boldlink" href="/Help">Help</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="/Help/About-Us">About Us</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="/Help/Contact-Form">Contact Us</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="https://messenger.providesupport.com/messenger/tfaw.html">Live Support Chat</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="/Newsletters">Newsletter Signup</a>&nbsp;<br>
-                  <a class="boldlink" href="/Store-locations">Store Locations</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="/Help/Affiliate-Information">Affiliate Program</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="/Jobs">Jobs</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="/Help/Privacy-Policy">Privacy Policy</a>&nbsp;|&nbsp;
-                  <a class="boldlink" href="/Site-Map">Site Map</a><span class="toggle-desktop-force-container">&nbsp;|&nbsp;
-                  <a class="boldlink toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a></span>
-                </td>
-                                  <td align="right">
-                    <a target="_blank" href="https://www.comodo.com/">
-                      <img src="https://d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/comodo_secure_seal_113x59_transp.png">
-                    </a>
-                  </td>
-                              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-      <table width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr class="toggle-desktop-force-container">
-          <td class="center-text" style="padding: 0.5em 0; font-size: 150%;">
-            <a class="boldlink toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="10" border="0" alt="">
-          </td>
-        </tr>
-        <tr>
-          <td bgcolor="#bdc8d0"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="1" border="0" alt=""></td>
-        </tr>
-        <tr>
-          <td>
-            <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt="">
-          </td>
-        </tr>
-        <tr>
-          <td align="left" valign="top" width="100%">
-            <span class="indiciatext">Legal Notice: Entire contents trademarked (® or TM) and copyrighted (©) 1986-2017 by Things From Another World, Inc. and respective copyright and trademark holders.  All rights reserved.
-              Page rendered at 2017-10-22 17:31:39 in 0.280 seconds.
-                          </span><br><br>
-          </td>
-        </tr>
-              </tbody></table>
-    </td>
-    <td width="15">
-      <img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-    </td>
-  </tr>
+</td> </tr>
 </tbody></table>
-
-<div id="footer-mobile-container" class="container-fluid">
-  <div class="footer-banners-container">
-          <a class="footer-banners-link" rel="nofollow" href="http://www.tfaw.com/Search?sstring=supergirl+lau&amp;qt=ia_ban170_Supergirl_Sep17"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/17_09-Supergirl14-170x170.jpg" alt="Supergirl"></a>
-          <a class="footer-banners-link" rel="nofollow" href="http://www.tfaw.com/Comics/Profile/Captain-America-695___552625?qt=ia_ban170_Sep17_CapAmerica"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/17_09-Captain_America-170x170.jpg" alt="Cap"></a>
-    
-  </div>
-  <div class="mt-1 row">
-    <div class="col-12">
-        <p>
-          What do you think about our site? We welcome your <a href="/Help/Contact-Form?messageabout=feedback">feedback</a>!
-        </p>
-
-        <div>
-                    <a class="boldlink footer-mobile-container-nav-link" href="/Help">Help</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Help/About-Us">About Us</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Help/Contact-Form">Contact Us</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="https://messenger.providesupport.com/messenger/tfaw.html">Live Support Chat</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Newsletters">Newsletter Signup</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Store-locations">Store Locations</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Help/Affiliate-Information">Affiliate Program</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Jobs">Jobs</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Help/Privacy-Policy">Privacy Policy</a>
-          <a class="boldlink footer-mobile-container-nav-link" href="/Site-Map">Site Map</a>
-        </div>
-        <div class="py-2">
-          <a class="boldlink footer-mobile-container-nav-link toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a>
-        </div>
-              <div class="footer-row">
-          <div class="footer-inline-element">
-            <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--18105.html" target="bizrate.com"><img src="https://medals.bizrate.com/medals/dynamic/18105_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
-          </div>
-          <div class="footer-inline-element">
-            <a target="_blank" href="https://www.comodo.com/">
-              <img src="https://d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/comodo_secure_seal_113x59_transp.png">
-            </a>
-          </div>
-        </div>
-            <div class="footer-row">
-        <span class="indiciatext">
-          Legal Notice: Entire contents trademarked (® or TM) and copyrighted (©) 1986-2017 by Things From Another World, Inc. and respective copyright and trademark holders.  All rights reserved.
-        </span>
-      </div>
-    </div>
-  </div>
 </div>
-
-<script type="text/javascript">
-  jQuery(document).ready(function() {
-    jQuery('a.first-look-trigger').click(function() {
-      jQuery('#first-look-link-container a:first').trigger('click');
-      return false;
-    });
-
-    jQuery('a[data-lightbox-url]').each(function() {
-      jQuery(this).attr('href', this.getAttribute('data-lightbox-url'));
-    });
-    
-    function mobile_width_helper()
-    {
-      var _width = 400;
-      if(jQuery(document).width() < 350) { 
-        _width = 250;
-      }
-      return _width;
-    }
-
-    jQuery('a.image-fancybox').fancybox({
-      type: 'image',
-      titlePosition: 'inside',
-      autoScale: true,
-      autoDimensions: false,
-      width: mobile_width_helper(),
-      padding: 0,
-      margin: 0,
-      onStart: function(obj, index) {
-        var elem = obj[index];
-        var fullsize_link = elem.getAttribute('data-fullsize');
-
-        if (fullsize_link) {
-          $(this).title = '<div class="first-look-title">' + $(this).title + ' <span class="view-fullsize"><a href="' + fullsize_link + '">View Fullsize</a></span></div>';
-        }
-      },
-      onComplete: function() {
-                ga('send', $(this).href, $(this).title);
-              }
-    });
-
-    
-    jQuery('.message-close-button').on('click', function(){
-      var msg_id = jQuery(this).attr('data-message-id');
-
-      jQuery('#message-' + msg_id).hide();
-
-      jQuery.ajax({
-        url: '/ajax.php',
-        data: {dismiss_message: msg_id},
-        method: 'GET'
-      });
-    });
-
-  });
-
-
-</script>
-
-<!-- Load the Content Experiment JavaScript API client for the experiment -->
+<div style="padding: 10px 0 0 0;height:40px; border-top: 1px solid #6f7d8f; background-color:#d4dcde;
+                border-bottom-right-radius: 15px; border-bottom-left-radius: 15px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<form action="/Search" onsubmit="return didFormSumbit();">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="10"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" height="10" width="10" border="0" alt=""></td>
+<td valign="middle">
+<div style="position: relative; padding: 0px; margin: 0px; z-index: 0;">
+<input type="hidden" name="_results_use_stopwords" value="true">
+<input id="myInput" name="quick_sstring" placeholder="Searching for.." class="sitewide-search-input quicksearch" size="25" maxlength="60">
+<div id="Auto-complete-container"></div>
+</div>
+</td>
+<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="28" border="0" alt=""></td>
+<td valign="middle">
+<select name="_results_sstype_search" class="quicksearch sitewide-filter">
+<option value="">All fields</option>
+<option value="titles">Titles</option>
+<option value="people">People</option>
+<option value="brands">Companies</option>
+<option value="">------</option>
+<option value="graphic-novels">Graphic Novels</option>
+<option value="comics">Comics</option>
+<option value="statues">Statues</option>
+<option value="toys">Toys</option>
+<option value="movies">Movies</option>
+<option value="new-releases">New Releases</option>
+<option value="pre-orders">Pre-Orders</option>
+</select>
+</td>
+<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
+<td valign="middle"><input type="submit" value="Search" class="smallsubmit sitewide-smallsubmit"></td>
+<td width="15"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td>
+<td><a href="/PowerSearch" class="subnav">POWER SEARCH</a></td>
+</tr>
+</tbody></table>
+</form>
+</td>
+<td valign="middle" align="right">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
+<td valign="middle"><a href="/Help" class="subnav">HELP</a></td>
+<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
+<td valign="middle"><span class="subnav-middot">·</span></td>
+<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
+<td valign="middle"><a href="https://www.tfaw.com/Your-Account" class="subnav">YOUR&nbsp;ACCOUNT</a></td>
+<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
+<td valign="middle"><span class="subnav-middot">·</span></td>
+<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
+<td valign="middle"><a href="https://www.tfaw.com/Your-Account/Login" id="mysubnav-login" onmouseover="$D.setStyle(this, 'backgroundColor','#c23015');$D.setStyle(this, 'color','white');" onmouseout="$D.setStyle(this, 'backgroundColor','white');$D.setStyle(this, 'color','#4c5d6d');">LOGIN</a></td> <td width="15"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div class="hide-me-mobile" align="center" style="padding-top:7px;padding-bottom:0px;vertical-align:bottom;">
+<a href="/DOD?qt=ia_nav_dod">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_deal.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
+</a>
+<a href="/New-Last-Week?qt=ia_nav_nlw">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_new.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
+</a>
+<a href="/Arriving-This-Week?qt=ia_nav_atw">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_arriving.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
+</a>
+<a href="/Coming-Next-Week?qt=ia_nav_cnw">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_coming.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
+</a>
+<a class="nd-replacement-button" id="nd-replacement-button-things" data-qt-string="nav_Button_Things" href="/Sale?qt=nav_Button_Things">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_things.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
+</a>
+</div>
+</div>
+<table class="hide-me-too-mobile" border="0" cellpadding="0" cellspacing="0" width="865" align="center">
+<tbody><tr>
+<td width="15">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
+</td>
+<td valign="top">
+<div class="sidenav">
+</div> 
+<noscript>
+<div style="position:relative; width:170; border:1px solid #2F3E5F; padding:5px; margin:0 auto; margin-top:0px; margin-bottom:15px;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/warning.png" width="26" height="24" border="0" alt="WARNING" align="left" hspace="5" vspace="3">
+<span style="font-size:11px;">
+To get the most out of your TFAW.com experience, please enable Javascript in your browser.
+</span>
+</td>
+</tr>
+</table>
+</div>
+</noscript>
+<div class="sidebarheader"><a href="/Offer/Comments?qt=ia_ccbanhdr" class="sidebarheader">CUSTOMERS SAY</a></div>
+<div style="margin-top:5px; padding-bottom:15px;" align="center">
+<a href="/Offer/Comments?qt=ia_ccban"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/CustCom6_170.gif" width="170" height="105" border="0" alt="Customer Testimonials"></a>
+</div>
+<div class="divider" style="margin-top:0px; padding-bottom:10px;">
+</div>
+<div class="sidebarheader" style="padding-bottom:10px;">GREAT TFAW DEALS</div>
+<div style="margin-top:0px; padding-bottom:15px;">
+<a rel="nofollow" href="/Promos/Web-Specials"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/18_12_WebSpecials_170x170.jpg" width="170" height="170" border="0" alt="Web Specials"></a>
+</div>
+<div style="margin-top:0px; padding-bottom:15px;">
+<a rel="nofollow" href="/Search/_results_limit_search=30/_results_order_search=title/_results_ordercombo_search=date_desc/_results_sstring_search=hellboy/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/18_01-Hellboy_170x170-1.jpg" width="170" height="170" border="0" alt="Web Specials"></a>
+</div>
+<div style="margin-top:0px; padding-bottom:15px;">
+<a rel="nofollow" href="/sale/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/Jan17_Sale-1.jpg" width="170" height="54" border="0" alt="Comic Books for Sale"></a>
+</div>
+<div style="margin-top:0px; padding-bottom:15px;">
+<a rel="nofollow" href="/Newsletter"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/Newsletter_170x170-1.jpg" width="170" height="170" border="0" alt="Newsletter"></a>
+</div>
+<div style="margin-top:0px; padding-bottom:15px;">
+<a rel="nofollow" href="/Promos/Nick-and-Dent"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/nd_may16-1.jpg" width="170" height="54" border="0" alt="Nick &amp; Dents"></a>
+</div>
+<br><br>
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="170" height="5" border="0" alt="">
+</td>
+<td width="20">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="20" height="20" border="0" alt="">
+</td>
+<td width="100%" valign="top">
+<div class="legacy-message" id="message-aa9691800cf6e6a023e6f75cc44648d9">
+<div style="text-align:left; margin: 0 10px 0 10px;">Per our Holiday Shipping Schedule, ALL orders placed from this point on will NOT arrive before the Christmas Holiday. Additionally, please note that our corporate offices will be closed December 22 - 25 in observance of the holidays. We wish you all a safe and joyous holiday season!</div> <a class="message-close-button" data-message-id="aa9691800cf6e6a023e6f75cc44648d9"></a>
+</div> <b><a href="/" class="greylink">Home</a> <span class="greyarrow">&gt;</span> <a href="/Help" class="greylink">Help</a> <span class="greyarrow">&gt;</span> <span class="bluebold">Privacy Policy</span></b>
+<div style="height:10px;"></div>
+<table border="0" class="hide-me-too-mobile" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+<td colspan="3"><span class="sectionheader"><h2>Privacy Policy</h2></span></td>
+</tr>
+<tr>
+<td colspan="3"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0"></td>
+</tr><tr><td valign="top"><span class="bodytext"><p>
+Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc. (TFAW.com).
+</p>
+<p>
+This Privacy Notice describes the types of personal information we collect about our customers on our Website, in our stores, and through interest-based online advertising. The Privacy Notice also describes how we may use that information, how we protect that information, how we share that information, your choices and options regarding the information, and how you can contact us regarding our privacy practices.
+</p>
+<p>
+<b>INFORMATION WE COLLECT</b>
+</p>
+<p>
+We may collect certain personal information from you in connection with your activities at TFAW.com, such as when you shop on our website or in our stores. This information may include:
+</p>
+<ul>
+<li>Payment card or other financial account information;</li>
+<li>contact and billing information (including name, e-mail address, postal address, and phone number);</li>
+<li>date of birth;</li>
+<li>geolocation data; and</li>
+<li>other personal information you provide to us on our Website, in our stores, or when you interact with us in other ways, both online and offline.</li>
+</ul>
+<p>
+Additionally, we or companies acting on our behalf may collect certain computer and browser information through automated technologies such as cookies and web beacons when you visit our Website. A "cookie" is a file that a website sends to a visitor's computer or other Internet-connected device to identify the browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.
+</p>
+<p>
+The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Website, dates and times of Website visits, the language your system uses, and the country and time zone in which your device is located. These automated technologies also permit the collection of "clickstream data," which may include a log of content you access while browsing a website.
+</p>
+<p>
+Companies acting on our behalf may combine the information collected from your visit to our Website with other information they have collected previously. Your web browser may tell you how to be notified when you receive certain types of cookies and how to restrict, reject or disable certain cookies.
+</p>
+<b>INTEREST-BASED ONLINE ADVERTISING AND GOOGLE ANALYTICS</b>
+<p>
+This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising", "remarketing", or "behavioral advertising"), Google Analytics, and your choices with respect to this type of advertising.
+</p>
+<p>
+We use Google Analytics' 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+</p>
+<p>
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising <a target="_new" href="https://optout.aboutads.info/?c=2#!/">here</a> and edit or opt-out your Google Display Network ads preferences at <a target="_new" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>. Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because those pages are not operated by TFAW.com, we are unable to perform the opt-outs on your behalf.
+</p>
+<p>
+<b>HOW WE USE THE PERSONAL INFORMATION WE COLLECT</b>
+</p><p>
+When we collect information from you, we may use it for a number of purposes, including to:
+</p>
+<ul>
+<li>Process, manage, complete and account for transactions, including purchases and refunds;</li>
+<li>Provide our products and services to you and fulfill your gift card orders;</li>
+<li>Identify your product and service preferences;</li>
+<li>Improve merchandise selections and customer service;</li>
+<li>Invite you to participate in customer research;</li>
+<li>Notify you about new products, services, features, promotions, events and special offerings relating to TFAW.com we think you will find valuable;</li>
+<li>Provide customer support and respond to your requests, comments and inquiries;</li>
+<li>Create and manage online accounts you establish;</li>
+<li>Administer your participation in promotions, contests and sweepstakes;</li>
+<li>Verify your identity in certain instances (such as when you return merchandise or request a refund);</li>
+<li>Protect against, identify and help prevent fraud, unauthorized activity, claims and other liabilities and minimize credit risk;</li>
+<li>Comply with and enforce applicable legal requirements, industry standards, our policies, and our Terms of Use; and performing market research, and administering our Website.</li>
+</ul>
+<p>
+We also may use the information in other ways for which we provide specific notice at the time of collection.
+</p>
+<p>
+In addition, we use information collected online through automated means for purposes such as customizing our users' visits to TFAW.com, delivering content tailored to our users' interests and the manner in which our users browse our Website, measuring and managing the advertising effectiveness of our online and offline advertisements and events, and managing our business. We also use this information to help diagnose technical and service problems, administer our Website, identify users of our Website, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our websites, how users navigate through our websites, and how we may tailor our websites to better meet the needs of our users. In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also supplement the information we collect with other public demographic information.
+</p>
+<p>
+<b>LINKS/CO-BRANDED SITES</b>
+</p><p>
+TFAW.com has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a TFAW.com logo; however, they are not operated or maintained by TFAW.com. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners.
+</p>
+<p>
+TFAW.com chooses its advertisers and business partners carefully. However, TFAW.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third-party sites do not constitute sponsorship, endorsement, or approval by TFAW.com of the content, policies, or practices of such third-party sites. We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information. Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third-party site.
+</p>
+<p>
+This Site may also be linked to Web sites operated by companies affiliated with TFAW.com. TFAW.com may share information collected by our affiliated companies, however this Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated company's sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
+</p>
+<b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION </b>
+<p>
+Visitors may review, change, or delete personal information from our records at any time. If you would like to review, change, or delete your personal information, please contact us at "privacy1 at tfaw dot com" or write us at Things From Another World, Attn: Privacy Info, 10956 SE Main St, Milwaukie, OR 97222. If you have requested the deletion of your information, we will immediately delete your information from our database and refrain from collecting any other personally identifiable information. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information for purposes of identifying purchases made through our Website. This residual information will not be given to any other third-party or used for any commercial purpose.
+</p>
+<b>SECURITY AND INTEGRITY OF PERSONAL INFORMATION</b>
+<p>
+TFAW.com has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of personal information collected by this Site, in compliance with PCI DSS requirements.
+</p>
+<b>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13</b>
+<p>
+We do not seek nor will we knowingly collect personal information from anyone under the age of 13.
+</p>
+<p></p>
+<p></p>
+<p>
+<b>Privacy Policy Changes</b>
+</p><p>
+TFAW.com reviews its privacy policy periodically, and it may be subject to change.
+</p>
+<p></p>
+<p>
+</p><p>
+Last Updated March 14th, 2018
+</p>
+</span></td></tr><tr><td colspan="3"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td></tr></tbody></table> </td>
+<td width="15">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
+</td>
+</tr>
+</tbody></table>
+<div id="mobile-container" class="container-fluid">
+<div class="row">
+<div class="col-12 text-center">
+<div class="alert alert-info alert-dismissible fade show">
+<button type="button" class="close dismiss-message-trigger" data-dismiss="alert" aria-label="Close" data-message-id="aa9691800cf6e6a023e6f75cc44648d9">
+<span aria-hidden="true">×</span>
+</button>
+<div style="text-align:left; margin: 0 10px 0 10px;">Per our Holiday Shipping Schedule, ALL orders placed from this point on will NOT arrive before the Christmas Holiday. Additionally, please note that our corporate offices will be closed December 22 - 25 in observance of the holidays. We wish you all a safe and joyous holiday season!</div> </div>
+<script>jQuery(document).ready(function($){$('.dismiss-message-trigger').on('click',function(){var msg_id=jQuery(this).attr('data-message-id');$.ajax({url:'/ajax.php',data:{dismiss_message:msg_id},method:'GET'});});});</script>
+</div>
+</div>
+<div class="mt-1 row">
+<div class="col-12 col-md-8 offset-md-2">
+<div class="blurb-mod-header">Privacy Policy</div>
+<div class="blurb-mod-text">
+<p>
+Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc. (TFAW.com).
+</p>
+<p>
+This Privacy Notice describes the types of personal information we collect about our customers on our Website, in our stores, and through interest-based online advertising. The Privacy Notice also describes how we may use that information, how we protect that information, how we share that information, your choices and options regarding the information, and how you can contact us regarding our privacy practices.
+</p>
+<p>
+<b>INFORMATION WE COLLECT</b>
+</p>
+<p>
+We may collect certain personal information from you in connection with your activities at TFAW.com, such as when you shop on our website or in our stores. This information may include:
+</p>
+<ul>
+<li>Payment card or other financial account information;</li>
+<li>contact and billing information (including name, e-mail address, postal address, and phone number);</li>
+<li>date of birth;</li>
+<li>geolocation data; and</li>
+<li>other personal information you provide to us on our Website, in our stores, or when you interact with us in other ways, both online and offline.</li>
+</ul>
+<p>
+Additionally, we or companies acting on our behalf may collect certain computer and browser information through automated technologies such as cookies and web beacons when you visit our Website. A "cookie" is a file that a website sends to a visitor's computer or other Internet-connected device to identify the browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.
+</p>
+<p>
+The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Website, dates and times of Website visits, the language your system uses, and the country and time zone in which your device is located. These automated technologies also permit the collection of "clickstream data," which may include a log of content you access while browsing a website.
+</p>
+<p>
+Companies acting on our behalf may combine the information collected from your visit to our Website with other information they have collected previously. Your web browser may tell you how to be notified when you receive certain types of cookies and how to restrict, reject or disable certain cookies.
+</p>
+<b>INTEREST-BASED ONLINE ADVERTISING AND GOOGLE ANALYTICS</b>
+<p>
+This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising", "remarketing", or "behavioral advertising"), Google Analytics, and your choices with respect to this type of advertising.
+</p>
+<p>
+We use Google Analytics' 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+</p>
+<p>
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising <a target="_new" href="https://optout.aboutads.info/?c=2#!/">here</a> and edit or opt-out your Google Display Network ads preferences at <a target="_new" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>. Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because those pages are not operated by TFAW.com, we are unable to perform the opt-outs on your behalf.
+</p>
+<p>
+<b>HOW WE USE THE PERSONAL INFORMATION WE COLLECT</b>
+</p><p>
+When we collect information from you, we may use it for a number of purposes, including to:
+</p>
+<ul>
+<li>Process, manage, complete and account for transactions, including purchases and refunds;</li>
+<li>Provide our products and services to you and fulfill your gift card orders;</li>
+<li>Identify your product and service preferences;</li>
+<li>Improve merchandise selections and customer service;</li>
+<li>Invite you to participate in customer research;</li>
+<li>Notify you about new products, services, features, promotions, events and special offerings relating to TFAW.com we think you will find valuable;</li>
+<li>Provide customer support and respond to your requests, comments and inquiries;</li>
+<li>Create and manage online accounts you establish;</li>
+<li>Administer your participation in promotions, contests and sweepstakes;</li>
+<li>Verify your identity in certain instances (such as when you return merchandise or request a refund);</li>
+<li>Protect against, identify and help prevent fraud, unauthorized activity, claims and other liabilities and minimize credit risk;</li>
+<li>Comply with and enforce applicable legal requirements, industry standards, our policies, and our Terms of Use; and performing market research, and administering our Website.</li>
+</ul>
+<p>
+We also may use the information in other ways for which we provide specific notice at the time of collection.
+</p>
+<p>
+In addition, we use information collected online through automated means for purposes such as customizing our users' visits to TFAW.com, delivering content tailored to our users' interests and the manner in which our users browse our Website, measuring and managing the advertising effectiveness of our online and offline advertisements and events, and managing our business. We also use this information to help diagnose technical and service problems, administer our Website, identify users of our Website, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our websites, how users navigate through our websites, and how we may tailor our websites to better meet the needs of our users. In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also supplement the information we collect with other public demographic information.
+</p>
+<p>
+<b>LINKS/CO-BRANDED SITES</b>
+</p><p>
+TFAW.com has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a TFAW.com logo; however, they are not operated or maintained by TFAW.com. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners.
+</p>
+<p>
+TFAW.com chooses its advertisers and business partners carefully. However, TFAW.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third-party sites do not constitute sponsorship, endorsement, or approval by TFAW.com of the content, policies, or practices of such third-party sites. We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information. Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third-party site.
+</p>
+<p>
+This Site may also be linked to Web sites operated by companies affiliated with TFAW.com. TFAW.com may share information collected by our affiliated companies, however this Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated company's sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
+</p>
+<b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION </b>
+<p>
+Visitors may review, change, or delete personal information from our records at any time. If you would like to review, change, or delete your personal information, please contact us at "privacy1 at tfaw dot com" or write us at Things From Another World, Attn: Privacy Info, 10956 SE Main St, Milwaukie, OR 97222. If you have requested the deletion of your information, we will immediately delete your information from our database and refrain from collecting any other personally identifiable information. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information for purposes of identifying purchases made through our Website. This residual information will not be given to any other third-party or used for any commercial purpose.
+</p>
+<b>SECURITY AND INTEGRITY OF PERSONAL INFORMATION</b>
+<p>
+TFAW.com has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of personal information collected by this Site, in compliance with PCI DSS requirements.
+</p>
+<b>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13</b>
+<p>
+We do not seek nor will we knowingly collect personal information from anyone under the age of 13.
+</p>
+<p></p>
+<p></p>
+<p>
+<b>Privacy Policy Changes</b>
+</p><p>
+TFAW.com reviews its privacy policy periodically, and it may be subject to change.
+</p>
+<p></p>
+<p>
+</p><p>
+Last Updated March 14th, 2018
+</p>
+</div> </div>
+</div>
+</div>
+<script>jQuery(document).ready(function(){jQuery('.close').on('click',function(){jQuery(this).parent().hide(500);});});</script>
+<table class="hide-me-mobile" id="footer_table" cellpadding="0" cellspacing="0" border="0" align="center" width="865">
+<tbody><tr>
+<td width="15">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
+</td>
+<td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td>
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="10" border="0" alt="">
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td align="left">
+<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--18105.html" target="bizrate.com"><img src="https://medals.bizrate.com/medals/dynamic/18105_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
+</td>
+<td align="center" valign="bottom">
+<b>What do you think about our site? We welcome your <a href="/Help/Contact-Form?messageabout=feedback">feedback</a>!</b><br><br>
+<a class="boldlink" href="/Help">Help</a>&nbsp;|&nbsp;
+<a class="boldlink" href="/Help/About-Us">About Us</a>&nbsp;|&nbsp;
+<a class="boldlink" href="/Help/Contact-Form">Contact Us</a>&nbsp;|&nbsp;
+<a class="boldlink" href="https://messenger.providesupport.com/messenger/tfaw.html">Live Support Chat</a>&nbsp;|&nbsp;
+<a class="boldlink" href="/Newsletters">Newsletter Signup</a>&nbsp;<br>
+<a class="boldlink" href="/Store-locations">Store Locations</a>&nbsp;|&nbsp;
+<a class="boldlink" href="/Help/Affiliate-Information">Affiliate Program</a>&nbsp;|&nbsp;
+<a class="boldlink" href="/Jobs">Jobs</a>&nbsp;|&nbsp;
+<a class="boldlink" href="/Help/Privacy-Policy">Privacy Policy</a>&nbsp;|&nbsp;
+<a class="boldlink" href="/Site-Map">Site Map</a><span class="toggle-desktop-force-container">&nbsp;|&nbsp;
+<a class="boldlink toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a></span>
+</td>
+<td align="right">
+<a target="_blank" href="https://www.comodo.com/">
+<img src="https://d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/comodo_secure_seal_113x59_transp.png">
+</a>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr class="toggle-desktop-force-container">
+<td class="center-text" style="padding: 0.5em 0; font-size: 150%;">
+<a class="boldlink toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a>
+</td>
+</tr>
+<tr>
+<td>
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="10" border="0" alt="">
+</td>
+</tr>
+<tr>
+<td bgcolor="#bdc8d0"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td>
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt="">
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="100%">
+<span class="indiciatext">Legal Notice: Entire contents trademarked (® or TM) and copyrighted (©) 1986-2018 by Things From Another World, Inc. and respective copyright and trademark holders. All rights reserved.
+Page rendered at 2018-12-23 10:59:23 in 0.151 seconds.
+</span><br><br>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="15">
+<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
+</td>
+</tr>
+</tbody></table>
+<div id="footer-mobile-container" class="container-fluid">
+<div class="footer-banners-container">
+<a class="footer-banners-link" rel="nofollow" href="/Promos/Web-Specials"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/18_12_WebSpecials_170x170.jpg" alt="Web Specials"></a>
+<a class="footer-banners-link" rel="nofollow" href="/Search/_results_available_search=nobackorder/_results_limit_search=30/_results_order_search=title/_results_ordercombo_search=date_desc/_results_sstring_search=black%2Bhammer"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/18_11-Black_hammer_170x170.jpg" alt="Black Hammer"></a>
+</div>
+<div class="mt-1 row">
+<div class="col-12">
+<p>
+What do you think about our site? We welcome your <a href="/Help/Contact-Form?messageabout=feedback">feedback</a>!
+</p>
+<div>
+<a class="boldlink footer-mobile-container-nav-link" href="/Help">Help</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Help/About-Us">About Us</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Help/Contact-Form">Contact Us</a>
+<a class="boldlink footer-mobile-container-nav-link" href="https://messenger.providesupport.com/messenger/tfaw.html">Live Support Chat</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Newsletters">Newsletter Signup</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Store-locations">Store Locations</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Help/Affiliate-Information">Affiliate Program</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Jobs">Jobs</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Help/Privacy-Policy">Privacy Policy</a>
+<a class="boldlink footer-mobile-container-nav-link" href="/Site-Map">Site Map</a>
+</div>
+<div class="py-2">
+<a class="boldlink footer-mobile-container-nav-link toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a>
+</div>
+<div class="footer-row">
+<div class="footer-inline-element">
+<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--18105.html" target="bizrate.com"><img src="https://medals.bizrate.com/medals/dynamic/18105_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
+</div>
+<div class="footer-inline-element">
+<a target="_blank" href="https://www.comodo.com/">
+<img src="https://d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/comodo_secure_seal_113x59_transp.png">
+</a>
+</div>
+</div>
+<div class="footer-row">
+<span class="indiciatext">
+Legal Notice: Entire contents trademarked (® or TM) and copyrighted (©) 1986-2018 by Things From Another World, Inc. and respective copyright and trademark holders. All rights reserved.
+</span>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery('a.first-look-trigger').click(function(){jQuery('#first-look-link-container a:first').trigger('click');return false;});jQuery('a[data-lightbox-url]').each(function(){jQuery(this).attr('href',this.getAttribute('data-lightbox-url'));});function mobile_width_helper(){var _width=400;if(jQuery(document).width()<350){_width=250;}return _width;}jQuery('a.image-fancybox').fancybox({type:'image',titlePosition:'inside',autoScale:true,autoDimensions:false,width:mobile_width_helper(),padding:0,margin:0,onStart:function(obj,index){var elem=obj[index];var fullsize_link=elem.getAttribute('data-fullsize');if(fullsize_link){$(this).title='<div class="first-look-title">'+$(this).title+' <span class="view-fullsize"><a href="'+fullsize_link+'">View Fullsize</a></span></div>';}}});jQuery('.message-close-button').on('click',function(){var msg_id=jQuery(this).attr('data-message-id');jQuery('#message-'+msg_id).hide();jQuery.ajax({url:'/ajax.php',data:{dismiss_message:msg_id},method:'GET'});});});</script>
 <script src="//www.google-analytics.com/cx/api.js?experiment=3YitZer7QuqqbqS6wdhGWw"></script>
-
-<script>
-  jQuery(document).ready(function() {
-    /*
-    Keeping this commented out as an example for when we need to do this in the future. Keywords: a/b test ab test
-    google experiment
-
-    var pageVariations = [
-      function(){}, //0:  Do nothing. Default is the old N&D button
-      function(){  //1: Show "What's on Sale?"
-        jQuery("#nd-replacement-button-default").hide();
-        jQuery("#nd-replacement-button-sale").show();
-        jQuery("#nd-replacement-button-things").hide();
-      },
-      function() {  //2: Show "Things on Sale"
-        jQuery("#nd-replacement-button-default").hide();
-        jQuery("#nd-replacement-button-sale").hide();
-        jQuery("#nd-replacement-button-things").show();
-      }
-    ];
-
-    // Ask Google Analytics which variation to show the user.
-    var chosenVariation = cxApi.chooseVariation();
-
-    pageVariations[chosenVariation]();
-    */
-  });
-</script>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6d9017bcfb","applicationID":"2752681","transactionName":"b1ZRbUpQVxUCUEZfDVYccExLRVYLTAJRG1NKbEdJVB9JDhM=","queueTime":0,"applicationTime":289,"atts":"QxFSGwJKRBs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script>jQuery(document).ready(function(){});</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6d9017bcfb","applicationID":"2752681","transactionName":"b1ZRbUpQVxUCUEZfDVYccExLRVYLTAJRG1NKbEdJVB9JDhM=","queueTime":0,"applicationTime":153,"atts":"QxFSGwJKRBs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 </body></html>
