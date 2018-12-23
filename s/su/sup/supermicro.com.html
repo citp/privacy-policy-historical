@@ -1,490 +1,304 @@
-<!--The following is the downloaded HTML source of the supermicro.com privacy policy that was archived on 2018-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180522140842id_/https%3A//www.supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supermicro.com privacy policy that was archived on 2018-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223025241id_/https%3A//www.supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh"><head><meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1">
 
 
 
-
-
-
-
-
-
-        <title>Privacy Policy | Terms and Conditions | About Supermicro - Super Micro Computer, Inc.</title>
-        <meta name="keywords" content="super micro privacy policy, supermicro privacy policy, super micro privacy statement, supermicro privacy statement, supermicro privacy, super micro privacy">
-        <meta name="description" content="Supermicro respects user privacy. Supermicro is committed to user privacy in it's services and products. This Privacy Policy outlines personal information handling practices">
-        <meta charset="utf-8">
-    
+<title>Privacy Policy | Terms and Conditions | About Supermicro - Super Micro Computer, Inc.</title>
+<meta name="keywords" content="super micro privacy policy, supermicro privacy policy, super micro privacy statement, supermicro privacy statement, supermicro privacy, super micro privacy">
+<meta name="description" content="Supermicro respects user privacy. Supermicro is committed to user privacy in it's services and products. This Privacy Policy outlines personal information handling practices">
+<meta charset="utf-8">
 <!-- start social profiles -->
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
 {
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "Super Micro Computer, Inc.",
-  "url": "https://www.supermicro.com",
-  "sameAs": [
-    "https://www.linkedin.com/company/Supermicro",
-    "https://www.youtube.com/user/SupermicroUTube",
-    "https://twitter.com/Supermicro_SMCI",
-    "https://plus.google.com/+Supermicro_SMCI",
-    "https://www.facebook.com/Supermicro/"
-  ]
+"@context": "http://schema.org",
+"@type": "Organization",
+"name": "Super Micro Computer, Inc.",
+"url": "https://www.supermicro.com",
+"sameAs": [
+"https://www.linkedin.com/company/Supermicro",
+"https://www.youtube.com/user/SupermicroUTube",
+"https://twitter.com/Supermicro_SMCI",
+"https://plus.google.com/+Supermicro_SMCI",
+"https://www.facebook.com/Supermicro/"
+]
 }
-</script> 
-
-
+</script>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <link rel="SHORTCUT ICON" href="/favicon.ico">	
-    <!--<link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">-->
-    <link rel="stylesheet" type="text/css" href="/style/menu/menu.css">
-	<link rel="stylesheet" type="text/css" href="/style/home.css">
-    <link rel="stylesheet" type="text/css" href="/style/seo.css">
-   	
- 	<!-- Dependency source files -->
-	
-    
-    <script type="text/javascript" src="/lib/dom-event/dom-event.js"></script>
-    <script type="text/javascript" src="/lib/animation/animation-min.js"></script>
-    <script type="text/javascript" src="/lib//container/container_core-min.js"></script>
-	<script type="text/javascript" src="/lib/menu/menu-min.js"></script>
-	
-   
-    
-    <!-- Page-specific script -->
-    <script type="text/javascript">
-            /*
-            Initialize and render the MenuBar when its elements are ready 
-            to be scripted.
-            */
-
-            YAHOO.util.Event.onContentReady("menu_bar", function() {
-
-                var ua = YAHOO.env.ua,
-                    oAnim;  // Animation instance
-
-
-                /*
-                "beforeshow" event handler for each submenu of the MenuBar
-                instance, used to setup certain style properties before
-                the menu is animated.
-                */
-
-                function onSubmenuBeforeShow(p_sType, p_sArgs) {
-
-                    var oBody,
-                        oElement,
-                        oShadow,
-                        oUL;
-
-
-                    if (this.parent) {
-
-                        oElement = this.element;
-
-                        /*
-                        Get a reference to the Menu's shadow element and 
-                        set its "height" property to "0px" to syncronize 
-                        it with the height of the Menu instance.
-                        */
-
-                        oShadow = oElement.lastChild;
-                        oShadow.style.height = "0px";
-
-
-                        /*
-                        Stop the Animation instance if it is currently 
-                        animating a Menu.
-                        */
-
-                        if (oAnim && oAnim.isAnimated()) {
-
-                            oAnim.stop();
-                            oAnim = null;
-
-                        }
-
-
-                        /*
-                        Set the body element's "overflow" property to 
-                        "hidden" to clip the display of its negatively 
-                        positioned <ul> element.
-                        */
-
-                        oBody = this.body;
-
-
-                        //  Check if the menu is a submenu of a submenu.
-
-                        if (this.parent &&
-                            !(this.parent instanceof YAHOO.widget.MenuBarItem)) {
-
-
-                            /*
-                            There is a bug in gecko-based browsers and Opera where 
-                            an element whose "position" property is set to 
-                            "absolute" and "overflow" property is set to 
-                            "hidden" will not render at the correct width when
-                            its offsetParent's "position" property is also 
-                            set to "absolute."  It is possible to work around 
-                            this bug by specifying a value for the width 
-                            property in addition to overflow.
-                            */
-
-                            if (ua.gecko || ua.opera) {
-
-                                oBody.style.width = oBody.clientWidth + "px";
-
-                            }
-
-
-                            /*
-                            Set a width on the submenu to prevent its 
-                            width from growing when the animation 
-                            is complete.
-                            */
-
-                            if (ua.ie == 7) {
-
-                                oElement.style.width = oElement.clientWidth + "px";
-
-                            }
-
-                        }
-
-
-                        oBody.style.overflow = "hidden";
-
-
-                        /*
-                        Set the <ul> element's "marginTop" property 
-                        to a negative value so that the Menu's height
-                        collapses.
-                        */
-
-                        oUL = oBody.getElementsByTagName("ul")[0];
-
-                        oUL.style.marginTop = ("-" + oUL.offsetHeight + "px");
-
-                    }
-
-                }
-
-
-                /*
-                "tween" event handler for the Anim instance, used to 
-                syncronize the size and position of the Menu instance's 
-                shadow and iframe shim (if it exists) with its 
-                changing height.
-                */
-
-                function onTween(p_sType, p_aArgs, p_oShadow) {
-
-                    if (this.cfg.getProperty("iframe")) {
-
-                        this.syncIframe();
-
-                    }
-
-                    if (p_oShadow) {
-
-                        p_oShadow.style.height = this.element.offsetHeight + "px";
-
-                    }
-
-                }
-
-
-                /*
-                "complete" event handler for the Anim instance, used to 
-                remove style properties that were animated so that the 
-                Menu instance can be displayed at its final height.
-                */
-
-                function onAnimationComplete(p_sType, p_aArgs, p_oShadow) {
-
-                    var oBody = this.body,
-                        oUL = oBody.getElementsByTagName("ul")[0];
-
-                    if (p_oShadow) {
-
-                        p_oShadow.style.height = this.element.offsetHeight + "px";
-
-                    }
-
-
-                    oUL.style.marginTop = "";
-                    oBody.style.overflow = "";
-
-
-                    //  Check if the menu is a submenu of a submenu.
-
-                    if (this.parent &&
-                        !(this.parent instanceof YAHOO.widget.MenuBarItem)) {
-
-
-                        // Clear widths set by the "beforeshow" event handler
-
-                        if (ua.gecko || ua.opera) {
-
-                            oBody.style.width = "";
-
-                        }
-
-                        if (ua.ie == 7) {
-
-                            this.element.style.width = "";
-
-                        }
-
-                    }
-
-                }
-
-
-                /*
-                "show" event handler for each submenu of the MenuBar 
-                instance - used to kick off the animation of the 
-                <ul> element.
-                */
-
-                function onSubmenuShow(p_sType, p_sArgs) {
-
-                    var oElement,
-                        oShadow,
-                        oUL;
-
-                    if (this.parent) {
-
-                        oElement = this.element;
-                        oShadow = oElement.lastChild;
-                        oUL = this.body.getElementsByTagName("ul")[0];
-
-
-                        /*
-                        Animate the <ul> element's "marginTop" style 
-                        property to a value of 0.
-                        */
-
-                        oAnim = new YAHOO.util.Anim(oUL,
-                            { marginTop: { to: 0} },
-                            .5, YAHOO.util.Easing.easeOut);
-
-
-                        oAnim.onStart.subscribe(function() {
-
-                            oShadow.style.height = "100%";
-
-                        });
-
-
-                        oAnim.animate();
-
-
-                        /*
-                        Subscribe to the Anim instance's "tween" event for 
-                        IE to syncronize the size and position of a 
-                        submenu's shadow and iframe shim (if it exists)  
-                        with its changing height.
-                        */
-
-                        if (YAHOO.env.ua.ie) {
-
-                            oShadow.style.height = oElement.offsetHeight + "px";
-
-
-                            /*
-                            Subscribe to the Anim instance's "tween"
-                            event, passing a reference Menu's shadow 
-                            element and making the scope of the event 
-                            listener the Menu instance.
-                            */
-
-                            oAnim.onTween.subscribe(onTween, oShadow, this);
-
-                        }
-
-
-                        /*
-                        Subscribe to the Anim instance's "complete" event,
-                        passing a reference Menu's shadow element and making 
-                        the scope of the event listener the Menu instance.
-                        */
-
-                        oAnim.onComplete.subscribe(onAnimationComplete, oShadow, this);
-
-                    }
-
-                }
-
-
-                /*
-                Instantiate a MenuBar:  The first argument passed to the 
-                constructor is the id of the element in the page 
-                representing the MenuBar; the second is an object literal 
-                of configuration properties.
-                */
-
-                var oMenuBar = new YAHOO.widget.MenuBar("menu_bar", {
-                    autosubmenudisplay: true,
-                    hidedelay: 750,
-                    lazyload: true
-                });
-
-
-                /*
-                Subscribe to the "beforeShow" and "show" events for 
-                each submenu of the MenuBar instance.
-                */
-
-                oMenuBar.subscribe("beforeShow", onSubmenuBeforeShow);
-                oMenuBar.subscribe("show", onSubmenuShow);
-
-
-                /*
-                Call the "render" method with no arguments since the 
-                markup for this MenuBar already exists in the page.
-                */
-
-                oMenuBar.render();
-
-            });
-
-      </script>
-      
-      <script language="JavaScript">
-		function checksearch()
-		{
-			topicName=document.topsearch.Search.value
-			if (topicName == "") {
-				document.topsearch.Search.style.background="#00ffff";
-				alert("The enter a Search Text field is required.");
-				topsearch.Search.focus(); 
-			} 
-			else {
-				document.topsearch.submit();
-			}
-		}
-	  </script>
-  
-   
-   
-	<style type="text/css">
-    table.gsc-completion-container 
-	{
-      	z-index: 10000 !important; 
-	}
-
-	</style>
-
-
-
-<link rel="stylesheet" type="text/css" href="/SearchToolkit/Search/css/ui-lightness/jquery-ui-1.8.16.custom.css">
-<!--
-<script type="text/javascript" src="/SearchToolkit/Search/js/jquery-1.6.2.min.js"></script>
--->
-<script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
-
-<script type="text/javascript" src="/SearchToolkit/Search/js/jquery-ui-1.8.16.custom.min.js"></script>
-<script type="text/javascript" src="/SearchToolkit/Search/js/search_v1.js"></script>
- <style>
-	#main_panal,#main_panel{
-		margin-top:76px;
-		top:0px;		
-	}
-
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="SHORTCUT ICON" href="/favicon.ico">	
+<!--<link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">-->
+<link rel="stylesheet" type="text/css" href="/style/menu/menu.css">
+<link rel="stylesheet" type="text/css" href="/style/home.css">
+<link rel="stylesheet" type="text/css" href="/style/seo.css">
+<!-- Dependency source files -->
+<script type="text/javascript" src="/lib/dom-event/dom-event.js"></script>
+<script type="text/javascript" src="/lib/animation/animation-min.js"></script>
+<script type="text/javascript" src="/lib/container/container_core-min.js"></script>
+<script type="text/javascript" src="/lib/menu/menu-min.js"></script>
+<!-- Page-specific script -->
+<script type="text/javascript">
+/*
+Initialize and render the MenuBar when its elements are ready 
+to be scripted.
+*/
+YAHOO.util.Event.onContentReady("menu_bar", function() {
+var ua = YAHOO.env.ua,
+oAnim; // Animation instance
+/*
+"beforeshow" event handler for each submenu of the MenuBar
+instance, used to setup certain style properties before
+the menu is animated.
+*/
+function onSubmenuBeforeShow(p_sType, p_sArgs) {
+var oBody,
+oElement,
+oShadow,
+oUL;
+if (this.parent) {
+oElement = this.element;
+/*
+Get a reference to the Menu's shadow element and 
+set its "height" property to "0px" to syncronize 
+it with the height of the Menu instance.
+*/
+oShadow = oElement.lastChild;
+oShadow.style.height = "0px";
+/*
+Stop the Animation instance if it is currently 
+animating a Menu.
+*/
+if (oAnim && oAnim.isAnimated()) {
+oAnim.stop();
+oAnim = null;
+}
+/*
+Set the body element's "overflow" property to 
+"hidden" to clip the display of its negatively 
+positioned <ul> element.
+*/
+oBody = this.body;
+// Check if the menu is a submenu of a submenu.
+if (this.parent &&
+!(this.parent instanceof YAHOO.widget.MenuBarItem)) {
+/*
+There is a bug in gecko-based browsers and Opera where 
+an element whose "position" property is set to 
+"absolute" and "overflow" property is set to 
+"hidden" will not render at the correct width when
+its offsetParent's "position" property is also 
+set to "absolute." It is possible to work around 
+this bug by specifying a value for the width 
+property in addition to overflow.
+*/
+if (ua.gecko || ua.opera) {
+oBody.style.width = oBody.clientWidth + "px";
+}
+/*
+Set a width on the submenu to prevent its 
+width from growing when the animation 
+is complete.
+*/
+if (ua.ie == 7) {
+oElement.style.width = oElement.clientWidth + "px";
+}
+}
+oBody.style.overflow = "hidden";
+/*
+Set the <ul> element's "marginTop" property 
+to a negative value so that the Menu's height
+collapses.
+*/
+oUL = oBody.getElementsByTagName("ul")[0];
+oUL.style.marginTop = ("-" + oUL.offsetHeight + "px");
+}
+}
+/*
+"tween" event handler for the Anim instance, used to 
+syncronize the size and position of the Menu instance's 
+shadow and iframe shim (if it exists) with its 
+changing height.
+*/
+function onTween(p_sType, p_aArgs, p_oShadow) {
+if (this.cfg.getProperty("iframe")) {
+this.syncIframe();
+}
+if (p_oShadow) {
+p_oShadow.style.height = this.element.offsetHeight + "px";
+}
+}
+/*
+"complete" event handler for the Anim instance, used to 
+remove style properties that were animated so that the 
+Menu instance can be displayed at its final height.
+*/
+function onAnimationComplete(p_sType, p_aArgs, p_oShadow) {
+var oBody = this.body,
+oUL = oBody.getElementsByTagName("ul")[0];
+if (p_oShadow) {
+p_oShadow.style.height = this.element.offsetHeight + "px";
+}
+oUL.style.marginTop = "";
+oBody.style.overflow = "";
+// Check if the menu is a submenu of a submenu.
+if (this.parent &&
+!(this.parent instanceof YAHOO.widget.MenuBarItem)) {
+// Clear widths set by the "beforeshow" event handler
+if (ua.gecko || ua.opera) {
+oBody.style.width = "";
+}
+if (ua.ie == 7) {
+this.element.style.width = "";
+}
+}
+}
+/*
+"show" event handler for each submenu of the MenuBar 
+instance - used to kick off the animation of the 
+<ul> element.
+*/
+function onSubmenuShow(p_sType, p_sArgs) {
+var oElement,
+oShadow,
+oUL;
+if (this.parent) {
+oElement = this.element;
+oShadow = oElement.lastChild;
+oUL = this.body.getElementsByTagName("ul")[0];
+/*
+Animate the <ul> element's "marginTop" style 
+property to a value of 0.
+*/
+oAnim = new YAHOO.util.Anim(oUL,
+{ marginTop: { to: 0} },
+.5, YAHOO.util.Easing.easeOut);
+oAnim.onStart.subscribe(function() {
+oShadow.style.height = "100%";
+});
+oAnim.animate();
+/*
+Subscribe to the Anim instance's "tween" event for 
+IE to syncronize the size and position of a 
+submenu's shadow and iframe shim (if it exists) 
+with its changing height.
+*/
+if (YAHOO.env.ua.ie) {
+oShadow.style.height = oElement.offsetHeight + "px";
+/*
+Subscribe to the Anim instance's "tween"
+event, passing a reference Menu's shadow 
+element and making the scope of the event 
+listener the Menu instance.
+*/
+oAnim.onTween.subscribe(onTween, oShadow, this);
+}
+/*
+Subscribe to the Anim instance's "complete" event,
+passing a reference Menu's shadow element and making 
+the scope of the event listener the Menu instance.
+*/
+oAnim.onComplete.subscribe(onAnimationComplete, oShadow, this);
+}
+}
+/*
+Instantiate a MenuBar: The first argument passed to the 
+constructor is the id of the element in the page 
+representing the MenuBar; the second is an object literal 
+of configuration properties.
+*/
+var oMenuBar = new YAHOO.widget.MenuBar("menu_bar", {
+autosubmenudisplay: true,
+hidedelay: 750,
+lazyload: true
+});
+/*
+Subscribe to the "beforeShow" and "show" events for 
+each submenu of the MenuBar instance.
+*/
+oMenuBar.subscribe("beforeShow", onSubmenuBeforeShow);
+oMenuBar.subscribe("show", onSubmenuShow);
+/*
+Call the "render" method with no arguments since the 
+markup for this MenuBar already exists in the page.
+*/
+oMenuBar.render();
+});
+</script>
+<script language="JavaScript">
+function checksearch()
+{
+topicName=document.topsearch.Search.value
+if (topicName == "") {
+document.topsearch.Search.style.background="#00ffff";
+alert("The enter a Search Text field is required.");
+topsearch.Search.focus(); 
+} 
+else {
+document.topsearch.submit();
+}
+}
+</script>
+<style type="text/css">
+table .gsc-completion-container 
+{
+z-index: 10000 !important; 
+}
 </style>
-
-	</head><body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; width: 2em; height: 2em; top: -29px; left: 0px; border-width: 0px;"></iframe><div style="height:48px; margin-left:26px;z-index:1000 !important;">	
-
-
-
-
-		<table width="930" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-        <tbody><tr>
-          <td width="202">
-            <a href="/">
-              <img src="/a_images/nav/SLogo.jpg" width="202" height="45" border="0" alt="Super Micro Computer, Inc.">
-            </a>
-          </td>
-          <td nowrap="">
-          	<div style="position:relative;">
-          	<div style="position:absolute; top:21px; left: 33%;">
-          	  
-		          	<div id="langholder">
-		         
-
-		          <form method="POST" name="Selectlg" action="">
-		            <select name="lgus" class="sup" onchange="document.Selectlg.submit();">
-		              <option value="1" selected="selected">English</option>
-		              <option value="2">繁體中文</option>
-		              <option value="3">簡体中文</option>
-		              <option value="4">日本語</option>
-		            </select>
-		          </form>
-		         
-		          </div>
-          	</div>
-                          <img src="/a_images/test/Top_Home_contactUs_MySupermicro.jpg" width="730" height="45" border="0" usemap="#homeMap">
-              <map name="homeMap">
-				<area shape="rect" coords="390,0,455,20" href="/about/contact/">
-				<area shape="rect" coords="462,0,545,20" href="https://mysupermicro.supermicro.com">
-				<area shape="rect" coords="553,0,618,20" href="/Global_SKU/">
-				<area shape="rect" coords="627,0,682,20" href="/newsroom/social_media/">
-				<area shape="rect" coords="691,0,730,20" href="http://store.supermicro.com/?utm=header">
-              </map>
-          	</div>
-          </td>
-        </tr>
-    </tbody></table>
+<link rel="stylesheet" type="text/css" href="/js/jquery-ui-1.11.4/jquery-ui.min.css">
+<script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/SearchToolkit/Search/js/search_v1.js"></script>
+<style>
+#main_panal,#main_panel{
+margin-top:49px;
+top:0px;	
+}
+</style>
+</head><body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; width: 2em; height: 2em; top: -29px; left: 0px; border-width: 0px;"></iframe><div style="height:48px; margin-left:26px;z-index:1000 !important;">	
+<table width="930" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tbody><tr>
+<td width="202"><a href="/"><img src="/a_images/nav/SLogo1.gif" width="202" height="47" border="0" alt="Super Micro Computer, Inc."></a></td>
+<td nowrap="">
+<div style="position:relative;">
+<div style="position:absolute; top:21px; left: 33%;">
+<div id="langholder">
 </div>
-
-	<div style="height:28px; margin-left:26px;z-index:1000 !important;">	
-			
-		<img src="/a_images/banner/top_menu_background.jpg" width="932" height="28" border="0" cellpadding="0" cellspacing="0" usemap="#homeTopBarMap" name="eStore"><map name="homeTopBarMap"><area shape="rect" coords="0,0,650,26" href="/newsroom/events/"></map>
 </div>
-
-
-
-
-	
-<div id="Search_txt" style="z-index:20; position:absolute; top:50px; margin-left:700px; width:10x; height:20px;" class="textWhite">search</div>
-
-    
-<div id="searchform" class="searchform_home" style="z-index:20; position:absolute; top:48px; margin-left:680px; width:250px; height:26px;background-image:url('/a_images/banner/searchbox_shorter.jpg'); background-repeat:no-repeat;">
- 		<form name="topsearch" method="post" action="/SearchToolkit/Search/Results.php" id="topsearch">
-					&nbsp;<input type="text" size="20" autocomplete="off" name="Search" id="Search" value="" style="height:18px; font-size:10pt; margin-top:3px;"> 
-
-		</form>
+<img src="/a_images/test/Top_Home_contactUs_bgWhite.jpg" width="730" height="45" border="0" usemap="#homeMap">
+<map name="homeMap">
+<area shape="rect" coords="390,0,455,20" href="/about/contact/">
+<area shape="rect" coords="462,0,545,20" href="https://mysupermicro.supermicro.com">
+<area shape="rect" coords="553,0,618,20" href="/Global_SKU/">
+<area shape="rect" coords="627,0,682,20" href="/newsroom/social_media/">
+<area shape="rect" coords="691,0,730,20" href="http://store.supermicro.com/?utm=header">
+</map>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="searchform" style="z-index:20; position:absolute; top:20px; margin-left:725px; width:250px; height:20px; ">
+<form name="topsearch" method="post" action="/SearchToolkit/Search/Results.php" id="topsearch">
+&nbsp;<input type="text" autocomplete="off" name="Search" id="Search" value="" style="width:160px; height:20px; font-size:10pt; margin-top:5px;"> 
+</form>
 </div>	
-<div id="Search_btn" style="z-index: 20; position: absolute; top: 50px; margin-left: 850px;" class="textWhite">
-      <img name="goCSE" id="goCSE" src="/a_images/banner/searchbutton_transparent.gif" onclick="javascript:checksearch()" onmouseover="this.style.cursor='pointer'">
+<div id="Search_btn" style="z-index: 20; position: absolute; top: 18px; margin-left: 915px;" class="textWhite">
+<img name="goCSE" id="goCSE" src="/a_images/banner/searchbox_lens.gif" height="27" onclick="javascript:checksearch()" onmouseover="this.style.cursor='pointer'">
 </div>
-
-
-
 
 
 <div id="main_panal" style="z-index: 10; position: absolute; top: 0px; margin-left: 26px">
 <table border="0" cellpadding="0" cellspacing="0">
-		
-     
-    
-  
-  
-  
-
 <script language="javascript">
 <!-- hide script from old browsers
-
 //detect browser:
 browserName = navigator.appName;
 browserVer = parseInt(navigator.appVersion);
 if (browserName == "Netscape" && browserVer >= 3) browserVer = "1";
 else if (browserName == "Microsoft Internet Explorer" && browserVer == 4) browserVer = "1";
 else browserVer = "2";
-
 //preload images:
 if (browserVer == 1) {
 eStore_1 = new Image(930,28);
@@ -492,7 +306,6 @@ eStore_1.src = "/a_images/banner/top_menu_background1.jpg";
 eStore_2 = new Image(930,28);
 eStore_2.src = "/a_images/banner/top_menu_background2.jpg";
 }
-
 //image swapping function:
 function hiLite(imgDocID, imgObjName, comment) {
 if (browserVer == 1) {
@@ -501,954 +314,783 @@ window.status = comment; return true;
 }}
 //end hiding -->
 </script>
-
-
-
-  
-  <tbody><tr><td>
-    <div id="menu_bar" class="yuimenubar yuimenubarnav yui-module yui-overlay visible" style="width: 930px; z-index: 0; position: static; display: block; visibility: visible;">
-        <div class="bd" id="bd">
-          <ul class="first-of-type">
-	
-            <li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen0" groupindex="0" index="0">
-              <a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/about/">About Us</a>
-              	<div id="us_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
-                  <div class="bd">
-                    <ul>
-                      <li class="yuimenuitem">
-                        <a class="yuimenuitemlabel" href="/about/milestones/">Company Milestones</a>
-                      </li>
-                      <li class="yuimenuitem">
-                        <a class="yuimenuitemlabel" href="http://ir.supermicro.com/" target="_blank">Investor Relations</a>
-                        <div id="us_div3" class="yuimenu">
-                          <div class="bd">
-                            <ul class="first-of-type">
-
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="http://ir.supermicro.com/releases.cfm" target="_blank">Press Releases</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="http://ir.supermicro.com/management.cfm" target="_blank">Management</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="http://ir.supermicro.com/events.cfm" target="_blank">Events &amp; Conferences</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="http://ir.supermicro.com/governance.cfm" target="_blank">Corporate Governance</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="http://ir.supermicro.com/financials.cfm" target="_blank">Financial Information</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="http://ir.supermicro.com/stockquote.cfm" target="_blank">Stock Information</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="http://ir.supermicro.com/contactus.cfm" target="_blank">Contact Us</a>
-                              </li>
-
-                            </ul>
-                          </div>
-                        </div>
-                      </li>
-                      <li class="yuimenuitem">
-                        <a class="yuimenuitemlabel" href="/about/greencomputing/">Green Computing</a>
-                      </li>
-                      <li class="yuimenuitem">
-                        <a class="yuimenuitemlabel" href="/applyjob">Careers</a>
-                        
-                      </li>
-                      <li class="yuimenuitem">
-                        <a class="yuimenuitemlabel" href="/about/contact/">Contact</a>
-                      </li>
-                      <li class="yuimenuitem">
-                        <a class="yuimenuitemlabel" href="/about/policies/">Policies</a>
-                        <div id="us_div3_c" class="yuimenu">
-                          <div class="bd">
-                            <ul class="first-of-type">
-
-                              <li class="yuimenuitem">
-
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/Regulations.cfm">Code of Regulations</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/privacy.cfm">Privacy</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/">Terms and Conditions</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/safety_information.cfm">Safety Information</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/Supply_Chains_Transparency_Disclosure.cfm">Supply Chains<br>&nbsp; Transparency Disclosure</a>
-                              </li>
-
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/Export_Controls_Statement.pdf">Export Controls Policy Statement</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/Supermicro_Conflict_Minerals_Statement.pdf">Conflict Minerals Statement</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/about/policies/Supplier_Code_of_Conduct.pdf">Supplier Code of Conduct</a>
-                              </li>
-
-
-                            </ul>
-
-                          </div>
-                        </div>
-                      </li>
-                      <li class="yuimenuitem">
-                        <a class="yuimenuitemlabel" href="/about/sitemap/">Site Map</a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-            </li>
-	
-
-	
-			<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen1" groupindex="0" index="1">
-			  <a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/products/">Products</a>
-
-
-				<div id="pd_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
-				  <div class="bd">
-					<ul>
-		
-
-   
-		
-
-					  <li class="yuimenuitem">
-						<a class="yuimenuitemlabel" href="/products/system/">SuperServer<span style="font-size:9px;vertical-align: top;">®</span></a>
-						<div id="pd_div3_a" class="yuimenu">
-				  		  <div class="bd">
-							<ul class="first-of-type">
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMC_Global_SKUs.cfm?Category=SYS">Global SKUs &nbsp;<img src="/products/nfo/files/Global_SKUs/logo_Global_SKU_30x30.gif" width="12" border="0"></a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/1U/">1U Rackmount</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/2U/">2U Rackmount</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/3U/">3U Rackmount</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/tower/">Tower / 4U</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/5U/">5U Rackmount</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/midtower/">Mid-Tower / Mini-Tower</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/Mini-ITX/">Box PC Solutions</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/Compact/">IoT Gateway Solutions</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/Integrated_Systems.cfm">Integrated Systems</a></li>
-		</ul>
-						  </div>
-						</div>
-					  </li>
-
-
-
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/products/nfo/storage.cfm">Storage</a>
-	<div id="pd_div3_d" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/storage.cfm">SuperStorage</a>
-                        <div id="us_div3" class="yuimenu">
-                          <div class="bd">
-                            <ul class="first-of-type">
-
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/products/nfo/sbb.cfm">Storage Bridge Bay (SBB)</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/products/nfo/storage.cfm">Storage Servers</a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-            </li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/chassis_storage.cfm">Chassis</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/NVMe.cfm">NVMe Platforms</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/Simply_Double.cfm">Simply Double</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/M.2.cfm">NVMe SSD in M.2</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm">PCI-E SSD</a>
-                        <div id="us_div4" class="yuimenu">
-                          <div class="bd">
-                            <ul class="first-of-type">
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm?show=Intel">Intel<span style="font-size:9px;vertical-align: top;">®</span> NVMe Cards</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm?show=Fusion-io">Fusion-io™ Cards</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm?show=HGST">HGST SSDs</a>
-                              </li>
-                              <li class="yuimenuitem">
-                                <a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm?show=Samsung">Samsung NVMe</a>
-                              </li>
-
-                            </ul>
-                          </div>
-                        </div>
-            </li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/storage_cards.cfm">RAID / HBA</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/support/resources/Riser.cfm">Riser Cards</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/files/storage/SAS-CompList.pdf" target="_blank">Expander/HDD Compatibility</a></li>
-		</ul>
-		</div>
-	</div>
-	</li>
-
-
-
-					  <li class="yuimenuitem">
-                     	<a class="yuimenuitemlabel" href="/products/motherboard/">Motherboards</a>
-						<div id="pd_div3_h" class="yuimenu">
-						  <div class="bd">
-							<ul class="first-of-type">
-							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMC_Global_SKUs.cfm?Category=MBD">Global SKUs &nbsp;<img src="/products/nfo/files/Global_SKUs/logo_Global_SKU_30x30.gif" width="12" border="0"></a></li>
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/">DP Xeon<span style="font-size:9px;vertical-align: top;">®</span></a>
-			<div id="pd_div4_1" class="yuimenu">
-				<div class="bd">
-				<ul class="first-of-type">
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/#3647">Socket 3647</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/#2011">Socket 2011</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/#1356">Socket 1356</a></li>
-
-				</ul>
-				</div>
-			</div>
-			</li>
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/">UP Xeon<span style="font-size:9px;vertical-align: top;">®</span></a>
-			<div id="pd_div4_3" class="yuimenu">
-				<div class="bd">
-				<ul class="first-of-type">
-
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#3647">Socket 3647</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2066">Socket 2066</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1151">Socket 1151</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2011">Socket 2011</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1150">Socket 1150</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1155">Socket 1155</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1156">Socket 1156</a></li>
-
-				</ul>
-				</div>
-			</div>
-			</li>
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2518">UP Xeon<span style="font-size:9px;vertical-align: top;">®</span>/Pentium<span style="font-size:9px;vertical-align: top;">®</span></a>
-			<div id="pd_div4_4" class="yuimenu">
-				<div class="bd">
-				<ul class="first-of-type">
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2518">Socket FCBGA2518</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1440">Socket FCBGA1440</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1296">Socket FCBGA1296</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1667">Socket FCBGA1667</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1284">Socket FCBGA1284</a></li>
-				</ul>
-				</div>
-			</div>
-			</li>
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/">MP Xeon<span style="font-size:9px;vertical-align: top;">®</span></a>
-			<div id="pd_div4_5" class="yuimenu">
-				<div class="bd">
-				<ul class="first-of-type">
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/#3647">Socket 3647</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/#2011">Socket 2011</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/#7500">Socket 1567</a></li>
-
-				</ul>
-				</div>
-			</div>
-			</li>
-
-            <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/">Core™</a>
-			<div id="pd_div4_6" class="yuimenu">
-				<div class="bd">
-				<ul class="first-of-type">
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/index.cfm#FCBGA1356">Socket FCBGA1356</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/index.cfm#FCBGA1023">Socket FCBGA1023</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#2066">Socket 2066</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#2011">Socket 2011</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1366">Socket 1366</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1156">Socket 1156</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1155">Socket 1155</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1151">Socket 1151</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1150">Socket 1150</a></li>
-					<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#988B">Socket 988B</a></li>
-
-				</ul>
-				</div>
-			</div>
-			</li>
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/ATOM/">Atom®</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/quark/">Quark™</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Celeron/">Celeron™</a></li>
-
-
-
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/archive/">Previous Gen.</a></li>
-							</ul>
-						  </div>
-						</div>
-					  </li>
-
-   
-
-
-					  <li class="yuimenuitem">
-                      	<a class="yuimenuitemlabel" href="/products/chassis/">Chassis</a>
-						<div id="pd_div3_k" class="yuimenu">
-						  <div class="bd">
-							<ul class="first-of-type">
-							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMC_Global_SKUs.cfm?Category=CSE">Global SKUs &nbsp;<img src="/products/nfo/files/Global_SKUs/logo_Global_SKU_30x30.gif" width="12" border="0"></a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/1U/">1U Chassis</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/2U/">2U Chassis</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/3U/">3U Chassis</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/4U/">Tower / 4U Chassis</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/tower/">Mid-Tower / Mini-Tower</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/Mini-ITX/">Mini-ITX Box Chassis</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/mobileRack/">Mobile Racks and Drive Kits</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/JBOD/">JBOD Storage Enclosures</a></li>
-							</ul>
-						  </div>
-						</div>
-					  </li>
-
-
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/superworkstation.cfm">SuperWorkstation</a></li>
-
-
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/products/SuperBlade/">SuperBlade<span style="font-size:9px;vertical-align: top;">®</span></a>
-	<div id="pd_div3_b" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/enclosure/">Enclosures</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/module/">Server Blades</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/management/">Management</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/networking/">Networking</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/powersupply/">Power Supplies</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/matrix.cfm">Blade Matrix</a></li>
-		</ul>
-		</div>
-	</div>
-	</li>
-
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/products/MicroBlade/">MicroBlade™</a>
-	<div id="pd_div3_m" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/enclosure/">Enclosures</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/module/">Server Blades</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/management/">Management</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/networking/">Networking</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/powersupply/">Power Supplies</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/matrix.cfm">Blade Matrix</a></li>
-		</ul>
-		</div>
-	</div>
-	</li>
-
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Ultra/">Ultra</a></li>
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/WIO.cfm">WIO</a></li>
-
-
-
-
-
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/Twin/">Twin Solutions</a>
-	<div id="pd_div3_c" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/BigTwin/">BigTwin™</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/FatTwin/">FatTwin™</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/2UTwinPro/">2U TwinPro™</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/1UTwinPro/">1U TwinPro™</a></li>
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/2UTwin2/">2U Twin<sup>2</sup>™</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/2UTwin/">2U Twin</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/1UTwin/">1U Twin</a></li>
-		</ul>
-		</div>
-	</div>
-	</li>
-
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/Xeon_MP.cfm">MP Servers</a></li>
-
-	<li class="yuimenuitem">
-    <a class="yuimenuitemlabel" href="/products/nfo/GPU_MIC.cfm">GPU / Coprocessor</a>
-	<div id="pd_div3_i" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/GPU/">NVIDIA<span style="font-size:9px;vertical-align: top;">®</span> Tesla<span style="font-size:9px;vertical-align: top;">®</span> Solutions</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Xeon_Phi/">Intel<span style="font-size:9px;vertical-align: top;">®</span> Xeon Phi™ Solutions</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Products/nfo/FirePro.cfm">AMD FirePro™ Solutions</a></li>
-
-		</ul>
-		</div>
-	</div>
-    </li>
-
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/MicroCloud/">MicroCloud</a></li>
-
-
-
-
-
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/products/nfo/networking.cfm">Networking</a>
-	<div id="pd_div3_e" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/networking.cfm#adapter">Adapters</a></li>
-
-
+<tbody><tr><td>
+<div id="menu_bar" class="yuimenubar yuimenubarnav yui-module yui-overlay visible" style="width: 930px; z-index: 0; position: static; display: block; visibility: visible;">
+<div class="bd" id="bd">
+<ul class="first-of-type">
+<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen0" groupindex="0" index="0">
+<a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/about/">About Us</a>
+<div id="us_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
+<div class="bd">
+<ul>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/milestones/">Company Milestones</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/" target="_blank">Investor Relations</a>
+<div id="us_div3" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/releases.cfm" target="_blank">Press Releases</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/management.cfm" target="_blank">Management</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/events.cfm" target="_blank">Events &amp; Conferences</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/governance.cfm" target="_blank">Corporate Governance</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/financials.cfm" target="_blank">Financial Information</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/stockquote.cfm" target="_blank">Stock Information</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="http://ir.supermicro.com/contactus.cfm" target="_blank">Contact Us</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/greencomputing/">Green Computing</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/applyjob">Careers</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/contact/">Contact</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/">Policies</a>
+<div id="us_div3_c" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/Regulations.cfm">Code of Regulations</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/privacy.cfm">Privacy</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/">Terms and Conditions</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/safety_information.cfm">Safety Information</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/Supply_Chains_Transparency_Disclosure.cfm">Supply Chains<br>&nbsp; Transparency Disclosure</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/Export_Controls_Statement.pdf">Export Controls Policy Statement</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/Supermicro_Conflict_Minerals_Statement.pdf">Conflict Minerals Statement</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/policies/Supplier_Code_of_Conduct.pdf">Supplier Code of Conduct</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/about/sitemap/">Site Map</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen1" groupindex="0" index="1">
+<a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/products/">Products</a>
+<div id="pd_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
+<div class="bd">
+<ul>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/system/">SuperServer<span style="font-size:9px;vertical-align: top;">®</span></a>
+<div id="pd_div3_a" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMC_Global_SKUs.cfm?Category=SYS">Global SKUs &nbsp;<img src="/products/nfo/files/Global_SKUs/logo_Global_SKU_30x30.gif" width="12" border="0"></a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/1U/">1U Rackmount</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/2U/">2U Rackmount</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/3U/">3U Rackmount</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/tower/">4U / Tower</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/midtower/">Mid-Tower / Mini-Tower</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/Mini-ITX/">Box PC Solutions</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/Compact/">IoT Gateway Solutions</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/storage.cfm">Storage</a>
+<div id="pd_div3_d" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/storage.cfm">SuperStorage</a>
+<div id="us_div3" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/sbb.cfm">Storage Bridge Bay (SBB)</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/storage.cfm">Storage Servers</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/chassis_storage.cfm">Chassis</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/NVMe.cfm">NVMe Platforms</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/Simply_Double.cfm">Simply Double</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/M.2.cfm">NVMe SSD in M.2</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm">PCI-E SSD</a>
+<div id="us_div4" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm?show=Intel">Intel<span style="font-size:9px;vertical-align: top;">®</span> NVMe</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm?show=HGST">HGST SSDs</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/pci-e_ssd.cfm?show=micron">Micron NVMe</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/PCI-E_SSD.cfm?show=Samsung">Samsung NVMe</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/storage_cards.cfm">RAID / HBA</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/support/resources/Riser.cfm">Riser Cards</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/motherboard/">Motherboards</a>
+<div id="pd_div3_h" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMC_Global_SKUs.cfm?Category=MBD">Global SKUs &nbsp;<img src="/products/nfo/files/Global_SKUs/logo_Global_SKU_30x30.gif" width="12" border="0"></a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/">DP Xeon<span style="font-size:9px;vertical-align: top;">®</span></a>
+<div id="pd_div4_1" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/#3647">Socket 3647</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/#2011">Socket 2011</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon1333/#1356">Socket 1356</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/">UP Xeon<span style="font-size:9px;vertical-align: top;">®</span></a>
+<div id="pd_div4_3" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#3647">Socket 3647</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2066">Socket 2066</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1151">Socket 1151</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2011">Socket 2011</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1150">Socket 1150</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1155">Socket 1155</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2518">UP Xeon<span style="font-size:9px;vertical-align: top;">®</span>/Pentium<span style="font-size:9px;vertical-align: top;">®</span></a>
+<div id="pd_div4_4" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#2518">Socket FCBGA2518</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1440">Socket FCBGA1440</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1296">Socket FCBGA1296</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1667">Socket FCBGA1667</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon3000/#1284">Socket FCBGA1284</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/">MP Xeon<span style="font-size:9px;vertical-align: top;">®</span></a>
+<div id="pd_div4_5" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/#3647">Socket 3647</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/#2011">Socket 2011</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Xeon7000/#7500">Socket 1567</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/">Core™</a>
+<div id="pd_div4_6" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/index.cfm#FCBGA1356">Socket FCBGA1356</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/index.cfm#FCBGA1023">Socket FCBGA1023</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#2066">Socket 2066</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#2011">Socket 2011</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1366">Socket 1366</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1156">Socket 1156</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1155">Socket 1155</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1151">Socket 1151</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#1150">Socket 1150</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Core/#988B">Socket 988B</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/ATOM/">Atom®</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/quark/">Quark™</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/Celeron/">Celeron™</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/motherboard/archive/">Previous Gen.</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/support/resources/MB_matrix.php">Motherboards Matrix</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/chassis/">Chassis</a>
+<div id="pd_div3_k" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMC_Global_SKUs.cfm?Category=CSE">Global SKUs &nbsp;<img src="/products/nfo/files/Global_SKUs/logo_Global_SKU_30x30.gif" width="12" border="0"></a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/1U/">1U Chassis</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/2U/">2U Chassis</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/3U/">3U Chassis</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/4U/">Tower / 4U Chassis</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/tower/">Mid-Tower / Mini-Tower</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/Mini-ITX/">Mini-ITX Box Chassis</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/mobileRack/">Mobile Racks and Drive Kits</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/chassis/JBOD/">JBOD Storage Enclosures</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/superworkstation.cfm">SuperWorkstation</a></li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/SuperBlade/">SuperBlade<span style="font-size:9px;vertical-align: top;">®</span></a>
+<div id="pd_div3_b" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/enclosure/">Enclosures</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/module/">Server Blades</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/management/">Management</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/networking/">Networking</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/powersupply/">Power Supplies</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/SuperBlade/matrix.cfm">Blade Matrix</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/en/products/superblade/network-manager">Blade Network Manager</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/MicroBlade/">MicroBlade™</a>
+<div id="pd_div3_m" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/enclosure/">Enclosures</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/module/">Server Blades</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/management/">Management</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/networking/">Networking</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/powersupply/">Power Supplies</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/MicroBlade/matrix.cfm">Blade Matrix</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/en/products/microblade/network-manager">Blade Network Manager</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Ultra/">Ultra</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/WIO.cfm">WIO</a></li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/Twin/">Twin Solutions</a>
+<div id="pd_div3_c" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/BigTwin/">BigTwin™</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/FatTwin/">FatTwin™</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/2UTwinPro/">2U TwinPro™</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/1UTwinPro/">1U TwinPro™</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/2UTwin2/">2U Twin<sup>2</sup>™</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/2UTwin/">2U Twin</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/1UTwin/">1U Twin</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/Xeon_MP.cfm">MP Servers</a></li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/GPU_MIC.cfm">GPU / Coprocessor</a>
+<div id="pd_div3_i" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/GPU/">NVIDIA<span style="font-size:9px;vertical-align: top;">®</span> Tesla<span style="font-size:9px;vertical-align: top;">®</span> Solutions</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Xeon_Phi/">Intel<span style="font-size:9px;vertical-align: top;">®</span> Xeon Phi™ Solutions</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Products/nfo/Radeon.cfm">AMD Radeon™ Solutions</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/MicroCloud/">MicroCloud</a></li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/networking.cfm">Networking</a>
+<div id="pd_div3_e" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/networking.cfm#adapter">Adapters</a></li>
 <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/networking.cfm#Omni-Path">Omni-Path Architecture</a></li>
 <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/networking.cfm#Layer2">Layer 2 Switches</a></li>
 <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/networking.cfm#10G">Layer 2/3 10G Switches</a></li>
 <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/networking.cfm#Aggregation">Layer 2/3 Aggregation Switches</a></li>
 <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/networking.cfm#BareMetal">Layer 2/3 Bare Metal Switches</a></li>
-		</ul>
-		</div>
-	</div>
-	</li>
-
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/products/embedded/index.cfm">Embedded / IoT</a>
-	<div id="pd_div3_f" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/atom.cfm">Atom® Solutions</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/embedded/embedded_server.cfm">SuperServer<span style="font-size:9px;vertical-align: top;">®</span></a></li> 
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/embedded/embedded_chassis.cfm">Chassis</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/embedded/embedded_motherboard.cfm">Motherboards</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/Compact/">IoT Gateway Solutions</a></li>
-		</ul>
-		</div>
-	</div>
-	</li>
-
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Gaming/">Gaming</a></li>
-
-
-
- 
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/aplus/">AMD Solutions</a>
-	<div id="pd_div3_g" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-      <li class="yuimenuitem"><a href="/epyc/" class="yuimenuitemlabel">A+ EPYC™ Solutions – <strong style="color: red;">NEW</strong></a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/epyc/">A+ Servers</a>
-			<div id="pd_div3_g1" class="yuimenu"><div class="bd">
-				<ul class="first-of-type">
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/1U/">1U Rackmount</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/2U/">2U Rackmount</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/Tower/">Tower / 4U</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/MidTower/">Mid-Tower / Mini-Tower</a></li>
-				</ul>
-			</div></div>
-			</li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/">A+ Motherboards</a>
-			<div id="pd_div3_g2" class="yuimenu"><div class="bd">
-				<ul class="first-of-type">
-        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/EPYC7000/">EPYC™ 7000 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron6000/">Opteron™ 6000 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron4000/">Opteron™ 4000 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron8000/">Opteron™ 8000 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron3000/">Opteron™ 3000 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron2000/">Opteron™ 2000 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron1000/">Opteron™ 1000 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron/">Opteron™ &nbsp;800 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron/Op200.cfm">Opteron™ &nbsp;200 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron/Op100.cfm">Opteron™ &nbsp;100 Series</a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/embedded/">Embedded G-Series</a></li>
-				</ul>
-			</div></div>
-            </li>
-			
-            <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/superblade/module/">A+ SuperBlade<span style="font-size:9px;vertical-align: top;">®</span></a>
-			<div id="pd_div3_g3" class="yuimenu"><div class="bd">
-				<ul class="first-of-type">
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/superblade/module/index.cfm">SuperBlade<span style="font-size:9px;vertical-align: top;">®</span></a></li>
-				<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/CaseStudies/SuperBlade_PRACE.pdf">Success Stories</a></li>
-				</ul>
-			</div></div>
-            </li>
-		</ul>
-		</div>
-	</div>
-	</li>
-
-
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/power_supply.cfm"><font color="#666666">Power Supplies</font></a></li>
-	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/accessories/"><font color="#666666">Accessories</font></a></li>
-
-	<li class="yuimenuitem">
-	<a class="yuimenuitemlabel" href="/products/rack/index.cfm"><font color="#666666">SuperRack<span style="font-size:9px;vertical-align: top;">®</span></font></a>
-	<div id="pd_div3_j" class="yuimenu">
-		<div class="bd">
-		<ul class="first-of-type">
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/rack/SuperRack_spec.cfm">Specifications</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/rack/rack_integration.cfm">Integration Service</a></li>
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/rack/scale-out_storage.cfm">Scale-out Storage</a></li>
-
-                    </ul>
-                  </div>
-                </div>
-            </li>
-
-			<li class="yuimenuitem">
-			  <a class="yuimenuitemlabel" href="/products/nfo/ManagementSoftware.cfm"><font color="#666666">Server Management</font></a>
-				<div id="pd_div3_s" class="yuimenu">
-				  <div class="bd">
-					<ul class="first-of-type">
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/Redfish.cfm">Redfish API</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SSM.cfm">SSM</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SUM.cfm">SUM</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SPM.cfm">SPM</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SD5.cfm">SuperDoctor®</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_TAS.cfm">Thin-Agent Service (TAS)</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SDO.cfm">Super Diagnostics Offline</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_IPMI.cfm">IPMI Utilities</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/IPMI.cfm">BMC Resources</a></li>
-
-
-					</ul>
-				  </div>
-				</div>
-			</li>
-	
-		  </ul>
-		</div>
-	  </div>
-
-
-
-	
-            </li><li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen2" groupindex="0" index="2">
-              <a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/solutions/">Solutions</a>
-              <div id="sl_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 204px; z-index: 1; position: absolute; visibility: hidden;">
-                <div class="bd">
-                  <ul>
-
-                    <li class="yuimenuitem">
-                    	<a class="yuimenuitemlabel" href="/solutions/SRSD.cfm">
-												Supermicro Rack Scale Design 
-                    	</a>
-                    </li>
-
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Data_Management.cfm">Data Management</a></li>
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/sap/index.cfm">SAP Solutions</a></li>
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Virtualization.cfm">Virtualization</a></li>
-
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Cloud.cfm">OpenStack Cloud</a>
-
-                    </li>
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Software_Defined_Storage.cfm">Software Defined Storage</a>
-					<div id="sl_div2_d" class="yuimenu">
-						<div class="bd">
-						<ul class="first-of-type">
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/WSSD.cfm">Supermicro Windows Server Software-Defined</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Red_Hat_Storage_One_by_Supermicro.cfm">Supermicro Red Hat Storage One</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/storage_ceph.cfm">Supermicro Red Hat Ceph</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SUSE_ceph.cfm">Supermicro SUSE Ceph</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Supermicro_NexentaStor.cfm">Supermicro-NexentaStor</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Supermicro_NexentaEdge.cfm">Supermicro-NexentaEdge</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/VMware_VSAN.cfm">Supermicro VMware VSAN</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Lustre.cfm">Supermicro Total Solution for Lustre on ZFS</a></li>
-
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Spectrum-Accelerate.cfm">Supermicro Spectrum Accelerate</a></li>
-						</ul>
-						</div>
-					</div>
-                    </li>
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/hadoop.cfm">Big Data</a></li>
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/NVIDIA_GRID_VDI.cfm">NVIDIA<span style="font-size:9px;vertical-align: top;">®</span> Virtual GPU Solutions</a>
-
-                    </li>
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Onsite_Services.cfm">Onsite Services</a></li>
-
-                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/ManagementSoftware.cfm">Server Management</a>
-					<div id="sl_div2_g" class="yuimenu">
-						<div class="bd">
-						<ul class="first-of-type">
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Redfish.cfm">Redfish API</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SSM.cfm">SSM</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SUM.cfm">SUM</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SPM.cfm">SPM</a></li>
-
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SD5.cfm">SuperDoctor®</a></li>
-
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_TAS.cfm">Thin-Agent Service (TAS)</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SDO.cfm">Super Diagnostics Offline</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_IPMI.cfm">IPMI Utilities</a></li>
-						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/IPMI.cfm">BMC Resources</a></li>
-						</ul>
-						</div>
-					</div>
-                    </li>
-
-                  </ul>
-                </div>
-              </div>
-            </li>
-	
-
-
-
-	
-            <li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen3" groupindex="0" index="3">
-              <a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/support/">Support</a>
-              <div id="sp_div_2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
-                <div class="bd">
-                  <ul>
-                  <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/support/">Services and Support</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/support/resources/">Downloads</a>
-                      <div id="sp_div3" class="yuimenu">
-                        <div class="bd">
-                          <ul class="first-of-type">
-
-                            <li class="yuimenuitem">
-                              <a class="yuimenuitemlabel" href="/ResourceApps/BIOS_IPMI_intel.html">BIOS &amp; IPMI</a>
-                              <div id="sp_div4" class="yuimenu">
-                                <div class="bd">
-                                  <ul class="first-of-type">
-
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/ResourceApps/BIOS_IPMI_intel.html">Intel</a>
-                                    </li>
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/ResourceApps/BIOS_IPMI_AMD.html">AMD</a>
-                                    </li>
-
-                                  </ul>
-                                </div>
-                              </div>
-                            </li>
-                            <li class="yuimenuitem">
-                              <a class="yuimenuitemlabel" href="/support/manuals/">Product Manuals</a>
-                            </li>
-                            <li class="yuimenuitem">
-                              <a class="yuimenuitemlabel" href="#">Product Matrices</a>
-                              <div id="sp_div4_b" class="yuimenu">
-                                <div class="bd">
-                                  <ul class="first-of-type">
-
-
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/products/motherboard/matrix/">Motherboards Matrix</a>
-                                      <div id="sp_div5" class="yuimenu">
-                                        <div class="bd">
-                                          <ul class="first-of-type">
-
-                                            <li class="yuimenuitem">
-                                              <a class="yuimenuitemlabel" href="/products/motherboard/matrix/">Intel</a>
-                                            </li>
-                                            <li class="yuimenuitem">
-                                              <a class="yuimenuitemlabel" href="/Aplus/motherboard/matrix/">AMD</a>
-                                            </li>
-
-                                          </ul>
-                                        </div>
-                                      </div>
-                                    </li>
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/support/resources/pws/">Power Supplies Matrix</a>
-                                    </li>
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/support/resources/Riser/riser.aspx">Riser Cards Matrix</a>
-                                    </li>
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/support/resources/sas/">SAS Cable Compatibility</a>
-                                    </li>
-									
-                                    
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/ResourceApps/Heatsink_Matrix.aspx">Heatsinks</a>
-                                    </li>
-                                    <li class="yuimenuitem">
-                                      <a class="yuimenuitemlabel" href="/support/resources/Thermal/">System Fans</a>
-                                      
-                                    </li>
-
-                                  </ul>
-                                </div>
-                              </div>
-                            </li>
-
-                          </ul>
-                        </div>
-                      </div>
-                    </li>
-                    <li class="yuimenuitem">
-                      
-					  <a class="yuimenuitemlabel" href="/FAQ/index.php">Online Support</a>
-                      <div id="sp_div3_b" class="yuimenu">
-                        <div class="bd">
-                          <ul class="first-of-type">
-
-                            
-                            <li class="yuimenuitem">
-                              
-							   <a class="yuimenuitemlabel" href="/FAQ/index.php">FAQ Search</a>
-                            </li>
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/support/faqs/os.cfm">OS Compatibility</a>
-                            </li>
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel">OS Certifications</a>
-							     <div id="sp_div4_c" class="yuimenu">
-                                  <div class="bd">
-                                  <ul class="first-of-type">
-								    <li class="yuimenuitem">
-							        <a class="yuimenuitemlabel" href="/support/resources/OS/OS_Certification_SuperServer.cfm">SuperServer<span style="font-size:9px;vertical-align: top;">®</span></a>
-                                    </li>
-								    <li class="yuimenuitem">
-							        <a class="yuimenuitemlabel" href="/support/resources/OS/OS_Certification_AMDserver.cfm">A+ Server</a>
-                                    </li>									
-                                  </ul>
-                                  </div>
-                                 </div>  								  
-                            </li>
-
-                          </ul>
-                        </div>
-                      </div>
-                    </li>
-
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/support/Onsite_Services.cfm">Onsite Services</a>
-                    </li>
-
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/support/manuals/">Product Manuals</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/support/quickrefs/">Quick-References</a>
-                    </li>
-                    <li class="yuimenuitem">
-
-                          
-                      <a class="yuimenuitemlabel" href="/support/rma/">RMA</a>
-                      <div id="sp_div3_c" class="yuimenu">
-                        <div class="bd">
-                          <ul class="first-of-type">
-                          
-                            <li class="yuimenuitem">
-                              <a class="yuimenuitemlabel" href="/support/rma/repair_policy.cfm">Return / Repair Policy</a>
-                            </li>
-                            <li class="yuimenuitem">
-								
-								
-								<a class="yuimenuitemlabel" href="/RmaForm/">Request RMA Online</a>
-                            </li>
-                            <li class="yuimenuitem">
-                              <a class="yuimenuitemlabel" href="/support/rma/rma_bios.cfm">Replace / Update BIOS</a>
-                            </li>
-                            <li class="yuimenuitem">
-                              <a class="yuimenuitemlabel" href="/support/rma/rma_faq.cfm">RMA FAQs</a>
-                            </li>
-                      
-
-                  </ul>
-                </div>
-              </div>
-            </li>
-
-
-			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/support/Warranty/">Warranty</a></li>
-
-
-          </ul>
-        </div>
-    </div>
-            </li>
-	
-
-	
-            <li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen4" groupindex="0" index="4">
-              <a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="/newsroom/" style="font-weight:bold;">Newsroom</a>
-              <div id="news_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
-                <div class="bd">
-                  <ul>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/newsroom/events/">Events &amp; Conferences</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/newsroom/news/">News</a>
-                    </li>
-
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/newsroom/social_media/">Follow Us</a>
-                    </li>
-
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/newsroom/pressreleases/">Press Releases</a>
-                    </li>
-
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/videos/">Videos</a>
-                    </li>
-
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/white_paper/">White Paper</a>
-                    </li>
-
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/newsroom/success/">Success Stories</a>
-                      <div id="sp_div4_d" class="yuimenu">
-                        <div class="bd">
-                          <ul class="first-of-type">
-
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/CaseStudies/CaseStudy_Fortune100.pdf">Fortune 100 Company Data Center</a>
-                             </li>
-
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/CaseStudies/BGI_Lustre.pdf">Beijing Genomics Institute (BGI)</a>
-                             </li>
-
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/CaseStudies/Success_Story_Rutgers.pdf">Rutgers University</a>
-                             </li>
-
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/CaseStudies/BlackMesh_Success_Story.pdf">BlackMesh</a>
-                             </li>
-
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/products/nfo/Green500.cfm">Green500</a>
-                             </li>
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/white_paper/white_paper_Supermicro-Powers-Mobile-with-CloudMosa.pdf">CloudMosa</a>
-                             </li>
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/white_paper/white_paper_Stanford-Geophysics.pdf">Stanford Geophysics</a>
-                             </li>
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/CaseStudies/Yahoo_SMCI_Case_Study.pdf">Yahoo! JAPAN</a>
-                             </li>
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/CaseStudies/2UTwin.pdf">SoftLayer<span style="font-size:9px;vertical-align: top;">®</span></a>
-                            </li>
-                            <li class="yuimenuitem">
-							   <a class="yuimenuitemlabel" href="/CaseStudies/SuperBlade_PRACE.pdf">PRACE</a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                    </li>
-
-                  </ul>
-                </div>
-              </div>
-            </li>
-	
-
-	
-			<li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen5" groupindex="0" index="5">
-              <a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="/wheretobuy/" style="font-weight:bold;">Where to buy</a>
-              <div id="buy_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 154px; z-index: 1; position: absolute; visibility: hidden;">
-                <div class="bd">
-                  <ul>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/wheretobuy/asia.cfm">Asia / Middle East</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/wheretobuy/europe.cfm">Pan Europe</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/wheretobuy/namerica.cfm">North America</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/wheretobuy/camerica.cfm">Central America</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/wheretobuy/samerica.cfm">South America</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/wheretobuy/others.cfm">Other Regions</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="https://store.supermicro.com">eStore</a>
-                    </li>
-                    <li class="yuimenuitem">
-                      <a class="yuimenuitemlabel" href="/wheretobuy/gsa.cfm">GSA</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </li>
-	
-
-
-	
-
-	
-
-  </ul></div></div></td></tr> 
-
-         
-        <tr><td><img src="/EN/a_images/banner/about_us_english.jpg" width="932" height="85" border="0"></td></tr>
-       
-        <tr><td>
-       <div id="flash" style="display: none;"></div><table border="0" cellpadding="0" cellspacing="0" width="930">
-       <tbody><tr>
-		
-			<!-- Page Content Below Banner -->
-			<td>
-				<table border="0" cellpadding="0" cellspacing="0" width="930">
-					<tbody><tr valign="top">
-					
-          <!-- Left Menu Column-->
-          <td>
-          <img src="/a_images/pixel.gif" height="15" border="0" alt=""><br>
-
-
-
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/embedded/index.cfm">Embedded / IoT</a>
+<div id="pd_div3_f" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/atom.cfm">Atom® Solutions</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/embedded/embedded_server.cfm">SuperServer<span style="font-size:9px;vertical-align: top;">®</span></a></li> 
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/embedded/embedded_chassis.cfm">Chassis</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/embedded/embedded_motherboard.cfm">Motherboards</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/system/Compact/">IoT Gateway Solutions</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Gaming/">Gaming</a></li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/aplus/">AMD Solutions</a>
+<div id="pd_div3_g" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a href="/epyc/" class="yuimenuitemlabel">A+ EPYC™ Solutions – <strong style="color: red;">NEW</strong></a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/epyc/">A+ Servers</a>
+<div id="pd_div3_g1" class="yuimenu"><div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/1U/">1U Rackmount</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/2U/">2U Rackmount</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/Tower/">Tower / 4U</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/system/MidTower/">Mid-Tower / Mini-Tower</a></li>
+</ul>
+</div></div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/">A+ Motherboards</a>
+<div id="pd_div3_g2" class="yuimenu"><div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/EPYC7000/">EPYC™ 7000 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron6000/">Opteron™ 6000 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron4000/">Opteron™ 4000 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron8000/">Opteron™ 8000 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron3000/">Opteron™ 3000 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron2000/">Opteron™ 2000 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron1000/">Opteron™ 1000 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron/">Opteron™ &nbsp;800 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron/Op200.cfm">Opteron™ &nbsp;200 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/Opteron/Op100.cfm">Opteron™ &nbsp;100 Series</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/motherboard/embedded/">Embedded G-Series</a></li>
+</ul>
+</div></div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/superblade/module/">A+ SuperBlade<span style="font-size:9px;vertical-align: top;">®</span></a>
+<div id="pd_div3_g3" class="yuimenu"><div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/Aplus/superblade/module/index.cfm">SuperBlade<span style="font-size:9px;vertical-align: top;">®</span></a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/CaseStudies/SuperBlade_PRACE.pdf">Success Stories</a></li>
+</ul>
+</div></div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/power_supply.cfm"><font color="#666666">Power Supplies</font></a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/accessories/"><font color="#666666">Accessories</font></a></li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/rack/index.cfm"><font color="#666666">SuperRack<span style="font-size:9px;vertical-align: top;">®</span></font></a>
+<div id="pd_div3_j" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/rack/SuperRack_spec.cfm">Specifications</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/rack/rack_integration.cfm">Integration Service</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/rack/scale-out_storage.cfm">Scale-out Storage</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/ManagementSoftware.cfm"><font color="#666666">Server Management</font></a>
+<div id="pd_div3_s" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/Redfish.cfm">Redfish API</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SSM.cfm">SSM</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SUM.cfm">SUM</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SPM.cfm">SPM</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SD5.cfm">SuperDoctor®</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_TAS.cfm">Thin-Agent Service (TAS)</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_SDO.cfm">Super Diagnostics Offline</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/SMS_IPMI.cfm">IPMI Utilities</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/products/nfo/IPMI.cfm">BMC Resources</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li><li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen2" groupindex="0" index="2">
+<a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/solutions/">Solutions</a>
+<div id="sl_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 204px; z-index: 1; position: absolute; visibility: hidden;">
+<div class="bd">
+<ul>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/solutions/SRSD.cfm">
+Supermicro Rack Scale Design
+</a>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Data_Management.cfm">Data Management</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/sap/index.cfm">SAP Solutions</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Cloud.cfm">Cloud</a>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Kubernetes_Canonical.cfm">Kubernetes</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Software_Defined_Storage.cfm">Software Defined Storage</a>
+<div id="sl_div2_d" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/WSSD.cfm">Supermicro Windows Server Software-Defined</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/storage_ceph.cfm">Supermicro Red Hat Ceph</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SUSE_ceph.cfm">Supermicro SUSE Ceph</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Supermicro_NexentaStor.cfm">Supermicro-NexentaStor</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Supermicro_NexentaEdge.cfm">Supermicro-NexentaEdge</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/VMware_VSAN.cfm">Supermicro VMware VSAN</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Lustre.cfm">Supermicro Total Solution for Lustre on ZFS</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Spectrum-Accelerate.cfm">Supermicro Spectrum Accelerate</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/hadoop.cfm">Big Data</a></li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/solutions/HPC.cfm"><font color="#666666">HPC Solutions</font></a>
+<div id="pd_div3_s" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/HPC.cfm#overview">Overview &amp; Highlights</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/HPC.cfm#reference">Reference Architecture</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/HPC.cfm#turnkey">Turnkey Appliance</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/HPC.cfm#HPC_Storage">HPC Storage, Server,<br>&nbsp; &amp; Fabric</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/HPC.cfm#cluster">Cluster Integration<br>&nbsp; &amp; Benchmarking</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/HPC.cfm#cooling">Cooling Technologies</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/HPC.cfm#top500">Top 500 / Green 500</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/NVIDIA_GRID_VDI.cfm">NVIDIA<span style="font-size:9px;vertical-align: top;">®</span> Virtual GPU Solutions</a>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Onsite_Services.cfm">Onsite Services</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/ManagementSoftware.cfm">Server Management</a>
+<div id="sl_div2_g" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/Redfish.cfm">Redfish API</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SSM.cfm">SSM</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SUM.cfm">SUM</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SPM.cfm">SPM</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SD5.cfm">SuperDoctor®</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_TAS.cfm">Thin-Agent Service (TAS)</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_SDO.cfm">Super Diagnostics Offline</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/SMS_IPMI.cfm">IPMI Utilities</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/solutions/IPMI.cfm">BMC Resources</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen3" groupindex="0" index="3">
+<a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" style="font-weight:bold;" href="/support/">Support</a>
+<div id="sp_div_2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
+<div class="bd">
+<ul>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/">Services and Support</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/resources/">Downloads</a>
+<div id="sp_div3" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/ResourceApps/BIOS_IPMI_intel.html">BIOS &amp; IPMI</a>
+<div id="sp_div4" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/ResourceApps/BIOS_IPMI_intel.html">Intel</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/ResourceApps/BIOS_IPMI_AMD.html">AMD</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/manuals/">Product Manuals</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="#">Product Matrices</a>
+<div id="sp_div4_b" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/motherboard/matrix/">Motherboards Matrix</a>
+<div id="sp_div5" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/motherboard/matrix/">Intel</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/Aplus/motherboard/matrix/">AMD</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/resources/pws/">Power Supplies Matrix</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/resources/Riser/riser.aspx">Riser Cards Matrix</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/resources/sas/">SAS Cable Compatibility</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/ResourceApps/Heatsink_Matrix.aspx">Heatsinks</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/resources/Thermal/">System Fans</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/FAQ/index.php">Online Support</a>
+<div id="sp_div3_b" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/FAQ/index.php">FAQ Search</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/faqs/os.cfm">OS Compatibility</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel">OS Certifications</a>
+<div id="sp_div4_c" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/resources/OS/OS_Certification_SuperServer.cfm">SuperServer<span style="font-size:9px;vertical-align: top;">®</span></a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/resources/OS/OS_Certification_AMDserver.cfm">A+ Server</a>
+</li>	
+</ul>
+</div>
+</div> 
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/Onsite_Services.cfm">Onsite Services</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/manuals/">Product Manuals</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/quickrefs/">Quick-References</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/rma/">RMA</a>
+<div id="sp_div3_c" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/rma/repair_policy.cfm">Return / Repair Policy</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/RmaForm/">Request RMA Online</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/rma/rma_bios.cfm">Replace / Update BIOS</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/support/rma/rma_faq.cfm">RMA FAQs</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/support/Warranty/">Warranty</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen4" groupindex="0" index="4">
+<a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="/newsroom/" style="font-weight:bold;">Newsroom</a>
+<div id="news_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 184px; z-index: 1; position: absolute; visibility: hidden;">
+<div class="bd">
+<ul>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/newsroom/events/">Events &amp; Conferences</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/newsroom/news/">News</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/newsroom/social_media/">Follow Us</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/newsroom/pressreleases/">Press Releases</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/videos/">Videos</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/white_paper/">White Paper</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/newsroom/success/">Success Stories</a>
+<div id="sp_div4_d" class="yuimenu">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/CaseStudies/CaseStudy_Fortune100.pdf">Fortune 100 Company Data Center</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/CaseStudies/BGI_Lustre.pdf">Beijing Genomics Institute (BGI)</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/CaseStudies/Success_Story_Rutgers.pdf">Rutgers University</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/CaseStudies/BlackMesh_Success_Story.pdf">BlackMesh</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/products/nfo/Green500.cfm">Green500</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/white_paper/white_paper_Supermicro-Powers-Mobile-with-CloudMosa.pdf">CloudMosa</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/white_paper/white_paper_Stanford-Geophysics.pdf">Stanford Geophysics</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/CaseStudies/Yahoo_SMCI_Case_Study.pdf">Yahoo! JAPAN</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/CaseStudies/2UTwin.pdf">SoftLayer<span style="font-size:9px;vertical-align: top;">®</span></a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/CaseStudies/SuperBlade_PRACE.pdf">PRACE</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="yuimenubaritem yuimenubaritem-hassubmenu" style="width:154px" id="yui-gen5" groupindex="0" index="5">
+<a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="/wheretobuy/" style="font-weight:bold;">Where to buy</a>
+<div id="buy_div2" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="width: 154px; z-index: 1; position: absolute; visibility: hidden;">
+<div class="bd">
+<ul>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/wheretobuy/asia.cfm">Asia / Middle East</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/wheretobuy/europe.cfm">Pan Europe</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/wheretobuy/namerica.cfm">North America</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/wheretobuy/camerica.cfm">Central America</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/wheretobuy/samerica.cfm">South America</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/wheretobuy/others.cfm">Other Regions</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="https://store.supermicro.com">eStore</a>
+</li>
+<li class="yuimenuitem">
+<a class="yuimenuitemlabel" href="/wheretobuy/gsa.cfm">GSA</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul></div></div></td></tr> 
+<tr><td><img src="/EN/a_images/banner/about_us_english.jpg" width="932" height="85" border="0"></td></tr>
+<tr><td>
+<div id="flash" style="display: none;"></div><table border="0" cellpadding="0" cellspacing="0" width="930">
+<tbody><tr>
+<!-- Page Content Below Banner -->
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="930">
+<tbody><tr valign="top">
+<!-- Left Menu Column-->
+<td>
+<img src="/a_images/pixel.gif" height="15" border="0" alt=""><br>
 <table border="0" cellpadding="0" cellspacing="0" width="156">
-								<tbody><tr>
-									<td width="156">
-
-
+<tbody><tr>
+<td width="156">
 <a href="/about/" class="tertiaryNavItem"><img src="/a_images/bullets/bullet_arrow_blue_lg.gif" width="17" height="17" border="0" align="absmiddle">
- About Supermicro</a><div class="tertiaryNavLine"></div> 
+About Supermicro</a><div class="tertiaryNavLine"></div>
 <a href="/about/milestones/" class="tertiaryNavItem"><img src="/a_images/bullets/bullet_arrow_blue_lg.gif" width="17" height="17" border="0" align="absmiddle">
- Company Milestones</a><div class="tertiaryNavLine"></div> 
+Company Milestones</a><div class="tertiaryNavLine"></div>
 <a href="http://ir.supermicro.com" class="tertiaryNavItem" target="_blank"><img src="/a_images/bullets/bullet_arrow_blue_lg.gif" width="17" height="17" border="0" align="absmiddle">
- Investor Relations</a><div class="tertiaryNavLine"></div> 
+Investor Relations</a><div class="tertiaryNavLine"></div>
 <a href="/about/greencomputing/" class="tertiaryNavItem"><img src="/a_images/bullets/bullet_arrow_blue_lg.gif" width="17" height="17" border="0" align="absmiddle">
- Green Computing</a><div class="tertiaryNavLine"></div> 
+Green Computing</a><div class="tertiaryNavLine"></div>
 <a href="/applyjob/" class="tertiaryNavItem"><img src="/a_images/bullets/bullet_arrow_blue_lg.gif" width="17" height="17" border="0" align="absmiddle">
- Careers</a><div class="tertiaryNavLine"></div> 
+Careers</a><div class="tertiaryNavLine"></div>
 <a href="/about/contact/" class="tertiaryNavItem"><img src="/a_images/bullets/bullet_arrow_blue_lg.gif" width="17" height="17" border="0" align="absmiddle">
- Contact</a><div class="tertiaryNavLine"></div> 
+Contact</a><div class="tertiaryNavLine"></div>
 <a href="/about/policies/index.cfm" class="tertiaryNavSection"><img src="/a_images/bullets/bullet_arrow_red_lg.gif" width="17" height="17" border="0" align="absmiddle"> Policies</a>
-
-
 <a href="/about/policies/Regulations.cfm" class="quaternaryNavItem">&nbsp; Code of Regulations</a>
 <a href="/about/policies/privacy.cfm" class="quaternaryNavItem">&nbsp; Privacy</a>
 <a href="/about/policies/index.cfm" class="quaternaryNavItem">&nbsp; Terms and Conditions</a>
@@ -1458,221 +1100,297 @@ window.status = comment; return true;
 <a href="/about/policies/Supermicro_Conflict_Minerals_Statement.pdf" class="quaternaryNavItem">&nbsp; Conflict Minerals Statement</a>
 <a href="/about/policies/Supplier_Code_of_Conduct.pdf" class="quaternaryNavItem">&nbsp; Supplier Code of Conduct</a>
 <a href="http://www.supermicro.ethicspoint.com/" class="quaternaryNavItem" target="_blank">&nbsp; Whistleblower Policy</a>
+<a href="/about/policies/UK_Modern_Slavery_Policy_Statement.pdf" class="quaternaryNavItem">&nbsp; UK Modern Slavery Policy</a>
+<a href="/about/policies/Insider_Trading_Policy.pdf" class="quaternaryNavItem">&nbsp; Insider Trading Policy</a>
 <div class="tertiaryNavSectionLine"></div>
-
-
 <a href="/about/sitemap/" class="tertiaryNavItem"><img src="/a_images/bullets/bullet_arrow_blue_lg.gif" width="17" height="17" border="0" align="absmiddle">
- Site Map</a><div class="tertiaryNavLine"></div>
-										<img src="/a_images/pixel.gif" width="156" height="1" border="0" alt=""><br>
-									</td>
-								</tr>
-							</tbody></table>
-
-
-
- </td>
-          <td width="36" background="/a_images/vertRule.gif"><img src="/a_images/pixel.gif" width="36" height="1" border="0" alt=""></td>
-          <!-- Middle Content Column -->
-          <td width="686" class="body">
-            <img src="/a_images/pixel.gif" height="15" border="0" alt=""><h1 style="vertical-align:top;margin-top:0px;font-family:Arial Narrow;font-size: 18px;font-style:bold;color: #000000; "><img style="margin-top:3px;margin-right:5px" src="/a_images/bullets/bullet_arrow_red_lg.gif" width="17" height="17" border="0" align="left">
-
+Site Map</a><div class="tertiaryNavLine"></div>
+<img src="/a_images/pixel.gif" width="156" height="1" border="0" alt=""><br>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="36" background="/a_images/vertRule.gif"><img src="/a_images/pixel.gif" width="36" height="1" border="0" alt=""></td>
+<!-- Middle Content Column -->
+<td width="686" class="body">
+<img src="/a_images/pixel.gif" height="15" border="0" alt=""><h1 style="vertical-align:top;margin-top:0px;font-family:Arial Narrow;font-size: 18px;font-style:bold;color: #000000; "><img style="margin-top:3px;margin-right:5px" src="/a_images/bullets/bullet_arrow_red_lg.gif" width="17" height="17" border="0" align="left">
 Privacy Policy
-
-</h1><br><br><br>
-			<table border="0" cellpadding="0" cellspacing="0">
-
-              <tbody><tr> 
-                <td width="625" class="textA12">
-					<div class="headerA13">We Respect Your Privacy</div><br><br>
-               		<!--To read Supermicro's Privacy Policy in another language, click here. (link) -->
-					
-                    <strong>Your Privacy Is Important To Us!</strong><br>
-					Supermicro is committed to user privacy in our services and products. This Privacy Policy outlines our personal information handling practices. If a user provides us with personal information, we treat it according to this Policy. We created this Privacy Policy to detail our commitment to protect the privacy of clients, customers, and users, and to insure the integrity of the Internet. Supermicro reserves the right to change its Privacy Policy at any time without notice. If we decide to change our Privacy Policy, we will post the changes on this WebSite so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.<br><br><br>
-					
-					<strong>Security Measures</strong><br>
-                    Supermicro protects the personal information you provide us. Access to users' personal information is limited to people who need it to perform their job functions. Authorized third-party agents may also need access to some of users' personal information. For example, if Supermicro needs to ship products to customers, it shares the customer's name and address with the shipping company. Supermicro only provides third-party agents with the minimum amount of information needed to complete the requested transaction. Otherwise, we do not share personal information with third-parties without the user's permission to do so.<br><br>
-					Supermicro may respond to court orders, subpoenas, or legal process. Supermicro may choose to establish or exercise its legal rights or defend against legal claims. Supermicro may collect and share information in order to investigate, prevent, or take action regarding suspected fraud, illegal activities, situations involving potential threats to the physical safety of any person, violations of Supermicro's terms of use, or as otherwise required by law.<br><br><br>
-					
-					<strong>Types and Uses of Personal Information</strong><br>
-                    Supermicro may use your personal information in the following ways: 
-					<ul class="zero">
-                    <li class="textA12"><strong>Account Information</strong> - Tells Supermicro who you are, how to ship products to you, how to contact you, and provides billing information.</li>
-                    <li class="textA12"><strong>Passwords and IDs</strong> - Provide you with access to your profile areas and to protected content. </li>
-                    <li class="textA12"><strong>E-mail</strong> - Used to raise and respond to questions and to distribute information about Supermicro and its products and services. </li>
-                    <li class="textA12"><strong>Transactions</strong> - Show which products and services a user has requested. </li>
-                    <li class="textA12"><strong>Customer Feedback and Support</strong> - Provides a mechanism for requesting information from Supermicro.</li>
-                  	</ul>
-                  
-				  	Supermicro only uses personal information in the ways specified when collected. Supermicro will not change the way in which we use a user's personal information unless the user consents to the new usage.<br><br><br>
-
-                    <strong>Linked Websites</strong><br>
-                    Supermicro may provide links to third-party web sites. Supermicro does not control third-party sites, and therefore encourages users to review the privacy policies posted on all third-party sites.<br><br><br>
-					
-                    <strong>Data Retention</strong><br>
-                    Supermicro will not retain a user's personal information longer than is necessary for the purposes for which it was collected. <br><br><br>
-					
-					<strong>Children's Policy</strong><br>
-                    Supermicro does not knowingly collect personal information from children under the age of 13. If Supermicro learns that it possesses information from a child under the age of 13, we delete that information from our systems. Supermicro encourages parents to go online with their children. Parents should be aware of the sites their children visit and whether those sites are appropriate for them. Parents should be aware of web site privacy policies and learn how their children's information is being used. Children should be taught never to provide personal information about themselves unless supervised by a parent or responsible adult. <br><br><br>
-					
-                    <strong>Accessing and Updating Information</strong><br>
-                    Supermicro needs users' help in verifying the accuracy of personal information. Please notify us of any changes to your name, title, phone number(s), address, and/or e-mail address.<br><br><br>
-					
-					<strong>Notice About the Information We Collect</strong><br>
-                    When you access Supermicro WebSites, client information and the essential and nonessential technical information listed below is collected automatically. We refer to these categories collectively as "access" information. No other information is collected through our WebSites except when users intentionally send it to us (for example, by clicking on a link to send us an e-mail). The information users choose to send us is described below as "optional information."<br><br><br>
-					
-					<strong>Automatically Collected Access Information</strong><br> 
-                  	<ul class="zero">
-                    <li class="textA12"> Client information: the Internet domain and Internet address of the computer you are using.</li>
-					<li class="textA12">Essential technical information: identification of the page or service you are requesting, type of browser and operating system you are using; and the date and time of access. </li>
-                    <li class="textA12">Nonessential technical information: the Internet address of the web site from which you linked directly to our WebSite, and "cookie information" described below.</li>
-                  	</ul>
-					
-					<strong>Optional Information</strong><br>
-                    When you send us an e-mail: your name, e-mail address, and content of your e-mail.<br>
-                    When you complete online forms: all data you choose to fill in or confirm, including credit and/or debit card information if you are ordering a product or making a payment, as well as information about third parties if you are ordering a gift and requesting that it be sent directly to the third party.<br><br><br>
-					
-					<strong>Cookies</strong><br>
-                    Supermicro's Websites use cookies. A cookie is a small data file residing on your system that a web site can write to your hard drive when visited. A cookie stores useful information that enables our WebSites to remember users when they return. We only use cookie files to store the login information for various areas of our WebSites such as Technical Support or Account Management system, so that users do not need to manually login on each visit. A cookie cannot read data off your hard disk or read cookie files created by other sites. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by disabling them in your browser. However, if cookies are disabled, some sites may not allow users to conduct certain activities. Supermicro can only read cookies from Supermicro WebSites. If a user chooses to disable cookies in their browser, the user can usually still access our WebSites.<br><br>
-					Often a cookie enables Supermicro to tailor what you see according to the way you entered the WebSite For example, if you entered by identifying yourself as a student, your subsequent views of information might be tailored for "educational" customer audiences. For this kind of cookie, the information stored in the cookie might include the following (formatted for legibility):<br><br>
-					
-					<table cellspacing="0" cellpadding="5" border="0" class="boxSection">
-                    	<tbody><tr><td class="textA12"> 
-							Name: SMC_cookie Session: 973016679.275537<br>
-							Timestamp: 20040721258<br>
-							Portal: 0<br>
-							Expires: Tue, 01-Aug-2004 22:40:58 GMT<br>
-							Domain: Supermicro.com <br>
-							Path: / 
-						</td></tr>
-					</tbody></table><br><br>
-					
-					Supermicro may display advertisements from third parties. Third-party ad-serving companies control what advertisements are shown. These advertising-serving companies may use their own cookies to collect non-personally identifiable information from you. Advertisers use personal information to target the advertisements and measure impact. Supermicro uses third parties to monitor web traffic, statistics, advertisement “click-through,” and other activities on our WebSites. Where authorized by Supermicro, such third parties may use cookies, web log files, web beacons, and/or other monitoring technologies to compile anonymous statistics about users.<br><br><br>
-					
-					<strong>Guidelines for Linking to Supermicro's WebSites</strong><br>
-                    Any website that links to Supermicro's WebSites:
-                  	<ul class="zero">
-                    <li class="textA12"> May link to but not replicate Supermicro content </li>
-                    <li class="textA12"> Should not create a border environment or browser around Supermicro content </li>
-                    <li class="textA12"> Should not state or imply that Supermicro is endorsing it or its products </li>
-                    <li class="textA12"> Should not contain content that could be construed as distasteful, offensive or controversial, and should contain content appropriate for all age groups </li>
-                    <li class="textA12"> Should not use Supermicro's trademark(s) without Supermicro's permission </li>
-                    <li class="textA12"> Should not present false information about Supermicro products or services </li>
-                    <li class="textA12"> Should not misrepresent its relationship with Supermicro.</li>
-					</ul>
-					
-                  	<strong>Online Support</strong><br>
-					When making a Technical Support Request, your e-mail address is required so that we may provide you with information on the status of your request. All information within our Technical Support and FAQ areas is used solely to respond to questions and for no other purpose. Registration is free. Visitors can continue using these services even if they do not register. During registration, visitors must supply a username, password and email address. Visitors can later supply additional information they wish to share with others as part of their profile. This information is used solely to login to the support system and for no other purpose.<br><br><br>
-			
-					<div class="headerA13">Additional Uses of Personal Information</div><br><br>
-					Client information is used to route the requested Web page to your computer for viewing. In theory, the requested Web page and the routing information could be discerned by other entities involved in transmitting the requested page to you. We do not control the privacy practices of those entities. Essential and non-essential technical information helps us respond to your request in an appropriate format and helps us make WebSite improvements.<br><br>
-					Optional information helps us provide services or information tailored more specifically to your needs or to forward your message or inquiry to another entity that is better able to do so. It also helps us make WebSite improvements. We may use non-identifying and aggregate information to better design our WebSites. For example, we may report that <em>A</em> number of individuals visited a certain area on our WebSite, or that <em>B</em> number of men and <em>C</em> number of women filled out our registration form. We do not disclose information that could be used to identify users.<br><br>
-					Supermicro may retain client information after the Web page is transmitted. We do not try to obtain information to link it to individuals who browse our Websites. However, on rare occasions when a user unlawfully attempts to breach computer security, logs of access information are retained to permit a security investigation. In such cases, the information may be forwarded to law enforcement agencies.<br><br>
-					Under the federal Freedom of Information Act, any records in our possession at the time of a Freedom of Information Act Request may be subject to inspection by or disclosed to members of the public.<br><br><br>
-					
-					<strong>We use the information</strong> you provide when placing an order or requesting support only to complete the order or support request. We do not share this information with third parties except to the extent necessary to complete the order or request. Similarly, we use information you provide about third parties when placing an order or request only to complete that order or request. We do not share the information with third parties except to the extent necessary to complete the order or request.<br><br> 
-					Generally Supermicro uses return e-mail addresses only to respond to users' email. Email addresses are generally not used for other purposes and not shared with third parties. We do not use or share personally identifiable information provided to us online other than as described herein without notice to the user and an opportunity to prohibit such use.<br><br><br>
-					
-					<strong>Providing Information Is Your Choice</strong><br>
-                    Supermicro's WebSite users may choose not to provide personal information. However, certain features of our WebSites will not work without routing information and/or essential technical information. Failure to provide routing, optional, or nonessential technical information will not prevent use of our Websites, but may prevent use of or access to certain WebSite features.<br><br><br>
-					 
-                  	<strong>Our Commitment To Data Security</strong><br>
-                    To prevent unauthorized access, maintain data accuracy, and insure the correct use of information, Supermicro has adopted physical, electronic, and managerial procedures to safeguard and secure the information we collect online. These procedures are consistent with <a href="/about/policies/privacy.cfm">Supermicro's Privacy Policies</a> and the laws and regulations of the State of California.<br><br><br>
-					
-					<strong>WebSite Traffic</strong><br>
-                    We track visitor traffic throughout our WebSites. This information is broken down per page and used to determine what areas of our WebSites are most popular.<br><br><br>
-					
-					<strong><a href="/about/contact/">How To Contact Us</a></strong><br>
-					If you have questions about Supermicro’s privacy policies and practices, please call us at (408)503-8000 or e-mail us at <em><a href="mailto:webmaster@supermicro.com">Webmaster@Supermicro.com</a></em>. If you wish to review or change information gathered about you via a Supermicro Website, but do not know how, the webmaster will assist you.<br><br><br>
-					
-                  	<strong><a href="/about/contact/">Super Micro Computer, Inc.</a></strong><br>
-                    980 Rock Ave. San Jose, CA 95131-1615, USA<br>
-                    Tel: +1-408-503-8000<br>
-                    Fax: +1-408-503-8008<br>
-                    General Info: <a href="mailto:marketing@supermicro.com">Marketing@Supermicro.com</a><br>
-                    Tech Support: <a href="mailto:support@supermicro.com">Support@Supermicro.com</a><br>
-                    Webmaster: <a href="mailto:webmaster@supermicro.com">Webmaster@Supermicro.com</a><br><br><br>
-					
-					<hr> ©Copyright 2018 by Super Micro Computer, Inc.<br>
-					All rights reserved. 
-				</td></tr>
-
-            </tbody></table>
-           
-            <img src="/a_images/pixel.gif" width="353" height="1" border="0" alt=""> 
-          </td>
-          <td width="36" background="/a_images/vertRule.gif"><img src="/a_images/pixel.gif" width="36" height="1" border="0" alt=""></td>
-         
-        </tr>
-      </tbody></table></td>
-  </tr>
-  
-
+</h1><br>
+<strong>Topics:</strong>
+<ul>
+<li><a href="/about/policies/privacy.cfm#importance">Your Privacy is Important to Us</a></li>
+<li><a href="/about/policies/privacy.cfm#collect">What Information Do We Collect About You?</a></li>
+<li><a href="/about/policies/privacy.cfm#source">Sources of Information We Collect</a></li>
+<li><a href="/about/policies/privacy.cfm#use">How Will We Use Your Information?</a></li>
+<li><a href="/about/policies/privacy.cfm#share">How We Share Your Information</a></li>
+<li><a href="/about/policies/privacy.cfm#transfer">International Data Transfers</a></li>
+<li><a href="/about/policies/privacy.cfm#security">Security</a></li>
+<li><a href="/about/policies/privacy.cfm#third">Third Party Links</a></li>
+<li><a href="/about/policies/privacy.cfm#retention">Data Retention</a></li>
+<li><a href="/about/policies/privacy.cfm#children">Information Submitted by Children</a></li>
+<li><a href="/about/policies/privacy.cfm#cookies">Cookies, Web Beacons and Other Technologies</a></li>
+<li><a href="/about/policies/privacy.cfm#donottrack">Do Not Track</a></li>
+<li><a href="/about/policies/privacy.cfm#notification">Email Notifications</a></li>
+<li><a href="/about/policies/privacy.cfm#mobile">Using Mobile and Other Devices</a></li>
+<li><a href="/about/policies/privacy.cfm#marketing">Marketing</a></li>
+<li><a href="/about/policies/privacy.cfm#control">Your Access and Control Over Your Information</a></li>
+<li><a href="/about/policies/privacy.cfm#rights">Your California Privacy Rights</a></li>
+<li><a href="/about/policies/privacy.cfm#changes">Changes to Our Privacy Statement</a></li>
+<li><a href="/about/policies/privacy.cfm#contact">How to Contact Us</a></li>
+<li><a href="/about/policies/privacy.cfm#complaints">Complaints</a></li>
+<li><a href="/about/policies/privacy.cfm#officer">Data Protection Officer</a></li> 
+<li><a href="/about/policies/privacy.cfm#new">What's New</a></li>
+</ul>
+<br><br>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr> 
+<td width="625" class="textA12">
+<div class="headerA13">Supermicro Privacy Statement</div><br><br>
+<a name="importance"></a>
+<strong>Your Privacy Is Important To Us</strong> (<a href="#top">top</a>)<br><br>
+Super Micro Computer, Inc. (SMCI) is committed to your privacy and the protection of your personal data. This Privacy Statement is provided to describe our privacy practices as required by the General Data Protection Regulation (“GDPR”) (EU) (2016/679) and other Data Protection Laws. This Privacy Statement applies where SMCI is acting as a data Controller with respect to the personal data of our customers, resellers, suppliers and website users; in other words, where we determine the purposes and means of the processing of that personal data.<br><br>
+This Privacy Statement outlines how we collect, share, transfer, retain and protect your personal data and what rights you can exercise regarding your information. If you provide us with your personal data, or we obtain information about you from other sources, we treat your information according to this Privacy Statement.<br><br>
+This Privacy Statement applies to SMCI websites, apps, mobile apps, social media accounts, etc. (Sites). This Privacy Statement does not apply to third-party applications, products, services, websites or social media features that may be accessed through links we provide on our Sites that have their own Privacy Policies, Statements or Notices. Accessing those links will cause you to leave the SMCI Sites and may result in the collection or sharing of information about you by a third-party. We do not control, endorse or make any representations about those third-party websites or their privacy practices, which may differ from ours. We encourage you to review the Privacy Statement of any site you interact with before allowing the collection and use of your personal data.<br><br><br>
+<a name="collect"></a>
+<strong>What Information Do We Collect About You?</strong> (<a href="#top">top</a>)<br><br>
+The following describes the general categories of personal data that we may process, the purposes for which we may process personal data, and the legal bases of the processing. In the case of personal data we did not obtain directly from you, the source and specific categories of that data are also described.
+<ul class="zero">
+<li class="textA12">We may process information relating to transactions, including purchases of goods and services that you enter into with us and/or through our website or websites linked to our Site (“Transaction Data”). The Transaction Data may include your contact details (such as company, name, or phone number), and the transaction details. The Transaction Data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract and our legitimate interests in the proper administration of our website and business.</li><br>
+<li class="textA12">We may process data related to your (“Account Data”). The Account Data may include your name, title, postal and email address as well as payment information. The source of the Account Data may be you or your employer. The Account Data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the performance of a contract between you and SMCI and/or taking steps, at your request, to enter into such a contract.</li><br>
+<li class="textA12">We may process information contained in any inquiry you submit to us regarding goods and services (“Inquiry Data”). The legal basis for this processing is our legitimate interests, namely the performance of a contract between you and SMCI and/or taking steps, at your request, to enter into such a contract.</li><br>
+<li class="textA12">We may process data about your use of our website and services (“Usage Data”). The Usage Data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the Usage Data may be Cookies, analytics tracking systems or other methods. This Usage Data may be processed for the purposes of analyzing your use of our website and services. The legal basis for this processing is consent.</li><br>
+<li class="textA12">We may process data about you to ensure security of your personal data and our IT system, on the basis of your and our interest for security. The legal basis for this processing is our legitimate interests, namely the safe and secure: (1) administration of our website, (2) use and storage of business information and, (3) communications with users and customers. </li><br>
+<li class="textA12">We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters to keep you up-to-date on SMCI events and news (“Notification data”). The legal basis for this processing is your explicit consent, or your implicit consent if you are a customer.</li><br>
+<li class="textA12">We may process information contained in or relating to any communication that you send to us (“Correspondence Data”). The Correspondence Data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The Correspondence Data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.</li><br>
+<li class="textA12">We may process your personal data where necessary for the establishment, exercise, or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure, an investigation, or other legal matter. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others. We may process your personal data where necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, or obtaining professional advice. The legal basis for this processing is our legitimate interests, namely the proper protection of our business against risks.</li><br>
+</ul>
+Where the processing of your personal data is based on your consent only, you have the right to withdraw this consent at any time. We will then erase your personal data and stop processing it subject to our receipt of a valid Data Subject Access Request from you. <br><br><br>
+<a name="source"></a>
+<strong>Sources of Information We Collect</strong> (<a href="#top">top</a>)<br><br>
+SMCI receives information about you or your devices from the following sources:
+<ul class="zero">
+<li class="textA12">When you, or someone on your behalf, provides information to us to:<br>
+ˆ Establish or maintain an account;<br>
+ˆ Make a purchase or receive a service;<br>
+ˆ Apply for employment at SMCI;<br>
+ˆ Post comments to online communities;<br>
+ˆ Participate in a survey, marketing promotion, sweepstakes or contest; or<br>
+ˆ Connect with us via social media.<br>
+</li><br>
+<li class="textA12">Through Business Partners, Resellers and Suppliers;</li><br>
+<li class="textA12">Our Sites, apps and email;</li><br>
+<li class="textA12">Through the use of automated means such as Cookies and similar technologies, and;</li><br>
+<li class="textA12">From other third parties, including, advertisers, data partners, marketing partners and publicly available sources such as social networks.</li>
+</ul><br>
+SMCI, our service providers, and other third parties may collect the following information about you through automated means (such as Cookies):
+<ul class="zero">
+<li class="textA12">IP address;</li><br>
+<li class="textA12">Browser type and language, access time, and referring website address;</li><br>
+<li class="textA12">The pages you view within our Sites and other actions you take while visiting us;</li><br>
+<li class="textA12">We may collect information related to whether you've opened an e-mail or clicked on a link contained in an e-mail;</li><br>
+<li class="textA12">If you are referred to our Sites from another source (an advertising site, a blog, a social media site, etc.), we may collect data about you. Also, we may provide a referring source with appropriate data (such as the amount of a purchase) to compute referral fees or other similar purposes;</li><br>
+<li class="textA12">We may conduct surveys and promotions that collect your information. Our surveys and promotions are voluntary and any information you provide may be collected, used, shared, disclosed, stored, transferred, and processed in accordance with this Privacy Statement. Your participation in our surveys and promotions, and your submission of information, serves as your consent to these practices;</li><br>
+<li class="textA12">Some features of our Sites allow users to make data public or engage in other sharing. For example, if you post content or otherwise participate in discussion forums or other social areas of our Sites, your participation (including the content you post, your name, and a link to your profile) may be shared across our Sites and in other public or private areas of the internet.</li>
+</ul><br>
+Collecting information through automated means allows us to collect statistics about the usage and effectiveness of our Sites, personalize your experience on our Sites, and tailor our interactions with you. For details regarding the technologies we employ, see our <a href="/about/policies/cookies_policy.cfm">Cookies Policy</a>, and the section below regarding Cookies, Web Beacons and Similar Technologies.<br><br><br>
+<a name="use"></a>
+<strong>How Will We Use Your Information?</strong> (<a href="#top">top</a>)<br><br>
+SMCI may use your personal information in the following ways:
+<ul class="zero">
+<li class="textA12">Account Maintenance – We may use your information to identify you, ship products to you, contact you and provide billing services.</li><br>
+<li class="textA12">E-mail – If you choose to be contacted by email, we may use your email information to communicate questions, respond to inquiries, and distribute information about SMCI and our products and services that may be of interest to you. You may choose not to receive marketing materials from us at any time by following the unsubscribe instructions included in the Email Notifications section below.</li><br>
+<li class="textA12">Transactions – If you request something from SMCI, such as a product, service, callback, or marketing materials, we may use the information you provide to fulfill your request. To help us complete your transaction, we may share information with others such as business partners, financial institutions, credit reference agencies, shipping companies, suppliers, resellers, or customs authorities.</li><br>
+<li class="textA12">Customer Feedback and Support – We may use your information to provide a mechanism for your feedback or to contact you regarding support for our products and services, including product updates for fixes.</li><br>
+<li class="textA12">Personalizing your Experience on our Sites – We may use information we collect about you to provide a personalized experience on our Sites, such as providing you with content which you may be interested in, and to make our Sites easier for you to navigate.</li><br>
+<li class="textA12">Aggregate/De-Identified Information - We may aggregate and/or de-identify your information so that such information can no longer be linked to you or your devices (Aggregate/De-Identified Information). We may use Aggregated/De-Identified Information for any purpose, including without limitation, research and marketing purposes. We may also share such data with any third parties, including advertisers, promotional partners, sponsors, event promoters, and/or others.</li><br>
+<li class="textA12">Combined Information - You consent that, for the purposes discussed in this Privacy Statement, we may combine the information that we collect with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Privacy Statement.</li>
+</ul><br>
+<br>
+<a name="share"></a>
+<strong>How We Share Your Information</strong> (<a href="#top">top</a>)<br><br>
+Your personal data may be shared with others as described below:
+<ul class="zero">
+<li class="textA12">We may disclose your personal data to any member of our group of companies, affiliates, resellers, suppliers, and service providers as reasonably necessary for the purposes, and on the legal bases, set out in this Privacy Statement.</li><br>
+<li class="textA12">We may disclose your personal data to our insurers and professional advisers as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defense of legal claims, whether in court proceedings or other legal proceedings.</li><br>
+<li class="textA12">We may disclose your personal data with our payment services providers to complete financial transactions. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds.</li><br>
+<li class="textA12">In addition to the specific disclosures of personal data set out in this section, we may disclose your personal data; (a) where such disclosure is necessary for compliance with a legal obligation to which we are subject, (b) enforce our Terms of Service, this Privacy Statement, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; and/or (e) protect the rights, property or personal safety of SMCI, its agents and affiliates, its users and/or the public. This includes exchanging information with other companies and organizations for fraud protection, spam/malware prevention, or in order to protect your vital interests or the vital interests of another natural person.</li><br>
+<li class="textA12">We reserve the right to transfer your personal information in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will require that the transferee use personal information you have provided in a manner consistent with our privacy Privacy Statement and the applicable legal framework.</li>
+</ul><br>
+<br>
+<a name="transfer"></a>
+<strong>International Data Transfers</strong> (<a href="#top">top</a>)<br><br>
+SMCI is a global business based in the United States. SMCI and our affiliated companies have offices and facilities in the United States, the Netherlands, and Taiwan. Transfers of your personal data to each of these countries will be protected by appropriate safeguards, namely the use of Standard Contractual Clauses adopted or approved by the European Commission.<br><br>
+Our customers and the users of our Sites may be located anywhere in the world. The privacy laws in some countries may not provide protections equivalent to those in your country of residence, and your government may or may not deem such privacy protections adequate. We may process your information in, or transfer your information to, the United States, third parties in the United States, or other countries.<br><br><br>
+<a name="security"></a>
+<strong>Security</strong> (<a href="#top">top</a>)<br><br>
+There is no perfect security. We have implemented certain physical, technical, and administrative measures to help prevent unauthorized access, use and disclosure of your information, but we cannot promise that these measures will work. You are responsible for maintaining the secrecy of any credentials that can be used to access your account with SMCI, and you should report suspected unauthorized activity to us immediately.<br><br><br>
+<a name="third"></a>
+<strong>Third Party Links</strong> (<a href="#top">top</a>)<br><br>
+We may collect your information from third parties. This includes you logging in through a third party site such as a reseller website, a referring site, Facebook, Snapchat, Instagram, LinkedIn, Twitter, etc. We may also disclose information collected from third parties to customize ads and to manage and facilitate messaging on third party sites. We do not control the privacy practices of third parties. We encourage you to review the privacy policies of third party sites for more information regarding their applicable privacy practices.<br><br><br>
+<a name="retention"></a>
+<strong>Data Retention</strong> (<a href="#top">top</a>)<br><br>
+We will keep your personal data while we are providing our products and services to you. Thereafter, we will keep your personal data for one of these reasons: (a) to respond to any questions, complaints or claims made by you or on your behalf; (b) to show that we treated you fairly; and/or (c) to keep records required by law.<br><br>
+We will not retain your data for longer than necessary for the purposes for which it was collected as set out in this privacy notice. In determining data retention periods, we take into consideration local laws, contractual obligations, our reasonable business requirements, and your expectations and requirements. When it is no longer necessary to retain your personal data, we will securely delete or anonymize it.<br><br><br>
+<a name="children"></a>
+<strong>Information Submitted by Children</strong> (<a href="#top">top</a>)<br><br>
+SMCI does not knowingly collect personal information from children under the age of 13. If SMCI learns that it possesses information from a child under the age of 13, we delete that information from our systems. If you are a parent or guardian and are aware that your child has provided us with personal information, please contact us so that we will be able to take the necessary actions to delete such data.<br><br><br>
+<a name="cookies"></a>
+<strong>Cookies, Web Beacons and Other Technologies</strong> (<a href="#top">top</a>)<br><br>
+SMCI's Sites use Cookies. Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are useful because they allow a website to recognize a user’s device. Cookies help with a variety of website functions including allowing users to “log in” to websites (making your navigation of websites more efficient), remembering your preferences (such as language), and generally improving your experience on our Sites. Cookies can also help ensure that the advertisements and content you see online are more relevant to you and your interests. We may also include web beacons in marketing e-mail messages or our newsletters in order to determine whether messages have been opened and links contained within clicked on.<br><br>
+Some of our business partners set web beacons and Cookies on our site. In addition, third-party social media buttons may log certain information such as your IP address, browser type and language, access time, and referring website addresses. Further, if you are logged in to those social media sites, they may also link such collected information with your profile information on that site.<br><br>
+If you would like to opt-out of cookies, visit www.aboutcookies.org or www.allaboutcookies.org for further information. These websites also tell you how to set your browser not to accept cookies and how to remove cookies from your browser. However, in a few cases, some of the features on our Sites may not function as a result. More information on our use of cookies can be found in our <a href="/about/policies/cookies_policy.cfm">Cookies Policy</a>.<br><br><br>
+<a name="donottrack"></a>
+<strong>Do Not Track</strong> (<a href="#top">top</a>)<br><br>
+SMCI does not track its customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, you may be able to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked.<br><br><br>
+<a name="notification"></a>
+<strong>Email Notifications</strong> (<a href="#top">top</a>)<br><br>
+You may choose not to receive commercial emails from us by following the unsubscribe instructions contained in the commercial emails we send. You may also email us directly at <a href="mailto: webmaster@supermicro.com?subject=Unsubscribe Email Request&amp;body=Your%20Name:%0DEmail to be unsubscribed:%0DRequest:%0D">webmaster@supermicro.com</a> at any time if you would like to unsubscribe from our email service. Please note that even if you unsubscribe from commercial email messages, we may still email you regarding your account and your transactions.<br><br><br>
+<a name="mobile"></a>
+<strong>Using Mobile and Other Devices</strong> (<a href="#top">top</a>)<br><br>
+SMCI, or third parties that we have engaged, may collect and store unique identifiers matched to your mobile device in order to deliver customized ads or content while you use our Sites, navigate the internet, or to identify you in a unique manner across devices or browsers. In order to customize these ads or content, we, or third parties, may collect your information, e.g., your email address, or data passively collected from you such as your device identifier or IP address.<br><br>
+By adjusting the privacy and security settings on your device, you can manage how your mobile device and mobile browser share information, as well as how your mobile browser handles Cookies and other tracking identifiers. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings.<br><br><br>
+<a name="marketing"></a>
+<strong>Marketing Communications</strong> (<a href="#top">top</a>)<br><br>
+At SMCI we take your privacy seriously and will only use your personal information to administer your account and to provide the products and services you have requested from us. By making contact with SMCI and submitting information in the Inquiry Data, you indicate your consent that we may process that information for the purposes of offering, marketing and selling relevant goods and services to you. SMCI may share information with affiliates, resellers, suppliers, and service providers who to provide products and services that help market to customers or provide other requested customer services. You can also request us to send you marketing communications through managing your preferences in your account. If you have consented to receive marketing, you can unsubscribe yourself at any time from services to which you have subscribed by contacting us via email at <a href="mailto: webmaster@supermicro.com?subject=Unsubscribe Request&amp;body=Your%20Name:%0DEmail to be unsubscribed:%0DRequest:%0D">webmaster@supermicro.com</a>. Unsubscribing yourself from our Marketing material will not negatively impact the services you have requested.<br><br><br>
+<a name="control"></a>
+<strong>Your Access To and Control Over Your Information</strong> (<a href="#top">top</a>)<br><br>
+You can inquire about your personal information, ask the following questions, or take the following actions by contacting us via email at <a href="mailto: webmaster@supermicro.com?subject=Inquiry About Personal Information&amp;body=Your%20Name:%0DNature of the Inquiry:%0DRequest:%0D">webmaster@supermicro.com</a> or via the address or phone number on our Sites to:
+<ul class="zero">
+<li class="textA12">See what information we have about you if any,</li>
+<li class="textA12">Change/correct any information we have about you,</li>
+<li class="textA12">Have us delete any information we have about you,</li>
+<li class="textA12">Express any concerns you have about our use of your information.</li>
+</ul><br>
+Under certain conditions, you may have the right to request from SMCI, among other things:
+<ul class="zero">
+<li class="textA12">The right to access your personal data;</li>
+<li class="textA12">The right to rectification of your personal data;</li>
+<li class="textA12">The right to erasure of your personal data;</li>
+<li class="textA12">The right to restrict processing of your personal data;</li>
+<li class="textA12">The right to object to processing of your personal data;</li>
+<li class="textA12">The right to data portability of your personal data;</li>
+<li class="textA12">The right to unsubscribe from marketing material at any time;</li>
+<li class="textA12">The right to withdraw consent; and</li>
+<li class="textA12">The right to complain to a supervisory authority.</li>
+</ul><br>
+For more information on the full extent of your rights or to exercise your rights, please contact our Data Protection Officer by mail to the address below or e-mail at <a href="mailto: privacy@supermicro.com?subject=Request Information">privacy@supermicro.com</a>.<br><br>
+<a name="rights"></a>
+<strong>Your California Privacy Rights</strong> (<a href="#top">top</a>)<br><br>
+Subject to certain limits under California Civil Code § 1798.83, if you are a California resident, you may ask us to provide you with (i) a list of certain categories of personal information (as defined in the Civil Code) that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of the third parties that received personal information from us for their direct marketing purposes during that calendar year. To make such a request, please contact us at <a href="mailto: privacy@supermicro.com?subject=Request Information">privacy@supermicro.com</a>.<br>
+<br><br>
+<a name="changes"></a>
+<strong>Changes to Our Privacy Statement</strong> (<a href="#top">top</a>)<br><br>
+Any material changes to this Privacy Statement will be posted on our webpage. It is your responsibility to review our Privacy Statement each time you provide Personal Information to us as the Privacy Statement may have changed since the last time you used our Sites or services.<br><br><br>
+<a name="contact"></a>
+<strong>How To Contact Us</strong> (<a href="#top">top</a>)<br><br>
+If you have questions about SMCI’s privacy policies and practices, please e-mail us at <a href="mailto: privacy@supermicro.com?subject=Question about SMCI Privacy Policies">privacy@supermicro.com</a>.<br><br>
+<strong><a href="/about/contact/">Super Micro Computer, Inc.</a></strong><br>
+980 Rock Ave. San Jose, CA 95131-1615, USA<br>
+Privacy Questions/Data Subject Requests: <a href="mailto:privacy@supermicro.com?subject=Question about SMCI Privacy Policies">Privacy@Supermicro.com</a><br>
+General Info: <a href="mailto:marketing@supermicro.com">Marketing@Supermicro.com</a><br>
+Tech Support: <a href="mailto:support@supermicro.com">Support@Supermicro.com</a><br>
+Webmaster: <a href="mailto:webmaster@supermicro.com">Webmaster@Supermicro.com</a><br><br><br>
+<a name="complaints"></a>
+<strong>Complaints</strong> (<a href="#top">top</a>)<br><br>
+In accordance with the GDPR, if you believe your data was unlawfully processed by SMCI, you may lodge a complaint with the appropriate Data Protection Authority.<br><br><br>
+<a name="officer"></a>
+<strong>Data Protection Officer</strong> (<a href="#top">top</a>)<br><br>
+Our data protection officer's contact details are:<br>
+Name: David Weigand<br>
+Email: <a href="mailto: DavidWeigand@supermicro.com">DavidWeigand@supermicro.com</a><br>
+Postal Address: 980 Rock Avenue, San Jose, CA 95131<br><br><br>
+<a name="new"></a>
+<strong>What's New?</strong> (<a href="#top">top</a>)<br><br>
+Effective May 25, 2018, we changed our Privacy Statement to clarify the types of information we collect about you, the ways we collect your information and how we may use and share your information.<br><br>
+Here is a summary of the changes:
+<ol class="zero">
+<li class="textA12">We will now use the term “Sites” to describe our website, mobile apps, blogs, etc. as well as third party websites, mobile apps, social media sites,</li><br>
+<li class="textA12">We clarify the types of information we collect about you and the ways we collect this data. We collect information in many ways, including from third party sites, social media sites, and advertising networks.</li><br>
+<li class="textA12">We describe how we share and use your information whether collected by our Sites, or other websites, including social media sites and advertising partners, for the purposes of ad targeting, remarketing and customizing ad content.</li><br>
+<li class="textA12">We describe our use of email communications and text messaging and how to opt out and/or control these communications.</li><br>
+<li class="textA12">We notify users as to their rights under the California Shine the Light law.</li><br>
+<li class="textA12">We clarify that your information may be transferred across international borders for processing and other uses.</li><br>
+<li class="textA12">We clarify how we share your information with our suppliers, third party vendors and referring Sites.</li><br>
+<li class="textA12">We describe our use of Cookies and other tracking technologies. We will detail how these technologies work and how we may use and share the information we collect from these technologies.</li><br>
+<li class="textA12">We include information on Do Not Track signals.</li><br>
+</ol><br><br>
+</td></tr>
+</tbody></table>
+<img src="/a_images/pixel.gif" width="353" height="1" border="0" alt=""> 
+</td>
+<td width="36" background="/a_images/vertRule.gif"><img src="/a_images/pixel.gif" width="36" height="1" border="0" alt=""></td>
+</tr>
+</tbody></table></td>
+</tr>
 
 <!-- Pearl add this block on Ma 24 2013 -->
-    <script type="text/javascript" src="/lib/flash.js"></script>
-	<script type="text/javascript"> 
-	if(!FlashDetect.installed){
-        document.getElementById("flash").style.display="none";		
-	}else{
-		document.getElementById("flash").style.display="block";		
-	}
-	</script>
-	<!-- End of Pearl add this block on Ma 24 2013 -->
-
-  <!-- Row 9 -->
- 
-
-
-  <tr>
-    <td width="930" height="20" align="right" valign="middle" style="background-image:url('/a_images/banner/bottom_logo.jpg');background-repeat:no-repeat;">
-    
-      <table width="926" height="42" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td width="775" height="5" align="left" valign="middle" class="textWhite" style="padding-left:5px;">
-			<!--<img src="/a_images/pixel.gif" width="5" height="65" alt="" align="left" border="0">-->
-
-
-
-			<a href="/about/policies/index.cfm" class="textWhite">Terms &amp; Conditions</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/about/policies/privacy.cfm" class="textWhite">Privacy</a>  &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://ir.supermicro.com/" class="textWhite">Investor Relations</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/applyjob" class="textWhite">Jobs</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/about/sitemap/" class="textWhite">Site Map</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/newsroom/social_media/" class="textWhite">Follow Us</a>
-			<br>
-			<a href="/products/system/index.cfm" class="textWhite">SuperServer®</a> | <a href="/products/motherboard/index.cfm" class="textWhite">Motherboards</a> | <a href="/products/chassis/index.cfm" class="textWhite">Chassis</a> | <a href="/products/rack/index.cfm" class="textWhite">SuperRack®</a> | <a href="/products/SuperBlade/index.cfm" class="textWhite">SuperBlade®</a> | <a href="/products/embedded/index.cfm" class="textWhite">Embedded</a> | <a href="/products/nfo/networking.cfm" class="textWhite">Networking</a> | <a href="/products/nfo/storage.cfm" class="textWhite">Storage</a> | <a href="/products/accessories/index.cfm" class="textWhite">Accessories</a> | <a href="/aplus/index.cfm" class="textWhite">AMD Solutions</a> | <a href="/products/nfo/power_supply.cfm" class="textWhite">Power Supplies</a><br>&nbsp;<br>
-            Copyright © 2018 Super Micro Computer, Inc.  Information in this document is subject to change without notice. <br>
-            Other products and companies referred to herein are trademarks or registered trademarks of their respective companies or mark holders.<br><br>
-
-
-          </td>
-          <td width="149" style="float:right;padding-top:0" valign="top" class="textWhite">
-
-          <a href="/manuals/SUPERMICRO_Logo_Guidelines.pdf" target="_blank">
-
-         <img src="/a_images/pixel.gif" width="140" height="75" alt="" align="right" border="0"></a>
-          
-          </td>
-        </tr>
-
-      </tbody></table>
-    </td>
-  </tr>
-	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-							
-  ga('create', 'UA-341778-1', 'auto');
-
-
-	if(typeof SMCISearchKeyword !== "undefined"){
-		ga('send', 'pageview', '/SearchToolkit/Search/Results.php?q=' + SMCISearchKeyword);
-	} else{
-  	ga('send', 'pageview');
-	}
-  
+<script type="text/javascript" src="/lib/flash.js"></script>
+<script type="text/javascript"> 
+if(!FlashDetect.installed){
+document.getElementById("flash").style.display="none";	
+}else{
+document.getElementById("flash").style.display="block";	
+}
 </script>
+<!-- End of Pearl add this block on Ma 24 2013 -->
+<!-- Row 9 -->
+<tr>
+<td height="20" align="left" valign="middle" style="width:100%; background-image:url('/a_images/banner/bottom_logo.jpg');background-repeat:no-repeat;">
 
+
+<table width="926" height="42" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="775" align="left" valign="top" class="textWhite">
+<div id="langholder">
+<form method="POST" name="Selectlg" action="">
+<select name="lgus" class="sup" onchange="document.Selectlg.submit();">
+<option value="1" selected="selected">English</option>
+<option value="2">繁體中文</option>
+<option value="3">簡体中文</option>
+<option value="4">日本語</option>
+</select>
+</form>
+</div>
+</td>
+<td width="149" align="center" valign="top" class="textWhite" rowspan="3">
+<a href="/manuals/SUPERMICRO_Logo_Guidelines.pdf" target="_blank">
+<img src="/a_images/pixel.gif" width="140" height="75" alt="" align="right" border="0"></a><br>Click for Logo Guidelines
+</td>
+</tr>
+<tr>
+<td align="left" valign="center" class="textWhite" style="padding-left:5px;">
+<a href="http://ir.supermicro.com/" class="textWhite">Investor Relations</a> &nbsp;&nbsp;
+|&nbsp;&nbsp; <a href="/applyjob" class="textWhite">Jobs</a> &nbsp;&nbsp;
+|&nbsp;&nbsp; <a href="/about/sitemap/" class="textWhite">Site Map</a> &nbsp;&nbsp;
+|&nbsp;&nbsp; <a href="/newsroom/social_media/" class="textWhite">Follow Us</a> &nbsp;&nbsp;
+|&nbsp;&nbsp; <a href="/about/policies/index.cfm" class="textWhite">Terms &amp; Conditions</a> &nbsp;&nbsp;
+|&nbsp;&nbsp; <a href="/about/policies/privacy.cfm" class="textWhite">Privacy</a>
+</td>
+</tr>
+<tr>
+<td align="left" valign="center" class="textWhite" style="padding-left:5px; padding-bottom:5px;">
+<span>
+Copyright <sup>©</sup> 2018 Super Micro Computer, Inc. Information in this document is subject to change without notice. <br>
+Other products and companies referred to herein are trademarks or registered trademarks of their respective companies or mark holders.
+</span>
+</td>
+</tr>
 </tbody></table>
-
-
+</td>
+</tr>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-341778-1', 'auto');
+if(typeof SMCISearchKeyword !== "undefined"){
+ga('send', 'pageview', '/SearchToolkit/Search/Results.php?q=' + SMCISearchKeyword);
+} else{
+ga('send', 'pageview');
+}
+</script>
+</tbody></table>
 
 
 </td></tr></tbody></table></div></body></html>
