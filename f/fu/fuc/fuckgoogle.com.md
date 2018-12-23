@@ -1,101 +1,97 @@
-> *The following text is extracted and transformed from the fuckgoogle.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319164854id_/http%3A//buzzour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckgoogle.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223105404id_/http%3A//www.perfect10dating.com/privacy) for the most accurate reproduction.*
 
-# Buzzour Privacy
+# Perfect 10 dating
 
-THE FOLLOWING PRIVACY POLICY DETAILS THE MONETIZE.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE.
+This privacy policy ("Privacy Policy") describes Natural Intelligence("NI”, "we", "our" or "us") information practices in connection with the website www.perfect10dating.com (together with its subdomains, features, and services available thereon, the "Site"). The section and sub-section headings used below are for convenience of reading only (and are not to be used for interpretive purposes), and we hope they make navigating this Privacy Policy easier.
 
-Effective Date: January 19, 2015
+Generally speaking, we receive information because:  
+(a) You have provided it to us;  
+(b) We collect it from you in accordance with the provisions contained hereunder; and/or   
+(c) Third parties we engage (such as data analytics providers) collect it from you on our behalf. This happens in cases where we use or deploy third party technology, or where we otherwise give these third parties access to our Site or technology. So where we describe below in Section 4 (Information We Collect from You) the ways in which we collect information from you, you acknowledge that such collection may also be carried out by third parties, and such third parties may have their own privacy policies and therefore won't necessarily adhere to this Privacy Policy.  
+The information we receive may be about you as well as the ways in which you use the Site. For the purposes of this Privacy Policy, "Personal Information" means information that may be used, either alone or in combination with other information, to personally identify an individual, such as a first and last name, an email address, phone number, a home or other physical address, and other contact information. 
 
-This privacy policy describes how Monetize.com, Inc. ("Monetize.com") collects and uses the personal information you provide on our website, Buzzour.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+#### **Terms of Use**
 
-### What type of information does Monetize.com collect?
+This Privacy Policy forms part of the Site's Terms of Use (the "Terms of Use"), a copy of which can be viewed at Terms of Use. Any capitalized term in this Privacy Policy that we don't define, shall have the meaning given to it in the Terms of Use.
 
-Monetize.com only collects data to enhance and personally tailor Buzzour.com to meet your needs. The information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Monetize.com utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
+#### **Consent and Modification**
 
-Your IP address helps Monetize.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize Monetize.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+You are not legally obligated to provide us with Personal Information (and you acknowledge that providing us with Personal Information is done freely). Nor are you required to use the Site in the first place. By using the Site you consent to this Privacy Policy and to our information practices described herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Site. We reserve the right, in our sole and absolute discretion, to change this Privacy Policy at any time.
 
-We collect the following personal information from you if ONLY you choose to be a Buzzour Publisher:
+#### **Information You Provide To Us.**
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information
-
-
-
-### What does Monetize.com do with my data?
-
-If you do provide us your email address during the Buzzour Publisher sign up process, we may use this to offer inform you of new features, allow you to register for special offers, newsletters considered to be for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email info@Buzzour.com.
-
-Also note that your email address helps Monetize.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. The personal information that you enter is owned by Monetize.com.
-
-We may also disclose your personal information
-
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * to any other third party with your prior consent to do so.
-  * if Monetize.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+Currently, we require you to provide us with certain types of information in order to use the Site and some of its features and services. Here are some examples:  
+a)Lead Generation  
+The Site lists and compares various businesses and commercial entities (collectively, "Partners") and their respective products and/or services (collectively, "Products"). If you want to receive more information about a Partner or a Product, or if you otherwise want to pursue a transaction with a Partner, and you click the relevant Partner icon or tab, you may be directed to a landing page that is owned and operated by the Partner (the "Landing Page"); similarly, you may also be directed to the Landing Page through other websites and online searches. In either case, however, you may be prompted to submit certain information on the Landing Page, including Personal Information such as your name, email address, and phone number (such information collectively, "Landing Page Info").  
+b)Contact Us  
+If you send us a ‘Contact Us’ (or similar) request, whether by submitting an online form that we make available, by sending an email to an email address that we display, by using a feedback or reporting feature, or by other means, you may be required to provide us with certain Personal Information, such as your name and email address.  
+c)Blogs, Newsletters, Surveys and Promotions  
+The Site may contain a blog forum, reviews, and articles displaying information about our services, Partners, Products, and the relevant market vertical. The Site may also offer you the opportunity to subscribe to newsletters and participate in surveys and other promotional activities (some of which may be administered by us, and some of which may be administered by third parties we engage, such as TrustPilot). In each of the foregoing cases, your interaction (such as responding on the blog forum, subscribing to a newsletter, or participating in a survey) may require you to provide certain Personal Information such as your name and email address.  
 
 
+#### **Information We Collect From You.**
 
-### Cookies
+We collect information (including Personal Information) from you in the following ways:  
+a)Log Files; Device and Usage Data  
+We collect information through server log files, but also by deploying tracking technologies within the Site (which may include tracking technologies of Partners). We do this to analyze trends, track user movement around the Site and user clicks through to other websites, gather demographic information, and to generally collect information that we may find insightful or helpful. The type of information collected may include (but is not limited to) internet protocol (IP) addresses, MAC address, device type, browser type, browser version, operating system type, screen resolution, user agent, user identifier, user language, URLs and traffic channels (such as the previous URLs or platforms you visited), keyword searches and bids, city, region code, country, latitude, gender, age, Internet Service Provider (ISP), date/time stamp of Site use, referring/exit pages, clicks, timing for clicks and page-views, and clicked pages.  
+b)Cookiesand Other Tracking Technologies  
+The Site may use "cookies" and other tracking technologies (such as "web beacons" and "pixel tags"). Please refer to our cookie policy for more information about the manner in which we use cookies/tracking technologies on our Site.  
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+#### **The Way We Use Personal Information.**
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+The Way We Use Personal Information. In addition to the uses of Personal Information described elsewhere in this Privacy Policy, we also use Personal Information in the following ways:  
+**Partners and Products**  
+We may send or otherwise share your Landing Page Info to/with the Partner about whom (or about whose Product) you wanted to receive more information or with which you have expressed interest in pursuing a transaction (the "Corresponding Partner" and "Corresponding Product", respectively). If your submission of Landing Page Info was not in respect of a specific Partner or Product that you clicked through, then we may send or otherwise share your Landing Page Info to/with multiple Partners. In either case, you acknowledge that: (a) the Partners may contact you using the Landing Page Info which you submitted; (b) we do not control the way in which s Partner may contact you, or the subject matter of such contact; and (c) each Partner is required to have its own privacy policy, and so it won't necessarily adhere to this Privacy Policy (that being said, we do try to engage Partners that post a privacy policy which is similar in form and substance to ours); and (d) Partners may be based (and their servers may be located) anywhere in the world. We may also contact you to discuss and share information about Partners and their respective Products, as well as about partners, products, and services listed on other websites that are affiliated with us. The way in which we contact you may be via email, phone, cell phone (including use of automated dialing equipment and pre-recorded calls and messages), and/or text messages (SMS/MMS), and we may contact you using Landing Page Info as well as Personal Information collected from you as described in Section 3.4 (Blogs, Newsletters, Surveys and Promotions).  
+**To Generally Provide You With the Site**  
+We will use your Personal Information to: (a) administer and make available the Site to you; (b) further develop and generally improve the Site; (c) send you updates, promotions, offerings, or other news of/about the Site; (d) respond to your inquiries and other communications with you; (e) identify or authenticate your access and use of the Site; and/or (f) send you advertisements or other third party marketing content.  
+**Transfer to Affiliates**   
+We may send or otherwise share your Personal Information to/with our affiliated entities for the purpose of storing such information on our behalf, or for other processing needs. These affiliated entities may be based (and their servers may be located) anywhere in the world. We require these affiliated entities to agree to process such Personal Information in accordance with this Privacy Policy and applicable law.  
+**Third Parties**   
+We may send or otherwise share your Personal Information to/with various third parties that help us with our business operations (for example, customer service operators and email administration providers), that help us understand how our users use the Site, and to improve the Site generally. These third parties may have their own privacy policies that they adhere to, so they won't necessarily adhere to this Privacy Policy; however, we do try to engage third parties that post a privacy policy. Also, these third parties may be based (and their servers may be located) anywhere in the world. See Schedule1 page attached below for examples of third parties we engage.   
+**Enforcement**   
+We may share your Personal Information with any third party if we believe that disclosure of such information is helpful or reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or governmental request; (b) enforce the Terms of Use, including investigations of potential violations thereof; (c) detect, prevent, or otherwise address fraud or security issues; and/or (d) protect against harm to the rights, property or safety of NI, our affiliated entities, our users, yourself, and/or the public.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited.
+#### **Publicly Available Information.**
 
-### Third Party Cookies
+Any content that you make publicly available on or via the Site will be also be publicly available to other users of the Site. If you actively or passively allow your contact information to be public, you may receive unsolicited messages or activity from other users of the Site. We therefore encourage you only to post information that you are sure you want to be publicly accessible. 
 
-The use of cookies by third parties is not covered by our Privacy Policy. We do not have access or control over these cookies.
+#### **Access and Accuracy; Deletion**
 
-### Clear Gifs (Web Beacons/Web Bugs)
+We would like to maintain accurate Personal Information. If you would like to delete or correct your Personal Information that we may be storing, please contact us at contact@perfect10dating.com request deletion (although we do not undertake to respond to, or otherwise implement, the request within any specific period of time). 
 
-We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows Monetize.com a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual.
+#### **Opt-Out**
 
-### Security
+You may choose not to receive future promotional, advertising, or other Site-related emails from us by selecting an unsubscribe link at the bottom of each email that we send. Please note that even if you opt out of receiving such emails, we may still send you administrative emails to facilitate your use of the Site.
 
-The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our online forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+#### **Links to and Interaction with Third Party Properties**
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at copyright@Monetize.com.com.
+The Site may link to third party websites (such as those of Partners), content, and other online properties (collectively, "Third Party Properties"). Data associated with your clicking through to such Third Party Properties, as well as any Personal Information you provide on such Third Party Properties, is provided to the third party (although NI and its affiliated entities may have arrangements with such third parties pursuant to which such data and Personal Information is sent or shared back to/with us). We are not responsible for the privacy practices of such third parties, or for such Third Party Properties, and we encourage you to read the terms and conditions and privacy policy of each Third Party Property that you choose to use or interact with.
 
-### Public Forums
+#### **Children’s Privacy**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at copyright@Monetize.com.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+The Site is not designed to attract children under the age of 16. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 16. If we learn that we have collected Personal Information from a child under 16, we will use commercially reasonable efforts to delete that information as quickly as possible. If you believe that we might have any such information, please contact us at contact@perfect10dating.com.
 
-### Who else gets to see my personal information?
+#### **Security**
 
-When you request services from our business partners Monetize.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about a Monetize.com business partner, you may contact them directly. Monetize.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with Monetize.com owned businesses.
+We implement data security systems and procedures to secure the information stored on our computer servers and systems. Such systems and procedures reduce the risk of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that the Site is immune to unauthorized access to the information stored therein and to other information security risks. If you have any questions about the security on the Site, you can contact us at contact@perfect10dating.com.
 
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+#### **Merger, Sale or Bankruptcy**
 
-### How do I delete my information from Buzzour?
+In the event that NI or one of our affiliated entities is acquired by, or merged with, a third party entity, or otherwise sells all or part of our/its assets, we may (and hereby reserve the right to) transfer or assign the Personal Information and other information we have collected or received. In the event of a bankruptcy, insolvency, receivership, or comparable event, we may not be able to control how your Personal Information is treated, transferred, or used.
 
-If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing copyright@Monetize.com.com or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at info@Buzzour.com.
+#### **Commitment**
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@Buzzour.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Protecting your privacy online is an evolving area, and we try to evolve our Site to meet these demands. From time to time, we may change the terms of this policy. Changes will take effect once they are posted online and by accessing and/or using the Site after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. If you do not agree with any of the amended terms, you must avoid any further use of the Site offered by us. If you have any comments or questions regarding our Privacy Policy, please contact us at contact@perfect10dating.com
 
-At this current time it is not possible to completely delete all of the user information from the Monetize.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+#### **California Privacy Rights**
 
-### Will I be notified of a security breach?
+California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to contact@perfect10dating.com. Please note that we are only required to respond to one request per customer each year.
 
-Monetize.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+#### **Our California Do Not Track Notice**
 
-### Do linked sites honor your policy?
+We do not currently respond or take any action with respect to web browser “do not track” signals or other mechanisms that provide users the ability to exercise choice regarding the collection of Personal Information about that user's online activities over time and across third-party web sites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect Personal Information about an individual consumer’s online activities over time and across different web sites and services when a user uses the Site.
 
-Linked sites are not run or controlled by Monetize.com. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. Monetize.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+#### **Deletion of Content from California Residents**
 
-### Monetize.com will notify you of changes
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-### Contacting Monetize.com
-
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives by email at copyright@Monetize.com.com. Alternatively, you may contact via phone at (818) 333-4000 or if you prefer to contact us by mail, please do so at the following address:
-
-Monetize.com Inc.  
-701 S Carson St. Ste 200  
-Carson City, NV 89701
+If you are a California resident under the age of 18, California Business and Professions Code Section 22581 may permit you to remove content or information you have publicly posted. If you wish to remove such content or information and you specify which content or information you wish to be removed, we will do so in accordance with applicable law. Please be aware that after removal you will not be able to restore removed content or information. In addition, such removal does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require us to enable removal of the content or information.
