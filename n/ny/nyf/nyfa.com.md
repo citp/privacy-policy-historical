@@ -1,63 +1,41 @@
-> *The following text is extracted and transformed from the nyfa.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122173847id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfa.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224001013id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.*
 
 # New York Film Academy - Privacy Policy
 
-**What information do we collect?**  
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
+**Digital Privacy Statement of the New York Film Academy**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or social security number. You may, however, visit our site anonymously.
+**Digital Web and Mobile Privacy Statement**  
+New York Film Academy (NYFA) is committed to the right to privacy, including the digital privacy through web and mobile services. This privacy statement concerns the collection and use of information collected through official NYFA websites and other digital channels.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Gathering and Use of Information**  
+Personally Identifiable Information  
+Personally identifiable information (PII) will not be collected while you visit websites or other digital channels of the New York Film Academy unless voluntarily provided by you. You may be requested to provide personally identifiable information when accessing academic records, password-protected websites, joining mailing lists, or engaging in payment transactions with the Academy. This information may be used for related purposes, including responding to requests for information or services, or communicating information that may be of value or interest to you. Your information will not be shared by NYFA with third parties.
 
-**What do we use your information for?**  
-Any of the information we collect from you may be used in one of the following ways:
+Non-Personally Identifiable Information  
+Depending on the type and use of your web browser, information may be given by your web browser and collected into server logs by the Academy while you visit NYFA websites and other digital properties, including IP addresses. Standard information about your computer, including the type of web browser and operating system in use, may also be collected. Your usage of NYFA websites and digital properties, such as pages visited, search queries, and length of visits, may also be collected. This information is non-personally identifiable information and can be used to help diagnose technical issues and suggest digital solutions for improving NYFA websites and other digital channels. 
 
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**Cookies**  
+Portions of NYFA websites and digital properties may use “cookies,” or the text files sometimes transferred to your digital device through your web browser. Cookies are used to save your preferences as well as to track statistics on usage of certain parts of NYFA websites and other digital channels. The Academy’s use of cookies does not involve the collection of personally identifiable information.
 
-• To send periodic emails  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+By changing the selection settings of your particular web browser, you have the option not to accept cookies and can block or restrict the use of cookies. Cookies already saved can also be deleted through your browser preferences & settings.
 
-**How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+You can choose not to accept cookies by selection settings on your web browser that block or restrict the use of cookies. You can also delete cookies that have been placed on your computer or device.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.
+**Sharing Your Information**  
+Any personally identifiable information collected by NYFA will not be shared, sold, or rented out to third parties and will be treated in compliance with federal and state laws and regulations concerning PII and digital privacy. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+In cases when NYFA has personally identifiable information (PII) about you, we will not sell, rent, or share that PII and will treat it in compliance with federal and state laws and regulations.
 
-**Do we use cookies?**  
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**Advertising**  
+NYFA may work with third party vendors to show our advertisements on non-NYFA websites and digital properties. NYFA and third party vendors with whom we contract may use cookies and web beacons to serve our ads based on your prior visit(s) to NYFA websites and digital properties and to assess the effectiveness of our ads. This is also called Targeted Advertising or Interest-Based Advertising.
 
-We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+**Security**  
+NYFA takes digital privacy very seriously and is committed to maintaining reasonable physical, technical and administrative procedures to secure and safeguard all information collected by the Academy, including from loss, misuse, or alteration of the information. This includes the use of encryption when collecting or transferring sensitive data such as credit card information. Please be aware that despite our best care and efforts, NYFA cannot provide an absolute guarantee as to the security of any information transmitted and collected through NYFA digital services, and any information shared will be done so at your own risk.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+**Changes to this Privacy Statement**  
+NYFA reserves the right to alter or modify this privacy statement in whole or in part at any time. A modified policy would be posted on this page with an accurate and updated effective date.
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Questions**  
+Any questions regarding the digital web and mobile privacy practices of the New York Film Academy can be made to [support@nyfa.edu](mailto:support@nyfa.edu).
 
-**Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**  
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-**Childrens Online Privacy Protection Act Compliance**  
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**  
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. This policy was last modified on 05/09/2011
-
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-<https://www.nyfa.edu/>  
-17 Battery Place, 5th Floor  
-New York, NY 10004  
-[film@nyfa.edu](mailto:film@nyfa.edu)  
-212-674-4300
+**Effective Date: May 21, 2018**
