@@ -1,10 +1,39 @@
-> *The following text is extracted and transformed from the castingcall.club privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119085823id_/https%3A//www.castingcall.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcall.club privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223200024id_/https%3A//www.castingcall.club/privacy) for the most accurate reproduction.*
 
 # Casting Call Club : Terms of Service
 
 #### Privacy Policy
 
- **Privacy Policy**  
+ **PRIVACY POLICY IN PLAIN ENGLISH**  
+ _Okay, here's the deal. This site uses cookies. Here's why:_
+
+  1. We keep track of your session, which lets you login and have an account. We also use it to make your experience better by highlighting projects you've already seen, etc.
+  2. We let third-parties set cookies for analytics. Analytics helps CCC because when we build a new feature and suddenly half of the users over the age of 25 stop using the site, that means the feature was probably not a good idea.
+  3. We let third-parties set cookies for ads. We're not proud of it, but we need ad money to keep the site going. If you hate ads, use ad blocker. No shame in that.
+
+
+
+ _Right, so your personal information. What does this site do with it?_
+
+  1. This site collects your email address. We will never ever ever ever ever ever send your email address to a third-party. It stays in our database. We only use it to email you directly about things you do on this site like when someone messages you, or when new projects are available in your search criteria.
+  2. You can fill in your profile. Anything you put on your public profile is public.
+  3. You can audition/apply for projects. If the project is public, so is your audition.
+
+
+
+ _I bought something from CCC. Where did my credit/card or paypal info go to?_
+
+  1. We use Braintree to process our credit card payments. Braintree is owned by Paypal. None of this information is ever used for anything other than making a transaction.
+
+
+
+ _Can I delete my data?_
+
+  1. Yes. There is a delete account button in the command center.
+
+
+
+ **PRIVACY POLICY IN LEGAL JARGON**  
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
  **Do we use 'cookies'?**  
