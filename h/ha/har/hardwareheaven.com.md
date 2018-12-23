@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwareheaven.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524122851id_/https%3A//www.hardwareheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareheaven.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223031725id_/https%3A//www.hardwareheaven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HardwareHeaven.comHardwareHeaven.com
 
@@ -19,10 +19,11 @@ We may collect the following information:
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
+  * Contact details in competitions.
   * Internal record keeping.
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. We will only contact you if you have opted in to be contacted.
 
 
 
