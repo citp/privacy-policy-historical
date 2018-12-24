@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amazon-affiliate.eu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624070152id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon-affiliate.eu privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224165828id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
-Last Updated: 22 May 2018.
+Last Updated: 31 October 2018.
 
 To view a summary of the previous Privacy Notice please [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202166060). 
 
@@ -27,7 +27,7 @@ We know that you care how information about you is used and shared and we apprec
 
 ##  Controllers of Personal Information
 
-Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 5 Rue Plaetis L-2338, Luxembourg and Amazon Video Limited of 1 Principal Place, Worship Street, London, EC2A 2FA, UK (together "Amazon Europe") are data controllers of personal information collected and processed through Amazon Services. Details can be found ****here. 
+Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 38 avenue John F. Kennedy, L-1855, Luxembourg and Amazon Video Limited of 1 Principal Place, Worship Street, London, EC2A 2FA, UK (together "Amazon Europe") are data controllers of personal information collected and processed through Amazon Services. Details can be found ****here. 
 
 ##  EU-US and Swiss-US Privacy Shield
 
