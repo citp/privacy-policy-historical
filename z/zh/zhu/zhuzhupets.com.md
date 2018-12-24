@@ -1,63 +1,106 @@
-> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508102034id_/http%3A//zhuzhupets.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224162215id_/https%3A//www.spinmaster.com/privacy-policy.php%3FuserLoc%3Dus) for the most accurate reproduction.*
 
-# ZhuZhu Pets — Official Site | Privacy Policy
+# Spin Master - Privacy Policy
 
-Blue Whale Co. LLC ("Blue Whale Co.") is committed to safeguarding your privacy on our website located at [www.zhuniverse.com](http://www.zhuniverse.com/). This Blue Whale Co. Privacy Policy does not apply to products or services provided, or information obtained, other than through the website. Please read this policy to understand how we will treat your information. We may change this policy from time to time so please check back often. If we significantly change our collection, use, or disclosure practices, we will try to send you a notice via e-mail if you have provided us with an e-mail address. Please keep in mind that some of the services mentioned specifically in this policy may not be available on the site at this time. If you have questions concerning this policy, please contact [support@cepiallc.com](mailto:support@cepiallc.com)
+Effective Date November 2012 (last updated May 2018) 
 
-This Privacy Policy is effective as of October 28, 2010.
+## This Privacy Policy applies to our sites and apps.
 
-Your profile information will not be viewable by the public, or any other users, except your parent or guardian.
+This Policy describes how we treat personal information on the websites where it is located. This includes our websites like www.zoomerpup.com. It also applies to our mobile sites and apps. By interacting with us, you consent to these practices.
 
-As part of offering and providing customizable and personalized services, many websites use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies to allow faster and easier access to your account information, monitor traffic on the site and measure traffic patterns to improve the website. Blue Whale Co. Web pages may in the future contain electronic images known as Web beacons (sometimes called clear giffs or Web bugs) or other advanced technologies that are useful in the provision of services to you. We may use such devices to make sure that you follow our terms and conditions of use and any rules for any promotions on the site.
+## Our privacy practices and children.
 
-Our main goal in collecting information is to improve the site and provide you with the best possible experience on the site. For example, by using the information we collect, we can provide you with an easy to use and readily available place to learn about the Zhu Zhu Pets family of products and where to buy them, pre-order Blue Whale Co. products, learn about new products such as Zhu Zhu Babies, meet the Zhu Zhu Pets characters, view videos, track your collection, make wish lists, buy products and participate in fun online games and activities. We will also use your personal information to notify you of other products or services available from Blue Whale Co. and our affiliates.
+Under the Children’s Online Privacy Protection Act, you can review your child’s information by contacting us at [customercare@spinmaster.com](mailto:customercare@spinmaster.com). You may also request that we no longer collect information from your child or have your child’s information deleted. To do so, contact us at the email address or phone number below..
 
-Except as provided in this Privacy Policy, only Blue Whale Co. and our affiliates and service providers and your parent or guardian will have access to your personal account information. We also may do research on our users' demographics and behavior based on the information you provide when you register, information from your activity on the site, information from our server log files or from surveys. We may compile and analyze this information on an aggregated basis, which does not include information identifying individual users.
+## We collect information from and about you and children under 13.
 
-When you are on a Blue Whale Co. site and are asked for personal information, you are sharing that information with Blue Whale Co. and our affiliates and service providers. If personal data is to be collected and/or maintained by any company other than Blue Whale Co. or its affiliates, we will try to notify you on the website or in an updated version of this Privacy Policy. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+**Children's Information.** We collect what is reasonably necessary for kids to participate on our site. This might include gender and age. This might also include an email address. We may also collect usernames or chat logs.
 
-Other websites to which we link may collect personally identifiable information about you when you visit those sites. The information practices of other websites linked to our websites are not covered by this Privacy Policy.
+**Parent and Other Adults’ Information.**
 
-We will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. These are some of the ways that your information may be disclosed:
+We collect parents’ email addresses. We may collect this from the child or the parent. We may also collect credit card numbers from parents for purchases on our site.
 
-_Data in the Aggregate_ : We may disclose “blinded” aggregated data and user statistics to prospective partners and other third parties. Blinded data is data which does not identify an individual person.
+**Information you submit or post.**
 
-_Other_ : We also may disclose your information in special cases. For example, when we believe that we must disclose information to identify, contact or bring legal action against someone who may be violating our Terms of Use, or may be causing injury to or interference with our rights or property, other website users or customers, or anyone else that may be harmed by such activities. We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service and improve our products and services.
+We collect information posted in a public space on our site. We also collect information if you or your child contacts us.
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, delivering or mailing, answering customer questions about products or services, sending postal mail, providing investor information and processing data. We will only provide those companies the information they need to deliver the service, and they are contractually prohibited from using that information for any other reason.
+**Other information.**
 
-As we continue to develop our business, we may buy or sell businesses or assets. In such transactions, confidential customer information generally is one of the transferred business assets. In the event of a transaction involving the sale of some or all of Blue Whale Co.’s businesses, customer and site visitor information may be one of the transferred assets and may be disclosed in connection with negotiations relating to a proposed transaction. In such case, the transferred information may become subject to a different privacy policy.
+If you or your child uses our website, we may collect information about the browser used or user’s IP address. We might look at what site you or your child came from, or visit next. We may collect passive information about what activity you or the child did or how long the child played.
 
-We offer our customers choices for the collection, use and sharing of personal information. You may contact us at [support@cepiallc.com](mailto:support@cepiallc.com) if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.
+## We collect information in different ways.
 
-Keeping your personal financial information private is very important to us. As a matter of policy and long‑time business practice, we do not sell information provided by our users. Any user statistics that we may provide to prospective partners regarding financial matters are provided in the aggregate only and do not include any personally identifiable information about any individual user. We will transfer your credit card number, bank account number or other personal information to the appropriate credit card company or bank in order to process any online payments.
+**We collect information directly.** For example, if you or your child create an account with us. We also collect information if you or your child contacts us.
 
-Your Blue Whale Co. Profile is password-protected so only you and your parent or guardian have access to this personal information. We use encryption technology for credit card numbers, bank account numbers, passwords and registration information. Remember to sign out of your Blue Whale Co. account and close your browser window when you have finished your work. This is to ensure that others cannot access your account by using your computer when you are away from it. Because information sent through the Internet travels from computer to computer throughout the world, when you give us information, that information may be sent electronically to servers outside of the country where you originally entered the information. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Except as specifically stated, this site does not use security encryption measures. Information that you disclose by use of this site (as with any site that is non-secure), by posting a message or using e‑mail, potentially could be collected and used by others. This may result in unsolicited messages from third parties or use of such information by third parties for their own purposes, legal or illegal. As a result, while we strive to protect your personal information, we cannot ensure the security of any information you transmit to us or from our services, and you do so at your own risk. Once we receive your transmission, we use commercially reasonable efforts to ensure its security on our systems.
+**We collect information passively.** We use [tracking tools](http://www.spinmaster.com/tracking-tools.php) like browser cookies and web beacons to collect information from you.
 
-To ensure that you will not receive recurring marketing information from us unless you choose to, we will provide you with simple instructions on each newsletter and marketing email from Blue Whale Co. for you to let us know that you have chosen to stop receiving such emails from us.
+## We use information as disclosed and described here.
 
-Please keep in mind that whenever you voluntarily disclose information online, that information is accessible to other customers and users. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
+**How we use children’s information.** Unless permitted by law, we use children’s information after getting parental consent. In some circumstances we may not request parental consent. For example, if we are only going to use the information one time to respond to a direct request. Or if we are using information obtained from a child to get parental consent. We also use children’s information as described in any request for parental consent.
 
-We carefully follow the Children's Online Privacy Protection Act ("COPPA"). COPPA requires us to inform parents and legal guardians about how we collect, use, and disclose personal information that we receive from children under 13 years of age. We must obtain the consent of parents and guardians in order for children under 13 years of age to use certain website features. To protect all minor children, we voluntarily apply the same treatment to children under the age of 18. The following is an explanation of our practices with respect to children under the age of 18 (“Children”) and our verifiable parental consent process for parents or guardians of Children (“Parents”).
+**How we use parent and guardian information.** We use email addresses to notify parents or guardians that their children have registered on our site. We may also use your email address to communicate about your child’s account. We may contact you about this Policy or our website Terms.
 
-Children can use publicly available portions of our website without disclosing any personal information. However, to become a Zhu Zone member, we do need to collect personal information.
+**We use children and parent’s information to improve our products and services.** We may use information to make our website and products better. We might use information to customize you or your child’s experience with us. For example, we might use information to store your child’s password if he or she registers for our site.
 
-Unless your Parent limits your user account, we collect the same information from Children as we do other users of the site (see What information does Blue Whale Co. collect from me?). This may include information such as name, age, address, phone number and e-mail. We ask you this information to make the online community better. We do not ask such information as a condition to your participation in any special activity or game.
+**We use information for security purposes.** We may use information to protect our company, our customers, and our websites. We keep the data that we collect about you for as long as necessary for the purposes set out in this Privacy Policy.
 
-We may collect personal information from Parents in order to allow Children to participate in certain features located on our websites, including Zhu Zone. In the course of a Child’s participation in these features, a Child may also provide us additional information about himself or herself, such as contents of his or her wish lists. If a Parent allows us to collect personal information about their Child, we may link certain information collected through technology (see “How does Blue Whale Co. use cookies and other technology?”) to that personal information.
+**We use adult’s information for marketing purposes.** For example, we might send adults information about new site features. We might send adults information about third party offers or products we think you might find interesting.
 
-If a Child registers for membership, we use the Parent's e-mail address to notify the Parent of the Child's registration request and to seek verifiable parental consent. In addition, personal information regarding a Child may be collected and used to enable a Child's participation in certain interactive features such as sending e-mail, wish lists, games and activities posting on message boards, uploading content and other similar activities. In addition, we may share a Child's personal information with third parties to the extent reasonably necessary to: protect the security and integrity of our sites; to take precautions against liability; to respond to judicial process; or to the extent permitted under provisions of law, to provide information to law enforcement agencies or for an investigation related to public safety. Information of Children may also be used and disclosed as we discuss in "How does Blue Whale Co. use the information?" and "With whom does Blue Whale Co. share my information?" above.
+**We use information as otherwise disclosed or permitted by law.** For example, we will use information about children as we describe in parental consent requests.
 
-All users of the website who are minors must be registered by their Parent. The Parent enters the Adult Zhu Zone on the website. The Parent will receive an email from us and use it to connect to the Adult Zhu Zone and provide contact information for the Parent and any child the Parent wishes to register. The registration process includes age information about each child. The Parent is then asked for credit card information and a small transaction is run through Pay Pal to confirm the Parent’s identity. The charge is then promptly reversed. Once validated, the Parent may register his or her children and may designate profile settings for each child.
+## We may share information with third parties.
 
-At any time Parents can refuse to permit us to collect further personal information from their Child and can request that any personal information we have collected be deleted from our records. We use two methods to allow Parents to access, change, or delete the personally identifiable information that we have collected from their Children. A parent can access, change, or delete his or her Child’s personal information by logging on to the Adult Zhu Zone account. Allow a reasonable period of time for any changes to take effect. Such change or deletion will not result in a corresponding change or deletion in any portion of the site made available to others.
+**We may share children’s information.** We will share children’s information if we’re required to by law. We will share it if Spin Master transfers ownership. We will also share children’s information with vendors who help us run our site. We do not currently have any platforms that are designed to let children make their personal information publicly available.
 
-A parent can also contact our customer service department to access, change, or delete the personal information that we have collected from his or her Child by sending an e-mail to [support@cepiallc.com](mailto:support@cepiallc.com). Please include the Child’s full name and school and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us send emails and operate our sites. We also share information with vendors to complete payments or administer a promotion.
 
-We may amend our Privacy Policy at any time, including portions applicable to Children. We will provide Parents notice by e-mail of any material changes in the way we intend to collect, use, and/or share personal information of Children. Parents should continually update their personal information to provide us current e-mail addresses. We will apply material changes in our Children' Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
+**We may share adult’s information with our business partners.** For example, we might share information with third parties who co-sponsor a promotion. These partners may send adults information about events and products by mail or email.
 
-If you need further assistance, please send an e-mail with your questions or comments to [support@cepiallc.com](mailto:support@cepiallc.com) or write us at:
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.
 
-Blue Whale Co. LLC. Corporate Office  
-121 Hunter Ave, Suite 103  
-Saint Louis, Missouri 63124
+**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our user information as part of that transaction.
+
+**We will share information with other Spin Master entities.**
+
+**We may share information for other reasons we may describe to you.**
+
+## You have certain choices about sharing and marketing practices.
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Don’t worry! Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions, information about your children, or information about your account or your orders.
+
+**You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, email us at [hostmaster@spinmasterstudios.com](mailto:hostmaster@spinmasterstudios.com) or call us at 1-800-622-8339.
+
+**You can control cookies and[tracking tools](http://www.spinmaster.com/tracking-tools.php).** Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings. If you block cookies or enable your browser’s “do not track” settings, certain features on our sites may not work.
+
+## We use standard security measures.
+
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+Parents, you can take steps to protect your kids too. To learn more about how to protect your child online, read the helpful [information provided by the FTC](https://www.consumer.ftc.gov/features/feature-0038-onguardonline). Please also read [this bulletin](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+
+## We store information both in and outside of the United States.
+
+Information we maintain may be stored both within and outside of the United States. Where possible, we try to keep the information you supply to us locally. However, as part of the services offered through our site, the information you provide to us may be transferred to countries outside the European Economic Area (EEA). By way of example, this may happen where any of our servers are hosted by one of our Spin Master offices outside of the EEA, or one of our service providers is located in a country outside of the EEA. We may also share information between our group companies which are located in countries worldwide. If you require contact details of our other group companies, please contact us. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take appropriate steps to ensure that any personal data relating to you will continue to be adequately protected.
+
+## We may link to other sites or have third party services on our site we don't control.
+
+If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites and insurance carriers carefully. We are not responsible for these third party practices.
+
+## Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy or our processing of data about you, please contact us at [dpo@spinmaster.com](mailto:dpo@spinmaster.com).
+
+Or via mail at: 
+
+> Data Protection Officer  
+>  225 King Street West  
+>  Toronto, ON M5V 3M2  
+> 
+
+If you have a concern about our handling of your personal information, please get in contact with us first so we can try to resolve your query. If however you feel we have not dealt with your concern and that we are failing to meet our legal obligations, you can report this to your local data protection regulator. 
+
+## We may update this Policy.
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+© 2018 Spin Master Ltd. All rights reserved.
