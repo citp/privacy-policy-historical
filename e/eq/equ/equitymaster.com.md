@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625060704id_/https%3A//www.equitymaster.com/help/privacy.asp%3Futm_source%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224064410id_/https%3A//www.equitymaster.com/help/privacy.asp%3Futm_source%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Equitymaster
 
@@ -82,13 +82,74 @@ In case of subscription to services through online card payments including on au
 
 In such cases, Equitymaster shall take all measures including following such security practices and procedures designed to protect all private information obtained from the Subscriber from unauthorised access, damage, use, modification, disclosure or impairment, as may be deemed necessary and reasonable or as may specified by any law for the time being in force. 
 
-### Cookies :
+### Cookies Policy
 
-Users are also aware that non-personal information and data may be automatically collected through the standard operation of Equitymaster's internet servers or through the use of "cookies." "Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising 
+Users are informed that non-personal information and data may be automatically collected through the use of "cookies."
 
-Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users are also hereby being made aware that Equitymaster cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for Equitymaster. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available from Equitymaster.
+The detailed Cookie Policy may be read below:
 
-Equitymaster reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+#### What are Cookies:
+
+"Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising.
+
+Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site.
+
+#### Types of Cookies used:
+
+#### _First-party cookies_
+
+These are the cookies that belong to us and that we place on your device or are those set by a website that is being visited by you at the time. We use these cookies as they are absolutely necessary to provide you Equitymaster's services. If you choose to opt out of these cookies, then we may not be able to provide you services.
+
+#### _Third-party cookies_
+
+These cookies are those that another party places on your device through our site (For e.g. advertising agencies may place their cookies on our website which will collect tracking information and serve you with advertisements). We do not control these third-party cookies and their use may be governed by the privacy policies of the third parties employing these cookies. To learn about these cookies and to disable or reject third-party cookies, please refer to the relevant third party’s website.
+
+#### _Persistent Cookies_
+
+Persistent cookies are stored on a user’s device even after termination of a browsing session. It helps in recalling the preferences or actions of the user. Persistent cookies are used for a variety of purposes such as retaining the visitor’s language and regional preference(s) at the end of each browsing session. We use services of third-party analytics service provider to analyze cookies to carry out a behavioral analysis in order to enhance user experience and convenience, and also to provide targeted and relevant content to visitors. Depending on the type and settings of your browser, cookies may be accepted by default. You may change the settings of your browser to delete existing cookies or prevent future cookies from being automatically accepted. If you disable cookies, certain parts and functions of our website may not be available. You can learn more about cookies at www.aboutcookies.org.
+
+#### _Session Cookies_
+
+Session cookies remain only as long as a browsing session is active, and are intended to avoid user inconvenience during browsing. These cookies allow websites to link the actions of a user during a browser session and expire at the end of the browsing session. Session cookies also assist the user in navigating the website, and allow the user to access secure parts of the webpage when logged in.
+
+    * #### How do we use cookies?
+
+We use cookies to ensure you have the best browsing experience on our website. We also use Cookies to provide you various subscription services on our website.
+
+    * #### Do these cookies collect personal data/identify me?
+
+Most types of cookies track consumers via their Device ID or IP address therefore they may collect personal data.
+
+Based on the type of cookies used by the relevant third-party, the information these cookies collect may include personal data but they may not be able to directly identify you as an individual or have any of your personal information such as Name, E-mail id or Mobile number.
+
+    * #### How do I refuse or withdraw my consent to the use of Cookies?
+
+If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser 'help' / 'tool' or 'edit' section for cookie settings with respect to your browser that may be Google Chrome, Safari, Mozilla Firefox etc.
+
+Please note that if your browser setting is already setup to block all Cookies (including strictly necessary Cookies) you may not be able to access or use all or parts of functionalities of our Sites.
+
+If you want to remove previously-stored Cookies, you can manually delete the Cookies at any time. However, this will not prevent the Sites from placing further Cookies on your device unless and until you adjust your Internet browser setting as described above.
+
+#### Categorization of Cookies:
+
+    * #### Strictly Necessary/Technical:
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+
+    * #### Analytical/Performance Cookies:
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. These cookies track what type of articles are most frequently visited and which locations we receive most of our visitors from. These Cookies include, for example, Google Analytics cookies.
+
+    * #### Targeting Cookies:
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+    * #### Social Media Cookies:
+
+These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
+
+
+
 
 ### Third Party Advertising
 
@@ -102,14 +163,12 @@ Equitymaster reserves the right to modify the whole or some sections of this Pri
 
 ### References
 
-  * to 'you, 'your' and 'yours' are references to the person(s) accessing this website. 
-  * to 'we', 'us' and 'our' are references to mean individually and collectively Equitymaster, Quantum, Agora & its directors, officers and employees. 
+  * to 'you, 'your' and 'yours' are references to the person(s) accessing this website.
+  * to 'we', 'us' and 'our' are references to mean individually and collectively Equitymaster, Quantum, Agora & its directors, officers and employees.
 
 
 
 ### Contact
-
-### 
 
 You may contact us at:   
 103, Regent Chambers,   
