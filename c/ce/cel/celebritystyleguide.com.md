@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530235015id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224235828id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Celebrity Style Guide
 
 Privacy Statement 
 
