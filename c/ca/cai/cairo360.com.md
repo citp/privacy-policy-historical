@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019175524id_/https%3A//www.cairo360.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224055548id_/https%3A//www.cairo360.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice – Cairo 360 Guide to Cairo, Egypt
 
 ### Personal Information
 
