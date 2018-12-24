@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the insiderinfo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202450id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderinfo.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224113013id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
 
 # Lycos.com | About Lycos
+
+Lycos is updating our Privacy Notice(s) to comply with the GDPR, ensuring that all individuals whose personal information we process have been informed of why we need it, how it is used, what their rights are, who the information is disclosed to, and what safeguarding measures are in place to protect their information. We are revising our consent mechanisms for obtaining personal data, ensuring that individuals understand what they are providing, why and how we use it and giving clear, defined ways to consent to us processing their information. We have developed stringent processes for recording consent, making sure that we can evidence an affirmative opt-in along with time and date records, and an easy to see and access way to withdraw consent at any time. To find out more please contact our DPO at: [privacy@lycos.com](mailto:privacy@lycos.com).
 
 Welcome to the Lycos Network, owned and operated by Lycos, Inc. and its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Lycos"). All Products and Services on the following web sites are made available subject to this Privacy Policy: www.lycos.com, www.gamesville.com, www.tripod.com, www.angelfire.com, www.hotbot.com, www.whowhere.com, and www.htmlgear.com. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to any individual Lycos Network Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout the Lycos Network near the bottom of most pages. If you become an inactive user, we will adhere to the policies and practices as described in this Privacy Policy, which may be revised from time to time.
 
@@ -191,6 +193,9 @@ Search the Web for as much information as you can about how to protect your priv
 **Network Advertising Initiative**  
 <http://www.networkadvertising.org/>
 
+**DAA Opt-out**  
+<http://www.aboutads.info/choices>
+
 **Online Privacy Alliance**  
 <http://www.privacyalliance.org/>
 
@@ -201,10 +206,10 @@ Search the Web for as much information as you can about how to protect your priv
 
 Questions regarding this policy should be directed to:
 
-Lycos Privacy Site Coordinator Lycos, Inc. 52 Second Ave, 4th FL Waltham MA 02451 (781) 370-2700 (781) 370-2886 (Fax) [privacy@lycos.com](mailto:privacy@lycos.com)
+Lycos Privacy Site Coordinator Lycos, Inc. 880 Main St., 2nd FL Waltham MA 02451 (781) 472-2001 (781) 472-2001 (Fax) [privacy@lycos.com](mailto:privacy@lycos.com)
 
 ### Updates
 
 The Lycos Network will update this policy from time to time so please check back periodically. When such changes occur, you will see the word "Updated" next to the Privacy Policy link on the front page of each site on the Lycos Network. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will prominently post such changes prior to implementing them.
 
-**Last updated June 2, 2014.**
+**Last updated May 8, 2018.**
