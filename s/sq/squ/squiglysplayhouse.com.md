@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620033003id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224030919id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Squigly's Playhouse
 
@@ -16,7 +16,7 @@ This information is used to measure the number of visitors to the different sect
 
 If a visitor arrives as a result of clicking on one of our ads on another web site, that fact is recorded in order to gauge the effectiveness of our ads.
 
-  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20180620033003id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) page we make note of the following information (all fields are optional):
+  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20181224030919id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/) page we make note of the following information (all fields are optional):
 
 > Your **name** is only used to personalize any response and is then discarded. You are never required to provide your last name.
 > 
