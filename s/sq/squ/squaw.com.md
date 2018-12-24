@@ -1,93 +1,207 @@
-> *The following text is extracted and transformed from the squaw.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121195851id_/http%3A//squawalpine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaw.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224031024id_/https%3A//www.alterramtnco.com/privacy-policy) for the most accurate reproduction.*
 
-# Squaw Alpine Privacy Policy | Squaw Valley Hotel
+# Privacy Policy | Alterra Mountain Company
 
-##### Privacy Policy - Squaw Valley | Alpine Meadows
+**EFFECTIVE: January 2004**
 
-Privacy Policy - Squaw Valley | Alpine Meadows This privacy policy for the [www.squawalpine.com](http://www.squawalpine.com/) website, operated by Squaw Valley Ski Corporation ("Squaw Valley"), describes the privacy practices for Squaw Valley (the "Privacy Policy"). The purpose of this Privacy Policy is to inform you about the types of information we gather about you, including information gathered when you visit the Squaw Valley website located at [www.squawalpine.com](http://www.squawalpine.com/), Squaw Valley's mobile site or downloadable mobile applications (collectively, the "Site"), and information we may receive from third parties or affiliates, how we may use that information, whether we disclose that information to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Squaw Valley strives to help visitors of the Site protect their privacy while using our Site. By using the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy.
+**UPDATED: October 2018**
 
-This policy does not apply to other websites which are linked to any of the Site. Please also be aware that our promotional partners, advertisers, sponsors, tenants and concessionaires accessible through the Site or at our resort and websites owned or controlled by independent third party owners of hotel, resort, or residence properties that may have the ability to book reservations through Squaw Valley, or websites not controlled or authorized by Squaw Valley may have their own privacy and data collection policies and practices. We are not responsible for any actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing personally identifiable information to them.
+* * *
 
-##### How We Collect and Use Information
+Alterra Mountain Company is committed to the privacy of our customers and guests (“you” and “your”). The Alterra Mountain Company Privacy Policy (the “Policy”) applies to Personal Information that Alterra Mountain Company collects, whether online, in person, through our call centers or otherwise.
 
-We collect information in several ways by your use of the Site, as well as from forms you submit to us, personal correspondence (such as emails or letters) that you send to us and or your interaction with us at our resort. We may ask you to voluntarily provide us with personal information on this Site. When you log onto the Site, our servers may log your IP address, the URL of your request and other information that is provided in the HTTP header. When you conduct searches on the Site, we may log the search terms that you use. Squaw Valley collects this information in order to provide information about our products and services that will meet the expectations of our guests. Also, our third-party service providers may ask you voluntarily to provide personal information on their websites and may share such personal information with us, as governed by their respective privacy policies. Our use of information received from a service provider will be dictated by the service provider's privacy policies and not this Privacy Policy.
+“Personal Information” is information about an identifiable individual. Personal Information does not include information about a business or aggregated information that cannot be associated with a specific individual. 
 
-We collect two types of information: personally identifiable information and non-personally identifiable information. Personally identifiable information is information that identifies you or can be used to identify or contact you ("Personally Identifiable Information"). We also may collect information that by itself typically cannot be used to identify or contact you, such as demographic information (for example, your age, profession or gender), user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Site ("Non-Personally Identifiable Information").
+**“** **Alterra Mountain Company”, “we”, “us” or “our” refers to  **Alterra Mountain Company its subsidiaries and certain of its affiliates. Alterra Mountain Companyhas an international presence and maintains offices and facilities in multiple jurisdictions throughout the United States and Canada. Except in circumstances where the privacy policy of an affiliate, third party, or partner applies, all of Alterra Mountain Company’sbusiness operations are subject to this policy. 
 
-The types of Personally Identifiable Information we collect may include your name, email addresses, telephone and fax numbers, credit card information, date of birth, gender, photograph, image, social media information, such as your social media usernames, and lifestyle information such as room preferences, leisure activities, names and ages of children, and other information either desirable or necessary to provide quality services to our visitors (e.g., health conditions that require special accommodations). We may also collect information about you, such as your use of our Site, travel habits, communication preferences, and aggregated data relative to your visits to Squaw Valley. If you are a parent registering your child for lessons or other services provided by Squaw Valley, we may collect information concerning your child's medical needs or health.
+This Policy does not apply to information about Alterra Mountain Company’s employees or to information that is not Personal Information.
 
-Squaw Valley may collect information about you so that we can provide an experience that is responsive to our guests' and visitors' needs. We may collect information as part of: (i) fulfilling reservation or information requests, (ii) purchasing products or services, including tickets, (iii) applying or registering for season passes, (iv) engaging in social networking; (v) engaging in various activities at our resort, (vi) submitting a job application, or (vii) responding to communications from us (e.g., surveys, promotional offers, contests or sweepstakes, or reservation confirmations). We endeavor to collect information only with your knowledge or (based upon this Privacy Policy) your expectation and with your permission if necessary.
+**PERSONAL INFORMATION ALTERRA MOUNTAIN COMPANY COLLECTS AND HOW IT IS USED**
 
-To the extent we are able to do so, we may link your Non-Personally Identifiable Information with your Personally Identifiable Information. We may also link information collected online with information we collect offline or information collected online by third parties. We may also receive information about you that is collected online by third parties, such as social networking sites, or other online services, which we may link with information we collect online or offline. Our use of any information received from third parties is governed by such third parties’ privacy policies, and not by this Privacy Policy. You may have the ability to upload information from your account on the Site to social media websites or webpages. In the event that you elect to do so, use of the uploaded information by or on the social media site will be dictated by the social media site’s privacy policy.
+**Alterra Mountain Company** collects Personal Information in a number of circumstances during the course of operating our mountain resort adventure, resort hospitality, and real estate businesses. We use this information in order to provide you with the best possible service and to meet our reasonable business needs. 
 
-Like many other websites, the Site may use cookies to customize content specific to your interests and track your use of the Site. "Cookies" are text files that are stored on your computer and may be used to store your personal information. For example, we use "cookies" to (i) customize content specific to your interests, (ii) ensure that you do not see the same advertisement repeatedly and (iii) store your password so you do not have to re-enter it each time you use the Site. In addition to cookies, Squaw Valley may use other now known or later developed technologies to assist Squaw Valley in observing the behavior of users visiting the Site. These technologies access individual user information but the information is used only to compile aggregated statistics about the Site's usage.
+(a)   We collect your personal information when you purchase a product or service or enroll in a program 
 
-A "pixel tag" is a clear (transparent) image placed on a web page to collect information about the page view. This Site may use pixel tags to aggregate web traffic information, such as the number of unique visitors, the top paths through the site, entry pages and exit pages. Squaw Valley does not use pixel tags to collect any personal information such as your name, age, phone number, address or e-mail address from visitors and we do not maintain a database of individual browsing profiles.
+When you purchase a product or service, make a reservation or enroll in a program, we collect personal information in order to process the transaction and administer the program.  We may also send you information relating to your purchase, reservation or program. For example, if you make a reservation at one of our resort locations, we may send you information about the activities, events or offers taking place at that resort.  The information we may collect and use for these purposes includes but is not limited to your:
 
-This Site uses a web analytics service (and in the future may use other similar sites or services) to better assist Squaw Valley in understanding how the Site is used. The analytics service will place cookies on your computer that will generate information that we select about your use of the Site, including your computer’s IP address. That information will be transmitted to and stored by the analytics service. The information will be used for the purpose of evaluating consumer use of the Site, compiling reports on Site activity for Squaw Valley's use, and providing other services relating to Site activity and usage. The analytics service may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the analytics service's behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser. Please note that by doing so, you may not be able to use the full functionality of the Site.
+-      name and contact information to identify and communicate with you
 
-We may use technology that provides us with information about your geographic location (“Location Information”). For example, we may scan or collect information regarding your ski pass when you ride a chairlift at our resort. This information helps us monitor ski resort activity and provide better service to you. We also may combine Location Information with other information you provide to us online or with information collected offline. We will use Location Information collected and combined in that manner in accordance with this Privacy Policy.
+-      medical information, such as allergies or medical conditions that we need to be aware if you are participating in lessons or other programs, or if you have dietary restrictions
 
-We will use the information we collect from you to provide goods or services which you have requested or purchased from us, including to provide you with notifications related to your activity on the Site or your use of any of the services offered on the Site (the "Services"). We may also use your personal information to send you targeted communications, and to notify you about news, events, special offers and promotions. Squaw Valley may also use third-party service providers to send and distribute e-mail and to perform other marketing and product support functions. You can opt-out of receiving marketing and promotional e-mails from Squaw Valley at any time by selecting the opt-out link included in the e-mail or by sending an email to [web@squaw.com](mailto:web@squaw.com) with “UNSUBSCRIBE” in the subject line.
+-      payment card information to process transactions
 
-##### Sharing Personal Information Collected on our Websites
+-      age and/or birth date
 
-From time to time we may partner with other companies to provide co-sponsored or co-branded promotions, products and services and may share your information with our co-sponsor. For example, we may co-sponsor some sweepstakes or contests on our Site with other companies or we may provide prizes for sweepstakes and contests sponsored by other companies. If you enter one of these sweepstakes or contests, we may share your personal information with our co-sponsor or the third-party sponsor. When you use a credit card to purchase goods or services, we may share your information with the credit card company and other companies involved in the authorization process. Use of shared information is subject to third parties' policies.
+-      gender
 
-We rely on service providers to help us deliver products and services, such as offering products and services, providing services in connection with our websites including travel packages, communicating news and delivering promotional materials via email and direct mail, processing credit card transactions, and administering sweepstakes and surveys. Squaw Valley may provide your personal information to service providers or contractors to perform functions on its behalf, including, but not limited to, companies or individuals hired to: communicate news, deliver Squaw Valley's promotional materials via e-mail and direct mail, to develop, enhance, market or provide any of Squaw Valley's services, to process payments and to assist Squaw Valley with sending communications and performing other marketing and support functions.
+-      biometric data (such as height, weight) where this information is necessary in connection with the product, service, program or activity that you have requested (for example, we may need gender, height and weight to provide you with appropriate rental equipment)
 
-During the course of our business we may also share with third parties aggregated demographic and statistical information that is not personally identifiable. Squaw Valley may also disclose an individual's personal information to:
+-      photograph to identify you as a guest
 
-a person who in the reasonable judgment of Squaw Valley is seeking the information as an agent of the individual.  
-a company or individual employed by Squaw Valley to perform functions on its behalf, such as but not limited to research or data processing.  
-another company or individual for the development, enhancement, marketing or provision of any of Squaw Valley's products and services.  
-an agent used by Squaw Valley to evaluate the individual's creditworthiness or to collect the individual's account.  
-a credit reporting agency. •in situations where sharing or disclosing your information is required in order to offer you products or services you desire (e.g., a vacation package).  
-a public authority or agent of a public authority, if in the reasonable judgment of Squaw Valley, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information.  
-another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization.  
-a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law.  
-Squaw Valley may also be required to use or disclose your information in connection with a legal action or other proceeding, including without limitation, in response to a court order or a subpoena. This includes any actions that may be brought by Squaw Valley against you as a result of your failure to meet your obligations under any agreements you may have with us including the Terms of Use and any reservation agreements.
+-      status as the parent or guardian of a minor guest, if applicable
 
-Through the Site, Squaw Valley may make available areas that allow for user interaction, including blogs, forums, bulletin board services, chat areas, or other message and communications features. Use of these features may require registration or the creation of an account with Squaw Valley. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+-      experience preferences (such as preferred lodging room type)
 
-##### How We Store Your Information
+-       geographic location.
 
-Squaw Valley is committed to protecting the security of any personal information you provide. For these reasons, on the Site, certain financial information, such as credit card data, will generally be transferred over a Secured Socket Layer (SSL) connection (provided that it is supported or enabled on your browser). After you have submitted any information online to Squaw Valley, we recommend that you end your browser session before leaving your computer. In spite of these protections, any information submitted over the Internet could be intercepted or otherwise corrupted during transmission. As such, Squaw Valley cannot guarantee the security of any data submitted over the Internet. After your information reaches Squaw Valley, however, it is stored on servers (or in the case of information received from you in person or over the phone in physical storage areas) protected by procedures and technology designed to block reasonably foreseeable intrusions by unauthorized third parties. The servers are under the control of Squaw Valley at all times but may be hosted, managed or otherwise maintained by third party service providers. These third party service providers have no right to use or access this data other than at the direct request (or on behalf of) of Squaw Valley.
+In some cases you may provide us with personal information relating to a family member or other individual.  By providing us with personal information relating to an individual other than yourself, you represent that you have their consent to provide us with their personal information for the purposes described in this Policy. 
 
-##### Third Party Links
+(b)   We collect your personal information when you visit our resorts, use Alterra Mountain Company pass products and tickets, and download and use our web applications (“Apps”).
 
-The Site may list or link to third party products or services. Squaw Valley does not have any control over the quality, safety or legality of the items advertised, the truth or accuracy of the listings, the ability of suppliers to sell items or the ability of buyers to buy items. For these reasons, Squaw Valley and its affiliates cannot ensure that a buyer or supplier will actually complete a transaction. Squaw Valley will not be a party to any transactions between you and such third parties and any correspondence concerning such transactions should be conducted between you and the third party.
+When you purchase or use Alterra Mountain Companypass products and tickets, we may collect information regarding your geographic location, activities and purchases while you are at Alterra Mountain Company resorts. Alterra Mountain Company pass products and tickets use either handheld scanner or RFID (radio frequency identification) technology.  Through the use of this technology, Alterra Mountain Company may be able to collect information regarding your location at the resort, including the lifts that you ride, and depending on whether you have a payment card linked to your pass product, other commercial transactions that you complete at an Alterra Mountain Companyretail or restaurant location.We use this information to understand how our guests use our resorts and to understand your personal preferences.  
 
-##### Minors
+Depending on your marketing preferences, we may also use this information to send you offers, invitations or promotions relating to our locations, products, services or programs that we believe may be of interest to you.  For example, we may monitor your commercial transactions or browsing habits on our websites or at our resort locations which may influence the personalized special offers and promotions that we send to you.
 
-Squaw Valley does not seek to obtain nor does it wish to receive personally identifiable information directly from minors; however, we cannot always determine the age of persons who access and use the Site. If a minor (as defined by applicable law) provides us with his/her data without parental or guardian consent, we encourage the parent or guardian to contact us to have this information removed and to unsubscribe the minor from future Squaw Valley marketing communications. If Squaw Valley learns that, despite these measures, a minor has submitted personally identifiable information to Squaw Valley through the Site, it will take reasonable measures to delete such information from its records and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
+Some of our pass products grant you access to ski resorts that are not owned by Alterra Mountain Company (each a “Pass Product Resort”).  When you visit a Pass Product Resort, the Pass Product Resort will scan or otherwise record your attendance at that resort location using RFID technology (radio frequency identification), handheld scanners, or another method which allows the Pass Product Resort and us to record your usage activity of the product.  Both Alterra Mountain Company and the Pass Product Resort may collect additional information from you depending on your transaction activity at the resort location. The Partner may also share your information with Alterra Mountain Company in order for us to administer the pass product, better understand how you use our products, and learn about how we can improve the guest experience.  You should review the privacy policy of each Pass Product Resort location for more information on its collection, use and disclosure of personal information.
 
-##### Users from Outside the United States
+Several of our resorts use GPS tracking technology in connection with their ski and ride school programs in order to track and locate students on the mountain.  The GPS tracking technology is owned and operated by a third party service providerwhich may be provided certain information to provide the tracking service and to operate the websites on which you and/or your family members can track their day on the mountain.
 
-The Site is a U.S. site and is governed by U.S. law. If you are located outside the United States and are accessing the Site, using the Services or providing personal information to Squaw Valley or submitting such information through the Site, please note that your personal information will be transferred, processed, and stored within the United States and may be shared in the United States, all in accordance with this Privacy Policy. The data protection laws in the United States may be different from, and may not be as comprehensive as, those in your country. By using the Site or the Services, you are consenting to the transfer of your personal information to facilities located in the United States and the collection, use, storing and sharing of your personal information in accordance with United States laws.
+Some of our resorts have Apps available for download to your mobile device. The download, installation and use of our Apps will allow you convenient access to the great experiences that our resorts have to offer, including the ability to purchase pass products, lift tickets, track and share your performance, create a profile, create social groups with whom you can share information, access mountain wayfinding, weather and lift info, and receive in-App notifications (collectively, the “Apps Services”).  If you access our Apps, then we may be able to collect information about you, including your geographic location, activities, and purchase history.  We may also associate the information collected through your use of the Apps to your customer profile, including your pass product and pass scan data.  
 
-##### Contact Us
+The Apps automatically collect detailed location and navigation information, in the form of GPS signals from the mobile device on which you have installed and activated the App (“App Location Information”). Whenever you open, use or interact with the App Services, we use your App Location Information (e.g., latitude and longitude) to tailor the App Services experience to your current location. We also use your App Location Information to provide certain App Services, including to send you notifications of friends, events, or other relevant information that are near you. If you have ‘background location’ turned on, the Apps may, from time to time, tell us about your device’s location even if you are not directly interacting with the App.  We may use various technologies to determine your App Location Information, such as location services of the applicable operating system or browser, GPS, Bluetooth, i-Beacon, RFID, and sensor data from your devices, along with nearby Wi-Fi access points and cell towers, and other technologies to determine your mobile devices’ approximate location.
 
-If you would like to update or correct your information, modify your communication preferences, or if you do not want to receive marketing communications from Squaw Valley | Alpine Meadows in the future, you can contact us:
+The Apps may also share your App Location Information on a map or by communicating your distance and general direction to other users. You should only share your Location Information with those that you trust. You understand that the nature of location-based services is such that your App Location Information is available to you and other users, and that we cannot control what you or other users, who receive this information when using the App or the App Services, will do with it.
 
-  * by e-mail: [web@squaw.com](mailto:web@squaw.com)
-  * by fax: 530-581-7106
-  * by writing to us at:
+If you do not wish for the Apps to track your App Location Information, you should turn off the App Location Information tracking feature in the App settings menu. If you turn off the App Location Information feature, some features of the App and App Services cannot be provided without using this standard technology. For example, the App Services use your location and route information to create a detailed location history of all of your journeys made when using the App and App Services. The Apps use this history to offer the App Services to you, to improve the quality of the App Services it offers to you and to all of its users and to improve the accuracy of its mapping and navigation data. 
 
+You may be able to take part in certain activities within our App Services that let you communicate or share information not just with us, but also with other users. These include:
 
+-      sending private or group messages or content to other users 
 
-Squaw Valley  
-P.O. Box 2007  
-1960 Squaw Valley Road  
-Olympic Valley, CA 96146  
-Attention: Privacy Policy
+-      chatting with other users 
 
-##### Special Notification for California Residents
+-      sharing performance metrics, such as your total days skied, vertical feet skied, and number of chairlift rides
 
-Individual customers who reside in California and have provided their personal information to Squaw Valley may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us at one of the following addresses: [web@squaw.com](mailto:web@squaw.com) or Squaw Valley, Attn: California Privacy Request, 1960 Squaw Valley Road, Olympic Valley, CA 96146. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+-      sharing your skill-level, home mountain, and/or personal preferences 
 
-##### Policy Changes
+-      sharing photos or drawings with other users.
 
-Squaw Valley may amend this Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers. Updated versions will be posted to our website and date stamped so that you are always aware of when the Privacy Statement was last updated. As we may make changes from time to time without notifying you, we suggest that you periodically consult this Privacy Policy.
+We record and store archives of this data on servers to provide these features as well as to protect our rights and property in connection with our App Services and you acknowledge and agree to our storage of this data.
 
-Last Updated: September 4, 2013
+At certain of our resort locations we may use video surveillance for the safety and security of our guests, employees and property. We will retain video recordings for as long as reasonably necessary for these purposes. Our resorts may also use live stream webcams in outdoor public areas either on mountain or in the base village area. These live web cam feeds can be accessed by anyone via an internet connection.
+
+(c)   When you submit an inquiry or provide feedback
+
+We may collect your name, contact information and comments or questions when you submit an inquiry or comment, complete a survey or otherwise provide us with feedback about our business.  We may use this information to respond to your question and to improve our business, products, services and programs.
+
+(d)   When you participate in a marketing initiative or create an online account
+
+If you choose to create an online account profile, we may collect your name, contact information, age, gender, birth date, personal image, username and password and other information that you choose to provide (such as your preferences).
+
+We may also collect your name, contact information, age and/or date of birth if you decide to participate in a marketing initiative such as a contest, sweepstakes or other promotion.  In some cases we may also ask you specific questions about your preferences or for feedback on our business, products, services and programs.  We use this information to administer the promotion, including contacting and announcing winners (where applicable), to improve our business, products, services and programs, and for marketing initiatives depending on your marketing preferences.
+
+(e)   When you call our call center or we call you
+
+We may record calls into and out of our call centers for the purposes of maintaining accurate records and for quality assurance and training purposes. We will retain call recordings for as long as reasonably necessary for these purposes. 
+
+(f)    We collect your personal information from third parties
+
+If you are a resident of the U.S., Alterra Mountain Companymay also supplement the Personal Information that you provide to us with information that we obtain from third parties.  
+
+**COLLECTION OF INFORMATION THROUGH COOKIES AND OTHER TRACKING TECHNOLOGIES**
+
+When you visit an Alterra Mountain Companywebsite or use a resort web application, your web browser sends us certain information depending on the web browser that you use and your security settings.  This information may include your IP address, the name and version of your operating system, the name and version of your web browser, other technical data information, whether you accessed our website from a computer or a mobile device, when you open emails we send you, the date, time, and duration of your visit, and geolocation data.  This web browser data helps with system administration, traffic reposting, and auditing. It also helps us better understand who our guests are, how they use our services, and what we can do to improve the user experience. We may use this information to offer you products and services and to create aggregate statistics. This helps us improve your experience both online and at our resorts. 
+
+**Alterra Mountain Company  **also uses “cookies” to customize your website user experience by tailoring online content to align with your browsing habits. Cookies are small pieces of data, stored on your hard drive that send us information about your online browsing habits, including login and browsing history, button impressions, and personal preferences. Cookies also tell us under which account a user is logged in to one of our websites and this information helps us protect your information by making sure your personal preferences are only displayed when you are actually logged in. Some cookies are also required to support the functionality of your transaction (e.g. putting items in your shopping cart). 
+
+**Alterra Mountain Company** may work with third party advertising networks (such as Google AdWords and Facebook Ads) that use cookies and similar technologies to track your use of our websites and other websites so that they can provide advertising about products and services tailored to your inferred interests. This advertising may appear on our website or on other websites. If you tell an **Alterra Mountain Company** website to “Remember Me” or save your preferences, this information is stored using a cookie.  Some of our third party advertising technology uses separate cookies or other tracking technologies that may be delivered to your device when you visit our websites, use our Apps, or open emails from us.  These third party advertising technologies are governed by the individual third party advertising network’s privacy policy, and you must contact them directly to opt out. Please contact us for this information. Some of these third party ad networks may be members of the Network Advertising Initiative (NAI).  If they are members of NAI, then you have the option to “opt out”.  Additional information on NAI members and how to opt out, can be found at http://www.networkadvertising.org/optout_nonppii.asp
+
+**Alterra Mountain Company** may also use third party services, such as Google and Adobe Analytics and Facebook, that also use cookies and similar technologies, to provide us with information on how you interact with the content on our websites.  For example, the webpage content that you click on, the duration of your visit to our website, and what website you visited prior to ours.  
+
+**Alterra Mountain Company** may also allow social plug-ins with third parties, such as Facebook, Twitter, Instagram and Pinterest.  When you visit a page on our websites or our Apps that contains a social plug-in, your web browser sends information to that social plug-in.  The third party plug-in sends content directly to your web browser which enables it to gain information that you have accessed a page on one of our websites or Apps. For information regarding the third party’s use of social plug-ins and how it may impact your privacy, you should refer to the third party’s privacy policy.
+
+A Web Beacon is a tiny graphic with a unique identifier which is placed in the code of a web page.  **Alterra Mountain Company** uses Web Beacons to count visitors to its websites and to monitor the traffic patterns within and between our websites, to deliver or communicate with cookies, to understand how you have come to our site, and to improve site performance. Web Beacons help us to measure the effectiveness of our content and other offerings.
+
+You can choose to disable cookies using your web browser’s preferences menu. By turning off cookies, we will still be able to track your browsing history during a single visit to one of our websites however, we will not be able to link your browsing history during each of these visits to you, as you will be considered a new visitor each time you visit one of our websites.  Web Beacons will no longer be able to track your activity on our websites however, the Web Beacon may be able to continue to track activity based on your IP address. Be aware that turning off cookies may disable certain functions on the website and cause it not to function properly or fully.   
+
+To better understand your interaction with our websites across multiple devices and to effectively deliver promotions to you, Alterra Mountain Company participates in the Adobe Marketing Co-op. For more information on Adobe’s Marketing Co-op and how to manage your choices related to linking your devices, please visit https://cross-device-privacy.adobe.com/.
+
+**Alterra Mountain Company** may include links to third party sites on our websites.  When you click on those third party links, you leave our website.  This Policy does not apply to third party sites or any information that you provide on those sites.
+
+**ALTERRA MOUNTAIN COMPANY** **MAY COMBINE YOUR PERSONAL INFORMATION  **
+
+**Alterra Mountain Company** may combine the Personal Information that you provide, or that we collect, in order to better understand your needs, requirements, and personal preferences so that we may improve our business, products, services and programs and optimize your experience when you visit our resort locations, or when you are dealing with one of our team members, a call center representative, an  **Alterra Mountain Company** agent or other authorized third party.  
+
+Depending on your marketing preferences, we may also use this information to send you offers, invitations or promotions relating to our locations, products, services or programs that we believe may be of interest to you.  For example, we may monitor your commercial transactions or browsing habits on our websites or at our resort locations which may influence the personalized special offers and promotions that we send to you.
+
+**WHEN** ALTERRA MOUNTAIN COMPANY **SHARES PERSONAL INFORMATION**
+
+**Alterra Mountain Company  **does not sell your Personal Information.  **We** may, however, share your Personal Information with third parties in the following circumstances:
+
+-        **Service Providers** –  **Alterra Mountain Company** may share  your personal information with third party service providers (including affiliates acting in this capacity) who provide services on our behalf such as payment card processors, call center administrators, web-site hosting, data management, identity verification (for example, in order to confirm your eligibility for special offers, such as military discounts), market analyses, marketing, advertising, and contest administration, or your personal information may be collected by such service providers on our behalf.  
+
+-        **Partners  **-  **Alterra Mountain Company** may disclose your Personal Information to third-party partners in situations where the disclosure is necessary in order to complete or provide the service, product, or information that you have purchased or requested.  For example,  **we** may disclose your Personal Information to a third-party tour operator if you purchased a tour from the third-party tour operator using one of our resort’s websites.  
+
+-       **Other Entities in the  **Alterra Mountain Company  **Group of Companies** – Personal Information relating to Alterra Mountain Company customers is maintained in a single database that is accessible to the  **Alterra Mountain Company** group companies.  This means that Personal Information collected by one  **Alterra Mountain Company** company may be accessible by other entities or businesses within the  **Alterra Mountain Company** group of companies.  The purpose of this sharing is to facilitate customer bookings and reservations across all  **Alterra Mountain Company** location(s) and, depending on your marketing preferences, allow all  **Alterra Mountain Company** group companies to understand your preferences and send you information about their locations, products, services and programs. 
+
+-        **Corporate Transactions** –  **Alterra Mountain Company** may disclose your Personal Information to another entity, if necessary, in the event of an actual or proposed merger, sale, a re-organization including as part of insolvency or bankruptcy proceedings, or for the purposes of evaluating and/or performing such transaction.
+
+-       **Special Circumstances** – **Alterra Mountain Company** may consider it necessary or may be required by law to disclose your Personal Informationwith our attorneys, or with others who are legally authorized in certain emergencies where the health, safety, or well-being of a person is at imminent risk, or if required in order to comply with a court order, or as otherwise required to comply with the law.
+
+**CONSENT**
+
+**Alterra Mountain Company** collects, uses and discloses your Personal Information as outlined in this Policy and with your consent, except where permitted or required otherwise by law. We may be required or permitted under statute or regulation to collect, use or disclose Personal Information without your consent, for example to comply with a court order, to collect a debt owed to us or if there is an imminent threat to an individual’s health, safety, or well-being.  
+
+Your consent may be express (for example, oral, written, or electronic) or your consent may be reasonably inferred or implied from something that you do (for example, use of our websites, implies consent to the collection, use and disclosure of your Personal Information as described in this Policy). In some instances, an authorized representative may consent on your behalf. In the case of minor children, a parent or legal guardian may consent to our collection, use and disclosure of a minor’s Personal Information.  
+
+You may withdraw your consent at any time, subject to legal or contractual restraints. However, your withdrawal of consent might affect your experience and  **Alterra Mountain Company** ’s ability to provide products or services to you, or quick and accurate service to you either on-line or through our service agents.
+
+If you do not consent to the collection, use and disclosure of your Personal Information online as described in this Policy, do not use our websites. 
+
+**HOW TO MANAGE YOUR MARKETING PREFERENCES**
+
+If you no longer want  **Alterra Mountain Company** to use your personal information for marketing purposes, including to send you promotional communications, you may contact us (see “Contact Us” section below) and ask to be removed from our mailing and/or contact lists. We may ask you for more information where required in order to identify you correctly. 
+
+You may also manage your email subscriptions by clicking on “Unsubscribe” to stop receiving future promotional communications from us, or by clicking on “Manage My Email Preferences” found at the bottom of any of our emails you receive in order to manage your email subscriptions. 
+
+If you wish to stop receiving text messages from us, please either reply “STOP” to the text message, contact the front desk of the relevant property, or contact us with your request (see “Contact Us” section below).
+
+**Children Under 13:** **Alterra Mountain Company** does not knowingly collect Personal Information from children under the age of thirteen, without prior consent of the child’s parent or legal guardian.  **  Alterra Mountain Company**’s websites and social media pages available online are not directed to users under the age of thirteen. If you believe that your child under the age of thirteen may have provided  **Alterra Mountain Company** with Personal Information online please contact us at [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com)and  **we** will take appropriate action. 
+
+**Alterra Mountain Company** requires the consent of the child’s parent or guardian for a child under the age of 13 to open an account or create profile related to an App.  Parents and guardians understand that the App may collect information about their child, such as photos, chat sessions, location information and the lifts that the child has skied or boarded.  **Alterra Mountain Company  **collects this information for the limited purpose of providing the App Services.   **Alterra Mountain Company** does not collect or use this information in order to market products or services to children, and **Alterra Mountain Company** will not sell this information.  To disable your child’s account, request a copy of the information, or ask a question about the App and your child’s data, parents and guardians should contact  **Alterra Mountain Company** ’s Chief Privacy Officer at [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com).
+
+**ACCESS AND CORRECTION**
+
+**Request a Copy:** To obtain access to, or a copy of, your Personal Information that we have on file for little or no cost contact [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com)or send a written request to 1621 18^th^St., Suite 300, Denver, CO 80202 Attention: Chief Privacy Officer. Access to this information may be denied if you are unable to verify that you are the subject of the request. Information may also not be provided when giving you access to the information would threaten someone’s life or security, reveal third-party Personal Information, breach confidentiality, violate attorney/solicitor-client privilege, disrupt a formal dispute resolution, or impede a law enforcement investigation. 
+
+**Accuracy:  **We endeavor to ensure that your Personal Information is as accurate, complete, and as up to date as necessary for the purposes for which it will be used or shared. If you would like to request correction of your Personal Information that we have on file you may write to us at [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com)or 1621 18^th^St., Suite 300, Denver, CO 80202 Attention: Chief Privacy Officer. 
+
+**HOW WE PROTECT YOUR INFORMATION**
+
+We will generally keep your Personal Information on file for a reasonable period of time in order to meet our needs as described herein and as applicable, the needs of the parties to whom we disclose it. This file will be maintained on our servers or those of our service providers and will be accessible by our authorized employees, service providers and representatives.  We maintain reasonable and systematic controls, schedules, and practices to retain and destroy Personal Information.
+
+**Internal Protections:  **Alterra Mountain Company ****protects Personal Information by security safeguards appropriate to the sensitivity of the information. We have policies and practices to protect against loss, theft, unauthorized access, disclosure, copying, use, modification, or destruction. While we make efforts to protect your information we are not in a position to guarantee that your Personal Information will always be secure. There may be factors beyond  **Alterra Mountain Company **’s control which may result in loss or theft, or unauthorized access, use or disclosure of your Personal Information. As a consequence, we disclaim any warranties or representation on non-disclosure of your Personal Information. We also employ a Chief Privacy Officer to be accountable for  **Alterra Mountain Company**’s compliance with these policies and whom you may contact at the address below with any question, concern or complaint. 
+
+**External Protections:  **To protect information disclosed to service providers, **Alterra Mountain Company** uses contractual or other means to provide a similar level of protection so that service providers treat the information confidentiality, implement appropriate security measures and only use and disclose the information for the purposes of providing the applicable services.  
+
+Please be aware that your information may be transferred to, stored and processed by  **Alterra Mountain Company** and its affiliates and service providers in Canada and the United States where **Alterra Mountain Company** , or its affiliates or service providers operate and maintain data. While outside of Canada, your Personal Information will be subject to applicable foreign laws, which may permit foreign government, regulatory or national security authorities to have access to your Personal Information in certain circumstances.  By providing us with your information, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy. 
+
+**RESPONSIBILITY**
+
+**Alterra Mountain Company** ’s Chief Privacy Officer is responsible and accountable for  **Alterra Mountain Company** ’s compliance with this Policy and will handle all privacy-related inquiries and complaints. 
+
+**CONTACT US**
+
+If you have any questions regarding our privacy practices, you may contact us at:
+
+Mail:            Alterra Mountain Company
+
+                       1621 18^th^Street, Suite 300
+
+                       Denver, CO 80202
+
+                       Attention:  Chief Privacy Officer
+
+Phone:        1-877-477-6777 (North American Toll-Free)
+
+                       1-303-749-8218 (Local and International)
+
+Email:          [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com)
+
+**SUBJECT TO CHANGE**
+
+This Policy is subject to change, and may be supplemented or modified at any time. You should check this site regularly to stay up-to-date about changes to this Policy. If material changes are made, we will notify you by placing prominent notice on our website [https://www.alterramtnco.com/privacy-policy](http://www.alterramtnco.com/privacy.aspx).  
+
+California Customers:
+
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. Under this law, California residents may request certain information regarding our disclosures in the prior calendar year, if any, of their personally identifiable information to third parties for their own direct marketing purposes.  To make such a request, please contact us at the address listed above.  You must include sufficient detail in your request, such as your first and last name, email and postal addresses.  We will attempt to provide you with the requested information within thirty (30) days of receipt.  We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one set out in this policy.  As stated in this Privacy Policy, we will not sell your Personal Information.
