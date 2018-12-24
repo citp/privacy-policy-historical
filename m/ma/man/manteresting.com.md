@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627155408id_/http%3A//manteresting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224171557id_/http%3A//manteresting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Manteresting
+# Privacy Policy - MANteresting
 
 **Manteresting Privacy Policy**  
-Version 2014-04-09
+Version  2018-12-19
 
-**1\. ACCEPTANCE OF THE PRIVACY POLICY**  
-The [Terms of Service](https://web.archive.org/web/20180627155408id_/http%3A//manteresting.com/terms-of-service) found on the Manteresting Site are incorporated herein by reference. By using the Site you agree to be bound by the Terms of Service Manteresting Site, whether you are a User or an Organizer.  
-Capitalized terms hereunder shall be defined under the Terms of Service found on the Manteresting Site.
-
+ **1\. ACCEPTANCE OF THE PRIVACY POLICY**  
+The Terms of Service found on the Manteresting Site are incorporated herein by reference. By using the Site you agree to be bound by the Terms of Service Manteresting Site, whether you are a User or an Organizer.  
+Capitalized terms hereunder shall be defined under the Terms of Service found on the Manteresting Site.  
+[](http://manteresting.com/terms-of-service/)  
 2\. COLLECTION OF INFORMATION AND USE BY MANTERESTING  
 2.1 Collection of information  
 You are free to browse the Site without revealing any personal information making it possible to identify you. However, once you have sent us your identifiable personal information, you are no longer anonymous to us.
 
-We collect two types of information from Users/Organizers of the Site: "Automatic Anonymous Information" (hereafter known as "AAI") and "Identifiable Personal Information" (hereafter known as "IPI"). We process AAI and IPI differently, and the following articles describe both AAI and IPI and indicate how each type of information is collected and used by Manteresting.
+We collect two types of information from Users/Organizers of the Site: “Automatic Anonymous Information” (hereafter known as “AAI”) and “Identifiable Personal Information” (hereafter known as “IPI”). We process AAI and IPI differently, and the following articles describe both AAI and IPI and indicate how each type of information is collected and used by Manteresting.
 
 The Site includes functions that make it possible to monitor certain information automatically, based on your behavior. This information does not identify you personally. We use this information to improve the Content and functionality of the Site, and to better understand and satisfy our visitors. This information may include the browser you use, your IP address or other information. This information is referred to herein as the AAI.
 
-IPI is individually identifiable information about you that allows us to identify or contact you. Some of the Site's functions require asking you for certain IPI, such as your e-mail address, billing address, and/or other personal information. You may choose to provide IPI in order to access certain functions on the Site, to Publish your Content, to create an Account, to organize your Content, or to make comments. When possible, we tell you which fields of information are required and which are optional. You can always choose not to provide certain information, but in that case it may be that you cannot use certain of the Site's functions mentioned above.
+IPI is individually identifiable information about you that allows us to identify or contact you. Some of the Site’s functions require asking you for certain IPI, such as your e-mail address, billing address, and/or other personal information. You may choose to provide IPI in order to access certain functions on the Site, to Publish your Content, to create an Account, to organize your Content, or to make comments. When possible, we tell you which fields of information are required and which are optional. You can always choose not to provide certain information, but in that case it may be that you cannot use certain of the Site’s functions mentioned above.
 
 Manteresting does not collect or keep information on Users/Organizers whom we know to be under 18 years of age.
 
@@ -27,9 +27,9 @@ We use your AAI which we collect mainly in order to improve the quality of the S
 When you register on the Site we may ask you for certain IPI, such as your e-mail address, so as to provide you with different functions. Your consent to this promotional use and disclosure of this information is a condition for your participation.
 
 2.3 Shared information  
-Manteresting may share your IPI: (i) with Manteresting's affiliates or subsidiaries or, as the case may be, with third parties who are bound by an obligation of confidentiality; or (ii) if Manteresting has obtained your consent; or (iii) if Manteresting is required to do so by law; or (iv) in the event of a transfer of ownership of Manteresting, a merger or any similar act; or (v) as mentioned elsewhere in the present Privacy Policy.
+Manteresting may share your IPI: (i) with Manteresting’s affiliates or subsidiaries or, as the case may be, with third parties who are bound by an obligation of confidentiality; or (ii) if Manteresting has obtained your consent; or (iii) if Manteresting is required to do so by law; or (iv) in the event of a transfer of ownership of Manteresting, a merger or any similar act; or (v) as mentioned elsewhere in the present Privacy Policy.
 
-The following provisions describe some of the ways in which your IPI may be disclosed to third parties: we may make use of third parties to provide functions on our behalf in order to improve our communication and our efforts in the areas of promotion, marketing or other services. These third parties may include approved service providers, consultants and other companies working with us (referred to collectively as "Representatives"). They have access only to the IPI necessary to perform their functions and may not share the IPI with others or use it for any purpose other than providing or improving the Site.
+The following provisions describe some of the ways in which your IPI may be disclosed to third parties: we may make use of third parties to provide functions on our behalf in order to improve our communication and our efforts in the areas of promotion, marketing or other services. These third parties may include approved service providers, consultants and other companies working with us (referred to collectively as “Representatives”). They have access only to the IPI necessary to perform their functions and may not share the IPI with others or use it for any purpose other than providing or improving the Site.
 
 Manteresting reserves the right to share or transfer your IPI in order to comply with a legal order, disclose your activities or IPI as part of the application of the law when, at its sole discretion, Manteresting believes it necessary or appropriate, as part of an investigation of fraud, violation of intellectual property rights or some other illegal activity or activity that may engage your or our liability.
 
@@ -49,14 +49,14 @@ The use of these cookies is optional; you can configure your browser not to acce
 However, for optimum use of the Site, we advise you to accept Manteresting cookies. Certain functions may require the use of cookies in order to function correctly.
 
 5\. COMMENTING OR POSTING ON THE SITE  
-When you post information (a tag, a link, a comment...) on the Site, the information may be consulted or used by any User; we therefore invite you to take care when posting, as this can lead to you receiving unsolicited information from Users.
+When you post information (a tag, a link, a comment…) on the Site, the information may be consulted or used by any User; we therefore invite you to take care when posting, as this can lead to you receiving unsolicited information from Users.
 
 6\. SECURITY  
 Manteresting uses its best efforts to ensure the confidentiality of your personal data.
 
-Manteresting uses secure technology according to industry standards to protect the Content and the User/Organizer's privacy. All Manteresting personnel have a duty to respect the confidentiality of the Users/Organizer. A confidentiality obligation is included in each employment contract of Manteresting employees with access to personal data.
+Manteresting uses secure technology according to industry standards to protect the Content and the User/Organizer’s privacy. All Manteresting personnel have a duty to respect the confidentiality of the Users/Organizer. A confidentiality obligation is included in each employment contract of Manteresting employees with access to personal data.
 
-HOWEVER, MANTERESTING ASSUMES NO LIABILITY FOR UNAUTHORIZED ACCESS TO ANY CONTENT. THE INTERNET IS NOT A SECURE MEDIUM, AND RESPECT FOR PRIVACY CANNOT BE GUARANTEED WHEN INFORMATION IS TRANSMITTED. E-MAIL ADDRESSES ON THE INTERNET AND ON WEB SITES ARE EXPOSED TO INTERCEPTION, INFRINGEMENT AND UNAUTHORIZED ACCESS. INFORMATION SENT OR RECEIVED ON THE INTERNET IS NOT GENERALLY SECURE, AND MANTERESTING CANNOT AND DOES NOT MAKE ANY DECLARATION, GUARANTEE OR PROMISE CONCERNING THIRD-PARTY INTERCEPTION OF THE USER'S/ORGANIZER'S PERSONAL, FINANCIAL OR OTHER INFORMATION. MANTERESTING SHALL NOT BE HELD LIABLE FOR DAMAGES WHICH THE USER/ORGANIZER MAY SUFFER AFTER TRANSMITTING ANY INFORMATION FROM OR TO THE SITE OR IN ASSOCIATION WITH IT. ANY INFORMATION TRANSMITTED VIA THE SITE IS SENT AT THE USER'S/ORGANIZER'S OWN RISK.
+HOWEVER, MANTERESTING ASSUMES NO LIABILITY FOR UNAUTHORIZED ACCESS TO ANY CONTENT. THE INTERNET IS NOT A SECURE MEDIUM, AND RESPECT FOR PRIVACY CANNOT BE GUARANTEED WHEN INFORMATION IS TRANSMITTED. E-MAIL ADDRESSES ON THE INTERNET AND ON WEB SITES ARE EXPOSED TO INTERCEPTION, INFRINGEMENT AND UNAUTHORIZED ACCESS. INFORMATION SENT OR RECEIVED ON THE INTERNET IS NOT GENERALLY SECURE, AND MANTERESTING CANNOT AND DOES NOT MAKE ANY DECLARATION, GUARANTEE OR PROMISE CONCERNING THIRD-PARTY INTERCEPTION OF THE USER’S/ORGANIZER’S PERSONAL, FINANCIAL OR OTHER INFORMATION. MANTERESTING SHALL NOT BE HELD LIABLE FOR DAMAGES WHICH THE USER/ORGANIZER MAY SUFFER AFTER TRANSMITTING ANY INFORMATION FROM OR TO THE SITE OR IN ASSOCIATION WITH IT. ANY INFORMATION TRANSMITTED VIA THE SITE IS SENT AT THE USER’S/ORGANIZER’S OWN RISK.
 
 As set forth in the Terms of Service (Manteresting Site), your Login Details are confidential and you are not to disclose this Login Details to others; YOU MAY NOT HOLD MANTERESTING LIABLE FOR THE DISCLOSURE OF YOUR LOGIN DETAILS OR ANY CONSEQUENCE OF THIS DISCLOSURE, IF YOU DISCLOSE YOUR LOGIN DETAILS TO ANY THIRD PARTY.
 
@@ -68,4 +68,9 @@ The present Privacy Policy is part of the Terms of Service (Manteresting Site), 
 Any dispute arising from, or in connection with, this Privacy Policy, shall be submitted to the exclusive jurisdiction of the Oklahoma courts in Oklahoma, USA.
 
 9\. CONTACT  
-For any questions concerning this Privacy Policy, other policies for the Site or how to use the Site, please contact us [HERE](http://blog.manteresting.com/component/com_fss/Itemid,415/layout,open/view,ticket/)
+For any questions concerning this Privacy Policy, other policies for the Site or how to use the Site, please contact us.
+
+[](http://manteresting.com/contact/)
+
+  
+
