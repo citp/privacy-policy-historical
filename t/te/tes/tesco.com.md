@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605224526id_/https%3A//www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224061524id_/https%3A//www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy-information/privacy-policy) for the most accurate reproduction.*
 
 # Tesco – Privacy Policy
 
-Last Updated: 23rd May 2018
+Last Updated: 23 May 2018
 
 At Tesco, we’re working hard to serve shoppers a little better every day. Looking after the personal data you share with us is a hugely important part of this. We want you to be confident that your data is safe and secure with us, and understand how we use it to offer you a better and more personalised shopping experience.
 
@@ -124,7 +124,7 @@ This means that processing your personal data allows us to:
 
 **Why do we process your personal data in this way?** Looking at your browsing behaviour and purchases allows us to personalise our offers and services for you. This helps us meet your needs as a customer. 
 
-  * Provide you with relevant marketing communications (including by email, post or online advertising), relating to our products and services, and those of our suppliers, Retail Partners and the Tesco Group. As part of this, online advertising may be displayed on websites across the Tesco Group and on other organisations’ websites and online media channels(including for example through Sky AdSmart, https://www.skyadsmart.co.uk/). We may also measure the effectiveness of our marketing communications and those of our suppliers and Retail Partners. 
+  * Provide you with relevant marketing communications (including by email, post or online advertising), relating to our products and services, and those of our suppliers, Retail Partners and the Tesco Group. As part of this, online advertising may be displayed on websites across the Tesco Group and on other organisations’ websites and online media channels (including for example through Sky AdSmart, <https://www.skyadsmart.co.uk/>). We may also measure the effectiveness of our marketing communications and those of our suppliers and Retail Partners. 
 
 **Why do we process your personal data in this way?** We want to ensure that we provide you with marketing communications, including online advertising, that are relevant to your interests. To achieve this we also measure your responses to marketing communications relating to products and services we offer, which also means we can offer you products and services that better meet your needs as a customer. You can change your marketing choices, both when you register with us, and at any time after that. You also have choices when it comes to online advertising. We set out below your choices when it comes to cookies, and how you can control your online behavioural advertising preferences. 
 
@@ -297,14 +297,14 @@ When we share personal data with these companies we require them to keep it safe
 
 ### Retail partners
 
-We work with a number of Retail Partners who –
+We work with a number of Retail Partners who:
 
-  * sell products through our Services, for example on the [Tesco Marketplace](http://www.tesco.com/direct/partners-directory/); or
+  * sell products through our services; or
   * offer products, services and/or the ability to earn points through Clubcard.
 
 
 
-We only share personal data that enable our Retail Partners to provide their services. For example, when you shop on the Tesco Marketplace we will give the relevant Retail Partner your name and contact details so that they can deliver your items.
+We only share personal data that enable our Retail Partners to provide their services.
 
 ### Service Providers
 
@@ -351,7 +351,7 @@ The personal data that we collect from you may be transferred to, and stored at,
 
 **_This section explains the choices you have when it comes to receiving marketing communications and taking part in market research._**
 
-We will send you relevant offers and news about our products and services in a number of ways including by email, but only if you have previously agreed to receive these marketing communications. When you register with us we will ask if you would like to receive marketing communications, and you can change your marketing choices at anytime online, over the phone or in writing.
+We will send you relevant offers and news about our products and services in a number of ways including by email, but only if you have previously agreed to receive these marketing communications. When you register with us we will ask if you would like to receive marketing communications, and you can change your marketing choices at anytime online, by clicking the unsubscribe link in the footer of any marketing email, over the phone or in writing.
 
 We also like to hear your views to help us to improve our Services, so we may contact you for market research purposes. You always have the choice about whether to take part in our market research.
 
@@ -398,6 +398,7 @@ To analyse how our services are used, including to test different content versio
   * [Adobe](https://www.adobe.com/uk/privacy.html)
   * [Optimizely](https://www.optimizely.com/legal/opt-out/)
   * [Google](https://policies.google.com/?hl=en&gl=uk)
+  * [Integral Ad Science](https://integralads.com/uk/privacy-policy/)
 
 
 
