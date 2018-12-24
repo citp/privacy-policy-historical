@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528064906id_/https%3A//www.city-journal.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224020343id_/https%3A//www.city-journal.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Journal
 
@@ -52,6 +52,6 @@ Children. We will not knowingly collect personally identifiable information from
 
 Third Parties. We do not control the privacy policies of third parties that have websites linked to the Services. For instance, we may provide tools allowing you to share articles on the Services through services such as Facebook or Twitter. If you click on a link or use such tools, the privacy policies of the website that you link to will govern the use of your information by that website’s operator. We assume no responsibility or liability for the actions of third parties with respect to their use of your information. Accordingly, make sure you are aware of, and comfortable with, the privacy policies of any third-party websites you link to.
 
-International Users. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may offer a different level of privacy protection, the Manhattan Institute/City Journal commits to uphold the privacy protections as explained in this Privacy Policy.
+International Users.  _The Platform is hosted in and managed from the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction.  _ **By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.**
 
 Correct/Update Personal Information. If you would like to review, update, change, or delete information that we have collected from you, please send an email to [communications@manhattan-institute.org](mailto:communications@manhattan-institute.org) or write to: 52 Vanderbilt Avenue, 2nd Floor, New York, NY 10017.
