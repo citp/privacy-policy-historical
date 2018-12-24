@@ -1,63 +1,78 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728003636id_/https%3A//www.opodo.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224124742id_/https%3A//www.opodo.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Opodo
 
-We use cookies and share your info with third parties to customise advertising, analyse traffic and provide social media related services. By using our website you accept our Cookies Policy. [Click here for more information. ](http://www.opodo.co.uk/cookies/)
+We use cookies and share your info with third parties to customise advertising, analyse traffic and provide social media related services. By using our website you accept our Cookies Policy. [Click here for more information. ](https://www.opodo.co.uk/cookies/)
 
-At Opodo, we understand and respect the importance of your privacy. In this privacy policy, we explain how we collect data about you and your use of this website, how we use that data, who that data may be sent to, and how you can amend data you have submitted to us.
+﻿ 
 
-###  **How do we collect data about you and your use of the website?**
+  1. __ Who is the Data Controller for your personal data?
+  2. __ Why do we collect your personal data?
+  3. __ How long do we keep your data?
+  4. __ What are the legal grounds for processing your personal data?
+  5. __ Who are going to be the recipients of your personal data?
+  6. __ What are your Data Rights?
 
-We ask you for personal information in a variety of circumstances:
 
-\- when you make or start to make a reservation, or purchase something from our website or through our customer service team - by email, letter, fax, or on the phone;  
-\- when you register with us, subscribe to our newsletter, enter competitions or register for promotions; or  
-\- when you take part in surveys or provide us with feedback.  
-To make Opodo work even better for you, we also use 'cookies' to collect information about your use of the website. Cookies are a feature of web browser software that allows web servers to temporarily store information within your browser, which in turn allows us to recognise the computer used to access Opodo. Most browsers automatically accept cookies but you can delete existing cookies from your browser. You can also edit your browser options to choose not to receive cookies in future. For further information on cookies, we recommend you visit [http://www.allaboutcookies.org/]()
 
-Please read our Cookie policy [http://promos.opodo.co.uk/cookies]() for more information about the cookies used on www.opodo.co.uk. By using the Opodo site, you implicitly accept our Cookie policy.
+## Who is the Data Controller for your personal data?
 
-###  **How do we use your data?**
+**Opodo Limited,** with VAT number GB-766445988 and registered address at 26-28 Hammersmith Grove, London W6 7BA, United Kingdom. You can contact the Data Protection Officer (DPO) at [dpo@edreamsodigeo.com](mailto:dpo@edreamsodigeo.com).
 
-We may use your data for the following principal purposes:
+## Why do we collect your personal data?
 
-\- to provide you with the highest possible level of service (such as a special meals request) and to help you to get the best out of our website;  
-\- to fulfil the bookings and purchases you have made through our website, and any other requests we receive from you;  
-\- to contact you about changes to your itinerary eg. flight schedule changes, delays etc, or to send you useful information about your trip;  
-\- to notify you about our products and services, special offers and promotions and any other marketing materials which we think may interest you. While this may include material about third party products from time to time, those third parties will not contact you directly (unless you subsequently ask them to!);  
-\- in case of a booking that you start to make but then abandon after entering your personal details, we may send you an email inviting you to seek technical assistance or to complete your booking. You can immediately unsubscribe from these notifications at any time by clicking the unsubscribe link at the bottom of these emails;  
-\- for other administrative purposes and for internal analysis; and  
-\- to occasionally participate as part of a survey or to get feedback  
-Normally we will contact you by email but we may occasionally contact you by mail, phone, fax or sms (mobile phone text messages).
+During the purchase process, we ask you only for **the personal data that we need** to provide you with our mediation services to contract travel products, as well as to attend you and solve any post-contractual query, claim or request.
 
-**_As we may need to contact you regarding flight schedule/hotel changes or cancellations as quickly as possible after they are notified to us by the airline/hotel we strongly recommend that when booking you give us a valid email address and phone number that is accurate and does not block calls from business numbers before and during any travel period._ **
+When you book a trip with us, we subscribe you to our **newsletters** , unless you say otherwise before confirming your booking. Anyway, you will be able to unsubscribe at any moment, using the link that you will find in every newsletter for this purpose.
 
-###  **Who may your data be disclosed to?**
+If you provide us with your **contact email address** , but then you are unable to finish your booking, we use it to contact you in a personalized manner and help you to book your trip, if you are still interested. We also keep it to recognize you when you visit our website again, in order to improve your user experience.
 
-We disclose your data to our partners who will only use your data for the purposes of fulfilling your booking requests.
+The main purpose of processing is not subordinated to the consent given by using our Website to collect **cookies** and share your anonymous information with third parties to customize advertising, analyse traffic and provide you with social media related services. For more information, please check our [Cookies Policy](https://www.edreams.com/cookie-policy/).
 
-We will not disclose your data to any other third parties except where it is necessary for the purposes of fulfilling any bookings, purchases or requests that you make on the website, through our customer service team, for the purposes or credit checks or fraud prevention or as otherwise described in this policy. We may be required to disclose your information if required by any applicable law or regulation. We may also disclose your data to reputable third parties and professional advisers acting on our behalf and who are obliged to keep that data confidential.
+We do not make automated decisions based on profiles, beyond the customization of advertising and the legitimate prevention of fraud on the Internet.
 
-All airlines are required to collect Advance Passenger Information from passengers before travel to or from the USA and certain other countries. For this purpose, your data may be disclosed to airlines who may onward disclose it to foreign authorities.
+## How long do we keep your data?
 
-###  **Transfer of information**
+We will keep your personal data **while we have legal liabilities** in relation to the services we have provided you with.
 
-If it is necessary to transfer your data to a company based outside the EU (eg. for the purpose of fulfilling your booking) then we will make every effort to ensure that your personal data is processed in accordance with the Data Protection Act 1998 and any other relevant legislation in force from time to time.
+In addition to the above, if you are subscribed to our newsletters, we will keep your email address for this purpose **until you ask to be unsubscribed**. Moreover, if you provide us with your contact email address, but then you are unable to finish your booking, we will keep your email address only temporarily and, in any case, for a **maximum period of 15 months**.
 
-###  **How can you amend or suppress your personal data?**
+The information collected by our cookies is also kept for a **maximum period of 15 months**.
 
-We have done our best to make it easy for you to amend or suppress the personal data you have submitted. In addition, when you sign in you will see a link called 'Profile' that allows you to edit or delete your details. If you require any other information about the data we hold about you please email [enquiriesuk@opodo.com](mailto:enquiriesuk@opodo.com).
+## What are the legal grounds for processing your personal data?
 
-Alternatively you can write to us at: The Data Protection Officer, 26-28 Hammersmith Grove, London W6 7BA
+The collection and processing of your personal data is mainly based on the **contractual relationship** you have with us.
 
-###  **Traveller Profiles**
+When we send our newsletters to you or we use your email address to contact you in a personalized manner or to recognize you when you visit our website again, this is based on our **legitimate interest** in providing you with our services.
 
-Opodo collects personal information about travellers when a booking is made. Opodo also has a facility whereby traveller profiles (both for yourself and others) are stored to save you typing these details each time you make a booking. This information includes traveller name, date of birth, contact details, meal preferences, credit card and invoicing information, frequent flyer programmes and travel preferences.  
-As traveller profile information may relate to persons other than yourself, you should ensure that any information you provide, which relates to others, is provided with those persons' consent to its use in accordance with this privacy policy. 
+The processing of the information collected by our cookies is based on the **consent** provided under the applicable laws.
 
-###  **Opt out**
+## Who are going to be the recipients of your personal data?
 
-If you wish us to stop sending you newsletters or details of other offers and promotions please automatically subscribe through the unsubscribe link in our emails or email us at [nomarketing@opodo.com](mailto:nomarketing@opodo.com)
+In order to provide you with our services, we need to communicate your personal data to the **Travel Providers involved** , in order that they can provide you with the products or services you have requested, i.e. the airline which has to issue your ticket and/or operate your flight, the hotel you have booked, the car rental company you have contracted through our Website, etc.
+
+We will also share your personal data with other companies within the **eDreams ODIGEO Group** for internal purposes relating to management centralization. In particular, the eDreams ODIGEO Group centralizes the processing of personal data through the Spanish subsidiary eDreams International Network, SL and has adequate internal policies to ensure that any data processing carried out by third parties is made under the strictest security requirements and according to the applicable laws.
+
+## What are your Data Rights?
+
+Under the General Regulation (EU) 2016/679, of 27 April 2016, on Data Protection ( **GDPR** ), the following rights are recognised in relation to the processing of your personal data:
+
+  1. **Right of access.** You have the right to confirm that your personal data is being processed and, if the case, to get a copy of such data and complete information about the processing.
+  2. **Right to rectification.** You have the right to amend errors, modify data that may be inaccurate or incomplete and ensure the information which is being processed is right.
+  3. **Right to erasure.** You have the right to suppress your data without undue delay in the case that the processing is illegal or that the purpose for processing or collecting it has disappeared.
+  4. **Right to restriction.** You have the right to ask for the suspension of the processing in the case that such processing is illegal or inadequate.
+  5. **Right to object.** You have the right to object to the processing of your data in the case that the purpose of the processing is direct marketing or that the processing should be stopped for reasons relating to your personal situation, unless we can demonstrate compelling legitimate grounds to continue processing them or that the processing is necessary to exercise or defense legal claims.
+  6. **Right not to be subject to automated individual decisions.** You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly affects you, unless that is necessary for the execution of a contract, is permitted by the Law or it is based on your explicit consent.
+
+
+
+Based on the nature of our services and the purpose of the collection and the processing of your personal data, the _Right to portability_ is not applicable.
+
+In order to exercise your rights, please, send an email to [dpo@edreamsodigeo.com](mailto:dpo@edreamsodigeo.com) or send your request by post courier to the following address: Data Protection – Paseo Zona Franca, 195-205, 08038 Barcelona, Spain. In your request, you have to clearly state (i) your personal identity, by indicating your complete name and the email address you used to purchase or create an account, and (ii) the right or rights you are exercising.
+
+You can also ask the UK Supervisory Authority on Data Protection ([https://ico.org.uk](https://ico.org.uk/)) for protection to ensure that your rights are respected, if you wish.
+
+The exercise of these rights is free of charge, unless you make unjustified or excessive requests. In this case, we will be entitled to charge you with a reasonable fee based on administrative costs.
 
 ? 
 
@@ -72,188 +87,21 @@ S
 
  flights found for your search 
 
-Change search 
+Return 
 
-Back to summary à
+One way 
 
-Change search 
+Multi-city 
 
-Return
+Add another flight  (tailor your trip with up to 4 flights) 
 
-One way
-
-Multi-stop
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for departure 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-to
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for destination 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for departure 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-to
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for destination 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for departure 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-to
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for destination 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for departure 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-to
-
-Add other destinations and compare! 
-
-You can add up to 3 destinations 
-
-9
-
-Enter a city/airport for destination 
-
-Please enter a valid city or airport 
-
-Compass by Opodo is not available for Multiple Destinations 
-
-Compass by Opodo is not available for Flight + Hotel 
-
-adults (12+) G Passengers 12 years old or over. 
-
-children (2-11) G Maximum of 2 children per adult. 
-
-infants G Passengers under 2 years old during the whole trip. 
-
-  * ì
-
-All results
-
-for your search
-
-  * î
-
-Direct Flights
-
-for your search
-
-  * ï
-
-Most direct
-
-for your search
-
-  *   * ï
-
-Flexible dates
-
-Save on other dates
-
-New!
-
-
-
-
-éUp to 30%* off your hotel when you book now! 
-
-Looking for different dates or destinations?
-
-Change hotel search 
-
-Hotel destination 
+Up to 40% off your hotel when you book now! 
 
 Location
 
 Distance from city centre: 
 
-. 
-
-We are updating the results 
+Search  Search Flight + Hotel 
 
 F
 
