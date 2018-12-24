@@ -1,47 +1,101 @@
-> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630160528id_/http%3A//www.eurocontrol.int/articles/privacy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224072444id_/https%3A//www.eurocontrol.int/articles/privacy-terms-use) for the most accurate reproduction.*
 
 # Privacy & terms of use | Eurocontrol
 
-We are committed to ensuring that your privacy is protected.
+EUROCONTROL protects your personal data in accordance with the [EUROCONTROL Regulation on Personal Data Protection of 28/12/2006](https://web.archive.org/node/4960) adopted by its Member States.
 
-The only information gathered during general browsing is from standard server logs. These include your IP (Internet Protocol) address, domain name, browser type, operating system, and information such as the website that referred you to us, the files you download, the pages you visit, and the dates/times of those visits.
+##  Why do we collect, store and process your data?
 
-**The following personal information may be collected   in case of registration or subscription to one of our online services or products or events:**
+We maintain a database of stakeholder contact information, including information about EUROCONTROL staff. The information is collected mainly in order to send you information and documentation concerning meetings organised by EUROCONTROL.
 
-  * Name, job title and organisation
-  * Contact information including e-mail address
-  * Other information relevant to visitor surveys.
+The database also contains information obtained from you at meetings at EUROCONTROL, on visits to your organisation, or at other events in which EUROCONTROL is involved.
 
+The database has an add-on tool with which we are able to create mailing campaigns with a possibility to track if the mail has arrived and been opened at its destination. Tracking data is kept and used solely for statistical purposes to establish the usefulness of a mailing. It is used in an aggregated and anonymised manner. The aim is to identify the information which is of most interest to users.
 
+##  What is the legal basis for processing?
 
-The information gathered during general browsing of the “eurocontrol.int” domain is used to analyse trends and usage of the EUROCONTROL website and to improve the usability and usefulness of the site. It is not connected with any personal information.
+We use your personal data in the following circumstances:
 
-**EUROCONTROL may collect personal information by which you can be identified for the following reasons:**
-
-  * Contact you in response to a query or suggestion
-  * Manage and process your job application
-  * Manage and process your registration to EUROCONTROL events and meetings
-  * “Remember” your online profile and preferences
-  * Statistical analysis
+  * Legal basis: in the accomplishment of the internal administrative tasks necessary to the organisation or in the exercise of its tasks and functions (e.g. meeting organisation)
+  * Consent: where you have provided your consent or explicit consent to processing your personal data (e.g. marketing emails)
 
 
 
-EUROCONTROL only keeps the data for the time necessary to fulfil the purpose of collection or further processing.
+##  How is your personal data collected?
 
-EUROCONTROL is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure EUROCONTROL has put in place suitable physical, electronic and managerial procedures to safeguard and secure the information collected online.
+We either collect the data directly from you when you subscribe to one of our meetings or events or we create a record of you because you are part of a delegation from your State or Organisation which participates in our meetings. We also collect data from you when you ask for access to one of our services. Your name may also appear in reports of meetings where you have met our staff members.
 
-If you have previously agreed to us using your personal information for the purpose of informing you about EUROCONTROL’s activities and you want to subscribe, please contact us.
+##  What personal data do we collect, store and process?
 
-EUROCONTROL will not sell, distribute or lease your personal information to third parties. EUROCONTROL will not use your personal information to send you promotional information about third parties which we think you may find interesting.
+The personal data we collect is divided into the following subsets:
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](mailto:web@eurocontrol.int) as soon as possible.
+  * Corporate profile: this subset includes: Title, Name, Job Title, Function, Company Name, Email, Work Phone, Work Address (street, zip code, city, country), the list of meetings or events in which you are participating or have participated, the meeting reports and your private address if you have agreed that it can be used for our interactions.
+  * Full personal data: Corporate profile fields as well as Nationality, Company Department, alternative email addresses, private phone if you have given it, and visa information if you have asked for assistance in obtaining a visa for visiting our premises.
 
-##  Use of cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-EUROCONTROL uses traffic log cookies to analyse data about webpage traffic and improve our website according to customer needs. EUROCONTROL only uses this information for statistical analysis purposes and then the data is removed from the system.
+Tracking data generated by our email campaigns is kept and used in anonymised form solely for statistical purposes, i.e. to establish the usefulness of a mailing. Personal tracking data will not be used except in cases where, after consultation with the subscriber and upon request, a staff member verifies that a mail has been sent and arrived at its destination.
 
-A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+##  Who is your data disclosed to? Who has access to your data?
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website
+The collected data will be treated confidentially and used only by the relevant staff of EUROCONTROL. In particular:
+
+  * Meeting secretariats and stakeholder relations assistants who keep distribution lists up-to-date will have access to full personal data.
+  *  All EUROCONTROL staff that need to contact you for professional reasons, to invite you to events or to inform you about relevant news and will have access to the corporate profile only.
+
+
+
+##  How long is your data kept?
+
+Data is kept as long as it is needed, i.e. until we are informed that your professional/personal position has changed or if you unsubscribe to our services. More information about how you can withdraw your consent is available below. The data is then archived and kept for one year in the form of back-up in case it needs to be activated again.
+
+##  How can you access your contact details, check their accuracy and, if needed, correct, erase or block you them?
+
+By contacting [srm admin support](mailto:srm.admin.support@eurocontrol.int) you can ask to see what data is held on you and request the desired action being performed to your contact.
+
+##  How can you withdraw your consent?
+
+In the event that the processing takes place on the basis of consent, you have the right to withdraw consent at any time by following the unsubscribe instructions in our marketing materials or by contacting the data holder. For more infolmration, go to the bottom of the page. A drop-down menu will allow you to find your data holder for one or all of our materials.
+
+##  What do we do to avoid misuse or unauthorised access?
+
+EUROCONTROL is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, EUROCONTROL has put in place the appropriate physical, electronic and managerial procedures to safeguard and secure the information collected online.
+
+Staff handling your data are bound by confidentiality obligations.
+
+##  What safeguards we apply in case of transfer to third parties?
+
+We will not, under any circumstances, share with or sell your personal information to any third party for marketing purposes, and you will not receive offers from other companies or organisations as a result of giving your details to us.
+
+We may also share your personal information where you ask us to, for example where we make a referral to another organisation.
+
+In the case of data transfers from EUROCONTROL to recipients in States which have not ratified Council of Europe Convention No. 108 we require adequate safeguards from recipients through specific contractual terms and conditions.
+
+##  What are the contact points for questions and complaints?
+
+For any queries related to your personal data, please contact: [srm admin support](mailto:srm.admin.support@eurocontrol.int) . Any complaint can be addressed to EUROCONTROL’s [Data Protection Officer](mailto:data-protection-officer@eurocontrol.int).
+
+##  Find your data processor:
+
+These are the data processors are only responsible for their specific periodical newsletters and publications as mentioned below. If you cannot find your data processor, contact [srm admin support](mailto:srm.admin.support@eurocontrol.int) .
+
+**PRM newsletter**  
+[Danny Debals](mailto:lssip.support@eurocontrol.int?subject=Data%20Processor%20request%20-%20PEPR%20newsletter) |  **LSSIP newsletter**  
+[Danny Debals](mailto:lssip.support@eurocontrol.int?subject=Data%20Processor%20request%20-%20LSSIP%20newsletter) |  **SESAR PJ19 / PJ20**  
+[Wim Post](mailto:atmmasterplan@eurocontrol.int?subject=Data%20Processor%20request%20-%20SESAR%202020%20PJ19-20) |  **Special flash info**  
+[Wim Post](mailto:atmmasterplan@eurocontrol.int?subject=Data%20Processor%20request%20-%20Special%20flash%20info)  
+---|---|---|---  
+**EATMA newsletter**  
+[Wim Post](mailto:atmmasterplan@eurocontrol.int?subject=Data%20Processor%20request%20-%20EATMA%20newsletter) |  **Skyway monthly digest**  
+[Kyla Evans](mailto:corporate.communications@eurocontrol.int?subject=Data%20Processor%20request%20-%20Skyway%20monthly%20digest) |  **Skyway magazine**  
+[Kyla Evans](mailto:corporate.communications@eurocontrol.int?subject=Data%20Processor%20request%20-%20Skyway%20magazine) |  **Hindsight magazine**  
+[Antonio Licu](mailto:acas@eurocontrol.int?subject=Data%20processor%20request%20-%20Hindsight)  
+**ACAS bulletin**  
+[Antonio Licu](mailto:acas@eurocontrol.int?subject=Data%20processor%20request%20-%20ACAS%20Bulletin) |  **Industry monitor**  
+[David Marsh](mailto:statfor.info@eurocontrol.int?subject=Data%20processor%20request%20-%20Industry%20Monitor) |  **CODA/FLAD report**  
+[David Marsh](mailto:coda@eurocontrol.int?subject=Data%20processor%20request%20-%20CODA%2FFLAD%20report) |  **Network operations reports**  
+[Gerard Boydell](mailto:nm.ops.perf@eurocontrol.int?subject=Data%20processor%20request%20-%20Network%20Operations%20Report)  
+**IANS newsletter**  
+[Alex Wandels](mailto:ians.newsletter@eurocontrol.int?subject=Data%20processor%20request%20-%20IANS%20Newsletter) |  **NM ATFM Daily briefing**  
+[Christopher Peregrine](mailto:nos.campaign@eurocontrol.int?subject=Data%20processor%20request%20-%20NM%20ATFM%20Daily%20briefing) |  **UAS community**  
+[Mike Lissone](mailto:atm_uas@eurocontrol.int?subject=Data%20processor%20request%20-%20UAS%20Community) |   
