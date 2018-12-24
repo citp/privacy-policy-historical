@@ -1,75 +1,27 @@
-> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202023732id_/https%3A//instantpot.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224185634id_/https%3A//instantpot.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Instant Pot
 
-#### We respect your privacy!
+**PRIVACY ON INSTANT POT WEBSITE**
 
-Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned! Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to call or email us.
+May 25, 2018
 
-This Privacy Policy describes the terms of our commitment to respect and protect your privacy.
+Welcome to the Instant Pot website. Here is how we protect your privacy when you visit our site:
 
-### **1\. HOW WE PROTECT YOUR PRIVACY**
+  * We use cookies that recognize your device and record your visit, but only to understand your interests and serve you ads and offers according to your interests.
+  * You can opt out of cookies through your browser. Each browser offers instructions to disable cookies. Follow the instructions that correspond to your browser. Since cookies support site functions, disabling cookies will also limit site functions.
+  * When you subscribe to our newsletter, we collect your email address to send you the newsletter and your browsing data to customize the newsletter to your interests. You can unsubscribe from the newsletter through the “unsubscribe button” at the bottom of the page.
+  * When you purchase an Instant Pot, you download an APP to get the full service of the Instant Pot. With your consent, the APP will collect your use data of the Instant Pot to respond to your needs and interests.
+  * When you open an account we collect the information necessary to give you access to the account, such as your user name and password, to which only you have access. You are free to provide the information you want on your account and share through our share functions.
+  * You can close your account at any time through the dedicated button on the account page. At that point, your account is deleted as soon as any outstanding issue, such as your right to return merchandise according to our return policy, is resolved.
+  * When you contact us, we collect your contact information as well as the personal information you have provided to respond to you,. Once the matter is resolved and we have no need for your personal information, we delete it or make it anonymous. .
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-### **2\. MINORS**
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+We store your personal data in Canada and with AWS under the highest data security standards. AWS is certified under the EU-US Privacy Shield.
 
-### **3\. POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
+To learn more, you can [_click here_](https://instantpot.com/privacy-policy-instant-pot/) to read our Privacy Policy.
 
-Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
+**Contact**
 
-### **4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU**
-
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website you go to when you leave our website, your computer’s operating system, and the type of web browser that you are using.
-
-Our website automatically records this basic information about you. And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
-
-We may also collect any data that you provide us by posting it on our website or by email. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
-
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
-
-### **5\. WHAT WE DO WITH YOUR INFORMATION**
-
-We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
-
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
-
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
-
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
-
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
-
-### **6\. USER NAMES AND PASSWORDS**
-
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
-
-### **7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
-
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
-
-We hate junk email (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems.
-
-### **8\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
-
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
-
-### **9.  ** **AUTORESPONDERS**
-
-We may use autoresponders to communicate with you by email. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an email to [Support@InstantPot.com](mailto:Support@InstantPot.com), or sending us mail to the address listed below.
-
-### **10\. POLICY CHANGES**
-
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by email, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
-
-If you are concerned about the topic covered by this policy, you should read it each time before using our website.
-
-### **11\. CALIFORNIA PRIVACY RIGHTS**
-
-If you are a California resident and our customer, Cal. Civ. Code §1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.
-
-This policy was last updated February 10, 2010.
-
-Copyright © 2008 [Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at [InstantPot.com](http://instantpot.com/). All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+You can access your data, have it deleted or ask further questions on how we use it and protect it at [Privacy@InstantPot.com](mailto:Privacy@InstantPot.com).
