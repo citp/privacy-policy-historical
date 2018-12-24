@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishafriend.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623085526id_/http%3A//www.wishafriend.com/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishafriend.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224165553id_/http%3A//www.wishafriend.com/info/privacypolicy.php) for the most accurate reproduction.*
 
 # Wishafriend.com - Privacy Policy
 
@@ -91,7 +91,7 @@ For more choices please follow the "Opt Out" link for the respective service a
 
  **Age limitations:**  
 We do not knowingly collect or solicit personal data about or direct or target interest-based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. If you are under 13, please do not send any data about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal data. If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible. If you believe that we might have any data from or about a child under the age of 13, please contact us.  
-We do not knowingly contact or do business with children under 13 years of age. If a parent/guardian becomes aware that a child under the age of 13 has attempted to contact and/or do business with us, please advise us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) so that we may rectify the situation
+We do not knowingly contact or do business with children under 13 years of age. If a parent/guardian becomes aware that a child under the age of 13 has attempted to contact and/or do business with us, please advise us by email at support@idzdigital.com so that we may rectify the situation
 
  **Changes to Privacy Policy:**  
 We reserve the right to modify our Privacy Policy at any time simply by posting such modification on this site and without any other notification. Any such modification will be effective immediately upon posting on this site.   
