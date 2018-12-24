@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeslide.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624082936id_/https%3A//www.themeslide.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeslide.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224183128id_/https%3A//www.themeslide.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy – ThemeSlide
 
@@ -6,7 +6,7 @@
 
 At www.themeslide.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by www.themeslide.com and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at admin@themeslide.com.
 
  **Log Files**
 
