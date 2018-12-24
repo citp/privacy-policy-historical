@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904010847id_/https%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224085455id_/https%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
 
 # Digital Marketing Agency Pole Position Marketing's Privacy Policy
 
