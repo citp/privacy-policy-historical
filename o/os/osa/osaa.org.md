@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osaa.org privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523104422id_/http%3A//www.osaa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osaa.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224101050id_/http%3A//www.osaa.org/privacy) for the most accurate reproduction.*
 
 # OSAA - Privacy Policy
 
