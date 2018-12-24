@@ -1,67 +1,61 @@
-> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215223759id_/http%3A//www.optasports.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224230805id_/https%3A//www.optasports.com/privacy-policy) for the most accurate reproduction.*
 
-# Opta Privacy Policy
+# Privacy Policy - Opta Sports
 
-This privacy policy sets out how Opta Sports Data uses and protects any information that you give Opta Sportsdata when you use this website.
+### Privacy Policy
 
-Opta Sports Data is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Thank you for visiting [www.performgroup.com](http://www.performgroup.com/) – Perform Group Limited’s broadband site. This Privacy Policy explains how Perform Group Limited, and other companies within the Perform Group Limited’s group of companies, use information we collect about you and the choices you can make about the way your information is collected and used.
 
-Opta Sports Data may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st Feb 2010.
+### Use of Information
 
-**What we collect:**
+At some of our sites, you can order products, enter contests, vote in polls or otherwise express an opinion, or subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of information that may be collected at these pages include: your name, e-mail address, postal address, and telephone/mobile number, your gender and date of birth. We request these details in order to provide the service or product to you (i.e. dispatch news and Perform communications via email, post, fax or phone), to respond to any queries you may have, to ensure we request and receive the correct consent from you, and to understand customer trends and patterns.
 
-We may collect the following information:
+We may also use the information you provide to send you details via email, post, fax, SMS or phone of our products and services and the products and services of other companies we think are suitable and may be of interest to you and by submitting your details, you are consenting to such use. However, you always have the opportunity to remove your consent to such use by sending an email to [info@performgroup.com](mailto:info@performgroup.com) with your request.
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to [info@performgroup.com](mailto:info@performgroup.com) letting us know.
 
+We may ask you for other information, including, but not limited to, your interests, opinions and the way you use the Perform Group Limited service to assist us in our initiatives outlined above and to improve our understanding of customer trends and patterns.
 
+### Cookies
 
-**What we do with the information we gather:**
+When you visit this site we send “cookies” to your computer primarily to enhance your on-line experience. “Cookies” are files which can identify you as a unique customer and store your personal preferences as well as technical information. On their own, cookies do not contain or reveal any personal information. However, if you choose to furnish the site with personal information, this information may be linked to the data stored in the cookies.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We may also collect certain anonymous technical information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
 
-  * Internal record keeping
-  * We may use the information to improve our products and services
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests
+We use cookies and technical information to personalise your visit to our site (e.g., to recognise you by name when you return to our site) and to track customer trends and patterns. This helps us improve the design and content of our site for visitors and assists us in our marketing initiatives. Although most browsers are initially set up to accept cookies, you can set most browsers at any time to refuse all cookies or indicate when a cookie is being sent. However, please note that some parts of this site may not function properly if you refuse cookies. For more information on cookies and how to disable them you can consult the information provided by the Interactive Advertising Bureau UK at <http://www.allaboutcookies.org/>.
 
+### Disclosure of information
 
+We may share information about visitors to this site in aggregate with third parties including advertisers, business partners, and sponsors, to understand customer trends and patterns and manage and improve our business relationships. Please be assured that such information will be anonymous so that your identity is protected.
 
-**Security**
+We may share personal information with third parties to administer and process your requests (e.g., when you order a product or service we may share your details with third party financial institutions to process payment for your order). We may also share your details with third parties (such as auditors or legal advisors) to obtain professional advice.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing.
 
-**How we use cookies**
+We may disclose information we hold in response to legal proceedings, for example, in response to a court order or a subpoena. We may also disclose such information in response to a law enforcement agency’s request.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+### Limitation of liability
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Some of our sites contain links to other sites where information practices may be different to ours. For example, if you “click” on a Clients site, the “click” may take you off this web site. Visitors should consult the other sites’ privacy notices as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+We sometimes may offer content (e.g., competitions, sweepstakes, or promotions) that is sponsored by or co branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the site activity. We are not responsible for and have no control over these third parties’ use of this information. However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We may use a reputable third party to present or serve the advertisements that you may see at this site. This Privacy Policy does not cover any use of information that a third-party ad server may have collected from you.
 
-**Links to other websites**
+### Contact and notices
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website.
+Although absolute security cannot be guaranteed on the Internet, please be assured that we have in place security measures to protect the confidentiality of your information. We will continue to maintain and improve these measures over time in line with legal and technological developments.
 
-Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+You can contact us at any time at [info@performgroup.com](mailto:info@performgroup.com) see the personal information we have collected through this site which relates to you. To protect your privacy and security we will take reasonable steps to verify your identity before granting access.
 
-**Controlling your personal information**
+If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose personal information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
 
-You may choose to restrict the collection or use of your personal information in the following way:
+If you have any questions or comments about this Privacy Policy please feel free to contact us at [info@performgroup.com](mailto:info@performgroup.com).
 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [marketing@optasports.com](mailto:marketing@optasports.com)
+Perform Group Limited  
+Sussex House  
+Plane Tree Crescent  
+Feltham  
+TW13 7HE
 
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
-
-We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Opta Sports at our Waterloo Head office addess shown on the contact us page.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect
+(registered office: Sussex House, Plane Tree Crescent, Feltham, TW13 7HE)
