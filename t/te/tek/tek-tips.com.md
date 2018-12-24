@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tek-tips.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623230808id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tek-tips.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224093516id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
 
 # ENGINEERING.com | Privacy Policy
 
@@ -22,8 +22,6 @@ We also may use tracking technology to capture your Internet domain and host nam
 
 We collect Personal Information supplied by our users who register or who choose to provide their profile data to access certain areas or information on engineering.com. This profile data allows us to better match our content to the needs of our audience. For example, if your engineering specialty is “mechanical” you will be more likely to be presented with content that is specifically aimed at mechanical engineers. Engineering.com is a free service that is supported by advertising, so we also use this data to better match advertisements and promotions to our audience.
 
-If you choose to provide us with your Personal Information, we may transfer that Information within engineering.com, to engineering.com's third-party service providers as required, and to advertisers whose information you have viewed. Transferring this information may mean that your data travels across borders.
-
 ## Choice
 
 You may choose whether or not to provide Personal Information to engineering.com. If you choose not to provide the Personal Information we request, you can still visit most of engineering.com's Web pages, but you may be unable to access certain pages and the services that they contain. 
@@ -36,11 +34,11 @@ Wherever your Personal Information may be held within engineering.com or on its 
 
 To the extent that you do provide us with Personal Information, engineering.com wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting engineering.com should you need to update or correct that Information.
 
-## Third Party Services
+## Sharing of Data with Third Parties
 
-It is against engineering.com's policy to sell Personal Information collected online without consent. 
+Third parties provide certain services, such as email list maintenance, available on engineering.com or on our behalf. Engineering.com may provide information, including Personal Information, that engineering.com collects to third-party service providers to help us deliver programs, products, information, and services. Engineering.com will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on engineering.com's behalf.
 
-Third parties provide certain services, such as email list maintenance, available on engineering.com or on our behalf. Engineering.com may provide information, including Personal Information, that engineering.com collects to third-party service providers to help us deliver programs, products, information, and services. Engineering.com will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on engineering.com's behalf. 
+If you choose to provide us with your Personal Information, we may transfer that Information within engineering.com, to engineering.com's third-party service providers as required, and to advertisers whose information you have viewed or downloaded. Transferring this information may mean that your data travels across borders. By registering to access content from one of our advertisers the advertiser may contact you by telephone, email, direct email or other common forms of communication using the information you provided.
 
 Other than as stated herein, engineering.com does not intend to transfer Personal Information without your consent to third parties who are not bound to act on engineering.com's behalf unless such transfer is legally required.
 
