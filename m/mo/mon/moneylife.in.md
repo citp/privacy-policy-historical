@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneylife.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119184957id_/http%3A//moneylife.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneylife.in privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224041649id_/http%3A//moneylife.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Moneylife India
 
@@ -8,7 +8,7 @@ PRIVACY POLICY
 
 This Privacy Statement relates solely to the online information collection and use practices of our Website located at www.moneylife.in its subdomains and www.suchetadalal.com (“Websites”). We recognize that many visitors and users of these Websites are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
-Your use of these Websites indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: mail@moneylife.in
+Your use of these Websites indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: mail[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **What Information Do We Collect?**
 
