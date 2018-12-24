@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622060234id_/http%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224113543id_/http%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 360 Total Security
 
-[New CryptoMiner hijacks your Bitcoin transaction. Over 300,000 computers have been attacked. _Learn more_.](https://blog.360totalsecurity.com/en/new-cryptominer-hijacks-your-bitcoin-transaction-over-300000-computers-have-been-attacked/?utm_campaign=ClipboardWalletHijacker&utm_medium=Banner&utm_source=Mainpage&utm_content=LearnMore.EN)
+[Double-Gun Trojan which uses game plug-in to spread, is updated to V4.0 and looking for trouble! _Learn More_. ](https://blog.360totalsecurity.com/en/double-gun-trojan-which-uses-game-plug-in-to-spread-is-updated-to-v4-0-and-looking-for-trouble/?utm_medium=Banner&utm_source=Mainpage)
 
 **This Privacy Policy was last changed on 25 May 2018.**
 
 ## 1\. Who we are
 
-Qihoo 360 Technology Co., Ltd. (“ **we** ”) respects your privacy and values the trust you place in us when you share your personal information with us. This policy sets out how we, as data controller, collect and use your personal data, why we use it, with whom we share it, the rights to which you may be entitled and your choices about our use of your personal data.
+Beijing Qihu Keji Co. Ltd. (“ **we** ”) respects your privacy and values the trust you place in us when you share your personal information with us. This policy sets out how we, as data controller, collect and use your personal data, why we use it, with whom we share it, the rights to which you may be entitled and your choices about our use of your personal data.
 
 This policy covers our use of your personal data arising from use of 360 Total Security software, including essential, standard and premium versions (“ **360 Total Security** ”) and our official website (“ **Website** ”) https://www.360totalsecurity.com. 
 
@@ -53,10 +53,7 @@ Information that we collect through **your use of 360 Total Security** , includi
   * IP address;
   * Unique 360 serial number which created during your use of certain services;
   * Device information, such as your operating system version, system language, CPU model, memory, hard disk and its usage, etc.; 
-
-
-
-Basic information of files, such as the file name, format, path and character of files, and MD5 checksums of files.
+  * Basic information of files, such as the file name, format, path and character of files, and MD5 checksums of files.
 
 | 
 
