@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purrworld.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625191831id_/http%3A//purrworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purrworld.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224120709id_/http%3A//purrworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PurrWorld
 
