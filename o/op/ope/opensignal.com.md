@@ -1,120 +1,147 @@
-> *The following text is extracted and transformed from the opensignal.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417190200id_/https%3A//opensignal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensignal.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224015558id_/https%3A//opensignal.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSignal
 
-Legal Notice
+## 1\. RESPONSIBILITY FOR THE PROCESSING OF YOUR DATA
 
-OpenSignal Inc. respects your privacy. This policy explains the privacy practices of OpenSignal Inc. (" **OpenSignal** ") on www.opensignal.com (the " **Website** ") and with respect to OpenSignal's mobile application (the " **Application** ") (collectively referred to as " **the Services** "). It describes how OpenSignal collects and uses your personal information and the rights and options available to you.
+This Privacy Policy describes how we collect, use, and share your personal data when you use the OpenSignal mobile application, our websites and social media accounts ("our Services" or "OpenSignal Services").
 
-This policy is incorporated in OpenSignal’s Terms of Service (the " **Terms of Service** " or the " **Terms** ").
+The purpose of this Policy is to inform you about our privacy practices and to ensure that you understand the purposes for which we collect and process your personal data. The following is a brief summary of the manner and purposes for which we process your personal data.
 
-**By surfing, logging or connecting to, accessing or using the Service, you acknowledge that the Terms of Service and this Privacy Policy constitute a binding and enforceable legal contract between the Company and any person connecting to, accessing or using OpenSignal.**
+OpenSignal Limited ("OpenSignal", "we," "us" or "our") is the entity which is responsible for the control and processing of personal data that we collect from you when you use the Services. If you have any questions or concerns about OpenSignal’s use of your personal data, please contact us at privacy@opensignal.com.
 
-In this policy, the term 'personal information' (or 'personally identifiable information') means any information that, with reasonable efforts, may be used to identify you, such as a first and last name, home address and email address.
+Our mission is to analyze and review the availability, service coverage, performance and signal quality of numerous mobile networks all over the world. We obtain the relevant data by collecting measurements relating to signal reception and quality from users of mobile devices. Where you agree to give us access to your data, we collect data from your mobile device both when you are using ou. app and when it is closed.
 
-**PERSONAL INFORMATION THAT YOU PROVIDE**
+## 2\. HOW WE COLLECT AND USE YOUR PERSONAL DATA
 
-When you register with the Services, OpenSignal may ask you to provide certain contact and personal details, such as mobile device number and e-mail address. Bear in mind that false, incorrect, or out dated information may impair OpenSignal's ability to provide you with the Services and to contact you when necessary. 
+  1. _Network performance data_. When allowed access to your data, we collect data from your mobile device both when you are using our app and when it is closed. 
 
-Further information may be collected when OpenSignal exchange communications with you, for example, if you submit a request, contact OpenSignal's support team, or report a violation to the abuse team.
+We take repeated measurements from your device from time to time including location data (which include GPS coordinates or similar information regarding the location of your device), network type, network operator, cellular and Wifi signal strength and quality, and the identifiers of connected cell towers and Wifi routers (including both BSSID and SSID). We also measure how data is flowing, both passively (by monitoring how fast it moves through other apps), and actively (by running a test that downloads or uploads data within our SDK). We do not monitor the content of your data usage. The goal of collecting the above data is to measure the experience you have of wireless networks.
 
-**PERSONAL INFORMATION THAT YOU SHARE**
+We also collect information from environmental sensors on your device (depending on which ones are integrated in your device), this allows us to measure things such as the device acceleration, orientation and the external atmospheric pressure and light intensity. We also measure some internal device conditions – such as battery temperature and voltage. The goal of collecting this data is to understand how instantaneous device conditions affect experience of mobile networks.
 
-The Services are based on users' locations and submissions, including user submissions made to third party services (such as social networks) which interact with the Service upon such users' choice, all of which may include personal information. You may upload and share content, such as Speed Tests, with other users on social media. The content that you share over social media should be treated as neither private nor confidential and you should not have any expectation of privacy with respect to it. Therefore, you must exercise caution and common sense when submitting information. At the very least you should demonstrate the same degree of caution as when publishing personal information by means other than the Internet and cellular services. OpenSignal may make certain content that you submit for posting, viewable to all Internet users.
+To better understand differences between devices, we collect data on your device hardware such as the model, manufacturer, and manufacturers and models of sub-components (such as the cellular radio) and the capabilities of these components (for example the number of cores on the CPU). Similarly, to understand differences caused by software, we collect information on the mobile platform version used and whether custom ROMs or Android skins are installed. The goal of collecting this data is to understand how device properties affect experience of mobile networks.
 
-In any event (but except as detailed below with respect to information shared from your social network accounts according to your privacy settings for such social network accounts), your email address or mobile device number will not be visible to others through any reports or user posts that you share or upload.
+When you first use the OpenSignal app a random identification code is generated by our software and allocated to your mobile device and used to identify your device whenever we take measurements. To further help us manage the data, we also collect your public IP address, the device MAC number, the Android serial number. These fields are needed for statistical purposes, for example to understand how much data is contributed by each device.
 
-**We, at OpenSignal, take great measures to provide you with the best experience you can have while using the Service; However, OpenSignal has no control over the conduct of any user, and disclaims all liability in this regard. Users are advised to carefully and thoroughly consider whether or not to make public or available any information and carefully examine all necessary details related to any communication with other users prior to any engagement or communication being made.**
-
-**Participating in any user's activities as a result, directly or indirectly, from using OpenSignal, is entirely at your own risk. OpenSignal is not a party to any agreement entered into between the users in any circumstances. The user has the sole and ultimate responsibility regarding compliance with all laws, regulation or any other duty. We do not accept any liability for any loss, damage, cost or expense that you may suffer or incur as a result of or in connection with your participation in any activity or event initiated, held or conducted by a user or a third party nor in connection to any agreement between the users or third parties, including any activity or event related in any way, directly or indirectly, the Services or the use thereof.**
-
-**LOCATION BASED AND NETWORK DIAGNOSTIC INFORMATION WE COLLECT**
-
-When you use your mobile device with a copy of the Application installed, OpenSignal collects your location and network diagnostic information. OpenSignal uses that information to provide you and other users with the Services. OpenSignal may make use your location and/or network diagnostic information to create aggregated anonymous data and to use such data in accordance with this policy (please refer to use of aggregated information chapter hereunder). OpenSignal will make commercially reasonable efforts to permanently remove or obscure your identity from your location or network diagnostic information that is used for aggregated purposes. 
-
-**OPTING OUT OF LOCATION AND NETWORK DIAGNOSTIC INFORMATION SERVICES BY UNINSTALLING THE APPLICATION OR CHANGING SETTINGS**
-
-At all times you may uninstall the Application, by using the Application's uninstall option, or by using the programs removal feature of your operating system. Following the uninstallation process, OpenSignal will not be able to collect any further location or network diagnostic information from you.
-
-At all time you may change how much and how often information is shared by the Application by using the Application’s internal settings. There is no obligation to share any network diagnostic or location information with us and all location and network diagnostic information shared with us is therefore with the consent of the user and governed by the terms of the aggregated information chapter hereunder. 
-
-**INTEGRATION WITH SOCIAL NETWORKS**
-
-You may choose to share information between the Application and your social network account (such as Facebook). Through this option, you may choose to have personal information and other content about you available from social networks, transmitted and shared through the Services. Similarly, you may choose to have personal information and other content about you available from OpenSignal, including your location and submitted network information, transmitted to and shared through your social network account.
-
-The social network's use of information made available by OpenSignal is governed by that social network's privacy policy and controlled by the social network, not by this Policy or OpenSignal. 
-
-When you connect to the social network account through the Services for the first time or otherwise make the Services interact with your social network account, you will be asked to permit the social network to share your personal information stored on such social network with the Services. We collect your information from your social networks account only in accordance with your privacy settings you have set up under your social networks accounts. Accordingly we only collect such information which you allowed the social network(s) to share with third parties (such as your name, email address, list of friends, profile picture, other information you make publicly available via the applicable social network and/or other information you authorize us to access by authorizing the social network to provide such information) subject to the privacy settings that you have set in such social network accounts.
-
-**META-DATA THAT WE COLLECT**
-
-OpenSignal collects information about the use of the Services. For example, OpenSignal may record the frequency and scope of your use of the Services, the duration of your sessions, the Internet protocol (IP) address and the name of the domain that serve you to access the Services, and the geographic location of the computer system that you are using to log-in. Such data is usually automatically collected and stored in log files of the Services' computer servers.
-
-**WHAT DOES OPENSIGNAL DO WITH YOUR PERSONALLY IDENTIFIABLE INFORMATION?**
-
-OpenSignal may use your personally identifiable information for the following purposes only:
-
-  * to operate the Services and to improve and customize your experience with the Services, as well as the experience of other users;
-  * to provide you with support and handle request and complaints;
-  * to send you updates, notices, announcements, and additional information related to the Services;
-  * to send you marketing and advertising material through e-mail messages, subject to your prior indication of consent. At any time you may opt out of the Services' mailing lists, by changing your preferences in your personal account or by sending OpenSignal a written notice to hi@opensignal.com In any case, OpenSignal will not knowingly share your personal identifiable details with any advertisers, without your explicit consent;
-  * to conduct surveys and questionnaires;
-  * to enforce the Terms of Use;
-  * to contact you when OpenSignal believes it to be necessary;
-  * to comply with any applicable law and assist law enforcement agencies under any applicable law, when OpenSignal has a good faith belief that OpenSignal’s cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards;
-  * to prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Services;
-  * to handle breakdowns and malfunctions;
-  * to take any action in any case of dispute, or legal proceeding of any kind between you and the Service, or between you and other users or third parties with respect to, or in relation with the Service;
-  * For purposes provided under this policy and the Terms of Use.
+  2. _Information that you directly provide to us_. If you register for our Services, we may ask you to provide certain personal information including, but not limited to, your name, postal address, email address, telephone number, password, your username on a third-party social networking service (such as Facebook, Twitter, etc.), password for use of the Services, date of birth (to ensure you are over 16 and for statistical purposes), and other data. We retain messages you send to us through the Services, and any other data you provide to us. We use this data for our business purposes related to the Service, as further detailed below.
+  3. _Information collected or received from third parties_. If you register for the Services through your account with third-party social networking services, such as Facebook, Twitter, Twitch or Google, we may receive data about you from such third parties or through a service linked to your account with such services. This information is used in the same way as the data referred to in paragraph (b) above.
+  4. _Analytics_. We collect, measure and analyze traffic and usage trends relating to users’ use of our Services, and we use third-party analytics tools to help us do so. This allows us to understand, among other things, who is using our Services, how they use them, and ways to improve our Services. Such third-party analytics tools use cookies and persistent device identifiers to collect and store information including, but not limited to, time of visit, pages visited, time spent on each page, IP address, unique device ID, advertising tags and type of operating system used.
+  5. _Cookies_. When you use the Services, we sometimes send one or more cookies (small text files containing a string of alphanumeric characters) to your computer that uniquely identify your browser and enhance your navigation on our Services. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take), and allow us or our third-party analytics tools we use to track your usage of the Services. There are at least two different types of cookies: persistent and session cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent use of the Service. Persistent cookies can be removed by following your web browser's directions for removal of cookies. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to notify you when a cookie is being sent. However, some features of the Service may not function properly if cookies are disabled.
+  6. _Log file_. Log file information is automatically reported by your browser each time you access a web page. When you access or use the Services, our servers may automatically record certain log file information, including but not limited to your web request, IP address, browser type, referring/exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, and pages viewed.
+  7. _Clear GIFs/Web Beacons_. Clear GIFs (also known as web beacons) allow for the tracking of a user's response to an email or usage of a website in a manner that does not reveal personally identifiable information. We may use clear GIFs or similar technologies to assess responses to emails and usage of the Service. For example, we may use clear GIFs to track when emails are opened and which links are clicked by recipients. You can disable certain abilities of clear GIFs to capture information by blocking cookies.
+  8. _Device identifiers_. When you access or use the Service using a mobile device, we may access, collect, monitor and/or remotely store one or more "device identifiers," such as a universally unique identifier. Device identifiers are small data files or similar data structures stored on or associated with your device that uniquely identify your device. A device identifier may consist of data stored in connection with the device hardware, operating system or other software, or data sent to the device by us. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device to enhance your navigation on our Services. Some features of our Services may not function properly if use or availability of device identifiers is impaired or disabled.
+  9. _Commercial communications_. Insofar as permitted under applicable law, we may use the information we collect or receive to communicate directly with you in relation to the Services or related services we offer. Subject, where necessary, to obtaining your consent to receiving such communications, we may use the information to communicate with you in relation to other services that we and our affiliates offer. For example, we may use the information to send you emails containing newsletters, promotions and special offers. We may also use the information to send you service-related notices (e.g., account verification, technical and security notices).
+  10. _Use of certain service-type information_. We may use information from cookies, log files, device identifiers, location data, clear GIFs and other tools to: (i) remember information so that you will not have to re-enter it during your visit or the next time you use the Service; (ii) provide custom, personalized content or information to you or others; (iii) monitor the use of the Service; (iv) monitor aggregate metrics, such as total number of visitors, traffic and demographic patterns; (v) diagnose or fix technology problems; (vi) provide advertising to your browser or device; and (vii) conduct research or surveys.
+  11. _Use of information with Your Consent_. We may use your personal data for any other purpose for which you specifically provide us with your consent.
 
 
 
-**SHARING INFORMATION WITH OTHERS**
+## 3\. THE PURPOSES FOR WHICH WE USE YOUR PERSONAL DATA
 
-OpenSignal does not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes.
+The purposes for which we collect and store your personal data are the following:
 
-OpenSignal will not share your personally identifiable information with others, without your consent, except for the following purposes and to the extent necessary in OpenSignal's good-faith discretion:
-
-  * When you use the Services, when you take part in content-related activities, when it is necessary to facilitate the functionality of the Services and when it is necessary to manage and administer the Services OpenSignal provides;
-  * If OpenSignal reasonably believes that you have breached the Terms of Use, or abused your rights to use the Services, or performed any act or omission that OpenSignal reasonably believes to be violating any applicable law, rules, or regulations. OpenSignal may share your information in these cases, with law enforcement agencies and other competent authorities and with any third party as may be required to handle any result of your wrongdoing;
-  * If OpenSignal is required, or reasonably believes that it is required by law to share or disclose your information;
-  * In any case of dispute, or legal proceeding of any kind between you and OpenSignal, or between you and other users with respect to, or in relation with the Services;
-  * In any case where OpenSignal reasonably believes that sharing information is necessary to prevent imminent physical damage or damage to property;
-  * If OpenSignal organizes the operation of the Services within a different framework, or through another legal structure or entity, or if OpenSignal is acquired by, or merged into or with another entity, or if OpenSignal enters bankruptcy, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;
-  * OpenSignal may also share personally identifiable information with companies or organizations connected or affiliated with OpenSignal, such as subsidiaries, sister-companies and parent companies. Personally identifiable information may also be shared with OpenSignal's other partners and service providers, with the express provision that their use of such information must comply with this policy. 
+  1. Measurements that we take from the mobile devices of individual network users allow us to create a detailed picture of the service availability, quality and performance of numerous mobile communication networks across the world and over time. We publish some of the statistical data that we generate and we provide it to our customers (such as network operators) to help them understand their own network’s service coverage, performance and signal quality (and those of their competitors). Although the end-product we produce is made up of aggregated anonymized data, the underlying ‘raw data’ which contains personal data of individual users is important for us and our customers for generating statistical data, validating the results, quality control and further analysis;
+  2. Personal data that we receive from you enables us to deliver our Services to you and enables you to use them efficiently;
+  3. Insofar as permitted under applicable law, we use your data to communicate with you in relation to our Services;
+  4. We use data to personalize, test, monitor, improve and upgrade our Services, to meet our legal obligations and the regulatory requirements to which we may be subject, for loss prevention purposes and to protect and enforce our rights and meet our obligations to third parties, and for our internal business purposes, such as compiling and analyzing usage information for general operational, statistical and business purposes.
 
 
 
-**HOW DOES OPENSIGNAL USE AGGREGATED INFORMATION?**
+## 4\. YOUR RESPONSIBILITIES
 
-OpenSignal may use anonymous, statistical or aggregated information to properly operate the Services, to improve the quality of the Services, to enhance your experience, to create new services and features, including customized services, to change or cancel existing content or service, and for further internal, commercial and statistical purposes.
+It is important that the personal data we hold about you is accurate and current. If you provided us with any details of personal data, please keep us informed if such details change.
 
-OpenSignal may also use anonymous, statistical or aggregated information collected on the Services, by posting, disseminating, transmitting or otherwise communicating or making available such information to users of the Services, to the Services' providers, partners and any other third party.
+## 5\. LEGAL BASIS FOR PROCESSING YOUR DATA
 
-**DATA RETENTION**
+We rely on the following lawful basis for the processing of your personal data:
 
-OpenSignal will retain location and anonymized device information for the duration it deems necessary for its reasonable business needs.
+  1. Our legitimate interests in (among other things) delivering the Services, conducting commercial research, improving and maintaining the Services, personalizing and tailoring content made available to you through the Service, protecting the security or integrity of our databases, protecting our business or reputation, taking precautions against legal liability, dealing with our assets in the event of a business change (see further below), protecting and defending our legal rights or property, or for resolving disputes, investigating and attending to inquiries or complaints with respect to your use of the Services;
+  2. Where relevant, your express consent. If you give your consent for accessing your mobile data to take measurements, you can withdraw it through the personal settings on the OpenSignal app);
+  3. Where relevant, the fulfilment of our contractual obligations to you under our terms and conditions of service; and
+  4. Where relevant, for compliance with legal obligations to which we are subject.
 
-OpenSignal may at all times review, retain and disclose any other information as OpenSignal deems necessary to satisfy any applicable law, regulation, legal process or governmental request and OpenSignal's needs and necessities. By doing so OpenSignal does not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such communications.
 
-**COOKIES**
 
-OpenSignal may use cookies on the Services. Cookies are packets of information sent by the Website's servers to your web browser and then sent back by the browser each time it accesses the Website's servers.
+## 6\. HOW WE SHARE YOUR INFORMATION
 
-The cookies may contain a variety of information, such as the content of search queries, the Website's pages you have accessed, session durations and IP addresses.
+  1. _Joint Controllers_. We share some of the raw measurements that we collect from users’ mobile devices with some of our customers under the terms of data license agreements and data sharing agreements. Some of the data we share with our customers contains personal data such as datasets containing location data of individual users. Our customers are permitted to use the data for the purpose of analyzing it and generating aggregated data relating to the performance of their networks or telecommunications equipment (and competing networks or equipment) and to use aggregated data in their sales activities. Our customers are not permitted to use your personal data to communicate with you or to influence you or to profile or track individual users. They are required to keep your personal data confidential and to use appropriate means to protect it. Our customers have access to data such as location data of users to enable them to analyze the data and create statistical information based on the aggregation of data from numerous users. Our customers that receive such data from us are not permitted to disclose any datasets that contain personal data relating to specific individuals to their own customers or any third parties. 
+  2. _Service Providers_. We may share datasets containing your personal data with third-party service providers that perform services on our behalf in connection with our Services, such as cloud service providers that we may use, or third-party analytical service providers. Where your information is shared with such third parties, we ensure that the third-party service provider will deal with your information only on our behalf and on our written instructions and solely for our benefit (and not for its own benefit). 
+  3. _Business Change_. If we become involved in a merger, consolidation, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution or other transaction, or if the ownership of all or substantially all of our business otherwise changes, we may share or transfer databases containing personal data of users to successor party or parties in connection with such transaction or change in ownership or legal structure.
+  4. _Necessary Disclosure_. Regardless of the choices you make regarding your information and to the extent permitted or required by applicable law, we may disclose information about you to third parties to: (i) enforce or apply the terms and conditions of our Services; (ii) comply with laws, subpoenas, warrants, court orders, legal processes or requests of government or law enforcement officials; (iii) protect our rights, reputation, safety or property, or that of our users or others; (iv) protect against legal liability; (v) establish or exercise our rights to defend against legal claims; or (vi) investigate, prevent or take action regarding known or suspected illegal activities; fraud; our rights, reputation, safety or property, or those of our users or others; violation of the Terms of Use, our policies or agreements; or as otherwise required by law.
 
-OpenSignal may use cookies for various purposes, such as to facilitate the use of the Website, to collect statistical information, to verify information, and to customize the Website to your personal preferences and for information security purposes.
 
-Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer's hard drive. If you wish to block the Website's cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Website, or certain features thereof.
 
-**INFORMATION SECURITY**
+## 7\. HOW WE PROTECT YOUR INFORMATION
 
-OpenSignal considers information security to be a top priority. OpenSignal implements systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. Therefore, although OpenSignal takes great efforts to protect your personal information, OpenSignal cannot guarantee and you cannot reasonably expect that the OpenSignal's databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+We take certain measures to protect personal data collected through the Service against loss, theft, and unauthorized access, use, disclosure, destruction or modification. These include physical, technological and administrative measures.
 
-**CHANGES TO THIS PRIVACY POLICY**
+## 8\. HOW LONG WE KEEP YOUR INFORMATION 
 
-OpenSignal may from time to time change the terms of this policy. Substantial changes will take effect 30 days after OpenSignal has posted an initial notification on the Website's homepage or any other relevant web pages. Other changes will take effect 7 days after their initial posting on the Website. However, if OpenSignal amends this policy to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required.
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-You agree to be bound by any of the changes made in the terms of this policy. Continuing to use the Services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Services.
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-Last modified: March 6, 2013
+Personal data (such as user’s location data or the user’s unique identifier which is created on first use of the OpenSignal app) contained in the sets of measurements of mobile network signal performance is held for an unlimited period of time as it is required for the production of statistical data over different periods of time and to compare performance data between different time periods.
+
+Insofar as the data is collected to enable us to recognize you as a user of the Services and to improve the Services provided to you, we will dispose of the data within a reasonable time after you cease to be a registered user of the Services.
+
+## 9\. COUNTRY OF PROCESSING
+
+We operate the Services from the United Kingdom (UK) and our data collection and processing activities take place predominantly in the UK. We store and otherwise process data (including personal data) through third-party cloud service providers and other IT service providers which may be located or which may operate in other countries, including countries which do not guarantee the same level of protection to privacy as the UK. Some of our customers to which we license data (see section 6(a) above) also receive personal data from us for processing in countries outside the UK or the EU. When transferring personal data records from the UK to a country outside the EU which does not provide an adequate level of protection to privacy rights, we put in place appropriate safeguards including data transfer agreements on the terms approved by the EU Commission. We may also obtain your consent for the transfer of your personal data for processing outside the EU.
+
+## 10\. CHILDREN'S PRIVACY
+
+The Service is not directed to children and is intended for use by adults only. We do not knowingly collect personal data from individuals under 16 years of age. If you are under the age of 16, please do not submit any information through the Service and do not provide your consent for the use of your data unless your parent or guardian has approved.
+
+## 11\. THIRD-PARTY SITES AND SERVICES
+
+The Service may reference or provide links to other websites, applications, or resources. If you access any website, application, or resources provided by a third party, our Privacy Policy will not apply. Your interactions with such websites, applications, and resources are subject to the privacy policies of the third parties that operate them. Please review those policies carefully to understand how those parties will treat your information.
+
+## 12\. EU PRIVACY RIGHTS
+
+Users based in the European Union have the following legal rights in respect of their information:
+
+  1. The right to require OpenSignal to confirm whether or not their information is being processed, the purpose of any such processing, the recipients of any information that has been disclosed, the period for which their information is to be stored and whether any automated decision-making processes are used in relation to their information;
+  2. The right to require OpenSignal to rectify inaccurate information without undue delay;
+  3. Where OpenSignal has relied on the ‘consent’ basis for processing that information (see paragraph 8(b) above), the right to withdraw their consent at any time. This right to withdraw consent does not affect the lawfulness of processing based on consent before its withdrawal;
+  4. The right to request the erasure of their information. You can make a request for erasure where: 
+    1. the information is no longer necessary in relation to the purpose for which it was collected;
+    2. where the processing of the information is based on the user’s consent (and the other circumstances described in the ‘Legal Basis for Processing Your Data’ and ‘How We Share Your Information’ sections above no longer apply), if the user withdraws his or her consent; or
+    3. where the personal data is processed by OpenSignal solely on the basis of our ‘legitimate interest’ referred to in paragraph 8(a) (and the other legal basis set out in paragraph 8 do not apply), if the user objects to the processing of his or her personal data and there are no overriding legitimate grounds for the processing (such as, for example, where the processing of the data is required to meet statutory obligations or for the defense of legal claims). 
+
+Where OpenSignal has disclosed the information of a European Union user to a third party and the user requests the erasure or rectification of the data, OpenSignal will take all reasonable steps to inform the third party of such request;
+
+  5. The right to require OpenSignal to restrict its processing of a user’s personal data in certain circumstances, such as where the accuracy of that data is disputed or an objection has been raised. In such circumstances, OpenSignal will only process that information with the express consent of the user, or for the establishment, exercise or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest;
+  6. Where data is processed based on user’s consent or to fulfil a contractual obligation, the user has the right to receive his or her personal data from OpenSignal in a structured, commonly used and machine-readable format;
+  7. The right to object to the processing of personal data where: 
+    1. OpenSignal relies solely on the ‘legitimate interest’ basis for processing that data, in which case we will be legally required to stop processing the user’s information unless we have compelling legitimate grounds for the processing which override the user’s privacy rights and interests; or
+    2. the information is used for direct marketing purposes, in which case we will immediately stop processing the user’s information for such purposes;
+  8. Users have the right to lodge a complaint with the data protection supervisory authority of the EU member state where the user resides.
+
+
+
+The above legal rights are subject to various conditions and exceptions including where the data is used for statistical or scientific research purposes and the exercise of the right would prevent such purposes from being attained or would seriously impair their attainment.
+
+## 13\. CALIFORNIA PRIVACY RIGHTS
+
+Under California Civil Code Section 1798.83, if you are a California resident and your business relationship with us is primarily for personal, family or household purposes, you may request certain data regarding our disclosure, if any, of information to third parties for the third parties' direct marketing purposes. To make such a request, please send an email to privacy@opensignal.com with "Request for California Privacy information" in the subject line. You may make such a request up to once per calendar year. If applicable, we will provide to you via email a list of the categories of information disclosed to third parties for their direct marketing purposes during the immediately-preceding calendar year, along with the third parties' names and addresses. Please note that not all personal data sharing is covered by Section 1798.83's requirements.
+
+## 14\. APPLICATION
+
+This Policy relates to your personal data, i.e., data about you, an individual, from which you can be identified. This Policy therefore does not apply to any data insofar as it is held, processed, disclosed or published in a form which cannot be linked to a living individual (such as anonymized data, or aggregated data which cannot directly or indirectly be used to extract your personal data). We reserve the right to generate anonymized and aggregated data extracted out of any databases containing your personal data and to make use of any such anonymized and aggregated data as we see fit (including publishing such data and sharing it with third parties).
+
+## 15\. CHANGES TO THE PRIVACY POLICY
+
+We may update this Policy from time to time, and the updated version of this Policy will be effective upon posting on the OpenSignal Services. Please check this page to review the most up-to-date version of this Policy.
+
+## 16\. QUESTIONS/CONTACTING US
+
+If you have any questions regarding this Privacy Policy or if you wish to make a request in accordance with paragraphs 12 and/or 13 above, you may email us at privacy@opensignal.com or contact us by mail addressed to:
+
+OpenSignal Limited  
+1st Floor  
+Block 3 3 Angel Square  
+London   
+United Kingdom  
+EC1V 1NY
