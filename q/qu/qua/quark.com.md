@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617144347id_/http%3A//www.quark.com/About_Quark/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224223148id_/http%3A//www.quark.com/en/About_Quark/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Quark - Privacy Policy
 
@@ -17,7 +17,7 @@ There are a number of situations in which your personal information may help us 
   * We may ask for your personal information when you’re discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product. 
   * When you interact with Quark, we may collect personal information relevant to the situation, such as your name, postal address, telephone number, email address business address, shipping address and other contact preferences; your credit card information and information about the Quark products you own, such as their serial numbers and date of purchase; and information relating to a support or service issue. 
   * We also collect information for market research purposes — such as your occupation and where you use your computer — to gain a better understanding of our customers and thus provide more valuable service or market our products and services.
-  * If you purchase products or services through Quark, then we may collect payment information, including credit card information, from you. We will protect all of your financial information, and we will never distribute or publicize your financial information except to the extent necessary to fulfill your order.
+  * If you purchase products or services through Quark, then we may collect payment information, including credit card information, from you. We will protect all of your financial information, and we will never distribute or publicise your financial information except to the extent necessary to fulfill your order.
   * We collect information regarding customer activities on our websites. This helps us determine how best to provide useful information to customers and to understand which parts of our websites, products and Internet services are of most interest to them and to market our products and services.
 
 
@@ -40,7 +40,7 @@ We cooperate with law enforcement agencies in identifying those who use the Serv
 
 ## Ways We Protect your Personal Information
 
-Quark uses administrative, technical and physical measures to safeguard your personal information against loss, theft and misuse, as well as unauthorized access, disclosure, alteration and destruction.
+Quark uses administrative, technical and physical measures to safeguard your personal information against loss, theft and misuse, as well as unauthorised access, disclosure, alteration and destruction.
 
 We use security measures, such as firewalls and Secure Socket Layers (“SSL”), to safeguard the confidentiality of our users’ personally identifiable information. Information we collect about our users is stored on secured servers. Doing so protects the confidentiality of your personal and credit card information while it’s transmitted over the Internet.
 
@@ -74,7 +74,7 @@ Pixel tags also enable us to send email messages in a format customers can read.
 
 We will retain your personal information for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law, for legal, tax or regulatory reasons, or other lawful purposes.
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 ## Legal basis for processing your personal information
 
