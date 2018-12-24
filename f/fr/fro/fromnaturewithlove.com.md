@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615072507id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224154950id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy - FNWL
 
