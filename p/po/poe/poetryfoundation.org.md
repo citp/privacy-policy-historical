@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetryfoundation.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625182915id_/https%3A//www.poetryfoundation.org/foundation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetryfoundation.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224042318id_/https%3A//www.poetryfoundation.org/foundation/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Poetry Foundation
 
@@ -28,7 +28,7 @@ B. Information collected from your use of the Services.
   * Cookies and Other Technologies – Information collected automatically may include usage details (e.g., pages viewed on our website or time spent on a page), IP addresses, and information collected through browser cookies. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Services. By using the Services with your browser setting adjusted to accept cookies, you consent to our use of cookies on the Services. The cookies we use include:   
 
       * Google Analytics - Web traffic tracking and analytics. Learn more at <https://www.google.com/policies/privacy/>, and to opt out, visit <http://tools.google.com/dlpage/gaoptout>. 
-      * Google Tag Manager - Web traffic tracking. Learn more at <https://support.google.com/tagmanager/answer/6102821>, and to opt out, visit <https://support.google.com/analytics/answer/7519794>. 
+      * Google Tag Manager - Web traffic tracking. Learn more at <https://support.google.com/tagmanager/answer/6102821>. 
       * AddThis – Social media bookmarking service. Learn more at <http://www.addthis.com/privacy>, and to opt out, visit the DAA opt-out program (currently available at <http://www.aboutads.info/choices/>) or the NAI opt out program (currently available at <http://www.networkadvertising.org/choices/>). 
       * Philantro – Facilitation of online donations. Learn more at <https://www.philantro.com/cookie-policy.php>   
 
