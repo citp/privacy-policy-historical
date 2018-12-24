@@ -1,445 +1,339 @@
-<!--The following is the downloaded HTML source of the hackaday.io privacy policy that was archived on 2018-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180517133103id_/https%3A//hackaday.io/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hackaday.io privacy policy that was archived on 2018-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181224074629id_/https%3A//supplyframe.com/company/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-    
-
-<title>Hackaday Privacy Policy | Hackaday.io</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#333333">
-<link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png">
-<link rel="stylesheet" href="//cdn.hackaday.io/css/style.css?version=0.105.7">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//use.typekit.net/ymb0lgk.js"></script>
-<script type="text/javascript">try{Typekit.load({ async: true });}catch(e){}</script>
-
+<!DOCTYPE html><html><head>
+    <title>Supplyframe Privacy</title>
+    <meta name="description" content="Accelerating Hardware Innovation. Delivering the best information, tools and technology to millions of engineers around the world. Changing the way new hardware products are designed and built.">
+    <meta property="og:image" content="https://supplyframe.com/sf-images/sourcing/logo.jpg">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<link href="/sf-images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/sf-javascripts/modernizr-custom.js"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<link rel="stylesheet" href="/sf-stylesheets/main.css?version=1.0.174">
+<script>
+function timestamp() {
+    var response = document.getElementById("g-recaptcha-response");
+    if (response == null || response.value.trim() == "") {
+        var captcha_settings = document.getElementsByName("captcha_settings");
+        if (captcha_settings.length > 0) { /* If contact form present */
+            var elems = JSON.parse(captcha_settings[0].value);
+            elems["ts"] = JSON.stringify(new Date().getTime());
+            document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems);
+        }
+    }
+}
+setInterval(timestamp, 500);
+</script>
 </head>
-
-<body class="tos">
-    <div class="header" id="header">
-    <div class="container">
-        <a href="/" title="Hackaday.io Home" class="logo">Hack a Day</a>
+<body>
+    <div class="container nav-container">
+<div id="j-top" class="navbar">
+    <a class="logo" href="/"><img src="/sf-images/sourcing/logo.png" alt="Supplyframe"></a>
+    <div class="nav-menu-button">
+        <div class="nav-menu-button-link"><span class="nav-menu-arrow-open"></span></div>
+    </div>
+    <nav class="nav-menu">
+        <!--
+        <div class="nav-menu-dropdown">
+            <a href="javascript:void(0);" class="nav-menu-drop">
+                Solutions for</a>
+            <nav class="nav-dropdown">
+                <a class="nav-dropdown-link" href="#">Engineers</a>
+                <a class="nav-dropdown-link" href="#">Procurement</a>
+                <a class="nav-dropdown-link" href="#">Supplychain</a>
+                <a class="nav-dropdown-link" href="#">Sales / Marketing</a>
+                <a class="nav-dropdown-link" href="#">Individuals</a>
+                <a class="nav-dropdown-link" href="#">Small Business</a>
+                <a class="nav-dropdown-link" href="#">Enterprise</a>
+                <a class="nav-dropdown-link" href="#">Design</a>
+                <a class="nav-dropdown-link" href="#">Production</a>
+                <a class="nav-dropdown-link" href="#">Supplychain</a>
+            </nav>
+        </div>
+        -->
+        <div class="nav-menu-dropdown">
+            <a href="javascript:void(0);" class="nav-menu-drop
+                ">
+                Products</a>
+            <nav class="nav-dropdown">
+                <a class="nav-dropdown-link " href="/sourcing">Sourcing</a>
+                <a class="nav-dropdown-link " href="/partsio">Parts.io</a>
+                <a class="nav-dropdown-link " href="/findchips">Findchips</a>
+                <a class="nav-dropdown-link " href="/quotefx">Quotefx</a>
+                <a class="nav-dropdown-link " href="/polydyne">Polydyne</a>
+                <a class="nav-dropdown-link " href="/supplyfx">Supplyfx</a>
+                <a class="nav-dropdown-link " href="http://bom2buy.com/" target="_blank">Bom2Buy</a>
+            </nav>
+        </div>
+        <div class="nav-menu-dropdown">
+            <a href="javascript:void(0);" class="nav-menu-drop
+                ">
+                Communities</a>
+            <nav class="nav-dropdown">
+                <a class="nav-dropdown-link " href="/designlab">DesignLab</a>
+                <a class="nav-dropdown-link " href="http://hackaday.com/" target="_blank">Hackaday</a>
+                <a class="nav-dropdown-link " href="https://hackaday.io" target="_blank">Hackaday.io</a>
+                <a class="nav-dropdown-link " href="https://supplyfx.com/" target="_blank">Supplyfx</a>
+                <a class="nav-dropdown-link " href="https://www.tindie.com/" target="_blank">Tindie</a>
+                <a class="nav-dropdown-link " href="http://www.eefocus.com/" target="_blank">EEFOCUS</a>
+            </nav>
+        </div>
+        <div class="nav-menu-dropdown">
+            <a href="/sourcing-intelligence" class="nav-menu-drop  ">Technology</a>
+        </div>
+<!--         <div class="nav-menu-dropdown">
+            <a href="/supplyframe-enterprise" class="nav-menu-drop  ">Enterprise</a>
+        </div> -->
+        <div class="nav-menu-dropdown">
+            <a href="javascript:void(0);" class="nav-menu-drop
+                ">
+                Company</a>
+            <nav class="nav-dropdown">
+                <a class="nav-dropdown-link " href="/careers">Careers</a>
+               <!--  <a class="nav-dropdown-link " href="/executive-team">Team</a> -->
+                <a class="nav-dropdown-link " href="/advertising">Advertise</a>
+                <!--
+                <a class="nav-dropdown-link " href="/about">About</a>
+                <a class="nav-dropdown-link" href="#">Customers</a>
+                <a class="nav-dropdown-link " href="/contactad">Contact</a>
+                -->
+            </nav>
+        </div>
+        <div class="nav-menu-dropdown">
+            <a href="/contactus" class="nav-menu-drop
+                ">
+                Contact</a>
+            <!--
+            <nav class="nav-dropdown">
+                <a class="nav-dropdown-link " href="#">Knowledge Base</a>
+                <a class="nav-dropdown-link " href="/contact">Contact</a>
+                <a class="nav-dropdown-link " href="#">Live Chat</a>
+            </nav>
+            -->
+        </div>
+    </nav>
+    <div class="nav-menu-misc right">
+        <div class="nav-menu-misc-item">
+        <strong>USA</strong> +1 (866) 786-8339
+        </div>
     </div>
 </div>
-
-    <div class="container">
-    <h1><b>Hackaday Privacy Policy</b></h1>
-
-    <h2><b>Version 1.0</b></h2>
-
-    <h2>Last revised on: October 24, 2013</h2>
-
-    <p>We take the privacy and protection of personal information very seriously. This Privacy Policy describes our
-        practices
-        regarding the Personal Data (as defined below) we collect from users of the
-        Hackaday website at <a href="https://hackaday.com/" target="_blank">hackaday.com</a> (the “<b>Site</b>”),
-        the Hackaday forums at <a href="http://forums.hackaday.com/" target="_blank">forums.hackaday.com</a> (the “<b>Forum</b>”)
-        and the services made available through the Site and Forum
-        (together with the Site and the Forum, the “<b>Services</b>”) provided by Supply Frame, Inc. (“<b>Supply
-            Frame</b>”, “<b>us</b>”, “<b>our</b>”, and “<b>we</b>”).</p>
-
-    <p></p><h3>1. User Consent.</h3> By submitting Personal Data
-    through our Services, you agree to the terms of this Privacy Policy and you
-    expressly consent to the collection, use and disclosure of your Personal Data
-    in accordance with this Privacy Policy.<p></p>
-
-    <p></p><h3>2. A Note About Children.</h3> We do not
-    intentionally gather Personal Data from visitors who are under the age of 13.<p></p>
-
-    <p></p><h3>3. A Note to Users Outside of the United States.</h3>Your Personal Data may be processed in the country in
-    which it was
-    collected and in other countries, including the United States, where laws
-    regarding processing of Personal Data may be less stringent than the laws in
-    your country.<p></p>
-
-    <p></p><h3>4. Types of Data We Collect.</h3> <b>“Personal Data”</b>
-    means data that allows someone to identify or contact you, including, for
-    example, your name, address, telephone number, e-mail address, as well as any
-    other non-public information about you that is associated with or linked to any
-    of the foregoing data. <b>“Anonymous Data”</b> means data that is not
-    associated with or linked to your Personal Data; Anonymous Data does not, by
-    itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data,
-    as described below.<p></p>
-
-    <p></p><h4>(a) Information You Provide to Us.</h4><p></p>
-
-    <ul style="clear:both;margin-left:2em">
-        <li>When you create an account (“<b>Account</b>”) to register for the Forum, we
-            will collect your username, e-mail address and password. We may also collect optional information that
-            you provide us to customize your Account, for example, your language
-            preference, location, time zone, birthdates, occupation, interests, instant
-            messenger ID and website.
-        </li>
-
-        <li>When you post a comment on the Site, we will collect
-            your username and e-mail address and, if you provide it, your website.
-        </li>
-
-        <li>When you post comments or messages to the Site
-            or Forum, the information contained in your posting will be stored on our
-            servers and other users will be able to see it.
-        </li>
-
-        <li>We retain information on your behalf, such as your
-            postings to the Site or Forum and files and messages that you store using your
-            Account.
-        </li>
-
-        <li>If you provide us feedback or contact us via
-            e-mail, we will collect your name and e-mail address, as well as any other
-            content included in the e-mail, in order to send you a reply.
-        </li>
-
-        <li>When you participate in one of our surveys, we
-            may collect additional profile information.
-        </li>
-
-        <li>We also collect other types of Personal Data
-            that you provide to us voluntarily, such as your operating system and version,
-            product registration number, and other requested information if you contact us
-            via e-mail regarding support for the Services.
-        </li>
-
-        <li>We may also collect Personal Data, such as at
-            other points in our Services that state that Personal Data is being collected.
-        </li>
-    </ul>
-
-    <p></p><h4>(b) Information Collected via Technology.</h4><p></p>
-    <ul style="clear:both;margin-left:2em">
-        <li><u>Information Collected by Our Servers</u>. To make our Services more useful to you, our
-            servers (which may be hosted by a third party service provider) collect
-            information from you, including your browser
-            type, operating system, Internet Protocol (IP) address (a number that is
-            automatically assigned to your computer when you use the Internet, which may
-            vary from session to session), domain name, referring/exit pages, clickstream
-            data (including the ads you see and click on), and/or a date/time stamp for
-            your visit. We use this information to analyze trends, administer the Services,
-            track users’ movements around the Site and Forum, gather demographic
-            information about our user base as a whole, and better tailor our Services to
-            our users’ needs. For example, some of
-            the information may be collected so that when you visit the Site or Forum again,
-            it will recognize you and the information could then be used
-            by us to serve advertisements and other information appropriate to your
-            interests. Except as noted in
-            this Privacy Policy, we do not link this automatically-collected data to Personal Data.
-        </li>
-
-        <li><u>Cookies.</u> We store small text files called “<b>Cookies</b>" on your computer to make your
-            experience on our website better. We use both session Cookies (which expire
-            once you close your web browser) and persistent Cookies (which stay on your
-            computer until you delete them). In order to provide the Services, we use a
-            variety of Cookies that perform different functions. While you will still be able to use
-            the Supply Frame Offerings if you disable Cookies in your browser, certain
-            parts of the Supply Frame Offerings may not function as effectively. You can
-            find more information on Cookies and how they may affect you by visiting: <a href="http://www.youronlinechoices.com" target="_blank">www.youronlinechoices.com</a>. We
-            use the following types of cookies:
-
-            <ul>
-                <li><i>Strictly Necessary Cookies</i>. Strictly necessary cookies are cookies which are essential to
-                    enable
-                    you
-                    to move around the website and use its features, such as accessing secure areas
-                    of the website. Without these cookies, services you have asked for cannot be
-                    provided.
-                </li>
-
-                <li><i>Performance Cookies</i>. Performance cookies
-                    collect anonymized information about how you use our website. For example,
-                    these cookies may tell us which pages you go to most
-                    often and if you receive error messages from our webpages. We use this
-                    information to improve how our sites work. By using our web site, you agree we
-                    can place these cookies on your device.
-                </li>
-
-                <li><i>Functionality Cookies</i>. Functionality Cookies
-                    allow our website to remember the choices you make, such as your login information
-                    (if any), preferred language or region you are in, and can provide enhanced,
-                    more personal features. These cookies can also be used to remember changes you
-                    made to text size, fonts and other parts of web pages you can customize. They
-                    may also be used to provide services you have asked for such as watching a
-                    video or commenting on a blog. The information these cookies collect may be
-                    anonymized and they cannot track your browsing activity on other websites. By
-                    using our web site, you agree we can place these cookies on your device.
-                </li>
-
-                <li><i>Advertising Cookies</i>. These cookies collect information to deliver
-                    you more relevant advertising. They may be placed by us,
-                    by third parties acting on our behalf, or by advertising networks with our
-                    permission. They remember other websites you have visited, and advertising
-                    networks may share this information with others including advertisers. By using
-                    our web site, you agree we can place these cookies on your device.
-                </li>
-            </ul>
-
-        </li><li><u>Tracking Pixels</u>. In addition, we use “<b>Tracking Pixels</b>,” which are small transparent graphic
-            image
-            (usually only 1 pixel) that we place on our Site that is used to collect
-            information about the pages you view and when you view them.
-        </li>
-
-        <li><u>Google Analytics</u>. We
-            use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect
-            information such as how often users visit the Site, what pages they visit, and
-            what other sites they used prior to coming to the Site. We use the information
-            we get from Google Analytics only to improve our Site and Services. Google Analytics collects only the IP
-            address
-            assigned to you on the date you visit the Site, rather than your name or other
-            personally identifying information. Google’s ability to use and share information collected by Google
-            Analytics about your visits to the Site is restricted by the Google Analytics
-            Terms of Use and the Google Privacy Policy.
-        </li>
-        </ul>
-
-    <h3>5. Use of Your Personal Data</h3>
-
-    <p></p><h4>(a) General Use.</h4>In general, Personal Data you
-    submit to us is used either to respond to requests that you make, or to aid us
-    in serving you better. We use your
-    Personal Data in the following ways:<p></p>
-
-    <ul style="clear:both;margin-left:2em">
-        <li>provide the Services
-            you request;
-        </li>
-
-        <li>facilitate the creation
-            of and secure your Account on our network;
-        </li>
-
-        <li>identify you as a user
-            in our system;
-        </li>
-
-        <li>provide improved
-            administration of our Services;
-        </li>
-
-        <li>improve the quality of
-            experience when you interact with our Services;
-        </li>
-
-        <li>send you a welcome
-            e-mail to verify ownership of the e-mail address provided when your Account was
-            created;
-        </li>
-
-        <li>send you administrative
-            e-mail notifications, such as security or support and maintenance advisories;
-        </li>
-
-        <li>to send newsletters, surveys, offers, and other promotional
-            materials related to our Services and for other marketing purposes of Supply
-            Frame if you elect to receive them.
-        </li>
-    </ul>
-
-    <p></p><h4>(b) Creation of Anonymous Data.</h4> We may create
-    Anonymous Data records from Personal Data by excluding information (such as
-    your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request
-    and usage patterns so that we may enhance the content and navigation of our
-    Services. We reserve the right to use
-    Anonymous Data for any purpose and disclose Anonymous Data to third parties in
-    its sole discretion.<p></p>
-
-    <p>
-
-    </p><h3>6. Disclosure of Your Personal Data.</h3> We disclose
-    your Personal Data as described below and as described elsewhere in this
-    Privacy Policy.<p></p>
-
-    <p></p><h4>(a) Third Party Service Providers.</h4> We may
-    share your Personal Data with our third party service providers to provide you
-    with the Services. These third party
-    service providers are required not to use your Personal Data other than to
-    provide the services requested by us.<p></p>
-
-    <p></p><h4>(b) Affiliates and Acquisitions.</h4> We may share some
-    or all of your Personal Data with our parent company, subsidiaries, joint
-    ventures, or other companies under a common control (“<b>Affiliates</b>”), in which case we will require our
-    Affiliates to honor
-    this Privacy Policy. If another company
-    acquires our company, business, or our assets, that company will possess the
-    Personal Data collected by us and will assume the rights and obligations
-    regarding your Personal Data as described in this Privacy Policy.<p></p>
-
-    <p></p><h4>(c) Other Disclosures.</h4> Regardless of any
-    choices you make regarding your Personal Data (as described below), we may
-    disclose Personal Data if it believes in good faith that such disclosure is
-    necessary (a) in connection with any legal investigation; (b) to comply with
-    relevant laws or to respond to subpoenas or warrants served on us; (c) to
-    protect or defend our rights or property or users of the Services; and/or (d)
-    to investigate or assist in preventing any violation or potential violation of
-    the law, this Privacy Policy, or Terms of Use.<p></p>
-
-    <p>
-
-    </p><h3>7. Third Party Websites.</h3> When you click on a
-    link to any other website or location, you will leave our Services and go to
-    another site and another entity may collect Personal Data or Anonymous Data
-    from you. We have no control over, do
-    not review, and cannot be responsible for, these outside websites or their
-    content. Please be aware that the terms
-    of this Privacy Policy do not apply to these outside websites or content, or to
-    any collection of data after you click on links to such outside websites.<p></p>
-
-    <p>
-
-    </p><h3>8. Public Content.</h3> When you post comments or
-    messages to the Services, we will display such content along with your username
-    on the Services. Once displayed on
-    publicly viewable web pages, that information can be read, collected and used
-    by other registered or unregistered users of the Services. We cannot control who reads your comments or
-    messages or what other users may do with the information that you voluntarily
-    post. In addition, any information that
-    you choose to make public on your profile when you register for an Account to
-    use our Forum (“<b>Forum Profile</b>”) is
-    available to other registered users of our Forum and could be used to send you
-    unsolicited messages. We are not
-    responsible for the information you choose to include in your Forum Profile or
-    send to other users. By default, your
-    Forum Profile is public. You may set
-    your Forum Profile to not be made public through your Account settings.<p></p>
-
-    <h3>9. Your Choices Regarding Your Personal Data</h3>
-
-    <p></p><h4>(a) Choices.</h4> We offer you choices regarding the
-    collection, use, and sharing of your Personal Data.<p></p>
-
-    <p></p><h5>(i)</h5> We will periodically send you free
-    newsletters and e-mails that directly promote the use of our Services. When you receive newsletters or promotional
-    communications from us, you may indicate a preference to stop receiving further
-    communications from us and you will have the opportunity to “opt-out” by
-    following the unsubscribe instructions provided in the e-mail you receive or by
-    contacting us directly (please see contact information below).<p></p>
-
-    <p></p><h5>(ii)</h5> Despite your indicated e-mail preferences,
-    we may send you service related communication, including notices of any updates
-    to our Terms of Use or Privacy Policy.<p></p>
-
-    <p></p><h4>(b) Changes to Personal Data.</h4> You may change any
-    of your Personal Data in your Account by editing your profile within your
-    Account. You may request deletion of
-    your Personal Data by us, but please note that we may be required to keep this
-    information and not delete it (or to keep this information for a certain time,
-    in which case we will comply with your deletion request only after we have
-    fulfilled such requirements). When we
-    delete any information, it will be deleted from the active database, but may
-    remain in our archives. We may retain
-    your information for fraud prevention or similar purposes.<p></p>
-
-    <p>
-
-    </p><h3>10. Security of Your Personal Data.</h3> We are
-    committed to protecting the security of your Personal Data. We use a variety of industry-standard
-    security technologies and procedures to help protect your Personal Data from
-    unauthorized access, use, or disclosure. We also require you to enter a password to access your Account
-    information. Please do not disclose your Account password to unauthorized
-    people. No method of transmission over
-    the Internet, or method of electronic storage, is 100% secure, however.
-    Therefore, while we use reasonable efforts to protect your Personal Data, we
-    cannot guarantee its absolute security.<p></p>
-
-    <p>
-
-    </p><h3>11. Contact Information.</h3>We welcome your
-    comments or questions regarding this Privacy Policy. Please e-mail us at <a href="mailto:legal@SupplyFrame.com" target="_blank">legal@SupplyFrame.com.</a><p></p>
-
-    <p>
-
-    </p><h3>12. Changes to This Privacy Policy.</h3> This Privacy
-    Policy is subject to occasional revision, and if we make any material changes
-    in the way we use your Personal Data, we will notify you by sending you an
-    e-mail to the last e-mail address you provided to us and/or by prominently
-    posting notice of the changes on our Services. Any changes to this Privacy Policy will be effective upon the
-    earlier of
-    thirty (30) calendar days following our dispatch of an e-mail notice to you or
-    thirty (30) calendar days following our posting of notice of the changes on our
-    Services. These changes will be
-    effective immediately for new users of our Service. Please note that at all times you are
-    responsible for updating your Personal Data to provide us with your most
-    current e-mail address. In the event
-    that the last e-mail address that you have provided us is not valid, or for any
-    reason is not capable of delivering to you the notice described above, our
-    dispatch of the e-mail containing such notice will nonetheless constitute
-    effective notice of the changes described in the notice. In any event, changes to this Privacy Policy
-    may affect our use of Personal Data that you provided us prior to our
-    notification to you of the changes. If
-    you do not wish to permit changes in our use of your Personal Data, you must
-    notify us prior to the effective date of the changes that you wish to
-    deactivate your Account with us. Continued use of our Service, following notice of such changes shall
-    indicate your acknowledgement of such changes and agreement to be bound by the
-    terms and conditions of such changes.<p></p>
-
-
 </div>
-    <div id="footer" class="footer ">
-    
-        <a href="#header" class="back-to-top">
-            
 
+    <div class="section section-terms-main">
+        <div class="container container-block">
+            <div class="row content">
 
+                <h1 class="title hug">Privacy Policy</h1>
+                <p>This Privacy Policy was last updated on May 17, 2018.</p>
+                <p>SupplyFrame, Inc. (“<strong>SupplyFrame</strong>,” “<strong>we</strong>,” or “<strong>us</strong>”) takes the privacy and protection of personal information very seriously. By visiting and using the SupplyFrame Offerings or registering for the SupplyFrame Offerings and creating an Account, you acknowledge that you accept the practices and policies outlined in this privacy policy (“<strong>Privacy Policy</strong>”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the SupplyFrame Terms of Service that you can find at <a target="_blank" href="/company/terms">https://supplyframe.com/company/terms</a> and which incorporate this Privacy Policy by reference.</p>
+                <h2>What This Privacy Policy Covers</h2>
+                <p>This Privacy Policy describes SupplyFrame’s practices with respect to Personal Information and Anonymous Information that we collect when you use the SupplyFrame Offerings. This Privacy Policy does not apply to the use of your Personal Information that is collected by third parties that SupplyFrame does not own or control or that do not support SupplyFrame in providing the SupplyFrame Offerings.</p>
+                <p>“<strong>Personal Information</strong>” is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing.</p>
+                <p>“<strong>Anonymous Information</strong>” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons.</p>
+                <p>We collect and use Personal Information and Anonymous Information as described in this Privacy Policy from users of the SupplyFrame Offerings (“<strong>Users</strong>”).</p>
+                <p>BY USING THE SERVICE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICE, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.</p>
+                <p>YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY AND BY USING THE SERVICE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, YOU ARE EXPRESSLY CONSENTING TO SUCH PROCESSING.</p>
+                <h2>General Information</h2>
+                <p>As a general principle, your granting of any consent and your provision of any Personal Information hereunder is entirely voluntary; there are generally no detrimental effects on you if you choose not to consent or to provide Personal Information. However, there are circumstances in which SupplyFrame cannot take action without certain Personal Information, for example because this Personal Information is required to process your orders or provide you with access to a web offering or newsletter. In these cases, it will unfortunately not be possible for SupplyFrame to provide you with what you request without the relevant Personal Information.</p>
+                <p>As part of a global group of companies, SupplyFrame has affiliates and third-party service providers within, as well as outside of, the European Economic Area (the “<strong>EEA</strong>”). As a consequence, whenever SupplyFrame is using or otherwise processing your Personal Information for the purposes set out in this Privacy Statement, SupplyFrame may transfer your Personal Information to countries outside of the EEA including to such countries in which a statutory level of data protection applies that is not comparable to the level of data protection within the EEA. Whenever such transfer occurs, it is based on the Standard Contractual Clauses (according to EU Commission Decision 87/2010/EC or any future replacement) in order to contractually provide that your Personal Information is subject to a level of data protection that applies within the EEA.</p>
+                <p>You can request from SupplyFrame at any time details about which Personal Information SupplyFrame processes about you and the correction or deletion of such Personal Information. Please note, however, that SupplyFrame can delete your Personal Information only if there is no statutory obligation or prevailing right of SupplyFrame to retain it. If you request that SupplyFrame delete your Personal Information, you will not be able to continue to use any SupplyFrame service that requires SupplyFrame’s use of your Personal Information.</p>
+                <p>If SupplyFrame uses your Personal Information based on your consent or to perform a contract with you, you may further request from SupplyFrame a copy of the Personal Information that you have provided to SupplyFrame. In this case, please contact the email address below and specify the information or processing activities to which your request relates, the format in which you would like this information, and whether the Personal Information is to be sent to you or another recipient. SuppyFrame will carefully consider your request and discuss with you how we can best fulfill it.</p>
+                <p>Furthermore, you can request from SupplyFrame that we restrict your Personal Information from any further processing in any of the following events: (i) you state that the Personal Information SupplyFrame has about you is incorrect, (but only for as long as SupplyFrame requires to check the accuracy of the relevant Personal Information), (ii) there is no legal basis for SupplyFrame processing your Personal Information and you demand that SupplyFrame restricts your Personal Information from further processing, (iii) SupplyFrame no longer requires your Personal Information but you claim that you require SupplyFrame to retain such data in order to claim or exercise legal rights or to defend against third party claims, or (iv) in case you object to the processing of your Personal Information by SupplyFrame (based on SupplyFrame’s legitimate interest as further set out below) for as long as it is required to review as to whether SupplyFrame has a prevailing interest or legal obligation in processing your Personal Information.</p>
+                <p>Please direct any such request to <a href="mailto:privacy@supplyframe.com">privacy@supplyframe.com</a>.</p>
+                <h2>Right To Lodge A Complaint</h2>
+                <p>If you believe that SupplyFrame is not processing your Personal Information in accordance with the requirements set out herein or applicable EEA data protection laws, you can at any time lodge a complaint with the data protection authority of the EEA country in which you live or with the data protection authority of the country or state in which SupplyFrame has its registered seat.</p>
+                <h2>Data Controller</h2>
+                <p>The data controller of <a target="_blank" href="/">www.supplyframe.com</a> is Supply Frame, Inc., 61 S. Fair Oaks Avenue, Suite 200, Pasadena California, USA (“<strong>SupplyFrame</strong>”). SupplyFrame’s data protection officer is Michael Placido (<a href="mailto:privacy@supplyframe.com">privacy@supplyframe.com</a>).</p>
+                <h2>Personal Information We Collect</h2>
+                <p>We collect the following Personal Information that you submit to us voluntarily:</p>
+                <li>If you register for the SupplyFrame Offerings and create an Account, we collect a username, your e-mail address, and a password for your Account.</li><br>
+                <li>When you register for the SupplyFrame Offerings we collect, on an optional basis, certain information to complete your profile, including your name, gender, birthday, phone number, address, city, state, country, and website.</li><br>
+                <li>If you participate in one of our surveys, we will collect any Personal Information contained in your responses to such survey and any additional profile information you provide. When you contact us by sending us an e-mail, we will collect any information that is contained in (and/or attached to) your e-mail.</li><br>
+                <li>If you make a posting or comment on a posting on the SupplyFrame Offerings, we will collect any Personal Information contained in such posting.</li><br>
+                <li>If you sign up for a feature of the SupplyFrame Offerings for which we charge a fee, we will collect your first and last name, billing address, credit card or payment account number and any other information needed to complete the transaction.</li><br>
+                <li>We may also collect Personal Information, such as demographic information, from you via the SupplyFrame Offerings or at other points in the SupplyFrame web sites (“<strong>Sites</strong>”) that state that Personal Information is being collected.</li><br>
+                <h2 id="cookie-policy">Personal Information Collected Via Technology</h2>
+                <p>As you use the SupplyFrame Offerings, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Sites. We may use Cookies to improve your experience and a “reverse IP lookup” to determine the company associated with your IP address.</p>
+                <p>Since the foregoing information may be collected when you are signed into the SupplyFrame Offerings or after you click on a link contained in an email sent by us, this information may be associated by us with Personal Information that we have collected from you.</p>       <p><u>Cookies</u></p>
+                <p>SupplyFrame stores small text files called “<strong>Cookies</strong>” on your computer to make your experience on our website better. We use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). In order to provide the SupplyFrame Offerings and other services, we use a variety of Cookies that perform different functions. We use the following types of cookies:</p>
+                <ul>
+                    <li>
+                        <em>Strictly Necessary Cookies</em>
+                        Strictly necessary Cookies are Cookies which are essential to enable you to move around the website and use its features, such as accessing secure areas of the Sites. Without these Cookies, services you have asked for cannot be provided.<br>
+                    </li><br>
+                    <li>
+                        <em>Performance Cookies</em><br>
+                        Performance Cookies collect anonymized information about how you use the Sites. For example, these Cookies may tell us which pages you go to most often and if you receive error messages from our web pages. We use this information to improve how our Sites work. By using our Sites, you agree we can place these cookies on your device.
+                    </li><br>
+                    <li>
+                        <em>Functionality Cookies</em><br>
+                        Functionality Cookies allow our website to remember the choices you make, such as your login information (if any), preferred language or region you are in, and can provide enhanced, more personal features. These Cookies can also be used to remember changes you made to text size, fonts and other parts of Sites pages you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these Cookies collect may be anonymized, and they cannot track your browsing activity on other websites. By using our Sites, you agree we can place these Cookies on your device.
+                    </li><br>
+                    <li>
+                        <em>Advertising Cookies</em><br>
+                        These Cookies collect information to deliver you more relevant advertising. They may be placed by us, by third parties acting on our behalf, or by advertising networks with our permission. They remember other websites you have visited, and advertising networks may share this information with others including advertisers. By using our Sites, you agree we can place these Cookies on your device.
+                    </li>
+                </ul>
+                <p>While you will still be able to use the SupplyFrame Offerings if you disable Cookies in your browser, certain parts of the SupplyFrame Offerings may not function as effectively. You can find more information on Cookies and how they may affect you by visiting: <a target="_blank" href="http://www.youronlinechoices.com/">www.youronlinechoices.com</a>.</p>
+                <h2>Personal Information From Other Sources</h2>
+                <p>We may receive Personal Information about you from outside the Sites, such as from third parties that provide services for us that are related to the SupplyFrame Offerings. We may add this information to the information we have already collected from you via the SupplyFrame Offerings.</p>
+                <h2>Use Of Information We Collect</h2>
+                <p>In general, information (including Personal Information) you submit to us, or to third parties that support us in collecting information, is used by us to provide you and others with the SupplyFrame Offerings, to respond to requests that you make, to improve our SupplyFrame Offerings, and to better tailor the features, performance and support of the SupplyFrame Offerings.</p>
+                <p>We may also use your Personal Information to provide you with notifications related to your use of the SupplyFrame Offerings, such as electronic newsletters or promotional e-mails.</p>
+                <p>We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may also create Anonymous Information on how you use the SupplyFrame Offerings. We may use this Anonymous Information for internal purposes, such as analyzing usage patterns so that we may enhance the SupplyFrame Offerings, and we also reserve the right to use and disclose any Anonymous Information at our discretion.</p>
+                <h2>Use of Personal Data Based on the Law</h2>
+                <p>In the following cases, SupplyFrame is permitted to process your Personal Information under the applicable data protection law.</p>
+                <p><em>Providing the requested goods or services.</em> If you order goods or services from SupplyFrame, we will use the Personal Information that you enter into the order or registration form (usually (a subset of) your name, (email) address, telephone number, company name and address, your job title and role and, if payment is to be made to SupplyFrame, credit card number or bank details) only to process your order or to provide the requested goods or service. This may include taking the necessary steps prior to entering into the contract, responding to your related inquiries, and providing you with shipping and billing information, and to process or provide customer feedback and support. This may also include conversation data that you may trigger via the chat functionalities on our Sites, contact forms, emails, or telephone. In this Privacy Policy, “goods and services” includes (access to) SupplyFrame Offerings, contests, sweepstakes, other content, non-marketing related newsletters, whitepapers, tutorials, trainings and events.</p>
+                <p>If you participate in tutorials or trainings provided by SupplyFrame, we may also track your learning progress in order to make this information available to you. Furthermore, we communicate on a regular basis by email with users who subscribe to our services, and we may also communicate by phone to resolve customer complaints or investigate suspicious transactions. We may use your email address to confirm your opening of an account, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt out of these communications, which are not marketing-related but merely required for the relevant business relationship. With regard to marketing-related types of communication (i.e. emails and phone calls), SupplyFrame will (i) where legally required only provide you with such information after you have opted in and (ii) provide you the opportunity to opt out if you do not want to receive further marketing-related types of communication from us.</p>
+                <p>SupplyFrame and its products, technologies, and services are subject to the export laws of various countries including, without limitation, those of the European Union and its member states, and of the United States of America. You acknowledge that, pursuant to the applicable export laws, trade sanctions, and embargoes issued by these countries, SupplyFrame is required to take measures to prevent entities, organizations, and parties listed on government-issued sanctioned-party lists from accessing certain products, technologies, and services through SupplyFrame Sites or other delivery channels controlled by SupplyFrame. This may include (i) automated checks of any user registration data as set out herein and other information a user provides about his or her identity against applicable sanctioned-party lists; (ii) regular repetition of such checks whenever a sanctioned-party list is updated or when a user updates his or her information; (iii) blocking of access to SupplyFrame’s services and systems in case of a potential match; and (iv) contacting a user to confirm his or her identity in case of a potential match.</p>
+                <p>Furthermore, you acknowledge that any information required to track your choices regarding the processing or use of your Personal Information or receipt of marketing materials (that is to say, depending on the country in which the relevant SupplyFrame company operates, whether you have expressly consented to or opted out of receiving marketing materials) may be stored and exchanged between members of SupplyFrame as required to ensure compliance.</p>
+                <h2>Uses Of My Personal Information Based On My Consent</h2>
 
-
-    <div class="icon icon-long-arrow-up">
-        <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M8.023 2.03L4.78 5.26h2.688v1.11h1.11V5.26h2.688L8.023 2.03zm-.555 5.505V8.92h1.11V7.534H7.47zm0 2.56v1.383h1.11v-1.384H7.47zm0 2.55v1.384h1.11v-1.385H7.47z" fill-rule="evenodd"></path></svg>
-        
+                <p>In the following cases SupplyFrame will only use your Personal Infromation as further detailed below after you have granted your prior consent into the relevant processing operations. </p>
+                
+                <p>SupplyFrame may provide a hashed user ID to third party operated social networks or other web offerings (such as Twitter, LinkedIn, Facebook, Instagram or Google) where this information is then matched against the social networks’ data or the web offerings’ own data bases in order to display to you more relevant information.</p>
+                
+                <p>SupplyFrame offers you the option to use its Offerings including forums, blogs, and networks linked to its Sites that require you to register and create a user profile. User profiles provide the option to display personal information about you to other users, including but not limited to your name, photo, social media accounts, postal or email address, or both, telephone number, personal interests, skills, and basic information about your company.</p>
+                
+                <p>These profiles may relate to a single Offering of SupplyFrame or may also allow you to access other Offerings of SupplyFrame or of other entities of SupplyFrame, or both (irrespective of any consent granted under the section “Forwarding Your Personal Data To Other SupplyFrame Companies.” below). It is, however, always your choice which of these additional Offerings you use and your Personal Information is only forwarded to them once you initially access them. Kindly note that without your consent for SupplyFrame to create such user profiles, SupplyFrame will not be in a position to offer such services to you where your consent is a statutory requirement that SupplyFrame can provide these services to you.</p>
+                <p>Within any Offerings, beyond the mere provision of access, your profile is used to personalize interaction with other users (for example, by way of messaging or follow functionality) and by SupplyFrame to foster the quality of communication and collaboration through such Offerings and for SupplyFrame to provide gamification elements (gamification is the process of taking something that already exists, such as a website, an enterprise application, or an online community, and integrating game mechanics into it to motivate participation, engagement, and loyalty). To the greatest extent supported by the relevant Offerings, you can use the functionality of the relevant Offerings to determine which information you want to share.</p>
+                <p><em>Special categories of Personal Information.</em> In connection with the registration for and provision of access to an event or seminar, SupplyFrame may ask for information about your health for the purpose of identifying and being considerate of individuals who have disabilities or special dietary requirements throughout the event. Any such use of information is based on the consent you grant hereunder.</p>
+                <p>Kindly note that if you do not provide any such information about disabilities or special dietary requirements, SupplyFrame will not be able to take any respective precautions.</p>
+                <p>If you register for an event, seminar, or webinar of SupplyFrame, SupplyFrame may share basic participant information (your name, company, and email address) with other participants of the same event, seminar, or webinar for the purpose of communication and the exchange of ideas.</p>
+                <p>SupplyFrame may transfer your Personal Information to other entities owned by SupplyFrame. In such cases, these entities will then use the Personal Information for the same purposes and under the same conditions as outlined in this section.</p>
+                <p>You may at any time withdraw a consent granted.  In case of withdrawal, SupplyFrame will not process Personal Information subject to this consent any longer unless legally required to do so. In case SupplyFrame is required to retain your Personal Information for legal reasons your Personal Information will be restricted from further processing and only retained for the term required by law. However, any withdrawal has no effect on past processing of Personal Information by SupplyFrame up to the point in time of your withdrawal. Furthermore, if your use of an SupplyFrame Offering requires your prior consent, SupplyFrame will not be (any longer) able to provide the relevant service, offer or event to you after your revocation.</p>
+                <h2>U.S.-Specific Provisions</h2>
+                <p>Where SupplyFrame is subject to U.S. privacy requirements, the following also applies:</p>
+                <p><em>Do Not Track</em>. Your browser may allow you to set a “Do not track” preference. Unless otherwise stated, our Sites do not honor “Do not track” requests. However, you may elect not to accept Cookies by changing the designated settings on your web browser.  Please note that if you do not accept cookies, you may not be able to use certain functions and features of our site.</p> 
+                <h2>Feedback</h2>
+                <p>If you provide feedback about the SupplyFrame Offerings to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.</p>
+                <h2>Disclosure of Personal Information</h2>
+                <p>Please note that we may disclose certain of your Personal Information, such as your username, to other Users of certain SupplyFrame Offerings in order to identify you as a User of the SupplyFrame Offerings. In addition, certain information that you have provided on an optional basis in connection with registering with our SupplyFrame Offerings (your gender, birthday, phone number, address, city, state, country, and website) may be made available on your profile to other Users of all the SupplyFrame Offerings; please make sure that you only provide the information that you feel comfortable sharing with others in this way.</p>
+                <p>We may enter into agreements with companies that provide the SupplyFrame Offerings by way of a co-branded or private-labeled website or companies that offer their products and/or services on our website (“<strong>Third Party Companies</strong>”). A Third Party Company may want access to Personal Information that we collect from its customers. As a result, we may disclose your Personal Information to a Third Party Company; however, we will not disclose your Personal Information to Third Party Companies for the Third Party Companies’ own direct marketing purposes, unless you have “opted-in” by following the instructions we provide to allow such disclosure. If you have opted-in to receive e-mail communications from a Third Party Company and later wish to discontinue receipt of these e-mails, please contact the Third Party Company directly to update your preferences. The privacy policies of our Third Party Companies may apply to the use and disclosure of your Personal Information that we collect and disclose to such Third Party Companies. Because we do not control the privacy practices of our Third Party Companies, you should read and understand their privacy policies.</p>
+                <p>We may provide your Personal Information to third party service providers and suppliers who work on behalf of or with us to provide you with some of the services and features of the SupplyFrame Offerings and to help us communicate with our users (including in connection with payments). However, these service providers and suppliers do not have any independent right to use this information except to help us provide the SuplyFrame Offerings.</p>
+                <p>We may share some or all of your Personal Information with any parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, “<strong>Affiliates</strong>”), in which case we will require our Affiliates to honor this Privacy Policy.</p>
+                <p>In the event SupplyFrame goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of SupplyFrame or its assets may continue to use your Personal Information as set forth in this Privacy Policy. You hereby consent to SupplyFrame sharing your PersonalInformation under the above circumstances.</p>
+                <p>We may (and you authorize us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce any agreement we may have entered into with you and to enforce the Privacy Policy; or (c) to protect and defend the rights or property of us, other Users, or third parties.</p>
+                <h2>Choices Regarding Personal Information</h2>
+                <p>We will include unsubscribe instructions in each newsletter or promotional communication you receive from us.</p>
+                <p>We may send you service-related announcements (such as, but not limited to, notice that we have changed the Service, the Terms of Service, or the Privacy Policy) when we believe it is necessary to do so. You may not opt-out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate the Account you may have with us. You understand that any termination of your Account may involve deletion of your Account information (and associated Content) from our live databases and all the information and data stored for such Account in the SupplyFrame Offerings. SupplyFrame will not have any liability whatsoever to you for any termination of your Account or related deletion of your information.</p>
+                <h2>Modifying And Deleting Your Personal Information</h2>
+                <p>You may change any of your Personal Information in your Account by editing your profile within the SupplyFrame Offerings. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives.</p>
+                <h2>Links To Other Web Sites</h2>
+                <p>The SupplyFrame Offerings may contain links to other web sites that are not owned or controlled by SupplyFrame. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites. Please be aware that the terms of the Privacy Policy do not apply to any outside web sites.</p>
+                <h2>Privacy Of Minors</h2>
+                <p>We do not intend for our Sites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about a child, please contact us at <a href="mailto:privacy@supplyframe.com">privacy@supplyframe.com</a>.</p>
+                <h2>Security and Confidentiality</h2>
+                <p>SupplyFrame is committed to safeguarding and securing the information we collect online. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. However, no company, including SupplyFrame, can fully eliminate security risks associated with Personal Information.</p>
+                <h2>Changes in this Privacy Policy</h2>
+                <p>As part of the Terms of Service, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms of Service.</p>
+                <h2>Contact Us</h2>
+                <p>If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to <a href="mailto:legal@supplyframe.com">legal@supplyframe.com</a>.</p>
+            </div>
+        </div>
     </div>
 
- Going up?
-        </a>
-    
-    <p>
-        <a href="https://hackaday.com/about/">About Us</a>
-        <a href="mailto:projects-contact@hackaday.com">Contact Hackaday.io</a>
-        <a href="/project/37">Give Feedback</a> <a href="/tos">Terms of Use</a>
-        <a href="/privacy-policy">Privacy Policy</a>
-        <a href="https://dev.hackaday.io/" target="_blank" rel="noopener noreferrer">Hackaday API</a>
-    </p>
-    <p><a id="footer--home" href="/">© 2018 Hackaday</a></p>
+    <div class="container">
+    <div class="section section-footer">
+        <div class="row">
+            <div class="foot-columns quiet">
+                <h2 class="hug"><a href="/advertising">Advertise with us</a></h2>
+            </div>
+            <div class="foot-columns quiet">
+                <h2 class="hug"><a href="/careers">Careers</a></h2>
+            </div>
+            <div class="foot-columns">
+                <h2 class="hug"><a href="/contactus">Contact</a></h2>
+                <dl>
+                    <dt><strong>USA</strong></dt>
+                    <dd>+1 (626) 793-7732<br>
+                        +1 (866) 786-8339 (toll free)</dd>
 
-    
+                    <dt><strong>Europe</strong></dt>
+                    <dd>+44 (0) 208 312 4696</dd>
+
+                    <dt><strong>Asia</strong></dt>
+                    <dd>+86 (0512) 8098-1663</dd>
+                
+            </dl></div>
+            <div class="foot-columns last">
+                <h2 class="hug">Supplyframe, Inc.</h2>
+                <p>61 South Fair Oaks Avenue, Suite 200<br>
+                Pasadena, CA 91105</p>
+            </div>
+        </div>
+
+        <div class="row hug">
+            <p class="hug copyright">
+                <a href="https://twitter.com/SupplyFrame" target="_blank" class="quiet"><span class="soc-network twitt" aria-hidden="true"></span></a>
+                <a href="https://www.facebook.com/SupplyFrame" target="_blank" class="quiet"><span class="soc-network face" aria-hidden="true"></span></a>
+                All content copyright © 2018, Supplyframe, Inc. | <a href="/company/privacy">Privacy</a> | <a href="/company/terms">Terms</a>
+            </p>
+        </div>
+    </div>
 </div>
-
 
 <script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-47229708-1', 'auto');
-
-    var dimensionValue = 'nonregistered';
-    ga('set', 'dimension1', dimensionValue);
-    ga('require', 'displayfeatures');
-
-    ga('send', 'pageview');
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-81436-23']);
+    _gaq.push(['_setDomainName', 'supplyframe.com']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
 
-<script>
-    var csrftoken = 'eFnQDbdv-v079Tvdraw8WE-qliudiCHBIKBE';
+<script type="text/javascript">
+    var z = _uGC(document.cookie, '__utmz=', ';');
+    var source = _uGC(z, 'utmcsr=', '|');
+    var medium = _uGC(z, 'utmcmd=', '|');
+    var campaign = _uGC(z, 'utmccn=', '|');
+    var refer_url = _uGC(z, 'utmr=', '|');
+    var gclid = _uGC(z, 'utmgclid=', '|');
+    if (gclid !="-") {
+         source = 'google';
+         medium = 'cpc';
+    }
+
+    var csegment = _uGC(document.cookie, '__utmv=', ';');
+    if (csegment != '-') {
+         var csegmentex = /[1-9]*?\.(.*)/;
+         csegment = csegment.match(csegmentex);
+         csegment = csegment[1];
+
+    } else {
+        csegment = '';
+    }
+
+    function _uGC(l,n,s){
+        if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+            var i,i2,i3,c="-";
+            i=l.indexOf(n);
+            i3=n.indexOf("=")+1;
+            if (i > -1) {
+            i2=l.indexOf(s,i); if (i2 < 0){ i2=l.length; }
+            c=l.substring((i+i3),i2);
+    }
+        return c;
+    }
+
+    if(document.getElementById("00N60000002WN08") !== null) { /* If tracking analytics used */
+        document.getElementById("00N60000002WN08").value = source;
+        document.getElementById("00N60000002WN0D").value = medium;
+        document.getElementById("00N32000003C2UY").value = campaign;
+        document.getElementById("00N60000002WN0I").value = refer_url;
+        document.getElementById("00N60000002WN0I").value = document.referrer;
+        document.getElementById("00N60000002WN0N").value = window.location.href;
+        document.getElementById("00N60000002WN0S").value = window.location.href;
+    }
+
+
 </script>
 
-
-<img src="//analytics.supplyframe.com/trackingservlet/impression?action=pageImpression&amp;zone=HIO_privacy&amp;extra=logged%3Dfalse%7ChaveAccountCookie%3D0%7C&amp;ab=undefined" alt="" class="sf-impression">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script src="/sf-javascripts/sourcing.min.js?version=1.0.174"></script>
 
 </body></html>
