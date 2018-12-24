@@ -1,161 +1,147 @@
-> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430205419id_/http%3A//www.ticketmaster.com.au/h/privacy.html%3Ftm_link%3Dtm_homeA_i_privacy_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224190820id_/http%3A//www.ticketmaster.com.au/privacy) for the most accurate reproduction.*
 
-# Ticketmaster - Help
+# Ticketmaster - Privacy Policy
 
-**1\. Introduction**
+## Privacy. Your data. Your trust.
 
-This Policy explains what personal information Ticketmaster and its group (known in this Policy as ' **we** ' or ' **Ticketmaster** ') collect and how we use it. Please read it carefully. For information about Ticketmaster and its group, see Section 15 below.
+### Our Commitment To You
 
-Generally, we collect information about you if you create a Ticketmaster, Ticketweb and/or Ticketmaster Resale account (' **Ticketmaster account** '), from your purchase or sale of tickets, when you email or call us, or from box office purchases operated or administered by us, and when you use our websites, apps and social media. We use that and other information to provide better services, marketing and support to you and our other customers (including by analysing your information to provide you with a personalised experience).
+You are at the heart of everything we do. Our goal is to maintain your trust and confidence by handling your personal information with respect and putting you in control.
 
-When you, for example, create a Ticketmaster account, buy or sell tickets, download one of our apps or contact us on the phone, we may ask your consent to use your information for certain purposes. Your choices about how we use information are described in Section 6 below.
+It’s important that you know what personal information Ticketmaster Australasia Pty Ltd (known here as "we" or "Ticketmaster Australasia Pty Ltd") collects about you, and how we use it.
 
-Ticketmaster sells tickets on behalf of third parties who provide or sponsor an event or who operate a venue where events are held. We refer to these artists, agents, venues, promoters or sponsors from whom we obtain tickets to sell to you as our ' **Event Partners** '. We may share your information with our Event Partners and may share your information with other third parties, as further described in Section 7 below.
+We’ve done our best to make our explanations short and easy to understand. But, if you’d like further information, or have any questions, please contact our Data Protection Officer using the details in the ‘Contact’ section below.
 
-The Ticketmaster Resale business is a website that connects buyers with people reselling live entertainment tickets. If you buy a ticket via Ticketmaster Resale we will share your information as described in Section 7 below. For further information about Ticketmaster Resale please visit our website at [http://resale.ticketmaster.com.au](http://resale.ticketmaster.com.au/).
+If we ever make any major changes to our privacy practices, we’ll let you know. If necessary, we’ll also ask for your permission.
 
-Ticketmaster also provides some sporting clubs and other clients with a ticketing platform (and associated website hosting and database storage services) through which the client can sell seasonal membership tickets and manage customer relationships. In this service provider role, Ticketmaster collects, holds, uses and discloses your information only as instructed by the client. Generally, we collect information about you, for and on behalf of the client, when you visit a hosted website, create a membership account (' **Membership account** ') or purchase a membership ticket. This information is disclosed to the client who maintains effective control and management of the information. Ticketmaster will process and retain information we collect on a client's behalf for as long as is required to provide services to the client or to comply with our legal obligations.
+### Our Privacy Promise
 
-Ticketmaster is responsible for the processing of your personal information in accordance with the Australian Privacy Principles in Schedule 1 of the _Privacy Act 1988_ (Cth).
+Watch our video to find out more about our commitment to maintaining your trust.
 
-**2\. Cookies Notice**
+### Privacy Notice
 
-We and third party organisations use cookies and other technologies, such as pixel tags, on our websites and in our emails. For more information about the cookies and how to manage them please see our Cookies Policy at <http://www.ticketmaster.com.au/h/cookies.html>.
+Our Privacy Notice has been designed with you in mind. How the notice applies to you will depend on the way in which you interact with us. For example, if you:
 
-**3\. We collect your information in different ways**
+  1. purchase a ticket from us, we will use the information you provide us to fulfil both our and the Event Partners obligations to you in delivering that service, and, where permitted, keep you up to date about other events that may be of interest to you; and
+  2. when you browse our sites, we use cookies to tailor your experience and hopefully provide you with a seamless experience.
 
-**Directly from you**. For example, if you register for a promotion, create a Ticketmaster account, enter a competition or free prize draw, download an app, buy or sell tickets, post a comment on our websites, ask us a question, email us or interact with Ticketmaster's call centres.
 
-**Through your use of our websites and apps.** We use cookies and other technologies, such as pixel tags, on our websites and in our emails and apps to collect information about your usage and to better target advertising. To learn more, please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>).
 
-**From third parties.** For example, if you choose to use an integrated social media feature on our websites or apps, the third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms. Further information about the third parties from whom we obtain information is available in Section 4 below.
+Your choices and rights under each scenario are explained in more detail below.
 
-**4\. Information we may hold about you**
+#### What Information We Have & Where We Get It
 
-We use the following information for the purposes described in this Policy:
+We collect and store different types of information about you when you create an account, buy tickets, contact us, and use our websites, apps and social media.
 
-**Your contact and account information.** We will hold contact information you provide to us (e.g. name, address, phone number, email, country of residence, preferred language) when you create a Ticketmaster account, Membership account, buy or sell tickets and/or participate in our competitions or promotions.
+Learn More
 
-**Your payment and billing information.** We will hold payment and billing information you provide to us (e.g. credit card number and post code when you buy a ticket) in connection with the handling of your ticket orders. If you've asked us to, we may also store payment and billing information to make it easier for you to buy or sell tickets in the future.
+#### How We Use Your Information & Why
 
-**Information you post online.** For example, we hold information you post on our website or on a third-party social media site to which we have access (including reviews you post or surveys you complete). When you post information online, you must not infringe the rights of others (including privacy rights) and you should be aware that others may use, tag and/or re-publish your information in ways that you might not expect (including in ways that are unlawful). You understand that we and others (including our Event Partners) may use and re-publish any data you post online publicly, on our website or when using apps or social media tools.
+We collect and use your information for lots of reasons such as helping you get into the shows you love, sharing news, for marketing and as otherwise required by law.
 
-**Information on your preferences.** We may collect information about events you like or products you buy or enquire about (e.g. as part of a survey or from your review of an event). We may also hold information on interests and demographic categories inferred from your interactions with us in order to provide you a better service and to provide you with more focused information. For example, if you buy tickets to a certain show and lots of people who went to that show also bought tickets for a different concert, we might send you information about that concert.
+Learn More
 
-**Information from other companies.** We will hold information (e.g. your interests, purchases and household type or any information necessary to satisfy your request or fulfil your order) provided to us by other companies including our Event Partners. We may also add information to your details which we have obtained from other companies or sources. For example, we may cross check the accuracy of the information we hold with other databases, or we may add demographic information. Much of this data is created using publicly available sources such as the edited electoral register or a publically available postal address list, or is derived from market research such as consumer panel surveys.
+#### Who We Share Your Data With & Why
 
-**Website usage information.** If you use our websites, we may collect information about the browser and device you're using and your IP address (this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites). We might look at what site you came from, what you did and didn't use our site for, or what site you visit when you leave us.
+We may share your information with the Event Partner(s) - such as the artist, promoter, record label, team or venue) - as well as other third parties associated with the service provided.
 
-**App(s) usage information.** If you use our app(s), we may collect your GPS location or your device's unique identifier. We might also collect the type of device you are using, or the version of the operating system your computer or device is running. We might look at, for example, how often you use the app and where you downloaded it. Where you allow us to we may also scan your music library when you download our app(s) so that we may send you information about events you may be interested in in your area. Your choices about how we use mobile information are described in Section 6 below.
+Learn More
 
-**Email response information.** In relation to emails we send you, we may use cookies and other technologies, such as pixel tags, to collect information on how you respond to such emails, for example, the number of times the email is opened or the links in them are clicked etc. We partner with third parties who may also use such cookies and other technologies in our emails. Please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>) for more information.
+#### Your Choices & Rights
 
-**Other information about your interactions with us.** For example, if you interact with us via a box office, email, telephone or social media (e.g. Facebook).
+Among other rights, you can choose whether to receive marketing from us. You also have the right to access the information we have about you.
 
-**5\. We may use your information in the following ways and for the following purposes**
+Learn More
 
-**To provide you with products, services, account information and support.** For example, we might use your information to confirm your registration for an event. If you give us your friend's information, we will use it to provide services you request from us. Before you give us a friend's information, please do make sure that you have your friend's permission to share that information with us.
+#### Looking After Your Information
 
-**To send you communications in connection with your transaction and events you attend.** For example, we might send you emails about your Ticketmaster account or a ticket purchase or ask you if you would like to review an event you attended. We might also contact you about this Policy or any of our other policies or terms.
+We’re always taking steps to make sure your information is protected and to delete it securely when we no longer need it.
 
-**To identify trends and interests.** We use your information to get to know what your preferences might be so we can improve our offering to you and so that your experience with us is more relevant and personal. We may combine information we get from you with information about you we get from third parties, including to analyse customer behaviour.
+Learn More
 
-**To monitor and improve our products, services and websites.** We analyse your information to improve our understanding of you and our customer base in general. We do this so that we can make better decisions about our services, advertising, products and content, based on a more informed picture of how our customers use our current services, and to provide you with a more customised experience.
+#### Contact Us
 
-**To prevent or detect unlawful behaviour or to protect or enforce legal rights.** For example, we may use your information to prevent the reselling of stolen or counterfeit tickets, misuse of our intellectual property (e.g. our or our Event Partner's brands), or fraud (including credit card fraud and fraud we think has happened during a sweepstakes or promotion or at an event) or other crimes.
+If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help:
 
-**For security purposes.** We may use your information to protect the security of our company, employees, our customers, third parties and/or our/their property (including any events you may attend and our websites) as permitted by law.
+Learn More
 
-**For market research purposes.** We may contact you as part of market research we are carrying out. You may choose not to participate.
+### What Information We Have & Where We Get It
 
-**To provide you with tailored advertising and online behavioural advertising.** We may work with other companies to show you advertisements we think you may find relevant and useful. This may include advertisements displayed on our own websites or apps, or advertisements from us displayed on other companies' sites, or the content of our emails. The advertisements you see may be based on information collected by us or third parties and/or may be based on your activities on our websites or third party sites. This is often called 'online or third party behavioural advertising'. Please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>) for more information and the choices you have.
+  * When you create an account, buy a ticket or have a ticket transferred to you by a friend, we will collect your information which depending on service we are providing, may include your contact and billing information.
+  * When you use our websites or apps, we collect information such as the browser and device you're using, your IP address, your location, the site you came from, what you did and didn't use our site/app for, or the site you visit when you leave us. For more information on how we collect this information, see our [Cookies Policy](http://www.ticketmaster.com.au/h/cookies.html).
+  * When you use a social media feature within our website or apps, and you post to social media platforms, the social media site will provide us with some information about you.
+  * If you have accessibility requirements, we want to make sure you have the best experience when attending events. To do this, we need to collect details of your requirements (which may involve you providing information about your mental or physical health).
+  * In the few instances where we collect personal information from children, we always seek parental consent and will only ever collect such information for the purposes specified when we collect it.
+  * We use suppliers who collate geodemographic data which assists us in better personalising our services to you. If you’d prefer that we do not do this, see the ‘Your Rights & Choices’ section below. 
 
-**For marketing purposes.** Where you've agreed, you may be contacted by us by email, text message, telephone or other means with information or offers regarding our upcoming events, products or services (including newsletters). We may also send you information or offers on behalf of other businesses, but when we do this, we do not give those businesses your name and address. Where you've agreed to receiving information directly from selected third parties, these parties may include charities and retail companies, for example companies offering financial, health, leisure or subscription services.
 
-**As otherwise permitted by law**. In limited circumstances, we may also use your information for other purposes where permitted by law.
 
-**6\. You have certain choices about how we use your information**
+### How We Use Your Information & Why
 
-When you create a Ticketmaster account, buy or sell tickets or download our apps, we may ask for your consent in order to collect, process or use your personal information for specified purposes.
+  1. For the performance of our contract with you 
 
-If you wish to withdraw any consent you have provided to us for such use of your personal information, please contact us or tell us about your preferences using the methods described in this section.
+We use your information when you enter into a contract with us (for example to buy merchandise or a ticket) so we can:
 
-_You understand that if you choose not to give us consents, or if you withdraw consents, you may not be able to take advantage of one or more features we offer._
+    * process your order
+    * take payment, and
+    * provide you with customer support.
+  2. For our legitimate business interests
+    * To conduct market research and analysis which helps improve and customise our products and services.
+    * For our marketing purposes, unless your consent is required for such marketing.
+    * To send you customer service emails including booking confirmations and event reminders.
+    * To prevent or detect unlawful behaviour, to protect or enforce our legal rights or as otherwise permitted by law. For example, making sure tickets get into the hands of real fans. As such, we may use your information to prevent ticket touting, misuse of our intellectual property (e.g. our or our Event Partner's brands), fraud, or other crimes.
+    * To ensure the security of our and our Event Partners’ operations.
+    * To create a profile about you to help us personalise our services to you. For example, if you purchase tickets to pop events and you have consented to our marketing, we will inform you about other pop events we think you might be interested in. For further information, see section below:
 
-In addition to contacting us, you can **opt out** in the following ways:
+#### About your personalisation settings
 
-**You can opt out of receiving marketing communications including newsletters.** To stop receiving Ticketmaster marketing communications you can change your preferences within your account or follow the instructions in any promotional message you get. To stop receiving Ticketmaster Resale or Ticketweb promotional messages follow the instructions in any messages you get. Your device settings should provide you with instructions on how to turn off push notifications. It may take about five days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
+We can give you more of what you want when we know you better. To make sure our messages and website are relevant to you, we create a user profile with the information we know about you and how you use our services.
 
-**You can control and opt out of the use of cookies and tracking tools.** To learn how to manage how we use cookies and other tracking tools, please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>).
 
-**You can control and opt out of us using tools on your devices.** For example, you can turn off the GPS locator or push notifications by using the settings on your phone.
 
-**You can change your marketing preferences with an Event Partner.** (e.g. opt out of receiving marketing e-mails from an Event Partner) by contacting that Event Partner or by following the instructions on any messages they send to you.
+  * Within the Live Nation Entertainment family of companies who provide services for us such as marketing, profiling, reporting and technical support.
+  * Our third-party service providers (sometimes known as data processors) such as cloud computing providers who provide the IT infrastructure on which our products and systems are built.
+  * We may share your information with our Event Partners so that they can run the event and for other reasons described in their privacy policies.
+  * If you buy or sell tickets via our resale platform, we may disclose your information to the buyer or seller (as applicable) for order fulfilment purposes – meaning that you get the ticket you’ve bought, or paid for the ticket you’ve sold.
+  * Third parties who provide goods and services purchased by you (e.g. ticket insurance or merchandise) so that they can process and fulfil your orders.
+  * Government agencies or other authorised bodies where permitted or required by law.
+  * Any successor to all or part of our business.
 
-**7\. We may share your information with the following third parties**
 
-**Within the Ticketmaster family of companies.** We may share any or all of your information with our group companies for any of the purposes referred to in this Policy.
 
-**Our Event Partners.** We may share any of your information with our Event Partners so that they can run the event for which tickets have been purchased, where necessary to fulfil the order, and so they can analyse customer behaviour, provide a better service and support to customers, and for any other purpose described in our Event Partners' privacy policies (including marketing). You should read those policies to learn how they treat your information. From time to time, Ticketmaster Resale may list tickets for sale on behalf of (or as agent for) an Event Partner, including, without limitation, 'platinum' seats. If you buy these tickets, your personal information will be shared with the Event Partner as described above.
+### Your Choices & Rights
 
-**Our Commercial Partners.** If you purchase or otherwise receive tickets to an event through a promotion or rewards programme provided by another company or receive any type of prize provided or issued by another company as part of a promotion or competition arranged by Ticketmaster or enter any promotion or competition arranged by Ticketmaster in conjunction with another company, we may receive and/or share your personal information with that company. You should read their privacy policy to learn how they treat your information.
+#### Your choices
 
-**Clubs and other organisations utilising our membership ticketing platform.** Any information that Ticketmaster collects for and on behalf of a club or other organisation who uses our membership ticketing platform to sell membership tickets and manage customer relationships will be disclosed to that club or organisation. Whilst this Policy applies to information collected by Ticketmaster, information collected by the clubs and organisations is subject to their privacy practices which Ticketmaster does not control. If you wish to manage your Membership account or find out more about the ways in which your information is used, you should consult the club or organisation's privacy policy.
+Where you have given us your consent, you can withdraw it by doing the following.
 
-**Selected third parties.** If you consented to be contacted by email or other means by selected third parties, we may provide your information to them and they may include charities and retail companies, for example companies offering financial, health, leisure or subscription services.
+  * To stop receiving our marketing you can change your preferences within your account, follow the unsubscribe instructions in any of the emails we send you or contact us and we will do it for you.
+  * To opt out of the use of cookies and tracking tools, please see our [Cookies Policy](http://www.ticketmaster.com.au/h/cookies.html).
 
-**Our third party service providers.** We may share your information with third parties so that they can provide services to us (e.g. a mailing house, a courier, a call centre provider, a market research company or online behavioural advertising companies), but where we do we will put in place a written agreement protecting your information.
 
-**Third parties who provide goods and services purchased by you.** Your information may also be shared with relevant third parties offering goods and services you have purchased through our website (e.g. ticket insurance or merchandise) so that they can process and fulfil your orders (including by contacting you). If you buy tickets via Ticketmaster Resale, we will disclose your name, contact number and address details to sellers so they can fulfil your order.
 
-**If we think we have to in order to comply with legal or regulatory requirements or to protect ourselves, Event Partners or third parties.** Where permitted or required by law, we may also share information requested by a government agency or other authorised body or organisation, to protect or enforce our rights or the rights of any Event Partner or third party, or in the detection and prevention of fraud (including credit card fraud and fraud we think has happened during a sweepstakes or promotion or at an event) and other crimes.
+#### Your rights
 
-**Any successor to all or part of our business.** Where permitted by law, we may give a successor your information to use for the purposes set out in this Policy - and we may also give a potential successor this information - but only where we have taken reasonable steps to ensure the security and confidentiality of that information.
+You also have rights over how your personal information is used including the right to request access to your data, and to correct it. To exercise your rights, you can [contact us](mailto:privacy@ticketmaster.com.au) at any time.
 
-**8\. Our sites and apps are not intended for children**
+### Looking After Your Information
 
-Our sites and apps are meant for adults. We do not knowingly collect personal information from children. If you are a parent or legal guardian and think your child has given us information, you can contact us.
+We have security measures in place to protect your information. The security measures we use will depend on the type of information collected.
 
-**9\. We use standard security measures**
+We only keep your information for as long as required to provide you with the services you request, for the purposes outlined in this policy and for any legal purposes for which we are obliged to keep the information. We will securely delete your information when it is no longer required for these purposes, in line with our company policies.
 
-**We have security measures in place to protect your information.** The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+### Contact Us
 
-**10\. We may transfer your information to other countries**
+Email: privacy@ticketmaster.com.au
 
-The transfer of your information for use in line with this Policy and our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>) may involve the transfer of your information to other countries (including outside Australasia). For example, the database we use to store your account details is hosted by our parent company based in the United States of America. The laws of other countries to which your information is transferred may not provide the same level of protection for your personal information as the law of your home country. We do, however, put in place appropriate technical and contractual protections for your personal information in accordance with applicable laws.
+Tel: (0)3 8632 2000
 
-**11\. We may link to third party sites or services we don't control**
+Post: Privacy Officer
 
-**If you click on one of those links, you will be taken to websites we do not control.** This Policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+Ticketmaster Australasia Pty Ltd
 
-**12\. You can deal with us anonymously in certain circumstances**
+Level 5, 364 Lonsdale Street
 
-When creating a Ticketmaster account, we ask you to provide your name, an email address and a password. To create a Ticketmaster account you do not have to provide us with your real name or an email address that identifies you. However if you want to buy or sell tickets we will need to know your real name and contact details. We also need valid credit or debit card details if you want to buy tickets and valid credit or debit card details and your bank account details if you wish to sell tickets. This is so that we can process your transaction.
-
-If you contact us with a general query you can also do so anonymously but if you wish to discuss your Ticketmaster account you will need to provide us with your personal information so that we can locate the account and verify that we are talking to the account holder.
-
-**13\. Contact us about privacy or our compliance with the Australian Privacy Principles**
-
-If you have any questions, complaints or require a copy of the information we hold about you, please contact us:
-
-Email: [privacy@ticketmaster.com.au](mailto:privacy@ticketmaster.com.au)  
-Tel: (0)3 8632 2000  
-Post:  
-Privacy Officer  
-Ticketmaster Australasia Pty Ltd  
-Level 5, 364 Lonsdale Street  
 Melbourne, Vic 3000, Australia
 
-Please do not include your credit card number or other financial or sensitive information in your email.
-
-To correct, amend or update information you have given us, or in order to withdraw a consent you have given us, you can contact us or log into your account and select the relevant option. We will deal with complaints relating to privacy, where possible, within 30 days. If you are dissatisfied with the outcome of the complaint you can take the complaint to the Office of the Australian Privacy Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)).
-
-**14\. What we will do if there is an update to this policy**
-
-From time to time we may change our privacy practices. We will notify you of any changes to this Policy as required by law. We will also post an updated copy on our website. It will have a different date and version number from the one set out below. Please check our site periodically for updates.
-
-**15\. Who we are**
-
-We are Ticketmaster Australasia Pty Ltd and its group companies. You can find out more about us in the 'About Us' section of our website (<http://www.ticketmaster.com.au/h/about_us.html>).
-
-_Last Updated_ : 23 August 2017
+There’s also the Office of the Australian Information Commissioner (OAIC) although we encourage you to try and let us help you first.
