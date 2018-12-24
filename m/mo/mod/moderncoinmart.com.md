@@ -1,79 +1,139 @@
-> *The following text is extracted and transformed from the moderncoinmart.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630191233id_/https%3A//www.moderncoinmart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderncoinmart.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224082334id_/https%3A//www.moderncoinmart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ModernCoinMart
 
-ModernCoinMart, LLC (MCM) is operated by Asset Marketing Services, LLC., a Minnesota corporation. MCM wants to make your online experience pleasant, convenient and safe. "Personal information" is information about an identifiable individual, which includes name, address, e-mail address, telephone number, and other information that is identifiable to you, as more particularly defined by privacy legislation. By using our Website, by signing up for our newsletter or by providing us with your personal information, in our promotions and in other ways when you interact with us, you signify your agreement and acceptance to the conditions stated in our Privacy Policy and our Terms of Use. This Privacy Policy does not apply to information provided to us in connection with employment opportunities.
+In this policy, we may use "we," "our," "us" and "Company" to refer to ModernCoinMart®, which includes its affiliated companies, Asset Marketing Services® and GovMint.com®, as well as Company legacy brands, such as Preferred Customer Club®, New York Mint®, and First Federal Coin Corp® (the "Company").
 
-## What Kind of Information Does MCM Collect?
+At Company, we respect your privacy and take great care to safeguard your personal information in our possession. Your preferences for use of your information are our priority.
 
-MCM collects the personal information you provide us in connection with your purchase or sale transaction, such as your name and telephone number. We also collect and maintain records and history about customers’ purchases, sales and product preferences. If you pay by credit card, debit card or check, you provide us with your account information. If you return merchandise or request a refund or exchange, you provide us with your personal information. Also, when you register or create an online account with us, sign up for e-mail/newsletters, contact customer service, participate in our surveys, enter our sweepstakes, contests or other promotions, or send us feedback or submissions, you are providing us with your personal information.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING COMPANY'S WEBSITE WWW.MODERNCOINMART.COM (THE "SITE"), PURCHASING FROM COMPANY, OR OTHERWISE SIGNIFYING YOUR INTENT TO ENGAGE WITH COMPANY, YOU ACCEPT THE PRACTICES DESCRIBED BELOW.
 
-## How Does MCM Use My Information?
+This Privacy Policy covers all of the personal information we collect from you. Note that we are not responsible for content or privacy policies on any web site not operated by Company to which the Site links or that links to the Site.
 
-When we collect information from you, such information may be used for one or more of the following reasons: 
+Our Privacy Policy is incorporated by reference and is part of Company's Terms and Conditions ("Terms"). Our Terms contain the terms on which you engage with the Company, or purchase products from Company. Please take a few minutes to review our Terms, if you have not already done so above. You may also access the current version of the Terms at any time by clicking on the link marked as such on the homepage of the Site.
 
-  * process and complete your purchase or sale transaction 
-  * identify your product and service preferences so that we can notify you of new or additional products, services and promotions that might be of interest to you 
-  * improve product offerings and customer service 
-  * notify you about new services, features, promotions and special offers that MCM thinks you will find valuable 
-  * provide to you newsletters 
-  * respond to your inquiries 
-  * administer your participation in promotions, contests and sweepstakes in which you have chosen to participate 
-  * measure the advertising effectiveness of our online and other advertisements and offers 
-  * to customize the advertising and services you see 
-  * to conduct research 
-  * help us understand Website activity and improve your use of our Website 
-  * to collect aggregated site-visitation statistics 
-  * help us prevent fraud and minimize credit risk.
+We reserve the right to update or modify this Privacy Policy at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site, and indicate the effective date of the Policy. Your use of the Website, purchase of products, email communication, or other affirmative action taken by you in continuation of your relationship with the Company after such posting will constitute acceptance by you of such changes.
 
+If you have any other questions or concerns regarding how Company manages, accesses or uses your personal information, please write us at 5260 Paylor Lane, Lakewood Ranch, FL 34240, e-mail us at mcmsupport@moderncoinmart.com, or call [1-800-362-9004](tel:1-800-362-9004) during Customer Service hours.
 
+## Privacy Policy Overview
 
-In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also combine the information we collect with other public demographic information. On rare occasions we may also be required to disclose your information as is required by law pursuant to lawful requests such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to avert harm to persons or property, or to enforce the Website Terms of Use or this Privacy Policy.
+As a customer of Company, we respect your privacy and want to protect your personal information. We want you to understand what personal information we may collect from you, how we use such information, and the choices you have regarding our use of this information.
 
-## How Does MCM Use "Cookies"?
+In this policy, "personal information" means any information by which you can be identified or contacted, such as your name (first and last), address (city, state, zip code), e-mail address, telephone number, etc.
 
-We and some of our third-party service providers use "cookies". A "cookie" is a small text file written by an Internet server to a Website user's browser where information is exchanged between them, and which is stored on a computer's hard drive to allow us to recognize and track users on our Website to assist us in providing our customers with a productive online experience. Cookies enable us to store information about your use of our Website, such as the areas you visit and the length of your stay. Most browsers are initially set up to accept cookies and can be reset by using the 'Help' portion of the toolbar to refuse all cookies or indicate when a cookie is being sent. Should you choose to disable any cookies associated with the Website, you will not be able to take full advantage of all the Website's features, but you should be able to navigate the Website without difficulty.
+This Privacy Policy governs your experience on the Site, in our catalogs, other social media, or in other communications with the Company, unless otherwise indicated.
 
-## Does MCM Share My Information With Third Parties?
+## Categories of Information We Collect
 
-We may share certain personal information we collect about you with third parties who perform services for us or with whom we contract for the purposes described in this Privacy Policy. For example; we may use third parties to host our Website, operate certain features, send e-mails, print or mailings, run our sweepstakes, contests or other promotions, authorize and process your payments, and analyze data and our advertising effectiveness. These third-party service providers are given the information they need to perform their designated functions and we do not authorize them to use or disclose your personal information for their own or any others’ marketing purposes.
+We collect personal information that you provide to us when you use the Site, and when you communicate or interact with us. For example, this may include the information you provide when you register online or update your account, log-in, place an order or make a return with us (online, via phone, mail, email, text, fax or catalog), communicate online with our customer service representatives, opt-in to receive emails, opt-in to receive mobile messages or social media notifications from us, shop online, request a catalog or other content and communications from us, participate in a sweepstakes, contest, promotion or survey, join our social networking sites, interact with our mobile sites or mobile applications, work with our sales representatives to purchase items from us, use one of our social media services (i.e., Company's Facebook page or YouTube channel), or when you contact us with a comment, question or complaint.
 
-Your information may also be transferred as an asset in connection with a merger or sale (including any transfers made as a part of an insolvency or bankruptcy proceeding) involving all or part of MCM or as part of a corporate reorganization, stock sale or other change in corporate control.
+In order to serve you better, we may combine information you give to us on the Site with information you give to us through our catalog, mailings, mobile messaging, social media, telephone or other communications. We may also supplement the information we collect through the Site with information we obtain from our affiliates, and from information that is publicly available (such as information based on your zip code) and from information we receive from or cross-reference with our partners.
 
-## Is My Information Secure With MCM?
+When you visit our websites we may also gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses or other device identifiers, browser information, Internet Service Provider (ISP), operating system, location, date/time stamp and clickstream data. Please check your browser if you want to learn what information your browser sends or how to change your settings. Note that the information we collect in this manner does not identify you personally, however, if you have created an account with us or have made a purchase with us, we may link the information provided by your browser to information that identifies you personally and use it for the purposes set forth herein.
 
-Protecting your personal information is important to us. We use Secure Sockets Layer (SSL) technology to protect your online order information as it is transmitted over the Internet. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. To support this technology, users must have an SSL-capable browser. While we use such sophisticated security technology to secure users’ ordering information, user name, and password, we cannot guarantee that any electronic commerce is totally secure.
+Our website uses "cookie" and "web beacon" technology. We use cookies and web beacons to identify your device, provide website user authentication, conduct fraud prevention and management services, distinguish you from other visitors, record your IP address and understand your use of our site, and identify the name of the Web site from which you linked to Company. This information may be used for fulfilling contracts with our partners, and to help us serve you better by improving our website design, as well as our products, services, and promotions. We do not otherwise track any information about your use of other websites. Information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf.
 
-To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from 'http' to 'https.'
+A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie.
 
-If your browser or firewall doesn't support SSL, you will not be able to connect to the server, which means you won't be able to mistakenly place an order through an unsecured connection. If you cannot access the secure server for any reason, please place your order by phone at 1.800.362.9004 (or direct to 1.941.907.8050)
+When you visit our Site, we may use both a session and a persistent cookie. This Company-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our website and in some cases, your e-mail address. Your e-mail address is only saved in this Company-placed cookie if you register with us. A web beacon allows us to capture certain additional types of information about a visitor's actions on a web site, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
 
-You are responsible for maintaining the secrecy of your user name, password, and any account information. It is important for you to be responsible and protect your user name, password, and computer against unauthorized users. It is important to sign off when you have completed using a computer accessible by others. Please see the Website Terms of Use for further details.
+If you register with us, this Company-placed cookie allows us to recognize you when you return to our website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our Site. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Site in a manner that does not identify you.
 
-## How Do I Opt-Out From MCM Email/Newsletter?
+## How We Use Your Information
 
-You may opt-out of receiving promotional email or newsletter from us by doing one of the following: 
-
-  * If you originally signed up for MCM email or newsletter, please return to the sign-up page, and complete the 'unsubscribe' entry field and click the "Unsubscribe" button. Please be sure to use the same email address as that which you used to sign-up. Otherwise it may not be possible to comply with your request. 
-  * If you have received an email from MCM, you can follow the opt-out or 'unsubscribe' instructions provided in your e-mail. 
+We use the personal information that we collect to conduct our business and to provide you with the best possible products, services and experience. For example, we may collect and use your information:  
 
 
+  * To provide you with the products, information or services you request;
+  * For security, credit or fraud prevention purposes;
+  * To provide you with the best possible customer service experience;
+  * To provide you with a personalized experience when you use the Site;
+  * To display personalized advertising when you visit the Site;
+  * To contact you with special offers and other information we believe will be of interest to you, with your permission;
+  * To contact you with information and notices related to your use of the Site;
+  * To invite you to participate in surveys and provide feedback to us;
+  * To improve the content, usability and functionality of the Site;
+  * To improve our products and services;
+  * To improve our marketing and promotional efforts;
+  * To assist in law enforcement and respond to subpoenas;
+  * To perform other business activities as needed, or as described elsewhere in this policy or in any other agreement between you and Company.
 
-## How does MCM Protect Kids' Privacy?
 
-We are concerned about the safety of children when they use the Internet and will never knowingly request personally identifiable information from anyone under the age of 13. Users of the Website must be at least eighteen years old. If a child has provided us with personal information, that child’s parent or guardian should contact us at privacy@moderncoinmart.com to delete such information from our records.
 
-## Changes to Our Policy
+## How We Share Your Information
 
-If you have any questions about our privacy policy, you can always contact MCM Customer Care in any of these three (3) ways: 
+We share the information we collect from and about you within Company, which includes all subsidiaries and affiliates. We also share the information with a limited number of third parties, as described in this policy. When Company allows these third parties access to your information, we require them to take commercially reasonable measures to protect the confidentiality of your information and we do not permit them to use it in any way other than for the limited purpose for which it is provided.
 
-  1. Send us an email message at info@moderncoinmart.com 
-  2. Call us toll-free at 1-800-362-9004 
-  3. Write to us at: 
+Service Providers. Company shares personal information with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as credit card processing services, data storage services, and web hosting services), or that help us market our products and services (such as third-party marketing and data hygiene companies).
 
-MCM, LLC  
+Marketing Partners. From time to time, we may share your information, including without limitation your mailing and/or email address (but not your credit card information), with unaffiliated third parties whose products or services may be of interest to you and who have their own privacy policy in place. If you do not wish to receive marketing materials from these third parties, or to learn more about managing the ways in which we use or share your information, visit the Site and click on Manage Your Account Preferences.
+
+Business Transfers. In the event that the company's business assets are sold or transferred, or as the result of a sale, merger, reorganization or liquidation, we may transfer the corresponding information regarding our customers.
+
+Legal Requirements. We may disclose personal information when we, in good faith, believe disclosure is appropriate to comply with the law, to enforce or apply applicable terms or conditions and other agreements; or to protect the rights, property, or safety of our company, our customers, or others.
+
+## Social Media Interactions
+
+Company invites you to socialize and share your purchases with your friends using Social Media tools such as Facebook, Twitter, Google+, YouTube, etc. If you choose to use these tools, you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program's privacy policies. We offer links on our site to "Share" or "Like" our site or products for many of the popular social sites. To remove a "Share" or "Like" or to delete your comments you will have to make those changes directly on that specific social site.
+
+## Links to Other Websites and Services
+
+Company's Site may include links to other Internet sites, content, or videos (embedded or direct links) maintained by third parties ('Linked Sites'). Company provides Linked Sites to you solely as a convenience, and the inclusion of Linked Sites does not imply endorsement by Company of the Linked Sites. You access Linked Sites at your own risk and by accessing them you may leave Company's website. Linked Sites are not under the control of Company and Company is not responsible for the contents of any Linked Site, including the privacy policies or tracking technologies they may use. We encourage you to check the applicable privacy policy to determine how they will handle any personally identifying information they collect from you.
+
+## Manage Your Account Preferences
+
+To update us with your preferences, or to opt-out of receiving communications from us, you may contact us using one of the following methods:
+
+  * Call [1-800-362-9004](tel:1-800-362-9004) during Customer Service hours, or
+  * E-mail mcmsupport@moderncoinmart.com or
+  * Send your request to ModernCoinMart, Attn: Privacy, 5260 Paylor Lane, Lakewood Ranch, FL 34240
+
+
+
+Please note your preference as stated below:  
+"I prefer not to receive e-mail advertisements, such as updates regarding products and services, special promotions or upcoming events from you." (You may also click the designated link at the bottom of all Company e-mail advertisements to be removed from future e-mail updates.)
+
+"I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events from you." (Please note that direct mail requests may take up to six to eight weeks to become effective.)
+
+"I prefer not to receive marketing phone calls such as special events, promotions or new products from a Company sales representative or the company."
+
+"I prefer not to receive marketing materials from other affiliated third-party companies."
+
+In providing us with your preferences, please be sure to include all of your emails, telephone numbers, addresses or other personal information you may have used to communicate with us, so that Company may better accommodate your request. Please note, if you make a purchase from Company after stating this preference above, such subsequent purchase will be considered by Company as a revocation of the foregoing statement, and Company may again begin communicating with you unless and until a second request by you is made.
+
+## Children's Privacy
+
+Company will never knowingly request or collect personal information from any person under 13 years of age. If you are under 13 years old please do not provide your information on our website. If we become aware that an individual is under the age of 13 and has submitted any information to Company for any purpose, we will delete it.
+
+## Security
+
+We appreciate the trust you place in Company when sharing personal information and thus are committed to recording and storing this information in a secure way. We maintain reasonable, physical, technical and procedural measures to limit access to your personal information. Only authorized individuals of our company are able to see your information and use it for appropriate purposes.
+
+## Policy Changes
+
+This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy or our information practices change in the future, we will notify you by posting the policy changes on our website.
+
+## Additional Information
+
+If you would prefer to make your purchase via telephone, just give us a call at [1-800-362-9004](tel:1-800-362-9004). Our Sales Representatives will be happy to assist you.
+
+If you have questions regarding our Privacy Policy please contact us at: 
+
+Company Privacy  
 5260 Paylor Lane  
-Lakewood Ranch, FL 34240 
+Lakewood Ranch, FL 34240  
+[1-800-362-9004](tel:1-800-362-9004)  
+mcmsupport@moderncoinmart.com
 
+## CALIFORNIA RESIDENTS
 
+**California Privacy Rights**  
+California law entitles residents to ask Company for a notice describing what categories of personal information we share with third parties or with corporate affiliates. If you want to request a notice or have any questions about Company privacy practices, please contact us at mcmsupport@moderncoinmart.com.
 
+**California Civil Code Section 1789.3**  
+If you have a question or complaint regarding the Site, please send an email to mcmsupport@moderncoinmart.com. You may also contact us in writing at Company, Attn: Customer Service, 5260 Paylor Lane, Lakewood Ranch, FL 34240. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834 or by telephone at [1-800-952-5210](tel:1-800-952-5210). 
+
+* * *
+
+This is the end of the Privacy Policy. This Agreement was last revised effective October 31, 2017. [Click to view the previous version](https://web.archive.org/downloads/privacy-policy.pdf "Previous Privacy Policy").
