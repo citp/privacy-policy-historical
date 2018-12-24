@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepbootstrap.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624014616id_/http%3A//www.prepbootstrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepbootstrap.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224125710id_/http%3A//prepbootstrap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PrepBootstrap
 
