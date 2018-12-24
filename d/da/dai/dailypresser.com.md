@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailypresser.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623155343id_/http%3A//www.dailypresser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypresser.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224160239id_/http%3A//www.dailypresser.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Daily Presser
+# Privacy Policy - Daily Presser
 
 **Last Updated 2/20/2017  
 Version 1.0**
