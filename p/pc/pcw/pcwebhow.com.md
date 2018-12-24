@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcwebhow.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205195202id_/http%3A//www.pcwebhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwebhow.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224103330id_/http%3A//www.twinsreader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PC WEB HOW
 
@@ -34,7 +34,7 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 **PC WEB HOW**
 
-[www.pcwebhow.com](http://www.pcwebhow.com/ "http://www.pcwebhow.com")
+[www.pcwebhow.com](http://www.twinsreader.com/ "http://www.twinsreader.com")
 
 Vishwas Nagar Sihani Road .
 
