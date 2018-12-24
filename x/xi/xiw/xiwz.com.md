@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiwz.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220162114id_/http%3A//buxup.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiwz.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224143230id_/http%3A//www.buxup.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # BuxUp | Privacy Policy
 
