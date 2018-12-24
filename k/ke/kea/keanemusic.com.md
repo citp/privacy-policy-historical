@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keanemusic.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629155349id_/https%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keanemusic.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224192313id_/https%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Universal Music UK - Privacy Policy
 
@@ -11,7 +11,7 @@ Please click on the sections below to learn more about our privacy policy:
 
 ###  WHO WE ARE
 
-This site is operated by Universal Music Operations, Limited, 364-366 Kensington High Street, London W14 8NS. Data Protection Number - Universal Music Operations Z5512937 (“We”), who is a data controller responsible for the processing of personal data under applicable data protection law. We may share your personal data with UMG Recordings Services Inc, of 2220 Colorado Avenue, Santa Monica, California, USA, as an independent data controller under applicable data protection law. Each of Universal Music Operations Limited and UMG Recordings Services Inc. separately make the disclosures in this Privacy Policy to you (and, where necessary, references in this Privacy Policy to “UMG” or “we” will be deemed to be references to both entities for such purpose). 
+This site is operated by Universal Music Operations Limited, 4 Pancras Square, London, N1C 4AG, United Kingdom. Data Protection Number - Universal Music Operations Z5512937 (“We”), who is a data controller responsible for the processing of personal data under applicable data protection law. We may share your personal data with UMG Recordings Services Inc, of 2220 Colorado Avenue, Santa Monica, California, USA, as an independent data controller under applicable data protection law. Each of Universal Music Operations Limited and UMG Recordings Services Inc. separately make the disclosures in this Privacy Policy to you (and, where necessary, references in this Privacy Policy to “UMG” or “we” will be deemed to be references to both entities for such purpose). 
 
 As used in this Privacy Policy, "UMG Companies" includes all entities UMG controls, is controlled by or is under common control with, including subsidiaries, joint ventures or other entities in whom UMG has a substantial ownership interest. 
 
