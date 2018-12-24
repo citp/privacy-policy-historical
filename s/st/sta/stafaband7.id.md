@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stafaband7.id privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624040551id_/http%3A//stafaband7.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stafaband7.id privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224035638id_/http%3A//stafaband7.id/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STAFABAND
 
@@ -110,7 +110,7 @@ To be in accordance with CANSPAM, we agree to the following:
 • Allow users to unsubscribe by using the link at the bottom of each email.
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
-flashlagu@gmail.com and we will promptly remove you from ALL correspondence.
+stafaband7.id@gmail.com and we will promptly remove you from ALL correspondence.
 
 Contacting Us
 
@@ -120,8 +120,8 @@ stafaband7.id
 Baron  
 Nganjuk, Jawa Timur 64394  
 Indonesia  
-flashlagu@gmail.com
+stafaband7.id@gmail.com
 
-Last Edited on 2017-02-03 
+Last Edited on 2018-11-20 
 
 **
