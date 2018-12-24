@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615233254id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224192900id_/https%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ High Fashion Home is commited to protecting the privacy and security of your per
 
 **Information Collection and Use**
 
-In subscribing for a newsletter, you agree that High Fashion Home may use the data you entered to inform you by email about the contents and/or products selected by you. You may revoke your consent at any time with the effect for the future, either by written notice or by email us via our [Contact Us](https://www.highfashionhome.com/customer-care.html) form. You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service preoviders only for data administration and hosting purposes.
+In subscribing for a newsletter, you agree that High Fashion Home may use the data you entered to inform you by email about the contents and/or products selected by you. You may revoke your consent at any time with the effect for the future, either by written notice or by email us via our [Contact Us](https://www.highfashionhome.com/customer-care.html) form. You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service providers only for data administration and hosting purposes.
 
 High Fashion Home will not collect any personally identifiable information from you except when specifically provided by you. Information will be collected, but not is not limited to the following:
 
@@ -23,7 +23,15 @@ High Fashion Home will not collect any personally identifiable information from 
 
 
 
-We do not disclose any personally identifiable information to unaffiliated third parties. We do reserve the right to provide such information to our employees, contractors, law enforcement, regulatory agencies, and agents to enable us to improve company-related services, features, and custom content along with compliance of all applicable laws. We will use all commercially reasonable efforts to safeguard your information. Any information that you provide to us is done at your own risk as High Fashion Home accepts no responsibility for the unauthorized access of personal information held by High Fashion Home under permissable law.
+We do not disclose any personally identifiable information to unaffiliated third parties. We do reserve the right to provide such information to our employees, contractors, law enforcement, regulatory agencies, and agents to enable us to improve company-related services, features, and custom content along with compliance of all applicable laws. We will use all commercially reasonable efforts to safeguard your information. Any information that you provide to us is done at your own risk as High Fashion Home accepts no responsibility for the unauthorized access of personal information held by High Fashion Home under permissable law. 
+
+From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
+
+To serve you better, we may combine information you give us online, in our stores or through our catalogs. We may also combine that information with publicly available information and information we receive from or cross-reference with our Select Partners and others, including providers of third party cookie and other third party browsing and use data. We use that combined information to enhance and personalize the shopping experience of you and others with us, and to recognize our customers so that we can communicate with you directly about our products and events that may be of interest to you, and for other promotional purposes.
+
+We may contract with companies or persons to provide certain services including credit card processing, shipping, data analysis and management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
+
+As a part of our commitment to your privacy, High Fashion Home will support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from High Fashion Home.
 
 **Links To Other Sites and Services**
 
@@ -61,4 +69,4 @@ Houston, TX 77006
   
 If our information practices change in the future, we'll post an updated policy on our website. 
 
-Last Updated: March 10, 2016
+Last Updated: July 9, 2018
