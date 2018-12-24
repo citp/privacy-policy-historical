@@ -1,98 +1,12 @@
-> *The following text is extracted and transformed from the forafinancial.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117152414id_/http%3A//www.forafinancial.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forafinancial.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224064252id_/https%3A//www.forafinancial.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms, Conditions & Privacy Policy - Fora Financial
+# Privacy Policy | Fora Financial
 
-Welcome to the Fora Financial (“Fora Financial”) website. Fora Financial offers flexible, working capital solutions to small businesses in need of financing to sustain or grow their enterprise, including small business loans, purchase and sale of future receivables, and related services (“Service”). By accessing and using this site, you agree to each of the terms and conditions set forth herein (“Terms of Use”). Additional terms and conditions applicable to the specific areas of this site are posted throughout the site and, together with these Terms of Use, govern your use of these areas, content and/or transactions. Fora Financial reserves the right to update the content of its website, including the Terms of Use, at any time without prior notice.
+## Last modified: July 12, 2016
 
-Your use of the site constitutes your agreement to follow and be bound by the terms and conditions of the site, as well as these Terms of Use, as modified. You are encouraged to review the website and these Terms of Use periodically for updates and modification
+**Introduction**
 
- **1\. COPYRIGHT AND TRADEMARK**
-
-Unless otherwise noted, all materials on this site are protected as the copyright, trade dress, trademarks and/or other intellectual properties owned by Fora Financial and/or its subsidiaries and affiliates or by other parties that have licensed their material to Fora Financial.
-
-Fora Financial’s marks on this site represent some of the marks currently owned or controlled in the United States. The display of these marks and of notices associated with these marks is not intended to be a comprehensive combination of all of Fora Financial’s proprietary ownership rights and Fora Financial may own or control other proprietary rights in one or more countries outside of the United States. You may not reproduce, redistribute or otherwise use any materials without the express written consent of Fora Financial or rights not exclusively granted are reserved.
-
- **2\. PRIVACY AND SECURITY**
-
-For an explanation of Fora Financial’s practices and policies related to the collection, use and storage of online visitors’ information, please read our [Privacy Policy](http://www.forafinancial.com/legal/#privacy). The Privacy Policy may be updated from time to time at our discretion. Changes will be effective upon posting to the Website and are hereby incorporated into this Agreement.
-
- **3\. WARRANTY DISCLAIMER & LIMITATION OF LIABILITY**
-
-You agree that your use of the website and services shall be at your sole risk. Except as otherwise expressly stated with respect to our products, all contents of this site are offered on an “as is” basis without any warranty whatsoever, either express or implied. Fora Financial makes no representations, express or implied, including, without limitation, implied warranties of marketability and fitness for a particular purpose.
-
-Fora Financial makes no warranties or representations of any kind that the services provided by this website or any link site will be uninterrupted, error-free or that the site or server that hosts the site are free from virus or other forms of harmful computer code or other harmful components, or that defects will be corrected even if Fora Financial is aware of them.
-
-In no event shall Fora Financial, its officers, members, directors, employees, or agents, be liable to you for any direct, indirect, incidental, special, punitive, consequential damages, or attorneys’ fees arising out of or relating to these terms, access to, use of, or the operation of any site, any of the site content, or user content. Your sole and exclusive remedy and Fora Financial’s sole and exclusive liability to you for any reason shall be for you to discontinue your access to or use of the site. The foregoing limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction.
-
-In the event State law does not allow the exclusion or limitation of liability for consequential or incidental damages, Fora Financial’s liability shall be limited and warranties are excluded to the fullest extent permitted by law, but shall in no event exceed $100.00.
-
-You agree that any cause of action arising out of or related to Fora Financial, any website, or any website content or user content must be commenced within one (1) year after the cause of action accrues. Otherwise, such cause of action is permanently barred.
-
- **4\. INDEMNIFICATION**
-
-You agree to indemnify, defend, and hold harmless Fora Financial, its affiliates, and partners, including without limitation, Fora Financial’s service providers and banks—and their respective officers, directors, employees, agents, and representatives—from and against all losses, expenses, damages and costs including reasonable attorneys’ fees, for any claims, causes of actions, procedures or allegations arising out of or relating to any violation of these Terms of Use, your use of the website, website content, or user content (including but not limited to infringement of third parties’ worldwide intellectual property rights or negligent or wrongful conduct) by you or any other person accessing any website on your behalf. Fora Financial reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to defense by you.
-
- **5\. UNLAWFUL OR PROHIBITED USE**
-
-As a condition of your use of the Services, you will not use the Services for any purpose that is unlawful or prohibited by these Terms of Use. You may not use the Services in any manner that could damage, disable, overburden, or impair the Fora Financial website or interfere with any other parties’ use and enjoyment of the Services. You may not attempt to gain unauthorized access to any Services, computer systems or networks connected to any Fora Financial server or to any of the Services through hacking, password mining or any other means. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available through these Services.
-
- **6\. EXTERNAL LINKS**
-
-Links to other websites do not imply an endorsement of the materials disseminated at those websites, nor does the existence of a link to another site imply that the organization or person publishing at that site endorses any of the materials at this site. Links to other websites are provided by Fora Financial as a convenience to its users. Fora Financial is not responsible for the materials contained in any website linked to this site. Please be advised that third-party websites may have different terms of use and privacy policies.
-
- **7\. AUTHORITY**
-
-Use of the Services is void where prohibited. By using the Services, you represent and warrant that (a) all application information you submit is truthful and accurate; (b) you will maintain the accuracy of such information; (c) you are 18 years of age or older; (d) your use of the Services does not violate any applicable law or regulation; (e) you are authorized on behalf of the company whose name you have entered to apply for business financing. Your profile may be deleted and your Membership may be terminated without warning if we believe, in our sole discretion, that you are in violation of any Terms of Use.
-
-You understand and agree that Fora Financial and our agents and assignees are authorized to contact third parties to conduct background checks and other investigative reports and make credit report inquiries (including requesting business and personal credit bureau reports from credit reporting agencies and other sources) or for any other lawful purpose, and that Fora Financial has the authority for the foregoing in connection with any update, renewal, or extension of the credit to the company on whose behalf you are applying for credit. Upon your written request, we will advise you if we obtained a credit report. You understand and agree that Fora Financial is making no commitment or guarantee that any product, evaluation, or guidance provided by Fora Financial will result in an approval for funding.
-
- **8\. ACCOUNT SECURITY**
-
-Customer Duty – You agree to keep confidential all passwords, user IDs, IP addresses and other account identifiers and are solely responsible for any liability or damages resulting from your failure to maintain that confidentiality. You are solely and fully responsible and liable for all activities that occur under your Fora Financial account, password, user ID or IP address. You agree to:
-
-(a) Immediately notify Fora Financial if you suspect any breach of security such as loss, theft, public use (unrestricted, open, communal or shared use by third parties unrelated and/or not affiliated with the customer either for profit or not-for-profit) or unauthorized disclosure or use of your Fora Financial account, password, user ID or any credit or charge card numbers provided to Fora Financial by calling 212-947-0100;
-
-(b) Ensure your exit from your account as applicable at the end of each session; and
-
-(c) Periodically change your password.
-
-Account Access – You authorize Fora Financial to provide information about and make changes to your Fora Financial account including adding new services on the direction of any person able to provide information we deem sufficient to identify you.
-
-Assumption of Risk – There is a risk that other(s) may attempt to access your services, such as through the internet or connected networks. You acknowledge this risk is inherent to the shared nature of the services and you agree to take full responsibility for taking adequate security precautions and safeguarding your data.
-
- **9\. ELECTRONIC COMMUNICATIONS**
-
-By using parts of this website, or sending e-mails to Fora Financial, you agree to receive communications from us electronically, and that all agreements, notices, disclosures and other communications that we, our affiliates, partners or independent contractors provide to you electronically satisfy any legal requirement that such communication be in writing and are effective immediately.
-
-You have the right to withdraw your consent to receive disclosures and submit information electronically. You may withdraw your consent by contacting the Company in writing.  If you choose to withdraw your consent, you will not be able to make any requests through our website. If you have a pending request on our website, we will terminate it and remove it from our system. If you have already received funding, all previously agreed to terms and conditions will remain in effect, and we will send disclosures to your verified business address provided during registration.
-
-You may obtain a free copy of your electronic application by contacting the Company in writing at 519 Eighth Avenue, 11th Floor, New York, NY 10018 or by telephone at 212-947-0100.
-
- **10\. TELEPHONE COMMUNICATIONS**
-
-You hereby expressly consent to receiving calls and messages, including auto-dialed and pre-recorded message calls and SMS messages (including text messages) from Fora Financial, its affiliates, marketing partners, agents and others calling at Fora Financial’s request or on its behalf, at any telephone numbers that you have provided or may provide in the future (including any cellular or mobile telephone numbers). Your cellular or mobile telephone provider will charge you according to the type of plan you carry. You may opt out of receiving calls and marketing from Fora Financial and its affiliates, marketing partners, agents and others as provided in the Privacy Policy or by contacting us directly.
-
- **11\. GOVERNING LAW AND FORUM**
-
-Jurisdiction – Any dispute arising from these terms shall be resolved exclusively in the State and Federal Courts of the State of New York. Furthermore, these terms and the interpretation, performance and enforcement of your and Fora Financial’s rights and duties shall be construed in accordance with the laws of the State of New York except for the conflict or choice of law principles thereof.
-
- **12\. FEEDBACK AND SUBMISSIONS**
-
-You agree you are and shall remain solely responsible for the content of any submissions you make and you will not submit material that is unlawful, defamatory, abusive or obscene. You agree that you will not submit anything to the site that will violate any right of any third party, including copyright, trademark, privacy or any other personal or proprietary rights.
-
- **13\. FORCE MAJEURE**
-
-Fora Financial shall not be liable for any failure or delay in performance due in whole or in part to any cause beyond the reasonable control of such party or its contractors, agents or suppliers, including but not limited to utility or transmission failures, power failure, strikes or other labor disturbances, acts of God, acts of war or terror, floods, sabotage, fire, natural or other disasters.
-
- **14\. CONTACTING FORA FINANCIAL**
-
-In the event you should have any questions about these terms, please contact us at 212-947-0100. To inquire about linking to our site or about copyright or trademark matters, please contact us at [info@ForaFinancial.com](mailto:info@ForaFinancial.com).
-
-Last modified: July 12, 2016
-
- **Introduction**
-
-Fora Financial and its affiliates, assigns, agents, designees, and successors, (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
+Fora Financial and its affiliates, assigns, agents, designees, and successors, (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
 
 This policy describes the types of information we may collect from you or that you may provide when you visit the website www.forafinancial.com (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
@@ -112,13 +26,13 @@ It does not apply to information collected by:
 
 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this Privacy Policy. This policy may change from time to time (see _Changes to our Privacy Policy_ (http://www.forafinancial.com/legal/#privacy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this Privacy Policy. This policy may change from time to time (see _Changes to our Privacy Policy_ (https://www.forafinancial.com/legal/#privacy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
- **Children Under the Age of 13**
+**Children Under the Age of 13**
 
 Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [opt-out@ForaFinancial.com](mailto:opt-out@ForaFinancial.com).
 
- **Information We Collect About You and How We Collect It**
+**Information We Collect About You and How We Collect It**
 
 We collect several types of information from and about users of our Website, including information:
 
@@ -135,7 +49,7 @@ We collect this information:
 
 
 
- ** _Information You Provide to Us_** **.** The information we collect on or through our Website may include:
+**_Information You Provide to Us_** **.** The information we collect on or through our Website may include:
 
   * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, applying for financing, posting material, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
   * Records and copies of your correspondence including e-mail addresses, if you contact us.
@@ -147,7 +61,7 @@ We collect this information:
 
 You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
- ** _Information We Collect Through Automatic Data Collection Technologies_** **.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
+**_Information We Collect Through Automatic Data Collection Technologies_** **.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
   * Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.
   * Information about your computer and internet connection, including your IP address, operating system and browser type.
@@ -175,13 +89,13 @@ The technologies we use for this automatic data collection may include:
 
 We do not collect personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
- **Third-party Use of Cookies and Other Tracking Technologies.**
+**Third-party Use of Cookies and Other Tracking Technologies.**
 
 Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
 We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
- **How We Use Your Information**
+**How We Use Your Information**
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
@@ -201,7 +115,7 @@ We may also use your information to contact you about our own and third-parties�
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
- **Disclosure of Your Information**
+**Disclosure of Your Information**
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
@@ -220,12 +134,12 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our terms of use (<http://www.forafinancial.com/legal/>) and other agreements, including for billing and collection purposes.
+  * To enforce or apply our terms of use (<https://www.forafinancial.com/legal/>) and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Fora Financial, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
- **Choices About How We Use and Disclose Your Information**
+**Choices About How We Use and Disclose Your Information**
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
@@ -236,17 +150,17 @@ We strive to provide you with choices regarding the personal information you pro
 
 
 
- **Accessing and Correcting Your Information**
+**Accessing and Correcting Your Information**
 
 You may also send us an e-mail at [info@ForaFinancial.com](mailto:info@ForaFinancial.com) to request that we correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use (http://www.forafinancial.com/legal/)
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use (https://www.forafinancial.com/legal/)
 
- **Your California Privacy Rights**
+**Your California Privacy Rights**
 
 California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail [info@ForaFinancial.com](mailto:info@ForaFinancial.com) or write us at: Fora Financial 519 Eighth Avenue, 11th Floor, New York, NY 10018.
 
- **Data Security**
+**Data Security**
 
 We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. [All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
 
@@ -254,11 +168,11 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
- **Changes to Our Privacy Policy**
+**Changes to Our Privacy Policy**
 
 It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the primary e-mail address specified in your account _or_ through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
- **Contact Information**
+**Contact Information**
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
