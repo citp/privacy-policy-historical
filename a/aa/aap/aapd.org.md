@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623083101id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224054151id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The American Academy of Pediatric Dentistry
 
