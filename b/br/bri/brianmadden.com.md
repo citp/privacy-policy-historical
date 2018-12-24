@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the brianmadden.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624033904id_/https%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brianmadden.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224231150id_/https%3A//www.techtarget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechTarget
 
-   
-_Effective Date_ : May 25, 2018  
- 
+_Effective Date_ : May 25, 2018
 
 ### I. Introduction
 
-   
 TechTarget, Inc., its subsidiaries and affiliates (together, “TechTarget,” “we”, “us” or “our”) is committed to data protection and data privacy. We would like to provide users of our website (“you”) with information regarding the way that we use the information that is collected on our network of websites. We recommend that you read this Privacy Policy (“Policy”) so that you have a clear understanding of the data that we collect and how we use this information. By submitting your personal information to us, you will be deemed as having given your consent, where necessary and appropriate, for the disclosures referred to in this Policy.
 
 ### II. What Does this Privacy Policy Cover?
@@ -73,7 +70,7 @@ One of the ways in which we collect this information is through Tracking Technol
 
 We partner with certain Service Providers to collect analytical, behavioral, log, and clickstream data and to engage in analysis, auditing, research, and reporting. We, our Service Providers, and our Sponsors may use Tracking Technologies to identify you when you are online, and to collect information about your online activities, such as the type of browser you use, the websites you visit, your IP address, geographic location, browser type and version, and the content and advertising that you find interesting. This information helps us authenticate your profile; understand your interests and how we can better serve you. Additionally, this information may be combined with information you have provided to us or that we or others have collected about you, so that we may maximize the benefit you receive from the Services and deliver advertising targeted to your specific interests on our websites and mobile applications and when you use other websites or mobile applications. Information about you also may be aggregated with other Registered Users for the purposes identified above.
 
-Although Our Websites currently do not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed in the section entitled “ **Opting Out and Your Personal Rights**.” If you do not wish to have Tracking Technologies be used when interacting with the Websites, many web browsers allow you to stop accepting cookies and/or to warn you when a third party is trying to transfer a cookie to you. Please note that some TechTarget features and services may not be available to you if Tracking Technologies are disabled. 
+Although Our Websites currently do not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed in the section entitled “ **Opting Out and Your Personal Rights**.” If you do not wish to have Tracking Technologies be used when interacting with the Websites, many web browsers allow you to stop accepting cookies and/or to warn you when a third party is trying to transfer a cookie to you. Please note that some TechTarget features and services may not be available to you if Tracking Technologies are disabled.
 
 ### VI. What is the Legal Basis for the Processing of Personal Information?
 
@@ -134,13 +131,13 @@ TechTarget takes the security of the data that it collects very seriously. TechT
 
 TechTarget will only use your Member Information for the purposes described in this Policy or as subsequently authorized by you. We strive to offer you with choices about how your Personal Information is used and shared, as further outlined below.
 
-If, after becoming a Member, you wish to access, rectify, erase, restrict, transfer, or object to the use of your information, withdraw your membership, or if you have any questions in connection with this policy or the use of your information, please contact us at [privacy@techtarget.com](mailto:privacy@techtarget.com).
+If, after becoming a Member, you wish to access, rectify, erase, restrict, transfer, or object to the use of your information, withdraw your membership, or if you have any questions in connection with this policy or the use of your information, please access the [Individual Rights Request Form.](https://www.techtarget.com/individual-rights-request/)
 
 **A. Opting-Out**. TechTarget provides Users and Members with several ways in which they can easily opt-out of TechTarget’s services.
 
 1. **Web Browser Opt-Out**. Users and Members may opt-out of TechTarget’s internet-based advertising by removing cookies or by setting your web browser settings to refuse cookies and similar tracking mechanisms. Please note that web browsers operate using different identifiers. As such, you must adjust your settings in each web browser and for each computer or device that you would like to opt-out on. Further, if you simply delete your cookies, you will need to remove cookies from your device after every visit to Websites. You may download a browser plugin that will help you maintain your opt-out choices by visiting [www.aboutads.info/pmc](http://www.aboutads.info/pmc). You may block cookies entirely by disabling cookie use in your browser or by setting your browser to ask for your permission before setting a cookie. Blocking cookies entirely may cause some websites to work incorrectly.
 
-Please note that the use of online tracking mechanisms by third parties, such as our Sponsors, is subject to those third parties’ own privacy policies, and not this Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by [opting out here](http://optout.networkadvertising.org/?c=1#!/), or of companies participating in the Digital Advertising Alliance program by [opting out here](http://optout.aboutads.info/?c=2#!/). Although our Sites currently do not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.
+Please note that the use of online tracking mechanisms by third parties, such as our Sponsors, is subject to those third parties’ own privacy policies, and not this Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. [You can also update your preference settings via our consent manager here](https://consent.techtarget.com/cmp/privacy_manager?privacy_manager_id=5b5a0f6571642f4d806d35ae&site_id=1100). Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by [opting out here](http://optout.networkadvertising.org/?c=1#!/), or of companies participating in the Digital Advertising Alliance program by [opting out here](http://optout.aboutads.info/?c=2#!/). Although our Sites currently do not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.
 
 2\. **Unsubscribing from TechTarget Emails.**
 
@@ -152,7 +149,7 @@ Members may receive email marketing messages from us about relevant content, pro
 
 3\. **Deletion of Membership**. Members may request to have their membership deactivated and their Member Information erased by emailing [privacy@techtarget.com](mailto:privacy@techtarget.com). TechTarget will still process the requests without undue delay. Although TechTarget may deactivate a Member’s registration pursuant to their request, it may continue to retain their information for legitimate business purposes as set forth above.
 
-**B. Accessing and Updating Your Information**. Members may change or update the information associated with their membership at any time and as often as necessary by sending an email to [privacy@techatarget.com](mailto:privacy@techatarget.com).
+**B. Accessing and Updating Your Information**. Members may change or update the information associated with their membership at any time and as often as necessary by sending an email to [privacy@techtarget.com](mailto:privacy@techtarget.com).
 
 **C. Requests for Information, Records, and Restrictions of Use**. At any time during their membership, Members may submit a request for a copy of their information in TechTarget’s possession by sending an email to [privacy@techtarget.com](mailto:privacy@techtarget.com). Members may also request that TechTarget transfers their information or provides the Member with copies of their information to enable the transfer of their information to a third party. TechTarget will respond to all such requests without undue delay.
 
@@ -160,11 +157,11 @@ Members may receive email marketing messages from us about relevant content, pro
 
 Personal Information collected outside the United States, including in the European Economic Area (“ **EEA** “), is transferred to and stored on our servers in the United States and potentially in or to other countries whose data protection laws may be different to the laws in your country. We will protect your Personal Information in accordance with this Policy wherever it is processed.
 
-TechTarget has certified to the United States Department of Commerce and the European Commission that it adheres to the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework ([together,] the “Privacy Shield.” The Privacy Shield is a set of guidelines that establishes an adequacy standard which governs data-sharing between the European Union and Switzerland and the United States.
+TechTarget has certified to the United States Department of Commerce and the European Commission that it adheres to the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework (together, the “Privacy Shield.” The Privacy Shield is a set of guidelines that establishes an adequacy standard which governs data-sharing between the European Union and Switzerland and the United States.
 
 TechTarget has certified that (1) it has certain protections and procedures in place which meet EU and Swiss data protection and privacy standards and (2) further, that it adheres to the Privacy Shield principals of notice, choice, security, data integration and purpose limitation, access, accountability for the onward transfer of personal data, recourse, enforcement, and liability. To learn more about the EU-US Privacy Shield, and to view TechTarget’s certification, please visit https://www.commerce.gov/page/eu-us-privacy-shield.
 
-[TechTarget’s EU-US[/Swiss-US] Privacy Shield Policy](https://www.techtarget.com/wp-content/uploads/files/clientresources/EU_Safe_Harbor_Policy_10-23-2015.pdf), incorporated herein by reference, describes the manner in which TechTarget adheres to the Privacy Shield principles.
+[TechTarget’s EU-US/Swiss-US Privacy Shield Policy](https://www.techtarget.com/wp-content/uploads/files/clientresources/EU_Safe_Harbor_Policy_10-23-2015.pdf), incorporated herein by reference, describes the manner in which TechTarget adheres to the Privacy Shield principles.
 
 ### XIV. General
 
@@ -174,7 +171,7 @@ Our Websites feature advertisements from Advertisers. In the event that you clic
 
 TechTarget is not responsible for the privacy practices or the content of those sites. Users should be aware of this when they leave our Sites and review the privacy statements of each Web site they visit that collects information. **This Policy applies only to information collected on TechTarget’s Websites**.
 
-**B. Modifications and Amendments**. TechTarget may modify or amend this policy from time to time. We will not reduce your rights under this Privacy Policy without your consent. If we change our Privacy Policy, we will post those changes on this page in addition to updating the “Last Updated” date at the bottom of this Policy. For these reasons, we encourage you to read this Policy regularly. Your continued use of the Website or accessing Content posted on the Website shall constitute your acceptance of the modified Policy. If there will be any changes made to the use of your Personal Information in a manner materially different from that stated [at the time of collection, we will notify you by posting a notice on our Website. If you object to any of the changes, or the overall Policy, please contact us via the contact information set forth in Section XV below.
+**B. Modifications and Amendments**. TechTarget may modify or amend this policy from time to time. We will not reduce your rights under this Privacy Policy without your consent. If we change our Privacy Policy, we will post those changes on this page in addition to updating the “Last Updated” date at the bottom of this Policy. For these reasons, we encourage you to read this Policy regularly. Your continued use of the Website or accessing Content posted on the Website shall constitute your acceptance of the modified Policy. If there will be any changes made to the use of your Personal Information in a manner materially different from that stated at the time of collection, we will notify you by posting a notice on our Website. If you object to any of the changes, or the overall Policy, please contact us via the contact information set forth in Section XV below.
 
 **C. Domestication and International Requests**. TechTarget requires that any individual issuing legal process or legal information requests (e.g., discovery requests, warrants, or subpoenas) to TechTarget properly domesticate the process or request and serve TechTarget in a jurisdiction where it is resident or has a registered agent to accept service on its behalf. TechTarget does not accept legal process or requests directly from law enforcement entities outside the U.S. or Canada. Foreign law enforcement agencies should proceed through a Mutual Legal Assistance Treaty or other diplomatic or legal means to obtain data through a court where TechTarget is located.
 
