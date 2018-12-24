@@ -1,12 +1,38 @@
-> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806024555id_/https%3A//www.clickstay.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224013508id_/https%3A//www.clickstay.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Clickstay
+
+**Overview**
+
+Your personal information is important to us and this document outlines what information we store and how we use it. Our goal is to be open about what and how we use your personal information. Please note that we do not use your personal information unless you provide it to us. When you give us your information we will use it to deliver our service: helping you find and book a holiday rental.
+
+We will not pass on your information to third parties without your consent unless we need to deliver our service. For instance we will need to pass on certain details to:
+
+  * Property owners and agents when you make an enquiry or a booking.
+  * Our third-party email service provider so they can send you the relevant emails as part of our service.
+  * The underwriter of our Non-Refundable Breakage Waiver insurance contracts if you buy one of these policies when you make a booking.
+
+
+
+We will only pass on the minimum information required to deliver our service.
+
+We will also use your information to send you emails about our properties so we can deliver our service as effectively as possible; this will include newsletter and other marketing emails. However you will have the ability to unsubscribe from these emails at any time.
+
+We will also use cookies and other tracking technologies, such as web beacons, to customise and deliver our services, track the content you look at and manage our advertisements on third party sites. We use cookies in the same way as most other websites for instance to:
+
+  * Deliver our core functionality such as allowing you to login and remembering your search preferences.
+  * Track site usage patterns with analytics tools such as Google Analytics.
+  * Allow us to use third parties to promote our service. For example we use Google and Facebook tracking technologies so we can display tailored adverts in your Facebook feed, Google’s own websites and websites in the Google display network.
+
+
+
+For more information please read our “Cookies and other tracking technologies” section.
 
 **Your personal data**
 
 To be able to process bookings we need to collect certain personal details from you. These details will include, where applicable:
 
-  1. In the case of a Renter:  the names of the Renter and members of the Renter’s Party, their ages, at least the Renter’s contact details (including email address), at least the Renter’s credit/debit card details, etc which we do not store; and 
+  1. In the case of a Renter:  the names of the Renter and members of the Renter’s Party, their ages, at least the Renter’s contact details (including email address), at least the Renter’s credit/debit card details which we do not store; and 
   2. In the case of an Owner: the Owner’s name, contact details (including email address), bank account details, details of the Property 
 
 
@@ -25,11 +51,11 @@ In some cases we may pass information, including your personal data, to third pa
 
 **Consents**
 
-By entering your personal data onto our website, you agree to your personal data being processed in these ways. If you are a Renter you agree that you are authorised to disclose to us personal data about your Renter’s Party and that we may use such personal data in the same way as if it were your personal data.
+By entering your personal data onto our website, you agree to your personal data being processed in these ways. If you are a Renter you agree that you are authorised to disclose to us personal data about your Renter’s Party and that we may use such personal data in the same way as if it were your personal data. 
 
-If you have subscribed to our e-mail service or have made a booking for, or an enquiry about, the services we offer, you agree we may send you targeted promotional e-mails about the services and special deals we offer unless you have opted out of receiving these. 
+If you have subscribed to our e-mail service or have made a booking for, or an enquiry about, the services we offer, you agree we may send you targeted promotional e-mails about the services and special deals we offer unless you have opted out of receiving these. 
 
-You agree that we may also disclose our customer database, including any personal data relating to you contained in it, to a third party who acquires or attempts to acquire all or substantially all of the assets or shares in Clickstay Ltd. or our website whether by merger, acquisition, reorganisation or otherwise. 
+You agree that we may also disclose our customer database, including any personal data relating to you contained in it, to a third party who acquires or attempts to acquire all or substantially all of the assets or shares in Clickstay Ltd. or our website whether by merger, acquisition, reorganisation or otherwise. 
 
 **Updating your personal data**
 
@@ -47,7 +73,7 @@ We may disclose your personal data where we are obliged or permitted by law to d
 
 **Information requests**
 
-You are generally entitled to ask us (by letter or e-mail) what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We will charge a small processing fee to cover the cost of our responding to such a request. We promise to respond to your request within 40 days of receiving your written request and fee. In certain limited circumstances we are entitled to refuse your request. 
+You are generally entitled to ask us (by letter or e-mail) what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We will provide you with this information free of charge; however we may charge a reasonable fee if your request is manifestly unfounded or excessive. We promise to respond to your request as soon as possible and at the latest within one month of receipt of your written request. In certain limited circumstances we are entitled to refuse your request – for example if the request is manifestly unfounded or excessive, particularly if it is repetitive. 
 
 If you believe that any of your personal details which we are processing are inaccurate or incorrect please contact us immediately. 
 
@@ -55,21 +81,20 @@ This privacy statement covers websites owned and controlled by us only. Links to
 
 **Cookies and other tracking technologies**
 
-We may send you a cookie when you visit [www.clickstay.com](http://www.clickstay.com/) or any of our other websites.
+We may send you a cookie when you visit [www.clickstay.com](https://www.clickstay.com/) or any of our other websites.
 
-A ‘cookie’ is a very small file that is placed on your computer, tablet or mobile device. There are two categories of cookie, called “first party” and “third party” cookies:
+A cookie is a very small file that is placed on your computer, tablet or mobile device. There are two categories of cookie, called “first party” and “third party” cookies:
 
-  1. First Party cookies are cookies that we set and we use them for a number of reasons, such as remembering who you are when you return to our Website; and 
-  2. Third Party cookies are cookies set on our behalf by third parties such as Google. These cookies do not collect your personal data and you cannot be identified as an individual customer from them. 
+  1. First party cookies are cookies that we set and we use them for a number of reasons, such as remembering who you are when you return to our Website; and 
+  2. Third party cookies are cookies set on our behalf by third parties such as AdRoll, Facebook, Google and Twitter. These cookies do not collect your personal data but we may use them to identify you. We may use third party cookies together with web beacons. 
 
 
 
-We use cookies and other tracking technologies for a number of different reasons, which are:
+We use cookies and other tracking technologies for several different reasons, including:
 
   1. Cookies that are necessary for our websites to work and cannot be switched off. They are usually only set in response to actions that you make, such as when you log in to check your booking. These cookies do not store any personally identifiable information.   
-You can set your browser to block or alert you about these cookies, but if you do, some parts of our Websites will not work properly. 
-  2. Tracking technologies that allow us to track your behaviour on our website including how you arrived to it. We do this for the purpose of analytics, conducting research, product development, fraud prevention, risk assessment and to personalize or otherwise customize your experience. We may also use this type of cookie to make payments to third parties with whom we have a contract when a visitor, who has visited a website operated by the third party, rents a property or buys a service using our website.   
-We also use Google Analytics for web analytics which uses cookies to gather information about how visitors use our website. The data collected by Google is not shared with anyone else and we don’t upload any data that would allow Google to personally identify an individual. For further information about Google Analytics’ Privacy Policy, please visit <https://www.google.com/intl/en)ALL/policies/privacy/>. 
+You can set your browser to block or alert you about these cookies, but if you do, some parts of our website will not work properly. 
+  2. Tracking technologies that allow us to track your behaviour on our website including how you arrived to it. We do this for analytical purposes, conducting research, product development, fraud prevention, risk assessment and to personalize or otherwise customize your experience. We may also use this type of cookie to make payments to third parties with whom we have a contract when a visitor, who has visited a website operated by the third party, rents a property or buys a service using our website. We also use Google Analytics for web analytics which uses cookies to gather information about how visitors use our website. The data collected by Google is not shared with anyone else and we don’t upload any data that would allow Google to personally identify an individual. For further information about Google Analytics’ Privacy Policy, please visit [https://www.google.com/intl/en/ALL/policies/privacy/](https://www.google.com/intl/en-ALL/policies/privacy/). 
 
 
 
@@ -155,4 +180,4 @@ refers to an Owner or a Renter, as the case may be.
   
   
   
-_Last Changed:  4th August 2016_
+_Last Changed:  18th May 2018_
