@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanitaryindustry.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624031632id_/http%3A//www.sanitaryindustry.com/content/show/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanitaryindustry.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224082025id_/http%3A//www.sanitaryindustry.com/content/show/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy-GM Sanitary Industry Expo
 
