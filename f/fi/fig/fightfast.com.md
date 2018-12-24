@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fightfast.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628012138id_/http%3A//www.fightfast.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightfast.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224110842id_/https%3A//www.fightfast.com/privacypolicy.php) for the most accurate reproduction.*
 
-# FREE Video Fight Course - FightFast.com
+# FREE Video Fight Course - FightFast.com<
 
 ### Privacy Statement
 
@@ -37,20 +37,6 @@ We may use cookies to track what products on our site you may be interested in s
 We use numerous third-party advertising services (such as Google, Bing, Yahoo) that show our ads across the internet to our past visitors based on their browsing history on our website. These third party services use cookies to serve ads based on someone's past visits to our website.
 
 You can opt-out of Google's use of cookies by visiting Google's [Ads Settings.](http://www.google.com/settings/ads) Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative](http://optout.networkadvertising.org/) opt-out page.
-
-###### **EU General Data Protection Regulation:**
-
-Users in the European Economic Area who access our site through an IP address located in the European Economic Area will see a disclosure when they enter our site. This disclosure lets the user know that our site uses cookies.
-
-If a user clicks the accept button on the cookie disclosure banner, cookies and other tracking tools will be enabled. Cookies and other tracking tools will also be enabled if a user who does not click accept attempts to scroll on the page, refresh the page, or navigate to other places on our website. These actions are understood as implied consent on the part of the user who, upon being made aware of our use of cookies, does not leave the site. In short, users who don’t want to be on a site that uses cookies or other tracking tools should leave our site.
-
-To learn more about cookies visit: <http://www.cookiecentral.com/>
-
-To control or opt-out of Google's use of cookies visit: <http://www.google.com/settings/ads>
-
-You can also visit the Network Advertising Initiatives web site for other privacy control options: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/)
-
-To leave this site 
 
 Back To Top
 
