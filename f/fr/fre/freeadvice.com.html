@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeadvice.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628144150id_/https%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeadvice.com privacy policy that was archived on 2018-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181224221345id_/https%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 
@@ -11,13 +11,15 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-<link rel="stylesheet" media="screen and (min-width: 0px) and (max-width: 959px)" href="__css/css.generic.mobile.min.css">
-<link rel="stylesheet" media="screen and (min-width: 960px)" href="__css/css.generic.desktop.min.css">
+<!--<link rel='stylesheet' media='screen and (min-width: 0px) and (max-width: 959px)' href='__css/css.generic.mobile.min.css' />
+<link rel='stylesheet' media='screen and (min-width: 960px)' href='__css/css.generic.desktop.min.css' />-->
+<link rel="stylesheet" media="screen and (min-width: 0px) and (max-width: 959px)" href="__css/css.law.mobile.css">
+<link rel="stylesheet" media="screen and (min-width: 960px)" href="__css/css.law.desktop.css">
 
 
 <!-- Caching Controls -->
-<meta http-equiv="last-modified" content="Thu, 28 Jun 2018 14:41:51 GMT">
-<meta http-equiv="expires" content="Thu, 05 Jul 2018 14:41:51 GMT">
+<meta http-equiv="last-modified" content="Mon, 24 Dec 2018 22:13:45 GMT">
+<meta http-equiv="expires" content="Mon, 31 Dec 2018 22:13:45 GMT">
 
 <link rel="SHORTCUT ICON" href="//www.freeadvice.com/__advstatic/favicon.ico">
 <link rel="apple-touch-icon" href="//www.freeadvice.com/apple-touch-icon.png">
@@ -51,7 +53,7 @@
 <meta name="twitter:description" content="FreeAdvice.com's Privacy Policy">
 <meta name="twitter:image" content="https://www.freeadvice.com/__images/fa_homepage-feature-image-businessmanSmile.jpg">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="//contextual.media.net/nmedianet.js?cid=8CU127OKY&amp;crid=646232900&amp;size=316x150" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="//contextual.media.net/nmedianet.js?cid=8CU127OKY&amp;crid=646232900&amp;size=316x150" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 <!-- Links Analytics to AdSense -->
 window.google_analytics_uacct = "UA-11918687-7";
 window.google_analytics_domain_name = "";
@@ -130,14 +132,14 @@ $(function() {
 });
 </script>
 
-<!-- Google Page-Level Ads - MOBILE ONLY -->
-<!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google Auto Ads - Mostly MOBILE ONLY -->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-3387887484387515",
     enable_page_level_ads: true
   });
-</script>-->
+</script>
 
 <!--
   ~ Copyright (C) 2014-2015 Media.net Advertising FZ-LLC All Rights Reserved
@@ -171,32 +173,197 @@ scpt.parentNode.insertBefore(elem, scpt);
 </script>
 <!-- End Quantcast tag, part 1 -->
 
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<style>
+	#gdprfooter {
+   position:fixed;
+   left:0px;
+   top:0px;
+   height:auto;
+   width:100%;
+   background-color: white;
+   z-index: 5000 !important;
+}
+	
+.gdpr-container {
+	height:auto;
+	overflow: auto;
+}
+	
+/* IE 6 */
+* html #gdprfooter {
+   position:absolute;
+   top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
+}
+	
+.btn {
+    margin: 0 2px;
+    padding: .5em 1.8em .55em;
+    /*background: #000 url(//www.freeadvice.com/__advstatic/btn-overlay.png) repeat-x center 0;*/
+    background: #121212;
+    color: #d7d7d7;
+    font: bold 1.15em/1.1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #111;
+    color: #fff;
+}
+
+.btn:active {
+    background-position: center bottom;
+}
+
+.ie7 .btn {
+    zoom: 1;
+    *display: inline;
+    /* zoom and *display = ie7 hack for display:inline-block */
+}
+
+.ie7 .btn,
+.ie8 .btn {}
+
+.ie7 .btn[type="submit"],
+.ie8 .btn:button,
+.ie8 button.btn {
+    padding: .4em 1.35em .45em;
+    width: auto;
+    overflow: visible;
+    font-size: 1.1em;
+    letter-spacing: .2%;
+    border-color: transparent !important;
+}
+
+.btn:hover {
+    text-decoration: none;
+}
+
+.btn:active {
+    position: relative;
+    top: 1px;
+}
+/* Orange */
+
+.orange-btn.btn {
+    background-color: #e5620a;
+    color: #fff;
+}
+
+.orange-btn.btn:hover {
+    background-color: #f47c20;
+    color: #fff;
+}
+.orange-btn{border:0}
+</style>
 <script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#edeff5",
-      "text": "#838391"
-    },
-    "button": {
-      "background": "#4b81e8"
-    }
-  },
-  "position": "top",
-  "content": {
-    "message": "FreeAdvice has a new <a href='https://www.freeadvice.com/resources/conditionsnew.htm' target='_blank'><span style='color:#9899A5;'>Terms of Service</span></a> and <a href='https://www.freeadvice.com/company/privacypolicy.htm' target='_blank'><span style='color:#9899A5;'>Privacy Policy</span></a>, effective May 25, 2018. By continuing to use this site, you are consenting to our Terms of Service and use of cookies. ",
-	"dismiss": "Accept",
-    "href": "https://www.freeadvice.com/company/privacypolicy.htm"
-  }
-})});
+/**
+ * get cookie by name without using a regular expression
+ */
+var getCookie = function(name) {
+	var getCookieValues = function(cookie) {
+		var cookieArray = cookie.split('=');
+		return cookieArray[1].trim();
+	};
+
+	var getCookieNames = function(cookie) {
+		var cookieArray = cookie.split('=');
+		return cookieArray[0].trim();
+	};
+
+	var cookies = document.cookie.split(';');
+	var cookieValue = cookies.map(getCookieValues)[cookies.map(getCookieNames).indexOf(name)];
+
+	return (cookieValue === undefined) ? null : cookieValue;
+};
+/**
+ * [Parsing the cookieString and returning an object of the available cookies]
+ * @return {[object]} [map of the available objects]
+ */
+var parseCookies = function () {
+	var cookieData = (typeof document.cookie === 'string' ? document.cookie : '').trim();
+
+	return (cookieData ? cookieData.split(';') : []).reduce(function (cookies, cookieString) {
+		var cookiePair = cookieString.split('=');
+
+		cookies[cookiePair[0].trim()] = cookiePair.length > 1 ? cookiePair[1].trim() : '';
+
+		return cookies;
+	}, {});
+};
+
+// To clear cookie during testing / development.
+//document.cookie = "gdprfooter=;domain=.freeadvice.com;path=/;";
+	
+function CheckCookie() {
+var n = getCookie('gdprcookie');
+//	alert("cookie: "+n);
+var x = document.getElementById('gdprfooter');
+if (n != 'OK') { x.style.display = "block"; } else { x.style.display = "none"; }
+}
+	
+function toggleoff() {
+//	alert('Got here');
+//var myDate = new Date();
+//myDate.setMonth(myDate.getMonth() + 12);
+//document.cookie = "gdprcookie=OK;domain=.freeadvice.com;path=/;";
+var expiry = new Date();   
+expiry.setTime(expiry.getTime()+(90*24*60*60*1000)); // 90 days
+document.cookie = "gdprcookie=OK;domain=.freeadvice.com;path=/;expires=" + expiry.toGMTString();
+
+var x = document.getElementById('gdprfooter');
+x.style.display = "none";
+return true;
+}
+</script>	
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '384880022011519');
+  fbq('track', 'PageView');
 </script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=384880022011519&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
 
 </head>
 
-<body name="content">
+<body name="content" onload="CheckCookie()">
+	
+
+<div id="gdprfooter" class="header-wrap gdpr-container" style="border:orange 1px solid;font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif';font-size:1.1em;color:#E76C1A;font-weight:normal;display:none;">
+<!--googleoff: all-->
+	<div style="padding:10px 15px 10px 15px;" align="center">FreeAdvice has a new <a href="https://www.freeadvice.com/resources/conditionsnew.htm" target="_blank">Terms of Service</a> and <a href="https://www.freeadvice.com/company/privacypolicy.htm" target="_blank">Privacy Policy</a>, effective May 25, 2018. By continuing to use this site, you are consenting to our Terms of Service and use of cookies. <a tabindex="0" label="learn more about cookies" href="https://www.freeadvice.com/company/privacypolicy.htm" target="_blank">Learn more</a>
+	</div>
+	<div style="margin-bottom:10px;" align="center"><a tabindex="0" class="btn orange-btn" onclick="return toggleoff();">Accept</a></div>
+<!--googleon: all-->
+</div>
+
+<!-- Facebook Code -->
+<script>
+  fbq('track', 'ViewContent');
+</script>
 
 <!-- Facebook Code -->
 <div id="fb-root"></div>
@@ -208,6 +375,40 @@ window.cookieconsent.initialise({
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<style>
+.btn-find {
+  width: 57px;
+  height: 30px;
+  background: #f8941b;
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  line-height: 28px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  border: solid 1px #dd8418 ;
+  border-bottom-width: 2px;
+  border-radius: 0 3px 3px 0;
+  -webkit-border-radius: 0 3px 3px 0;
+  display: block;
+  float: right;
+  cursor: pointer;
+  transition: background 300ms, border 300ms;
+}
+
+.btn-find:active {
+  height: 30px;
+  padding-top: 1px;
+}
+
+.btn-find:hover {
+  background-color: #dd8418;
+  border-color: #cf7c17;
+}
+</style>
 <!-- Header -->
 <div class="header-wrap" role="banner">
     <header>
@@ -220,7 +421,8 @@ window.cookieconsent.initialise({
     	<form class="header-search-form" action="https://www.freeadvice.com/fa_google_search.php" method="GET" target="_top" name="law_search_box">
         	<div class="header-search clearfix" role="search">
         	<input type="text" name="q" class="search-text-field search-no-border" placeholder="Search FreeAdvice.com">
-        	<input class="btn orange-btn" type="submit" value="Find">
+			<!--<input class="btn orange-btn" type="submit" value="Find">-->
+        	<input class="btn-find" type="submit" value="Find" style="font-size:1em;font-family:arial;">
         	</div>
     	</form>
 		</div>
@@ -419,20 +621,20 @@ Please read this Privacy Policy carefully so that you will understand how we col
 		                
 		<!-- Nav -->
 		<nav>
-		<a class="nav-back-link" href="https://www.freeadvice.com/"><span class="t15">←</span> Back to FreeAdvice.com</a>
+		<a class="nav-back-link" href="//www.freeadvice.com/"><span class="t15">←</span> Back to FreeAdvice.com</a>
 					<ul class="rail-nav">
-				<li><a href="https://www.freeadvice.com/company/aboutus.htm">About Us<span class="icon"></span></a></li>
-				<li><a href="https://www.freeadvice.com/company/content-quality.htm">Editorial Staff<span class="icon"></span></a></li>
-				<li><a href="https://www.freeadvice.com/company/media.htm">In The Media<span class="icon"></span></a></li>
-				<li><a href="https://www.freeadvice.com/company/advertise.htm">Advertise With Us<span class="icon"></span></a></li>
-                <li><a href="https://www.freeadvice.com/company/contact_us.htm">Contact Us<span class="icon"></span></a></li>
-				<li><a class="active" href="https://www.freeadvice.com/company/privacypolicy.htm">Privacy Policy<span class="icon"></span></a></li>
+				<li><a href="//www.freeadvice.com/company/aboutus.htm">About Us<span class="icon"></span></a></li>
+				<li><a href="//www.freeadvice.com/company/content-quality.htm">Editorial Staff<span class="icon"></span></a></li>
+				<li><a href="//www.freeadvice.com/company/media.htm">In The Media<span class="icon"></span></a></li>
+				<li><a href="//www.freeadvice.com/company/advertise.htm">Advertise With Us<span class="icon"></span></a></li>
+                <li><a href="//www.freeadvice.com/company/contact_us.htm">Contact Us<span class="icon"></span></a></li>
+				<li><a class="active" href="//www.freeadvice.com/company/privacypolicy.htm">Privacy Policy<span class="icon"></span></a></li>
 				<li class="end-cap"></li>
 			</ul>
 				</nav>
 
 
-			<!-- Article List (news or otherwise) --><section class="rail-article-list"><h4><a href="https://www.freeadvice.com/news/">Today's Legal News <span class="arrow">►</span></a></h4><div class="rail-article-single clearfix"><a href="https://www.freeadvice.com/news/Government+Law/supreme-court-ducks-freedom-of-religion-vs-lgbt-discrimination-question-in-colorado-baker-case.htm"><img class="article-img" src="https://secure.freeadvice.com/__uploads/2018/06/2018-06-16_08-39-55-num5103363743-300.jpg" width="68" height="50"></a><a class="article-topic" href="https://www.freeadvice.com/news/Government+Law/">GOVERNMENT LAW</a><a class="article-title" href="https://www.freeadvice.com/news/Government+Law/supreme-court-ducks-freedom-of-religion-vs-lgbt-discrimination-question-in-colorado-baker-case.htm">Supreme Court Ducks Freedom of Religion vs LGBT Discrimination Question in Colorado Baker Case</a></div><div class="rail-article-single clearfix"><a href="https://www.freeadvice.com/news/Employment+Labor+Law/california-supreme-court-strikes-blow-against-gig-economy.htm"><img class="article-img" src="https://secure.freeadvice.com/__uploads/2018/06/2018-06-14_08-30-38-num6787392948-300.jpg" width="68" height="50"></a><a class="article-topic" href="https://www.freeadvice.com/news/Employment+Labor+Law/">EMPLOYMENT LABOR LAW</a><a class="article-title" href="https://www.freeadvice.com/news/Employment+Labor+Law/california-supreme-court-strikes-blow-against-gig-economy.htm">California Supreme Court Strikes Blow against Gig Economy</a></div><div class="rail-article-single clearfix"><a href="https://www.freeadvice.com/news/Litigation/us-companies-sued-for-european-privacy-law-violations.htm"><img class="article-img" src="https://secure.freeadvice.com/__uploads/2018/02/2018-02-05_20-05-07-num7917123376-300.jpg" width="68" height="50"></a><a class="article-topic" href="https://www.freeadvice.com/news/Litigation/">LITIGATION</a><a class="article-title" href="https://www.freeadvice.com/news/Litigation/us-companies-sued-for-european-privacy-law-violations.htm">US Companies Sued for European Privacy Law Violations</a></div></section>    
+			<!-- Article List (news or otherwise) --><section class="rail-article-list"><h4><a href="https://www.freeadvice.com/news/">Today's Legal News <span class="arrow">►</span></a></h4><div class="rail-article-single clearfix"><a href="https://www.freeadvice.com/news/Government+Law/court-finds-female-genital-mutilation-ban-unconstitutional.htm"><img class="article-img" src="https://secure.freeadvice.com/__uploads/2018/12/2018-12-20_10-57-33-num7971364986-300.jpg" width="68" height="50"></a><a class="article-topic" href="https://www.freeadvice.com/news/Government+Law/">GOVERNMENT LAW</a><a class="article-title" href="https://www.freeadvice.com/news/Government+Law/court-finds-female-genital-mutilation-ban-unconstitutional.htm">Court Finds Female Genital Mutilation Ban Unconstitutional</a></div><div class="rail-article-single clearfix"><a href="https://www.freeadvice.com/news/Criminal+Law/illinois-passes-a-law-limiting-use-of-jailhouse-snitches.htm"><img class="article-img" src="https://secure.freeadvice.com/__uploads/2018/12/2018-12-15_10-28-43-num4139215531-300.jpg" width="68" height="50"></a><a class="article-topic" href="https://www.freeadvice.com/news/Criminal+Law/">CRIMINAL LAW</a><a class="article-title" href="https://www.freeadvice.com/news/Criminal+Law/illinois-passes-a-law-limiting-use-of-jailhouse-snitches.htm">Illinois Passes a Law Limiting Use of Jailhouse Snitches</a></div><div class="rail-article-single clearfix"><a href="https://www.freeadvice.com/news/Employment+Labor+Law/california-court-blocks-use-of-employee-non-solicit-clause.htm"><img class="article-img" src="http://fa.advstatic.com/blog-img-ftla-99206126-300x182.jpg" width="68" height="50"></a><a class="article-topic" href="https://www.freeadvice.com/news/Employment+Labor+Law/">EMPLOYMENT LABOR LAW</a><a class="article-title" href="https://www.freeadvice.com/news/Employment+Labor+Law/california-court-blocks-use-of-employee-non-solicit-clause.htm">California Court Blocks Use of Employee Non-Solicit Clause</a></div></section>    
     
             <!-- Nested content or ad unit 
             <section class="rail-box">
@@ -448,8 +650,39 @@ Please read this Privacy Policy carefully so that you will understand how we col
 
 	</aside><!-- // .rail -->
         
-	<div class="clear"></div>
-    
+	<div class="clear"></div><br clear="all">
+		
+<style>
+	.btn-askg {
+  width: 18%;
+  height: 41px;
+  background: #f8941b;
+  font-size: 1.25em;
+  letter-spacing: 1px;
+  line-height: 40px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  border: solid 1px #dd8418 ;
+  border-bottom-width: 2px;
+  border-radius: 0 3px 3px 0;
+  -webkit-border-radius: 0 3px 3px 0;
+  display: block;
+  float: right;
+  cursor: pointer;
+  transition: background 300ms, border 300ms;
+	margin:-1px -31px 0 0;
+}
+
+	.btn-askg:hover {
+  background-color: #dd8418;
+  border-color: #cf7c17;
+}
+</style>
+
     		<!-- SEARCH -->
         	<aside class="anchored-search clearfix" style="margin-top:20px;">
             	<span class="title headline-font">
@@ -457,9 +690,9 @@ Please read this Privacy Policy carefully so that you will understand how we col
             	find your legal advice
             	</span>
           		<form class="anchored-search-form" action="https://www.freeadvice.com/fa_google_search.php" method="GET" target="_top" name="law_search_box">
-                <div class="anchored-search-inputs clearfix" role="search">
+                <div class="ask-search" role="search">
                     <input type="text" name="q" class="search-text-field search-no-border placeholder" placeholder="Search FreeAdvice.com" style="border:none;font-style:italic;">
-                    <input name="sa" class="btn orange-btn" type="submit" value="Find">
+                    <input name="sa" class="btn-askg orange-btn" type="submit" value="Find">
                 </div>
         		</form>
 			</aside>
