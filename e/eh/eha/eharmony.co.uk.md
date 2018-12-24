@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607194954id_/https%3A//www.eharmony.co.uk/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224094524id_/https%3A//www.eharmony.co.uk/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy
 
