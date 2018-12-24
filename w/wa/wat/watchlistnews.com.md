@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchlistnews.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512061140id_/http%3A//www.watchlistnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchlistnews.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224025601id_/https%3A//www.watchlistnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch List News
 
@@ -24,7 +24,7 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## **Third-Party Advertising Notice**
 
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may collect and use information about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media, such as mobile apps, about goods and services that may be of interest to you, and to understand how users respond to advertising on our website and other websites. These companies may collect this information using technologies such as cookies and pixels. We may also share personal information such as your email address in hashed non-human readable form with these advertising companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.networkadvertising.org_managing_opt-5Fout.asp&d=CwMFAg&c=XRWvQHnpdBDRh-yzrHjqLpXuHNC_9nanQc6pPG_SpT0&r=g3oaDsRBobxWPv7kusJizmKv_KyKj40UA0HhKo2OeS8&m=G0-xsNI-wGWMCi5s2iZTGG3g-lZUq6p8nV4yLStnOqY&s=rL_E93oOvKDNSIzCq1tkNbVmgZW_-rWzhQvH4ceKlgg&e=).
 
 ## Contact Information
 
