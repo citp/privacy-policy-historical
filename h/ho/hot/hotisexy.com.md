@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotisexy.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505024423id_/http%3A//www.hotisexy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotisexy.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224072912id_/http%3A//www.hotisexy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Download Free Nude Porn Picture
 
