@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzle.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531182128id_/https%3A//www.buzzle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzle.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224011233id_/https%3A//www.buzzle.com/privacy.asp) for the most accurate reproduction.*
 
 # Buzzle Privacy Policy
 
@@ -27,4 +27,4 @@ For serving advertisements to this site, our third-party advertisers may place o
 **Notification of Policy Changes**  
 Should our privacy policy change, a notification will be posted on Buzzle.com.
 
-If you have any questions or concerns about the collection of your information during your visit at Buzzle.com, please [contact us](https://web.archive.org/web/20180531182128id_/https%3A//www.buzzle.com/contact.asp).
+If you have any questions or concerns about the collection of your information during your visit at Buzzle.com, please [contact us](https://web.archive.org/web/20181224011233id_/https%3A//www.buzzle.com/contact.asp).
