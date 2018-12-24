@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullvid.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221001155id_/http%3A//torchbrowser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullvid.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224082516id_/https%3A//torchbrowser.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Torch Browser
 
