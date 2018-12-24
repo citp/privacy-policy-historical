@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thefederalistpapers.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063002id_/http%3A//thefederalistpapers.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefederalistpapers.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224041128id_/https%3A//thefederalistpapers.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Federalist Papers
-
-## Privacy Policy
+# Privacy Policy
 
 Your privacy is critically important to us. The Federalist Papers Project adheres to a few fundamental principles:
 
@@ -13,9 +11,9 @@ Your privacy is critically important to us. The Federalist Papers Project adhere
 
 
 
-Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team.](http://thefederalistpapers.org/contact)
+Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team.](https://thefederalistpapers.org/contact)
 
-The Federalist Papers Project  (“ **The Federalist Papers Project** ”) operates **[thefederalistpapers.org](http://thefederalistpapers.org/)**. It is The Federalist Papers Project’s policy to respect your privacy regarding any information we may collect while operating our websites.
+The Federalist Papers Project  (“ **The Federalist Papers Project** ”) operates **[thefederalistpapers.org](https://thefederalistpapers.org/)**. It is The Federalist Papers Project’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -44,6 +42,8 @@ If The Federalist Papers Project, or substantially all of its assets, were acqui
 ### Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by The Federalist Papers Project and does not cover the use of cookies by any advertisers.
+
+Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioral advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ### Privacy Policy Changes
 
