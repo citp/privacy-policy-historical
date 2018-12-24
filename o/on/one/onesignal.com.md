@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527201140id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224224706id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
 
-# OneSignal - Multi-platform Push Notification Service
+# OneSignal: High Volume Mobile and Web Push Notifications
 
 ## OneSignal Privacy Policy
 
 #### _Last Updated: May 2, 2018_
 
-OneSignal., a U.S. company located at 2194 Esperanca Avenue, Santa Clara, CA 95054 (“OneSignal” “we,” “us,” and “our”), provides this privacy policy because we believe that consumers should have clear and comprehensive ways to understand how information about them is collected and used – both to provide our services and for third party advertising purposes. We’ve tried to write this policy in a way that is easy for consumers to understand at a “high level,” while still providing detail to allow sophisticated users (and privacy advocates) to understand what data models we’re engaged in, and more generally, how interest-based advertising works.
+OneSignal., a U.S. company located at 411 Borel Ave Suite 512, San Mateo, CA 94402 (“OneSignal” “we,” “us,” and “our”), provides this privacy policy because we believe that consumers should have clear and comprehensive ways to understand how information about them is collected and used – both to provide our services and for third party advertising purposes. We’ve tried to write this policy in a way that is easy for consumers to understand at a “high level,” while still providing detail to allow sophisticated users (and privacy advocates) to understand what data models we’re engaged in, and more generally, how interest-based advertising works. 
 
 We’ve also provided a section about the choices that you have with respect to “interest based advertising,”, and we encourage you to read that section and exercise your “opt out” rights if you’re inclined to do that. (But because interest based advertising leads to more relevant (and thus, less annoying) advertising, we hope you won’t do that.)
 
@@ -74,7 +74,7 @@ We also share SDK Information to provide or help us to provide advertising and m
 
     1. With advertisers and their marketing providers, so they may provide targeted content and advertising to you on websites and mobile applications With other third parties that target advertising. For those familiar with the online ad ecosystem, these may include demand-side and supply-side advertising platforms, data management platforms, advertising agency trading desks, proximity solution providers, and other advertising technology providers, so they may provide targeted content and advertising to End Users and others on third-party websites, mobile applications, and other advertising mediums (email, direct mail, display media), and so that they may measure the effectiveness of this marketing. 
     2. Similarly, we may work with service providers who, to enhance consumer privacy, use a non-human readable “hashed” version of Information such as an email address when sending advertising offers by email or display advertising (which may be linked to a cookie as described above). 
-    3. Sometimes we provide information (such as IP address, but excluding precise lat/long coordinates) to third party platforms to help advertisers identify common users across different devices or browsers – for instance, to identify a 
+    3. Sometimes we provide information (such as IP address, but excluding precise lat/long coordinates) to third party platforms to help advertisers identify common users across different devices or browsers – for instance, to identify a common set of users on both mobile devices and tablets, as well as the web. 
 
 The processes we’ve described above often involves cookies or similar technologies, which may be associated with other information about you, e.g., your interests, demographics or transactions. This is known generally as “Interest-Based Advertising.” We encourage users who are interested in controlling or learning about this type of “interest-based advertising” to go to Section 6, titled “ **Consumer Control & Opt-Out Options**, or go to this this page operated by the online ad industry trade association.
 
@@ -173,6 +173,10 @@ If you have any questions regarding this Privacy Policy, please contact us at [p
   12. Changes to This Privacy Policy
 
 If we make material changes to our privacy policy that may impact you, we will prominently post notice of the change on our website for a period of at least 30 days prior to the change becoming effective. We recommend that you check the Privacy Policy frequently so that you are informed of any changes.
+
+  13. Paid Plan Privacy Policy
+
+We also offer enterprise plans for customers interested in data privacy, priority support, or special terms which are not usually applicable to most clients. Enterprise Plans are subject to our [ Paid Plan Privacy Policy. ](https://onesignal.com/OneSignalSAASPrivacyPolicy.pdf)
 
 
 
