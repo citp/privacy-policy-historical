@@ -1,105 +1,62 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116063453id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224062029id_/https%3A//www.synology.com/privacy) for the most accurate reproduction.*
 
-# Legal | Synology Inc.
+# Synology Inc.
 
-### Privacy
+###  What is GDPR? __
 
-##### PRIVACY STATEMENT
+The General Data Protection Regulation (GDPR) was designed to harmonize data privacy laws across Europe, to protect and empower all EU citizens’ data privacy, and to reshape the way organizations approach data privacy. Learn more about [GDPR](https://www.eugdpr.org/) here.
 
-Synology Inc. is committed to protecting the personal information that you decide to share with us. This privacy statement explains data collection and use practices of (1) the www.synology.com website (the “Site”); (2) Synology products. By accessing the Site or registering your Synology product, you are consenting to the information collection and use practices described in this privacy statement.
+###  What is Synology’s approach to the GDPR? __
 
-##### Collection of your Personal Information
+Synology has taken necessary measures to comply with GDPR. Some of the noticeable changes include Synology Account and payment integration. 
 
-Synology Inc. may ask you for information that personally identifies you (personal information) or allows Synology Inc. to contact you to provide a service or carry out a transaction that you have requested. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information.
+Synology Account is the central hub for all Synology services. Your technical inquiries and past attendance of Synology events can all be found within. Everything is centralized and easier to keep track of.
 
-The Site may also collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Website from which you linked directly to our site. This information is used to help improve the Site, analyze trends and administer the Site. Synology Inc. may collect information about your hardware and software in order to provide a requested service. Synology Inc. technical communities provide opportunities to interact with Synology Inc. employees, experts, and your peers in order to share knowledge and news about Synology Inc. products and related technologies. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, Synology Inc. advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums.
+Synology has also introduced a refined and more user-friendly payment service. You are able to save and remove saved payment methods for license purchases and for other support requests.
 
-##### Use of your Personal Information
+###  How we collect and use of your personal information __
 
-Your personal information that is collected by Synology Inc. may be used in the following ways:
+Synology holds itself to high standards in handling and processing personal information. Data collected is in order to provide you with our products or services. Information is collected only at your consent. Examples of data we collect and store include:
 
-  * to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized;
-  * to provide you with more effective customer service;
-  * to improve the Site
-  * to improve related Synology Inc. products or services;
-  * to make the Site easier to use by eliminating the need for you to repeatedly enter the same information, or by customizing the Site to your particular preference or interests;
-  * to provide you with a more consistent experience in your interactions with Synology Inc. (information collected by www.synology.com may be combined with information collected by other Synology Inc. services);
-  * to provide you with important information about the product or service that you are using, including critical updates and notifications;
-  * to provide you with information about other Synology Inc. products and services; and
-  * to share information with Synology Inc. partners so that they may send you information about their products and services.
-  * to share site-visitation data with anonymous demographic information for research purposes, thus providing more relevant content;
-  * with your approval, to combine site-visitation data with your personal information in order to provide you with personalized content (if you decline permission, Synology Inc. will not provide you the personalized service and won't merge your personal information with site-visitation data);
-  * to customize links or similar technologies to track e-mail links that you click when you sign up for a newsletter or agree to receive promotional e-mail;
-  * to associate that information with your personal information in order to provide you more focused e-mail communications or purchase information (each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication);
-  * to provide limited services on our behalf by other companies, such as Website hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other services (only personal information they need to deliver the service will be provides to those companies, which information is required to be held in confidence and not used for any other purpose);
-  * to disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Synology Inc. or the Site; (b) protect and defend the rights or property of Synology Inc. and its family of Websites; or (c) act in urgent circumstances to protect the personal safety of Synology Inc. employees or agents, users of Synology Inc. products or services, or members of the public.
+  * Your e-mail address, which is used as identification for our services and as the primary communication method.
+  * Your name, address, phone number, and additional contact information are used to provide registration, device shipping, and billing verification services.
+  * Your payment method, which is used for payment transactions for a service or product.
+  * Your IP address and unique device identifiers are used for fraud prevention, security purposes, for warranty registration, support services, and for transactions.
+  * Device analytics, which is an opt-in service and used to understand how our users interact with our products and services.
+  * Single-session information, which include behaviors regarding website browsing, including help articles, to understand which topics are more important and if the content is relevant to our users or potential customers. Read our [Cookie Policy](https://www.synology.com/company/legal/cookie_policy).
 
 
 
-Personal information collected on the Site may be stored and processed in any country in which Synology Inc. or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Synology Inc. abides by the law and regulations applicable to the collection, use, transfer and retention of data by Synology Inc.
+###  How we share your information __
 
-##### Control of your Personal Information
+Synology may share your information with strategic partners to provide products and services. Your information is only shared to third parties only with your consent or for performance of contract.
 
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Synology Inc. and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
+###  Cross-border Data Transfer __
 
-Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Synology Inc. in the context of other, separately operated, Synology Inc. products or services.
+Synology process data both within the European Union and outsides of the European Union. Synology has an inter-company agreement on the transfer and processing of personal data to ensure EEA personal data is adequately protected in accordance with applicable data protection law.
 
-www.synology.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by www.synology.com, contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen.
+###  Your Rights to your Personal Data __
 
-##### Security of your Personal Information
+Synology's services are generally provided on an opt-in basis, with required and collected information differing on a per service basis. In addition, you can subscribe to receive certain product- and service-specific information and also choose to receive general communications.
 
-Synology Inc. is committed to protecting the security of your personal information. Synology Inc. uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, Synology Inc. stores the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when Synology Inc. transmits sensitive personal information (such as a credit card number) over the Internet, Synology Inc. protects it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+You may make these requests by submitting a request through your Synology Account or through our website. Upon receipt, we will evaluate your request and inform you how we intend to proceed.
 
-##### Protection of Children's Personal Information
+###  Keeping your personal information secure __
 
-www.synology.com is a general audience site and does not knowingly collect any personal information from children.
+Synology employs multiple methods of data protection in order to minimize the risk of misuse. When our employees directly handle, or access your personal information, we do so on secured networks and through fine-grained permission control to limit who can access your information. When data is no longer required to provide services, Synology erases the data in a secured manner.
 
-##### Use of Cookies
+###  Data from Children __
 
-Synology Inc. uses cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server but cannot be used to run programs or deliver viruses to your computer. Web beacons, or action tags, may be used to assist in delivering the cookie on the Site. This technology is a tool used to compile aggregated statistics about www.synology.com Website usage, such as how many visitors clicked on key elements (such as links or graphics) on a www.synology.com Web page, blog or a newsletter. We may share aggregated site statistics with partner companies.You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you may usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site.
+Synology products and services are targeted at professionals and are not designed nor intended to be used by children under 13 years of age. We encourage parents and guardians to take an active role in their children’s online and mobile activities and interests.
 
-##### Enforcement of this Privacy Statement
+###  Changes to this statement __
 
-If you have questions regarding this statement, you should [contact](https://www.synology.com/en-global/company/contact_us "contact") Synology Inc.
+Synology may make amendments to this document when needs arise. Whenever this happens, we'll provide a brief overview of the changes through direct notice and website announcement. You are encouraged to regularly review this Privacy Statement to understand how your data is handled.
 
-##### Collection of Synology Product Usage Information
+#### Read full Privacy Statement
 
-When you use Synology products, Synology may collect different levels of information from you and/or your Synology system. The type of information depends on how much information you wish to provide.
+You've gone through the 2-min privacy brief. Would you like to read on? Find out more in our [full version of Privacy Statement](https://www.synology.com/company/legal/privacy)
 
-  * Register: if you choose to register your Synology product with us, you will provide us with the following information:
+#### Contact us
 
-    * Email address (that becomes associated with the Synology Account)
-    * The serial number of your Synology Products
-    * The Country where the system you use is.
-
-If you choose not to register your Synology product with us, identifiable information will not be transmitted.
-
-  * Usage Sharing: if you agree to provide us with more information, your system will periodically report the following information regarding your usage of the Synology products system:
-
-    * The information of the disks installed in your system, including brand, model name, health, logs
-    * Volume and storage configuration of your Synology system.
-    * The Synology DSM/SRM and package version.
-    * The services running on your system
-    * The information of external devices, including Wi-Fi adapters, DVB sticks, printers, UPS devices, DLNA players.
-    * Users’ browsers to connect to DSM/SRM web interface
-    * IP camera information in Surveillance Station
-
-
-
-##### Use of Synology Product Usage Information:
-
-The usage information collected from the Synology products helps Synology and our development partners provide you a more personalized experience. It also helps us better understand how Synology products are used and how we can improve our products in the future. No information collected from you or Synology products will be rent or sold to any third parties.
-
-##### Changes to this Statement
-
-Synology Inc. may occasionally update this privacy statement. For material changes to this privacy statement, Synology Inc. will either notify you by placing a prominent notice on the home page of the Site or by directly sending you a notification. Synology Inc. encourages you to periodically review this privacy statement to stay informed about how personal information is collected and protected. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-##### Contact Information
-
-Synology Inc. welcomes your comments regarding this privacy statement. If you believe that Synology Inc. has not adhered to this privacy statement, please contact us electronically or via postal mail at the address provided below, and Synology Inc. will use commercially reasonable efforts to promptly determine and remedy the problem.
-
-##### Synology Inc.
-
-3F-3, No.106, Chang An W. Rd., Taipei 103, Taiwan
-
-[Contact Us](https://www.synology.com/en-global/company/contact_us "Contact Us")
+You can directly contact us through your [Synology Account](https://account.synology.com/), or by submitting a form [on our website](https://www.synology.com/company/contact_us) for privacy related questions or concerns. Synology will respond to your requests within thirty days after receiving it.
