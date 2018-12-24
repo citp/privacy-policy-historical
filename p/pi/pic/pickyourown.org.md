@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pickyourown.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622091000id_/http%3A//www.pickyourown.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyourown.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224120039id_/http%3A//www.pickyourown.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # PickYourOwn.org's Privacy Policy
+
+Looking for PickYourOwn.org's Privacy Policy in 2018?  Scroll down this page and  follow the links. And if you bring home some fruit or vegetables and want to can, freeze, make jam, salsa or pickles, [see this page for simple, reliable, illustrated canning, freezing or preserving directions](https://web.archive.org/web/20181224120039id_/http%3A//allaboutcanning.htm). There are plenty of other related resources, click on the resources dropdown above. 
 
 The privacy of our visitors to PickYourOwn.org  is important to us. At PickYourOwn.org, we recognize that privacy of your personal information is important to you, too!  Here is information on what types of personal information we receive and collect when you use and visit PickYourOwn.org, and how we safeguard your information.  We never sell or release your personal information to third parties.
 
