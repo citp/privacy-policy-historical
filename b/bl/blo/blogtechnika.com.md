@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtechnika.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622173017id_/http%3A//www.blogtechnika.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtechnika.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225004008id_/http%3A//www.blogtechnika.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BLOGTECHNIKA
 
