@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the net2ftp.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413014611id_/http%3A//www.net2ftp.com/homepage/privacy.html%3FPHPSESSID%3DhOg1ry0KmX0In0FZFS3-WoZExG8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net2ftp.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224114408id_/http%3A//net2ftp.com/_privacy_policy.php) for the most accurate reproduction.*
 
-# net2ftp - a web based FTP client
+# net2ftp - a web based FTP client (not for EU data subjects)
 
 **What information do we collect?**
 
 We collect information from you when you fill out a form.
 
-When using our site, as appropriate, you may be asked to enter your FTP server and username. You may, however, visit our site anonymously.
+When using our site, as appropriate, you may be asked to enter your FTP or SSH server and username. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
@@ -25,7 +25,9 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to understand and save your preferences for future visits.
+We use cookies to understand and save your preferences for future visits, and to identify real persons from robots (captcha).
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Do we disclose any information to outside parties?**
 
