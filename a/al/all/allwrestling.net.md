@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwrestling.net privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623150229id_/http%3A//www.allwrestling.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwrestling.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224114645id_/http%3A//www.allwrestling.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,4 +57,4 @@ Bryan William
 
 United Kingdom (HA3 7PJ)
 
-07714642078  – Publisher@allwrestling.org
+07714642078  – [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
