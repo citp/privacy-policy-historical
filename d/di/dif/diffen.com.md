@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524110324id_/https%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224115853id_/https%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
