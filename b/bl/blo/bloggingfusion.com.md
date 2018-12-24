@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bloggingfusion.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319091022id_/https%3A//www.bloggingfusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingfusion.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224033137id_/https%3A//www.bloggingfusion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Blogging Fusion - Blog Directory - Article Directory - RSS Directory - Web Directory
 
-Privacy Policy
+## Privacy Policy Policy
 
-When you provide us with information through this website, we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to this website is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20180319091022id_/https://www.bloggingfusion.com/privacy-policy/terms.php). 
+When you provide us with information through this website, we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to this website is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20181224033137id_/https://www.bloggingfusion.com/privacy-policy/terms.php). 
 
 Information Collection and How it is used
 
@@ -14,7 +14,7 @@ Blogging Fusion services does collect the following information about your websi
 
 To protect your personal information, users registering for these services will be given a unique username, password and unique blog or registration ID which should be refrenced when corresponding to staff or editors of this blog directory. Subject to your consent, the information you provide may be used by us to communicate new features, information related to the blog directory or special promotions and features being added that may be of intrest to you. 
 
-We will never send unsolicited email or spam. This is strictly against our [terms of services](https://web.archive.org/web/20180319091022id_/https://www.bloggingfusion.com/privacy-policy/terms.php) and is why your email address is never published publicly to protect you from unwanted solicitation. 
+We will never send unsolicited email or spam. This is strictly against our [terms of services](https://web.archive.org/web/20181224033137id_/https://www.bloggingfusion.com/privacy-policy/terms.php) and is why your email address is never published publicly to protect you from unwanted solicitation. 
 
 We may also use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We will not sell, share or rent your personally identifiable information to third parties without your consent, except as disclosed in this Privacy Policy. 
 
@@ -44,7 +44,7 @@ This website contains links to or from other websites. Please be aware that we a
 
 Security
 
-We have implemented various security measures to protect the security of your personal information, both on line and off line. If you have any questions about the security of our Website, you can contact us using the [following form](https://web.archive.org/web/20180319091022id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
+We have implemented various security measures to protect the security of your personal information, both on line and off line. If you have any questions about the security of our Website, you can contact us using the [following form](https://web.archive.org/web/20181224033137id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
 
 Business Transfers
 
@@ -62,11 +62,11 @@ Please note that our rights to use your personal identifiable information will b
 
 Updating Your Information
 
-You may make changes to your personally identifiable information by e-mailing us using the following [contact form](https://web.archive.org/web/20180319091022id_/https://www.bloggingfusion.com/privacy-policy/contact.php). You also may request that we remove your personal identifiable information from our databases by e-mailing us using the following [contact form](https://web.archive.org/web/20180319091022id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
+You may make changes to your personally identifiable information by e-mailing us using the following [contact form](https://web.archive.org/web/20181224033137id_/https://www.bloggingfusion.com/privacy-policy/contact.php). You also may request that we remove your personal identifiable information from our databases by e-mailing us using the following [contact form](https://web.archive.org/web/20181224033137id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
 
 Choice/Opt-Out
 
-When you register at this website, you may opt-out of receiving future communications from us at anytime. You may change your preferences at any time by revising your profile or, if you do not have a profile, by emailing us using the following [contact form](https://web.archive.org/web/20180319091022id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
+When you register at this website, you may opt-out of receiving future communications from us at anytime. You may change your preferences at any time by revising your profile or, if you do not have a profile, by emailing us using the following [contact form](https://web.archive.org/web/20181224033137id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
 
 Data Holder
 
@@ -74,6 +74,6 @@ The information you provide to use will be managed by the Director of Blogging F
 
 Comments
 
-We have taken great measures to ensure that your visit at Blogging Fusion Blog Directory is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please email us using the following [contact form](https://web.archive.org/web/20180319091022id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
+We have taken great measures to ensure that your visit at Blogging Fusion Blog Directory is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please email us using the following [contact form](https://web.archive.org/web/20181224033137id_/https://www.bloggingfusion.com/privacy-policy/contact.php). 
 
 Privacy Policy 01/02/2007 © Blogging Fusion Blog Directory 
