@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuccu.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628232805id_/http%3A//n.stuccu.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuccu.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224012943id_/https%3A//n.stuccu.com/privacypolicy) for the most accurate reproduction.*
 
 # Stuccu: Best Deals on . Up To 70% off!
 
