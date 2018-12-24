@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613092506id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224221251id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Calendarpedia.com
 
@@ -101,7 +101,7 @@ We provide this privacy policy as a statement to you of our commitment to protec
 **Updates and Effective Date**  
 Calendarpedia.com may occasionally change or update this Privacy Policy. Any changes will be noted on this page. We therefore encourage you to check this page occasionally to ensure that you accept any changes or updates.
 
-This Privacy Policy was last updated in May 2018.
+This Privacy Policy was last updated in November 2018.
 
 **Agreeing to this Privacy Policy**  
 If you do not agree to Calendarpedia.com's Privacy Policy as set out on this page, please do not use this site or any services offered by this site. Your explicit consent indicates acceptance of this privacy policy in its entirety.
