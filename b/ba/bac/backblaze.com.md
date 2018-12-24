@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054221id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224033705id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Backblaze Online Backup
 
-Last updated: May 22, 2018 
+Last updated: July 10, 2018 
 
 We value your business and we know your privacy is important to you. Accordingly, we have implemented this Privacy Notice which describes: how we collect and use personal information that you provide to us when you create a Backblaze account, via our website or Apps; what we do with the information collected; and how you can exercise your privacy rights. 
 
@@ -75,7 +75,21 @@ Like all e-commerce websites we use cookies and similar tracking technology (col
 
 Your personal information is stored and processed by us in the U.S. Specifically, your personal and non-personal information will be transferred to Backblaze for storage and processing in the U.S. 
 
-You can direct any questions or complaints about the use or disclosure of your personal information to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990b2b1b3bbb2bcb1aab5feb3bfbd). We will investigate and resolve any complaints or disputes regarding the use of personal information within forty-five (45) days of receiving your complaint. 
+When transferring any personal information from the EEA and Switzerland to the U.S., we adhere to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce. Backblaze has certified adherence to and commits to apply the Privacy Shield Principles to all personal information it processes in reliance on the Shield. 
+
+For the purposes of enforcing compliance with the Privacy Shield, we are subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. 
+
+For more information about the Privacy Shield, and to view our certification, see the U.S. Department of Commerce’s Privacy Shield website located at: [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
+
+If we have received your personal information in the U.S. and subsequently transfer it to a third-party agent or service provider for processing, and such third party agent or service provider processes your personal information in a manner inconsistent with the Privacy Shield Principles, we remain responsible under the Privacy Shield unless we can prove we are not responsible for the event giving rise to the damage. 
+
+You can direct any questions or complaints about the use or disclosure of your personal information to us at [privacy@backblaze.com](mailto:privacy@backblaze.com). We will investigate and resolve any complaints or disputes regarding the use of personal information within forty-five (45) days of receiving your complaint. 
+
+We have further committed to using [the American Arbitration Association (AAA)](http://go.adr.org/privacyshield.html) to provide an independent recourse method. [AAA](http://go.adr.org/privacyshield.html) will handle any complaints Backblaze is unable to resolve. 
+
+You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances. To find out more about the Privacy Shield's binding arbitration scheme please see <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>. 
+
+For information on how to request access, rectification or deletion of your personal information if it is inaccurate or processed in violation of the Privacy Shield, see Section 10 below on "Your data protection rights & choices". 
 
 The security of your personal information is very important to us. 
 
@@ -93,7 +107,7 @@ You have the following rights:
 
 
 
-You have the right to **opt-out of marketing communications** we send you at any time. You can exercise this right by clicking on the “unsubscribe” link in the marketing e-mails we send you. Alternatively, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#87f7f5eef1e6e4fec7e5e6e4ece5ebe6fde2a9e4e8ea). Please include your complete name and e-mail address. Note that it may take up to 3 business days to remove you from our marketing lists and after this point you will still receive Service Emails from us. 
+You have the right to **opt-out of marketing communications** we send you at any time. You can exercise this right by clicking on the “unsubscribe” link in the marketing e-mails we send you. Alternatively, please contact us at [privacy@backblaze.com](mailto:privacy@backblaze.com). Please include your complete name and e-mail address. Note that it may take up to 3 business days to remove you from our marketing lists and after this point you will still receive Service Emails from us. 
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. 
 
@@ -107,7 +121,7 @@ Changes to this Privacy Notice will be made when required in response to changin
 
 You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice. The new Privacy Notice will apply to all current and past users of the website and will replace any prior notices that are inconsistent with it. 
 
-If you have any questions or concerns regarding the use or disclosure of your personal information, you can contact us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3d3d1cad5c2c0dae3c1c2c0c8c1cfc2d9c68dc0ccce) or by contacting us at: 
+If you have any questions or concerns regarding the use or disclosure of your personal information, you can contact us by sending an email to [privacy@backblaze.com](mailto:privacy@backblaze.com) or by contacting us at: 
 
 500 Ben Franklin Ct,   
 San Mateo, CA 94401, U.S.   
