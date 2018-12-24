@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakingbites.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611114341id_/http%3A//bakingbites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakingbites.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225000251id_/http%3A//bakingbites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baking Bites
 
@@ -14,7 +14,7 @@ Like most standard websites, this website uses log files. These include: Interne
 
 _**Web Cookies**_
 
-Web cookies (also known as HTTP cookies, or just cookies) are parcels of text that are sent by a server to a Web browser, and then sent back unchanged by the browser each time it accesses that server. In other words, a cookie is a piece of data stored on a user’s computer that is tied to information about the user.
+Web cookies (also known as HTTP cookies, or just cookies) are parcels of text that are sent by a server to a Web browser, and then sent back unchanged by the browser each time it accesses that server. In other words, a cookie is a piece of data stored on a userâ€™s computer that is tied to information about the user.
 
 This website does use cookies. Additionally, some of my business partners (for example, advertisers) may use cookies as well. This site has no access to, or control of advertisers’ web cookies.
 
