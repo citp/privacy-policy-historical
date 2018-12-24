@@ -1,163 +1,150 @@
-> *The following text is extracted and transformed from the lenovogamestate.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928195142id_/https%3A//www3.lenovo.com/gb/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenovogamestate.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224200032id_/https%3A//www3.lenovo.com/gb/en/privacy) for the most accurate reproduction.*
 
-# Lenovo Privacy - United Kingdom | Lenovo UK
+# Lenovo Privacy Statement | Lenovo UK
 
-Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
+Lenovo collects information about you and your Lenovo Product(s) and uses this information to keep your Lenovo Product(s) working their best and help you make the most of them. Please note that, in certain circumstances, if you do not provide us with personal information where required, we may not be able to provide you with the Lenovo Products you have requested.
 
-### Personal information
+## Creating a User Profile
 
-In general, you can visit Lenovo on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.
+Your User Profile can consist of information we may have gathered from your contact with Lenovo, such as your visits to our websites, contact with our customer service representatives, Lenovo Product(s) registration information, and from certain Lenovo Products that you use. This lets us give certain Lenovo Products, as well as third-party services enabled on Lenovo Products, the information they need to function; troubleshoot problems you may have; suggest ways to make your Lenovo Products work better; provide you with news, updates, and information about your Lenovo Products; and, if you choose to receive marketing communications, provide you with news and information about additional Lenovo Products that you may be interested in.
 
-You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, to correspond with you, to process an order, or to provide you with a subscription. You may give us your credit card details to buy something from us or a description of your education and work experience in connection with a job opening at Lenovo that you wish to be considered for. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so.
+## Lenovo ID and Lenovo Product Registration
 
-Back to top
+When you choose to create a Lenovo ID or register your Lenovo Product, we will collect information, including personal information, about you and your Lenovo Product(s). In addition to your Lenovo ID, we may ask you to provide additional information, such as your name, email address, language and region/country, product type/model, IP address, product serial number, date of product registration, and any activation data about your operating system.
 
-### Using and Sharing Personal Information
+We use your Lenovo ID to identify you when you use our online services, like our online store and customer support site. Your Lenovo ID and your personal information associated with it will not be connected to any product usage information we have collected. If you wish to change or deactivate your Lenovo ID, you may do so at any time by contacting [privacy@lenovo.com](mailto:privacy@lenovo.com).
 
-The following paragraphs describe in more detail how Lenovo may use your personal information and with whom we may share it. Depending on the type of Lenovo Web site you are visiting, one or more of the paragraphs may apply. For example, if you order a product from a Lenovo Web site, your information will be handled as described in such paragraphs as Fulfilling Your Transaction Request and Marketing Use.
+## Keeping Your Software Up to Date
 
-Back to top
+If you choose to allow collection of data from Lenovo Products, we may collect and use information about your Lenovo Product(s) to identify whether the software you are using is the most up to date version. We use this information to develop new products and software features and for solutions to fix bugs so that your Lenovo Product(s) run smoother and more efficiently. 
 
-### Fulfilling your transaction request
+## Providing Customer Support
 
-If you request something from an Lenovo Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information, with others, for instance, other parts of Lenovo, Lenovo’s Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes.
+You may choose to provide us with information about how you use your Lenovo Product(s) to provide effective or enhanced customer support. The types of information we may collect about your Lenovo Product(s) include product serial number or other identification number; product type/model; IP address; and usage information about how you use your Lenovo Product(s) and its components, such as instrumentation and system functionality. If you choose to allow collection of personal information, Lenovo may also collect personal information including your name, user ID, and email address.
 
-Back to top
+We use this information to troubleshoot issues you may have with your Lenovo Product(s); provide software bug fixes and other support services; and improve our service functions. If you decide you do not want to share this information with Lenovo, you may turn off the option for product usage data collection in the Privacy Settings of your Lenovo Product(s) and in a particular application.
 
-### Marketing Use
+## Improving Our Products & Software
 
-The information you provide to Lenovo on certain Lenovo Web sites may also be used by Lenovo and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way.
+You may choose to provide us with information about how you use your Lenovo product(s) and software to improve Lenovo Products. The types of information we may collect include your product serial number or other identification number; product model/type; behavioral information about how you use your Lenovo Product(s) and software; and the Lenovo Product’s performance.
 
-Back to top
+We use this information to identify performance trends of Lenovo Products and software; develop new product features for future models; todeliver an overall better user experience; and to send you product and service-related communications you choose to receive. If you decide you do not want to share this information with Lenovo, you may turn off the option for product data collection in the Privacy Settings of your Lenovo Product and in a particular application, or uninstall the particular application.
 
-### Lenovo Human Resources Web Sites (including Recruitment)
+## Software Usage Information
 
-In connection with a job application or inquiry, whether advertised on a Lenovo Web site or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout Lenovo and its related entities for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.
+While you use your Lenovo Product(s), you may choose to provide us with information about your use of Lenovo applications. The information we may collect includes how often you use an application, which features you used within an application, and the application’s performance. The usage information we collect for this purpose does not directly identify you or your Lenovo Product(s), unless you have chosen to enable enhanced device support or “Help Improve” functionality on your Lenovo Products.
 
-Back to top
+We use this software usage information to analyze the performance of Lenovo applications;to develop enhanced improvements for future versions; and to send you product and service-related communications you choose to receive. If at any time you wish to deactivate this information collection, you may do so in the Privacy settings within the specific application. For more information on how to deactivate the collection of software usage information in certain Lenovo applications, you can (i) open the Lenovo Settings application and turn off Usage Statistics collection, (ii) uninstall a particular application in the Control Panel or through the Settings menu, or (iii) visit the Lenovo Support page on limiting usage information collection [here](https://support.lenovo.com/us/en/solutions/ht500739).
 
-### Information for Business Partners
+## Lenovo Product, Software and Service Functionality
 
-If you represent a Lenovo Business Partner, you may visit a Lenovo Web site intended specifically for Lenovo Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and Lenovo Business Partners generally. For instance, this may involve using your information to send you details of Lenovo Business Partner programs. It may also include sharing certain information with other Business Partners (subject to any confidentiality obligations that may exist), or Lenovo customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes.
+Certain Lenovo Products, software applications and services need to store performance information to operate. We will access this information only after you have chosen to enable or use these functions. This information includes product identifiers such as a serial number, application usage information and technical data. In the Lenovo smartphone and mobile devices context, this information may also include the location of your Lenovo Products and user generated content, such as audio for voice-activated applications. These applications will store this information locally on your Lenovo Product but, in specific circumstances, they may need to provide the information to Lenovo or an application partner to complete certain functions that you have chosen to enable, such as applications with voice-activated features or location-based services on your Lenovo Product(s).
 
-Back to top
+If at any time you wish to limit or deactivate the collection of this information by Lenovo, you may (i) turn off data collection within the Privacy settings of your Lenovo Product or a particular application, (ii) refer to the “Settings” menu in your Lenovo Product or a particular application for specific instructions on how to disable or uninstall the application at issue, or (iii) visit the Lenovo Support site [here](http://support.lenovo.com/us/en/?menu-id=technical_support) for more information on how to uninstall Lenovo applications. Otherwise, please refer to product or application “Settings” for specific instructions on how to disable or uninstall the application at issue.
 
-### Lenovo Supplier Administration
+## Applications that Handle Information – Additional Details
 
-If you represent a Lenovo supplier, you may visit a Lenovo Web site intended specifically for use by Lenovo suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of Lenovo, Lenovo’s Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other Lenovo suppliers generally.
+The following describes how certain Lenovo and Motorola applications handle your information. Please note that these descriptions may not include all Lenovo or Motorola applications available for or on your Lenovo Product. Also, not all Lenovo Products support all Lenovo or Motorola applications, and different Lenovo or Motorola applications may be available to you and may vary, depending on which Lenovo Product(s) you own.
 
-Back to top
+### Lenovo Applications:
 
-### Lenovo Discussion Forums and Chat Rooms
+#### Lenovo Connect 2+
 
-If you participate in a Lenovo discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Lenovo, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Lenovo.
+With Lenovo Connect 2+, you can automatically copy or move photos, music, videos and other files between devices, such as your phone and PC. You can also set your PC to display notifications received by your phone, and continue tasks on a separate device than the one you started on. Also, Connect2+ can automatically connect your devices with no WIFI LAN or cellular data network required. Connect2+will collect location and device identifiers to ease the connection between your devices, as well as application usage data, such as what features of Connect2+ you use and how often you connect devices.
 
-Back to top
+#### Lenovo Settings
 
-### Other Lenovo Web Site Notices
+Lenovo Settings is your hub for a smarter PC, with centralized access to all major hardware features and controls. In Settings, you can access a single interface to configure device functionality according to certain modes, atmosphere and usage, all based on your personal preferences. If you set your PC to automatically update according to location or network accessibility, Settings will collect corresponding data, such as WIFI and VPN information, to seamlessly update your system. All system information is collected and retained on your PC; however, you can choose to share anonymous information about how you use Settings.
 
-In some cases, specific Lenovo Web sites may contain other notices about their use and the information practices applicable to those sites.
+#### Lenovo Companion
 
-Back to top
+Lenovo Companion enables you to access and understand your computer’s best capabilities and features. You can use Companion to optimize your PC’s performance, monitor its health and manage ongoing updates. Companion will collect your PC’s device identifiers and event and usage data, such as system functionality, application use and support information. This information will be stored on your PC, and information about your use of Companion may be shared with Lenovo only if you opt-in to such data collection.
 
-### Our Worldwide Practices
+#### Lenovo Nerve Center
 
-Lenovo is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. Our privacy practices are designed to provide protection for your personal information, all over the world.
+Lenovo Nerve Center is designed to enhance your gaming experience on Lenovo Gaming PCs. Nerve Center offers a hardware- and software-adaptive experience, and allows you to personalize many aspects of gaming on your PC. Nerve Center can collect your preferences for hardware functions such as keyboard, touchpad and speaker, while also assisting your video and audio recording while playing. Any system information and recordings collected with Nerve Center is retained on your Lenovo PC, and no sensitive information is shared with Lenovo.
 
-We may share your personal information within Lenovo and transfer it to countries in the world where we do business. Some countries may provide less legal protection for your information. In such countries Lenovo will still handle information in the manner we describe here.
+### Motorola Applications:
 
-Back to top
+#### Camera
 
-### Information Security and Quality
+Motorola’s Camera application allows you to:
 
-We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality.
+  * Tag your photos and videos with location data. When you share tagged photos with others, you will also share the location information. If you choose to geo-tag your photos and videos, Motorola’s Gallery app will use the information to help organize your views.
+  * Launch the application without touching the screen by using contextual data derived from sensors to detect a launch gesture.
+  * Take better pictures by using face detection and other analytics on what’s in your viewfinder to deliver the best image, which may occur before or after you triggered the shutter. You can compare the best image with the original picture you captured in Gallery and select which images to keep. Face detection information stays on your phone and doesn’t get uploaded to Motorola or shared with third parties. To help us troubleshoot performance issues, Camera will store image quality information in your photos’ metadata. Sharing the photos will also share image quality information.
 
-Back to top
 
-### Supplementing Information
 
-From time to time we may supplement information you give us via a Lenovo Web site with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service.
+#### Digital TV
 
-Back to top
+Where supported, Motorola Digital TV brings the broadcast TV experience to your mobile device, with the additional support of the Electronic Program Guide (EPG) and Ginga for user interactivity. Users may also record the TV programs they like and choose when to watch their favorite programs. Digital TV will collect certain anonymous event-based data, such as which channels are launched via Digital TV.
 
-### Use of Suppliers
+#### Gallery
 
-In some cases Lenovo uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is Lenovo practice to require such suppliers to handle information in a manner consistent with Lenovo policies.
+Motorola’s Gallery application has a Highlight Reel feature that helps you make short video clips from your best photos and video scenes, and a People view feature that lets you tag a person. For these features, Gallery will analyze and compare faces that appear in your photos and videos (in addition to other quality measurements) to select the best scenes or to group photos or videos. Gallery keeps all data collected from your photos and videos relating to facial analysis on device and uses it solely to create Highlight Reel content or to group photos or videos.
 
-Back to top
+#### Moto
 
-### Mergers and Acquisitions
+Moto makes your device more responsive by giving you more ways to control and interact with it. Moto makes it easier for you to get important notifications, control your device with your voice and gestures, and automate useful settings changes depending on where you are or what you may be doing at the time.
 
-Circumstances may arise where, whether for strategic or other business reasons, Lenovo decides to sell, buy, merge or otherwise reorganise businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Lenovo practice to seek appropriate protection for information in these types of transactions.
+_Moto Actions_ makes it easier to interact with your Motorola products by letting you use simple gestures to perform tasks quickly. Moto Actions will:
 
-Back to top
+  * Twist your wrist quickly to open camera anytime.
+  * Swipe down to the left or right to make the screen smaller for one-handed use.
+  * Turn your flashlight on or off if you make two "chopping" motions.
 
-### Cookies, Web Beacons and Other Technologies
 
-We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Lenovo Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." Lenovo or others on Lenovo behalf may use this data to analyze trends and statistics and to help us provide better customer service.
 
-Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in an non-identifiable format and combine it with other non-identifiable information such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies.
+_Moto Display_ will show important notifications on the screen of supported products so you can get quick access to them without having to power on the screen or unlock your home screen. Moto Display accesses certain content like your contacts, calendar entries, along with other apps and the notifications they send you.
 
-We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some Lenovo pages use cookies, sent by Lenovo or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+_Moto Voice and Moto Alexa_ let you control your Motorola products hands-free by speaking commands. It will:
 
-Some Lenovo Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Lenovo Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.
+  * Help you respond to calls and texts with your voice when you're driving, or at any location you choose.
+  * Learn to recognize your voice and your launch phrase. This creates a mathematical representation of your voice sample that we use to trigger Moto Voice. For 2017 products and later, Moto Voice will keep the recording of your enrollment audios on your device for supporting complete Moto Voice functionality. For versions of Moto Voice that allow a custom launch phrase, Moto Voice will also keep a recording of it on your device for authentication purposes. You can also play it back to remind yourself at any time.
+  * For 2016 and earlier products, we make a short recording after Moto Voice detects your launch phrase. We use this recording to either process your command or pass it onto Google Voice Search (locales other than China) or LingXi voice search (in China) and don’t upload it to Motorola servers unless you specifically agree to share your voice commands with us for performance analysis purposes.
+  * See what apps you have installed on your phone so Moto Voice can help you control third-party apps with just your voice.
+  * _Please note that Amazon Alexa, which is enabled by the Moto Alexa functionality, is separately governed by Amazon’s privacy statements and Amazon’s Terms of Use for Alexa. Please review those applicable Amazon policies to learn how Amazon Alexa handles your information._
 
-If you turn off cookies, Web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. For more information, please see ["How to work with Cookies"](https://www3.lenovo.com/gb/en/privacy/cookies/).
 
-Back to top
 
-### Service Quality Monitoring
+To complete these tasks, Moto:
 
-Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is Lenovo general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
+  * Collects information about your Motorola products’ current location and uploads it to Motorola to help identify places of interest and to determine when you may be in a vehicle.
+  * Uses contextual data obtained from your device’s microphone and sensors like the accelerometer and gyroscope to determine when to activate certain modes, but does not upload it to Motorola.
+  * Accesses user-generated content like your calendar entries, contacts, and call history, but does not upload it to Motorola.
 
-Back to top
 
-### Online Advertising
 
-Certain companies help us deliver interactive on-line advertising such as banner ads. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. After it is collected the information is aggregated so it is not identifiable to a specific individual. If, however, you would prefer that these companies not collect such information, please visit www.networkadvertising.org and follow the "opt-out" instructions.
+Where supported, Moto will utilize Google Activity Recognition to help understand contextual data and determine which modes to activate. Moto provides contextual data to Google Activity Recognition subject to [Google’s privacy policy.](http://www.google.com/policies/privacy/)
 
-Back to top
+#### Motorola Connect
 
-### Personalized URL Link
+Motorola Connect lets you easily connect and manage your Motorola products, like wireless earbuds, Bluetooth devices, wearable devices, and applications that run on your computer. Motorola Connect:
 
-On occasion, we may personalize and customize Web sites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with Lenovo and information you have provided to us. While you are visiting these Web sites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these Web sites is usually presented as a personalized URL in an e-mail, a notice on a Web site registration page, or as a response to you logging on to a certain Web site.
+  * Checks your location so it knows which supported devices are nearby.
+  * Automatically connects nearby supported devices directly (like over Bluetooth) when they come into range, or over the Internet.
+  * Syncs information among supported devices so you can switch among them seamlessly. 
+  * On non-Motorola mobile devices, we also collect information about how often you use Motorola Connect features and how well Motorola Connect is working.
 
-If you choose to visit one of these Web sites, you are agreeing to let Lenovo collect information about your visits and also to its association with other information about you and your relationship with Lenovo. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.
 
-Back to top
 
-### Disclosures Required By Law
+Additionally, some devices Motorola Connect manages rely on additional information to work
 
-Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.
+#### Moto 360 and Moto Body
 
-Back to top
+The Moto 360 smartwatch and the related Moto Body application use sensors built into the wearable device to collect wellness-related data like your heart rate, step count, and calories so you can track your progress towards daily and weekly activity goals. You can also create a wellness profile by providing demographic information like your height, weight, gender, and age. This will help your Moto 360 and Moto Body provide more accurate wellness information. If you use the Moto Body Running feature, Moto Body will also track and display your location on your device.
 
-### Privacy Technology
+Moto 360 and Moto Body can upload your wellness profile, data, and location to our cloud and add it to your user profile. We use this information to provide you with access to more accurate wellness information like activity statistics over time. We also use it to create new, personalized features for your Moto 360, Moto Body and other Motorola products.
 
-Technology will increasingly help give you more control over your personal information. Products and services are available which can assist you with the control of your personal information while navigating the Web. See for an overview of many privacy-related tools. Please note that Lenovo has not formally evaluated these tools.
+To delete a run, touch ☰ > Running. Touch the run you want to delete, then touch ⋮ > Delete run. To remove all your Moto Body activity data, contact [privacy@lenovo.com ](mailto:privacy@lenovo.com)
 
-Back to top
+Moto 360 and Moto Body may also collect information about how often you use Moto 360 and Moto Body and how they're working.
 
-### Links to non-Lenovo Web sites
+## Communications from Lenovo
 
-Lenovo Web sites may contain links to other Web sites. Lenovo is not responsible for the privacy practices or the content of those other Web sites.
+If you choose to receive communications from Lenovo, such as via e-mail or in-product push notifications, we will collect personal and non-personal information about you to help us manage these communications. We will collect your name, email address and possibly additional personal information you choose to provide, and will use this information to send you product support announcements and promotional messages. If you no longer wish to receive communications from Lenovo, you may unsubscribe by using the unsubscribe link in our promotional messages. Data charges may apply to receiving such communications on mobile devices.
 
-Back to top
+## Single Sign-on from your Social Media Account
 
-### Notification of Changes
-
-This privacy statement was last updated on April 30, 2005. A notice will be posted on our Web site home page for 30 days whenever this privacy statement is changed in a material way.
-
-Back to top
-
-### Privacy Questions and Access
-
-If you have a question about this statement, you can send an email to the Lenovo Web site coordinator. The address for this is [ privacy@lenovo.com ](mailto:privacy@lenovo.com). You can also contact us at this address if you have a question about Lenovo's handling of your information.
-
-If you wish to obtain a copy of particular information you provided to Lenovo, or if you become aware the information is incorrect and you would like us to correct it contact us at [privacy@lenovo.com ](mailto:privacy@lenovo.com).
-
-Before Lenovo is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.
-
-If you have questions or concerns regarding the site's privacy statement, please send them to Lenovo at: [ privacy@lenovo.com ](mailto:privacy@lenovo.com). This Web site is maintained by Lenovo or one of its subsidiaries around the world. Please use the Back button on your browser or close this window to return to the page where you were.
-
-Back to top
+You can access your Lenovo account by signing on through various social media sites such as Facebook, Google, Twitter, etc. If you choose to sign on using this service, Lenovo will collect certain information from your social media account, including your public profile, email address, birthday, contact lists, interests, likes, and current city. Lenovo will link this information to your Lenovo profile and may use this information for analysis and internal marketing purposes if you have chosen to receive such messages. The information provided may be dependent on the privacy setting you have with your social media account.
