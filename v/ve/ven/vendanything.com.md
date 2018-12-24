@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625064127id_/http%3A//vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224081401id_/http%3A//vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Extra Page 11 Title
 
@@ -22,6 +22,6 @@ Need assistance? Have a question that isn't answered in our [help](http://vendan
 
 [](http://vendanything.com/#)
 
-#### Copyright © 2007 - 2018 VendAnything.com. All Rights Reserved. 2018-06-25 06:41:27
+#### Copyright © 2007 - 2018 VendAnything.com. All Rights Reserved. 2018-12-24 08:14:01
 
 Use of this Web site constitutes acceptance of the [User Agreement](http://vendanything.com/index.php?a=28&b=140) and [Privacy Policy](http://vendanything.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
