@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623203811id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224114220id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Heeb
 
@@ -109,4 +109,4 @@ We do not knowingly collect or distribute personally identifiable information fr
 This Privacy Policy is effective as of March 4, 2009. We reserve the right to change this Privacy Policy at any time. If we change it, we will post the then-current Privacy Policy on this page. Any changes to this Privacy Policy will be effective as of the day they are posted.
 
 **Contact Us**  
-It is important for us to know what visitors have to say about our website. To contact us with your questions or comments please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+It is important for us to know what visitors have to say about our website. To contact us with your questions or comments please email us at info@heebmagazine.com.
