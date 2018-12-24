@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921185956id_/https%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224063237id_/https%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
 
 # 2paragraphs Privacy Policy
 
@@ -10,7 +10,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Just go here:[ https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/)
 
 **What do we use your information for?**
 
@@ -33,13 +33,11 @@ Any of the information we collect from you may be used in one of the following w
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
+### Embedded content from other websites
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
 **Do we use cookies?**
 
