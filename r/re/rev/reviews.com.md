@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315184715id_/https%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224044830id_/https%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reviews.com
 
-Reviews.com is an online startup company located in Seattle, WA. Our goal is to help our users save time and make the right purchasing decisions. We hope to achieve that goal by delivering honest, data-driven product reviews.
+Reviews.com is an online startup company located in Fort Mill, SC. Our goal is to help our users save time and make the right purchasing decisions. We hope to achieve that goal by delivering honest, data-driven product reviews.
 
 ##  Information Collection
 
@@ -20,4 +20,4 @@ Third party vendors, including Google, use cookies to serve ads based on a userâ
 
 ###  Contact Information
 
-Concerns or questions about this privacy policy can be directed to our Contact page. We can also be reached by mail at 1525 4th Ave Suite 500, 98101.
+Concerns or questions about this privacy policy can be directed to our Contact page. We can also be reached by mail at 1423 Red Ventures Drive, Fort Mill, SC 29707.
