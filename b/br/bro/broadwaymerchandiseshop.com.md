@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwaymerchandiseshop.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623214008id_/http%3A//www.broadwaymerchandiseshop.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwaymerchandiseshop.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224233846id_/http%3A//broadwaymerchandiseshop.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
