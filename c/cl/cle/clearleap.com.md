@@ -1,105 +1,89 @@
-> *The following text is extracted and transformed from the clearleap.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622185321id_/https%3A//www.ibm.com/privacy/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearleap.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224165631id_/https%3A//video.ibm.com/privacy-policy-popup) for the most accurate reproduction.*
 
-# IBM Privacy Statement - United States
+# USTREAM Privacy Policy: Personal and User Information, Security
 
-## This Privacy Statement is effective as of May 2018.
+## Privacy Policy
 
-At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
+Last Updated: July 23, 2014
 
-This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship.
+Ustream, Inc. ( ** _“Ustream”_** , **_“we”_** or **_“us”_** ) provides this Privacy Policy to inform you of our policies and procedures regarding the personal information we receive from users like you when you use our Services (defined in the [Terms of Service](https://web.archive.org/terms)), whether on our websites, embeddable video players, the Ustream channels, or our software and mobile applications.
 
-This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
+As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or touching information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within the United States or internationally.
 
-## Why and how we collect and use your personal information
+### Information Collection and Use
 
-We may collect your personal information as an individual for various purposes, such as the following:
+Our primary goals in collecting information are to provide and improve our Services, features and content, to administer your membership and to enable users to enjoy and easily navigate the Site. We also may also use your information in order to better understand how our Services are used.
 
-  * **Access and use of websites or other online services**   
-When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
-  * **Responding to your request for information, order, or support**   
-When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
+_Personally Identifiable Information._
 
-When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
-
-  * **Your use of IBM Cloud services**   
-We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
-  * **Contacting employees of our clients, prospects, partners and suppliers**   
-In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship.
-  * **Visitor information**   
-We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
-  * **Marketing**   
-Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
+  * In the course of using the Services, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account ( ** _“Personal Information”_** ). Personal Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. We use your Personal Information mainly to provide the Services and administer your inquiries.
+  * Please be aware that when you register to become a Ustream Member, other users of the Services may be able to see your screen or user name, in addition to any comments or submissions that you post to the Site or submit via the Services. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you. If your use of the Services violates or potentially violates [Ustream’s Acceptable Use Policy](https://web.archive.org/acceptableusepolicy), your Personal Information may be shared with law enforcement and other third parties in accordance with this Privacy Policy and subject to all applicable laws.
+  * We also collect other information that you provide as part of your use of the Services, including via your registration and the administration and personalization of your profile webpage (e.g., without limitation zip code, gender, age and individual preferences) ( ** _“Non-Identifying Information”_** ). Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Ustream Users to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Services are used.
+  * We also use your Personal Information to contact you with Ustream newsletters, marketing or promotional materials and other information that may be of interest to you. Ustream Members who agree to the terms and conditions of the Ustream Terms of Service Agreement are given the opportunity to opt-in to receiving such communications from us in the future. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See **_“Changing or Deleting Information,”_** below.)
+  * Ustream will also share and use your Personal Information with Ustream Asia, and other networks, websites and entities affiliated, owned, controlled and/or connected with Ustream. We will use your Personal Information in compliance with the terms of this Privacy Policy.
+  * At times, we may offer special access to pay-per-view or other special promotional events (e.g., live broadcast of concerts), and we may share your Personal Information with those entities and advertisers that are participating in such event. Unless otherwise stated, we will only share your name and email address to such parties, so you may receive newsletters or promotional materials from such entities.
 
 
 
-Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
+_Surveys and Promotions._ From time to time, we may provide you with the opportunity to participate in surveys, contests or sweepstakes (any of these a **_“Promotion”_** ) via our Services. If you participate in a Promotion we will request certain Personal Information from you. We use the Personal Information you provide to us in these instances to administer your participation in the Promotion. Participation in a Promotion is completely voluntary and you therefore have a choice whether or not to disclose this information.
 
-Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights.
+_Log Data._ As you use the Services, whether as a Ustream Member or a non-registered user just browsing (any of these, a **_“Ustream User”_** ), our servers automatically record information that your browser sends whenever you visit a website or information that your mobile device sends when you launch and use the mobile app ( ** _“Log Data”_** ). This log data may include information such as your computer’s IP address, browser type or the domain from which you are visiting or information from your mobile device like screen resolution, device model, carrier and operating system version. We use this information to monitor and analyze use of the Services and for the Site’s technical administration. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
-## Sharing of Personal Information
+_Do Not Track._ At this time, there is no formal standard for “do not track” signals and responses. As a result, Ustream does not assign any meaning to potential “do not track” signals. Ustream may receive personally identifiable information about your activity on third party websites in certain circumstances, e.g., if you connect your Ustream account to a social networking service (as described below). Other parties may collect personally identifiable information about your online activities and across third party websites or services when you use the Ustream website or service. 
 
-As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement.
+### Cookies
 
-Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
+Like many websites, we use “cookies” to collect information. For more information our use of cookies, please see our [Cookie Policy.](https://web.archive.org/cookiepolicy)
 
-Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes.
+### Information Sharing and Disclosure
 
-If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions.
+_Ustream Members._ When you register through the Site and submit your Personal Information to create a profile webpage, Ustream Users will see your screen or user name and the month and year you first registered with Ustream ( ** _“Required Member Identifiers”_** ). You can choose what other Personal Information you provide as part of your profile ( ** _“Other Member Information”_** ) and in some cases you can choose whether to share that information publicly on the Site by making selections via the “user preferences” section of your profile webpage. Providing Other Member Information is voluntary and should correlate with the degree of interaction you want to have with Ustream Users. We recommend that you guard your anonymity and sensitive information.
 
-Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
+_Notifications and Following other Ustream Members._ Ustream Members can also choose to join a “crowd” of other Ustream Members and follow their favorite Ustream broadcaster. If you choose to follow another Ustream Member, you will provide that Ustream Member with your public Ustream identity. By joining the crowd of another Ustream member, you also opt-in for notifications sent to you within the Ustream platform. You may also be followed outside of the Ustream platform, if you expose and make public your identity, email address and social network identity.
 
-## International Transfers
+_Aggregate Information and Non-Identifying Information._ We may share aggregated information that includes certain portions of your Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. 
 
-The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
+_Service Providers._ We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform related services or to assist us in analyzing how our Services are used (each a **_“Service Provider”_** ). The types of Service Providers we use include, without limitation, those that provide the following types of services: credit card processing, accounting, customer relationship management, website maintenance, notification services, database management and analytics. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
-  * IBM certified to the [APEC Cross Border Privacy Rules](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://www.cbprs.org).
-  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=https://www.privacyshield.gov).
+_Verizon._ On select Verizon devices, Ustream’s Android application may collect phone numbers, port numbers, and IP addresses (which may be used to determine rough geo-location) on behalf of Verizon for Verizon’s internal analysis. 
 
+_SpotXchange._ SpotXchange serves ads on the Site and through the Services and collects information about users’ interaction with those ads, as described in the SpotXchange Privacy Policy, located at <http://www.spotxchange.com/spx_privacypolicy.html>.
 
+_Third Party Advertising Companies._ We may use third-party advertising companies to serve ads on the Site and through the Services. These companies may use information about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) and [www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
-Back to top
+_Third Party Social Networking Services._ As a Ustream Member you can link your account information with certain social networking services (“SNSs”) and broadcast your activities and other data to your friends. In these instances, depending on the “user preferences” you set in your Ustream account, with your permission and on your behalf we will share the information contained in your Ustream account (e.g., Ustream profile page, channel page and any other information you deem public in any content you create on the Site) with the SNS. We also receive certain information (which may include your Personal Information) in accordance with the privacy settings you have set in your SNS account, if any. Other than what we may share with the SNS in connection with your linking of accounts, the personal information a SNS has about you is obtained by the SNS independent of our Services. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other online services you use.
 
-## Information Security and Accuracy
+_Compliance with Laws and Law Enforcement._ Ustream cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Ustream or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.
 
-We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
+_Business Transfers._ Ustream may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. If Ustream becomes involved in a merger, acquisition, reorganization or any form of sale of some or all of its assets, we will provide notice to you before your Personal Information is transferred and becomes subject to a different privacy policy.
 
-## Retention Period
+### Changing or Deleting Your Information
 
-We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
+All Ustream Members may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request. See below for privacy contact information.
 
-Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms.
+### Security
 
-## How to contact us
+Ustream is very concerned with safeguarding your information. We employ reasonable physical, technological, and administrative security measures and attempt to ensure they are applicable under the circumstances. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
+We will make any legally required disclosures of any breach of the security, confidentiality or integrity of your unencrypted electronically stored Personal Data (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
+### International Transfer
 
-IBM Corp. is not the controller in situations such as:
+Your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Ustream transfers Personal Information to the United States and processes it there. Your submission of such information represents your agreement to that transfer.
 
-  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
-  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
+### Links to Other Sites
 
+The Services contain links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third-party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This Privacy Policy addresses the use and disclosure of information that we collect from you through our Services. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
+### Our Policy Toward Children
 
-## Your Rights
+Ustream does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [Privacy@ustream.tv](mailto:privacy@ustream.tv) If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+### Contacting Us
 
-You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
+If you have any questions about this Privacy Policy, please contact us at [Privacy@ustream.tv](mailto:privacy@ustream.tv) or at:
 
-## Right to Lodge a Complaint
-
-In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
-
-  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
-  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
-
-
-
-## Changes to our Privacy Statements
-
-From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
-
-Back to top
+Privacy Matters  
+c/o Ustream, Inc.  
+410 Townsend Street, Ste 400  
+San Francisco, CA 94107 
