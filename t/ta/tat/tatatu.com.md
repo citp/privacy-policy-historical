@@ -1,100 +1,117 @@
-> *The following text is extracted and transformed from the tatatu.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatatu.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224033529id_/https%3A//tatatu.com/tatatu-privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# TaTaTu Privacy Policy - tatatu.com
 
-**Go Daddy Respects Your Privacy**
+Last Updated: May 4, 2018
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+#### 1\. Introduction
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Tatatu Enterprises Ltd and its affiliates (collectively, “Tatatu”, “we”, or “us”) respect your privacy and are committed to protecting it in through our compliance with this policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+PLEASE READ THIS POLICY CAREFULLY TO UNDERSTAND OUR POLICIES AND PRACTICES REGARDING YOUR INFORMATION AND HOW WE WILL TREAT IT. IF YOU DO NOT AGREE WITH OUR POLICIES AND PRACTICES, YOUR CHOICE IS NOT TO USE OUR WEBSITE.
 
-**Information Collection and Use**
+When you use or access any of Tatatu’s websites, including the official website of Tatatu (https://tatatu.com) (collectively, the “Website”) and its related websites), you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+This policy may change from time to time (see Section 10, Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Our websites may contain links to other websites which are not maintained by Tatatu. This privacy policy only applies to the web sites of Tatatu. When visiting these third party websites, you should read their privacy policies which will apply to your use of the websites.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+#### 2\. Information we collect about you and how we collect it
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**2.1 Collection of information**  
+We may collect several types of information from and about users of our Website, including information:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+• by which you may be personally identified, such as your name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (“Personal Information”);  
+• information that is about you but does not personally identify you, such as information about the device you use to access the website (for example, your computer or smartphone), your internet connection, the content you access on the Website, the number of times you access the Website, the amount of time you spend accessing the Website, your IP addresses, information collected through cookies, and other, similar information.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**2.2 How we collect information**  
+We collect this information:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+• Directly from you when you provide it to us.  
+• Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies and other tracking technologies.
 
-**Security**
+#### 3\. Information you provide to us
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The information we collect on or through our Website may include:
 
-**Updating Your Information**
+• Information that you provide when you register to use our Website, post material on our Website, or engage in transactions using our Website.  
+• Records and copies of your correspondence (including email addresses), if you contact us.  
+• Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before carrying out a transaction through our Website.  
+• You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, if any, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### 4\. Information we collect through automatic data collection technologies
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**4.1 Non-personally-identifying information**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-      iii.      You may call us at: (480) 505-8800
+• Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.  
+• Information about your computer and internet connection, including your IP address, operating system, and browser type.  
+• Browser type, language preference, referring site, and the date and time of each visitor request.
 
-       iv.      You may fax us at: (480) 505-8844
+The information we collect automatically is statistical data and may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties.
 
-**Sending Emails**
+**4.2 Data collection technologies we may use**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The technologies we use for this automatic data collection may include:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+• **Cookies (or browser cookies)**. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. The information generated by the cookie about your use of our website (including your IP address) may be transmitted to and stored by our web analytics service provider, which will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  
+• **Flash Cookies**. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices About How We Use and Disclose Your Information.  
+• **Web Beacons**. Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-**Compliance with Laws and Law Enforcement**
+#### 5\. How we use your information
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We use information that we collect about you or that you provide to us, including any personal information:  
+• To present our Website and its contents to you.  
+• To provide you with information, products, or services that you request from us.  
+• To fulfill any other purpose for which you provide it.  
+• To provide you with notices about your account, including expiration and renewal notices.  
+• To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.  
+• To notify you about changes to our Website or any products or services we offer or provide though it.  
+• To allow you to participate in interactive features on our Website.  
+• In any other way we may describe when you provide the information.  
+• For any other purpose with your consent.
 
-**Third Party Service Providers**
+#### 6\. Disclosure of your information
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+From time to time, we may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-**Supplementation of Information**
+• To our subsidiaries and affiliates.  
+• To contractors, service providers, and other third parties we use to support our business.  
+• To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Tatatu’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Tatatu about our Website users is among the assets transferred.  
+• To fulfill the purpose for which you provide it.  
+• For any other purpose disclosed by us when you provide the information.  
+• With your consent.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may also disclose your personal information:
 
-**Contests/Surveys**
+• To comply with any court order, law, or legal process, including to respond to any government or regulatory request.  
+• To enforce or apply our terms of use and other agreements, including for billing and collection purposes.  
+• If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Tatatu, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+#### 7\. Choices about how we use and disclose your information
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-**Tell-A-Friend**
+• Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.  
+• We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+#### 8\. Third party advertisers
 
-**What Happens to my Personal Information if I Opt Out?**
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-**Transfer of Data Abroad**
+#### 10\. Your California privacy rights
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@tatatu.com](mailto:privacy@tatatu.com)
 
-**Changes in Our Practices**
+#### 11\. Changes to our privacy policy
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+#### 12\. Contact information
 
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@tatatu.com](mailto:privacy@tatatu.com)
