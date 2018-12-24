@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the panoramas.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609062828id_/http%3A//www.panoramas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramas.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224014112id_/https%3A//www.panoramas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - www.panoramas.com
+# Privacy Policy
 
   * Privacy Statement
   * Information Collection
   * Information Usage
   * Information Security
   * Cookie Usage
+  * Mobile Text Messaging
   * Advertising
   * CalOPPA (California Online Privacy Protection Act)
   * COPPA (Children Online Privacy Protection Act)
@@ -30,7 +31,7 @@ When ordering or registering on our website, as appropriate, you may be asked to
 
 ### When do we collect information?
 
-We collect information from you when you register on our websites, place an order, subscribe to a newsletter, fill out a form, or enter information.
+We collect information from you when you register on our websites, place an order, subscribe to a newsletter, fill out a form, subscribe to mobile text messages, or enter information.
 
 We have never nor will we ever sell, trade, or borrow customer information.
 
@@ -38,7 +39,7 @@ We have never nor will we ever sell, trade, or borrow customer information.
 
 ### How do we use your information?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to an email, browse our website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to an email, browse our website, subscribe to mobile text messages, or use certain other site features in the following ways:
 
   * To personalize your experience and allow us to deliver the type of content and product offerings in which you are most interested
   * To improve our website in order to better serve you
@@ -90,6 +91,10 @@ You can choose to have your web browser warn you each time a cookie is received,
 ### If users disable cookies in their browser:
 
 If you turn cookies off, some features that make your website experience more efficient may not function properly.
+
+## Mobile Text Messaging
+
+We use mobile text messaging for our [Blakeway Gigapixel](http://blakewaygigapixel.com/) 360° fan photo engagements. Our mobile text messages are intended for subscribers over the age of 13 and are delivered via USA short code 99000. You may receive up to 5 messages per month for text alerts. Message and data rates may apply. This service is available to persons with text-capable phones subscribing to carriers including AT&T, Verizon Wireless, T-Mobile, Sprint, Virgin Mobile USA, Cincinnati Bell, Centennial Wireless, Unicel, U.S. Cellular, and Boost. For help, text HELP to 99000, email [info@panoramas.com](mailto:info@panoramas.com) or call us toll free at [1-800-334-7266](tel:18003347266). You may stop your mobile subscription at any time by text messaging STOP to short code 99000.
 
 ## Advertising
 
@@ -182,13 +187,4 @@ At any time you would like to unsubscribe from receiving future emails, follow t
 
 If there are any questions regarding this Privacy Policy, you may contact us using the information below:
 
-Blakeway Worldwide Panoramas  
-5451 Smetana Drive  
-Minnetonka, MN 55343  
-United States  
-[info@panoramas.com](mailto:info@panoramas.com)  
-Toll-Free: 1-800-334-7266  
-Local: 952-941-9797  
-Visit [our contact page.](http://www.panoramas.com/contacts)
-
-Last edited on March 31, 2017.
+Last edited on June 29, 2018.
