@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529224248id_/http%3A//pattaya-addicts.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224213039id_/http%3A//www.pattaya-addicts.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Pattaya Forum | Pattaya Nightlife
 
-This Privacy Policy was last revised on Jan 16, 2011.
+This Privacy Policy was last revised on Jun 11, 2018.
 
 Pattaya Addicts created this application to make it simple for users to share information about the causes they care about with their friends and others with similar interests. We give you control of your information because you may not want to share your information with everyone. You choose what information you provide, including contact and personal information, interests, and causes. You control the sharing of that information by using the privacy settings on the application.
 
@@ -50,7 +50,7 @@ Please remember that anyone who has access to your username and password may be 
 
 **Deletions/Corrections/Updates**
 
-You can delete your account at your user profile page. You can also edit your personal information to ensure that it is correct and up-to-date. You may delete your information from the Application at any time.
+You can also edit your personal information to ensure that it is correct and up-to-date. If you require any changes to your account, including changing your board name, please contact a Moderator on the forum and they will make every effort to assist you.
 
 **Child Protection**
 
