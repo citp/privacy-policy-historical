@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontcapture.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616050140id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontcapture.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224175451id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
 
 # YourFonts - Privacy Policy
 
@@ -33,3 +33,38 @@ By using this website, you signify your assent to this Privacy Policy. If you do
 #### Questions or Comments
 
 For additional questions, please contact our team using our [contact form](https://web.archive.org/contact.html).
+
+### Getting Started
+
+[ Print Template](https://web.archive.org/print.html)
+
+[ Complete Template](https://web.archive.org/complete.html)
+
+[ Scan & Save Template](https://web.archive.org/scan.html)
+
+[ Upload Template](https://web.archive.org/upload.html)
+
+[ Preview Your Font](https://web.archive.org/preview.html)
+
+[ Download](https://web.archive.org/download.html)
+
+[ Install & Use](https://web.archive.org/enjoy.html)
+
+* * *
+
+Subscribe to our [newsletter](https://web.archive.org/newsletter.html) or follow us on Twitter. Once or twice a year we'll send you a discount coupon, so join now!
+
+* * *
+
+**User Quotes ([view all quotes](https://web.archive.org/quotes.html))**  
+---  
+  
+“Yourfonts est une très belle surprise. J'avais besoin de créer ma typo (police) pour la bande dessinée que je suis en train de faire et le résultat est vraiment super. N'hésitez pas cependant à juste "voir" en un premier temps votre police et rectifier les erreurs qu'elle pourrait avoir. Par exemple, certaines lettres trop grosses, pas au même niveau ou simplement traits différents les...” [more]
+
+#### **Marc Poitvin**
+
+December 19, 2018  
+  
+Add [your opinion](https://web.archive.org/contact.html) about YourFonts.com. 
+
+* * *
