@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617033706id_/https%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224134628id_/https%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ When you supply a mailing address, we may send you periodic mailings with inform
 
 ### Cookies
 
-Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20180617033706id_/https%3A//www.arborday.org/generalinfo/nocookies.cfm)
+Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20181224134628id_/https%3A//www.arborday.org/generalinfo/nocookies.cfm)
 
 ### Children
 
@@ -44,7 +44,7 @@ All refunds will be provided as a credit to the credit card used at the time of 
 
 We use Affiliate Technology's services to help website owners drive visitors to arborday.org. You can learn more about that program by visiting: [https://arborday.affiliatetechnology.com/](https://web.archive.org/linkout.cfm?Destination=https://arborday.affiliatetechnology.com/)
 
-Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20180617033706id_/https%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
+Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20181224134628id_/https%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
 
 The Arbor Day Foundation  
 211 North 12th Street  
