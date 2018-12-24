@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesjungle.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624164605id_/http%3A//www.freegamesjungle.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesjungle.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224200128id_/http%3A//www.freegamesjungle.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free games Jungle - Privacy Policy
 
@@ -7,7 +7,7 @@
   
 ### Personal Information  
   
-Free Games Jundle (FGJ) always was and always will be a safe gaming experience online. Freegamesjungle.com is committed to protecting your online privacy. freegamesjungle.com does **not** collect any personal information on its servers. Any details that could track you behaviour, visited pages, or locations are NOT stored on our servers. Users of the free online game portal (Free Games Jungle) must repect our terms of service ([read more](https://web.archive.org/web/20180624164605id_/http%3A//www.freegamesjungle.com/terms_of_service.html)).   
+Free Games Jundle (FGJ) always was and always will be a safe gaming experience online. Freegamesjungle.com is committed to protecting your online privacy. freegamesjungle.com does **not** collect any personal information on its servers. Any details that could track you behaviour, visited pages, or locations are NOT stored on our servers. Users of the free online game portal (Free Games Jungle) must repect our terms of service ([read more](https://web.archive.org/web/20181224200128id_/http%3A//www.freegamesjungle.com/terms_of_service.html)).   
   
 ---  
   
@@ -68,4 +68,4 @@ Its possible to prevent third party cookies being set on your machine by using t
   
 ### Liability  
   
-It is freegamesjungle.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, freegamesjungle.com will immediately disable and remove games in question. Find more information about our copyright policy [here](https://web.archive.org/web/20180624164605id_/http%3A//www.freegamesjungle.com/copyright_policy.html)
+It is freegamesjungle.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, freegamesjungle.com will immediately disable and remove games in question. Find more information about our copyright policy [here](https://web.archive.org/web/20181224200128id_/http%3A//www.freegamesjungle.com/copyright_policy.html)
