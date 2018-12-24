@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arborday.org privacy policy that was archived on 2018-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617033706id_/https%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arborday.org privacy policy that was archived on 2018-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181224134628id_/https%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" wf-loading wf-loading"><head>
 		<meta charset="UTF-8">
@@ -28,13 +28,9 @@
 <script src="/scripts/picturefill.min.js" async=""></script>
 
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-<script src="//www.google.com/jsapi"></script>	<!-- The // in the src respects page security (https). -->
-<script>
-  // Load jQuery
-  //google.load("jquery", "1.5.2");	/*For now, use 1.5.2, since 1.6.1 causes the background to disappear in IE8.*/
-  google.load("jquery", "1");	/*Try this, now that 1.6.1 has been replaced with 1.6.4.*/
-</script>
+
 
 <!-- Facebook Pixel Code -->
 <script>
@@ -162,15 +158,25 @@ src="https://www.facebook.com/tr?id=1137153849707323&ev=PageView
 				<a href="/members/">Membership</a>
 				
 			</li>
-			<li>
+			<li class="dropdown">
 				<a href="https://shop.arborday.org">Shop</a>
-				
+				<div class="basic-menu">
+					<ul>
+						<li><a href="/giftideas" onclick="">Holiday Gifts</a></li>
+						<li><a href="https://shop.arborday.org/content.aspx?page=tree-nursery" onclick="">Tree Nursery</a></li>
+						<li><a href="https://shop.arborday.org/coffee/coffee.aspx" onclick="">Arbor Day Coffee</a></li>
+						<li><a href="https://shop.arborday.org/give-a-tree.aspx" onclick="">Give-A-Tree Cards</a></li>
+						
+						<li><a href="https://shop.arborday.org/content.aspx?page=commemorative-sample-tim" onclick="">Trees in Memory</a></li>
+					</ul>
+				</div>
 			</li>
 			<li class="dropdown">
 				<a href="/takeaction/">Take Action</a>
 				<div class="basic-menu">
 					<ul>
 						<li><a href="/plannedgiving/?Trackingid=404" class="" onclick="_gaq.push(['_trackEvent', 'DropMenu', 'Menulink', 'Planned Giving']);">Planned Giving</a></li>
+						<li><a href="/takeaction/fundraise/?Trackingid=404" class="" onclick="_gaq.push(['_trackEvent', 'DropMenu', 'Menulink', 'Start a Fundraiser']);">Start a Fundraiser</a></li>
 						<li><a href="/takeaction/volunteer/?Trackingid=404" class="" onclick="_gaq.push(['_trackEvent', 'DropMenu', 'Menulink', 'Volunteer']);">Volunteer</a></li>
 						<li><a href="/programs/community-tree-recovery/?Trackingid=404" class="" onclick="_gaq.push(['_trackEvent', 'DropMenu', 'Menulink', 'Community Tree Recovery (Take Action)']);">Community Tree Recovery</a></li>
 						
@@ -286,7 +292,6 @@ src="https://www.facebook.com/tr?id=1137153849707323&ev=PageView
 
 
 	<li>
-		
 		<form class="group subform" action="https://www.arborday.org/accounts/optin.cfm" method="post" id="subForm">
 			<div>
 				<label for="pyuljh-pyuljh">Sign up for email&nbsp;updates:</label>
@@ -295,12 +300,12 @@ src="https://www.facebook.com/tr?id=1137153849707323&ev=PageView
 				<input id="pyuljh-pyuljh" name="subscribe_email" placeholder="email@example.com" required="" type="email" size="15" style="width:96%;">
 			</div>
 			<div>
-				<button class="omega">Subscribe</button>
+				<button class="omega">Sign Up</button>
 			</div>
 			<input id="sent" name="sent" type="hidden" value="1">
-			<input id="TestA" name="TestA" type="hidden" value="Subscribe">
+			<input id="TestA" name="TestA" type="hidden" value="Sign-Up">
 		</form>
-		<img src="/tracking/pixels/001.png" alt="" width="1" height="1" onload="_gaq.push(['_trackEvent', 'Tracking', 'Tests', 'Signup form - Button Subscribe']);" class="hidden">
+		<img src="/tracking/pixels/001.png" alt="" width="1" height="1" onload="_gaq.push(['_trackEvent', 'Tracking', 'Tests', 'Signup form - Button Sign Up']);" class="hidden">
 	</li>
 
  
@@ -459,20 +464,11 @@ src="https://www.facebook.com/tr?id=1137153849707323&ev=PageView
 	$(document).ready(function(){
 		// mobile nav and search
 			// search
-			$('.toggle-search').toggle(
-				function(){
-					$('header[role="banner"] > .search input').focus();
-					$('form.search').addClass('active');
-					$('.toggle-search .hide-search').show();
-					$('.toggle-search .show-search').hide();
-				},
-				function(){
-					$('header[role="banner"] > .search input').blur();
-					$('form.search').removeClass('active');
-					$('.toggle-search .hide-search').hide();
-					$('.toggle-search .show-search').show();
-				}
-			);
+			$('.toggle-search').click(function(){
+				$('header[role="banner"] > .search input').focus();
+				$('header[role="banner"] > .search').toggleClass('active');
+				$('.toggle-search .hide-search, .toggle-search .show-search').toggle();
+			});
 			// mobile nav
 			$('.mobile-toggle-nav').click(function(){
 				$('nav.primary').fadeIn(100);
