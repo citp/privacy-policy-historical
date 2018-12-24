@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611110132id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224063531id_/http%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | FireEye
 
@@ -126,13 +126,13 @@ The third-party cookies are used to support marketing activities both on the Fir
 Control via your browser:
 
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
-  * [AppNexus](http://www.appnexus.com/cookies)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [ClickTale](http://www.clicktale.net/disable.html)
   * [Google Analytics](http://www.google.com/analytics/learn/privacy.html)
   * [Marketo](https://www.marketo.com/company/trust/)
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
-  * [AppNexus](http://www.appnexus.com/cookies)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
   * [DoubleClick](https://www.google.com/policies/technologies/ads/)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [LeadLander](http://www.acumentrics.com/acumentrics-company-history)
@@ -143,7 +143,7 @@ Control via your browser:
 Control via Third-Party Sites:
 
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
-  * [AppNexus](http://www.appnexus.com/cookies)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
 
 
@@ -154,8 +154,8 @@ Control via the FireEye Cookie Preferences Control:
   * [Google Analytics](http://www.google.com/analytics/learn/privacy.html)
   * [Marketo](https://www.marketo.com/company/trust/)
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
-  * [AppNexus](http://www.appnexus.com/cookies)
-  * [DoubleClick](http://www.google.com/settings/ads/onweb/)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
+  * [DoubleClick](https://policies.google.com/technologies/ads)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [LeadLander](http://www.acumentrics.com/acumentrics-company-history)
   * [Salesforce.com](http://www.salesforce.com/company/privacy/full_privacy.jsp)
@@ -179,7 +179,7 @@ The third-party cookies are used to support marketing activities both on the Fir
 Control via your browser:
 
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
-  * [AppNexus](http://www.appnexus.com/cookies)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
   * [Google](http://www.google.com/intl/en/policies/privacy/)
   * [Twitter](https://support.twitter.com/articles/20169453)
   * [TypePad](http://www.typepad.com/privacy)
@@ -189,7 +189,7 @@ Control via your browser:
 Control via Third-Party Sites:
 
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
-  * [AppNexus](http://www.appnexus.com/cookies)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
   * [Google](http://www.google.com/intl/en/policies/privacy/)
   * [Twitter](https://support.twitter.com/articles/20169453)
   * [TypePad](http://www.typepad.com/privacy)
@@ -212,26 +212,26 @@ The third-party cookies collect personally identifiable information used to supp
 
 Control via your browser:
 
-  * [AppNexus](http://www.appnexus.com/cookies)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [MediaMath](http://www.mediamath.com/privacy/)
-  * [DoubleClick](http://www.google.com/settings/ads/onweb/)
+  * [DoubleClick](https://policies.google.com/technologies/ads)
   * [Quantcast](http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out)
   * [ScorecardResearch](http://www.scorecardresearch.com/privacy.aspx)
   * [OpenX](http://www.openx.com/about/openx-market-privacy-principles)
   * [Microsoft Atlas](https://choice.microsoft.com/AdvertisementChoice/)
-  * [AppNexus](http://www.appnexus.com/cookies)
-  * [DoubleClick](http://www.google.com/settings/ads/onweb/)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
+  * [DoubleClick](https://policies.google.com/technologies/ads)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
 
 
 
 Control via Third-Party Sites:
 
-  * [AppNexus](http://www.appnexus.com/cookies)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [MediaMath](http://www.mediamath.com/privacy/)
-  * [DoubleClick](http://www.google.com/settings/ads/onweb/)
+  * [DoubleClick](https://policies.google.com/technologies/ads)
   * [Quantcast](http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out)
   * [ScorecardResearch](http://www.scorecardresearch.com/privacy.aspx)
   * [OpenX](http://www.openx.com/about/openx-market-privacy-principles)
@@ -241,8 +241,8 @@ Control via Third-Party Sites:
 
 Control via the FireEye Cookie Preferences Control:
 
-  * [AppNexus](http://www.appnexus.com/cookies)
-  * [DoubleClick](http://www.google.com/settings/ads/onweb/)
+  * [AppNexus](https://www.appnexus.com/cookie-policy)
+  * [DoubleClick](https://policies.google.com/technologies/ads)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
 
   
