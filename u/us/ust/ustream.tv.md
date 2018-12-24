@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustream.tv privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208030043id_/http%3A//www.ustream.tv/privacy-policy-popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustream.tv privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224165631id_/https%3A//video.ibm.com/privacy-policy-popup) for the most accurate reproduction.*
 
 # USTREAM Privacy Policy: Personal and User Information, Security
 
