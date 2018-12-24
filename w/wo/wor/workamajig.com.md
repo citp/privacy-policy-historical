@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513210440id_/http%3A//www.workamajig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224042823id_/https%3A//www.workamajig.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Workamajig™ Platinum | Search
+# Workamajig Privacy Policy
 
 By using or accessing this website you are agreeing to the Privacy Policy set forth below.
 
@@ -10,7 +10,7 @@ If you do provide us with personal information for some reason, we don’t autom
 
 Any personal information that is retained will not be rented, sold or otherwise distributed to unrelated third parties. We will use all reasonable efforts to safeguard the confidentiality of any personal information but will have no liability for disclosure of any information obtained due to errors in transmission or the unauthorized acts of third parties.
 
-This site may use cookies for site administration purposes. If you do not want to take advantage of the use of cookies, please modify your browser so that it does not accept them.
+This site may use cookies for site administration purposes. If you do not want to take advantage of the use of cookies, please modify your browser so that it does not accept them. If you've previously consented to cookies and now wish to withdraw that consent, please clear your browser's cache.
 
 This website may detect and use your IP address or domain name for internal traffic monitoring and capacity purposes or to otherwise administer our website. No personal information is obtained, rather just the patterns of usage of our various users.
 
