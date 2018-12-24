@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609110639id_/http%3A//en.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224060048id_/http%3A//en.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
 
 # UESPWiki:Privacy Policy - The Unofficial Elder Scrolls Pages (UESP)
 
