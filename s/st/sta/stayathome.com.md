@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stayathome.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620155642id_/http%3A//www.stayathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayathome.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224205340id_/http%3A//www.stayathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Stay At Home
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#4434362d3225273d043730253d25302c2b29216a272b29).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@stayathome.com).
 
 At www.stayathome.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.stayathome.com and how we use it.
 
