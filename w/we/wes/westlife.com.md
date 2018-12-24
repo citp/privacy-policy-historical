@@ -1,170 +1,246 @@
-> *The following text is extracted and transformed from the westlife.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231163000id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlife.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224192313id_/https%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Data Policy
+# Universal Music UK - Privacy Policy
 
-We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [Privacy Basics](https://www.facebook.com/about/basics). 
+_VERSION: 2.0_GLOBAL_   
+Effective Date: May 15, 2018
 
-As you review our policy, keep in mind that it applies to all Facebook brands, products and services that do not have a separate privacy policy or that link to this policy, which we call the [“Facebook Services” or “Services.”](https://www.facebook.com/help/1561485474074139)
+This privacy policy sets out the basis on which any information (which may include personal data, as defined in data protection law) we collect from you, or that you provide to us, through this website, application or service (the “Site”) will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it. 
 
-###  What kinds of information do we collect? 
+Please click on the sections below to learn more about our privacy policy: 
 
-Depending on which Services you use, we collect different kinds of information from or about you. 
+###  WHO WE ARE
 
-Things you do and information you provide.
+This site is operated by Universal Music Operations Limited, 4 Pancras Square, London, N1C 4AG, United Kingdom. Data Protection Number - Universal Music Operations Z5512937 (“We”), who is a data controller responsible for the processing of personal data under applicable data protection law. We may share your personal data with UMG Recordings Services Inc, of 2220 Colorado Avenue, Santa Monica, California, USA, as an independent data controller under applicable data protection law. Each of Universal Music Operations Limited and UMG Recordings Services Inc. separately make the disclosures in this Privacy Policy to you (and, where necessary, references in this Privacy Policy to “UMG” or “we” will be deemed to be references to both entities for such purpose). 
 
-We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities. 
+As used in this Privacy Policy, "UMG Companies" includes all entities UMG controls, is controlled by or is under common control with, including subsidiaries, joint ventures or other entities in whom UMG has a substantial ownership interest. 
 
-Things others do and information they provide.
+###  CONTACT
 
-We also collect content and information that other people provide when they use our Services, including information about you, such as when they share a photo of you, send a message to you, or upload, sync or import your contact information. 
+Questions, comments and requests regarding this privacy policy are welcomed by [clicking here](http://privacypolicy.umusic.com/email/default.asp), or by mail at the relevant address specified below. 
 
-Your networks and connections.
+You may contact UMG’s Data Protection Officer by [clicking here](http://privacypolicy.umusic.com/email/default.asp) or by email at [privacy.officer@umusic.com](mailto:privacy.officer@umusic.com). 
 
-We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device. 
+For questions, comments or requests not related to this privacy policy please see [this FAQ](http://www.universalmusic.com/contact-us/) regarding how to contact UMG. 
 
-Information about payments.
+###  INFORMATION WE MAY COLLECT FROM YOU
 
-If you use our Services for purchases or financial transactions (like when you buy something on Facebook, make a purchase in a game, or make a donation), we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details. 
+When you use the Site or contact us by e-mail, social media, SMS, telephone, or other methods, we may collect and process the following data about you: 
 
-Device information.
+  * Information you give us, including: 
+  *     * Forms filled out by you on the Site; 
+    * Content of correspondence with us by phone, e-mail or otherwise; 
+    * Site registration; 
+    * Subscriptions or orders placed on the Site; 
+    * Participation in discussion boards or other social media functions on the Site; 
+    * Entering a competition, promotion or survey; 
+    * If applicable, resume, work history, CV, resume or other job application information; 
+    * Reporting a problem or requesting support for the Site. 
+  * The information you give us may include your name, address, e-mail address and phone number, date of birth, payment information, personal description, photographs or images or comments. 
+  * Information we collect about you. 
+  * With regard to each of your visits to our Site we may automatically collect the following information: 
+  *     * Technical information, including IP address, login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; 
+    * Information about your visit, including the full URL clickstream to, through and from our Site (including date and time); 
+    * Pages you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+  * We may also collect information our about your devices (including phones, computers or other devices) where you access and visit our Sites. Such information may include unique device identifiers and mobile network information (including phone number), IP address, language and time zone, operating system, hardware version, device locations (including specific geographic locations, such as through GPS, Bluetooth or WiFi signals). 
 
-We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
 
-  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
-  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
-  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
+###  INFORMATION WE COLLECT FROM OTHER SOURCES
 
+We also work with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, social networks such as Facebook and Twitter, search information providers, credit reference agencies, third parties who enable sign on functionality and social network integration) and may receive information about you from them. 
 
-Information from websites and apps that use our Services.
+If you choose to use features on this Site or other UMG websites that connect to your online profiles, accounts or services (including social media accounts) (“Connected Accounts”), we may collect any information that you permit through your settings on those Connected Accounts. For example, if you log in to our site using your Facebook account and choose to allow Facebook to share your profile with us, we may collect that information. Information we receive from Connected Accounts includes email address, first and last name, location (hometown and country), gender, date of birth, likes, posts or other social activity. Please review your Connected Account privacy settings to control what information is provided to us through this option. 
 
-We collect information when you visit or use third-party websites and apps that use our Services (like when they offer our Like button or Facebook Log In or use our measurement and advertising services). This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us. 
+If you are applying for a job at UMG, we may use information you provide to communicate with third parties regarding your application to the extent permissible by law, including to verify your credentials, work history, references, conduct background checks, or other job application-related purposes. 
 
-Information from third-party partners.
+###  HOW YOUR INFORMATION MAY BE USED 
 
-We receive information about you and your activities on and off Facebook from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them. 
+We may use information held about you in the following ways: 
 
-Facebook companies.
+  * To help us respond to your queries; 
+  * To provide you with information on the relevant Universal Music artist; 
+  * To provide you, or permit selected third parties to provide you, with information about other goods and services we offer that are similar to those that you have already purchased or enquired about or that we feel may interest you; 
+  * To make suggestions and recommendations to you and other users of our Site about goods or services that may interest you or them; 
+  * To provide or permit third parties to provide targeted advertising via websites you visit about goods or services that you may find interesting (see more on this in our Cookies Policy below; 
+  * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; 
+  * To track the progress and number of entries in competitions and promotions. 
+  * To allow you to interact with our Site, for example by posting comments or to share information from our Site on third party social media platforms; 
+  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us; 
+  * To manage your access to the services or notify you about changes to the services; 
+  * To comply with legal and regulatory requirements; 
+  * To administer our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes; 
+  * To improve our Site to ensure that content is presented in the most effective manner for you and for your computer; 
+  * As part of our efforts to keep our Site safe and secure; 
+  * If you have applied for a job at UMG, to review, verify, and evaluate your job application information. 
 
-We receive information about you from companies that are owned or operated by Facebook, in accordance with their terms and policies. [Learn more](https://www.facebook.com/help/111814505650678) about these companies and their privacy policies. 
 
-###  How do we use this information? 
 
-We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
+We may combine information we receive from other sources with information you give to us and information we collect about you (including information in relation to your devices). We may use this combined information for the purposes set out above. 
 
-Provide, improve and develop Services.
+For clarity, if you are a UMG artist, and the Site pertains to royalty payments and your commercial relationship with UMG, then UMG shall only use your information collected from such Site to facilitate royalty payments and UMG’s management of its commercial relationship with you and as otherwise as agreed in your artist agreement with UMG.
 
-We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
+###  DISCLOSURE OF YOUR INFORMATION
 
-We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest that your friend tag you in a picture by comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” settings. 
+We may share your personal data with any UMG Company, listed [here](http://privacypolicy.umusic.com/entities.htm), and with selected third parties including: 
 
-When we have location information, we use it to tailor our Services for you and others, like helping you to check-in and find local events or offers in your area or tell your friends that you are nearby. 
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you in order to provide you with a product or service; 
+  * Business partners, suppliers and sub-contractors to provide you with information about promotions and offers; 
+  * Relevant Universal Music artists and/or their representatives; 
+  * Advertisers, advertising networks and social networks that require the data to select and serve relevant adverts to you and others. We may also use aggregate and other information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience; 
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our Site; 
+  * Third parties when you consent to or request such sharing. 
 
-We conduct surveys and [research](https://research.facebook.com/), test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities. 
 
-Communicate with you.
 
-We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
+We may disclose your personal data to third parties: 
 
-Show and measure ads and services.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; 
+  * If the UMG Company that controls this Site or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://www.umusic.co.uk/terms.html) and other agreements; or to protect the rights, property, or safety of UMG Companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; 
+  * To any other third party where lawful. 
 
-We use the [information we have](https://www.facebook.com/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://www.facebook.com/ads/about) about advertising on our Services and how you can [control](https://www.facebook.com/ads/settings) how information about you is used to personalize the ads you see. 
 
-Promote safety and security.
 
-We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://www.facebook.com/help/379220725465972). 
+###  STORAGE AND TRANSFER OF DATA
 
-We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://www.facebook.com/policies/cookies/) to learn more. 
+All the information you provide may be processed and stored, transferred or accessed by entities around the world as described in this policy. We will take steps to ensure that your data is treated securely and in accordance with this Privacy Policy. We have put in place technical and organisational procedures designed to safeguard the information we collected on this Site. 
 
-###  How is this information shared? 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. 
 
-Sharing On Our Services
+###  COOKIES
 
-People use our Services to connect and share with others. We make this possible by sharing your information in the following ways: 
+Our Site uses cookies and other tracking technologies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies and other technologies we use and the purposes for which we use them see our Cookies Policy below. 
 
-People you share and communicate with.
+###  SOCIAL MEDIA AND OTHER THIRD PARTIES THAT PROVIDE CONTENT, ADVERTISING OR FUNCTIONALITY ON OUR SERVICES
 
-When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post on Facebook, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use Messenger, you also choose the people you send photos to or message. 
+Some of the content, advertising and functionality on our Site may be provided by third parties that are not affiliated with us. For example, you may have the opportunity to log in to our Site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal data with us. Services like Facebook Connect give you the option to post information about your activities on this Site to your profile page to share with others within your network.
 
-[Public information](https://www.facebook.com/help/203805466323736) is any information you share with a public audience, as well as information in your [Public Profile](https://www.facebook.com/help/203805466323736), or content you share on a Facebook Page or another public forum. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV. 
+Third-party advertisers also may have a presence on our Sites. These and other third parties may collect or receive certain information about your use of our Sites, including through the use of cookies and other Internet technologies, and this information may be collected over time and combined with information collected across different websites and online services. 
 
-In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post or like their content on Facebook, that person decides the audience who can see your comment or like. If their audience is public, your comment will also be public. 
+Some of these companies participate in industry-developed programs designed to provide consumers choices about whether to receive targeted advertising. Please visit the websites operated by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), [Digital Advertising Alliance](http://www.aboutads.info/), and [European Interactive Digital Advertising Alliance](http://youronlinechoices.eu/). 
 
-People that see content others share about you.
+###  CHILDREN
 
-Other people may use our Services to share content about you with the audience they choose. For example, people may share a photo of you, mention or tag you at a location in a post, or share information about you that you shared with them. If you have concerns with someone’s post, social reporting is a way for people to quickly and easily ask for help from someone they trust. [Learn More](https://www.facebook.com/notes/facebook-safety/details-on-social-reporting/196124227075034). 
+This Site is not directed toward children (as defined by local law) nor does UMG knowingly collect information from children (as defined by local law) without parental consent except where in compliance with applicable laws. 
 
-Apps, websites and third-party integrations on or using our Services.
+###  YOUR RIGHTS
 
-When you use third-party apps, websites or other services that use, or are integrated with, our Services, they may receive information about what you post or share. For example, when you play a game with your Facebook friends or use the Facebook Comment or Share button on a website, the game developer or website may get information about your activities in the game or receive a comment or link that you share from their website on Facebook. In addition, when you download or use such third-party services, they can access your [Public Profile](https://www.facebook.com/help/203805466323736), which includes your [username or user ID](https://www.facebook.com/help/211813265517027), your age range and country/language, your list of friends, as well as any information that you share with them. Information collected by these apps, websites or integrated services is subject to their own terms and policies. 
+You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your personal data, and to request access to, rectification, erasure, and portability of your own personal data by contacting us as described in the “Contact” section. We may require you to prove your identity with approved identification if you request this information. 
 
-[Learn more](https://www.facebook.com/settings?tab=applications) about how you can control the information about you that you or others share with these apps and websites. 
+You may also be entitled, in accordance with applicable law, to lodge a complaint with a supervisory authority if you consider that our processing of your personal data infringes applicable law. 
 
-Sharing within Facebook companies.
+You are responsible for keeping your information current and up-to-date. You may update your information by contacting us as described in the “Contact” section. 
 
-We share information we have about you within the family of companies that are part of Facebook. [Learn more](https://www.facebook.com/help/111814505650678) about our companies. 
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-New owner.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us as described in the “Contact” section. 
 
-If the ownership or control of all or part of our Services or their assets changes, we may transfer your information to the new owner. 
+If you have applied for a job at UMG, you may have certain rights under your local laws regarding your application or our evaluation. You may submit any requests to exercise your rights as described in the “Contact” section. 
 
-Sharing With Third-Party Partners and Customers
+###  YOUR CALIFORNIA PRIVACY RIGHTS
 
-We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
+California residents may opt out of having their personally identifiable information shared with third parties for those third parties' direct marketing purposes by contacting us as described in the “Contact” section. 
 
-Here are the types of third parties we can share information with about you: 
+Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit “do-not-track” signals to the websites and other online services with which a user communicates. There is no industry standard that governs what, if anything, websites should do when they receive these signals. UMG currently does not take action in response to these signals. 
 
-Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
+###  LINKS TO THIRD PARTY WEBSITES
 
-We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://www.facebook.com/ad_guidelines.php). 
+Our Site, our newsletters and other communications may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. 
 
-Please review your [advertising preferences](https://www.facebook.com/help/562973647153813/) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
+###  CHANGES TO OUR PRIVACY POLICY
 
-Vendors, service providers and other partners.
+Any material changes we may make to our privacy policy in the future will be posted on this page prior to the change becoming effective and/or we will notify you through the Site or, where appropriate, by e-mail. Please check back frequently to see any updates or changes to our privacy policy. 
 
-We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them. 
+###  USERS OF SITES IN THE EUROPEAN ECONOMIC AREA
 
-###  How can I manage or delete information about me? 
+This section of this Privacy Policy applies only if you use the Site from a country that is a Member State of the European Economic Area, and supplements the information in this Privacy Policy. 
 
-You can manage the content and information you share when you use Facebook through the [Activity Log tool](https://www.facebook.com/help/437430672945092). You can also download information associated with your Facebook account through our [Download Your Information tool](https://www.facebook.com/help/302796099745838). 
+#### Legal Basis for Data Processing
 
-We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services. 
+We process personal data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract between you and us (for example, to provide you with the services you request and to identify and authenticate you so you may use the Site); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you and to improve the Site); and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time (by using preference settings in emails or on our Sites, [using this form](http://privacypolicy.umusic.com/email/default.asp), or emailing us as set out in the Contact section) without affecting the lawfulness of processing based on consent before its withdrawal. 
 
-You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates. If you do not want to delete your account, but want to temporarily stop using Facebook, you may deactivate your account instead. To learn more about deactivating or deleting your account, click [here](https://www.facebook.com/help/125338004213029). Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
+We may use automated decision making technologies, including profiling, to support our data processing activities. Our automated decision making capabilities include logic that attempts to identify artists, music, communications, products, or offers that we believe may interest you. By using this logic, it helps us personalize your interactions with UMG and UMG artists. For you, this means that you may see online advertisements, direct marketing communications (if you have subscribed), or other advertising or marketing messages or special offers based on your activity on our Sites or interactions with UMG Companies or our third party partners. 
 
-###  How do we respond to legal requests or prevent harm? 
+In some instances, you may be required to provide us with personal data for processing as described above, in order for us to be able to provide you to use all the features of the Site. 
 
-We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms. 
+#### International transfers
 
-###  How our global services operate 
+Our sharing your personal data in accordance with this Privacy Policy, may involve transferring your data outside the European Economic Area (EEA). Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring, where required by law, at least one of the following safeguards is implemented: 
 
-Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. We utilize standard contract clauses approved by the European Commission, adopt other means under European Union law, and obtain your consent to legitimize data transfers from the EEA to the United States and other countries. 
+  * transferring personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission; 
+  * using specific contracts approved by the European Commission which give personal data the same protection it has in Europe; or 
+  * transferring personal data to the United States to an entity if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. 
 
-You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=ATMn9mEtaEe459rXKAEY1uV1CVQtyV6TD8EPF29qeTHVzTL4zL5Dr_PIW-0YWwSgIp6DMG0ghJEEqn7d5gdWxh8mi2TXhEWLW_KKT3U0LIwDYmTOebF6WKXkhPU). 
 
-###  How will we notify you of changes to this policy? 
 
-We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services. 
+You may be entitled, in accordance with applicable law, to request a copy of relevant safeguards by contacting UMG as described in the “Contact” section.
 
-###  How to contact Facebook with questions 
+## COOKIES POLICY
 
-To learn more about how privacy works on Facebook, please check out [Privacy Basics](https://web.archive.org/about/basics). If you have questions about this policy, here’s how you can reach us: 
+### INFORMATION ABOUT OUR USE OF COOKIES AND TRACKING TECHNOLOGIES
 
-If you live in the US or Canada… 
+Our Site uses cookies and other similar technologies (as described below) to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site, allows us to improve our Site and provide you with tailored content and advertising. 
 
-Please contact Facebook, Inc. [online](https://www.facebook.com/help/contact/173545232710000) or by mail at: 
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. 
 
-Facebook, Inc.  
-1601 Willow Road  
-Menlo Park, CA 94025 
+You can find more information about the types of cookies we use and the purposes for which we use them in the table below: 
 
-If you live anywhere else… 
+Type of Cookie
 
-The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online](https://www.facebook.com/help/contact/173545232710000) or by mail at: 
+| 
 
-Facebook Ireland Ltd.  
-4 Grand Canal Square  
-Grand Canal Harbour  
-Dublin 2 Ireland 
+Purpose of Cookie  
+  
+---|---  
+  
+Strictly Necessary 
 
-Date of Last Revision: September 29, 2016 
+| 
+
+These cookies are essential in order to enable you to browse our Site and use its features. The information collected by these cookies relate to the operation of our Site, for example website scripting language and security tokens to maintain secure areas of our Site.   
+  
+Performance / Analytics 
+
+| 
+
+These cookies collect anonymous information about how you use our Site, for example which pages you visit most often, whether you receive any error messages, and how you arrived at our Site. Information collected by these cookies is used only to improve your use of our Site and never to identify you. These cookies are sometimes placed by third-party providers of web traffic analysis services, such as Google Analytics.   
+  
+Functionality
+
+| 
+
+These cookies remember choices you make, for example the country you visit our Site from, your language and any changes you have made to text size or other parts of web pages that you can customise, in order to improve your experience of our Site and to make your visits more tailored and enjoyable. The information these cookies collect may be anonymised and cannot be used to track your browsing activity on other websites.   
+  
+Targeting or Advertising
+
+| 
+
+These cookies collect information about your browsing habits and inferred interests in order to make advertising more relevant to you. They are also used to limit the number of times you see an advert, as well as to measure the effectiveness of an advertising campaign. These cookies are usually placed by third-party advertising networks. They remember the other websites that you visit and this information is shared with third-party organisations, for example advertisers.   
+  
+Social Media
+
+| 
+
+These cookies allow you to share what you’ve been doing on our Site with social media organisations such as Facebook and Twitter. These cookies are not within our control. Please refer to the privacy policies of these organisations for how their cookies work.   
+  
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. 
+
+We may use cookies: 
+
+  1. to collect anonymised data on users behaviour on the site. We may also capture what site a user has come from and what site they go to and also some demographic data (e.g. the user’s location) and we may use that data to analyse user behaviour across multiple sites; 
+  2. to categorise pools of users (on an anonymised basis) based on demographic and/or behavioural data and use this to, (1) target our advertising to cookie-ed users on third party websites and Universal Music websites, and (2) use that data to allow targeted third party advertising to categorised cookie-ed users either in respect of advertising placement UMG has bought/placed and targeted to users on behalf of third parties or in respect of advertising bought/placed by third parties and targeted to cookie pools UMG has "sold" to these third parties. 
+
+
+
+Some of our Sites may use Google AdSense to publish advertisements, including information about your demographics and interests. When you view or click on an advertisement a cookie will be set to help better provide advertisements that may be of interest to you on this and other websites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>. 
+
+Most internet browsers are automatically set up to accept cookies. However, if you want to refuse or delete any cookies (or similar technologies), please refer to the help and support area on your internet browser for instructions on how to block or delete cookies. Please note you may not be able to take advantage of all the features of our Site, including certain personalised features, if you delete or disable cookies. 
+
+For more information on managing cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/), or visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which has further information about behavioural advertising and online privacy. 
+
+### Web Beacons
+
+We, or our third party partners, may employ a software technology called web beacons (also known as web bugs, clear gifs or pixels) which helps us understand what content is effective, for example by counting the number of users who have visited these pages, and to understand usage patterns. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to let us know when content is viewed. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded on web pages, ads, and e-mail. We, or our third party partners, may tie the information gathered by web beacons to the other information we collect about you. 
+
+In addition to disabling cookies and other tracking technologies as described above, you may opt-out of receiving targeted advertising from participating ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), [Digital Advertising Alliance](http://www.aboutads.info/), or [European Interactive Digital Advertising Alliance](http://youronlinechoices.eu/). 
