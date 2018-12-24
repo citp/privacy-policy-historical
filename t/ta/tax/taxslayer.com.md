@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407055317id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224203123id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=dce28ac8-972b-4dec-9bd1-6db40aea0e72)
+  
+
 
 ##  YOUR PRIVACY IS A PRIORITY TO US 
 
 At TaxSlayer.com (collectively 'We', 'Us', 'Our' or 'TaxSlayer'), we are committed to safeguarding customer information on our site www.taxslayer.com. Since your privacy is a priority to us, TaxSlayer will not share nonpublic information about you with third parties outside of the TaxSlayer corporate family without your consent, except as explained in our Privacy Policy. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ##  PRIVACY POLICY 
 
@@ -64,15 +63,15 @@ When you provide us with personal information about your contacts we will only u
 
 ###  Newsletters 
 
-We will use your name and email address to send newsletters to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please visit <https://www.taxslayer.com/optout.aspx> to opt out. 
+We will use your name and email address to send newsletters to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please visit [here](http://info.taxslayer.com/UnsubscribePage.html) to opt out. You can also unsubscribe by clicking the unsubscribe button at the bottom of every marketing email you receive. 
 
 ###  Testimonials 
 
-We post customer testimonials on our website, which may contain personal information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [support@TaxSlayer.com](mailto:support@TaxSlayer.com). 
+We post customer testimonials on our website, which may contain personal information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [support@taxslayer.com](mailto:support@taxslayer.com). 
 
 ###  Blog/Forum 
 
-Our website may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@TaxSlayer.com](mailto:support@TaxSlayer.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application. 
+Our website may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@taxslayer.com](mailto:support@taxslayer.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application. 
 
 ###  Links 
 
@@ -86,15 +85,15 @@ Our website includes Social Media Features, such as the Facebook Like button [an
 
 TaxSlayer understands the importance of protecting customer information. TaxSlayer adheres to regulatory, security, and privacy standards applicable to the tax preparation industry. TaxSlayer’s web-based and desktop applications have a proven record of securing information by utilizing a variety of security related technologies including, but not limited to, firewalls, intrusion detection systems, web application firewalls, encryption, access controls, network isolation, auditing systems, data classifications, and data obfuscation. To protect the data as our client enters it in the system, TaxSlayer incorporates the use of SSL encryption facilitated by an Extended Validation SSL Certificate issued by a recognized trusted certificate authority. TaxSlayer utilizes security guards, access controls, biometrics, man traps, and other security mechanisms to protect physical access to the datacenter. 
 
-TaxSlayer’s information systems maintain PCI compliance which must be renewed annually. Additionally, our systems are routinely subject to automated vulnerability testing purposely exceeding the requirements of PCI compliance. This practice allows quicker identification and remediation of risks to the privacy of taxpayer data. Internal audits are performed continuously throughout the year to ensure compliance with regulatory standards and TaxSlayer’s Information Security Policy Manual. If you have any questions about the security of your personal information, you can contact us at [support@TaxSlayer.com](mailto:support@TaxSlayer.com). 
+TaxSlayer’s information systems maintain PCI compliance which must be renewed annually. Additionally, our systems are routinely subject to automated vulnerability testing purposely exceeding the requirements of PCI compliance. This practice allows quicker identification and remediation of risks to the privacy of taxpayer data. Internal audits are performed continuously throughout the year to ensure compliance with regulatory standards and TaxSlayer’s Information Security Policy Manual. If you have any questions about the security of your personal information, you can contact us at [support@taxslayer.com](mailto:support@taxslayer.com). 
 
 ###  Data Retention 
 
-We will retain your information for up to three tax years as long as your account is active, or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@TaxSlayer.com](mailto:support@TaxSlayer.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for up to three tax years as long as your account is active, or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@taxslayer.com](mailto:support@taxslayer.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ###  Access to Personal Information 
 
-Upon request, TaxSlayer.com will provide you with information about whether we hold any of your personal information. Personal Information is accessible online through October 20 of the year in which the return is filed. You may view, delete and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting 'Edit Account Information' or by emailing our Customer Support at [support@TaxSlayer.com](mailto:support@TaxSlayer.com) or by contacting us by telephone or postal mail at the contact information listed below. Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). We will respond to your request to access within a reasonable timeframe. 
+Upon request, TaxSlayer.com will provide you with information about whether we hold any of your personal information. Personal Information is accessible online through October 20 of the year in which the return is filed. You may view, delete and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting 'Edit Account Information' or by emailing our Customer Support at [support@taxslayer.com](mailto:support@taxslayer.com) or by contacting us by telephone or postal mail at the contact information listed below. Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). We will respond to your request to access within a reasonable timeframe. 
 
 ###  Our Former Customers 
 
@@ -102,7 +101,7 @@ Even if you are no longer a TaxSlayer customer, our Privacy Policy will continue
 
 ###  How to Contact Us 
 
-If you have questions or concerns regarding this policy, you should first contact customer support at [support@TaxSlayer.com](mailto:support@TaxSlayer.com). 
+If you have questions or concerns regarding this policy, you should first contact customer support at [support@taxslayer.com](mailto:support@taxslayer.com). 
 
 You can also write us at: 
 
@@ -115,3 +114,6 @@ Evans, GA 30809
 The Privacy Policy applies to products and services of TaxSlayer.com, online. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any substantive changes to our policy will be immediately posted and made available to consumers at our website. We may also email users with this information. If we make any material changes we will notify you by email or by means of a notice on the Website prior to the change becoming effective. Any examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
 Approved and Effective 1/3/18 
+
+  
+
