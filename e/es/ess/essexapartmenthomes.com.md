@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the essexapartmenthomes.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419071147id_/http%3A//www.essexapartmenthomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essexapartmenthomes.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224010737id_/https%3A//www.essexapartmenthomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Essex Apartment Homes
 
 **Privacy Policy**
 
- _(effective November 2017)_
+ _(effective November 2018)_
 
-Essex Property Trust, Inc. (“Essex,” “we,” “our,” or “us”) is a real estate investment trust (REIT) that acquires, develops, redevelops, and manages multifamily apartment communities in California and Washington.  This Privacy Policy describes our data practices regarding  information  that could be used to identify you or that is associated with information that identifies you (“Personal Information”). This Privacy Policy applies to Personal Information that we gather or collect via the Web Site, as well as to Personal Information collected offline by Essex.  It does not apply to any Personal Information collected by third party web sites not operated by Essex.  Except as set forth in this Privacy Policy, Essex will not share, sell, or rent individual Personal Information with anyone without your advance permission or unless ordered by a court of law.
+Essex Property Trust, Inc. (“Essex,” “we,” “our,” or “us”) is a real estate investment trust (REIT) that acquires, develops, redevelops, and manages multifamily apartment communities in California and Washington.  This Privacy Policy describes our data practices regarding information that could be used to identify you or that is associated with information that identifies you (“Personal Information”). This Privacy Policy applies to Personal Information that we gather or collect via the Web Site, as well as to Personal Information collected offline by Essex.  It does not apply to any Personal Information collected by third party web sites not operated by Essex.  Except as set forth in this Privacy Policy, Essex will not share, sell, or rent individual Personal Information with anyone without your advance permission or unless ordered by a court of law.
 
  **WHAT INFORMATION DOES ESSEX GATHER ABOUT ME?**
 
@@ -16,7 +16,7 @@ Essex Property Trust, Inc. (“Essex,” “we,” “our,” or “us”) is a 
 
 We collect certain Personal Information you voluntarily provide in order to deliver services.  For example, you may be asked to provide Personal Information such as name, email address, and phone number, when requesting a tour of an Essex apartment community.  If you do not provide this Personal Information, we may not be able to assist you in scheduling a tour of an Essex apartment community.  We may collect your email address so that we can send you information you have requested. We may use your email address to inform you about current events or to send you updates regarding information that was previously sent to you.
 
-Essex works with third party web site operators to provide services such as online rental applications, resident services, and investor relations information (“Portal Sites”).  When you input Personal Information to one of Essex’s Portal Sites, you are providing that information to a third party.  Essex’s Portal Sites may utilize framing techniques to make it appear that the user is still on the Web Site when the user is actually on a Portal Site.  For example, if you are on a page that has the look and feel of , but the URL listed in your browser is a different URL than , then know that any information you provide is being collected by this third party and not governed by this Privacy Policy. 
+Essex works with third party web site operators to provide services such as online rental applications, resident services, and investor relations information (“Portal Sites”).  When you input Personal Information to one of Essex’s Portal Sites, you are providing that information to a third party.  Essex’s Portal Sites may utilize framing techniques to make it appear that the user is still on the Web Site when the user is actually on a Portal Site.  For example, if you are on a page that has the look and feel of [www.essexapartmenthomes.com](http://www.essexapartmenthomes.com/), but the URL listed in your browser is a different URL than www.essexapartmenthomes.com, then know that any information you provide is being collected by this third party and not governed by this Privacy Policy. 
 
 When you leave the Web Site and are transferred to a Portal Site, you may be notified that you are no longer on the Essex Web Site.  You should carefully review the privacy policy and terms of use for any Portal Site before using and providing Personal Information through a Portal Site.  The operators of such Portal Sites may share the information you enter with Essex.  You should carefully review this Privacy Policy to see how Essex uses information you enter through the Web Site or through any Portal Sites.
 
@@ -26,7 +26,7 @@ In order to submit a rental application online for one of Essex’s apartment co
 
  _Rentcafé_
 
-Resident Portal is run and operated by Rentcafé.  Rentcafé provides certain resident services such as payment processing, maintenance support and requests, and other technical support.  Rentcafé operates bulletin boards and chat rooms, and offers promotions, contests, or sweepstakes.  Rentcafé collects certain Personal Information in order to provide you with these services, and may require the creation of an account to access these services.  You should review Rentcafé’s privacy policy prior to providing any information to Rentcafé.
+Resident Portal is run and operated by Rentcafé.  Rentcafé provides certain resident services such as payment processing, maintenance support and requests, and other technical support.  Rentcafé operates bulletin boards and chat rooms, and offers promotions, contests, or sweepstakes.  Rentcafé collects certain Personal Information in order to provide you with these services and may require the creation of an account to access these services.  You should review Rentcafé’s privacy policy prior to providing any information to Rentcafé.
 
  _iCIMS_
 
@@ -81,11 +81,11 @@ We may also use the information you provide to improve the Web Site or Essex’s
 
 If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose Personal Information to us so that we may provide online technical support and troubleshooting.
 
- **Sharing With Third Parties**
+ **Sharing with Third Parties**
 
-We may share your Personal Information with third parties who perform services on our behalf or on behalf of the owner of one of our properties and who may use this information for their own purposes, including sending advertising to you.  This includes, without limitation, third parties that send communications, process payments, analyze data, assist with utility billing or renters insurance, provide credit checks, resident screening, or collection services, manage package deliveries, provide marketing and advertising services, including marketing analytics, to Essex, or create, host and/or provide customer service on our behalf. These third parties may have access to certain Personal Information in order to provide these services to us or on our behalf.  We also may share Personal Information with our business partners in order to provide services and offerings to you, and certain aggregated demographic information that does not identify you personally with our business partners regarding the users of our websites.
+We may share your Personal Information with third parties who perform services on our behalf or on behalf of the owner of one of our properties and who may use this information for their own purposes, including sending advertising to you.  This includes, without limitation, third parties that send communications, process payments, analyze data, assist with utility billing or renter's insurance, provide credit checks, resident screening, or collection services, manage package deliveries, provide marketing and advertising services, including marketing analytics, to Essex, or create, host and/or provide customer service on our behalf. These third parties may have access to certain Personal Information in order to provide these services to us or on our behalf.  We also may share Personal Information with our business partners in order to provide services and offerings to you, and certain aggregated demographic information that does not identify you personally with our business partners regarding the users of our websites.
 
-For more information about a third party service provider, please contact us via email at .
+For more information about a third party service provider, please contact us via email at [privacy@essex.com](mailto:privacy@essex.com).
 
 Essex may also disclose Personal Information we collect from you to third parties in order to:
 
@@ -113,11 +113,11 @@ If you reject cookies, you may still use our Web Site, but your ability to use s
 
 Some of our business partners (e.g., advertisers) may use cookies on our Web Site. For example, on occasion an advertiser may run a banner campaign on our Web Site.  We have no access to or control over these cookies.  This privacy statement covers the use of cookies by this Web Site only and does not cover the use of cookies by any business partners or advertisers on our Web Site or other Essex web sites.  See the “Third Party Advertisers” and “Links to Other Sites” sections of this Privacy Policy below for more information.
 
-We use Google Analytics, Google AdWords, Google Tag Manager, Crazy Egg, New Relic, and Amazon Alexa on the Web Site to collect non-personally identifiable data, such as your IP address, your internets service provider, the web page you linked to our Web Site from, and other clicking and browsing behavior, to analyze how users use the Web Site, and to provide targeted advertisements to you on our Web Site.  You may opt out of some of these tracking services. For more information about how to opt out of having your information used by Google Analytics and Google AdWords, visit  and .  For information on how to opt out of having your information used by Crazy Egg, visit .  For information on how to opt out of Alexa, visit .
+We use Google Analytics, Google AdWords, Google Tag Manager, Crazy Egg, and New Relic on the Web Site to collect non-personally identifiable data, such as your IP address, your internets service provider, the web page you linked to our Web Site from, and other clicking and browsing behavior, to analyze how users use the Web Site, and to provide targeted advertisements to you on our Web Site.  You may opt out of some of these tracking services.
 
  **CLEAR GIFS (WEB BEACONS)**
 
-We may employ a software technology called clear gifs (a.k.a. Web Beacons)that help us better manage content on our Web Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers’ Personal Information. We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+We may employ a software technology called clear gifs (a.k.a. Web Beacons) that help us better manage content on our Web Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers’ Personal Information. We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
  **THIRD PARTY ADVERTISERS**
 
@@ -125,15 +125,15 @@ The ads appearing on this Web Site or other Essex web sites, if any, may be deli
 
  **HOW WE RESPOND TO “DO NOT TRACK” SIGNALS**
 
-Our systems do not respond to browser “Do Not Track” signals, but several of our business partners who utilize cookies, Web Beacons, or other tracking technologies on the Web Site may enable you to opt out of certain of their cookies, Web Beacons, and other tracking technologies and the tailoring of advertisements to your interests.  To learn more about cookies, Web Beacons, and other tracking technologies or to opt-out of advertising using these technologies, you can visit  or  We also provide you with additional tools to opt out of certain communications from us.  You can learn about this in the “Your Choices” section of this Privacy Policy.
+Our systems do not respond to browser “Do Not Track” signals, but several of our business partners who utilize cookies, Web Beacons, or other tracking technologies on the Web Site may enable you to opt out of certain of their cookies, Web Beacons, and other tracking technologies and the tailoring of advertisements to your interests. We also provide you with additional tools to opt out of certain communications from us.  You can learn about this in the “Your Choices” section of this Privacy Policy.
 
- **AMAZON UNIVERSAL LOCKER, PARCEL PENDING, LLC OR OTHER PARCEL LOCKER PROVDER**
+ **AMAZON UNIVERSAL LOCKER, PARCEL PENDING, LLC OR OTHER PARCEL LOCKER PROVIDER**
 
 Essex has partnered with Amazon and Parcel Pending to install Parcel Lockers in some of Essex’s apartment communities.  These universal lockers allow for deliveries and returns of packages from and to Amazon and other third parties in a dedicated storage unit.  Essex may share the names, addresses, and email addresses of residents in those apartment communities with Amazon Universal Lockers, Parcel Pending or other parcel locker vendors to facilitate the registration process for the universal locker.  You will be contacted to register for the universal locker when you first receive a package.  We encourage you to read Amazon’s Privacy Notice and Conditions of Use and Parcel Pending’s FAQs and Privacy Policy prior to registering.
 
  **FACEBOOK CONNECT OR OTHER OPENID PROVIDER**
 
-We may offer you the ability to log in to our Web Site using sign-in services such as Facebook Connect or another Open ID provider, which are third-party credentialing services. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web Site to your profile page to share with others within your network. Any posting outside of the Web Site is governed by the privacy policies of the posting service and we encourage you to read the privacy statements of each and every posting service that collects personally identifiable information.
+We may offer you the ability to log in to our Web Site using sign-in services such as Facebook Connect or another Open ID provider, which are third-party credentialing services. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign-up form. Services like Facebook Connect give you the option to post information about your activities on this Web Site to your profile page to share with others within your network. Any posting outside of the Web Site is governed by the privacy policies of the posting service and we encourage you to read the privacy statements of each and every posting service that collects personally identifiable information.
 
  **LINKS TO OTHER SITES**
 
@@ -145,7 +145,7 @@ When you use “Share This” to bookmark and share our products and Web Site, y
 
  **CHILD PROTECTION AND PRIVACY**
 
-Essex does not knowingly seek to collect or maintain  Personal Information or other information from children under the age of 13.  We will use commercially reasonable efforts to delete any Personal Information or other information later determined to be provided by a child under the age of 13.  Use of the Web Site by children under the age of 13 is not permitted.  If you become aware that a child has provided Personal Information through our Web Site, please email us .  
+Essex does not knowingly seek to collect or maintain Personal Information or other information from children under the age of 13.  We will use commercially reasonable efforts to delete any Personal Information or other information later determined to be provided by a child under the age of 13.  Use of the Web Site by children under the age of 13 is not permitted.  If you become aware that a child has provided Personal Information through our Web Site, please email us at [privacy@essex.com](mailto:privacy@essex.com).  
 
  **YOUR CHOICES**
 
@@ -163,7 +163,7 @@ If you choose to enter a sweepstakes, contest or other promotion, your personal 
 
  **NOTICE TO CALIFORNIA RESIDENTS/YOUR CALIFORNIA PRIVACY RIGHTS**
 
-To opt out of sharing your Personal Information with third parties for their direct marketing purposes, please email Essex at  and clearly state your request, including your name, mailing address, email address and phone number.  Please see the “Your Choices” section of this Privacy Policy for additional information.
+To opt out of sharing your Personal Information with third parties for their direct marketing purposes, please email Essex at [privacy@essex.com](mailto:privacy@essex.com) and clearly state your request, including your name, mailing address, email address and phone number.  Please see the “Your Choices” section of this Privacy Policy for additional information.
 
 In addition, California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please contact us using the information provided at the end of this policy.
 
@@ -185,4 +185,4 @@ The Web Site is operated in the United States of America (U.S.) and is only inte
 
  **CONTACT US**
 
-If you have any questions regarding our Privacy Policy, please contact us at .
+If you have any questions regarding our Privacy Policy, please contact us at [privacy@essex.com](mailto:privacy@essex.com).
