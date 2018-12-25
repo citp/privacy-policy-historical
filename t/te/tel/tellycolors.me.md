@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellycolors.me privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618060253id_/http%3A//www.tellycolors.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellycolors.me privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225170352id_/http%3A//www.tellycolors.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telly Colors
 
