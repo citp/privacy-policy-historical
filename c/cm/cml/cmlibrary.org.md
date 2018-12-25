@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111130326id_/https%3A//cmlibrary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225035935id_/https%3A//cmlibrary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Charlotte Mecklenburg Library
 
