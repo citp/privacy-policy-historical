@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfreeman.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624222907id_/http%3A//www.dailyfreeman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreeman.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226000304id_/http%3A//www.digitalfirstmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital First Media
 
