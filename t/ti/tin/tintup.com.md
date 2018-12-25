@@ -1,102 +1,88 @@
-> *The following text is extracted and transformed from the tintup.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223030210id_/http%3A//www.tintup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tintup.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226003122id_/https%3A//www.tintup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TINT: Social Media Aggregator | Content Curation Platform
+# Privacy Policy | TINT
 
-**Privacy Policy**
+### Introduction
 
-This Statement of Privacy applies to the TINT website ([http://tintup.com](http://tintup.com/)) and Hypemarks, Inc. (doing business as TINT) to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of http://www.tintup.com (this "Site"). The TINT website is a social media aggregation platform. By using TINT and/or other services, you consent to the data practices described below.
+Thank you for using TINT. This privacy notice explains how TINT collects, uses, processes, discloses, retains, and protects personal information i) when TINT provides Services to you; and ii) when TINT processes personal information at your instruction that may be included as part of the Content which you view, upload, download or otherwise appears on the Services.
 
-This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service (
+TINT is committed to safeguarding the privacy of individuals who:
 
- _<http://www.tintup.com/termsofservice>_ ). 
+  * visit TINT's website including tintup.com and all subdomains (the "Website");
+  * use any TINT mobile applications (the "Applications");
+  * use any TINT Services (the "Platform");
 
-As used in this Privacy Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
- 
 
-**_1\. Information Collection and Use_** ****
+### The Services
 
-Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your membership (collectively, the "Service") and to enable users to enjoy and easily navigate the Site.
+TINT offers a suite of content display tools. The Services enable you to bring together content from many sources for easy access and management through a single online portal. TINT helps manage social content campaigns, marketing and advertising; engaging audiences; and analyzing results. When you link content sources such as social media accounts to your TINT account, you can choose to instantly collect, process, share and access Social Network content via your TINT account. The Services also enable an ecosystem where you can choose to connect your TINT Account to a series of third-party services (a " **Third-Party App** ").
 
-**_2\. Personally Identifiable Information_** ****
+### Personal Information TINT Collects
 
-When you register with us through the Site and become a TINT member, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you, such as your name and email address ("Personal Information"). We use your Personal Information mainly to provide the Service and administer your inquiries. 
+TINT may collect personal information about you such as your IP address, full name, user name, password, email address, city, time zone, telephone number, and other information that you decide to provide to TINT.
 
-We also collect the other information that you provide as part of registration and the administration and personalization of this service (e.g., without limitation, zip code (on its own) and individual preferences or demographic information) ("Non-Identifying Information").
+**Account Information.** You may register on TINT's website using account details and credentials provided to TINT or through other third party websites, such as Facebook, Google or LinkedIn. Certain services or user functions available on TINT's Website are provided in partnership with a third party and may require you to disclose personally identifiable information. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services, your personally identifiable information will be transferred to such third party(s) and will subject to the privacy policy and practices of such third party(s).
 
- 
+**Billing Information.** If you have purchased a paid version of the Services, TINT (and third party payment processors) will collect information about the purchase or transaction. This includes billing details and credit card information, other account and authentication information.
 
-We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, and administer your inquiries.
+**Cookies.** TINT uses cookies and similar technologies to provide, support and improve the services. Tracking technologies such as: cookies, beacons, tags and scripts are used by TINT and its partners, affiliates or analytics or service providers. TINT uses these technologies to better understand how you use the Website and the other Services, with a view to offering improvements for all TINT users; and to tailor business and marketing activities accordingly, both generally and specifically to you. TINT uses session cookies to remember your settings as well as for authentication. You can control the use of cookies by adjusting settings on your preferred browser.
 
- 
+**Log File Information**. Log file information is automatically reported by your browser or mobile application each time you access the Platform. TINT's servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your operating system, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed and other such information.
 
-Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your demographic information). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other TINT Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+**Content.** The content which you upload, download, or view on the Services (defined as " **Content** ") may, but not necessarily, contain personal information. When referring to "Content" in this notice, Content means the personal information integrated into the Services that TINT processes. TINT only process Content at your direction. In legal terms, TINT acts as a data processor for the personal information included in the Content.
 
- 
+### How TINT Uses Your Information
 
-We also use your Personal Information to contact you with TINT newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "notifications" information. (See "Changing or Deleting Information," below.) Please note that we may also use your Personal Information to contact you with information related to your use of the Service; you may not opt out of these notifications.
+TINT uses, stores, and process information as a data controller to provide, understand, improve and develop the Services, keep the Services safe and to comply with any legal obligations. The information provided is used to identify you when you access the Services, allow you to communicate with TINT, verify transactions for purchase/billing and security and keep you informed of features, news, surveys, offers and updates to the Services. TINT's legal basis for collecting and using data, including personal information, as a data controller depends on the specific collection method. TINT collects data with your consent, where needed to perform a contract with you, or where the processing has a legitimate interest (not overridden by your data protection interests or fundamental rights and freedoms). Where TINT relys on your consent to process personal information, you have the right to withdraw or decline your consent at any time. Please note that this does not affect the lawfulness of the processing based on consent before its withdrawal.
 
- 
+Except as provided in this privacy notice, TINT does not share any personal information gathered via the Services with third parties. TINT may however share data under the following circumstances:
 
-**_3\. Log Data_** ****
+  * with your consent or at your direction, such as when you connect a Social Network to the Services or authorize a Third-Party App to access your account
+  * with service providers (including payment processors) TINT engages to perform functions or provide services to us, where those service providers are subject to obligations that are consistent with this privacy notice and to appropriate confidentiality and security measures
+  * where TINT believes that it is reasonably necessary to comply with a law, regulation or if TINT is otherwise legally required to do so, such as in response to court orders or legal process, or to establish, protect, or exercise legal rights or to defend against legal claims or demands
+  * if TINT believes it is necessary in order to investigate, prevent, or take action against illegal activities, fraud, situations involving potential threats to rights or property (or to the rights or property of those who use the Services), or to protect the personal safety of any person
+  * if TINT believes it is necessary to investigate, prevent, or take action regarding situations that involve the security of the Services, abuse of the Services infrastructure, or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of the Services)
+  * to a parent company, subsidiaries, joint venture, or other companies under common control with TINT
+  * if TINT is acquired by or merged with another entity (in which case TINT will require such entity to assume the obligations under this privacy notice), if TINT is involved in a bankruptcy, or if the ownership or control of all or part of the Services changes
 
-When you visit the Site, whether as a TINT member or a non-registered user just browsing (any of these, a "TINT User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site's technical administration, to increase our site's functionality and user-friendliness, and to better tailor it to our visitors’ needs. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
-**_4\. Cookies_** ****
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by TINT Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
+### How TINT Protects Your Information
 
-**_5\. Web Beacons_** ** _ _** ****
+TINT follows industry best practices to protect personal information from loss, misuse, and unauthorized access or disclosure. TINT is concerned with protecting your privacy and data, but cannot ensure or warrant the security of any information or guarantee that your information on the Services may not be accessed, disclosed, altered or destroyed by breach of any safeguards. When you enter sensitive information (such as login credentials) on a registration or order form, that information is encrypted using secure socket layer technology (SSL). However, no method of transmission over the Internet or method of electronic storage, is 100% secure.
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+### International Transfers
 
-You can import contacts from your Facebook or email account address book to invite friends to use the Service. We collect, but do not store, the username and password for the Facebook or email account you wish to import your contacts from and will only use it for that purpose only.
+The Services are mainly provided from TINT's offices in the United States of America. TINT uses third-party service providers (such as managed hosting providers, card processors, CRM systems, sub-processors of Content and technology partners) to provide the necessary software, networking, infrastructure and other services that TINT uses to operate the Services. These third party providers may process, or store, personal information on servers outside of the EEA.
 
-**_6\. Aggregate Information and Non-Identifying Information_** ****
+Whenever TINT transfers personal information from data subjects located in the EEA to a third-party service provider located in a country that has been deemed inadequate, TINT does so with approved legal adequacy mechanisms in place. For any transfers of personal information to the US, TINT relies on either the third-party's registration in the EU-US Privacy Shield or on the implementation of the EU's Standard Contractual Clauses. By using any of the Services or submitting or collecting any personal information via the Services, you authorize TINT and its authorized service partners to use and process data (including any personal information) in these countries.
 
-We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+### Accessing and Controlling Your Personal Data
 
-**_7\. Service Providers_** ****
+You can review, correct, update or delete inaccuracies to the information about you that TINT keeps by logging into your account to update your password and billing information. Corrections to any other information or to exercise the rights listed below will be promptly handled by contacting [privacy@tintup.com](mailto:privacy@tintup.com). TINT retains your information for as long as your account is active or as needed to provide you services. TINT will retain and use your information as necessary to comply with legal obligations, resolve disputes and enforce agreements.
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Service are used. These third parties may have access to your Personal Information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to TINT. You can disable these specific cookies that track prior visits for the sake of follow-up advertising by opting out at [http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/).
+Depending on where you reside, you may have the right to exercise additional rights available to you under applicable laws with regards to the personal information:
 
-**_8\. Compliance with Laws and Law Enforcement_** ****
+  * **Right of erasure:** In certain circumstances, you may have a right to erasure of personal information that TINT stores about you.
+  * **Right to object to processing:** You may have the right to request that TINT stops processing your personal information and/or to stop sending you marketing communications.
+  * **Right to restrict processing:** You may have the right to request that TINT restrict processing of your personal information in certain circumstances such as when that information is incorrect or unlawfully held.
+  * **Right to data portability:** In certain circumstances, you may have the right to be provided with your personal information in a machine readable and commonly used format and to request that TINT transfer the personal information to another data controller.
 
-TINT cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of TINT or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
 
-**_9\. International Transfer_** ****
 
-YOUR INFORMATION MAY BE TRANSFERRED TO - AND MAINTAINED ON - COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION. IF YOU ARE LOCATED OUTSIDE THE UNITED STATES AND CHOOSE TO PROVIDE INFORMATION TO US, TINT TRANSFERS PERSONAL INFORMATION TO THE UNITED STATES AND PROCESSES IT THERE. YOUR CONSENT TO THIS PRIVACY POLICY FOLLOWED BY YOUR SUBMISSION OF SUCH INFORMATION REPRESENTS YOUR AGREEMENT TO THAT TRANSFER.
+When TINT receives or accesses data from the various Social Networks, TINT does so at your request and within each Social Network's terms and conditions. As a TINT user, you ultimately decide which Social Networks or Third-Party Apps you want the Services to connect with and which Social Networks and/or Third-Party Apps you want to share your data with. TINT processes your Content, at your instruction, acting as a conduit between you and the Social Networks that you connect to the Services.
 
-**_10\. Business Transfers_** ****
+### Children's Privacy
 
-TINT may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+The Services are not intended for use by children and should only be accessed by individuals of at least 18 years old. In the event that TINT learns about the collection of personal information from a child under age 13, TINT will delete that information as quickly as possible. If you believe that TINT might have any information from or about a child under 13, please contact privacy@tintup.com.
 
-**_11\. Changing or Deleting Your Information_** ****
+### Changes to this Privacy Policy
 
-All TINT members may review, update, correct or delete the Personal Information in their registration profile by contacting us at  _[admin@tintup.com](mailto:admin@tintup.com)_  or editing the relevant part of their profile. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+TINT reserves the right to make changes to this privacy notice at any time. All changes to this Privacy Policy are effective May 25, 2018. When TINT changes the policy in a material manner, you will be notified via email and/or a prominent notice on the Website.
 
-**_12\. Security_** ****
+### Contact
 
-TINT is very concerned with safeguarding your information. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at _[admin@tintup.com](mailto:admin@tintup.com)_. 
+If you have any questions about this privacy policy or your dealings with the TINT website, you can contact us at:
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-
-**_13\. Links to Other Sites_** ****
-
-Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-**_14\. Testimonials_** ****
-
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at  _[admin@tintup.com](mailto:admin@tintup.com)_.
-
-**_15\. Our Policy Toward Children _******
-
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at  _[admin@tintup.com](mailto:admin@tintup.com)_. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
-
-**_16\. Contacting Us_** ****
-
-If you have any questions about this Privacy Policy, please contact us at  _[admin@tintup.com](mailto:admin@tintup.com)_.
-
-  
-_This Agreement was last modified on October 29, 2012._
+Email: [privacy@tintup.com](mailto:privacy@tintup.com) Or via mail: TINT – 122 East Houston St, San Antonio TX 78205.
