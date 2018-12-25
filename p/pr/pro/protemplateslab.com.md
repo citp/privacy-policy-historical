@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the protemplateslab.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627001703id_/http%3A//www.protemplateslab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protemplateslab.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225171517id_/https%3A//www.protemplateslab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Privacy Policy for: http:www.protemplateslab.com
+The Privacy Policy for: https:www.protemplateslab.com
 
 Dear visitors your privacy policy is very important for us, and the privacy policy is updated when will necessary. This privacy policy is all about this website, and the information such as your IP address, internal pages, suffering sites, browser info and also the number of clicks are collected. This is only for providing better services to you.
 
@@ -27,7 +27,7 @@ http://www.google.com/privacy/ads/
 
 #### Collection of Personal Information
 
-We receive and store any information you knowingly provide to us when you fill any online forms on the Website. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website’s features. Users who are uncertain about what information is mandatory are welcome to [contact us](http://www.protemplateslab.com/contact-us/).
+We receive and store any information you knowingly provide to us when you fill any online forms on the Website. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website’s features. Users who are uncertain about what information is mandatory are welcome to [contact us](https://www.protemplateslab.com/contact-us/).
 
 #### Collection of Non-Personal Information
 
@@ -57,11 +57,11 @@ Any requests to exercise User rights can be directed to the Owner through the co
 
 #### Privacy of Children
 
-We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Website or Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Website or Service, please [contact us](http://www.protemplateslab.com/contact-us/).
+We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Website or Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Website or Service, please [contact us](https://www.protemplateslab.com/contact-us/).
 
 #### Newsletters
 
-We offer electronic newsletters to which you may voluntarily subscribe at any time. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by [contacting us](http://www.protemplateslab.com/contact-us/).
+We offer electronic newsletters to which you may voluntarily subscribe at any time. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by [contacting us](https://www.protemplateslab.com/contact-us/).
 
 #### Links to Other Websites
 
@@ -85,6 +85,6 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 #### Contacting Us
 
-If you have any questions about this Policy, please [contact us](http://www.protemplateslab.com/contact-us/).
+If you have any questions about this Policy, please [contact us](https://www.protemplateslab.com/contact-us/).
 
 Updated on May 20, 2018
