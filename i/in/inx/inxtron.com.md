@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inxtron.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622182631id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxtron.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225045614id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | inXtron, Inc.
 
@@ -6,15 +6,15 @@ inXtron is committed to protect our customer's privacy. This statement is meant 
 
 #### Information Collected
 
-As a standard practice, inXtron assigns a random number to each user for anonymously tracking content preferences and traffic patterns. This random number lets us keep track of "how many" times folks are doing specific things - like visiting our site each month - without really knowing who those folks are (unless they specifically tell us). We analyze this data for trends and statistics, such as which parts of our site users are visiting and how long they spend there. We also gather information about what folks are searching for. We use all this information in order to improve our content, plan site enhancements, and measure overall site effectiveness, and therefore to make the site better and more hopefully fitting to your needs.
+When you contact us, you may be asked for personal information such as name and email address as well as product name, firmware version and other information related to your computer and your network environment to help us determine what the technical issues are and how best to help you resolve them. The personal data collected is used solely by inXtron for the purpose of communicating personally with you.
 
-#### Transaction Information
+#### Can I view and delete this information?
 
-When you order products from inXtron, we may ask you to complete an order form that requests certain information from you, including financial information such as a credit card number and expiration date and general contact details. We use this information to complete the transaction that you have requested, i.e. to deliver information, products or other services that you order and to invoice you. (We do not store your credit card information.)
+None of your personal data is stored on our website.
 
 #### Cookies
 
-This random number is kept in a file on your computer called a "cookie". Cookies, by themselves, cannot be used to determine the identity of any user: unless you specifically tell us. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.)
+This website does not use cookies.
 
 #### And Finally
 
