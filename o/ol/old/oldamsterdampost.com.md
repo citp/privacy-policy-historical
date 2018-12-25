@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the oldamsterdampost.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624180044id_/http%3A//oldamsterdampost.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldamsterdampost.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225184422id_/http%3A//oldamsterdampost.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Old Amsterdam Post
 
-|  | **SITE STATS**  
+| **SITE STATS**  
 ---  
   
   
- **::** **Total Members: 249**
+ **::** **Total Members: 178**
 
-**::** ****Active Members: 220****
+**::** ****Active Members: 171****
 
  **
 
-**::** **Total Payout: 7,331.29**
+**::** **Total Payout: 7,134.72**
 
 **::** **Mails In Queue: 0**
 
-**::** **Rotating Banners: 588**
+**::** **Rotating Banners: 169**
 
-**::** **Paid To Click Links: 696**
+**::** **Paid To Click Links: 514**
 
 **: :** **Server Time / Program Owner's Local Time:  
 **  
