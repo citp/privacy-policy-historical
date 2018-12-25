@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625092017id_/http%3A//www.grantthornton.co.nz/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225163013id_/http%3A//www.grantthornton.co.nz/privacy-policy1) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -49,7 +49,7 @@ You may at any time request us to stop using your personal data for direct marke
 
 ## Links
 
-Our website contains links to Grant Thornton member and correspondent firm websites, but this privacy policy applies only to personal data collected via websites operated by GTIL which include [www.gti.org](http://www.gti.org/) , [www.internationalbusinessreport.com](http://www.internationalbusinessreport.com/) and [www.globaldynamismindex.com ](https://www.globaldynamismindex.com/gdi.html) and to how GTIL processes personal data. It does not apply to specific member or correspondent firms practising under the Grant Thornton name. We are not responsible for the privacy practices of these or other sites. We encourage our visitors to be aware when they leave our website, and to read the privacy policy of other sites that collect or use personal data.
+Our website contains links to Grant Thornton member and correspondent firm websites, but this privacy policy applies only to personal data collected via websites operated by GTIL which include [www.gti.org](http://www.gti.org/ "External link") , [www.internationalbusinessreport.com](http://www.internationalbusinessreport.com/ "External link") and [www.globaldynamismindex.com ](https://www.globaldynamismindex.com/gdi.html "External link - open a new window") and to how GTIL processes personal data. It does not apply to specific member or correspondent firms practising under the Grant Thornton name. We are not responsible for the privacy practices of these or other sites. We encourage our visitors to be aware when they leave our website, and to read the privacy policy of other sites that collect or use personal data.
 
 ## Security
 
