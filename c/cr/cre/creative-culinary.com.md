@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810013438id_/https%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225085739id_/https%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Creative Culinary | A Denver, Colorado Food and Cocktail Blog
+# Privacy Policy | Creative Culinary
 
 This privacy policy sets out how Creative Culinary uses and protects any information that you give while using www.creative-culinary.com.
 
