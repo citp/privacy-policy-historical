@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512171056id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225143937id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
+
+Thank you for visiting Babies R Us. If you need assistance with shopping on our site, please call us at 888-222-9787 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.
 
 **The "R" Us Family Privacy Policy**
 
