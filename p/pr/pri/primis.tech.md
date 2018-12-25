@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the primis.tech privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113036id_/https%3A//www.primis.tech/wp-content/uploads/2018/02/primisPrivacyPolicy2018.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primis.tech privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225193601id_/https%3A//www.primis.tech/wp-content/uploads/2018/02/primisPrivacyPolicy2018.pdf) for the most accurate reproduction.*
 
 # Primis Privacy Notice
 
                                                       Primis
                                                   Privacy Notice
-                                           Recently Updated: May 2018
+                                        Recently Updated: December 2018
 Primis Ltd. (“Primis” or “us”), is committed to your right to privacy.
 This Privacy Notice (“Privacy Notice”), is an integral part of our Terms of Use, which can be found
 at: https://www.primis.tech/publishing-agreement-general-tc/ , and governs the processing and transfer of
@@ -51,39 +51,40 @@ Services, such as model, operating system, etc.
 We also use third-party advertising companies to serve ads when you visit our Web site. These companies may
 use aggregated information (not including your name, address, email address or telephone number) about your
 visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
-If you would like more information about this practice and to know your choices about not having this information
-used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp.
+If you would like more information about this practice and to know your choices about not having this
+information used by these companies, you can use the Network Advertising Initiative (NAI) tool Here. In order
+to opt-out form Primis click Here
       Personal Data
       1.1. When you register on the Website, you will be requested to provide certain Personal Data, such as full
-            name, e-mail address, the name of your employer, your title, phone number, country of residence and
-            your website’s URL.
+           name, e-mail address, the name of your employer, your title, phone number, country of residence and
+           your website’s URL.
       1.2. When you use the Services, whether as a publisher, an advertiser or any other user, Primis may collect
-            additional information, such as session duration, page impressions, advertisements viewed or clicked
-            on, Internet protocol (IP) address, the domain name that served you to access the Service, and the
-            geographic location of the computer system that you are using to log-in to, or access the Services. Primis
-            also collects additional data regarding your use of the Services, such as the frequency and the extent of
-            your use.
+           additional information, such as session duration, page impressions, advertisements viewed or clicked
+           on, Internet protocol (IP) address, the domain name that served you to access the Service, and the
+           geographic location of the computer system that you are using to log-in to, or access the Services. Primis
+           also collects additional data regarding your use of the Services, such as the frequency and the extent of
+           your use.
       1.3. If you contact us on various customer support issues of other matters, we may also collect data associated
-            with these communications.
+           with these communications.
       1.4. We do not knowingly collect or process any Personal Data included in Special Categories of Personal
-            Data (as defined in the GDPR). In the event you become aware that such data has been posted to the
-            Website or collected by us, please inform us immediately.
+           Data (as defined in the GDPR). In the event you become aware that such data has been posted to the
+           Website or collected by us, please inform us immediately.
       1.5. We may also access Personal Data about you which was made publicly available by you, for example
-            on social networks, public websites, etc.
+           on social networks, public websites, etc.
       “Advertisements Monitoring”
       1.6. As part of the operation of the Service, Primis will monitor and collect data about the access and use of
-            advertisements that publishers embed on their websites through the use of the Service, and will further
-            monitor the redirection of users from such advertisements to the advertisers’ websites and web pages
-            (collectively: “Advertisements Monitoring”). You hereby grant your explicit, irrevocable and
-            unconditional consent to the Advertisements Monitoring. Furthermore, you warrant and represent that
-            you will apply to your website any and all privacy practices with respect to the Advertisements
-            Monitoring, as required under the applicable law, including by providing a proper notification to users
-            of your website, and/or obtaining users' documented consent to such collection and processing of data.
-     1.7. You undertake that you will process Personal Data regarding users or other data subjects only as lawful
-           and compliant with applicable law, including, if applicable, the GDPR, and that you are solely
-                                                           2
+           advertisements that publishers embed on their websites through the use of the Service, and will further
+           monitor the redirection of users from such advertisements to the advertisers’ websites and web pages
+           (collectively: “Advertisements Monitoring”). You hereby grant your explicit, irrevocable and
+           unconditional consent to the Advertisements Monitoring. Furthermore, you warrant and represent that
+           you will apply to your website any and all privacy practices with respect to the Advertisements
+           Monitoring, as required under the applicable law, including by providing a proper notification to users
+           of your website, and/or obtaining users' documented consent to such collection and processing of data.
+                                                          2
 
 
+    1.7. You undertake that you will process Personal Data regarding users or other data subjects only as lawful
+          and compliant with applicable law, including, if applicable, the GDPR, and that you are solely
           responsible to implement measures ensuring and demonstrating that such processing is made in
           compliance therewith.
     1.8. You undertake to defend, indemnify, and hold harmless Primis, and its officers, directors, employees,
@@ -120,12 +121,12 @@ browser or associated applications (“Cookies”). We use these technologies in
 customer; customize our Services, content, and advertising; measure promotional effectiveness; help ensure that
 your account security is not compromised; mitigate risk and prevent fraud; and to promote trust and safety across
 our sites and Primis Services.
-Our main advertising cookies are prefixed with ‘v’ (e.g. v12345) and are stored in browsers under the domain
-primis.tech or Sekindo.com We also use ‘c’, ‘l’, ‘t’, ‘spc’, ‘spshc’, ‘fr’, ‘ps’, ‘n’, ‘e’, ‘sid’, ‘udi’, ‘dp4’ and ‘fro’
-prefixed cookies (e.g. spc12345), and/or CSUUID
                                                              3
 
 
+Our main advertising cookies are prefixed with ‘v’ (e.g. v12345) and are stored in browsers under the domain
+primis.tech or Sekindo.com We also use ‘c’, ‘l’, ‘t’, ‘spc’, ‘spshc’, ‘fr’, ‘ps’, ‘n’, ‘e’, ‘sid’, ‘udi’, ‘dp4’ and ‘fro’
+prefixed cookies (e.g. spc12345), and/or CSUUID
 We use both session and persistent Cookies. Session Cookies expire and no longer have any effect when you log
 out of your account or close your browser. Persistent Cookies remain on your device until you erase them or they
 expire.
@@ -160,12 +161,12 @@ FOR THEIR MARKETING PURPOSES.
           limitation with third parties at our discretion. This information does not contain Personal Data and is
           used to develop content and services for our Users and clients.
      5.2. We share Personal Data only under the following limited circumstances:
-         5.2.1. With trusted partners and third parties who assist us in operating the Services and conducting our
-                business, such as fraud prevention, bill collection, account maintenance, marketing and technology
-                services.
                                                            4
 
 
+       5.2.1. With trusted partners and third parties who assist us in operating the Services and conducting our
+              business, such as fraud prevention, bill collection, account maintenance, marketing and technology
+              services.
        5.2.2. For personalizing your experience of the Services, including by way of targeted advertising on the
               Website.
        5.2.3. As necessary to help detect and prevent potentially illegal acts and fraud, and to guide decisions
@@ -200,13 +201,13 @@ FOR THEIR MARKETING PURPOSES.
    Primis may send you offers that may be of special interest to you via email or SMS. You may unsubscribe
    from receiving such communications at any time, by sending us a notification to: privacy@primis.tech, or
    following the instructions for unsubscribing included in such communications.
-   We may also engage with third parties to track and report performance of advertising and marketing
-   campaigns to and from Primis and third party web sites. We may combine your information with information
-   we collect from third parties and use it to improve and personalize our Services, content, and advertising.
-9. Persons under 16
                                                              5
 
 
+    We may also engage with third parties to track and report performance of advertising and marketing
+    campaigns to and from Primis and third party web sites. We may combine your information with information
+    we collect from third parties and use it to improve and personalize our Services, content, and advertising.
+9. Persons under 16
      Our Website is a general audience Website, which is not directed to persons under 16 years old. If a parent
      or guardian becomes aware that his/her child has provided us with Personal Data without their consent, he/she
      should contact us immediately. We do not knowingly collect or solicit Personal Data from people under 16
