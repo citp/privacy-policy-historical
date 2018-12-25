@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214946id_/https%3A//www.sareez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225110124id_/https%3A//www.sareez.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Privacy Policy - Sareez.com - Designer Ethnic Wear Store
 
 Sareez protects the right to privacy of each of its visitors and customers. The accounts are treated with utmost confidentiality as we look forward to a long lasting relationship with you. We urge you to kindly read through the following policies and guidelines in order to understand your rights better:
 
