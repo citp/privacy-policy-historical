@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplesite.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616175503id_/http%3A//www.simplesite.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplesite.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225230525id_/http%3A//www.simplesite.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | SimpleSite
 
@@ -108,6 +108,7 @@ Adyen  | Payment platform  | Adyen  | <https://www.adyen.com/policies-and-discla
 Dibs  | Payment platform  | DIBS Payment Services AB  | <https://cdn.dibspayment.com/contracts/psp/psp_general_terms_en.pdf>  
 Docdata  | Payment provider  | Docdata  | [https://www.docdatapayments.com/uploads/General_cond...](https://www.docdatapayments.com/uploads/General_conditions_docdata_payments_B.V_..pdf)  
 PayPal  | Payment platform  | PayPal  | <https://www.paypal.com/us/webapps/mpp/ua/privacy-full>  
+Facebook Attribution  | Marketing performance  | Facebook  | <https://www.facebook.com/privacy/explanation>  
 Facebook login  | Login integration  | Facebook  | <https://www.facebook.com/privacy/explanation>  
 Google+ Login  | Login integration  | Google  | <https://policies.google.com/privacy?hl=en>  
   
