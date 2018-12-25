@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsystools.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625023251id_/https%3A//www.microsystools.com/home/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsystools.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225031634id_/https%3A//www.microsystools.com/home/legal.php) for the most accurate reproduction.*
 
 # Microsys - Legal Information
 
@@ -63,6 +63,12 @@ Example on why: We need to handle and keep billing information, but we also need
   * If you contact us from multiple email addresses requesting support or similar - we will keep and associate those email addresses to your primary email address.   
 Example on why: We can see if we have helped a user in the past with a problem. 
 
+
+
+Further examples on how data like the above can be applicable in helping customers: 
+
+  * Your company has lost track of which licenses you own, and who bought them and when. This is e.g. necessary to know if you wish to transfer existing licenses within your company, wish to upgrade licenses or want to make sure anti piracy and accounting laws are obeyed. 
+
   
 
 
@@ -123,6 +129,10 @@ Our Windows and Mac software sales are - unless agreed or shown otherwise - run 
 ### MailChimp - Newsletter 
 
 People can sign up for our newsletter currently being run using the MailChimp service and storage. There you are asked to provide name and email address. We may move our newsletter contact list to other services in the future. 
+
+### Microsoft Outlook Mail (aka. Hotmail) - Secondary Email Solution 
+
+Sometimes people can not receive important emails from us (e.g. purchased software licenses) because their email service blocks it. If that happens we will attempt to fulfil the customer order by sending the license using a secondary email solution. 
 
 ### CloudFlare - content delivery network 
 
