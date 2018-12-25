@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4easysoft.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622223047id_/http%3A//www.4easysoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4easysoft.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225174722id_/http%3A//www.4easysoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 4Easysoft Customer Privacy Policy
 
