@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qoolquiz.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625120942id_/https%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qoolquiz.com privacy policy that was archived on 2018-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225205011id_/http%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta property="fb:pages" content="838598749527122">
@@ -42,7 +42,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/touch-icon-iphone-180.png">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="keywords" content="Luck,心理測驗,遊戲,App,APP,全台最大,超準,占卜,塔羅,命理,解夢,運勢,開運,財運,預測,抽籤,愛情,桃花,八字,姓名生日,生日分析,人格,個性,性格,脾氣,視覺圖,天才,菁英,智力,邏輯,雙重,分裂,有趣,Facebook測驗">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://life.cx/sdk/ProberSDK.min.js?1580436524100"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script>
 window.fbAppId="155311384874983";
 window.lineClientId="1491111010";
 window.appLabels=[{"id":0,"name":"\u6700\u65b0\u6e2c\u9a57"},{"id":1,"name":"\u4eba\u683c\u8a3a\u65b7","color":"#448ACA"},{"id":2,"name":"\u611b\u60c5\u8a3a\u7642","color":"#FB527D"},{"id":3,"name":"KUSO","color":"#13B5B1"},{"id":4,"name":"\u8003\u8003\u667a\u5546","color":"#181818"},{"id":5,"name":"\u904b\u52e2\u547d\u7406","color":"#996C33"}];
@@ -58,7 +58,7 @@ window.lang=[];
 <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <title>QoolQuiz 心理測驗</title>
-</head>
+<script src="//life.cx/notificationRegister.js" async=""></script></head>
 <body>
 <header>
 <style>
@@ -214,15 +214,18 @@ _atrk_opts = { atrk_acct:"60uvj1aAkN00W8", domain:"qoolquiz.com",dynamic: true};
 <!-- End Alexa Certify Javascript -->
 <script>
 window.prober_webId = 'qoolquiz';
-(function(d,s,u)
+(function()
 {
-var f=d.getElementsByTagName(s)[0];
-var j=d.createElement(s);
-j.async=true;
-j.src=u;
-f.parentNode.insertBefore(j,f);
-}
-)(document,'script',"https://life.cx/sdk/ProberSDK.min.js?"+new Date().getTime());
+var script = document.createElement('script');
+script.src = '//life.cx/notificationRegister.js';
+script.async = true;
+script.onload = function()
+{
+var userId = 0;
+var notification = new window.aamsNotification(window.prober_webId, userId);
+};
+document.getElementsByTagName('head')[0].appendChild(script);
+})();
 </script></footer>
 <div id="demoLikeBox" style="display: none;">
 <div id="likeBoxOutside">
