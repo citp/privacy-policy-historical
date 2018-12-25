@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625140237id_/https%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225223656id_/https%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ By browsing and/or using our website, or any services offered through it, you’
 
   1. ### Contacting us
 
-    1. For the purpose of the Data Protection Act 1998, Flatshare Limited ( **"We"** , **"Us"** **"Our"** ) will be the data controller in respect of any personal data you submit to us or which we collect from you when you use our website. We are a private limited company with company registration number 04407847 – our registered office is at 5th Floor, Dale House, 35 Dale Street, Manchester, M1 2HF, UK. For more information see ['about us'](https://web.archive.org/content/about-us/about-spareroom/).
+    1. For the purpose of the General Data Protection Regulation, Flatshare Limited ( **"We"** , **"Us"** **"Our"** ) will be the data controller in respect of any personal data you submit to us or which we collect from you when you use our website. We are a private limited company with company registration number 04407847 – our registered office is at 5th Floor, Dale House, 35 Dale Street, Manchester, M1 2HF, UK. For more information see ['about us'](https://web.archive.org/content/about-us/about-spareroom/).
     2. If you’d like to know what information we hold about you, or you have any other queries or complaints in relation to this privacy policy, our contact details are as follow  Flatshare Ltd  
 5th Floor  
 Dale House  
@@ -26,7 +26,7 @@ Phone: [0161 768 1162](tel:+441617681162)
   2. ### The information we collect from you and the lawful basis for processing it
 
     1. We collect the information you provide to us when you register on the site, including your name, gender, email address and search preferences. We use this information to create a user account for you on our site and to provide our services to you, including publishing your adverts on the site and facilitating introductions with other members of our site. However, we will not share your email address with other users of the site unless you have specifically chosen to disclose it. Where you have not opted out of receiving them, we will also use this information to send you email notifications of other users’ adverts matching your search preferences and/or newsletters about our own services we think may be of interest to you from time to time. We will not sell or rent any of this information to any third parties nor send you any third party marketing communications unless you have specifically opted in to receiving them. Our lawful basis for processing this information is that the processing is necessary for performance of a contract.
-    2. Any information you include in any advert you place on our site will be collected by us and stored on our servers for the purposes of making the website, and the content contained within it, available to our users, and to enable our users to search for and respond to adverts on the site. Our lawful basis for processing this information is that the processing is necessary for performance of a contract.
+    2. Any information you include in any advert you post on our site will be collected by us and stored on our servers for the purposes of making the website, and the content contained within it, available to our users, and to enable our users to search for and respond to adverts on the site. Our lawful basis for processing this information is that the processing is necessary for performance of a contract.
     3. In the event you are asked to submit any sensitive personal data as part of the process for posting adverts on the site you’ll be asked to tick a box to demonstrate your consent to our collecting and storing that information and to us making that information available to other users through the site. Our lawful basis for processing this information is ‘consent provided by the data subject’. 
     4. We may also collect information from adverts posted to the site on an aggregated basis for statistical analysis. Some of this data may be used in press releases or shared with third parties on an aggregated basis. However, no individual will ever be identifiable from such data. We don’t collect, store or use any personal information contained in any such posts for any other purpose not set out in this privacy policy. Please note that any materials or information you post to our website will be visible to other users of the site. We therefore advise you to be selective about what information you include in your adverts and not to include any information you aren’t happy to be publically available.
     5. We may collect any information contained in correspondence between you and us. For example, if you contact us we may keep a record of that correspondence. We may also ask you for information when you report a problem with our website or any content or services made available through it. Our lawful basis for processing this information is the legitimate interest of the company. Namely, to ensure that the services we offer remain suitable for our customers, and to help resolve issues with our platform.
@@ -86,7 +86,7 @@ Hotjar
     2. We recommend you don’t turn cookies off when using SpareRoom as this may prevent you from using many of the services on the site. However, please note that if you continue to browse our website you are consenting to our use of cookies in accordance with this privacy policy.
   7. ### Payment information
 
-All payment for any products or services offered through our site, including for any adverts or Early Bird, access are made via a secure server provided by our third party payment processors, currently WorldPay, ImpulsePay (for mobile payments) and Paypal. We will not collect, store or process any credit card or other payment information on our own servers. We are a Safe Buy accredited website.
+All payment for any products or services offered through our site, including for any adverts or Early Bird, access are made via a secure server provided by our third party payment processors, currently Stripe, WorldPay and Paypal. We will not collect, store or process any credit card or other payment information on our own servers. We are a Safe Buy accredited website.
 
   8. ### Third party content, websites and contributors
 
@@ -98,7 +98,7 @@ All payment for any products or services offered through our site, including for
     2. Data transmission over the internet is inherently insecure. Although we employ appropriate technological and organisational security measures to protect your data we cannot guarantee the security of any data sent over the internet.
   10. ### International data transfers
 
-    1. Our servers are situated in Scotland, however we collect data from wherever users are situated. The information we collect will therefore be transferred to the UK from any other country in which you may be located and will be subject to UK data protection laws rather than the laws of the country in which you are resident.
+    1. We collect data from wherever users are situated. The information we collect will be transferred to the UK from any other country in which you may be located, and will as such be subject to General Data Protection Regulation rather than the laws of the country in which you are resident.
     2. We do not transfer personal data collected via our website outside the European Economic Area (unless you have consented; it is necessary to provide the services you have requested; or it is otherwise required or permitted by law).
   11. ### Your rights
 
