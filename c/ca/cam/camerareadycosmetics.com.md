@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camerareadycosmetics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001633id_/http%3A//camera-ready-cosmetics.myshopify.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camerareadycosmetics.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225191809id_/https%3A//camerareadycosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Camera Ready Cosmetics
 
@@ -28,35 +28,35 @@ PRIVACY STATEMENT
 
 \----
 
-SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
+SECTION 1 - **WHAT DO WE DO WITH YOUR INFORMATION?**
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address, phone number, and email address.
 
 When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-SECTION 2 - CONSENT
+SECTION 2 - **CONSENT**
 
 How do you get my consent?
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent or provide you with an opportunity to say no.
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at service@crcmakeup.com or mailing us at: Camera Ready Cosmetics 14203 Proton Rd, Dallas, TX, 75244, United States
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at service@crcmakeup.com or mailing us at: Camera Ready Cosmetics 14203 Proton Rd, Dallas, TX, 75244, United States
 
-SECTION 3 - DISCLOSURE
+SECTION 3 - **DISCLOSURE**
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-SECTION 4 - SHOPIFY
+SECTION 4 - **SHOPIFY**
 
 Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+Your data is stored through Shopify’s data storage, databases, and the general Shopify application. They store your data on a secure server behind a firewall.
 
 Payment:
 
@@ -68,7 +68,7 @@ PCI-DSS requirements help ensure the secure handling of credit card information 
 
 For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
 
-SECTION 5 - THIRD-PARTY SERVICES
+SECTION 5 - **THIRD-PARTY SERVICES**
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
@@ -86,7 +86,7 @@ Links
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-SECTION 6 - SECURITY
+SECTION 6 - **SECURITY**
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
@@ -108,11 +108,11 @@ _secure_session_id, unique token, sessional
 
 storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-SECTION 7 - AGE OF CONSENT
+SECTION 7 - **AGE OF CONSENT**
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-SECTION 8 - CHANGES TO THIS PRIVACY POLICY
+SECTION 8 - **CHANGES TO THIS PRIVACY POLICY**
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
