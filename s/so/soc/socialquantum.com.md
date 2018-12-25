@@ -1,101 +1,2300 @@
-> *The following text is extracted and transformed from the socialquantum.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322235443id_/https%3A//privacy.socialquantum.com/en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialquantum.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225013504id_/https%3A//privacy.socialquantum.com) for the most accurate reproduction.*
 
-# Social Quantum private policy
+# Privacy — SocialQuantum
 
-## PRIVACY POLICY
+EN
 
-This Privacy Policy (hereinafter – the "Privacy Policy") is developed to help you understand how Social Quantum Limited and its affiliates ("Social Quantum", “us”, “our” or "we") collects, uses, and discloses information that you provide to Social Quantum, while using Social Quantum’s websites and apps, including mobile applications (collectively, the "Service").
+DE
 
-By using the Service, you are expressing your agreement to this Policy. If you do not agree to these terms, please do not use the Service.
+FR
 
-Our Services are not intended for persons under the age stated by the laws of your country of residence/stay for the acquisition of our Services. No one under aforementioned age may use our Services and provide us with Personal Information specified in this Privacy Policy without consent of parents or persons in loco parentis.
+IT
 
-**Definitions**
+ES
 
-The following defined terms shall have the meanings set forth below:
+JP
 
-**"Non-Personal Information"** means information that, by itself, does not identify a specific individual or entity (e.g., usage data or downloads).
+CN
 
-**"Personal Information"** means specific identifiable information about an individual which may be used to identify, contact or locate that person (e.g., name, email address or phone number).
+KO
 
-**I. What information we collect**
+PT
 
-**Information you provide**
+TR
 
-Social Quantum may receive and store any Personal Information and/or Non-Personal Information that you provide when you interact with Social Quantum. Some features and/or functionality of the Social Quantum Services may be unavailable if you choose not to share certain information. Social Quantum may use information to communicate with you and to improve our Services. Here are some examples:
+TW
 
-  * **Job position application.** If you wish to submit your contact details to apply for job position, we provide you the option to upload it to the site and we collect your name, email address and mobile telephone number. We use this information to contact you regarding setting up an interview or to determine if you are qualified for the position in which you applied. 
-  * **Information provided through community forums.** In order to use our community forums, you must register and provide a username, password and email address. Any information you provide in our blogs or community forums may be read, collected, and used by others who access them. We are not responsible for any information that you voluntarily disclose to the public by aforementioned ways or other overt actions. 
+Last updated June 1, 2018 
 
+### Privacy policy
 
+**About Us**
 
-We may use your email address, if you provided one, to contact you about your gaming experience with Social Quantum games and notify you about company news and promotions. If you no longer wish to receive certain email notifications you may opt-out at any time by following the unsubscribe link located at the bottom of each communication or by emailing us at privacy@SocialQuantum.com.
+Social Quantum Limited is established under the laws of Hong Kong under registration number 1734369 (“Social Quantum”/“we”/“us”/“our”). Social Quantum develops mobile and social network games and owns websites connected with the games (collectively the “Services”). Our contact details.
 
-**Non-Personal Information collected automatically or through technology**
+In case you install our games from Amazon Appstore, Microsoft Windows App Store or play via ok.ru, mail.ru please also refer to Additional information.
 
-Social Quantum may collect Non-Personal Information through technological means. Social Quantum uses information listed below only in the aggregate, for statistical purposes, but not to identify users. This aggregate information allows us to understand how users use our Services, so that we could make them attractive for more users, and to improve our Services. You consent to Social Quantum collecting this information.
+For the purposes of GDPR Social Quantum Limited is the controller of your personal data.
 
-**Cookies.** We collect Non-Personal Information, which allows maintaining anonymity of users. To collect such information, we use cookies and web beacons. Cookies are small pieces of data that are sent by a web server and stored on your computer. Cookies are used in conjunction with web beacons. We do not use cookies and web beacons to collect Personal Information. We use cookies to collect such information as IP-address, type of operating system, browser type, browser language, the history of queries, data concerning shows of advertising messages and user's clicks on them, etc.
+**About our Privacy Policy**
 
-**Device information.** When you download and use the Social Quantum Services, Social Quantum automatically collects information on your device, including but not limited to language of device, the type of device you use, application version, etc.
+This privacy policy (the “Policy”) describes how and why we process your personal data, your rights and our obligations in relation to such processing.
 
-**Information concerning use of the Service.** The Service automatically gathers information about your use of our Service. Such information may include number and frequency of visits, how users use various components of our Service (e.g., date of installation of the Service, where the application was downloaded from, the date of first entry, information on gaming activities, user errors, data on gaming sessions and levels reached during the session).
+BY USING OUR SERVICES YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY AND CONFIRM YOUR UNDERSTANDING WITH THE WAYS WE COLLECT AND USE YOUR INFORMATION.
 
-**Game data collection.** Whenever you play our games, we collect anonymous data about all of your interactions with the game and with the other players inside the game via server log files. This information may be associated with your player ID, IP address or device ID for the purpose of providing you with our Services and improving them. In addition, we create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the Social Quantum games you are playing.
+This Policy describes our global approach to processing of personal data. In case we refer to “GDPR note”, it means that the purpose of such section is to satisfy the requirements of General Data Protection Regulation (EU) 2016/679 (the “GDPR”), and it applies only to users who, based on our data, are located in the European Economic Area (“EEA”).
 
-**Location information.** We may collect your location information (country and city) based on your IP address. We will not share this information with any third party.
+**Age limits**
 
-**Payment details.** Social Quantum collects information about the date and amount of payment made by the user in connection with the use of our Service. We use this information for financial and statistical purposes only. We do not use such information to identify particular users.  
-We do not collect such Personal information as address, credit card information and other bank details, passport details and driver's license number and other information, which is not specified in this Privacy Policy and is not connected with the provision of the Service.
+We do not knowingly attempt to solicit or receive information from children. In case you are under 16 years old (or age of digital consent in your country) please do not send your personal information to us (name, address, email address etc.) without parental consent. Please contact us if you believe that we might have any data about your child under the age of 16 (or age of digital consent in your country).
 
-**Social networks information.** Social Quantum may collect information about age and gender of users, number of friends in social networks and social networks IDs. We use this information for statistical purposes. We do not use such information to identify particular users.
+**Information you give us**
 
-**II. How we use information**
+**Information you give us**  by corresponding with us, when you use our Services, or report a problem with our Services. This information may include:
 
-We use information collected through our Service for purposes described in this Policy or disclosed to you in connection with our Service.
-
-**Push notifications.** We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
-
-**Ad networks.** We may feature advertising within our Service. The advertisers may collect and use certain information about you, such as your Service session activity, IP address. The advertisers may use this information to provide advertisements of interest to you. In addition, you may see our games advertised in other services. After clicking on one of these advertisements and installing our game, you will become a user of our Service. In order to verify the installs, a device identifier may be shared with the advertiser.
-
-Also, we may use your Personal and Non-Personal Information to:
-
-  * create game accounts and allow to play our games;
-  * identify and suggest connections with other Social Quantum users;
-  * operate and improve our Service;
-  * understand you and your preferences to enhance your experience and enjoyment using our Service;
-  * respond to your comments and questions and provide customer support;
-  * provide and deliver products and services you request;
-  * send you Services’ related information, including confirmations, technical notices, updates, security alerts, and support and administrative messages; 
-  * communicate with you about promotions, rewards, upcoming events, and other news about products and services offered by Social Quantum and our selected partners; 
-  * enable you to communicate with other users; and link or combine it with other information we get from third parties, to help understand your preferences and provide you with better Services. 
+  * Identity Data: name, email address, profile information.
+  * Your messages to the Services.
+  * CV when you upload it to our websites.
 
 
 
-**III. Security**
+**Information we  collect about you** automatically:
 
-We take reasonable measures to protect collected information from loss, misuse, unauthorized access, disclosure, alteration and destruction. We do everything possible to ensure the safety of your information in our systems, however no precautionary measures can guarantee 100 % security.
+Technical Data: technical information, including
 
-**IV. Disclosure of Information**
+  * IP-address;  
 
-**Third parties.** We can provide some information collected during your use of our Service to third parties - service providers, which interact with us in connection with the operation of our Service, and/or analytical purposes. We reserve the right to disclose to third parties aggregated information about users.
+  * Device information (device ID, model, type of operating system, advertising ID, MAC address). Advertising ID is a user resettable ID generated by your device or operating system that allows online advertisers to track the user’s usage of applications, provide personalized advertising;
+  * Login information;
+  * Browser type and version;
+  * Geolocation data (country and city), time zone settings and language settings;
+  * Push token.
+  * We create a unique user ID to track your use of our Service.
 
-Please note that third parties may place anonymous cookies on the browsers of visitors to its websites and may send their own cookies to the visitors’ cookie file.
 
-You can prevent us from providing your Personal Information to third parties by sending a written request to privacy@SocialQuantum.com.
 
-**Legal.** Social Quantum may disclose information you provide to respond to subpoenas, court orders, requests from authorities, and other legal process, and to establish/exercise Social Quantum's legal rights. Social Quantum may also disclose your information to defend against legal claims when Social Quantum believes that disclosure is necessary to protect Social Quantum's rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. Social Quantum may share Personal Information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, or as otherwise required by law.
+Usage Data: information about your use, including
 
-**Business transfers.** As Social Quantum continues to develop its business, Social Quantum may reorganize as a business entity, acquire entities, subsidiaries, or business units, or enter into joint ventures with third parties. In any of these types of transactions, any information you provide may be one of the transferred business assets (subject to any pre-existing privacy notice unless you consent otherwise). You understand and agree that Social Quantum reserves the right to transfer any information collected from you in the case of any such transfer.
+  * In-game progress;
+  * Interactions with other players;
+  * Gameplay data;
+  * Length of use;
+  * Date of installation of the application;
+  * User errors.
 
-**V. Changes to Privacy Policy**
 
-We reserve the right to change this Privacy Policy at any time and without notice. Any changes will be immediately posted on our website in this section.
 
-**VI. Retention of Information**
+**Information about you we  collect from third parties**
 
-We will retain your information as long as it is necessary for: (1) provision of any of our Services; (2) compliance with applicable laws and execution of judgments (decisions) of the competent courts.
+  * Data we receive if you sign in to our Services using social networks accounts (e.g., Facebook). This may include name, social networks ID, number of friends;
+  * Data on date and amount of in-game payment made by you we receive from platforms our games are running on;
+  * We may receive Technical and Usage Data from service providers that are assisting us in providing you with Services (e.g. third-party SDK which allows the tracking of mobile application use, installations and downloads).
 
-**VII. Access to Personal Information and Contact details**
 
-If your Personal Information changes, or if you no longer desire our service, you may correct, update, or delete inaccuracies by making the change within your account settings or by contacting us at privacy@SocialQuantum.com. We are committed to protect and respect the privacy of the individual on the Internet and to perform this Privacy Policy. For any questions or complaints regarding our Privacy Policy and for refusal from collection of information you can contact us by e-mail: privacy@SocialQuantum.com
+
+_GDPR note:_ we do not require or collect any personal data that is your sensitive personal data or any special category of personal data under the GDPR.
+
+**Cookies.** We may use cookies on our websites. “Cookies” are small text files which are stored by your browser on your computer and are normally used to gather statistical information and to analyse trends of use or access to a website. Cookies cannot be used to run programs or deliver viruses to your computer. We use cookies to collect such information as IP-address, type of operating system, browser type, browser language, the history of queries. You may adjust your browser or device settings to limit certain tracking by means of cookies.
+
+We use your personal information for the following purposes
+
+  * To provide the Services (e.g., to create accounts, operate the Service, enable you to communicate with other players, save your in-game progress);
+  * To respond to your queries and manage our relationship with you (e.g., to provide customer support);
+  * To ensure that Services are presented in the most effective manner for you and for your computer or device.
+  * To verify and confirm payments.
+
+
+
+_GDPR note:_ we use your information for mentioned purposes to perform a contract with you and because we have the legitimate interests to respond to new or existing users queries and grow our business, to keep our records updated and to study how customers use our Services.
+
+  * To show advertisements in our games. Our partners may also show you targeted advertisements in our games. Opt-out.
+  * To measure and understand the effectiveness of advertising we serve to you.
+  * To send push notifications with game updates, high scores and other Services related notifications that may be of importance to you. You may opt-out from receiving push notifications by turning them off at the device level through your settings.
+
+
+
+_GDPR note:_ we use your information for mentioned purposes because we have the legitimate interests to develop and promote our Services, deliver and improve our advertising, grow our business and to study how customers use our Services.
+
+  * To administer and protect our business and Services, and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+  * To use data analytics to improve or optimise our Services, marketing, customer relationships and experiences.
+
+
+
+_GDPR note:_ we use your information for mentioned purposes because we have the legitimate interests for running our business and to keep our Services safe and secure, to keep our Services updated and relevant.
+
+  * When you provide your CV, we use your data to confirm your suitability for employment and to communicate with you. We use this information because we have the legitimate interest to recruit talent and to grow our business.
+
+
+
+We do not carry out any decision-making based solely on automated processing, including profiling.
+
+**Change of  purpose.** We will only use your personal data for the purposes for which we collected it or for compatible reasons. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+**Opt-out of targeted advertising.** You can at any time opt-out of targeted advertising by adjusting settings of your device or browser as follows:
+
+  * Fof iOS: please follow the instructions set forth at https://support.apple.com/en-us/ht202074#iOS;
+  * For Android: please follow the instructions set forth at https://support.google.com/ads/answer/2662922?hl=en;
+  * For Windows please follow the instructions set forth at https://account.microsoft.com/privacy/ad-settings/signedout?lang=en-GB;
+  * You may adjust your browser or device settings to limit certain tracking by means of cookies and visit the following websites http://www.aboutads.info/choices and http://www.youronlinechoices.eu.
+
+
+
+**Accessing your Personal Data.** You may request access at any time to a copy of the personal data we hold about you. We will need to verify your identity in such circumstances and may request more information or clarifications from you if needed to help us locate and provide you with the personal data requested.
+
+**Correction.** If the personal information we hold about you is inaccurate, you may request to have your personal information updated and corrected.
+
+You may also have other rights prescribed by the laws of your country. In particular, under GDPR you have the rights on data portability, the right to have your data deleted, object how we use or share your data, restrict how we use or share your data.
+
+Please contact us to exercise any of your rights or receive more information. We will respond to all requests within a reasonable timeframe.
+
+We are committed to complying with the terms of the applicable data protection regulations and to the processing of personal data in a fair, lawful and transparent manner. If, however, you believe that we have not complied with our obligations under the applicable data protection regulations, you have the right to lodge a complaint with the supervisory authority in your country.
+
+We may feature in-game advertising. The advertisers may access your data and operate under their own privacy policies. We encourage you to carefully read their privacy policies.
+
+Facebook  
+Privacy Policy: https://www.facebook.com/about/privacy
+
+IronSource  
+Privacy Policy: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Privacy Policy: https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+Privacy Policy: https://www.hyprmx.com/pp.html
+
+Fyber  
+Privacy Policy: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Privacy Policy: https://vungle.com/privacy/
+
+Third parties may use cookies, web beacons, and other tracking technologies to collect or receive data about you and might claim controller rights over your personal data. We always endeavour to deal with partners who have adequate security measures in place to safeguard the security of personal data. That said, and to the maximum extent permitted by applicable law, we, our employees, agents, holding company and subsidiaries, accept no liability howsoever arising for the content or reliability of any third party materials or websites referenced by hyperlink or other means on the Services or for the data collection and use practices or security measures used by such third parties.
+
+**We  may share your personal information with the following categories of recipients and in the following circumstances:**
+
+  * Companies within our group;
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you in relation to the Services (e.g. hosting, player support, advertising);
+  * In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of our business or assets;
+  * If all or substantially all of our business or assets are acquired by or transferred to a third party, in which case personal data held by us will be one of the transferred assets;
+  * If we are under a duty to disclose or share your personal data in order to comply with any law, legal obligation or court order;
+  * To protect our rights, property or safety, our customers, or others. This includes exchanging information with other companies and organisations for the maintenance and security of the Services.
+
+
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+**How long we  keep your information.** We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. The period of time for which we store your personal data may depend on the type of data we hold considering the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+_GDPR note_  
+**Transfers.** Personal Data may be transferred to our trusted partners and service providers who maintain their servers outside of the EEA. This is only for the purposes of providing, and to the extent necessary to provide, the Services to you. We would comply with applicable requirements for such data transfers, to regulate such data transfers and ensure that adequate security measures are in place to safeguard and maintain the integrity of your personal data on transfer.
+
+Any changes made to this Policy from time to time will be published at our website privacy.socialquantum.com. Any material or other change to the data processing operations described in this Policy which is relevant to or impacts on you or your personal data, will be notified to you in advance. In this way, you will have an opportunity to consider the nature and impact of the change and exercise your rights in relation to that change as you see fit.
+
+If you have any questions, concerns or requests in relation to this Policy or your data please contact us by one of the following means:
+
+  * using functionality of the Services (Help page in our games);
+  * using our customer support page at [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/);
+  * email us by [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+Ireland based company (Social Quantum Ireland Limited, company number 535614) publishes our games on such platforms as Amazon Appstore, Microsoft Windows App Store, ok.ru, mail.ru.
+
+This Privacy policy will apply to your use of our Services distributed via the mentioned platforms.
+
+Social Quantum Limited (as described in About Us clause) remains the controller of your personal data if you play games via mentioned platforms.
+
+**We  do our best to provide accurate translations of this Policy. However, please note that only English version of this Policy shall have the legal effect.**
+
+Версия от 1 июня 2018 
+
+### Политика конфиденциальности
+
+**О  нас**
+
+Компания Social Quantum Limited учреждена в соответствии с законодательством Гонконга, регистрационный номер 1734369 (далее — «Social Quantum» / «мы» / «нас» / «наш»). Social Quantum разрабатывает мобильные игры и игры для социальных сетей и владеет веб-сайтами, связанными с такими играми (далее — в совокупности «Сервисы»). Наши контактные данные.
+
+В случае, если вы устанавливаете наши игры из Amazon Appstore, Microsoft Windows App Store или играете через ok.ru, mail.ru, пожалуйста, обратитесь также к разделу Дополнительная информация.
+
+В терминах Общего регламента по защите данных («GDPR»), Social Quantum Limited является контроллером ваших персональных данных.
+
+**О  нашей политике конфиденциальности**
+
+Данная политика конфиденциальности (далее — «Политика») описывает, каким образом и с какой целью мы обрабатываем ваши персональные данные, ваши права и наши обязанности в связи с обработкой данных.
+
+Используя наши сервисы, вы соглашаетесь с условиями политики конфиденциальности и подтверждаете свое согласие с тем, каким образом мы собираем и используем ваши данные.
+
+Политика описывает наш всеобщий подход к обработке персональных данных. В случае если мы приводим «Примечание к GDPR», это означает, что цель такого раздела — удовлетворить требования Общего регламента по защите данных — Постановление (ЕС) 2016/679 (General Data Protection Regulation, далее — «GDPR»). «Примечание к GDPR» касается тех пользователей, которые, согласно нашим сведениям, находятся в Европейской экономической зоне («ЕЭЗ»).
+
+**Возрастные ограничения**
+
+Мы умышленно не запрашиваем и не получаем данные от детей. Если вам меньше 16 лет (или возраста цифрового согласия, установленного законодательством вашей страны), пожалуйста, не отправляйте нам ваши персональные данные (ваше имя, адрес, адрес электронной почты и т. д.) без согласия ваших родителей. Пожалуйста, свяжитесь с нами, если вы считаете, что у нас могут находиться сведения о вашем ребенке младше 16 лет (или возраста цифрового согласия, установленного законодательством вашей страны).
+
+**Информация, которую вы предоставляете нам,** ведя с нами переписку, пользуясь нашими Сервисами или сообщая о проблеме с нашими Сервисами. Такая информация может включать:
+
+  * Идентификационные данные: имя, адрес электронной почты, информация профиля;
+  * Ваши сообщения в наши Сервисы;
+  * Резюме, которое вы предоставляете через наши веб-сайты.
+
+
+
+**Информация о  вас, которую мы собираем** автоматически:
+
+Технические данные: это технические сведения, который включают в себя
+
+  * IP-адрес;
+  * Сведения об устройстве (идентификатор и модель устройства, тип операционной системы, рекламный идентификатор, MAC-адрес). Рекламный идентификатор — это сбрасываемый идентификатор пользователя, сгенерированный вашим устройством или операционной системой, который позволяет онлайн-рекламодателям узнавать, как пользователь использует приложения, и предоставлять ему персонализированную рекламу;
+  * Учетные данные;
+  * Тип и версию браузера;
+  * Данные геолокации (страна и город), настройки часового пояса и языковые настройки;
+  * Push-токен;
+  * Мы создаем уникальный идентификатор пользователя, чтобы понимать, как вы используете наши Сервисы.
+
+
+
+Данные об использовании: это сведения о том, как вы используете Сервисы, включая 
+
+  * Прогресс в игре;
+  * Взаимодействие с другими игроками;
+  * Сведения об игровом процессе;
+  * Длительность использования;
+  * Дата установки приложения;
+  * Ошибки пользователей.
+
+
+
+**Информация о вас, которую мы получаем у партнеров:**
+
+  * Данные, которые мы получаем, если вы авторизуетесь в наших Сервисах, используя аккаунты социальных сетей (напр., Facebook). Эти данные могут включать в себя имя, идентификатор пользователя социальной сети, количество друзей;
+  * Данные о дате и размере совершенных вами платежей в игре, которые мы получаем от платформ, на которых функционируют наши игры;
+  * Мы можем получать Технические данные и Данные об использовании от поставщиков услуг, которые содействуют нам в предоставлении наших Сервисов (например, набор средств разработки (SDK), который позволяет отслеживать использование мобильного приложения, установки и загрузки).
+
+
+
+_Примечание к  GDPR:_ нам не требуется, и мы не собираем персональные данные, которые относятся к специальной категории персональных данных, как описано в GDRP.
+
+**Файлы cookie.** Мы можем использовать файлы cookie на наших веб-сайтах. Файлы «cookie» — это небольшие текстовые файлы, которые сохраняются вашим браузером на ваш компьютер, и которые используются для сбора статистической информации, для анализа тенденций использования или доступа к веб-сайту. Файлы cookie не могут быть использованы для запуска программ или передачи вирусов на ваш компьютер. Мы используем файлы cookie, чтобы собирать такие сведения, как IP-адрес, тип операционный системы, тип браузера, язык браузера, история запросов. Вы можете ограничить использование файлов cookie, изменив настройки вашего браузера или устройства.
+
+Мы используем ваши персональные данные для следующих целей:
+
+  * Предоставление Сервисов (например, чтобы создавать аккаунты, управлять Сервисами, обеспечивать ваше взаимодействие с другими игроками, сохранять ваш игровой прогресс);
+  * Ответы на ваши запросы и поддержка взаимоотношений с вами (например, чтобы оказывать поддержку пользователей);
+  * Предоставление Сервисов наиболее эффективным для вас и для вашего компьютера или устройства образом;
+  * Проверка и подтверждение платежей.
+
+
+
+_Примечание к  GDRP:_ мы используем вашу информацию в этих целях, чтобы выполнять свои обязательства по контракту с вами и потому что у нас есть законное право отвечать на новые и существующие запросы от пользователей и развивать наш бизнес, поддерживать нашу документацию в актуальном состоянии и анализировать, как клиенты используют наши Сервисы.
+
+  * Показ рекламы в наших играх. Наши партнеры также могут показывать вам адресную рекламу в наших играх. Отказ от получения адресной рекламы.
+  * Измерение и изучение эффективности рекламы, которую мы вам предлагаем.
+  * Отправка push-уведомлений об обновлениях игры, рекордах и других связанных с Сервисами уведомлениях, которые могут оказаться значимыми для вас. Вы можете отказаться от получения push-уведомлений, отключив их в настройках вашего устройства.
+
+
+
+_Примечание к  GDRP:_ мы используем вашу информацию в этих целях, поскольку у нас есть законное право развивать и продвигать наши Сервисы, совершенствовать нашу рекламу, развивать компанию и анализировать, как клиенты используют наши Сервисы.
+
+  * Управление компанией и Сервисами, их защита и осуществление внутренних операций, включая устранение неисправностей, анализ данных, тестирование, исследования, статистический анализ и опросы.
+  * Анализ данных с целью усовершенствовать и оптимизировать наши Сервисы, маркетинг, взаимоотношения с пользователями и пользовательский опыт.
+
+
+
+_Примечание к  GDRP:_ мы используем вашу информацию в этих целях, поскольку у нас есть законное право осуществлять нашу деятельность, поддерживать наши Сервисы в актуальном и безопасном состоянии.
+
+  * Когда вы предоставляете резюме, мы используем ваши данные, чтобы определить, подходите ли вы на открытую вакансию, и чтобы связаться с вами. Мы используем эту информацию, поскольку у нас есть законное право нанимать талантливых сотрудников и развивать нашу компанию.
+
+
+
+Мы не принимаем решений, основываясь исключительно на автоматизированной обработке данных, которая включает в себя профилирование.
+
+**Изменение целей.** Мы используем ваши персональные данные только с той целью, для которой они собирались, или для сопоставимых целей. Если будет необходимо использовать ваши персональные данные с иной целью, мы уведомим вас об этом и разъясним законные основания для такого использования.
+
+**Отказ от  адресной рекламы.** Вы можете отказаться от адресной рекламы в любое время, изменив настройки вашего устройства и браузера следующим образом:
+
+  * Для iOS: пожалуйста, следуйте инструкциям, представленным по данной ссылке https://support.apple.com/en-us/ht202074#iOS;
+  * Для Android: пожалуйста, следуйте инструкциям, представленным по данной ссылке: https://support.google.com/ads/answer/2662922?hl=en;
+  * Для Windows: пожалуйста, следуйте инструкциям, представленным по данной ссылке: https://account.microsoft.com/privacy/ad-settings/signedout?lang=en-GB;
+  * Вы можете ограничить определенный тип отслеживания при помощи файлов cookie, изменив настройки вашего браузера или устройства, и посетить следующие сайты: http://www.aboutads.info/choices и http://www.youronlinechoices.eu.
+
+
+
+**Доступ к  вашим персональным данным.** Вы можете в любое время отправить запрос на доступ к вашим персональным данным, которые мы храним. Мы должны будем подтвердить вашу личность. При необходимости, мы можем запросить у вас уточняющие сведения, чтобы определить запрошенную вами информацию и предоставить ее вам.
+
+**Изменение данных.** Если ваши персональные данные, находящиеся у нас, неверны, вы можете отправить запрос на приведение данных в соответствие с действительностью и исправление.
+
+Законодательство вашей страны может гарантировать вам дополнительные права. Согласно GDPR, у вас есть право на перенос данных, право на удаление ваших данных, право на возражение против того, как мы используем или передаем ваши данные, право на ограничение использования и передачи ваших данных.
+
+Чтобы воспользоваться любым из ваших прав или чтобы получить дополнительную информацию, пожалуйста, свяжитесь с нами. Мы ответим на ваш запрос в разумные сроки.
+
+Мы считаем своим долгом защищать данные в соответствии с законом и обрабатывать персональные данные честным, законным и понятным образом. Однако, если вы полагаете, что мы не выполняем наши обязательства согласно существующим нормам защиты данных, у вас есть право обратиться в контролирующий орган в вашей стране.
+
+Мы можем показывать рекламу внутри игры. Рекламодатели имеют доступ к вашим данным и действуют в соответствии с собственными политиками конфиденциальности. Мы настоятельно советуем внимательно изучить их политики конфиденциальности:
+
+Facebook  
+Политика конфиденциальности: https://www.facebook.com/about/privacy
+
+IronSource  
+Политика конфиденциальности: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Политика конфиденциальности: https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+Политика конфиденциальности: https://www.hyprmx.com/pp.html
+
+Fyber  
+Политика конфиденциальности: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Политика конфиденциальности: https://vungle.com/privacy/
+
+Третьи лица могут использовать файлы cookie, веб-маяки и другие технологии отслеживания для сбора или получения данных о вас и могут являться контроллерами ваших данных. Мы всегда стараемся работать только с теми партнерами, которые применяют адекватные меры безопасности для защиты ваших персональных данных. Вместе с тем, в той мере, в какой это разрешено действующим законодательством, мы, наши сотрудники, агенты, холдинговая компания и дочерние компании, не принимаем на себя ответственности за содержание или надежность любых сторонних материалов или веб-сайтов, представленных в Сервисах при помощи гиперссылки или иным способом, или за сбор данных, а также методы использования или меры безопасности, применяемые третьими лицами.
+
+**Мы  можем предоставлять ваши персональные данные следующим категориям получателей и при следующих обстоятельствах:**
+
+  * Компаниям внутри нашей группы;
+  * Бизнес-партнерам, поставщикам и подрядчикам для выполнения соглашений, которые мы заключаем с ними или с вами в отношении наших Сервисов (например, хостинг, поддержка игроков, реклама);
+  * Если мы продаем или приобретаем компанию или имущество, в случае чего мы предоставим ваши персональные данные потенциальному продавцу или покупателю нашей компании или имущества.
+  * Если вся или практически вся наша компания или наше имущество приобретено или передано третьей стороне, в случае чего персональные данные, имеющиеся в нашем распоряжении, будут являться одним из аспектов передаваемого имущества.
+  * Если мы обязаны раскрыть или передать ваши персональные данные, чтобы соблюсти закон, правовое обязательство или постановление суда.
+  * Чтобы защитить наши права, собственность или безопасность, наших клиентов или других граждан. Сюда входит обмен данными с другими компаниями и организациями для обеспечения безопасности и поддержания наших Сервисов.
+
+
+
+Мы приняли соответствующие меры безопасности, чтобы предотвратить случайную потерю, несанкционированное использование, доступ, изменение или раскрытие ваших данных. Кроме того, мы предоставили доступ к вашим персональным данным только тем сотрудникам, агентам, подрядчикам и прочим третьим лицам, кому он требуется в соответствии с бизнес необходимостью. Они будут обрабатывать ваши данные только в соответствии с нашими инструкциями и обязанностью обеспечения конфиденциальности. Мы установили специальные процедуры, чтобы справляться с любой предполагаемой утечкой данных, и мы уведомим вас и любой компетентный регламентирующий орган об утечке, если мы обязаны так поступить в соответствии с законом.
+
+**Как долго мы  храним ваши данные.** Мы будем хранить ваши персональные данные в течение срока, требуемого для выполнения тех задач, ради которых мы их собирали, включая необходимость соблюдать законодательные, финансовые требования или требования отчётности. Период времени, в течение которого мы храним ваши персональные данные, может зависеть от типа данных, при этом, будет учитываться количество, суть и степень конфиденциальности ваших персональных данных, потенциальный риск ущерба от несанкционированного использования или разглашения ваших персональных данных, цели, ради которых мы обрабатываем ваши персональные данные, и можем ли мы достичь данные цели при помощи других средств, а также существующие законодательные требования.
+
+_Примечание к  GDPR_  
+**Передача данных.** Персональные данные могут передаваться нашим доверенным партнерам и провайдерам, которые содержат свои серверы за пределами ЕЭЗ. Единственной целью такой передачи данных является предоставление вам Сервисов. Передача производится только в объеме, необходимом для предоставления Сервисов. Мы непреложно соблюдаем установленные требования к передаче данных, чтобы регулировать передачу данных и гарантировать применение достаточных мер безопасности для защиты и сохранности ваших персональных данных при передаче.
+
+Любые изменения, время от времени вносимые в данную Политику, будут опубликованы на нашем веб-сайте privacy.socialquantum.com. Мы заранее уведомим вас о любом существенном или ином изменении в описанном процессе обработки данных, которое будет применимо для вас, затронет вас или ваши персональные данные. В этом случае вы сможете рассмотреть суть и последствия таких изменений и воспользоваться своими правами так, как сочтете нужным.
+
+Если у вас возникли какие-либо вопросы, опасения или пожелания относительно данной Политики или ваших данных, пожалуйста, свяжитесь с нами одним из представленных способов:
+
+  * при помощи функционала наших Сервисов (страница помощи в наших играх);
+  * используя нашу страницу поддержки пользователей по ссылке [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/);
+  * напишите нам на электронную почту: [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+Компания, базирующаяся в Ирландии (Social Quantum Ireland Limited, регистрационный номер компании 535614) публикует наши игры на таких платформах, как Amazon Appstore, Microsoft Windows App Store, ok.ru, mail.ru.
+
+Данная Политика конфиденциальности применима к использованию наших Сервисов, распространяемых посредством указанных платформ.
+
+Social Quantum Limited (согласно описанию в пункте О нас) остается контроллером ваших персональных данных, если вы играете в наши игры на указанных платформах.
+
+**Мы  делаем все от нас зависящее, чтобы предоставить вам точный перевод данной Политики. Однако, пожалуйста, учтите, что только [английская версия](https://privacy.socialquantum.com/) данной Политики будет иметь юридическую силу.**
+
+Stand: 1. Juni 2018 
+
+### Datenschutzrichtlinie
+
+**Über uns**
+
+Social Quantum Limited (im Folgenden «Social Quantum», «wir») ist ein nach den Gesetzen Hongkongs gegründetes Unternehmen mit der Registrierungsnummer 1734369. Social Quantum entwickelt Spiele für Mobilgeräte sowie soziale Netzwerke und betreibt Websites im Zusammenhang mit diesen Spielen (gemeinschaftlich «die Dienste»). Unsere Kontaktdaten.
+
+Falls Sie unsere Spiele aus Amazons App-Shop oder Microsofts Windows Store installieren oder über ok.ru bzw. mail.ru spielen, so lesen Sie bitte auch die zusätzlichen Informationen.
+
+Für die Zwecke der DSGVO ist Social Quantum Limited der Verantwortliche für Ihre personenbezogenen Daten.
+
+**Über unsere Datenschutzrichtlinie**
+
+Diese Datenschutzrichtlinie (die «Richtlinie») beschreibt, wie und warum wir Ihre personenbezogenen Daten verarbeiten sowie Ihre Rechte und unsere Verpflichtungen in Bezug darauf.
+
+Indem sie unsere dienste nutzen, stimmen sie den bedingungen dieser datenschutzrichtlinie zu und bestÄtigen, dass sie die art und weise, wie wir ihre daten erheben und verwenden, zur kenntnis genommen haben und damit einverstanden sind.
+
+Diese Richtlinie beschreibt, wie wir weltweit personenbezogene Daten verarbeiten. «DSGVO-Hinweise» dienen der Einhaltung der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 (der «DSGVO») und betreffen nur Nutzer, die sich unseren Daten zufolge innerhalb des Europäischen Wirtschaftsraums («EWR») befinden.
+
+**Altersbeschränkungen**
+
+Wir versuchen nicht wissentlich, Daten von Kindern anzufragen oder uns solche anzueignen. Personen unter 16Jahren (bzw. Personen, die gemäß den Gesetzen ihres Landes nicht im Internet geschäftsfähig sind) werden gebeten, uns keine persönlichen Angaben zu senden (wie ihren Namen, ihre Anschrift oder E-Mail-Adresse), ohne zuvor die Erlaubnis ihrer Erziehungsberechtigten einzuholen. Bitte nehmen Sie Kontakt zu uns auf, falls Sie vermuten, dass wir Daten über Ihr Kind erhalten haben, wenn dieses unter 16 Jahre alt ist (bzw. gemäß den Gesetzen Ihres Landes nicht im Internet geschäftsfähig ist).
+
+**Angaben, die Sie uns gegenüber machen,** während Sie unsere Dienste nutzen oder ein Problem damit melden. Beispiele:
+
+  * Angaben zu Ihrer Identität: Name, E-Mail-Adresse, Profildaten.
+  * Ihre Nachrichten an die Dienste.
+  * Ihren Lebenslauf, wenn Sie Ihn auf unseren Websites hochladen.
+
+
+
+**Daten, die wir automatisch über Sie erheben:**
+
+Technische Daten, zum Beispiel
+
+  * Ihre IP-Adresse;
+  * Geräteinformationen (Geräte-ID, Modell, Betriebssystem, Werbe-ID, MAC-Adresse). Die Werbe-ID ist eine Kennung, die von Ihrem Gerät oder Betriebssystem generiert wird und die Sie zurücksetzen können; sie erlaubt Werbetreibenden im Internet, die Nutzung von Anwendungen nachzuverfolgen und personalisierte Werbung einzublenden;
+  * Anmeldedaten;
+  * Browsertyp und -version;
+  * Standortdaten (Land und Stadt), Einstellungen zu Zeitzone und Sprache;
+  * Push-Token.
+  * Wir erstellen eine eindeutige Benutzer-ID, um Ihre Nutzung unseres Dienstes nachzuvollziehen.
+
+
+
+Nutzungsdaten, zum Beispiel
+
+  * Fortschritte im Spiel;
+  * Interaktionen mit anderen Spielern;
+  * Daten zum Spielablauf;
+  * Nutzungsdauer;
+  * Zeitpunkt der Installation der App;
+  * Benutzerfehler.
+
+
+
+**Daten über Sie, die wir von Dritten erhalten**
+
+  * Daten, die wir erhalten, wenn Sie sich mithilfe eines Kontos bei einem sozialen Netzwerk (z.B. Facebook) in unseren Diensten anmelden. Beispiele: Ihr Name, Ihre Kennung im sozialen Netzwerk, die Anzahl Ihrer Freunde;
+  * Daten zum Zeitpunkt und Betrag Ihrer Zahlungen im Spiel, die wir von den Plattformen erhalten, auf denen unsere Spiele betrieben werden;
+  * Technische und Nutzungsdaten erhalten wir eventuell auch von Dienstleistern, die uns darin unterstützen, Ihnen unsere Dienste anzubieten (z.B. SDK von Drittanbietern, welche es ermöglichen, die Nutzung, Installation und Downloads mobiler Apps nachzuverfolgen.)
+
+
+
+_DSGVO-Hinweis:_ wir benötigen oder erheben keine sensiblen personenbezogenen Daten oder solche, die gemäß der DSGVO in eine besondere Kategorie fallen.
+
+**Cookies.** Wir nutzen eventuell Cookies auf unseren Websites. «Cookies» sind kleine Textdateien, die Ihr Browser auf ihrem Computer ablegt und mit deren Hilfe üblicherweise statistische Daten erhoben und Trends im Hinblick auf die Nutzung oder Zugriffe auf eine Website analysiert werden. Cookies können nicht dazu verwendet werden, Programme auszuführen oder Viren in Ihren Computer einzuschleusen. Wir nutzen Cookies, um Daten zu sammeln, wie IP-Adressen, Art des Betriebssystems, Browserart, Browser-Spracheinstellungen oder den Anfragenverlauf. Sie können Tracking durch Cookies in gewissem Maß einschränken, indem Sie die Einstellungen Ihres Browsers oder Geräts entsprechend ändern.
+
+Wir nutzen Ihre personenbezogenen Daten zu folgenden Zwecken:
+
+  * Um die Dienste bereitstellen zu können (z.B. zur Erstellung von Konten, zum Betrieb des Dienstes oder damit Sie mit anderen Spielern kommunizieren und Ihre Fortschritte im Spiel speichern können);
+  * Um Ihre Anfragen zu bearbeiten und unser Geschäftsverhältnis zu Ihnen zu pflegen (z.B. um Kundenservice zu leisten);
+  * Um zu gewährleisten, dass die Dienste auf die für Sie und Ihren Computer oder Ihr Mobilgerät effektivste Weise dargestellt werden.
+  * Um Zahlungen zu verifizieren und zu bestätigen.
+
+
+
+_DSGVO-Hinweis:_ Wir nutzen die Daten zu den genannten Zwecken, um einen Vertrag mit Ihnen zu erfüllen und weil wir ein rechtmäßiges Interesse daran haben, die Anfragen neuer oder bestehender Nutzer zu beantworten und unser Unternehmen zu erweitern, unsere Unterlagen zu pflegen und zu untersuchen, wie Kunden unsere Dienste nutzen.
+
+  * Um Werbung in unseren Spielen einzublenden. Unsere Partner können in unseren Spielen auch personalisierte Werbung für Sie einblenden. Deaktivieren.
+  * Um zu bestimmen und nachzuvollziehen, wie effektiv die Werbung ist, die wir für Sie einblenden.
+  * Um Ihnen Push-Benachrichtigungen mit Neuigkeiten zum Spiel oder Highscores und andere dienstbezogene Benachrichtigungen zu senden, die für Sie relevant sein könnten. Wenn Sie keine Push-Benachrichtigungen erhalten möchten, so können Sie sie in den Einstellungen Ihres Geräts deaktivieren.
+
+
+
+_DSGVO-Hinweis:_ Wir nutzen die Daten zu den genannten Zwecken, weil wir ein rechtmäßiges Interesse daran haben, unsere Dienste weiterzuentwickeln und zu bewerben, Werbung einzublenden und zu verbessern, unser Unternehmen zu erweitern und zu untersuchen, wie Kunden unsere Dienste nutzen.
+
+  * Um unser Unternehmen und unsere Dienste zu verwalten und zu schützen sowie für interne Abläufe wie Problemlösungen, Datenanalysen, Tests, Recherche sowie zu statistischen und Umfragezwecken.
+  * Um unsere Dienste, unser Marketing, unsere Kundenbeziehungen und das Nutzungserlebnis mittels Datenanalyse zu verbessern oder optimieren.
+
+
+
+_DSGVO-Hinweis:_ Wir nutzen die Daten zu den genannten Zwecken, weil wir ein rechtmäßiges Interesse daran haben, unser Unternehmen zu führen, die Sicherheit unserer Dienste zu gewährleisten und unsere Dienste aktuell und relevant zu halten.
+
+  * Wenn Sie Ihren Lebenslauf einsenden, nutzen wir Ihre Daten, um Ihre Eignung für eine Beschäftigung zu überprüfen und mit Ihnen zu kommunizieren. Wir nutzen diese Daten, weil wir ein rechtmäßiges Interesse daran haben, Mitarbeiter einzustellen und unser Unternehmen zu erweitern.
+
+
+
+Wir treffen keine Entscheidungen rein auf der Grundlage automatischer Datenverarbeitung wie Profiling.
+
+**Änderung des Verwendungszwecks.** Wir nutzen Ihre personenbezogenen Daten ausschließlich zu den Zwecken, zu denen wir sie erhoben haben, beziehungsweise aus vergleichbaren Anlässen. Falls wir Ihre personenbezogenen Daten anderweitig nutzen müssen, benachrichtigen wie Sie darüber und nennen Ihnen die entsprechende Rechtsgrundlage.
+
+**Personalisierte Werbung deaktivieren.** Sie können personalisierte Werbung jederzeit deaktivieren, indem Sie die Einstellungen Ihres Geräts oder Browsers wie folgt ändern:
+
+  * Unter iOS folgen Sie bitte dieser Anleitung: https://support.apple.com/de-de/HT202074#iOS
+  * Unter Android folgen Sie bitte dieser Anleitung: https://support.google.com/ads/answer/2662922?hl=de
+  * Unter Windows folgen Sie bitte dieser Anleitung: https://account.microsoft.com/privacy/ad-settings/signedout?lang=de-de
+  * Sie können Tracking durch Cookies in gewissem Maß einschränken, indem Sie die Einstellungen Ihres Browsers oder Geräts entsprechend ändern und die folgenden Websites aufrufen: http://www.aboutads.info/choices und http://www.youronlinechoices.eu.
+
+
+
+**Zugriff auf Ihre personenbezogenen Daten.** Sie können jederzeit eine Kopie der personenbezogenen Daten anfordern, die wir über Sie gespeichert haben. Dazu müssen wir Ihre Identität überprüfen und bitten Sie gegebenenfalls um weitere Angaben oder Auskünfte, die uns dabei helfen, die angeforderten personenbezogenen Daten zu ermitteln und sie Ihnen zu senden.
+
+**Berichtigung.** Falls die personenbezogenen Daten, die wir über Sie besitzen, unrichtig sind, haben Sie Anrecht darauf, dass die Daten aktualisiert und korrigiert werden.
+
+Je nach Gesetzeslage in Ihrem Land haben Sie eventuell weitere Rechte. Insbesondere gemäß der DSGVO haben Sie das Recht auf Datenübertragbarkeit, das Recht auf Löschung Ihrer Daten, das Recht auf Einspruch gegen unsere Nutzung oder Weitergabe Ihrer Daten sowie das Recht, unsere Nutzung oder Weitergabe Ihrer Daten einzuschränken.
+
+Bitte nehmen Sie Kontakt zu uns auf, wenn Sie Ihre Rechte wahrnehmen oder weitere Informationen erhalten möchten. Wir beantworten alle Anfragen innerhalb eines angemessenen Zeitrahmens.
+
+Wir legen Wert darauf, die Vorgaben geltender Datenschutzverordnungen einzuhalten und bei der Verarbeitung personenbezogener Daten fair, rechtmäßig und transparent vorzugehen. Falls Sie jedoch vermuten, dass wir unseren Verpflichtungen gemäß der geltenden Datenschutzverordnungen nicht nachgekommen sind, haben Sie das Recht, eine Beschwerde bei der Aufsichtsbehörde in Ihrem Land einzulegen.
+
+In unseren Spielen wird mitunter Werbung angezeigt. Die Werbetreibenden haben Zugriff auf Ihre Daten und verfahren gemäß ihrer jeweils eigenen Datenschutzrichtlinie. Wir empfehlen Ihnen, diese Datenschutzrichtlinien aufmerksam zu lesen.
+
+Facebook  
+Datenrichtlinie: https://www.facebook.com/about/privacy
+
+IronSource  
+Datenschutzrichtlinie: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Datenschutzrichtlinie: https://unity3d.com/de/legal/privacy-policy
+
+HyprMX  
+Datenschutzrichtlinie: https://www.hyprmx.com/pp.html
+
+Fyber  
+Datenschutzrichtlinie: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Datenschutzrichtlinie: https://vungle.com/privacy/
+
+Dritte nutzen eventuell Cookies, Zählpixel und andere Trackingmethoden, um Daten über Sie zu erheben oder zu empfangen, und können Anspruch auf Rechte in Bezug auf Ihre personenbezogenen Daten erheben, die denen eines für die Verarbeitung Verantwortlichen entsprechen. Wir sind stets bemüht, mit Partnern zusammenzuarbeiten, die angemessene Maßnahmen ergreifen, um die Sicherheit personenbezogener Daten zu gewährleisten. Dennoch schließen wir, unsere Mitarbeiter, Vertreter, Holdinggesellschaften und Tochtergesellschaften im größtmöglichen gesetzlich zulässigen Umfang jegliche Haftung für den Inhalt oder die Zuverlässigkeit von Inhalten oder Websites Dritter, auf die durch Hyperlinks auf der Website oder auf andere Weise in den Diensten verwiesen wird, oder für die Datenerhebung und -nutzung bzw. Sicherheitsmaßnahmen von Dritten aus.
+
+**Im  Folgenden wird beschrieben, an welche Kategorien an Empfängern und unter welchen Umständen wir Ihre Daten weitergeben:**
+
+  * Unternehmen aus unserer Unternehmensgruppe;
+  * Geschäftspartner, Lieferanten und Subunternehmer zur Erfüllung eines Vertrages, den wir mit diesen oder Ihnen in Bezug auf die Dienstleistungen eingehen (z.B. Hosting, Spielersupport, Werbung);
+  * Sollten wir Unternehmen oder Vermögenswerte veräußern oder erwerben, werden wir Ihre persönlichen Daten an den potenziellen Verkäufer oder Käufer unseres Unternehmens oder unserer Vermögenswerte weitergeben;
+  * Sollten alle oder wesentliche Teile unseres Unternehmens oder unserer Vermögenswerte von Dritten erworben oder an diese übertragen werden, sind personenbezogene Daten in unserem Besitz Teil der übertragenen Vermögenswerte;
+  * Wenn wir per Gesetz oder gerichtlicher Anordnung dazu verpflichtet sind, Ihre personenbezogenen Daten offenzulegen oder weiterzugeben;
+  * Zum Schutz unserer Rechte, unseres Eigentums, unserer Sicherheit, unserer Kunden oder Dritter. Dies beinhaltet den Austausch von Informationen mit anderen Unternehmen und Organisationen zum Zweck der Wartung und Sicherung der Dienste.
+
+
+
+Wir haben angemessene Sicherheitsmaßnahmen getroffen, um zu verhindern, dass Ihre personenbezogenen Daten versehentlich verloren gehen, unberechtigterweise verwendet oder abgerufen werden bzw. verändert oder offengelegt werden. Darüber hinaus beschränken wir den Zugriff auf Ihre personenbezogenen Daten auf Mitarbeiter, Vertreter, Auftragnehmer und andere Dritte, die diesen aus einem geschäftlichen Grund benötigen. Die Verarbeitung Ihrer personenbezogenen Daten durch diese Personen erfolgt nur auf unsere Anweisung hin und unterliegt der Geheimhaltungspflicht. Wir haben Verfahren eingeführt, um jeden Verdacht auf Verletzungen des Datenschutzes zu untersuchen, und werden Sie und die zuständigen Regulierungsbehörden über Verstöße informieren, sofern wir dazu gesetzlich verpflichtet sind.
+
+**Wie lange wir Ihre Daten speichern.** Wir speichern Ihre personenbezogenen Daten nur so lange, wie dies zu den Erhebungszwecken erforderlich ist, einschließlich zur Einhaltung gesetzlicher und buchhalterischer Vorgaben sowie zur Erfüllung von Informationspflichten. Für welchen Zeitraum wir Ihre personenbezogenen Daten speichern, kann von der Art der Daten abhängen. Kriterien sind die Menge, Art und Sensibilität der personenbezogenen Daten; das potenzielle Risiko eines Schadens durch unbefugte Nutzung oder Offenlegung Ihrer personenbezogenen Daten; die Zwecke, zu denen wir Ihre personenbezogenen Daten verarbeiten und ob wir diese anderweitig erfüllen können sowie rechtliche Vorschriften.
+
+_DSGVO-Hinweis_  
+**Datentransfers.** Personenbezogene Daten können an unsere vertrauenswürdigen Partner und Dienstleister übermittelt werden, die ihre Server außerhalb des EWR betreiben. Dies dient ausschließlich dazu, Ihnen die Dienste zur Verfügung zu stellen, und erfolgt nur, soweit es dazu notwendig ist. Wir erfüllen die geltenden Anforderungen und Regelungen, die solche Datentransfers betreffen, um sicherzustellen, dass angemessene Sicherheitsmaßnahmen getroffen werden, um die Integrität Ihrer personenbezogenen Daten bei der Übertragung zu gewährleisten und zu wahren. 
+
+**Änderungen an  dieser richtlinie**
+
+Änderungen, die von Zeit zu Zeit an dieser Richtlinie vorgenommen werden, werden auf unserer Website privacy.socialquantum.com veröffentlicht. Wesentliche Änderungen oder solche Änderungen an den in dieser Richtlinie beschriebenen Datenverarbeitungsvorgängen, die für Sie oder Ihre personenbezogenen Daten relevant sind oder sich auf diese auswirken, werden Ihnen im Voraus mitgeteilt. Auf diese Weise haben Sie die Möglichkeit, die Art und die Auswirkungen der Änderungen zur Kenntnis zu nehmen und Ihre Rechte in Bezug auf die Änderungen nach eigenem Ermessen wahrzunehmen.
+
+Wenn Sie Fragen, Anliegen oder Wünsche in Bezug auf diese Richtlinie oder Ihre Daten haben, kontaktieren Sie uns bitte auf eine der folgenden Arten:
+
+  * über entsprechende Funktionen in den Diensten (Hilfeseite in unseren Spielen);
+  * über die Seite unseres Kundenservice unter [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/);
+  * per E-Mail an [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+Ein in Irland ansässiges Unternehmen (Social Quantum Ireland Limited, Registrierungsnummer 535614) veröffentlicht unsere Spiele auf Plattformen wie Amazons App-Shop, Microsofts Windows Store, ok.ru oder mail.ru.
+
+Diese Datenschutzrichtlinie gilt für Ihre Nutzung unserer Dienste, die über die genannten Plattformen vertrieben werden.
+
+Social Quantum Limited (wie in der Klausel Über uns beschrieben) bleibt der Verantwortliche für Ihre personenbezogenen Daten, wenn Sie Spiele über die genannten Plattformen spielen.
+
+**Wir bemühen uns, genaue Übersetzungen dieser Richtlinie bereitzustellen. Bitte beachten Sie jedoch, dass ausschließlich die englischsprachige Version dieser Richtlinie rechtswirksam ist.**
+
+Dernière mise à jour, 1er Juin 2018 
+
+### Politique de confidentialité
+
+**À propos de  nous**
+
+Social Quantum Limited est créée en vertu des lois de Hong Kong sous le numéro d’immatriculation 1734369 («Social Quantum»/ «nous»/ «notre»/ «nos»). Social Quantum conçoit des jeux sur mobiles et réseaux sociaux et possède des sites Internet connectés aux jeux (collectivement désigné comme les «Services»). Nos coordonnées.
+
+Dans le cas où vous installez nos jeux depuis Amazon Appstore, Microsoft Windows App Store ou que vous jouez via ok.ru, mail.ru, veuillez également vous reporter aux informations supplémentaires.
+
+Aux fins du Règlement Général sur la Protection des Données, Social Quantum Limited est responsable du traitement de vos données personnelles.
+
+**À propos de  notre Politique de confidentialité**
+
+Cette Politique de confidentialité (la «Politique») décrit comment et pourquoi nous traitons vos données personnelles, vos droits et vos obligations dans ce contexte.
+
+En utilisant nos services, vous acceptez les conditions de cette politique de confidentialité et vous confirmez votre compréhension de nos méthodes de collecte et d’utilisation de vos informations.
+
+Cette Politique décrit notre démarche mondiale de traitement des données personnelles. Dans le cas où nous référons à «Note sur le RGPD», cela signifie que ladite section a pour objectif la satisfaction des besoins du Règlement Général sur la Protection des Données (EU) 2016/679 (le «RGPD»), et elle s’applique uniquement aux utilisateurs qui, en fonction de nos données, sont établis dans l’Espace Économique Européen («EEE»).
+
+**Limite d'âge**
+
+Nous ne tentons pas sciemment de solliciter ou de recueillir des informations auprès des enfants. Si vous êtes âgé de moins de 16 ans (ou âge de la majorité numérique dans votre pays), ne nous envoyez pas vos informations personnelles (nom, adresse postale, adresse électronique, etc.) sans l’accord de vos parents. Veuillez nous contacter si vous pensez que nous sommes susceptible de détenir des renseignements concernant votre enfant de moins de 16 ans (ou âge de la majorité numérique dans votre pays).
+
+Les informations que vous nous communiquez lorsque vous correspondez avec nous, quand vous utilisez nos Services ou que vous signalez un problème avec nos Services. Ces informations peuvent inclure:
+
+  * Des données d’identité: nom, adresse électronique, informations sur votre profil.
+  * Vos messages envoyés aux Services.
+  * Votre CV lorsque vous le chargez sur nos sites Internet.
+
+
+
+**Les informations que nous recueillons sur vous automatiquement:**
+
+Des données techniques: informations techniques, y compris
+
+  * Votre adresse IP;
+  * Des informations sur votre appareil (identifiant de l’appareil, modèle, type de système d’exploitation, identifiant publicitaire, adresse MAC). L’identifiant publicitaire est un identifiant réinitialisable d’utilisateur généré par votre appareil ou votre système d’exploitation qui permet aux annonceurs en ligne de suivre l’utilisation de l’application par l’utilisateur, et qui lui propose de la publicité personnalisée;
+  * Des informations de connexion;
+  * Le type du navigateur et sa version;
+  * Des données de géolocalisation (pays et ville), réglage du fuseau horaire et de la langue;
+  * Push token.
+  * Nous créons un identifiant utilisateur unique pour suivre votre utilisation de notre Service.
+
+
+
+Données d’utilisation: des informations concernant votre utilisation, y compris
+
+  * Votre progression dans le jeu;
+  * Vos interactions avec les autres joueurs;
+  * Vos données de jeu;
+  * La durée d’utilisation;
+  * La date d’installation de l’application;
+  * Les erreurs utilisateur.
+
+
+
+**Les informations vous concernant que nous recueillons auprès  de tiers**
+
+  * Les données que nous recevons si vous inscrivez à nos Services en utilisant des comptes de réseaux sociaux (par exemple, Facebook). Cela peut inclure des noms, des identifiants de réseaux sociaux, le nombre de vos amis;
+  * Nous recevons de la part des plateformes que vous utilisez des données concernant les dates et la quantité de paiements en jeu que vous avez effectués;
+  * Nous pouvons éventuellement recevoir des données d’utilisation et techniques de la part de fournisseurs de services qui nous aident à mettre les Services à votre disposition (par exemple, le tiers SDK qui permet le suivi d’utilisation d’applications mobiles, des installations et des téléchargements).
+
+
+
+_Note RGPD:_ nous ne demandons ni ne collectons aucune information personnelle qui relève de vos données personnelles sensibles ni aucune catégorie spéciale de données personnelles sous le RGPD.
+
+**Cookies.** Nous pouvons utiliser des cookies sur nos sites Internet. Les «Cookies» sont de petits fichiers textes qui sont conservés par votre navigateur sur votre ordinateur. Ils servent normalement à réunir des informations statistiques et à analyser vos habitudes d’utilisation ou d’accès à un site Internet. Les cookies ne peuvent pas servir à exécuter des programmes ou à transmettre des virus à votre ordinateur. Nous utilisons les cookies pour recueillir des informations telles que les adresses IP, le type de système d’exploitation, le type de navigateur, la langue du navigateur, l’historique des requêtes. Vous pouvez configurer les paramètres de votre navigateur ou de votre appareil pour limiter certains types de suivis effectués via les cookies.
+
+Nous utilisons vos informations personnelles aux fins suivantes
+
+  * Pour fournir les Services (par exemple, pour créer des comptes, faire fonctionner le Service, vous permettre de communiquer avec d’autres joueurs, enregistrer votre progression de jeu);
+  * Pour répondre à vos demandes et pour gérer nos relations avec vous (par exemple, pour proposer un service clients);
+  * Pour vous assurer, à vous et à votre ordinateur ou équipement, la présentation la plus efficace des Services.
+  * Pour vérifier et confirmer les paiements.
+
+
+
+_Note RGPD:_ nous utilisons vos informations aux fins énumérées ci-dessus afin de conclure un contrat avec vous et parce que nous avons des intérêts légitimes à répondre aux demandes des nouveaux utilisateurs ou à ceux déjà existants afin de développer notre activité, de conserver nos dossiers à jour et d'étudier la façon dont les utilisateurs se servent de nos Services.
+
+  * Pour afficher les publicités dans nos jeux. Il se peut que nos partenaires vous montrent des publicités ciblées dans nos jeux. Désinscription.
+  * Pour mesurer et comprendre l’efficacité des publicités que nous vous proposons.
+  * Pour envoyer des notifications push avec les mises à jour du jeu, les résultats élevés et les autres Services en lien avec les notifications qui pourraient être importantes pour vous. Vous pouvez vous désinscrire afin de ne plus recevoir de notifications push en les désactivant au niveau de l’appareil dans vos paramètres.
+
+
+
+_Note RGPD_ : nous utilisons vos informations aux fins énumérées ci-dessus car nous avons des intérêts légitimes à développer et à promouvoir nos Services, à proposer et à améliorer nos publicités, à faire croître notre activité et à étudier la façon dont les clients utilisent nos Services.
+
+  * Pour administrer et protéger notre activité et nos Services, et pour des opérations internes, y compris la résolution des problèmes, les analyses de données, les essais, la recherche, à des fins statistiques et d’enquêtes.
+  * Pour utiliser des analyses de données afin d’améliorer ou d’optimiser nos Services, le marketing, les relations et les expériences des clients.
+
+
+
+_Note RGPD:_ nous utilisons vos informations aux fins énumérées ci-dessus car nous avons des intérêts légitimes à exercer notre activité, à maintenir nos Services protégés et sûrs, à garder nos Services à jour et pertinents.
+
+  * Lorsque vous nous transmettez votre CV, nous utilisons vos données afin de confirmer l’adéquation de votre profil avec le poste et afin de communiquer avec vous. Nous utilisons ces informations car nous avons des intérêts légitimes à recruter des talents et pour développer notre activité.
+
+
+
+Nous ne prenons aucune décision sur le seul fondement d’un traitement automatisé, y compris le profilage.
+
+**Changement de  finalité.** Nous n’utiliserons vos données personnelles qu’aux fins pour lesquelles nous les avons recueillies ou pour des raisons adaptées. Dans le cas où nous utilisons vos données personnelles dans un but différent, nous vous en informerons et nous vous expliquerons le cadre juridique qui nous y autorise.
+
+**Se  désinscrire de la publicité ciblée.** À tout moment, vous pouvez vous désinscrire de la publicité ciblée en réglant les paramètres de votre appareil ou de votre navigateur de la manière suivante:
+
+  * Pour iOS: Veuillez suivre les instructions accessibles via https://support.apple.com/en-us/ht202074#iOS;
+  * Pour Android: veuillez suivre les instructions sur le lien https://support.google.com/ads/answer/2662922?hl=en;
+  * Pour Windows, veuillez suivre les instructions accessibles via https://account.microsoft.com/privacy/ad-settings/signedout?lang=en-GB;
+  * Vous pouvez configurer les paramètres de votre navigateur ou de votre appareil pour limiter certains suivis effectués via les cookies. Pour plus d’infos, vous êtes invité à vous rendre sur les sites http://www.aboutads.info/choices et http://www.youronlinechoices.eu.
+
+
+
+**Accéder à vos données  personnelles.** À tout moment, vous pouvez demander l’accès à une copie des données personnelles que nous possédons vous concernant. Dans ce cas, nous devrons vérifier votre identité. Il se peut alors que nous vous demandions d’autres informations ou clarifications pour nous aider à trouver et à vous transmettre les données personnelles demandées.
+
+**Correction.** S’il s’avère que les informations personnelles en notre possession sont inexactes, vous pourrez demander qu’elles soient mises à jour et corrigées.
+
+Vous pouvez aussi bénéficier d’autres droits prévus par la législation de votre pays. En particulier, sous le RGPD, vous disposez de droits sur la portabilité des données, le droit de supprimer vos données, de protester contre la façon dont nous utilisons ou partageons vos données, de restreindre la façon dont nous utilisons ou partageons vos données.
+
+Veuillez nous contacter pour exercer un droit ou recevoir plus d’informations. Nous répondrons à toutes les demandes dans un délai raisonnable.
+
+Nous nous engageons à respecter les conditions conformément à la règlementation en matière de protection des données et de traitement des données personnelles de manière juste, licite et transparente. Si, toutefois, vous pensez que nous n’avons pas rempli nos obligations conformément à la règlementation de la protection des données, vous avez le droit de déposer une plainte auprès de l’autorité de surveillance de votre pays.
+
+Nous pouvons diffuser de la publicité au cours du jeu. Les annonceurs pourront éventuellement accéder à vos données et agir en fonction de leur propre politique de confidentialité. Nous vous encourageons à lire attentivement leur politique de confidentialité.
+
+Facebook  
+Politique de confidentialité: https://www.facebook.com/about/privacy
+
+IronSource  
+Politique de confidentialité: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Politique de confidentialité: https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+Politique de confidentialité: https://www.hyprmx.com/pp.html
+
+Fyber  
+Politique de confidentialité: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Politique de confidentialité: https://vungle.com/privacy/
+
+Les tiers sont susceptibles d’utiliser des cookies, des balises Web et d’autres technologies de suivi pour collecter et recevoir des données à votre sujet. En outre, ces tiers peuvent faire valoir leurs droits de contrôleur des données relativement à vos données personnelles. Nous nous efforçons toujours de travailler avec des partenaires qui ont mis en place des mesures de sécurité adéquates afin de garantir la sécurité des données personnelles. Ceci dit, et dans la limite maximum permise par la loi applicable, nous, nos employés, nos représentants, notre entreprise mère et ses filiales, déclinons toute responsabilité découlant du contenu ou de la fiabilité des matériaux tiers ou des sites Internet référencés par liens hypertextes ou tout autre moyen des Services ou pour la collecte de données et des pratiques d’utilisation ou des mesures de sécurité employées par ces tiers.
+
+**Nous pourrons éventuellement partager vos informations personnelles avec les catégories de  destinataires et dans les circonstances suivantes:**
+
+  * Les entreprises faisant partie de notre groupe;
+  * Les partenaires commerciaux, les fournisseurs et sous-traitants pour l’exécution de tout contrat conclu avec eux ou vous en lien avec les Services (par exemple, l’hébergement, l’assistance aux joueurs, la publicité);
+  * Dans le cas où nous vendons ou achetons une activité ou des biens, auquel cas nous pourrions divulguer vos données personnelles au vendeur ou acheteur potentiel de notre activité ou des biens;
+  * Si la totalité ou la quasi-totalité de notre activité ou de nos biens était acquise ou transférée à un tiers, dans ce cas, vos données personnelles en notre possession feraient partie des biens transférés;
+  * Si nous sommes dans l’obligation de publier ou de partager vos données personnelles afin de nous conformer avec une loi, une obligation juridique ou une décision judiciaire qu’elle quelle soit;
+  * Pour protéger nos droits, la propriété ou la sécurité, nos clients ou autre. Cela inclut l'échange d’informations avec d’autres entreprises et organisations pour la maintenance et la sécurité des Services.
+
+
+
+Nous avons mis en place des mesures de sécurité appropriées pour empêcher la perte accidentelle, un accès et une utilisation non autorisés, une modification ou une divulgation de vos données personnelles. Par ailleurs, nous limitons l’accès à vos données personnelles aux employés, représentants, entrepreneurs et autres tiers qui ont un besoin d’en connaître. Ils ne traiteront vos données personnelles que selon nos instructions et ils sont soumis à un devoir de confidentialité. Nous avons mis en place des procédures pour gérer toute suspicion de violation de données personnelles et nous vous informerons ainsi que tout autre régulateur d’une violation où nous sommes contraints par la loi.
+
+**Durée  de conservation de vos informations.** Nous ne conservons vos données personnelles que le temps nécessaire à la réalisation des objectifs pour lesquels elles ont été collectées, y compris dans le but de répondre aux exigences en matière juridique, comptable ou de suivi. La durée de temps pendant laquelle nous conservons vos données personnelles peut dépendre du type de données en notre possession compte tenu de la quantité, de la nature et de la sensibilité des données personnelles, du risque potentiel provenant d’une utilisation ou de la publication non autorisée de vos données personnelles, des fins pour lesquelles nous traitons vos données personnelles et si nous pouvons atteindre ces objectifs par d’autres moyens, et les exigences juridiques applicables.
+
+_Note RGPD_
+
+**Transferts.** Vos données personnelles pourront être transférées à nos partenaires et à nos fournisseurs de services de confiance, lesquels conservent leurs serveurs en dehors de l’EEE. Aux fins uniquement de pouvoir vous proposer, et dans la mesure nécessaire à vous proposer, les Services. Nous nous conformerons aux exigences applicables pour de tels transferts de données, afin de réglementer ces transferts de données et de veiller à ce que les mesures de sécurité soient en place pour garantir et maintenir l’intégrité de vos données personnelles pendant le transfert.
+
+Toute modification apportée de temps en temps à cette Politique sera publiée sur notre site Internet privacy.socialquantum.com. Tout matériel ou autre modification des opérations de traitement des données décrits dans cette Politique qui seront pertinents ou qui vous impacteront, vous ou vos données personnelles, vous seront communiqués par avance. De cette façon, vous aurez l’opportunité de considérer la nature et l’impact de la modification et d’exercer vos droits en lien avec ce changement comme il vous convient.
+
+En cas de question, de problème ou de demande en lien avec cette Politique ou de vos données, veuillez nous contacter grâce à l’un des moyens suivants:
+
+  * via les fonctionnalités des Services (page Aide dans nos jeux);
+  * vianotre page d’assistance client en suivant le lien [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/);
+  * envoyez-nous un courriel à [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+L’entreprise installée en Irlande (Social Quantum Ireland Limited, numéro d’entreprise 535614) publie nos jeux sur des plateformes telles qu’Amazon Appstore, Microsoft Windows App Store, ok.ru, mail.ru.
+
+Cette Politique de confidentialité s’appliquera à votre utilisation de nos Services distribués via les plateformes mentionnées ci-dessus.
+
+Social Quantum Limited (comme décrit dans l’article À propos de nous) demeure le contrôleur de vos données personnelles si vous jouez aux jeux via les plateformes susmentionnées.
+
+**Nous faisons de  notre mieux pour vous proposer une traduction exacte de cette Politique. Toutefois, sachez que seule la version en anglais de cette Politique aura une valeur juridique.**
+
+Ultimo aggiornamento: 1 Giugno 2018 
+
+### Informativa sulla privacy
+
+**Chi siamo**
+
+Social Quantum Limited è una società istituita ai sensi della legislazione di Hong Kong con numero di registrazione 1734369 («Social Quantum»/«noi»/«ci»/«nostro(i)/a(e)»). Social Quantum sviluppa giochi per cellulare e social network e possiede i siti web associati ai suddetti giochi (collettivamente, i «Servizi»). I nostri recapiti.
+
+Se l’utente installa i nostri giochi da Amazon Appstore, Microsoft Windows App Store o gioca tramite ok.ru, mail.ru, è bene che consulti anche le Informazioni supplementari.
+
+Ai sensi del GDPR, Social Quantum Limited è il titolare dei dati personali dell’utente.
+
+**La  nostra Informativa sulla privacy**
+
+La presente Informativa sulla privacy (l’«Informativa») descrive come e perché trattiamo i dati personali dell’utente, nonché i suoi diritti e i nostri obblighi in relazione a tale trattamento.
+
+Utilizzando i nostri servizi l’utente accetta i termini della presente informativa sulla privacy e conferma la presa visione delle modalitÀ con cui raccogliamo e utilizziamo i suoi dati.
+
+La presente Informativa descrive il nostro approccio generale al trattamento dei dati personali. La presenza della dicitura «nota GDPR» in una determinata sezione, indica che l’obiettivo della stessa consiste nel soddisfare i requisiti del Regolamento Generale sulla Protezione dei Dati (UE) 2016/679 (il «GDPR»), e si applica esclusivamente agli utenti che, sulla base dei nostri dati, risiedono nello Spazio Economico Europeo («SEE»).
+
+**Limiti di  età**
+
+Non tentiamo volutamente di richiedere o ricevere informazioni da minori. Se l’utente ha meno di 16 anni (o l’età del consenso digitale nel proprio paese), lo stesso è pregato di non inviarci le proprie informazioni personali (nome, indirizzo, indirizzo e-mail, ecc.) senza il consenso dei genitori. L’utente è pregato di contattarci qualora dovesse ritenere che potremmo detenere dati sul proprio figlio/a di età inferiore ai 16 anni (o l’età del consenso digitale nel proprio paese).
+
+**Informazioni che ci  vengono fornite dall’utente** negli scambi di corrispondenza con noi, quando utilizza i nostri Servizi o segnala un problema con i nostri Servizi. Queste informazioni possono includere:
+
+  * Dati di identità: nome, indirizzo e-mail, informazioni sul profilo.
+  * I messaggi dell’utente ai Servizi.
+  * Il CV dell’utente quando quest’ultimo lo carica sui nostri siti web.
+
+
+
+**Informazioni che raccogliamo sul conto dell’utente** in automatico:
+
+Dati tecnici: informazioni tecniche, tra cui:
+
+  * Indirizzo IP;
+  * Informazioni relative al dispositivo (ID del dispositivo, tipo di sistema operativo, ID annunci, indirizzo MAC). L’ID annunci è un ID reimpostabile dall’utente generato dal dispositivo o dal sistema operativo che consente agli inserzionisti online di monitorare l’utilizzo delle applicazioni da parte dell’utente e fornire pubblicità personalizzata;
+  * Dati di accesso;
+  * Tipo e versione del browser;
+  * Dati di geolocalizzazione (paese e città), impostazioni del fuso orario e impostazioni della lingua;
+  * Token push.
+  * Creiamo un ID utente univoco per monitorare l’utilizzo del nostro Servizio da parte dell’utente.
+
+
+
+Dati di utilizzo: informazioni sull’utilizzo da parte dell’utente, tra cui:
+
+  * Progressi di gioco;
+  * Interazioni con altri giocatori;
+  * Dati di gioco;
+  * Durata di utilizzo;
+  * Data di installazione dell’applicazione;
+  * Errori utente
+
+
+
+**Informazioni sul conto dell’utente raccolte da  soggetti terzi**
+
+  * Dati che riceviamo se l’utente accede ai nostri Servizi utilizzando gli account dei social network (ad esempio, Facebook). Questi potrebbero includere nome, ID del social network, numero di amici;
+  * Dati sulla data e l’importo del pagamento di gioco effettuato dall’utente e da noi ricevuto dalle piattaforme su cui vengono eseguiti i nostri giochi;
+  * Potremmo ricevere Dati tecnici e di utilizzo dai service provider che ci assistono a fornire all’utente i Servizi (es. SDK di terzi che consente il monitoraggio dell’utilizzo, delle installazioni e dei download delle applicazioni mobili).
+
+
+
+_Nota GDPR:_ non richiediamo né raccogliamo dati personali che siano dati personali sensibili o categorie speciali di dati personali ai sensi del GDPR.
+
+**Cookie.** Potremmo utilizzare cookie sui nostri siti web. I «cookie» sono piccoli file di testo che vengono memorizzati dal browser sul computer dell’utente e sono normalmente utilizzati per raccogliere informazioni statistiche e per analizzare le tendenze di utilizzo o l’accesso a un sito web. I cookie non possono essere utilizzati per eseguire programmi o recapitare virus sul computer dell’utente. Utilizziamo i cookie per raccogliere informazioni come indirizzo IP, tipo di sistema operativo, tipo di browser, lingua del browser e la cronologia delle ricerche. L’utente ha la possibilità di regolare le impostazioni del browser o del dispositivo per limitare un determinato tracciamento per mezzo di cookie.
+
+Utilizziamo le informazioni personali dell’utente per i seguenti scopi:
+
+  * Per fornire i Servizi (ad es., per creare account, far funzionare il Servizio, consentire all’utente di comunicare con altri giocatori, salvare i progressi di gioco);
+  * Per rispondere alle domande dell’utente e gestire la nostra relazione con lo stesso (es., per fornire l’assistenza clienti);
+  * Per garantire che i Servizi vengano presentati nella maniera più efficace per l’utente e per il computer o il dispositivo dell’utente.
+  * Per verificare e confermare i pagamenti.
+
+
+
+_Nota GDPR:_ utilizziamo le informazioni dell’utente per i suddetti scopi al fine di siglare un contratto con lo stesso e perché abbiamo interesse nel rispondere alle domande degli utenti nuovi o esistenti e nel far crescere la nostra attività, mantenere aggiornati i nostri registri e analizzare il modo in cui i clienti utilizzano i nostri Servizi.
+
+  * Per mostrare pubblicità nei nostri giochi. I nostri partner potrebbero anche mostrare pubblicità personalizzata all’utente nei nostri giochi. Rifiuto esplicito.
+  * Per misurare e comprendere l’efficacia della pubblicità che trasmettiamo all’utente.
+  * Per inviare notifiche push con aggiornamenti di gioco, record e altre notifiche correlate ai Servizi che potrebbero essere di interesse per l’utente stesso. L’utente ha la facoltà di rifiutare la ricezione delle notifiche push disattivandole sul dispositivo dalle impostazioni.
+
+
+
+_Nota GDPR:_ utilizziamo le informazioni dell’utente per i suddetti scopi poiché abbiamo interesse nello sviluppare e promuovere i nostri Servizi, trasmettere e migliorare la nostra pubblicità, far crescere la nostra attività e analizzare il modo in cui i clienti utilizzano i nostri Servizi.
+
+  * Per amministrare e proteggere la nostra attività e i nostri Servizi e per le operazioni interne, tra cui risoluzione dei problemi, analisi dei dati, test, ricerca, scopi statistici e di sondaggio.
+  * Per utilizzare l’analisi dei dati per migliorare o ottimizzare i nostri Servizi, il marketing, le relazioni e le esperienze con i clienti.
+
+
+
+_Nota GDPR:_ utilizziamo le informazioni dell’utente per i suddetti scopi poiché abbiamo interesse nel portare avanti la nostra attività e mantenere i nostri Servizi sicuri e protetti, nonché mantenere i nostri Servizi aggiornati e pertinenti.
+
+  * Nel momento in cui l’utente trasmette il proprio CV, utilizziamo i suoi dati per verificare la sua idoneità a un determinato impiego e per comunicare con lo stesso. Utilizziamo queste informazioni poiché abbiamo interesse nel reclutare talenti e far crescere la nostra attività.
+
+
+
+Non eseguiamo alcun processo decisionale basato esclusivamente sul trattamento automatizzato, ivi compresa la profilazione.
+
+**Modifica dello scopo.** Utilizzeremo i dati personali dell’utente esclusivamente per gli scopi per i quali li abbiamo raccolti o per motivi compatibili. Se abbiamo la necessità di utilizzare i dati personali dell’utente per altro scopo, provvederemo ad avvisare lo stesso e spiegheremo la base legale che ci consente di farlo.
+
+**Rifiuto esplicito della pubblicità personalizzata.** L’utente può rifiutare la pubblicità personalizzata regolando le impostazioni del dispositivo o del browser nel seguente modo:
+
+  * Per iOS: seguire le istruzioni riportate all’indirizzo https://support.apple.com/it-it/HT202074;
+  * Per Android: seguire le istruzioni riportate all’indirizzo https://support.google.com/ads/answer/2662922?hl=it;
+  * Per Windows seguire le istruzioni riportate all’indirizzo https://account.microsoft.com/privacy/ad-settings/signedout?lang=it-IT;
+  * L’utente ha la possibilità di regolare le impostazioni del browser o del dispositivo per limitare un determinato tracciamento per mezzo di cookie visitando i seguenti siti http://www.aboutads.info/choices e http://www.youronlinechoices.eu.
+
+
+
+**Accesso ai  Dati personali dell’utente.** L’utente potrebbe richiedere in qualsiasi momento l’accesso a una copia dei dati personali che deteniamo sul suo conto. Dovremo verificare l’identità dell’utente in tali circostanze e potremmo richiedere ulteriori informazioni o chiarimenti allo stesso qualora dovessero essere necessari per aiutarci a identificare e fornire i dati personali richiesti.
+
+**Correzione.** Se le informazioni personali che deteniamo sul conto dell’utente dovessero rivelarsi inaccurate, potremmo richiederne l’aggiornamento e la correzione.
+
+L’utente potrebbe anche disporre di altri diritti ai sensi della legislazione vigente nel proprio paese. In particolare, ai sensi del GDPR, l’utente gode dei diritti sulla portabilità dei dati, il diritto di eliminazione dei dati, di opporsi all’utilizzo o condivisione dei dati e di limitare la modalità con cui utilizziamo o condividiamo i suoi dati.
+
+L’utente è pregato di contattarci per esercitare uno qualsiasi dei suoi diritti o ricevere ulteriori informazioni. Risponderemo a tutte le richieste entro un lasso di tempo ragionevole.
+
+Ci impegniamo a rispettare i termini delle normative sulla protezione dei dati in vigore e al trattamento dei dati personali in modo equo, legittimo e trasparente. Tuttavia, qualora l’utente dovesse ritenere che non abbiamo rispettato i nostri obblighi ai sensi delle normative sulla protezione dei dati in vigore, lo stesso avrà il diritto di presentare un reclamo all’autorità di vigilanza del proprio paese.
+
+Abbiamo la facoltà di mostrare pubblicità all’interno dei giochi. Gli inserzionisti potrebbero accedere ai dati dell’utente e operano in ottemperanza alle proprie informative sulla privacy. L’utente è invitato a leggere attentamente le rispettive informative sulla privacy.
+
+Facebook  
+Informativa sulla privacy: https://www.facebook.com/about/privacy
+
+IronSource  
+Informativa sulla privacy: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Informativa sulla privacy: https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+Informativa sulla privacy: https://www.hyprmx.com/pp.html
+
+Fyber  
+Informativa sulla privacy: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Informativa sulla privacy: https://vungle.com/privacy/
+
+Soggetti terzi possono utilizzare cookie, web beacon e altre tecnologie di tracciamento per raccogliere o ricevere dati sull’utente e rivendicare diritti di titolare dei dati sui suoi dati personali. Ci impegniamo costantemente a trattare con partner che dispongono di misure di sicurezza adeguate per salvaguardare la sicurezza dei dati personali. Detto questo, e nella misura massima consentita dalla legge applicabile, noi, i nostri dipendenti, agenti, società controllanti e controllate, non accettiamo alcuna responsabilità in qualsiasi modo derivante dal contenuto o dall’affidabilità di materiali o siti Web di terzi a cui fa riferimento un collegamento ipertestuale o altri mezzi sui Servizi o per la raccolta dei dati e le pratiche di utilizzo o le misure di sicurezza utilizzate da tali soggetti terzi.
+
+**Potremmo condividere i  dati personali con le seguenti categorie di destinatari e nelle seguenti circostanze:**
+
+  * Società all’interno del nostro gruppo;
+  * Partner commerciali, fornitori e subappaltatori per l’esecuzione di qualsiasi contratto stipulato con essi o con l’utente in relazione ai Servizi (ad esempio hosting, supporto per i giocatori, pubblicità);
+  * Se mai dovessimo vendere o acquistare attività o beni, nel qual caso comunicheremo i dati personali al potenziale venditore o acquirente della nostra attività o dei nostri beni;
+  * Se tutte o sostanzialmente tutte le nostre attività o i nostri beni sono acquisiti da o trasferiti a soggetti terzi, nel qual caso i dati personali da noi detenuti saranno uno dei beni trasferiti;
+  * Se abbiamo l’obbligo di divulgare o condividere i dati personali dell’utente al fine di rispettare qualsiasi legge, obbligo legale o ordinanza del tribunale;
+  * Per proteggere i nostri diritti, la nostra proprietà o la nostra sicurezza, i nostri clienti o altri soggetti. Ciò include lo scambio di informazioni con altre società e organizzazioni per la manutenzione e la sicurezza dei Servizi.
+
+
+
+Abbiamo predisposto adeguate misure di sicurezza per impedire che i dati personali dell’utente vengano persi accidentalmente, utilizzati o consultati in maniera non autorizzata, alterati o divulgati. Inoltre, limitiamo l’accesso ai dati personali ai dipendenti, agenti, appaltatori e altre terze parti che hanno necessità di conoscerli per esigenze di business. Questi ultimi tratteranno i dati personali dell’utente solo sulla base delle nostre istruzioni e sono soggetti a un obbligo di riservatezza. Abbiamo messo in atto procedure per far fronte a qualsiasi sospetta violazione dei dati personali e informeremo l’utente e qualsiasi ente regolatore competente di una violazione laddove abbiamo l’obbligo legale di farlo.
+
+**Durata di  conservazione delle informazioni.** Conserveremo i dati personali dell’utente solo per il tempo necessario a soddisfare gli scopi per cui sono stati raccolti, anche ai fini di adempiere a eventuali requisiti legali, contabili o di segnalazione. Il periodo di tempo per il quale conserviamo i dati personali dell’utente può dipendere dal tipo di dati da noi detenuti considerando la quantità, la natura e la sensibilità dei dati personali, il potenziale rischio di danno dall’uso o dalla divulgazione non autorizzati dei dati personali, gli scopi per cui trattiamo i dati personali e se siamo in grado di raggiungere tali scopi con altri mezzi e con i requisiti legali applicabili.
+
+_Nota GDPR_  
+**Trasferimenti.** I Dati personali potrebbero essere trasferiti ai nostri partner e service provider di fiducia che mantengono i loro server al di fuori del SEE. Ciò viene fatto esclusivamente allo scopo di fornire i Servizi all’utente e nella misura necessaria per fornirli. Rispetteremo i requisiti applicabili per tali trasferimenti di dati, per disciplinare tali trasferimenti di dati e garantire che vengano messe in atto misure di sicurezza adeguate per salvaguardare e mantenere l’integrità dei dati personali all’atto del trasferimento.
+
+Eventuali modifiche apportate saltuariamente alla presente informativa saranno pubblicate sul nostro sito web privacy.socialquantum.com. Qualsiasi modifica sostanziale o di altra natura alle attività di trattamento dei dati descritta nella presente Informativa che sia rilevante o abbia un impatto sull’utente o sui suoi dati personali, sarà comunicata anticipatamente allo stesso utente. In tal modo, l’utente avrà l’opportunità di considerare la natura e l’impatto della modifica e di esercitare i propri diritti in relazione a tale modifica nella maniera che ritiene più opportuna.
+
+In caso di domande, perplessità o richieste in relazione alla presente Informativa o ai dati, l’utente è invitato a contattarci tramite uno dei seguenti modi:
+
+  * utilizzando la funzionalità dei Servizi (pagina Aiuto nei nostri giochi);
+  * utilizzando la pagina della nostra assistenza clienti all’indirizzo [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/);
+  * contattandoci via email all’indirizzo [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+Società con sede in Irlanda (Social Quantum Ireland Limited, numero di iscrizione della società 535614) pubblica i nostri giochi su piattaforme quali Amazon Appstore, Microsoft Windows App Store e ok.ru, mail.ru.
+
+La presente Informativa sulla privacy si applica all’utilizzo da parte dell’utente dei nostri Servizi distribuiti attraverso le suddette piattaforme.
+
+Social Quantum Limited (come descritto nella sezione Chi siamo) rimane il titolare dei dati personali se l’utente gioca tramite le suddette piattaforme.
+
+**Facciamo del nostro meglio per fornire traduzioni accurate della presente Informativa. Tuttavia, si  prega di tenere presente che soltanto la versione inglese della presente Informativa avrà effetto legale.**
+
+Última actualización: 1 de Junio de 2018 
+
+### Política de privacidad
+
+**Sobre nosotros**
+
+Social Quantum Limited se ha establecido de conformidad con la legislación de Hong Kong con el número de registro 1734369 (Social Quantum/nosotros/nuestro). Social Quantum desarrolla juegos móviles y sociales, y es la propietaria de los sitios web vinculados con los juegos (colectivamente, los Servicios). Nuestra información de contacto.
+
+Si has instalado nuestros juegos desde Amazon Appstore, Microsoft Windows App Store, o juegas a través de ok.ru o mail.ru, consulta también la Información adicional.
+
+A efectos del RGPD, Social Quantum Limited es el responsable de tus datos personales.
+
+**Sobre nuestra Política de  Privacidad**
+
+Esta política de privacidad (en lo sucesivo, la Política) describe cómo y por qué procesamos tus datos personales, tus derechos y nuestras obligaciones en relación con este tratamiento.
+
+Al utilizar nuestros servicios muestras tu conformidad con los tÉrminos de esta polÍtica de privacidad y confirmas que comprendes el modo en que recopilamos y usamos tu informaciÓn.
+
+Esta Política describe nuestro enfoque global y el tratamiento de los datos personales. En caso de que hagamos referencia al «nota del RGPD», el objetivo de esa sección es cumplir con los requisitos del Reglamento General de Protección de Datos (EU) 2016/679 (el RGPD), y se aplica únicamente a los usuarios que, según nuestros datos, estén ubicados en el Área Económica Europea (AEE).
+
+**Límites de  edad**
+
+No intentamos recibir o solicitar conscientemente información de menores. En caso de que tengas menos de 16 años (o la edad mínima para acceder a productos digitales de tu país), no nos envíes tu información personal (nombre, dirección, dirección de correo electrónico, etc.) sin el permiso de tus padres. Ponte en contacto con nosotros si crees que podríamos tener información de tus hijos menores de 16 años (o la edad mínima para acceder a productos digitales de tu país).
+
+La información que nos proporcionas al ponerte en contacto con nosotros al usar nuestros Servicios, o cuando nos informas de un problema con nuestros Servicios. Esta información puede incluir:
+
+  * Datos de identidad: nombre, dirección de correo electrónico, información de perfil.
+  * Tus mensajes a los Servicios. 
+  * El CV cuando lo subes a nuestras páginas.
+
+
+
+Información que recopilamos sobre ti automáticamente:
+
+Datos técnicos: información técnica que incluye:  
+
+
+  * Dirección IP. 
+  * Información del dispositivo (ID del dispositivo, tipo de sistema operativo, ID de publicidad, dirección MAC). La ID de publicidad es una ID del usuario que puede restablecerse, se genera mediante tu dispositivo o sistema operativo y permite que los anunciantes de Internet rastreen el uso del usuario de las aplicaciones y proporcionen anuncios personalizados.
+  * Información de inicio de sesión.
+  * Tipo de navegador y versión. 
+  * Datos de geolocalización (país y ciudad), ajustes de zona horaria y ajustes de idioma. 
+  * Token de inserción. 
+  * Creamos una ID de usuario única para registrar el uso que haces de nuestro Servicio.
+
+
+
+Datos de uso: información de tu uso, incluido:  
+
+
+  * Progreso del juego.
+  * Interacciones con otros jugadores.
+  * Datos del juego.
+  * Tiempo de uso. 
+  * Fecha de instalación de la aplicación.
+  * Errores de usuario. 
+
+
+
+Información sobre ti que recopilamos de terceros
+
+  * Datos que recibimos si te conectas a nuestros Servicios usando una cuenta de redes sociales (como Facebook). Esto puede incluir nombre, ID de redes sociales y número de amigos.
+  * Datos sobre fecha y cantidad de pagos realizados desde el juego que recibimos de las plataformas en las que está disponible nuestro juego.
+  * Podemos recibir datos técnicos y de uso de proveedores de servicios que nos ayudan a proporcionarte Servicios (como SDK de terceros que nos permiten registrar el uso de la aplicación móvil, instalaciones y descargas).
+
+
+
+_Nota del RGPD:_ no requerimos ni recopilamos datos personales que incluyan datos personales sensibles ni ninguna categoría especial de datos personales recogidos en el RGPD.
+
+Cookies. Podemos usar cookies en nuestros sitios web. Las cookies son pequeños archivos de texto almacenados por tu navegador en tu ordenador que habitualmente se usan para recopilar información estadística y para analizar tendencias de uso o de acceso a un sitio web. Las cookies no pueden utilizarse para ejecutar programas o introducir virus en tu ordenador. Usamos cookies para recopilar información como la dirección IP, el tipo de sistema operativo, el tipo de navegador, el idioma del navegador y el historial de búsquedas. Puedes modificar los ajustes de tu navegador o dispositivo para limitar el seguimiento mediante cookies.
+
+Usamos tu información personal con los siguientes fines:
+
+  * Para proporcionar los Servicios (p. ej. para crear cuentas, gestionar el Servicio, permitir que te comuniques con otros jugadores, guardar tu progreso en el juego).
+  * Para responder a tus preguntas y gestionar nuestra relación contigo (para proporcionar el servicio de asistencia al cliente, por ejemplo).
+  * Para asegurarnos de que los Servicios se ofrecen de la forma más efectiva para ti y tu ordenador o dispositivo.
+  * Para verificar y confirmar pagos.
+
+
+
+_Nota del RGPD:_ usamos tu información con los fines mencionados para establecer un contrato contigo y porque tenemos el interés legítimo de responder a preguntas de usuarios nuevos o existentes y de aumentar nuestro negocio, de mantener nuestros registros actualizados y de estudiar cómo utilizan los clientes nuestros Servicios.
+
+  * Para mostrar anuncios en nuestros juegos. Nuestros socios también pueden mostrarte anuncios dirigidos en nuestros juegos. Descubre cómo eliminar tu suscripción.
+  * Para medir y comprender la efectividad de los anuncios que te ofrecemos.
+  * Para enviar notificaciones push sobre actualizaciones del juego, puntuaciones máximas y otras notificaciones relacionadas con los Servicios que puedan ser de importancia para ti. Puedes dejar de recibir notificaciones push desactivándolas en los ajustes de tu dispositivo.
+
+
+
+_Nota del RGPD:_ usamos tu información con los fines mencionados porque tenemos el interés legítimo de desarrollar y promocionar nuestros Servicios, proporcionar y mejorar nuestros anuncios, hacer crecer nuestro negocio y estudiar cómo utilizan nuestros Servicios los clientes.
+
+  * Para administrar y proteger nuestro negocio y Servicios, y para realizar operaciones internas, incluida la resolución de problemas, análisis de datos, pruebas, investigación, fines estadísticos y de encuesta. 
+  * Para usar análisis de datos con el fin de mejorar u optimizar nuestros Servicios, marketing, experiencias y relaciones con el cliente. 
+
+
+
+_Nota del RGPD:_ usamos tu información con los fines mencionados porque tenemos el interés legítimo de gestionar nuestro negocio y mantener la seguridad de nuestros Servicios, y mantener nuestros Servicios actualizados.
+
+  * Cuando proporcionas tu CV, usamos tus datos para confirmar tu idoneidad para el puesto de trabajo y para comunicarnos contigo. Usamos esta información porque tenemos el interés legítimo de reclutar empleados y hacer crecer nuestro negocio.
+
+
+
+No tomamos ninguna decisión basada únicamente en el procesamiento automatizado, incluyendo la elaboración de perfiles.
+
+Cambio de propósitos: solo usaremos tus datos personales con los fines declarados para recopilarlos o por motivos compatibles. Si necesitáramos usar tus datos personales con un fin no relacionado, te notificaremos y te explicaremos la base legal que nos permite hacerlo.
+
+No participación en anuncios dirigidos. Puedes dejar de recibir anuncios dirigidos en cualquier momento modificando los ajustes de tu dispositivo o navegador de la siguiente manera:  
+
+
+  * Para iOS: sigue las instrucciones que encontrarás en https://support.apple.com/es-es/HT202074#iOS;
+  * Para Android: sigue las instrucciones que encontrarás en https://support.google.com/ads/answer/2662922?hl=es;
+  * Para Windows: sigue las instrucciones que encontrarás en https://account.microsoft.com/privacy/ad-settings/signedout?lang=es-ES;
+  * Puedes modificar los ajustes de tu navegador o dispositivo para limitar el seguimiento mediante cookies y visitar los siguientes sitios web http://www.aboutads.info/choices y http://www.youronlinechoices.eu.
+
+
+
+Acceso a tus datos personales. Puedes solicitar el acceso a una copia de los datos personales que almacenamos de ti en cualquier momento. En tal circunstancia, tendremos que verificar tu identidad y podríamos pedirte más información o aclaraciones para poder localizar y proporcionarte los datos personales solicitados.
+
+Corrección de los datos. Si la información personal que tenemos sobre ti no es correcta, puedes pedir que la actualicemos y corrijamos.
+
+La legislación de tu país puede prever otros derechos. En concreto, el RGPD recoge tu derecho a la portabilidad de datos, el derecho a eliminar tus datos, la oposición al modo en que usamos y compartimos los datos, así como la restricción sobre el modo en que usamos y compartimos tus datos.
+
+Ponte en contacto con nosotros para ejercer cualquiera de tus derechos o recibir más información. Responderemos a todas las peticiones en un margen de tiempo razonable.
+
+Estamos comprometidos con el cumplimiento de los términos de las normas aplicables de protección de datos y con el procesamiento de datos personales de manera justa, legítima y transparente. Sin embargo, si crees que no hemos cumplido con nuestras obligaciones de acuerdo con las normas aplicables de protección de datos, tienes derecho a presentar una queja a la autoridad supervisora de tu país.
+
+Podemos hacer publicidad dentro del juego. Los anunciantes podrían acceder a tus datos y regirse por sus propias políticas de privacidad. Te animamos a que leas con detenimiento dichas políticas.
+
+Facebook  
+Política de privacidad: https://www.facebook.com/about/privacy
+
+IronSource  
+Política de privacidad: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Política de privacidad: https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+Política de privacidad: https://www.hyprmx.com/pp.html
+
+Fyber  
+Política de privacidad: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Política de privacidad: https://vungle.com/privacy/
+
+Terceros pueden usar cookies, balizas web y otras tecnologías de seguimiento para recopilar o recibir datos sobre ti y podrían reclamar derechos de administrador sobre tus datos personales. Nos esforzamos en todo momento por tratar con socios que dispongan de medidas de seguridad para proteger la seguridad de los datos personales. Dicho esto, y hasta donde lo permita la legislación aplicable, nosotros, nuestros empleados, agentes, sociedad de cartera y subsidiarias, no aceptamos ninguna responsabilidad derivada del contenido o fiabilidad de los materiales de terceros o sitios web ofrecidos mediante hiperenlaces u otros medios de los Servicios o de la recopilación de datos y prácticas de uso o medidas de seguridad usadas por terceros.
+
+Podemos compartir tu información personal con los siguientes tipos de destinatarios y en las siguientes circunstancias:
+
+  * Compañías de nuestro grupo.
+  * Socios comerciales, proveedores y subcontratistas para la ejecución de cualquier contrato que establezcamos con ellos o contigo en relación con los Servicios (alojamiento, asistencia técnica al jugador, publicidad, etc.).
+  * En el caso de que vendamos o compremos cualquier empresa o activo, en cuyo caso revelaremos tus datos personales al posible vendedor o comprador de nuestra empresa o activos.
+  * Si toda o una parte importante de nuestra empresa o activos son adquiridos por o transferidos a un tercero, en cuyo caso los datos personales que obren en nuestro poder serán uno de los activos transferidos.
+  * Si tenemos el deber de revelar o compartir tus datos personales para cumplir con una ley, obligación legal u orden judicial.
+  * Para proteger nuestros derechos, propiedad o seguridad, a nuestros clientes u a otras personas. Esto incluye el intercambio de información con otras empresas y organizaciones para el mantenimiento y seguridad de los Servicios.
+
+
+
+Hemos activado las medidas de seguridad adecuadas para impedir que tus datos personales se pierdan accidentalmente, sean utilizados o accedan a ellos de forma no autorizada, sean alterados o revelados. Además, limitamos el acceso a tus datos personales a aquellos empleados, agentes, contratistas y otros terceros que deban conocerlos por motivos empresariales. Estos solo procesarán tus datos personales siguiendo nuestras instrucciones y están obligados a cumplir con la confidencialidad. Hemos establecido una serie de procedimientos para tratar cualquier posible violación de datos personales y te notificaremos a ti y al regulador respectivo de esta violación si estamos obligados a hacerlo por ley.
+
+Durante cuánto tiempo conservamos tu información. Solo conservaremos tus datos personales el tiempo que sea necesario para cumplir con los fines para los que los recopilamos, incluyendo los fines de satisfacer cualquier requisito legal, de contabilidad o de información. El periodo de tiempo durante el que podemos almacenar tus datos personales puede depender del tipo de datos que poseamos teniendo en cuenta la cantidad, naturaleza y sensibilidad de los datos personales, el riesgo potencial de daño por un uso no autorizado o la revelación de tus datos personales, los fines con que procesamos tus datos personales y en función de si podemos alcanzar esos fines mediante otros medios, así como los requisitos legales aplicables.
+
+_Nota del RGPD_  
+Transferencias. Los datos personales pueden transferirse a nuestros socios de confianza y proveedores de servicios que mantienen sus servidores fuera del AEE. Esto solo se realiza con el fin de proporcionarte, y en la medida necesaria para proporcionarte, los Servicios. Cumpliríamos con los requisitos necesarios para transferir tales datos, para regular las transferencias de datos y asegurarnos de que se han adoptado las medidas de seguridad necesarias para proteger y mantener la integridad de tus datos personales durante la transferencia.
+
+Todos los cambios realizados a esta Política en cualquier momento se publicarán en nuestro sitio web privacy.socialquantum.com. Todos los materiales u otros cambios que afecten a las operaciones de procesamiento de datos descritos en esta Política y que sean pertinentes o tengan un impacto en tu persona o tus datos personales se te notificarán previamente. De esta forma, tendrás la posibilidad de considerar la naturaleza y el impacto del cambio y ejercer tus derechos en relación con ese cambio.
+
+Si tienes preguntas, dudas o peticiones relacionadas con esta Política o tus datos, ponte en contacto con nosotros de una de las siguientes formas:  
+
+
+  * A través de la función de los Servicios (página de Ayuda de nuestros juegos). 
+  * A través de nuestra página de asistencia al cliente de [https://social-quantum.helpshift.com.](https://social-quantum.helpshift.com./)
+  * Enviándonos un mensaje de correo electrónico a [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+La empresa con sede en Irlanda (Social Quantum Ireland Unlimited, número de empresa 535614) publica nuestros juegos en plataformas como Amazon Appstore, Microsoft Windows Appstore, ok.ru, mail.ru.
+
+Esta Política de privacidad se aplicará a tu uso de nuestros Servicios distribuidos mediante las plataformas mencionadas.
+
+Social Quantum Limited (tal y como aparece descrita en la cláusula Sobre nosotros) es el administrador de tus datos personales si juegas mediante las plataformas mencionadas.
+
+Hacemos todo lo posible para proporcionar una traducción precisa de esta Política. Sin embargo, ten en cuenta que solo tendrá validez legal su versión inglesa.
+
+2018年6月1日に最終更新 
+
+### 個人情報保護方針
+
+当社について
+
+Social Quantum Limitedは、香港の法律に基づき設立され、登録番号1734369です（「Social Quantum」/「当社」/「私たち」/「私たちの」）。Social Quantumは、モバイルおよびソーシャルネットワークゲームを開発し、ゲームに関連するウェブサイトを所有しています（総称して「サービス」とします）。当社へのご連絡の詳細
+
+Amazonアプリストア、Microsoft Windowsアプリストアからゲームをインストールしたり、ok.ru、mail.ruでゲームをプレイする場合は、 追加情報 を参照してください。
+
+GDPRの目的に沿って、Social Quantum Limitedはお客様の個人情報を管理します。
+
+当社の個人情報保護方針に関して
+
+当個人情報保護方針（以下「方針」とします）は、お客様の個人情報、お客様の権利、およびその処理に関連する当社の義務をどのように、なぜ処理するのかを記載します。 
+
+当社のサービスを使用することにより、お客様はこの個人情報保護方針の規約に同意し、当社がお客様の情報を収集して使用する方法をお客様が理解していることを確認します。
+
+この方針は、個人情報の処理にあたって当社が行っているグローバルな方法について説明します。当社が「GDPRからの注意」に言及する場合は、その項の目的は、「EU一般データ保護規則（2016/679）」（「GDPR」）の要件を満たすことであり、当社の情報に基づき欧州経済領域（「EEA」）に住んでいるユーザーにのみ適用されます。
+
+年齢制限
+
+当社は故意に子どもたちから情報を求めたり、情報を受け取ったりしようとすることはありません。お客様が16歳未満（またはお客様の住む国ではデジタル機器を利用できる年齢ではない）の場合、保護者の同意なしにあなたの個人情報（名前、住所、電子メールアドレスなど）を送信しないでください。16歳未満の子供（またはお客様の国のデジタル機器を利用できる年齢ではない子ども）の情報が当社内にあると思われる場合は お問い合わせ ください。
+
+当社が集める情報
+
+お客様が当社のサービスを使用する場合、または当社のサービスに関する問題を報告する際に、当社とやり取りをすることによってお客様が当社に提供する情報。この情報に含まれるのは、
+
+  * 身元情報：名前、電子メールアドレス、プロフィール情報
+  * 当該サービスへのお客様からのメッセージ 
+  * お客様が当社のウェブサイトにアップロードする際の履歴書
+
+
+
+当社が自動的に収集するお客様に関する情報:
+
+技術データ：技術情報、以下のものを含む 
+
+  * IPアドレス 
+  * デバイス情報 （デバイスID、モデル、オペレーティングシステムのタイプ、広告ID、MACアドレス）。広告IDは、デバイスやオペレーティングシステムによって生成されたユーザーがリセットできるIDで、オンライン広告主がユーザーのアプリケーション使用状況を追跡したり、個別の広告を提供することができます。
+  * ログイン情報
+  * ブラウザのタイプとバージョン 
+  * 地理位置情報（国と都市）、タイムゾーン設定と言語設定 
+  * プッシュトークン 
+  * 当社はお客様によるサービスのご使用を追跡するために一意のユーザーIDを発行します。
+
+
+
+ご使用データ：お客様のご使用に関する情報、以下のものを含む 
+
+  * ゲーム内の進捗状況
+  * 他のプレーヤーとのやりとり
+  * ゲームのプレイに関する情報
+  * 使用期間 
+  * そのアプリをインストールした日付
+  * ユーザーのエラー 
+
+
+
+第三者から収集したお客様に関する情報 
+
+  * お客様がソーシャルネットワークアカウント（Facebookなど）を使用して当社のサービスにサインインした場合に当社が受け取る情報。これには、名前、ソーシャルネットワークID、友達の数などが含まれます。
+  * ゲームが行われているプラットフォームより当社が受け取った、ゲーム内の支払い日と金額に関するデータ。
+  * 当社は、サービスを提供する際に当社を支援しているサービスプロバイダーから技術的および使用に関する情報を受け取る場合があります（モバイルアプリケーションの使用、インストール、ダウンロードの追跡を可能にする第三者のSDKなど）。
+
+
+
+GDPRからの注意
+
+当社は、慎重に扱うべきであるお客様の個人情報またはGDPRに基づく個人情報の特別なカテゴリに属するいかなる個人情報を要求または収集することはありません。
+
+クッキー当社はウェブサイト上でクッキーを使用することがあります。「クッキー」はブラウザによってコンピューターに保存されている小さなテキストファイルで、統計情報を収集したり、ウェブサイトへのアクセスや使用の傾向を分析するために使われます。クッキーを使用してプログラムを実行したり、コンピューターにウイルスを感染させることはできません。クッキーを使用して、IPアドレス、オペレーティングシステムの種類、ブラウザの種類、ブラウザの言語、クエリの履歴などの情報を収集します。お客様は、ブラウザやデバイスの設定を調整し、特定のトラッキングをクッキーで制限できる場合があります。
+
+お客様情報の使用方法
+
+当社はお客様の個人情報を以下の目的で使用します。
+
+  * サービスを提供する（例えば、アカウントの作成、サービスの運営、お客様が他のプレイヤーとコミュニケーションを取れるようにする、ゲーム内の進捗状況の保存など）。
+
+
+* お客様からの質問に回答し 、お客様と当社との関係を良好に保つ （たとえば、お客様サポートを提供するなど）。 
+* サービスがお客様とコンピューターまたはデバイスにとって最も効果的な方法で提示されるようにする。 
+* お支払いの確認をする。 
+
+GDPRからの注意：当社は、新規または既存のユーザーの問い合わせに対応し、ビジネスを成長させ、記録を更新し、顧客が当社のサービスをどのように使用するかを調査する正当な利益を有するため、お客様の情報を上記の目的のために使用します。
+
+  * 当社のゲームに広告を表示する。当社のビジネスの協力者は、ゲームにターゲット広告を表示することもあります。非表示。
+  * 当社がお客様に提供する広告の効果を測り、理解するため。
+  * お客様にとって重要である可能性のあるゲームの更新、高得点、およびその他のサービスに関連するプッシュ通知を送信するため。プッシュ通知を受け取らないようにするには、デバイスにある設定画面からプッシュ通知をオフにします。
+
+
+
+GDPRからの注意：当社は、当社のサービスの開発と販売促進、広告の提供と改善、事業の拡大、顧客が当社のサービスをどのように使用するかを調査するという正当な利益を有するため、上記の目的でお客様の情報を使用します。
+
+  * トラブルへの対処、データ分析、検査、研究、統計および調査の目的を含む、当社の事業およびサービスならびに社内業務の管理および保護。
+  * データ分析を使用して、サービス、マーケティング、顧客との関係、および経験を改善または最適化する。 
+
+
+
+GDPRからの注意：当社のサービスを安全かつ確実に維持し、当社のサービスを更新し関連性を保つために、当社は業務の遂行上正当な利益を有しているので、上記の目的のためお客様の情報を使用します。
+
+  * お客様が履歴書を提出する際には、当社は雇用に関するお客様の適性を確認し、意思疎通を図るためにお客様の情報を使用します。当社は、人材を募集して事業を成長させるために正当な関心があるためこの情報を使用します。
+
+
+
+当社は、プロファイリングを含む自動化された処理手順のみによって、いかなる意思決定も行うことはありません。
+
+目的の変更当社は当社がそれを収集した目的のため、または準拠できる理由がある場合のみ、お客様の個人情報を使用します。お客様に無関係の目的で個人情報を使用する必要がある場合は、お客様に通知し、法的根拠を説明します。
+
+お客様の権利
+
+ターゲット広告を非表示にする。次のように、デバイスまたはブラウザの設定を調整することで、いつでもターゲット広告を非表示にできます。
+
+  * iOSの場合：https://support.apple.com/ja-jp/ht202074#iOSに記載されている手順に従ってください。
+  * Androidの場合：https://support.google.com/ads/answer/2662922?hl=jaに記載されている手順に従ってください。
+  * Windowsの場合：https://account.microsoft.com/privacy/ad-settings/signedout?lang=ja-JPに記載されている手順に従ってください。
+  * お客様は、ブラウザやデバイスの設定を調整し、特定のトラッキングをクッキーや後述のウェブサイトから制限できる場合があります：http://www.aboutads.info/choices / http://www.youronlinechoices.eu
+
+
+
+お客様の個人情報へのアクセスお客様は、当社の持つお客様の個人情報のコピーにいつでもアクセスをすることができます。こういった事情から当社にはお客様の身元を確認する必要があり、お求めの個人情報を見つけてお客様に提供するために、必要に応じて追加の情報や説明をお願いすることがあります。
+
+修正私たちが保持しているお客様の個人情報が不正確な場合は、お客様から当社へ個人情報を更新して修正するよう求めることができます。
+
+お客様は、お客様の国の法律によって規定されている他の権利を有します。特に、GDPRに基づき、情報を持ち出すこと、お客様自身の情報を削除すること、当社によるお客様情報の使用方法や共有について異議を申し立てること、当社によるお客様情報の使用方法や共有方法を制限する権利があります。
+
+お客様の権利のいずれかを行使したり、より多くの情報を得るためには 当社までご連絡ください。当社は、妥当な時間枠の中ですべての要求に対応します。 
+
+当社は、適用されているデータ保護規則の条項を遵守し、公正で合法で透明性の高い方法で個人情報を処理することに努めています。ただしもしお客様が当社に対して、適用されているデータ保護規則に基づく義務を遵守していないとお考えの際は、お客様の国の監督当局に苦情を申し立てる権利があります。
+
+第三者の資料
+
+当社は、ゲーム内の広告を目立つようにすることができます。広告主様はお客様の情報にアクセスし、自社の個人情報保護方針に従って運営することができます。当社はお客様に個人情報保護方針を慎重に読むことをお勧めします。
+
+Facebook
+
+個人情報保護方針: https://www.facebook.com/about/privacy
+
+ironSource
+
+個人情報保護方針: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+ユニティ・テクノロジーズ
+
+個人情報保護方針: https://unity3d.com/legal/privacy-policy
+
+HyprMX 
+
+個人情報保護方針: https://www.hyprmx.com/pp.html
+
+Fyber
+
+個人情報保護方針: https://www.fyber.com/legal/privacy-policy/
+
+Vungle
+
+個人情報保護方針: https://vungle.com/privacy/
+
+第三者はクッキー、ウェブビーコン、その他のトラッキング技術を用いてお客様のデータを収集もしくは受信し、またお客様個人のデータに対する制御権を主張する可能性があります。当社は常に、個人情報の安全性のため適切なセキュリティ対策を講じている協力者と取引するよう努めています。そのため適用法によって認められている最大の範囲で、当社、当社の従業員、代理店、持株会社および子会社は、ハイパーリンクされている、またはサービス上のその他の手段、または第三者が使用する情報収集、および利用慣行または第三者によって使用されるセキュリティ手段によって参照される第三者の資料またはウェブサイトの内容または信頼性について何ら責任を負うものではありません。
+
+お客様の情報の開示
+
+当社は、お客様の個人情報を次のようなカテゴリーの受領者と共有することがあります。
+
+  * グループ内の企業
+  * 当社またはお客様とサービスに関して締結した各契約上の業務を担う、ビジネス上の協力者、サプライヤーおよび下請け業者（ホスティング、プレーヤーのサポート、広告など）。
+  * 当社が事業または資産を売却または購入する場合、事業または資産の売り手または買い手になりそうな相手にお客様の個人情報を開示する場合。
+  * 当社の事業または資産のすべてまたは実質上すべてが第三者によって買収または移転された場合、当社が保有する個人情報は譲渡資産のうちの1つになります。
+  * 法律、法的義務または裁判所命令を遵守するために、お客様の個人情報を開示または共有する義務が当社にある場合。
+  * 当社の権利、財産または安全生、お客様またはその他の者を保護するため。これには、サービスの保守とセキュリティのために他の企業や組織と情報を交換する場合も含まれます。
+
+
+
+セキュリティ対策
+
+当社は、お客様の個人情報を誤って紛失、使用、または不正な方法で何者かにアクセスされること、変更または開示されることを防ぐ適切なセキュリティ対策を講じています。さらに、お客様の個人情報へのアクセスを、業務を知っている必要のある従業員、代理店、請負業者および第三者に限定します。彼らは当社の指示に従ってお客様の個人情報を処理するのみで、機密保持の義務があります。当社は個人情報にまつわる違反が疑われる場合に対処する手続きを講じており、当社に法的な要請がある場合、お客様および該当する違反を管轄する規制当局に通知します。
+
+当社がお客様の情報を保管する期間について当社は、情報収集の目的を果たすために（法律、会計または報告の要請を満たすことを含みます）、必要な期間だけお客様の個人情報を保持します。当社がお客様の個人情報を保管する期間は、個人情報の量、性質、および機密性、お客様の個人情報の不正使用または開示による潜在的なリスク、お客様の個人情報を処理する当社の目的、その目的を他の方法で達成できるかどうか、適用される法的要件を満たしているかという点に考慮し、当社が保有するデータの種類により決定されます。
+
+GDPRからの注意
+
+転送個人情報は、EEAの外部にサーバーを維持している信頼できる協力者およびサービスプロバイダーに転送することができます。これは、お客様が提供を必要とされている範疇で、お客様に本サービスを提供する目的でのみ行われます。当社は、かかるデータ転送に適用される要件を遵守し、そうしたデータ転送を規制し、転送に関するお客様の個人情報の安全性を保護し、維持するための適切なセキュリティ対策が確実に行われるようにします。
+
+この方針の変更
+
+この方針の変更は、随時ウェブサイトのprivacy.socialquantum.comに掲載されます。この方針に記載されている、お客様またはお客様の個人情報に関連する、または影響を受ける可能性のあるデータ処理操作の重要な変更またはその他の変更は、前もってお客様に通知します。この方法によって、お客様は変更の内容とその影響について考える機会を有し、その変更に関連する権利を行使できます。
+
+お問い合わせ 
+
+本方針またはお客様の情報に関する質問、お気づきの点またはご要望がある場合は、次のいずれかの方法でお問い合わせください。
+
+<
+  * 当該サービスの機能を使用（ゲームのヘルプページ）。
+  * 当社のお客様サポートページをご使用なら [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/)。
+  * 当社までメールにてお問合せください。[support_mail@socialquantum.com](mailto:support_mail@socialquantum.com)
+
+
+
+追加情報
+
+アイルランドに本社を置く会社（Social Quantum Ireland Limited、会社番号535614）は、Amazonアプリストア、Microsoft Windowsアプリストア、ok.ru、mail.ruなどのプラットフォームでゲームを公開しています。
+
+この個人情報保護方針は、上記のプラットフォーム経由で配布される当社のサービスの使用に適用されます。
+
+Social Quantum Limited（「当社について」 の項に記載されています）は、上記のプラットフォームを使用してお客様がゲームをプレイする場合、個人情報の管理者となります。
+
+この方針の正確な翻訳を提供するために最善を尽くします。ただし、本方針の英語版のみが法的な効力を有するものとします。
+
+最后更新 2018 年 6 月 1 日 
+
+### 隐私政策
+
+关于我们
+
+Social Quantum Limited 根据香港法律成立，注册号为 1734369（“Social Quantum”/“我们”/“我方”/“我们的”）。Social Quantum 开发移动和社交网络游戏并拥有与游戏相关的网站（统称为“服务”）。我们的联系方式。
+
+如果从 Amazon Appstore、Microsoft Windows App Store 安装我们的游戏，或通过 ok.ru、mail.ru 游玩，也请参考其他信息。 
+
+出于 GDPR 目的，Social Quantum Limited 是您个人资料的掌控者。 
+
+关于我们的隐私政策
+
+本隐私政策（“政策”）描述了我们如何及为何处理您的个人资料、您的权利以及与此类处理有关的义务。 
+
+通过我们的服务、您同意本隐私政策的条款，并确认理解我们收集和使用你的信息的方式。 
+
+这项政策描述了我们处理个人资料的全局方法。如果我们提到“GDPR 记录”，这意味着该部分的目的是满足一般数据保护条例（EU）2016/679（“GDPR”）的要求，而且仅适用于根据我们的资料，位于欧洲经济区的用户（“欧洲经济区”）。
+
+年龄限制
+
+我们无意试图征求或接收儿童的信息。如果您未满 16 岁（或贵国规定的“数字同意年龄”），如无父母同意，请勿向我们发送您的个人信息（姓名、地址、电子邮件地址等）。如果您认为我们可能有任何关于您未满 16 岁（或贵国规定的数字同意年龄）的孩子的数据，请与我们联系。
+
+我们收集的信息
+
+您在使用我们的服务时，或在我们的服务中报告问题时向我们提供的信息。此信息可能包括：
+
+  * 身份资料：姓名、电子邮件地址、个人资料
+  * 您送到服务的消息。
+  * 上传到我们网站的简历。
+
+
+
+我们自动收集的有关您的信息：
+
+技术数据：技术信息，包括
+
+  * IP 地址；
+  * 设备信息（设备 ID、型号，操作系统类型、广告 ID，MAC 地址）。广告 ID 是由您的设备或操作系统生成的用户复位 ID，允许在线广告商跟踪用户使用的应用程序，提供个人化的广告
+  * 登录信息
+  * 浏览器类型和版本；
+  * 地理定位数据（国家和城市）、时区设置和语言设置；
+  * 推送令牌。 
+  * 我们创建一个唯一的用户 ID 来追踪您对我们服务的使用情况。
+
+
+
+使用数据：有关您使用的信息，包括
+
+  * 游戏进度
+  * 与其他玩家的互动
+  * 游戏资料
+  * 使用时间；
+  * 应用程序的安装日期
+  * 用户错误。 
+
+
+
+我们从第三方收集的有关您的信息 
+
+  * 如果您使用社群网络帐户（如 Facebook）登录我们的服务时，我们所收到的数据。这可能包括姓名、社群网络 ID、好友人数
+  * 我们从游戏运行平台上获得的游戏付费日期和金额数据
+  * 我们可能会从协助我们向您提供服务的服务提供商处获得技术和使用数据（例如允许追踪移动应用程序的使用、安装和下载的第三方 SDK）。
+
+
+
+GDPR 
+
+我们不要求或收集任何属于您的敏感个人资料或 GDPR 下任何特殊类别的个人资料。
+
+Cookie.我们可能会在我们的网站上使用 cookie。“Cookie”是由浏览器保存在电脑上的小型文本文件，通常用于收集统计信息并分析使用或访问网站的趋势。Cookie 无法用于运行程序或向您的电脑传播病毒。我们使用 cookie 收集诸如 IP 地址、操作系统类型、浏览器类型、浏览器语言、查询历史记录等信息。你可以调整浏览器或设备设置，从而限制某些通过 cookie 进行的跟踪。 
+
+我们如何处理您的信息
+
+我们将您的个人信息用于以下目的 
+
+  * 提供服务（例如，创建帐户、操作服务、使您能够与其他玩家沟通、保存游戏进度）
+  * 回应您的问询及管理我们与您的关系（例如，提供客户支持）
+  * 确保以最有效的方式为您和您的电脑或设备提供服务
+  * 验证并确认付款。
+
+
+
+GDPR 注：我们将您的信息用于上述目的而与您签订合约，因为我们有合法利益以响应新的或现有的用户询问和增长我们的业务，保持我们的记录更新，并研究客户如何使用我们的服务。
+
+  * 在我们的游戏中显示广告片段。我们的合作伙伴也可能会在我们的游戏中向您展示针对性广告。选择退出。
+  * 衡量并了解我们为您提供的广告效果
+  * 发送关于游戏更新、高分和其他与您相关的服务的推送通知。您可以选择停止接收推送通知，方法是在设备中设置关闭推送通知。
+
+
+
+GDPR 注：我们将您的信息用于上述目的，因为我们有合法利益开发和宣传我们的服务，提供和改进我们的广告，增长我们的业务并研究客户如何使用我们的服务。
+
+  * 管理和保护我们的业务和服务，以及内部作业，包括故障排除、资料分析、测试、研究、统计和调查目的。
+  * 使用数据分析来改进或优化我们的服务、营销、客户关系和经验。
+
+
+
+GDPR 注：我们将您的信息用于上述目的，因为我们有合法利益来管理我们的业务并确保我们的服务安全可靠，以保持我们的服务更新和适宜。
+
+  * 当您提供简历时，我们会使用您的数据来确认您是否适合就业并与您进行沟通。我们使用这些信息是因为我们有招募人才和发展业务的合法利益。
+
+
+
+我们不会仅基于自动化处理（包括分析）进行任何决策。
+
+目的改变。我们只会将您的个人资料用于我们收集它的目的或相关原因。如果我们需要将您的个人资料用于不相关的目的，我们会通知您，并解释允许我们这样做的法律依据。
+
+您的权利
+
+退出定向广告。您可以随时通过调整设备或浏览器的设置来选择退出有针对性的广告，方式如下
+
+  * iOS：请根据 https://support.apple.com/en-us/ht202074#iOS 中的指示操作
+  * 对于 Android：请按照 https://support.google.com/ads/answer/2662922?hl=en 中的说明进行操作
+  * Windows：请根据 https://account.microsoft.com/privacy/ad-settings/signedout?lang=en-GB 中的指示操作
+  * 你可以调整浏览器或设备设置，从而限制某些通过 cookie 进行的跟踪，还可以访问此网站：http://www.aboutads.info/choices and http://www.youronlinechoices.eu<
+
+
+
+访问您的个人资料。您可以随时请求访问我们持有的关于您的个人资料的副本。在这种情况下，我们需要核实您的身份，如有需要，我们可能会要求您提供更多信息或声明，以帮助我们找到并提供您所要求的个人资料。 
+
+更正。如果我们持有的关于您的个人信息不准确，您可以要求更新并更正您的个人信息。 
+
+您也可能拥有贵国法律规定的其他权利。特别是， 在 GDPR 下， 您拥有对数据可移植性的权利、删除数据的权限、对象如何使用或共享数据、限制我们使用或共享数据的权限。 
+
+请联系我们以行使您的任何权利或获得更多信息。我们会在合理的时间内响应所有的要求。 
+
+我们承诺遵守适用的数据保护条例的条款，并以公平、合法和透明的方式处理个人资料。但是，如果您认为我们没有遵守适用的数据保护条例所规定的义务，您有权向贵国的监督机构提出申诉。
+
+第三方材料
+
+我们可能会提供游戏内广告。广告客户可以访问您的资料并根据自己的隐私策略进行操作。我们鼓励您仔细阅读他们的隐私政策。
+
+Facebook  
+隐私政策：https://www.facebook.com/about/privacy
+
+IronSource  
+隐私政策： https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+隐私政策：https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+隐私政策：https://www.hyprmx.com/pp.html
+
+Fyber  
+隐私政策：https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+隐私政策：https://vungle.com/privacy/
+
+第三方可能会适用 cookie、网页信标以及其他跟踪技术来收集或获取关于你的数据，同时可能会获得对你的个人数据的控制权。我们一向致力与有足够安全措施的合作伙伴打交道，以保障个人资料的安全。尽管如此，在适用法律允许的最大范围内，我们、我们的员工、代理商、控股公司和子公司不承担由于超链接或其他方式引用的任何第三方材料或网站的内容或可靠性，关于其服务或用于这些第三方使用的数据收集和使用实践或安全措施而引起的任何责任。
+
+披露您的信
+
+我们可以与下列类别的收件者共享您的个人信息， 并在下列情况下
+
+  * 我们集团内的公司
+  * 业务合作伙伴、供货商和分包商履行我们与他们或您就服务（如托管、玩家支持、广告）签订的任何合约
+  * 如果我们出售或购买任何业务或资产，在这种情况下，我们会将您的个人资料披露给我们业务或资产的潜在卖家或买家
+  * 如果我们的全部或绝大部分业务或资产被第三方收购或转让给第三方，在这种情况下，我们持有的个人资料将成为转让的资产之一
+  * 如果我们有义务披露或分享您的个人资料以遵守任何法律，法律义务或法院命令
+  * 保护我们的权利、财产或安全、我们的客户或其他人。这包括与其他公司和组织交换信息以维护和保护服务。
+
+
+
+安全措施
+
+我们已采取适当的安全措施，防止您的个人资料被意外丢失、使用或以未经授权的方式访问、更改或披露。此外，我们将访问您的个人资料的权限限制在有业务需要知晓的员工、代理商，承包商和其他第三方。他们将只根据我们的指示处理您的个人资料，并且他们有责任保密。我们已制定程序来处理任何涉嫌违反个人资料的行为，并会在法律要求的情况下通知您和任何适用的监管机构违规行为。
+
+我们保留您的信息的时长。我们只会根据需要保留您的个人资料，以达到我们收集的目的，包括为了满足任何法律、会计或报告要求。我们存储您的个人资料的时长可能取决于我们所持有的数据类型，考虑到个人资料的数量、性质和敏感性、未经授权使用或泄露个人资料可能造成的损害风险，我们处理您的个人资料的目的，以及我们是否可以通过其他方式实现这些目的，以及适用的法律要求。 
+
+GDPR 
+
+传输。个人资料可能会传输到我们的受信任的合作伙伴和服务提供商，他们在欧洲经济区之外维护他们的服务器。这只是为了向您在必要的范围提供服务。我们将遵守此类数据传输的适用要求，规范此类数据传输，并确保采取适当的安全措施来保护和维护您的个人资料传输的完整性。
+
+对此策略的更改
+
+对本策略作出的任何更改将不时发布在我们的网站 privacy.socialquantum.com 上。此策略中描述的与您或您的个人资料相关或影响的数据处理操作的任何材料或其他更改将提前通知您。这样，您将有机会考虑变更的性质和影响，并在您认为合适的情况下行使与变更相关的权利。
+
+联系我们 
+
+如果您对本政策或您的数据有任何疑问、顾虑或要求， 请通过下列方式之一与我们联系：
+
+  * 使用服务的功能（我们游戏中的帮助页面）；
+  * 使用我们的客户支持页面，位于[https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/)；
+  * 向 [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com%E7%BB%99%E6%88%91%E4%BB%AC%E5%8F%91%E7%94%B5%E9%82%AE) 给我们发电邮。
+
+
+
+其他信息
+
+位于爱尔兰的公司（Social Quantum Ireland Limited，公司编号 535614）在Amazon Appstore、Microsoft Windows App Store、ok.ru、mail.ru 等平台上发布我们的游戏。
+
+本隐私政策将适用于您对通过上述平台分发的服务的使用。 
+
+Social Quantum Limited（如关于我们条款中所述）仍然是您通过上述平台玩游戏时个人资料的控制者。
+
+我们尽力提供本政策的准确翻译。但请注意，只有英文版的本政策才具有法律效力。
+
+마지막 개정: 2018년 6월 1일 
+
+### 개인정보 취급방침
+
+회사 정보
+
+Social Quantum Limited는 홍콩법에 따라 등록 번호 1734369번으로 설립된 회사입니다("Social Quantum"/"우리"/"자사"/"당사"). Social Quantum은 모바일 및 소셜 네트워크 게임을 만들며, 게임과 연결된 웹 사이트를 보유하고 있습니다(통칭 "서비스"). 연락처 정보
+
+게임을 Amazon Appstore 또는 Microsoft Windows App Store에서 다운로드했거나 ok.ru, mail.ru를 통해 플레이할 경우에는 추가 정보를 참고하십시오. 
+
+GDPR 준수를 위해, Social Quantum Limited는 귀하의 개인 데이터를 관리합니다. 
+
+개인정보 취급방침에 관하여
+
+이 개인정보 취급방침("방침")은 당사가 개인 데이터를 취급하는 방식과 이유, 귀하의 권리, 취급과 관련된 당사의 의무를 서술합니다. 
+
+당사의 서비스를 이용함으로써 귀하는 이 개인정보 취급방침의 조항에 동의하고, 당사가 정보를 수집하고 사용하는 방식을 이해한 것으로 간주됩니다. 
+
+이 정책은 개인 데이터 처리에 관한 당사의 전반적인 접근 방식을 서술합니다. “GDPR 노트”가 언급될 경우, 해당 항목은 일반 데이터 보호 규정(EU) 2016/679 ("GDPR")의 요구사항을 충족하기 위해 존재하는 것입니다. 이러한 항목은 당사 데이터 기준으로 유럽 경제 지역("EEA")에 거주하는 사용자에게만 적용됩니다.
+
+연령 제한
+
+당사는 의도적으로 아동의 정보를 취득하거나 받고자 하지 않습니다. 귀하가 16세 미만 또는 거주 국가에서 지정한 적정 연령 미만일 경우, 보호자의 동의 없이는 귀하의 개인 정보(이름, 주소, 이메일 주소 등)를 보내지 마십시오. 당사가 16세 미만 또는 거주 국가에서 지정한 적정 연령 미만 아동의 데이터를 가지고 있다고 의심된다면 문의해주십시오.
+
+수집하는 정보
+
+귀하가 당사의 서비스를 이용하거나 서비스 문제를 신고하면서 당사에 제공하는 정보입니다. 다음과 같은 정보들이 그 예시입니다:
+
+  * 신원 데이터: 이름, 이메일 주소, 프로필 정보
+  * 서비스에 보내는 메시지 
+  * 웹사이트에 업로드하는 이력서
+
+
+
+자동으로 귀하로부터 수집되는 정보:
+
+아래와 같은 예시의 기술적 데이터 정보 
+
+  * IP 주소 
+  * 장치 정보(장치 ID, 모델, 운영 체제 유형, 광고 ID, MAC 주소) 광고 ID는 is 사용자의 장치나 운영 체제에서 생성되는 재설정 가능 ID로, 온라인 광고 제공자가 사용자의 앱 사용을 추적해 맞춤 광고를 제공할 수 있도록 해줍니다.
+  * 로그인 정보
+  * 브라우저 유형 및 버전 
+  * 지리적 위치 데이터(국가 및 도시), 시간대 및 언어 설정 
+  * 푸시 토큰 
+  * 당사는 고유 사용자 ID를 만들어 사용자의 서비스 사용을 추적합니다.
+
+
+
+사용 데이터: 아래 사항들을 포함한 사용 관련 정보 
+
+  * 게임 진행 데이터
+  * 다른 플레이어와의 교류
+  * 게임 플레이 데이터
+  * 사용 시간 
+  * 앱 설치 날짜
+  * 사용자 오류 
+
+
+
+타사를 통해 수집하는 사용자 정보 
+
+  * Facebook 등의 소셜 네트워크 계정으로 서비스에 로그인했을 때 받는 데이터: 이름, 소셜 네트워크 ID, 친구 수 등이 포함됨
+  * 게임이 운영되는 플랫폼에서 사용자가 게임 내 상품을 구매한 날짜와 금액
+  * 게임 서비스 제공을 돕는 공급자로부터 기술 및 사용 데이터를 받게 될 수 있습니다. (예: 모바일 앱 사용, 설치 및 다운로드를 추적할 수 있게 하는 타사 SDK)
+
+
+
+GDPR 노트
+
+당사는 GDPR에 의거하여, 민감한 개인 데이터나 특별 범주의 개인 데이터를 요구 또는 수집하지 않습니다.
+
+쿠키: 당사의 웹 사이트에서는 쿠키를 사용합니다. "쿠키"는 브라우저를 통해 컴퓨터에 저장되는 작은 텍스트 파일이며, 주로 통계 정보를 수집하고 웹 사이트 사용 또는 접속 경향을 분석하는 데 사용됩니다. 쿠키는 프로그램 실행에 사용되거나 컴퓨터 바이러스를 감염시킬 수 없습니다. 당사는 쿠키를 사용해 IP 주소, 운영체제 유형, 브라우저 유형, 브라우저 언어, 쿼리 내역 등의 정보를 수집합니다. 브라우저나 기기 설정을 조정함으로써 쿠키를 통해 특정 추적을 제한할 수 있습니다. 
+
+당사의 개인 정보 사용
+
+당사는 다음과 같은 목적으로 개인정보를 사용합니다 
+
+  * 서비스 제공(예: 계정 생성, 서비스 운영, 다른 플레이어와의 커뮤니케이션 기능 제공, 게임 데이터 저장) 
+  * 문의 응답과 당사-사용자간 관계 관리(예: 고객 지원 서비스 제공) 
+  * 사용자와 사용자의 컴퓨터 또는 장치에 맞는 가장 효과적인 서비스 제공 
+  * 결제 인증 및 확인 
+
+
+
+GDPR 노트: 당사는 사용자와의 계약 수행, 신규 또는 기존 사용자의 문의 응답, 사업 성장, 최신 기록 업데이트, 사용자의 서비스 사용 연구를 목적으로 합당하게 앞서 언급한 정보를 사용합니다.
+
+  * 게임 내 광고 표시: 당사의 협력사가 게임에서 타켓 광고를 제공할 수도 있습니다.광고 중지.
+  * 당사가 제공하는 광고의 효과 측정 및 이해
+  * 게임 업데이트, 최고 점수, 기타 중요한 서비스 관련 사항의 푸시 알림 제공: 푸시 알림 기능은 장치 설정에서 끌 수 있습니다.
+
+
+
+GDPR 노트: 당사는 서비스 발전과 홍보, 광고 제공 및 개선, 사업 성장, 사용자의 서비스 사용 연구를 목적으로 합당하게 앞서 언급한 정보를 사용합니다.
+
+  * 당사의 사업과 서비스의 관리 및 보호, 문제 해결, 데이터 분석, 테스트, 연구, 통계 및 설문 등의 내부 운영 
+  * 데이터를 분석하여 서비스, 마케팅, 고객 소통 및 사용 환경 최적화 
+
+
+
+GDPR 노트: 당사는 사업 운영을 위한 합당한 이해관계에 따라 서비스를 안전하게, 최신 상태로, 적절하게 유지하기 위해 앞서 언급한 정보를 사용합니다.
+
+  * 귀하가 이력서를 제공하면, 당사는 귀하의 데이터를 사용해 채용 적합성을 확인하고 연락합니다. 당사가 이 정보를 사용하는 것은 인재 채용과 사업 성장을 위한 합당한 이해관계에 따른 것입니다.
+
+
+
+당사는 프로파일링 등 자동화된 절차에만 기반하여 결정을 내리지 않습니다.
+
+용도 변경: 당사는 수집한 용도 또는 적합한 사유에 따라서만 사용자의 개인 데이터를 사용합니다. 관련이 없는 용도를 위해 개인 데이터를 사용해야 할 경우, 당사는 사용자에게 공지하고 법적 근거를 설명할 것입니다.
+
+사용자 권리
+
+타겟 광고 중지: 사용자는 언제라도 다음과 같이 장치나 브라우저 설정을 변경해 타겟 광고 제공을 중지시킬 수 있습니다:
+
+  * iOS: https://support.apple.com/ko-kr/HT202074#iOS의 지침을 따르십시오.
+  * Android: https://support.google.com/ads/answer/2662922?hl=ko의 지침 따르기
+  * Windows의 경우, https://account.microsoft.com/privacy/ad-settings/signedout?lang=ko-KR의 지침을 따르십시오.
+  * 브라우저나 기기 설정을 조정함으로써 쿠키를 통해, 또는 http://www.aboutads.info/choices 및 http://www.youronlinechoices.eu를 방문해 특정 추적을 제한할 수 있습니다.
+
+
+
+개인 데이터 접근: 귀하는 당사가 보유한 개인 데이터의 사본을 언제든지 요청할 수 있습니다. 이 경우 당사는 귀하의 신원을 확인해야 하며, 요청된 개인 데이터를 찾고 제공하기 위해 귀하에게 추가 정보나 확인을 요청할 수 있습니다. 
+
+수정: 당사가 보유한 귀하의 정보가 부정확한 경우, 귀하는 정확한 개인 정보 업데이트를 요구할 수 있습니다. 
+
+또한 귀하의 국가 법률에 따라 다른 권리를 가질 수 있습니다. 특히 GDPR에 의거하여, 귀하는 데이터 이동에 관한 권리, 데이터를 삭제할 권리, 당사의 데이터 사용 및 공유를 거부하거나 제한할 권리를 가집니다. 
+
+귀하의 권리를 행사하거나 더 많은 정보를 받으려면 당사에 문의하십시오. 합당한 시간 내에 모든 요청에 응답할 것입니다. 
+
+당사는 적용 가능한 데이터 보호 규정을 준수하며, 공정하고 적법하여 투명한 방법으로 개인 데이터를 처리하는 데 최선을 다합니다. 그러나 당사가 이러한 데이터 보호 의무를 적절하게 이행하지 않는다고 생각될 경우, 귀하에게는 국가 당국에 불만을 접수할 권리가 있습니다.
+
+타사 요소
+
+당사는 게임 내 광고를 제공하고 있습니다. 광고 주체는 각자의 개인정보 취급방침에 따라 귀하의 데이터에 접근하고 이용할 수 있습니다. 해당 방침들을 주의 깊게 읽어보시기 바랍니다.
+
+Facebook
+
+개인정보 취급방침: https://www.facebook.com/about/privacy
+
+IronSource
+
+개인정보 취급방침: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies
+
+개인정보 취급방침: https://unity3d.com/legal/privacy-policy
+
+HyprMX 
+
+개인정보 취급방침: https://www.hyprmx.com/pp.html
+
+Fyber
+
+개인정보 취급방침: https://www.fyber.com/legal/privacy-policy/
+
+Vungle
+
+개인정보 취급방침: https://vungle.com/privacy/
+
+타사가 쿠키, 웹 비컨 등의 추적 기술을 사용해 사용자에 관한 데이터를 수집하거나 받을 수 있으며, 사용자는 개인 데이터에 관한 통제 권한을 행사할 수 있습니다. 당사는 항상 개인 데이터 보호 대책을 적절하게 갖춘 업체들과 협력하고자 노력합니다. 이는 즉 서비스 내에서 하이퍼링크 등의 수단을 통해 제공된 타사 요소 또는 웹 사이트의 콘텐츠나 신뢰성에 문제가 생기거나, 그러한 타사의 데이터 수집 및 사용과 보안 대책에 문제가 생길 경우, 당사와 당사의 직원, 대행인, 지주 회사 및 자회사는 관련법에서 명시한 한도 이상의 책임이 없음을 의미합니다. 
+
+정보 공개
+
+당사는 다음과 같은 대상 및 상황에 대해 귀하의 개인 정보를 공유할 수 있습니다:
+
+  * 당사의 그룹 내 회사
+  * 서비스와 관련하여 비즈니스 협력사, 공급사 및 자회사 또는 귀하와 맺은 계약 사항의 이행(예: 호스팅, 플레이어 지원, 광고)
+  * 사업체 또는 자산을 판매하거나 구매해야 할 경우, 당사는 잠재적인 판매자 또는 구매자에게 개인 정보를 공개할 수 있습니다.
+  * 타사가 당사의 사업 또는 자산 전체나 상당 부분을 인수 또는 이전 받을 경우, 당사가 보유한 개인 데이터도 자산의 일부로서 이전됩니다.
+  * 법률, 법적 의무 또는 법원 명령에 따라 사용자 개인 데이터를 공개 또는 공유할 의무가 있을 경우
+  * 당사의 권리, 자산 또는 안전, 고객 등의 보호: 여기에는 서비스 유지와 안전을 위해 다 업체 및 조직과 정보를 교환하는 경우도 포함됩니다.
+
+
+
+보안 대책
+
+당사는 정보의 우발적인 손실, 승인되지 않은 방식의 사용 및 접근, 조작 및 노출을 막기 위해 적절한 보안 대책을 강구합니다. 또한 직원, 대리인, 계약자 또는 사업적인 이해관계가 있는 타사가 귀하의 개인 데이터에 접근하는 것을 제한합니다. 이들은 당사의 지침에 따라서만 개인 데이터를 취급하며 기밀 유지의 의무가 있습니다. 당사는 개인 데이터 노출이 의심될 경우 이를 처리할 절차를 마련했으며, 법적으로 필요할 경우 귀하와 담당 규제 기관에 이를 통보할 것입니다. 
+
+정보 보유 기간: 당사는 법률, 회계, 보도 등의 요건 충족을 포함하여, 수집 목적을 충족하는 데 필요한 기간만큼만 개인 데이터를 보유합니다. 당사의 개인 데이터 보관 기간은 보유하는 데이터의 양, 성질, 민감도, 승인되지 않은 사용 또는 노출에 따른 잠재적 위험, 개인 데이터 처리 목적, 별도의 수단을 통한 해당 목적의 달성 가능 여부, 그리고 적용 가능한 법적 조건에 따라 달라집니다. 
+
+GDPR 노트
+
+이전: 개인 데이터는 서버를 EEA 외부에 둔 신뢰할 수 있는 협력사나 서비스 공급자에게 이전될 수 있습니다. 이는 오로지 서비스 공급과 공급에 필요한 사항을 이행하기 위함입니다. 당사는 이러한 데이터 이전을 규제하고 안전을 위한 보안 대책을 충분히 마련하며 이전되는 개인 데이터의 온전성을 유지하기 위해, 관련되는 요구 사항들을 준수할 것입니다.
+
+본 정책의 수정
+
+때때로 본 정책이 수정될 경우, 당사 웹 사이트 privacy.socialquantum.com에 내용을 게시합니다. 본 정책에 서술된 데이터 처리 관련 조항이나 그 외의 부분이 변경되어 귀하의 개인 데이터와 연관되거나 영향을 줄 경우, 당사는 미리 귀하에게 통보할 것입니다. 이를 통해 귀하는 변경 사항의 본질과 영향을 이해하고, 필요에 따라 권리를 행사할 수 있습니다.
+
+문의하기 
+
+본 정책이나 데이터에 관한 질문이나 관심사, 요청 사항이 있을 경우 다음 방법 중 하나로 문의해 주십시오: 
+
+  * 서비스 기능 사용(게임 내 도움말 페이지) 
+  * 고객 지원 페이지 사용: [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/)
+  * 이메일: [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+추가 정보
+
+당사의 게임은 아일랜드에 있는 회사(Social Quantum Ireland Limited, 회사 번호 535614)가 Amazon Appstore, Microsoft Windows App 스토어, ok.ru, mail.ru 등에 배포합니다.
+
+본 개인정보 취급방침은 언급된 플랫폼을 통해 배포된 당사의 서비스 이용에 적용됩니다. 
+
+언급된 플랫폼에서 귀하가 게임을 이용할 경우, Social Quantum Limited(회사 정보 항목에 명시)는 개인 데이터 관리 주체로 남습니다. 
+
+당사는 본 정책의 올바른 번역을 제공하기 위해 최선을 다하고 있습니다. 하지만 법적 효력은 본 방침의 영문 버전에만 있습니다.
+
+Última atualização em 1 de Junho de 2018 
+
+### Política de privacidade
+
+**Sobre nós**
+
+A Social Quantum Limited foi estabelecida de acordo com a legislação em Hong Kong, sob o número de registro 1734369 («Social Quantum»/«nós»/«nos»/«nosso»). A Social Quantum desenvolve jogos para dispositivos móveis e redes sociais, e possui páginas da web conectadas a tais jogos (coletivamente denominados «Serviços»). Nossas informações de contato.
+
+Caso instale nossos jogos por meio da Amazon Appstore, da Microsoft Windows App Store ou jogue pela ok.ru, mail.ru, consulte também as Informações adicionais.
+
+Para os propósitos expressos pelo GDPR, a Social Quantum Limited é a controladora dos seus dados pessoais.
+
+**Sobre nossa Política de  Privacidade**
+
+Esta política de privacidade (a «Política») descreve como e por quais motivos processamos seus dados pessoais, seus direitos e nossas obrigações relacionados a tal processamento.
+
+Ao usar nossos serviços, você concorda com os termos desta política de privacidade e confirma que compreende os modos como coletamos e usamos suas informações.
+
+Esta Política descreve nossa abordagem global do processamento de dados pessoais. Caso mencionemos o «aviso do GDPR», significa que o objetivo da seção a que nos referimos é satisfazer as exigências da Regulamento Geral sobre a Proteção de Dados (General Data Protection Regulation — EU) 2016/679 (o «GDPR») e aplica-se apenas a usuários que, com base em nossos dados, estejam localizados dentro do Espaço Econômico Europeu («EEE»).
+
+**Limites de  idade**
+
+Nós não tentamos de modo consciente solicitar nem receber informações de crianças. Caso você tenha menos de 16 anos de idade (ou a idade legal mínima para acesso a conteúdo digital no seu país), solicitamos que não nos envie suas informações pessoais (nome, endereço, endereço de e-mail etc.) sem o consentimento dos seus pais. Por favor, fale conosco se acredita que possamos ter quaisquer dados sobre seu filho/sua filha com menos de 16 anos de idade (ou a idade legal mínima para acesso a conteúdo digital no seu país).
+
+**As  informações que você nos fornece** ao se corresponder conosco, quando usa os nossos Serviços, ou quando relata um problema com os nossos Serviços. Estas informações podem incluir:
+
+  * Dados de identidade: nome, endereço de e-mail, informações de perfil.
+  * Suas mensagens para os Serviços.
+  * CV, caso carregue tal documento em nossas páginas da web.
+
+
+
+**As  informações que coletamos a seu respeito** automaticamente:
+
+Dados técnicos: informações técnicas que incluem
+
+  * Endereço de IP;
+  * Informações do dispositivo (ID do dispositivo, modelo, tipo de sistema operacional, ID de publicidade, endereço MAC). A ID de publicidade é uma ID de usuário redefinível, gerada pelo seu dispositivo ou sistema operacional, que permite que empresas de publicidade online rastreiem o uso de aplicativos pelo usuário e ofereçam publicidade personalizada;
+  * Informações de login;
+  * Tipo e versão do navegador;
+  * Dados de geolocalização (país e cidade), configurações de fuso horário e idioma;
+  * Código de push.
+  * Nós criamos uma ID de usuário única para rastrear o seu uso dos nossos Serviços.
+
+
+
+Dados de uso: informações sobre o seu uso, incluindo
+
+  * Progresso no jogo;
+  * Interações com outros jogadores;
+  * Dados de jogabilidade;
+  * Duração do uso;
+  * Data de instalação do aplicativo;
+  * Erros do usuário.
+
+
+
+**Informações  sobre você que coletamos de terceiros**
+
+  * Os dados que recebemos, caso você se inscreva em nossos Serviços usando contas de redes sociais (p. ex. Facebook). Isso pode incluir nome, ID de redes sociais, número de amigos;
+  * Dados sobre datas e quantias pagas por você no jogo, que recebemos de plataformas onde nossos jogos estão hospedados;
+  * Talvez recebamos dados técnicos e de uso dos provedores de serviços que nos auxiliam a fornecer os Serviços a você (p. ex. um SDK de terceiros que permite rastrear o uso, as instalações e os downloads em dispositivos móveis).
+
+
+
+_Aviso do  GDPR:_ não solicitamos nem coletamos quaisquer dados pessoais que sejam confidenciais ou estejam em qualquer categoria de dados pessoais abrangida pelo GDPR.
+
+**Cookies.** Podemos usar cookies em nossas páginas da web. «Cookies» são pequenos arquivos de texto que armazenamos no navegador do seu computador pessoal, e que são normalmente usados para reunir informações estatísticas e para analisar as tendências de uso ou acesso a uma página da web. Os cookies não podem ser usados para executar programas, nem para enviar vírus ao seu computador. Usamos os cookies para coletar informações como endereço de IP, tipo de sistema operacional, tipo de navegador, idioma do navegador e histórico de consultas. É possível ajustar as configurações do seu navegador ou dispositivo para limitar determinados rastreamentos, por meio de cookies.
+
+Usamos suas informações pessoais para os seguintes propósitos
+
+  * Fornecer os Serviços (p. ex., criar contas, operar o Serviço, tornar possível sua comunicação com outros jogadores, salvar seu progresso no jogo);
+  * Para responder às suas consultas e gerenciar nosso relacionamento com você (p. ex. suporte ao cliente);
+  * Para garantir que os Serviços sejam fornecidos da maneira mais eficaz para você e para o seu computador ou dispositivo.
+  * Para verificar e confirmar pagamentos.
+
+
+
+_Aviso do  GDPR:_ usamos suas informações para os propósitos mencionados de modo a firmar um contrato com você, e porque temos interesse legítimo em responder às consultas de usuários novos e antigos, além de fazer crescer nosso negócio, manter nossos registros atualizados e estudar como os clientes usam nossos Serviços.
+
+  * Para exibir publicidade em nossos jogos. Nossos parceiros podem também exibir publicidade direcionada a você em nossos jogos. Recusa.
+  * Para medir e entender a eficácia da publicidade que oferecemos a você.
+  * Para enviar notificações de push com atualizações de jogos, recordes e outros Serviços relacionados que possam ser importantes para você. Você pode recusar o recebimento de notificações de push desativando-as nas configurações do seu dispositivo.
+
+
+
+_Aviso do  GDPR:_ usamos suas informações para os propósitos mencionados porque temos interesse legítimo em desenvolver e promover nossos Serviços, oferecer e melhorar nossa publicidade, além de fazer crescer nosso negócio e estudar como os clientes usam nossos Serviços.
+
+  * Para administrar e proteger os nossos negócios e Serviços, e para operações internas, incluindo solução de problemas, análise de dados, testes, pesquisa e ainda objetivos estatísticos e de sondagem.
+  * Para usar a análise de dados e melhorar ou otimizar nossos Serviços, o marketing, os relacionamentos e as experiências dos clientes.
+
+
+
+_Aviso do  GDPR:_ usamos suas informações para os propósitos mencionados porque temos interesse legítimo em cuidar do nosso negócio e manter nossos Serviços seguros e protegidos, para manter nossos Serviços atualizados e relevantes.
+
+  * Quando você fornece seu CV, usamos seus dados para confirmar sua aptidão para a vaga e para nos comunicarmos com você. Usamos estas informações porque temos interesse legítimo em recrutar talentos e fazer nosso negócio crescer.
+
+
+
+Não tomamos nenhuma decisão baseados unicamente no processamento automatizado, o que inclui criação de perfis.
+
+**Alteração  do propósito.** Somente usaremos seus dados pessoais para os propósitos pelos quais os coletamos, ou por motivos compatíveis com tais objetivos. Se precisarmos usar seus dados pessoais para algum propósito não relacionado, notificaremos você e explicaremos a base legal que nos permite fazê-lo.
+
+**Recusa à publicidade direcionada.** Você pode, a qualquer momento, recusar ser alvo de publicidade direcionada ajustando as configurações do seu dispositivo ou do seu navegador, da seguinte maneira:
+
+  * Para iOS: siga as instruções definidas em https://support.apple.com/en-us/ht202074#iOS;
+  * Para Android: siga as instruções definidas em https://support.google.com/ads/answer/2662922?hl=en;
+  * Para Windows: siga as instruções definidas em https://account.microsoft.com/privacy/ad-settings/signedout?lang=en-GB;
+  * É possível ajustar as configurações do seu navegador ou dispositivo para limitar determinados rastreamentos, por meio de cookies e visitando as páginas da web http://www.aboutads.info/choices e http://www.youronlinechoices.eu.
+
+
+
+**Acesso aos seus Dados Pessoais.** Você pode, a qualquer momento, solicitar o acesso a uma cópia dos dados pessoais que mantemos a seu respeito. Diante de tais circunstâncias, precisaremos verificar sua identidade; podemos também solicitar mais informações ou esclarecimentos da sua parte, se assim for necessário para nos ajudar a localizar e fornecer a você os dados pessoais solicitados.
+
+**Correção.** Se as informações pessoais que detivermos a seu respeito estiverem incorretas, você pode solicitar que suas informações pessoais sejam atualizadas e corrigidas.
+
+Você também pode ter outros direitos prescritos pelas leis do seu país. Em particular, com base no GDPR, você tem o direito à portabilidade de dados, a ter seus dados excluídos, fazer objeção a como usamos ou compartilhamos seus dados, restringir como usamos ou compartilhamos seus dados.
+
+Por favor, fale conosco para exercer qualquer um dos seus direitos, ou para obter mais informações. Responderemos a todas as perguntas tão logo quanto possível.
+
+Temos o compromisso de cumprir os termos dos regulamentos de proteção de dados aplicáveis e de processarmos dados pessoais de maneira justa, transparente e dentro da lei. Se, no entanto, você entender que não cumprimos com nossas obrigações conforme previsto nos regulamentos de proteção de dados aplicáveis, você tem o direito de registrar sua reclamação junto à autoridade fiscalizadora do seu país.
+
+Pode ser que apresentemos publicidade dentro do jogo. Os anunciantes podem ter acesso aos seus dados e agirem segundo suas próprias políticas de privacidade. Recomendamos que você leia com atenção as políticas de privacidade deles.
+
+Facebook  
+Política de Privacidade: https://www.facebook.com/about/privacy
+
+IronSource  
+Política de Privacidade: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Política de Privacidade: https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+Política de Privacidade: https://www.hyprmx.com/pp.html
+
+Fyber  
+Política de Privacidade: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Política de Privacidade: https://vungle.com/privacy/
+
+Terceiros podem usar cookies, sinalizadores web e outras tecnologias de rastreamento para coletar ou receber dados sobre você, e podem reivindicar direitos de controle sobre seus dados pessoais. Nós sempre nos empenhamos em fechar parcerias com empresas que adotem as medidas de segurança adequadas para garantir a segurança dos dados pessoais. Dito isso, e na extensão máxima permitida pela legislação me vigor, nós, nossos funcionários, agentes, empresa controladora e subsidiárias não assumimos qualquer responsabilidade pelo conteúdo ou confiabilidade de quaisquer materiais de terceiros, nem pelas páginas da web referenciadas por hyperlink ou por outros meios nos Serviços, nem pela coleta de dados e as práticas de uso ou as medidas de segurança usadas por tais terceiros.
+
+**É possível que venhamos a  compartilhar suas informações pessoais, com as seguintes categorias de destinatários e nas circunstâncias a seguir:**
+
+  * Empresas dentro do nosso grupo;
+  * Parceiros de negócios, fornecedores e subcontratados para o desempenho das funções previstas em qualquer contrato que firmemos com eles ou com você em relação aos Serviços (p. ex. hospedagem, suporte ao jogador, publicidade);
+  * Na eventual possibilidade de adquirirmos ou vendermos qualquer negócio ou ativo. Nesse caso revelaremos seus dados pessoais ao potencial vendedor ou comprador de nossos negócios ou ativos;
+  * Se todos, ou substancialmente todos os nossos negócios ou ativos forem adquiridos por, ou transferidos para terceiros. Nesse caso os dados pessoais que mantivermos farão parte dos ativos transferidos;
+  * Se nos for exigida a divulgação ou o acesso aos seus dados pessoais em obediência a qualquer legislação, obrigação legal ou decisão judicial;
+  * Para proteger nossos direitos, propriedade ou segurança, nossos clientes ou outros. Isso inclui a troca de informações com outras empresas e organizações para a manutenção e a proteção dos Serviços.
+
+
+
+Adotamos medidas de segurança adequadas para prevenir que seus dados pessoais sejam acidentalmente perdidos, usados ou acessados de modo não autorizado, alterados ou divulgados. Além disso, limitamos o acesso aos seus dados pessoais apenas àqueles funcionários, agentes, contratados e terceiros que necessitem acessá-los com base em suas atividades. Tais indivíduos processarão seus dados pessoais somente de acordo com as nossas instruções, e estarão sujeitos a cláusulas de confidencialidade. Temos adotado procedimentos para lidarmos com qualquer possível falha na proteção de dados pessoais e notificaremos você, bem como a qualquer órgão regulador aplicável, sobre qualquer falha, caso seja legalmente necessário fazê-lo.
+
+**Por quanto tempo mantemos suas informações.** Reteremos seus dados pessoais somente pelo tempo que for necessário para atendermos aos propósitos pelos quais os coletamos, incluindo quaisquer exigências legais, contábeis ou de denúncia. O período de tempo em que armazenamos os seus dados pessoais pode depender do tipo de dados armazenados, considerando a quantidade, a natureza e a vulnerabilidade desses dados pessoais, o risco potencial de dano pelo uso não autorizado ou pela divulgação de tais dados, os propósitos pelos quais os processamos e se podemos ou não alcançar esses objetivos por outros meios, e ainda as exigências legais em vigor.
+
+_Aviso do  GDPR_  
+**Transferências.** Os Dados Pessoais podem ser transferidos para nossos parceiros de confiança e para provedores de serviço que tenham seus servidores fora do EEE. Isso será feito apenas com o propósito de fornecer os Serviços para você, na medida necessária para tal. Vamos cumprir as exigências em vigor relativas às transferências de dados, para regular tais transferências e garantir que as medidas de segurança adequadas sejam aplicadas, de modo a salvaguardar e manter a integridade dos seus dados pessoais no processo de transferência.
+
+Toda e qualquer alteração feita periodicamente nesta Política será publicada em nossa página da web, privacy.socialquantum.com. Toda e qualquer alteração substancial nas operações de processamento de dados descritas nesta Política que seja relevante ou afete você ou os seus dados será notificada com antecedência. Desse modo, você terá a oportunidade de considerar a natureza e o impacto da alteração e exercitar seus direitos em relação a tal mudança, da maneira que achar melhor.
+
+Se você tiver dúvidas, preocupações ou solicitações em relação a esta Política ou seus dados, fale conosco pelos seguintes canais:
+
+  * a funcionalidade nos Serviços (página de Ajuda nos nossos jogos);  
+
+  * nossa página de suporte ao cliente, em [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/);  
+
+  * mande-nos um e-mail para [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com).
+
+
+
+A empresa (Social Quantum Ireland Limited, número da empresa 535614), com sede na Irlanda, publica nossos jogos em plataformas como a Amazon Appstore, a Microsoft Windows App Store, o ok.ru e o mail.ru.
+
+Esta Política de Privacidade aplica-se somente ao seu uso dos nossos Serviços quando distribuídos pelas plataformas mencionadas.
+
+A Social Quantum Limited (como descrito na cláusula Sobre nós) se mantém como controladora dos seus dados pessoais caso jogue pelas plataformas mencionadas.
+
+**Fazemos tudo ao  nosso alcance para oferecer traduções precisas desta Política. No entanto, observe que somente a versão em Inglês desta Política tem efeito legal pertinente.**
+
+Son güncelleme 1 Hazi̇ran 2018 
+
+### Gi̇zli̇li̇k poli̇ti̇kasi
+
+**Hakkımızda**
+
+Social Quantum Limited, 1734369 kayıt numarasıyla Hong Kong kanunları çerçevesinde kurulmuştur («Social Quantum»/«biz»/«bizim») Social Quantum mobil ve sosyal ağ oyunları geliştirir ve oyunlarla ilgili web sitelerine sahiptir (toplu olarak «Hizmetler»). İletişim bilgilerimiz.
+
+Oyunlarımızı Amazon Uygulama mağazasından ya da Microsoft Windows Uygulama mağazasından indirdiyseniz ya da ok.ru, mail.ru üzerinden oynuyorsanız lütfen İlave bilgiler kısmına da göz atın.
+
+Genel Veri Koruma Tüzüğünde (GDPR) öngörülen amaçlar doğrultusunda, Social Quantum Limited, kişisel verilerinizi kontrol eden taraf/kontrolör durumundadır.
+
+**Gizlilik Politikamız  Hakkında**
+
+İşbu gizlilik politikası («Politika»), kişisel verilerinizi nasıl ve neden işlediğimizi, haklarınızı ve bu işlemeyle ilgili olarak yükümlülüklerinizi ortaya koyar.
+
+Hi̇zmetleri̇mi̇zi̇ kullanarak, i̇şbu gi̇zli̇li̇k poli̇ti̇kasinin hükümleri̇ni̇ kabul etmi̇ş ve bi̇lgi̇leri̇ni̇zi̇ nasil toplayip kullandiğimizi anladiğinizi onaylamiş olursunuz.
+
+İşbu Politika, kişisel verilerin işlenmesine dünya genelinde nasıl yaklaştığımızı ortaya koyar. «GDPR notundan» söz ettiğimizde, bu bölümün, 2016/679 numaralı Genel Veri Koruma Tüzüğünün (AB) («GDPR») gereksinimlerini yerine getirme amacını taşıdığı ve verilerimize dayanarak yalnızca Avrupa Ekonomik Bölgesinde («EEA») yer alan kullanıcılara uygulandığı anlaşılmalıdır.
+
+**Yaş sınırları**
+
+Çocuklardan bilerek bilgi istemeyiz ve toplamayız. 16 yaşından (ya da kendi ülkenizdeki dijital rıza yaşından) küçükseniz lütfen bize ebeveyn onayı olmadan kişisel bilgilerinizi (isim, adres, e-posta adresi vb.) göndermeyin. 16 yaşından (ya da kendi ülkenizdeki dijital rıza yaşından) küçük çocuğunuzla ilgili elimizde veri olabileceğine inanıyorsanız lütfen bizimle iletişime geçin.
+
+Bizimle yazıştığınızda, Hizmetlerimizi kullandığınızda veya Hizmetlerimizle ilgili bir sorun bildirdiğinizde **bize verdiğiniz bilgiler.** Bu bilgilerin içinde aşağıdakiler olabilir:
+
+  * Kimlik Verileri: Ad, e-posta adresi, profil bilgileri.  
+
+  * Hizmetlere attığınız mesajlar.
+  * Web sitelerimize yüklediğiniz özgeçmiş.
+
+
+
+**Sizinle ilgili otomatik olarak topladığımız  bilgiler:**
+
+Teknik Veriler: Teknik bilgiler. Bunlara dahil olanlar:
+
+  * IP adresi;
+  * Cihaz bilgileri (cihaz kimliği, işletim sisteminizin modeli ve tipi, MAC adresiniz). Reklam Kimliği, çevrimiçi reklamcıların, kullanıcının uygulama kullanımını izleyip kişiye özel reklam hizmeti sağlamasına yarayan bir işletim sistemi ya da cihaz tarafından üretilen, kullanıcı tarafından sıfırlanabilen bir Kimliktir.
+  * Oturum açma bilgileriniz;
+  * Tarayıcı tipi ve sürümü;
+  * Konum verileri (ülke ve şehir), saat dilimi ayarları ve dil ayarları;
+  * Anlık bildirim anahtarı.
+  * Hizmetlerimizi kullanımınızı izlemek için benzersiz bir kullanıcı kimliği oluştururuz.
+
+
+
+Kullanım Verisi: Kullanımınızla ilgili bilgiler. Bunlara dahil olanlar:
+
+  * Oyun içi ilerleme;
+  * Diğer oyuncularla etkileşiminiz;
+  * Oynanış verisi;
+  * Kullanım süresi;
+  * Uygulamanın kurulma tarihi;
+  * Kullanıcı hataları.
+
+
+
+**Üçüncü taraflardan sizin hakkınızda topladığımız  bilgiler**
+
+  * Hizmetlerimize sosyal ağ hesaplarını (örneğin Facebook) kullanarak giriş yaptığınızda aldığımız veriler. Bunlara isminiz, sosyal ağlarınızın kimliği, arkadaş sayınız dahil olabilir.
+  * Tarafınızdan yapılan oyun içi ödemenin miktarı ve tarihiyle ilgili olarak, oyunlarımızın bulunduğu platformlardan aldığımız bilgiler;
+  * Size Hizmetleri sağlamamızda bizlere yardımcı olan hizmet sağlayıcılarından Teknik ve Kullanım Verilerini alabiliriz (örneğin mobil uygulama kullanımı, kurulum ve indirmelerin izlenmesine olanak sağlayan bir üçüncü taraf yazılım geliştirme kiti).
+
+
+
+_GDPR notu_  
+GDPR kapsamında hassas kişisel verileriniz sayılabilecek ya da herhangi bir özel kişisel veri kategorisinden kişisel verileri istemeyiz ve toplamayız.
+
+**Çerezler.** Web sitelerimizde çerezleri kullanabiliriz. «Çerezler», bilgisayarınızdaki tarayıcı tarafından saklanan ve normalde istatistiksel bilgileri toplamak ve web sitesine giriş ya da kullanımdaki eğilimleri analiz etmek için kullanılan küçük metin dosyalarıdır. Çerezler, bilgisayarınızda program çalıştırmak ya da bilgisayarınıza virüs bulaştırmak amacıyla kullanılmaz. IP adresi, işletim sistemi tipi, tarayıcı tipi, tarayıcı dili ve soru geçmişi gibi bilgileri toplamak için çerezleri kullanırız. Çerezler yoluyla bazı izlemeleri sınırlandırmak için tarayıcınızın veya cihazınızın ayarlarını düzenleyebilirsiniz.
+
+Kişisel bilgileri şu amaçla kullanırız:
+
+  * Hizmetleri sağlamak (örneğin hesap oluşturmak, Hizmetleri işletmek, diğer oyuncularla iletişime geçmenizi sağlamak, oyun içi ilerlemenizi kaydetmek);
+  * Sorularınıza cevap vermek ve sizinle kurduğumuz ilişkiyi yönetmek (örneğin müşteri desteği sağlamak);
+  * Hizmetlerin size ve bilgisayarınıza ya da cihazınıza en verimli biçimde sunulduğundan emin olmak.
+  * Ödemeleri doğrulamak ve onaylamak.
+
+
+
+_GDPR notu:_ Bilgilerinizi, sözü edilen amaçlar doğrultusunda, sizinle akdettiğimiz sözleşmeyi yerine getirmek için ve yeni ve mevcut kullanıcı sorularına cevap vererek işletmemizi büyütmek, ayrıca kayıtlarımızı güncellemek ve müşterilerimizin Hizmetlerimizi nasıl kullandığını inceleyebilmek için meşru nedenlere sahip olduğumuzdan kullanırız.
+
+  * Oyunlarımızda reklam göstermek. Ortaklarımız da bizim oyunlarımızda sizlere hedefli reklamlar gösterebilir. Katılmama tercihi.
+  * Size sunduğumuz reklamların verimliliğini ölçmek ve anlamak.
+  * Oyun güncellemelerini, yüksek puanları ve sizin için önemli olabilecek Hizmetlerle ilgili diğer bilgileri anlık bildirim olarak göndermek. Anlık bildirimleri, cihazınızın ayarlar bölümünden kapatarak anlık bildirim almamayı tercih edebilirsiniz.
+
+
+
+_GDPR notu:_ Bilgilerinizi, sözü edilen amaçlar doğrultusunda, Hizmetlerimizi geliştirmek ve tanıtmak, reklamlarımızı sunmak ve iyileştirmek, işlerimizi büyütmek ve müşterilerimizin Hizmetlerimizi nasıl kullandığını incelemek için meşru nedenlere sahip olduğumuzdan kullanırız.
+
+  * İşimizi ve Hizmetlerimizi idare etmek ve korumak, ayrıca sorun çözme, veri analizi, test, araştırma, istatistiksel ve anket amaçları gibi dahili faaliyetlerimiz için.
+  * Hizmetlerimizi, pazarlamayı, müşteri ilişkilerini ya da deneyimlerini iyileştirmek ya da optimize etmek için veri analitiğini kullanmak.
+
+
+
+_GDPR notu:_ Bilgilerinizi, sözü edilen amaçlar doğrultusunda, işlerimizi idare etmek ve Hizmetlerimizi her zaman güvenli kılmak ve Hizmetlerimizin güncel ve ilgi çekici olmasını sağlamak için meşru nedenlere sahip olduğumuzdan kullanırız.
+
+  * Bize özgeçmişinizi gönderdiğinizde, istihdama uygunluğunuzu doğrulamak ve sizinle iletişime geçmek için verilerinizi kullanırız. Bu bilgileri, yetenekli kimseleri işe almak ve işlerimizi büyütmek için meşru nedenlere sahip olduğumuzdan kullanırız.
+
+
+
+Profil oluşturma gibi yalnızca otomatikleştirilmiş veri işleme süreçlerine dayanarak karar vermeyiz.
+
+**Amaç değişikliği.** Kişisel verilerinizi yalnızca bu bilgileri toplama amacımız ya da buna uygun nedenler doğrultusunda kullanırız. Kişisel verilerinizi, ilgisiz bir nedenle kullanmamız gerekirse size haber veririz ve bize bu yetkiyi veren yasal gerekçeyi açıklarız.
+
+**Hedefli reklamlara katılmama tercihi.** İstediğiniz zaman, cihazınızın ya da tarayıcınızın ayarlarını aşağıdaki gibi düzenleyerek hedefli reklamlara katılmamayı tercih edebilirsiniz:
+
+  * iOS için: Lütfen https://support.apple.com/en-us/ht202074#iOS adresinde yer alan yönlendirmeleri izleyin;
+  * Android için: Lütfen https://support.google.com/ads/answer/2662922?hl=en adresinde yer alan yönlendirmeleri izleyin;
+  * Windows için lütfen https://account.microsoft.com/privacy/ad-settings/signedout?lang=en-GB adresinde yer alan yönlendirmeleri izleyin
+  * Çerezler yoluyla bazı izlemeleri sınırlandırmak için tarayıcınızın veya cihazınızın ayarlarını düzenleyebilirsiniz ve aşağıdaki web sitelerini ziyaret edebilirsiniz: http://www.aboutads.info/choices and http://www.youronlinechoices.eu.
+
+
+
+**Kişisel Verilerinize Erişim.** Sizinle ilgili elimizde bulundurduğumuz kişisel verilerin bir kopyasına ne zaman isterseniz erişme talebinde bulunabilirsiniz. Bu gibi durumlarda kimliğinizi doğrulamamız gerekecektir ve gerektiğinde talep ettiğiniz kişisel verileri bulmamıza ve size sağlamamıza yardım edecek olan ilave bilgiler ya da açıklamalar isteyebiliriz.
+
+**Düzeltme.** Sizinle ilgili elimizde bulundurduğumuz kişisel bilgiler doğru değilse kişisel bilgilerinizin güncellenmesini ve düzeltilmesini talep edebilirsiniz.
+
+Ülkenizin kanunlarınca öngörülen diğer haklara da sahipsiniz. Bilhassa GDPR kapsamında veri taşınabilirliği hakkına verinizin silinmesini isteme hakkına, verilerinizi kullanma ya da paylaşma biçimimize itiraz etme hakkına, verilerinizi kullanmamızı ya da paylaşmamızı kısıtlama hakkına sahipsiniz.
+
+Bu haklarınızı kullanmak ya da daha fazla bilgi almak için lütfen bizimle iletişime geçin. Tüm isteklere makul bir sürede yanıt vereceğiz.
+
+İlgili veri koruma tüzüklerinin hükümlerine uymaya ve kişisel verileri adil, kanunlara uygun ve şeffaf bir biçimde işlemeye bağlıyız. Ancak ilgili veri koruma tüzüğü kapsamında yükümlülüklerimize uymadığımızı düşünüyorsanız ülkenizdeki denetçi kuruma şikayette bulunma hakkınız bulunmaktadır.
+
+Oyun içinde reklam gösterebiliriz. Reklamcılar verilerinize ulaşabilir ve kendi gizlilik politikaları kapsamında faaliyet gösterebilirler. Onların gizlilik politikalarını da dikkatle okumanızı öneririz.
+
+Facebook  
+Gizlilik Politikası: https://www.facebook.com/about/privacy
+
+IronSource  
+Gizlilik Politikası: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies  
+Gizlilik Politikası: https://unity3d.com/legal/privacy-policy
+
+HyprMX  
+Gizlilik Politikası: https://www.hyprmx.com/pp.html
+
+Fyber  
+Gizlilik Politikası: https://www.fyber.com/legal/privacy-policy/
+
+Vungle  
+Gizlilik Politikası: https://vungle.com/privacy/
+
+Üçüncü taraflar, sizinle ilgili verileri toplamak veya almak için çerezleri, web işaretçileri ve diğer izleme teknolojilerini kullanabilir ve kişisel verileriniz üzerinde denetleyici haklarını talep edebilir. Kişisel verilerinizi korumak için yeterli güvenlik tedbirleri olan ortaklarla çalışmak için elimizden geleni yapıyoruz. Bununla birlikte, kanunlarca izin verildiği en geniş ölçüde, bizler, çalışanlarımız, acentelerimiz, ana şirketimiz ve iştiraklerimiz, Hizmetlerde hiper bağlantı ya da başka bir yolla bağlantısı verilmiş üçüncü taraflara ait malzeme ya da web sitelerinin ya da bu gibi üçüncü tarafların kullandığı uygulamalar, güvenlik tedbirleri ve veri toplama faaliyetlerinin içeriğinden ve güvenilirliğinden doğabilecek hiçbir sorumluluğu kabul etmemekteyiz.
+
+**Kişisel bilgilerinizi, aşağıdaki sınıflara giren alıcılarla, aşağıdaki koşullar altında paylaşabiliriz:**
+
+  * Grubumuzdaki şirketler;
+  * Hizmetlerle ilgili olarak sizinle ya da onlarla akdettiğimiz sözleşmelerin yerine getirilmesi için iş ortakları, tedarikçiler ve yükleniciler (örneğin barındırma hizmeti, oyuncu desteği, reklam);
+  * İşletmemizi ya da varlıklarımızı satmamız ya da bunları satın almamız halinde, işletmemizin ya da varlığımızın olası satıcısına ya da alıcısına kişisel verilerinizi ifşa ederiz;
+  * İşletmemizin ya da varlıklarımızın tümü ya da tümüne yakın bir bölümü üçüncü bir tarafça alınırsa ya da üçüncü bir tarafa devredilirse elimizde bulundurduğumuz kişisel veriler de devredilen varlıkların bir parçası olur;
+  * Kanunlar, yasal yükümlülükler ya da mahkeme emrine uymak için kişisel verilerinizi paylaşmak ya da ifşa etmek zorunluluğundaysak;
+  * Haklarımızı, mülkümüzü ya da güvenliğimizi, müşterilerimizi ve diğerlerini korumak için. Bunlara, Hizmetlerimizin sürdürülmesi ve güvenliğinin sağlanması için diğer şirketlerle ve organizasyonlarla bilgi paylaşımında bulunmak dahildir.
+
+
+
+Kişisel verilerinizin kazara kaybolmasına, kullanılmasına ya da yetkisiz bir şekilde bu verilere erişilmesine, değiştirilmesine ve ifşa edilmesine karşı uygun güvenlik tedbirlerini aldık. Buna ilaveten, kişisel verilerinize erişebilecek kişileri çalışanlarımız, acentelerimiz, yüklenicilerimiz ve işlerini yapabilmek için bilmesi gereken diğer üçüncü taraflarla sınırlarız. Bu taraflar kişisel verilerinizi yalnızca bizim talimatlarımızla işleyebilecektir ve bunları gizli tutmakla görevlidirler. Kişisel verilerin ihlal edilmesinden şüphelenildiğinde neler yapılacağına dair usulleri belirledik ve hem sizi hem de yasal olarak gerekli görüldüğü hallerde bu ihlali düzenleyecek taraflara haber veririz.
+
+**Bilgilerinizi ne  süreyle tutarız.** Kişisel verilerinizi yalnızca bu verileri toplama amacını gerçekleştirecek süre boyunca saklarız; bunlara yasal gereksinimlerin, muhasebe ve raporlama gereksinimlerinin yerine getirilmesi de dahildir. Kişisel verilerinizi sakladığımız süre, kişisel verilerin miktarı, niteliği ve hassasiyeti, kişisel verilerinizin yetkisiz kullanımı ya da ifşaatından doğan potansiyeli riski, kişisel verilerinizi işleme amacımız ve bu amaçları başka yollardan başarıp başaramayacağımız ve ilgili yasal gereksinimler göz önünde bulundurularak elimde bulundurduğumuz verinin türüne göre değişebilir.
+
+_GDPR notu_  
+**Aktarmalar.** Kişisel veriler, sunucularını Avrupa Ekonomik Bölgesi (EEA) dışında tutan güvenilir ortaklarımıza ve hizmet sağlayıcılarımıza aktarılabilir. Bu, yalnızca size Hizmetleri sağlama amaçları doğrultusundadır ve bu Hizmetleri size sağlayabilmemiz için gerektiği ölçüdedir. Bu gibi veri aktarımları için, veri aktarımlarını düzenlemek ve kişisel verilerinizin bütünlüğünüzün aktarım sırasında korunmasını ve güvenliğini sağlamak amacıyla yeterli güvenlik tedbirlerinin uygulanması için öngörülen gereksinimlere uygun davranacağız.
+
+İşbu Politikada zaman yapılabilecek değişiklikler privacy.socialquantum.com web sitemizde yayınlanacaktır. İşbu Politikada tarif edilen her türlü malzeme ve veri işleme faaliyetlerinde sizi ya da kişisel verilerinizi ilgilendiren ya da size ya da kişisel verilerinize etkisi olabilecek değişiklikler size önceden haber verilecektir. Böylelikle, bu değişikliğin niteliğini ve getireceği etkiyi göz önünde bulundurma ve uygun gördüğünüz değişiklikle ilgili olarak haklarınızı uygulama fırsatınız olacaktır.
+
+İşbu Politika ya da verilerinize ilişkin sorularınız, endişeleriniz ya da istekleriniz varsa lütfen aşağıda sunulan yollardan birini kullanarak bizimle iletişime geçin:
+
+  * Sunduğumuz Hizmetlerin özelliklerini kullanabilirsiniz (oyunlarımızdaki Yardım sayfası);
+  * [https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/) adresindeki müşteri destek sayfamızı kullanabilirsiniz;
+  * Bize [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com) adresinden e-posta atabilirsiniz.
+
+
+
+İrlanda merkezli şirket (Social Quantum Ireland Limited, şirket numarası 535614) oyunlarımızı Amazon Uygulama Mağazası, Microsoft Uygulama Mağazası, ok.ru, mail.ru gibi platformlardan yayınlamaktadır.
+
+İşbu Gizlilik politikası, sözü edilen platformlar aracılığıyla Hizmetlerimizin kullanılması durumunda da geçerlidir.
+
+Social Quantum Limited (Hakkımızda maddesinde tarif edildiği gibi), oyunları sözü edilen platformlar aracılığıyla oynadığınızda kişisel verilerinizi kontrol eden taraf/kontrolör durumundadır.
+
+**İşbu  Politikanın doğru çevirisini sağlamak için elimizden geleni yapıyoruz. Ancak bu Politikanın yalnızca İngilizce sürümünün yasal etkiye sahip olacağını lütfen unutmayın.**
+
+最後更新 2018 年 6 月 1 日 
+
+### 隱私政策
+
+關於我們
+
+Social Quantum Limited 根據香港法律成立，註冊號為 1734369（「Social Quantum」/「我們」/「我方」/「我們的」）。Social Quantum 開發移動和社交網路遊戲並擁有與遊戲相關的網站（統稱為「服務」）。我們的連絡方式。
+
+如果從 Amazon Appstore、Microsoft Windows App Store 安裝我們的遊戲，或透過 ok.ru、mail.ru 遊玩，也請參考其他資訊。
+
+出於 GDPR 目的，Social Quantum Limited 是您個人資料的掌控者。 
+
+關於我們的隱私政策
+
+本隱私政策（「政策」）描述了我們如何及為何處理您的個人資料、您的權利以及與此類處理有關的義務。
+
+透過我們的服務、您同意本隱私政策的條款，並確認理解我們收集和使用你的資訊的方式。
+
+這項政策描述了我們處理個人資料的全域方法。如果我們提到「GDPR 記錄」，這意味著該部分的目的是滿足一般資料保護條例（EU）2016/679（「GDPR」）的要求，而且僅適用于根據我們的資料，位於歐洲經濟區的使用者（「歐洲經濟區」）。
+
+年齡限制
+
+我們無意試圖徵求或接收兒童的資訊。如果您未滿 16 歲（或貴國規定的數位同意年齡），如無父母同意，請勿向我們發送您的個人資訊（姓名、地址、電子郵件地址等）。如果您認為我們可能有任何關於您未滿 16 歲（或貴國規定的數位同意年齡）的孩子的資料 ，請與我們連絡。
+
+我們收集的資訊
+
+您在使用我們的服務時，或在我們的服務中報告問題時向我們提供的資訊。此資訊可能包括：
+
+* 身份資料：姓名、電子郵件地址、個人資料。
+* 您送到服務的訊息。
+* 上傳到我們網站的履歷。
+
+我們自動收集的有關您的資訊：
+
+技術資料：技術資訊，包括 
+
+  * IP 位址；
+  * 裝置資訊（裝置 ID、型號，作業系統類型、廣告 ID，MAC 位址）。廣告 ID 是由您的裝置或作業系統生成的使用者重定 ID，允許線上廣告商跟蹤使用者使用的應用程式，提供個人化的廣告；
+  * 登入資訊；
+  * 瀏覽器類型和版本；
+  * 地理定位資料（國家和城市）、時區設定和語言設定；
+  * 推送權杖。
+  * 我們創建一個唯一的用戶 ID 來追蹤您對我們服務的使用情況。
+
+
+
+使用資料：有關您使用的資訊，包括
+
+  * 遊戲進度；
+  * 與其他玩家的互動；
+  * 遊戲資料；
+  * 使用時間；
+  * 應用程式的安裝日期；
+  * 用戶錯誤。
+
+
+
+我們從協力廠商收集的有關您的資訊 
+
+  * 如果您使用社群網路帳戶（如 Facebook）登入我們的服務時，我們所收到的資料。這可能包括姓名、社群網路 ID、好友人數；
+  * 我們從遊戲運行平台上獲得的遊戲付費日期和金額資料；
+  * 我們可能會從協助我們向您提供服務的服務提供者處獲得技術和使用資料（例如允許追蹤移動應用程式的使用、安裝和下載的協力廠商 SDK）。
+
+
+
+GDPR 註
+
+我們不要求或收集任何屬於您的敏感個人資料或 GDPR 下任何特殊類別的個人資料。
+
+Cookie.我們可能會在我們的網站上使用 cookie。「Cookie」是由瀏覽器儲存在電腦上的小型文字檔，通常用於收集統計資訊並分析使用或存取網站的趨勢。Cookie 無法用於運行程式或向您的電腦傳播病毒。我們使用 cookie 收集諸如 IP 位址、作業系統類型、瀏覽器類型、瀏覽器語言、查詢歷史記錄等資訊。您可以調整瀏覽器或裝置的設定，透過 Cookie 限制某些追蹤。
+
+我們如何處理您的資訊
+
+我們將您的個人資訊用於以下目的
+
+  * 提供服務（例如，創建帳戶、操作服務、使您能夠與其他玩家溝通、儲存遊戲進度）；
+  * 回應您的問詢及管理我們與您的關係（例如，提供客戶支援）；
+  * 確保以最有效的方式為您和您的電腦或裝置提供服務。
+  * 驗證並確認付款。
+
+
+
+GDPR 註：我們將您的資訊用於上述目的而與您簽訂合約，因為我們有合法利益以回應新的或現有的用戶詢問和增長我們的業務，保持我們的記錄更新，並研究客戶如何使用我們的服務。
+
+  * 在我們的遊戲中顯示廣告片段。我們的合作夥伴也可能會在我們的遊戲中向您展示針對性廣告。選擇退出。
+  * 衡量並瞭解我們為您提供的廣告效果。
+  * 發送關於遊戲更新、高分和其他與您相關的服務的推送通知。您可以選擇停止接收推送通知，方法是在裝置中設定關閉推送通知。
+
+
+
+GDPR 註：我們將您的資訊用於上述目的，因為我們有合法利益開發和宣傳我們的服務，提供和改進我們的廣告，增長我們的業務並研究客戶如何使用我們的服務。
+
+  * 管理和保護我們的業務和服務，以及內部作業，包括故障排除、資料分析、測試、研究、統計和調查目的。
+  * 使用資料分析來改進或優化我們的服務、行銷、客戶關係和經驗。
+
+
+
+GDPR 註：我們將您的資訊用於上述目的，因為我們有合法利益來管理我們的業務並確保我們的服務安全可靠，以保持我們的服務更新和適宜。
+
+  * 當您提供您的履歷時，我們會使用您的資料來確認您是否適合就業並與您進行溝通。我們使用這些資訊是因為我們有招募人才和發展業務的合法利益。
+
+
+
+我們不會僅基於自動化處理（包括分析）進行任何決策。
+
+目的改變。我們只會將您的個人資料用於我們收集它的目的或相關原因。如果我們需要將您的個人資料用於不相關的目的，我們會通知您，並解釋允許我們這樣做的法律依據。
+
+您的權利
+
+退出定向廣告。您可以隨時透過調整裝置或瀏覽器的設定來選擇退出有針對性的廣告，方式如下：
+
+  * 對於 iOS：請按照 https://support.apple.com/zh-tw/ht202074#iOS 中的說明進行操作；
+  * 對於 Android：請按照 https://support.google.com/ads/answer/2662922?hl=en 中的說明進行操作；
+  * 對於 Windows，請按照 https://account.microsoft.com/privacy/ad-settings/signedout?lang=zh-TW 中的說明進行操作
+  * 您可以調整瀏覽器或裝置的設定，透過 Cookie 限制某些追蹤，並請造訪以下網站：http://www.aboutads.info/choices 與 http://www.youronlinechoices.eu。 
+
+
+
+存取您的個人資料。您可以隨時請求存取我們持有的關於您的個人資料的副本。在這種情況下，我們需要核實您的身份，如有需要，我們可能會要求您提供更多資訊或聲明，以幫助我們找到並提供您所要求的個人資料。
+
+更正。如果我們持有的關於您的個人資訊不准確，您可以要求更新並更正您的個人資訊。
+
+您也可能擁有貴國法律規定的其他權利。特別是, 在 GDPR 下, 您擁有對資料可攜性的權利、刪除資料的許可權、物件如何使用或共用資料、限制我們使用或共用資料的許可權。
+
+請聯繫我們以行使您的任何權利或獲得更多資訊。我們會在合理的時間內回應所有的要求。
+
+我們承諾遵守適用的資料保護條例的條款，並以公平、合法和透明的方式處理個人資料。但是，如果您認為我們沒有遵守適用的資料保護條例所規定的義務，您有權向貴國的監督機構提出申訴。
+
+協力廠商材料
+
+我們可能會提供遊戲內廣告。廣告客戶可以訪問您的資料並根據自己的隱私權原則進行操作。我們鼓勵您仔細閱讀他們的隱私政策。
+
+Facebook
+
+隱私政策：https://www.facebook.com/about/privacy
+
+IronSource
+
+隱私政策：https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Technologies
+
+隱私政策：https://unity3d.com/legal/privacy-policy
+
+HyprMX
+
+隱私政策：https://www.hyprmx.com/pp.html
+
+Fyber
+
+隱私政策：https://www.fyber.com/legal/privacy-policy/
+
+Vungle
+
+隱私政策：https://vungle.com/privacy/
+
+協力廠商可以使用 Cookie、網路信標與其他追蹤技術收集或接收有關您的資料，並可能對您的個人資料要求控制者許可。我們一向致力與有足夠安全措施的合作夥伴打交道，以保障個人資料的安全。儘管如此，在適用法律允許的最大範圍內，我們、我們的員工、代理商、控股公司和子公司不承擔由於超連結或其他方式引用的任何協力廠商材料或網站的內容或可靠性，關於其服務或用於這些協力廠商使用的數據收集和使用實踐或安全措施而引起的任何責任。
+
+披露您的資訊
+
+我們可以與下列類別的收件者共用您的個人資訊, 並在下列情況下:
+
+  * 我們集團內的公司；
+  * 業務合作夥伴、供應商和分包商履行我們與他們或您就服務（如託管、玩家支援、廣告）簽訂的任何合約；
+  * 如果我們出售或購買任何業務或資產，在這種情況下，我們會將您的個人資料披露給我們業務或資產的潛在賣家或買家;
+  * 如果我們的全部或絕大部分業務或資產被第三方收購或轉讓給第三方，在這種情況下，我們持有的個人資料將成為轉讓的資產之一；
+  * 如果我們有義務披露或分享您的個人資料以遵守任何法律，法律義務或法院命令；
+  * 保護我們的權利、財產或安全、我們的客戶或其他人。這包括與其他公司和組織交換資訊以維護和保護服務。
+
+
+
+安全措施
+
+我們已採取適當的安全措施，防止您的個人資料被意外丟失、使用或以未經授權的方式存取、更改或披露。此外，我們將存取您的個人資料的權限限制在有業務需要知曉的員工、代理商，承包商和其他協力廠商。他們將只根據我們的指示處理您的個人資料，並且他們有責任保密。我們已製定程序來處理任何涉嫌違反個人資料的行為，並會在法律要求的情況下通知您和任何適用的監管機構違規行為。
+
+我們保留您的資訊的時長。我們只會根據需要保留您的個人資料，以達到我們收集的目的，包括為了滿足任何法律、會計或報告要求。我們存儲您的個人資料的時長可能取決於我們所持有的資料類型，考慮到個人資料的數量、性質和敏感性、未經授權使用或洩露個人資料可能造成的損害風險，我們處理您的個人資料的目的，以及我們是否可以通過其他方式實現這些目的，以及適用的法律要求。 
+
+GDPR 註
+
+傳輸。個人資料可能會傳輸到我們的受信任的合作夥伴和服務提供者，他們在歐洲經濟區之外維護他們的伺服器。這只是為了向您在必要的範圍提供服務。我們將遵守此類資料傳輸的適用要求，規範此類資料傳輸，並確保採取適當的安全措施來保護和維護您的個人資料傳輸的完整性。
+
+對此策略的更改
+
+對本策略作出的任何更改將不時發佈在我們的網站 privacy.socialquantum.com 上。此策略中描述的與您或您的個人資料相關或影響的資料處理操作的任何材料或其他更改將提前通知您。這樣，您將有機會考慮變更的性質和影響，並在您認為合適的情況下行使與變更相關的權利。
+
+聯繫我們 
+
+如果您對本政策或您的資料有任何疑問、顧慮或要求, 請透過下列方式之一與我們聯繫： 
+
+  * 使用服務的功能（我們遊戲中的幫助頁面）; 
+  * 使用我們的客戶支援頁面，位於[https://social-quantum.helpshift.com](https://social-quantum.helpshift.com/)； 
+  * 向 [support_mail@socialquantum.com](mailto:support_mail@socialquantum.com)給我們發電郵。
+
+
+
+其他資訊
+
+位於愛爾蘭的公司（Social Quantum Ireland Limited，公司編號 535614）在Amazon Appstore、Microsoft Windows App Store、ok.ru、mail.ru 等平台上發佈我們的遊戲。
+
+本隱私政策將適用於您對透過上述平台分發的服務的使用。
+
+Social Quantum Limited（如關於我們條款中所述）仍然是您透過上述平台玩遊戲時個人資料的控制者。
+
+我們盡力提供本政策的準確翻譯。但請注意，只有英文版的本政策才具有法律效力。 
