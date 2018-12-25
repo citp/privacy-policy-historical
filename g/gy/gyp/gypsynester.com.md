@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gypsynester.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620101902id_/http%3A//gypsynester.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gypsynester.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225100051id_/http%3A//gypsynester.com/our-privacy-policy) for the most accurate reproduction.*
 
 # The GypsyNesters | Our Privacy Policy
 
