@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the misspatina.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625093819id_/http%3A//misspatina.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misspatina.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225044805id_/https%3A//misspatina.com/cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies - Miss Patina
+# Privacy & Cookies – Miss Patina
 
 We greatly respect your privacy and personal information, so we only save the information we need and will ensure that it is saved as securely as possible, is up-to-date, and is relevant to you. Here’s why we need it and how we use it.
 
