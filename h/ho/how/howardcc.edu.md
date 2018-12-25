@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526114103id_/http%3A//www.howardcc.edu/about-us/consumer-information/privacy-statement/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225010850id_/https%3A//www.howardcc.edu/about-us/consumer-information/privacy-statement/privacy.html) for the most accurate reproduction.*
 
 # College Security, Privacy, & Accessibility Policies | Howard Community College
 
-[Privacy](http://www.howardcc.edu/about-us/consumer-information/privacy-statement/privacy.html) | [Security](http://www.howardcc.edu/services-support/public-safety/reports-forms/incident_form.html) | [Accessibility](http://www.howardcc.edu/about-us/consumer-information/privacy-statement/accessibility.html)
+[Privacy](https://www.howardcc.edu/about-us/consumer-information/privacy-statement/privacy.html) | [Security](https://www.howardcc.edu/services-support/public-safety/reports-forms/incident_form.html) | [Accessibility](https://www.howardcc.edu/about-us/consumer-information/privacy-statement/accessibility.html)
 
 ### PRIVACY
 
