@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502230536id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225095816id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | HollywoodNews.com
 
-This privacy statement discloses the privacy practices for the Hollywood News® and HollywoodNews.com.
+This privacy statement discloses the privacy practices for the Hollywood News®, HollywoodNews.com. This Privacy Policy (“Policy”) applies to http://hollywoodnews.com (“Site”) and the Hollywood News® branded and related products and services that are owned and operated by Hollywood Network, Inc. This Policy describes how HollywoodNews.com collects, uses, shares, and protects information collected on our Site or through our products and services, as well your choices regarding use, access, and correction of your personal information. 
 
 Your privacy is very important to us. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security.
+
+**UPDATED TO REFLECT THE NEW EU, GDPR: Effective Date May 24, 2018**
+
+**Personally-Identifiable Information**  
+Hollywoodnews.com receives specific data about its Site visitors when such information is provided voluntarily, such as when our visitors request information, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you certain types of information.
+
+**Non Personally-Identifiable (Generic) Information**  
+Hollywoodnews.com gathers some generic information automatically. Generally, this information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the Hollywoodnews.com sites visited. We may automatically collect certain information through the use of cookies and other tracking technologies. Please see our Cookies & Other Tools section below to learn more about such tracking tools.
 
 **Information Collection and Use**
 
@@ -16,7 +24,7 @@ Users are provided with the option of using registration forms on our sites, whe
 
 **Orders**
 
-We request information from the user on our order forms. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers’ orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+We request information from the user on our order forms, if any. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers’ orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
 **Cookies**
 
@@ -73,5 +81,5 @@ Legal Matters
 HollywoodNews.com  
 433 N. Camden Drive, Suite 600  
 Beverly Hills, CA 90210  
-[info@hollywoodnews.com](https://web.archive.org/web/20180502230536id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnews.com)  
+[info@hollywoodnews.com](https://web.archive.org/web/20181225095816id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnews.com)  
 Phone: 310-887-1444 – Fax: 310-288-0060
