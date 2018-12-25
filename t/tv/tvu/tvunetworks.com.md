@@ -1,122 +1,88 @@
-> *The following text is extracted and transformed from the tvunetworks.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524212028id_/http%3A//www.tvunetworks.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvunetworks.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225183009id_/http%3A//www.tvunetworks.com/company/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | TVU Networks
+# Privacy Notice | TVU Networks
 
-#### **TVU Networks Privacy Policy**
+### **TVU NETWORKS CORPORATION WEBSITE  ** **PRIVACY NOTICE**
 
-#### Effective Date: February 1, 2017
+TVU Networks Corporation, and its subsidiaries and affiliated companies (collectively, the “ **Company** ”, **“We”** , or “ **Us”** ), strives to properly address applicable data protection requirements.
 
-* * *
+#### **SCOPE**
 
-Thank you for visiting [www.tvunetworks.com](http://www.tvunetworks.com/). TVU Networks (“TVU”) values your privacy. We provide this Privacy Policy (“Policy”) to describe our online information policies pertaining to our customers and visitors to our websites including, but not limited to, www.tvunetworks.com and subdomains, (the “Site”) and the services available through our Site and products (the “Services”).
+This Privacy Notice **(“Notice”** ) provides the individuals who use our services, including but not limited to, our website, with certain important information about how the Company handles their personal data ( **“Personal Data”** ). TVU Networks Corporation is the primary data controller for processing of Personal Data.
 
-By visiting the Site or using any of our Services, you agree that your information will be handled as described in this Policy. Your use of our Site or Services, and any dispute over your privacy, is subject to this Policy.
+We want you to understand what information we collect and how we use it. A different privacy policy applies to processing of Personal Data by our Products (including our physical hardware, software, mobile applications, and any other products listed on <https://www.tvunetworks.com/products/>). We strongly encourage you to familiarize yourself with all relevant policies prior to using our equipment.
 
-  * Information We Collect About You
-  * How and Why We Use Your Information
-  * How We Share Your Information
-  * Ownership of Information
-  * Third-Party Analytics
-  * Our Use of Cookies and Other Tracking Mechanisms
-  * Emails and Newsletters
-  * Third-Party Links
-  * Security of Your Personal Information
-  * What Choices Do You Have Regarding Use of Your Personal Information?
-  * Children Under the Age of 13
-  * Contact Us
-  * Changes to this Policy
+#### **TYPES OF DATA PROCESSED**
+
+Personal Data processed includes the following types of data:
+
+  * Name;
+  * Employment information, including company and job title;
+  * Contact information, including email address and phone number;
+  * User comments and submissions; and
+  * Geolocation data.
 
 
 
-**Information We Collect About You**
+We use cookies to collect geolocation data in order to set the relevant language for your location. Cookies are small bits of information that are stored by your computer’s web browser. By using the services you consent to our use of cookies.
 
-We may collect information about you directly from you or from third parties, and automatically through your use of our Site or Services. Our purpose in collecting this information is to enable your use of the Services, and to improve the Services.
+#### **PURPOSE OF DATA PROCESSING _,_ LEGAL BASES _,_ AND DISCLOSURES OF PERSONAL DATA**
 
-Certain areas and features of our Site and Services require registration and/or creation of a user account. Depending on what area of our Site or Services you register for, you will be required to provide some or all of the following information: your company name, name, address, phone number, email, username, password, and information about your TVU assets (equipment leased or purchased).
+The Company will use and otherwise process Personal Data of users:
 
-We may automatically collect the following information about your use of our Site or Services through cookies and other tracking technologies: your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and/or use our Services; your device ID; and the referring URL, or the webpage that led you to our Site. We may combine this information with other information that we have collected about you, including, where applicable, your user name, name, and other personal information. Please see the section Cookies and Other Tracking Mechanisms below for more information.
-
-**How and Why We Use Your Information**
-
-We use your information for the following purposes:
-
-  * To provide and improve our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, to fulfill your orders, and for other customer service purposes.
-  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or our Services.
-  * For marketing and promotional purposes: for example, we may use your information, such as your email address, to send you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. We also may use the information that we learn about you to assist us in advertising our Services on third party websites.
-  * To better understand how users use our Site and Services, both on an aggregated and individual basis, in order to improve our Site and Services and respond to user desires and preferences, and for other research and analytical purposes.
+  * To contact and identify relevant users in connection with inquiries;
+  * For notification of technical product and service updates;
+  * For marketing promotional information;
+  * From scanned badge registrations from trade shows and conferences for marketing promotional information;
+  * To respond to inquiries and process requests; and
+  * To identify users’ location and provide access to the website in the relevant language.
 
 
 
-**How We Share Your Information**
+Company’s legal basis to process Personal Data includes processing that is necessary for the Company’s legitimate interests, including those described above to perform contracts between the Company and users, as well as to provide the website in a language that will be most helpful to its users; to carry out marketing promotional efforts or providing customer requested technical and service updates; or based on consent by the users which can be withdrawn at any time by contacting us at the address listed below in the “Contact Information” section without affecting the lawfulness of processing based on consent before its withdrawal.
 
-We may elect to share your information, including personal information, as follows:
+Where we need to collect Personal Data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us, but we will notify you if this is the case at the time. If users do not provide us with Personal Data, we may not be able to respond to inquiries and we will provide the website in English. If a user provides the Company with data of third parties (such as a relative, etc.), it is the responsibility of the user to ensure that the communication of such data to, and further processing by, the Company is lawful.
 
-  * TVU Affiliates. We may disclose the information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy.
-  * Service Providers. We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf.
-  * Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.
-  * In Response to Legal Process. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
-  * To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which TVU is involved.
-  * Aggregate and De-Identified Information. We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes. We do not disclose or transfer your personal information to non-affiliated third parties for direct marketing purposes without your prior written consent.
+As necessary in connection with these purposes, authorized third-party vendors and limited members of the Human Resources department, the Finance department, the IT department, and senior executive company managers may access and otherwise process Personal Data in connection with their job responsibilities or contractual obligations.  Some of these personnel and third-party vendors are located outside of the EEA, including in countries that may not provide the same level of data protection as the home country of our users.   The Company takes appropriate steps to ensure that such personnel and third-party vendors are bound to duties of confidentiality and the Company implements measures such as standard data protection contractual clauses to ensure that any transferred Personal Data, remains protected and secure. A copy of these clauses can be obtained by contacting us at the address listed below in the “Contact Information” section ** _._**
 
+#### **AUTOMATED DECISION MAKING**
 
+We use automated decision-making technologies to support our data processing activities. Our automated decision-making capabilities include logic that determines the language most likely to be used in a given location. By using this logic, it helps us provide the website in the language that is most convenient for our users. This means that we access information regarding what language users are most likely to speak.
 
-**Ownership of Information**
+#### **THIRD PARTY ADVERTISING, LINKS, AND CONTENT**
 
-Information about your usage of TVU’s Services is your property. Usage information that is aggregated across multiple TVU users and customers, “de-identified” with personal and corporate identifying information stripped out, is TVU’s property.
+Some of the Services may contain links to content maintained by third parties that we do not control.  We allow third parties, including business partners, advertising networks, and other advertising service providers, to collect information about your online activities through cookies, pixels, local storage, and other technologies. These third parties may use this information to display advertisements on our Services and elsewhere online tailored to your interests, preferences, and characteristics.  We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.  Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here ](http://www.networkadvertising.org/)or [here](http://www.aboutads.info/).
 
-**Third Party Analytics**
+__Do-Not-Track Signals and Similar Mechanisms__. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
-We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance, and user experiences. These entities may use cookies and other tracking technologies to perform their services. We do not share your personal information with these third parties.
+#### **RETENTION OF PERSONAL DATA**
 
-Our Use of Cookies and Other Tracking Mechanisms
+Personal Data will be retained only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws.
 
-We and our third party service providers use cookies and other tracking mechanisms to track information about your use of our Site or Services. We may combine this information with other personal information we collect from you (and our third party service providers may do so on our behalf).
+#### **DATA SECURITY AND DATA INTEGRITY**
 
-Currently, our systems do not recognize browser do-not-track requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies); you also may opt-out of targeted advertising by following the instructions in the Third Party Ad Network section.
+The Company maintains reasonable security measures to safeguard Personal Data from loss, interference, misuse, unauthorized access, disclosure, alteration, or destruction. The Company also maintains reasonable procedures to help ensure that such data is reliable for its intended use and is accurate, complete, and current.
 
-**Cookies.**  Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service. There are two types of cookies: session and persistent cookies.
+#### **RIGHTS**
 
-  * **Session Cookies.** Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site.
-  * **Persistent Cookies.** Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, and to display advertising both on our Site and on third-party sites.
+Users are entitled, in accordance with applicable law, to object to or request restriction of processing of their Personal Data, and to request access to, rectification, erasure and portability of their own Personal Data.Requests should be submitted in writing  to the address listed below  in the “Contact Information” section.
 
+If a user is aware of changes or inaccuracies in his or her Personal Data, he/she should inform us of such changes so that the Personal Data may be updated or corrected.
 
+Users may lodge a complaint with a supervisory authority if they consider that Company’s processing of their Personal Data infringes applicable law.
 
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.
+#### **DISCLOSURES REQUIRED OR PERMITTED BY LAW**
 
-**Emails and Newsletters**
+Regardless of any other provisions in this Notice, the Company may disclose or otherwise process Personal Data in the context of any sale or transaction involving all or a portion of the business, or as may be required or permitted by law or required for the purposes of any regulatory audit to which the Company may be subject from time to time.
 
-Emails we send you may include a tag that notifies us whether you have received or opened the email, or clicked a link within the email. If you do not want us to collect this information, you can opt out of receiving emails; there are links in the emails that provide opt out options.
+#### **UPDATING THIS PRIVACY POLICY**
 
-**Third-Party Links**
+We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” date above and post the new Privacy Policy.  We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.
 
-Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the privacy practices of such third party websites.
+#### **CONTACT INFORMATION**
 
-**Security of Your Personal Information**
+Users can raise any issues regarding the processing of their Personal Data by contacting:
 
-We have implemented commercially reasonable precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security.
+#### **Marketing Department**
 
-You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your user name and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
-
-You may modify personal information that you have submitted by logging into your account and updating your information or by contacting us using the contact information provided below.
-
-**What Choices Do You Have Regarding Use of Your Personal Information?**
-
-We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Services you have requested or received from us.
-
-**Children Under the Age of 13**
-
-Our Services are not designed for children under the age of 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our systems.
-
-**Contact Us**
-
-If you have questions about the privacy aspects of our Services, or you would like to make a complaint, please contact us in one of the following ways.
-
-Telephone:  +1 650.969.6732
-
-Fax:  +1 650.969.6747
-
-Email:  info@tvunetworks.com
-
-**Changes to this Policy**
-
-We may change this Policy from time to time. The revised Privacy Policy, with changes marked, will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+marketing@tvunetworks.com
