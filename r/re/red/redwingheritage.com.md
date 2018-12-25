@@ -1,85 +1,164 @@
-> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201001507id_/http%3A//www.redwingheritage.com/eu/EUR/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225212129id_/http%3A//www.redwingheritage.com/us/USD/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Red Wing Heritage Europe
+# Privacy Policy | Red Wing Heritage
 
-This Red Wing Heritage Privacy Policy (this or the **"Privacy Policy")** explains our practices, defines our users' (" **you** " or " **your** ") privacy options and describes how your information is collected and used by Red Wing Brands of America, Inc. (" **we** ," " **us** ," " **our** ," or " **Red Wing** ").
+**Effective Date: May 25, 2018  
+Last Modified: May 23, 2018  
+Contact [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) for archived policies.  
+**
 
-**By using the Red Wing Heritage website on your browser, mobile device or any other platform or by accessing or any of our products, services, features, tools, or resources you agree to the terms of this Privacy Policy and our Terms of Use.**
+Red Wing Brands of America, Inc. (or "Red Wing Shoe Company") and its subsidiaries respect your privacy and are committed to protecting it through our compliance with this policy. We collect information to better serve our customers by looking for areas we may be underserving and to guide us to what advertising you will find most useful. The information Red Wing Shoe Company collects and how such information is used depends on:
 
-We reserve the right to modify this policy from time to time and will mark new versions with a corresponding effective date. We recommend you visit the Site to review any changes in our practices.
-
-This Privacy Policy, along with our **Terms of Use** , governs your use of the Red Wing Heritage website at [www.redwingheritage.com](http://www.redwingheritage.com/) (" **Site** ") and any other links through social media platforms such as Facebook or Twitter. For the purposes of this Privacy Policy, we will refer to all of these access points as the Red Wing Heritage system (" **System** "). 
-
-Our Site may contain links to other websites. Except for direct links to our suppliers when clicking the "Where to Buy" link, these links are not endorsements of any products or services on such websites. These websites may have privacy policies different than our Privacy Policy.
-
-**What Information is Collected?**  
-We may collect personal information from you on our Site or through any other digital or personal communication with you in the System. Information collected by us is voluntarily provided by you and may include information such as your name, email address, and physical address. **** Our Site may also collect general information about your technology interface or preferences (such as the type of browser used or the files requested). Additionally, we may collect information regarding the retailers you visit and other information, as described in this Privacy Policy.
-
-The information we may collect includes, but may not be limited to:
-
-  * Your contact information to register to receive updates, promotions and catalogues from us, such as your name and email address;
-  * Information regarding your browser and other technical specifications required to use our Site;
-  * Computer data or files, often called "cookies," which may be sent by your web browser and stored on an individual computer to allow our server to "recognize" you through the navigation of the Site and for us to credit your account for various online transactions;
-  * Computer data files, often called "web beacons" that are collected from emails or links on third-party sites that allow our server to evaluate the popularity of those links or the information contained in emails or on third-party sites; and
-  * Your IP address to measure our website traffic and to help provide a more personalized experience.
+  * How you interact with us. For example, online.
+  * How you use our services. For example, purchasing work boots.
+  * How you manage your privacy controls.
 
 
 
-**Children Under the Age of 13**  
-Our Site and System are not designed for children and we do not knowingly collect information from any person we know is under the age of 13. ****
+**INFORMATION WE COLLECT AND HOW WE USE IT**  
+We collect several types of information from and about users of our websites, including information:
 
-**How is User Information Used and Shared?**  
-We collect information about you in order to provide you with services and products and also collect information that is necessary for our Site to work properly. We use personal information about our users for a variety of purposes related to our business, including but not limited to:
-
-  * Allowing you to receive information from us regarding Red Wing Heritage products;
-  * Tracking information about your visits to our Site to allow us to provide better service;
-  * Using certain online preferences in the aggregate across all users to evaluate our Site and develop additional products and services to offer;
-  * Sending or initiating direct marketing programs, such as newsletters or information about new products or services we (or any of our affiliated companies) are offering;
-  * Contacting you regarding an inquiry on our Site that you have initiated;
-  * Providing information about your usage or preferences to our third-party vendors and providers; and
-  * Other purposes necessary to carry out our obligations under the Terms of Use.
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, social media usernames, and shoe size ("personal information").
+  * that is about you but individually does not identify you, such as aggregated or anonymized information.
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
 
 
-We may share information, in the aggregate, regarding your online browsing preferences to evaluate our products or allow third parties we work with to better serve our users. We will not share personally identifiable information in these instances, other than described in this Privacy Policy. ****
+This information may be provided directly from you to us, may be collected automatically as you navigate through our websites, and/or may come from our third-party business partners.
 
-We may provide user information to third-party service providers or vendors for purposes of, including without limitation, initiating direct marketing programs on our behalf, data tracking, maintenance or development of our System, development of online products and services or customer service or new product development, or other contracted promotional opportunities provided to our users. We will not share your information with third parties to directly market their products to you. We may share this information with any subsidiaries, licensees, suppliers, distributors, affiliates, assigns, successors, or other related entities and their respective owners. We may also share your personal information in connection with law enforcement requests or in response to investigations, subpoenas, court orders, or other legal process to establish or exercise our legal rights or defend against legal claims or as otherwise required by law.
+We use information that we collect about you or that you provide to us, including any personal information:
 
-**Cookie Policy and Behavioural Advertising**
-
-**What are cookies? How are cookies used?**  
-A cookie is a small file of letters and numbers. Cookies contain information that is stored on the browser of your computer or mobile devices hard drive. We use cookies to distinguish you from other users of our website and to provide a browsing experience that is unique to you. Cookies are used by Red Wing so that our website can remember what you have done while browsing our websites.
-
-**What type of cookies do we use?**  
-Cookies can be in the form of session cookies or persistent cookies. Session cookies are deleted from your computer when you close your web browser. Persistent cookies will remain stored on your computer until deleted or until they reach their expiry date. We use the following cookies:
-
-**Analytical cookies**  
-These cookies allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website functionality.
-
-**Functionality cookies**  
-These cookies are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences, allow for live chat support on your browsing experience.
-
-**Targeting cookies or Behavioural Advertising**  
-These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose. We may also use third-party vendors, such as Google Analytics, to advertise to our users online. These third-party vendors may display Red Wing Heritage or other Red Wing product advertisements on other websites based on your internet usage. More specifically, these vendors use first-party cookies (such as the Google Analytic cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise, and serve ads based on your past visits to the Site or another site affiliated with Red Wing products. Any information that these third parties collect via cookies is not linked to any personally identifiable information (name, address, email address, or phone number) we collect or you provide on the website.
-
-**How can you block cookies?**  
-You may block our cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. You can find out more about cookies and how to delete and control them on www.aboutcookies.org or click help in your browser menu. You can opt-out of Google Analytics for Display Advertising by using Google’s Ads Settings.
-
-Note that by disabling or blocking our use of cookies, you may be unable to access certain areas of our website or use certain functions.
-
-**How is User Information Protected?**  
-We maintain administrative, physical, and technical safeguards for all user information collected in our System. All Red Wing Heritage products you purchase are from third-party sites, so we do not receive your financial account information for purchases from online retailers made in connection with our products.
-
-**How Can Users Limit Information Collected?**  
-By providing information to us or browsing our Site, you are consenting to our use of your data as outlined in this Privacy Policy. 
-
-While we work hard to use and disclose our users’ personal information only for the purposes identified above, you can choose not to provide personal information or limit the personal information obtained by us as follows: 
-
-  * You may have your contact information removed from our marketing lists that are used to inform users of new or relevant products, services, and special offers by clicking on the unsubscribe link in any communication received from us or by emailing us at customer.service@redwingshoes.com;
-  * You may limit the collection of “cookies” from your Site usage through your browser settings. However, this may disable our ability to provide you with the most relevant products or information regarding the System; and
-  * You may limit the ability of Google Analytics to track your online activity, as outlined in the “Behavioral Advertising” section.
+  * To maintain and improve our websites and advertising materials.
+  * To develop new products and services.
+  * To provide personalized services, such as website content and advertising.
+  * To carry out our obligations and enforce our rights arising from any contracts between you and us, including for billing and collection.
+  * To fulfill any other purpose for which you provide it.
 
 
+
+We do not collect sensitive personal data, such as race, religion, sexual orientation, or health; however, in some cases we may collect your shoe size.
+
+**DISCLOSURE OF YOUR INFORMATION**  
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Red Wing Shoe Company’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Red Wing Shoe Company about our websites’ users is among the assets transferred.
+  * To some trusted business partners whose products or services may be of interest to you.
+  * To fulfill the purpose for which you provide it.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Red Wing Shoe Company, our customers, or others.
+
+
+
+**DATA SECURITY**  
+We have implemented industry best practice measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. We also update and revise our security measures as necessary when new or unique risks develop. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that the data you have shared with us has been breached, please immediately notify us at [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com).
+
+**CALIFORNIA PRIVACY RIGHTS**  
+California Civil Code Section § 1798.83 permits users of our websites that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) or write us at: Internet Security, 314 Main Street, Red Wing, MN 55066.
+
+**CHILDREN UNDER 13**  
+Our websites are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any personal information on our websites. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at dataprivacy@redwingshoes.com.
+
+**CHANGES TO OUR PRIVACY POLICY**  
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the website’s home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our websites and this privacy policy to check for any changes.
+
+**Contacting Us**  
+For additional information pertaining to our Privacy Policy, please contact: 
+
+**Red Wing Brands of America, Inc.**  
+**314 Main St  
+Red Wing MN 55066  
+USA**
+
+**Effective Date: May 25, 2018  
+Last Modified: May 23, 2018  
+Contact [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) for archived policies.  
+**
+
+**WE WANT YOU TO UNDERSTAND THE TYPES OF INFORMATION WE COLLECT**  
+Red Wing Brands of America, Inc. (or "Red Wing Shoe Company") and its subsidiaries respect your privacy and are committed to protecting it through our compliance with this policy. We collect information to better serve our customers by looking for areas we may be underserving and to guide us to what advertising you will find most useful. The information Red Wing Shoe Company collects and how such information is used depends on:
+
+  * How you interact with us. For example, online.
+  * How you use our services. For example, purchasing work boots.
+  * How you manage your privacy controls.
+
+
+
+**PERSONAL INFORMATION YOU PROVIDE TO US**  
+When you buy shoes, apparel, or accessories from us, you provide some of your personal information to us. For example, we may collect your name, shoe or apparel sizes, your address, your email address, and your phone number. By using one of our websites, we may collect information regarding your apps, browsers, and devices, which help us to understand you better and provides us direction on what products may be of most interest to you.
+
+The information we collect includes unique identifiers, browser settings, device settings, and operating systems. We also collect information about the interaction of your apps, browsers, and devices with our services such as our websites, including IP address, and the date, time, and referrer URL of your request. We may collect information about your location when you interact with our websites or retail stores, which helps us offer features like locating your nearest Red Wing Shoes® store. The types of location data we collect depend in part on your device and account settings. You may change your account settings to control our collection of location data.
+
+We may collect information about you from trusted business partners, including marketing partners who provide us with information about potential customers of our products and security partners who provide us with information to protect against abuse. We also receive information from advertisers to provide advertising and research services on their behalf.
+
+We use various technologies to collect, store, and process information, including cookies, pixel tags, and databases.
+
+**WE USE DATA TO BETTER SERVE OUR CUSTOMERS**  
+We use the information we collect for the following purposes:
+
+  * To maintain and improve our websites and advertising materials.
+  * To develop new products and services.
+  * To provide personalized services, such as website content and advertising.
+  * To carry out our obligations and enforce our rights arising from any contracts between you and us, including for billing and collection.
+  * To fulfill any other purpose for which you provide it.
+
+
+
+Depending on your settings, we may also show you personalized ads based on your interests. You can control what information we use to show you ads by changing your ad settings.
+
+We do not collect sensitive personal data, such as race, religion, sexual orientation, or health; however, in some cases we may collect your shoe or apparel size. We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to.
+
+**WE USE DATA TO MEASURE OUR PERFORMANCE**  
+We use data for analytics and measurement to understand how our products and services are used. For example, we analyze data about your visits to our websites to do things like optimize product design and design ads you interact with to help advertisers understand the performance of our ad campaigns. We use a variety of tools to do this, including Google Analytics.
+
+**WE USE DATA TO COMMUNICATE WITH YOU**  
+We use information we collect, like your email address and social media usernames, to interact with you directly.
+
+We will ask for your consent before using your information for a purpose that is not covered in this Privacy Policy.
+
+**YOU CONTROL YOUR PRIVACY SETTINGS**
+
+**You Have Choices Regarding the Information We Collect and Process.**  
+You can manage, review, and update your information. When you go to one of our websites you will be offered an opportunity to choose the information we collect and use.
+
+You may contact [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) to get a copy of your information, to change your information, or to delete your information.
+
+You have other ways to control the information we collect about you, including:
+
+  * Changing your browser settings to show when we set a cookie in your browser or configure your browser to block all cookies from our domain or all domains. Please note that our websites rely on some cookies to function properly.
+  * Changing your device-level settings may allow you to control what information we collect about you.
+
+
+
+**WE MAY SHARE YOUR INFORMATION UNDER CERTAIN CIRCUMSTANCES**  
+We do not share your personal information with companies, organizations, or individuals outside of Red Wing Shoe Company except in the following circumstances:
+
+**With your consent.** We will share personal information outside of Red Wing Shoe Company when we have your consent. We will ask for your explicit consent to share any sensitive personal information.
+
+**For external processing.** We will provide personal information to our trusted partners to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+**For legal reasons.** We will share personal information outside of Red Wing Shoe Company if we have a good-faith belief that collection, access, processing, preservation, or disclosure of the information is reasonably necessary to comply with any applicable law, regulation, legal process, or enforceable governmental request; to detect, prevent, or address fraud, security, or technical issues; and to protect against harm to the rights, property or safety of our employees, our customers, or the public as permitted by law.
+
+**Where information is anonymized or pseudonymized.** We may share information publicly and with our trusted business partners when the data is de-identified in a manner which prevents others from using the information to link data to an individual.
+
+**For our legitimate business interests.** We may collect and use personal information that is necessary to further our legitimate business interests, except where such interests are overridden by your interests or fundamental rights and freedoms.
+
+**WE ARE COMMITTED TO PROTECTING YOUR INFORMATION**  
+We work hard to protect you and Red Wing Shoe Company from unauthorized access, alteration, disclosure, or destruction of the information we control and process. For example, we use encryption to keep your data private while in transit. We audit our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems. We restrict access to personal information to Red Wing Shoe Company employees, contractors, and agents who need your information to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+**CHILDREN UNDER 13**  
+Our websites are not intended for children under 13 years of age. No one under age 13 may provide any persona information to or on the websites. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any personal information on our websites. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com).
+
+**THIS PRIVACY POLICY MAY CHANGE**  
+We may change this Privacy Policy from time to time. We will not reduce your rights without your explicit consent. We will indicate the date the last changes were published, and we will offer access to archived versions for your review. If changes are significant, we will provide you a prominent notice.
 
 **Contacting Us**  
 For additional information pertaining to our Privacy Policy, please contact: 
