@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eleccircuit.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721105953id_/https%3A//www.eleccircuit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eleccircuit.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225201311id_/https%3A//www.eleccircuit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – Electronic projects circuits
+# Privacy policy | Electronics Projects Circuits
 
 **Privacy Policy for www.eleccircuit.com**
 
@@ -19,7 +19,7 @@ www.eleccircuit.com does use cookies to store information about visitors prefere
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.eleccircuit.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –
 
-http://www.google.com/privacy_ads.html
+https://www.google.com/privacy_ads.html
 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
