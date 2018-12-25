@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayasrilanka.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625022735id_/http%3A//jayasrilanka.net/others/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayasrilanka.net privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225124623id_/http%3A//jayasrilanka.net/others/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | JayaSriLanka
 
@@ -195,7 +195,7 @@ Subscribe Us On Youtube:
 
 
 Share This Page On:   
-[](http://facebook.com/sharer.php?u=http://jayasrilanka.net/others/privacy-policy.php)   [](https://plus.google.com/share?url=http://jayasrilanka.net/others/privacy-policy.php)    [](http://twitter.com/home?status=http://jayasrilanka.net/others/privacy-policy.php)   [](sms:?body=http://jayasrilanka.net/others/privacy-policy.php)
+[](http://facebook.com/sharer.php?u=http://www.jayasrilanka.net/others/privacy-policy.php)   [](https://plus.google.com/share?url=http://www.jayasrilanka.net/others/privacy-policy.php)    [](http://twitter.com/home?status=http://www.jayasrilanka.net/others/privacy-policy.php)   [](sms:?body=http://www.jayasrilanka.net/others/privacy-policy.php)
 
 JayaSriLanka.Net is the best place to download or listen Sri Lankan music online. We hope you enjoy our service and stay and find our website valuable. Thank You Very Much For Using This Web Site.
 
