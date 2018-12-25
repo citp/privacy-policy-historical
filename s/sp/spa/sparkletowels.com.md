@@ -1,229 +1,205 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602061527id_/https%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225034659id_/https%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
 
 # Privacy-Notice | Georgia-Pacific
 
+©Copyright 2018, Koch Industries, Inc.  
+All Rights Reserved  
+_Last Updated: April 2018_
+
 [Privacy Notice In Spanish](https://web.archive.org/legal/legal-notices/notificacion-de-privacidad-de-georgia-pacific)
 
-#### Navigation links:
+Koch Industries, Inc. respects individuals’ concerns about the privacy of their information.  This global Policy applies to the personal information practices of Koch Industries, its affiliate companies (Flint Hills Resources LLC; INVISTA Equities, LLC; Georgia-Pacific LLC; Molex LLC; Guardian Industries Holdings, LLC; Koch Business Solutions, LP; Koch Supply & Trading, LLC; Koch Ag & Energy Solutions, LLC; Koch Chemical Technology Group, LLC; Koch Minerals, LLC and their subsidiaries) (together, “Koch Industries”).  This Privacy Policy was developed to explain our practices regarding personal information we collect from you or about you on our sites online, offline via written or verbal communications with us, mobile applications, social networking presence, or from other sources.  While this Privacy Policy broadly describes the practices we have adopted across Koch Industries globally, local laws vary and some jurisdictions may place restrictions on our processing activities.  Therefore, our actual practices in such jurisdictions may be more limited than those described herein to enable us to comply with local requirements.
 
-  * How We Collect Information
-  * How We Use Your Information
-  * Your California Privacy Rights
-  * Your Choices
-  * Targeted Advertising Opt-Out
+Click on one of the links below to jump to a specific section:
 
+## Personal Information We Collect and How We Use It                    
 
+We may collect personal information from individuals through our websites or by other means (such as email, fax, mail, phone, mobile applications, third-party applications, our parent, subsidiary, or affiliate companies, business partners, and other third-parties such as commercial data vendors and public databases).  The principal ways you may provide the information and the types of information you may submit, as well as the ways we may use the information, are listed below.  
 
-Your privacy is important to us. This Privacy Notice details how we, Georgia-Pacific LLC and our subsidiaries, affiliates, and partners may collect, use, and share information about you as you use our Internet services. Our Internet services include:
+**_Business Alerts, Newsletters and Other Communications –_** You may provide personal information such as your name and contact details to receive business alerts, newsletters and other communications (including emails).  It is in our legitimate business interests to use the information you provide to send you the communications and information you have requested and to communicate with you about our products and services. If you no longer want us to send you business alerts, newsletters or other communications, you may unsubscribe at any time by contacting us via the contact information provided in the “How to Contact Us” section of this Privacy Policy.
 
-  * our [websites](https://web.archive.org/legal/gp-websites)
-  * our online advertisements and promotions
-  * our online communications with you
-  * our mobile applications
-  * our social networking presence
+**_Business Purposes_** – On our websites and mobile applications you may be able to register using your personal information to gain access to information related to your business relationship with or products of Koch Industries.  We use these details to provide you with access to information about your business relationship with us and to facilitate your use of the websites or mobile applications.  You may also choose to provide, or we may obtain, your personal information at trade shows or from our distributors.  It is in our legitimate business interests to use this information so that we can manage our business relationships and carry out marketing and sales activities.
 
+You may also choose to connect to us via social networking services (e.g., Facebook or Twitter).  When you connect to us via a social networking service we may collect personal information that you have provided to that service in accordance with the service’s applicable Terms of Use and your privacy settings within that social networking service.  We may also choose to supplement information you have provided to us by obtaining additional demographic information about you from third-party sources in order to improve our communications with you, give us better insight into your needs, and improve our business where permitted under local law.
 
+**_Careers_** – Individuals from all over the world apply for jobs with Koch Industries through the Koch Careers or similar websites, third-party job posting sites, job fairs, or directly to the business locations.  The information job seekers provide through this process is often maintained by third-party service providers. This information may be maintained in locations within the United States, accessible to our global recruiting team, and be shared with our corporate affiliates for the purpose of evaluating you for positions within our company.  The information submitted by job seekers, such as name, contact details and any other information relevant to the application is used to evaluate their qualifications for employment and to contact them regarding possible employment opportunities. It is in our legitimate business interests to use this information in the selection process and to communicate with you, and it will be necessary to provide us with this information so that we can assess your application.
 
-The following sections summarize our practices. You may click the links in each section for a more complete description. Please also review our [Terms of Use,](https://web.archive.org/legal/legal-notices/terms-of-use) which govern your use of our Internet services. If there is a conflict between this Privacy Notice and terms or practices posted for a specific service, the additional terms or practices apply to your use of that service.
+Job seekers may also choose to provide sensitive personal information such as gender or ethnic background.  Providing this data is optional and is not required to apply for a job with Koch Industries.  This information will not be considered in evaluating candidates’ qualifications for employment. 
 
-#### Information we collect
+**_Contact_** – You may contact us with questions, requests or comments through the “[Contact](http://www.kochind.com/contact/)” link on our website, by similar means on Koch affiliates’ websites, or via the contact information provided in the “How to Contact Us” section of this Privacy Policy.  When you do so, we may ask you for your personal information to verify your identity or to track the inquiry internally to ensure we respond to your questions, requests or comments.  
 
-We collect information about you by several means, including:
+**_Contests, Sweepstakes, Promotions and E-Commerce_** – We may collect personal information such as your name, contact details and payment details, if you request a coupon, or wish to participate in contests, sweepstakes, promotions, or e-commerce activities related to Koch Industries or our products or services.  If you provide another person’s information to us, you must first obtain appropriate consent from that individual prior to providing this information to us and in order for us to use this information in the manner indicated.  It is in our legitimate business interests to use your personal information to communicate with you and to process your requests and purchases.  When we process personal information to meet our legitimate interests, we put in place robust safeguards to ensure that your privacy is protected and to ensure that our legitimate interests are not overridden by your interests or fundamental rights and freedoms.
 
-  * asking you to provide the information, for example by filling out a form;
-  * by automated means, such as cookies and usage tracking; and
-  * by obtaining information from third parties, such as data vendors.
+**_Contractual Obligations_** – If you are a vendor or a contractor, we may ask you to provide personal information such as your name, photo, contact details or business and financial details to establish and administer your account, process payments, and for compliance with internal and legal requirements (which may include medical testing and monitoring requirements, where applicable).  We use your information for this purpose so that we can comply with our contractual obligations to you. 
 
+**_Feedback_** – You may be able to submit feedback on our websites.  If you choose to give us your feedback, we may ask you for your personal information.  We may also ask you about your experience using our websites.  It is in our legitimate business interests to use the information you provide to enhance our websites, evaluate the quality of our products, or to communicate with you about products and services.  
 
+**_Incidents and Allegations_** – ** __** When you provide information about an incident or allegation, detailed personal information including your name, contact details and any relevant information about the incident or allegation may be collected.  We use these details to investigate and comply with any applicable company or legal requirement. We may transfer and disclose your information to third-parties as required in the course of the investigation or to comply with any legal obligation related to the information you provide. 
 
-We collect both personal information, that is, information that identifies you, and other information that is not connected to your identity. Please click here for a more detailed description.
+**_Information Technology Security_** ** _     _** – We may collect personal information when detecting and defending against security threats in accordance with our legitimate business interests and our legal obligations.  We use various IT tools to detect and defend against online security threats (e.g., attacks, viruses, malware, spam, phishing, malicious web content), to promote business continuity of our information systems and assets, and to maintain optimal performance of our IT systems. To ensure physical security of our facilities we may, where permitted under local law, utilize surveillance systems and/or location tracking while you are on Company property.
 
-#### How we use and share your information
+**_Other Uses of Information_** ** _     _** – We may use the personal information you provide to us for internal general business purposes in accordance with our legitimate business interests.  These purposes include administration of our websites, data analytics, fraud prevention and compliance with our legal obligations, standards, policies and procedures (i.e., due diligence checks and sanction screening where applicable).  
 
-We use your information to communicate with you about our products, services, and promotions, including via online advertising, to get your feedback on our products and services, to manage and improve our business and our online presence, and for other purposes we describe in the Privacy Notice. We may share your information with certain service providers and marketing partners, if we are required to provide the data by law, or as part of the sale of any portion of our company. We do not share your personal information with third parties except as described in this Privacy Notice. Please click here for more information.
+**_Scholarships, Grants and Awards_** – You may provide personal information such as your name, contact details, education details, employment details, qualifications, awards, etc. when applying for scholarships, grants or awards offered by Koch Industries.  It is in our legitimate business interests to use the information you provide in the selection process, to communicate with you and to publish a list of the recipients.  It is necessary for you to provide us with the information requested so that we can assess your application.   
 
-#### Your choices
+We may obtain your explicit consent to collect and use certain types of personal information when we are required to do so by law (for example, in relation to our direct marketing activities, or when we process sensitive personal information).  If we ask for your consent to process your personal information, you may withdraw your consent at any time by contacting us using the details at the end of this privacy policy.
 
-We offer you certain choices about how we collect, use, and share information about you and how we communicate with you, including choices regarding:
+## Information We Collect by Automated Means                  
 
-  * receiving marketing communications from Georgia-Pacific and our business partners;
-  * sharing your information with certain third parties;
-  * receiving online targeted advertising; and
-  * sharing the geographic location details of your mobile device.
+When you visit and interact with our websites and applications, we may collect "Other Information” that does not inherently reveal your specific identity, in order to learn how to best tailor our websites for our visitors.  Examples of what Other Information we may collect and how we and third-party service providers may collect this information include: 
 
+**_Aggregation Information_** – Aggregated user information does not personally identify you or any other user (for example, we may aggregate user information to calculate the percentage of our users who have a particular telephone area code).  Aggregated data is treated in accordance with this Privacy Policy. 
 
+**_App Usage Data_** – When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
 
-## Information Practices
+**_Browser and Device Information_** – Certain information is collected by most browsers or automatically through your device, such as your computer type, operating system name and version, device manufacturer and model, Internet browser type and version and the name and version of the online services (such as the Apps) you are using.  We use this information to ensure that the online services function properly. 
 
-#### How We Collect Information
+**_Cookies_** –  Cookies are pieces of information stored directly on the computer or mobile device that you are using.  Cookies allow us to collect information such as browser type, time spent on the online services, pages visited, referring URL, and other aggregated website traffic data.  We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, to collect statistical information, and to personalize your experience while online.
 
-We may collect information about you from various sources and by various means. Specifically, we may obtain information about you:
+Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the online services or to send you advertisements and marketing emails.  We may also use cookies or other technologies to track responses to our online advertisements and marketing emails.  You can opt out of such interest-based advertising using cookies set by participating NAI members at: http://optout.networkadvertising.org/#!/.  Opting out of interest-based advertising does not mean you will no longer see advertising online. It does mean that the company or companies from which you opt out will no longer show ads that have been tailored to your interests.
 
-  * On our websites (e.g., when you submit requests for product information or product samples, sign up for business alerts, or participate in our online contests, sweepstakes, and other promotions) 
-  * When you contact us by email, phone, or other means 
-  * Through our social media pages and other features 
-  * When you use our mobile applications 
-  * When you choose to participate in third-party applications or features (such as one of our social networking presences or a similar application or feature on a third party website) through which you allow us to collect and share (or the third party to collect and share) information about you, including personal information 
-  * When other users of a third party website give us access to the information about you, for example if you are listed in another user's "connections" 
-  * From our parent, affiliate or subsidiary companies, and business partners 
-  * From other third parties, such as commercial data vendors, public databases, and other public and non-public sources 
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You can choose whether to accept cookies by changing the settings on your browser or, depending on your jurisdiction, by managing your tracking preferences as noted in a separately posted cookie statement or via a posted cookie manager.  If, however, you do not accept cookies, you may experience some inconvenience in your use of the online services.  For example, we may not be able to recognize your computer, and you may need to log in every time you visit. You also may not receive advertising or other offers from us that are relevant to your interests and needs.  At this time, we do not respond to browser “Do-Not-Track” signals except in jurisdictions where we are required to do so by law.
 
+**_IP Address_** – Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP).  An IP address may be identified and logged automatically in our server log files whenever a user accesses the online services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services.  We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering our online services.  We may also derive your approximate location from your IP address to understand from what regions of the world our website visitors come.
 
+**_Physical Location and Mobile Location-Based Services_** – We may collect the physical location of your device if you have consented to us doing so, by, for example, using satellite, cell phone tower, Wi-Fi signals, or other technologies.  We may use your device’s physical location to provide you with personalized location-based services and content.
 
-In addition to the information you provide directly to us and the data we obtain from third parties, our Internet services use a variety of technologies to automatically collect usage information, such as:
+If you have downloaded one of our Apps, you may enroll to receive offers by agreeing to the use of technologies that enable us to collect information about your location through your mobile device’s Bluetooth or similar capabilities.  We will collect this information if you opt-in through the App (either during your initial login or later) to receive the offers and by enabling these capabilities on your mobile device. 
 
-  * _Cookies._ Our websites may place "cookies" on your device and access these cookies during subsequent uses. Furthermore, our websites may allow third parties to place and access cookies on your device. Our websites may also identify cookies of third parties that are present on your computer. Cookies enable us and third parties to identify your specific device on subsequent visits to our sites and third party sites. By identifying returning visitors, we can obtain more precise usage data, provide customized versions of our sites, and store your preferences. Our sites may also set and access cookies that retain personal information, such as your login credentials for our sites. 
-  * _Referrer headers._ We may record referrer headers when you follow links to our web services. A web browser sends a referrer header to a destination site when the user clicks on a link to that site. The header contains the Internet address or URL of the site linking to the destination site. The referrer header may provide information about your interaction with the linking site. For example, if you follow a link to one of our web services from a search engine, we may be able to determine and store the search query that you used to find our site. We use this information to improve our web services and increase their accessibility to search engines. We also use referrer information to monitor our advertising campaigns, as described more fully below. 
-  * _Beacons and trackers._ We may send you communications containing, and certain pages on our websites may contain, "web beacons" (also known as "Internet tags," "pixel tags," "tracking beacons," and "clear GIFs.") A web beacon is a small or invisible image included in a web page or email that allows the person hosting the beacon to determine when the page or email has been viewed. That person may also be able to set or access cookies on your device. Web beacons may also collect usage information.
+**_Pixel Tags or Similar Technologies_** – Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some online services to, among other things, track the actions of users of the online services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the online services and response rates.  We also use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of our services and report on activities and trends.  These services may collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to www.google.com/policies/privacy/partners/,and opt-out by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout. 
 
+## With Whom We Share Your Information    
 
+We do not sell or otherwise disclose your personal information except as described in this Privacy Policy.  We may also share your information as disclosed at the time you provide it and in the following circumstances: 
 
-#### Types of Information We Collect
+**_Business Transfers_** – We may disclose your personal information, usage information, and other information about you to parties acquiring part or all of our assets, as well as to attorneys and consultants. If we transfer your information to an acquirer, we will use reasonable efforts to direct the acquirer to use your information in a manner that is consistent with this Privacy Policy.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, your information may be considered a company asset that may be sold or transferred to third parties.
 
-We may ask for, and you may choose to provide personal information that could be used to identify you as an individual. We also may obtain personal information about you from third parties. Examples of personal information we may collect include:
+**_Corporate Affiliates –_** We may share the information you provide (such as information about your orders, enquiries, applications or use of our websites) within Koch Industries and with Koch affiliates for marketing, recruitment and internal reporting purposes.  We do this to run our business more efficiently and to have a better understanding of our customers across business lines. 
 
-  * Your contact information (such as name, social media screen name, handle or other identifier, postal and email address, or telephone number) 
-  * Personal information you share pursuant to your social media privacy settings 
-  * Demographic information (such as age, date of birth and gender)
-  * Information relating to your interests based on your online behavior including information you disclose on social media
-  * Location information, such as the real-time geographic location of the device you are using to access the Georgia-Pacific-provided service, if you allow your device to provide it automatically 
-  * Payment details (including payment card number, security code, expiration date, cardholder name and billing address) 
-  * Contact information of friends or other people you like us to contact 
-  * Other details that you may submit to us or that may be included in the information provided to us by third parties 
+**_Law Enforcement Agencies, Courts, Regulators, Government Authorities or other Third Parties_** __ – We may transfer and disclose your information to third parties (i) to comply with a legal obligation, (ii) when we believe in good faith that the law requires it, (iii) at the request of governmental authorities conducting an investigation, (iv) to verify or enforce our policies, Terms of Use and other agreements or to protect the rights, property, or safety of Koch Industries, our customers, or others (v) to respond to an emergency, (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity or (vii) otherwise to protect the rights, property, safety, or security of third parties, users of our services or the public.
 
+**_Marketing Partners_** – _ _ In some cases, we may permit certain network advertising companies and publishers to collect personal information on our sites.  In addition, our business partners may access personal information about you that we have combined with such business partners’ data. We may collaborate with our business partners to jointly send tailored promotional communications to you using the combined set of information.  If you prefer not to receive these joint communications, you can opt out by following the instructions included in any such communication.
 
+**_Non-Personal Information_** – We may share non-personal information, such as aggregate user statistics, demographic information, and usage information with third parties.
 
-We also collect usage information, that is, information about how our users interact with our Internet services, such as websites, social media sites and mobile applications, and with other, third party, websites over time. This usage information may include:
+**_Sharing With Your Consent_** – Our services may present you with the opportunity to opt in to receive information or marketing offers from third parties or to otherwise consent to the sharing of your information with third parties. If you agree to have your personal information shared, your personal information will be disclosed to the third-party subject to the privacy notice and business practices of that third party.
 
-  * Pages you view, links you click or hover over, and selections you make on our and third-party websites 
-  * Your browser's HTTP referrer header, in the case of a website 
-  * Features you use, preferences you set, and selections you make, if the service is provided through a mobile application 
-  * Your web browser type and version, if the service is a website 
-  * The operating system type and version of the device you are using to access the service 
-  * The Internet protocol (IP) address of the device you are using to access the Georgia-Pacific provided service 
+**_Third-Party Service Providers_** – In order to carry out your requests, to make various features, services and materials available to you through the services, to respond to your inquiries, and for other purposes described in the “How We Use Your Information” section of this Privacy Policy, we may share your personal information or usage information with third parties that perform functions on our behalf (or on behalf of our partners), such as companies or individuals that: host or operate our sites; analyze data; provide customer service; mail product samples or manage payments; advertisers; sponsors or other third parties that participate in or administer our promotions, e-commerce activities, provide marketing or promotional assistance (such as in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list), or assist with risk management, compliance, legal and audit functions. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
 
+Because we operate as part of a global business, the recipients referred to above may be located outside the jurisdiction in which you are located (or in which we provide the services). See the section on “International Transfers of Personal Information” below for more information.
 
+## Automated Decisions About You 
 
-We may also determine additional information about you from usage information, such as your general physical location or Internet service provider based on your Internet protocol address.
+We may make automated decisions about you using your personal information in the following circumstances:
 
-#### How We Use Your Information
+  * Automated processing may be used when evaluating large numbers of applicants for job vacancies. For these purposes we would request that you create a profile and answer some job-related questions to evaluate your skills as compared to the published job requirements.  An algorithm may then be used to determine which candidates will be allowed to proceed to the next step within the selection process. We consider this data and process to be relevant because it will assist us to select the applicant most suitable for our vacancies.  The outcome of the evaluation may have an impact on whether you are offered a role for the vacancy you apply to. 
 
-We may use the information we obtain about you to:
 
-  * Communicate with you about our products, services, offers, events and promotions, and offer you products and services we believe may be of interest to you; we may communicate with you via social media platforms, online advertising and by sending you email business alerts and newsletters 
-  * Provide customer support, including by responding to requests for information about our products and services (such as material safety information or inquiries about Encadria services) 
-  * Provide you with the specific services that you request 
-  * Manage your participation in our events, sweepstakes, and other promotions (including by sending e-Cards, sharing information found on our websites with others, and sending email invitations) 
-  * Facilitate your involvement in our charity programs and community activities 
-  * Manage your participation in our procurement auctions 
-  * Operate secure portals for business customers
-  * Process payment card transactions
-  * Operate, evaluate, and improve our business 
-  * Gather your feedback about and improve our products, services, programs, and Internet services 
-  * Analyze and enhance our marketing communications and strategies, and trends and statistics regarding use of our Internet services 
-  * Protect against and prevent fraud, unauthorized transactions, claims, and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users 
-  * Comply with applicable legal requirements and industry standards and with our policies
 
+You can contact us via the contact information provided in the “How to Contact Us” section of this Privacy Policy to request further information about automated decision-making, object to our use of automated decision-making, or request an automated decision to be reviewed by us if required by local law. 
 
+## User-Generated Content
 
-We may combine information we collect from various sources, such as third party advertisers and marketing agencies, with personal information we collect from you. We treat this combined information as personal information, in accordance with this Privacy Notice.
+Some of our services and social networking features may enable you to submit your own content for public posting.  Information you post in this fashion becomes public information and is not subject to this Privacy Policy.  Certain areas of our websites and our social media pages may enable users to submit personal information to Koch Industries or its affiliates.  Such information will be used in accordance with the website’s Privacy Policy.  Postings, letters, and other submissions become the property of Koch Industries and may be reproduced in whole or in part, including your name, for any purpose and in any manner.
 
-#### How We Share Your Information
+## Links to Other Sites _     _
 
-We will not provide any of your personal information to any third parties without your specific consent except as described in this Privacy Notice, or as otherwise described on the individual Georgia-Pacific site or other Internet service that requests your personal information. We may also share your information as disclosed at the time you provide it, as otherwise set forth in this Privacy Notice, and in the following circumstances: 
+Our websites and communications may provide links to other websites, including to social networks or partners that may use our logo(s) as part of a co-branding agreement.  To the extent that any linked services are not provided by Koch Industries, we are not responsible for the services, or any of the content found on these websites.  If you provide information on and use third-party services or websites, the privacy policy and terms of service on those sites are applicable.  We encourage you to read the privacy policies of websites that you visit before submitting personal information. 
 
-  * _Third party service providers._ In order to carry out your requests, to make various features, services and materials available to you through the services, to respond to your inquiries, and for other purposes described in the "How We Use Your Information" section of this Privacy Notice, we may share your personal information or usage information with third parties that perform functions on our behalf (or on behalf of our partners), such as companies or individuals that: host or operate our sites; analyze data; provide customer service; mail product samples or manage payments; advertisers; sponsors or other third parties that participate in or administer our promotions or provide marketing or promotional assistance (such as in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list). 
-  * _Sharing with your consent._ Our services may present you with the opportunity to opt in to receive information or marketing offers from third parties or to otherwise consent to the sharing of your information with third parties. If you agree to have your personal information shared, your personal information will be disclosed to the third party subject to the privacy notice and business practices of that third party. 
-  * _Marketing partners.  _In some cases, we may permit certain network advertising companies and publishers to collect personal information on our sites. In addition, our business partners may access personal information about you that we have combined with such business partners' data. We may collaborate with our business partners to jointly send tailored promotional communications to you using the combined set of information. If you prefer not to receive these joint communications, you can opt out by following the instructions included in any such communication. 
-  * _Non-personal information._ We may share non-personal information, such as aggregate user statistics, demographic information, and usage information with third parties. 
-  * _Business transfers._ We may disclose your personal information, usage information, and other information about you to parties acquiring part or all of our assets, as well as to attorneys and consultants. If we transfer your information to an acquirer, we will use reasonable efforts to direct the acquirer to use your information in a manner that is consistent with this Privacy Notice. Also, if any bankruptcy or reorganization proceeding is brought by or against us, your information may be considered a company asset that may be sold or transferred to third parties. 
-  * _Disclosures required by law._ We may transfer and disclose your information to third parties (i) to comply with a legal obligation, (ii) when we believe in good faith that the law requires it, (iii) at the request of governmental authorities conducting an investigation, (iv) to verify or enforce our policies, (v) to respond to an emergency, or (vi) otherwise to protect the rights, property, safety, or security of third parties, users of our services or the public. 
+## How We Protect Personal Information _     _
 
+In proportion to the sensitivity of the information, we maintain reasonable administrative, technical and/or physical safeguards and appropriate security measures to protect personal information from loss, misuse or unauthorized access, disclosure, alteration, or destruction of the information you provide.  However, we cannot guarantee the security of your personal information, as no electronic data transmission or storage of information is completely secure.  If an incident is reported affecting your information, we will investigate and comply with all required reporting obligations. 
 
+## International Transfers of Personal Information
 
-#### Online Advertising & Tracking
+Koch Industries is a global organization - headquartered in the United States – that does business in many countries.  We may share your personal information among Koch Industries, its affiliates, our service providers, and other third parties that may be located in countries outside of your own.  Although the data protection laws of these various countries may differ from those in your own country, we have put in place appropriate safeguards (such as contractual commitments) to ensure that your personal information is handled as described in this Privacy Policy and in accordance with the law. For transfers of data outside of the European Union, this includes standard contractual clauses approved by the European Commission. For more information on the appropriate safeguards in place, please contact us via the contact information provided in the “How to Contact Us” section of this Privacy Policy. 
 
-On our websites, we may collect information about your online activities to provide you with advertising about products and services tailored to your individual interests. For example, we may use the advertising features provided by Google as well as the remarketing features of Google AdWords in order to track our website visitors across different Internet sites while providing them with ads from us. 
+## How Long is Personal Information Retained
 
-You may receive interest-based ads from us and from our ad providers that are specifically tailored to your interests. These ads have been selected based on your use of our websites, services and/or products as well as other information obtained by us and our ad providers. It is also possible that such interest-based advertising has been tailored to the interests that advertisers have inferred from your browsing of our websites, or from your use of other websites or applications with which a third-party has partnered, in order to provide advertising. 
+We will keep your personal information for as long as we have a relationship with you.  Once our relationship with you has come to an end, we will retain your personal information for a period of time that enables us to:
 
-Our websites may use Google Analytics, a web analysis service provided by Google, in order to better understand your use of our websites and how we can improve them. Google Analytics collects information such as how often users visit a website, what pages you visit when you do so, and what other websites you used prior to coming to such website. Google Analytics collects only the IP address assigned to you on the date you visit a website, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with your personal information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit a website, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Georgia-Pacific websites is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). Google utilizes the data collected to track and examine the use of the Georgia-Pacific websites, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the Georgia-Pacific websites to contextualize and personalize the ads of its own advertising network. To more fully understand how Google may use the data it collects on the Georgia-Pacific websites, please review “How Google uses data when you use our partners' sites or apps,” (located [here](http://www.google.com/policies/privacy/partners/) or any successor URL). 
+  * Maintain business records for analysis and/or audit purposes 
+  * Comply with record retention requirements under the law
+  * Defend or bring any existing or potential legal claims
+  * Address any complaints regarding the services
 
-Our websites also use marketing automation cookies provided by one of our third party service providers that track user behavior between our websites and marketing emails. We also deploy cookies provided by a third party service provider that track and score user behavior on the Georgia-Pacific websites. Such data help us create deeper and more personalized engagements for our website visitors. Additionally, we use a third-party service provider that deploys tracking cookies to users who submit product reviews or comments relating to our websites, products and services. Such cookies can track users who visit websites with which this third party is affiliated, and may place ads unrelated to us.
 
-We also engage with third-party advertising networks. Ad networks may include third-party ad servers, ad agencies, sponsors, ad technology vendors and research firms. We do not share personal information with these third parties, but ad networks may set and access their own cookies, beacons and similar technologies on your device and they may otherwise collect or have access to information about you, including usage information, by tracking your online activities over time and across third-party websites or online services. We are not responsible for the privacy practices of these third parties. These ad networks may use the information they collect for their own purposes. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both our services and other websites and Internet services. Such cookies track users who visit websites with which they are affiliated and place ads unrelated to us.
 
-#### User-Generated Content
+We will delete your personal information when it is no longer required for these purposes.  If there is any information that we are unable, for technical reasons, to delete entirely from our systems, we will put in place appropriate measures to prevent any further processing or use of the data.
 
-Some of our services and social networking features enable you to submit your own content for public posting. Information you post in this fashion becomes public information and is not subject to this Privacy Notice. We cannot control how others may use publicly-posted information.
+## Changing and Accessing Your Personal Information
 
-Any information, communications, or material of any type or nature that you submit to our websites or mobile applications (including, but not limited to any Georgia-Pacific website contained on a social media platform or website such as Facebook or Twitter) by e-mail, posting, messaging, uploading, downloading, or otherwise (collectively, a “Submission”), is done at your own risk and without any expectation of privacy.  Georgia-Pacific cannot control the actions of other users of any social media platform or website, and Georgia-Pacific is therefore not responsible for any content or Submissions contained on such sites and platforms. 
+You may have certain rights regarding your personal information, subject to local law.  These include the following rights to:
 
-#### Your Choices
+  * access your personal information;
+  * correct the information we hold about you;
+  * erase your personal information;
+  * restrict our use of your personal information; 
+  * object to our use of your personal information;
+  * withdraw your consent for us to use your personal information, if applicable; 
+  * receive your personal information in a usable electronic format and transmit it to a third party (right to data portability); and
+  * lodge a complaint with your local data protection authority (if applicable).
 
-We offer you certain choices about what information we collect from you, how we use and share the information, and how we communicate with you. We do not charge for opt out service. To help protect your privacy and security, we may take reasonable steps to verify your identity, such as requiring a password and user ID.
 
-You may opt out of (i) sharing your personal information with third parties for those parties' own purposes, (ii) using your personal information to provide you with information or offers; and (iii) receiving newsletters, emails or other communications by clicking [here](mailto:privacy@gapac.com?subject=Georgia-Pacific:%20Privacy%20Question) or writing to:
 
-Georgia-Pacific LLC  
-Attention: Privacy Office  
+We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate.  Please note that we will likely require additional information from you in order to verify your identity and respond to your requests.  If you would like to discuss or exercise your applicable rights, subject to limitations established under local law, please contact us via the contact information provided in the “How to Contact Us” section of this Privacy Policy. We will respond to you within a reasonable time and within the time limits established by applicable law.
+
+## Children
+
+Our services are generally not directed to children under 16.  We do not knowingly collect personal information from anyone under 16 without parental consent.  If you become aware that we have collected personal information from a child under the age of 16 without parental consent, please let us know so we can take appropriate action.
+
+## California Residents
+
+If you are a California resident and have provided us with your personal information, you may ask us to refrain from sharing your personal information with third parties, including our affiliates if they are separate legal entities, for direct marketing purposes.  Please tell us your preference by contacting us via the contact information in the “How to Contact Us” section of this Privacy Policy.
+
+## Updates to Our Privacy Policy _     _
+
+We may modify or update this Privacy Policy from time to time. We will always indicate at the top of the Policy when it was most recently updated.  If we substantially change this Privacy Policy, we will notify you of the changes. Any changes will be effective immediately upon the posting unless otherwise indicated.  Where changes to this Privacy Policy will have a fundamental impact on the nature of processing or otherwise have a substantial impact on you, we will give you sufficient advance notice so that you have the opportunity to exercise your rights.  
+
+## How to Contact Us
+
+If you have any questions or comments about this Privacy Policy or if you would like us to remove or update information we have about you or your preferences, please email us or write to the following applicable contact at Koch Industries or its affiliates:
+
+**Koch Industries, Inc.**  
+**Koch Business Solutions, LP**  
+**Koch Chemical Technology Group LLC**  
+**Koch Supply & Trading, LLC**  
+**Compliance & Ethics Department**  
+P.O. Box 2256  
+Wichita, KS 67201-2256, USA  
+Email: [kiicompeth@kochind.com](mailto:kiicompeth@kochind.com) | **Flint Hills Resources, LLC**  
+**Compliance & Ethics Department**  
+P.O. Box 2256  
+Wichita, KS 67201-2256, USA  
+Email:  [kiicompeth@kochind.com](mailto:kiicompeth@kochind.com)  
+---|---  
+**INVISTA Equities, LLC**  
+**Compliance & Ethics Department**  
+P.O. Box 2936  
+Attn: Compliance & Ethics Office  
+Wichita KS, 67201-2936, USA  
+Email:  [invdatapri@invista.com](mailto:invdatapri@invista.com) | **Georgia-Pacific LLC**  
+**Privacy Office**  
 P.O. Box 105605  
-Atlanta, GA 30348  
-USA
-
-In addition, you have the following specific opt out choices:
-
-  * Marketing communications. You may also opt out of specific communications (such as marketing email communication we send jointly with our business partners) by following the opt out instructions contained in the communication. Even if you opt out, you may continue to receive service-related communications, such as responses to your inquiries, or information about your orders or changes in our terms or policies, and we may maintain the information we have about you for record keeping, analysis or other reasons.
-  * _Cookies._ Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. However, rejecting cookies may affect your user experience and you may not be able to access certain features of our sites. In addition, disabling cookies may invalidate opt outs that rely on cookies, such as web analytics or targeted advertising opt outs. 
-  * _Targeted advertising & tracking._ If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information, such as Google Analytics and Google AdWords. To do so please visit [the Network Advertising Initiative's ("NAI") Opt Out Page.](http://www.networkadvertising.org/managing/opt_out.asp)  Please note that even if you choose to opt out, you may still see advertisements while browsing, but the advertisements you see may be non-specific. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. NAI opt out may not be effective for mobile applications. The NAI Opt Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. Please note that we may also engage with ad networks that do not participate in the NAI Opt Out. Those networks may offer their own opt-out choices.
-  * _Geographic location.  _When you use our application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer. 
-
-
-
-Please note that even if you opt-out as described above, Georgia-Pacific will retain your personal information for analytical purposes and other internal purposes including an ability to reconnect you with such personal information if you later opt-in to any of the data sharing, use or communications set forth above.
-
-####  California Residents and Do-Not-Track Disclosure
-
-If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with our affiliates for their marketing purposes, if the affiliates are separate legal entities. Please tell us your preference by contacting us as indicated in the "How to Contact Us" section of this Privacy Notice.
-
-Because there is not yet a consensus on how companies should respond to web browser-based or other do-not-track ("DNT") mechanisms, Georgia-Pacific websites do not respond to web browser-based DNT signals.   
-
-#### Privacy Practices of Third Parties
-
-Our services may link to other services that we do not control, including to social networks, services of advertisers, sponsors, and partners that may use our logo(s) as part of a co-branding agreement. To the extent that any linked services are not provided by any Georgia-Pacific companies covered by this Privacy Notice, we do not control, recommend or endorse and we are not responsible for these services or their privacy policies or practices. These services may or may not have their own privacy notices or policies, or have privacy practices that differ from ours, so consult the privacy policies of those third party sites as we have no control over the use, dissemination or security of personal information you submit to them. The linked services may send their own cookies to your device, they may independently collect data or solicit personal information. You may configure your browser to reject cookies from our sites and cookies from third parties. However, rejecting cookies may affect your user experience and you may be unable to access certain features of our sites.
-
-#### How We Protect Your Personal Information
-
-We maintain certain administrative, technical and physical safeguards to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of your personal information. However, no electronic data transmission or storage of information can be completely secure. We cannot ensure or warrant the security of any information you transmit to us or that we acquire. Accordingly, you must use our services at your own risk.
-
-#### Consent to Transfer and Processing of Your Personal Information
-
-We operate our services in the United States and in other countries and we may transfer your information to the United States or other countries for storage and processing. By using the sites, or providing us with any information, you consent to the collection, processing, maintenance, and transfer of such information in and to the United States and other countries in which the privacy laws may not be as comprehensive as those in your country of residence or citizenship.
-
-#### Job Seekers
-
-We actively seek employment applications on our website and through third party job posting sites. We also use third parties to assist us in recruiting and hiring. Accordingly, if you provide personal information as part of an application for employment with us, we may share your application information with these third parties, such as other companies under common ownership with Georgia-Pacific. We may also share your application information with our corporate affiliates and parent. We will only use your application information to evaluate you for positions with our company and with our affiliates and parent and for contacting you about your candidacy. If you choose to provide optional information, such as your race or ethnic background, we will not use this optional information in evaluating your application.
-
-#### Children
-
-Our services are generally not directed to children under 13. We do not knowingly collect personal information from anyone under 13 without parental consent. If you become aware that we have collected personal information from a child under the age of 13 without parental consent, please let us know immediately so we can take appropriate action.
-
-#### Accessing Your Personal Information
-
-If you wish to view, verify, correct, or update any of your personal information collected through a specific Internet service, you may edit your profile within that service. In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the "How to Contact Us" section of this Privacy Notice. If we deny an access request, we will notify you of the reasons for the denial.
-
-#### Changes
-
-Please review our Privacy Notice periodically, as we may change it at any time and without prior notice to you. Any changes will be effective immediately upon the posting unless otherwise indicated. We will post a notice on the GP.com home page to notify you of any significant changes to this Privacy Notice. The date below indicates when this Privacy Notice was last changed.
-
-#### How to Contact Us
-
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by clicking [here](mailto:privacy@gapac.com?subject=Georgia-Pacific:%20%20Privacy%20Question) or writing to: 
-
-Georgia-Pacific LLC  
-Attention: Privacy Office  
-P.O. Box 105605  
-Atlanta, GA 30348  
-USA
-
-Last updated: June 19, 2015
+Atlanta, GA 30348, USA  
+Email:  [privacy@gapac.com](mailto:privacy@gapac.com)  
+**Guardian Industries Holdings, LLC**  
+**Compliance & Ethics Department**  
+2300 Harmon Road  
+Auburn Hills, MI 48326, USA  
+Email:  [privacy@guardian.com](mailto:privacy@guardian.com) | **Molex, LLC**  
+**Compliance & Ethics Department**  
+2222 Wellington Court  
+Lisle, IL 60532-1682  
+Email:  [privacy@molex.com](mailto:privacy@molex.com)  
+**Koch Ag & Energy Solutions, LLC**  
+**Compliance & Ethics Department**  
+P.O. Box 2985  
+Wichita, KS 67201-2985, USA  
+Email: [KFCommComp@kochind.com](mailto:KFCommComp@kochind.com)  
+  | **Koch Minerals, LLC**  
+**Compliance & Ethics Department**  
+P.O. Box 2256  
+Wichita, KS 67201-2256, USA  
+Email:  [kmcompliance@kochind.com](mailto:kmcompliance@kochind.com)  
+ 
