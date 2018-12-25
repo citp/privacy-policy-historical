@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pintaram.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121223640id_/https%3A//www.pintaram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pintaram.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225233430id_/https%3A//www.pintaram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dailypo
 
