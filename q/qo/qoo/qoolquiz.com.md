@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qoolquiz.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625120942id_/https%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoolquiz.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225205011id_/http%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.*
 
 # QoolQuiz 心理測驗
 
