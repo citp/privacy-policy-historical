@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the margauxny.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202065315id_/http%3A//shop.margauxny.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margauxny.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225042732id_/http%3A//shop.margauxny.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Margaux
 
 Welcome to Margaux’s website (hereinafter the “Site”). This Privacy Policy informs you of our practices regarding collection, use and disclosure of information you may provide or Margaux New York, LLC (hereinafter “Margaux”) may collect via the Site. Please be sure to read this entire Privacy Policy before using or submitting information to the Site. We respect your privacy, and we are committed to protecting your personal information.
 
 By accessing and using the Site, you agree with the terms of the Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy. Margaux reserves the right to modify the Privacy Policy, at its discretion and without notice to you. Please review the Privacy Policy from time to time to stay up to date with any changes.
+
+For users outside of the United States: This Site is intended for use only in the United States. Margaux does not represent that the content of this Site is appropriate or available for use in other locations. If you are an EU user or non-U.S. user of the Site, by visiting the Site and providing us with information, you acknowledge and agree that your Personal Information may be processed for the purposes identified in the Privacy Policy. In addition, your Personal Information may be processed in the country in which it was collected and in other countries, including the U.S., where laws regarding processing of Personal Information may be less stringent than the laws in your country. By providing your information, you consent to such transfer and processing in accordance with this Policy.
 
 1\. Collection of information. The Site collects information that may personally identify you (such as your name, address, email address, phone number or other related data) only when you provide such information directly to Margaux. In some cases, the Site collects information that personally identifies third parties if you purchase and ship a product to a third party.
 
