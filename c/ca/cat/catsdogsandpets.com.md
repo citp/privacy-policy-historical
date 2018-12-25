@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catsdogsandpets.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606120707id_/http%3A//www.catsdogsandpets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsdogsandpets.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225053430id_/http%3A//www.catsdogsandpets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cats Dogs and Pets
 
