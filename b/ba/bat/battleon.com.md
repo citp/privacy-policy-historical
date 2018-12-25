@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501164544id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225075605id_/https%3A//www.artix.com/policy-privacy) for the most accurate reproduction.*
 
-# ARTIX | Policy-Privacy
+# Privacy Policy
 
-_Effective Date May 25, 2018_
+_Updated  September 20, 2018_
 
 Welcome to Artix Entertainment’s game network! Our Privacy Policy explains the information we collect when you use our Services, and how we may use or share it. This policy only covers our Services. It does not apply to our third party partners you may interact with while using our Services.
 
@@ -33,7 +33,8 @@ This is a summary of the most important points of our Privacy Policy. It is impo
 **Email addresses:** If a user is over 13, we collect an email address during account creation.
 
   * Personal information can identify you. It is important to protect it. It includes your real name, home and email addresses, and phone number.
-  * We collect some information about how you use our sites and games, and the device you use.
+  * We collect some information about how you use our sites and games.
+  * We collect some information about your computer, including IP address, unique device IDs, and hardware information to trouble shoot bugs, crashes, and assist with account issues.
   * We collect and store some of the information you give us. We use it to operate and improve our websites and videogames.
   * We do not keep your information longer than we need to.
   * You can ask us to stop collecting your information whenever you want. If you do not want us to collect your information, you may not be able to use some parts of our sites and games.
