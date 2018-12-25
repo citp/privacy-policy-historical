@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestab.org privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614235402id_/http%3A//gamestab.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestab.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225195729id_/http%3A//gamestab.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy GamesTab.org
 
@@ -10,7 +10,7 @@
 
 **Last Updated May 23, 2018**
 
-www.gamestab.org (“Website”) is a website owned and operated by Tightrope Interactive, Inc. (“Company”). 
+gamestab.org (“Website”) is a website owned and operated by Tightrope Interactive, Inc. (“Company”). 
 
 The Company takes privacy matters very seriously. This document describes our obligations under EU’s General Data Protection Regulation (GDPR), explains what type of data we are collecting and how we are using this data. This document pertains to the usage of our websites and browser extensions.
 
@@ -30,7 +30,7 @@ The GDPR Owner is responsible for ensuring that this notice is made available to
 
 The Company develops and markets browser extensions. We create browser extensions and offer them to consumers. 
 
-  * [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * Gdpr-requests@tightropeinteractive.com
   * Tightrope Interactive: GDPR REQUEST
   * 588 Sutter St #551
   * San Francisco, CA 94102
@@ -207,4 +207,4 @@ If you feel that we have not followed our Privacy Policy, please let us know. Al
 
 Tightrope Interactive, Inc. 588 Sutter St #551, San Francisco, CA 94102
 
-Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Alternatively, if you would like, contact us via e-mail at webmaster@.gamestab.org
