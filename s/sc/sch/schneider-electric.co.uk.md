@@ -1,135 +1,89 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163432id_/https%3A//www.schneider-electric.co.uk/en/about-us/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225235122id_/https%3A//www.schneider-electric.co.uk/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | Schneider Electric
+# Data Privacy Statement | Schneider Electric UK
 
-My Schneider Electric and www.schneider-electric.co.uk Privacy Policy
+##### **If you are located in the European Economic Area (EEA), Schneider Electric also complies with GDPR- specific requirements, including those relating to legal grounds for processing, cross-border data transfers, automated decision making and profiling, data retention, additional rights, claims and DPO contact details.**
 
-You acknowledge and agree that Schneider Electric Ltd and our group companies and brands (“we”, “our”, “us) may collect, use and disclose the data collected in the course of our relationship in the manner identified in our Privacy Policy.
+**11.1 On what legal ground is Schneider Electric relying to use personal information?**
 
-PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS. YOUR USE OF THE SITES IS ALSO SUBJECT TO YOUR ACCEPTANCE OF THE TERMS OF USE WHICH YOU MUST READ. 
+The use of personal information is necessary, with respect to the purposes mentioned in section 4 above:
 
-**Information we Collect**
+\- To perform the contract concluded between Schneider Electric and customers or users in the context of the use of our products, services or digital content. The execution of the contract includes being able to identify individuals within a customer company or users. It includes, addressing requests for information, support, managing accounts and enrollment into our programs and ensuring compliance with terms and conditions and with this Privacy Policy.
 
-The information we collect on the www.schneider-electric.co.uk and My Schneider Electric websites ("the Sites") generally falls into the following two categories: Personally Identifiable Information and Non-Personally Identifiable Information. 
+\- To comply with legal obligations to which we are subject. For instance, mandatory tax and accounting obligations or addressing filing obligations and requests by competent regulatory bodies and authorities.
 
-**Personally Identifiable Information:** This refers to information that lets us know the specifics of who you are. The Personally Identifiable Information we collect when you use the Sites may include your name, mailing address, phone number, e-mail address, your Internet Protocol ("IP") address, employer, and job function. We request Personally Identifiable Information when you register to use the system, order a product or service, participate in certain promotional activities, fill out surveys, and correspond with us. In these cases, we will collect the information you submit about you the recipient. 
+\- To carry out surveys in our legitimate interest as they are used for measuring customers and users’ satisfaction with Schneider Electric offers.
 
-**Non-Personally Identifiable Information:** This refers to information that does not by itself identify a specific individual. The non-personally identifiable data we collect when you visit the Sites may include the Uniform Resource Locator ("URL") of the website that you came from before visiting the Sites, which pages you visit on the Sites, which URL you next go to, which browser you used to come to the Sites, and any search terms entered on the Sites. This Privacy Policy also contains more information about how we use cookies and other technology to collect this data – see below. 
+\- To send marketing communications and interest-based advertising based on consent previously obtained where applicable by law.
 
-**Why We Collect this Information**
+\- To provide an experience customized to the users’ location, with consent where applicable by law.
 
-Our primary goals in collecting information are to provide our customers and other users with superior service and a smooth, efficient, and personalised experience while using the Sites. For example, if you purchase products or request information on the Sites, we use your Personally Identifiable Information to fill your order or provide the requested information. We use Non-Personally Identifiable Information on an aggregated basis to analyse customer behaviour to help us understand how the users use the Sites and to measure interest in the various pages. We use this information to improve the content of the Sites and to make the Sites easier to use. 
+We may also process personal information for the purposes of our legitimate interests provided that such processing shall not outweigh individuals’ rights and freedoms, in particular:
 
-**How We Use Your Information**
+\- To protect you, us or others from threats (such as security threats or fraud)
 
-We gather and use information in a number of ways, including the following: 
+\- To comply with the laws that are applicable to us around the world
 
-**Browsing and Searching:** We collect certain Personally Identifiable Information when you visit the Sites or click on the various links for products and services. We collect this information to help run the Sites more efficiently, to gather broad demographic information, to monitor the level of activity on the Sites, and to evaluate the effectiveness of our advertising. 
+\- To improve our products, services and digital content
 
-**Ordering:** We collect Personally Identifiable Information when you purchase products and services. We collect this information to deliver your order, to obtain payment, and to communicate with you about the status of your order.
+\- To perform profiling to provide targeted content and interest-based advertising
 
-Technical support: We may collect certain information when you request technical support for Schneider Electric products. This information is necessary to identify your systems, understand the configuration of the products, diagnose your questions, and provide solutions. 
+\- To share information between Schneider Electric subsidiaries and service providers as described in section 7
 
-**Online surveys and polling:** We collect Personally Identifiable Information from customers who volunteer to complete surveys or participate in polls. We use this information to improve our products and services.   
-Promotional activities: We collect Personally Identifiable Information from you when you enter a promotional program or activity. We use this information to administer the program or activity, to send you promotional e-mails, notify winners, and make the winners' list publicly available pursuant to applicable regulations and laws. More information about our marketing uses is below. 
+\- To understand and improve our online activities, our business, our customer base and relationships generally
 
-**Newsletters and promotional e-mails:** We collect Personally Identifiable Information when you ask to receive newsletters, promotional e-mails, and other information. We use this information to provide you the information you request. More information about our marketing uses is below. 
+\- To enable or administer our business, such as for quality control and consolidated reporting
 
-**Contact information:** If you contact us, we keep a record of your correspondence or comments, including Personally Identifiable Information, in a file specific to you. We use this information to help us provide you better service in the event you contact us again. 
+\- To manage corporate transactions, such as mergers or acquisitions
 
-We may keep your information for a reasonable period for the purposes set out above. 
+**11.2 Will personal information be transferred abroad?**
 
-**How do we use your information for marketing?**
+At Schneider Electric, a global company, the teams working on fulfilling the data processing purposes may have global or multi-country roles. They can then be located anywhere in the world where [Schneider Electric operates](https://www.schneider-electric.com/en/locator/?locale=WW_en30&type=map&poco=all&locator=offices&header=se&mxdi=500), including outside the European Union, in countries which do not have equivalent standards for the protection of personal information as the country where you are located. We may also transfer data to service providers located outside of the EU, including in the United States of America. In the event that these data transfers cannot claim an adequacy decision by the European Commission, Schneider Electric will ensure that they comply with applicable legal requirements, for example by executing standard contractual clauses or through its Binding Corporate Rules for intragroup transfers as a data controller. To obtain more details on these transfers and, where appropriate, copies of the applicable safeguards implemented, you may contact: Global-Data-Privacy@schneider-electric.com
 
-We (including our group companies) and carefully selected third parties may use the information we collect to inform you, by letter, fax, phone, SMS and email about promotions, news and new products that we think may be of interest to you. By providing us with your information you consent to being contacted by these methods for these purposes. If you do not wish to receive marketing information from us please indicate this where requested on the registration or request form or contact us using the details below. 
+**11.3 Do we use profiling and make automated decisions about individuals?**
 
-**Sharing Your Information**
+We may use profiling to provide you with online content which we believe corresponds to your interests. We combine registration information, such as work specialty and information about online activity to know you better, and provide you with online content corresponding to your profile.
 
-We may share the Personally Identifiable Information you provide online with other Schneider Electric entities in our group. Where Schneider Electric engages third parties to perform services on our behalf, we will require them to observe the intent of this Online Privacy Statement. 
+We will not make automated-decisions about you that may significantly affect you, unless:
 
-From time to time, we may be required to provide Personally Identifiable Information in response to a court order, subpoena, or government or criminal investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release certain Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of others and ourselves.
+\- the decision is necessary as part of a contract;
 
-Schneider Electric or its related entities could merge with or be acquired by another business entity or our respective assets could be acquired. Should such a combination or acquisition occur, you should expect that Schneider Electric would share some or all of your Personally Identifiable Information to continue serving you and other users of the Sites. 
+\- we have your explicit consent;
 
-**Your consent**
+\- or we are required by law to use the technology.
 
-By providing us with your personal information and using the Sites, you consent to our processing your personal data and sensitive personal data for the above purposes. You also consent to our transferring your information to countries or jurisdictions which do not provide the same level of data protection as the UK, if necessary for the above purposes. If we do make such a transfer, we will, if appropriate, put a contract in place to ensure that your information is protected. If you provide us with information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data including sensitive personal data and that you have informed them of our identity and the purposes (as set out above) for which their personal data will be processed. 
+In these cases, due notice will be provided.
 
-**Cookies**
+**11.4 How long will personal information be retained?**
 
-A cookie is a piece of information in the form of a very small text file that is placed on an internet user's hard drive. It is generated by a web page server, which is basically the computer that operates a web site. The information the cookie contains is set by the server and it can be used by that server whenever the user visits the site. A cookie can be thought of as an internet user's identification card, which tell a web site when the user has returned.   
-(Source: [www.AboutCookies.org](http://www.aboutcookies.org/))
+We will retain personal information for as long as the information is needed for the purposes set forth in this Privacy Policy and for any additional period that may be required or permitted by law.   
+More precise information is provided in privacy notices applicable to specific digital content. In general data retention periods are determined taking into consideration:
 
-Using cookies enables us to provide you with certain features and provides us with information regarding website visits. We may use cookies also to allow us to make the sites more user friendly. Most browsers automatically accept cookies but you do not have to accept them. You can usually change your browser to prevent acceptance and you should still be able to enjoy most of the features on the sites. 
+\- The duration of our relationship (e.g. contract performance duration, account de-activation, your legitimate need to be recognized when contacted by us)
 
-If you want to delete any cookies that are already on your computer or to stop cookies being accepted in future you should refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. More information is available at [www.AboutCookies.org](http://www.aboutcookies.org/).
+\- Legal requirements for keeping data
 
-**Third party cookies for analytics purpose**
+\- Statute of limitations
 
-In order to provide our visitors with a better service, we measure the number of page views, the number of visits, the different actions performed by visitors on our site, the geo-location of our visitors and the number of times visitors return to our site. For this purpose, we use two web analytics software tools: Analyzer and Google Analytics as well as the marketo Munchkin Cookie. 
+For marketing purposes, we keep relevant customer data for three years after the end of our relationship or since the last interaction with us.
 
-**Analyzer information** (AT Internet - [http://www.atinternet.com](http://www.atinternet.com/))
+**11.5 What are your additional rights?**
 
-As far as AT Internet is concerned “cookies” are used to carry out relevant and detailed statistical research. The “cookie” is used in addition to the JavaScript tag, and thanks to the use of “cookies” it becomes possible to refine the analyses of JavaScript tags, and they also enable AT Internet customers to recognise visitors each time they visit their site. These “cookies” store information relating to only one AT Internet user ID, and under no circumstances is this information used to collect personal data on the visitors.
+In addition to the rights provided in section 10 above, you may ask us to erase, restrict or port your personal information and object to the use of your personal information. When data processing is based on individual consent, you have the right to withdraw your consent at any time by sending a request to the following email address:   
+Global-Data-Privacy@schneider-electric.com   
+For processing necessary to perform the contract, or based on legitimate interest, we may not be able to accommodate the request to stop the processing, or if we do so, it may mean that you can no longer access the services or the digital content.
 
-All of the results which are obtained are then compiled, and are completely anonymous. The results provide information on the navigation and behaviour of Internet users on the websites of AT Internet customers, information such as: the number of visitors, the number of visits, the number of page viewed and other information that is necessary for the effective measurement of Internet user interests. With these results it is then possible to improve the ergonomics and content of such websites.
+**11.6 Where to ask questions and file a claim?**
 
-Please visit [http://www.atinternet.com/en/data_protection_policy/](http://www.atinternet.com/en/company/data-protection/data-collection-on-our-customers-sites/) in order to check your access rights, right to reply and right to remove data. 
+Questions or comments about the Schneider electric privacy practices or this Privacy Policy can be addressed to the Group Data Protection Officer (Group DPO):
 
-**Google Analytics information**
+DPO@schneider-electric.com   
+DPO   
+35 rue Joseph Monier CS3023   
+92506 Rueil-Malmaison - France   
 
-This website uses as well Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States.
 
-In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-anonymisation is active on this website.
+If you believe that Schneider Electric has processed your personal information in violation of applicable law or of this Privacy Policy, you may file a complaint with the Group DPO. You may also contact a supervisory authority. The supervisory authority for Schneider Electric is the CNIL in France; you may contact the supervisory authority in your country.
 
-Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
 
-The IP-address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>
 
-**Marketo Munchkin Cookie**
-
-We use third party marketing software from a company called Marketo to send our emails. We use cookies as part of tracking so we have information on email open rates and click through rates. We also track activity on the website. For example, visitors can download marketing white papers from the site and we use Marketo cookies to see who does this and if they then visit other parts of our website. For more information on Marketo’s privacy and cookie policy, please visit Marketo privacy policy: <http://www.marketo.com/trust/legal/privacy>
-
-How does it work?
-
-  * We embed a Munchkin Javascript snippet on your sites. When visitors come to a site, we place a cookie in the visitor’s web browser (if there wasn’t already one) and send messages to our servers about that visitor’s web activity
-  * This behavior is very functional, very similar to other web tracking scripts such as Google Analytics
-  * Our cookie is a 1st party cookie, and only visible for us.   
-
-
-
-
-What does Munchkin Capture?   
-When on a page, Munchkin automatically gathers the following information:
-
-  * Page Visits
-  * Link Clicks
-  * IP Address
-  * Referrer
-  * Our cookie ID
-
-
-
-If you prefer that we do not place this cookie on your web browser you may opt out by clicking on the “opt-out” button below.
-
-We also include web beacons (also known as clear gifs or web bugs) on our Sites and in our emails to track the success of our marketing campaigns. This means that if you look at our Sites or open an email from us we can see which pages of the Sites you visit. Our web beacons do not store additional information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened our email. If you object to web beacons, we recommend you follow the instructions for deleting existing cookies and disabling future cookies above. We will still know how many of our emails are opened and we will automatically receive your IP address, a unique identifier of your computer or other access device; but we will not identify you as an individual.
-
-By using our website, you agree that we can place these types of cookies on your device.
-
-**Security**
-
-We offer the use of a secure server to enable you to place orders or access your account information. This encrypts your information before it is sent to us. We also take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used. However we cannot guarantee the security of any data you provide to us and you accept the inherent risks of on-line correspondence and purchases over the internet. Any purchases made by you via the Sites are subject to the terms and conditions contained on the Sites.
-
-**Disclaimer**
-
-In the future we may link to a wide variety of other sites and we may, from time to time, display advertisements from third parties on our site. We are not responsible for the content or privacy policies of these sites and third party advertisers, nor for the way in which information about their users is treated. In particular, unless expressly stated, we are not agents for these sites or advertisers nor are we authorised to make representations on their behalf.
-
-**Other information**
-
-You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. For quality control and training purposes, we may monitor or record your communications with us.
-
-**When and how to contact us**
-
-If your personal details change, if you change your mind about any of your marketing preferences or if you have any queries about how we use your information, please let us know by contacting our Mailing Exclusion Team at Schneider Electric Ltd. , Stafford Park 5, Telford, TF3 3BL. You can also request to be removed from our mailing list by following the link in our emails. If you have registered more than one email address with us, do this for email addresses you wish to be removed from our mailing list.
-
-This privacy policy may change and therefore you should review it regularly. We will of course notify you of any changes where we are required to do so.
