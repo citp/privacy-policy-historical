@@ -1,55 +1,115 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014044226id_/https%3A//www.inin.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225172608id_/https%3A//www.genesys.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Interactive Intelligence
+# Privacy policy | Genesys
 
-_Date last revised: 9/1/2016_
+## Get the most powerful and secure online experience
 
-**Interactive Intelligence Group, Inc. Privacy Notice**
+At Genesys, we are committed to protecting your privacy and providing you with the most powerful and secure online experience. You can travel through most of this web site (this “Site”) without giving us any information about yourself. But sometimes we do collect information to provide services and/or information that you request, and this statement of privacy (this “Privacy Policy”) explains data collection and use practices of Genesys in those situations. Please read this Privacy Policy. This Privacy Policy applies to your use of this website and all of its features and web pages (collectively, the “Site”). Please read this Privacy Policy carefully.
 
-Interactive Intelligence Group, Inc. (“Interactive Intelligence”) has developed a comprehensive privacy program designed to respect and protect your data privacy rights. This Privacy Notice explains what personally identifiable information we collect through our Internet websites located at [http://inin.com](http://inin.com/) and [http://debtsoftware.com ](http://www.debtsoftware.com/ "Latitude Software")and all subdomains thereof (the “Sites”) and how we use that information.
+### Acceptance
 
-**Personally Identifiable Information We Collect and How We Use It**
+Genesys Telecommunications Laboratories, Inc. and its subsidiaries and affiliates (“Genesys”, “we”, “us”, “our”) provide this Site subject to this Privacy Notice. By accessing and using the Site, you accept and agree to this Privacy Notice. If you do not agree to this Privacy Notice, please do not use the Site.
 
-In general, you can visit our Sites without telling us who you are or revealing any personally identifiable information about yourself. In fact, we encourage anonymous surfing so that you can find out more about who we are and how our products can help streamline business communications and other processes. However, there are times when we may need and request personally identifiable information from you so that we can better serve you.
+### Privacy Shield Framework and Your Rights Under GDPR
 
-Interactive Intelligence will only collect personally identifiable information (such as your name, mailing address, telephone number, or email address, employer name, employer address or products and operating systems you use) when it is voluntarily submitted to us at the Sites. We will use this information to comply with your request for information or as otherwise disclosed to you at the location on the Sites at which you submit your information. For example, if you request technical support assistance, we need to know who you are, what product you are using and in what computer system environment you are using the product in order to respond to your request as efficiently and effectively as possible. If you are interested in signing up for one of our Webinars, the personally identifiable information you provide to us will enable us to tailor the Webinar more closely to your specific needs. Also, when you request a product download from the Sites, we want to be able to follow up with you to address any questions you might have about using our products. In addition, from time to time, we may refer to your personally identifiable information to better understand your needs and how we can improve our products and services. We may use that information to contact you.
+If you are located in the European Economic Area (“EEA”) or Switzerland, GDPR rights may be available to you. Genesys and its controlled United States subsidiaries have certified to the EU-U.S. Privacy Shield and U.S.-Swiss Privacy Shield Frameworks for the transfer of Personal Information from the EEA or Switzerland to the United States, as described in our [Privacy Shield Privacy and GDPR Notice](https://web.archive.org/company/legal/privacy-policy/privacy-shield-privacy-notice). To learn more about the EU-U.S. or U.S.-Swiss Privacy Shield Framework and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
-We provide links to third party Internet sites strictly as a service to you. Your personally identifiable information is not shared with these third parties. However, Interactive Intelligence is not responsible for the privacy practices of third party Internet sites. If you leave the Sites you should be sure to read the privacy notice of each Internet site that you visit.
+### Information We Collect about You
 
-The Sites use information in aggregate form to track the total number of visitors to our, the number of visitors to each page of our Sites, and the domain names of our visitors' Internet service providers. No personally identifiable information is revealed to us in this process.
+Genesys is committed to protecting your privacy. So you should be aware that we may collect information about you through your use of our Site. Some of the information we collect may personally identify you. For example:
 
-The Sites are not intended or designed to attract children under the age of 13. Interactive Intelligence does not collect personally identifiable data from any person it knows to be under the age of 13.
+  * You may provide registration information, such as your username, first and last name, mailing address, email address, language preference, country, and occupation, when using the Site to purchase or register a product, download software, participate in an online community or event, or subscribe to a newsletter. When registering a product, we may store your registration information along with any information you have provided during previous visits as part of your personal profile.
+  * You may provide information in our online communities, such as posts or comments. This may occur when you invite others to join an online community or when you share a post or blog. For example, you may provide names and email addresses when sharing a post.
+  * You may provide transaction information when using the Site (e.g., purchasing or registering a product or requesting information), including your name, billing address, and payment information.
+  * Location, IP address, domain, browser, viewing data, and other information may be collected as a part of our analysis of your use of our Site.
+  * You may provide your resume (work history, contact information, education history, etc.) for consideration for employment.
 
-Some pages within the Sites may use a technology called "cookies". A cookie is a token that a server gives to your browser when you access an Internet website. Cookies are capable of storing many types of data. Cookies help provide additional functionality to the Sites or to help us analyze site usage more accurately. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission. However, information gathered from use of cookies may be combined with other data sources to identify you.
 
-**Disclosure of Personally Identifiable Information to Third Parties**
 
-We will not sell or otherwise transfer the personally identifiable information you provide via the Sites to any third party unless (1) otherwise disclosed to you when you submit your information; (2) in connection with the sale of all or substantially all of the assets of a business division of Interactive Intelligence, a line of Interactive Intelligence’s business or Interactive Intelligence’s entire business or merger with another company; (3) to provide needed information to our agents, resellers, partners and contractors who may provide products and/or services to you; (4) as necessary for processing your credit card transactions or support transactions; or (5) for compliance with possible legal or governmental disclosure requirements. We do not rent, sell or otherwise share information that we gather about our website visitors with outside parties. The bottom line is that all the personally identifiable information that you provide to us via the Sites will remain with Interactive Intelligence and/or its agents, resellers, contractors and alliance partners.
+### By using the Site, you consent to our collection of your information.
 
-**Protecting Personally Identifiable Information**  
- 
+### Use of Your Information
 
-Interactive Intelligence is committed to protecting the personally identifiable information entrusted to us. We have implemented reasonable and appropriate physical, electronic and administrative procedures to safeguard and secure this information from loss, misuse, unauthorized access or disclosure, alteration and destruction. Unfortunately, no data transmitted over or accessible through the Internet can be guaranteed to be 100% secure. As a result, while Interactive Intelligence attempts to protect all personally identifiable information, we cannot ensure or warrant that personally identifiable information will be completely secure from misappropriation by hackers or from other nefarious or criminal activities, or in the event of a failure of computer hardware, software, or a telecommunications network. We will notify you in the event we become aware of a security breach involving your personally identifiable information (as defined by the applicable state and federal laws) stored by or for us. By disclosing your email address to us for any reason, you expressly consent to receive electronic notice from us in the event of such a security breach.
+We may use your information for the following purposes:
 
-**Your California Privacy Rights   **
+  * To proceed with your registration and to make the Site easier for you to use by not requiring you to enter your information more than once;
+  * To deliver services or products that you request, purchase, or download;
+  * To help you quickly find products, services, or information;
+  * To notify you of product upgrades, special offers, updated information, and new services via email, phone, chat or other means;
+  * To respond to inquiries or to communicate with you, such as through welcome messages, newsletters, or direct marketing;
+  * To facilitate participation in our online communities;
+  * To perform market research or to conduct surveys unless you have requested that we not contact you for this purpose;
+  * To personalize the user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested;
+  * To send periodic emails, calls, or chats regarding your order or other products and services
+  * To enhance our marketing and to improve our Site, services, and products;
+  * To consider you for employment, if you have provided information for such purpose; or
+  * To comply with legal requirements and to prevent activities that may violate our policies.
 
-California law provides that California residents have a right to request businesses to tell them how their personal information has been shared with third parties, if at all, for the third parties’ direct marketing purposes.  To make such a request, please contact our Data Protection Officer at [DPO@inin.com](mailto:DPO@inin.com).
 
-**Do Not Track Signals   **
 
-Certain web browsers and other devices you may use to access the website may permit you to indicate your preference that you do not wish to be “tracked” online.  At this time, the website does not respond to "Do Not Track" signals.
+### By using the Site, you consent to our use of your information for these purposes.
 
-**Changes to this Privacy Notice**
+### Sharing of Your Information
 
-  
-It is our policy to post any changes we make to our Privacy Notice on the Sites. If we make material changes to how we treat the personally identifiable information that falls within the scope of our Privacy Notice, we will notify you by email to the email address specified in your account or through a notice on the Site home page.
+We will not disclose your personal information outside of Genesys except in limited circumstances, such as:
 
-The date the Privacy Notice was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date, active and deliverable email address for you, and for periodically visiting the Site and this Privacy Notice to check for any changes.
+  * We may share your personal information with other Genesys companies and our business partners when necessary in order to support the uses mentioned above.
+  * We may hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases or postal mail, answering customer questions about products or services, and processing event registration. We will provide those companies with only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+  * We may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary (i) to conform to the edicts of the law or comply with legal process served on us, (ii) to protect and defend the rights or property of Genesys, or (iii) to act in exigent circumstances to protect the personal safety of our users or the public.
+  * In the event that Genesys, or any portion thereof, is sold, transferred, merged, financed, or dissolved, in whole or in part, your personal information that we may possess may be sold, transferred, or otherwise disclosed as part of the transaction or proceeding, unless you instruct us not to do so.
+  * We may use a third-party service to host our online communities or to provide website analytics. We may also hire third parties to collect data or may purchase data from third parties, including renting email address lists for use in email campaigns. We will provide the same security and management options as set forth herein for data collected from our Site, phone system, chat, social media, support portal, or other system. However, you may encounter links to third-party sites (e.g., business partners) and, although a connection may be made to such sites, we are not responsible for their privacy policies and this Privacy Notice does not cover their practices.
 
-**Transfer of Personal Data from EEA and Switzerland**
 
-Interactive Intelligence provides products and services to customers all around the world. On behalf of these customers, we process personal data transferred to us from the European Economic Area and Switzerland. Interactive Intelligence is registered for U.S. Privacy Shield and the U.S./Swiss Safe Harbor program to facilitate the transfer of this personal data from each applicable jurisdiction. To learn more about Interactive Intelligence’s practices surrounding personal data from the EEA and Switzerland, visit our EEA and Swiss Privacy Statement available [here.](https://web.archive.org/web/20161014044226id_/https%3A//www.inin.com/content/privacy-policy-eea-and-switzerland)
 
-**Contacting Us**
+### Control of Your Information
 
-Interactive Intelligence can be contacted at [info@inin.com](mailto:info@inin.com) or 317.872.3000.  You may contact our Data Protection Officer at [DPO@inin.com](mailto:DPO@inin.com). We encourage you to contact our DPO to inform us of any complaints or disputes you may have regarding this Privacy Statement. 
+When you provide personal information to us, we will not share that information with third parties without your permission, other than in circumstances referred to above. We may send out important notices informing you of changes to our policies, technical service issues related to a product or service, or other information that is essential to the use of our Site, services, and products.
+
+### Access to Your Information
+
+We make good faith efforts to provide you with access so you can edit or update your personal information. You may have the ability to view or edit some of your personal information online. Profiles created on our sites may be kept at different locations for different services; so you may have to review and update the information in multiple locations. You may review and update this information or request deletions of any and all of your personal information at any time by contacting [dataprivacy@genesys.com](mailto:dataprivacy@genesys.com).
+
+ **Note to California Residents:**  California Civil Code Section 1798.83 allows California residents to request information regarding disclosure of personal information to third parties for the third parties’ direct marketing purposes. To make a request, please contact [dataprivacy@genesys.com](mailto:dataprivacy@genesys.com).
+
+### Security of Your Information
+
+We are committed to protecting the security of your personal information and we honor your choices for its intended use. We have implemented the appropriate safeguards to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. For example, your personal information is stored in password-controlled servers with limited access. We make good faith efforts to provide the security measures necessary to keep the integrity and confidentiality of your information safe. However, no system can be completely secure and we do not guarantee that our security measures are impenetrable.
+
+You also have a significant role in protecting your information. As an example, you should not share your password with anyone. If you believe that your password has been compromised, you should immediately change your password.
+
+### Cookies and Other Mechanisms
+
+A cookie is placed on your machine (if you accept cookies) or is read if you have visited our Site previously. All of this is done in accordance with applicable laws. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer, Google Chrome) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+Web beacons, also known as clear gif technology, or action tags, assist in delivering the cookie. This technology tells us how many visitors clicked on key elements (such as links or graphics) While using the Site, we do not use this technology to access your personally identifiable information on the Site; it is a tool we use to compile aggregated statistics about Site usage. We may share aggregated Site statistics with our business partners but do not allow other companies to place clear gifs on the Site.
+
+To ensure we are creating and publishing relevant content, we may use information collected from cookies and other mechanisms. We may use this information in aggregated form and use site-visitation statistics to improve our sites. If you choose to not have your browser accept cookies from our Site, you will be able to view the text on the screens, however, you will not experience a personalized visit or to subscribe to the service offerings on our Site.
+
+This website uses the Google AdWords remarketing service to advertise on third-party websites (including Google) to previous visitors on our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site – for example, using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Genesys website. Of course, any data collected will be used in accordance with our own Privacy Notice and Google’s Privacy Notice.
+
+### Transfer of Your Information Across Borders
+
+Your information may be stored and processed in the United States or any other country in which Genesys or its vendors maintain facilities.  **By using our Site, you consent to any transfer, storage, or processing of information outside of your country**. Several countries, including those in the European Economic Area, have established data protection laws and regulations that place restrictions on the transfer of personal information across country borders. We are committed to complying with all of those laws and regulations. However, when you use our Site and provide such personal information, you should do so in compliance with the applicable data protection laws and regulations in your country.
+
+### Children’s Information
+
+The Site is not intended for use by individuals under the age of 13. We do not knowingly collect personal data from nor send requests for personal data to individuals under the age of 13.
+
+### Modifications to the Privacy Policy
+
+Genesys may update and make changes to the Privacy Notice at any time. When we do so, we will also revise the date at the bottom of the first page of the Privacy Notice. When we make material changes to the Privacy Notice, we will notify you by placing prominent notice on the Site.
+
+### Contact information
+
+If you have any questions about the Privacy Notice, please contact us at [dataprivacy@genesys.com](mailto:dataprivacy@genesys.com).
+
+Last updated: July 25, 2017
+
+### Corporate Headquarters
+
+ **Genesys**  
+2001 Junipero Serra Blvd.  
+Daly City, CA 94014  
+**US:  **888-GENESYS (436-3797)  
+**International:**  +1 650 466-1100  
+**Fax:**  +1 650 466-1260
