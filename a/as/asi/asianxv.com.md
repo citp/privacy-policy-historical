@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianxv.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620051210id_/http%3A//www.asianxv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianxv.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225081251id_/http%3A//www.asianxv.com/privacy-policy) for the most accurate reproduction.*
 
 # Asian Porn Videos & HD Sex videos - AsianXV
 
@@ -70,7 +70,7 @@ Where we no longer need to process your Personal Data for the purposes set out i
 
 Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found under “Your Rights Related to Your Personal Information”.
 
-If you have questions about our data retention practices, please send us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have questions about our data retention practices, please send us an e-mail at contactasianxv@gmail.com.
 
 The period for which we keep your Personal Information that is necessary for compliance and legal enforcement purposes varies and depend on the nature of our legal obligations and claims in the individual case.
 
@@ -86,7 +86,7 @@ If we change anything in our privacy policy, the date of change will be reflecte
 
 Enforcement; Cooperation
 
-We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us.
+We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at contactasianxv@gmail.com. When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us.
 
 No Rights of Third Parties
 
@@ -98,6 +98,6 @@ We do not guarantee error-free performance under this privacy policy. We will us
 
 Contact Information
 
-If you have any questions about this privacy policy or our information-handling practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this privacy policy or our information-handling practices, please contact us at contactasianxv@gmail.com.
 
 GDPR (General Data Protecton Regulation) In accordance with the General Data Protecton Regulation law in the European Union effective May 25, 2018, Our users can request a copy of their personal data and delete their personal data if necessary.
