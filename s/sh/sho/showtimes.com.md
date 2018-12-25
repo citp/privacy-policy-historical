@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211181657id_/https%3A//www.showtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225045045id_/https%3A//www.showtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | showtimes.com
 
