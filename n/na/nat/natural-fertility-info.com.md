@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natural-fertility-info.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034702id_/http%3A//natural-fertility-info.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-fertility-info.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225101424id_/http%3A//natural-fertility-info.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,3 +30,5 @@ Aurora, CO 80012
 This document was last updated April 1st, 2016.
 
 If you feel this site is not following its stated information policy, you may contact us via phone, e-mail or mail.
+
+Hethir Rodriguez is the Founder and President of Natural Fertility Info.com. She has been a Certified Herbalist for over 19 years, holds a Bachelors degree (BS) in Nutrition Sciences and is a Certified Birth Doula.  Since founding Natural Fertility Info.com in 2007, Hethir has written and co-authored over 1200+ articles on Fertility; and her research, articles, and guides have been read by over 40,000,000 people.  Hethir has dedicated her life to helping provide a source for high quality, research based information and support for those on their journey to becoming parents.
