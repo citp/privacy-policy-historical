@@ -1,7 +1,18 @@
-<!--The following is the downloaded HTML source of the gbatemp.net privacy policy that was archived on 2018-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180515200405id_/https%3A//gbatemp.net/dynamic/gbatemp-net-privacy-policy.78) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gbatemp.net privacy policy that was archived on 2018-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225151609id_/https%3A//gbatemp.net/dynamic/gbatemp-net-privacy-policy.78) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut Sidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+
+
+
+<!-- PLACE AFTER OPENING HEAD TAG: Header Bidding Script -->
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">	
+var tyche = { mode: 'tyche', config: '//config.playwire.com/1022816/v2/websites/70668/banner.json' }
+</script>
+<script id="tyche" src="//cdn.intergi.com/hera/tyche.js" type="text/javascript"></script>
+
+
+
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
@@ -10,7 +21,7 @@
 	
 	
 		<base href="https://gbatemp.net/">
-		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://a.pub.network/gbatemp-net/pubfig.min.js"></script><script>
+		<script>
 			var _b = document.getElementsByTagName('base')[0], _bH = "https://gbatemp.net/";
 			if (_b && _b.href != _bH) _b.href = _bH;
 		</script>
@@ -19,8 +30,8 @@
 	<title>GBAtemp.net Privacy Policy | GBAtemp.net - The Independent Video Game Community</title>
 	
 	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=gbatemp_fonts,xenforo,form,public&amp;style=4&amp;dir=LTR&amp;d=1526408053">
-	<link rel="stylesheet" href="css.php?css=facebook,gbatemp_dynamic,login_bar,sidebar_share_page,twitter,xfa_blogs_nav&amp;style=4&amp;dir=LTR&amp;d=1526408053">
+	<link rel="stylesheet" href="css.php?css=gbatemp_fonts,xenforo,form,public&amp;style=4&amp;dir=LTR&amp;d=1545716707">
+	<link rel="stylesheet" href="css.php?css=bbcode_tabs,facebook,gbatemp_dynamic,login_bar,sidebar_share_page,twitter,xfa_blogs_nav&amp;style=4&amp;dir=LTR&amp;d=1545716707">
 	
 	
 
@@ -31,22 +42,89 @@
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
 	
-		gtag('config', 'UA-2061983-1');
+		gtag('config', 'UA-2061983-1', {
+			// <!-- slot: ga_config_start -->
+			
+			
+		});
 	</script>
 
 	<script>
-    var PRINTAD = function() {
-            var o = ["http://www.nds-card.com/ProShow.asp?ProID=135", "http://www.nds-card.com/ProShow.asp?ProID=504", "http://www.nds-card.com/ProShow.asp?ProID=149", "http://www.nds-card.com/ProShow.asp?ProID=271", "http://www.nds-card.com/ProShow.asp?ProID=501", "http://www.nds-card.com/ProShow.asp?ProID=145", "http://www.nds-card.com/ProShow.asp?ProID=143", "http://www.nds-card.com"],
-                r = ["Buy Supercard DSTWO", "Buy EZ-Flash IV", "Buy R4i Gold 3DS RTS", "Buy R4i Save Dongle", "Buy Gateway 3DS", "Buy R4i SDHC 1.4.5", "Buy R4 SDHC", "Help GBAtemp and buy from NDS-Card.com our #1 sponsor!"],
-                t = Math.floor(8 * Math.random()),
-                a = o[t],
-                e = r[t];
-            document.write($(window).width() < 1024 ? "<div style='text-align: center;'><a href='http://www.nds-card.com' target=_blank title='Help GBAtemp by supporting our sponsor: make your purchases on NDS-Card.com, Our main site Sponsor!'><img src='//gbatemp.net/up/152102/pandandscard.png' alt='NDS-Card.com' /></a><br /><a target='_blank' title='" + e + "' href='http://www.nds-card.com'><strong>NDS-Card.com - GBAtemp's #1 Sponsor</strong></a></div>" : "<div style='text-align: center;'><a href='" + a + "' target=_blank title='Help GBAtemp by supporting our sponsor: make your purchases on NDS-Card.com, Our main site Sponsor!'><img src='/images/nds" + t + ".png' alt='NDS-Card.com' width='728' height='90' /></a><br /><a target='_blank' title='" + e + "' href='" + a + "'><strong>" + e + "</strong></a></div>")
-        },
-        toggleSpoiler = function(o) {
-            var r = o.parentNode.nextSibling;
-            "none" == r.style.display ? (r.style.display = "", o.value = "Hide") : (r.style.display = "none", o.value = "Show"), o.blur()
-        };
+   var loc = document.location+"";
+   if (loc.indexOf('kem-inc.com') > -1 || loc.indexOf('web1lv.com') > -1 || loc.indexOf('kem-inc.org') > -1 || loc.indexOf('dundeerootcanals.com') > -1 || loc.indexOf('taraftartekstil.com') > -1) {
+      document.location = "https://wrong.host.badssl.com/";
+	  $(function() {
+		  $("div").remove();
+	  });
+   }
+   
+   var IS_PATRON = false;
+   var SHOW_VIDEOS = true;
+   
+   
+   
+   
+
+   // This function is called from various location and will display ad tags
+   // what: either "video", or "lb" for leaderboard, or "rect" the med-rect
+   // where: "top" or "bottom" (atf/btf)
+   // css: add extra css
+   // pageInfo is just for info / filteringpurposes
+   function PRINTADS(what,where,css,pageInfo) {
+	   if (IS_PATRON) return;
+	   var MOBILE = $(window).width() < 1024;
+	   if (MOBILE) return;
+	   
+	   // Display Videos instead
+	   if (what == "rect" && where == "top" && SHOW_VIDEOS) {
+	     var OUTPUT = '<sc'+'ript data-config="//config.playwire.com/1022823/playlists/v2/4668/zeus.json" src="//cdn.playwire.com/bolt/js/zeus/embed.js"></scr'+'ipt>';
+		 document.write(OUTPUT);
+		 return;
+	   }
+	   
+	   // Prepare style tag
+	   var STYLE = css ? "style=\""+css+"\"" : "";
+	   
+	   // Do we want the video frame?
+	   if (what == "video") {
+		   if (!SHOW_VIDEOS) return;
+		   var OUTPUT = '<div '+STYLE+'><scr'+'ipt defer data-config="//config.playwire.com/1022823/playlists/v2/4668/zeus.json" src="//cdn.playwire.com/bolt/js/zeus/embed.js"></scr'+'ipt></div>';
+		   document.write(OUTPUT);
+		   return;
+	   }
+	   
+	   // Standard
+	   var POSITION = where == "bottom" ? "btf" : "atf";
+	   var TYPE = what == "lb" ? "leaderboard" : "med_rect";
+	   var OUTPUT = "<center><div "+STYLE+" data-pw-desk=\""+TYPE+"_"+POSITION+"\"></div></center>";
+	   document.write(OUTPUT);
+   }
+   
+   // Same - for mobile only
+   function PRINTADSMOB(what,where,css,pageInfo) {
+	   if (IS_PATRON) return;
+	   var MOBILE = $(window).width() < 1024;
+	   if (!MOBILE) return;
+	   
+	   // Prepare style tag
+	   var STYLE = css ? "style=\""+css+"\"" : "";
+	   
+	   // Do we want the video frame?
+	   if (what == "video") {
+		   if (!SHOW_VIDEOS) return;
+		   var OUTPUT = '<div '+STYLE+'><scr'+'ipt defer data-config="//config.playwire.com/1022823/playlists/v2/4668/zeus.json" src="//cdn.playwire.com/bolt/js/zeus/embed.js"></scr'+'ipt></div>';
+		   document.write(OUTPUT);
+		   return;
+	   }
+	   
+	   // Standard
+	   var POSITION = where == "bottom" ? "btf" : "atf";
+	   var TYPE = what == "lb" ? "leaderboard" : "med_rect";
+	   var OUTPUT = "<center><div "+STYLE+" data-pw-mobi=\""+TYPE+"_"+POSITION+"\"></div></center>";
+	   document.write(OUTPUT);
+   }
+   
+   
 </script>
 
 <style>
@@ -54,35 +132,24 @@
 </style>
 
 
-
-<script data-cfasync="false" type="text/javascript">
-  var freestar = freestar || {};
-  freestar.hitTime = Date.now();
-  freestar.queue = freestar.queue || [];
-  freestar.config = freestar.config || {};
-  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
-
-  // Tag IDs set here, must match Tags served in the Body for proper setup
-  freestar.config.enabled_slots = [
-    "gbatemp_728x90_320x50_300x100_ATF",
-    "gbatemp_728x90_970x90_970x250_320x50_300x250_300x100_BTF",
-    "gbatemp_160x600_320x50_300x100_300x250_Sidebar",
-    "gbatemp_300x250_300x600_160x600_320x50_300x100_Sidebar",
-    "gbatemp_Mobile_Interstitial",
-    "gbatemp_300x250_300x100_320x50_Mobile"
-  ];
-
-  !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/gbatemp-net";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document);
+<script>
+var toggleSpoiler = function(s) {
+	var c = s.parentNode.nextSibling;
+	if( c.style.display == 'none' ) {
+		c.style.display = '';
+		s.value = 'Hide';
+	} else {
+		c.style.display = 'none';
+		s.value = 'Show';
+	}
+	s.blur();
+};
 </script>
-
-
-	
-
 
 
 <script src="js/jquery/jquery-1.11.0.min.js"></script>	
 	
-<script src="js/xenforo/xenforo.js?_v=ea8e97ca"></script>
+<script src="js/xenforo/xenforo.js?_v=c0904570"></script>
 
 <script>
 try {
@@ -103,6 +170,14 @@ $(document).ready(function(){
 });
 } catch(e) {}
 </script>
+
+<style>
+#pw-oop-left_rail, #pw-oop-bottom_rail {
+  display: none !important;
+}
+</style>
+
+
 	
 	<link rel="manifest" href="manifest.json">
 	
@@ -121,13 +196,6 @@ top:auto;
                 
     <link rel="manifest" href="os_manifest">
 
-
-<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
-<script type="text/javascript">
-    window.cookieconsent_options = {"message":"This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies.","dismiss":"Dismiss","learnMore":"Why?","link":"https://gbatemp.net/dynamic/gbatemp-net-privacy-policy.78/","theme":"dark-bottom"};
-</script>
-<script async="" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
-<!-- End Cookie Consent plugin -->
 
 <!-- Begin svg4everybody plugin -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/svg4everybody/2.1.8/svg4everybody.js"></script>
@@ -163,6 +231,8 @@ top:auto;
 </head>
 
 <body>
+
+<a name="top" href="#" style="line-height: 0; font-size: 0; color: transparent; "></a>
 
 
 
@@ -318,14 +388,16 @@ top:auto;
 			
 				<div class="mainContainer">
 					<div class="mainContent">
-					
+						
 						<!--[if lt IE 8]>
 							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
 						<![endif]-->
 
 						
 						
+	
 
+	
 						
 						
 						
@@ -352,13 +424,22 @@ top:auto;
 
 
 
+<script>
+PRINTADSMOB("lb","top","","gbatemp_dynamic_view");
+</script>
+
 <div class="section sectionMain">
 	<h1 class="dynamicTitle">
 		
 		GBAtemp.net Privacy Policy </h1>	
-	<div class="dynamicMain"><b>GBAtemp.net Privacy Policy information</b><br><br>
-<div style="background: red; color: white; border: 2px solid #CC0000; margin-bottom: 10px; padding: 5px;">Since 2015 European Union laws require all websites that use browser cookies to notify visitors and ask for consent. If you are against browser cookies, we're afraid you won't be able to browse our website.</div>
-<br>
+	<div class="dynamicMain"><style>
+    #pp ol { counter-reset: item; }
+    #pp li { display: block; padding: 0.3em 0; }
+    #pp li ol { margin-left: 3em; }
+    #pp li span { display: block; margin-left: 3em; }
+    #pp li:before { content: counters(item, ".") " "; counter-increment: item; margin-right: 0.5em; }
+</style>
+<div style="background: red; color: white; border: 2px solid #CC0000; margin-bottom: 10px; padding: 5px;">Since 2015 European Union laws require all websites that use browser cookies to notify visitors and ask for consent. If you are against browser cookies, you will be unable to use our website.</div>
 <b>GBAtemp may collect and save the following information:</b>
 <ul><li>• Your device's IP Address.</li>
 <li>• One or more unique visitor/session id numbers tracked via cookies and/or web beacons.</li>
@@ -374,17 +455,179 @@ top:auto;
 <li>• You DO NOT have to take any action or instruct us to keep your information confidential. We will protect your privacy automatically.</li>
 <li>• We are committed to helping you protect your privacy.</li></ul><br>
 <b>Privacy Policy information regarding advertisements that are displayed to unregistered visitors:</b>
-<blockquote>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/" target="_blank">click here.</a></blockquote>
+<blockquote>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="&lt;a href='http://www.networkadvertising.org/'&gt;http://www.networkadvertising.org/&lt;/a&gt;" target="_blank">click here.</a></blockquote>
 <ul style="list-style-type: disc;"><li>• Google, as a third-party vendor, uses cookies to serve ads on your site.
 </li><li>• Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-</li><li>• Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.co.uk/privacy_ads.html">Google ad and content network privacy policy</a>.
+</li><li>• Users may opt out of the use of the DART cookie by visiting the <a href="&lt;a href='http://www.google.co.uk/privacy_ads.html'&gt;http://www.google.co.uk/privacy_ads.html&lt;/a&gt;">Google ad and content network privacy policy</a>.
 </li></ul>
-
-Mmm, delicious cookies.</div>
+<br>
+<b><u>GBAtemp.net Privacy Policy</u></b><br><br>
+<div id="pp">
+    <ol>
+        <li><b>Introduction</b>
+            <ol>
+                <li>We are committed to safeguarding the privacy of our website visitors and service users.</li>
+                <li>This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.</li>
+                <li>We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.</li>
+                <li>In this policy, "we", "us" and "our" refer to (GBAtemp). For more information about us, see Section 13.</li>
+            </ol>
+        </li>
+        <li><b>Credit</b>
+            <ol>
+                <li>This document was created using a template from Docular (<a href="https://docular.net">https://docular.net</a>).</li>
+            </ol>
+        </li>
+        <li><b>How we use your personal data</b>
+            <ol>
+                <li>In this Section 3 we have set out:
+                    <span>
+                         (a) the general categories of personal data that we may process;<br>
+                         (b) in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;<br>
+                         (c) the purposes for which we may process personal data; and<br>
+                         (d) the legal bases of the processing.
+                    </span>
+                </li>
+                <li>We may process data about your use of our website and services ("usage data"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consent or our legitimate interests, namely monitoring and improving our website and services.</li>
+                <li>We may process your account data ("account data"). The account data may include your name and email address. The source of the account data is the data associated with your GBAtemp user account but only with your explicit permission. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</li>
+                <li>We may process your information included in your personal profile on our website ("profile data"). The profile data may include but is not limited to your username and any other associated names; e-mail address; location and your other account data you have provided us with. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</li>
+                <li>We may process your personal data that is provided in the course of the use of our services ("service data"). The service data may include the timing, frequency and pattern of service use. The source of the service data is you. The service data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</li>
+                <li>We may process information that you post for publication on our website or through our services ("publication data"). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</li>
+                <li>We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters ("notification data"). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.</li>
+                <li>We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.</li>
+                <li>In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.</li>
+                <li>Please do not supply any other person's personal data to us, unless we prompt you to do so.</li>
+            </ol>
+        </li>
+        <li><b>Providing your personal data to others</b>
+            <ol>
+                <li>We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.</li>
+                <li>We may disclose email addresses to our suppliers or subcontractors insofar as reasonably necessary for sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter).</li>
+                <li>In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.</li>
+            </ol>
+        </li>
+        <li><b>International transfers of your personal data</b>
+            <ol>
+                <li>In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).</li>
+                <li>The hosting facilities for our website are situated in Europe. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield Framework.</li>
+                <li>Mailing databases are situated in Europe. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely  EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.</li>
+                <li>You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.</li>
+            </ol>
+        </li>
+        <li><b>Retaining and deleting personal data</b>
+            <ol>
+                <li>This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.</li>
+                <li>Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.</li>
+                <li>We will retain and delete your personal data as follows:
+                    <span>
+                        (a) Profile data containing personal data will be retained for retained for the duration of your registration.<br>
+                        (b) Cookie data will be retained for no longer than 30 days.
+                    </span>
+                </li>
+                <li>Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.</li>
+            </ol>
+        </li>
+        <li><b>Amendments</b>
+            <ol>
+                <li>We may update this policy from time to time by publishing a new version on our website.</li>
+                <li>You should check this page occasionally to ensure you are happy with any changes to this policy.</li>
+                <li>We may notify you of changes to this policy by email or through the private messaging system on our website.</li>
+            </ol>
+        </li>
+        <li><b>Your rights</b>
+            <ol>
+                <li>In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.</li>
+                <li>Your principal rights under data protection law are:
+                    <span>
+                        (a)	the right to access;<br>
+                        (b)	the right to rectification;<br>
+                        (c)	the right to erasure;<br>
+                        (d)	the right to restrict processing;<br>
+                        (e)	the right to object to processing;<br>
+                        (f)	the right to data portability;<br>
+                        (g)	the right to complain to a supervisory authority; and<br>
+                        (h)	the right to withdraw consent
+                    </span>
+                </li>
+                <li>You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. Provision of such information will be subject to:
+                    <span>
+                        (a)	the first copy will be provided free of charge, but additional copies will be subjected to a GBP 10 administration fee; and<br>
+                        (b)	the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+                    </span>
+                </li>
+                <li>You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.</li>
+                <li>In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.</li>
+                <li>In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.</li>
+                <li>You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims</li>
+                <li>You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.</li>
+                <li>If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.</li>
+                <li>To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.</li>
+                <li>You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.</li>
+            </ol>
+        </li>
+        <li><b>About cookies</b>
+            <ol>
+                <li>A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.</li>
+                <li>Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.</li>
+                <li>Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.</li>
+            </ol>
+        </li>
+        <li><b>Cookies that we use</b>
+            <ol>
+                <li>We use cookies for the following purposes:
+                    <span>
+                        (a)	authentication - we use cookies to identify you when you visit our website and as you navigate our website;<br>
+                        (b)	status - we use cookies to help us to determine if you are logged into our website;<br>
+                        (c)	security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally; <br>
+                        (d)	advertising - we use cookies to help us to display advertisements that will be relevant to you (cookies used for this purpose are: Google AdSense, Google AdExchange, Avocet, PulsePoint, Teads, Skimlinks, Monetizer 101);<br>
+                        (e)	analysis - we use cookies to help us to analyse the use and performance of our website and services (cookies used for this purpose are: Google Analytics, ComScore, Google Tag Manager, Crazy Egg, Facebook Audience, Google Analytics Audience); <br>
+                        (f)	cookie consent - we use cookies to store your preferences in relation to the use of cookies more generally. 
+                    </span>
+                </li>
+            </ol>
+        </li>
+        <li><b>Cookies used by our service providers</b>
+            <ol>
+                <li>Our service providers use cookies and those cookies may be stored on your computer when you visit our website.</li>
+                <li>We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: <a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>. Comscore’s privacy policy is available at <a href="https://www.comscore.com/About-comScore/Privacy-Policy">https://www.comscore.com/About-comScore/Privacy-Policy</a>.</li>
+                <li>We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. You can view, delete or add interest categories associated with your browser by visiting: <a href="https://adssettings.google.com">https://adssettings.google.com</a>. You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: <a href="http://optout.networkadvertising.org">http://optout.networkadvertising.org</a>. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: <a href="https://support.google.com/ads/answer/7395996">https://support.google.com/ads/answer/7395996</a>.</li>
+                <li>We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at <a href="http://avocet.io/privacy-policy">http://avocet.io/privacy-policy</a>, <a href="https://www.openx.com/legal/privacy-policy/">https://www.openx.com/legal/privacy-policy/</a>, <a href="https://www.pulsepoint.com/privacy-policy.html">https://www.pulsepoint.com/privacy-policy.html</a>, <a href="https://www.sovrn.com/privacy-policy/">https://www.sovrn.com/privacy-policy/</a> and <a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a></li>
+            </ol>
+        </li>
+        <li><b>Managing cookies</b>
+            <ol>
+                <li>Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+                    <span>
+                        (a)	<a href="https://support.google.com/chrome/answer/95647?hl=en">https://support.google.com/chrome/answer/95647?hl=en</a> (Chrome);<br>
+                        (b)	<a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a> (Firefox);<br>
+                        (c)	<a href="http://www.opera.com/help/tutorials/security/cookies/">http://www.opera.com/help/tutorials/security/cookies/</a> (Opera);<br>
+                        (d)	<a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies">https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies</a> (Internet Explorer);<br>
+                        (e)	<a href="https://support.apple.com/kb/PH21411">https://support.apple.com/kb/PH21411</a> (Safari); and<br>
+                        (f)	<a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy">https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy</a> (Edge).
+                    </span>
+                </li>
+                <li>Blocking all cookies will have a negative impact upon the usability of many websites.</li>
+                <li>If you block cookies, you will not be able to use all the features on our website.</li>
+            </ol>
+        </li>
+        <li><b>Our details</b>
+            <ol>
+                <li>This website is owned and operated John Costello &amp; Shaun James</li>
+                <li>You can contact us by email at the following address <a href="&lt;a href='https://gbatemp.net/misc/contact'&gt;https://gbatemp.net/misc/contact&lt;/a&gt;"></a><a href="https://gbatemp.net/misc/contact">https://gbatemp.net/misc/contact</a></li>
+            </ol>
+        </li>
+    </ol>
+</div></div>
 </div>
 
 
 		
+
+
+<script>
+PRINTADS("lb","bottom","","gbatemp_dynamic_view");
+PRINTADSMOB("rect","bottom","","gbatemp_dynamic_view");
+</script>
+
 
 						
 						
@@ -452,7 +695,7 @@ Mmm, delicious cookies.</div>
 			<dt></dt>
 			<dd>
 				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginphrase="Log in" data-signupphrase="Sign up">
-				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103"> Stay logged in</label>
+				<label style="display: none !important;" for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" checked="checked" id="ctrl_remember" tabindex="103"> Stay logged in</label>
 			</dd>
 		</dl>
 	</div>
@@ -487,6 +730,11 @@ Mmm, delicious cookies.</div>
 	
 	
 	
+		<script>
+			PRINTADS("rect","top","","gbatemp_dynamic_sidebar");
+			PRINTADSMOB("rect","top","","gbatemp_dynamic_sidebar");
+		</script>
+		
 		
 
 <!-- block: sidebar_online_staff -->
@@ -510,362 +758,10 @@ Mmm, delicious cookies.</div>
 						
 					
 						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
 							<li>
-								<a href="members/depravo.138644/" class="avatar Av138644s" data-avatarhtml="true"><img src="data/avatars/s/138/138644.jpg?1504960476" width="48" height="48" alt="Depravo"></a>
-								<a href="members/depravo.138644/" class="username" dir="auto"><span class="style5">Depravo</span></a>
-								<div class="userTitle">KALSARIKÄNNIT</div>
+								<a href="members/joe88.111209/" class="avatar Av111209s" data-avatarhtml="true"><img src="https://secure.gravatar.com/avatar/b55e537920102fe7d388f49c4e833742?s=48&amp;d=https%3A%2F%2Fgbatemp.net%2Fstyles%2Fdefault%2Fxenforo%2Favatars%2Favatar_male_s.png" width="48" height="48" alt="Joe88"></a>
+								<a href="members/joe88.111209/" class="username" dir="auto"><span class="style4">Joe88</span></a>
+								<div class="userTitle">[λ]</div>
 							</li>
 						
 					
@@ -1270,107 +1166,45 @@ Mmm, delicious cookies.</div>
 						
 					
 						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
 							<li>
-								<a href="members/shaunj66.31/" class="avatar Av31s" data-avatarhtml="true"><img src="data/avatars/s/0/31.jpg?1515351432" width="48" height="48" alt="shaunj66"></a>
-								<a href="members/shaunj66.31/" class="username" dir="auto"><span class="style3">shaunj66</span></a>
-								<div class="userTitle">Administrator</div>
+								<a href="members/dinohscene.285041/" class="avatar Av285041s" data-avatarhtml="true"><img src="data/avatars/s/285/285041.jpg?1543345780" width="48" height="48" alt="DinohScene"></a>
+								<a href="members/dinohscene.285041/" class="username" dir="auto"><span class="style4">DinohScene</span></a>
+								<div class="userTitle">Feed Dino to the Sharks</div>
 							</li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
 						
 					
 						
@@ -1645,7 +1479,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/silrae.387229/" dir="auto" class="username"><span class="style21">Silrae</span></a>,
+							<a href="members/bad361.452103/" dir="auto" class="username"><span class="style2">bad361</span></a>,
 						
 						</li>
 					
@@ -1653,7 +1487,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/jdxxx.442900/" dir="auto" class="username"><span class="style46">JDXXX</span></a>,
+							<a href="members/kibaookami.200175/" dir="auto" class="username"><span class="style2">KibaOokami</span></a>,
 						
 						</li>
 					
@@ -1661,7 +1495,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/txustra.329474/" dir="auto" class="username"><span class="style21">Txustra</span></a>,
+							<a href="members/dario_darioso.386749/" dir="auto" class="username"><span class="style21">Dario_Darioso</span></a>,
 						
 						</li>
 					
@@ -1669,7 +1503,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/killzxgaming.378371/" dir="auto" class="username"><span class="style21">KillzXGaming</span></a>,
+							<a href="members/miculi.474848/" dir="auto" class="username"><span class="style46">Miculi</span></a>,
 						
 						</li>
 					
@@ -1677,7 +1511,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/crimsonmaple.389737/" dir="auto" class="username"><span class="style21">CrimsonMaple</span></a>,
+							<a href="members/ndw.401994/" dir="auto" class="username"><span class="style46">NDW</span></a>,
 						
 						</li>
 					
@@ -1685,7 +1519,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/maximilious.356604/" dir="auto" class="username"><span class="style21">Maximilious</span></a>,
+							<a href="members/dark_hades.452832/" dir="auto" class="username"><span class="style46">Dark_Hades</span></a>,
 						
 						</li>
 					
@@ -1693,7 +1527,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/mozguts.446659/" dir="auto" class="username"><span class="style46">mozguts</span></a>,
+							<a href="members/joe88.111209/" dir="auto" class="username"><span class="style4">Joe88</span></a>,
 						
 						</li>
 					
@@ -1701,7 +1535,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/franciscomaianunes.435866/" dir="auto" class="username"><span class="style46">franciscomaianunes</span></a>,
+							<a href="members/coke666.356031/" dir="auto" class="username"><span class="style2">coke666</span></a>,
 						
 						</li>
 					
@@ -1709,7 +1543,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/hahayeah.447398/" dir="auto" class="username"><span class="style46">HaHaYeah</span></a>,
+							<a href="members/naderino.301146/" dir="auto" class="username"><span class="style21">Naderino</span></a>,
 						
 						</li>
 					
@@ -1717,7 +1551,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/karloz25.269657/" dir="auto" class="username"><span class="style21">karloz25</span></a>,
+							<a href="members/nootboot64.437060/" dir="auto" class="username"><span class="style46">Nootboot64</span></a>,
 						
 						</li>
 					
@@ -1725,7 +1559,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/metaloyd23.388933/" dir="auto" class="username"><span class="style2">metaloyd23</span></a>,
+							<a href="members/shiyro.392196/" dir="auto" class="username"><span class="style2">shiyro</span></a>,
 						
 						</li>
 					
@@ -1733,7 +1567,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/niftybeard.448290/" dir="auto" class="username"><span class="style46">NiftyBeard</span></a>,
+							<a href="members/wormdood.343005/" dir="auto" class="username"><span class="style21">wormdood</span></a>,
 						
 						</li>
 					
@@ -1741,7 +1575,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/cooljonas0.448439/" dir="auto" class="username"><span class="style2">Cooljonas0</span></a>,
+							<a href="members/yarib.360957/" dir="auto" class="username"><span class="style2">yarib</span></a>,
 						
 						</li>
 					
@@ -1749,7 +1583,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/darkiaspis.446876/" dir="auto" class="username"><span class="style2">DarkIaspis</span></a>,
+							<a href="members/darthvitrial.351840/" dir="auto" class="username"><span class="style2">DarthVitrial</span></a>,
 						
 						</li>
 					
@@ -1757,7 +1591,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/karatee.249784/" dir="auto" class="username"><span class="style2">karatee</span></a>,
+							<a href="members/soulphraser.393721/" dir="auto" class="username"><span class="style2">soulphraser</span></a>,
 						
 						</li>
 					
@@ -1765,7 +1599,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/switchhack.440557/" dir="auto" class="username"><span class="style2">SwitchHack</span></a>,
+							<a href="members/holyhobo.402084/" dir="auto" class="username"><span class="style21">HolyHobo</span></a>,
 						
 						</li>
 					
@@ -1773,7 +1607,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/loko4.288965/" dir="auto" class="username"><span class="style21">Loko4</span></a>,
+							<a href="members/omegasoul6.96059/" dir="auto" class="username"><span class="style21">omegasoul6</span></a>,
 						
 						</li>
 					
@@ -1781,7 +1615,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/centergaming.388777/" dir="auto" class="username"><span class="style2">Centergaming</span></a>,
+							<a href="members/megahog2012.314208/" dir="auto" class="username"><span class="style2">megahog2012</span></a>,
 						
 						</li>
 					
@@ -1789,7 +1623,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/marceesh.447030/" dir="auto" class="username"><span class="style46">Marceesh</span></a>,
+							<a href="members/jpnintendo.232503/" dir="auto" class="username"><span class="style21">JPnintendo</span></a>,
 						
 						</li>
 					
@@ -1797,7 +1631,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/marc_max.128884/" dir="auto" class="username"><span class="style21">marc_max</span></a>,
+							<a href="members/vashts.164508/" dir="auto" class="username"><span class="style21">VashTS</span></a>,
 						
 						</li>
 					
@@ -1805,7 +1639,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/armadillo.15993/" dir="auto" class="username"><span class="style21">Armadillo</span></a>,
+							<a href="members/yaypixxo.474333/" dir="auto" class="username"><span class="style46">YaYPIXXO</span></a>,
 						
 						</li>
 					
@@ -1813,7 +1647,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/sem112.361100/" dir="auto" class="username"><span class="style2">Sem112</span></a>,
+							<a href="members/shneaky.365659/" dir="auto" class="username"><span class="style2">shneaky</span></a>,
 						
 						</li>
 					
@@ -1821,7 +1655,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/tyrann.381574/" dir="auto" class="username"><span class="style2">Tyrann</span></a>,
+							<a href="members/stoned.347253/" dir="auto" class="username"><span class="style21">Stoned</span></a>,
 						
 						</li>
 					
@@ -1829,7 +1663,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/yuushidasuushi.436151/" dir="auto" class="username"><span class="style2">YuushiDaSuushi</span></a>,
+							<a href="members/bytar.379056/" dir="auto" class="username"><span class="style21">bytar</span></a>,
 						
 						</li>
 					
@@ -1837,7 +1671,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/vondeflu.442726/" dir="auto" class="username"><span class="style46">VonDeFlu</span></a>,
+							<a href="members/piet400.473260/" dir="auto" class="username"><span class="style46">Piet400</span></a>,
 						
 						</li>
 					
@@ -1845,7 +1679,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/tilde88.361553/" dir="auto" class="username"><span class="style21">Tilde88</span></a>,
+							<a href="members/julianuf.359586/" dir="auto" class="username"><span class="style2">julianuf</span></a>,
 						
 						</li>
 					
@@ -1853,7 +1687,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/i_am_l_force.361699/" dir="auto" class="username"><span class="style21">I_AM_L_FORCE</span></a>,
+							<a href="members/dabu-sapper.367789/" dir="auto" class="username"><span class="style2">dabu-sapper</span></a>,
 						
 						</li>
 					
@@ -1861,7 +1695,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/aguztinako.392861/" dir="auto" class="username"><span class="style46">aguztinako</span></a>,
+							<a href="members/stargazertom.360847/" dir="auto" class="username"><span class="style21">StarGazerTom</span></a>,
 						
 						</li>
 					
@@ -1869,7 +1703,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/rajkosto.419894/" dir="auto" class="username"><span class="style2">rajkosto</span></a>,
+							<a href="members/rattletrapm.412124/" dir="auto" class="username"><span class="style21">RattletraPM</span></a>,
 						
 						</li>
 					
@@ -1877,7 +1711,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/the_randomizer.278342/" dir="auto" class="username"><span class="style21">the_randomizer</span></a>,
+							<a href="members/natexiii.429431/" dir="auto" class="username"><span class="style2">NateXIII</span></a>,
 						
 						</li>
 					
@@ -1885,7 +1719,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/mattytrog.447227/" dir="auto" class="username"><span class="style2">mattytrog</span></a>,
+							<a href="members/hackerboy0412.378213/" dir="auto" class="username"><span class="style2">HackerBoy0412</span></a>,
 						
 						</li>
 					
@@ -1893,7 +1727,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/psionic-roshambo.282633/" dir="auto" class="username"><span class="style21">Psionic Roshambo</span></a>,
+							<a href="members/devin.193826/" dir="auto" class="username"><span class="style21">Devin</span></a>,
 						
 						</li>
 					
@@ -1901,7 +1735,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/lordkaos.161569/" dir="auto" class="username"><span class="style21">lordkaos</span></a>,
+							<a href="members/wiewiec.377658/" dir="auto" class="username"><span class="style21">wiewiec</span></a>,
 						
 						</li>
 					
@@ -1909,7 +1743,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/jakkal.447280/" dir="auto" class="username"><span class="style21">jakkal</span></a>,
+							<a href="members/juandial.53028/" dir="auto" class="username"><span class="style2">juandial</span></a>,
 						
 						</li>
 					
@@ -1917,7 +1751,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/ronhero.350912/" dir="auto" class="username"><span class="style21">Ronhero</span></a>,
+							<a href="members/hanshansen2018.474850/" dir="auto" class="username"><span class="style46">HansHansen2018</span></a>,
 						
 						</li>
 					
@@ -1925,7 +1759,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/ivanov.448806/" dir="auto" class="username"><span class="style46">Ivanov</span></a>,
+							<a href="members/sith.73557/" dir="auto" class="username"><span class="style2">sith</span></a>,
 						
 						</li>
 					
@@ -1933,7 +1767,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/dspider.362834/" dir="auto" class="username"><span class="style21">DSpider</span></a>,
+							<a href="members/rahkeesh.445636/" dir="auto" class="username"><span class="style21">Rahkeesh</span></a>,
 						
 						</li>
 					
@@ -1941,7 +1775,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/dudamax.424357/" dir="auto" class="username"><span class="style2">Dudamax</span></a>,
+							<a href="members/ady199.260240/" dir="auto" class="username"><span class="style2">ady199</span></a>,
 						
 						</li>
 					
@@ -1949,7 +1783,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/kiiwii.143142/" dir="auto" class="username"><span class="style21">KiiWii</span></a>,
+							<a href="members/callmebob.64485/" dir="auto" class="username"><span class="style21">callmebob</span></a>,
 						
 						</li>
 					
@@ -1957,7 +1791,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/dertasiu.409197/" dir="auto" class="username"><span class="style46">dertasiu</span></a>,
+							<a href="members/serton.371864/" dir="auto" class="username"><span class="style2">Serton</span></a>,
 						
 						</li>
 					
@@ -1965,7 +1799,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/natehaxx.428771/" dir="auto" class="username"><span class="style21">Natehaxx</span></a>,
+							<a href="members/deving70.460396/" dir="auto" class="username"><span class="style46">DevinG70</span></a>,
 						
 						</li>
 					
@@ -1973,7 +1807,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/kasihel.235046/" dir="auto" class="username"><span class="style2">Kasihel</span></a>,
+							<a href="members/jul16ares.474849/" dir="auto" class="username"><span class="style46">jul16ares</span></a>,
 						
 						</li>
 					
@@ -1981,7 +1815,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/garrincho.372039/" dir="auto" class="username"><span class="style21">Garrincho</span></a>,
+							<a href="members/paiuand.370715/" dir="auto" class="username"><span class="style21">Paiuand</span></a>,
 						
 						</li>
 					
@@ -1989,7 +1823,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/iwabo.371363/" dir="auto" class="username"><span class="style21">iwabo</span></a>,
+							<a href="members/fallingrat.453383/" dir="auto" class="username"><span class="style2">fallingrat</span></a>,
 						
 						</li>
 					
@@ -1997,7 +1831,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/pattybean.448803/" dir="auto" class="username"><span class="style46">Pattybean</span></a>,
+							<a href="members/zachycatgames.452160/" dir="auto" class="username"><span class="style21">ZachyCatGames</span></a>,
 						
 						</li>
 					
@@ -2005,7 +1839,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/purofran.447984/" dir="auto" class="username"><span class="style46">Purofran</span></a>,
+							<a href="members/gameplayer9198.250252/" dir="auto" class="username"><span class="style21">Gameplayer9198</span></a>,
 						
 						</li>
 					
@@ -2013,7 +1847,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/iakupo.448104/" dir="auto" class="username"><span class="style46">iakupo</span></a>,
+							<a href="members/testerfan.329917/" dir="auto" class="username"><span class="style21">testerfan</span></a>,
 						
 						</li>
 					
@@ -2021,7 +1855,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/ccf_100.431873/" dir="auto" class="username"><span class="style2">CCF_100</span></a>,
+							<a href="members/uumas.400999/" dir="auto" class="username"><span class="style21">Uumas</span></a>,
 						
 						</li>
 					
@@ -2029,7 +1863,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/shah-isah.400148/" dir="auto" class="username"><span class="style21">Shah Isah</span></a>,
+							<a href="members/essometer.265523/" dir="auto" class="username"><span class="style21">Essometer</span></a>,
 						
 						</li>
 					
@@ -2037,7 +1871,7 @@ Mmm, delicious cookies.</div>
 					
 						<li>
 						
-							<a href="members/mnecraft368.369564/" dir="auto" class="username"><span class="style21">Mnecraft368</span></a>
+							<a href="members/localhorst86.351627/" dir="auto" class="username"><span class="style21">Localhorst86</span></a>
 						
 						</li>
 					
@@ -2644,462 +2478,54 @@ Mmm, delicious cookies.</div>
 				
 					
 				
-					
 				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-				
-					<li class="moreLink faint">... <a href="online/" title="See all visitors">and 508 more</a></li>
+					<li class="moreLink faint">... <a href="online/" title="See all visitors">and 301 more</a></li>
 				
 			</ol>
 		
 		
 		<div class="sectionFooter footnote">
-			Total: 5,540 (members: 639, guests: 4,312, robots: 589)
+			Total: 3,982 (members: 406, guests: 3,044, robots: 532)
 
 			<div>
 				<a href="#" id="toggleLegend">Toggle group legend</a>
-				<ul id="groupLegend" class="username" style="display:none;">
+				<div id="groupLegendDiv" style="display:none;">
+				<ul id="groupLegend" class="username">
 					<li><span class="style3">Administrators</span></li>
 					<li><span class="style12">Supervisors</span></li>
 					<li><span class="style5">Global Moderators</span></li>
 					<li><span class="style4">Moderators</span></li>
 					<li><span class="style44">Chief Editor</span></li>
+					<li><span class="style52">Senior Editors</span></li>
 					<li><span class="style10">Reporters</span></li>
 					<li><span class="style10">Contributors</span></li>
-					
-					<li><span class="style24">Podcast Crew</span></li>
 				</ul>
-				<script>$('#toggleLegend').click(function(e){e.preventDefault();$('#groupLegend').toggle()})</script>
+				</div>
+				<script>$('#toggleLegend').click(function(e){e.preventDefault();$('#groupLegendDiv').slideToggle(80)})</script>
+				<style>
+				#toggleLegend { float: none; }
+				#groupLegend { column-count: 2; margin-left: 5px }
+				#groupLegend li { padding: 0; }
+				</style>
 			</div>
 		</div>
 	</div>
 </div>
 <!-- end block: sidebar_online_users -->
-
+		
 		<!-- block: forum_stats -->
 		<div class="section">
 		<h3>Forum Statistics</h3>
 			<div class="secondaryContent statsList" id="boardStats">
 				<div class="pairsJustified">
 					<dl class="discussionCount"><dt>Discussions:</dt>
-						<dd>434,369</dd></dl>
+						<dd>455,939</dd></dl>
 					<dl class="messageCount"><dt>Messages:</dt>
-						<dd>7,408,382</dd></dl>
+						<dd>7,855,586</dd></dl>
 					<dl class="memberCount"><dt>Members:</dt>
-						<dd>387,368</dd></dl>
+						<dd>409,270</dd></dl>
 					<dl><dt>Latest Member:</dt>
-						<dd><a href="members/ivanov.448806/" class="username" dir="auto">Ivanov</a></dd></dl>
+						<dd><a href="members/hanshansen2018.474850/" class="username" dir="auto">HansHansen2018</a></dd></dl>
 					<!-- slot: forum_stats_extra -->
 				</div>
 			</div>
@@ -3134,24 +2560,15 @@ Mmm, delicious cookies.</div>
 		</div>
 	</div>
 
-		
-	
 
-						<div class="" style=""><!-- Freestar sidebar -->
-<script>
-if ($(window).width() < 1500) {
-	// Small desktop
-	document.write('<div align="center" id="gbatemp_160x600_320x50_300x100_300x250_Sidebar"><scr'+
-		'ipt data-cfasync="false" type="text/javascript">freestar.queue.push(function () { '+
-		'googletag.display(\'gbatemp_160x600_320x50_300x100_300x250_Sidebar\'); });</scr'+'ipt></div>');
-}
-else {
-	// Desktop <!-- gbatemp_300x250_300x600_160x600_320x50_300x100_Sidebar -->
-	document.write('<div align="center" id="gbatemp_300x250_300x600_160x600_320x50_300x100_Sidebar"><scr'+
-		'ipt data-cfasync="false" type="text/javascript">freestar.queue.push(function () { '+
-		'googletag.display(\'gbatemp_300x250_300x600_160x600_320x50_300x100_Sidebar\'); });</scr'+'ipt></div>');
-}
-</script></div>
+	
+	
+	<script>
+		PRINTADS("rect","bottom","","gbatemp_dynamic_sidebar");
+	</script>
+
+
+						
 						
 					</div>
 				</aside>
@@ -3216,7 +2633,7 @@ else {
 		<div class="pageContent">
 			
 			
-			<div id="logo"><a name="top" href="https://gbatemp.net/" title="GBAtemp.net - The Independent Video Game Community">
+			<div id="logo"><a href="https://gbatemp.net/" title="Merry Christmas from GBAtemp.net!">
 				<span></span>
 				<img id="tempy" src="styles/ts2/tempy.png" onerror="this.src='styles/ts2/tempy.png'; this.onerror=null;" alt="GBAtemp.net - The Independent Video Game Community"><img id="text" src="styles/ts2/logo_text.png" onerror="this.src='styles/ts2/logo_text.png'; this.onerror=null;" alt="GBAtemp.net - The Independent Video Game Community">
 			</a></div>
@@ -3279,7 +2696,8 @@ else {
 		
 		
 			
-				<li class="navTab bgfade1 reviews PopupClosed">
+				
+				<li class="navTab bgfade1 reviews Tabreviews PopupClosed">
 			
 				<a href="reviews/" title="Reviews" class="navLink NoPopupGadget" rel="Menu">Reviews</a>
 				
@@ -3295,11 +2713,13 @@ else {
 	
 </ul>
 				</div>
+	
 			</li>
 			
 		
 			
-				<li class="navTab bgfade1 ask PopupClosed">
+				
+				<li class="navTab bgfade1 ask Tabask PopupClosed">
 			
 				<a href="ask/" title="Ask!" class="navLink NoPopupGadget" rel="Menu">Ask!</a>
 				
@@ -3315,11 +2735,37 @@ else {
 	
 </ul>
 				</div>
+	
 			</li>
 			
 		
 			
-				<li class="navTab bgfade1 xfa-blogs PopupClosed">
+				
+				<li class="navTab bgfade1 resources Tabresources PopupClosed">
+			
+				<a href="https://gbatemp.net/download/" title="Downloads" class="navLink NoPopupGadget" rel="Menu">Downloads</a>
+				
+				<div class="Menu JsOnly tabMenu resourcesTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Downloads</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Search Files</a></li>
+	<li><a href="download/authors">Most Active Authors</a></li>
+	<li><a href="download/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+				</div>
+	
+			</li>
+			
+		
+			
+				
+				<li class="navTab bgfade1 xfa-blogs Tabxfa-blogs PopupClosed">
 			
 				<a href="blogs/" title="Blogs" class="navLink NoPopupGadget" rel="Menu">Blogs</a>
 				
@@ -3333,13 +2779,14 @@ else {
 	
 </ul>
 				</div>
+	
 			</li>
 			
 		
 		
 
 		<!-- twitch -->
-		<li class="navTab bgfade1 PopupClosed"><a href="/dynamic/gbatemptv.97/" class="navLink" title="Watch GBAtempTV on Twitch">Twitch</a><a href="#" class="twitch-widget" id="twitch-widget" target="_blank"></a></li>
+		<li class="navTab bgfade1 PopupClosed"><a href="/twitch/" class="navLink" title="Watch GBAtempTV on Twitch">Twitch</a><a href="#" class="twitch-widget" id="twitch-widget" target="_blank"></a></li>
 		
 		<!-- GBAtemp -->
 		<li class="navTab bgfade1 PopupClosed"><a href="/new/" class="navLink" title="What's new on GBAtemp?" rel="nofollow">New Content</a></li>
@@ -3352,9 +2799,9 @@ else {
 		<!-- extra tabs: end -->
 		
 
-		<li class="navTab bgfade1 PopupClosed"><a href="/dynamic/gbatemp-chatroom.93/" class="navLink" title="Join other tempers on our 24/7 chatrooms">Chat</a></li>		
+		<li class="navTab bgfade1 PopupClosed"><a href="/chat/" class="navLink" title="Join other tempers on our 24/7 chatrooms">Chat</a></li>		
 		<li class="navTab bgfade1 PopupClosed"><a href="https://wiki.gbatemp.net/wiki/Main_Page" class="navLink" title="Visit WikiTemp, the GBAtemp Wiki">Wiki</a></li>
-		<li class="navTab bgfade1 PopupClosed"><a href="https://filetrip.net" class="navLink" title="Visit Filetrip.net, our download center">FileTrip</a></li>
+		<!-- <li class="navTab bgfade1 PopupClosed"><a href="https://filetrip.net" class="navLink" title="Visit Filetrip.net, our download center">FileTrip</a></li> -->
 		
 		
 		<!-- responsive popup -->
@@ -3421,9 +2868,13 @@ else {
 								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#map-signs"></use></svg>
 								Tutorials
 							</a></li>
-							<li><a href="/dynamic/gbatemp-chatroom.93/">
+							<li><a href="/chat/">
 								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#comments"></use></svg>
 								Chatroom
+							</a></li>
+							<li><a href="/webcomic/">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#tempy"></use></svg>
+								Webcomic
 							</a></li>
 						</ul>
 						<ul class="col2 blockLinksList">
@@ -3443,6 +2894,10 @@ else {
 							<li><a href="https://wiki.gbatemp.net/wiki/Main_Page" target="_blank">
 								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#external-link"></use></svg>
 								WikiTemp
+							</a></li>
+							<li><a href="/download/">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#download"></use></svg>
+								Downloads
 							</a></li>
 						</ul>
 					</div>
@@ -3557,9 +3012,9 @@ else {
 	
 			<ul id="legal">
 			
-			
 				<li><a href="/help/about">©GBAtemp 2002-2018</a></li>
-				<li><a href="https://gbatemp.net/dynamic/gbatemp-net-privacy-policy.78/">Privacy Policy</a></li>
+				<li><a href="https://gbatemp.net/dynamic/gbatemp-net-privacy-policy.78/">• Privacy Policy</a></li>
+				
 			
 			</ul>
 	
@@ -3568,35 +3023,17 @@ else {
 	</div>
 
 
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-92JFtSYw8j06V"
-});
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-92JFtSYw8j06V.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
 
 
 
 
 </footer>
+
+<div class="bottomFixer">
+	
+	
+
+</div>
 
 <script>
 
@@ -3606,8 +3043,8 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1526414646,
-		today: 1526338800,
+		now: 1545750969,
+		today: 1545696000,
 		todayDow: 2
 	},
 	_lightBoxUniversal: "0",
@@ -3627,11 +3064,11 @@ jQuery.extend(true, XenForo,
 		}
 	},
 	_ignoredUsers: [],
-	_loadedScripts: {"xfa_blogs_nav":true,"gbatemp_dynamic":true,"sidebar_share_page":true,"login_bar":true,"facebook":true,"twitter":true},
+	_loadedScripts: {"bbcode_tabs":true,"xfa_blogs_nav":true,"gbatemp_dynamic":true,"sidebar_share_page":true,"login_bar":true,"facebook":true,"twitter":true},
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
-	_jsVersion: "ea8e97ca",
+	_jsVersion: "c0904570",
 	_noRtnProtect: false,
 	_noSocialLogin: false
 });
@@ -3671,19 +3108,44 @@ XenForo.Facebook.forceInit = true;
 
 </script>
 
-<script>$('#togglelinkGroup').click(function(e){e.preventDefault();$('.topCtrl, .linkGroup, .InlineModCheck, .secondRow .controls, #main-title .editThread, .PanelScroller.Notices').slideToggle("fast")})</script>
+<script>$('#togglelinkGroup').click(function(e){e.preventDefault();$('.topCtrl, .linkGroup, .InlineModCheck, .secondRow .controls, #main-title .editThread, #promo-main-title .editThread, .PanelScroller.Notices').slideToggle("fast")})</script>
 
-<script> 
-	$("a[href*='#top']").click(function() {
-	  $("html, body").animate({ scrollTop: 0 }, "slow");
-	  return false;
-	});
+<script>
+if (localStorage.toggled!='') {
+	$('.sidebar').toggleClass('with_'+localStorage.toggled);
+	$('.sidebar-toggle').toggleClass('with_'+localStorage.toggled);
+	$('.mainContent').toggleClass('with_'+localStorage.toggled);
+}
 
-	$("a[href*='#footer']").click(function() {
-	  $("html, body").animate({ scrollTop: $(document).height() }, "slow");
-	  return false;
-	});
+$('.sidebar-toggle').on('click',function(){
+ 	if (localStorage.toggled != "toggle" ) {
+    $(".sidebar").toggleClass("with_toggle", true );
+    $(".sidebar-toggle").toggleClass("with_toggle", true );
+	$(".mainContent").toggleClass("with_toggle", true );
+    localStorage.toggled = "toggle";
+
+ 	} else {
+    $(".sidebar").toggleClass("with_toggle", false );
+    $(".sidebar-toggle").toggleClass("with_toggle", false );
+	$(".mainContent").toggleClass("with_toggle", false );
+    localStorage.toggled = "";
+ 	}
+});
 </script>
+
+
+	<script> 
+		$("a[href*='#top']").click(function() {
+		  $("html, body").animate({ scrollTop: 0 }, "slow");
+		  return false;
+		});
+
+		$("a[href*='#footer']").click(function() {
+		  $("html, body").animate({ scrollTop: $(document).height() }, "slow");
+		  return false;
+		});
+	</script>
+
 
 <script>
 	(function() {
@@ -3705,7 +3167,7 @@ XenForo.Facebook.forceInit = true;
 			var gamestr = data.stream.game.replace(/(['"])/g, '');
 			if (data.stream) {
 				twitch_widget.html("<span class='twitch_online' title='Playing " + gamestr + " for " + data.stream.viewers + " viewers'>Live</span>");
-				tv_news_box.html("<div class='block_content gbatemptv'><div class='gbatemptv_block'><a class='title' href='dynamic/gbatemptv.97'>GBAtempTV</a><span class='live'><div class='live_icon'></div>LIVE</span><br/><span class='subtitle'>Playing " + data.stream.game + " for " + data.stream.viewers + " viewers</span><br/><a class='tv_button' href='dynamic/gbatemptv.97'><svg class='ts2icon null'><use xlink:href='styles/ts2/sprites.svg#play-icon'/></use></svg></a><br /><a class='subtitle' style='float: right;' href='https://www.twitch.tv/gbatemptv' title='Watch GBAtempTV on Twitch.tv (external)' target='_blank'><svg class='ts2icon r'><use xlink:href='styles/ts2/sprites.svg#external-link'/></use></svg></a></div></div>");
+				tv_news_box.html("<div class='block_content gbatemptv'><div class='gbatemptv_block'><a class='title' href='/twitch/'>GBAtempTV</a><span class='live'><div class='live_icon'></div>LIVE</span><br/><span class='subtitle'>Playing " + data.stream.game + " for " + data.stream.viewers + " viewers</span><br/><a class='tv_button' href='/twitch/'><svg class='ts2icon null'><use xlink:href='styles/ts2/sprites.svg#play-icon'/></use></svg></a><br /><a class='subtitle' style='float: right;' href='https://www.twitch.tv/gbatemptv' title='Watch GBAtempTV on Twitch.tv (external)' target='_blank'><svg class='ts2icon r'><use xlink:href='styles/ts2/sprites.svg#external-link'/></use></svg></a></div></div>");
 		}
 	});
 
@@ -3716,12 +3178,7 @@ XenForo.Facebook.forceInit = true;
 
 
 
-<div class="" style=""><!-- gbatemp_Mobile_Interstitial -->
-<div align="center" id="gbatemp_Mobile_Interstitial">
-<script data-cfasync="false" type="text/javascript">
-    freestar.queue.push(function () { googletag.display('gbatemp_Mobile_Interstitial'); });
-</script>
-</div></div>
+
 
 
 </body></html>
