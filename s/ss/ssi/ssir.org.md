@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssir.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628211458id_/https%3A//ssir.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssir.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225050333id_/https%3A//ssir.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ In the event of a corporate change in control resulting from, for example, a sal
 
 ### Cookies and Analytics
 
-Cookies are tiny data files that web sites commonly write to your hard drive when you visit them so that they can remember you when you visit. A cookie file contains information that can identify you anonymously and maintain your account's privacy. Our service uses cookies to maintain a user's identity between sessions so that the site can be personalized based on user preferences or a user's history. We may use information collected using third party cookies (for example, Google AdSense and DoubleClick) and Web beacons on our services to deliver _Stanford Social Innovation Review's_ advertising displayed to you on third party sites. We also use cookie information to know when you return to our site after visiting these third party sites. We also use analytics services (such as Google Analytics and others) to help analyze how users use the services. These analytics services use cookies to collect and store information such as how often users visit the Services, what pages they visit, and what other sites they used prior to coming to the services. We also use the information from these analytics services to improve our services and to provide reporting to our partners regarding site activity and utilization. Please see the following links for more information about Google Analytics, DoubleClick, and Google AdSense:http://www.google.com/policies/technologies/ads/ and http://www.google.com/policies/privacy/.
+Cookies are tiny data files that web sites commonly write to your hard drive when you visit them so that they can remember you when you visit. A cookie file contains information that can identify you anonymously and maintain your account's privacy. Our service uses cookies to maintain a user's identity between sessions so that the site can be personalized based on user preferences or a user's history. We may use information collected using third party cookies (for example, Google AdSense and DoubleClick) and Web beacons on our services to deliver _Stanford Social Innovation Review's_ advertising displayed to you on third party sites. We also use cookie information to know when you return to our site after visiting these third party sites. We also use analytics services (such as Google Analytics and others) to help analyze how users use the services. These analytics services use cookies to collect and store information such as how often users visit the Services, what pages they visit, and what other sites they used prior to coming to the services. We also use the information from these analytics services to improve our services and to provide reporting to our partners regarding site activity and utilization. Please see the following links for more information about Google Analytics, DoubleClick, and Google AdSense: http://www.google.com/policies/technologies/ads/ and http://www.google.com/policies/privacy/.
 
 You can set your web browser to prompt you before you accept a cookie, accept cookies automatically or reject all cookies. However, if you choose not to accept cookies from this web site, then you may not be able to access and use all or part of this web site or benefit from the information and services which it offers.
 
@@ -62,7 +62,7 @@ If you would like to unsubscribe from our communications at any time, please [cl
 
 If you have any concerns or questions about any aspect of this policy, or to be removed from all email lists, contact us at [privacy@ssir.org](mailto:privacy@ssir.org) or at the postal address below.
 
-Attn: Digital Privacy Offer
+Attn: Digital Privacy Officer
 
 Stanford Social Innovation Review  
 Stanford University  
