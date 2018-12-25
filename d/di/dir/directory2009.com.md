@@ -1,75 +1,185 @@
-> *The following text is extracted and transformed from the directory2009.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904194032id_/http%3A//www.linkslive.info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory2009.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226000427id_/http%3A//www.addurl.nu/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Premium Business Directory
+# Privacy Policy
 
-We have created this privacy statement for Web and Business Directory in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [Web and Business Directory](http://www.linkslive.info/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+Fair Information Practices 
 
-**We recognize the importance of protecting your privacy**  and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
+Fair information  
+Practices
 
-**What Information Do We Collect?**  
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**1\. Personal Information You Choose to Provide**
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**Email Information**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.  
-**2\. Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+**When do we collect information?**
 
-**How Do We Use the Information That You Provide to Us?**
+We collect information from you when you register on our site or enter information on our site.
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+**How do we use your information?**
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
+ 
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
+**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-**What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users.  **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.**
+**How do we protect visitor information?**
 
-**How Do We Use Information We Collect from Cookies?**  
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.  
+ 
 
-**IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
+We use regular Malware Scanning.  
+ 
 
-**Sharing and Selling Information**  
-We  **do not**  share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+We do not use an SSL certificate
 
-**How Can You Access and Correct Your Information?**
+**•** We only provide articles and information. We never ask for personal or private information like email addresses, or credit card numbers.
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+**Do we use 'cookies'?**
 
-**What About Legally Compelled Disclosure of Information?**  
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+**•** Help remember and process new directory submissions.
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-**Your Consent**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
 
-_**Our Commitment To Data Security:**_
+However, you can still submit your websites.
 
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+###  Cookies on Addurl.nu:
 
-**Choice/Opt-In/Opt-Out**  
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+ Cookie Name |   Origin |   Description  
+---|---|---  
+ __tawkuuid & TawkConnectionTime |   TAWK Live Chat |   This cookies are required for the TAWK live chat script to function, the script is currently tracking your location, browser, operating system and active connection time on the website. (expire's after 1 year)  
+ cookiePageWidth & cookieLetterSize |   Addurl.nu |   This cookies are used to track your browser page width & customised letter size (customisable through the site). (expire's after you close your browser)  
+ _ga & _gid |   Google Analytics |   These cookies are used to collect information about how visitors use our website. We use the information to compile reports and to help us improve the website. The cookies collect information in an anonymous form, including the number of visitors to the website and blog, where visitors have come to the website from and the pages they visited. (expire's in 12 months)  
+ __atuvc & __atuvs |   AddThis |   AddThis: The __atuvc cookie is created and read by the AddThis social sharing site JavaScript on the client side in order to make sure the user sees the updated count if they share a page and return to it before our share count cache is updated. No data from that cookie is sent back to AddThis and removing it when disabling cookies would cause unexpected behaviour for users. (expire's in 2 years)  
+ _ZB_ADMIN_LAST_URL_ , _ZB_ADMIN_TIME_STAMP_, _ZB_STATIC_DR_currentSessionTimeVisit, _ZB_STATIC_DR_firstTimeVisit, _ZB_STATIC_DR_isEU, _ZB_STATIC_DR_widgetsUpdateTime, _ZB_STATS_IMPRESSION_PREMIUM_, _ZB_STATS,IMPRESSION.b54b4d61 & _ZB_STATS_VISIT |   ZotaBox |   This cookies are used to track the following: Last referral url, Time Stamp, Current session time visit, First time visit, Checking for your location if it's located within EUROPE, Tracking every impression on the site & retreive visitor stats: LOCATION,BROWSER,OPERATING SYSTEM & other information. (expire's after 1 year)  
+ box_content_13 , box_content_17, box_content_2, box_content_21, box_content_22 |   AddUrl.nu |    Required for our website to display Recent Website Listings, Sponsored Listings & other user-content. (expire's in 1 years)  
+ wsg_pages & wsg_referrer |   W3Counter |   Part of W3 Counter, which provides website statistics. (expire's in 2 years)  
+  
+How can I disable cookies and manage my preferences ? 
 
-**Surveys & Contests**
+  
+The majority of browsers are configured to accept, control or potentially disable cookies through the settings. We nevertheless remind you that disabling navigation or functional cookies may affect the functioning of the website and/or limit the service we offer.   
+It is possible to browse and temporarily prevent the browser from recording cookies by using the incognito mode or a private browsing mode: 
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+  * [_Google Chrome e Google Chrome Mobile_](https://support.google.com/chrome/answer/95464?hl=en)
+  * [_Internet Explorer_](http://windows.microsoft.com/en-us/internet-explorer/products/ie-9/features/in-private)
+  * [_Mozilla Firefox_](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)
+  * [_Apple Safari_](https://support.apple.com/kb/PH19216?viewlocale=en_US&locale=it_IT)
+  * [_Apple Safari Mobile_](https://support.apple.com/en-us/HT203036)
+  *  
 
-**A Special Note About Children**
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
 
-**Acquisition or Changes in Ownership**
+Below is the procedure to follow to manage cookies from the following browsers: 
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+  * [_Google Chrome_](https://support.google.com/chrome/answer/95647?hl=en) , [ _Google Chrome Mobile_](https://support.google.com/chrome/answer/2392709?hl=en)
+  * [_Internet Explorer_](http://windows.microsoft.com/en-us/windows7/how-to-manage-cookies-in-internet-explorer-9)
+  * [_Mozilla Firefox_](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
+  * [_Apple Safari_](https://support.apple.com/kb/PH19214?viewlocale=en_US&locale=it_IT)
+  * [Apple Safari Mobile](https://support.apple.com/en-us/HT201265)
 
-**Policy Modifications**  
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+
+For more information on cookies and to manage your preferences for third party profiling cookies, please go to 
+
+[ _http://www.youronlinechoices.com_](http://www.youronlinechoices.com/)
+
+To disable analytical cookies and prevent Google Analytics from collecting data on your navigation, you can download the add-on from your browser to deactivate Google Analytics: 
+
+[ _https://tools.google.com/dlpage/gaoptout_](https://tools.google.com/dlpage/gaoptout)
+
+. 
+
+For more information and details about the various types of cookies, their mode of operation and features, please visit 
+
+[ _www.AllAboutCookies.org_](http://www.allaboutcookies.org/)
+
+, 
+
+**Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  
+ 
+
+We have not enabled Google AdSense on our site but we may do so in the future.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+**•** Via Email
+
+Users are able to change their personal information:
+
+**•** By logging in to their account
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  
+ 
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
+ 
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+**•** Within 7 business days
+
+We will notify the users via in-site notification
+
+**•** Within 7 business days
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
+ 
+
+**We collect your email address in order to:**
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+ 
