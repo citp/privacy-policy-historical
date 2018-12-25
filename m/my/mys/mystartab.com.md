@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mystartab.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627050319id_/http%3A//mystartab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystartab.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225232154id_/http%3A//newtabtv.com/privacy) for the most accurate reproduction.*
 
 # 
 
-Mystartab \- Privacy Policy
+Newtabtv \- Privacy Policy
 
 [Last Modified: March 12, 2018]
 
 Imali Media. (“we”, "us" or the "Company") respects your privacy and is committed to protect the privacy of its users (“user(s)” or “you”).
 
-This Privacy Policy (“Privacy Policy”) sets forth the privacy practices which apply to users that use our new tab extensions or search extensions as detailed in our End User License Agreement (http://mystartab.com/terms) (“EULA” or “Agreement”) ("Browsing Product" or “Product”).
+This Privacy Policy (“Privacy Policy”) sets forth the privacy practices which apply to users that use our new tab extensions or search extensions as detailed in our End User License Agreement (http://newtabtv.com/terms) (“EULA” or “Agreement”) ("Browsing Product" or “Product”).
 
-This Privacy Policy is an integrated part of the Company's EULA (http://mystartab.com/terms) and is a legally binding agreement between the user and the Company.  The Privacy Policy and EULA shall be binding upon any user using or attempting to use the Browsing Products or any content available therein. 
+This Privacy Policy is an integrated part of the Company's EULA (http://newtabtv.com/terms) and is a legally binding agreement between the user and the Company.  The Privacy Policy and EULA shall be binding upon any user using or attempting to use the Browsing Products or any content available therein. 
 
 ACCEPTANCE OF THE TERMS: BY DOWNLOADING OR INSTALLING OR USING THE BROWSING PRODUCT OR OUR SERVICES, AS APPLICABLE, YOU HEREBY AGREE TO THE TERMS OF THIS PRIVACY POLICY AND THE EULA AND TO THE ACCESS, COLLECTION, USE AND DISCLOSURE OF CERTAIN INFORMATION, AS DESCRIBED IN THIS PRIVACY POLICY AND IN THE THIRD PARTY’S POLICIES (AS DEFINED BELOW). IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT ACCESS, INSTALL, DOWNLOAD OR USE THE BROWSING PRODUCT OR SERVICES.
 
