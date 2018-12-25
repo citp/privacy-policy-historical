@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccleaner.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630012718id_/http%3A//www.ccleaner.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccleaner.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225055723id_/http%3A//www.ccleaner.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Avast (CCleaner) Privacy Policy
 
@@ -249,7 +249,7 @@ We make every effort to conduct our business in a fair and responsible manner. I
 
 14.3 Contact Details
 
-  * You can always reach us by email at [support@ccleaner.com](mailto:support@ccleaner.com) or [customerservices@avast.com](https://web.archive.org/web/20180630012718id_/http%3A//www.ccleaner.com/about/customerservices@avast.com). Please type “PRIVACY REQUEST” in the message line of your email so we can have the appropriate member of the Avast team respond.
+  * You can always reach us by email at [support@ccleaner.com](mailto:support@ccleaner.com) or [customerservices@avast.com](https://web.archive.org/web/20181225055723id_/http%3A//www.ccleaner.com/about/customerservices@avast.com). Please type “PRIVACY REQUEST” in the message line of your email so we can have the appropriate member of the Avast team respond.
   * If you prefer, you can send paper mail to AVAST Software s.r.o., Pikrtova 1737/1a, 140 00 Prague 4, Czech Republic. Be sure to write "Attention: PRIVACY" in the address so we know where to direct your correspondence.
 
 
