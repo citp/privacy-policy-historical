@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apkmirror.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208233120id_/https%3A//www.apkmirror.com/apkmirror-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkmirror.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225070815id_/https%3A//www.apkmirror.com/apkmirror-com-privacy-policy) for the most accurate reproduction.*
 
 # APKMirror.com Privacy Policy - APKMirror
 
 **What information do we collect?**
 
-We collect information from you when you post a comment.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We collect information from you when you post a comment. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -44,7 +44,7 @@ By using our site, you consent to our [website’s privacy policy](https://web.a
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.This policy was last modified on 12/15/2011
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on 5/21/2018.
 
 **Contacting Us**
 
