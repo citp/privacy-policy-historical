@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripstodiscover.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222203318id_/http%3A//www.tripstodiscover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripstodiscover.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225051527id_/https%3A//www.tripstodiscover.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TripsToDiscover.com
+# Privacy Policy - TripsToDiscover
 
-_Last Updated:  April 26th, 2016_
+_Last Updated:  May 22nd, 2018 — GDPR Compliant_
 
 At TripsToDiscover.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TripsToDiscover.com, and how we safeguard your information.
 
@@ -38,41 +38,60 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-## 5\. DO-NOT-TRACK POLICY FOR CALIFORNIA USERS
+## 5\. BEHAVIOURAL ADVERTISING
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+
+You can opt out of targeted advertising by:  
+FACEBOOK – <https://www.facebook.com/settings/?tab=ads>  
+GOOGLE – <https://www.google.com/settings/ads/anonymous>  
+BING – <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>
+
+## 6\. DO-NOT-TRACK POLICY FOR CALIFORNIA USERS
 
 We may collect users’ personally identifiable information while their Web browser’s “do-not-track” features – or other mechanisms that provide choice regarding the collection of personally identifiable information about consumers’ online activities – are activated. Further, while using our Site, third parties may collect users’ personally identifiable information relating to their online activities while “do-not-track” technologies and similar mechanisms are activated.
 
-## 6\. INFORMATION SHARING AND DISCLOSURE
+## 7\. INFORMATION SHARING AND DISCLOSURE
 
 We may share, license, or sell information we collect to third parties for various marketing purposes, including their online marketing programs. We also reserve the unequivocal right to release all your information, to the maximum extent permitted by law in the event that: (i) we believe that the Site is being or has been used to commit unlawful acts, (ii) the information is subpoenaed or otherwise required in a court proceeding, (iii) you violate or breach an agreement with the Site, (iv) you have submitted fraudulent or otherwise invalid information to this Site, (v) we believe that you may harm, or have harmed, the property or other rights of us, our employees, the Site’s other users or any other third party, (vi) we are sold to or otherwise acquired by any individual, entity or organization (i.e. to a successor entity in the event of sale of the business, including merger, bankruptcy or other ownership change), or (vii) when we otherwise deem it necessary or appropriate. We may disclose any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the requirements of the CAN-SPAM Act of 2003, as amended from time to time, or any other applicable state or federal law, rule or regulation.
 
-## 7\. OPTING-OUT
+## 8\. OPTING-OUT OF EMAILS
 
 If you no longer wish to receive newsletter or promotional communications from us, you may opt-out by following the instructions included in each newsletter or promotional communication or by contacting us as provided in this Privacy Policy. You may continue to receive email communications from us for up to five (5) business days from the time we receive your unsubscribe request. Please note that we can only control our own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
 
-## 8\. ACCESS/ACCURACY
+## 9\. ACCESS/ACCURACY
 
-To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [Team@tripstodiscover.com](mailto:Team@tripstodiscover.com) and we will make reasonable efforts to comply as soon as possible.
+To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d0d2f342b3c3e241d092f342d2e093219342e3e322b382f733e3230) and we will make reasonable efforts to comply as soon as possible.
 
-## 9\. SECURITY OF INFORMATION
+## 10\. SECURITY OF INFORMATION
 
 Use of the Site is at your own risk. We do, however, make reasonable efforts to secure your information, including, but not limited to, monitoring our network and data for intrusions. We also use industry-accepted standards to protect your information, including SSL encryption if transmitting sensitive information. Communications you may have with us via email or mail may not be secure unless we advise you that security measures are in place prior to your sending information.
 
-## 10\. LINKS TO THIRD PARTY SITES
+## 11\. LINKS TO THIRD PARTY SITES
 
 The Site may contain links to third party Web sites including sites with which we have no affiliation. We are not responsible for their privacy practices. It is recommended you read the privacy policies on all such third party Web sites.
 
-## 11\. CALIFORNIA PRIVACY RIGHTS
+## 12\. YOUR RIGHTS IN COMPLIANCE WITH GDPR
 
-Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at [insert email address] with the words “Opt-Out” in the subject header.
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-## 12\. CHILDREN
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you request our email newsletters through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+## 13\. DATA RETENTION
+
+When you use or provide data on our website, we will maintain your data for our records unless and until you ask us to delete this information.
+
+## 14\. CALIFORNIA PRIVACY RIGHTS
+
+Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b3e3c1dac5d2d0caf3e7c1dac3c0e7dcf7dac0d0dcc5d6c19dd0dcde) with the words “Opt-Out” in the subject header.
+
+## 15\. CHILDREN
 
 If you are under 18, you may not access or use the Site. BY ACCESSING OR USING THE SITE, YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OLD. In compliance with COPPA, we do not knowingly collect personally identifiable information from users under 13.
 
-## 13\. CONTACT INFORMATION
+## 16\. CONTACT INFORMATION
 
-For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at [Team@tripstodiscover.com](mailto:Team@tripstodiscover.com) or send us correspondence at the following address:
+For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7323011a0512100a3327011a0300271c371a00101c0516015d101c1e) or send us correspondence at the following address:
 
 TripsToDiscover.com  
 5254 Station Way  
