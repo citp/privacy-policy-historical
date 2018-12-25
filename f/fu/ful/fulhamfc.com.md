@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630213717id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225210148id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fulham Football Club
 
