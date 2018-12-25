@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badmovies.org privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620193501id_/http%3A//www.badmovies.org/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badmovies.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226002546id_/http%3A//www.badmovies.org/information/privacy.html) for the most accurate reproduction.*
 
 # Badmovies.org Privacy Policy
 
