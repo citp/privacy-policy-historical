@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothink.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612191434id_/http%3A//www.sothink.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothink.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225100349id_/http%3A//www.sothink.com/policy.htm) for the most accurate reproduction.*
 
 # Sothink Product Privacy Policy
 
@@ -65,7 +65,7 @@ We reserve the right to modify this Privacy Policy at any time.  If we decide t
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at:
 
-[www.sothink.com](https://web.archive.org/web/20180612191434id_/http%3A//www.sothink.com/index.htm)  
+[www.sothink.com](https://web.archive.org/web/20181225100349id_/http%3A//www.sothink.com/index.htm)  
 Room 502, 5th Building, International Enterprise Center II, Guanshan 2nd Road  
 Wuhan, Hubei Province, China, 430074  
 E-mail: [marketing@sothink.com](mailto:marketing@sothinkmedia.com)
