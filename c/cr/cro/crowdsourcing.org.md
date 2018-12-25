@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdsourcing.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625064804id_/http%3A//reports.crowdsourcing.org/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsourcing.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225134522id_/http%3A//reports.crowdsourcing.org/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
