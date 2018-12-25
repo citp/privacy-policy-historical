@@ -1,70 +1,75 @@
-> *The following text is extracted and transformed from the hopeshared.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427115331id_/http%3A//hopeshared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopeshared.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225082834id_/http%3A//hopeshared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how HopeShared.com uses and protects any information that you give HopeShared.com when you use this website.
+This Privacy Policy discloses the privacy practices for the HopeShared.com Site and various related services (together referred to as the “Site”). HopeShared.com (“HopeShared.com,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, HopeShared.com are referred to, individually, as “You” or “Your.” Please read the information below to learn the following regarding Your use of this Site.
 
-HopeShared.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We reserve the right to change this Privacy Policy at any time. We will post any Privacy Policy changes on this page and, if the changes are significant, We will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes, if You have provided Us with Your email). If the Services allow You to be a registered user, You acknowledge and agree that it is Your responsibility to maintain a valid email address as a registered user, review this Site and this Privacy Policy periodically and to be aware of any modifications. Your continued use of the Site after such modifications will constitute Your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy.
 
-HopeShared.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Nov. 2, 2013.
+## Types of Information Collected
 
-**What we collect**
+In order to better provide You with Our Services, We collect two types of information about Our users: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from You is to provide You with a smooth, efficient, and customized experience while using Our Site.
 
-We may collect the following information:
+## Personally Identifiable Information
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+This refers to information that lets Us know the specifics of who You are. When You engage in certain activities on this Site, such as registering for an account, ordering a product or service, submitting content and/or posting content in discussion forums or other public areas, or sending Us feedback, We may ask You to provide certain information about You by filling out and submitting an online form. It is completely optional for You to engage in these activities. If You elect to engage in these activities, however, We may ask that You provide Us personal information, such as Your first and last name, mailing address (including zip code), email address, employer, job title and department, birth date, age, gender, telephone and facsimile numbers, short message service (SMS) or text message address or other wireless device address, and other personal identifying information. Depending upon the activity, some of the information We ask You to provide is identified as mandatory and some as voluntary. If You do not provide the mandatory data with respect to a particular activity, You will not be able to engage in that activity.
 
+## Non-Personally Identifiable Information
 
+This refers to information that does not by itself identify a specific individual. We gather certain information about You based upon where You visit on Our Site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the website’s Uniform Resource Locator (“URL”) that You just came from, which URL You next go to, what browser You are using, the type of operating system You have, the domain name of Your Internet service provider, and Your Internet Protocol (“IP”) address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (“TCP/IP”) network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to Your computer whenever You are surfing the web, allowing web servers to locate and identify Your computer. Computers require IP addresses in order for users to communicate on the Internet.
 
-**What we do with the information we gather**
+## Collection Methods and Use of Information
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We do not collect any Personally Identifiable Information about You unless You voluntarily provide it to Us. You provide certain Personally Identifiable Information to Us when You: (a) register for Our Services and register Your email address with Us or (b) send email messages, submit forms, submit comments or rankings, or transmit other information by telephone or letter. We may also collect information from You at other points on Our Site that state that such information is being collected.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+In addition, We may also collect, or Our third party ad server, third party ad vendors, and/or content server may collect, certain Non-Personally Identifiable Information. This information is ultimately stored in the form of store categories, and, in some cases, specific URLs. We use Your IP address to diagnose problems with Our servers, software, to administer Our Site and to gather demographic information. Our third party ad servers will also provide Us with summary, but not individual, reports that will tell Us how many ads were presented and clicked upon at out Site. We also may use this information in the aggregate to analyze usage of the Site, Services, promotions and online media, as well as to offer You targeted products and services. We also reserve the right to use aggregate or group data about Our visitors for any other lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of Our visitors as a group. By visiting, and/or supplying Your personal information via the Site and other online media, You agree to allow Us to provide such aggregate data to any third parties at Our discretion, as lawfully permitted.
 
+We will primarily use Your Personally Identifiable Information to provide Our Services to You, as required by Our agreements with You. We will also use Personally Identifiable Information to enhance the operation of Our Site, fill orders, improve Our marketing and promotional efforts, statistically analyze Site use, improve Our product and service offerings, and customize Our Site’s content, layout, and services. We may use Personally Identifiable Information to deliver information to You and to contact You regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce Our agreements with You, including Our Site Terms of Use and this Privacy Policy.
 
+## Release of Information and Opt-Out
 
-**Security**
+We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: info[at]HopeShared.com. We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+NAI Opt Out:  
+http://optout.networkadvertising.org/#!/
 
-**How we use cookies**
+DAA Opt Out:  
+http://optout.aboutads.info/#!/
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Occasionally We may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use Our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We may also provide Non-Personally Identifiable Information about Our customers’ sales, traffic patterns, and related Site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+## Updating and Correcting Information
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+In the event that You provide Us with Personally Identifiable Information, We believe You should have the ability to access and edit it. If You provide Us with Personally Identifiable Information, You may also access and correct Your personal information and privacy preferences by emailing us at info[at]HopeShared.com. Please include Your name and/or email address when You contact Us. We encourage You to promptly update Your Personally Identifiable Information if it changes. If You provide Us with Personally Identifiable Information, You may ask to have the information deleted or removed; however, because We keep track of past transactions, You cannot delete information associated with past transactions on this Site. In addition, it may be impossible to completely delete Your information without some residual information because of backups.
 
-**Third Party Vendors**
+## User Choices on Collection and Use of Information
 
-  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to HopeShare.com and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+You also have choices with respect to cookies, as described below. By modifying Your browser preferences, You have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If You choose to reject all cookies some parts of Our Site may not work properly in Your case.
 
+## Security of Information
 
+At Our Site You can be assured that Your Personally Identifiable Information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with Our user is of utmost concern to Us. Your Personally Identifiable Information is protected in several ways. Your Personally Identifiable Information resides on a secure server that only selected HopeShared.com personnel and contractors have access to via password. We encrypt Your Personally Identifiable Information and thereby prevent unauthorized parties from viewing such information when it is transmitted to Us. Personal information that You provide that is not Personally Identifiable Information also resides on a secure server and is only accessible via password.
 
-**Links to other websites**
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while We strive to protect Your Personally Identifiable Information, You acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond Our control; (b) the security, integrity and privacy of any and all information and data exchanged between You and Us through this Site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+## Cookies
 
-**Controlling your personal information**
+When You use Our Site We will store cookies on Your computer in order to facilitate and customize Your use of Our Site. A cookie is a small data text file, which a Web Site stores on Your computer’s hard drive (if Your Web browser permits) that can later be retrieved to identify You to Us. Our cookies store non-Personally Identifiable Information. The cookies make Your use of the Site easier, make the Site run more smoothly and help Us to maintain a secure Site. You are always free to decline Our cookies if Your browser permits, but some parts of Our Site may not work properly in that case.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+Cookies are not designed to get data from Your hard drive, Your email account or any other personal data about You. No personal information is placed into these Cookies. Cookies are used to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized ads, content and/or services.
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info[at]hopeshared.com
+We may use an outside ad serving company to display banner advertisements on Our Site. As part of their service, they will place a separate cookie on Your computer. We will not provide any third-party ad server with any of Your Personally Identifiable Information or information about Your purchases. We and Our third party ad server will collect and use Non-Personally Identifiable Information about You, such as Your IP address, browser type, the server Your computer is logged onto, the area code and zip code associated with Your server and whether You responded to a particular ad. Other advertisers may also place banner ads on Our Site in the same manner as above, but We will not disclose any Personally Identifiable Information to them. For more information about cookies, visit http://www.allaboutcookies.org/cookies/.
 
+## Privacy Policies of Third Party Sites
 
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information We collect from You. Other Sites accessible through Our Site have their own privacy policies and data collection, use and disclosure practices. Please consult each Site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on Our Site may collect information about You when You view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if You have any questions about their use of the information that they collect.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+## Miscellaneous Privacy Issues
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+You must be at least 13 years old to have Our permission to use this Site. Our policy is that We do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 13 years of age.
+
+You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. Your name, email address, etc.) in the discussion forums or other public areas on this Site, that information, along with any information disclosed in Your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond Our control and this Privacy Policy does not apply to such information. Any submissions to chat rooms or other public areas on this Site are accepted with the understanding that they are accessible to all third parties. If You do not want Your comments to be viewed by third parties, You are advised not to make any submissions. Please be careful and responsible whenever You’re online.
+
+If You have any questions about this Privacy Policy, the practices of this Site, or Your dealings with this Site, please contact Us by emailing info[at]HopeShared.com.
