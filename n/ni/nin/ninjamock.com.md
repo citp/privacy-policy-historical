@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjamock.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526125424id_/https%3A//ninjamock.com/shared/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjamock.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225110700id_/https%3A//ninjamock.com/shared/privacyPolicy) for the most accurate reproduction.*
 
 # We respect the privacy of NinjaMock community
 
