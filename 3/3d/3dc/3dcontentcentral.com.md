@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605042540id_/http%3A//www.3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225132729id_/http%3A//3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# 3D ContentCentral
+# 3D ContentCentral - Free 3D CAD Models, 2D Drawings, and Supplier Catalogs
 
 **3D ContentCentral** **®** ******Privacy Policy**
 
@@ -40,6 +40,8 @@ DS SolidWorks may use two types of cookies: permanent cookies and temporary cook
 DS SolidWorks' European sites will notify you the first time you receive a cookie, and then you decide whether to accept it or refuse it. By continuing to use the site in consideration of the above, you expressly authorize DS SolidWorks to use such cookies.
 
 You can also configure your browser software to refuse all cookies; if you do so, however, some areas and features of the site may not function properly and/or you may not access some parts or services of the site.
+
+You can set Your preferences here.
 
 | 
 
