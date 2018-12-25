@@ -1,42 +1,147 @@
-> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904090633id_/https%3A//www.workable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225231354id_/https%3A//www.workable.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-As the operators of the Workable website, Workable Software Limited (" **We** ", " **Us** ") is committed to protecting and respecting your privacy. This Privacy Policy (" **Policy** ") sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+As the operators of the Workable website, Workable Software Limited registered in England and Wales with Company Registration Number 08125469 and having its registered office address at 21a Kingly Street, Second Floor, London, W1B 5QA (" **We** ", " **Us** ", “ **Workable** ”) is committed to protecting and respecting your privacy. This Privacy and Cookies Policy (" **Policy** ") relates to services provided through our website and application (“ **Services** ”) and sets out the basis on which the personal data collected from you, or that you provide to Us will be processed by Us. Please read the following carefully to understand our views and practices regarding your personal data and how We will treat it. 
 
-For the purpose of the Data Protection Act 1998, the Data Controller is Workable Software Limited, registered in England and Wales with Company Registration Number 08125469 and having its address at WeWork, 1 Fore St, London EC2Y 5EJ. 
+For the purpose of, the General Data Protection Regulation (“ **GDPR** ”), from the GDPR implementation date or, until GDPR implementation date, the Data Protection Act 1998 (collectively the “ **Data Protection Laws** ”): 
 
-In addition to Workable Software Limited processing personal information as a data controller, we also process personal information as a data processor on behalf of Employers. Where you are a Candidate (as defined in our [Candidate Terms and Conditions](https://www.workable.com/candidate-terms) ) or prospective Candidate involved in a recruitment process with an Employer, the Employer’s privacy policy may apply to our processing of your personal information instead of, or in addition to, this Privacy Policy. 
+  * in respect of the personal data of users of the Website and the Services and business contacts and prospects of Workable, the Data Controller is Workable Software Limited; 
+  * In respect of the personal data of candidates who apply for, or who a Customer of Workable contacts in respect of, an Opening (as the term is described in Workable’s Terms) (“Candidates”) Workable shall process personal information as a data processor on behalf of its Customers, who use Our Services to assist with their recruitment processes . Where you apply for a role with one of Workable’s Customers, our Customer’s privacy policy, rather than this Privacy Policy, will apply to our processing of your personal information. 
 
-##  Information we may collect from you 
 
-We may collect and process the following information about you: 
 
-  * Information that you provide by filling in forms on the Website www.workable.com ( **Website** ). This includes information provided at the time of registering to use the Website, subscribing to our Services, posting material or requesting further information or services. We may also ask you for information when you report a problem with the Website. 
-  * Specifically if you are a Candidate, information relating to your employment history, skills and experience that you upload to the Website, as well as profile photos, links to your social profiles and other publicly available information that we may collect through a third party service. 
-  * Specifically if you are a Customer organisation (i.e. an Employer organisation), information regarding job Openings and other details regarding your organisation and its personnel. 
-  * If you contact us, we may keep a record of that correspondence. 
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
+##  Information we collect from you 
+
+We collect and process some or all of the following types of information from you: 
+
+  * Information that you provide by filling in forms on the workable.com website (“ **Website** ”). This includes information provided at the time of registering to use the Website, subscribing to our Services, posting material or requesting further information or services. We may also ask you for information when you report a problem with the Website. 
+  * If you contact Us, We may keep a record of that correspondence. 
+  * We may also ask you to complete surveys that We use for research purposes, although you do not have to respond to them. 
   * Details of all actions that you carry out through the Website and of the provision of services to you. 
   * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, the site that referred you to our site and the resources that you access. 
 
 
 
+The provision of your full name and e-mail address, your employer and/or your place of work and the url of the business that you work for is required from you when you register to use our Services We will inform you at the point of collecting information from you, whether you are required to provide the information to Us. 
+
+##  Information we collect from other sources 
+
+From time to time we also obtain personal data from other sources as follows: 
+
+  * names and contact details of Customer personnel who will be added as account members for the Customer’s account, may be added by existing account members; 
+  * names and contact details of individual contacts at prospective Customers from third party data providers and/or public sources, such as social networks, company websites and other online sources. 
+
+
+
+##  Uses made of your information 
+
+Where you are using our Services on behalf of our Customer, we rely on legitimate interests in performing our contract with our Customer as the lawful basis on which We collect and use your personal data. 
+
+We use information held about you in the following ways: 
+
+  * To ensure that content from the Website is presented in the most effective manner for you and for your computer. 
+  * To provide you with information, products or services that you request from us or which we feel may interest you or our Customer. 
+  * To carry out our obligations arising from any contracts entered into between our Customer (on whose behalf you are using the Services) and Us. 
+  * To notify you about changes to our Services and provide you with information that is relevant to your use of the Services. 
+  * Where you or your employer are a prospective Customer, to provide you with information about our Services for marketing purposes. 
+
+
+
+##  Disclosure of your information 
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (where applicable). Where any such member of our group is outside the EU this transfer will be on the basis of a contract including the Model Contractual Clauses in accordance with the Data Protection Laws. 
+
+We may disclose your personal information to third parties: 
+
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; 
+  * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; 
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or in order to enforce or apply our Website Terms and Conditions and other agreements, but we will endeavour to minimise such disclosure to only that reasonably necessary and, where possible, to provide you with notice of such disclosure; and/or 
+  * to protect the rights, property, or safety of Workable Technology Limited, the Website, our users and any third party we interact with to provide the Website. 
+
+
+
 ##  How we store your personal data 
 
-We take appropriate measures to ensure that all personal data is kept secure for the duration of your use of our Services. 
+**Security**
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission remains at your own risk. Once we have received your information, we will use strict procedures and security features in order to prevent unauthorised access. 
+We take appropriate measures to ensure that all personal data is kept secure including security measures to prevent personal data from being accidentally lost, or used or accessed in an unauthorised way, for the duration of your use of our Services. We limit access to your personal data to those who have a genuine business need to know it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality. 
 
-Please also note that the data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by persons operating outside the EEA who work for us or for one of our suppliers. Such persons maybe engaged in, amongst other things, the provision of certain services which support our Website and allow us to provide the Services to you. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where We are legally required to do so. 
 
-If you have any questions about how we store and use data collected which relates to you, please contact us using the details set out below. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website, therefore any transmission remains at your own risk. Once we have received your information, we will use strict procedures and security features in order to prevent unauthorised access. 
+
+**Keeping your personal data up to date**
+
+If your personal details change you may update them by accessing the relevant page of the Website, or by contacting Us using the contact details below. 
+
+We will endeavour to update your personal data within thirty (30) days of any new or updated personal data being provided to Us, in order to ensure that the personal data We hold about you is as accurate and up to date as possible. 
+
+**Where we store your personal data**
+
+The data that We collect from you and process as a result of your use of the Services may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for Us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your orders, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. 
+
+In particular, your data may be accessible to i) Workable’s staff in the USA or ii) may be stored by Workable’s hosting service provider on servers in the USA as well as in the EU. The USA does not have the same data protection laws as the United Kingdom and EEA. A Data Processor Agreement has been signed between Workable Software Limited and Workable Technology Limited and their overseas group companies, and between Workable Software Limited and Workable Technology Limited and each of its data processors. These Data Processor Agreements that are designed to help safeguard your privacy rights and give you remedies in the unlikely event of a misuse of your personal data. A full list of Workable's sub-processors can be found [here](https://web.archive.org/subprocessors). 
+
+If you would like further information please contact Us (see ‘Contact’ below). We will not otherwise transfer your personal data outside of the United Kingdom OR EEA or to any organisation (or subordinate bodies) governed by public international law or which is set up under any agreement between two or more countries. 
+
+**How long we keep your personal data**
+
+We will hold all the data for so long as we have an obligation to the Customer to provide the Services, and thereafter until such time as we delete the Customer’s account in accordance with our Customer Terms and Conditions. 
+
+Your personal information will be deleted on one of the following occurrences: 
+
+  * deletion of your personal information by you (or by another person engaged by the Customer); or 
+  * receipt of a written request by you (or another person engaged by the Customer) to us. 
+
+
+
+##  Your rights 
+
+Under the [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) you have a number of important rights free of charge. In summary, those include rights to: 
+
+  * access to your personal data and to certain other supplementary information that this Policy is already designed to address 
+  * require Us to correct any mistakes in your information which We hold 
+  * require the erasure of personal data concerning you in certain situations 
+  * receive the personal data concerning you which you have provided to Us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations 
+  * object at any time to processing of personal data concerning you for direct marketing 
+  * object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you 
+  * object in certain other situations to our continued processing of your personal data 
+  * otherwise restrict our processing of your personal data in certain circumstances 
+  * claim compensation for damages caused by our breach of any data protection laws. 
+
+
+
+For further information on each of those rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). 
+
+If you would like to exercise any of those rights, please: 
+
+  * contact us using our Contact details below 
+  * let Us have enough information to identify you, 
+  * let Us have proof of your identity and address. Where you are a user of our Services you should email us from the email address that you used to register with Workable. Receipt of an email from this address will usually be sufficient to confirm your identity. In all other cases we may request one or more identification documents, such as a copy of your driving licence or passport and a recent utility or credit card bill; and 
+  * let Us know the information to which your request relates. 
+
+
+
+## Third Party Websites
+
+The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and terms of use and that we do not accept any responsibility or liability for these policies and terms of use. Please check these policies before you submit any personal data to these websites. 
+
+## How to complain
+
+We hope that We can resolve any query or concern you raise about our use of your information. 
+
+The [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) also gives you right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at <https://ico.org.uk/concerns/> or telephone: 0303 123 1113. 
+
+## Changes to our privacy policy
+
+We reserve the right to modify this Privacy Policy at any time. Any changes we may make to our Policy in the future will be notified and made available to you using the Website. Your continued use of the Services and the Website shall be deemed your acceptance of the varied Privacy Policy. 
 
 ##  IP Addresses and cookies 
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration, customer support and to collect aggregate information for internal reporting purposes. 
 
-In addition, our Website uses cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users of the Website, which helps us to provide you with a good experience when you browse our Website and also allows us to improve the Website. 
+In addition, our Website uses cookies. A cookie is a small file of letters and numbers that we put on your computer if you select to agree at the banner that is displayed to you during the first time you visit our website. You may accept or decline being tracked by indicating your preference to this banner. You may update your cookie preferences at any time by clearing your browser cookies. These cookies allow us to distinguish you from other users of the Website, which helps us to provide you with a good experience when you browse our Website and also allows us to improve the Website. 
 
 The cookies we use are "analytical" cookies. Some of the common uses for our cookies are as follows: 
 
@@ -45,62 +150,6 @@ The cookies we use are "analytical" cookies. Some of the common uses for our coo
   * to be able to retrieve a user’s previously stored data, for example, information that the user previously submitted to the Website, so as to facilitate reuse of this information by the user. 
 
 
-
-##  Uses made of your information 
-
-We use information held about you in the following ways:
-
-  * To ensure that content from the Website is presented in the most effective manner for you and for your computer. 
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
-  * To carry out our obligations arising from any contracts entered into between you and us, whether you are a Customer, Candidate or otherwise, including but not limited to the terms of use upon which you access the Website. 
-  * To notify you about changes to our Services and provide you with information that is relevant to your use of the Services. 
-  * To collect publicly available information related to companies or Candidates, which may be reused for business justifiable reasons and in accordance with applicable law. 
-  * If you are a Candidate or prospective Candidate, to enhance any information that we process about you on an Employer’s behalf with information obtained from third party data providers. 
-
-
-
-##  Disclosure of your information 
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (where applicable). Where any such member of our group is outside the EU this transfer will be on the basis of a contract including the Model Contractual Clauses in accordance with the Data Protection Act 1998. 
-
-We may disclose your personal information to third parties: 
-
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; 
-  * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; 
-  * specifically if you are a Candidate, to make your details available to third party Employer organisations to whom you apply for Openings for the purposes of evaluation for job vacancies, as may be submitted by you and in accordance with our Candidate Terms and Conditions of Use; 
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or in order to enforce or apply our Website Terms and Conditions and other agreements, but we will endeavour to minimise such disclosure to only that reasonably necessary and, where possible, to provide you with notice of such disclosure; and/or 
-  * to protect the rights, property, or safety of Workable Software Limited, the Website, our users and any third party we interact with to provide the Website. 
-
-If you are a Candidate or prospective Candidate, we may disclose personal information that we have received about you from third party data providers to Employers on whose behalf we are processing your personal information. 
-
-
-
-
-## Retention and restriction on use of your personal data
-
-Your personal information will be retained until it is deleted. Your personal information will be deleted on one of the following occurrences: 
-
-  * deletion of your personal information by you (or by another person engaged by the Customer, where you are using the Website and/or Services on behalf of a Customer). 
-  * where you are a Candidate, deletion of your personal information by an Employer on whose behalf we are processing your personal information. 
-  * receipt of a written request by you to us. 
-
-
-
-Where you request in writing that your personal information is not used to enhance the information that we process about you on an Employer’s behalf, such enhanced information will not be provided by us to the Employer. 
-
-Any request by you to us to delete your personal information will not result in deletion of any application submitted by you to an Employer (in respect of which we are a data processor and not a data controller). If you require an Employer to delete an application, or any other information provided by you to the Employer directly, you must contact the Employer to request such deletion. 
-
-## Third Party Websites
-
-The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and terms of use and that we do not accept any responsibility or liability for these policies and terms of use. Please check these policies before you submit any personal data to these websites. 
-
-## Access to information
-
-The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
-
-## Changes to our privacy policy
-
-We reserve the right to modify this Privacy Policy at any time. Any changes we may make to our Policy in the future will be notified and made available to you using the Website. Your continued use of the Services and the Website shall be deemed your acceptance of the varied Privacy Policy. 
 
 ## Contact
 
