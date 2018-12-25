@@ -1,17 +1,12 @@
-<!--The following is the downloaded HTML source of the sarawak.gov.my privacy policy that was archived on 2018-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180530040812id_/https%3A//sarawak.gov.my/web/home/article_view/251/262) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sarawak.gov.my privacy policy that was archived on 2018-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225172958id_/https%3A//www.sarawak.gov.my/web/home/article_view/251/262) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_GB" lang="en_GB"><head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="https://www.sarawak.gov.my/web/web/web/glyphicons.css">
 		<link rel="stylesheet" href="https://www.sarawak.gov.my/web/web/web/flaticon.css">
-		<!-- <link rel="stylesheet" type="text/css" href="/moonlight_kernel/moonlight/plugin/bootstrap-3.3.4/dist/css/bootstrap.css"> -->
-		<!-- <link rel='stylesheet' type='text/css' href='/moonlight_kernel/moonlight/plugin/bootstrap-3.3.4/dist/css/bootstrap.css' />
-<script type='text/javascript' src='/moonlight_kernel/moonlight/plugin/bootstrap-3.3.4/dist/js/bootstrap.js'></script>
-
- -->
-		<link rel="SHORTCUT ICON" href="https://www.sarawak.gov.my/media/images/Banner/sarawak_crest_icon.ico"><title>The Official Portal of the Sarawak Government</title><script type="text/javascript" src="/moonlight_kernel/moonlight/plugin/jquery/jquery-1.11.1.js"></script>
+				<link rel="SHORTCUT ICON" href="https://www.sarawak.gov.my/media/images/Banner/sarawak_crest_icon.ico"><title>The Official Portal of the Sarawak Government</title><script type="text/javascript" src="/moonlight_kernel/moonlight/plugin/jquery/jquery-1.11.1.js"></script>
 <!--<script type="text/javascript" src="/moonlight_kernel/moonlight/plugin/jquery/jquery-migrate-1.2.1.js"></script>-->
 
 <script>
@@ -352,7 +347,148 @@ $(document).ready(function(){
 				}
 			}
 			</script>
-		<div style="clear:both;display:none;"></div>		<style>
+		<div style="clear:both;display:none;"></div>		<link rel="stylesheet" type="text/css" href="https://www.sarawak.gov.my/web/web/web/responsive.css">
+		<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.12/jquery.transit.min.js"></script>-->
+		<script src="https://www.sarawak.gov.my/web/web/js/transit.js"></script>
+		<script type="text/javascript" language="javascript">
+			$(document).ready(function(){
+				init_change_tab();
+				/*Collapse*/
+				vC=1;
+				vTotal=$(".col2 div .content").length;
+				$(".col2 div .content").each(function(){
+					if(vC>1 && vC<vTotal){ //if 1st and last matched
+						/* slide up the content if display is set to none by czwong */
+						if($(this).css('display') == "none"){
+							$(this).slideUp('fast');
+						}
+					}
+					vC++;
+				});
+				
+				/*register onclick function to toggle expand/collapse*/
+				vC=1;
+				vTotal=$(".col2 div .title").length;
+				$(".col2 div .title").each(function(){
+					$(this).css('cursor','pointer'); //move to css
+					if(vC>1 && vC<vTotal){ //if 1st and last matched
+						
+						/* Start modified by czwong to slideDown first if the content is hide */
+						if($(this).parent().find('.content').css('display') == 'none'){
+							$(this).toggle(
+								function(){
+									$(this).parent().find('.content').slideDown('fast');
+								},
+								function(){
+									$(this).parent().find('.content').slideUp('fast');
+								}
+							);
+						}else{
+							$(this).toggle(
+								function(){
+									$(this).parent().find('.content').slideUp('fast');
+								},
+								function(){
+									$(this).parent().find('.content').slideDown('fast');
+								}	
+							);
+						}
+						/* End modified by czwong to slideDown first if the content is hide */
+					}else{
+					
+						/* Start modified by czwong to slideDown first if the content is hide */
+						if($(this).parent().find('.content').css('display') == 'none'){
+							$(this).toggle(
+								function(){
+									$(this).parent().find('.content').slideDown('fast');
+								},
+								function(){
+									$(this).parent().find('.content').slideUp('fast');
+								}
+							);
+						}else{
+							$(this).toggle(
+								function(){
+									$(this).parent().find('.content').slideUp('fast');
+								},
+								function(){
+									$(this).parent().find('.content').slideDown('fast');
+								}
+							);
+						}
+						/* End modified by czwong to slideDown first if the content is hide */
+					}
+					vC++;
+				});
+				
+/*slide animation*/				
+  function slideanimation(height){
+	if(!height){
+		// default 700
+		height = 850;
+	}
+	// hardcode //
+	height = 600;
+	
+	/*$(".slideanim").each(function(){
+      var pos = $(this).offset().top;
+	  height1=height+200;
+	  //default 600
+      var winTop = $(window).scrollTop();
+        if (pos > winTop + height1) {
+          $(this).removeClass("slide");
+        }
+    });*/
+	/**********************************************/
+		if(!navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/) || $('body[data-responsive="0"]').length > 0) {
+				 	var $animationEasing = 'easeOutSine';
+					var $animationDuration = '650';
+					
+					$('.heading-line').each(function(i){
+					var pos = $(this).offset().top;
+					//default 600
+					var winTop = $(window).scrollTop();
+					if (pos < winTop + height) {
+						$(this).find('> div').delay(i*70).transition({
+							'y' : '0px'
+						},$animationDuration,$animationEasing);
+					}
+					
+					});
+					
+					$(this).addClass('animated-in');
+				
+		}else{
+					$('.heading-line').each(function(i){
+						$(this).find('> div').transition({
+							'y' : '0px'
+						},$animationDuration,$animationEasing);
+					});
+		}
+	/**********************************************/
+	    $(".slideanim").each(function(){
+      var pos = $(this).offset().top;
+	  //default 600
+      var winTop = $(window).scrollTop();
+        if (pos < winTop + height) {
+          $(this).addClass("slide");
+        }
+    });
+  }
+  slideanimation(800);
+  $(window).scroll(function() {
+	slideanimation();
+  });
+  
+})
+		</script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
+	
+	
+		<style>
+		.nectar-split-heading .heading-line{display:block; overflow:hidden; position:relative}
+		.nectar-split-heading .heading-line >div{display:block; transform:translateY(200%); -webkit-transform:translateY(200%)}
+
 			/****************temp****************/
 
 			.width-control{
@@ -410,8 +546,12 @@ $(document).ready(function(){
 			
 			
 			#footer{
-				background:#222;
+				/*background:#222;*/
+				background-color: #343d47;
 				color:#fff;
+				/*color: #999ea3!important;*/
+				font-weight: 600;
+				text-transform: uppercase;
 			}
 			#footer .box-left{
 				padding-top:15px;
@@ -452,7 +592,7 @@ $(document).ready(function(){
 					display:none !important;
 				}
 				#header{
-					padding-top:15px;
+					/*padding-top:15px;*/
 					padding-bottom:15px;
 					background:transparent;
 					color:inherit;
@@ -574,10 +714,11 @@ $(document).ready(function(){
 				font-size: 64px;
 				color: #CC0000;
 				display: block;
-				margin-top: 10px;
+				/*margin-top: 10px;*/
+				top:-10px;
 			}
 
-			.menu_background{
+			/*.menu_background{
 				background-color: #000000;
 				border-bottom: 1px solid #999999;
 				min-height: 50px;
@@ -585,7 +726,7 @@ $(document).ready(function(){
 				font-size: 15px;
 				font-family: Arial;
 				color:#FFF;
-			}
+			}*/
 			
 			ul.megamenu2.frt_menu2{
 				background:#000000;
@@ -607,9 +748,9 @@ $(document).ready(function(){
 			}
 
 			.btn-sarawak-id{
-				padding:0;
+				/*padding:0;
 				padding-left:5px;
-				padding-right:5px; 
+				padding-right:5px;*/ 
 				background:#fecc05; 
 				border:0; 
 				color:black;
@@ -637,93 +778,28 @@ $(document).ready(function(){
 				display: block;
 				content: "";
 				height:5px;
-				background-image: url('https://www.sarawak.gov.my/media/images/v2/image_divider02.png');
+				background-image: url('http://10.18.4.52/projects/mseg/branches/v2/media/images/v2/image_divider02.png');
 			}
 			.content_padding{
 				padding-top:25px;
 				padding-bottom:25px;
 			}
-					</style>
-		<link rel="stylesheet" type="text/css" href="https://www.sarawak.gov.my/web/web/web/responsive.css">
-		<script type="text/javascript" language="javascript">
-			$(document).ready(function(){
-				init_change_tab();
-				/*Collapse*/
-				vC=1;
-				vTotal=$(".col2 div .content").length;
-				$(".col2 div .content").each(function(){
-					if(vC>1 && vC<vTotal){ //if 1st and last matched
-						/* slide up the content if display is set to none by czwong */
-						if($(this).css('display') == "none"){
-							$(this).slideUp('fast');
-						}
-					}
-					vC++;
-				});
-				
-				/*register onclick function to toggle expand/collapse*/
-				vC=1;
-				vTotal=$(".col2 div .title").length;
-				$(".col2 div .title").each(function(){
-					$(this).css('cursor','pointer'); //move to css
-					if(vC>1 && vC<vTotal){ //if 1st and last matched
-						
-						/* Start modified by czwong to slideDown first if the content is hide */
-						if($(this).parent().find('.content').css('display') == 'none'){
-							$(this).toggle(
-								function(){
-									$(this).parent().find('.content').slideDown('fast');
-								},
-								function(){
-									$(this).parent().find('.content').slideUp('fast');
-								}
-							);
-						}else{
-							$(this).toggle(
-								function(){
-									$(this).parent().find('.content').slideUp('fast');
-								},
-								function(){
-									$(this).parent().find('.content').slideDown('fast');
-								}	
-							);
-						}
-						/* End modified by czwong to slideDown first if the content is hide */
-					}else{
-					
-						/* Start modified by czwong to slideDown first if the content is hide */
-						if($(this).parent().find('.content').css('display') == 'none'){
-							$(this).toggle(
-								function(){
-									$(this).parent().find('.content').slideDown('fast');
-								},
-								function(){
-									$(this).parent().find('.content').slideUp('fast');
-								}
-							);
-						}else{
-							$(this).toggle(
-								function(){
-									$(this).parent().find('.content').slideUp('fast');
-								},
-								function(){
-									$(this).parent().find('.content').slideDown('fast');
-								}
-							);
-						}
-						/* End modified by czwong to slideDown first if the content is hide */
-					}
-					vC++;
-				});
-				
-			});
-		</script>
-		<!--<script src="https://www.google.com/recaptcha/api.js" async defer></script>-->
-		<script>
-		// (function() {if (!window['___grecaptcha_cfg']) { window['___grecaptcha_cfg'] = {}; };if (!window['___grecaptcha_cfg']['render']) { window['___grecaptcha_cfg']['render'] = 'onload'; };window['__google_recaptcha_client'] = true;var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://www.gstatic.com/recaptcha/api2/v1514934548259/recaptcha__en.js'; var elem = document.querySelector('script[nonce]');var nonce = elem && (elem['nonce'] || elem.getAttribute('nonce'));if (nonce) { po.setAttribute('nonce', nonce); }var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();
-		</script>
-	
-	
+			
+.width-control-header {
+    background-color: #fff;
+    padding: 30px 50px 0;
+	/*padding: 20px 30px;*/
+}
+.width-control-menu {
+    background-color: #fff;
+    border-bottom: 1px solid #d7d7d7;
+    padding: 0 50px 0;
+}
+/*#header {
+    padding-bottom:0;
+}*/
+		</style>
+<div id="content">
 		<!-- Start width control-->
 		<!-- header -->
 		<div id="header">
@@ -793,32 +869,79 @@ $(document).ready(function(){
 	-moz-opacity: .09;
 	opacity: .90;
 }
-</style><link rel="stylesheet" href="/moonlight_kernel/moonlight/plugin/jquery-megamenu2/stylesheets/jquery.megamenu.css" type="text/css" media="screen"><script src="/moonlight_kernel/moonlight/plugin/jquery-megamenu2/javascripts/jquery.megamenu.js" type="text/javascript"></script>
-<script src="/moonlight_kernel/moonlight/plugin/jquery-megamenu2/javascripts/jquery.verticalmenu.js" type="text/javascript"></script>
-
-<script type="text/javascript" language="javascript">
-	$(document).ready(function(){
-		jQuery(".megamenu2").megamenu();
-		jQuery(".verticalmenu2").verticalmenu();
-	});
-
-	function initMegamenu(p_id){
-		jQuery("." + p_id).megamenu();
-	}
-</script>			<div class="width-control">
+</style>			<div class="width-control-header">
 				<div class="row vertical-align">
 					<div class="col-md-6">
-						<div class="t_row">
+						<div class="t_row img_rotate">
 	<div class="t_col">
-		<a href="https://www.sarawak.gov.my/"><img style="width:60px;" alt="Sarawak Crest" src="https://www.sarawak.gov.my/media/images/Banner/sarawak.png"></a>
+		<a href="https://www.sarawak.gov.my/">
+		<span class="flip-glow"></span>
+		<img class="img_load_flip" style="width:60px;" alt="Sarawak Crest" src="https://www.sarawak.gov.my/media/images/Banner/sarawak.png"></a>
 	</div>
 	<div class="t_col" style="padding-top:9px;">
-		<a href="https://www.sarawak.gov.my/">The Official Portal of<div style="font-weight:bold;font-size:31px;line-height:0.8em;">Sarawak Government</div></a>
+		<a href="https://www.sarawak.gov.my/"><span class="flip-glow"></span>The Official Portal of<div style="font-weight:bold;font-size:28px;line-height:0.8em;">Sarawak Government</div></a>
 	</div>
 </div>
 <style>
 .t_col {
 	padding-right:8px;
+}
+
+/*.flip-glow{
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    max-width: 0;
+    background: #fff;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    -webkit-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+a:hover .flip-glow {
+    max-width: 100%;
+    background: #fff;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: all 0.8s ease-out;
+    -ms-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+    transition: all 0.8s ease-out;
+}*/
+
+img {
+    overflow: hidden;
+    transition-duration: 3.8s;
+    transition-property: transform;
+}
+.img_rotate:hover img {
+    transform: rotateY(720deg);
+}
+
+.img_load_flip {
+  -webkit-animation: flipbanner 1s;
+  animation: flipbanner 1s;
+}
+@-webkit-keyframes flipbanner {
+  from {
+    transform: rotateY(720deg)
+  }
+  to {
+    transform: rotateY(0deg)
+  }
+}
+@keyframes flipbanner {
+  from {
+    transform: rotateY(720deg)
+  }
+  to {
+    transform: rotateY(0deg)
+  }
 }
 </style>					</div>
 					<div class="col-md-6">
@@ -835,26 +958,146 @@ $(document).ready(function(){
 
 						</div>
 						<div class="topheader">
-							<div class="web-search-input">
-		<div style="display:inline-block;width:100%;">
-			<div class="input-group">
-								<input id="txt_search_simple" type="text" class="form-control" placeholder="Search" value="" onkeyup="if(event.keyCode==13){portlet_search_simple();}search_suggest(event.keyCode);">
-				
-				<input type="hidden" class="text" name="txt_search_simple_category" id="txt_search_simple_category" value="">				<span class="input-group-btn">
-					<button onclick="javascript:portlet_search_simple();" class="btn btn-primary" type="button" value="search">
-						<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
-						<!--<label for="common-search">
-							Search						</label>-->
-					</button>
-				</span>
-			</div>
-			<div class="search_suggestion">
+						<style>
+input {
+	outline: none;
+}
+input[type=search] {
+	-webkit-appearance: textfield;
+	-webkit-box-sizing: content-box;
+	font-family: inherit;
+	font-size: 100%;
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+	display: none; 
+}
+
+input[type=search] {
+	background: #ededed url(https://www.sarawak.gov.my//media/images/search-icon.png) no-repeat 9px center;
+	border: solid 1px #ccc;
+	padding: 9px 10px 9px 32px;
+	width: 55px;
+	
+	-webkit-border-radius: 10em;
+	-moz-border-radius: 10em;
+	border-radius: 10em;
+	
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	transition: all .5s;
+}
+input[type=search]:focus {
+	width: 130px;
+	background-color: #fff;
+	/*border-color: #66CC75;*/
+	border-color: #888;
+	
+	/*-webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	-moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	box-shadow: 0 0 5px rgba(109,207,246,.5);*/
+}
+
+
+input:-moz-placeholder {
+	color: #999;
+}
+input::-webkit-input-placeholder {
+	color: #999;
+}
+
+/* Demo 2 */
+/*#demo-2 input[type=search] {
+	width: 15px;
+	padding-left: 10px;
+	color: transparent;
+	cursor: pointer;
+}
+#demo-2 input[type=search]:hover {
+	background-color: #fff;
+}
+#demo-2 input[type=search]:focus {
+	width: 130px;
+	padding-left: 32px;
+	color: #000;
+	background-color: #fff;
+	cursor: auto;
+}
+#demo-2 input:-moz-placeholder {
+	color: transparent;
+}
+#demo-2 input::-webkit-input-placeholder {
+	color: transparent;
+}*/
+
+#demo-2 input[type=search] {
+	width: 15px;
+	padding-left: 10px;
+	color: transparent;
+	cursor: pointer;
+}
+
+#demo-2 .src_on_hover {
+	width: 280px!important;
+	padding-left: 32px!important;
+	color: #000!important;
+	background-color: #fff!important;
+	cursor: auto!important;
+}
+
+.search_suggestion{
+	position:relative;
+	top:1px;
+	background:#fff;
+	width:100%;
+	z-index:99999999;
+}
+.search_suggestion .search_suggestion_wrapper{
+	background:#fff;
+	width:100%;
+	position:absolute;
+}
+.search_suggestion .search_suggestion_wrapper ul{
+	text-align:left;
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	border:1px solid #999;
+	-moz-box-shadow:0px 0px 5px #666666;
+	-webkit-box-shadow:0px 0px 5px #666666;
+	box-shadow:0px 0px 5px #666666;
+}
+.search_suggestion .search_suggestion_wrapper ul li{
+	padding:5px 5px;
+}
+.search_suggestion .search_suggestion_wrapper ul li:hover{
+	background:#ffff8c !important;
+	cursor:pointer;
+}
+.search_suggestion .search_suggestion_wrapper ul li.selected{
+	background:#FFFE00;
+}
+</style>
+<div id="demo-2">
+	<input onfocus="on_focus_func(this);" onblur="off_focus_func(this);" id="txt_search_simple" type="search" placeholder="" value="" onkeyup="if(event.keyCode==13){portlet_search_simple();}search_suggest(event.keyCode);">
+		<div class="search_suggestion">
 				<div class="search_suggestion_wrapper" id="search_suggestion_wrapper"></div>
-			</div>
-		</div>	
-	</div>
+		</div>
+				<input type="hidden" class="text" name="txt_search_simple_category" id="txt_search_simple_category" value=""></div>
 
 <script language="javascript">
+function on_focus_func(evt){
+	evt.className="src_on_hover";
+	document.getElementById("txt_search_simple").placeholder = "Enter Keyword Here.";
+}
+
+function off_focus_func(evt){
+	if(evt.value==""){
+		evt.className="";
+		document.getElementById("txt_search_simple").placeholder = "";
+	}
+}
+
 function portlet_search_simple(){
 	window.location='https://www.sarawak.gov.my/web/home/search/?keyword='+escape(document.getElementById('txt_search_simple').value)+'&cat='+escape(document.getElementById('txt_search_simple_category').value);
 }
@@ -903,55 +1146,128 @@ function search_select(vObjLI){
 	vObjSearchBox.value=vObjLI.innerHTML;
 	portlet_search_simple();
 }
-</script>
-<style>
-.search_suggestion{
-	position:relative;
-	top:1px;
-	background:#fff;
-	width:100%;
-	z-index:99999999;
+</script>		<!-- <a href="https://www.sarawak.gov.my/web/home/login/" class="btn btn-sarawak-id btn-sm img_rotate" style="">
+		<img style="height:28px;" alt="Sarawak ID Logo" src="https://www.sarawak.gov.my/media/images/v2/image_swak_id.png">Sarawak ID Login
+	</a> -->
+	
+	<style>
+#swkid_plugin .swkid-icon img,.swkid-plugin-container,.swkid-profile-picture{
+	height:32px
+	}
+#swkid_plugin .swkid-icon,#swkid_plugin .swkid-register{
+	border-right:1px solid #DFB301;display:flex
 }
-.search_suggestion .search_suggestion_wrapper{
-	background:#fff;
-	width:100%;
-	position:absolute;
+.swkid-plugin-container{
+	display:flex;align-items:center;cursor:pointer
 }
-.search_suggestion .search_suggestion_wrapper ul{
-	text-align:left;
-	margin:0;
-	padding:0;
+.swkid-profile-picture{
+	width:32px;border-radius:50%;cursor:pointer
+}
+.swkid-span{
+	margin-left:5px;font-size:1em
+}
+.swkid-btn{
+	background-color:#fecc05;color:#000!important;border-radius:3px!important;margin-left:5px;padding:3px 11px
+}
+.swkid-btn:hover{
+	box-shadow:0 5px 10px rgba(0,0,0,.25),0 3px 3px rgba(0,0,0,.22);
+	-webkit-box-shadow:0 5px 10px rgba(0,0,0,.25),0 3px 3px rgba(0,0,0,.22);
+	-moz-box-shadow:0 5px 10px rgba(0,0,0,.25),0 3px 3px rgba(0,0,0,.22)
+}
+.swkid-button-span{
+	font-size:.8em
+}
+.swkid-logo-right{
+	margin:4px 0;width:20px
+}
+.swkid-drop-down-bottom-left,.swkid-drop-down-bottom-right{
+	bottom:32px;margin-bottom:8px
+}
+.swkid-drop-down-top-left{
+	left:0;top:32px;margin-top:8px
+}
+.swkid-drop-down-bottom-left{
+	left:0
+}
+.swkid-drop-down-bottom-right{
+	right:0
+}
+.swkid-drop-down-top-right{
+	right:0;top:32px;margin-top:.2em
+}
+.swkid-plugin-ul{
+	display:none;padding:0;
 	list-style-type:none;
-	border:1px solid #999;
-	-moz-box-shadow:0px 0px 5px #666666;
-	-webkit-box-shadow:0px 0px 5px #666666;
-	box-shadow:0px 0px 5px #666666;
+	background:#fff;
+	position:absolute;
+	min-width:100%;
+	max-height:300px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24);
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24);
+	box-shadow:0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24);
+	z-index:5;
+	width:auto
 }
-.search_suggestion .search_suggestion_wrapper ul li{
-	padding:5px 5px;
-}
-.search_suggestion .search_suggestion_wrapper ul li:hover{
-	background:#ffff8c !important;
+ul.swkid-plugin-ul li a{
+	display:block;
+	color:#444;
+	text-decoration:none;
+	white-space:nowrap;
+	font-size:14px!important;
+	outline:0;
 	cursor:pointer;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+	padding:6px 8px
 }
-.search_suggestion .search_suggestion_wrapper ul li.selected{
-	background:#FFFE00;
+ul.swkid-plugin-ul li a:hover{
+	background:#0180B0;
+	color:#fff
 }
+#swkid_plugin .swkid-wrapper,#swkid_plugin .swkid-wrapper *{
+	display:-webkit-box;
+	display:-moz-box;
+	display:-ms-flexbox;
+	display:-webkit-flex;
+	display:flex;
+	flex-flow:row wrap;
+	align-items:center
+}
+#swkid_plugin .swkid-wrapper{
+	background:#FECC05;
+	border-radius:2px;
+	width:100%
+}
+#swkid_plugin .swkid-icon{
+	padding:4px;
+	background:#222;
+	border-radius:2px 0 0 2px;
+	align-self:stretch
+}
+#swkid_plugin .swkid-icon img{
+	width:32px
+}
+#swkid_plugin .swkid-login,#swkid_plugin .swkid-register{
+	padding:2px 15px;
+	text-decoration:none;
+	color:initial;flex-grow:1;
+	justify-content:center}#swkid_plugin .swkid-login:hover,#swkid_plugin .swkid-register:hover{text-shadow:0 1px 2px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.36)}#swkid_plugin span{color:#222}.swkid-unique-login-short,.swkid_short_name{display:none!important}@media all and (min-width:992px){#swkid_plugin .swkid-icon img{width:32px;height:32px}#swkid_plugin .swkid-icon{padding:4px}#swkid_plugin .swkid-login,#swkid_plugin .swkid-register{padding:2px 15px}#swkid_plugin .swkid-icon,#swkid_plugin .swkid-register{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}@media all and (max-width:991px){.swkid-hidden-sm{display:none}.swkid-first-btn{margin-left:0}}@media all and (max-width:575px){.swkid-hidden-xs{display:none!important}.swkid-btn{margin-left:0}.swkid-unique-login-short,.swkid_short_name{display:-webkit-box!important;display:-moz-box!important;display:-ms-flexbox!important;display:-webkit-flex!important;display:flex!important;flex-flow:row wrap;align-items:center}}
 </style>
 
-	<!--<div id="sarawak_id_logo">
-		<a href="https://www.sarawak.gov.my/web/home/login/" class="">
-			<img alt="Sarawak ID Logo" src="https://www.sarawak.gov.my/media/images/v2/image_swak_id.png">
-		</a>Sarawak ID Login
-	</div>-->
-	<a href="https://www.sarawak.gov.my/web/home/login/" class="btn btn-sarawak-id btn-sm" style="">
-		<img style="padding:2px;" alt="Sarawak ID Logo" src="https://www.sarawak.gov.my/media/images/v2/image_swak_id.png">Sarawak ID Login
-	</a>
-	<!--<div id="sarawak_id_logo">
-		<a href="http://10.18.4.52/projects/mseg/branches/v2/web/home/login_new/" class="">
-			<img alt="Sarawak ID Logo" src="http://10.18.4.52/projects/mseg/branches/v2/media/images/v2/image_swak_id.png">
-		</a>Sarawak ID Login
-	</div>-->
+
+<link rel="stylesheet" type="text/css" href="https://sarawakid.tnt.sarawak.gov.my/web/web/default/swkid_font_awesome.css">
+<div id="swkid_plugin" style="padding-left: 10px;">
+<div style="width: auto; position: relative;">
+	<div class="swkid-wrapper">
+		<a href="https://www.sarawak.gov.my/aboutsarawakid" class="swkid-icon swkid-unique-name swkid-hidden-xs" title="Sarawak ID">
+			<img id="swkid-profile-picture" class="swkid-unique-logo" src="https://www.sarawak.gov.my/media/images/image_sarawakid_logo_reverse.png">
+			</a>
+			<a href="https://www.sarawak.gov.my/web/home/signup/" class="swkid-register swkid-unique-register swkid-hidden-xs" title="Sarawak ID Register">Register</a>
+			<a href="https://www.sarawak.gov.my/web/home/login/" class="swkid-login swkid-unique-login" title="Sarawak ID Login" onclick="login_form_submit();">Login</a>
+		</div>
+	</div>
+</div>
 	
 
 
@@ -960,7 +1276,6 @@ function search_select(vObjLI){
 				</div>
 			</div>
 		</div>
-
 		<div id="BannerWrapper">
 			<div class="body-row">
 				<div>
@@ -972,55 +1287,500 @@ function search_select(vObjLI){
 			</div>
 		</div>
 		<div id="MenuWrapper" class="menu_background">
-			<div class="width-control">
+			<div class="">
 				<div class="body-row">
 					<div>
-						<div class="menuHolder"><ul class="megamenu2 frt_menu2"><li style="text-align:center; float: left;" class="mm-item"><a href="http://www.sarawak.gov.my/web/home/article_view/228/244/" class="mm-item-link" alt="Menu link to About Sarawak">About Sarawak</a><div class="mm-container" style="display: none; text-align:left;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/228/244/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/228/244/">History</a></h3><div class="list-content"><div onclick="javascript:window.location=&quot;/web/home/article_view/233/244/&quot;"><a href="/web/home/article_view/233/244/">Sarawak before 1841</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/234/245/&quot;"><a href="/web/home/article_view/234/245/">The Brooke Era</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/235/246/&quot;"><a href="/web/home/article_view/235/246/">The Japanese Occupation</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/236/247/&quot;"><a href="/web/home/article_view/236/247/">British Military Administration</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/237/248/&quot;"><a href="/web/home/article_view/237/248/">Sarawak as a British Crown Colony</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/238/249/&quot;"><a href="/web/home/article_view/238/249/">Self-Governing Sarawak 1963</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/239/250/&quot;"><a href="/web/home/article_view/239/250/">Formation of Malaysia 1963</a></div></div></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/153/172/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/153/172/">State Symbols</a></h3><div class="list-content"><div onclick="javascript:window.location=&quot;/web/home/article_view/154/172/&quot;"><a href="/web/home/article_view/154/172/">Sarawak State Flag</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/155/187/&quot;"><a href="/web/home/article_view/155/187/">Sarawak State Crest</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/157/174/&quot;"><a href="/web/home/article_view/157/174/">Sarawak State Anthem</a></div></div></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/158/175/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/158/175/">Demographics</a></h3><div class="list-content"><div onclick="javascript:window.location=&quot;/web/home/article_view/240/175/&quot;"><a href="/web/home/article_view/240/175/">Population</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/241/251/&quot;"><a href="/web/home/article_view/241/251/">Births and Deaths</a></div></div></div></td><td style="border-left:1px solid #c0c0c0;"></td><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/159/176/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/159/176/">Geography</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/160/177/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/160/177/">Transport and Infrastructure</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/164/181/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/164/181/">Communication</a></h3></div></td></tr></tbody></table></div></li><li style="text-align:center; float: left;" class="mm-item"><a href="/#nolink" class="mm-item-link" alt="Menu link to Sarawak Government">Sarawak Government</a><div class="mm-container" style="display: none; text-align:left;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/229/188/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/229/188/">Sarawak Government</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/183/199/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/183/199/">Sarawak Civil Service</a></h3><div class="list-content"><div onclick="javascript:window.location=&quot;/web/home/article_view/259/191/&quot;"><a href="/web/home/article_view/259/191/">Chief Minister's Department</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/260/192/&quot;"><a href="/web/home/article_view/260/192/">Client's Charter</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/261/295/&quot;"><a href="/web/home/article_view/261/295/">Client's Charter Achievement</a></div></div></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/173/189/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/173/189/">Yang di-Pertua Negeri</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/174/190/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/174/190/">Chief Minister</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/180/196/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/180/196/">Judiciary</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/182/198/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/182/198/">Executive</a></h3></div></td></tr></tbody></table></div></li><li style="text-align:center; float: left;" class="mm-item"><a href="http://www.sarawak.gov.my/web/home/article_view/186/242/" class="mm-item-link" alt="Menu link to Online Services">Online Services</a><div class="mm-container" style="display: none; text-align:left;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/186/242/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/186/242/">Online Services</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/187/205/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/187/205/">Mobile And SMS Services</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/service_statistic&quot;" class="mm-item-no-image"><a href="/web/home/service_statistic">Statistics</a></h3></div></td></tr></tbody></table></div></li><li style="text-align:center; float: left;" class="mm-item"><a href="/web/home/article_view/193/211/" class="mm-item-link" alt="Menu link to Residents">Residents</a><div class="mm-container" style="display: none; text-align:left;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/194/211/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/194/211/">Citizenship</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/195/213/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/195/213/">Malaysian Passport</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/197/215/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/197/215/">Education</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/198/297/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/198/297/">Public Holidays 2018</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/199/296/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/199/296/">School Holidays 2018</a></h3></div></td></tr></tbody></table></div></li><li style="text-align:center; float: left;" class="mm-item"><a href="/web/home/page/200/investor/" class="mm-item-link" alt="Menu link to Investors">Investors</a><div class="mm-container" style="display: none; text-align:left;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/201/218/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/201/218/">Sarawak Advantages</a></h3><div class="list-content"><div onclick="javascript:window.location=&quot;/web/home/article_view/202/218/&quot;"><a href="/web/home/article_view/202/218/">Location</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/203/219/&quot;"><a href="/web/home/article_view/203/219/">Government</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/204/220/&quot;"><a href="/web/home/article_view/204/220/">Economic Growth</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/205/221/&quot;"><a href="/web/home/article_view/205/221/">Climate and Natural Resources</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/206/222/&quot;"><a href="/web/home/article_view/206/222/">Labour Market</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/207/177/&quot;"><a href="/web/home/article_view/207/177/">Infrastructure</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/208/224/&quot;"><a href="/web/home/article_view/208/224/">Utilities</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/209/225/&quot;"><a href="/web/home/article_view/209/225/">Quality of Life</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/210/226/&quot;"><a href="/web/home/article_view/210/226/">Financial Services</a></div></div></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/211/227/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/211/227/">Industrial Estate</a></h3><div class="list-content"><div onclick="javascript:window.location=&quot;/web/home/article_view/212/227/&quot;"><a href="/web/home/article_view/212/227/">Industrial Estate by Division</a></div><div onclick="javascript:window.location=&quot;/web/home/article_view/213/228/&quot;"><a href="/web/home/article_view/213/228/">Industrial Estate Developed by MID</a></div></div></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/214/229/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/214/229/">Investment Incentives</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/215/230/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/215/230/">Equity Protection Policies</a></h3></div></td><td style="border-left:1px solid #c0c0c0;"></td><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/216/231/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/216/231/">Manufacturing Applications</a></h3></div></td></tr></tbody></table></div></li><li style="text-align:center; float: left;" class="mm-item"><a href="/web/home/page/217/visitors/" class="mm-item-link" alt="Menu link to Visitors">Visitors</a><div class="mm-container" style="display: none; text-align:left;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/218/233/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/218/233/">Getting Around</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/219/234/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/219/234/">Travel Tips</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/220/235/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/220/235/">Places of Interest</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/221/279/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/221/279/">Malaysia My Second Home</a></h3></div></td></tr></tbody></table></div></li><li style="text-align:center; float: left;" class="mm-item"><a href="/web/home/list_agency/243/" class="mm-item-link" alt="Menu link to Directory">Directory</a></li><li style="text-align:center; float: left;" class="mm-item"><a href="/web/home/list_news/223/" class="mm-item-link" alt="Menu link to Media Centre">Media Centre</a><div class="mm-container" style="display: none; text-align:left;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="vertical-align:top;min-width:200px;"><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/list_news/244/&quot;" class="mm-item-no-image"><a href="/web/home/list_news/244/">News</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/list_event/353/&quot;" class="mm-item-no-image"><a href="/web/home/list_event/353/">Events</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/album/226/&quot;" class="mm-item-no-image"><a href="/web/home/album/226/">Photo Gallery</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/video/231/&quot;" class="mm-item-no-image"><a href="/web/home/video/231/">Video Gallery</a></h3></div><div class="mm-inner-container"><h3 onclick="javascript:window.location=&quot;/web/home/article_view/247/259/&quot;" class="mm-item-no-image"><a href="/web/home/article_view/247/259/">Publication</a></h3></div></td></tr></tbody></table></div></li></ul>
+						<div class="width-control1">
+  <nav id="navbar_main" class="navbar navbar-default" style="padding-left:26px; padding-right:26px;border-radius:0;">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <span id="logo_stick">
+			<a class="logo slideDown pull-left" href="https://www.sarawak.gov.my/"><img style="width:33px;" alt="Sarawak Crest" src="https://www.sarawak.gov.my/media/images/Banner/sarawak.png"></a>
+			<!--<span class="name slideDown pull-left">
+				Sarawak Government
+			</span>-->
+	  </span>
+    </div>
+    <div class="collapse navbar-collapse js-navbar-collapse">
+      <ul class="nav navbar-nav">
+		<li id="home">
+			<a href="https://www.sarawak.gov.my/" style="width:auto;"><span aria-hidden="true" class="glyphicon glyphicon-home"></span></a>
+		</li>
+	  <li class="dropdown mega-dropdown"><a href="http://www.sarawak.gov.my/web/home/article_view/228/244/" class="dropdown-toggle" data-toggle="dropdown">About Sarawak <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="dropdown-header"><a style="padding:0;" href="/web/home/article_view/228/244/">History</a></li><li><a href="/web/home/article_view/233/244/">Sarawak before 1841</a></li><li><a href="/web/home/article_view/234/245/">The Brooke Era</a></li><li><a href="/web/home/article_view/235/246/">The Japanese Occupation</a></li><li><a href="/web/home/article_view/236/247/">British Military Administration</a></li><li><a href="/web/home/article_view/237/248/">Sarawak as a British Crown Colony</a></li><li><a href="/web/home/article_view/238/249/">Self-Governing Sarawak 1963</a></li><li><a href="/web/home/article_view/239/250/">Formation of Malaysia 1963</a></li></ul></li><li class="col-sm-3"><ul><li class="dropdown-header"><a style="padding:0;" href="/web/home/article_view/153/172/">State Symbols</a></li><li><a href="/web/home/article_view/154/172/">Sarawak State Flag</a></li><li><a href="/web/home/article_view/155/187/">Sarawak State Crest</a></li><li><a href="/web/home/article_view/157/174/">Sarawak State Anthem</a></li></ul></li><li class="col-sm-3"><ul><li class="dropdown-header"><a style="padding:0;" href="/web/home/article_view/158/175/">Demographics</a></li><li><a href="/web/home/article_view/240/175/">Population</a></li></ul></li><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/159/176/">Geography</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/160/177/">Transport and Infrastructure</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/164/181/">Communication</a></li></ul></li></ul></li></ul></li><li class="dropdown mega-dropdown"><a href="/#nolink" class="dropdown-toggle" data-toggle="dropdown">Sarawak Government <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="dropdown-header"><a style="padding:0;" href="/web/home/article_view/229/188/">Sarawak Government</a></li><li><a href="/web/home/article_view/358/298/">Sarawak Administrative Division and Districts</a></li><li><a href="/web/home/article_view/359/299/">Government Policy</a></li></ul></li><li class="col-sm-3"><ul><li class="dropdown-header"><a style="padding:0;" href="/web/home/article_view/183/199/">Sarawak Civil Service</a></li><li><a href="/web/home/article_view/259/191/">Chief Minister's Department</a></li><li><a href="/web/home/article_view/260/192/">Client's Charter</a></li><li><a href="/web/home/article_view/261/295/">Client's Charter Achievement</a></li></ul></li><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/173/189/">Yang di-Pertua Negeri</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/174/190/">Chief Minister</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/180/196/">Judiciary</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/182/198/">Executive</a></li></ul></li></ul></li></ul></li><li class="dropdown mega-dropdown"><a href="http://www.sarawak.gov.my/web/home/article_view/186/242/" class="dropdown-toggle" data-toggle="dropdown">Online Services <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/186/242/">Online Services</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/187/205/">Mobile And SMS Services</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/service_statistic">Statistics</a></li></ul></li></ul></li></ul></li><li class="dropdown mega-dropdown"><a href="/web/home/article_view/193/211/" class="dropdown-toggle" data-toggle="dropdown">Residents <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/194/211/">Citizenship</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/195/213/">Malaysian Passport</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/197/215/">Education</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/198/297/">Public Holidays 2018</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/199/296/">School Holidays 2018</a></li></ul></li></ul></li></ul></li><li class="dropdown mega-dropdown"><a href="/web/home/page/200/investor/" class="dropdown-toggle" data-toggle="dropdown">Investors <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="dropdown-header"><a style="padding:0;" href="/web/home/article_view/201/218/">Sarawak Advantages</a></li><li><a href="/web/home/article_view/202/218/">Location</a></li><li><a href="/web/home/article_view/203/219/">Government</a></li><li><a href="/web/home/article_view/204/220/">Economic Growth</a></li><li><a href="/web/home/article_view/205/221/">Climate and Natural Resources</a></li><li><a href="/web/home/article_view/206/222/">Labour Market</a></li><li><a href="/web/home/article_view/207/177/">Infrastructure</a></li><li><a href="/web/home/article_view/208/224/">Utilities</a></li><li><a href="/web/home/article_view/209/225/">Quality of Life</a></li><li><a href="/web/home/article_view/210/226/">Financial Services</a></li></ul></li><li class="col-sm-3"><ul><li class="dropdown-header"><a style="padding:0;" href="/web/home/article_view/211/227/">Industrial Estate</a></li><li><a href="/web/home/article_view/212/227/">Industrial Estate by Division</a></li><li><a href="/web/home/article_view/213/228/">Industrial Estate Developed by MID</a></li></ul></li><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/214/229/">Investment Incentives</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/215/230/">Equity Protection Policies</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/216/231/">Manufacturing Applications</a></li></ul></li></ul></li></ul></li><li class="dropdown mega-dropdown"><a href="/web/home/page/217/visitors/" class="dropdown-toggle" data-toggle="dropdown">Visitors <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/218/233/">Getting Around</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/219/234/">Travel Tips</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/220/235/">Places of Interest</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/221/279/">Malaysia My Second Home</a></li></ul></li></ul></li></ul></li><li><a href="/web/home/list_agency/243/" class="" alt="Directory">Directory</a></li><li class="dropdown mega-dropdown"><a href="/web/home/list_news/223/" class="dropdown-toggle" data-toggle="dropdown">Media Centre <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/list_news/244/">News</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/list_event/353/">Events</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/album/226/">Photo Gallery</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/video/231/">Video Gallery</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/247/259/">Publication</a></li></ul></li></ul></li></ul></li><li class="dropdown mega-dropdown"><a href="/https://sarawakid.sarawak.gov.my/" class="dropdown-toggle" data-toggle="dropdown">Sarawak ID <span class="glyphicon glyphicon-chevron-down pull-right"></span></a><ul class="dropdown-menu mega-dropdown-menu row"><li class="col-sm-3"><ul><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/0/300/">How to Register</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/364/303/">How to Update Your Email</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/363/302/">How to Update Your Personal Information</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/365/304/">How to Update Your Password</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/article_view/366/305/">How to Update Your Phone Number</a></li></ul></li><li class="col-sm-3-dis" style=""><ul><li class="dropdown-header"><a href="/web/home/faq/362/#12">FAQ</a></li></ul></li></ul></li></ul></li></ul>    </div>
+    <!-- /.nav-collapse -->
+  </nav>
+</div>  <style>
+.navbar-nav>li>.dropdown-menu {
+  margin-top: 20px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  /*width: 200px;*/
+  font-weight: bold;
+}
+
+.mega-dropdown {
+  position: static !important;
+  /*width: 100%;*/
+}
+
+.mega-dropdown-menu {
+  padding: 20px 0px;
+  width: 100%;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+/*.mega-dropdown-menu:before {
+  content: "";
+  border-bottom: 15px solid #fff;
+  border-right: 17px solid transparent;
+  border-left: 17px solid transparent;
+  position: absolute;
+  top: -15px;
+  left: 285px;
+  z-index: 10;
+}
+
+.mega-dropdown-menu:after {
+  content: "";
+  border-bottom: 17px solid #ccc;
+  border-right: 19px solid transparent;
+  border-left: 19px solid transparent;
+  position: absolute;
+  top: -17px;
+  left: 283px;
+  z-index: 8;
+}*/
+
+.mega-dropdown-menu > li > ul {
+  padding: 0;
+  margin: 0;
+}
+
+.mega-dropdown-menu > li > ul > li {
+  list-style: none;
+}
+
+.mega-dropdown-menu > li > ul > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.428571429;
+  color: #999;
+  white-space: normal;
+}
+
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+  text-decoration: none;
+  color: #444;
+  background-color: #f5f5f5;
+}
+
+.mega-dropdown-menu .dropdown-header {
+  color: #428bca;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.mega-dropdown-menu form {
+  margin: 3px 20px;
+}
+
+.mega-dropdown-menu .form-group {
+  margin-bottom: 3px;
+}
+
+.mega-dropdown-menu .dropdown-header a{
+    color: #428bca;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index:10000;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+#logo_stick{
+	display:none;
+}
+
+.sticky #logo_stick{
+	display:block;
+}
+
+.sticky #home{
+	display:none;
+}
+
+.mega-dropdown.open:before {
+  content: "";
+  border-bottom: 16px solid #fff;
+  border-right: 18px solid transparent;
+  border-left: 18px solid transparent;
+  position: absolute;
+  bottom:0;
+  margin-bottom: -21px;
+  margin-left:1px;
+  z-index: 1002;
+}
+
+.mega-dropdown.open:after {
+  content: "";
+  border-bottom: 17px solid #ccc;
+  border-right: 19px solid transparent;
+  border-left: 19px solid transparent;
+  position: absolute;
+  bottom:0;
+  margin-bottom: -21px;
+  z-index: 1001;
+}
+
+.dropdown-toggle .glyphicon{
+padding-left:20px;
+}
+
+.navbar-nav:nth-child(2) ul{
+	background:#9495e0;
+}
+
+/*
+.mega-dropdown-menu:nth-of-type(1){
+	background:#9495e0;
+}
+
+.mega-dropdown ul li ul a{
+	color:#fff!important;
+}
+*/
+
+.effect-1.dat-menu-animate .dat-menu-container {
+    -webkit-transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+    transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+}
+
+/*.width-control{
+	-webkit-transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+    transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+}*/
+</style>
+<script>
+window.onscroll = function() {myFunction()};
+
+if(document.getElementById("navbar_main")){
+var navbar = document.getElementById("navbar_main");
+var sticky = navbar.offsetTop;
+}
+
+function myFunction() {
+
+if(window.innerWidth > 500){
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky");
+	//navbar.classList.add("slide");
+  }else{
+	navbar.classList.remove("sticky");
+  }
+}else{
+	navbar.classList.remove("sticky");
+}
+
+}
+
+$(document).on('click', '.mega-dropdown', function(e) {
+  e.stopPropagation()
+})
+</script>
+<!--<style>
+.navbar-nav>li>.dropdown-menu {
+  margin-top: 20px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  /*width: 200px;*/
+  font-weight: bold;
+}
+
+.mega-dropdown {
+  position: static !important;
+  /*width: 100%;*/
+}
+
+.mega-dropdown-menu {
+  padding: 20px 0px;
+  width: 100%;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+/*.mega-dropdown-menu:before {
+  content: "";
+  border-bottom: 15px solid #fff;
+  border-right: 17px solid transparent;
+  border-left: 17px solid transparent;
+  position: absolute;
+  top: -15px;
+  left: 285px;
+  z-index: 10;
+}
+
+.mega-dropdown-menu:after {
+  content: "";
+  border-bottom: 17px solid #ccc;
+  border-right: 19px solid transparent;
+  border-left: 19px solid transparent;
+  position: absolute;
+  top: -17px;
+  left: 283px;
+  z-index: 8;
+}*/
+
+.mega-dropdown-menu > li > ul {
+  padding: 0;
+  margin: 0;
+}
+
+.mega-dropdown-menu > li > ul > li {
+  list-style: none;
+}
+
+.mega-dropdown-menu > li > ul > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.428571429;
+  color: #999;
+  white-space: normal;
+}
+
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+  text-decoration: none;
+  color: #444;
+  background-color: #f5f5f5;
+}
+
+.mega-dropdown-menu .dropdown-header {
+  color: #428bca;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.mega-dropdown-menu form {
+  margin: 3px 20px;
+}
+
+.mega-dropdown-menu .form-group {
+  margin-bottom: 3px;
+}
+
+.mega-dropdown-menu .dropdown-header a{
+    color: #428bca;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index:10000;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+#logo_stick{
+	display:none;
+}
+
+.sticky #logo_stick{
+	display:block;
+}
+
+.sticky #home{
+	display:none;
+}
+
+.mega-dropdown.open:before {
+  content: "";
+  border-bottom: 16px solid #fff;
+  border-right: 18px solid transparent;
+  border-left: 18px solid transparent;
+  position: absolute;
+  bottom:0;
+  margin-bottom: -21px;
+  margin-left:1px;
+  z-index: 1002;
+}
+
+.mega-dropdown.open:after {
+  content: "";
+  border-bottom: 17px solid #ccc;
+  border-right: 19px solid transparent;
+  border-left: 19px solid transparent;
+  position: absolute;
+  bottom:0;
+  margin-bottom: -21px;
+  z-index: 1001;
+}
+
+.dropdown-toggle .glyphicon{
+padding-left:20px;
+}
+
+.navbar-nav:nth-child(2) ul{
+	background:#9495e0;
+}
+
+/*
+.mega-dropdown-menu:nth-of-type(1){
+	background:#9495e0;
+}
+
+.mega-dropdown ul li ul a{
+	color:#fff!important;
+}
+*/
+
+.effect-1.dat-menu-animate .dat-menu-container {
+    -webkit-transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+    transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+}
+
+/*.width-control{
+	-webkit-transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+    transform: translateZ(-1500px) translateX(100%) rotateY(-45deg);
+}*/
+</style>
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar_main");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+
+if(window.innerWidth > 500){
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky");
+	//navbar.classList.add("slide");
+  }else{
+	navbar.classList.remove("sticky");
+  }
+}else{
+	navbar.classList.remove("sticky");
+}
+
+}
+
+$(document).on('click', '.mega-dropdown', function(e) {
+  e.stopPropagation()
+})
+</script>-->
+<style>
+.dat-menu-search-block input[type='text'] {
+	display: block;
+	/*height: 40px;*/
+	padding: 0 15px;
+	line-height: 40px;
+	width: 100%;
+	border: 0px;
+	border-radius: 40px;
+	color: #fff;
+	outline: none;
+	background: transparent;
+	position: relative;
+	z-index: 10;
+	border: 1px solid rgba(255,255,255,0.5);
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.dat-menu-search-block input[type='text']:focus {
+	color: #232323;
+	background: #fff;
+	border: 1px solid #fff;
+}
+
+.dat-menu-search{
+	display:none;
+}
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 12px!important;
+    height: 2px;
+}
+</style>
+<script>
+	$(".dat-menu-search").bind("click", function () {
+		console.log('test');
+		/*$('html,body').animate({
+			scrollTop: 0
+		});
+		$(".dat-menu-top-header").css("position", "absolute").css("top", "0px");*/
+		//$(".dat-menu-top-header input[type='text']").focus();
+		return false;
+	});
+</script>
+
+<link rel="stylesheet" href="https://www.sarawak.gov.my/web/web/web/offcanvas.css">
+<script src="https://www.sarawak.gov.my/web/web/js/offcanvas.js"></script>
 <!-- Fixed navbar -->
-    <nav id="responsive_header" class="navbar navbar-default navbar-fixed-top responsive_header">
-      <div class="width-control">
+    <nav id="responsive_header" class="navbar navbar-default navbar-fixed-top">
+      <div class="width-control-dis">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed pull-right" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <button type="button" class="navbar-toggle offcanvas-toggle pull-right" style="background:transparent;" data-toggle="offcanvas" data-target="#js-bootstrap-offcanvas">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-		  <!--<a href="https://www.sarawak.gov.my/web/home/login/" class="btn btn-sarawak-id btn-sm pull-right" style="margin:8px;">
-			<img style="padding:2px;" alt="Sarawak ID Logo" src="https://www.sarawak.gov.my/media/images/v2/image_swak_id.png">
-		  </a>-->
-		  <a class="logo pull-left" href="https://www.sarawak.gov.my/"><img style="width:33px;" alt="Sarawak Crest" src="https://www.sarawak.gov.my/media/images/Banner/sarawak.png"></a>
-          <span class="name pull-left">
-			Sarawak Government		  </span>
-        </div> 
-	<div class="row" style="border-top:1px solid #e7e7e7;padding:  0px 15px 0px 15px;">
-		<div class="col-md-10 col-sm-9 col-xs-9">
-			<div style="padding-top:15px;padding-bottom:15px;" role="search">
-				<div class="input-group" style="width:100%;">
-					<input name="txt_search_simple_responsive" id="txt_search_simple_responsive" value="" onkeyup="if(event.keyCode==13){portlet_search_simple_res();}" type="text" class="form-control" placeholder="Search">
-					<input type="hidden" class="text" name="txt_search_simple_category_res" id="txt_search_simple_category_res" value="">					<div class="input-group-btn">
-						<button class="btn btn-primary" onclick="javascript:portlet_search_simple_res();">
-							<i class="glyphicon glyphicon-search"></i>
-						</button>
-					</div>
-				</div>
-					<script>
-						function portlet_search_simple_res(){
-							window.location='https://www.sarawak.gov.my/web/home/search/?keyword='+escape(document.getElementById('txt_search_simple_responsive').value)+'&cat='+escape(document.getElementById('txt_search_simple_category_res').value);
-						}
-					</script>
-        
-			</div>
-		</div>
-		<div class="col-md-2 col-sm-3 col-xs-3">
-			<div class="pull-right" style="padding-top:15px;padding-bottom:15px;" role="search">
-				<a href="https://www.sarawak.gov.my/web/home/login/" class="btn btn-sarawak-id btn-sm" style="margin:0px;">
-					<img style="padding:0px;" alt="Sarawak ID Logo" src="https://www.sarawak.gov.my/media/images/v2/image_swak_id.png">
+		  
+		  			<div class="btn pull-right" style="padding-top:14px; background:transparent; outline:0;" role="search">
+				<a href="https://www.sarawak.gov.my/web/home/login/" class="" style="margin:0px;">
+					<!--<img style="padding:0px;" alt="Sarawak ID Logo" src="https://www.sarawak.gov.my/media/images/v2/image_swak_id.png">-->
+					<span class="glyphicon glyphicon-lock" style="color:#fecc05;"></span>
 				</a>
 			</div>
-		</div>
-	</div>
-        <div id="navbar" class="navbar-collapse collapse">
+				  
+		  <button class="btn pull-right" style="padding-top:14px; background:transparent; outline:0;" onclick="javascript:openSearch();">
+			<i class="glyphicon glyphicon-search"></i>
+		  </button>
+		  
+		  <a style="padding-top:12px; margin-left:3px; background:transparent; outline:0;" class="btn pull-left" href="https://www.sarawak.gov.my/">
+		  <img style="width:25px;" alt="Sarawak Crest" src="https://www.sarawak.gov.my/media/images/Banner/sarawak.png">
+		  <span style="font-size:13px;">Sarawak Government</span>
+		  <!--<i class="glyphicon glyphicon-home"></i>-->
+		  </a>
+          <!--<span class="name pull-left">
+			Sarawak Government		  </span>-->
+        </div> 
+        <div class="navbar-offcanvas navbar-offcanvas-touch" id="js-bootstrap-offcanvas">
 		<!---------------------------->
 		<div class="row-d" style="padding:6px 3px 3px 3px;">
 			<label style="padding:6px 6px 6px 0px;">Language</label>
@@ -1045,9 +1805,6 @@ function search_select(vObjLI){
 					}
 				</script>
 				<style>
-					.responsive_header{
-						padding-top: 30px;
-					}
 					.onoffswitch {
 						position: relative; width: 90px;
 						-webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
@@ -1095,7 +1852,7 @@ function search_select(vObjLI){
 					}
 				</style>
 		<!---------------------------->
-		  <ul class="nav navbar-nav navbar-left"><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Sarawak <span class="caret"></span></a><ul class="dropdown-menu"><li class="dropdown"><a href="/web/home/article_view/228/244/">History</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/233/244/">Sarawak before 1841</a></li><li><a href="/web/home/article_view/234/245/">The Brooke Era</a></li><li><a href="/web/home/article_view/235/246/">The Japanese Occupation</a></li><li><a href="/web/home/article_view/236/247/">British Military Administration</a></li><li><a href="/web/home/article_view/237/248/">Sarawak as a British Crown Colony</a></li><li><a href="/web/home/article_view/238/249/">Self-Governing Sarawak 1963</a></li><li><a href="/web/home/article_view/239/250/">Formation of Malaysia 1963</a></li></ul></li><li class="dropdown"><a href="/web/home/article_view/153/172/">State Symbols</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/154/172/">Sarawak State Flag</a></li><li><a href="/web/home/article_view/155/187/">Sarawak State Crest</a></li><li><a href="/web/home/article_view/157/174/">Sarawak State Anthem</a></li></ul></li><li class="dropdown"><a href="/web/home/article_view/158/175/">Demographics</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/240/175/">Population</a></li><li><a href="/web/home/article_view/241/251/">Births and Deaths</a></li></ul></li><li><a href="/web/home/article_view/159/176/">Geography</a></li><li><a href="/web/home/article_view/160/177/">Transport and Infrastructure</a></li><li><a href="/web/home/article_view/164/181/">Communication</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sarawak Government <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/229/188/">Sarawak Government</a></li><li class="dropdown"><a href="/web/home/article_view/183/199/">Sarawak Civil Service</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/259/191/">Chief Minister's Department</a></li><li><a href="/web/home/article_view/260/192/">Client's Charter</a></li><li><a href="/web/home/article_view/261/295/">Client's Charter Achievement</a></li></ul></li><li><a href="/web/home/article_view/173/189/">Yang di-Pertua Negeri</a></li><li><a href="/web/home/article_view/174/190/">Chief Minister</a></li><li><a href="/web/home/article_view/180/196/">Judiciary</a></li><li><a href="/web/home/article_view/182/198/">Executive</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Online Services <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/186/242/">Online Services</a></li><li><a href="/web/home/article_view/187/205/">Mobile And SMS Services</a></li><li><a href="/web/home/service_statistic">Statistics</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Residents <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/194/211/">Citizenship</a></li><li><a href="/web/home/article_view/195/213/">Malaysian Passport</a></li><li><a href="/web/home/article_view/197/215/">Education</a></li><li><a href="/web/home/article_view/198/297/">Public Holidays 2018</a></li><li><a href="/web/home/article_view/199/296/">School Holidays 2018</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Investors <span class="caret"></span></a><ul class="dropdown-menu"><li class="dropdown"><a href="/web/home/article_view/201/218/">Sarawak Advantages</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/202/218/">Location</a></li><li><a href="/web/home/article_view/203/219/">Government</a></li><li><a href="/web/home/article_view/204/220/">Economic Growth</a></li><li><a href="/web/home/article_view/205/221/">Climate and Natural Resources</a></li><li><a href="/web/home/article_view/206/222/">Labour Market</a></li><li><a href="/web/home/article_view/207/177/">Infrastructure</a></li><li><a href="/web/home/article_view/208/224/">Utilities</a></li><li><a href="/web/home/article_view/209/225/">Quality of Life</a></li><li><a href="/web/home/article_view/210/226/">Financial Services</a></li></ul></li><li class="dropdown"><a href="/web/home/article_view/211/227/">Industrial Estate</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/212/227/">Industrial Estate by Division</a></li><li><a href="/web/home/article_view/213/228/">Industrial Estate Developed by MID</a></li></ul></li><li><a href="/web/home/article_view/214/229/">Investment Incentives</a></li><li><a href="/web/home/article_view/215/230/">Equity Protection Policies</a></li><li><a href="/web/home/article_view/216/231/">Manufacturing Applications</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Visitors <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/218/233/">Getting Around</a></li><li><a href="/web/home/article_view/219/234/">Travel Tips</a></li><li><a href="/web/home/article_view/220/235/">Places of Interest</a></li><li><a href="/web/home/article_view/221/279/">Malaysia My Second Home</a></li></ul></li><li><a href="/web/home/list_agency/243/" class="" alt="Directory">Directory</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Media Centre <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/list_news/244/">News</a></li><li><a href="/web/home/list_event/353/">Events</a></li><li><a href="/web/home/album/226/">Photo Gallery</a></li><li><a href="/web/home/video/231/">Video Gallery</a></li><li><a href="/web/home/article_view/247/259/">Publication</a></li></ul></li></ul>        </div><!--/.nav-collapse -->
+		  <ul class="nav navbar-nav navbar-left"><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Sarawak <span class="caret"></span></a><ul class="dropdown-menu"><li class="dropdown"><a href="/web/home/article_view/228/244/">History</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/233/244/">Sarawak before 1841</a></li><li><a href="/web/home/article_view/234/245/">The Brooke Era</a></li><li><a href="/web/home/article_view/235/246/">The Japanese Occupation</a></li><li><a href="/web/home/article_view/236/247/">British Military Administration</a></li><li><a href="/web/home/article_view/237/248/">Sarawak as a British Crown Colony</a></li><li><a href="/web/home/article_view/238/249/">Self-Governing Sarawak 1963</a></li><li><a href="/web/home/article_view/239/250/">Formation of Malaysia 1963</a></li></ul></li><li class="dropdown"><a href="/web/home/article_view/153/172/">State Symbols</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/154/172/">Sarawak State Flag</a></li><li><a href="/web/home/article_view/155/187/">Sarawak State Crest</a></li><li><a href="/web/home/article_view/157/174/">Sarawak State Anthem</a></li></ul></li><li class="dropdown"><a href="/web/home/article_view/158/175/">Demographics</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/240/175/">Population</a></li></ul></li><li><a href="/web/home/article_view/159/176/">Geography</a></li><li><a href="/web/home/article_view/160/177/">Transport and Infrastructure</a></li><li><a href="/web/home/article_view/164/181/">Communication</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sarawak Government <span class="caret"></span></a><ul class="dropdown-menu"><li class="dropdown"><a href="/web/home/article_view/229/188/">Sarawak Government</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/358/298/">Sarawak Administrative Division and Districts</a></li><li><a href="/web/home/article_view/359/299/">Government Policy</a></li></ul></li><li class="dropdown"><a href="/web/home/article_view/183/199/">Sarawak Civil Service</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/259/191/">Chief Minister's Department</a></li><li><a href="/web/home/article_view/260/192/">Client's Charter</a></li><li><a href="/web/home/article_view/261/295/">Client's Charter Achievement</a></li></ul></li><li><a href="/web/home/article_view/173/189/">Yang di-Pertua Negeri</a></li><li><a href="/web/home/article_view/174/190/">Chief Minister</a></li><li><a href="/web/home/article_view/180/196/">Judiciary</a></li><li><a href="/web/home/article_view/182/198/">Executive</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Online Services <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/186/242/">Online Services</a></li><li><a href="/web/home/article_view/187/205/">Mobile And SMS Services</a></li><li><a href="/web/home/service_statistic">Statistics</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Residents <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/194/211/">Citizenship</a></li><li><a href="/web/home/article_view/195/213/">Malaysian Passport</a></li><li><a href="/web/home/article_view/197/215/">Education</a></li><li><a href="/web/home/article_view/198/297/">Public Holidays 2018</a></li><li><a href="/web/home/article_view/199/296/">School Holidays 2018</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Investors <span class="caret"></span></a><ul class="dropdown-menu"><li class="dropdown"><a href="/web/home/article_view/201/218/">Sarawak Advantages</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/202/218/">Location</a></li><li><a href="/web/home/article_view/203/219/">Government</a></li><li><a href="/web/home/article_view/204/220/">Economic Growth</a></li><li><a href="/web/home/article_view/205/221/">Climate and Natural Resources</a></li><li><a href="/web/home/article_view/206/222/">Labour Market</a></li><li><a href="/web/home/article_view/207/177/">Infrastructure</a></li><li><a href="/web/home/article_view/208/224/">Utilities</a></li><li><a href="/web/home/article_view/209/225/">Quality of Life</a></li><li><a href="/web/home/article_view/210/226/">Financial Services</a></li></ul></li><li class="dropdown"><a href="/web/home/article_view/211/227/">Industrial Estate</a><ul class="dropdown-submenu"><li><a href="/web/home/article_view/212/227/">Industrial Estate by Division</a></li><li><a href="/web/home/article_view/213/228/">Industrial Estate Developed by MID</a></li></ul></li><li><a href="/web/home/article_view/214/229/">Investment Incentives</a></li><li><a href="/web/home/article_view/215/230/">Equity Protection Policies</a></li><li><a href="/web/home/article_view/216/231/">Manufacturing Applications</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Visitors <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/218/233/">Getting Around</a></li><li><a href="/web/home/article_view/219/234/">Travel Tips</a></li><li><a href="/web/home/article_view/220/235/">Places of Interest</a></li><li><a href="/web/home/article_view/221/279/">Malaysia My Second Home</a></li></ul></li><li><a href="/web/home/list_agency/243/" class="" alt="Directory">Directory</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Media Centre <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/list_news/244/">News</a></li><li><a href="/web/home/list_event/353/">Events</a></li><li><a href="/web/home/album/226/">Photo Gallery</a></li><li><a href="/web/home/video/231/">Video Gallery</a></li><li><a href="/web/home/article_view/247/259/">Publication</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sarawak ID <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/web/home/article_view/0/300/">How to Register</a></li><li><a href="/web/home/article_view/364/303/">How to Update Your Email</a></li><li><a href="/web/home/article_view/363/302/">How to Update Your Personal Information</a></li><li><a href="/web/home/article_view/365/304/">How to Update Your Password</a></li><li><a href="/web/home/article_view/366/305/">How to Update Your Phone Number</a></li><li><a href="/web/home/faq/362/#12">FAQ</a></li></ul></li></ul>        </div><!--/.nav-collapse -->
       </div>
     </nav>
 	
@@ -1152,27 +1909,111 @@ function search_select(vObjLI){
     color: #777;
     padding: 0.5em;
 }
+
+.navbar-offcanvas{
+height:100%;
+}
+</style>
+
+ <div id="myOverlay" class="overlay_src">
+  <span class="closebtn" onclick="closeSearch()" title="Close Overlay">x</span>
+  <div class="overlay_src-content">
+    <div>
+      <input name="txt_search_simple_responsive" id="txt_search_simple_responsive" value="" onkeyup="if(event.keyCode==13){portlet_search_simple_res();}" type="text" placeholder="Search">
+					<input type="hidden" class="text" name="txt_search_simple_category_res" id="txt_search_simple_category_res" value="">	  <button style="border-radius:0;" onclick="javascript:portlet_search_simple_res();"><i class="glyphicon glyphicon-search"></i></button>
+	  <script>
+						function portlet_search_simple_res(){
+							window.location='https://www.sarawak.gov.my/web/home/search/?keyword='+escape(document.getElementById('txt_search_simple_responsive').value)+'&cat='+escape(document.getElementById('txt_search_simple_category_res').value);
+						}
+	  </script>
+	</div>
+  </div>
+</div> 
+
+<style>
+/* The overlay effect with black background */
+.overlay_src {
+  height: 100%;
+  width: 100%;
+  display: none;
+  position: fixed;
+  z-index: 1050;
+  top: 0;
+  left: 0;
+  background-color: background-color: #f8f8f8;;
+  background-color: rgba(0,0,0, 0.88); /* Black with a little bit see-through */
+}
+
+/* The content */
+.overlay_src-content {
+  position: relative;
+  top: 46%;
+  width: 80%;
+  text-align: center;
+  margin-top: 30px;
+  margin: auto;
+}
+
+/* Close button */
+.overlay_src .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  cursor: pointer;
+  color: white;
+}
+
+.overlay_src .closebtn:hover {
+  color: #ccc;
+}
+
+/* Style the search field */
+.overlay_src input[type=text] {
+  padding: 15px;
+  font-size: 17px;
+  border: none;
+  float: left;
+  width: 80%;
+  background: white;
+}
+
+.overlay_src input[type=text]:hover {
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+.overlay_src button {
+  float: left;
+  width: 20%;
+  padding: 15px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.overlay_src button:hover {
+  background: #bbb;
+}
 </style>
 
 <script>
-window.onscroll = function() {myFunction()};
-
-var navbar = document.getElementById("responsive_header");
-var sticky = navbar.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset > sticky) {
-	navbar.classList.remove("responsive_header");
-  } else {
-	navbar.classList.add("responsive_header");
-  }
+// Open the full screen search box
+function openSearch() {
+  document.getElementById("myOverlay").style.display = "block";
 }
+
+// Close the full screen search box
+function closeSearch() {
+  document.getElementById("myOverlay").style.display = "none";
+} 
 </script>
-</div>					</div>
+					</div>
 				</div>
 			</div>
 		</div>
-										<div id="width-control">
+										<div id="container">
 			<!-- <div class="width-control"> -->
 				<div class="colmask rightmenu">
 					<div class="colleft">
@@ -1318,7 +2159,7 @@ $(document).ready(
 </style>
 <div class="width-control">
 <div id="pMenuFooter" style="text-align:center;">
-<ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/250/261/">Security Policy</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/251/262/">Privacy Policy</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/253/289/">Terms &amp; Conditions</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/feedback/254/">Feedback/Comment</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/264/273/">About Us</a></li></ul></div>
+<ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/250/261/">Security Policy</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/251/262/">Privacy Policy</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/253/289/">Terms &amp; Conditions</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/feedback/254/">Feedback/Comment</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/article_view/264/273/">About Us</a></li></ul><ul class="menufooter" style="margin-bottom:18px;"><li><a href="/web/home/poll/356/">Lets Join!</a></li></ul></div>
 </div>
 <div style="clear:both;"></div><script type="text/javascript" language="javascript">
 $(document).ready(function(){
@@ -1350,6 +2191,15 @@ $(document).ready(function(){
 					<strong>Disclaimer: </strong>The Government of Sarawak shall not be liable for any loss or damage caused by the usage of any information obtained from this portal. Services provided through this portal are subject to the terms and conditions of the respective service providers.</p>
 				<p>
 					Best viewed with latest Mozilla Firefox and Google Chrome; Screen resolution 1024 by 768 pixels</p>
+				<p>
+					&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 25%;">
+				<p>
+					<strong>Useful Link:</strong><br>
+					<a href="https://www.malaysia.gov.my/public/cms/" target="_blank"><img src="https://www.sarawak.gov.my/media/others/malaysia_button.jpg" style="width: 60px; height: 60px;"></a> <a href="http://www.data.gov.my/" target="_blank"><img src="https://www.sarawak.gov.my/media/others/data_button.jpg" style="width: 60px; height: 60px;"></a> <a href="https://data.sarawak.gov.my/" target="_blank"><img alt="sarawak data" src="https://www.sarawak.gov.my/media/others/data.jpg" style="width: 60px; height: 60px;"></a></p>
 			</td>
 		</tr>
 	</tbody>
@@ -1357,14 +2207,14 @@ $(document).ready(function(){
 			</div>
 <div class="portletVerticalSeparator">&nbsp;</div><div class="width-control">
 <div id="pLastUpdatedDate">
-<div>Last Updated Date : 30 May 2018</div>
+<div>Last Updated Date : 24 December 2018</div>
 </div>
 </div>
 	<div class="width-control">
 <div id="pAppPlace">
 	<div class="">
 		<div class="contentNoBg">
-<div>Web Counter : <span style="font-size:1.2em;font-weight:bold;">8553872</span></div>
+<div>Web Counter : <span style="font-size:1.2em;font-weight:bold;">12296420</span></div>
 </div>
 </div>
 </div>
@@ -1373,7 +2223,7 @@ $(document).ready(function(){
 <script type="text/javascript">
 v_uniq_hits_span = document.getElementById('span_uniq_hits');
 if(v_uniq_hits_span){
-	v_uniq_hits_span.innerHTML = "8553872";
+	v_uniq_hits_span.innerHTML = "12296420";
 }
 </script></div>					</div>
 					<div class="box-right">
@@ -1403,26 +2253,138 @@ $(document).ready(function(){
 	Fax :082-441677<br>
 	email:<br>
 	<img src="https://www.sarawak.gov.my/media/images/icon/emal.jpg"><br>
-	<br>
-	<strong>Useful Link:</strong><br>
-	<a href="https://www.malaysia.gov.my/" target="_blank"><img alt="malaysia government website" src="https://www.sarawak.gov.my/media/images/icon/malaysia_button.jpg" style="width: 60px; height: 60px;"></a> <a href="http://www.data.gov.my/"><img alt="www.data.gov.my" src="https://www.sarawak.gov.my/media/images/icon/data_button.jpg" style="width: 60px; height: 60px;"></a></div></div>
+	<img alt="" height="100" src="http://www.jkm.sarawak.gov.my/modules/web/image_show.php?id=435" width="100"></div></div>
 			</div>
 <div class="portletVerticalSeparator">&nbsp;</div></div>					</div>
 				</div>
 			</div>
 		</div>
 
-		<script language="javascript" type="text/javascript" src="https://www.sarawak.gov.my//moonlight_kernel/moonlight/plugin/shortcut/shortcuts.js"></script><script language="javascript" type="text/javascript">j_lbl_field_required="This field is required.";</script>
+		<script language="javascript" type="text/javascript" src="https://www.sarawak.gov.my//moonlight_kernel/moonlight/plugin/shortcut/shortcuts.js"></script><script language="javascript" type="text/javascript">j_lbl_field_required="This field is required.";</script>		<button id="back-to-top" href="#" class="btn btn-primary btn-circle btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></button>
+		<style>
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+	outline:0!important;
 	
-		
+	background-color: #ededed;
+    border-color: #777;
+	color: #4d4d4d;
+}
+.back-to-top:focus, .back-to-top:active, .back-to-top:hover {
+    background-color: #ededed;
+    border-color: #777;
+	color: #4d4d4d;
+}
+.navbar-default .navbar-toggle {
+    border:0!important;
+}
+		</style>
+		<script>
+			$(document).ready(function(){
+     $(window).scroll(function () {
+            if ($(this).scrollTop() > 50) {
+                $('#back-to-top').fadeIn();
+            } else {
+                $('#back-to-top').fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        $('#back-to-top').click(function () {
+            $('#back-to-top').tooltip('hide');
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+        
+        $('#back-to-top').tooltip('show');
 
-<!--<script src="http://10.18.4.52/projects/mseg/branches/mseg_3.1/assets/jquery/jquery-1.11.3.min.js"></script>-->
+});
+		</script>
+</div>
+	
+
+
+
 <!--<script src="http://10.18.4.52/projects/mseg/branches/mseg_3.1/assets/jquery-appear/jquery.appear.js"></script>
-<script src="http://10.18.4.52/projects/mseg/branches/mseg_3.1/assets/jquery.countTo.js"></script>
+<script src="http://10.18.4.52/projects/mseg/branches/mseg_3.1/assets/jquery.countTo.js"></script>-->
 <script type="text/javascript">
-	var timer = $('.timer');
+	/*var timer = $('.timer');
 		timer.appear(function () {
 			timer.countTo();
+		});*/
+		
+		/*slide animation*/		
+  /*function counttoanimation(){
+	$(".timer").each(function(){
+      var pos = $(this).offset().top;
+	  //default 600
+      var winTop = $(window).scrollTop();
+        if (pos < winTop+800) {
+			$(this).countTo();
+			$(this).removeClass("timer");
+        }
+    });
+  }
+
+  $(window).scroll(function() {
+	counttoanimation();
+  });*/
+
+/*!
+Waypoints - 4.0.1
+*/
+!function(){"use strict";function t(o){if(!o)throw new Error("No options passed to Waypoint constructor");if(!o.element)throw new Error("No element option passed to Waypoint constructor");if(!o.handler)throw new Error("No handler option passed to Waypoint constructor");this.key="waypoint-"+e,this.options=t.Adapter.extend({},t.defaults,o),this.element=this.options.element,this.adapter=new t.Adapter(this.element),this.callback=o.handler,this.axis=this.options.horizontal?"horizontal":"vertical",this.enabled=this.options.enabled,this.triggerPoint=null,this.group=t.Group.findOrCreate({name:this.options.group,axis:this.axis}),this.context=t.Context.findOrCreateByElement(this.options.context),t.offsetAliases[this.options.offset]&&(this.options.offset=t.offsetAliases[this.options.offset]),this.group.add(this),this.context.add(this),i[this.key]=this,e+=1}var e=0,i={};t.prototype.queueTrigger=function(t){this.group.queueTrigger(this,t)},t.prototype.trigger=function(t){this.enabled&&this.callback&&this.callback.apply(this,t)},t.prototype.destroy=function(){this.context.remove(this),this.group.remove(this),delete i[this.key]},t.prototype.disable=function(){return this.enabled=!1,this},t.prototype.enable=function(){return this.context.refresh(),this.enabled=!0,this},t.prototype.next=function(){return this.group.next(this)},t.prototype.previous=function(){return this.group.previous(this)},t.invokeAll=function(t){var e=[];for(var o in i)e.push(i[o]);for(var n=0,r=e.length;r>n;n++)e[n][t]()},t.destroyAll=function(){t.invokeAll("destroy")},t.disableAll=function(){t.invokeAll("disable")},t.enableAll=function(){t.Context.refreshAll();for(var e in i)i[e].enabled=!0;return this},t.refreshAll=function(){t.Context.refreshAll()},t.viewportHeight=function(){return window.innerHeight||document.documentElement.clientHeight},t.viewportWidth=function(){return document.documentElement.clientWidth},t.adapters=[],t.defaults={context:window,continuous:!0,enabled:!0,group:"default",horizontal:!1,offset:0},t.offsetAliases={"bottom-in-view":function(){return this.context.innerHeight()-this.adapter.outerHeight()},"right-in-view":function(){return this.context.innerWidth()-this.adapter.outerWidth()}},window.Waypoint=t}(),function(){"use strict";function t(t){window.setTimeout(t,1e3/60)}function e(t){this.element=t,this.Adapter=n.Adapter,this.adapter=new this.Adapter(t),this.key="waypoint-context-"+i,this.didScroll=!1,this.didResize=!1,this.oldScroll={x:this.adapter.scrollLeft(),y:this.adapter.scrollTop()},this.waypoints={vertical:{},horizontal:{}},t.waypointContextKey=this.key,o[t.waypointContextKey]=this,i+=1,n.windowContext||(n.windowContext=!0,n.windowContext=new e(window)),this.createThrottledScrollHandler(),this.createThrottledResizeHandler()}var i=0,o={},n=window.Waypoint,r=window.onload;e.prototype.add=function(t){var e=t.options.horizontal?"horizontal":"vertical";this.waypoints[e][t.key]=t,this.refresh()},e.prototype.checkEmpty=function(){var t=this.Adapter.isEmptyObject(this.waypoints.horizontal),e=this.Adapter.isEmptyObject(this.waypoints.vertical),i=this.element==this.element.window;t&&e&&!i&&(this.adapter.off(".waypoints"),delete o[this.key])},e.prototype.createThrottledResizeHandler=function(){function t(){e.handleResize(),e.didResize=!1}var e=this;this.adapter.on("resize.waypoints",function(){e.didResize||(e.didResize=!0,n.requestAnimationFrame(t))})},e.prototype.createThrottledScrollHandler=function(){function t(){e.handleScroll(),e.didScroll=!1}var e=this;this.adapter.on("scroll.waypoints",function(){(!e.didScroll||n.isTouch)&&(e.didScroll=!0,n.requestAnimationFrame(t))})},e.prototype.handleResize=function(){n.Context.refreshAll()},e.prototype.handleScroll=function(){var t={},e={horizontal:{newScroll:this.adapter.scrollLeft(),oldScroll:this.oldScroll.x,forward:"right",backward:"left"},vertical:{newScroll:this.adapter.scrollTop(),oldScroll:this.oldScroll.y,forward:"down",backward:"up"}};for(var i in e){var o=e[i],n=o.newScroll>o.oldScroll,r=n?o.forward:o.backward;for(var s in this.waypoints[i]){var a=this.waypoints[i][s];if(null!==a.triggerPoint){var l=o.oldScroll<a.triggerPoint,h=o.newScroll>=a.triggerPoint,p=l&&h,u=!l&&!h;(p||u)&&(a.queueTrigger(r),t[a.group.id]=a.group)}}}for(var c in t)t[c].flushTriggers();this.oldScroll={x:e.horizontal.newScroll,y:e.vertical.newScroll}},e.prototype.innerHeight=function(){return this.element==this.element.window?n.viewportHeight():this.adapter.innerHeight()},e.prototype.remove=function(t){delete this.waypoints[t.axis][t.key],this.checkEmpty()},e.prototype.innerWidth=function(){return this.element==this.element.window?n.viewportWidth():this.adapter.innerWidth()},e.prototype.destroy=function(){var t=[];for(var e in this.waypoints)for(var i in this.waypoints[e])t.push(this.waypoints[e][i]);for(var o=0,n=t.length;n>o;o++)t[o].destroy()},e.prototype.refresh=function(){var t,e=this.element==this.element.window,i=e?void 0:this.adapter.offset(),o={};this.handleScroll(),t={horizontal:{contextOffset:e?0:i.left,contextScroll:e?0:this.oldScroll.x,contextDimension:this.innerWidth(),oldScroll:this.oldScroll.x,forward:"right",backward:"left",offsetProp:"left"},vertical:{contextOffset:e?0:i.top,contextScroll:e?0:this.oldScroll.y,contextDimension:this.innerHeight(),oldScroll:this.oldScroll.y,forward:"down",backward:"up",offsetProp:"top"}};for(var r in t){var s=t[r];for(var a in this.waypoints[r]){var l,h,p,u,c,d=this.waypoints[r][a],f=d.options.offset,w=d.triggerPoint,y=0,g=null==w;d.element!==d.element.window&&(y=d.adapter.offset()[s.offsetProp]),"function"==typeof f?f=f.apply(d):"string"==typeof f&&(f=parseFloat(f),d.options.offset.indexOf("%")>-1&&(f=Math.ceil(s.contextDimension*f/100))),l=s.contextScroll-s.contextOffset,d.triggerPoint=Math.floor(y+l-f),h=w<s.oldScroll,p=d.triggerPoint>=s.oldScroll,u=h&&p,c=!h&&!p,!g&&u?(d.queueTrigger(s.backward),o[d.group.id]=d.group):!g&&c?(d.queueTrigger(s.forward),o[d.group.id]=d.group):g&&s.oldScroll>=d.triggerPoint&&(d.queueTrigger(s.forward),o[d.group.id]=d.group)}}return n.requestAnimationFrame(function(){for(var t in o)o[t].flushTriggers()}),this},e.findOrCreateByElement=function(t){return e.findByElement(t)||new e(t)},e.refreshAll=function(){for(var t in o)o[t].refresh()},e.findByElement=function(t){return o[t.waypointContextKey]},window.onload=function(){r&&r(),e.refreshAll()},n.requestAnimationFrame=function(e){var i=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||t;i.call(window,e)},n.Context=e}(),function(){"use strict";function t(t,e){return t.triggerPoint-e.triggerPoint}function e(t,e){return e.triggerPoint-t.triggerPoint}function i(t){this.name=t.name,this.axis=t.axis,this.id=this.name+"-"+this.axis,this.waypoints=[],this.clearTriggerQueues(),o[this.axis][this.name]=this}var o={vertical:{},horizontal:{}},n=window.Waypoint;i.prototype.add=function(t){this.waypoints.push(t)},i.prototype.clearTriggerQueues=function(){this.triggerQueues={up:[],down:[],left:[],right:[]}},i.prototype.flushTriggers=function(){for(var i in this.triggerQueues){var o=this.triggerQueues[i],n="up"===i||"left"===i;o.sort(n?e:t);for(var r=0,s=o.length;s>r;r+=1){var a=o[r];(a.options.continuous||r===o.length-1)&&a.trigger([i])}}this.clearTriggerQueues()},i.prototype.next=function(e){this.waypoints.sort(t);var i=n.Adapter.inArray(e,this.waypoints),o=i===this.waypoints.length-1;return o?null:this.waypoints[i+1]},i.prototype.previous=function(e){this.waypoints.sort(t);var i=n.Adapter.inArray(e,this.waypoints);return i?this.waypoints[i-1]:null},i.prototype.queueTrigger=function(t,e){this.triggerQueues[e].push(t)},i.prototype.remove=function(t){var e=n.Adapter.inArray(t,this.waypoints);e>-1&&this.waypoints.splice(e,1)},i.prototype.first=function(){return this.waypoints[0]},i.prototype.last=function(){return this.waypoints[this.waypoints.length-1]},i.findOrCreate=function(t){return o[t.axis][t.name]||new i(t)},n.Group=i}(),function(){"use strict";function t(t){this.$element=e(t)}var e=window.jQuery,i=window.Waypoint;e.each(["innerHeight","innerWidth","off","offset","on","outerHeight","outerWidth","scrollLeft","scrollTop"],function(e,i){t.prototype[i]=function(){var t=Array.prototype.slice.call(arguments);return this.$element[i].apply(this.$element,t)}}),e.each(["extend","inArray","isEmptyObject"],function(i,o){t[o]=e[o]}),i.adapters.push({name:"jquery",Adapter:t}),i.Adapter=t}(),function(){"use strict";function t(t){return function(){var i=[],o=arguments[0];return t.isFunction(arguments[0])&&(o=t.extend({},arguments[1]),o.handler=arguments[0]),this.each(function(){var n=t.extend({},o,{element:this});"string"==typeof n.context&&(n.context=t(this).closest(n.context)[0]),i.push(new e(n))}),i}}var e=window.Waypoint;window.jQuery&&(window.jQuery.fn.waypoint=t(window.jQuery)),window.Zepto&&(window.Zepto.fn.waypoint=t(window.Zepto))}();
+
+//visible
+!function(t){var i=t(window);t.fn.visible=function(t,e,o){if(!(this.length<1)){var r=this.length>1?this.eq(0):this,n=r.get(0),f=i.width(),h=i.height(),o=o?o:"both",l=e===!0?n.offsetWidth*n.offsetHeight:!0;if("function"==typeof n.getBoundingClientRect){var g=n.getBoundingClientRect(),u=g.top>=0&&g.top<h,s=g.bottom>0&&g.bottom<=h,c=g.left>=0&&g.left<f,a=g.right>0&&g.right<=f,v=t?u||s:u&&s,b=t?c||a:c&&a;if("both"===o)return l&&v&&b;if("vertical"===o)return l&&v;if("horizontal"===o)return l&&b}else{var d=i.scrollTop(),p=d+h,w=i.scrollLeft(),m=w+f,y=r.offset(),z=y.top,B=z+r.height(),C=y.left,R=C+r.width(),j=t===!0?B:z,q=t===!0?z:B,H=t===!0?R:C,L=t===!0?C:R;if("both"===o)return!!l&&p>=q&&j>=d&&m>=L&&H>=w;if("vertical"===o)return!!l&&p>=q&&j>=d;if("horizontal"===o)return!!l&&m>=L&&H>=w}}}}(jQuery);
+
+function splitLineHeadings() {
+
+	$splitLineOffsetPos = ($('#nectar_fullscreen_rows').length > 0) ? '200%' : 'bottom-in-view';
+	$($fullscreenSelector+'.nectar-split-heading').each(function() {
+
+		var $that = $(this);
+		var $animationEasing = ($('body[data-cae]').length > 0) ? $('body').attr('data-cae') : 'easeOutSine';
+		var $animationDuration = ($('body[data-cad]').length > 0) ? $('body').attr('data-cad') : '650';
+
+		var waypoint = new Waypoint({
+				element: $that,
+				 handler: function(direction) {
+				
+				if($that.parents('.wpb_tab').length > 0 && $that.parents('.wpb_tab').css('visibility') == 'hidden' || $that.hasClass('animated-in')) { 
+					 waypoint.destroy();
+					return;
+				}
+
+				if(!navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/) || $('body[data-responsive="0"]').length > 0) {
+				 	
+					
+					$that.find('.heading-line').each(function(i){
+						//if($that.parents('.first-section').length > 0 && $('body[data-aie="zoom-out"]').length > 0) i = i+4;
+						$(this).find('> div').delay(i*70).transition({
+							'y' : '0px'
+						},$animationDuration,$animationEasing);
+
+					});
+					
+
+					$that.addClass('animated-in');
+				
+				}
+
+				waypoint.destroy();
+			},
+			offset: $splitLineOffsetPos
 		});
-</script>-->
+
+	});
+}  
+
+//splitLineHeadings()
+</script>
 </body></html>
