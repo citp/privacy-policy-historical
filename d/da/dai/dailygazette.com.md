@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailygazette.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903231238id_/https%3A//dailygazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygazette.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225184450id_/https%3A//dailygazette.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Gazette
 
