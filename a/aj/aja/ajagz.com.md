@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ajagz.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614140609id_/http%3A//ajagz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajagz.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225081601id_/http%3A//ajagz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AJAGZ
+
+Note: We do not disclose any of your personal information. In fact we delete everything you gave in our site about you (to play the games and quizzes) after 60 days at max from when you created your link.
 
 ### Our Privacy Policy
 
@@ -24,4 +26,4 @@ Occasionally, during site creation or optimization, we may include third party s
 
 This is a third party ad service provider and it may appear on our web pages, which comes directly to your browsers. Google Adsense may receive your IP address when this occurs and our website has no access or control over this third party ad provider. You should consult the respective privacy policies of Google Adsense for more detailed information on their activities.
 
-For your queries and clarifications about our privacy policy, terms of use or site information, feel free to [contact us](https://web.archive.org/web/20180614140609id_/http%3A//ajagz.com/about). We welcome any feedback about our site activity and experience.
+For your queries and clarifications about our privacy policy, terms of use or site information, feel free to [contact us](https://web.archive.org/web/20181225081601id_/http%3A//ajagz.com/about). We welcome any feedback about our site activity and experience.
