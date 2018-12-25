@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the finotax.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905095835id_/http%3A//finotax.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finotax.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225130113id_/https%3A//finotax.com/policy) for the most accurate reproduction.*
 
-# Finotax - Privacy Policy
+# Privacy Policy | Finotax
+
+  * [🏠](https://web.archive.org/) » 
+  * [You are Here](http://www.finotax.com/policy)
+
+
 
 At Finotax.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Finotax.com and how it is used. 
 
@@ -18,7 +23,7 @@ We use third-party companies to serve ads and collect non-personally identifiabl
 
   * Google, as a third party vendor, uses cookies to serve ads on Finotax.com. 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to Finotax.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - https://www.google.com/privacy_ads
 
 
 
@@ -26,4 +31,4 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 Finotax.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Finotax.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [NAI universal user opt-out](http://www.networkadvertising.org/managing/opt_out.asp). 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Finotax.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [NAI universal user opt-out](https://www.networkadvertising.org/managing/opt_out.asp). 
