@@ -1,239 +1,158 @@
-> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031184242id_/http%3A//www.ryland.com/legal-disclaimer.html%23ppn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225195031id_/https%3A//www.lennar.com/privacypolicy) for the most accurate reproduction.*
 
-# Legal Disclaimer | CalAtlantic Homes
+# PrivacyPolicy
 
-## CalAtlantic Group, Inc. and Affiliated Companies
+The following Privacy Policy applies to Lennar in connection with your use of our websites, including, Lennar.com, myLennar, CalAtlantichomes.com and any mobile app provided by Lennar (collectively our “Properties”). Please note that this Privacy Policy does not apply to Lennar Affiliates or to the websites of such affiliates if such entity has adopted a different Privacy Policy and/or Legal Notices. Unless otherwise specified, “Lennar” includes Lennar Corporation and all applicable affiliated companies, including but not limited to: the Lennar Multifamily Companies, Lennar Commercial, Lennar Homes USA, Lennar Family of Builders, Lennar International, CalAtlantic Homes, Eagle Home Mortgage, Eagle Home Mortgage of California, CalAtlantic Mortgage, Inc., North American Title Strategic Technologies, Inc., Lennar Sales Corp., SunStreet Energy Group, North American Title Group, North American Title Company, CalAtlantic Title, Inc., CalAtlantic Title Atlanta, LLC, CalAtlantic Title of Maryland, Inc., CalAtlantic Title Charleston, LLC, CalAtlantic Abstract, Inc., SPH Title, Inc., North American Advantage Insurance Services, Rialto Capital Management, Five Point Communities, WCI Communities, LLC, Watermark Realty Referral, Inc., Watermark Realty, Inc., d/b/a Berkshire Hathaway HomeServices Florida Realty, d/b/a BHHS Florida Realty and d/b/a Florida Title & Guarantee Agency, WCI Realty, Inc., and Northwest Mortgage Alliance (collectively “Lennar Affiliates”). However, please note that where a Lennar Affiliate has individually adopted a different Privacy Policy, Terms and Conditions and/or Legal Disclaimers, such Privacy Policy, Terms and Conditions and/or Legal Disclaimers will supersede this Privacy Policy, Terms and Conditions and/or Legal Disclaimers for purposes of that Lennar Affiliate.
 
-**IMPORTANT LEGAL NOTICES TO OUR VISITORS**  
-Date revised and posted: 10/1/2015 
+Except as otherwise specifically provided in this Privacy Policy or as specifically required by law, any communication or material you provide to us, whether received online, electronically, in person or otherwise collected by or submitted to us, including any data, questions, comments, suggestions or the like, is, and will be treated as, non-proprietary. Anything you submit, transmit or post may be used for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, market research, development of prospect lists, project planning, broadcast, posting and marketing, among other things, as permitted by law and except as otherwise provided in this Privacy Policy.
 
-Our website is designed to familiarize you with CalAtlantic Group, Inc. and its family of companies (collectively, "CalAtlantic"), including information about the communities where our homes can be found, home plans and available features. Our site also provides useful information regarding mortgage, escrow, and title services that are available through RMC Mortgage® Corporation, Standard Pacific Mortgage®, Inc. and Ryland Title® Company. To learn more about the homes described on our website and how to purchase one, please contact the CalAtlantic Homes Division in which the home is located or use one of the options provided on this website to contact us. 
+We may also use information provided by you or transmitted to us through the Properties to send you electronic and other messages about a property in one of our communities or an offering from one of our Lennar affiliates or subsidiaries. Your use of our Properties constitutes your permission to do so unless you specify otherwise pursuant to applicable law, as discussed below. We comply with the US Federal CAN-SPAM Act, and make every effort to ensure that our messages are not considered Spam. Of course, you may unsubscribe from any messages we send at any time and you will not receive further electronic messages from us after following the instructions included within the message.
 
-**Please read the following important legal disclaimers and notices carefully before using this website:**
+We may provide you with an “opt-in” or “opt-out” mechanism depending on where you are located when we collect your personal data. An “opt-in” mechanism will provide you the opportunity to positively indicate that you would like or do not object to our sending you such further communications and we will not send you any unless you have “opted-in." An “opt-out” mechanism will provide you the opportunity to indicate that you do not want us to send you such further communications, and if you “opt-out” we will not send you any. Either way, opting-in or opting-out will be up to you and, in addition, if you do not want us to use your personal data for a particular purpose or disclose it to a third party, you may “opt-out” at any time by contacting us as provided below. 
 
-  * Privacy Policy Notices
-  * Equal Housing Opportunity
-  * Important Disclaimers
-  * Notice Regarding Links To And From This Website
-  * Notice Regarding Specifications, Prices, Terms, Renderings, and Other Information
-  * Copyright Notice
-  * Notice to Investors
-  * Equal Opportunity Employer
-  * RMC Mortgage® Corporation and Stanard Pacific Mortgage, Inc. (License Information)
-  * Miscellaneous Notices
+Information transmitted over the Internet may find its way to recipients to whom it is not intended or persons you may not want to have such information. Under certain circumstances, this may be beyond the control of Lennar, and you are advised that such transmission may not be secure. However, Lennar complies with applicable law regarding the safeguarding of your personal information, and we employ reasonable administrative, technical and physical safeguards to protect the security, confidentiality, and integrity of your information, as required by law. Further, we restrict access to nonpublic personal information about you to those employees who need to know that information in order to provide products or services to you.
 
+Contact Information: We may request and collect, without limitation, your name, address, email address, home telephone number, work telephone number, fax number and cell phone number.
 
+Additional Information About You: We may request and collect, without limitation, information about the home you are purchasing, including the community, mailing address, and anticipated closing date.
 
-### Privacy Policy Notices
+When you make inquiries concerning career opportunities, we will request a copy of your resume, your highest level of education and information about the type of job you are seeking.
 
-**Purpose of these Notices.**
+Access to Camera and Photos:  Some of our mobile Properties may request access to your mobile device's camera and photos.  We'll access your camera and photos only after you give us permission.
 
-The purpose of these Privacy Policy Notices are to inform you of how CalAtlantic protects and uses your non-public personal information. Please read this policy carefully. It provides important information about how we handle your personal information. By visiting this website, or otherwise interacting with us using electronic means, you agree that we may use your non-public personal information as described herein. 
+Comments to Our Blog Posts: When you post a comment to our blog, we collect your comment, name, and email address.
 
-**CalAtlantic Homes Notice.**
+Additionally, we may collect nonpublic personal information about you from the following sources:
 
-CalAtlantic Group, Inc. and its homebuilding affiliates, including but not limited to RH of Indiana, LP; RH of Texas Limited Partnership; Ryland Homes Nevada, LLC; Ryland Homes of Arizona, Inc.; and Ryland Homes of California, Inc., Standard Pacific of Arizona, LLC, Standard Pacific of Texas, LLC, Standard Pacific of Colorado, Inc., Standard Pacific the Carolinas, LLC, Standard Pacific of Florida, Standard Pacific of Tampa, and Standard Pacific of South Florida ("CalAtlantic Homes") collect certain non-public personal information through your interaction with this website, our online lead management group and our other online marketing efforts. Except as expressly stated herein, the CalAtlantic Homes Notice does not apply to RMC Mortgage® Corporation, Standard Pacific Mortgage®, Ryland Title® Company, and SPH Title, Inc. ("Affiliated Companies"). The Privacy Policy for our Affiliated Companies is set forth below under the heading Affiliated Companies Notice.
+  * Information we receive from you on applications or other forms, such as your name, address, social security number, assets, and income; 
+  * Information we receive from a consumer reporting agency, such as your creditworthiness and credit history; and
+  * Information about your transactions with us, Lennar Affiliates, or others, such as your payment history, the status of a loan application submitted to Lennar Affiliates, and parties to a transaction.
 
-**A. Compliance with the Law.**
 
-CalAtlantic Homes protects your privacy in accordance with the requirements of applicable federal and state laws. These laws and regulations require that CalAtlantic Homes provides you with a notice of our privacy policies and practices informing you of the types of information that CalAtlantic Homes collects from you and the persons or entities to whom your non-public personal information may be disclosed. After you are no longer a customer of CalAtlantic Homes, we will continue to treat the non-public personal information we have about you as if you were still our customer.
 
-**B. Non-Public Personal Information.**
+We may collect the following contact information that you provide, confirm, or update while using Lennar.com, myLennar, and/or CalAtlantichomes.com:
 
-In the course of your visit to this website, viewing our online advertising and in your electronic correspondence with us whether through social media, e-mail or otherwise, you may share non-public personal information about yourself, such as, by way of example, name, age, marital status, e-mail address, postal address, state of residence, telephone numbers, and your online activities, such as your website preferences, the type of device you are using when visiting this website or otherwise interacting with us. When you visit a sales office you may share similar information with CalAtlantic Homes either by completing a registration form or through your interaction with a CalAtlantic Homes sales counselor. You may also be requested to provide us your social security number when we preliminarily review your mortgage loan eligibility.
+  * The services that you desire to order and your preferences regarding service information (services information).
+  * Credit card information to pay for services that are ordered (credit card information).
+  * The email addresses of friends and family to receive a notification regarding your move (friends and family contact information). 
+  * Your preferences regarding the forwarding of USPS mail (preferences information).
 
-If you are visiting the career section of this website, you may also provide additional non-public personal information to CalAtlantic on applications or other forms when communicating or transacting with us electronically, such as your driver’s license number, social security number, employment history and date of birth.
 
-All of the non-public personal information CalAtlantic Homes collects from you is herein referred to as "Non-Public Personal Information".
 
-**C. Use of Non-Public Personal Information.**
+Additionally, in connection with use of the Properties, we collect certain web analytics information, including among other information the number of visitors to the Properties, session time, and browser version (technical information). Technical information is not collected in a manner in which it can be tied to a specific user. When you access the Properties, some of our services are provided to or through affiliated websites. Personal information that you provide to those sites may be sent to the Properties in order to deliver the service. We process such information in accordance with this Privacy Policy. We will store on the computer that you use to access the Properties a small file that commonly is referred to as a "cookie." The cookie has information that enables us to recognize a specific computer that is used to visit the Properties. Each vendor identified on, or accessed from, the Properties has its own policies on the collection and use of technical information and the use of cookies.
 
-CalAtlantic Homes may use your Non-Public Personal Information in connection with certain aspects of our business and in managing our relationship with you.
+In some cases, we may combine information we collect through our Properties with information collected from other online and offline sources.
 
-Prior to your execution of a purchase contract with us, CalAtlantic Homes may use Non-Public Personal Information to
+When you make inquiries concerning your current Lennar home, we will also request the identity of the community where your home is located.
 
-  * keep you informed of our products and promotions;
-  * enhance your experience with our website;
-  * improve our website, marketing, customer service and products;
-  * preliminarily determine your eligibility for mortgage financing through use of proprietary software;
-  * report visitor information to the master developer of a community you have visited or expressed interest in; and
-  * manage your relationship with CalAtlantic Homes.
+If you are a real estate agent seeking information on our communities, a party interested in conducting business with Lennar or if you contact us with land you have for sale, we will request your contact information.
 
+If you wish to contact our webmaster ([webmaster@lennar.com](mailto:webmaster@lennar.com)), we will request your contact information.
 
+Except as otherwise provided in this Privacy Policy, we may use, share, or disclose all of the information that we collect from you as a current or former customer:
 
-At any time after you provide us Non-Public Personal Information you may elect to limit our e-mails, correspondence and other marketing to you by clicking [Marketing Opt-Out](https://web.archive.org/legal-disclaimer/privacy-rights.html?section=marketing) and following the instructions on the link.
+  * In connection with the fulfilment of the services that you request through the Properties.
+  * Respond to your requests, comments and questions and identify your interests so that we may assist you in finding properties and services provided by Lennar and third parties that may be of interest to you.
+  * To enforce the Terms and Conditions applicable to the use of the Properties (please see the Terms and Conditions below).
+  * As required by law or valid legal process.
+  * In response to appropriate governmental requests.
+  * As we deem reasonably necessary to investigate, prevent or take other appropriate action in connection with potential illegal or fraudulent activities or potential risk to the personal safety of any individual or the security of your information.
+  * To manage our business.
+  * To protect our interests.
+  * To support direct marketing and other opportunities of Lennar and third parties as described herein.
+  * To assist you in finding products and services that may be of interest to you.
+  * Your credit card information in connection with any services that you request, and we will not retain your credit card information.
+  * Your friends and family contact information, in connection with the fulfilment of the moving notices that you request.
 
-After you execute a purchase agreement with CalAtlantic Homes, CalAtlantic Homes may use your Non-Public Personal Information to
 
-  * inform you of the products and service offered by our Affiliated Companies, including financing offered by RMC Mortgage Corporation or Standard Pacific Mortgage, Inc. and settlement/closing services offered by Ryland Title Company or SPH Title, Inc.
-  * complete your requested home purchase including working with your lender and settlement agent to finalize your loan
-  * keep you informed of our product and services and to provide you community information,
-  * permit third parties with whom CalAtlantic Homes has a business relationship to provide you information on products and services we believe may be of interest to you as a home buyer or home owner,
-  * provide warranty service to you as a home owner,
-  * provide you customer satisfaction surveys,
-  * provide the master developer and applicable homeowners associations and/or condominium associations and their agents information concerning you and your home purchase, and
-  * manage your relationship with CalAtlantic Homes.
 
+We may disclose nonpublic personal information about you to the following types of select third parties:
 
+  * Financial service providers, such as mortgage bankers and insurance agents;
+  * Non-financial companies, such as retailers and direct marketers;
+  * We may use and share your contact information and new home information among Lennar Affiliates and subsidiaries to provide you with offers from Lennar Affiliates and subsidiaries that we believe may be of interest to you;
+  * We may share your contact information and new home information with third parties who assist Lennar in offering products or services to you;
+  * We may share your contact information and new home information with carefully selected third parties that agree with Lennar to offer products or services to users of the Properties.
+  * We contract with business service providers to provide business functions on our behalf, such as credit card processing, payment and billing processing, IT systems management, third party hosted applications, customer service, email marketing and web analytics, and marketing research. We require service providers with access to personal information to use and protect personal information in accordance with the standards of this Privacy Policy.
 
-We may use your Non-Public Personal Information in connection with the operation of our business such as, by way of example, in connection with financing that we seek from third parties or in connection with any potential sale, joint venture or reorganization of all or a part of our business operations.
 
-If you are visiting the career section of this website, we will use your Non-Public Personal Information in connection with your employment inquiry, any application for employment you submit, obtaining background information about you and managing your relationship with CalAtlantic.
 
-**D. Links to Other Websites.**
+We may disclose any or all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.  The categories of third parties with whom we have contracted may include, among others:
 
-Portions of our website may provide links to third party websites, which websites have their own privacy policies. We are not responsible for the privacy practices employed by these third party websites.
+  * Financial service providers, such as credit card issuers, finance companies, insurance agencies or companies, banks, and mortgage companies; and
+  * Other service providers, such as tax vendors, print vendors, and software programmers.
 
-**E. Cookies.**
 
-Cookies are small data files that a website you visit may save on your computer, tablet or mobile device that usually includes an anonymous unique identifier. Our website, websites to which you might be linked through this website, and third party technology used on this website may use cookies for user authentication, keeping track of your preferences, promotional campaigns, and tracking other statistical information, such as time spent on a particular site or webpage and number of pages visited.
 
-**F. Do Not Track Signals.**
+Each of the vendors identified in the Properties has its own privacy policy that may differ from Lennar's Privacy Policy. By requesting products and services from Lennar, your information will be provided to the applicable vendors as discussed in this Privacy Policy. You may access the privacy policy of each vendor by visiting the vendor's website. We do not have any control over, or responsibility for, the content or operation of the website of any vendor. Each such website may collect information about you and your usage of the website and have information sharing policies that differ from those of Lennar. The use of such websites is at your own risk.
 
-CalAtlantic Homes does not honor "Do Not Track" signals or other mechanisms that provide you with the ability to exercise choice regarding the collection of information (including your Non-Public Personal Information) relating to your online activities.
+We may disclose nonpublic personal information about you to non-affiliated third parties as permitted by law, including pursuant to consents that you provide. We may also, either directly or through Lennar Affiliates, share your nonpublic personal information with non-affiliated companies to market their products and services to you. 
 
-**G. Confidentiality.**
+If you prefer that we not disclose nonpublic personal information about you to non-affiliated third parties to market their products and services to you, you may opt-out of those disclosures, that is, you may direct us not to make those disclosures. If you wish to opt-out of disclosures to non-affiliated third parties to market their products and services to you, please indicate your selection by visiting [www.lennar.com/legal/informationsharing](https://www.lennar.com/legal/informationsharing) and make the appropriate selections in the manner prescribed in the form. You may change your selection at any time in the future through the same web address. 
 
-Unless otherwise required by law, CalAtlantic Homes treats Non-Public Personal information as non-confidential and non-proprietary. Notwithstanding the foregoing, if you have provided us your social security number we treat that information as confidential. If CalAtlantic Homes is required by law to treat any of the Non-Public Personal Information as confidential, we restrict access to the Non-Public Personal Information to our employees and third parties who have a reasonable need to know that information and we maintain physical, electronic and procedural safeguards that comply with federal standards to guard your Non-Public Personal Information. We do not guarantee that these procedural safeguards will be effective in all circumstances. If you believe the security of any information or data you have shared with us has been compromised, please contact us by clicking [Data Reporting - Security](https://web.archive.org/legal-disclaimer/data-reporting-question.html).
+We may use cookies and other devices on our Properties. Using cookies on our sites provides benefits to you, such as allowing you to maintain your account login information between visits. The use of cookies also allows us to measure site activity to provide a better user experience. Cookies and other devices may also be used to tell us additional information about the use of the Properties, including, without limitation, the time and length of your visit, the pages you look at on our site, the site you visited just before coming to ours, and the name of your Internet service provider. We may use third parties, such as Google Analytics, to collect such data. To learn more about how Google collects and processes data and the choices Google may offer to control these activities, you may visit <http://www.google.com/intl/en/policies/privacy/partners/>.  
 
-We may disclose Non-Public Personal Information about you as permitted by law for such purposes as protecting against fraud, resolving consumer disputes or inquiries, reporting to consumer reporting agencies, judicial process, or subpoena.
+We use third-party advertising companies to serve ads when you visit our Properties.  These companies may collect information about your visits to our Properties and other websites and/or apps in order to provide advertisements about goods and services of interest to you.  We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated digital properties.  Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our Properties and other non-affiliated websites or apps over time.  
 
-**H. Sharing Non-Public Personal Information.**
+You may visit [www.aboutads.info/choices](http://www.aboutads.info/choices) to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the Digital Advertising Alliance ("DAA") self-regulatory program.  If you wish to opt-out of interest based advertising in mobile apps on your device by companies that participate in the DAA's AppChoices app, you may download that app onto your device and exercise your choice.  AppChoices is available at the links below:
 
-With your consent, we may share Non-Public Personal Information with our Affiliated Companies, including RMC Mortgage Corporation, Standard Pacific Mortgage, Inc., Ryland Title Company, and SPH Title, Inc. so that they may provide you with information on the products and services they make available to our homebuyers. Without your consent, we may provide your Non-Public Personal Information to our Affiliated Companies if they are working with you to finance or close your purchase of a home. Additionally, without your consent we may share your Non-Public Personal Information with third parties in any manner we believe is reasonable to best meet your needs including third parties that assist us in operating and improving our business.
+[DAA AppChoices iOS](https://itunes.apple.com/us/app/appchoices/id894822870?mt=8) 
+[DAA AppChoices Android](https://play.google.com/store/apps/details?id=com.DAA.appchoices&hl=en) 
+[Ad Privacy Manager iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=551047372&mt=8) 
+[Ad Privacy Manager Android](https://play.google.com/store/apps/details?id=com.truste.mobile.consumer&feature=search_result)
 
-**I. Affiliated Company Marketing Election.**
 
-After you elect whether or not to permit us to share your Non-Public Personal Information with our Affiliated Companies so that they may contact you to provide you information on the products and services they make available to our homebuyers including mortgage financing and settlement/closing services you may change your election by clicking [Affiliated Company Marketing Election.](https://web.archive.org/legal-disclaimer/privacy-rights.html?section=affiliate)
+You may also be able to limit data collection by third parties by using your mobile device settings.  Please note that electing to opt-out will not stop advertising from appearing in your browser or applications.  It may make the ads you see less relevant to your interests.  Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
 
-**J. Third Party Marketing Election.**
+ ** _Information Sharing with Affiliates_**
 
-We may be approached by third party companies that have a product, service or other marketing information that we believe may be of interest to you as a home buyer or home owner. Prior to your execution of a purchase contract with CalAtlantic Homes, we do not share your Non-Public Personal Information with third parties so that they may market products and services to you. After you execute a purchase contract with us, we may share certain Non-Public Personal Information such as your name, address, telephone number, postal address and e-mail address with these companies in an effort to help you find these resources. These companies may include one or more telecommunications companies, gas companies, and electric utility providers who serve the community, and subcontractors who have worked on your home so that they may provide you information on extended service or warranty plans, or monitoring or maintenance services they may offer. You have the opportunity to "opt out" of having this Non-Public Personal Information shared for marketing purposes with third parties at any time. You may opt–out or change your previous election by clicking [Third Party Marketing Opt-Out Election](https://web.archive.org/legal-disclaimer/privacy-rights.html?section=third-party) and following the instructions on that link. Please be aware, in the event you decide to opt out, CalAtlantic Homes will not share your Non-Public Personal Information with third parties so that they may market to you and as a result you will not receive any marketing information about products or services offered by or through these third parties that may be of interest to you.
+Except as provided below, we may disclose nonpublic personal information about you to Lennar Affiliates, including Eagle Home Mortgage, LLC (“EHM”), Eagle Home Mortgage of California (“EHM of CA”), and CalAtlantic Mortgage, Inc. (“CAM”) as permitted by law. 
 
-**K. Children.**
+**_Notice of Your Ability to Limit Sharing of Creditworthiness Information_**
 
-Our website contains general information and is not directed toward children. We do not knowingly collect information from children under the age of 13.
+Under federal law, we are permitted to share information about our own transactions and experiences with you with Lennar Affiliates. 
 
-**L. California Privacy Rights.**
+However, federal law gives you the right to limit our ability to share other information about your creditworthiness with Lennar Affiliates, such as information regarding your income, assets, and other liabilities that you provide to us or that we obtain from a consumer credit report. Federal law permits you to opt-out of the disclosure of your creditworthiness information among Lennar Affiliates. If you wish to opt-out of the disclosure of your creditworthiness information to Lennar Affiliates, contact us on the web as described below.
 
-CalAtlantic Homes provides all of its customers a cost free method to opt-out of information sharing. If a customer opts-out, CalAtlantic Homes will not share the customer’s Non-Public Personal Information for marketing purposes. As a result of the foregoing, CalAtlantic Homes is not obligated to provide customers who have requested such information with a list of the categories of Non-Public Personal Information shared with third parties for direct marketing purposes or the names and addresses of the third parties to whom we have shared such Non-Public Personal Information for direct marketing purposes during the preceding calendar year.
+ ** _Notice of Your Choice to Limit Marketing_**
 
-**M. Privacy Policy Questions**
+You may limit Lennar Affiliates, such as our mortgage lender or broker and insurance affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your income, your account history, and your credit history. 
 
-If you have questions concerning our Privacy Policy, please click the following link [Contact Us - Privacy Policy Questions](https://web.archive.org/legal-disclaimer/privacy-question.html) and follow the instructions on the link.
+Your choice to limit marketing offers from Lennar Affiliates will apply until you tell us to change your notice preferences. If you wish to limit marketing offers, contact us on the web as described below.
 
-**N. Effective Date.**
+In the process of purchasing a Lennar home, there may be a need for a variety of services including, but not limited to, home loan, title and homeowners insurance. In order to comply with our policy regarding your privacy, please choose your preferences for information sharing with our Lennar Affiliates (such as those involved in the home purchasing process, i.e., Eagle Home Mortgage (“EHM”), CalAtlantic Mortgage, Inc. (“CAM”), North American Title Company (“NAT”), CalAtlantic Title, Inc., CalAtlantic Title Atlanta, LLC, CalAtlantic Title of Maryland, Inc., CalAtlantic Title Charleston, LLC, CalAtlantic Abstract, Inc., SPH Title, Inc. (the CalAtlantic title agencies collectively “CAT”) and North American Advantage Insurance Services (“NAAIS”). You must choose your preferences for information sharing, including sharing with non-affiliated third parties and be able to change the selected “opt-in” or “opt-out” selections at any time in the future by visiting <https://www.lennar.com/legal/informationsharing>.
 
-The policies set forth in this Notice are effective at the time of publishing, but are subject to change in order to best meet the needs of CalAtlantic Homes’ customers and to reflect changes in local, state and federal laws.
+Lennar builds homes and communities in the United States and we follow the information and consumer protection laws of the United States and its individual states. If you reside or are located in a different country, the data protection laws of that country may differ as to what, and how, personal information is protected. We want you to understand that when you provide your personal information to us, or we obtain your information through the Properties or other communications with us, you consent to our processing your information in the United States, subject to U.S. laws, and in accordance with this Privacy Policy.
 
-**_Affiliated Companies Notice_**
+The personal data you submit to Lennar will be transferred to the United States for the purposes described above which involve (1) fulfilling a request you submit to us for information about our services, (2) implementing pre-contractual measures at your request (such as processing your request for information about home buying opportunities in communities that interest you or an application you submit for mortgage financing), (3) enabling the performance of a contract you enter into with Lennar; or (4) pursue our legitimate interests in a manner that does not override your privacy rights.
 
-Standard Pacific Mortgage, Inc., RMC Mortgage® Corporation, and Ryland Title® Company ("Affiliated Companies") protect your privacy in accordance with the requirements of the Fair Credit Reporting Act ("FCRA"), as amended by the Fair and Accurate Credit Transactions Act of 2003 ("FACT Act"), the Gramm-Leach-Bliley Financial Services Modernization Act ("GLBA") and applicable state laws. These laws and regulations require that the Affiliated Companies provide you with a notice of our privacy policies and practices informing you of the types of information that the Affiliated Companies collect from you and the persons or entities to whom your non-public personal information may be disclosed. At the time you submit a loan application to Standard Pacific Mortgage, Inc. or RMC Mortgage® Corporation, as applicable, you will be provided a written Privacy Policy for the Affiliated Companies.
+We retain personal information for as long as we reasonably require it for legal or business purposes. When we no longer have a legitimate business interest in keeping your personal information, we securely delete or destroy it. In determining data retention periods, Lennar takes into consideration applicable laws, contractual obligations, and what we reasonably believe are your expectations and requirements. For example, if you purchase a home, we will retain your information for as long as you own your home and as long as required by our contracts and by law. If you submit an information request, we will retain your contact and preferences information and consider our relationship to remain active for marketing purposes after fulfilling any request you submit and until we take note that you no longer show interest in our products or services. If you request information regarding the personal information that we hold about you, we will make a reasonable effort to fulfill your request. Note that if you submitted an "opt-in" to allow transfer of your personal information to a vendor or other non-affiliated third party, we will not be able to take any action with respect to personal information under the control of such third party and you will need to submit your request directly to that third party.
 
-After you are no longer a customer of the Affiliated Companies, the Affiliated Companies will continue to treat the non-public personal information we have about you as if you were still a customer of the Affiliated Companies.
+Please contact us to make the following or other requests about your personal information:
 
-**A. Non-Public Personal Information.**
+  * Restrict our use of your personal information and transfer of your personal information to Lennar Affiliates or non-affiliated third parties (including profiling to the extent that it is related to our marketing activities) as described above in "Opt-in/Opt-out Procedure." You may submit your instructions using the Opt-In/Opt-Out form or by notifying us at [www.lennar.com/legal/informationsharing](https://www.lennar.com/legal/informationsharing)
+  * Withdraw your consent to the processing of your personal information (after receiving your notice of withdrawal of consent) for any purpose other than implementation of pre-contractual measures or performance of a contract currently underway by notifying us at [privacyinfo@lennar.com.](mailto:privacyinfo@lennar.com); or by mail to Lennar, 681 Greens Parkway, #130, Houston, TX 77067; Attn: Digital Marketing Department.
+  * Access to your personal data and request that we provide you with your personal data in machine readable form.
+  * Request us to rectify any inaccurate personal data that we may hold;
+  * Request us to erase personal data where: it is no longer necessary for us to hold such personal data; you no longer consent to the processing of your personal data; your personal data has been unlawfully processed; we are otherwise required by law to erase your personal data
+  * Make a complaint with the national data protection authority in the country where you are based.
 
-In the course of your dealings with the Affiliated Companies, you may share non-public personal information about yourself in a number of ways. You may provide non-public personal information to the Affiliated Companies on applications or other forms when communicating or transacting with the Affiliated Companies in writing, electronically, or by phone. The Affiliated Companies may also collect non-public personal information from outside sources such as, by way of example, consumer reporting agencies. This non-public personal information may include, but is not limited to, your name, postal address, telephone number, e-mail address, social security number, driver’s license number, bank account information, marital status, employment history, income, assets, liabilities, credit score, credit history, lines of credit information, property you currently own or rent, the size of your household and date of birth ("Non-Public Personal Information").
 
-**B. Use of Non-Public Personal Information.**
 
-The Affiliated Companies may use your Non-Public Personal Information in connection with processing and underwriting your loan application, closing your loan, transferring your loan or servicing rights to third parties in the secondary market, and closing your home purchase.
+You may have rights, under applicable data privacy laws, to request information about or access to the personal information that we hold about you, to require that information to be corrected it is inaccurate or, in some circumstances, to object to our processing of your personal information. If you wish to exercise those rights, please send a written request to [privacyinfo@lennar.com](mailto:privacyinfo@lennar.com?subject=Privacy%20Policy%20Rights).
 
-**C. Confidentiality.**
+ ** _Your California Privacy Rights_**
 
-The Affiliated Companies treat your Non-Public Personal Information as confidential and recognize the importance of protecting access to it. The Affiliated Companies restrict access to Non-Public Personal Information about you to those employees of the Affiliated Companies and CalAtlantic Group, Inc. and its homebuilding affiliates who need to know that information to complete your home purchase. The Affiliated Companies maintain physical, electronic and procedural safeguards that comply with federal standards to guard your Non-Public Personal Information. We do not guarantee that these procedural safeguards will be effective in all circumstances. If you believe the security of any information or data you have shared with us has been compromised, please contact us by clicking [Data Report - Security](https://web.archive.org/legal-disclaimer/data-reporting-question.html) and following the instructions on the link.
+You may request certain information from Lennar concerning the customer information that we have shared with third parties for their direct marketing purposes. The information, which we will provide free of charge once per calendar year upon request, includes a list of the types of customer information that we have provided to third parties for their direct marketing purposes and the names and addresses of all third parties with which we have shared such information during the past calendar year. We will provide the information to you within 30 days of your request.
 
-The Affiliated Companies may disclose Non-Public Personal Information about you as permitted by law for such purposes as protecting against fraud, resolving consumer disputes or inquiries, reporting to consumer reporting agencies, judicial process, or subpoena.
+To request that we provide you with such information, please send a written request to [privacyinfo@lennar.com](mailto:privacyinfo@lennar.com). Within 30 days of receiving your request, we will provide you with the information at the address you designate in your request, which may be an email address or physical address.
 
-**D. Sharing Non-Public Personal Information.**
+Our mortgage companies, Eagle Home Mortgage of California and CalAtlantic Mortgage, Inc., may collect and maintain a range of customer and former customer information so that it may offer you our products and services, fund and service your loan, comply with federal regulations, and work to meet your financial needs. Please call (888) 966-8262 or visit [www.eaglehm.com](https://www.eaglehm.com/) to learn more about Eagle Home Mortgage’s privacy policy, and visit [https://www.calatlantichomes.com/legal-disclaimer/privacy-question.html ](https://www.calatlantichomes.com/legal-disclaimer/privacy-question.html)to learn more about CalAtlantic Mortgage's privacy policy. 
 
-The Affiliated Companies may share your Non-Public Personal Information with CalAtlantic Group, Inc. and its homebuilding affiliates ("CalAtlantic Homes") to best meet your needs, but the Affiliated Companies do not disclose Non-Public Personal Information about you with CalAtlantic Homes, our other Affiliated Companies or third parties, except as permitted by you or unless necessary to complete your purchase of a CalAtlantic home, any mortgage, title, insurance and escrow transactions incident to your home purchase, or as otherwise permitted by you or by law. The written Privacy Policy provided to you at the time of your loan application provides you a method to opt-out of sharing certain Non-Public Personal Information. If you opt-out of sharing information with CalAtlantic Homes or our other Affiliated Companies, we will not share with CalAtlantic Homes or our other Affiliated Companies your credit report or loan application information. You may opt-out by following the instructions on the Privacy Policy provided to you at the time of your loan application or may opt-out by clicking [Opt-Out Election - Mortgage Information](https://web.archive.org/legal-disclaimer/privacy-rights/mortgage.html) and following the instructions on the link. If required by law, the third parties with whom the Affiliated Companies legally share your Non-Public Personal Information have contractually agreed to maintain the confidentiality of the Non-Public Personal Information.
+Our Privacy Policy for sharing nonpublic personal information about former customers is the same as our Privacy Policy for current customers.
 
-**E. Privacy Policy Questions**
+Lennar may at any time revise the Properties [Legal Disclaimers](https://web.archive.org/legal), [Privacy Policy](https://www.lennar.com/privacypolicy) or [Terms and Conditions](https://web.archive.org/termsandconditions) by updating the posting. You are bound by any such revision and should therefore periodically visit the Properties to review the then current terms and conditions, privacy policy and legal disclaimers to which you are bound.
 
-If you have questions concerning our Privacy Policy, please click the following link [Contact Us - Privacy Policy Questions](https://web.archive.org/legal-disclaimer/privacy-question.html) and follow the instructions on the link.
+Thank you for taking the time to read all of this important information.
 
-**F. Effective Date.**
-
-The policies set forth in this Notice are effective at the time of publishing, but are subject to change in order to best meet the needs of customers of the Affiliated Companies and to reflect changes in local, state and federal laws.
-
-### Equal Housing Opportunity
-
-CalAtlantic is pledged to the letter and spirit of the U.S. policy for the achievement of equal housing opportunity throughout the nation. We encourage and support affirmative advertising and marketing programs in which there are no barriers to obtaining housing because of race, color, religion, gender, handicap, familial status, or national origin.
-
-### Use of Website and Important Liability Disclaimers
-
-We maintain this website as a service to internet users. Its use is a privilege to the viewer. The use of this website is subject to all applicable laws regarding copyrighted materials and intellectual property, and is subject to the important legal notices and disclaimers listed below. Despite our efforts to ensure that the constantly changing information on this website is accurate, there may be inadvertent errors or oversights. Therefore, neither CalAtlantic nor any other party involved in the creation, production, or delivery of this information can accept any responsibility or liability for any actions taken as a result of the use of our website. Your use of this website acknowledges your acceptance of and agreement with the terms and conditions contained in these legal notices. The terms and conditions contained in the legal notices on this website constitute the entire agreement between you and CalAtlantic unless and until superseded by a written agreement signed by both you and CalAtlantic.
-
-The information, software, products and services published on this website may include inaccuracies or typographical errors. Changes are periodically added to the information herein. CalAtlantic may make improvements or changes in this website at any time. Not all of the products or services described on this site are available in all geographic areas. In no event shall CalAtlantic be liable for any direct, indirect, punitive, incidental, special or consequential damages arising out of or in any way connected with the use of this website, whether based on contract, tort, and strict liability or otherwise, even if CalAtlantic has been advised of the possibility of damages. Because some states/jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
-
-### Notice Regarding Links to and From This Site
-
-CalAtlantic does not have responsibility and shall not be liable for the accuracy or availability of information provided by websites which are linked to this website via hypertext or other computer "links". Links to external websites are provided merely as a convenience to Users and do not constitute an endorsement by CalAtlantic of such websites or the content, products, advertising, or other materials presented on such websites, including any changes or updates thereto.
-
-### Notice Regarding Specifications, Prices, Terms, Renderings and Other Information
-
-**This website and the related links do not constitute an offer to sell real property. Offers to sell property may be made and accepted only at the applicable CalAtlantic Homes Sales Center community. Information contained on this website is intended to be informative only, and does not constitute a representation or warranty with regard to any CalAtlantic home or community, or any product or service provided by CalAtlantic.**
-
-Although every effort has been made to ensure that the prices and terms contained herein are accurate and current, at any time, such prices and terms are subject to change, prior sale, selected lot premiums and/or predetermined options. Prices shown generally refer to the base house and do not include any optional features. Photos and/or drawings of homes may show upgraded elevations, landscaping and optional features, and may not represent the lowest-priced homes in the community. CalAtlantic reserves the right to make changes to its home designs and to build more or fewer homes than currently planned. Some or all of the renderings and floor plans in these materials are artists' conceptual drawings and will vary from the actual plans and homes as built. Square footage numbers are approximate and may vary from the actual plans and homes as built. CalAtlantic cannot control future development or guarantee the preservation of any view or the natural environment surrounding its communities. Views vary significantly by lot location and may be affected by future development. Promotional programs are typically available only on select lots, at select communities, and may not be available in conjunction with other offers. Please consult a CalAtlantic sales counselor for specific price or other information for each community.
-
-#### Copyright © 2015 CalAtlantic Group, Inc. All Rights Reserved
-
-The entire content included in this website is copyrighted as a collective work under the United States and other copyright laws, and is the property of CalAtlantic Group, Inc. The content of this website is provided by CalAtlantic as a service to the public and is to be used for personal informational purposes only. Any violation of the foregoing conditions or use will subject the user to the possibility of full prosecution under applicable law. No content from this website may be copied, reproduced, republished, uploaded, posted, transmitted or distributed in any way, except that the user may display and, subject to any expressly stated restrictions or limitations relating to specific content, download or print portions of the content from the different areas of the website solely for the user's own non-commercial use, or towards making a purchase of a home. The user acknowledges and agrees that all homes about which information is provided herein are subject to prior sale, and that prospective purchasers must visit a CalAtlantic Homes Sales Center to purchase a home. Any other use, including but not limited to the reproduction, distribution, display or transmission of the content of this site is strictly prohibited. The User further agrees not to change or delete any proprietary notices from content downloaded from this website.
-
-### Investor Notice
-
-As a cautionary note to investors, except for historical information contained herein, certain matters discussed in the Investor Relations section of this website are "forward looking statements" within the meaning of the Private Securities litigation Reform Act of 1995. Such matters involve risks and uncertainties, including general economic conditions, fluctuations in interest rates, the impact of competitive products and prices, the supply of raw materials and prices, levels of consumer confidence and other risks detailed in CalAtlantic's SEC reports. On the Investor Relations section of this website, CalAtlantic includes information, presentations, and press releases which are accurate at the time of distribution. Despite our efforts to ensure that the information contained in the Investor Relations section of this website is accurate, there may be inadvertent errors or oversights. Therefore, neither CalAtlantic nor any other party involved in the creation, production, or delivery of this information can accept any responsibility or liability for any actions taken as a result of the use of this section of our website. CalAtlantic shall be under no obligation to update any of the material contained in the Investor Relations section of this website.
-
-### Equal Opportunity Employer
-
-CalAtlantic is an equal opportunity employer. We consider applicants for all positions without regard to race, color, religion, sex, national origin, age, marital status, disability, or any other legally protected status.
-
-### RMC Mortgage® Corporation
-
-RMC Mortgage® Corporation is licensed in the following states: 
-
-**Arizona** | RMC Mortgage® Corporation is a licensed Arizona Mortgage Banker, license numbers BK- 0924238 Scottsdale, AZ, BKBR-0118636 in Scottsdale, AZ, and BKBR-0119024 in Gilbert, AZ.  
----|---  
-**California** | RMC Mortgage® Corporation is licensed by the Department of Business Oversight under the California Residential Mortgage Lending Act in Scottsdale, AZ, License # 4131284.  
-**Colorado** | RMC Mortgage® Corporation has a Mortgage Company Registration with the State of Colorado.  
-**Delaware** | RMC Mortgage® Corporation has a Delaware Lender License #018114 in Scottsdale, AZ – expires December 31, 2015, Lender License #019580 in Media, PA – expires December 31, 2015.  
-**Florida** | RMC Mortgage® Corporation is a licensed lender in Scottsdale, AZ #MLD562, Riverview FL #MLDB787, Orlando FL #MLDB800, and Scottsdale AZ #MLDB788.  
-**Georgia** | RMC Mortgage® Corporation is a licensed lender #24225, and holds a Georgia Branch for its location in Alpharetta, GA License #68278.  
-**Illinois** | RMC Mortgage® Corporation is a residential mortgage licensee in Illinois. Scottsdale, AZ license number MB.6760971; East Dundee, IL license number MB.6760971-001. Illinois Department of Financial and Professional Regulations, Division of Banking, 122 S. Michigan 19th Floor, Chicago, IL 60603 (312) 793-3000.  
-**Indiana** | RMC Mortgage® Corporation is licensed by the Indiana-DFI and holds a first lien mortgage lending license, no. 18850, and a subordinate lien mortgage lending license, no. 18851.  
-**Maryland** | RMC Mortgage® Corporation is a licensed Maryland Mortgage Lender, with license numbers 20537 in Scottsdale, AZ, 20539 in Columbia, MD and 20680 in Scottsdale, AZ.  
-**Minnesota** | RMC Mortgage® Corporation is a licensed Minnesota Residential Mortgage Originator, License #MN-MO-203897, and holds a Minnesota Branch Registration for its location in Eden Prairie, MN, License #MN-BR-1029660. This website does not contain an offer to enter into an interest rate or discount point agreement in accordance with Minnesota Statute 47.206.  
-**Nevada** | RMC Mortgage® Corporation is a licensed Nevada Mortgage Banker, with license number 3931 and Nevada Broker license number 4141 in both Scottsdale, AZ and Las Vegas, NV. RMC Mortgage® Corporation also holds a Nevada Mortgage Broker License, number 4141.  
-**New Jersey** | RMC Mortgage® Corporation is a licensed New Jersey Residential Mortgage Lender in Scottsdale, AZ, License #203897.  
-**North Carolina** | RMC Mortgage® Corporation mortgage lender license numbers in North Carolina are Scottsdale, AZ L-155709; Charlotte, NC L-155709-102; Durham, NC, L-155709-105; Scottsdale, AZ L-155709-104 and under the authority of the South Carolina BFI, the Charlotte branch also holds license MLB-996700.  
-**Pennsylvania** | RMC Mortgage® Corporation is a licensed Pennsylvania Mortgage Lender in Scottsdale, AZ, License #44918 and in Media, PA, License #44918.001.  
-**South Carolina** | South Carolina Mortgage Lender license approval Scottsdale, AZ MLS 203897; Charleston, SC MLB-1020765; Charlotte, NC MLB-996700, Scottsdale, AZ MLB- 767026.  
-**Texas** | RMC Mortgage® Corporation dba Ryland Mortgage® Corporation of Texas is licensed as a mortgage banker with Texas Department of Savings and Mortgage Lending (TX-SML) License #203897 and has the following office locations: Cedar Park (Austin), Houston, Plano (Dallas), San Antonio and Arizona. [Recovery Fund Notice](http://cdn.calatlantichomes.com/assets/web/1.0.5423.32448/pdf/TXcompliant_policy.pdf)  
-**Virginia** | RMC Mortgage® Corporation is a Licensed Lender and Licensed Broker, license number MC-5716 in Scottsdale, AZ and branch licenses in Chantilly, VA and Scottsdale, AZ. RMC Mortgage® Corporation, NMLS ID #203897 [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org/). Any rate of interest advertised by RMC Mortgage® Corporation may change or not be available at the time of loan commitment or lock-in.  
-  
-### Standard Pacific Mortgage® Inc.
-
-Standard Pacific Mortgage® Inc. is licensed in the following states: 
-
-**Arizona** | Arizona State Department of Banking, Mortgage Banker License Number: BK-0905700, BKBR-0106412 and BKBR-0116649.  
----|---  
-**California** | Licensed by the Department of Business Oversight under the California Residential Mortgage Lending Act License Number: 4131065, telephone (800) 325-5363. Other California licenses include: Bureau of Real Estate license number #01138346 Contractors State License Board license number #641665  
-**Colorado** | Regulated by the Colorado Division of Real Estate, telephone (303) 290-1814.  
-**Florida** | Florida Office of Financial Regulation, Mortgage Lender Servicer License Number: MLD980, MLDB2046, MLDB2047, MLDB2048.  
-**North Carolina** | North Carolina Commissioner of Banks Mortgage Lender License Number: L-146109.  
-**South Carolina** | South Carolina Board of Financial Institutions MLS-89607 and MLB-135508.  
-**Texas** | Texas Mortgage Banker Registration locations at 1101 Arrow Point Drive, Suite 101, Cedar Park, TX 78613 (512) 506-4081 and 909 Lake Carolyn Parkway, Ste. 1700, Irving, TX 75039 (972) 590-5801. CONSUMERS WISHING TO FILE A COMPLAINT AGAINST A MORTGAGE BANKER OR A LICENSED MORTGAGE BANKER RESIDENTIAL MORTGAGE LOAN ORIGINATOR SHOULD COMPLETE AND SEND A COMPLAINT FORM TO THE TEXAS DEPARTMENT OF SAVINGS AND MORTGAGE LENDING, 2601 NORTH LAMAR, SUITE 201, AUSTIN, TEXAS 78705. COMPLAINT FORMS AND INSTRUCTIONS MAY BE OBTAINED FROM THE DEPARTMENT’S WEBSITE AT [WWW.SML.TEXAS.GOV.A](http://www.sml.texas.gov.a/) TOLL-FREE CONSUMER HOTLINE IS AVAILABLE AT 1-877-276-5550. THE DEPARTMENT MAINTAINS A RECOVERY FUND TO MAKE PAYMENTS OF CERTAIN ACTUAL OUT OF POCKET DAMAGES SUSTAINED BY BORROWERS CAUSED BY ACTS OF LICENSED MORTGAGE BANKER RESIDENTIAL MORTGAGE LOAN ORIGINATORS. A WRITTEN APPLICATION FOR REIMBURSEMENT FROM THE RECOVERY FUND MUST BE FILED WITH AND INVESTIGATED BY THE DEPARTMENT PRIOR TO THE PAYMENT OF A CLAIM. FOR MORE INFORMATION ABOUT THE RECOVERY FUND, PLEASE CONSULT THE DEPARTMENT’S WEBSITE AT [WWW.SML.TEXAS.GOV](http://www.sml.texas.gov/).  
-  
-### Nationwide Mortgage Licensing System Registry
-
-RMC Mortgage® Corporation's unique NMLS identifier is 203897. 
-
-The Standard Pacific Mortgage, Inc. unique NMLS identifier is 86907.
-
-### Miscellaneous
-
-The use of the website shall be governed in all respects by the laws of the State of California without regard to choice of law provisions. Any cause of action or claim made by a user with respect to this website (including but not limited to the purchase of a home through a CalAtlantic Homes Sales Center) must be commenced within one (1) year after the claim or cause of action arises. CalAtlantic's failure to insist upon or enforce strict performance of any provision of the terms and conditions set forth above shall not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any of these terms and conditions. CalAtlantic may assign its rights and duties under these terms and conditions to any party at any time without notice to the User. Files and e-mail can contain "viruses" that can cause damage to a user's computer and the data stored therein. CalAtlantic disclaims any and all liability that may result from viruses acquired by users through the use of this website and any websites that are linked to this one.
-
-Equal Housing Opportunity Lender 
+This Privacy Policy is effective as of September 28th, 2018 is incorporated into and subject to the Terms and Conditions for use of these Properties. 
