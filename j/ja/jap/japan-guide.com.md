@@ -1,36 +1,60 @@
-> *The following text is extracted and transformed from the japan-guide.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214202514id_/http%3A//japan-guide.com/e/e440.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-guide.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225210014id_/https%3A//www.japan-guide.com/e/e441.html) for the most accurate reproduction.*
 
-# About japan-guide.com
+# japan-guide.com Privacy Policy & Terms of Use
 
-This web site exists since July 2, 1996.
+### Privacy Policy
 
-**_PURPOSE_**
+Below we explain how we use information that you provide us through japan-guide.com.
 
-Our goal is to deliver comprehensive, up to date information on traveling and living in Japan, first-hand from Japan. japan-guide.com consists of: 
+#### What we collect directly from you
 
-  * An extensive [travel guide](https://web.archive.org/web/20051214202514id_/http%3A//japan-guide.com/e/e623.html) for Japan. 
-  * A [living guide](https://web.archive.org/web/20051214202514id_/http%3A//japan-guide.com/e/e625.html) for prospective and current foreign residents of Japan. 
-  * A large [resource section](https://web.archive.org/web/20051214202514id_/http%3A//japan-guide.com/e/e691.html) about various aspects of contemporary and traditional Japan. 
-  * A [forum](https://web.archive.org/web/20051214202514id_/http%3A//japan-guide.com/forum/) to ask questions, discuss issues and find friends. 
+We collect information that you directly provide us when creating an account, contacting us through the contact form, posting on our question forum, using our private messaging system or otherwise communicating with us. The information collected may include your email address and any other information you choose to provide.
+
+#### What we collect automatically from you
+
+We automatically collect information from you when you access our website, including the pages you visit, the IP address, browser and operating system you use and the time of your visit.
+
+#### What we do with the information we gather
+
+We may use information about you for various purposes, including: 
+
+  * To log and analyse our website's traffic
+  * To personalize your visit to our website
+  * To better understand the demographics, interests and needs of our visitors
+  * To respond to your inquiries and comments
+  * To deliver you our newsletter
+  * To detect, investigate and prevent spam, abuse and illegal activities
 
 
 
-**_TERMS OF USE, DISCLAIMER_**
+We will never sell or distribute email addresses and/or other personally identifying information to third parties without your explicit permission, nor use it for unapproved commercial purposes.
 
-japan-guide.com provides its services to you, subject to the following terms of use, which may be updated without prior notice. By using japan-guide.com, you are agreeing to our terms of use. 
+#### Security
 
-The information published at japan-guide.com is for informative purposes only. Web site users may download and copy the material for personal, non-commercial use, without the right to resell, redistribute (that includes publishing on a personal web site) or create derivative works therefrom. No part of this web site may be reproduced without the [written permission](https://web.archive.org/web/20051214202514id_/http%3A//japan-guide.com/e/e410copy.mv) of the publisher and copyright owner. 
+All information is stored in password-protected directories and publicly inaccessible databases.
 
-Even though we attempt to make the information on this web site as accurate and up-to-date as possible, there may exist some inaccurate or out-of-date information. Under no circumstances shall japan-guide.com be liable for any loss, damage, liability or expense incurred or suffered which is claimed to have resulted from use of this site. 
+#### Cookies
 
-japan-guide.com is not related with any educational institution or government. 
+A cookie is a small file which is placed on your computer's hard drive. The cookie helps us to personalize your experience on our website by remembering information about your preferences.
 
-**_PRIVACY POLICY_**
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. You can also delete cookies that have already been set. Note that some of our web pages, such as the Japan Rail Pass Calculator, require cookies in order to function properly.
 
-japan-guide.com does not collect personally identifying information with the sole exception of your specific knowledge and consent thereof. All information is stored in password protected directories and publicly inaccessible databases. japan-guide.com will never sell or distribute email addresses and/or other personally identifying information to third parties without your explicit permission, nor use it for unapproved commercial purposes. 
+Cookies are also used by some third-party services that we use for advertising and analytics services (see more details below).
 
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+#### Advertising and Analytics Services Provided by Others
 
- **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+We use the following services for serving advertisements and for analysing our web traffic:
+
+  * **Google Analytics:** We use Google Analytics with the Display Advertising feature to collect demographic data about our site traffic. Users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](http://www.google.com/ads/preferences/) in their Google accounts. We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie.
+  * **Google Ads:** We use Google to display advertising on our website. Google logs when users view specific pages, allowing them to serve ads on this site and other sites about goods and services that may be of interest to you. Google uses the DoubleClick cookie to serve interest-based advertising. Users may opt out of the use of the DoubleClick cookie by visiting [Ads Settings](http://www.google.com/ads/preferences/) in their Google accounts.
+  * **Adara:** We allow Adara to log when users view specific pages on our website. By setting a cookie, this enables Adara to serve ads on other sites about goods and services that may be of interest to you. Users may opt out of the use of the Adara cookie by visiting [this web page](https://adara.com/opt-out/).
+
+
+
+### Terms of Use, Disclaimer
+
+The information published at japan-guide.com is for informative purposes only. Web site users may download and copy the material for personal, non-commercial use, without the right to resell, redistribute (that includes publishing on a personal web site) or create derivative works therefrom. No part of this web site may be reproduced without the [written permission](https://web.archive.org/web/20181225210014id_/https%3A//www.japan-guide.com/e/e410copy.mv) of the publisher and copyright owner.
+
+Although we attempt to make the information on this web site as accurate and up-to-date as possible, there may exist some inaccurate or out-of-date information. Under no circumstances shall japan-guide.com be liable for any loss, damage, liability or expense incurred or suffered which is claimed to have resulted from use of this site.
+
+japan-guide.com is not related with any educational institution or government.
