@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529013451id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225230851id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Freddie Mac Privacy Policy
 
