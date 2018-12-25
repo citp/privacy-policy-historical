@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonpay.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225042902id_/https%3A//pay.amazon.com/us/help/201751600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonpay.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225192852id_/https%3A//pay.amazon.com/us/help/201751600) for the most accurate reproduction.*
 
 # Help
 
@@ -118,4 +118,4 @@ Great! Any other feedback?
 
 How can we improve it? 
 
-Thanks for helping us imporve Amazon Pay. 
+Thanks for helping us improve Amazon Pay. 
