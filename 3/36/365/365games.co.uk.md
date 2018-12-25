@@ -1,104 +1,130 @@
-> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115233653id_/https%3A//www.365games.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225012702id_/https%3A//www.365games.co.uk/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - 365games.co.uk
+# 365games.co.uk | Games, Films, Toys & Collectables
 
 ## Background
 
-This Policy applies as between you, the User of this Web Site and www.365games.co.uk. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
+365games.co.uk understands that your privacy is important to you and that you care about how your personal data is used and shared online. We respect and value the privacy of everyone who visits this website, 365games.co.uk (“Our Site”) and will only collect and use personal data in ways that are described here, and in a manner that is consistent with Our obligations and your rights under the law.
+
+Please read this Privacy Policy carefully and ensure that you understand it. Your acceptance of Our Privacy Policy is deemed to occur upon your first use of Our Site. If you do not accept and agree with this Privacy Policy, you must stop using Our Site immediately.
 
 ## 1\. Definitions and Interpretation
 
-In this Policy the following terms shall have the following meanings:
+In this Policy, the following terms shall have the following meanings: 
 
-"Account"  
-Means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
+"Account" | means an account required to access and/or use certain areas and features of Our Site;  
+---|---  
+"Cookies" | means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 13, below;  
+"Cookie Law" | means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003;  
+"personal data" | means any and all data that relates to an identifiable person who can be directly or indirectly identified from that data. In this case, it means personal data that you give to Us via Our Site. This definition shall, where applicable, incorporate the definitions provided in the EU Regulation 2016/679 – the General Data Protection Regulation (“GDPR”); and  
+"We/Us/Our" | means Xbite Ltd , a limited company registered in England under company number 6520821, whose registered address is Xbite Ltd Unit 1, Maison Court Midland Way, Barlborough Chesterfield UK S43 4GD  
+  
+## 2\. Information About Us
 
-"Content"  
-Means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
+2.1 Our Site is owned and operated by Xbite Ltd, a limited company registered in England under company number 6520821, whose registered address is Xbite Ltd Unit 1, Maison Court Midland Way, Barlborough Chesterfield UK S43 4GD.
 
-"Cookie"  
-Means a small text file placed on your computer by www.365games.co.uk when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your shopping cart;
+2.2 Our VAT number is 928 8279 70.
 
-"Data"  
-Means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+## 3\. What Does This Policy Cover?
 
-"Service"  
-Means collectively any online facilities, tools, services or information that www.365games.co.uk makes available through the Web Site either now or in the future;
+This Privacy Policy applies only to your use of Our Site. Our Site may contain links to other websites. Please note that We have no control over how your data is collected, stored, or used by other websites and We advise you to check the privacy policies of any such websites before providing any data to them.
 
-"System"  
-Means any online communications infrastructure that www.365games.co.uk makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+## 4\. Your Rights
 
-"User" / "Users"  
-Means any third party that accesses the Web Site and is not employed by www.365games.co.uk and acting in the course of their employment; and
+4.1 As a data subject, you have the following rights under the GDPR, which this Policy and Our use of personal data have been designed to uphold:
 
-"Web Site"  
-Means the website that you are currently using (www.365games.co.uk) and any sub-domains of this site unless expressly excluded by their own terms and conditions.
+4.1.1 The right to be informed about Our collection and use of personal data; 4.1.2 The right of access to the personal data We hold about you (see section 12); 4.1.3 The right to rectification if any personal data We hold about you is inaccurate or incomplete (please contact Us using the details in section 14); 4.1.4 The right to be forgotten – i.e. the right to ask Us to delete any personal data We hold about you (We only hold your personal data for a limited time, as explained in section 6 but if you would like Us to delete it sooner, please contact Us using the details in section 14); 4.1.5 The right to restrict (i.e. prevent) the processing of your personal data; 4.1.6 The right to data portability (obtaining a copy of your personal data to re-use with another service or organisation); 4.1.7 The right to object to Us using your personal data for particular purposes; and 4.1.8 Rights with respect to automated decision making and profiling.
 
-## 2\. Data Collected
+4.2 If you have any cause for complaint about Our use of your personal data, please contact Us using the details provided in section 14 and We will do Our best to solve the problem for you. If We are unable to help, you also have the right to lodge a complaint with the UK’s supervisory authority, the Information Commissioner’s Office.
 
-Without limitation, any of the following Data may be collected:
+4.3 For further information about your rights, please contact the Information Commissioner’s Office or your local Citizens Advice Bureau.
 
-Name;  
-Date of birth;  
-Gender;  
-Contact information such as email addresses and telephone numbers;  
-Demographic information such as post code, preferences and interests;  
-Financial information such as credit / debit card numbers;  
-IP address (automatically collected);  
-Web browser type and version (automatically collected);  
-Operating system (automatically collected);  
-A list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected);  
-Cookie information (see clause 8 below).
+## 5\. What Data Do We Collect?
 
-## 3\. Our Use of Data
+Depending upon your use of Our Site, We may collect some or all of the following personal data (please also see section 13 on Our use of Cookies and similar technologies and Our [Cookie Policy](https://www.365games.co.uk//cookie-policy)):
 
-Any personal Data you submit will be retained by www.365games.co.uk for as long as you use the Services and Systems provided on the Web Site.
+5.1 name;
 
-Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.
+5.2 contact information such as email addresses and telephone numbers;
 
-All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998.
+5.3 demographic information such as post code, preferences, and interests;
 
-Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
+5.4 IP address;
 
-Internal record keeping;  
-Improvement of our products / services;  
-Transmission by email of promotional materials that may be of interest to you;  
-Contact for market research purposes which may be done using email, telephone or mail. Such information may be used to customise or update the Web Site.
+5.5 web browser type and version;
 
-## 4\. Third Party Web Sites and Services
+5.6 operating system;
 
-www.365games.co.uk may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling and delivery of purchased items. The providers of such services do have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that www.365games.co.uk requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
+5.7 a list of URLs starting with a referring site, your activity on Our Site, and the site you exit to;
 
-## 5\. Changes of Business Ownership and Control
+## 6\. How Do We Use Your Data?
 
-www.365games.co.uk may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+6.1 All personal data is processed and stored securely, for no longer than is necessary in light of the reason(s) for which it was first collected. We will comply with Our obligations and safeguard your rights under the GDPR at all times. For more details on security see section 7, below.
 
-## 6\. Your Right to Withhold Information
+6.2 Our use of your personal data will always have a lawful basis, either because it is necessary for Our performance of a contract with you, because you have consented to Our use of your personal data (e.g. by subscribing to emails), or because it is in Our legitimate interests. Specifically, We may use your data for the following purposes:
 
-You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.
+6.2.1 Providing and managing your Account; 6.2.2 Providing and managing your access to Our Site; 6.2.3 Personalising and tailoring your experience on Our Site; 6.2.4 Supplying Our products to you (please note that We require your personal data in order to enter into a contract with you); 6.2.5 Personalising and tailoring Our products for you; 6.2.6 Replying to emails from you; 6.2.7 Supplying you with emails that you have opted into (you may unsubscribe or opt-out at any time by clicking the unsubscribe link in emails we send to you, or by unsubscribing through the [communication centre](https://www.365games.co.uk//communication-centre); 6.2.8 Analysing your use of Our Site and gathering feedback to enable Us to continually improve Our Site and your user experience;
 
-You may restrict your internet browser's use of Cookies but this may limit the functions available on the website.
+6.3 With your permission and/or where permitted by law, We may also use your data for marketing purposes which may include contacting you by email, telephone, text message or post with information, news and offers on Our products. We will not, however, send you any unsolicited marketing or spam and will take all reasonable steps to ensure that We fully protect your rights and comply with Our obligations under the GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-## 7\. Accessing your own Data
+6.4 Third parties (including Google AdSense) whose content appears on Our Site may use third party Cookies, as detailed below in section 13. Please refer to section 13 for more information on controlling Cookies. Please note that We do not control the activities of such third parties, nor the data they collect and use and advise you to check the privacy policies of any such third parties.
 
-You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.
+6.5 You have the right to withdraw your consent to Us using your personal data at any time, and to request that We delete it.
 
-You have the right to ask for a copy of your personal Data on payment of a small fee.
+6.6 We do not keep your personal data for any longer than is necessary in light of the reason(s) for which it was first collected.
 
-## 8\. Cookies
+## 7\. How and Where Do We Store Your Data?
 
-www.365games.co.uk may set and access Cookies on your computer.
+7.1 We only keep your personal data for as long as We need to in order to use it as described above in section 6, and/or for as long as We have your permission to keep it.
 
-A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
+7.2 Your data will only be stored in the UK.
 
-You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly.
+## 8\. Do We Share Your Data?
 
-You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
+8.1 Subject to section 8.2, We will not share any of your data with any third parties for any purposes.
 
-## 9\. DoubleClick
+8.2 In certain circumstances, We may be legally required to share certain data held by Us, which may include your personal data, for example, where We are involved in legal proceedings, where We are complying with legal obligations, a court order, or a governmental authority.
 
-We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout "Optout DoubleClick") or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp "Consumer Opt-out").
+8.3 We may share your data with other companies in Our group. This includes Our holding company and its subsidiaries.
 
-## 10\. Changes to this Policy
+8.4 We may sometimes contract with third parties to supply services to you on Our behalf. These may include payment processing, delivery of goods, search engine facilities, advertising, and marketing. In some cases, the third parties may require access to some or all of your data. Where any of your data is required for such a purpose, We will take all reasonable steps to ensure that your data will be handled safely, securely, and in accordance with your rights, Our obligations, and the obligations of the third party under the law.
 
-www.365games.co.uk reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+8.5 We may compile statistics about the use of Our Site including data on traffic, usage patterns, user numbers, sales, and other information. All such data will be anonymised and will not include any personally identifying data, or any anonymised data that can be combined with other data and used to identify you. We may from time to time share such data with third parties such as prospective investors, affiliates, partners, and advertisers. Data will only be shared and used within the bounds of the law.
+
+8.6 The third party data processors used by Us and listed below are located outside of the European Economic Area (“the EEA”) (The EEA consists of all EU member states, plus Norway, Iceland, and Liechtenstein). Where We transfer any personal data outside the EEA, We will take all reasonable steps to ensure that your data is treated as safely and securely as it would be within the UK and under the GDPR.
+
+8.7 In certain circumstances, We may be legally required to share certain data held by Us, which may include your personal data, for example, where We are involved in legal proceedings, where We are complying with legal requirements, a court order, or a governmental authority.
+
+## 9\. What Happens If Our Business Changes Hands?
+
+9.1 We may, from time to time, expand or reduce Our business and this may involve the sale and/or the transfer of control of all or part of Our business. Any personal data that you have provided will, where it is relevant to any part of Our business that is being transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use that data only for the same purposes for which it was originally collected by Us.
+
+9.2 In the event that any of your data is to be transferred in such a manner, you will not be contacted in advance and informed of the changes.
+
+## 10\. How Can You Control Your Data?
+
+10.1 When you submit personal data via Our Site, you may be given options to restrict Our use of your data. In particular, We aim to give you strong controls on Our use of your data for direct marketing purposes (including the ability to opt-out of receiving emails from Us which you may do by unsubscribing using the links provided in Our emails and at the point of providing your details).
+
+10.2 You may also wish to sign up to one or more of the preference services operating in the UK: The Telephone Preference Service (“the TPS”), the Corporate Telephone Preference Service (“the CTPS”), and the Mailing Preference Service (“the MPS”). These may help to prevent you receiving unsolicited marketing. Please note, however, that these services will not prevent you from receiving marketing communications that you have consented to receiving.
+
+## 11\. Your Right to Withhold Information
+
+11.1 You may access certain areas of Our Site without providing any data at all. However, to use all features and functions available on Our Site you may be required to submit or allow for the collection of certain data.
+
+11.2 You may restrict Our use of Cookies. For more information, see section 13 and Our [Cookie Policy](https://www.365games.co.uk//cookie-policy).
+
+## 12\. How Can You Access Your Data?
+
+You have the right to ask for a copy of any of your personal data held by Us (where such data is held). Under the GDPR, no fee is payable and We will provide any and all information in response to your request free of charge. Please contact Us for more details on the [contact page](https://www.365games.co.uk//contact), or using the contact details below in section 14.
+
+## 13\. Our Use of Cookies
+
+Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. Third party Cookies are used on Our Site for advertising services. In addition, Our Site uses analytics services provided by Google, which also use Cookies. Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling Us to better understand how people use Our Site. For more details, please refer to Our [Cookie Policy](https://www.365games.co.uk//cookie-policy).
+
+## 14\. Contacting Us
+
+If you have any questions about Our Site or this Privacy Policy, please contact Us by using our [Contact form](https://www.365games.co.uk//contact), or by post at Xbite Ltd Unit 1, Maison Court Midland Way, Barlborough Chesterfield UK S43 4GD. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 12, above).
+
+## 15\. Changes to Our Privacy Policy
+
+We may change this Privacy Policy from time to time (for example, if the law changes). Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of Our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
