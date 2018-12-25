@@ -1,67 +1,36 @@
-> *The following text is extracted and transformed from the letsrun.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519145214id_/http%3A//www.letsrun.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsrun.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225121443id_/http%3A//www.letsrun.com/privacypolicy.php) for the most accurate reproduction.*
 
-# LetsRun.com Privacy Policy
+# LetsRun.com Privacy Policy - LetsRun.com
 
-** ** | 
+**by LetsRun.com**  
+**June 6, 2018**
 
-**LetsRun.com Privacy Policy** **  
-by: LetsRun.com  
-Update: December 9, 2010**
+updated June 6, 2018
 
-LetsRun.com has grown into the largest independent running website in the world by establishing trust and confidence with our community of visitors. LetsRun.com first and foremost is a community of those passionate about the sport of running.
+Letsrun.com and its forums were founded with the desire to let people stay largely anonymous on the internet. A key selling point of LetsRun.com is if you want you can post on our forums “anonymously.” However realize you are not truly anonymous on LetsRun.
 
-Below is our privacy policy. LetsRun.com has long respected the privacy of its users. Our message boards have never required registration to post. Lack of registration however does not mean total anonymity.
+ **Information we Collect:**
 
-**LetsRun.com Privacy Policy:**
+Even when you do not login to post on our forums understand we track a) your ip address and b) set a cookie. From those things it _may be possible_ to figure out who you are. In order to stop spammers and maintain a forum where we can ban problematic users we do not give you the option of us not tracking those things. If you want to remain anonymous to LetsRun.com, don’t post on our forums or register on our site.
 
-  1. LetsRun.com does not sell or rent your email address to anyone. We do not send out emails without your permission.
-  2. LetsRun.com records the ip address of its visitors and uses cookies on its website.
-  3. Do not assume your identity is a secret even though we currently do not request email addresses or registration to post on our message boards or access our website. Your IP address can be tracked and cookies are set when you post. As a result others, including LetsRun.com, may be able to figure out who you are and thus your identity may be revealed to others. 
-  4. If you want to ensure 100% privacy regarding something, send us an email at [letsrun@letsrun.com](mailto:letsrun@letsrun.com) saying so. We will keep such information private barring a court order or subpoena. Our success is based on the trust our viewers have in us.
-  5. LetsRun.com uses third parties to serve ads. These third party ads do not have access to any identifiable information you provide letsrun.com. These ads may set cookies on your computer and serve ads from other networks. (We have been asked to tell you that these companies may use aggregated information (not your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about how some of them use this info, [click here](http://www.networkadvertising.org/managing/opt_out.asp) )
-  6. If you have any questions, feel free to email us at [letsrun@letsrun.com.](mailto:letsrun@letsrun.com.) For more detailed contact info [click here](http://www.letsrun.com/contactus.php)
+Also if you post under a registered name, sign up for a contest, etc. we have your email address. In all emails we send out on LetsRun.com you can opt-out of our email list. We do not give your email address to outside parties.
 
+If you give a detailed shoe review, we will have the information about what type of runner you are that you share with us.
 
+We also use analytics software to see what portions of our site our visitors visit. And our server logs record this information for security reasons.
 
-**Message Boards:** The terms of service for our popular message boards [can be found here](http://www.letsrun.com/forum/TOS.php)
+ **Total Privacy**
 
-- **Weldon and Robert Johsnson** , LetsRun.com
+If you want to ensure 100% privacy regarding something, send us an email at [letsrun@letsrun.com](mailto:letsrun@letsrun.com) saying so. We will keep such information private barring a court order or subpoena. Our success is based on the trust our viewers have in us.
 
-|    
-****
+ **How we share your information**
 
-**[Save on Running Shoes](http://www.letsrun.com/letsrunsavings.php)**
+Once you post on our forums or do a shoe review this information is available to everyone on the internet. We do not sell or give email addresses to marketing partners.
 
-**
+ **Information others collect:**
 
-* * *
+We use various advertising networks to fund LetsRun.com. They set various cookies as well when you are on our site and other websites. We do not control the information they collect. (We have been asked to tell you that these companies may use aggregated information (not your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about how some of them use this info, [click here](http://www.networkadvertising.org/managing/opt_out.asp))
 
-**[Runner's World &   
-Running Times  
-  
-Combined Only $22  
-a Year  
-Save $87](http://www.shareasale.com/m-pr.cfm?merchantID=14440&userID=183660&productID=465817772)[  
-](http://www.shareasale.com/m-pr.cfm?merchantID=14440&userID=183660&productID=465817772)**
+When there is a more thorough way to opt-in or opt-out of this information we will post this here.
 
-****
-
-* * *
-
-**[  
-Running & Track and Field Posters](http://www.letsrun.com/runningposters.php)**
-
-* * *
-
-**Unbelievable interest  
-[ING Orange](http://www.letsrun.com/ingorange.php) Savings Account**  
-Sponsor of the NYC Marathon[  
-  
-](http://www.letsrun.com/ingorange.php)5 Minute Process to Open an Account  
-No Minimum Deposit
-
-* * *
-
-* * *
-
-******
+If you have any questions about our privacy policy email weldonjohnson@letsrun.com or call us 844-538-7786.
