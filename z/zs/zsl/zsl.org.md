@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326011033id_/https%3A//www.zsl.org/terms-and-conditions/zsl-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225105451id_/https%3A//www.zsl.org/terms-and-conditions/zsl-privacy-policy) for the most accurate reproduction.*
 
 # ZSL Privacy Policy | Zoological Society of London (ZSL)
 
@@ -23,9 +23,7 @@
 
 ## Introduction
 
-Founded in 1826, the Zoological Society of London (ZSL) is an international scientific, conservation and education charity whose mission is to promote and achieve the worldwide conservation of animals and their habitats. Our registered charity number is 208728.
-
-Our mission is realised through our ground-breaking science, our active conservation projects in more than 50 countries and our two Zoos, ZSL London Zoo and ZSL Whipsnade Zoo.
+We’re ZSL, an international conservation charity, and our vision is a world where wildlife thrives. We’re working every day to achieve this, through our science, our field conservation around the world and engaging millions of people through our two zoos, ZSL London Zoo and ZSL Whipsnade Zoo. Our registered charity number is 208728.
 
 ## 1\. What this privacy policy covers
 
@@ -108,11 +106,15 @@ ZSL will not merge personally-identifiable information with anonymous informatio
 
 If you wish to opt-out of Google Analytics tracking please visit and install the Google Analytics Opt-out Browser Add-on here: <https://tools.google.com/dlpage/gaoptout/>
 
+**Disqus**
+
+The [ZSL Instant Wild App and Website](https://instantwild.zsl.org/) uses a third party called Disqus to provide its comments section. When registering for an Instant Wild account a Disqus Account will also be automatically created on your behalf using the same information as supplied in the Instant Wild registration form (username and email address) – please see the [Disqus Terms](https://help.disqus.com/terms-and-policies/terms-of-service) and [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) for more information on what they collect.
+
 In addition to the above ZSL uses other third-party tracking tools to collect non-personal information about consumers and their online behaviour for advertising purposes. This data is used to inform ZSL about the audiences whom are most likely to be interested in our products and services so that we can deliver more relevant and targeted advertising.   
 
-ZSL also uses other third-party tracking tools to inform ZSL about how visitors use our websites and apps so that we can improve the user experience across our digital platforms. For more information on our use of cookies, [please read our cookie policy ](https://web.archive.org/cookie)
+ZSL also uses other third-party tracking tools to inform ZSL about how visitors use our websites and apps so that we can improve the user experience across our digital platforms. For more information on our use of cookies, [please read our cookie policy](https://web.archive.org/zsl-cookie-information).
 
-#### Information we get from other organisations when you give them permission to share your details, or your information is available publically.
+#### Information we get from other organisations when you give them permission to share your details, or your information is available publicly.
 
 ## 3\. What information do we collect and how do we use it?
 
@@ -136,6 +138,8 @@ If you support us by visiting our Zoos, joining the Society by becoming a member
 
 
 
+
+In addition to the above, when you submit a form on our website we may collect and store your internet protocol (IP) address. This includes when you submit a form to partake in a prize draw, promotion, event, competition or complete a survey. We collect this information to track submissions on the form to manage and administer our services. We will only keep this information for as long as necessary to fulfil the purposes we collected it for. At the end of that retention period, your data will either be deleted completely or anonymised. 
 
 In some circumstances we may also collect sensitive information including information relating to your health. However, we would only request this information where this is required and relevant to the reason why we are processing your data such as if you are registering to take part in a high risk challenge event.
 
@@ -194,7 +198,7 @@ You can opt out of your data being used in this way by emailing [dataprotection@
 
 You always have a choice as to whether and how you want to receive communications about our work, products and services and ways you can get involved. If you do not want us to use your contact details to contact you in the future you can opt out of this when we collect your details or at a later time. 
 
-If you ever want to change your contact preferences, or opt out of communications, you can do this at any time by completing this form. 
+If you ever want to change your contact preferences, or opt out of communications, you can do this by emailing [dataprotection@zsl.org](mailto:dataprotection@zsl.org). 
 
 ##### Alternatively, you can:
 
