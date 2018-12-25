@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koalasplayground.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606154052id_/http%3A//koalasplayground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koalasplayground.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225012534id_/http%3A//koalasplayground.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - A Koala's Playground
+# Privacy Policy | A Koala's Playground
 
 **1\. Introduction**
 
