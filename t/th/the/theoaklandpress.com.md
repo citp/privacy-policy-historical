@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theoaklandpress.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522151039id_/http%3A//www.theoaklandpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoaklandpress.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226000304id_/http%3A//www.digitalfirstmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital First Media
 
 **Privacy Policy**
 
-PLEASE NOTE THAT OUR PRIVACY POLICY CHANGES PERIODICALLY AND IS EFFECTIVE AS OF MAY 16, 2018.
+PLEASE NOTE THAT OUR PRIVACY POLICY CHANGES PERIODICALLY AND IS EFFECTIVE AS OF MAY 25, 2018.
 
 Digital First Media (“Digital First Media,” “us,” or “we”) is committed to protecting your personal privacy. We provide this Privacy Policy (“Policy”) to explain the type of Personal Information (as defined below) we collect on web sites including SMS/Text Alerts and Mobile Web owned by the Digital First Media, such as www.digitalfirstmedia.com (each, a “Web Site”), and our mobile application (the “Application,” together with Web Site, the “Platform”) and how we use Personal Information. As we update and expand our Platform and services, our Policy may change so check back to this page from time to time.
 
@@ -16,7 +16,7 @@ In order to make your visits to our Platform and use of the services available o
 
 **What Information is Collected on Our Platform**
 
-_Information You Provide_. We collect Personal Information when you provide it to us on our Platform. Such Personal Information may be collected, for example, when you submit a comment or question to us using a “contact us” or similar feature on our Platform, send us an e-mail, or in any other way submit information to us via our Platform.
+_Information You Provide_. We collect Personal Information when you provide it to us on our Platform. Such Personal Information may be collected, for example, when you submit a comment or question to us using a “contact us” or similar feature on our Platform, send us an e-mail, sign up for an email newsletter or mobile alerts, or in any other way submit information to us via our Platform.
 
 You may be able to send products, services, or information to others through our Platform by clicking on an “E-mail to Friend” or similar button on our Platform or in an e-mail that we have sent you. In some of these cases (unless you simply forward our e-mail on your own), you may provide the name and e-mail address of your friend or family member to us. Such Personal Information will be treated in accordance with our Policy and applicable law.
 
@@ -32,7 +32,7 @@ We use both Personal Information and non-personal information for multiple purpo
 
   * Improving or customizing the Web Site;
   * Providing updates;
-  * Sending promotional offers or opportunities;
+  * Sending newsletters, promotional offers or opportunities regarding new services, products or events, and third-party products or services, including advertisements;
   * Responding to your requests including providing you with our product and service offerings;
   * Internal record keeping;
   * Reporting Personal Information about your account to credit bureaus (such as late or payments, missed payments, or other defaults on your account may be reflected in your credit report);
@@ -60,13 +60,13 @@ _Disclosures Without Your Consent_. We may disclose Personal Information in resp
 
 _Disclosures With Your Consent_. We may ask if you would like us to share your Personal Information with other unaffiliated third parties who are not described elsewhere in this Policy.
 
-_Business Transfer_. We may share your Personal Information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).  If another company acquires our company, business, or our assets, we will also share your Personal Information with that company. 
+_Business Transfer_. We may share your Personal Information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires our company, business, or our assets, we will also share your Personal Information with that company.
 
 _Third Party Advertising_. We may use third party advertising companies to serve ads when you visit our Platform. These companies may use Personal Information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Platform and to other web sites in order to provide advertisements. These companies may employ cookies and clear GIFs to measure advertising effectiveness. We encourage you to read the privacy policies of these third party ad servers. If you would like more information about this practice and to know your choices about not having Personal Information used by these companies, see the Network Advertising Initiative’s consumer web site at www.networkadvertising.org/consumer/. Digital First Media participates in behavioral based advertising. This means that a third party may use technology (e.g., a cookie) to collect Personal Information about your use of the Platform so that they can provide advertising about products and services tailored to your interests. This advertising may appear either on the Platform, or on other sites.
 
 _Public Forums_. We may offer public chat rooms, bulletin boards, and comment submission forms. Please note that information that you disclose in these public forums become public and may be associated with your name and that by submitting information to these public forums, you consent to sharing such information publicly.
 
-_Affiliates and Acquisitions_. We may share your Personal Information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).  If another company acquires our company, business, or our assets, we will also share your Personal Information with that company.
+_Affiliates and Acquisitions_. We may share your Personal Information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires our company, business, or our assets, we will also share your Personal Information with that company.
 
 **Your Rights**
 
@@ -76,7 +76,7 @@ _Changing Your Personal Information_. You may request your Personal Information 
 
 _Deletion_. Digital First Media generally keeps your Personal Information for as long as is required for the purpose it is collected, unless a longer retention period is required or permitted by law. You may, however, request that we delete your Personal Information. We may also decide to delete your Personal Information if we believe it is inaccurate, incomplete, or that our continued use or storage of the information is prohibited by our obligations to other parties. When we delete Personal Information it will be removed from active databases but may remain in archives where it is not practical or possible to delete it. In addition, we may keep your Personal Information as needed to comply with legal obligations, resolve disputes, or enforce agreements.
 
-_Transmission of Personal Information to Other Countries_. Your Personal Information may be processed in the United States, where privacy laws may be less stringent than the laws in your country.  By submitting your Personal Information to us you agree to the transfer, storage and processing of your information in the United States.
+_Transmission of Personal Information to Other Countries_. Your Personal Information may be processed in the United States, where privacy laws may be less stringent than the laws in your country. By submitting your Personal Information to us you agree to the transfer, storage and processing of your information in the United States.
 
 _Complaints_. We take your privacy seriously and hope you will use the information in the Contact Us for your questions and concerns. You may also have the right to complain to regulatory bodies about our privacy practices.
 
