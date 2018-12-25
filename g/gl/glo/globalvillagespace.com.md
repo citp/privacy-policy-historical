@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalvillagespace.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311041959id_/https%3A//www.globalvillagespace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalvillagespace.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225195626id_/https%3A//www.globalvillagespace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Village Space
 
@@ -31,6 +31,8 @@ We may receive information about you from publicly and commercially available so
 Our collection of Personal Data is limited to the collection of necessary and adequate information required to accomplish the purposes described above.
 
 When you provide Personal Data, it is being provided directly by you to us, unless we receive it from publicly available sources such as a social media site.    When you provide Personal Data to us you agree to ensure that it is accurate, up to date, and correct.   In order to change or update your Personal Data, please see the “Contact Us” section below.  If all or part of the requested Personal Data is incorrect or is not provided, the information you requested may not be delivered to you.
+
+_We embed Facebook Comments plugin to allow you to leave comment at our website using your Facebook account. This plugin may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the commenting interface, including correlating your Facebook account with whatever action you take within the interface (such as “liking” someone’s comment, replying to other comments), if you are logged into Facebook. For more information about how this data may be used, please see Facebook’s data privacy policy: https://www.facebook.com/about/privacy/update_
 
 **How do we Protect Your Information?**
 
