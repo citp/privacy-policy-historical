@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachi.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618050527id_/http%3A//www.hitachi.com/privacy-e/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225113825id_/http%3A//www.hitachi.com/privacy-e/index.html) for the most accurate reproduction.*
 
 # About Personal Information Protection : Hitachi Global
 
@@ -45,19 +45,19 @@ When a person makes a request to disclose, correct or delete his or her own pers
 
  This document, "About Personal Information Protection", establishes the handling of all personal information by Hitachi in the company activities.
 
-  * [Scope](https://web.archive.org/web/20180618050527id_/http%3A//www.hitachi.com/privacy-e/index2.html#scope)
+  * [Scope](https://web.archive.org/web/20181225113825id_/http%3A//www.hitachi.com/privacy-e/index2.html#scope)
 
 
 
 ## 5\. Activity of Personal Information Protection
 
- Hitachi protects and manages the personal information by establishing a manager on a department basis with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/web/20180618050527id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition) is the information below that can be used to identify specific persons.
+ Hitachi protects and manages the personal information by establishing a manager on a department basis with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/web/20181225113825id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition) is the information below that can be used to identify specific persons.
 
   1. Information provided by person to Hitachi by entering in "Inquiry form" or other forms.
   2. Information provided by person to Hitachi through any method other than the above.
 
 
-  * [Personal information](https://web.archive.org/web/20180618050527id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition)
+  * [Personal information](https://web.archive.org/web/20181225113825id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition)
 
 
 
@@ -68,7 +68,7 @@ When a person makes a request to disclose, correct or delete his or her own pers
   3. When required to do so for business activities in which Hitachi is co-operating with Hitachi group companies, Hitachi may provide such group companies with personal information such as names, workplace or home addresses, telephone numbers, fax numbers, e-mail addresses, etc.
 
 
-  * [Details](https://web.archive.org/web/20180618050527id_/http%3A//www.hitachi.com/privacy-e/index2.html#purpose)
+  * [Details](https://web.archive.org/web/20181225113825id_/http%3A//www.hitachi.com/privacy-e/index2.html#purpose)
 
 
 
@@ -76,15 +76,20 @@ When a person makes a request to disclose, correct or delete his or her own pers
 
  When a person wants to request to disclose, correct, add, delete, stop usage, stop provision to a third party, or notify the purpose of usage of his/her personal information (hereinafter referred to as "disclose and so on") held by Hitachi, or wants to raise complaints, the person is requested to follow the predefined procedures to make such request.
 
-  * [Details](https://web.archive.org/web/20180618050527id_/http%3A//www.hitachi.com/privacy-e/index2.html#contact)
+  * [Details](https://web.archive.org/web/20181225113825id_/http%3A//www.hitachi.com/privacy-e/index2.html#contact)
 
 
 
 ## 9\. Contact Information
 
- For inquiries about this document except the request to disclose and so on of personal information and the raising complaints, please contact us in the following way.
+ For inquiries about this document except the request to disclose and so on of personal information and the raising complaints, please contact us in the following way.  
+The contents of this site shall be in accordance with the laws of Japan.  
+If you have an inquiry about Hitachi group company outside of Japan or the laws and regulations outside of Japan, please access to the Hitachi Group's website in the respective region accordingly. 
 
-  * [Details](https://web.archive.org/web/20180618050527id_/http%3A//www.hitachi.com/privacy-e/index2.html#inquiry)
+  * [Hitachi Group Global Network](http://www.hitachi.com/global/index.html)
+
+
+  * [Details](https://web.archive.org/web/20181225113825id_/http%3A//www.hitachi.com/privacy-e/index2.html#inquiry)
 
 
   * [Contact through Inquiry form](https://www8.hitachi.co.jp/inquiry/privacy/en/form.jsp)
@@ -94,3 +99,7 @@ When a person makes a request to disclose, correct or delete his or her own pers
 Contact by mail 
     Information Risk Management Department, Information Security Risk Management Division, Hitachi, Ltd.  
 1-18-13, Soto-Kanda, Chiyoda-ku, Tokyo, 101-8608, Japan
+
+  * * Hitachi, Ltd. will be closed from December 29th 2018 to January 6th 2019. During this period, inquiry responses may be delayed, but they will be processed from 7th onward. Our apologizes for any inconvenience caused by this.
+
+
