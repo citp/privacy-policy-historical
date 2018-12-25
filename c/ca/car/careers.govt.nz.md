@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127184022id_/https%3A//www.careers.govt.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225162155id_/https%3A//www.careers.govt.nz/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -81,11 +81,11 @@ Most web browsers are set to accept cookies. If you do not wish to receive cooki
 You have the right to access and to request correction of any of your personal information that we hold. To exercise this right, or to ask us anything else in relation to your privacy, please contact us in writing or by email:
 
 The Privacy Officer  
-Careers New Zealand  
-PO Box 9446  
+Tertiary Education Commission  
+PO Box 27-048  
 Wellington
 
-privacy@careers.govt.nz
+privacy.act@tec.govt.nz
 
 ###  Feedback
 
@@ -95,4 +95,4 @@ We value your comments and opinions. If you have comments, questions or complain
 
 
 
-Updated 18 Oct 2017
+Updated 31 Aug 2018
