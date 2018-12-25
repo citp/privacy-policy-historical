@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621185159id_/http%3A//snafu-comics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225204525id_/http%3A//snafu-comics.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
@@ -40,4 +40,4 @@ snafu-comics.com will update this Privacy Policy from time to time and alert use
 
 ### Questions
 
-Questions about snafu-comics.com’s privacy should be directed to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Questions about snafu-comics.com’s privacy should be directed to: operations@screenwavemedia.com
