@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliteblogacademy.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727101558id_/http%3A//eliteblogacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliteblogacademy.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225220700id_/http%3A//eliteblogacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elite Blog Academy
 
@@ -30,7 +30,7 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 ### HOW DO WE STORE YOUR INFORMATION?
 
-Your information is stored at the list server that delivers eliteblogacademy.com newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive marieforleobschool.com newsletters.
+Your information is stored at the list server that delivers eliteblogacademy.com newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive eliteblogacademy.com newsletters.
 
 All of the newsletters or emails that are sent to you by eliteblogacademy.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
 
