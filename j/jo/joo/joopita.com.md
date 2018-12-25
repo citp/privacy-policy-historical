@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the joopita.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625050751id_/http%3A//joopita.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joopita.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225040755id_/http%3A//www.joopita.com/privacy) for the most accurate reproduction.*
 
 # Joopita Research
-
-### Privacy Wizard
-
-Use the Privacy Wizard to quickly review your personal information as well as your privacy settings.
-
-  * account & profile
-  * security & settings
-  * e-mail
-  * homepage
-  * more...
-
-
 
 We are very serious about both security and the privacy of our users. In this area you will find detailed information on how this site works, on how we collect and store data, on how we intend to ensure the safety of children and young adults, and on how we intend to ensure that all members of this site will treat other users with respect. 
 
