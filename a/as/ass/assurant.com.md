@@ -1,116 +1,106 @@
-> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719125336id_/https%3A//www.assurant.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225061302id_/https%3A//www.assurant.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Assurant, Inc. understands that privacy is important to our customers and we strive to “Protect What Matters Most.” This Privacy Notice explains how we collect, use, and share the personal information we collect on this website. This Privacy Notice also describes the measures we take to protect your personal information and how you can reach us to answer any questions you may have about Assurant’s privacy practices.
+  **Jan 23, 2018**
 
- **  
-Information We Collect and How We Use It  **
+This Privacy Notice (“Notice”) applies to this website (the “Site”). This Notice does not apply to any website or service that does not display this Notice. This Notice does not apply to information collected or received apart from this Site and does not apply to data that does not allow us or third parties to identify or contact you. 
 
-  
-_**Personal Information You Provide**_  
-  
-You may choose to provide personal information (such as your name, address, telephone number and email address on the Assurant, Inc. website (Site).    
+Assurant’s collection and use of your information may be subject to laws and additional notices which may limit Assurant’s use of your information or provide you rights not described in this Notice. 
 
+1\. What Information Does Assurant Gather? 
 
-_**Event Registration**_
+Information You Give Us. We may collect and retain any information provided by you or gathered from your devices in connection with your online activity. For example, we collect information you give us when you 
 
-You may register on our Site for Assurant events. You may provide us with information such as your name, email address, company and industry affiliation when registering for an event. We use this information to register you for the event and contact you about changes and updates regarding the event. We also may use the information to communicate with you about other events and topics that we believe may be of interest to you. 
-
-_**News and Alerts**_
-
-On our Site, you may sign up to receive news and alerts from Assurant, Inc. To sign up, we may ask you for your name, company, job title, phone number, and email address. We use the information you provide to send you the communications you request. We also may use the information to communicate with you about other topics that we believe may be of interest to you. **_
-
-Email Assurant 
-
-_ **
-
-You may want to submit comments or questions to Assurant, Inc. You will be asked to provide certain personal information, including, when applicable, type of policy, policy number, reason/topic, name email address, phone number, and address. We may use this information to identify you as a customer and direct your comment or question to the appropriate Assurant business unit.To protect your privacy, please do not email us information you consider confidential. Email is not a secure method of communication and is not encrypted.
-
- _ **Careers**_
-
-You may submit your resume and other information to apply for a job with Assurant. We use the information you submit in connection with your job inquiry. 
-
-_**Other Site Features**_ **_   
-_ **   
-Our Sites offer various features, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with and communicate with you about these features. 
-
-**_Other Uses of your personal information_**  
-
-
-We may use the personal information you provide on the Sites for our internal purposes. These purposes include administration of the Site, market research, data analytics and compliance with our legal obligations, policies and procedures.
-
- _** Personal Information We Collect by Automated Means  
-** _   
-We use a variety of commonly used technologies, like cookies to understand how you use the Site, to make our services safer, and easier to use and to help create a better and more personalized experience for you. These technologies and the information we collect are listed below. **_   
-_ **
-
-_Cookies_
-
-Like many companies, some of our Site may use “cookies.” Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. We may use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting our Site.
-
-We use a tool called “Google Analytics” to collect information about use of this Site. Google Analytics collects information such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information.
-
-Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please notethat some features may not function properly if you decide to not accept cookies. 
-
-_Web Beacons_
-
-Certain pages on our Site may contain “web beacons” (also know as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. 
-
-_IP Addresses_
-
-An IP address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our Site, we may view the IP address of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what geographic regions our website visitors come. We also may use this information to enhance and/or tailor our Sites.
-
- _Browser or device:_ _   
-_   
-Certain information is collected by most browsers and/or through your device, such as your operating system version, internet browser type and version, device type, and screen resolution. We could use this information to ensure our Sites are functioning properly and for security purposes. 
-
-_Flash objects:_
-
-Certain pages on our Site may contain Adobe Flash objects (also known as “Local Shared Objects”). You can learn more about Flash objects and how to control and/or disable them by visiting the Adobe website. If you choose to disable Flash objects from our Site, then you may not be able to benefit from the information and/or services offered.
-
-To opt-out of generic data collection services, visit the following website:  
-
-
-  * For more information and opt-out options regarding ClickTale, <http://www.clicktale.net/disable.html>
+  * use our service or download materials from our Site; 
+  * request a quote for insurance, enroll for insurance, submit claims or check the status of a claim, or engage in other transactions with us; 
+  * communicate with us, such as to provide feedback, complete an online survey, request support or service, register for event, apply for a job, or ask for additional information; 
+  * register for or manage an account with us; or 
+  * subscribe to newsletters, email lists or other content we provide.
 
 
 
-**  
-Information We Share **
+We may collect information such as your first and last name, home or other physical address, email address, zip code, telephone number, other information that permits you to be contacted physically or online, or information about your interactions with us or others, and other information. In connection with certain activities on our Site (e.g., completion of an application for insurance) you may provide us information such as insurance policy number, social security number, or driver’s license number. You may choose to provide information relating to payment and financial accounts, demographics, dependent information, information regarding other insurance (such as insurance provider name and policy number), health conditions or diagnoses, physician information, and other information. You may provide information relating to your real or personal property, including its value. You may choose not to provide certain information to us but doing so may restrict your ability to use this Site or conduct certain business with Assurant. 
 
-  
-We do not sell, rent, trade or otherwise disclose your personal information submitted through our Site, except as described in this Privacy Notice. We may share your information with any of the Assurant affiliated companies. We also may share the information with service providers we have retained to perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or pursuant to legal process, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.    
+Social Media. We may collect information through our presence on social media and networking platforms. You may use social networks or other online services to access our Site. When you do so, information from those services may be made available to us. By associating a social network account with our Site, you agree that we may access and retain information relating to that account in accordance with the policies of the social network or other online service and this Notice. For example, we may be able to access account or profile information that you have provided to the social network or information about your interactions with the social network. 
+
+Device and Web Browsing Information. We may collect information from your devices and about your web browsing when you visit our Site. We may collect information such as: 
+
+  * your IP address; 
+  * the type of browser, devices and operating systems you use; 
+  * identifiers associated with the device(s) you use to access our Site; 
+  * the pages you visit and the features you use, including dates and times;
+  * if you navigated from or navigate to another website, the address of that website; and 
+  * information regarding your internet service provider. 
 
 
-  
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information you have provided through this website in a manner that is consistent with this Privacy Notice.  
- **   
-Our Security Procedures  **   
 
+In addition, we may collect information about your activities on our Site through the use of cookies, clear GIFs or web beacons, local shared objects or Flash cookies, or through other identifiers or technologies, including similar technologies as they may evolve over time. We refer to these technologies collectively as Data Technologies. 
 
-We restrict access to customer information to those employees whom we know have a valid business purpose to have access to such data. We maintain physical, electronic, and procedural safeguards. We require those who provide services for us and to whom we provide your data to implement the same safeguards.
+We may allow third parties to use Data Technologies on our Sites. The information collected by Data Technologies may be shared with and used by us, by others acting on our behalf, or by third parties subject to their own privacy policies. Information collected by Data Technologies may be used on this Site or on other websites or services, including those that may not be operated by us. 
 
- **Changes to this Privacy Policy**
+Email. We may collect information regarding the effectiveness of our email and other communications with you. For example, we may know if you follow a link in an email we send to you. 
 
-We reserve the right to change this Privacy Policy at any time. If we make material changes, we will provide current customers a new notice that describes our new practices and will post it on our Internet websites.
+Information from Other Sources. We may obtain information about you from other third parties. This information may include information about your use of this Site or our services, your use of other websites, your interests and preferences and other information about you or your household. We may combine the information we obtain from third parties with information that we have collected about you. 
 
- **"Do not track" signals**
+2\. How Does Assurant Use Information About Me? 
 
-We do not respond to a web browser’s “do not track” signal or other mechanisms that signal a request that our site not track the consumer’s online activities over time and across websites. Other parties may collect personally identifiable information about your online activities over time and across different websites when you use our Site.
+We and others acting on our behalf may use the information that we gather to operate our businesses. For example, we may: 
 
- **Process for reviewing or requesting changes to personal information**
+Operate and Support our Site and Services. We use the information that we gather in order to operate our Site and our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Site or any of our services. If you establish an account with us, we may use information about you to manage or support your account. 
 
-If you think that any personal information we have collected about you is inaccurate, you may send a written request for review to us at the address provided below. We will investigate your request and make appropriate changes if warranted.
+Improve and Evolve our Services. We constantly evaluate and improve our Sites and services, including developing new products or services and using the information we gather to do so. 
 
- **Links to other websites**
+Advertise and Promote Products and Services. We may use the information we gather to offer, provide, or personalize products and services from us. For example, we may customize content, advertising, promotions and incentives to reflect your preferences, interests, or prior interactions with us and others. 
 
-This website may contain links to other websites that may have online information practices different from ours. We are not responsible for the privacy and security practices of those websites, and we encourage our visitors to learn about the privacy and security practices of those websites.
+Make Other Contacts. We may contact you through telephone, text, or chat for other purposes, as permitted by law. 
 
- **Children**
+This Notice only addresses our own information practices. This Notice does not apply to information you share with third parties even if we link to those third parties from a Site. These third parties may have their own privacy policies governing their use of information that you can access from their websites. 
 
-We do not knowingly collect personal information from anyone under the age of 13. For more information about protecting your child's privacy online, visit the Federal Trade Commission website.
+Please note that other parties may collect personally identifiable information about your online activities over time and across different websites when you use our Site. 
 
- **Privacy contact information**
+3\.  When Does Assurant Share Information? 
 
-We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant, Attention Assurant Privacy Officer, Assurant, Inc. One Chase Manhattan Plaza, New York, NY 10005 or e-mail us your question to [contact_corpcomm@assurant.com](mailto:contact_corpcomm@assurant.com)
+We may share the information we gather, including as follows: 
+
+Service Providers. We may share information with third party service providers and others who help us operate our business or provide services on our behalf. These service providers include credit bureaus, those who may help us verify identities and backgrounds, those who help us handle your account or provide customer service, and analytics companies, advertising networks and others that provide Data Technologies on our Sites. 
+
+Scorporate Affiliates and Other Ventures. We may share information with our corporate affiliates for their everyday business purposes, to provide services or to perform marketing. We may also participate in joint ventures with others and we may share information as part of that joint venture. 
+
+Regulators. We may share information with regulators, including as necessary to comply with regulatory oversight of our businesses. 
+
+Promotional. We may share information with third parties who help us develop and promote products and services, including joint marketing, or to help us customize advertisements, offers, or other communications to you. 
+
+Business Transfer. We may share information we have collected from you in connection with the sale or merger of our business or the transfer of assets. 
+
+Protection of Ourselves and Others. We may use and share the information we gather to protect our own and others’ rights and property, including protection of our affiliates, customers and members of the public. We may use and share the information we gather to comply with applicable law, legal process, legal advice and for preventing fraud, theft, and injury to you, us or others. 
+
+4\.  What Choices Do I Have Regarding My Information? 
+
+You may limit and control the information provided to us in a number of ways. You may not be able to use all features of our Sites if you limit the information you share with us. 
+
+You may update information provided in your online account by logging on to your account and editing that information. 
+
+If you have an insurance policy with Assurant, you may update your information by contacting the number provided for you with your enrolled. 
+
+Your browser and your device may provide you the option to limit the use of cookies or other Data Technologies. You should consult documentation for your browser or device for more information. Your device may have settings that allow you to prevent sharing geolocation information with us. You should consult your device’s settings or help documentation for more information about exercising these options. 
+
+5\.  How Does Assurant Address California Online Privacy Rights? 
+
+As of the Effective Date, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third party websites or online services. 
+
+6\.  How Does Assurant Provide Updates to this Notice? 
+
+When we make material changes to this Notice, we will update this web page and change the Effective Date. 
+
+7\.  How Can Assurant be Contacted Regarding Privacy Issues? 
+
+You can contact us with questions or comments about our privacy practices or this Notice by contacting us at: 
+
+Privacy Office  
+260 Interstate North Circle SE  
+Atlanta GA 30339 
+
+8\.  How Does Assurant Address Information Security? 
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide us on this Site. However, you should understand that no safeguards guarantee 100% security. 
