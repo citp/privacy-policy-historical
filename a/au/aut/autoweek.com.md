@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoweek.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624151334id_/http%3A//autoweek.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoweek.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225082351id_/https%3A//autoweek.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy | Autoweek
 
@@ -18,13 +18,13 @@ This policy also explains your choices about how we use information about you. 
 
 This policy is intended to help you understand:
 
-  * [What information we collect about you](https://www.atlassian.com/legal/privacy-policy-may-25th?utm_source=alert-email&utm_medium=email&utm_campaign=privacy-change-notification_EML-3113#what-information-we-collect-about-you)
-  * [How we use information we collect ](https://www.atlassian.com/legal/privacy-policy-may-25th?utm_source=alert-email&utm_medium=email&utm_campaign=privacy-change-notification_EML-3113#how-we-use-information-we-collect)
-  * [How we share information we collect](https://www.atlassian.com/legal/privacy-policy-may-25th?utm_source=alert-email&utm_medium=email&utm_campaign=privacy-change-notification_EML-3113#how-we-share-information-we-collect) 
-  * [How we store and secure information we collect ](https://www.atlassian.com/legal/privacy-policy-may-25th?utm_source=alert-email&utm_medium=email&utm_campaign=privacy-change-notification_EML-3113#how-we-store-and-secure-information-we-collect)
-  * [How to access and control your information ](https://www.atlassian.com/legal/privacy-policy-may-25th?utm_source=alert-email&utm_medium=email&utm_campaign=privacy-change-notification_EML-3113#how-to-access-and-control-your-information)
-  * [How we transfer information we collect internationally ](https://www.atlassian.com/legal/privacy-policy-may-25th?utm_source=alert-email&utm_medium=email&utm_campaign=privacy-change-notification_EML-3113#how-we-transfer-information-we-collect-internationally)
-  * [Other important privacy information](https://www.atlassian.com/legal/privacy-policy-may-25th?utm_source=alert-email&utm_medium=email&utm_campaign=privacy-change-notification_EML-3113#other-important-privacy-information)
+  * What information we collect about you
+  * How we use information we collect 
+  * How we share information we collect 
+  * How we store and secure information we collect 
+  * How to access and control your information 
+  * How we transfer information we collect internationally 
+  * Other important privacy information
 
 
 
