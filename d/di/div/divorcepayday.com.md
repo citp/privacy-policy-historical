@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divorcepayday.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603100650id_/http%3A//divorcepayday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcepayday.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225132726id_/http%3A//divorcepayday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Divorce PayDay
 
@@ -134,7 +134,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4cdcac2cbe4cbc9c3d7d0d1c0cdcbd78ac7cbc9)
+  * If you have any questions about this Privacy Policy, please contact us: [info@DivorcePayday.com](mailto:info@omgstudios.com)
 
 
 
