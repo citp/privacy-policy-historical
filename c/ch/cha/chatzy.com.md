@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527052033id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225161404id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Chatzy
 
@@ -20,7 +20,7 @@ We respect the privacy of our users to the fullest:
 
 In addition to information required for the functioning of the system, Chatzy saves information such as time of day, browser type and browser language with every chat. This allows us to track the number of users and their characteristics in order to improve our service.
 
-IP addresses are recorded for the purpose of preventing misconduct in the chatrooms or other cases of misuse, such as the sending out of chat invitations without the intention to chat with the recipients.
+Each major chat action (entering a room, posting a link, etc.) is logged together with the visitor's IP address and either browser ID (for new users) or email address (for registered users). The purpose of these action logs is to prevent misconduct in the chatrooms or other cases of misuse, such as the sending out of chat invitations without the intention to chat with the recipients.
 
 Chatzy uses cookies to store user preferences and track number of users. Our rooms, however, work fine without cookies. If you disable cookies on your computer, you can still use our chatrooms, but you will not be able to sign up and make Chatzy remember your rooms and settings.
 
@@ -51,6 +51,14 @@ We do not read or store any other information about you, your friends/connection
 Furthermore, we do not interact with your third-party account, i.e. we cannot and will not post anything about Chatzy or your use of Chatzy on Facebook or any of the other social media platforms.
 
 Your name and ID/profile link will only be used to identify you on the Visitor List in rooms you enter, if you explicitly request this under [Account Preferences](https://web.archive.org/user.htm).
+
+## How long do we keep your information (Data Retention)?
+
+The above-mentioned chat action logs are kept for at least 6 months. After this period, we delete them within the following 6 months. You cannot ask to be removed from these logs, since they may be used for law enforcement purposes.
+
+Furthermore, certain action logs are kept for 5 years. These include payment transactions, which we are required to safeguard for accounting purposes.
+
+Your Chatzy profile, which includes your preferences and personal rooms list, can be deleted at any time from the [login option page](https://web.archive.org/sign.htm) (available after logging in).
 
 ## Changes to the Privacy Policy
 
