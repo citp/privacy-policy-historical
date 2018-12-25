@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historybyday.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621204021id_/http%3A//www.historybyday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historybyday.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225111856id_/http%3A//www.historybyday.com/privacy) for the most accurate reproduction.*
 
-# History By Day
+# Privacy Policy
 
 **_PRIVACY POLICY_**
 
@@ -10,7 +10,7 @@ Last Update: June 17, 2018
 
 Thank you for using Our Website!
 
-We, in Kumma DP Ltd. (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
+We, in ReigNN Platform Ltd. (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
 
 The purpose of this privacy policy is to ensure you are fully informed and aware as to the scope and nature of information we collect and/or otherwise receive from or about you when you visit historybyday.com (the “Website”) and how is it being processed and/or otherwise used by us.
 
