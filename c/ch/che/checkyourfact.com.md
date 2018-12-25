@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the checkyourfact.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517025403id_/http%3A//checkyourfact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkyourfact.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225234156id_/http%3A//checkyourfact.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
 #### Effective Date: May 10, 2016.
 
-The Daily Caller (THE DC or we) is the owner and operator of smokeroom.com (the Website), a comprehensive news website providing original reporting, updated links to the latest news, analysis of current events, satire, research on current policy issues, columns from thought leaders, and other content. We may also offer smokeroom.com mobile applications Applications).
+The Daily Caller (THE DC or we) is the owner and operator of checkyourfact.com (the Website), a comprehensive news website providing original reporting, updated links to the latest news, analysis of current events, satire, research on current policy issues, columns from thought leaders, and other content. We may also offer checkyourfact.com mobile applications Applications).
 
 In this Privacy Policy (Policy), we describe the information that we collect about you as you use our Website, Application, and our products and services contained in our Website, Application, and offline (collectively, our Services). This Policy applies to information that we collect online and offline.
 
@@ -76,7 +76,7 @@ B. Information Collected Automatically When Using Our Services
 
 THE DC and our third party service providers collect information automatically through the use of electronic tools such as web beacons, cookies, Flash, clickstream data, and other automated devices that are deployed on the Website and our Application. We and our third party service providers may collect the following information about your use of our Website via these technologies: your IP address; your browser type and operating system; web pages you view; links you click; your interaction with our Website; length of time you are logged into our Website; and websites visited before our Website. If you download and use our Application, we will collect the above-listed information; we also will collect your device ID, mobile carrier, device manufacturer, phone number, and type of device. This information may be associated with your username and may be combined with other information, including personally identifiable information, that we collect about you.
 
-Web Beacons: A web beacon is a type of picture file used on the Internet. Web beacons are used in combination with cookies to help monitor traffic at CHECKYOURFACT.com and understand the ways in which users interact with content on the Website. Among other uses, we may use web beacons to count visitors to our Website and Application or to monitor how our users navigate our Website and Application. We may include web beacons in email messages to count how many of the messages that we sent were opened, acted upon, and forwarded. We use web beacons to compile aggregate statistics about our Services and our marketing campaigns.
+Web Beacons: A web beacon is a type of picture file used on the Internet. Web beacons are used in combination with cookies to help monitor traffic at checkyourfact.com and understand the ways in which users interact with content on the Website. Among other uses, we may use web beacons to count visitors to our Website and Application or to monitor how our users navigate our Website and Application. We may include web beacons in email messages to count how many of the messages that we sent were opened, acted upon, and forwarded. We use web beacons to compile aggregate statistics about our Services and our marketing campaigns.
 
 Cookies:Cookies help provide a customized user experience. We and our third party service providers may use cookies to, among other things, better serve you with tailored information and facilitate your ongoing access to and use of our Services. There are two types of cookies: session-based and persistent cookies. We also allow third party vendors to use cookies on our Site and Application.
 
@@ -205,13 +205,27 @@ California residents may request a list of all third parties to which The DC has
 
 * * *
 
-XI. HOW TO CONTACT US
+**XI. SPECIAL NOTICE TO EUROPEAN TERRITORY CITIZENS** In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), THE DC provides specific rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure and blockage. More specifically: 
+
+  * the right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
+  * under certain circumstances, the right to request that personal data should be deleted.
+  * under certain circumstances, the right to demand that the processing of personal data should be restricted.
+  * withdraw your consent to the processing and use of your data completely or partially at any time with future application.
+  * have the right to obtain your personal data in a common, structured and mechanically readable format.
+  * contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
+  * the right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
+
+Pursuant to the GDPR, citizens from "European Territories" mean the European Economic Area (EEA) and Switzerland. Please email our Director of Advertising Operations and designated Data Protection Officer ("DPO") Chad Brady at [advertise@dailycaller.com](mailto:advertise@dailycaller.com) with any questions about exercising any of the above rights. 
+
+* * *
+
+XII. HOW TO CONTACT US
 
 Questions and comments regarding this Privacy Policy should be directed to privacy@dailycaller.com.
 
 The Daily Caller  
-1050 17th Street NW  
-Suite 900  
+1920 L Street NW  
+Suite 200  
 Washington, DC 20036  
 (202) 506-2027
 
