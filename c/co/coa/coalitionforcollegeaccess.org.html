@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coalitionforcollegeaccess.org privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627031500id_/http%3A//www.coalitionforcollegeaccess.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coalitionforcollegeaccess.org privacy policy that was archived on 2018-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225180520id_/http%3A//www.coalitionforcollegeaccess.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" class="js "><head>
 
@@ -7,7 +7,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta http-equiv="X-UA-Compatible" content="IE=9">
     <meta charset="utf-8">
-    <title>Coalition for Access &amp; Affordability</title>
+    <title>Coalition for College</title>
     <meta name="description" content="">
 
     <meta name="author" content="">
@@ -31,7 +31,7 @@
 
     <!-- Javascript
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="j/members.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M7B8NTZ"></script><script src="j/members.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <style>
 
@@ -48,6 +48,32 @@
         }
 
     </style>
+	<!-- Javascript For CCID
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+        $.getJSON("https://access.coalitionforcollegeaccess.org/manage/query/run?id=5654af9a-f949-4b60-b0af-ac1941248086&h=e1f2ea48-95bc-3811-2deb-e9d2cc6fb7fa&cmd=service&output=json&ccid=&name=&city=&state=&country=&website=", function(result){
+            $.each(result.row, function(i, field){
+                $("#cbos").append("<tr><td>" + field.ccid + "</td><td>" + field.name + "</td><td>" + field.city + "</td><td>" + field.state + "</td> <td>" + field.country + "</td><td>" + field.website + "</td></tr>");
+            });
+        });
+    $("#cbosinput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#cbos tr").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M7B8NTZ');</script>
+<!-- End Google Tag Manager -->
+
 
     <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -57,15 +83,14 @@
 <body><noscript>This site works best with javascript enabled</noscript>
 <header>
     <div class="container">
-        <a id="coalition-logo" alt="Coalition home" href="//coalitionforcollegeaccess.org">Coaltion Logo
-            <svg role="img" aria-labelledby="CoalitionSVGElements CoalitionSVGDescription" alt="Coalition Logo" id="headerlogo" width="800" height="212">
-            Coalition for Access Affordability &amp; Success
-                <use xlink:href="#coalition-header"></use>
-            </svg>
-        </a>
+   
+<a href="http://coalitionforcollege.org"> <img src="/i/simple-c.png" alt="Coalition home" href="http://coalitionforcollege.org" style=" width:73px">  </a>
 
         <nav id="dropnav"> 
             <ul>
+				<li><div class="dropdown">
+					<a href="http://coalitionforcollege.org">Home</a></div>
+				</li>
                 <li>
                     <div class="dropdown">
                     <a href="about-us.html"><button class="dropbtn">About Us</button></a>
@@ -95,7 +120,8 @@
                     <a href="supporter-landing.html"><button class="dropbtn">For Student Supporters</button></a>
                     <div class="dropdown-content">
                         <a href="supporters.html">Counselors,<br>Teachers, and<br>Parents</a>
-                        <a href="cbo-resources.html">Community-Based<br>Organizations<br>(CBOs)</a>
+                        <a href="cbo-resources.html">Community-Based<br>Organizations<br>(CBOs)</a><br>
+						<a href="cbo-id.html">CCID Registry</a><br>
                         <a href="supporter-resources.html">Resources</a>
                     </div>
                     </div>
@@ -107,7 +133,8 @@
                         <a href="members-new.html">Map and List<br>of Members</a>
                         <a href="eligibility-criteria.html">Eligibility Criteria for Members</a>
                         <!--<a href="">Join the Coalition</a> -->
-                        <a href="members-live.html">Members<br>Accepting the<br>Coalition Application</a>
+                        <a href="alert.html">Members<br>Accepting the<br>Coalition Application</a>
+						<a href="https://access.coalitionforcollegeaccess.org/account/login?r=https%3a%2f%2faccess.coalitionforcollegeaccess.org%2fportal%2fmember">Member<br>Portal Login</a>
                     </div>
                     </div>
                 </li>
@@ -119,11 +146,15 @@
             </ul>
         
     </nav>
+		
+		 
+		
 </div>
 
 <div class="container">
     <nav id="quicknav"> 
-            <ul>
+        
+		<ul>
                 <li><a href="http://mycoalition.org" target="_blank">MyCoalition Login</a></li>
                 <li><a href="pubs.html">News</a></li>
                 <li><a href="join-connect.html">Contact Us</a></li>
@@ -140,13 +171,13 @@
 
 <h1>Privacy Policy</h1>	
 
-<p>This privacy policy applies to (i) information collected by www.coalitionforcollegeaccess.org, the web site of The Coalition for Access, Affordability, and Success, as well as (ii) information that the Coalition receives through www.mycoalition.org.</p>
+<p>This privacy policy applies to (i) information collected by www.coalitionforcollege.org, the web site of The Coalition for College, as well as (ii) information that the Coalition receives through www.mycoalition.org.</p>
 
 <p>Specifically, this policy will notify you of the following:</p>
 
 <ul>	
-	<li>What personal information is collected from you through www.coalitionforcollegeaccess.org, how it is used and with whom it may be shared.</li>
-	<li>Your access to and control over the information you provide through www.coalitionforcollegeaccess.org.</li>
+	<li>What personal information is collected from you through www.coalitionforcollege.org, how it is used and with whom it may be shared.</li>
+	<li>Your access to and control over the information you provide through www.coalitionforcollege.org.</li>
 	<li>What personal information we receive from www.mycoalition.org, how it is used and with whom it may be shared.</li>
 	<li>The security measures used by the Coalition to protect your information.</li>
 	<li>The Coalition’s privacy policy does not apply when you interact with links to otherwebsites. </li>
@@ -158,17 +189,17 @@
 
 <h2>Your Access to and Control Over Information </h2>
 
-<p>You may contact the Coalition via the email at info@coalitionapp.org to request any of the following: (i) access to personal information you have previously provided through emails to @coalitionapp.org or forms hosted on www.coalitionforcollegeaccess.org, if any; (ii) changes or corrections to any such information; (iii) deletion of any such information; and/or (iv) a response to any concern(s) you have about our use of your information.</p>
+<p>You may contact the Coalition via the email at info@coalitionapp.org to request any of the following: (i) access to personal information you have previously provided through emails to @coalitionapp.org or forms hosted on www.coalitionforcollege.org, if any; (ii) changes or corrections to any such information; (iii) deletion of any such information; and/or (iv) a response to any concern(s) you have about our use of your information.</p>
 
 <h2>INFORMATION RECEIVED FROM WWW.MYCOALITION.ORG</h2>
 
-<p>The platform described on www.coalitionforcollegeaccess.org and offered through www.mycoalition.org is provided by the Coalition's third party technology service provider, CollegeNET. Please be aware that with respect to www.mycoalition.org, the Coalition is not responsible for any privacy or security practices, and that CollegeNET’s privacy and security policies exclusively apply. You may access these CollegeNET policies at: <a href="https://corp.collegenet.com/privacy.html" target="_blank">corp.collegenet.com/privacy.html</a>.</p>
+<p>The platform described on www.coalitionforcollegea.org and offered through www.mycoalition.org is provided by the Coalition's third party technology service provider, CollegeNET. Please be aware that with respect to www.mycoalition.org, the Coalition is not responsible for any privacy or security practices, and that CollegeNET’s privacy and security policies exclusively apply. You may access these CollegeNET policies at: <a href="https://corp.collegenet.com/privacy.html" target="_blank">corp.collegenet.com/privacy.html</a>.</p>
 
 <p>CollegeNET may provide the Coalition with aggregated and de-identified metrics and other data regarding www.mycoalition.org users and/or services. CollegeNET may also provide the Coalition with certain information that platform users provide in the “Profile Section” of their platform accounts on www.mycoalition.org, including name, date of birth, mailing address, email address, phone number(s), sex and gender, race/ethnicity, current schooling status, high school information, grade level, year of planned college enrollment, academic interests, language proficiencies, parent/guardian education level, fee waiver qualification, and application status. The Coalition will not sell or rent this data or information to anyone. Rather, this data and information will be used by the Coalition solely to (i) provide platform users with additional information regarding the Coalition’s free college planning tools, the application, and My Coalition Counselor resources and (ii) assess and improve upon the Coalition’s activities and efforts in support of its mission to increase student access to information about colleges and improve the college application process. Please note that we cannot change information you provide through www.mycoalition.org. If you want to update such information, you must go through the www.mycoalition.org website and make such requests in accordance with CollegeNET policies.</p>
 
 <h2>Security</h2>
 
-<p>We take commercially reasonable measures to protect the information you provide on www.coalitionforcollegeaccess.org and that we otherwise receive from CollegeNET through www.mycoalition.org. We cannot, however, ensure or warrant the security of any or all of the information you transmit to www.coalitionforcollegeaccess.org and/or www.mycoalition.org, and you do so at your own risk.</p>
+<p>We take commercially reasonable measures to protect the information you provide on www.coalitionforcollege.org and that we otherwise receive from CollegeNET through www.mycoalition.org. We cannot, however, ensure or warrant the security of any or all of the information you transmit to www.coalitionforcollege.org and/or www.mycoalition.org, and you do so at your own risk.</p>
 
 <h2>Other Websites</h2>
 
@@ -200,9 +231,18 @@
                </div>
                <div class="one-half column">
        
-                   <p>©2018–The Coalition for Access, Affordability, and Success<br>
+                 <p>©2018–The Coalition for College<br>
                        <a href="privacy.html">Privacy Policy</a>
-                   </p>
+                 </p><p><font face="Arial, Helvetica, sans-serif">Follow us on social media:</font><font face="Arial, Helvetica, sans-serif"> &nbsp;<a href="https://www.facebook.com/CoalitionForCollege/"><img alt="Facebook" src="https://access.coalitionforcollegeaccess.org/www/images/facebook-icon(1).png" style="width: 30px;"></a>&nbsp;
+					 
+					 <a href="https://www.instagram.com/coalitionforcollege/"><img alt="Instagram" src="https://access.coalitionforcollegeaccess.org/www/images/instagram-icon.png" style="width: 30px;"></a>&nbsp;
+					 
+					 <a href="https://twitter.com/mycoalition">
+					 <img alt="Twitter" src="https://access.coalitionforcollegeaccess.org/www/images/twitter-icon.png" style="width: 30px;"></a></font>
+				   	 
+					 <a href="https://www.linkedin.com/company/coalition-for-access-affordability-and-success/">
+					 <img alt="LinkedIn" src="https://access.coalitionforcollegeaccess.org/www/images/linkedin-icon.png" style="width: 30px;"></a></p>
+                 
                    <!-- <span class="ss-social ss-facebook"> </span>
                    <span class="ss-social ss-twitter"></span> -->
        
