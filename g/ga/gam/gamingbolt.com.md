@@ -1,75 +1,29 @@
-> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922014735id_/http%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225035310id_/https%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « GamingBolt.com: Video Game News, Reviews, Previews and Blog
+# Privacy Policy
 
-This policy describes the ways we collect, store, use and protect your personal information. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it.
+**Information We Collect:**
 
-**The Information That GamingBolt Collects**
+GamingBolt is a video games coverage website, run by Gamers for the Gamers. Our aim is to provide the best possible experience for our readers and that also means we respect their privacy. We do not have a registration system for our users, so this means we do not collect personal identifiable information about you, such as your name, address or telephone number etc except in two cases which are described below.
 
-When you visit the GamingBolt website, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website. If you open an account, we collect the following types of information from you:
+_Case 1: Giveaways/Contests:_ Email address may be required for rare cases (such as giveaways and contests), in which case we will notify you.
 
-  * Contact Information 
-    * Name
-    * Email
-    * And Other Similar Information.
+_Case 2: Disqus Comments System:_ Our comments system is powered by [Disqus](https://disqus.com/) and [Disqus Comment System](https://wordpress.org/plugins/disqus-comment-system/) plugin for WordPress. Disqus requires our readers to either create a Disqus account using your name, email and password (in this case we strongly suggest not using your real name) or you can also post without a Disqus account by just providing your name and email ( again, in this case we strongly suggest not using your real name). You can also create a Disqus account using your Twitter, Facebook or Google accounts.
 
+The Disqus Comment System plugin for WordPress collects your comments data (such as comments, user name, email address, IP address). So if you want to delete or modify them, please get in touch with us at admin@gamingbolt.com with all required details such as a copy of the comment and the URL on which the comment was posted so that we can remove/modify/edit it (those comments will be treated [with respect to our comments policy)](https://gamingbolt.com/gamingbolts-community-policy).
 
+We encourage you to read our comments policy by clicking the link [here](https://gamingbolt.com/gamingbolts-community-policy).
 
-Before permitting you to use our Service, we may require you to provide additional information we can use to verify your identity or address or manage risk, such as your date of birth, or other information. Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to you to contact with our customer support team.
+Also note that, commenting on our articles is completely optional so if you are uncomfortable to share your details, you can completely avoid commenting all together!
 
-**How We Protect and Store Personal Information**
+**Cookies:**
 
-Throughout this policy, we use the term “personal information” to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
+We also use third party advertisements and services on GamingBolt.com to support our site. Some of these advertisers and service providers may use technology such as cookies that collect information (which does not include personally identifiable information such as your name or email address). Some of these companies may use this information about your visits to this site and other websites in order to provide advertisements about goods and services of interest to you. GamingBolt will not sell or rent any of your personal information to anyone.
 
-We store and process your personal information on our computers, and we protect it by maintaining physical, electronic and procedural safeguards. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our files, and we authorize access to personal information only for those employees who require it to fulfil their job responsibilities.
-
-How We Use the Personal Information We Collect
-
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
-
-  * provide the services and customer support you request
-  * collect fees (if applicable), and troubleshoot problems
-  * prevent potentially prohibited or illegal activities, and enforce our Terms of Service
-  * customize, measure, and improve our services and the content and layout of our website.
-
-
-
-**We may share your personal information with:**
-
-  * Law enforcement, government officials, or other third parties when 
-    * we are compelled to do so by a subpoena, court order or similar legal procedure
-    * we need to do so to comply with law
-    * we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms of Service.
-  * Other third parties with your consent or discretion to do so.
-
-
-
-GamingBolt will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy.
-
-**Cookies on GamingBolt**
-
-Most internet browsers have a feature known as cookies. These cookies store small information on your computer about your visit to your site. You do not need cookies turned on to visit our site; however, some participation in our site may require cookies. Cookies alone do not tell us about you. You can go in your settings on your internet browser and adjust your cookies.
-
-We may use cookies in the following ways:
-
-  * Keeping track of return visitors to GamingBolt or our advertisers’ sites
-  * Getting statistical information on GamingBolt and advertisers’ sites
-  * Deciding on what features our users like best
-  * Saving your password each time you visit our site
-  * Displaying the most appropriate advertisement described for you.
-
-
-
-**Business Transfers**
-
-GamingBolt has the right to buy or sell a company or merge with another company at any time. If we sell GamingBolt, we have the choice to transfer some or all of your information to the particular buyer.
-
-**Privacy of Children**
-
-We do not collect information knowingly of anyone under the age of 13.
+We also use cookies for Google Analytics which is used for traffic statistics. In order to further respect the privacy of users, we have switched on anonymous IP tracking in our Google Analytics code.
 
 **Questions or Comments?**
 
-Go to the contact us feature and ask us questions about our privacy policy. We will get back to you as soon as possible hopefully to make GamingBolt a better place for everyone.
+Please contact us at admin@gamingbolt.com for any questions. We will get back to you as soon as possible hopefully to make GamingBolt a better place for everyone.
 
 * * *
