@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpicturezone.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621232245id_/http%3A//www.digitalpicturezone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpicturezone.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225215419id_/http%3A//www.digitalpicturezone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Picture Zone
 
