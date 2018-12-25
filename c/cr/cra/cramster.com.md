@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405083356id_/https%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225052808id_/https%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
 
 # Chegg.com Privacy Policy
+
+IF YOU ARE NOT FROM THE UNITED STATES, PLEASE REFER THE INTERNATIONAL PRIVACY POLICY [HERE](https://web.archive.org/internationalprivacypolicy).
 
 We at Chegg, Inc. (collectively with any subsidiaries, "Chegg") have created this Privacy Policy to describe our practices regarding information we collect through our web sites, mobile features, applications and any other interactive features or services owned or controlled by Chegg that post a link to this Privacy Policy (each, a "Service" and collectively, the "Services"), as well as any information we collect offline and combine in our databases. Certain features discussed in this Privacy Policy may not be offered on each Service at any particular time. Note that we combine the information we collect from you through all of our web sites, mobile applications, and other Services. 
 
