@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the onlineslangdictionary.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623172749id_/http%3A//onlineslangdictionary.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineslangdictionary.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225163728id_/http%3A//onlineslangdictionary.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Online Slang Dictionary
+
+Can you believe that a neo-Nazi website gets a million more visitors a month than we do, due to Google's penalty against this site?  
+ **November update** : I've started naming names. [Read more about Google's penalty here](https://web.archive.org/pages/google-panda-penalty/). 
+
+Can you believe that a neo-Nazi website gets a million more visitors a month than we do, due to Google's penalty against this site? **November update** : I've started naming names. [Read more about Google's penalty here](https://web.archive.org/pages/google-panda-penalty/). 
+
+Can you believe that a neo-Nazi website gets a million more visitors a month than we do, due to Google's penalty against this site? **November update** : I've started naming names. [Read more here](https://web.archive.org/pages/google-panda-penalty/). 
+
+Can you believe a neo-Nazi website gets a million more visitors a month than we do, due to Google's penalty against this site? I'm naming names. [Read more here](https://web.archive.org/pages/google-panda-penalty/). 
+
+Can you believe a neo-Nazi website gets a million more visitors a month than we do, due to Google's penalty against this site? [Read more here](https://web.archive.org/pages/google-panda-penalty/). 
 
 We will never share any personally identifiable information (such as your e-mail address or location) with anyone, unless required to do so by law. See below for more information.
 
