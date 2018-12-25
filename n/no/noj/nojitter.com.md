@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nojitter.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074055id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nojitter.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225074816id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
