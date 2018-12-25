@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthiersteps.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813144554id_/http%3A//healthiersteps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthiersteps.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225045659id_/https%3A//healthiersteps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthier Steps
 
