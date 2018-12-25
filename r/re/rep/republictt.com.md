@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republictt.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216192131id_/https%3A//republictt.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republictt.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225141944id_/https%3A//www.republictt.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Republic Financial Holdings Limited Group Data Privacy Statement | Republic Bank
 
