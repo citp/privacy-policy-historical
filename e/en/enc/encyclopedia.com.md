@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encyclopedia.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612015810id_/http%3A//encyclopedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclopedia.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225100835id_/https%3A//www.encyclopedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Encyclopedia.com
 
