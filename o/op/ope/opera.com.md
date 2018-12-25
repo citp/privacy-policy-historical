@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311204229id_/https%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225121431id_/https%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Opera
 
-_Updated May 6, 2016_
+_Updated April 25, 2018_
 
 ### Summary
 
@@ -87,7 +87,7 @@ You can find out if we hold any personal data about you by contacting us. You ma
 
 ### Contact information
 
-If you have any questions about this statement or any privacy issues regarding Opera and our products or services, we can be reached by post at:
+If you have any questions about this statement or any privacy issues regarding Opera and our products or services, we can be reached via our [privacy request page](https://security.opera.com/privacy-inquiry) or by post at:
 
 Opera Software AS  
 P.O. Box 4214 Nydalen  
@@ -102,6 +102,7 @@ For privacy policies and questions specifically related to the Opera products an
   * [Opera Mini for Android](https://web.archive.org/privacy/mini/android)
   * [Opera Mini for iOS](https://web.archive.org/privacy/mini/ios)
   * [Opera News](https://web.archive.org/privacy/operanews)
+  * [Opera Touch](https://web.archive.org/privacy/touch)
   * [Opera websites](https://web.archive.org/privacy/websites)
   * [Opera services](https://web.archive.org/privacy/services)
 
