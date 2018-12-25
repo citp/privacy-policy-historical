@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619220444id_/http%3A//www.dublincity.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225064246id_/http%3A//www.dublincity.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Dublin City Council
 
@@ -9,7 +9,11 @@
 
 
 
-[](http://www.dublincity.ie/print/privacy-statement "Display a printer-friendly version of this page.")
+  * [Gaeilge](https://web.archive.org/privacy-statement?language=ga)
+
+
+
+[](http://www.dublincity.ie/print/4711 "Display a printer-friendly version of this page.")
 
 #### 
 
