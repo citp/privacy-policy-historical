@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624105506id_/http%3A//flagcounter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225185255id_/http%3A//flagcounter.com/privacy.html) for the most accurate reproduction.*
 
 # Flag Counter » Privacy Policy
 
@@ -16,7 +16,7 @@ Session and page preservation cookies| No| We may set session cookies that prese
 Consent cookies| No| We may ask you to consent to the usage of cookies and then set a cookie to remember your selection. These cookies are necessary for the functionality of our site, and not used for any other purpose.  
 Third-party advertising if you **are not** in the European Economic Area| Yes| When you view a counter's statistical information, we display third-party advertising that keeps our service free. This advertising uses cookies to serve ads which may be based on your prior visits to this or other websites. **To opt-out of personalized ads,[ _visit here_](https://www.google.com/settings/ads).**  
 Third-party advertising if you **are** in the European Economic Area  
-| n/a| When you view a counter's statistical information, we display third-party advertising that keeps our service free. **We have elected to show users in the EEA non-personalized ads only by default.** Although these ads don't use cookies for ads personalization, they do use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse.   
+| n/a| When you view a counter's statistical information, we display third-party advertising that keeps our service free. **We have elected to show users in the EEA non-personalized ads only.** Although these ads don't use cookies for ads personalization, they do use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse.   
 |   
   
   
