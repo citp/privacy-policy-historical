@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407220252id_/http%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225155648id_/https%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Keurig
+# Privacy Policy
 
 Last Updated: September 2014
 
@@ -118,10 +118,10 @@ _Browser Settings_ : You may choose to refuse cookies by changing your browser�
 
 _Opt Out Controls for Advertising:_ We understand that not everyone wants to receive behaviorally targeted advertising. Here are a few sites you can visit to learn how to opt out from receiving this kind of advertising: (Note that opting out does not mean you will stop seeing ads, it just means those ads won’t be behaviorally targeted and while we will still collect information about you, we cannot use that information for the purpose of behaviorally targeted advertising.)
 
-Digital Advertising Alliance: <http://www.aboutads.info/choices/>   
-Network Advertising Initiative: <http://www.networkadvertising.org/managing/opt_out.asp>
+Digital Advertising Alliance: <https://www.aboutads.info/choices/>   
+Network Advertising Initiative: <https://www.networkadvertising.org/managing/opt_out.asp>
 
-You can learn more about cookies, by going to <http://www.allaboutcookies.org/cookies>
+You can learn more about cookies, by going to <https://www.allaboutcookies.org/cookies>
 
 **_Other Similar Technologies_**   
 •  Web Beacons: Web beacons, also known as clear GIFs or pixel tags, are transparent image files embedded in our sites, advertisements, or emails and are used to deliver cookies. Web beacons collect generic information about your navigation through a single site or a series of sites to help us compile statistics about the effectiveness of our sites and promotional campaigns. They can also let us know things such as whether or not you opened or acted upon an email or newsletter or other advertisement we sent you.
@@ -166,7 +166,7 @@ _If you do not wish to receive marketing and promotional communications from us,
 
 If you do not wish to receive marketing and promotional communications from us, please follow the opt-out instructions provided in our communications, or, if you have an account with us, you can access your communication options in the profile tab within the My Account page. Alternatively, you can contact us as described below and speak directly with a Consumer Care representative who can answer any questions you may have and update your account accordingly. Please know that we will still contact you for transactional purposes (for example, to communicate with you about an online order).
 
-You can also access and edit your account information under My Account page, including your name, email address, postal address, and phone number. To help prevent others from viewing your account information, you must first sign into [your account.](http://www.keurig.com/login)
+You can also access and edit your account information under My Account page, including your name, email address, postal address, and phone number. To help prevent others from viewing your account information, you must first sign into [your account.](https://www.keurig.com/login)
 
 You may request access to personal information we have about you by contacting us as described below.
 
