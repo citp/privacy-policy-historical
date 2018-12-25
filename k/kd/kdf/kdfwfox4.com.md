@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdfwfox4.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521205523id_/http%3A//www.fox4news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdfwfox4.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225080103id_/http%3A//www.fox4news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KDFW
 
