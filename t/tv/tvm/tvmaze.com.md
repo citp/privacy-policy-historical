@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvmaze.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617115358id_/http%3A//tvmaze.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvmaze.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225213927id_/http%3A//www.tvmaze.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TVmaze
 
