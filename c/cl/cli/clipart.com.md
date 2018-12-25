@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042322id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225065157id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
 
 # Information about our website privacy policy | Clipart.com
 
