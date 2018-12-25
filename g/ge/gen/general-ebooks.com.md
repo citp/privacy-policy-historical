@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the general-ebooks.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522015028id_/http%3A//www.general-community.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the general-ebooks.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225051944id_/http%3A//www.general-community.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - General World
 
