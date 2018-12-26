@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523024254id_/https%3A//elementsmassage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226120724id_/https%3A//elementsmassage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: April 27, 2017
-
 **Elements Therapeutic Massage, LLC Privacy Policy**
-
-Last Updated: April 20, 2017
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Elements Therapeutic Massage, LLC and its subsidiaries and affiliated companies (“Elements”, “we” or “us”). This Privacy Policy applies to information we collect when you use our website (the “Services”) or when you otherwise interact with us. Please note that your visit to our website is subject to this Privacy Policy and our Terms of Service.
 
