@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalsynopsis.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626150822id_/https%3A//digitalsynopsis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsynopsis.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226231732id_/https%3A//digitalsynopsis.com/privacy-policy) for the most accurate reproduction.*
 
 # Digital Synopsis - Privacy Policy
 
@@ -16,7 +16,7 @@ DigitalSynopsis.com does use cookies to store information about visitors prefere
 
   * Google, as a third party vendor, uses cookies to serve ads on DigitalSynopsis.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to DigitalSynopsis.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 
 
