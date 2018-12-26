@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeeasy.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302181623id_/http%3A//www.tradeeasy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeeasy.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226221156id_/http%3A//www.tradeeasy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Tradeeasy - Privacy Policy
 
