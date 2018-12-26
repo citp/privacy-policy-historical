@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122113id_/https%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226202651id_/https%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SC Media
 
-US Privacy Policy
+[US Privacy Policy](http://cms.haymarketmedia.com/pages/PrivacyPolicyTermsAndConditions.aspx#us)
 
 **US Privacy Policy**
 
-Haymarket Media Inc. ("Haymarket") has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions.
+Haymarket Media Inc. (“Haymarket”) has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions.
 
-**Information Collection and Dissemination**
+**Information Collection and Dissemination** **General Principles**
 
-**General Principles**
-
-  * In general, you may visit this site or use the companion mobile applications (collectively referred to as the "Digital Offering") without identifying yourself or revealing any Personal Information.
+  * In general, you may visit this site or use the companion mobile applications (collectively referred to as the “Digital Offering”) without identifying yourself or revealing any Personal Information.
   * As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We will use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you and share it with third party advertisers and sponsors so that they may provide more tailored product offerings.
   * Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) registration for attendance at certain Haymarket trade shows, conferences and events; and (ii) subscriptions to our publications.
   * If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information.
@@ -28,7 +26,7 @@ Haymarket Media Inc. ("Haymarket") has created this privacy statement to demonst
 We will use your information for the following purposes:
 
   * to provide you with the products and services you have requested and to communicate with you about those products and services
-  * to design additional services or products for customers' use
+  * to design additional services or products for customers’ use
   * to let you know about any products or services which we believe may be of interest to you. You will always be able to unsubscribe or opt-out of receiving these messages
   * to work with our business partners, sponsors, advertisers and affiliates to provide you with information you have selected or that we feel may be of interest to you Unsubscribing is easy if the information is no longer useful to you. These arrangements help us to provide some of our services for free
   * to invite you to participate in sponsored informational programs
@@ -43,7 +41,7 @@ We will use your information for the following purposes:
 
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service.
 
-Unless you opt-out, we may share your Personal Information with Haymarket's affiliates, partners and third parties licensed or permitted to access such information by any of the foregoing. If you register for content after opting out, we may share your information with the sponsor(s) of that content.
+Unless you opt-out, we may share your Personal Information with Haymarket’s affiliates, partners and third parties licensed or permitted to access such information by any of the foregoing. If you register for content after opting out, we may share your information with the sponsor(s) of that content.
 
 We may share information about your engagement with any of our services including receipt and/or action with our emails, activity on our sites including content and/or advertisements viewed and actions taken or personal information otherwise provided by you.
 
@@ -53,7 +51,7 @@ We will share your Personal Information with our third party suppliers who need 
 
 Haymarket will share user data with the accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
+In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket’s behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
 
 **Aggregated information**
 
@@ -69,7 +67,7 @@ You have the option of accessing, correcting, updating and modifying your Person
 
 **Update Your Newsletter Subscriptions**
 
-You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the "Log In" link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to [custserv@haymarketmedia.com](mailto:custserve@haymarketmedia.com)
+You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to [custserv@haymarketmedia.com](mailto:custserve@haymarketmedia.com)
 
 **Update Your Print Subscription Information**
 
@@ -85,15 +83,15 @@ Haymarket uses all features of Google Analytics for Display Advertisers. Google 
 
 **Haymarket Magazines, Seminars, Events, Sites and Other Publications and Services**
 
-Unless you have opted out, as a Haymarket customer you can also expect to receive relevant offers, including offers via email, telephone and/or other channels, for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such offers in the future, you can change your preference via the subscription management page which can be located by using the "Log In" link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
+Unless you have opted out, as a Haymarket customer you can also expect to receive relevant offers, including offers via email, telephone and/or other channels, for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such offers in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
 
 **Haymarket Live and Online Events**
 
-Haymarket events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsor's website to review its privacy policy. Similarly, Haymarket events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
+Haymarket events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor’s privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsor’s website to review its privacy policy. Similarly, Haymarket events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
 
 **Social Rewards Program**
 
-A number of Haymarket's sites have online social rewards programs. Registering to an applicable site automatically enrolls you in these programs. Any applicable site activity can be published in the various activity leaderboards. If you would prefer not to have your activity published you can change this by selecting the Settings button within the leaderboard and de-selecting the 'Publish Activity' tickbox.
+A number of Haymarket’s sites have online social rewards programs. Registering to an applicable site automatically enrolls you in these programs. Any applicable site activity can be published in the various activity leaderboards. If you would prefer not to have your activity published you can change this by selecting the Settings button within the leaderboard and de-selecting the ‘Publish Activity’ tickbox.
 
 **Online Ad Serving**
 
@@ -101,9 +99,9 @@ We use third-party advertising companies to serve ads when you visit our Digital
 
 **Cookies**
 
-A "cookie" is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. Haymarket uses temporary, session-specific cookies to ensure visits to its website are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. Haymarket also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves a Haymarket website.
+A “cookie” is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. Haymarket uses temporary, session-specific cookies to ensure visits to its website are smooth and customized for the visitor. Such cookies allow us to provide a visitor’s browser with information tailored to the visitor’s preferences and needs. Haymarket also uses permanent or persistent cookies that remain on a visitor’s computer after the visitor leaves a Haymarket website.
 
-If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to utilize fully all of the site's features and information.
+If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser’s settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to utilize fully all of the site’s features and information.
 
 We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic.
 
@@ -119,7 +117,7 @@ We may buy or sell assets. If we are selling an asset or assets, including websi
 
 **Opt-out Option**
 
-Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket's promotional e-mail list. If you continue receiving email after opting out, please contact us at [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
+Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket’s promotional e-mail list. If you continue receiving email after opting out, please contact us at [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
 
 **Security and Encryption**
 
@@ -127,14 +125,14 @@ This Digital Offering takes commercially reasonable precautions to protect your 
 
 This Digital Offering also uses password encryption to keep ensure your privacy when registering for newsletters, events, and other Haymarket related media.
 
-**Responsible Disclosure - Our Philosophy on Security & Reporting a Vulnerability**
+**Responsible Disclosure – Our Philosophy on Security & Reporting a Vulnerability**
 
 We believe our products should be safe & secure for all our users. In order to fulfill this, we treat security as our top priority and guide our decisions based on this principle. If you have found a security vulnerability in our products or services, we appreciate your help in responsibly disclosing the details to our team.  
-If you believe you've discovered a security vulnerability in one of our applications or services, please e-mail us immediately at [web@haymarketmedia.com](mailto:web@haymarketmedia.com). We will respond as quickly as possible, usually within 24 hours. To help us research and resolve the issue faster and in the most secure way, please use these guidelines when sending your report:
+If you believe you’ve discovered a security vulnerability in one of our applications or services, please e-mail us immediately at [web@haymarketmedia.com](mailto:web@haymarketmedia.com). We will respond as quickly as possible, usually within 24 hours. To help us research and resolve the issue faster and in the most secure way, please use these guidelines when sending your report:
 
   * Provide full details of any discovered issue.
   * In the best interest of our users and their data, please do not publicly disclose the issue until it has been addressed and resolution confirmed by us. Publicly disclosing a potential vulnerability could put the wider community at risk.
-  * In order to keep everyone safe, please act in good faith towards our users' privacy and data during your disclosure.
+  * In order to keep everyone safe, please act in good faith towards our users’ privacy and data during your disclosure.
   * Of course, never purposely disrupt services for others or attempt to gain access to others’ data.
 
 
