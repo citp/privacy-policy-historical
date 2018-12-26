@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetab.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626042142id_/http%3A//thetab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetab.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226122556id_/https%3A//thetab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Tab
 
@@ -10,13 +10,7 @@ This Privacy and Cookie Policy explains how we collect, use, share, disclose or 
 
 ## **About Us**
 
-Tab Media and its subsidiary companies listed below (together “Tab Media”, “we” or “us”) will collect, use, share and disclose or otherwise process your personal information in line with this Policy. The relevant data controller for your data will depend on which product or service you have interacted with or to which title you have subscribed as set out below.
-
-The Tab for the websites and other online properties relating to the student news network The Tab
-
-Tab Jobs for The Tab’s job email 
-
-Babe.net or Babe for the website and social channels relating to babe.net
+Tab Media and its subsidiary companies listed below (together “Tab Media”, “we” or “us”) will collect, use, share and disclose or otherwise process your personal information in line with this Policy. The relevant data controller for your data will depend on which product or service you have interacted with or to which title you have subscribed as set out below. The Tab for the websites and other online properties relating to the student news network The Tab Tab Jobs for The Tab’s job email  Babe.net or Babe for the website and social channels relating to babe.net
 
 ## **Collection of information**
 
@@ -30,9 +24,7 @@ We also collect information automatically when you interact with our websites or
 
 ### **Social login**
 
-If you log in to our websites or online services through a third party site, such as Facebook, that site may pass information to us, such as user ID, name associated with the ID, email address and location, plus other information permitted under the privacy policy for that website. Our websites and apps may also return information about you to that social networking site regarding your log in, such as which Tab Media websites and apps you visit and your use of the social media services on those websites and apps.
-
-If you log in with or connect to your account using social media (Facebook, Twitter, etc), the social media service’s use of the shared information will be governed by their privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Tab Media account, and do not participate in social sharing on our websites or apps.
+If you log in to our websites or online services through a third party site, such as Facebook, that site may pass information to us, such as user ID, name associated with the ID, email address and location, plus other information permitted under the privacy policy for that website. Our websites and apps may also return information about you to that social networking site regarding your log in, such as which Tab Media websites and apps you visit and your use of the social media services on those websites and apps. If you log in with or connect to your account using social media (Facebook, Twitter, etc), the social media service’s use of the shared information will be governed by their privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Tab Media account, and do not participate in social sharing on our websites or apps.
 
 ### **Posts, comments and interaction**
 
@@ -52,9 +44,7 @@ We may also obtain online and offline information about you from other organisat
 
 ### **Advert delivery**
 
-When you visit one of our websites or use one of our apps, advertising networks and other intermediaries select and then display adverts on your device.
-
-These companies collect information from your device to help select adverts that they believe are more relevant to you. They also use this information to tell advertisers that the adverts have been delivered and seen. You can find out more in the Cookies section of this Policy.
+When you visit one of our websites or use one of our apps, advertising networks and other intermediaries select and then display adverts on your device. These companies collect information from your device to help select adverts that they believe are more relevant to you. They also use this information to tell advertisers that the adverts have been delivered and seen. You can find out more in the Cookies section of this Policy.
 
 ## **Our Legal Bases for Using Personal Information**
 
@@ -70,11 +60,7 @@ We also process your personal information in order to fulfil a contract we have 
 
 ### **For a legitimate interest**
 
-We may use your information where there is a legitimate reason to do so. For example, we may use your information where it would help achieve our business objectives or to facilitate a benefit to you or someone else.
-
-We only rely on legitimate interests if the reason for using your information is fair and lawful. Where we want to rely on legitimate interests as a legal basis, we will carry out a balancing test between our legitimate interests and your privacy rights.
-
-Our legitimate interests in processing personal data include:
+We may use your information where there is a legitimate reason to do so. For example, we may use your information where it would help achieve our business objectives or to facilitate a benefit to you or someone else. We only rely on legitimate interests if the reason for using your information is fair and lawful. Where we want to rely on legitimate interests as a legal basis, we will carry out a balancing test between our legitimate interests and your privacy rights. Our legitimate interests in processing personal data include:
 
   * to support a free press, including journalistic activities of societal importance;
   * to support individual and societal rights to receive information;
@@ -88,9 +74,7 @@ Our legitimate interests in processing personal data include:
 
 ### **To comply with legal obligations**
 
-There may be situations where we need to use your information to comply with legal and regulatory obligations or defend claims. This may include publishing information about prize winners, for example.
-
-In the table below we have listed the main reasons we process your information and the legal bases that are available to us. The specific legal basis we use will depend on the activity the information is used for. Please keep in mind that while we will rely on one legal basis, if that is no longer available to us, we may be able to rely on another.
+There may be situations where we need to use your information to comply with legal and regulatory obligations or defend claims. This may include publishing information about prize winners, for example. In the table below we have listed the main reasons we process your information and the legal bases that are available to us. The specific legal basis we use will depend on the activity the information is used for. Please keep in mind that while we will rely on one legal basis, if that is no longer available to us, we may be able to rely on another.
 
 **Purposes of processing (why we use your information)** | **Lawful basis for the use of your information – this may depend on the specific activity**  
 ---|---  
@@ -114,9 +98,7 @@ To ensure that our products and services conform to agreed industry standard sta
 
 ### **To provide products and services and improve experience**
 
-We will use your information to provide you with products and services you have asked for and to manage our relationship with you, including allowing you to interact, comment, and participate in online games, contests and reward programmes.
-
-We may use your information to monitor, improve and protect our products, content, services and websites, both online and offline. We may also provide you with help and support where we believe it is required. For example, if you have provided your contact information, we may contact you when a checkout journey is not completed.
+We will use your information to provide you with products and services you have asked for and to manage our relationship with you, including allowing you to interact, comment, and participate in online games, contests and reward programmes. We may use your information to monitor, improve and protect our products, content, services and websites, both online and offline. We may also provide you with help and support where we believe it is required. For example, if you have provided your contact information, we may contact you when a checkout journey is not completed.
 
 ### **To personalise content and offers**
 
@@ -134,9 +116,7 @@ If you choose to turn on Do Not Track setting in your browser, your browser send
 
 ### **To send you direct marketing**
 
-Where we have your permission or a legitimate interest, we may send you direct marketing. This may include communications by post, telephone, email, messages (including push notifications where you have an app installed) to your mobile devices, through social media (such as Facebook, Instagram and Twitter) and on our website, or on other websites, as you browse the internet. The communications may contain information about our products, services, events and offers. We may also send you information, offers and promotions from our commercial customers and partners where you have given your consent.
-
-You will be able to opt-out of direct marketing by following the instructions in the communication or by changing the settings in your preference centre.
+Where we have your permission or a legitimate interest, we may send you direct marketing. This may include communications by post, telephone, email, messages (including push notifications where you have an app installed) to your mobile devices, through social media (such as Facebook, Instagram and Twitter) and on our website, or on other websites, as you browse the internet. The communications may contain information about our products, services, events and offers. We may also send you information, offers and promotions from our commercial customers and partners where you have given your consent. You will be able to opt-out of direct marketing by following the instructions in the communication or by changing the settings in your preference centre.
 
 ### **To send you information about similar products and services**
 
@@ -144,9 +124,7 @@ We will send you information, exclusive offers and promotions about similar prod
 
 ### **To send you product-related communications**
 
-As part of the products and services you have with us, you are entitled to receive newsletters, bulletins, and other “in-life” communications that relate to those products and services, including triggered emails, such as updates you make. 
-
-You will be told about the types of communications you will receive when you sign up and you will be able to unsubscribe at any time. However, if you do, you may not get the most out of the products and services you have signed up to.
+As part of the products and services you have with us, you are entitled to receive newsletters, bulletins, and other “in-life” communications that relate to those products and services, including triggered emails, such as updates you make.  You will be told about the types of communications you will receive when you sign up and you will be able to unsubscribe at any time. However, if you do, you may not get the most out of the products and services you have signed up to.
 
 ### **Service messages**
 
@@ -154,27 +132,15 @@ We may send you service messages by email, SMS, social media, post, or other cha
 
 ### **To conduct market research and perform analytics**
 
-We may use your information to conduct market research to improve the services we offer and to develop new products and services. You will be able to opt-out of receiving market research surveys by following the instructions in the communication.
-
-You may also be asked if you would like to join our audience panels to help us improve our products and services. We value your participation and you will always have the choice to opt-out of these panels.
+We may use your information to conduct market research to improve the services we offer and to develop new products and services. You will be able to opt-out of receiving market research surveys by following the instructions in the communication. You may also be asked if you would like to join our audience panels to help us improve our products and services. We value your participation and you will always have the choice to opt-out of these panels.
 
 ### **To match data and gain audience insights**
 
-Where we have your permission or a legitimate interest, we may compare our customer database with our commercial customers’ and partners’ customer databases. This process allows us to see if a partner’s adverts would reach its existing customers that use our products and services, or we could reach our customers through their products or services. It also helps us to understand if those customers are likely to find promotions from those partners relevant. Where a customer is found to be on both databases, we may use the marketing permissions we hold to send that customer direct marketing. We do this through the use of a trusted third party processor to identify matching customers.
-
-We may also provide our commercial customers and partners with information about the effectiveness and reach of advertising campaigns that they have planned or carried out. This information will not identify you directly without your consent.
-
-For example, we may tell advertisers how many customers their adverts can reach based on criteria they select (such as “21-year-old men who like football and live in London”) or how many times an advert was viewed.
-
-If you would prefer not to have your information used for database matching or audience insights, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Where we have your permission or a legitimate interest, we may compare our customer database with our commercial customers’ and partners’ customer databases. This process allows us to see if a partner’s adverts would reach its existing customers that use our products and services, or we could reach our customers through their products or services. It also helps us to understand if those customers are likely to find promotions from those partners relevant. Where a customer is found to be on both databases, we may use the marketing permissions we hold to send that customer direct marketing. We do this through the use of a trusted third party processor to identify matching customers. We may also provide our commercial customers and partners with information about the effectiveness and reach of advertising campaigns that they have planned or carried out. This information will not identify you directly without your consent. For example, we may tell advertisers how many customers their adverts can reach based on criteria they select (such as “21-year-old men who like football and live in London”) or how many times an advert was viewed. If you would prefer not to have your information used for database matching or audience insights, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### **To detect ad blockers**
 
-When you visit our sites we may check (using cookies, code, script or other technical means) to see if you have an ad blocker installed on your device or if your internet browser settings allow adverts or not.
-
-If we detect that your device or internet browser is using an ad blocker, we may ask you to “whitelist”, trust or pause blocking adverts while you visit our websites or apps. You can do this easily in your browser settings or within the ad blocker itself. If you continue to use an ad blocker this may have an impact on the content you are able to see on our website or apps.
-
-Information about your use of ad blockers may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad blockers. The advertisements that are re-inserted may include those from ad blockers’ “whitelists” or that promote our own products and services.
+When you visit our sites we may check (using cookies, code, script or other technical means) to see if you have an ad blocker installed on your device or if your internet browser settings allow adverts or not. If we detect that your device or internet browser is using an ad blocker, we may ask you to “whitelist”, trust or pause blocking adverts while you visit our websites or apps. You can do this easily in your browser settings or within the ad blocker itself. If you continue to use an ad blocker this may have an impact on the content you are able to see on our website or apps. Information about your use of ad blockers may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad blockers. The advertisements that are re-inserted may include those from ad blockers’ “whitelists” or that promote our own products and services.
 
 ### **To allow third party advertising**
 
@@ -198,17 +164,11 @@ If we sell part or all of our business, customer information may be one of the t
 
 ### **To take payments, check your identity and conduct credit checks**
 
-Customer information will be used to take payment for products and services and may be used to verify credit details related to this payment. Permission to do so is implicit in providing financial details to process payment. Direct debit or continuous payment authority information, including card details, may be retained in accordance with our regulatory requirements, by us or our payment processors for ease of renewal of services. Additionally, we may receive updated payment details from your bank or payment provider from time to time, which we will use to ensure that your details are kept up to date and to allow us to take future payments.
-
-If we provide a service to you that is dependent on age or residency, and we have an obligation to verify this information then we may pass your details to a third party to carry out the verification for us.
-
-If you apply for credit, then to help us to make credit decisions about you, prevent fraud, check your identity and prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file whether or not your application succeeds. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
+Customer information will be used to take payment for products and services and may be used to verify credit details related to this payment. Permission to do so is implicit in providing financial details to process payment. Direct debit or continuous payment authority information, including card details, may be retained in accordance with our regulatory requirements, by us or our payment processors for ease of renewal of services. Additionally, we may receive updated payment details from your bank or payment provider from time to time, which we will use to ensure that your details are kept up to date and to allow us to take future payments. If we provide a service to you that is dependent on age or residency, and we have an obligation to verify this information then we may pass your details to a third party to carry out the verification for us. If you apply for credit, then to help us to make credit decisions about you, prevent fraud, check your identity and prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file whether or not your application succeeds. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
 ### **To ensure that our products and services conform to agreed industry standards**
 
-We may share your information with auditors for the purposes of verifying that we comply with relevant standards. For example, we may ask third party auditors to assess our compliance with information security and Privacy by Design best practice. This may require them to access your information in our systems.
-
-We may also ask third party auditors, including the Audit Bureau of Circulations (ABC), to verify aggregate statistics about circulation and usage of our products – while unlikely, this process may require access to some of your information. Where this is the case ABC will use your information in accordance with their privacy policy. You can find out how they use your information and how you can exercise your rights [here.](http://www.abc.org.uk/privacy-policy)
+We may share your information with auditors for the purposes of verifying that we comply with relevant standards. For example, we may ask third party auditors to assess our compliance with information security and Privacy by Design best practice. This may require them to access your information in our systems. We may also ask third party auditors, including the Audit Bureau of Circulations (ABC), to verify aggregate statistics about circulation and usage of our products – while unlikely, this process may require access to some of your information. Where this is the case ABC will use your information in accordance with their privacy policy. You can find out how they use your information and how you can exercise your rights [here.](http://www.abc.org.uk/privacy-policy)
 
 ### **Linked services**
 
@@ -222,11 +182,7 @@ Your information will be shared between the Tab Media companies listed in the Ab
 
 ### **Sharing with Commercial Partners**
 
-We may disclose your personal information to third parties, such as competition partners, for their direct marketing purposes where we have told you about this and you have given permission or there is a legitimate interest to do so.
-
-We may share your personal information with our partners who operate products and services using our brands where you use these services. We will only share your information where we have an appropriate agreement in place with the partner. The information we share will be used in accordance with our partner’s privacy policy, which you should read when you sign up with the partner.
-
-These partners will also pass us the information they collect about you, including your usage and interaction with those products and services, which we will use in accordance with this Policy.
+We may disclose your personal information to third parties, such as competition partners, for their direct marketing purposes where we have told you about this and you have given permission or there is a legitimate interest to do so. We may share your personal information with our partners who operate products and services using our brands where you use these services. We will only share your information where we have an appropriate agreement in place with the partner. The information we share will be used in accordance with our partner’s privacy policy, which you should read when you sign up with the partner. These partners will also pass us the information they collect about you, including your usage and interaction with those products and services, which we will use in accordance with this Policy.
 
 ### **Disclosure to our processors**
 
@@ -244,9 +200,7 @@ Please ensure you update your personal information or tell us if it changes or i
 
 ### **Preference centre: controlling direct marketing**
 
-You can change your mind about receiving direct marketing or other communications you receive from us, such as bulletins and other information about your chosen products and services by contacting us using the details below, changing the settings in your account settings or by following the unsubscribe instructions in the relevant communication.
-
-There may be some types of communication that you receive that cannot be controlled through your preference centre, but you will still be able to opt-out by following the instructions in the communication itself.
+You can change your mind about receiving direct marketing or other communications you receive from us, such as bulletins and other information about your chosen products and services by contacting us using the details below, changing the settings in your account settings or by following the unsubscribe instructions in the relevant communication. There may be some types of communication that you receive that cannot be controlled through your preference centre, but you will still be able to opt-out by following the instructions in the communication itself.
 
 ### **Withdrawing consent for processing**
 
@@ -254,11 +208,7 @@ Where we may rely on your consent to process personal information, you have the 
 
 ### **Other rights**
 
-You may request a copy of your personal information from Tab Medi, as well as the right to not be profiled. You can also ask us to correct any inaccuracies in your personal information. In some circumstances you may be able to ask us to transfer information you have provided to us to another organisation. Similarly, you may be able to transfer your information from another organisation to us, but you should check with us first if this is possible.
-
-You may also have the right to object, erase, or restrict our processing of your information – for example, where we process personal data because this is in our legitimate interests, you may object to this. We will need to carefully consider your request, as there may be circumstances which require us, or allow us, to continue processing your data.
-
-To exercise any of these rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) These rights may be restricted by law, for example we may not be able to provide a copy of your data where the data we hold is also the data of a third party and it is not reasonable to disclose this information.
+You may request a copy of your personal information from Tab Medi, as well as the right to not be profiled. You can also ask us to correct any inaccuracies in your personal information. In some circumstances you may be able to ask us to transfer information you have provided to us to another organisation. Similarly, you may be able to transfer your information from another organisation to us, but you should check with us first if this is possible. You may also have the right to object, erase, or restrict our processing of your information – for example, where we process personal data because this is in our legitimate interests, you may object to this. We will need to carefully consider your request, as there may be circumstances which require us, or allow us, to continue processing your data. To exercise any of these rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) These rights may be restricted by law, for example we may not be able to provide a copy of your data where the data we hold is also the data of a third party and it is not reasonable to disclose this information.
 
 ### **Complaining to the Regulator**
 
@@ -266,9 +216,7 @@ If you have a comment, concern or suggestion, please contact us at [[email prot
 
 ## **Retention of Personal Information**
 
-We will retain your information for as long as necessary for the uses set out in this Policy, or while there is a legitimate reason for doing so. If you ask us to delete your information before that time, we may not be able to do so due to technical, legal, regulatory or contractual constraints. For example, we would need to retain your name and contact details for suppression purposes if you do not want to receive direct marketing from us.
-
-If you ask for your account to be closed, we will do this as soon as is reasonably possible subject to any applicable terms and conditions relating to the account. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed and to resolve disputes.
+We will retain your information for as long as necessary for the uses set out in this Policy, or while there is a legitimate reason for doing so. If you ask us to delete your information before that time, we may not be able to do so due to technical, legal, regulatory or contractual constraints. For example, we would need to retain your name and contact details for suppression purposes if you do not want to receive direct marketing from us. If you ask for your account to be closed, we will do this as soon as is reasonably possible subject to any applicable terms and conditions relating to the account. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed and to resolve disputes.
 
 ## **Cookies and Similar Technologies**
 
@@ -282,13 +230,7 @@ Cookies and other online tracking technologies are small bits of data or code th
 
 ### **Our legal bases for cookies and similar technologies**
 
-Placing cookies: in order to place cookies, tags and other technologies on your browser or device, we need to have your permission. We do this by providing a clear notice in the form of a cookie banner that tells you what cookies are used for, as well as providing you with useful information about the technologies we use and a link to this Policy. You’ll need to indicate your acceptance of our use of cookies. On a mobile device this might be by swiping a banner, pressing a button, or using facial recognition.
-
-You are able to opt-out of the use of cookies. For more information, see the section on Managing Cookies.
-
-Using information collected from cookies: where we want to use the information that cookies and similar technologies collect, we either need your consent or a legitimate interest. In practice it will not always be practical to get opt-in consent as doing so with cookie banners and pop-ups would disrupt your use and enjoyment of our sites and content. This is why we usually rely on our legitimate interests to use the data collected by cookies. To do this we conduct an assessment to make sure the purposes for which we use your data are fair and that your privacy rights are considered. We only rely on legitimate interests where your rights do not override our interests in using the data.
-
-For more information about your rights in relation to legitimate interests, please see the section on Access & Control.
+Placing cookies: in order to place cookies, tags and other technologies on your browser or device, we need to have your permission. We do this by providing a clear notice in the form of a cookie banner that tells you what cookies are used for, as well as providing you with useful information about the technologies we use and a link to this Policy. You’ll need to indicate your acceptance of our use of cookies. On a mobile device this might be by swiping a banner, pressing a button, or using facial recognition. You are able to opt-out of the use of cookies. For more information, see the section on Managing Cookies. Using information collected from cookies: where we want to use the information that cookies and similar technologies collect, we either need your consent or a legitimate interest. In practice it will not always be practical to get opt-in consent as doing so with cookie banners and pop-ups would disrupt your use and enjoyment of our sites and content. This is why we usually rely on our legitimate interests to use the data collected by cookies. To do this we conduct an assessment to make sure the purposes for which we use your data are fair and that your privacy rights are considered. We only rely on legitimate interests where your rights do not override our interests in using the data. For more information about your rights in relation to legitimate interests, please see the section on Access & Control.
 
 ## **What Cookies Do We Use and Why?**
 
@@ -298,9 +240,7 @@ These are vital for the running of our services on our websites and apps. Withou
 
 ### **Analytics cookies and similar technologies**
 
-These collect information about your use of our websites and apps, and enable us to improve the way they work. For example, analytics cookies show us which are the most frequently visited pages on The Tab or babe websites allowing us to provide the most popular news articles further up the page. They help us record how you interact with our websites, such as how you navigate around pages and from page to page, identifying improvements we can make to the customer journey. They also help identify any difficulties you have accessing our services, so we can fix any problems. Additionally, these cookies allow us to see overall patterns of usage at an aggregated level.
-
-We may place cookies and similar technologies on behalf of comScore who help us measure the size and quality of our audiences across platforms. You can learn more and control how comScore use your information here [http://www.scorecardresearch.com/preferences.aspx.](http://www.scorecardresearch.com/preferences.aspx)
+These collect information about your use of our websites and apps, and enable us to improve the way they work. For example, analytics cookies show us which are the most frequently visited pages on The Tab or babe websites allowing us to provide the most popular news articles further up the page. They help us record how you interact with our websites, such as how you navigate around pages and from page to page, identifying improvements we can make to the customer journey. They also help identify any difficulties you have accessing our services, so we can fix any problems. Additionally, these cookies allow us to see overall patterns of usage at an aggregated level. We may place cookies and similar technologies on behalf of comScore who help us measure the size and quality of our audiences across platforms. You can learn more and control how comScore use your information here [http://www.scorecardresearch.com/preferences.aspx.](https://www.scorecardresearch.com/preferences.aspx)
 
 ### **Functional/preference cookies and similar technologies**
 
@@ -308,15 +248,7 @@ These cookies collect information about your choices and preferences, and allow 
 
 ### **Tracking, advertising cookies and similar technologies**
 
-We use these types of technologies to provide advertisements that we think may be more relevant to your interests. This can be done by delivering online adverts based on your previous web browsing activity, known as “online behavioural advertising” (OBA). Cookies are placed on your browser which will remember the websites you have visited. Adverts based on what you have been looking at are then displayed to you when you visit websites which use the same advertising networks.
-
-For example, you may be doing online research to buy a bicycle, and read several articles about bikes on various websites. As you browse those sites a cookie from an advertising network would be placed in your browser. It would remember that you had visited several websites related to cycling. Then, when you visited another website in the same advertising network, the website could show you an advert related to cycling.
-
-We may also use cookies and similar technologies to provide you with adverts based on your location, offers you click on, and other similar interactions with our websites and apps.
-
-To help us deliver relevant advertising using cookies, we use Google Double Click. You can find out more about Google Double Click [here.](http://www.google.com/intl/bg/doubleclick)
-
-We participate in an advertising platform offered by The Publisher Desk. To learn more about The Publisher Desk, please visit https://www.publisherdesk.com/
+We use these types of technologies to provide advertisements that we think may be more relevant to your interests. This can be done by delivering online adverts based on your previous web browsing activity, known as “online behavioural advertising” (OBA). Cookies are placed on your browser which will remember the websites you have visited. Adverts based on what you have been looking at are then displayed to you when you visit websites which use the same advertising networks. For example, you may be doing online research to buy a bicycle, and read several articles about bikes on various websites. As you browse those sites a cookie from an advertising network would be placed in your browser. It would remember that you had visited several websites related to cycling. Then, when you visited another website in the same advertising network, the website could show you an advert related to cycling. We may also use cookies and similar technologies to provide you with adverts based on your location, offers you click on, and other similar interactions with our websites and apps. To help us deliver relevant advertising using cookies, we use Google Double Click. You can find out more about Google Double Click [here.](https://www.google.com/intl/bg/doubleclick) We participate in an advertising platform offered by The Publisher Desk. To learn more about The Publisher Desk, please visit https://www.publisherdesk.com/
 
 ### **Web beacons and tracking pixels**
 
@@ -364,13 +296,7 @@ The content on our websites and in our communications with you may be adjusted d
 
 ### **Sell third party advertising**
 
-We sell space on our websites and apps to advertisers. The adverts they display on our websites will often contain cookies. Our advertisers may use cookies or similar technologies to provide you with advertisements that they believe are relevant. They may use browsing data obtained to restrict the number of times you see particular adverts (frequency capping). You may also see adverts from these advertisers on other websites you visit.
-
-Third parties that support our services by serving advertisements or providing other services, such as allowing you to share content or tracking aggregate service usage, may also use cookies and other technologies to collect information relevant to the provision of those services.
-
-We do not control third party cookies or other technologies. Their use is governed by the privacy policies of third parties using such technologies. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy.
-
-To learn more about controlling cookies and similar technologies, please see the section below on Managing Cookies.
+We sell space on our websites and apps to advertisers. The adverts they display on our websites will often contain cookies. Our advertisers may use cookies or similar technologies to provide you with advertisements that they believe are relevant. They may use browsing data obtained to restrict the number of times you see particular adverts (frequency capping). You may also see adverts from these advertisers on other websites you visit. Third parties that support our services by serving advertisements or providing other services, such as allowing you to share content or tracking aggregate service usage, may also use cookies and other technologies to collect information relevant to the provision of those services. We do not control third party cookies or other technologies. Their use is governed by the privacy policies of third parties using such technologies. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy. To learn more about controlling cookies and similar technologies, please see the section below on Managing Cookies.
 
 ### **Mobile applications**
 
@@ -382,22 +308,14 @@ Below you will find useful information about how to manage the use of cookies on
 
 ### **Our partners**
 
-When you visit our websites, our partners will set cookies and similar technologies on your browser in order to help us make the sites work, analyse site usage, deliver adverts and personalise your experience. Where these partners are acting on our behalf, they are called data processors and must only act on our instructions. We will have a contract with them and they must protect your information properly. They’ll use your information in accordance with this Cookie Policy and you’ll be able to opt-out.
-
-Where other partners are placing cookies and similar technologies for their own purposes, they are called data controllers and will use your information for their own purposes.
-
-When you visit our sites you’ll see notices about the use of cookies by us and our partners. You’ll be able to learn more about the specific cookies in use and how to control them. By using our sites, you understand that cookies and similar technologies are used and acknowledge that by continuing to use the site, you consent to their placement.
-
-In the future we plan to release improved controls to allow you to choose which partners can collect and use your information.
-
-Most modern browsers are set to accept cookies by default, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser.
+When you visit our websites, our partners will set cookies and similar technologies on your browser in order to help us make the sites work, analyse site usage, deliver adverts and personalise your experience. Where these partners are acting on our behalf, they are called data processors and must only act on our instructions. We will have a contract with them and they must protect your information properly. They’ll use your information in accordance with this Cookie Policy and you’ll be able to opt-out. Where other partners are placing cookies and similar technologies for their own purposes, they are called data controllers and will use your information for their own purposes. When you visit our sites you’ll see notices about the use of cookies by us and our partners. You’ll be able to learn more about the specific cookies in use and how to control them. By using our sites, you understand that cookies and similar technologies are used and acknowledge that by continuing to use the site, you consent to their placement. In the future we plan to release improved controls to allow you to choose which partners can collect and use your information. Most modern browsers are set to accept cookies by default, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser.
 
 ### **Controlling OBA cookies**
 
 In addition to being able to control cookies by changing the settings in your browser on your computer, or in your mobile device’s settings, you can also control which companies can set cookies and similar technologies on your devices, by visiting the following links (you’ll need to turn any cookie or ad blockers off for the control pages to show which companies you can opt-out of):
 
   * Internet Advertising Bureau (IAB) [Your Online Choices](http://www.youronlinechoices.com/) website provides more information about controlling cookies. It also provides an easy way to opt-out of behavioural advertising from each (or all) of the networks represented by the European Interactive Digital Advertising Alliance http://www.youronlinechoices.com/uk/your-ad-choices.
-  * The [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) control page allows you to control behavioural advertising from each of the ad networks represented by the NAI.
+  * The [Network Advertising Initiative (NAI)](https://www.networkadvertising.org/managing/opt_out.asp) control page allows you to control behavioural advertising from each of the ad networks represented by the NAI.
   * The [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) self-regulatory program for online behavioural advertising control page allows you to control behavioural advertising from the ad networks it represents.
 
 
@@ -410,15 +328,7 @@ You can manage the use of Flash technologies with the Flash management tools ava
 
 ### **Controlling web beacons**
 
-You can prevent web beacons from tracking your activity, although you won’t be able to decline receiving them in emails. For information about managing your cookie options, please visit http://www.allaboutcookies.org/.
-
-Please note that by blocking any or all cookies, you may not have access to certain features, content, or personalisation available on our websites or apps.
-
-**California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA we agree to the following:
+You can prevent web beacons from tracking your activity, although you won’t be able to decline receiving them in emails. For information about managing your cookie options, please visit http://www.allaboutcookies.org/. Please note that by blocking any or all cookies, you may not have access to certain features, content, or personalisation available on our websites or apps. **California Online Privacy Protection Act** CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf According to CalOPPA we agree to the following:
 
   * Users can visit our site anonymously
   * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
@@ -428,27 +338,7 @@ According to CalOPPA we agree to the following:
 
 
 
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-
-We will notify the users via in site notification within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a US law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-To be in accordance with CANSPAM we agree to the following:
+**COPPA (Children Online Privacy Protection Act)** When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online. We do not specifically market to children under 13. **Fair Information Practices** The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: We will notify the users via in site notification within 7 business days We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors. **CAN SPAM Act** The CAN-SPAM Act is a US law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. To be in accordance with CANSPAM we agree to the following:
 
   * If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
 
@@ -461,15 +351,3 @@ From time to time, we make changes to our Privacy Policy and Cookie Policy. This
 ## **Contact Us**
 
 In addition to any general data protection enquiries you may have, you can use these details to contact our Data Protection Officer.
-
-**By email:** | [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
----|---  
-**By mail:** | Data Protection Enquiries,
-
-Tab Media Ltd
-
-2-4 Great Eastern Street
-
-London
-
-EC2A 3NW
