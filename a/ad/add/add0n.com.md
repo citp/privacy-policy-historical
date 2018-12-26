@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the add0n.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621162419id_/http%3A//add0n.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the add0n.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226073406id_/http%3A//add0n.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: add0n.com
 
