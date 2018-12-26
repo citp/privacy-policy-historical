@@ -1,17 +1,22 @@
-> *The following text is extracted and transformed from the uline.ca privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613022811id_/https%3A//www.uline.ca/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.ca privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226043050id_/https%3A//www.uline.ca/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
-Skip to Main Content
+  * Skip to Main Navigation
+  * Skip to Main Content
+  * Skip to My Account
+  * Skip to Footer
 
-Uline’s web servers automatically recognize and collect information only for internal review and then discard it. Email addresses are not automatically collected. 
 
-Uline uses this information it collects to improve functionality, like search and site navigation. Uline does not share any information with third parties. Telephone numbers provided on-line will be called only if Uline has questions specific to your request.
 
-If users provide their email or mailing address, Uline will send notifications, such as order confirmations, via email. Users may also receive occasional offers from Uline or Uline’s special partners. Users may opt out at any time.
+Uline is committed to the privacy of its customers. This Privacy Policy applies to information collected through our websites and employees.
 
-[Contact Uline](https://web.archive.org/CustomerService/ContactUs_menu.aspx) to update or remove personal information.
+We may collect information including address, contact information, e-mail address, credit cardholder name, card number and expiration date, IP address, browsing history and order activity. 
 
-In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined in this policy. These changes will be posted to the website, and users are invited to occasionally review the privacy policy.
+Uline collects and stores this information for processing your order, improving site functionality and marketing purposes. Users may also receive occasional offers from Uline’s special partners or serve you relevant ads on third-party sites.
 
-06/12/2018 09:28:11 PM; CNWEB3 -24656057-0/0.00-1
+Please [contact Uline](https://web.archive.org/CustomerService/ContactUs_Menu) if you wish to opt out of partner marketing or update/ remove personal information. For information regarding interest based ads, please visit [Ads & Tracking](https://web.archive.org/CustomerService/PolicyAdsAndTracking). To opt out of catalog or direct mail, visit [Marketing Preferences](https://web.archive.org/CustomerService/CustomizeMailing). To opt out of email promotions, use the Unsubscribe link on any email. You will still continue to receive non-promotional correspondence. 
+
+In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined above. These changes will be posted to the website, and users are invited to occasionally review the Privacy Policy.
+
+12/25/2018 10:30:51 PM; CNWEB3 -26333372-0/0.00-1
