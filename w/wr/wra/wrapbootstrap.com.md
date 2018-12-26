@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrapbootstrap.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630144849id_/https%3A//wrapbootstrap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrapbootstrap.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023435id_/https%3A//wrapbootstrap.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | WrapBootstrap
 
