@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aafp.org privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626042212id_/https%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aafp.org privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226122626id_/https%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <meta name="content-type" content="text/html; charset=UTF-8">
@@ -38,12 +38,14 @@
 
 
 <link rel="stylesheet" href="//css.aafp.net/style.css" type="text/css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PXLQG7"></script><script type="text/javascript" src="//js.aafp.org/JavaScriptFinal.js"></script>
+<script type="text/javascript" async="" charset="utf-8" src="https://cdn5.userzoom.com/trueintent/js/uz_til_us.js?cuid=8BE8800A6332E2119DA70022196C4538"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PXLQG7"></script><script type="text/javascript" src="//js.aafp.org/JavaScriptFinal.js"></script>
 
 
 
 
     
+    
+    <script src="//assets.adobedtm.com/launch-ENfbdccbebc90e438189a01cfa7e742e24.min.js"></script>
     
     
     
@@ -76,7 +78,7 @@
  	
  	
  	
-	 	<meta name="twitter:card" content="summary">
+	 	<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@aafp">
 		<meta name="twitter:title" content="Privacy Policy">
 		<meta name="twitter:description" content="AAFP's website collects various data types  to provide information to the company for use while protecting the privacy of its members and customers">
@@ -88,6 +90,13 @@
 
 
 <body class="  site-aafp template-standardcontent layout-sidebar wcmmode-disabled is-signed-out">
+
+	
+
+
+
+
+
     
 
 
@@ -207,6 +216,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+	
+	
+		
+
 <div class="account-portal">
 	<a href="#" class="account-portal__sign-in button button-primary -js-sign-in">Sign In</a>
 	<div class="account-portal__logged-in-utilities">
@@ -224,16 +237,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script type="text/javascript">
 	var fullName = '';
-	
 	var isMember = false;
     var loggedinval = false;
     var processSavedUDCookie = false;
-    
 	var close = 'close';
 	var welcome = 'Welcome';
 	var btnContent = jQuery('.-js-mobile-account-menu-btn').html();
-	
-    var restUrlval = '//nf.aafp.org/MyAcademy/individuals/GetIndividualFromHeader';
+    var restUrlval = "//nf.aafp.org/MyAcademy/individuals/GetIndividualFromHeader"; //'//nf.aafp.org/MyAcademy/individuals/GetIndividualFromHeader';
 	var signinUrl = 'https://www.aafp.org/cgi-bin/lg.pl?redirect=' + document.location.href;
 	var signoutUrl = "https://www.aafp.org/cgi-bin/logout.pl"
 	
@@ -247,13 +257,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	var aafpidUval = getAAFPCookie("aafpid");
     var aafpudval = getAAFPCookie("UD");
 	var SMSESSIONval = getAAFPCookie("SMSESSION");
-
     loggedinval = (!(aafpidUval == '' || aafpidUval == '0000000'));
-	
-	//console.log("aafpidUval: " + aafpidUval);
-	
 	if(SMSESSIONval){
-		//console.log("SMSESSIONval: " + SMSESSIONval);
 		if(SMSESSIONval == "LOGGEDOFF" || SMSESSIONval == ""){
 			loggedinval = false;
 			deleteAAFPCookie("UD");
@@ -264,13 +269,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		deleteAAFPCookie("UD");
 	}
 
-	//console.log("loggedinval: " + loggedinval);
-
 	if(!loggedinval){
 		deleteAAFPCookie("UD");
 		signedOutState();
 	} else {
-		//console.log("Here 1");
 		if(aafpudval && aafpudval.length > 0){
 			if( aafpudval.indexOf(aafpidUval) != -1 && aafpudval.indexOf("LastName") != -1 ){
 			  processSavedUDCookie = true;
@@ -278,17 +280,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		}
 
 		if(processSavedUDCookie){
-			//console.log("Here 2 - processJsonSignInData");
 			processJsonSignInData(aafpudval);
 		}
 		else{
-			//console.log("Here 2 - callSignInService");
 			callSignInService();
 		}
 		signedInState();
 	}
 
-	
 	function signedOutState(){
 		jQuery("body").removeClass("is-signed-out")
 		jQuery("body").removeClass("is-signed-in");
@@ -304,10 +303,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		jQuery("body").removeClass("is-signed-out");
 		jQuery("body").removeClass("is-non-member");
 		jQuery("body").removeClass("is-member");
-		
-		//console.log("First Name: " + firstName);
-		//console.log("Last Name: " + lastName);
-		//console.log("isMember: " + isMember);
+		jQuery(".-js-mobile-account-menu-btn .full-name").html(fullName);
 		
 		if(isMember){
 			jQuery("body").addClass("is-member");
@@ -316,11 +312,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			jQuery("body").addClass("is-non-member");
 		}
 		jQuery("body").addClass("is-signed-in");
-
-        jQuery(".-js-mobile-account-menu-btn .full-name").html(fullName);
+		
 		btnContent = jQuery('.-js-mobile-account-menu-btn').html();
 	}
-	
 	
     function getAAFPCookie(c_name)
     {
@@ -366,13 +360,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
     }
 	
-
 	// THIS FUNCTION MEANS THAT THE UD COOKIE EXISTS AND WE SIMPLY HAVE TO PARSE THE DATA
     function processJsonSignInData(json){
-        //console.log("processJsonSignInData method");
-        //console.log(json);
 		try{
-			//console.debug("Parse the json");
 		  if (jQuery.type(json) === 'object') {
 			json = JSON.stringify(json);
 		  }
@@ -423,16 +413,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     function callSignInService(){
 		try{
-			jQuery.getJSON(restUrlval + '?jsoncallback=?', processJsonSignInData);
+			var restUrl = restUrlval + '?jsoncallback=?';
+			jQuery.getJSON(restUrl, processJsonSignInData);
 		}
-		catch(e){}
+		catch(e){
+		}
     }
-    
     
 	//Mobile Account Menu Toggle
 	function loginMenuDetector(){
 		var v = jQuery(".js-window-width").css('text-indent');
-		//console.log("loginMenuDetector() width: " + v);
 		if(v != "979px"){
 			jQuery(".account-portal__sign-in").removeClass("button").removeClass("button-primary");
 			
@@ -462,8 +452,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	jQuery(window).resize(function() {
 		loginMenuDetector();
 	});
+</script>
 	
-</script></div>
+</div>
 
 		
 								
@@ -962,7 +953,7 @@ $(document).ready(function() {
 			<a class="favorite-btn -js-favorite-add-btn" href="#" style="display:none;"><i class="fa fa-star-o"></i><span class="_text">Add to favorites</span></a>
 			<a class="favorite-btn -js-favorite-remove-btn" href="#" style="display:none;"><i class="fa fa-star"></i><span class="_text">Remove favorite</span></a>
 			<span class="favorite-btn-msg -js-favorite-msg" style="display:none;"></span>
-			<div id="dialog-confirmfavoriteslink1529914497590" class="favorite-btn-dialog -js-favorite-dialog" title="Remove Favorites Link?" style="display: none;">
+			<div id="dialog-confirmfavoriteslink1545813690399" class="favorite-btn-dialog -js-favorite-dialog" title="Remove Favorites Link?" style="display: none;">
 		  		<p>This page will be removed from your Favorites Links. Are you sure?</p>
 			</div>
 		</div>
@@ -1083,7 +1074,7 @@ $(document).ready(function() {
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.html+%28232612ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,232612,0,232612&chxr=0,0,232612&chd=t:9,2795,3006,5493,5599,5977,7654,8103,8410,19580,19953,20305,20981,33274,34871,40105,111601,125364,152446,152921,153435,189892,190372,192271,195337,196020,196468,202997,203519,206544,207058,208131,208631,210423,210925|858,162,14299,97,2492,351,435,292,2810,132838,336,351,12053,1366,5013,71123,13525,26957,80166,36943,36404,18212,4852,2934,7631,6893,6419,5103,3004,1553,1027,1657,1146,22183,4039&chly=handleSecurity|timing.jsp|head.jsp|init.jsp|headlibs.jsp|memberonlycheck.jsp|head_includes.jsp|typekit.jsp|favicon.jsp|header.jsp|googleanalytics.jsp|topAdSpace.jsp|secondarynav.jsp|cart.jsp|logo.jsp|signin.jsp|globalsearch.jsp|primarynav.jsp|main.jsp|left.jsp|leftnav.jsp|content.jsp|pagetitle.jsp|titlelogo.jsp|gridcolparsys.jsp|gridblock.jsp|text.jsp|share.jsp|share.jsp|favorites.jsp|favoriteslink.jsp|mobilesubnav.jsp|mobilesubnav.jsp|breadcrumbs.jsp|breadcrumbs.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy.html+%28483756ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,483756,0,483756&chxr=0,0,483756&chd=t:9,4711,5068,8034,8143,8520,10182,10781,11078,22793,23224,23583,23932,24625,40348,42018,47292,47792,277537,291075,325053,325483,325996,360966,361434,363273,366246,366896,367345,382191,382749,385646,386135,387156,387640,389312,389788|1251,285,15293,99,2627,356,586,283,3199,420,301809,333,353,15421,1431,5041,229911,8757,13273,33873,158703,35459,34925,26163,4706,2849,15914,15204,14722,4932,2876,1475,974,1544,1049,94436,3780&chly=handleSecurity|timing.jsp|head.jsp|init.jsp|headlibs.jsp|memberonlycheck.jsp|head_includes.jsp|typekit.jsp|favicon.jsp|preheader.jsp|header.jsp|googleanalytics.jsp|topAdSpace.jsp|secondarynav.jsp|cart.jsp|logo.jsp|signin.jsp|signin-no.jsp|globalsearch.jsp|primarynav.jsp|main.jsp|left.jsp|leftnav.jsp|content.jsp|pagetitle.jsp|titlelogo.jsp|gridcolparsys.jsp|gridblock.jsp|text.jsp|share.jsp|share.jsp|favorites.jsp|favoriteslink.jsp|mobilesubnav.jsp|mobilesubnav.jsp|breadcrumbs.jsp|breadcrumbs.jsp&chs=600x500
 -->
 
 
@@ -1152,7 +1143,7 @@ http://chart.apis.google.com/chart?chtt=privacy.html+%28232612ms%29&cht=bhs&chxt
 
 
 	
-	     <ul class=""><li><a href="/careers.html">Careers</a></li><li><a href="/media-center.html">Press Center</a></li><li><a href="/chapters.html">Chapter Staff</a></li><li><a href="/about/governance/congress-delegates.html">Congress of Delegates</a></li><li><a href="/about-site/requests/licensing.html">AAFP Content Licensing</a></li><li><a href="/about/initiatives/industry-features.html">Info From Sponsors</a></li></ul>
+	     <ul class=""><li><a href="/cme/creditsys/about.html">AAFP Credit System</a></li><li><a href="/careers.html">Careers</a></li><li><a href="/media-center.html">Press Center</a></li><li><a href="/chapters.html">Chapter Staff</a></li><li><a href="/about/governance/congress-delegates.html">Congress of Delegates</a></li><li><a href="/about-site/requests/licensing.html">AAFP Content Licensing</a></li><li><a href="/about/initiatives/industry-features.html">Info From Sponsors</a></li></ul>
 	
 	
 
@@ -1201,7 +1192,17 @@ http://chart.apis.google.com/chart?chtt=privacy.html+%28232612ms%29&cht=bhs&chxt
 </div>
 
 	            
-	            <div class="footerihtml ihtml"></div>
+	            <div class="footerihtml ihtml"><script type="text/javascript">//<![CDATA[
+_uzactions = window._uzactions || [];
+_uzactions.push(['_setID', 'D96464B0F0E1E81180DA0050569444FB']);
+_uzactions.push(['_setSID', '700147A3F0E1E81180DA0050569444FB']);
+_uzactions.push(['_start']);
+(function() {
+var uz = document.createElement('script'); uz.type = 'text/javascript'; uz.async = true; uz.charset = 'utf-8';
+uz.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn5.userzoom.com/trueintent/js/uz_til_us.js?cuid=8BE8800A6332E2119DA70022196C4538';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(uz, s);
+})();//]]></script></div>
 
 	            
 	            
@@ -1511,6 +1512,10 @@ http://chart.apis.google.com/chart?chtt=privacy.html+%28232612ms%29&cht=bhs&chxt
 						<ul>
 							
 							<li>
+								<a href="/cme/creditsys/about.html" rel="">AAFP Credit System</a>
+							</li>
+							
+							<li>
 								<a href="/careers.html" rel="">Careers</a>
 							</li>
 							
@@ -1613,12 +1618,14 @@ http://chart.apis.google.com/chart?chtt=privacy.html+%28232612ms%29&cht=bhs&chxt
 
 
 
+
+	<!-- UserZoom Tracking Code -->
+	<script type="text/javascript" charset="utf-8" src="https://cdn3.userzoom.com/uz.js?cuid=8BE8800A6332E2119DA70022196C4538"></script>
  
     
     
 
 
-<script language="JavaScript" type="text/javascript" src="//js.aafp.org/omniture/aafp-prod-omniture.js"></script>
 
 
 <script language="JavaScript"><!--
@@ -1817,13 +1824,12 @@ s.prop41=""; //Content Functions
 s.eVar8="";
 s.list1="" //List Variable 1 - tags (c54)
 
-jQuery(document).ready(function() {
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)//-->
-});
-
 -->
 </script>
+
+
+
+<script type="text/javascript">_satellite.pageBottom();</script>
 
     
     
