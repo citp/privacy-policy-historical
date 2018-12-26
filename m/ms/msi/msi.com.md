@@ -1,131 +1,260 @@
-> *The following text is extracted and transformed from the msi.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513175217id_/https%3A//msi.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msi.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226132028id_/https%3A//msi.com/page/privacy-policy) for the most accurate reproduction.*
 
 # MSI PRIVACY POLICY | MSI Global
 
-This privacy policy details how we, Micro-Star Int’l Co., Ltd. ("MSI"), use the information you provide us, as well as the information we may collect based on your access or use of MSI Websites (collectively, "MSI Website(s)"). Your access or use of MSI Website and any services, software, or tools therein, including account, product, or events registration, or support services shall be deemed as your acceptance of the terms of this privacy policy.
+## **(A) This Policy**
 
-##  ACCOUNT CREATION
-
-When you first create a MSI account, you will be required to provide some information and data for registration purpose. We will create a unique identification number linking your account with the associated information. This account can then be used to sign in or sign out of MSI Websites. Furthermore, this account may be required by MSI to provide you with additional services such as notifications, support, and product after sales services
-
-Some MSI services such as RMA services may be accessed from MSI Websites. In order to provide accurate and efficient RMA services, we may require you to provide additional personally identifiable information ("PID"), including your real name, shipping/home address, email, product serial number, and phone number. For clarification purpose, providing PID is a not mandatory requirement to setup a MSI Websites account. Unless you expressly provide us with your PID during account registration, we will not actively link your PID with your MSI Websites account. Nor will we aggregate your MSI Website account information with RMA services which stores our customer PID separately from MSI Websites.
-
-You may also sign into the MSI Website using your Facebook or Google account. If you elect to do so, some of your social media account information will be collected and stored on our servers for verification purposes when signing into MSI Websites. Please note that we only store basic information to validate whether the social media account you provided is valid. We will not store any other data or activity from your social media account. You may disassociate your social media account from MSI Website accounts by contacting our online customer support for assistance.
-
-##  WHAT WE COLLECT
-
-In order to provide you with the best experiences for our products and services, we may need to collect some information from you in a number of ways. You may directly provide information to us, such as when new MSI Website accounts are created, when you register to participate in online or offline events on MSI Websites, or when you contact us for support. In addition, we may indirectly collect some information based on your interaction with our services through the use of web analytic tools (as explained in greater detail below) and from our server reports. We may also interact with your local device to help determine your location, based on your IP address or GPS data, in order to provide purchase recommendation or customizations to you.
-
-The types of data we collect may be broken down into the following types, which may be updated from time to time.
-
-##  Name and Basic Contact Information
-
-We collect your email address, password, name, and similar data. Other types of data you voluntary disclose to us include your purchased MSI product, address, postal code, and phone number (which may be required for support service).
-
-##  Demographic Information
-
-We collect your country, language, and other voluntary information such as gender, date of birth, education, and profession.
-
-##  Usage Data
-
-We collect your usage data, including logging the hours of your use our services, the product or services that you use, your browsing history, your feedback, and your subscriptions. Additionally, your device information, including IP address, your connecting network information, regional language settings, and GPS data may be collected. We may also collect certain device data, error logs, or performance data for diagnosing, trouble shooting, or servicing your product.
-
-##  Location Data
-
-We may collect your location data through direct or indirect means. We may collect location data you provide us, including your country and address. In addition, we may collect more specific location based data from your device GPS function to enable services such as the "where to buy" service. The “where to buy” option available on MSI Websites or MSI software applications may be turned on by default if your device GPS is enabled. The GPS information will only be accessed when you activate the MSI Website or application function. We will not store your GPS information.
-
-##  Content Data
-
-We collect data you give us, including your feedback, forum posting, email messages, document contents, reviews, questionnaires, survey responses, online chat logs, and phone conversations, so that we may provide you services such as customer support, product service, or online support.
-
-##  Opt-In/Opt-Out
-
-You may refuse to provide personal data or PID. However, if you decide to not provide certain data, we will be unable to provide certain service(s) or enable features. You may choose at any time to opt in or out of our product or service information subscriptions. Your opt-in/opt-out information will be stored on our servers for reference. If the option to opt out of certain subscription or feature is unavailable, we recommend you contact our online customer service for help.
-
-##  Minor Information
-
-We do not collect PID or any information from individuals who are minors, or any such legal equivalent as defined by applicable law. If you are a minor, we require your parent or legal guardian's written consent to be submitted along with your data or information.
-
-##  HOW WE USE COLLECTED DATA
-
-We use the collected data for a number of applications, such as providing and improving services for you, communicating with you, and conducting internal research. The specific ways we use your information are enumerated below, which may be updated from time to time.
-
-##  Providing Services and Internal Analysis
-
-Your data is required for us to operate, maintain, and improve our services. We will be able to provide personalized product recommendations and features of interest to you, while at the same time localizing such options to a region closest to you.
-
-We may also use your product and content data to help diagnose product issues, and help you obtain a smooth and effective customer care that aims to shorten any repair or support timeframe.
-
-Your data is important to us as we use it for internal analysis, including market intelligence, product development, and service improvements. Armed with such information, we can better understand our operations, improve our businesses, and create new, innovative products and services.
-
-##  Communications and Advertising
-
-We may use your information to deliver personalized communications to you, including provision of services and advertisement. Based on your data, we may locate suitable promotions, products, or events that may be of interest to you. We may contact you via email or other communication means you consented to in order to keep you updated. We may also contact you to let you know the status of a support or service activity, or if your forum posts have been responded to.
-
-Furthermore, we may aggregate your data based on your interests, responses, localization, and data usage to infer your interests in certain feature, event, product, promotion, or service. We may send directed advertisement to you. You may, at any time, opt out of eDM or other advertisement media we may provide.
-
-##  Data Retention and Sharing
-
-We will use reasonable commercial effort to protect your data against unauthorized access, modification, disclosure, and destruction. Your data will be stored until we cease our services or until your request to delete your account.
-
-Your data will not be shared with third parties except in the following circumstances:
-
-  1. MSI Affiliates. We may share your data to MSI affiliates for internal analysis. MSI affiliates are companies wholly owned and controlled by MSI, and that are subject to the same guidance and restrictions on maintenance and protection of your data. Such sharing may be required in order for us to provide services to you, which may include product support services, tracking, troubleshooting.
-  2. Third Party Service Providers. Our services may be enabled through authorized third parties. For example, the MSI Website(s) may be held on servers maintained by third party service providers engaged by MSI. We may need to share some of your data such as MSI account information and login data in order for such third parties to process, provide, and complete the necessary transaction or service you requested. Such third party providers are required to abide by our privacy and security requirements.  
-Additionally, we may engage authorized third party advertising agencies to provide services on our behalf. In such cases, we may provide your MSI account contact information to such third party providers to permit them to direct advertising or marketing services on our behalf to you.
-  3. Legal Compliance. We may be required to share your data in compliance with applicable law, or in response to valid legal requests by courts or government agencies. Furthermore, we may share your information only if such disclosure is necessitated to protect against spam, attempts to defraud our customers, attempts to attack our network or systems, or attempts to violate applicable law, including the intellectual property rights of third parties.
-  4. Mergers. Your data may be shared in the event MSI enters into a merger with another business entity. However, your data will be subject to confidentiality protection prior to the merger transfer.
-
-
-
-##  ACCESSING YOUR PERSONAL DATA
-
-You may access and change your MSI Website account information. Once signed in, you may edit your profile, password, and email information. We encourage you to update such information on a regular basis.
-
-Furthermore, you may update your MSI product information or opt out of any eDM or promotional notices from MSI. Please note, however, that opting out of eDM or promotional services from one MSI Website will only be effective for notices and/or promotions originating from the MSI Website you specifically opted out of. Other MSI Websites may require individual opt in or opt out to be effective. If you are unable to make such changes, please contact our online customer service for support.
-
-##  DATA GATHERING TECHNOLOGIES
-
-##  Server Logs
-
-When you access or use MSI Websites, our servers will collect your basic activity on our Websites in the form of server logs. Server log information may include your IP address, session information, date and time, requested pages, the amount and type of data sent, and access/error/referral logs. Your PID and MSI account information is not collected by such logs. We use server logs for web traffic analysis and administrative purposes. By looking at such data, we endeavor to provide more efficient Website service by ensuring that sufficient resources are allocated.
-
-We use cookies and other related technologies to gather some information about you in order for us to provide services to you. Cookies are small pieces of text placed on your local device through our MSI Websites. We only collect your data on your per session use of MSI Websites. Our cookies will only collect information on MSI Websites. Non-MSI websites are not tracked.
-
-Cookies collect some basic data, such as your basic login information, browsing patterns, and information entered into data fields. More specific uses for cookies include:
-
-  1. Settings and Preferences. Cookies may store your preferences, such as language setting, default websites, or other related information so the next time you visit our Website, you are not required to re-select your preferences. In addition, cookies may help direct you to your preferred starting MSI Website.
-  2. Authentication. When you sign up for a MSI account, our servers will create a unique identifier to be used for authentication purposes when you sign in on your device. Cookies may store such verification information so that once signed in, you may move or transfer to different MSI Websites without having to sign-in again. Furthermore, cookies provide similar functions when you sign in via different devices such as cellular phones. Transfer of cookie related information between our servers and your local device are encrypted for security purposes.
-  3. Analytics. Cookies allow us to collect your usage data and browsing patterns. This may include statistical information such as the number of your logins, your posting or activity on MSI Websites. Such information allows us to improve the stability and performance of our services.
-  4. Advertising. In addition to your browsing patterns, we may collect what interests you so we may direct advertisement or promotions to you.
-
-
-
-We have listed the specific types of cookies used on our Websites in the chart below for your reference.
-
-Cookie Name | Host  
----|---  
-Google Analytics | Google Inc.  
-Facebook: Conversion, and Remarketing Cookies | Facebook, Inc.  
-msi_session | MSI  
-smf4m_cookie | MSI  
-SMFCookie* | MSI  
-msiforum* | MSI  
+Summary – This Policy  
+---  
+This Policy explains how we Process Personal Data. This Policy may be amended or updated from time to time, so please check it regularly for updates.  
   
-Please note that you can manage cookie functionality through your internet browser settings. These settings enable the blocking and/or deletion of cookies based on your preference. You may wish to consult the instructions for your internet browser for more details. If you choose to disable cookie functionality, some of our services will not be available to you.
+This Policy is issued by each of the Controller entities listed in Section (R) below (together, **“ MSI ”** , **“ we ”** , **“ us ”** and **“ our ”** ) and is addressed to individuals outside our organisation with whom we interact, including customers, visitors to our Sites, users of our Apps, other users of our products or services, and visitors to our premises (together, **“ you ”** ). Defined terms used in this Policy are explained in Section (S) below. 
 
-##  Other analytic tools
+This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy. 
 
-In addition to cookies, we use other analytic tools sets including page tags, or web beacons. Such tags are embedded on our Websites or emails. These analytic tools, in addition to server logs and cookies, allow us to collect your activity information on MSI Websites. For eDM or advertisements sent to you, such analytic tools allows us to determine whether you have opened such email, or clicked on any content or links in such email. Embedding such tags allow us to conduct market intelligence study and internal analysis.
+## **(B) Collection of Personal Data**
 
-##  THIRD PARTY WEBSITES
+Summary – Collection of Personal Data  
+---  
+We collect or obtain Personal Data: when those data are provided to us (e.g., where you contact us); in the course of our relationship with you (e.g., if you make a purchase); when you make Personal Data public (e.g., if you make a public post about us on social media); when you download, install, or use any of our Apps; when you visit our Sites; when you register to use any of our Sites, Apps, Products, or services; or when you interact with any third party content or advertising on a Site or in an App. We may also receive Personal Data about you from third parties (e.g., law enforcement authorities).  
+  
+**Collection of Personal Data:** We collect or obtain Personal Data about you from the following sources: 
 
-We may provide links to other third party websites. The terms and conditions or use and privacy practices of such sites are governed by the operator of these third party sites. MSI is not responsible or liable to you for privacy, security, or content related to third party sites. MSI’s privacy policy applies only to the MSI Websites.
+  * _Data provided to us:_ We obtain Personal Data when those data are provided to us (e.g., where you contact us _via_ email or telephone, or by any other means, or when you provide us with your business card, or when you submit a job application). 
+  * _Relationship data:_ We collect or obtain Personal Data in the ordinary course of our relationship with you (e.g., we provide a service to you, or to your employer). 
+  * _Data you make public:_ We collect or obtain Personal Data that you manifestly choose to make public, including _via_ social media (e.g., we may collect information from your social media profile(s), if you make a public post about us). 
+  * _App data:_ We collect or obtain Personal Data when you download or use any of our Apps. 
+  * _Site data:_ We collect or obtain Personal Data when you visit any of our Sites or use any features or resources available on or through a Site. 
+  * _Registration details:_ We collect or obtain Personal Data when you use, or register to use, any of our Sites, Apps, Products, or services. 
+  * _Content and advertising information:_ If you interact with any third party content or advertising on a Site or in an App (including third party plugins and cookies) we receive Personal Data from the relevant third party provider of that content or advertising. 
+  * _Third party information:_ We collect or obtain Personal Data from third parties who provide it to us (e.g., credit reference agencies; law enforcement authorities; etc.). 
 
-##  PRIVACY POLICY UPDATES
 
-We will update the contents of the MSI privacy policy from time to time. We encourage you to visit our Website and review this privacy policy. Your continued use of our services and the MSI Websites shall be deemed as your acceptance to the terms of this privacy policy.
 
-##  CONTACT
+## **(C) Creation of Personal Data**
 
-Should you have questions or comments concerning this policy, please contact us at: [privacy@msi.com](mailto:privacy@msi.com).
+**Summary – Creation of Personal Data**  
+---  
+We create Personal Data about you (e.g., records of your interactions with us).   
+  
+We also create Personal Data about you in certain circumstances, such as records of your interactions with us, and details of your past interactions with us. 
+
+##  **(D) Categories of Personal Data we Process**
+
+**Summary – Categories of Personal Data we Process**  
+---  
+We Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; payment details (e.g., your billing address); information about our Sites and Apps (e.g., the type of device you are using); details of your employer (where relevant); information about your interactions with our content or advertising; and any views or opinions you provide to us.   
+  
+We Process the following categories of Personal Data about you: 
+
+  * _Personal details:_ given name(s); preferred name; and photograph. 
+  * _Demographic information:_ gender; date of birth / age; nationality; salutation; title; and language preferences. 
+  * _Contact details:_ correspondence address; shipping address; telephone number; email address; details of Personal Assistants, where applicable; messenger app details; online messaging details; and social media details. 
+  * _Consent records:_ records of any consents you have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent). 
+  * _Purchase details:_ records of purchases and prices; consignee name, address, contact telephone number and email address. 
+  * _Payment details:_ invoice records; payment records; billing address; payment method; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; card expiry date; BACS details; SWIFT details; IBAN details; payment amount; payment date; and records of cheques. 
+  * _Data relating to our Sites and Apps:_ device type; operating system; browser type; browser settings; IP address; language settings; dates and times of connecting to a Site; App usage statistics; App settings; dates and times of connecting to an App; location data, and other technical communications information (some of which may constitute Personal Data); username; password; security login details; usage data; aggregate statistical information. 
+  * _Employer details:_ where you interact with us in your capacity as an employee of a third party, the name, address, telephone number and email address of your employer, to the extent relevant. 
+  * _Content and advertising data:_ records of your interactions with our online advertising and content, records of advertising and content displayed on pages or App screens displayed to you, and any interaction you may have had with such content or advertising (e.g., mouse hover, mouse clicks, any forms you complete in whole or in part) and any touchscreen interactions. 
+  * _Views and opinions:_ any views and opinions that you choose to send to us, or publicly post about us on social media platforms. 
+
+
+
+##  **(E) Sensitive Personal Data**
+
+**Summary – Sensitive Personal Data**  
+---  
+We do not seek to collect or otherwise Process Sensitive Personal Data. Where we need to Process Sensitive Personal Data for a legitimate purpose, we do so in accordance with applicable law.   
+  
+We do not seek to collect or otherwise Process Sensitive Personal Data in the ordinary course of our business. Where it becomes necessary to Process your Sensitive Personal Data for any reason, we rely on one of the following legal bases: ****
+
+  * _Compliance with applicable law:_ We may Process your Sensitive Personal Data where the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations); 
+  * _Detection and prevention of crime:_ We may Process your Sensitive Personal Data where the Processing is necessary for the detection or prevention of crime (e.g., the prevention of fraud); 
+  * _Establishment, exercise or defence of legal rights:_ We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defence of legal rights; or 
+  * _Consent:_ We may Process your Sensitive Personal Data where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Data (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way). 
+
+
+
+If you provide Sensitive Personal Data to us, you must ensure that it is lawful for you to disclose such data to us, and you must ensure a valid legal basis applies to the Processing of those Sensitive Personal Data. 
+
+## **(F) Purposes of Processing and legal bases for Processing**
+
+**Summary – Purposes of Processing and legal bases for Processing**  
+---  
+We Process Personal Data for the following purposes: providing our Sites, Apps, Products, and services to you; operating our business; communicating with you; managing our IT systems; health and safety; financial management; conducting surveys; ensuring the security of our premises and systems; conducting investigations where necessary; compliance with applicable law; improving our Sites, Apps, Products, and services; fraud prevention; and recruitment and job applications.   
+  
+The purposes for which we Process Personal Data, subject to applicable law, and the legal bases on which we perform such Processing, are as follows:
+
+**Processing activity** |  **Legal basis for Processing**  
+---|---  
+  
+  * _Provision of Sites, Apps, Products, and services:_ providing our Sites, Apps, Products, or services; providing promotional items upon request; and communicating with you in relation to those Sites, Apps, Products, or services. 
+
+| 
+
+  * The Processing is **necessary in connection with any contract** that you have entered into with us, or to take steps prior to entering into a contract with us; or 
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of providing our (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary   
+– it is not used for Processing that is necessary or obligatory in any way).
+
+  
+  
+  * _Operating our business:_ operating and managing our Sites, our Apps, our products, and our services; providing content to you; displaying advertising and other information to you; communicating and interacting with you _via_ our Sites, our Apps, our products, or our services; and notifying you of changes to any of our Sites, our Apps, our products, or our services. 
+
+| 
+
+  * The Processing is **necessary in connection with any contract** that you have entered into with us, or to take steps prior to entering into a contract with us; or 
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of providing our Sites, our Apps, our products, or our services to you (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary   
+– it is not used for Processing that is necessary or obligatory in any way). 
+
+  
+  
+  * _Communications and marketing:_ communicating with you _via_ any means (including _via_ email, telephone, text message, social media, post or in person) to provide news items and other information in which you may be interested, subject always to obtaining your prior opt-in consent to the extent required under applicable law; maintaining and updating your contact information where appropriate; and obtaining your prior, opt-in consent where required. 
+
+| 
+
+  * The Processing is **necessary in connection with any contract** that you have entered into with us, or to take steps prior to entering into a contract with us; or 
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of contacting you, subject always to compliance with applicable law (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary   
+– it is not used for Processing that is necessary or obligatory in any way). 
+
+  
+  
+  * _Management of IT systems:_ management and operation of our communications, IT and security systems; and audits (including security audits) and monitoring of such systems. 
+
+| 
+
+  * The Processing is necessary for **compliance with a legal obligation** ; or
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of managing and maintaining our communications and IT systems (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms). 
+
+  
+  
+  * _Health and safety:_ health and safety assessments and record keeping; providing a safe and secure environment at our premises; and compliance with related legal obligations. 
+
+| 
+
+  * The Processing is necessary for **compliance with a legal obligation** ; or
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of ensuring a safe environment at our premises (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * The Processing is necessary to protect the **vital interests** of any individual. 
+
+  
+  
+  * _Financial management:_ sales; finance; corporate audit; and vendor management. 
+
+| 
+
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of managing and operating the financial affairs of our business (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary   
+– it is not used for Processing that is necessary or obligatory in any way).
+
+  
+  
+  * _Surveys:_ engaging with you for the purposes of obtaining your views on our Sites, our Apps, our products, or our services. 
+
+| 
+
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of conducting surveys, satisfaction reports and market research (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary   
+– it is not used for Processing that is necessary or obligatory in any way). 
+
+  
+  
+  * _Security:_ physical security of our premises (including records of visits to our premises); CCTV recordings; and electronic security (including login records and access details). 
+
+| 
+
+  * The Processing is necessary for **compliance with a legal obligation** ; or 
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of ensuring the physical and electronic security of our business and our premises (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms). 
+
+  
+  
+  * _Investigations:_ detecting, investigating and preventing breaches of policy, and criminal offences, in accordance with applicable law. 
+
+| 
+
+  * The Processing is necessary for **compliance with a legal obligation** ; or
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of detecting, and protecting against, breaches of our policies and applicable laws (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms). 
+
+  
+  
+  * _Legal proceedings:_ establishing, exercising and defending legal rights. 
+
+| 
+
+  * The Processing is necessary for **compliance with a legal obligation** ; or 
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of establishing, exercising or defending our legal rights (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms). 
+
+  
+  
+  * _Legal compliance:_ compliance with our legal and regulatory obligations under applicable law. 
+
+| 
+
+  * The Processing is **necessary for compliance with a legal obligation** . 
+
+  
+  
+  * _Improving our Sites, Apps, Products, and services:_ identifying issues with our Sites, our Apps, our products, or our services; planning improvements to our Sites, our Apps, our products, or our services; and creating new Sites, Apps, Products, or services. 
+
+| 
+
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of improving our Sites, our Apps, our products, or our services (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary   
+– it is not used for Processing that is necessary or obligatory in any way). 
+
+  
+  
+  * _Fraud prevention:_ Detecting, preventing and investigating fraud. __
+
+| 
+
+  * The Processing is necessary for **compliance with a legal obligation** (especially in respect of applicable employment law); or 
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of detecting, and protecting against, fraud (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms). 
+
+  
+  
+  * _Recruitment and job applications:_ recruitment activities; advertising of positions; interview activities; analysis of suitability for the relevant position; records of hiring decisions; offer details; and acceptance details. 
+
+| 
+
+  * The Processing is necessary for **compliance with a legal obligation** (especially in respect of applicable employment law); or 
+  * We have **a legitimate interest** in carrying out the Processing for the purpose of recruitment activities and handling job applications (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or 
+  * We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary   
+– it is not used for Processing that is necessary or obligatory in any way). 
+
+  
+  
+##  **(G) Disclosure of Personal Data to third parties**
+
+**Summary – Disclosure of Personal Data to third parties**  
+---  
+We disclose Personal Data to: legal and regulatory authorities; our external advisors; our Processors; any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on our Sites or our Apps.   
+  
+We disclose Personal Data to other entities within the MSI group, for legitimate business purposes and the operation of our Sites, Apps, Products, or services to you), in accordance with applicable law. In addition, we disclose Personal Data to: 
+
+  * you and, where appropriate, your appointed representatives; 
+  * legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation; 
+  * accountants, auditors, lawyers and other outside professional advisors to MSI, subject to binding contractual obligations of confidentiality; 
+  * third party Processors (such as payment services providers; shipping companies; etc.), located anywhere in the world, subject to the requirements noted below in this Section (G); 
+  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal rights; 
+  * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties; 
+  * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and 
+  * any relevant third party provider, where our Sites and our Apps use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, your Personal Data may be shared with the relevant third party provider. We recommend that you review that third party’s privacy policy before interacting with its advertising, plugins or content. 
+
+
+
+If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law. 
+
+##  **(H) Profiling**
+
+**Summary – Profiling**  
+---  
+Personal Data are subject to automated decision-making and Profiling.   
+  
+We Process Personal Data for the purposes of automated decision-making and Profiling, which is carried out for the following purposes: 
+
+**Profiling activity** |  **Logic of the Profiling activity** |  **Consequences for you**  
+---|---|---  
+Credit scoring  |  Where we engage a third party (e.g., a credit reference agency) to provide us with information about your credit score and/or credit history. This information is analysed to determine the most appropriate terms on which to offer you credit, where applicable.  |  This Profiling activity may affect whether you are able to obtain credit, and the interest rates applicable to any such credit.   
+Customised discounts  |  Where we analyse your purchasing activity and your interests. This information is analysed to determine the most appropriate promotions and discounts to offer you.  |  This Profiling activity may mean that you receive discounts that are not available to others, and that others receive discounts that are not available to you. 
