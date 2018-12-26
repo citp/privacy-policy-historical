@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readwriteweb.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626070649id_/https%3A//readwrite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readwriteweb.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226150452id_/https%3A//readwrite.com/privacy) for the most accurate reproduction.*
 
-# Privacy – ReadWrite
+# Privacy - ReadWrite
 
 **Last modified: May 24, 2018.**
 
@@ -52,7 +52,7 @@ When you visit The Publisher’s websites, The Publisher or third parties such a
 
 If an advertiser asks The Publisher to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.
 
-In addition, third-party advertisers may use non-personally identifiable information about your visits to The Publisher’s websites  in order to provide advertisements about goods and services that they believe may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html) and here. 
+In addition, third-party advertisers may use non-personally identifiable information about your visits to The Publisher’s websites  in order to provide advertisements about goods and services that they believe may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.google.com/policies/technologies/ads/) and here. 
 
 This Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
@@ -128,9 +128,9 @@ You can also limit targeted advertising by configuring your browser’s settings
 
 To learn more about the management panel of the Adobe Flash Player and the management of “flash” cookies, please access the following link:[http://www.macromedia.com/support/documentation/en/flashplayer/help/index.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/index.html). 
 
-You can also opt-out of receiving cookies from third-party data providers by following the instructions at: http://www.networkadvertising.org/managing/opt_out.asp. TRUSTe also provides you with ways to opt-out of behavioral tracking at: http://preferences.truste.com/truste. 
+You can also opt-out of receiving cookies from third-party data providers by following the instructions at: http://optout.networkadvertising.org/?c=1. TRUSTe also provides you with ways to opt-out of behavioral tracking at: http://preferences-mgr.truste.com/. 
 
-You can opt-out of receiving cookies from Targusinfo, a specific third-party data provider, by following the instructions at: http://www.adadvisor.net/optout.html. 
+You can opt-out of receiving cookies from Targusinfo, a specific third-party data provider, by following the instructions at: http://www.agkn.com/optout.html. 
 
 Also, because your choices are not associated with you as a particular individual, if you change computers, web browsers or cookie settings, you will need to re-implement your preferences as described above. Note that if you limit or disable cookies, this does not mean that you will not see ads on The Publisher’s websites. Instead, ads will be displayed that are based on passive browser information or other information that that may be provided by The Publisher’s websites at the time of your visit.
 
