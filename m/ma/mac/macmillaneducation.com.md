@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040337id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031009id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Macmillan English
 
 **Privacy policy**
 
-This is the privacy policy (“policy”) for this website which is run and provided by Macmillan Publishers Limited, Macmillan Education, The Macmillan Campus, 4 Crinan Street, London, N1 9XW UK, [help@macmillaneducation.com](mailto:help@macmillaneducation.com).
+This is the privacy policy (“policy”) for this website which is run and provided by SpringerNature Limited, Macmillan Education, The Macmillan Campus, 4 Crinan Street, London, N1 9XW UK, [help@macmillaneducation.com](mailto:help@macmillaneducation.com).
 
 We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.
 
