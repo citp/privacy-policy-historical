@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momontheside.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626043423id_/https%3A//momontheside.com/about/product-review-and-ad-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momontheside.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226123833id_/https%3A//momontheside.com/about/product-review-and-ad-policies) for the most accurate reproduction.*
 
 # Product Review and Ad Policies | Mom on the Side
 
