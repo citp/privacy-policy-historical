@@ -1,96 +1,172 @@
-> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414185716id_/https%3A//www.pentaho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226165122id_/https%3A//www.hitachivantara.com/en-us/company/legal.privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Pentaho
+# Legal Terms, Privacy, Cookie Policy, Ethics and Trademarks | Hitachi Vantara
 
-**Last Updated: 2 March 2017**
+## Privacy
 
-Pentaho Corporation (“Pentaho”) is committed to protecting the privacy of personal information that it collects and processes. This Privacy Policy Statement (“Privacy Statement”) describes the personal information Pentaho and its affiliates collect about you and how we use that information.
+### HITACHI VANTARA'S GLOBAL DATA PROTECTION & PRIVACY POLICY
 
-Pentaho has certified that its use of personal information conforms to the principles of the EU-U.S. Privacy Shield agreement. To view our certification, and learn more about Privacy Shield, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).      
+Collectively, the terms below are referred to as the "Policy."
 
-By submitting your data to us, you provide your explicit consent to the use of your personal information in accordance with this Privacy Statement. 
+Hitachi Vantara Corporation and its subsidiaries (collectively "HITACHI", "us" or "we") respects and values your privacy. Hitachi Vantara's Global Data Protection & Privacy Policy discusses our methods and approach to earning the trust you put in HITACHI.
 
-### SCOPE
+Please read this Policy and our Terms of Use carefully because, by accessing this website and any other websites owned by HITACHI (collectively, our "Site"), you agree to comply with them. Also, by submitting personal information to HITACHI, you indicate that you consent to HITACHI's collection (including via our Site), processing and use of your personal information as described within the scope of this Policy.
 
-This Privacy Statement applies to personal data collected from you:
+Please note that if you apply for a position with HITACHI, our Employee Privacy Policy and the corresponding local privacy laws of your place or residence applicable to employees and applicants will govern the collection, processing, use and international transfer of your personal data after your initial application for employment. You may obtain a copy of that policy from your recruiter or privacy@hitachivantara.com.
 
-  * (a) when you visit our website at [www.pentaho.com](http://www.pentaho.com/) and any other websites administered by Pentaho (“Websites”);
-  * (b) in the course of conducting marketing activities; and
-  * (c) when providing products and services to you.     
+Please contact privacy@hitachivantara.com with any questions about this Policy.
 
+### HITACHI'S PRIVACY MISSION
 
+HITACHI may, in the course of business, collect personal information, including personal data regulated by the European Union (EU) General Data Protection Regulation 2016/679 ("GDPR"), which is voluntarily provided by you. The potential uses of your personal information by HITACHI are outlined in this Policy.
 
-The Websites contain links to other websites, which may be owned or controlled by Pentaho' affiliates or unrelated third parties (including but not limited to websites administered by Pentaho’s employees). Please note that the privacy policies of these linked websites may differ from those of Pentaho. Pentaho is not responsible for the manner in which your personal information is processed by any linked website which will be governed by the terms of their respective privacy policies.
+Our policy is not to share personal information with third parties except as provided for in this Policy, to facilitate our internal information processing activities, or to comply with applicable law. We recognize that your personal information is confidential and we take steps intended to protect your personal information while it is in our possession.
 
-### PERSONAL INFORMATION COLLECTED
+### COLLECTION AND USE OF YOUR PERSONAL INFORMATION BY HITACHI
 
-Pentaho may collect the following personal information about you, depending on your interactions with Pentaho, and this can include but not be limited to the following:
+HITACHI may invite you to provide limited business-related personal information, including but not limited to, your name, title, company address, e-mail address, telephone and fax numbers, and whether you are a current client or business partner. If you are applying for a position with HITACHI through the Site, you may be asked to submit information related to your qualifications for the position. HITACHI disclaims any legal duty to verify the accuracy of any personal information that you provide to HITACHI.
 
-  * (a)   **Name and contact data** : Pentaho collects your first and last name, business email address, company name, address, phone number and other similar contact data.
-  * (b)   **Usage data**. Pentaho collects data about how you interact with Pentaho and our products and services. For example, we collect:
-    1. (i) _Product Use Data_. Following the installation of Pentaho’s software product into your IT environment, certain technical information about the installation will be sent to us automatically by your hardware and this can include information about plugins, IP addresses and the number of cores the Pentaho product has been installed on.
-    2. (ii) _Support Data._ In the event of a support incident, we collect information about your hardware, your use of the Pentaho software and other details relating to the support incident. Such data includes your contact details or authentication data, the content of your chats and other communications with Pentaho’s support team including those provided to Pentaho’s technical support portal. Unless otherwise agreed with Pentaho, you agree not to provide Pentaho with any other personal information (including those of any third parties) in the course of using Pentaho’s products and services.
-  * (c)  **Survey data**. Pentaho may conduct surveys for marketing and planning purposes which are optional to participate in. Pentaho will collect information about your experience with its products and services and gather your opinion about the industry in which it operates in.
-  * (d)  **Website statistical data**. We may also collect information during your visit to the Websites through the use of automatic data collection tools such as cookies (described below) and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to the Websites such as your browser type, the Internet Protocol (IP) address from which you are accessing the Internet, the address of the website from which you arrived at a Website, and the date and time of visits. We may also gather aggregate, non-personally identifiable information, such as the number of visits to the Websites.
-  * (e)  **Cookies**. Pentaho employs "cookies" to provide you with tailored information when you visit the Websites. A "cookie" is a small text file placed on your hard drive that assists us in providing a more customised website experience. A cookie is either stored temporarily (“session cookies”) or permanently (known as a “permanent” or “persistent cookie”) and is used in the following manner:
-    1. (i) Session cookies (cookies which are stored temporarily and deleted once a browser is closed) can be used to help your browser navigate our Websites more smoothly and will identify if you have visited us from a website with which the subsequent website has some relationship (e.g., a website of an affiliated company) and can give helpful information.
-    2. (ii) Persistent cookies (cookies which are stored permanently on the hard drive of a computer) can be used to customize the Website during your visit, such as by storing passwords, preferences, and registration and account information so that you do not have to re-enter this information each time you visit a Website.
+Typically, HITACHI will ask for you to submit personal information including personal data for the following purposes:
 
-
-
-Our Websites may use both session cookies and persistent cookies to store information that allows us to improve our customer service to you and provide you with the ability to navigate the Websites more easily. To make our Website easier to use, we combine information collected via cookies with personal information. However, you may at your option, block or delete our cookies from your hard drive through your web browser’s settings. By disabling cookies, however, certain site features and functionality may no longer work properly, or at all. 
-
-### DATA INTEGRITY AND PURPOSE
-
-Pentaho will only use personal information in a manner that is compatible with the purposes for which the information was collected as follows:
-
-  * (a)  **Marketing purposes and surveys**. Pentaho uses your contact details to inform you about its products and services, provide you with publications or newsletters and notify you of events which may be of interest to you. For surveys, if the responses are to be made public, survey participants will be notified at the time they participate in the survey and Pentaho will disclose only aggregated information and not personal information identifying any specific individual among its survey participants.
-  * (b)  **Provide our products and services**. Pentaho uses your personal information to provide products and services to you and for general account management purposes.
-  * (c)  **Website administration**. Pentaho may use the personal information you provide us to enable you to participate in online forums available on the Websites and to interact with other Website users.
-  * (d)  **Statistical analysis**. Pentaho may use website statistical data for various purposes, including but not limited to marketing, trends and statistical analysis, service evaluation and planning.
+  * website registration and to permit access to restricted areas of our Site;
+  * customer, supplier, and/or business partner relationship management;
+  * service and asset management;
+  * to evaluate and respond to inquiries and applications for employment sent over the Site;
+  * purchase management;
+  * marketing of products and services;
+  * occupational health and safety;
+  * workplace security and protection of personnel, assets and resources;
+  * to fulfil administrative and information technology functions, such as making updates to our Site;
+  * monitoring or demonstrating compliance with applicable legal or regulatory requirements, or internal corporate mandates;
+  * compliance with legal requirements imposed on any HITACHI entity, or to defend a legal claim.
 
 
 
-We will take reasonable steps to ensure the personal information is relevant to its intended use, accurate, complete and current. 
+HITACHI collects personal information for legitimate business purposes and to comply with HITACHI's legal obligations. In any instance where non-mandatory information is sought, you will be notified of this at the point of collection.
 
-Pentaho will retain your personal information for as long as necessary in accordance with applicable laws.
+### FURTHER INFORMATION ABOUT OUR SITE
 
-### CHOICE
+HITACHI uses your personal information provided over the Site to better understand your needs and provide you with better service. Specifically, we may use your personal information to update you on the benefits and features of HITACHI's products and services and to provide you with information and material requested by you. From time to time, we may also use your personal information to contact you for market research or to provide you with marketing information we think would be of particular interest. You may control, edit or view your preferences at Hitachi Vantara's Preference Center located at [https://www.hitachivantara.com/en-us/preference-center.html](https://web.archive.org/en-us/preference-center.html).
 
-You have a right to ask us to not process your information for a purpose which is materially different from the original purpose from which the information was collected.  You can opt out of receiving marketing communications at any time. Any email sent will include directions on how a subscriber may remove himself or herself from the list, or a URL where the user may find such directions. If you register on a Website and participate in an online forum, your personal information may be publicly available through your profile display on a Website. In such cases, you have the option to opt out of publicly displaying your real name. Where a Website allows you to display optional personal information publicly, such entry and display is at your discretion and may be changed at any time by you. As a registered user on a Website, you will have the opportunity to use a Website to send electronic mail to another user through an online forum. In such cases, a user's username and email address will be included with such messages. If you do not wish your email address to be shown to another user, you would have to refrain from using the messaging service available through the Website.
+We may also collect details of your visits to our Site for system administration and to report aggregate information, such as Site traffic data, location data, logs and other communication data, the resources that you access, information about your computer and internet connection (such as IP address, operating system, browser type). This statistical data about our users' equipment, browsing actions and patterns is not intended to identify any specific individual. By providing your personal information to HITACHI, you explicitly consent to the collection of details of your visits to our system for the purpose described above.
 
-If we process your sensitive information (i.e., personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual) for the purposes set out in this Privacy Statement, Pentaho will obtain your express consent (opt in) if such information is to be (i) disclosed to a third party that is a non-agent (except for our affiliates); or (ii) used for a purpose other than those for which it was originally collected or subsequently authorized by you.  
+### SENSITIVE PERSONAL INFORMATION
 
-### YOUR RIGHT TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION
+HITACHI does not collect, store, or process any sensitive personal information from you for the purposes described in this Policy, including sensitive personal data as regulated by the GDPR. Depending on your location, sensitive personal information may include various types of personal information relating to: race or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; genetic data; biometric data for the purpose of uniquely identifying a natural person; data concerning health; data concerning a natural person's sex life; sexual orientation or criminal record. **We request that you do not provide sensitive personal information to us.**
 
-You have the right to access the personal information that we hold about you and ask that we correct, amend, or delete personal information which it is inaccurate or has been not been processed in accordance with applicable data protection laws or the Privacy Shield principles except where the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of third parties would be violated. In certain cases, your rights may be exercised via the Website. Otherwise, please contact Pentaho by e-mailing [legalnotices@pentaho.com](mailto:legalnotices@pentaho.com). 
+### INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
 
-### ONWARD TRANSFER
+Personal information, including personal information collected in the European Economic Area ("EEA") or Switzerland collected by HITACHI may be transferred, stored and processed by member companies of the worldwide Hitachi organization and the Hitachi family of companies, our business partners or third-party service providers who are established in jurisdictions without comprehensive data protection laws. Transfer of information to third parties or to locations outside of your country of residence are managed in accordance with applicable laws, which may include the GDPR.
 
-Personal information collected by us may be stored and processed in the United States or any other country in which Pentaho or its subsidiaries or service providers maintain facilities. By providing the information to us, you are consenting to the transfer of the personal information from your country to a country which may not have the same data protection laws as the country in which you reside. We share your personal information for business purposes only on a need-to-know basis with our employees, affiliates and third parties who provide goods and services to us and will not otherwise share, sell, transfer or exchange your personal information with any other third parties. We will take the necessary steps to ensure that such onward transfers of personal information comply with applicable data protection laws or the Privacy Shield principles.  In the case of onward transfer of personal information, we will assume responsibility for the processing of personal information we receive and subsequently transfer to third parties acting as an agent on our behalf. We shall remain liable under Privacy Shield principles if third parties engaged by us to process such personal information do so in a manner inconsistent with Privacy Shield principles.
+We take reasonable steps aimed to protect your personal information. These steps include implementing the European Commission's Standard Contractual Clauses for transfers of personal information from our group companies in the EEA to our other group companies. We have implemented similar appropriate safeguards with our service providers, partners and affiliates. For more information about these safeguards, please contact privacy@hitachivantara.com.
 
-### COMPELLED DISCLOSURE
+**By providing your personal information to HITACHI, you explicitly consent to the transfer of your information outside of your country of residence.**
 
-Please note we may be required to disclose your personal information in response to a lawful request by a public authority, including to meet national security and law enforcement requirements. 
+### LEGALLY COMPELLED DISCLOSURE
+
+There may be circumstances under which HITACHI may be legally compelled to disclose your personal information. These circumstances may include, among others, situations where disclosure is required by law applicable to HITACHI, or necessary to comply with an order of a court or governmental agency, export control, or necessary for matters of safety and security. In such cases, HITACHI will make good faith efforts to provide only that information which is the subject of the official order or request.
+
+### DATA RETENTION
+
+Your personal information will be retained for as long as necessary to fulfil HITACHI's legitimate business purposes, unless a longer retention period is required by applicable law.
+
+### COOKIES
+
+Our Site uses cookies. " _Cookies_ " are text files containing small amounts of information placed on your computer or device when you visit a website. Cookies help us improve the functionality and performance of our Site and deliver a better and more personalized service by enabling us to:
+
+  * Estimate our audience size and usage patterns;
+  * Store information about your preferences, allowing us to customize our Site according to your individual interests;
+  * Recognize you when you return to our Site; and
+  * Provide us with business and marketing information.
+
+
+
+You may also receive cookies from third parties we engage to help us provide our Site. You may refuse to accept cookies by activating the appropriate setting in your browser's software. In most cases, you may refuse cookies and still fully navigate our Site. Unless you have adjusted your browser setting, so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site.
+
+By accessing our Site without activating the appropriate setting in your browser (as described above), you consent to HITACHI's reasonable use of cookies as described within [HITACHI's Cookies Policy](https://web.archive.org/en-us/company/legal.cookie-policy.html).
+
+### THIRD PARTIES
+
+HITACHI will not sell, rent, or lease your personal information to others.
+
+Unless we have specifically informed you, obtained your consent, or are permitted or required to do so by the laws of the jurisdiction we operate in, we will only share the personal information you provide with business partners and third-party service providers who are acting on our behalf, and then only for the uses described in this Policy. Specifically, we do not disclose your personal information to third parties for the third party's own direct marketing purposes unless you have provided your affirmative consent for such a disclosure. HITACHI will take appropriate steps to ensure that these third parties protect the confidentiality and security of your personal information.
+
+Similarly, we ask that you do not provide us with information about third parties without their permission. You represent that, when providing us information about third parties, you have obtained previous, express and informed consent of such parties to process their personal data.
+
+### LINKS TO THIRD PARTY WEBSITES
+
+There are several places throughout the Site that may link to other websites that do not operate under HITACHI's privacy practices. HITACHI does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. When you link to other websites, HITACHI's privacy practices and this Policy no longer apply and HITACHI assumes no responsibility for the information or other practices of a website that is accessible through HITACHI. We encourage you to review other website privacy policies before disclosing any personal information to them.
+
+### YOUR CHOICES
+
+HITACHI respects your right to make your own choices about how your personal information is handled. Should you choose to subscribe to mailing lists or any registrations, and later decide to unsubscribe you may unsubscribe on our [Preference Center](https://web.archive.org/en-us/preference-center.html). You can also opt out by clicking "unsubscribe" in any marketing email communications we send you, or you may contact HITACHI at privacy@hitachivantara.com.
+
+In addition, access to certain applications or services may involve particular uses, disclosure or transfer of the personal information being collected during registration for that application or service. If required under the laws of your country of residence, you will be notified of such intended uses, transfer or disclosure and asked to provide your consent. Failure to provide your consent where so requested may mean you will not be provided access to the applications or services for which your personal information cannot be lawfully processed.
+
+### PRIVACY RIGHTS
+
+HITACHI strives to ensure the accuracy of your personal information, as provided to HITACHI. We will also provide you with notifications as required by applicable law.
+
+If you are a resident of the EEA or as permitted by the laws of your jurisdiction, you may also:
+
+  * Request access to or a copy of your personal information.
+  * Request to correct, update or rectify your personal information.
+  * Request that HITACHI deletes or blocks your personal data. HITACHI is unable to delete information that we deem necessary to comply with our legal obligations, resolve disputes and/or enforce our agreements.
+  * Object to or seek a restriction on the processing of your personal data
+  * Refuse to consent or revoke your consent to processing. Revoking your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * Raise a concern to us at privacy@hitachivantara.com or the applicable data protection authority about our collection and use of your personal information.
+
+
+
+HITACHI will respond to your requests pursuant to applicable law and in accordance with [HITACHI's Data Subject Rights Policy](https://web.archive.org/en-us/company/legal.data-subject-request-policy.html).
+
+Requests should be directed to [online DSAR form](https://web.archive.org/en-us/company/legal/data-subject-access-request.html) or privacy@hitachivantara.com.
 
 ### SECURITY
 
-We will take reasonable and proportionate security measures to protect personal information from loss, misuse and unauthorised access, disclosure, alteration and destruction.
+We have put in place technical and organisational procedures to safeguard and secure the information we collect from you and to reduce the risk of loss, unauthorized access, misuse and alteration. Unfortunately, the transmission of information via the Internet is not completely secure. Although we work very hard to protect your personal information, we cannot guarantee the security of your personal information transmitted over our Site.
 
-Pentaho employs measures including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures.  Internal access to users' private and non-public personal information is restricted to site administrators and individuals on a need-to-know basis.
+### SALE OF BUSINESS ASSETS
 
-Please keep in mind that while we have established safeguards to help prevent unauthorized access to or misuse of your personal information, we cannot guarantee that it will never be disclosed in a manner inconsistent with this Privacy Statement (for example, in the event of unauthorized acts by third parties that violate applicable law or our policies). In addition, if a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential.
+In the unlikely event of a sale of HITACHI, a HITACHI business unit, or a HITACHI affiliate, personal information held by HITACHI may be made available to a buyer or prospective buyers in order for them to evaluate any such purchase or to operate any parts of HITACHI's business.
 
-### RECOURSE, ENFORCEMENT AND LIABILITY
+### MODIFICATIONS
 
-We will respond to your inquiries and complaints about this Privacy Statement and our handling of your personal information.  In the first instance, we request that you contact:[legalnotices@pentaho.com](mailto:legalnotices@pentaho.com) and we will respond within 45 days. 
+Subject to the legal requirements of your jurisdiction of residence for notice and consent, HITACHI reserves the right to modify or amend this Policy at any time in order to adjust to applicable laws or regulations, or changes in HITACHI's practices or procedures. Where conflicts exist between the terms and conditions of this Policy and applicable national data protection laws, the latter will take precedence. This Policy is not intended to, and does not, provide rights beyond those that are prescribed by applicable national laws. The implementation date will be displayed at the bottom of this Policy.
 
-As part of our Privacy Shield commitments, we have also committed to cooperating with EU Data Protection Authorities (DPAs) and the panel of DPAs.  You can contact the DPA in the country where you live or work for further information. 
+### HITACHI CONTENT PLATFORM ANYWHERE ANDROID APPLICATION
 
-If your complaint has not been handled in a satisfactory manner through these recourse mechanisms, you may invoke the binding arbitration procedure through the Privacy Shield Panel or the Privacy Shield Ombudsman.  Further information can be found at the [Privacy Shield website. ](http://www.privacyshield.gov/) 
+Hitachi Content Platform (hereinafter, "HCP") Anywhere is deployed by enterprises to mobilize, manage, and protect data. The data on the HCP Anywhere mobile application is stored and managed by the particular enterprise that deployed the HCP Anywhere sever, not HITACHI. In these cases, any data subjects who wish to exercise their rights should direct their query to our customers who act as "Data Controllers".
 
-Our commitments under the Privacy Shield agreement are also subject to the investigatory and enforcement powers of the US Department of Commerce’s Federal Trade Commission.
+When installed on a device, the HCP Anywhere mobile application has access to several permissions which allows it to enforce security policies on the device based on the enterprise's HCP Anywhere settings. Mainly, the application can enforce:
 
-### CHANGES TO THIS PRIVACY STATEMENT
+  * Password requirements, such as length and alphanumeric requirements
+  * Maximum inactivity time
+  * Storage area encryption
 
-We will update this Privacy Statement when necessary to reflect feedback and changes in our products and services. When we post changes to this Privacy Statement, we will revise the "last updated" date at the top of the Privacy Statement. 
+
+
+The HCP Anywhere mobile application enforces these policies using Device Administration. Although the HCP Anywhere mobile application can enforce certain policies on the device, it does not collect or process any personal information (e.g. Your device password).
+
+### PRIVACY OF CHILDREN
+
+Our Site, our products, and services are not directed to individuals under the age of thirteen. Please let us know if a person under the age of thirteen has provided HITACHI with personal information by contacting privacy@hitachivantara.com. In the event that we become aware that a child has provided us with personal information, we will implement the necessary technical and organizational measure to erase said information.
+
+### CONTACT US
+
+We welcome your inquiries or comments about this Policy and any queries or concerns that you may have about the Site.
+
+Please contact HITACHI at privacy@hitachivantara.com or at the following address:
+
+Hitachi Vantara Corporation  
+2845 Lafayette Street  
+Santa Clara, California 95050  
+U.S.A.
+
+Attention: Privacy Officer
+
+### IMPLEMENTATION DATE
+
+We review HITACHI'S Privacy Policy regularly to reflect changes introduced by the applicable legislation. If you continue using our Site after such revisions are in effect, you accept and agree to the revisions and to abide by them.
+
+This Policy was last updated on May 25, 2018.
