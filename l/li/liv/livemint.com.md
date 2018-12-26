@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livemint.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617205320id_/https%3A//www.livemint.com/Object/483E65M2lsKyJBVJaJtj3M/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemint.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031040id_/https%3A//www.livemint.com/Object/483E65M2lsKyJBVJaJtj3M/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy & Policy - Livemint
 
