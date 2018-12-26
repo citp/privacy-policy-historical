@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chanel.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191302id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chanel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024304id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
 
 # CHANEL POLICIES
-
-This content is not available in the language you have selected.
 
   *   * 
 
