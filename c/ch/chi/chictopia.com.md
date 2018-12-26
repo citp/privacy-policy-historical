@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010856id_/http%3A//www.chictopia.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226142359id_/http%3A//chictopia.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chictopia
 
@@ -9,6 +9,8 @@ This privacy policy (the "Privacy Policy") informs you about the personal inform
 The term "You" (and its variants) refers to You as a user of the Service and the term "Us" (and its variants) refers to Chictopia. 
 
 In operating the Service We collect and may disclose information about You. By accepting the Chictopia.com Terms of Service (“the TOS”), into which this Privacy Policy is incorporated by reference, You acknowledge that you have read and understand this policy, and consent to Our use and disclosure of Your personal information as described in this Privacy Policy.
+
+If you have any questions about our policies, please contact us at privacy@chictopia.com . 
 
 **2.                   ****Information We Collect**  
   
@@ -53,15 +55,15 @@ We may revise this Privacy Policy from time to time based on changes in the law,
 
 **8.                   ****Accessing, Reviewing, and Changing Your Profile** ****
 
-a.       After registration You can review the information You submitted during registration. For instructions on how to change the information, contact info@chictopia.com. If you provide less Personal Information, or provide inaccurate Personal Information in order to protect your anonymity, you may not be able to utilize the Service to its full potential.  If you completely remove your Personal Information, your account may be removed or disabled.
+a.       After registration You can review the information You submitted during registration. For instructions or help on how to change or remove the information, contact info@chictopia.com. If you provide less Personal Information, or provide inaccurate Personal Information in order to protect your anonymity, you may not be able to utilize the Service to its full potential.  If you completely remove your Personal Information, your account may be removed or disabled.
 
-b.      We may retain in Our files information You have requested be removed from Our active databases for certain purposes, such as to resolve disputes, troubleshoot problems, to enforce the Terms of Use, and to discourage users from engaging in fraudulent behavior. Moreover, Your Personal Information may never be completely removed from Our databases due to technical and legal constraints, including stored “back up” systems. You should not expect that all of Your personally identifiable information will be completely removed from Our databases in response to Your request.
+b.      We keep Your information for the purpose of providing functions of the Service to you, such as storing your photos to maintain your Chic Blog, or email address to notify you of friend requests or new followers. Upon your request, all of Your personally identifiable information will be removed from our systems or depersonalized so that we can't identify you. 
 
 c.       To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information.  YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.  If You believe your password has been disclosed to third parties or otherwise compromised in any way You should immediately change Your password.
 
 **9.                   ****Our Commitment to Data Security**
 
-a.       We are very concerned with safeguarding your information.  We employ reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you transmit to Us, and you do so at your own risk.  Once we receive your transmission of information, We make commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+a.       We are very concerned with safeguarding your information.  We employ reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. Your data is stored securely on hosting services based on Amazon Web Services.  We cannot, however, ensure or warrant the security of any information you transmit to Us, and you do so at your own risk.  Once we receive your transmission of information, We make commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 **b.       **If We learn of a security systems breach, We may in certain circumstances attempt to notify you electronically so that you can take appropriate protective steps. Depending on where you live and the circumstances, you may have a legal right to receive notice of a security breach in writing. ****
 
