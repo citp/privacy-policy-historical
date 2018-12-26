@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xpressbees.com privacy policy that was archived on 2016-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328051557id_/http%3A//www.xpressbees.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xpressbees.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226162556id_/http%3A//www.xpressbees.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy | Xpressbees.com</title>
@@ -11,7 +11,7 @@
     
 <link href="css/bootstrap.css" rel="stylesheet"><link href="css/Style.css" rel="stylesheet"><link href="css/font-awesome.min.css" rel="stylesheet">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
 
 </head>
 <body>
@@ -29,23 +29,23 @@
                     $('#TRACK').click();
             });
             var lblMessage = $('#lblerrmsg').html();
-            //   alert($('#hdnLogin').val());
+         //   alert($('#hdnLogin').val());
             if (lblMessage == "Invalid email address or password") {
                 $("#liOpen").addClass('open');
-                //  $("#aClientLogin").attr("aria-expanded", "true");
+              //  $("#aClientLogin").attr("aria-expanded", "true");
 
             }
             else if ($('#hdnLogin').val() == "1") {
                 $("#liOpen").addClass('open');
-                $('#lblerrmsg').css('display', 'none');
             }
         });
-
+       
         function ShowClientLogin() {
-        $('#lblerrmsg').val("Invalid email address or password");
-        $('#hdnLogin').val("1");
-        // alert($('#hdnLogin').val());
-    }
+            $('#lblerrmsg').val("Invalid email address or password");
+            $('#hdnLogin').val("1");
+           
+           // alert($('#hdnLogin').val());
+        }
 
         //$("input").on("keydown", function (e) {
         //    return e.which !== 32;
@@ -70,7 +70,7 @@
     </script>
 
     <script type="text/javascript">
-
+       
         function Clear() {
 
             $("#Login1_UserName")[0].value = "";
@@ -193,7 +193,7 @@ return true;
                                 <span class="icon-bar"></span>
                             </button>
 
-                            <a href="http://www.xpressbees.com" class="logo">
+                            <a href="http://www.xpressbees.com/" class="logo">
                                 <img src="images/logo.png" width="213" height="35" alt="Xpressbees.com E-Commerce Logistics Company" title="Xpressbees.com E-Commerce Logistics Company">
                             </a>
 
@@ -201,10 +201,11 @@ return true;
                         <div id="navbar" class="navbar-collapse collapse">
 
                             <ul class="nav navbar-nav">
-                                <li><a href="http://www.xpressbees.com" target="_self">Home </a></li>
+                                <li><a href="http://www.xpressbees.com/" target="_self">Home </a></li>
                                 <li><a href="about-us.aspx" target="_self">About </a></li>
                                 <li><a href="ecommerce-logistics-solutions.aspx" target="_self">Services</a> </li>
                                 <li><a href="careers.aspx" target="_self">Careers </a></li>
+                                 <li><a href="BusinessEnquiry.aspx" target="_self">Business Enquiry</a></li>
                                 <li><a href="contact-us.aspx" target="_self">Contact Us </a></li>
                                 <li id="liOpen" class="cl_lgn"><a href="#" id="aClientLogin" class="dropdown-toggle mar_r_0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="client_login"></span>Client Login <span class="caret"></span></a>
                                     <div class="dropdown-menu">
@@ -212,39 +213,38 @@ return true;
 
                                         
 
-                                        <div id="UpdatePanel2">
+                                       <div id="UpdatePanel2">
 	
-                                             
-                                                    <table id="Login1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+                                                <table id="Login1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
 		<tbody><tr>
 			<td>
 
-                                                            <fieldset>
-                                                                <input name="ctl00$Login1$UserName" type="text" id="Login1_UserName" class="form-control" placeholder="Email Address">
-                                                                <span id="Login1_UserNameRequired" title="User Name is required." style="color:Red;display:none;">Email address is required</span>
-                                                                <span id="Login1_RegEmailValidator" style="color:Red;display:none;">Please provide correct email address</span>
-                                                                
+                                                        <fieldset>
+                                                            <input name="ctl00$Login1$UserName" type="text" id="Login1_UserName" class="form-control" placeholder="Email Address">
+                                                            <span id="Login1_UserNameRequired" title="User Name is required." style="display:none;">Email address is required</span>
+                                                            <span id="Login1_RegEmailValidator" style="display:none;">Please provide correct email address</span>
+                                                            
 
-                                                            </fieldset>
-                                                            <fieldset>
-                                                                <input name="ctl00$Login1$Password" type="password" id="Login1_Password" class="form-control" placeholder="Password">
-                                                                <span id="Login1_PasswordRequired" title="Password is required." style="color:Red;display:none;">Please provide correct password</span>
-                                                            </fieldset>
-                                                            <div>
-                                                                <input id="Login1_chkIsVendor" type="checkbox" name="ctl00$Login1$chkIsVendor">
-                                                                <span style="color: #a3a3a5;">Login As Agent</span>
-                                                            </div>
-                                                            <div class="text-center">
-                                                                <input type="image" name="ctl00$Login1$LoginButton" id="Login1_LoginButton" class="bt_size" src="images/button_3.jpg" onclick="ShowClientLogin();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Login1$LoginButton&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" style="height:30px;width:109px;border: none; box-shadow: none; margin-left: -5px; border: 0;">
-                                                            </div>
-                                                            <div>
-                                                                <span id="Login1_lblmsg" style="color: Red; padding: 0; text-align: center;"></span>
-                                                            </div>
-                                                            <span class="close" onclick="Clear();"></span>
-                                                        </td>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <input name="ctl00$Login1$Password" type="password" id="Login1_Password" class="form-control" placeholder="Password">
+                                                            <span id="Login1_PasswordRequired" title="Password is required." style="display:none;">Please provide correct password</span>
+                                                        </fieldset>
+                                                        <div>
+                                                            <input id="Login1_chkIsVendor" type="checkbox" name="ctl00$Login1$chkIsVendor">
+                                                            <span style="color: #a3a3a5;">Login As Agent</span>
+                                                        </div>
+                                                        <div class="text-center">
+                                                            <input type="image" name="ctl00$Login1$LoginButton" id="Login1_LoginButton" class="bt_size" src="images/button_3.jpg" onclick="ShowClientLogin();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Login1$LoginButton&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" style="height:30px;width:109px;border: none; box-shadow: none; margin-left: -5px; border: 0;">
+                                                        </div>
+                                                        <div>
+                                                            <span id="Login1_lblmsg" style="color: Red; padding: 0; text-align: center;"></span>
+                                                        </div>
+                                                        <span class="close" onclick="Clear();"></span>
+                                                    </td>
 		</tr>
 	</tbody></table>
-                                            
+
                                             
 </div>
 
@@ -292,143 +292,180 @@ return true;
         </header>
         
 
-
+      
         <div>
             
-     <script>
-         (function (i, s, o, g, r, a, m) {
-             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                 (i[r].q = i[r].q || []).push(arguments)
-             }, i[r].l = 1 * new Date(); a = s.createElement(o),
-             m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-         ga('create', 'UA-59665539-1', 'auto');
-         ga('send', 'pageview');
+        ga('create', 'UA-59665539-1', 'auto');
+        ga('send', 'pageview');
 
-</script>
-   
+    </script>
+    
 
-        <div id="banner">
-            <div class="privacy_banner">
+    <div id="banner">
+        <div class="privacy_banner">
 
-                <div class="container">
+            <div class="container">
 
-                    <div class="col-md-6 txt_info">
+                <div class="col-md-6 txt_info">
 
-                        <h1>Privacy Policy</h1>
+                    <h1>Privacy Policy</h1>
 
-                    </div>
+                </div>
 
 
-                    <div class="col-md-6">
-                    </div>
-                    <div class="clearfix"></div>
+                <div class="col-md-6">
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+    <div id="main_content">
+
+        <div class="container">
+
+            <div class="col-md-12">
+                <div class="wrap">
+                    <p class="ans2" style="text-align: justify;">
+                        This Privacy Policy explains the policy regarding the collection, use, disclosure and transfer of your 
+                        information by www.xpressbees.com (“Xpressbees/Site/Mobile APP”) for all the services of XpressBees ("Services"). 
+                        This policy may change as we update, improve and expand the Services, so please check it periodically.
+                        By accessing the Site of XpressBees or otherwise using the Services, you consent to collection, storage, 
+                        and use of the personal information you provide (including any changes thereto as provided by you) for any of the Services offered by us.
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Sources of information</p>
+                    <p class="ans2" style="text-align: justify;">
+                        We collect and process the information from you from the following sources to provide better services to all of our users.
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Registration data</p>
+                    <p class="ans2" style="text-align: justify;">
+                        This includes basic contact information such as name, gender, age, address, pin code, contact number, occupation, interests and email address etc. 
+                        provided at the time of registration to use the Site and seeking or obtaining Services from us.
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Paid service data</p>
+                    <p class="ans2" style="text-align: justify;">
+                        When you make any payment for the Services, XpressBees or its payment gateway provider may collect your purchase, address or billing information, 
+                        including your credit card number and expiration date etc. 
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Voluntary information</p>
+                    <p class="ans2" style="text-align: justify;">
+                        XpressBees may collect additional information at other times, including but not limited to, when you provide feedback, change your  Error message 
+                        need to be informative and display clearly content or email preferences, respond to a survey, or communicate with XpressBees.
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Cookies</p>
+                    <p class="ans2" style="text-align: justify;">
+                        XpressBees use data collection devices such as "cookies" on certain pages of its Site. Cookies are small files which are stored on your hard 
+                        drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". 
+                        Cookies help us to provide information, which is targeted to your interests. Cookies may be used whether you register with us or not.
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Links to other websites</p>
+                    <p class="ans2" style="text-align: justify;">
+                        XpressBees Site may, from time to time, contain links to and from other websites or applications to give you a better service. 
+                        Such websites or applications are governed by their respective privacy policies, which are beyond our control. 
+                        Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the application, 
+                        you are visiting and we do not accept any responsibility or liability for these policies. 
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Use of your information</p>
+                    <p class="ans2" style="text-align: justify;">
+                        The Information as supplied by you enables Error message need to be informative and display us to improve  Error message need to be 
+                        informative and display clearly the Services and provide you the most user-friendly experience. All required information is service 
+                        dependent and we may use the above said user Information to, maintain, protect, and improve the Services and for developing new services. 
+                        We may also use your email address or other personally identifiable information to send commercial or marketing messages without your consent 
+                        [with an option to subscribe / unsubscribe (where feasible)]. We may, however, use your email address without further consent for non-marketing 
+                        or administrative purposes (such as notifying you of major changes, for customer service purposes, billing, etc.).                       
+                        <br>
+                        <br>
+                        Without limitation to the foregoing, your information may be used for the following purposes:  
+                        </p><div id="info_content" style="text-align: justify;">
+                            <ul>
+                                <li>To develop, enhance, market, sell or provide our services, or those of companies with which we have a commercial relationship</li>
+                                <li>To provide tips or guidance on how to use our website, inform you of new features on our website, or provide other information that may be of 
+                                    interest to you</li>
+                                <li>To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect ourselves and 
+                                    other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities</li>
+                                <li>To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the 
+                                    information is provided to the new controlling entity in regular course of business</li>
+                                <li>To audit compliance with our policies and contractual obligations</li>
+                            </ul>
+                        </div>
+                    <p></p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Disclosure of your information</p>
+                    <p class="ans2" style="text-align: justify;">
+                        XpressBees shares your information with any third party without obtaining your prior consent in the following limited circumstances:
+                        <br>
+                        <br>
+                        </p><div id="info_Disclosure_content" style="text-align: justify;">
+                            <ul>
+                                <li>When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification 
+                                      of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences.
+                                      These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these terms or for complying
+                                      with the applicable laws and regulations</li>
+                                <li>XpressBees proposes to share such information within its group companies and employees of such group companies for the purpose of processing
+                                      personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our
+                                      instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures</li>
+                                <li>XpressBees may disclose information to third parties to detect, prevent or otherwise address fraud, security or technical issues or protect
+                                      the rights, property or safety of us, our users or others or in order to enforce or apply our terms of use</li>
+                            </ul>
+                        </div>
+                    <p></p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Information Security</p>
+                    <p class="ans2" style="text-align: justify;">
+                        XpressBees take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
+                       These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and 
+                        physical security measures to guard against unauthorized access to systems where we store personal data. However, as effective as our security measures 
+                        are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be 
+                        intercepted while being transmitted to us over the Internet. 
+                    </p>
+                </div>
+
+                <div class="wrap">
+                    <p class="question1">Others</p>
+                    <p class="ans2" style="text-align: justify;">
+                        We always seek to improve the Services we offer which are dynamic and innovative in nature. We often introduce new features, some of which may result 
+                       in the collection of new information. If we start collecting substantially new type of information and materially change how we handle your data, 
+                       we modify this Privacy Policy accordingly.
+                    </p>
                 </div>
             </div>
         </div>
-
-        
-    
-        <div id="main_content">
-
-                <div class="container">
-
-                    <div class="col-md-12">
-
-                         <div class="wrap">
-
-                            <p class="question">What information do we collect?</p>
-                            
-                            <p class="ans1">We collect information from you when you register on our site or access your shipment details. You may be asked to enter your: name, e-mail address, mailing address, phone number. You may, however, visit our site anonymously.</p>
-                            
-
-                        </div>
-
-                        <div class="wrap">
-
-                            <p class="question">What do we use your information for?</p>
-                            
-                            <p class="ans1">Any of the information we collect from you may be used in one of the following ways:
-To personalize your experience (your information helps us to better respond to your individual/Corporate needs). 
-To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).</p>
-                            
-
-                        </div>
-
-                         <div class="wrap">
-
-                            <p class="question">How do we protect your information?</p>
-                            
-                            <p class="ans1">We implement a variety of security measures to maintain the safety of your personal information when you enter, submit or access your personal information. We offer the use of a secure server. But there  can be unwanted instances which could result in unwarranted disclosure of your personal information and you fully understand the risks associated with disclosure of personal information on such a forum.
-</p>
-                            
-
-                        </div>
-
-                        <div class="wrap">
-
-                            <p class="question">Network Security Violation</p>
-                            
-                            <p class="ans1">Violations of system or network security may result in civil or criminal liability. We will investigate such occurrences which may lead to involvement of  law enforcement authorities in prosecuting users who are involved in such violations.</p>
-                            
-
-                        </div>
-
-                         <div class="wrap">
-
-                            <p class="question">Information Disclosure Policy</p>
-                            
-                            <p class="ans1">We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business or servicing you, so long as those parties agree to keep this information confidential. We may also release your information in certain instances where we believe release is appropriate to comply with the law, enforce our site policies, protect ours or others rights, properly or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
-                                <span>In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage or any loss or damage whatsoever.</span>
-                            </p>
-                            
-
-                        </div>
-
-                          <div class="wrap">
-
-                            <p class="question">Disclaimer</p>
-                            
-                            <p class="ans1"><span>The information contained in this website is for general information purposes only. The information is provided by Busybees Logistics Solutions Pvt Ltd and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.</span>
-                              <span> In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage or any loss or damage whatsoever.</span>
-                                <span class="mar_0">Every effort is made to keep the website up and running smoothly. However, Busybees Logistics Solutions Pvt Ltd takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.</span>
-                            </p>
-                            
-
-                        </div>
-
-                         <div class="wrap">
-
-                            <p class="question">Your Consent</p>
-                            
-                            <p class="ans1">By using our site, you consent to our privacy policy.</p>
-                            
-
-                        </div>
-
-                        <div class="wrap">
-
-                            <p class="question">Changes to our Privacy Policy</p>
-                            
-                            <p class="ans1">Policies may change at any time without any intimation.</p>
-                            
-
-                        </div>
-
-                        <div class="wrap">
-
-                            <p class="question">Trademark</p>
-                            
-                            <p class="ans1">Xpressbees is a trademark of  Busybees Logistics Solutions Pvt Ltd. All rights in respect of this trademark are hereby expressly reserved.</p>
-                            
-
-                        </div>
-
-                    </div>
-
-                </div>
-        </div>
+    </div>
 
         </div>
 
@@ -441,7 +478,7 @@ To improve customer service (your information helps us to more effectively respo
 
                 <div class="col-md-6 pad_l_0">
                     <ul style="padding-left: 16px;">
-                        <li><a href="privacy-policy.aspx">Privacy</a>|</li>
+                        <li><a href="privacy-policy.aspx">Privacy Policy</a>|</li>
                         
                         <li><a href="contact-us.aspx">Contact Us</a>|</li>
                         <li><a href="track-shipment.aspx">Track Shipment</a></li>
