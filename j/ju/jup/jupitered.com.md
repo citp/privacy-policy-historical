@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jupitered.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625144856id_/http%3A//www.jupitered.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jupitered.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226053831id_/http%3A//jupitered.com/privacy.html) for the most accurate reproduction.*
 
 # Jupiter Ed Privacy Policy
 
@@ -19,6 +19,8 @@
 **Unsolicited Email (Spam):** Jupiter Ed sends email to Instructors and School staff for security alerts and confirmations. All other notices and promotions are usually communicated through the Website when you login, but they may be sent in email on occasion. Jupiter Ed does not contact Students and Parents except if needed to service an account.
 
 **Third Parties:** Jupiter Ed does not share any information with third parties except as described above or as required by law, or to enforce the Terms of Service, to protect the rights of others, or to protect the legal rights of Jupiter Ed.
+
+**Advertisements:** Jupiter Ed does not contain any third-party ads, targeted or otherwise.
 
 **Data Deletion:** Your data is deleted automatically after you discontinue your account. Normally this occurs after several months (some users change their minds), but upon request we will delete your data immediately.
 
