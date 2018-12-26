@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622114054id_/http%3A//www.ironman.com/triathlon/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226075610id_/http%3A//www.ironman.com/triathlon/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IRONMAN Official Site | IRONMAN triathlon 140.6 & 70.3
 
@@ -82,7 +82,7 @@ The reasons for using your personal data may differ depending on the purpose of 
 
 
 
-> This also includes our **marketing campaigns**. If you sign up to our email newsletter or when providing us with your email address allow us to use this email address for email marketing, we will use your personal data in our email marketing campaigns. You may unsubscribe from our email newsletter at any time [[unsubscribe from this list](https://ironman.us4.list-manage.com/unsubscribe?u=36ebad974c5875d65fba57d76&id=a62c7d7213&e=28311b5264&c=0135fd57a5)]. You may also contact us via email, phone or mail at the addresses provided at the end of this document to request that we remove you from our email list. 
+> This also includes our **marketing campaigns**. If you sign up to our email newsletter or when providing us with your email address allow us to use this email address for email marketing, we will use your personal data in our email marketing campaigns. You may unsubscribe from our email newsletter at any time [[unsubscribe from this list](http://content.ironman.com/manage-subscription.html)]. You may also contact us via email, phone or mail at the addresses provided at the end of this document to request that we remove you from our email list. 
 
   * **We use your personal data to comply with legal obligations.** We are obligated to retain certain data because of legal requirements, for example, tax or commercial laws or we may be required by law enforcement to provide personal data on request.
 
@@ -194,7 +194,7 @@ If you wish to exercise one of these rights, please contact us using the contact
   * **Cookies Settings and Preferences.** You may disable cookies and other tracking technologies through the settings in your browser.
 
 
-  * **E-Mail Settings and Preferences.** If you no longer want to receive marketing e-mails from us, you may choose to unsubscribe at any time [[unsubscribe from this list](https://ironman.us4.list-manage.com/unsubscribe?u=36ebad974c5875d65fba57d76&id=a62c7d7213&e=28311b5264&c=0135fd57a5)].
+  * **E-Mail Settings and Preferences.** If you no longer want to receive marketing e-mails from us, you may choose to unsubscribe at any time [[unsubscribe from this list](http://content.ironman.com/manage-subscription.html)].
 
 
 
