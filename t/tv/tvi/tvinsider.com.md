@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvinsider.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626045513id_/https%3A//www.tvinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvinsider.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226130028id_/https%3A//www.tvinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TV Insider
 
@@ -131,7 +131,7 @@ We may disclose any information we collect to a buyer or other successor in the 
 
 ### 4.1 Email
 
-If you want to opt out from a _TVInsider_ email newsletter or commercial email list, use the unsubscribe link at the bottom of each message or send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990bea4a6b2bdb5b4b9b1feb3bfbd) with the email address at which you no longer wish to receive newsletters or commercial emails. If you requested third-party email through our Services and no longer wish to receive the email, simply follow the advertiser’s unsubscribe link or opt-out instructions that should be included in every commercial message you receive. If you want to disable web beacons in our email messages, turn images “off” in your email system (e.g., Outlook or Outlook Express). Check the settings or options menu in your email system for more information.
+If you want to opt out from a _TVInsider_ email newsletter or commercial email list, use the unsubscribe link at the bottom of each message or send us an email at [privacy@ntvbmedia.com](mailto:privacy@ntvbmedia.com) with the email address at which you no longer wish to receive newsletters or commercial emails. If you requested third-party email through our Services and no longer wish to receive the email, simply follow the advertiser’s unsubscribe link or opt-out instructions that should be included in every commercial message you receive. If you want to disable web beacons in our email messages, turn images “off” in your email system (e.g., Outlook or Outlook Express). Check the settings or options menu in your email system for more information.
 
 ### 4.2 Postal Mail
 
@@ -161,7 +161,7 @@ We have implemented reasonable administrative, technical, and physical security 
 
 ## 6\. Correcting or Updating Your Information
 
-You may update or access and edit certain personally identifying information that you have provided to us through our Services. To update this information, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c1b1b3a8b7a0a2b881afb5b7a3aca4a5a8a0efa2aeac).
+You may update or access and edit certain personally identifying information that you have provided to us through our Services. To update this information, please send us an email at [privacy@ntvbmedia.com](mailto:privacy@ntvbmedia.com).
 
 ## 7\. Links to Other Sites
 
@@ -173,13 +173,13 @@ The Services are hosted in the United States. United States law governs the Serv
 
 ## 9\. Children Under 13
 
-The Services are not intended for children under 13 years of age, and _TVInsider_ does not knowingly collect information from children under 13. If you are under the age of 13, do not: use, or provide any information on, the Services; make any purchases through the Services; use any of the interactive or public comment features of the Services; or otherwise provide any information about yourself to us, including your name, address, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any personal information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85f5f7ecf3e4e6fcc5ebf1f3e7e8e0e1ece4abe6eae8).
+The Services are not intended for children under 13 years of age, and _TVInsider_ does not knowingly collect information from children under 13. If you are under the age of 13, do not: use, or provide any information on, the Services; make any purchases through the Services; use any of the interactive or public comment features of the Services; or otherwise provide any information about yourself to us, including your name, address, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any personal information from or about a child under 13, please contact us at [privacy@ntvbmedia.com](mailto:privacy@ntvbmedia.com).
 
 ## 10\. Your California Privacy Rights
 
 ### 10.1 Shine the Light
 
-Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us, once a calendar year, information about the customer information we shared, if any, with other businesses for their direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2016 will receive information regarding 2015 sharing activities). To obtain this information on behalf of _TVInsider_ , please send an email message to [[email protected]tvbmedia.com](https://web.archive.org/cdn-cgi/l/email-protection#3141435847505248715f4547535c545558501f525e5c) with “Request for California Privacy Information” in the subject line. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us, once a calendar year, information about the customer information we shared, if any, with other businesses for their direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2016 will receive information regarding 2015 sharing activities). To obtain this information on behalf of _TVInsider_ , please send an email message to [privacy@ntvbmedia.com](mailto:privacy@ntvbmedia.com) with “Request for California Privacy Information” in the subject line. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
 ### 10.2 Do Not Track
 
