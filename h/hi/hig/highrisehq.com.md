@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the highrisehq.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527184811id_/https%3A//highrisehq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrisehq.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226022721id_/https%3A//highrisehq.com/privacy) for the most accurate reproduction.*
 
 # Highrise Privacy Policy
 
-_Last updated: May 24, 2018_
+_Last updated: December 20, 2018_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. While Highrise processes your data, we'll only ever access your account to help you with a problem or squash a software bug. We'll never open any uploaded files unless you ask us to. We log access to all accounts by IP address, browser and operating system so we can verify unauthorized access (for as long as the logs are kept).
 
 ## Identity & Access
 
 When you sign up for Highrise, we ask for your name, company name, and email address so we can send invoices, updates, and other essential information. When you invite a new user, we ask for their name and email address so we can verify their access to your account. We'll never sell your personal info to third parties, and we won't use your name or company in marketing statements unless you've publicly shared the information or expressly provided us permission.
+
+When you pay for Highrise, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
 When you write Highrise with a question or to ask for help, we may access your account to assist with our response and we'll keep that correspondence, and the email address, for future reference. When you browse our marketing pages and use Highrise, we'll track that for statistical purposes (like for measuring conversion rates, to test new designs, and to determine which features are utilized the most). We also store any information you volunteer, like surveys, for as long as it makes sense.
 
