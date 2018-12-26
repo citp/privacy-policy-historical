@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2018-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180409135317id_/https%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226040933id_/https%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -116,7 +115,7 @@ _atrk_opts = { atrk_acct:"YHXJh1awVK00UL", domain:"sportsmansoutdoorsuperstore.c
 						
 						<li><a href="https://www.sportsmansoutdoorsuperstore.com/contact_us.cfm">Contact Us</a></li>
 						<li><a href="https://www.sportsmansoutdoorsuperstore.com/updateaccount.cfm">My Account</a></li>
-						<li><a class="nav-cart" onclick="location.href='/viewcart.cfm'" href="/viewcart.cfm" data-container="body" data-toggle="popover" data-content="
+						<li><a class="nav-cart" id="nav_cart" onclick="location.href='/viewcart.cfm'" href="/viewcart.cfm" data-container="body" data-toggle="popover" data-content="
 						
 						Your shopping cart is empty.
 						
@@ -134,10 +133,8 @@ _atrk_opts = { atrk_acct:"YHXJh1awVK00UL", domain:"sportsmansoutdoorsuperstore.c
                         <li><a href="/category.cfm/sportsman/archery">Archery</a></li>
                         <li><a href="/category.cfm/sportsman/hunting-accessories">Hunting</a></li>
                         <li><a href="/category.cfm/sportsman/knives-and-tools-for-sale">Knives<span class="hidden-sm"> &amp; Tools</span></a></li>
-						
 						<li><a href="/rebates/">Rebates</a>
-						</li><li><a href="/weekly-deals.cfm"><strong>Sale</strong></a></li>
-						
+						</li><li><a href="/black-friday.cfm/sale/all"><strong>Sale</strong></a></li>
               		</ul>
 					<div class="row visible-xs">
 						<div class="col-xs-12 searchbar">
@@ -164,7 +161,6 @@ _atrk_opts = { atrk_acct:"YHXJh1awVK00UL", domain:"sportsmansoutdoorsuperstore.c
             </div>
       	</div>
 	</nav>
-	
 	
 <div class="container-fluid">
 	<div class="row padding-b-30">
@@ -298,7 +294,7 @@ ga('send', 'pageview');
                     <ul class="list-unstyled dept-filter">
                         <li><b>Company</b></li>
                         <li><a href="/about_us.cfm">About Us</a></li>
-                        <li><a href="/giftcards.cfm">Gift Certificates</a></li>
+                        
                         <li><a href="/email_sign_up.cfm">Sign Up for Deals</a></li>
                         <li><a href="/site_directory.cfm">Site Directory</a></li>
 						<li><a href="/privacy_policy.cfm">Privacy Policy</a></li>
@@ -327,9 +323,10 @@ ga('send', 'pageview');
               	</div>
           	</div>
 		</div>
+		
 	</footer>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	
 	<script src="/js/jquery-2.1.3.min.js" type="text/javascript"></script>
 	
     <script src="/js/bootstrap.min.js"></script>
@@ -345,14 +342,14 @@ ga('send', 'pageview');
 	$(document).ready(function(){$('#product-slider3').slick({slide:'li',infinite:true,speed:300,slidesToShow:8,slidesToScroll:4,touchThreshold:10,arrows:true,prevArrow:'#prev3',nextArrow: '#next3',variableWidth:true});});
 	$(document).ready(function(){$('#product-slider4').slick({slide:'li',infinite:true,speed:300,slidesToShow:8,slidesToScroll:4,touchThreshold:10,arrows:true,prevArrow:'#prev4',nextArrow: '#next4',variableWidth:true});});
 	</script>
-    
+	
     <script type="text/javascript" async="">
-	$("[data-toggle=popover]").popover({
+	$("#nav_cart").popover({
   	trigger: 'manual',
   	animate: false,
   	html: true,
   	placement: 'bottom',
-  	template: '<div class="popover" onmouseover="$(this).mouseleave(function() {$(this).hide(); });"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>'
+  	template: '<div class="popover cart-popover" onmouseover="$(this).mouseleave(function() {$(this).hide(); });"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>'
   
 }).click(function(e) {
 	e.preventDefault() ;
@@ -361,6 +358,7 @@ ga('send', 'pageview');
 });
 	</script>
 	
+
 	
 	
 	<script>
@@ -394,6 +392,8 @@ window.__lc.license = 8914599;
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
 })();
 </script>
+
+
 
 
 
