@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626012605id_/https%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226092935id_/https%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
 
 # PIXTA Group Companies Privacy Policy - Stock Photos PIXTA
 
@@ -98,7 +98,7 @@ The User may cease, suspend, or restart the subscription of our direct mails or 
 
 The PIXTA Group will collect the User’s information by use of Cookie or web-beacon as set forth in Article 3 of this Privacy Policy. Any User who desires to disable Cookie may do so by changing the configuration of web browser. Though the User who disables Cookie can access the sites or use a part of the Services, it should be understood that the services available to the User will be limited in connection with the part of the Services that uses Cookie. 
 
-Behavioral Targeting Advertisement Services listed on “Behavioral Targeting Advertisement the Services List” may be used in part of the Services in order to distribute proper advertisements to the User. Behavioral Targeting Advertisement is an advertising method to distribute selected advertisements in accordance with interests or preference of the User who accesses to the Services on the basis of the browsing record information etc. Any User who desires to refuse such Behavioral Targeting Advertisements has to access the opt-out pages of each of the companies listed on Behavioral Targeting Advertisement the Services List, and conduct invalidation procedures. [“Behavioral Targeting Advertisement the Services List”](https://www.pixtastock.com/optout) is here. 
+Behavioral Targeting Advertisement Services listed on “Behavioral Targeting Advertisement the Services List” may be used in part of the Services in order to distribute proper advertisements to the User. Behavioral Targeting Advertisement is an advertising method to distribute selected advertisements in accordance with interests or preference of the User who accesses to the Services on the basis of the browsing record information etc. Any User who desires to refuse such Behavioral Targeting Advertisements has to access the opt-out pages of each of the companies listed on Behavioral Targeting Advertisement the Services List, and conduct invalidation procedures. [“Behavioral Targeting Advertisement the Services List”](https://web.archive.org/optout) is here. 
 
 ## 9\. Security Effort
 
