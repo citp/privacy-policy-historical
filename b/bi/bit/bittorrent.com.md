@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614223947id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023054id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BitTorrent - Delivering the World’s Content
 
-Date of last revision May 25, 2018
+Date of last revision September 26, 2018
 
 * * *
 
@@ -73,6 +73,7 @@ Cookies are small bits of electronic information that a web site can transfer to
 <http://www.pixalate.com/privacypolicy/>  
 <https://dev.adzerk.com/docs/privacy-policy-ad-server>  
 <https://liveramp.com/privacy/>  
+<https://www.appnexus.com/platform-privacy-policy>  
 <http://optout.networkadvertising.org/?c=1#!/>
 
 Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access many, if not all, of the features of the BitTorrent websites or the Software. However, some parts of the BitTorrent websites or the Software may not function properly if you refuse cookies.
@@ -118,8 +119,8 @@ If you have any questions about our privacy practices, please do not hesitate to
     
     Privacy Matters
     c/o BitTorrent, Inc.
-    340 Bryant Street, Suite 201
-    San Francisco, California 94107
+    301 Howard St., Suite 2000
+    San Francisco, California 94105
 
   
 
