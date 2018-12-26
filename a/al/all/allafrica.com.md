@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623045810id_/http%3A//allafrica.com/misc/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023437id_/https%3A//allafrica.com/misc/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy - allAfrica.com
 
@@ -30,7 +30,7 @@ AllAfrica works with carefully chosen third-party advertising companies to serve
 
 The [_DoubleClick DART cookie_](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in ads served on this site and other websites displaying AdSense ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [_Google ad and content network privacy policy._](http://www.google.com/privacy_ads.html)
 
-_[Advertising.com](http://www.platform-a.com/advertiser-solutions)_ collects what is known as "Click Stream Data," which is anonymous and includes a web user's IP address, web pages viewed, date and time of access and responses by a web surfer to an advertisement.
+ _[Advertising.com](http://www.platform-a.com/advertiser-solutions)_ collects what is known as "Click Stream Data," which is anonymous and includes a web user's IP address, web pages viewed, date and time of access and responses by a web surfer to an advertisement.
 
 For more information about the companies whose ads appear on this site, read the privacy statements for [_advertising.com_](http://www.platform-a.com/privacy-policy/advertisingcom), [_Google_](http://www.google.com/privacypolicy.html), [_Casale Media_](http://casalemedia.com/privacy.html), [_Value Click_](https://www.valueclickmedia.com/privacy.shtml), [_Tribal Fusion_](http://www.tribalfusion.com/TribalFusion/privacy.html) and [_Tacoda_](http://www.platform-a.com/advertiser-solutions/audience-targeting/behavioral-targeting).
 
