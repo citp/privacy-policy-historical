@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesbeard.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002154813id_/https%3A//www.jamesbeard.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesbeard.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030316id_/https%3A//www.jamesbeard.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | James Beard Foundation
 
@@ -9,6 +9,10 @@ The James Beard Foundation values your support and is committed to protecting yo
 Our web servers automatically collect some non-identifying basic information from your visit to help measure website activity and improve our site. This information includes your IP address, browser type, computer type, the pages requested, and the referring website.
 
 Like many other websites, the James Beard Foundation website occasionally deposits bits of information called "cookies" in a visitor's computer. Cookies help us distinguish repeat visitors from first-time visitors and give us helpful information about how our pages are viewed. This technology does not collect personal, identifiable information.
+
+#### Payment Transactions 
+
+The James Beard Foundation uses trusted third party platforms for all credit card transactions related to donations, memberships, reservations, and ticketing. When completing a transaction, please refer to the platform’s privacy policy for more information. For additional questions regarding data privacy, please email [publications@jamesbeard.org](mailto:publications@jamesbeard.org).
 
 #### Volunteering Personal Data
 
