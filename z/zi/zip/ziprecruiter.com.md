@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617231756id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226081129id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZipRecruiter
 
@@ -10,7 +10,7 @@ ZipRecruiter, Inc. (" _ZipRecruiter_ ," " _we_ ," or " _us_ "), respects your pr
 
 This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit one of the websites listed below, and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-The websites covered by this Privacy Policy are: [www.ziprecruiter.co.uk](http://www.ziprecruiter.co.uk/), [www.ziprecruiter.com](http://www.ziprecruiter.com/), [www.zipalerts.com](http://www.zipalerts.com/) and our Mobile Applications (collectively, the " _Website_ ").
+The websites covered by this Privacy Policy are: [www.ziprecruiter.co.uk](https://www.ziprecruiter.co.uk/), [www.ziprecruiter.com](https://www.ziprecruiter.com/), [www.zipalerts.com](https://www.zipalerts.com/) and our Mobile Applications (collectively, the " _Website_ ").
 
 This Privacy Policy applies to data we collect:
 
@@ -441,7 +441,7 @@ Right **not to be subject to a decision based solely on automated decision-makin
   
 **_Method for Requesting Information Pursuant to Your Rights_**
 
-Upon request, ZipRecruiter will provide you with information about whether we hold any of your personal information. If you would like to exercise any of the data subject access rights in the table above (each, an “ _Access Request_ ”) please send an email to [dsars@ziprecruiter.com](https://web.archive.org/web/20180617231756id_/https%3A//www.ziprecruiter.com/dsars@ziprecruiter.com), and we will send you a Data Subject Access Request Form. We will respond to your request within a reasonable timeframe.
+Upon request, ZipRecruiter will provide you with information about whether we hold any of your personal information. If you would like to exercise any of the data subject access rights in the table above (each, an “ _Access Request_ ”) please send an email to [dsars@ziprecruiter.com](https://web.archive.org/web/20181226081129id_/https%3A//www.ziprecruiter.com/dsars@ziprecruiter.com), and we will send you a Data Subject Access Request Form. We will respond to your request within a reasonable timeframe.
 
 **_No Fee Usually Required_**
 
@@ -461,7 +461,7 @@ ZipRecruiter and third parties may use cookies or similar tracking technologies 
 
 If you are accessing the Website from other than the EEA, you understand that we apply U.S. law and the U.S. advertising industry self-regulatory program to Tracking Technologies associated with the Website. 
 
-We partner with a third party to either display advertising on our websites or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note that you will continue to receive generic ads.
+We partner with a third party to either display advertising on our websites or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](https://preferences-mgr.truste.com/) or if located in the European Union click [here](https://www.youronlinechoices.eu/). Please note that you will continue to receive generic ads.
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data and where the application was downloaded form.
 
@@ -509,7 +509,7 @@ If you have any complaint about the treatment of your Personal Data, or inquirie
 
 **_Data Subjects Based in the European Economic Area_**
 
-The General Data Protection Regulation also gives you the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) country where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [https://ico.org.uk/concerns](http://ico.org.uk/concerns/) or telephone: 0303 123 1113. 
+The General Data Protection Regulation also gives you the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) country where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns/) or telephone: 0303 123 1113. 
 
 ### 17) MARKETING top
 
