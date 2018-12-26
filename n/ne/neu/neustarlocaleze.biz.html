@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the neustarlocaleze.biz privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626090022id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neustarlocaleze.biz privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226165632id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<script type="text/javascript" async="" src="https://t.sf14g.com/sf14g.js"></script><script type="text/javascript" async="" src="https://t.sf14g.com/sf14g.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-DG2P"></script><script type="text/javascript">var pimcore = pimcore || {};pimcore["targeting"] = {};pimcore["targeting"]["dataPush"] = {"personas":[],"method":"get","document":1117};pimcore["targeting"]["targetingRules"] = [{"id":3,"name":"IPI-global","description":"global rule for IPI data","scope":"hit","active":true,"conditions":[{"url":".*","type":"url","operator":"and","bracketLeft":false,"bracketRight":false}],"actions":{"redirectEnabled":false,"redirectUrl":"","redirectCode":null,"eventEnabled":true,"eventKey":"","eventValue":"","codesnippetEnabled":true,"codesnippetCode":"<script type=\"text\/javascript\">\n$(document).ready(function() {\n    \n    var locationBasedDdosPhone = function(countryCode) {\n        var tn = $('.alert .googlenumber').text();\n        switch(countryCode) {\n            case 'gb':\n                tn = '0808-234-0457';\n                break;\n            case 'fr':\n                tn = '0800-909-776';\n                break;\n            case 'de':\n                tn = '0800-182-8063';\n                break;\n            case 'ae':\n                tn = '800-0357-03762';\n                break;\n            case 'sg':\n                tn = '800-616-2348';\n                break;\n             case 'au':\n                tn = '1800-841-840';\n                break;\n        }\n        $('.alert .googlenumber').text(tn);\n    }\n\n    if(($.cookie('_countrycode')) && ($.cookie('_countrycode')!==\"null\")) {\n        locationBasedDdosPhone($.cookie('_countrycode'));\n    } else {\n        host = location.hostname.replace('www','');\n        cookieDomain = host;\n        if(window.location.hostname.match(\/neuweb\/g)){\n            cookieDomain = '.neuweb.biz';\n        }\n\t\tif(window.location.hostname.match(\/localhost\/g)){\n            cookieDomain = '.neustar.localhost';\n        }\n        $.getJSON('\/ajax\/ipintel', function(data){\n            countryCode = 'us';\n            continent='north america';\n            if(!data['error'] && !data['info']){\n                countryCode = data['ipinfo']['Location']['CountryData']['country_code'];\n                continent= data['ipinfo']['Location']['continent'];\n                $.cookie('_ipintel', JSON.stringify(data),{domain: cookieDomain});\n                $.cookie('_countrycode', countryCode, {domain: cookieDomain});\n                $.cookie('_continent', continent, {domain: cookieDomain});\n                locationBasedDdosPhone(countryCode);\n            }            \n        });\n    }\n});\n<\/script>","codesnippetSelector":"body","codesnippetPosition":"end","programmaticallyEnabled":false,"personaId":0,"personaEnabled":false}},{"id":5,"name":"LiveEngageChatScript","description":"","scope":"hit","active":true,"conditions":[{"url":"^https:\\\/\\\/\\www\\.security\\.neustar","type":"url","operator":"and","bracketLeft":false,"bracketRight":false}],"actions":{"redirectEnabled":false,"redirectUrl":"","redirectCode":null,"eventEnabled":false,"eventKey":"","eventValue":"","codesnippetEnabled":true,"codesnippetCode":"<!-- BEGIN LivePerson Monitor. -->\n<script type=\"text\/javascript\">window.lpTag=window.lpTag||{},\"undefined\"==typeof window.lpTag._tagCount?(window.lpTag={site:'73093279'||\"\",section:lpTag.section||\"\",tagletSection:lpTag.tagletSection||null,autoStart:lpTag.autoStart!==!1,ovr:lpTag.ovr||{},_v:\"1.8.0\",_tagCount:1,protocol:\"https:\",events:{bind:function(t,e,i){lpTag.defer(function(){lpTag.events.bind(t,e,i)},0)},trigger:function(t,e,i){lpTag.defer(function(){lpTag.events.trigger(t,e,i)},1)}},defer:function(t,e){0==e?(this._defB=this._defB||[],this._defB.push(t)):1==e?(this._defT=this._defT||[],this._defT.push(t)):(this._defL=this._defL||[],this._defL.push(t))},load:function(t,e,i){var n=this;setTimeout(function(){n._load(t,e,i)},0)},_load:function(t,e,i){var n=t;t||(n=this.protocol+\"\/\/\"+(this.ovr&&this.ovr.domain?this.ovr.domain:\"lptag.liveperson.net\")+\"\/tag\/tag.js?site=\"+this.site);var a=document.createElement(\"script\");a.setAttribute(\"charset\",e?e:\"UTF-8\"),i&&a.setAttribute(\"id\",i),a.setAttribute(\"src\",n),document.getElementsByTagName(\"head\").item(0).appendChild(a)},init:function(){this._timing=this._timing||{},this._timing.start=(new Date).getTime();var t=this;window.attachEvent?window.attachEvent(\"onload\",function(){t._domReady(\"domReady\")}):(window.addEventListener(\"DOMContentLoaded\",function(){t._domReady(\"contReady\")},!1),window.addEventListener(\"load\",function(){t._domReady(\"domReady\")},!1)),\"undefined\"==typeof window._lptStop&&this.load()},start:function(){this.autoStart=!0},_domReady:function(t){this.isDom||(this.isDom=!0,this.events.trigger(\"LPT\",\"DOM_READY\",{t:t})),this._timing[t]=(new Date).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],hooks:lpTag.hooks||[],ev:lpTag.ev||[]},lpTag.init()):window.lpTag._tagCount+=1;<\/script>\n<!-- END LivePerson Monitor. -->","codesnippetSelector":"head","codesnippetPosition":"end","programmaticallyEnabled":false,"personaId":0,"personaEnabled":false}},{"id":7,"name":"Marketo-PS-Cookie-Update","description":"update cookies to allow for Marketo to track paid search interactions","scope":"hit","active":true,"conditions":[{"url":".*","type":"url","operator":"and","bracketLeft":false,"bracketRight":false}],"actions":{"redirectEnabled":false,"redirectUrl":"","redirectCode":null,"eventEnabled":false,"eventKey":"","eventValue":"","codesnippetEnabled":true,"codesnippetCode":"<script type=\"text\/javascript\">\n$(document).ready(function() {\n\n\tfunction GetParameterValues(param) {  \n\t\tvar url = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');  \n\t\tfor (var i = 0; i < url.length; i++) {  \n\t\t\tvar urlparam = url[i].split('=');  \n\t\t\tif (urlparam[0] == param) {  \n\t\t\t\treturn urlparam[1];  \n\t\t\t}  \n\t\t}  \n\t}\n\tif(GetParameterValues('sem-cname')) {\n\t\t$.cookie('leadsource','Paid Search');\n\t\t$.cookie('leadsourcedetails','google');\n\t}\n});\n<\/script>","codesnippetSelector":"body","codesnippetPosition":"end","programmaticallyEnabled":false,"personaId":0,"personaEnabled":false}}];pimcore["targeting"]["personas"] = [];</script><script type="text/javascript" src="/pimcore/static6/js/frontend/targeting.js"></script>
+<script type="text/javascript" async="" src="https://t.sf14g.com/sf14g.js"></script><script type="text/javascript" async="" src="https://t.sf14g.com/sf14g.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-DG2P"></script><script type="text/javascript">var pimcore = pimcore || {};pimcore["targeting"] = {};pimcore["targeting"]["dataPush"] = {"personas":[],"method":"get","document":1117};pimcore["targeting"]["targetingRules"] = [];pimcore["targeting"]["personas"] = [];</script><script type="text/javascript" src="/pimcore/static6/js/frontend/targeting.js"></script>
         <!-- Start of Neustar Real User Measurements code -->
 <script type="text/javascript">
     var ns_rum = {};
@@ -53,6 +53,8 @@
 <meta name="description" content="Learn about Neustar's commitment to privacy and read the privacy policies and privacy principles. ">
 <meta name="keywords" content="">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@Neustar">
 <meta name="twitter:title" content="Privacy | Neustar">
 <meta name="twitter:description" content="Learn about Neustar's commitment to privacy and read the privacy policies and privacy principles. ">
 <meta name="twitter:site" content="@Neustar">
@@ -123,6 +125,74 @@
         "ipIntelliprScore": (typeof ipIntelliprScore !== 'undefined') ? ipIntelliprScore : ""
     }];
 </script>
+        <!-- BEGIN LivePerson Monitor. -->
+        <script type="text/javascript">
+            $(document).ready(function() {
+                if(window.location.hostname === 'www.security.neustar') {
+                    window.lpTag = window.lpTag || {}, "undefined" == typeof window.lpTag._tagCount ? (window.lpTag = {
+                        site: '73093279' || "",
+                        section: lpTag.section || "",
+                        tagletSection: lpTag.tagletSection || null,
+                        autoStart: lpTag.autoStart !== !1,
+                        ovr: lpTag.ovr || {},
+                        _v: "1.8.0",
+                        _tagCount: 1,
+                        protocol: "https:",
+                        events: {
+                            bind: function (t, e, i) {
+                                lpTag.defer(function () {
+                                    lpTag.events.bind(t, e, i)
+                                }, 0)
+                            }, trigger: function (t, e, i) {
+                                lpTag.defer(function () {
+                                    lpTag.events.trigger(t, e, i)
+                                }, 1)
+                            }
+                        },
+                        defer: function (t, e) {
+                            0 == e ? (this._defB = this._defB || [], this._defB.push(t)) : 1 == e ? (this._defT = this._defT || [], this._defT.push(t)) : (this._defL = this._defL || [], this._defL.push(t))
+                        },
+                        load: function (t, e, i) {
+                            var n = this;
+                            setTimeout(function () {
+                                n._load(t, e, i)
+                            }, 0)
+                        },
+                        _load: function (t, e, i) {
+                            var n = t;
+                            t || (n = this.protocol + "//" + (this.ovr && this.ovr.domain ? this.ovr.domain : "lptag.liveperson.net") + "/tag/tag.js?site=" + this.site);
+                            var a = document.createElement("script");
+                            a.setAttribute("charset", e ? e : "UTF-8"), i && a.setAttribute("id", i), a.setAttribute("src", n), document.getElementsByTagName("head").item(0).appendChild(a)
+                        },
+                        init: function () {
+                            this._timing = this._timing || {}, this._timing.start = (new Date).getTime();
+                            var t = this;
+                            window.attachEvent ? window.attachEvent("onload", function () {
+                                t._domReady("domReady")
+                            }) : (window.addEventListener("DOMContentLoaded", function () {
+                                t._domReady("contReady")
+                            }, !1), window.addEventListener("load", function () {
+                                t._domReady("domReady")
+                            }, !1)), "undefined" == typeof window._lptStop && this.load()
+                        },
+                        start: function () {
+                            this.autoStart = !0
+                        },
+                        _domReady: function (t) {
+                            this.isDom || (this.isDom = !0, this.events.trigger("LPT", "DOM_READY", {t: t})), this._timing[t] = (new Date).getTime()
+                        },
+                        vars: lpTag.vars || [],
+                        dbs: lpTag.dbs || [],
+                        ctn: lpTag.ctn || [],
+                        sdes: lpTag.sdes || [],
+                        hooks: lpTag.hooks || [],
+                        ev: lpTag.ev || []
+                    }, lpTag.init()) : window.lpTag._tagCount += 1;
+                    <!-- END LivePerson Monitor. -->
+                }
+            });
+        </script>
+
     
 
 <!-- Google Tag Manager -->
@@ -310,7 +380,7 @@ $(document).ready(function() {
 		<li><a href="https://ipintelligence.neustar.biz/apps/login/?CL=gp.od.dev.nsr" id="gtm.sitew.login-ipi" target="_blank">IP Intelligence</a></li>
 		<li><a href="https://decisioncloud.marketshare.com" id="gtm.sitew.login-decisioncloud" target="_blank">MarketShare DecisionCloud</a></li>
 		<li><a href="https://dashboard.p1.neustar.biz/#/login" id="gtm.sitew.login-p1" target="_blank">PlatformOne</a></li>
-		<li><a href="https://siteprotect.neustar.biz" id="gtm.sitew.login-siteprotect" target="_blank">SiteProtect</a></li>
+		<li><a href="https://siteprotect.security.neustar" id="gtm.sitew.login-siteprotect" target="_blank">SiteProtect NG</a></li>
 		<li><a href="https://portal.ultradns.com" id="gtm.sitew.login-ultradns" target="_blank">UltraDNS</a></li>
 		<li><a href="https://www2.webmetrics.com/mod3/cpcgi/cp.cgi" id="gtm.sitew.login-webmetrics" target="_blank">Webmetrics</a></li>
 		<li><a href="https://home.wpm.neustar.biz/#login" id="gtm.sitew.login-wpm" target="_blank">Web Performance</a></li>
@@ -336,29 +406,223 @@ $(document).ready(function() {
     <section class="full masthead">
         <div class="container_12">
             <script type="text/javascript">
-// for mobile nav trigger
-$(document).ready(function() {
-$('#mtrigger').click(function(){
-$('body').toggleClass('mobile');
-});
-});
+    // for mobile nav trigger
+    $(document).ready(function () {
+        $('#mtrigger').click(function () {
+            $('body').toggleClass('mobile');
+        });
+    });
 </script>
 <div class="grid_12">
-<div class="brand"><a href="/"><svg enable-background="new 0 0 414 83.6" id="neustar-logo" viewBox="0 0 414 83.6" xml:space="preserve"> <g> <path d="M96.1,10.3c-9,0-16.2,3.3-21.1,8.4c-6.4,6.5-9.5,15.9-9.5,26.5c0,10.8,3.6,20.1,10.2,26.5c5.2,5,11.8,8.1,20.9,8.1c8.4,0,16.7-2.7,22.3-9.3c2.5-3,5.1-8.1,5.6-12h-15c-0.7,2.4-1.8,4.2-3.2,5.6c-2.3,2.3-5.2,3.2-9.8,3.2c-4.4,0-7.6-1.9-10-4.1c-3.1-3-4.9-7.7-4.9-12.6c0-0.2,0-0.4,0-0.5l0-0.2h44.5c0-1.5,0.1-4.3,0.1-4.3c0-0.7,0-1.4,0-2.1c0-7.5-1.3-14.3-5.8-21C114.8,14.3,105.9,10.3,96.1,10.3z M81.2,38.6v-0.2c0.1-4.4,1.2-7.5,3.5-10.5c2.3-3.1,6.3-5.2,11.3-5.2c4.6,0,8,1.6,10.2,3.9c2.6,2.8,4,6.7,4.1,11.7l0,0.2H81.2z" fill="#05cc79"></path> <path d="M34.2,10.3c-7.6,0-15.5,3.2-19.4,10.2L14.5,21v-9H0.2v66.2h15.7V49.5c0-5.3,0.1-11.4,2.2-16.1c2.2-4.9,6-8.5,11.7-8.5c4.3,0,7.1,1.2,8.8,3.4c1.7,2.2,2.4,5.4,2.4,9.3v40.6h15.7V34C56.6,20.2,48.3,10.3,34.2,10.3z" fill="#05cc79"></path> <path d="M176.4,47c0,5.4-1,11.4-4.9,15.1c-1.9,2-4.6,3.4-8.3,3.4c-4.3,0-7.2-1.2-9-3.5c-1.9-2.2-2.6-5.4-2.6-9.4V12h-15.7v44.2c0,14.1,8.7,23.6,22.9,23.6c8.4,0,16.1-3.7,19.2-10.2v13.8l14.1-11.2V12h-15.7V47z" fill="#05cc79"></path> <path d="M409.3,11.1c-7.8,0-15.9,3.1-19,10.7V12h-14.6v66.2h15.8V44.8c0-5.4,1.5-10.1,4.4-13.5c2.9-3.4,7.2-5.4,12.9-5.4c1.7,0,3.6,0.2,5.3,0.6v-15C412.5,11.2,410.9,11.1,409.3,11.1z" fill="#05cc79"></path> <path d="M284.4,63c-1.3-1.2-1.8-3.1-1.8-5.7V31.6h16.8V18.8h-16.8V0l-15.7,12.5v46.3c0,12.7,6.6,20.3,19.9,20.3c4.7,0,9.1-0.6,13.5-1.8V64.2c-4.3,0.5-6.9,0.6-10.2,0.6C287.6,64.8,285.7,64.3,284.4,63z" fill="#05cc79"></path> <path d="M240.6,39.2c-1.4-0.2-2.6-0.4-3.7-0.6c-0.3-0.1-0.7-0.1-1-0.1c-0.2,0-0.5-0.1-0.7-0.1c-0.2,0-0.4-0.1-0.6-0.1l-4.1,3.3l4.1-3.3c-2.5-0.3-4.5-0.6-8.2-1c-3.6-0.5-7.8-2-7.8-6.9c0-2.9,2.1-4.5,4.1-5.6c2-1.2,5-1.6,8-1.6c0,0,0,0,0,0c6.5,0,10.9,2.7,14,6.2l0.4,0.5l11-8.7c-0.1-0.2-0.2-0.3-0.4-0.5c-0.1-0.1-0.1-0.2-0.2-0.3l-0.1-0.1c-0.3-0.5-0.7-0.9-1.1-1.3c-0.3-0.4-0.7-0.7-1-1.1c-5.6-5.3-13.8-7.4-21.8-7.4c-6.8,0-13.6,1.6-18.9,5c-4,2.6-7,6.3-8.2,11.1c-0.3,1.3-0.5,2.6-0.5,4c0,0.2,0,0.8,0,1.5c0,0.1,0,0.3,0,0.4c0,0.9,0.1,1.9,0.2,2.3c1.2,7.1,6.9,13.1,14.9,14.8c0.4,0.1,0.9,0.2,1.3,0.3l0,0c0.2,0,0.5,0.1,0.7,0.1c0.1,0,0.2,0,0.4,0.1c5.2,0.9,10.9,1.3,16,2.1c3.8,0.6,6.8,2.7,6.8,6.1c0,3-2,4.6-3.3,5.5c-1.8,1.2-3.7,1.9-5.3,2.3c-1.9,0.5-4.1,0.5-5.7,0.5c-2.7,0-4.9-0.4-6.6-0.8c-5.2-1.5-10-5.4-12.4-8.4l-11.1,8.9c0.9,1.2,4.5,5.4,9.4,8.2c6.9,3.9,13.3,5.4,19.8,5.4c7.3,0,14.4-1.3,20-4.7c5.5-3.3,9.5-8.5,9.6-15.8c0-0.5,0.1-0.9,0.1-1.4C258.6,47.4,251,40.9,240.6,39.2z" fill="#05cc79"></path> <path d="M337.8,10.3c-14.7,0-26.5,6.6-27.5,21.3h15.4c0.5-6,4.8-9.2,12.1-9.2c9,0,11.2,4.2,11.2,10.4v4.1l-19.5,1.4c-12.6,0.9-22.4,8.2-22.4,20.8c0,1,0.1,2,0.2,2.9c1.3,9.6,9.4,17.8,23.7,17.8c0.3,0,1,0,1,0c8.4-0.6,14.7-5,16.9-9.9v8.3h15.5v-41c0-4.5-0.3-9.2-1.9-13.4C358.8,13.9,349.1,10.3,337.8,10.3z M349,51.8c0,9.8-7,15.1-16.9,15.1c-5,0-9.4-3.2-9.4-8.3c0-5.3,4.7-8.3,9.5-8.7l16.8-1.3V51.8z" fill="#05cc79"></path> <path d="M407.9,65.4c-3.6,0-6.3,2.8-6.3,6.4c0,3.6,2.7,6.4,6.3,6.4c3.6,0,6.3-2.8,6.3-6.4C414.2,68.2,411.5,65.4,407.9,65.4z M407.9,77.1c-3.1,0-5.1-2.2-5.1-5.3c0-3,2-5.3,5.1-5.3c3.1,0,5.1,2.2,5.1,5.3C413,74.8,411,77.1,407.9,77.1z" fill="#05cc79"></path> <path d="M410.5,70.4c0-1.4-1.1-2.1-2.4-2.1h-2.5V75h1.2v-2.5h1.3l1.1,2.5h1.3l-1.2-2.7C410.1,72,410.5,71.3,410.5,70.4z M408.1,71.5h-1.3v-2.1h1.3c0.6,0,1.2,0.3,1.2,1C409.3,71.1,408.8,71.5,408.1,71.5z" fill="#05cc79"></path> </g> </svg></a></div>
-
+<div class="brand"><a href="/"><svg enable-background="new 0 0 414 83.6" id="neustar-logo" viewBox="0 0 414 83.6" xml:space="preserve"> <g> <path d="M96.1,10.3c-9,0-16.2,3.3-21.1,8.4c-6.4,6.5-9.5,15.9-9.5,26.5c0,10.8,3.6,20.1,10.2,26.5c5.2,5,11.8,8.1,20.9,8.1c8.4,0,16.7-2.7,22.3-9.3c2.5-3,5.1-8.1,5.6-12h-15c-0.7,2.4-1.8,4.2-3.2,5.6c-2.3,2.3-5.2,3.2-9.8,3.2c-4.4,0-7.6-1.9-10-4.1c-3.1-3-4.9-7.7-4.9-12.6c0-0.2,0-0.4,0-0.5l0-0.2h44.5c0-1.5,0.1-4.3,0.1-4.3c0-0.7,0-1.4,0-2.1c0-7.5-1.3-14.3-5.8-21C114.8,14.3,105.9,10.3,96.1,10.3z M81.2,38.6v-0.2c0.1-4.4,1.2-7.5,3.5-10.5c2.3-3.1,6.3-5.2,11.3-5.2c4.6,0,8,1.6,10.2,3.9c2.6,2.8,4,6.7,4.1,11.7l0,0.2H81.2z" fill="#05cc79"></path> <path d="M34.2,10.3c-7.6,0-15.5,3.2-19.4,10.2L14.5,21v-9H0.2v66.2h15.7V49.5c0-5.3,0.1-11.4,2.2-16.1c2.2-4.9,6-8.5,11.7-8.5c4.3,0,7.1,1.2,8.8,3.4c1.7,2.2,2.4,5.4,2.4,9.3v40.6h15.7V34C56.6,20.2,48.3,10.3,34.2,10.3z" fill="#05cc79"></path> <path d="M176.4,47c0,5.4-1,11.4-4.9,15.1c-1.9,2-4.6,3.4-8.3,3.4c-4.3,0-7.2-1.2-9-3.5c-1.9-2.2-2.6-5.4-2.6-9.4V12h-15.7v44.2c0,14.1,8.7,23.6,22.9,23.6c8.4,0,16.1-3.7,19.2-10.2v13.8l14.1-11.2V12h-15.7V47z" fill="#05cc79"></path> <path d="M409.3,11.1c-7.8,0-15.9,3.1-19,10.7V12h-14.6v66.2h15.8V44.8c0-5.4,1.5-10.1,4.4-13.5c2.9-3.4,7.2-5.4,12.9-5.4c1.7,0,3.6,0.2,5.3,0.6v-15C412.5,11.2,410.9,11.1,409.3,11.1z" fill="#05cc79"></path> <path d="M284.4,63c-1.3-1.2-1.8-3.1-1.8-5.7V31.6h16.8V18.8h-16.8V0l-15.7,12.5v46.3c0,12.7,6.6,20.3,19.9,20.3c4.7,0,9.1-0.6,13.5-1.8V64.2c-4.3,0.5-6.9,0.6-10.2,0.6C287.6,64.8,285.7,64.3,284.4,63z" fill="#05cc79"></path> <path d="M240.6,39.2c-1.4-0.2-2.6-0.4-3.7-0.6c-0.3-0.1-0.7-0.1-1-0.1c-0.2,0-0.5-0.1-0.7-0.1c-0.2,0-0.4-0.1-0.6-0.1l-4.1,3.3l4.1-3.3c-2.5-0.3-4.5-0.6-8.2-1c-3.6-0.5-7.8-2-7.8-6.9c0-2.9,2.1-4.5,4.1-5.6c2-1.2,5-1.6,8-1.6c0,0,0,0,0,0c6.5,0,10.9,2.7,14,6.2l0.4,0.5l11-8.7c-0.1-0.2-0.2-0.3-0.4-0.5c-0.1-0.1-0.1-0.2-0.2-0.3l-0.1-0.1c-0.3-0.5-0.7-0.9-1.1-1.3c-0.3-0.4-0.7-0.7-1-1.1c-5.6-5.3-13.8-7.4-21.8-7.4c-6.8,0-13.6,1.6-18.9,5c-4,2.6-7,6.3-8.2,11.1c-0.3,1.3-0.5,2.6-0.5,4c0,0.2,0,0.8,0,1.5c0,0.1,0,0.3,0,0.4c0,0.9,0.1,1.9,0.2,2.3c1.2,7.1,6.9,13.1,14.9,14.8c0.4,0.1,0.9,0.2,1.3,0.3l0,0c0.2,0,0.5,0.1,0.7,0.1c0.1,0,0.2,0,0.4,0.1c5.2,0.9,10.9,1.3,16,2.1c3.8,0.6,6.8,2.7,6.8,6.1c0,3-2,4.6-3.3,5.5c-1.8,1.2-3.7,1.9-5.3,2.3c-1.9,0.5-4.1,0.5-5.7,0.5c-2.7,0-4.9-0.4-6.6-0.8c-5.2-1.5-10-5.4-12.4-8.4l-11.1,8.9c0.9,1.2,4.5,5.4,9.4,8.2c6.9,3.9,13.3,5.4,19.8,5.4c7.3,0,14.4-1.3,20-4.7c5.5-3.3,9.5-8.5,9.6-15.8c0-0.5,0.1-0.9,0.1-1.4C258.6,47.4,251,40.9,240.6,39.2z" fill="#05cc79"></path> <path d="M337.8,10.3c-14.7,0-26.5,6.6-27.5,21.3h15.4c0.5-6,4.8-9.2,12.1-9.2c9,0,11.2,4.2,11.2,10.4v4.1l-19.5,1.4c-12.6,0.9-22.4,8.2-22.4,20.8c0,1,0.1,2,0.2,2.9c1.3,9.6,9.4,17.8,23.7,17.8c0.3,0,1,0,1,0c8.4-0.6,14.7-5,16.9-9.9v8.3h15.5v-41c0-4.5-0.3-9.2-1.9-13.4C358.8,13.9,349.1,10.3,337.8,10.3z M349,51.8c0,9.8-7,15.1-16.9,15.1c-5,0-9.4-3.2-9.4-8.3c0-5.3,4.7-8.3,9.5-8.7l16.8-1.3V51.8z" fill="#05cc79"></path> <path d="M407.9,65.4c-3.6,0-6.3,2.8-6.3,6.4c0,3.6,2.7,6.4,6.3,6.4c3.6,0,6.3-2.8,6.3-6.4C414.2,68.2,411.5,65.4,407.9,65.4z M407.9,77.1c-3.1,0-5.1-2.2-5.1-5.3c0-3,2-5.3,5.1-5.3c3.1,0,5.1,2.2,5.1,5.3C413,74.8,411,77.1,407.9,77.1z" fill="#05cc79"></path> <path d="M410.5,70.4c0-1.4-1.1-2.1-2.4-2.1h-2.5V75h1.2v-2.5h1.3l1.1,2.5h1.3l-1.2-2.7C410.1,72,410.5,71.3,410.5,70.4z M408.1,71.5h-1.3v-2.1h1.3c0.6,0,1.2,0.3,1.2,1C409.3,71.1,408.8,71.5,408.1,71.5z" fill="#05cc79"></path> </g> </svg> </a></div>
+<style type="text/css">header nav .nav-solutions .dropdown {
+    left:-287px;
+    width:1200px;
+    height:auto;
+}
+    .col-wrapper {
+        display:flex;
+        flex-direction:row;
+        flex-wrap:wrap;
+    }
+    header nav .nav-solutions .dropdown .col {
+        width:20%;
+        box-sizing:border-box;
+        padding:0 20px;
+        transition: all 0.2s ease;
+        border-left:1px solid #eee;
+    }
+    header nav .nav-solutions .dropdown .col.marketing {border:none;}
+    header nav .nav-solutions .dropdown .col:hover,
+    header nav .nav-solutions .dropdown .col.active {
+        opacity:1 !important;
+        transition: all 0.2s ease;
+    }
+    header nav .nav-solutions .dropdown h5 {
+        font-family:'apercu-regular', Arial, Helvetica, sans-serif;
+        margin:0 ;
+        padding:10px 0;
+        font-size:17px;
+        border-bottom:3px solid #24d07a;
+    }
+    header nav .nav-solutions .dropdown .col h5 a:hover {color:#24d07a;}
+    header nav .nav-solutions .dropdown .col h6 {
+        margin:0 0 10px 0;
+        padding:10px 0 0;
+        font-family:'apercu-regular', Arial, Helvetica, sans-serif;
+        font-size:16px;
+        border-top:1px solid #eee;
+    }
+    header nav .nav-solutions .dropdown .col h6.lead {border:none;}
+    header nav .nav-solutions .dropdown .col a {
+        padding:0;
+        background:none;
+    }
+    header nav .nav-solutions .dropdown .col a:hover {background:none;}
+    header nav .nav-solutions .dropdown .col h6 a {color:#c446b4;}
+    header nav .nav-solutions .dropdown .col h6 a:hover {color:#24d07a;}
+    header nav .nav-solutions .dropdown ul {
+        margin:0 10px 10px 0;
+        font-size:14px;
+        font-weight:normal;
+    }
+    header nav .nav-solutions .dropdown ul li {
+        float:none;
+        display:block;
+        margin:0 0 7px;
+        font-family: "apercu-regular", arial, verdana, sans-serif;
+        font-size:13px;
+        line-height:1.25;
+    }
+    header nav .nav-solutions .dropdown ul li a {color:#666;}
+</style>
+<script>
+// for nav flyout
+$(document).ready(function () {
+    $('.dropdown .col').hover(function () {
+        $('.dropdown .col').css('opacity' , 0.5);
+        $('.dropdown .col').removeClass('active');
+        $(this).addClass('active');
+    });
+    $('.dropdown').mouseleave(function () {
+        $('.dropdown .col').css('opacity' , 1);
+        $('.dropdown .col').removeClass('active');
+    });
+});
+</script>
 <nav class="primary alt">
 <ul>
 	<li class="nav-oneid"><a href="/identity">Identity</a></li>
 	<li class="drop nav-solutions"><a href="#">Solutions</a>
 	<div class="dropdown">
+	<div class="col-wrapper">
+	<div class="col marketing">
+	<h5><a href="https://www.marketing.neustar">Marketing</a></h5>
+
+	<h6 class="lead"><a href="https://www.marketing.neustar/adadvisor">AdAdvisor</a></h6>
+
+	<h6><a href="https://www.marketing.neustar/customer-analytics">Customer Analytics</a></h6>
+
 	<ul>
-		<li><a href="https://www.marketing.neustar">Marketing Solutions</a></li>
-		<li><a href="https://www.security.neustar">Digital Defense &amp; Performance Solutions</a></li>
-		<li><a href="https://www.risk.neustar">Risk Solutions</a></li>
-		<li><a href="https://www.communications.neustar">Communications Solutions</a></li>
-		<li><a href="https://www.registry.neustar">Registry Solutions</a></li>
-		<li><a href="/professional-services">Professional Services</a></li>
+		<li><a href="https://www.marketing.neustar/customer-analytics/marketing-planning">Marketing Mix Modeling</a></li>
+		<li><a href="https://www.marketing.neustar/customer-analytics/multi-touch-attribution">Multi-touch Attribution</a></li>
+		<li><a href="https://www.marketing.neustar/customer-analytics/unified-marketing-analytics">Unified Marketing Analytics</a></li>
 	</ul>
+
+	<h6><a href="https://www.marketing.neustar/customer-experience">Customer Experience</a></h6>
+
+	<ul>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/precision-customer-targeting-at-scale">Data Onboarding</a></li>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/data-science-development-kit">Data Science Development Kit</a></li>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/the-neustar-idmp-difference-people-based-marketing">Identity DMP</a></li>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/omni-channel-remarketing">Omnichannel Remarketing</a></li>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/pageadvisor-website-personalization">Website Personalization</a></li>
+	</ul>
+
+	<h6><a href="https://www.marketing.neustar/customer-intelligence">Customer Intelligence</a></h6>
+
+	<ul>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/better-customer-identity-management">Consumer Identity Management</a></li>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/customer-scoring-and-segmentation-platform">Customer Scoring &amp; Segmentation</a></li>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/lead-intelligence-identification-and-scoring">Lead Intelligence</a></li>
+		<li><a href="https://www.marketing.neustar/resources/product-literature/crm-onboarding-solution-sheet">Synthetic CRM Onboarding</a></li>
+	</ul>
+
+	<h6><a href="https://www.marketing.neustar/professional-services">Professional Services</a></h6>
+	</div>
+
+	<div class="col security">
+	<h5><a href="https://www.security.neustar">Defense &amp; Performance</a></h5>
+
+	<h6 class="lead"><a href="https://www.security.neustar/digital-defense">Digital Defense</a></h6>
+
+	<ul>
+		<li><a href="https://www.security.neustar/digital-defense/ddos-protection">DDoS Protection</a></li>
+		<li><a href="https://www.registry.neustar">Registry Services</a></li>
+		<li><a href="https://www.security.neustar/digital-defense/vulnerability-penetration-testing">Vulnerability &amp; Penetration Testing</a></li>
+		<li><a href="https://www.security.neustar/digital-defense/web-application-firewall">Web Application Firewall</a></li>
+	</ul>
+
+	<h6><a href="https://www.security.neustar/digital-performance">Digital Performance</a></h6>
+
+	<ul>
+		<li><a href="https://www.security.neustar/digital-performance/dns-services">DNS Services</a></li>
+		<li><a href="https://www.security.neustar/digital-performance/ip-intelligence">IP Intelligence</a></li>
+		<li><a href="https://www.registry.neustar">Registry Services</a></li>
+		<li><a href="https://www.security.neustar/digital-performance/web-performance-management">Website Performance Management</a></li>
+	</ul>
+
+	<h6><a href="https://www.security.neustar/professional-services">Professional Services</a></h6>
+	</div>
+
+	<div class="col risk">
+	<h5><a href="https://www.risk.neustar">Risk</a></h5>
+
+	<h6 class="lead"><a href="https://www.risk.neustar/compliance-intelligence">Compliance Intelligence</a></h6>
+
+	<ul>
+		<li><a href="https://www.risk.neustar/compliance-intelligence/tcpa">Contact Compliance Risk</a></li>
+	</ul>
+
+	<h6><a href="https://www.risk.neustar/fraud-intelligence">Fraud Intelligence</a></h6>
+
+	<h6><a href="https://www.risk.neustar/operational-intelligence">Operational Intelligence</a></h6>
+	</div>
+
+	<div class="col communications">
+	<h5><a href="https://www.communications.neustar">Communications</a></h5>
+
+	<h6 class="lead"><a href="https://www.communications.neustar/branded-contact-management">Branded Contact Management</a></h6>
+
+	<ul>
+		<li><a href="https://www.communications.neustar/branded-contact-management/enhanced-id">Branded Call Display</a></li>
+		<li><a href="https://www.communications.neustar/branded-contact-management/caller-name-optimization">Caller Name Optimization</a></li>
+		<li><a href="https://www.communications.neustar/branded-contact-management/listings-management">Listings Management</a></li>
+	</ul>
+
+	<h6><a href="https://www.communications.neustar/caller-intelligence">Caller Intelligence</a></h6>
+
+	<ul>
+		<li><a href="https://www.communications.neustar/caller-intelligence/caller-name-services">Caller ID (CNAM)</a></li>
+		<li><a href="https://www.communications.neustar/caller-intelligence/certified-id">Certified ID</a></li>
+		<li><a href="https://www.communications.neustar/caller-intelligence/subscriber-insights">Robocall Mitigation</a></li>
+	</ul>
+
+	<h6><a href="https://www.communications.neustar/global-numbering-insights">Global Numbering Insights</a></h6>
+
+	<ul>
+		<li><a href="https://www.communications.neustar/resources/product-literature/increase-delivery-performance">Domestic Number Resolution</a></li>
+		<li><a href="https://www.communications.neustar/global-numbering-insights/global-numbering-intelligence">Global Numbering Intelligence</a></li>
+		<li><a href="https://www.communications.neustar/global-numbering-insights/pathfinder">GSMA Pathfinder Global Number Resolution</a></li>
+	</ul>
+
+	<h6><a href="https://www.communications.neustar/order-management">Order Management Solutions</a></h6>
+
+	<ul>
+		<li><a href="https://www.communications.neustar/order-management/access-orders">Access Orders</a></li>
+		<li><a href="https://www.communications.neustar/order-management/local-orders">Local Orders</a></li>
+		<li><a href="https://www.communications.neustar/resources/product-literature/simplify-broadband-ordering-with-service-orchestration">Orchestration</a></li>
+	</ul>
+
+	<h6><a href="https://www.communications.neustar/professional-services">Professional Services</a></h6>
+	</div>
+
+	<div class="col registry">
+	<h5><a href="https://www.registry.neustar">Registry</a></h5>
+
+	<h6 class="lead"><a href="https://www.registry.neustar/dotbrands">.brands</a></h6>
+
+	<h6><a href="https://www.registry.neustar/services/operational">Compliance &amp; Abuse Monitoring</a></h6>
+
+	<h6><a href="https://www.registry.neustar/services/technical">Registry &amp; DNS Services</a></h6>
+
+	<h6><a href="https://www.registry.neustar/services/strategy">Registry Strategy Planning</a></h6>
+
+	<h6><a href="https://www.registry.neustar/services/professional">Professional Services</a></h6>
+	</div>
+
+	<div class="clr">&nbsp;</div>
+	</div>
 	</div>
 	</li>
 	<li class="nav-clients"><a href="/clients">Clients</a></li>
@@ -376,7 +640,17 @@ $('body').toggleClass('mobile');
 	</ul>
 	</div>
 	</li>
-	<li class="nav-blog"><a href="/blog">Blog</a></li>
+	<li class="drop nav-blog"><a href="#nogo">Blog</a>
+	<div class="dropdown">
+	<ul>
+		<li><a href="https://www.marketing.neustar/blog">Marketing</a></li>
+		<li><a href="https://www.security.neustar/blog">Digital Defense &amp; Performance</a></li>
+		<li><a href="https://www.risk.neustar/blog">Risk</a></li>
+		<li><a href="https://www.communications.neustar/blog">Communications</a></li>
+		<li><a href="https://www.registry.neustar/blog">Registry</a></li>
+	</ul>
+	</div>
+	</li>
 </ul>
 </nav>
 </div>
@@ -385,7 +659,7 @@ $('body').toggleClass('mobile');
 
 <div class="clr">&nbsp;</div>
 
-<div class="mSearch"><span class="search"><img alt="Site Search" border="0" src="https://ns-cdn.neustar.biz/creative_services/biz/neustar/www/base/img/2016/icon-search.png"></span></div>
+<div class="mSearch"><span class="search"><img alt="Site Search" border="0" src="https://ns-cdn.neustar.biz/creative_services/biz/neustar/www/base/img/2016/icon-search.png"> </span></div>
 
 <div class="search-container mobile">
 <form action="/search" id="searchForm" method="GET">
@@ -401,12 +675,12 @@ $('body').toggleClass('mobile');
     </section>    
 </header>        <a id="top"></a>
         <style type="text/css">h3.anchor:before {
-		display: block;
-		content: " ";
-		margin-top: -110px;
-		height: 110px;
-		visibility: hidden;
-	}
+    display: block;
+    content: " ";
+    margin-top: -110px;
+    height: 110px;
+    visibility: hidden;
+}
 </style>
 <section class="full intro">
 <div class="container_12">
@@ -421,7 +695,7 @@ $('body').toggleClass('mobile');
 <nav class="grid_12">
 <ul>
 	<li class="active"><a href="/privacy">Overview</a></li>
-	<li><a href="/privacy/privacy-policy">Privacy Policy</a></li>
+	<li><a href="/privacy/privacy-policy">Privacy Statement</a></li>
 	<li><a href="/privacy/privacy-principles">Privacy Principles</a></li>
 	<li><a href="/privacy/audience-planner">Advertising Audiences</a></li>
 </ul>
@@ -435,103 +709,147 @@ $('body').toggleClass('mobile');
 <article class="grid_8 main">
 <p><strong>Highlights of the Neustar Privacy Policy</strong></p>
 
-<p><em>Updated: May 18, 2018</em></p>
+<p><em>Updated: December 7, 2018</em></p>
 
-<p>Neustar uses Personal Information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the <a href="/privacy/privacy-policy">Neustar Privacy Policy</a> and <a href="/privacy/privacy-principles">Privacy Principles</a></p>
+<p>Neustar uses personal information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These "Highlights" summarize Neustar's privacy practices. You can learn more by clicking on the links below, and by reviewing the <a href="/privacy/privacy-policy">Neustar Privacy Statement</a> and <a href="/privacy/privacy-principles">Privacy Principles</a>.</p>
 
 <h3>Our Commitment – Privacy by Design</h3>
 
-<p>We follow the <a href="/privacy/privacy-principles">Neustar Privacy Principles</a>, including the principle of Privacy by Design, to design, build, and deliver products and services that respect your privacy.</p>
+<p>We follow the <a href="/privacy/privacy-principles">Neustar Privacy Principles</a>, including the principles of <a href="/privacy/privacy-policy-definitions">Privacy by Design</a>, to design, build, and deliver products and services that respect your privacy.</p>
+
+<h3>Personal Information: Types &amp; Sources</h3>
+
+<p>Neustar may collect, use, and disclose various types of information, including:</p>
+
+<ul>
+	<li><a href="/privacy/privacy-policy-definitions">PII</a> (Personally Identifiable Information)</li>
+	<li><a href="/privacy/privacy-policy-definitions">CRM Data</a> (Customer Relationship Management data)</li>
+	<li><a href="/privacy/privacy-policy-definitions">Pseudonymous IDs</a> including information linked to <a href="/privacy/privacy-policy-definitions">DIIs</a> (Device Identifiable Data) such as <a href="/privacy/privacy-policy-definitions">Cookies</a>, <a href="/privacy/privacy-policy-definitions">MAID</a> (Mobile Advertising IDs), <a href="/privacy/privacy-policy-definitions">Statistical IDs</a>, and other third-party identifiers that do not, by themselves, identify a specific individual.</li>
+	<li><a href="/privacy/privacy-policy-definitions">Attribute Data</a></li>
+	<li><a href="/privacy/privacy-policy-definitions">Log Data</a>, including <a href="/privacy/privacy-policy-definitions">Internet Log Data</a>, <a href="/privacy/privacy-policy-definitions">Event Data</a>, and <a href="/privacy/privacy-policy-definitions">Service Data</a></li>
+</ul>
+
+<p>Neustar collects this information from a wide variety of sources, both on and offline, such as:</p>
+
+<ul>
+	<li>Publicly available data sources such as directory listings</li>
+	<li>Reputable providers of licensed data derived from public and non-public sources</li>
+	<li>Individuals, such as survey respondents, who affirmatively agree to the data uses</li>
+	<li>Our customers, who provide their <a href="/privacy/privacy-policy-definitions">CRM Data</a> for our use in connection with our services</li>
+	<li>Information collected online via <a href="/privacy/privacy-policy-definitions">Pseudonymous IDs</a>, including <a href="/privacy/privacy-policy-definitions">DIIs</a>, <a href="/privacy/privacy-policy-definitions">Cookies</a>, <a href="/privacy/privacy-policy-definitions">Mobile Advertising IDs</a> or MAIDs, <a href="/privacy/privacy-policy-definitions">Statistical IDs</a>, and other persistent third-party identifiers that do not, by themselves, identify a specific individual</li>
+	<li><a href="/privacy/privacy-policy-definitions">Match Partners</a>, <a href="/privacy/privacy-policy-definitions">Coverage Partners</a>, <a href="/privacy/privacy-policy-definitions">Rotators</a>, and <a href="/privacy/privacy-policy-definitions">Cookie Sync Partners</a></li>
+	<li><a href="/privacy/privacy-policy-definitions">Log Data</a> and other information created in the course of providing our products and services</li>
+</ul>
 
 <h3>Personal Information Collection, Use, and Disclosure</h3>
 
-<p>We collect <a href="/privacy/privacy-policy#personal-info">Personal Information</a> from you directly and from businesses that use our products and services. We use registration data, including Personal Information, supplied by our online <a href="/privacy/privacy-policy#match-partners">Match Partners</a> to set <a href="/privacy/privacy-policy#cookies">AdAdvisor Cookies</a> and/or <a href="/privacy/privacy-policy#cookies">Aggregate Knowledge Cookies</a>, which do not contain or convey Personal Information. Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties. We do not use Sensitive Personal Information without your permission.</p>
-
-<p>Read our full <a href="/privacy/privacy-policy">Privacy Policy</a> or click on the links below to learn more about the Personal Information we collect and how we use it:</p>
+<p>Read our full <a href="/privacy/privacy-policy">Neustar Privacy Statement</a> to learn more about the Personal Information we collect and how we use it:</p>
 
 <ul>
-	<li><a href="/privacy/privacy-policy#info-you-provide">Data Collected On Our Websites</a></li>
-	<li><a href="/privacy/privacy-policy#data_in_products_services">Data Collected and Used to Provide Neustar Products and Services</a></li>
-	<li><a href="/privacy/privacy-policy#other-use">Other Use and Disclosure of Personal Information</a></li>
+	<li>Data collected about <a href="/privacy/privacy-policy#websitevisitors">Website Visitors</a></li>
+	<li><a href="/privacy/privacy-policy#dataprocessed">Data Processed to Provide Neustar Products and Services</a></li>
+	<li><a href="/privacy/privacy-policy#otheruse">Other Use and Disclosure of Personal Information</a></li>
 </ul>
 
-<h3 class="anchor" id="cookies">Cookies, Advertising IDs and Other Technologies</h3>
+<h3>Cookies, Advertising IDs and Other Technologies</h3>
 
-<p>Neustar may use <a href="/privacy/privacy-policy#cookies">cookies</a>, <a href="/privacy/privacy-policy#web-beacons">web beacons</a>, <a href="/privacy/privacy-policy#pixel-tags">pixel tags</a>, javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with <a href="https://www.marketing.neustar/identity-data-management-platform">PlatformOne<sup>SM</sup></a> and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.</p>
+<p>We may use <a href="/privacy/privacy-policy-definitions">Cookies</a>, <a href="/privacy/privacy-policy-definitions">Mobile Advertising IDs</a> or MAIDs, <a href="/privacy/privacy-policy-definitions">Statistical IDs</a>, <a href="/privacy/privacy-policy-definitions">Web Beacons</a>, <a href="/privacy/privacy-policy-definitions">Pixel Tags</a>, <a href="/privacy/privacy-policy-definitions">JavaScript</a>, <a href="/privacy/privacy-policy-definitions">HTML5 Local Storage</a>, or similar technologies, along with other information described in our <a href="/privacy/privacy-policy">Privacy Statement</a> to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. These technologies do not identify you to us unless you have voluntarily identified yourself on our websites. If you've set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. You can refuse cookies by turning them off in your browser, but some of the features on our site may not work if you do. Various browsers may offer their own management tools for removing HTML5 local storage.</p>
 
-<p>Read our full <a href="/privacy/privacy-policy">Privacy Policy</a> or click on the links below to learn more about the technologies we use:</p>
+<p>To learn more about how we use these technologies, read our full <a href="/privacy/privacy-policy#cookies">Privacy Statement</a> click here:</p>
 
 <ul>
-	<li><a href="/privacy/privacy-policy#cookies">Website Cookies</a></li>
-	<li><a href="/privacy/privacy-policy#segment-codes">Analytics and Segmentation Cookies</a></li>
-	<li><a href="/privacy/privacy-policy#mobile-advertising-id">Mobile Advertising IDs</a></li>
+	<li><a href="/privacy/privacy-policy#websitecookies">Website Cookies</a></li>
+	<li><a href="/privacy/privacy-policy#neustarcookies">Neustar Services Cookies</a></li>
+	<li><a href="/privacy/privacy-policy#maids">Mobile Advertising IDs</a></li>
+	<li><a href="/privacy/privacy-policy#webbeacon">Web Beacons</a></li>
 </ul>
 
-<h3 class="anchor" id="transparency">Transparency and Choice; Privacy Choices</h3>
+<h3>Transparency and Choice; Privacy Choices</h3>
 
-<h5>Cookies</h5>
+<h4>Cookies</h4>
 
 <ul>
-	<li>You can opt-out of the use of <a href="/privacy/privacy-policy#cookies">AdAdvisor Cookies</a> and <a href="/privacy/privacy-policy#cookies">AK Cookies</a> for Neustar Marketing Services on the <a href="/privacy/opt-out">Privacy Choices page</a> of our website.</li>
-	<li>You can also opt-out of the use of AdAdvisor Cookies and AK Cookies for Neustar Marketing Services by using the Digital Advertising Alliance (DAA) tool on the <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a> page.</li>
-	<li>You can opt-out of interest-based advertising served by companies that participate in the Digital Advertising Alliance's Consumer Choice tool by visiting <a href="http://aboutads.info/choices" target="_blank">http://aboutads.info/choices</a>.</li>
+	<li><a class="cookie-turn-off" href="#nogo">Click here to opt out</a> of the use of Cookies on Neustar websites</li>
+	<li>You can opt out of Neustar services <a href="/privacy/privacy-policy-definitions">Cookies</a> by clicking on the Neustar Choice Portal link in the <a href="/privacy/opt-out">Privacy Choices page</a> on our website. This will also permit you to opt-out of the use of <a href="/privacy/privacy-policy-definitions">Hashed eMail Addresses</a> and Android <a href="/privacy/privacy-policy-definitions">Mobile Advertising IDs</a>.</li>
+	<li>You can also opt out of the use of Neustar services Cookies by using the Network Advertising Initiative (NAI) Consumer <a href="http://optout.networkadvertising.org/?c=1#!/" target="_blank">Opt-Out tool</a>, the Digital Advertising Alliance (DAA) <a href="http://www.aboutads.info/choices/" target="_blank">tool here</a>, or the European Digital Advertising Alliance (EDAA) <a href="http://www.youronlinechoices.eu/" target="_blank">Opt-Out tool</a>.</li>
 </ul>
 
-<h5>Mobile Advertising IDs</h5>
+<h4>Mobile Advertising IDs or MAIDs</h4>
+
+<p>You can opt-out of our use of <a href="/privacy/privacy-policy-definitions">Mobile Advertising IDs</a> or MAIDs set by Android devices via the Neustar Choice Portal link in the <a href="/privacy/opt-out">Privacy Choices page</a> on our website. Because Apple does not disclose their IDFA to users, we are not able to establish a block based on an Apple MAID (IDFA) in our system. In addition:</p>
 
 <ul>
-	<li>Apple’s iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: <a href="http://support.apple.com/kb/HT4228" target="_blank">IDFA Opt-Out</a>.</li>
-	<li>Similar to IDFA for Apple devices, Android devices pass Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising on the <a href="http://www.google.com/policies/technologies/ads/" target="_blank">Google Privacy &amp; Terms</a> webpage.</li>
+	<li>Apple's iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: IDFA Opt-Out.</li>
+	<li>Similar to IDFA for Apple devices, Android devices pass the Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile devices are used for advertising and receive instruction for how to opt out of mobile advertising on the Google Privacy &amp; Terms webpage.</li>
 </ul>
 
-<p>Please note that opting out does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.</p>
+<h4>Hashed eMail Addresses</h4>
 
-<p>Your choice to opt-out from the use of AK and AdAdvisor cookies will not affect ads placed by any other organization.</p>
+<p>You can opt-out of our use of your <a href="/privacy/privacy-policy-definitions">Hashed Email Addresses</a> in connection with Neustar services by clicking on the Neustar Choice Portal link in the <a href="/privacy/opt-out">Privacy Choices page</a> on our website. We will retain your email address on an internal "block" list to prevent its further use in connection with Neustar services. Please note that opting out of Neustar's processing of your data does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.</p>
 
-<p>We comply with privacy choice&nbsp;requests by placing an “opt-out cookie” on your computer or device. Consequently, if you clear your cookies on that computer or device, we will not be able to read our “opt-out cookie” and will resume collecting information from that computer or device for purposes of retargeting. Similarly, a privacy choice request will not be effective on other browsers, computers, or devices you may use if you have not opted out while using that browser, computer, or device.</p>
+<p>Your choice to use any of our opt-out tools will not affect ads placed by any other organization.</p>
 
-<h3>Accountability</h3>
+<h2>Accountability</h2>
 
-<p>Neustar is a member of the <a href="https://www.networkadvertising.org/" target="_blank">Network Advertising Initiative</a> (“NAI”) and the <a href="http://www.aboutads.info/" target="_blank">Digital Advertising Alliance</a> (“DAA”) and adheres to each organization’s Codes and Principles. You can also learn more about online advertising in general on the <a href="https://www.networkadvertising.org/" target="_blank">NAI</a> website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <a href="http://www.aboutads.info/" target="_blank">http://www.aboutads.info/</a> and <a href="http://youradchoices.com/" target="_blank">http://youradchoices.com/</a>.</p>
+<p>Neustar is a member of the <a href="https://www.networkadvertising.org/" target="_blank">Network Advertising Initiative</a> ("NAI") and the <a href="http://www.aboutads.info/" target="_blank">Digital Advertising Alliance</a> ("DAA") and adheres to each organization's Codes and Principles. You can also learn more about online advertising in general on the <a href="https://www.networkadvertising.org/" target="_blank">NAI</a> website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <a href="http://www.aboutads.info/" target="_blank">http://www.aboutads.info/</a> and <a href="http://youradchoices.com/" target="_blank">http://youradchoices.com/</a>.</p>
 
-<p>Aggregate Knowledge adheres to the European Interactive Digital Advertising Alliance’s (“EDAA”) principles. You may learn more about our participation in the EDAA’s program and online behavioral advertising at <a href="http://www.youronlinechoices.eu" target="_blank">www.youronlinechoices.eu</a>.</p>
+<p>We adhere to the European Interactive Digital Advertising Alliance's ("EDAA") principles. You may learn more about our participation in the EDAA's program and online behavioral advertising at <a href="http://www.youronlinechoices.eu" target="_blank">www.youronlinechoices.eu</a>.</p>
 
-<div class="align-center"><img alt="NAI logo" src="/corporate/img/nai_logo_final.gif"> <a href="//privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67" target="_blank" title="TRUSTe Privacy"><img alt="TRUSTe Privacy" src="//privacy-policy.truste.com/privacy-seal/seal?rid=4cc03577-a839-4234-a63b-cecf689ccb67" style="border: none"></a></div>
+<div class="a-ctr"><img alt="NAI logo" src="https://www.home.neustar/corporate/img/nai_logo_final.gif"> <a href="//privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67&amp;opt-out=true" target="_blank" title="TRUSTe Privacy"><img alt="TRUSTe Privacy" src="//privacy-policy.truste.com/privacy-seal/seal?rid=4cc03577-a839-4234-a63b-cecf689ccb67" style="border: none"></a></div>
 
-<h3>EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</h3>
+<h2>EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</h2>
 
-<p>Neustar, Inc. and its subsidiaries (i.e., Neustar Information Services, Inc., Aggregate Knowledge, Inc., MarketShare Holdings, Inc., Registry Services, LLC, Data Solutions Services, LLC, and Security Services, LLC, together, “Neustar”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List here: <a href="https://www.privacyshield.gov" target="_blank">https://www.privacyshield.gov</a>.</p>
+<p>Neustar and its subsidiaries, (i.e., Administrative Services, LLC, Aggregate Knowledge, LLC., Data Solutions Services, LLC, MarketShare Holdings, Inc., Neustar Information Services, Inc., Neustar, Inc., Registry Services, LLC, and Security Services, LLC, collectively "Neustar") participate in and have certified their compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce's <a href="https://www.privacyshield.gov/" target="_blank">Privacy Shield Framework</a> website. Information about Neustar's Privacy Shield certification is available on the <a href="https://www.privacyshield.gov/" target="_blank">Privacy Shield List</a>.</p>
 
-<p>Neustar is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Neustar complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.</p>
+<p>Neustar is responsible for the processing of personal data it receives, under the <a href="https://www.privacyshield.gov/" target="_blank">Privacy Shield Framework</a>, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.</p>
 
-<p>With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+<p>With respect to personal data received or transferred pursuant to the <a href="https://www.privacyshield.gov/EU-US-Framework" target="_blank">Privacy Shield Framework</a>, Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
 
-<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p>In compliance with the Privacy Shield Principles, Neustar commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Neustar at:</p>
 
-<p>Under certain conditions, more fully described on the <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">Privacy Shield</a> website here, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+<p>Neustar Privacy<br>
+21275 Ridgetop Circle<br>
+Sterling, VA 20166<br>
+Email: <a href="mailto:Privacy@team.neustar">Privacy@team.neustar</a></p>
 
-<p>European residents may also opt-out of the use of AK Cookies for online advertising at: <a href="http://www.youronlinechoices.eu" target="_blank">www.youronlinechoices.eu</a></p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily or timely, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>.</p>
 
-<h3>TRUSTe Certification</h3>
+<p>Under certain conditions, more fully described on the <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">Privacy Shield website here</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
 
-<p>Neustar, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p>European residents may also opt-out of our use of Cookies for online advertising at: <a href="http://www.youronlinechoices.eu" target="_blank">www.youronlinechoices.eu</a></p>
 
-<p>The TRUSTe program covers only information that is collected through this Web site, and the, IP Intelligence, PlatformOne, and UltraDNS platforms.</p>
+<h2>The Fine Print</h2>
 
-<h3>The Fine Print</h3>
-
-<p><a href="/privacy/privacy-policy">Click here</a> to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.</p>
+<p><a href="/privacy/privacy-policy">Click here</a> to read our full Privacy Statement and to learn more about our approach to children's privacy, data security, disclosures required by law or for other purposes, your rights under European data protection law, and your privacy rights under California law.</p>
 
 <p>Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.</p>
 
-<h3>Questions? Comments?</h3>
+<h2>Questions? Comments? Contact Us</h2>
 
-<p>Send us an email at: <a href="mailto:privacy@team.neustar">privacy@team.neustar</a></p>
+<p>Neustar Privacy<br>
+21275 Ridgetop Circle<br>
+Sterling, VA 20166<br>
+<a href="mailto:privacy@team.neustar">Email</a></p>
+
+<p><strong>Data Protection Officer:</strong><br>
+J. Beckwith Burr<br>
+Neustar, Inc.<br>
+21275 Ridgetop Circle<br>
+Sterling, VA 20166<br>
+<a href="mailto:privacy@team.neustar">Email</a></p>
+
+<p><strong>EU Representative:</strong><br>
+Neustar (UK) Limited/MarketShare Partners EMEA Ltd.<br>
+Attn: DPO<br>
+21 Palmer Street<br>
+London<br>
+SW1H 0AD<br>
+<a href="mailto:privacy@team.neustar">Email</a></p>
 </article>
 
 <aside class="grid_4 sidebar">
 <div class="callout">
-<p><a href="https://opt-out.home.neustar">Neustar Privacy Choices</a></p>
+<p><a href="/privacy/opt-out">Neustar Privacy Choices</a></p>
 
 <p><a href="/privacy/gdpr-what-you-need-to-know">GDPR: What You Need to Know</a></p>
 </div>
@@ -540,7 +858,16 @@ $('body').toggleClass('mobile');
 </div>
 </section>
 
-        
+        <script type="text/javascript">
+    // for expanders
+    $(document).ready(function () {
+        $('footer .expand').click(function () {
+            $(this).next('ul').slideToggle(400);
+            $(this).toggleClass('active');
+            return false;
+        });
+    });
+</script>
 <style styp="text/css" type="text/css">footer a:link,
     footer a:active,
     footer a:visited {
@@ -635,7 +962,7 @@ $('body').toggleClass('mobile');
 	<ul>
 		<li><a href="https://www.communications.neustar/branded-contact-management">Branded Contact Management</a></li>
 		<li><a href="https://www.communications.neustar/caller-intelligence">Caller Intelligence</a></li>
-		<li><a href="https://www.communications.neustar/routing-intelligence">Routing Intelligence</a></li>
+		<li><a href="https://www.communications.neustar/global-numbering-insights">Global Numbering Insights</a></li>
 		<li><a href="https://www.communications.neustar/order-management">Order Management Solutions</a></li>
 		<li><a href="https://www.communications.neustar/professional-services">Professional Services</a></li>
 	</ul>
@@ -691,9 +1018,9 @@ $('body').toggleClass('mobile');
 <div class="grid_12">
 <ul>
 	<li>Copyright ©2018 Neustar, Inc. All Rights Reserved</li>
-	<li class="f-privacy"><a href="https://www.home.neustar/privacy">Privacy</a></li>
+	<li class="f-privacy"><a href="https://www.home.neustar/privacy">Privacy</a> <em style="font-size:12px;color:#999;">(Updated 11/26/18)</em></li>
 	<li><a href="https://www.home.neustar/privacy#cookies">Your Ad Choices</a></li>
-	<li><a href="https://opt-out.home.neustar">Privacy Choices</a></li>
+	<li><a href="https://www.home.neustar/privacy/opt-out">Privacy Choices</a></li>
 	<li><a href="https://www.home.neustar/legal">Legal</a></li>
 	<li><a href="https://www.home.neustar/sitemap">Sitemap</a></li>
 	<li><a href="https://ebill.neustar.biz/" target="_blank">Payments</a></li>
@@ -703,12 +1030,46 @@ $('body').toggleClass('mobile');
 <div class="clr">&nbsp;</div>
 
 <div class="grid_12 truste">
-<p class="a-ctr"><a href="https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67" target="_blank" title="TRUSTe Privacy"><img alt="TRUSTe Privacy" src="//privacy-policy.truste.com/privacy-seal/seal?rid=4cc03577-a839-4234-a63b-cecf689ccb67" style="border: none"> </a></p>
+<p class="a-ctr"><a href="//privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67" target="_blank" title="TRUSTe Privacy"><img alt="TRUSTe Privacy" src="//privacy-policy.truste.com/privacy-seal/seal?rid=4cc03577-a839-4234-a63b-cecf689ccb67" style="border: none"> </a></p>
 </div>
 </div>
 </div>
 </footer>
-<!-- for rfi form -->
+<!-- for rfi form --><script type="text/javascript">
+    $(document).ready(function () {
+        $('.modal').hide();
+
+        $('.contact-rfi-trigger').click(function () {
+            $('#contact-rfi').fadeIn(250);
+            $('.modalbg.contact-modal').fadeIn(250);
+            return false;
+        });
+
+        // for DDoS Alert
+        $('.ddos-rfi-trigger').click(function () {
+            $('#ddos-rfi').fadeIn(250);
+            $('#ddosformContainer').fadeIn(250);
+            $('.modalbg.contact-modal').fadeIn(250);
+            $('#ddosconfirmform').hide();
+            return false;
+        });
+        $('.close').click(function () {
+            $(this).parent('.modal').fadeOut(500);
+            $('.modalbg.contact-modal').fadeOut(500);
+        });
+        $('.modalbg.contact-modal').click(function () {
+            $(this).fadeOut(500);
+            $('.modal').fadeOut(500);
+        });
+    });
+    $(document).keyup(function (e) {
+        if (e.keyCode == 27) {
+            $("#contact-rfi").fadeOut(500);
+            $("#ddos-rfi").fadeOut(500);
+            $('.modalbg.contact-modal').fadeOut(500);
+        }
+    });
+</script>
 <style type="text/css">.modalbg.contact-modal {
         display: block;
         position: fixed;
@@ -897,18 +1258,17 @@ Call +1-855-727-1209.</div>
 
 	<ul class="expContent">
 		<li><a href="https://www.marketing.neustar/">Marketing Home</a></li>
-		<li><a href="https://www.marketing.neustar/identity">Identity Data Management Platform (IDMP)</a></li>
 		<li><a href="https://www.marketing.neustar/customer-intelligence">Customer Intelligence</a></li>
-		<li><a href="https://www.marketing.neustar/marketing-analytics">Marketing Analytics (MarketShare)</a></li>
-		<li><a href="https://www.marketing.neustar/activation">Activation</a></li>
+		<li><a href="https://www.marketing.neustar/customer-experience">Customer Experience</a></li>
+		<li><a href="https://www.marketing.neustar/customer-analytics">Customer Analytics</a></li>
 	</ul>
 	</li>
 	<li><span class="expand">Risk Solutions</span>
 	<ul class="expContent">
-		<li><a href="https://www.risk.neustar">Risk Home</a></li>
-		<li><a href="https://www.risk.neustar/compliance-solutions">Compliance Solutions</a></li>
-		<li><a href="https://www.risk.neustar/fraud-prevention">Fraud Prevention</a></li>
-		<li><a href="https://www.risk.neustar/compliance-solutions/ip-intelligence">IP Intelligence</a></li>
+		<li><a href="https://www.risk.neustar/">Risk Home</a></li>
+		<li><a href="https://www.risk.neustar/compliance-intelligence">Compliance Intelligence</a></li>
+		<li><a href="https://www.risk.neustar/fraud-intelligence">Fraud Intelligence</a></li>
+		<li><a href="https://www.risk.neustar/operational-intelligence">Operational Intelligence</a></li>
 	</ul>
 	</li>
 	<li><span class="expand">Digital Defense &amp; Performance Solutions</span>
@@ -922,24 +1282,19 @@ Call +1-855-727-1209.</div>
 	<li><span class="expand">Communications Solutions</span>
 	<ul class="expContent">
 		<li><a href="https://www.communications.neustar">Communications Home</a></li>
-		<li><a href="https://www.communications.neustar/caller-id">Caller ID</a></li>
-		<li><a href="https://www.communications.neustar/order-management">Order Management</a></li>
-		<li><a href="https://www.communications.neustar/number-management">Number Management</a></li>
-		<li><a href="https://www.communications.neustar/address-and-routing">Address &amp; Routing</a></li>
-		<li><a href="https://www.communications.neustar/business-listings">Business Listings</a></li>
+		<li><a href="https://www.communications.neustar/branded-contact-management">Branded Contact Management</a></li>
+		<li><a href="https://www.communications.neustar/caller-intelligence">Caller Intelligence</a></li>
+		<li><a href="https://www.communications.neustar/routing-intelligence">Routing Intelligence</a></li>
+		<li><a href="https://www.communications.neustar/order-management">Order Management Solutions</a></li>
 	</ul>
 	</li>
 	<li><span class="expand">Registry Solutions</span>
 	<ul class="expContent">
 		<li><a href="https://www.registry.neustar/">Registry Home</a></li>
-		<li><a href="https://www.registry.neustar/brand">.brands</a></li>
-		<li><a href="https://www.registry.neustar/services">Services</a></li>
-		<li><a href="https://www.registry.neustar/team">Team</a></li>
-		<li><a href="https://www.registry.neustar/partners">Partners</a></li>
-		<li><a href="https://www.registry.neustar/registrars">Registrars</a></li>
+		<li><a href="https://www.registry.neustar/dotbrands">.Brands</a></li>
+		<li><a href="https://www.registry.neustar/services">Registry Services</a></li>
 	</ul>
 	</li>
-	<li><a href="/npac">NPAC</a></li>
 </ul>
 
 <ul class="secondary">
@@ -949,12 +1304,12 @@ Call +1-855-727-1209.</div>
 	<li><a href="/blog">Blogs</a></li>
 	<li><span class="expand">Company</span>
 	<ul class="expContent">
-		<li><a href="/about-us/leadership">Leadership</a></li>
-		<li><a href="/about-us/careers">Careers</a></li>
-		<li><a href="/about-us/news-room">News Room</a></li>
-		<li><a href="/about-us/news-room/events">Events</a></li>
-		<li><a href="/about-us/neutrality">Neutrality</a></li>
-		<li><a href="/about-us/corporate-responsibility">Corporate Social Responsibility</a></li>
+		<li><a href="https://www.home.neustar/about-us/leadership">Leadership</a></li>
+		<li><a href="https://www.home.neustar/about-us/careers">Careers</a></li>
+		<li><a href="https://www.home.neustar/about-us/news-room">News Room</a></li>
+		<li><a href="https://www.home.neustar/about-us/news-room/events">Events</a></li>
+		<li><a href="https://www.home.neustar/about-us/neutrality">Neutrality</a></li>
+		<li><a href="https://www.home.neustar/about-us/corporate-responsibility">Corporate Social Responsibility</a></li>
 	</ul>
 	</li>
 	<li><span class="expand">Login</span>
@@ -965,7 +1320,7 @@ Call +1-855-727-1209.</div>
 		<li><a href="https://webapp2.targusinfo.com/" id="gtm.sitew.login-infozone" target="_blank">InfoZone</a></li>
 		<li><a href="https://ipintelligence.neustar.biz/apps/login/?CL=gp.od.dev.nsr" id="gtm.sitew.login-ipi" target="_blank">IP Intelligence</a></li>
 		<li><a href="https://dashboard.p1.neustar.biz/#/login" id="gtm.sitew.login-p1" target="_blank">PlatformOne</a></li>
-		<li><a href="https://siteprotect.neustar.biz" id="gtm.sitew.login-siteprotect" target="_blank">SiteProtect</a></li>
+		<li><a href="https://siteprotect.security.neustar" id="gtm.sitew.login-siteprotect" target="_blank">SiteProtect NG</a></li>
 		<li><a href="https://portal.ultradns.com" id="gtm.sitew.login-ultradns" target="_blank">UltraDNS</a></li>
 		<li><a href="https://www2.webmetrics.com/mod3/cpcgi/cp.cgi" id="gtm.sitew.login-webmetrics" target="_blank">Webmetrics</a></li>
 		<li><a href="https://home.wpm.neustar.biz/#login" id="gtm.sitew.login-wpm" target="_blank">Web Performance</a></li>
@@ -974,47 +1329,152 @@ Call +1-855-727-1209.</div>
 		<li><a href="https://registry.neustar.biz/user/login" id="gtm.sitew.login-registry" target="_blank">Registry</a></li>
 	</ul>
 	</li>
-	<li><a href="/support">Support</a></li>
+	<li><a href="https://www.home.neustar/support">Support</a></li>
 	<li><a href="https://www.home.neustar/contact-us">Contact</a></li>
 </ul>
 </div>
 </aside>
                 <!-- Cookie Notification Snippet -->
-
+<script type="text/javascript">
+    $(document).ready(function () {     
+        if (typeof $.cookie('opt-out') === 'undefined' && getParameterByName('opt-out') === null) {
+            $('.cookie-message').removeAttr('style');
+            $('.cookie-message').delay(1).animate({opacity: '1', bottom: '0'}, 500, 'easeInOutQuint');
+        }
+        
+        if(getParameterByName('opt-out') !== null) {
+            $.cookie("opt-out", getParameterByName('opt-out'), { expires : 365, path: '/' });
+        }
+        
+        if (typeof $.cookie('opt-out') !== 'undefined') {
+            updateAllLinksOnAPage();
+        }
+        
+        
+        if($.cookie('opt-out') === 'true') {
+            clearAllCookies();
+        }        
+        
+        if($.cookie('opt-out') === 'true' && $('input[type="submit"').val() === 'Add to Cart') {
+            $('input[type="submit"').attr('disabled', 'disabled');
+            $('input[type="submit"').removeClass('primary').addClass('cancel');
+        }
+        
+        $('.cookie-close').click(function () {
+            $.cookie("opt-out", "false", { expires : 365, path: '/' });
+            updateAllLinksOnAPage();
+            $('.cookie-message').fadeOut(500);
+            $('.cookie-message').css('display', 'none');
+            return false;
+        });
+        $('.cookie-turn-off').click(function () {
+            $.cookie("opt-out", "true", { expires : 365, path: '/' });
+            clearAllCookies();
+            updateAllLinksOnAPage();
+            if($('input[type="submit"').val() === 'Add to Cart') {
+                $('input[type="submit"').attr('disabled', 'disabled');
+                $('input[type="submit"').removeClass('primary').addClass('cancel');
+            }
+            $('.cookie-message').fadeOut(500);
+            $('.cookie-message').css('display', 'none');
+            return false;
+        });
+        
+        $('.cookie-turn-on').click(function () {
+            $.cookie("opt-out", "false", { expires : 365, path: '/' });
+                            console.log('starting link update');
+            updateAllLinksOnAPage();
+            if($('input[type="submit"').val() === 'Add to Cart') {
+                $('input[type="submit"').removeAttr('disabled');
+                $('input[type="submit"').removeClass('cancel').addClass('primary');
+            }            
+            return false;
+        });        
+        
+    });    
+      
+    function clearAllCookies() {
+        var cookies = $.cookie();
+            for(var cookie in cookies) {           
+               $.cookie(cookie, '', { expires : -1 });           
+            }        
+            $.cookie('opt-out', 'true', { expires : 365, path : '/' });    }
+    
+    function updateAllLinksOnAPage() {
+        var currHost = window.location.hostname;
+        var siteDomains = 'www.home.neustar,www.risk.neustar,www.communications.neustar,www.registry.neustar,www.security.neustar,www.marketing.neustar';
+        $("a").attr('href', function(i, h) {
+            var link = document.createElement('a');
+            link.href = h;
+            if((typeof h !== 'undefined') && (h.indexOf('#') === -1) && (h.indexOf('opt-out=') === -1) && (siteDomains.includes(link.hostname) && (link.hostname !== currHost))) {
+                return h + (h.indexOf('?') !== -1 ? "&opt-out=" + $.cookie('opt-out') : "?opt-out=" + $.cookie('opt-out'));
+            }
+        });
+    }
+    
+    function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+</script>
 <style type="text/css">
-    .cookie-message {
-        opacity:0;
-        display:block;
-        position:fixed;
-        left:50%;
-        bottom:1%;
-        padding:20px;
-        margin-left:-175px;
-        width:350px;
-        background:#fff;
-        box-shadow:0 0 10px rgba(0,0,0,0.25)
-    }
-    .cookie-message h5 {
-        margin:0;
-        font-size:22px;
-    }
-    .cookie-message .close {
-        position:absolute;
-        top:5px;
-        right:5px;
-        padding:5px 10px;
-        font-size:16px;
-        color:#666;
-        background:#eee;
-        cursor:pointer;
-    }
+.cookie-message {opacity:0;display:block;position:fixed;left:0;bottom:0;padding:15px 5% 5px;width:90%;background:rgba(0,0,0,0.75);}
+.cookie-message h5 {margin:0;font-size:22px;color:#fff;}
+.cookie-message p {margin:10px 0;color:#eee;}
+.cookie-message .close {position:absolute;top:5px;right:5px;padding:5px 10px;font-size:16px;color:#ddd;border:1px solid #666;border-radius:2px;cursor:pointer;}
 </style>
 <div class="cookie-message" style="display: none;">
-    <h5>Cookies</h5>
-    <p>This site uses cookies and other tracking technologies that help us give you the best experience on our site. By continuing to use the site without changing settings you are agreeing to our use of cookies. Neustar's <a href="https://www.home.neustar/privacy/privacy-policy#cookies">Cookie Policy</a>.</p>
-    <p>By disabling cookies you will no longer be able to use the shopping cart functionality on this site.</p>    
-    <p><a href="#" class="btn sm cookie-close">Continue</a>&nbsp;&nbsp;&nbsp;<a href="#" class="btn cancel sm cookie-turn-off">Turn Cookies Off</a></p>
-</div>
+<div class="close cookie-close">X</div>
+<p><strong>Cookies:</strong> This site and all .neustar TLD sites use cookies and other technologies to provide an optimal web user experience. By continuing without changing settings, you agree to our use of cookies. Disabling cookies will restrict usage of our shopping cart. To learn more, please read our Neustar <a href="https://www.home.neustar/privacy/privacy-policy#cookies">Cookie Policy</a>.</p>
+<p><a href="#" class="btn sm cookie-close">Continue</a>   <a href="#" class="btn cancel sm cookie-turn-off">Turn Cookies Off</a></p></div>
 
+              <script type="text/javascript">
+                  $(document).ready(function() {
+                      if(($.cookie('_countrycode')) && ($.cookie('_countrycode')!=="null")) {
+
+                      } else {
+                          host = location.hostname.replace('www','');
+                          cookieDomain = host;
+                          if(window.location.hostname.match(/neuweb/g)){
+                              cookieDomain = '.neuweb.biz';
+                          }
+                          if(window.location.hostname.match(/localhost/g)){
+                              cookieDomain = '.neustar.localhost';
+                          }
+                          $.getJSON('/ajax/ipintel', function(data){
+                              countryCode = 'us';
+                              continent='north america';
+                              if(!data['error'] && !data['info']){
+                                  countryCode = data['ipinfo']['Location']['CountryData']['country_code'];
+                                  continent= data['ipinfo']['Location']['continent'];
+                                  $.cookie('_ipintel', JSON.stringify(data),{domain: cookieDomain});
+                                  $.cookie('_countrycode', countryCode, {domain: cookieDomain});
+                                  $.cookie('_continent', continent, {domain: cookieDomain});
+                                  //locationBasedDdosPhone(countryCode);
+                              }
+                          });
+                      }
+
+                      function GetParameterValues(param) {
+                          var url = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+                          for (var i = 0; i < url.length; i++) {
+                              var urlparam = url[i].split('=');
+                              if (urlparam[0] == param) {
+                                  return urlparam[1];
+                              }
+                          }
+                      }
+                      if(GetParameterValues('sem-cname')) {
+                          $.cookie('leadsource','Paid Search');
+                          $.cookie('leadsourcedetails','google');
+                      }
+
+                  });
+              </script>
     
 </body></html>
