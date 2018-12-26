@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527112112id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwholesomebabyfood.momtastic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226133049id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwholesomebabyfood.momtastic.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=wholesomebabyfood.momtastic.com
 
@@ -6,7 +6,7 @@
 
  **Privacy Policy**
 
-This privacy policy was last modified on September 4, 2014 (the “Effective Date”). TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totallyhermedia.com](http://www.totallyhermedia.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
+This privacy policy was last modified on September 4, 2014 (the “Effective Date”). TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totallyhermedia.com](http://www.totallyhermedia.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#8be7eeeceae7cbeefde4e7fdeee6eeefe2eae7e7e8a5e8e4e6).
 
   1. [Scope](http://www.totallyhermedia.com/privacy/#scope)
   2. [What information the Site collects](http://www.totallyhermedia.com/privacy/#collect)
@@ -98,13 +98,13 @@ Once we share your information with another party, the information received by t
 
 
 
-If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://www.totallyhermedia.com/third-party) and visit the [NAI’s website](http://www.networkadvertising.org/choices/). **Do Not Track** We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created. To learn about Do Not Track, please click [here](http://www.allaboutdnt.com/). **California Residents** If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to legal@evolvemediallc.com.
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://www.totallyhermedia.com/third-party) and visit the [NAI’s website](http://www.networkadvertising.org/choices/). **Do Not Track** We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created. To learn about Do Not Track, please click [here](http://www.allaboutdnt.com/). **California Residents** If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection)
 
   6.  **Access**
 
 
 
-If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). Please include in your email the name of the Site to which you provided the information you wish to amend.
+If you choose to share personal information with us, you may update or amend this information by contacting us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#8ce0e9ebede0cce9fae3e0fae9e1e9e8e5ede0e0efa2efe3e1). Please include in your email the name of the Site to which you provided the information you wish to amend.
 
   7.  **Confidentiality and security**
 
@@ -122,7 +122,7 @@ The Site’s offices are located in the United States. If you visit the site fro
 
 
 
-Protecting the privacy of young children is especially important. The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at legal@evolvemediallc.com.
+Protecting the privacy of young children is especially important. The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection)
 
   1.  **Changes to the privacy policy**
 
@@ -134,6 +134,6 @@ We reserve the right to change this policy at any time. Please check this page p
 
 
 
-If you have questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com), or send mail to: Evolve Media, LLC 5140 W. Goldleaf Circle, Third Floor Los Angeles, CA 90056 Attn: General Counsel  
+If you have questions about this privacy policy, please contact our legal team at [[email protected]](http://www.totallyhermedia.com/cdn-cgi/l/email-protection#eb878e8c8a87ab8e9d84879d8e868e8f828a878788c5888486), or send mail to: Evolve Media, LLC 5140 W. Goldleaf Circle, Third Floor Los Angeles, CA 90056 Attn: General Counsel  
 
 monitoring_string = "23321ccc63b26ac760ef525e1c1cf37c"
