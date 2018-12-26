@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613082936id_/https%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083223id_/https%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Live Chat for Website | LivePerson
 
-Effective Date:  June 4, 2018
+Effective Date:  August 23, 2018
 
 LivePerson values your privacy.  This privacy policy explains what personal data we collect from you and how we use it.  This privacy policy applies if you visit LivePerson’s corporate websites or social media or other web pages located on third-party websites, use any mobile application(s) provided by LivePerson or register to attend any of LivePerson’s corporate events.  This privacy policy also applies if you use LivePerson’s websites, hosted services, products, applications and/or content (collectively, the “Services”) directly or through a LivePerson customer (for example, on a LivePerson customer’s website or mobile application).
 
@@ -50,7 +50,7 @@ We may also collect information from our direct interactions with you (such as t
 
 How does LivePerson use the information it collects about me?
 
-We use the information we collect to provide and improve our services.
+We use the information we collect to provide and improve our services. We process your information if you have given your consent; if it’s necessary to perform a contract with you or to take steps at your request prior to entering into a contract; if it’s necessary to comply with legal obligations; or if it’s necessary for us or a third party (such as a brand) to pursue a legitimate interest.
 
 If you engage with a brand that uses our Services, we use the information we collect on behalf of and as directed by the brand.  For example, we may use your information to determine whether to deploy a chat button to allow the brand to engage with you or to deploy content, such as a banner offering a coupon, on your browser.
 
@@ -126,11 +126,13 @@ Access and changes to personal data
 
 If you elect to engage in any communication or engagement session with LivePerson or a customer that uses our Services, it is up to you to decide what, if any, information to provide during such session.  Depending on your request, it may not be possible for us or our customer to address all of your questions without further information from you.  Nevertheless, if you do not wish to provide certain information, then you should not do so. 
 
-How can I review, correct, delete, or receive a copy of my information with LivePerson or withdraw my consent from LivePerson processing my personal data?
+How can I review, correct, delete, transfer, or receive a copy of my information or withdraw my consent to process my information?
 
 If you have signed up to receive LivePerson’s marketing or advertising communications, you may, at any time, opt out of receiving further communications by clicking on the opt-out link at the bottom of a marketing or advertising email you receive.  You may also contact us at [ **privacy@liveperson.com**](mailto:privacy@liveperson.com) to opt out or to request changes to your personal information.
 
-You may request to review, correct, delete, or receive a copy of any of the personal information you’ve provided to a Brand that uses the Services or withdraw your consent to LivePerson processing your personal data by either contacting the brand directly or by contacting us at [privacy@liveperson.com](mailto:privacy@liveperson.com), and we will respond within a reasonable period of time and can help coordinate with and support the brand as needed to respond to your request. 
+You may request to review, correct, delete, transfer or receive a copy of any of the personal information you’ve provided to a Brand that uses the Services or withdraw your consent to LivePerson processing your personal data by either contacting the brand directly or by contacting us at [privacy@liveperson.com](mailto:privacy@liveperson.com), and we will respond within 30 days and can help coordinate with and support the brand as needed to respond to your request. 
+
+If you believe that we have not been able to assist you with your inquiry, and you are located in the European Economic Area, you have the right to file a complaint with the relevant supervisory authority. 
 
 How does LivePerson keep my information secure?
 
@@ -164,7 +166,7 @@ With respect to personal data received or transferred pursuant to the Privacy Sh
 
 EU and Swiss individuals have the right to access personal data about them, and to limit use and disclosure of their personal data.  With our Privacy Shield certifications, LivePerson has committed to respect those rights.  Because our personnel has limited ability to access personal data our customers submit through our Services, if you wish to request access to or to limit use and/or disclosure of your personal data, please contact us with the name of the LivePerson customer through which you used our Services.  We will refer your request to that customer, and will support them as needed in responding to your request.
 
-Any inquiries or complaints regarding our data privacy practices or Privacy Shield compliance may be directed to [ **privacy@liveperson.com**](mailto:privacy@liveperson.com) or to our Data Protection Officer Prof. Dr. Christoph Bauer at ePrivacy GmbH by email at [**privacy@eprivacy.eu**](mailto:privacy@eprivacy.eu) or by mail at Große Bleichen 21, 20354 Hamburg, Germany.  We will respond within 30 days and provide appropriate recourse at no cost to you.  If we fail to respond within that time, or if our response does not address your concern, you may contact JAMS at [ **www.jamsadr.com**](http://www.jamsadr.com/), an independent third-party dispute resolution mechanism based in the United States.  If neither LivePerson nor JAMS resolves your complaint, the Privacy Shield Panel, a binding arbitration mechanism provided under the Privacy Shield program, may be available to you.
+Any inquiries or complaints regarding our data privacy practices or Privacy Shield compliance may be directed to [ **privacy@liveperson.com**](mailto:privacy@liveperson.com) or to our external Data Protection Officer Prof. Dr. Christoph Bauer at ePrivacy GmbH at Große Bleichen 21, 20354 Hamburg, Germany.  We will respond within 30 days and provide appropriate recourse at no cost to you.  If we fail to respond within that time, or if our response does not address your concern, you may contact JAMS at [ **www.jamsadr.com**](http://www.jamsadr.com/), an independent third-party dispute resolution mechanism based in the United States.  If neither LivePerson nor JAMS resolves your complaint, the Privacy Shield Panel, a binding arbitration mechanism provided under the Privacy Shield program, may be available to you.
 
 Children
 
@@ -176,4 +178,4 @@ We recommend that you review this privacy policy periodically, as we may update 
 
 We are not responsible for and do not control the privacy practices of any of our customers or any other third party.  We encourage you to review the privacy practices of each third party. 
 
-We welcome your feedback on our privacy policy.  You can send any comments or questions by email to [ **privacy@liveperson.com**](mailto:privacy@liveperson.com) or by mail to LivePerson, Inc., Attn: Legal Department – Privacy, 475 Tenth Ave., 5th Floor, New York, NY 10018. You can also contact our Data Protection Officer Prof. Dr. Christoph Bauer at ePrivacy GmbH by email at [**privacy@eprivacy.eu**](mailto:privacy@eprivacy.eu) or by mail at Große Bleichen 21, 20354 Hamburg, Germany. 
+We welcome your feedback on our privacy policy.  You can send any comments or questions by email to [ **privacy@liveperson.com**](mailto:privacy@liveperson.com) or by mail to LivePerson, Inc., Attn: Legal Department – Privacy, 475 Tenth Ave., 5th Floor, New York, NY 10018. You can also contact our external Data Protection Officer Prof. Dr. Christoph Bauer at ePrivacy GmbH at Große Bleichen 21, 20354 Hamburg, Germany. 
