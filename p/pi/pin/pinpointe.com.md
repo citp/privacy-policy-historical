@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220042215id_/https%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226043554id_/https%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Pinpointe's Email Marketing Privacy Policy. We Respect Your Privacy
 
@@ -6,7 +6,9 @@ We respect and are committed to protecting your privacy. This privacy policy let
 
 ### Our Commitment to You
 
-Your personal information (and your customer contact information) will be kept strictly confidential. It is never sold, given away, or shared with anyone, unless we’re required to by law.
+Your personal information such as contact name and email address will be kept confidential. It is never sold, given away, and will only be shared with another entity if we are required by law or in the very limited and controlled circumstances described under the section **Personally Identifiable Information and Our Use of Cookies**.
+
+Your customers’ contact information is strictly confidential and will never be shared with any third party unless required by law.
 
 We may send you automated emails asking you if you’d like to activate, or de-activate your free trial (if you don’t use it after a reasonable time period). We like to remove dormant accounts from our system, and to save you the monthly billing for an unused account.
 
@@ -30,7 +32,7 @@ Terminating your account – If you have not logged into Pinpointe’s system fo
 
 System Alerts – All registered, active (non-dormant), Pinpointe user accounts may receive mandatory “System Alert” messages which usually consist of: planned outages, system improvements (that may directly affect your account), version updates, point releases, abuse warnings, and important customer service information. Our “System Alert” messages are brief and non-promotional in nature. We promise to keep them as boring as possible.
 
-Automated responses – If you submit a help ticket to Pinpointe, our system might automatically send you a brief survey email, requesting your feedback on how your issue was resolved. We use this information to improve our customer service. Submitting a help ticket does not add you to any mailing list.
+Automated responses – If you submit a help ticket to Pinpointe, our system may send an automatic survey email requesting your feedback on how your issue was resolved. We use this information to improve our customer support. In addition, based on your usage patterns and activity within your Pinpointe customer account, you may receive automatic emails informing you of various product features, methods to improve your user experience or occasional surveys asking for your feedback as a valued Pinpointe customer. We use these communications to constantly improve our customer service and to provide you the best possible product. All automated responses are non-promotional in nature. Submitting a help ticket, answering a survey or replying to an automatic email to request additional information from us will never add you to any mailing list.
 
 ### Promotional Emails That We Send
 
@@ -40,7 +42,9 @@ From time to time, we send a “Pinpointe Tips ‘N Tricks Newsletter” email n
 
 ### Personally Identifiable Information and Our Use of Cookies
 
-We do not share your personally identifiable information with any 3rd parties.
+Pinpointe uses certain third party-developed applications to enhance our ability to monitor, aggregate and store our customers’ usage patterns within their respective Pinpointe account. This information is used by Pinpointe to send various forms of communication such as emails and in-app messages to our customers in an effort to provide additional information and suggestions regarding our product’s features and capabilities, or to request customer feedback. These third parties never share your personally identifiable information with any outside entity, nor does Pinpointe ever share any customer financial or billing information beyond those situations disclosed elsewhere in this section or under the section, **Safeguarding Your Information**.
+
+For more information on how Pinpointe endeavors to protect the personal information (“Personal Information”) of our customers’ end user contacts (“Recipients”), please read our revised Terms of Service and our Data Processing Addendum (“DPA”). In addition, for a more general description of what the new European Economic Area (“EEA”) General Data Protection Regulation (“GDPR”) rules mean to individuals, their rights in controlling how their Personal Information is used and stored, how this affects those entities that utilize this information, and how Pinpointe has modified its own processes in response to these new regulations, please refer to our articles entitled, [**GDPR & Email Marketing | How Will Europe’s New Privacy Laws Affect Your Email Marketing**](https://www.pinpointe.com/blog/how-gdpr-affects-email-marketing), and **[How Pinpointe Is Preparing For GDPR](https://www.pinpointe.com/blog/pinpointe-preparing-gdpr)**.
 
 We may store session information, so that registered users do not have to login every time they visit the site.
 
@@ -74,4 +78,4 @@ It should be noted however, that when you send an email marketing campaign, it b
 
 We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our terms stipulate you must be 18 years or older to use the Pinpointe system.
 
- _The above information is true and accurate as of  July 31, 2017._
+_The above information is true and accurate as of  July 31, 2017._
