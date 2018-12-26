@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamilrockers.download privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627111205id_/http%3A//tamilrockers.download/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilrockers.download privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226113638id_/http%3A//tamilrockers.download/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tamilrockers Download Tamil Movies, Telugu, Malayalam, Hindi
+# Privacy Policy | Tamilrockers Movies Download
 
 This Privacy Policy governs the manner in which tamiltunes.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://123tamilsongs.com](http://tamiltunes.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by tamiltunes.com.
 
@@ -54,8 +54,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [123tamilsongs.com](http://123tamilsongs.com/)
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+contact@123tamilsongs.com
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+notice@123tamilsongs.com
 
 This document was last updated on  4, 2015
