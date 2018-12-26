@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basketballinsiders.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626062658id_/http%3A//www.basketballinsiders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basketballinsiders.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226142703id_/http%3A//www.basketballinsiders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Basketball Insiders | NBA Rumors And Basketball News
 
@@ -6,7 +6,7 @@
 
 Protecting your private information is our priority. This Statement of Privacy applies to the http://www.basketballinsiders.com and InsidersSports LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to InsidersSports LLC include http://www.basketballinsiders.com and InsidersSports. The InsidersSports website is a Basketball news and information site. By using the InsidersSports website, you consent to the data practices described in this statement.
 
- **Collection of your Personal Information**
+**Collection of your Personal Information**
 
 We do not collect personally identifiable information from our users. We may gather personal or non-personal information in the future.
 
@@ -16,7 +16,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 InsidersSports encourages you to review the privacy statements of websites you choose to link to from InsidersSports so that you can understand how those websites collect, use and share your information. InsidersSports is not responsible for the privacy statements or other content on websites outside of the InsidersSports website.
 
- **Information we collect**
+**Information we collect**
 
 When you visit our Site, we collect three types of information:
 
@@ -26,7 +26,7 @@ When you visit our Site, we collect three types of information:
 
 
 
- **Uses of information**
+**Uses of information**
 
 We may use the information we collect from you:
 
@@ -38,13 +38,13 @@ We may use the information we collect from you:
 
 
 
- **Analytics Services**
+**Analytics Services**
 
 We use Google Analytics to better understand how visitors interact with our site. This service provides non-personally identifiable data including but not limited to data on where visitors came from, what actions they took on our site, and where visitors went when they left this site. We use this information to improve your experience when visiting our site. Please visit (http://www.google.com/intl/en/analytics/privacyoverview.html) to learn more about this service and how to opt out of data collection by Google Analytics.
 
 In connection with public awareness campaigns supporting this educational site, we may also use other analytics services to measure the effectiveness of these campaigns in the aggregate (for example, measuring the overall effectiveness of different types of sites that refer visitors to our site).
 
- **Use of Cookies**
+**Use of Cookies**
 
 The InsidersSports website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
@@ -52,14 +52,14 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the InsidersSports services or websites you visit.
 
- **Children Under Thirteen**
+**Children Under Thirteen**
 
 InsidersSports does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
- **Disconnecting your InsidersSports Account from Third Party Websites**
+**Disconnecting your InsidersSports Account from Third Party Websites**
 
 You will be able to connect your InsidersSports account to third party accounts. BY CONNECTING YOUR INSIDERSSPORTS ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by visiting their “My Account” page..
 
- **Changes to this Statement**
+**Changes to this Statement**
 
 InsidersSports will occasionally update this Statement of Privacy to reflect company and customer feedback. InsidersSports encourages you to periodically review this Statement to be informed of how InsidersSports is protecting your information.
