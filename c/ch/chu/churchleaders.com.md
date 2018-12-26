@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchleaders.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122354id_/https%3A//churchleaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchleaders.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226202939id_/https%3A//churchleaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • ChurchLeaders
 
@@ -94,7 +94,7 @@ We have implemented organizational, technical, and administrative measures to pr
 
 **7\. How Can I Correct or Remove Information About Me?**
 
-If you feel that any Personal Information about you that has been collected and stored by Outreach is incorrect, or if you would Personal Information about you removed from our systems, please notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbd8cec8cfd4d6dec9c8dec9cdd2d8defbd4cecfc9dedad8d3dcc9d4cecb95d8d4d6) so that we may consider and respond to your request in accordance with applicable law. You may also request access to your Personal Information held by Outreach, by sending a written request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0c3d5d3d4cfcdc5d2d3c5d2d6c9c3c5e0cfd5d4d2c5c1c3c8c7d2cfd5d08ec3cfcd)
+If you feel that any Personal Information about you that has been collected and stored by Outreach is incorrect, or if you would Personal Information about you removed from our systems, please notify us at [customerservice@outreachmediagroup.com](mailto:customerservice@outreachgroup.com) so that we may consider and respond to your request in accordance with applicable law. You may also request access to your Personal Information held by Outreach, by sending a written request to [customerservice@outreachmediagroup.com.](mailto:customerservice@outreachgroup.com)
 
 For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable, subject to applicable law.
 
@@ -108,7 +108,7 @@ We will retain your Personal Information for the period necessary to fulfill the
 
 You can always opt not to disclose information. However, if you elect to do so, we may be limited in responding to your inquiry or providing services to you.  
 
-You may opt-out of receiving marketing messages from Outreach or our Affiliates by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#03607670776c6e6671706671756a6066436c7677716662606b64716c76732d606c6e) , by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages.
+You may opt-out of receiving marketing messages from Outreach or our Affiliates by sending an email to [customerservice@outreachmediagroup.com](mailto:customerservice@outreachgroup.com) , by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages.
 
 **10\. Third Party Sites**
 
@@ -126,7 +126,7 @@ Any modifications to this privacy Policy will be effective upon our posting of t
 
 **13\. Children’s Privacy.** Our Products, Services, and Site(s) are not directed to children under the age of 13, and we do not intentionally gather personal information from visitors who are under the age of 13 and such individuals are prohibited hereby from providing personal information, without their parental or guardian’s consent.  If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at the contact information provided above. We will delete such information from our files as soon as reasonably practicable.
 
-**14\. Questions, Concerns or Complaints: Contact Us.  **Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9c9cbd0cfd8dac0f9d6cccdcbdcd8dad1d4dcddd0d8decbd6ccc997dad6d4) or by mail at Outreach, Inc., 5550 Tech Center Dr. Colorado Springs, CO 80919, ATTN: Customer Service – Privacy. Because email communications are not secure, please do not include credit card information or other sensitive information in your emails to us.
+**14\. Questions, Concerns or Complaints: Contact Us.  **Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at [privacy@outreachmediagroup.com](mailto:privacy@outreachmediagroup.com) or by mail at Outreach, Inc., 5550 Tech Center Dr. Colorado Springs, CO 80919, ATTN: Customer Service – Privacy. Because email communications are not secure, please do not include credit card information or other sensitive information in your emails to us.
 
 Outreach will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
@@ -147,7 +147,7 @@ We only use your personal information as permitted by law.  We are required to 
   *     * To provide our Services.  Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
     * To communicate with you, create aggregated or de-identified information, and for compliance, fraud prevention, and safety.  These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests.  We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
     * To comply with law.  Processing is necessary to comply with our legal obligations.
-    * With your consent.  Processing is based on your consent.  Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in this policy or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e595978c9384869ca58a9091978084868d8880818c8482978a9095cb868a88). 
+    * With your consent.  Processing is based on your consent.  Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in this policy or by contacting us at [privacy@outreachmediagroup.com](mailto:privacy@outreachmediagroup.com). 
 
 
 
@@ -169,7 +169,7 @@ European data protection laws give you certain rights regarding your personal in
 
 
 
-You can submit these requests by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81f1f3e8f7e0e2f8c1eef4f5f3e4e0e2e9ece4e5e8e0e6f3eef4f1afe2eeec) or our postal address provided above.  We may request specific information from you to help us confirm your identity and process your request.  Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.  If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at or submit a complaint to the data protection regulator in your jurisdiction. 
+You can submit these requests by email to [privacy@outreachmediagroup.com](mailto:privacy@outreachmediagroup.com) or our postal address provided above.  We may request specific information from you to help us confirm your identity and process your request.  Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.  If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at or submit a complaint to the data protection regulator in your jurisdiction. 
 
 **Cross-Border Data Transfer**
 
@@ -181,4 +181,4 @@ Whenever we transfer your personal information out of the European Economic Area
 
 
 
-Please contact us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2050524956414359604f555452454143484d4544494147524f55500e434f4d) if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+Please contact us by email to [privacy@outreachmediagroup.com](mailto:privacy@outreachmediagroup.com) if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
