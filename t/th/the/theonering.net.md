@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonering.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626023741id_/http%3A//www.theonering.net/torwp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonering.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226104246id_/http%3A//www.theonering.net/torwp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbit Movie News and Rumors | TheOneRing.net™
 
