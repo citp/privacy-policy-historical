@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the catchnews.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626082935id_/http%3A//www.catchnews.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchnews.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226162616id_/http%3A//www.catchnews.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><title>Privacy Policy | Catch News</title><link rel="shortcut icon" href="http://static.catchnews.com/en/favicon.png" type="image/png"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="https://plus.google.com/102880671514105507349/" rel="publisher"><meta property="fb:pages" content="818589351549328"><meta name="Keywords" content=""><meta name="Description" content="">            <link rel="canonical" href="http://www.catchnews.com/pages/privacy-policy/"><base href="http://www.catchnews.com/"><link href="http://static.catchnews.com/en/css/vendor.min.css" type="text/css" rel="stylesheet">
+<!DOCTYPE html><html lang="en"><head> <title> Privacy Policy | Catch News</title><link rel="shortcut icon" href="http://static.catchnews.com/en/favicon.png" type="image/png"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="https://plus.google.com/102880671514105507349/" rel="publisher"><meta property="fb:pages" content="818589351549328">  <meta name="Keywords" content=""><meta name="Description" content="">               <link rel="canonical" href="http://www.catchnews.com/pages/privacy-policy/"><base href="http://www.catchnews.com/"><link href="http://static.catchnews.com/en/css/vendor.min.css?05122018-01" type="text/css" rel="stylesheet">
       <link href="http://static.catchnews.com/en/css/aboutus.css" type="text/css" rel="stylesheet">    <link href="http://static.catchnews.com/en/css/catch-footer.css" type="text/css" rel="stylesheet">
-    <script src="https://script.crazyegg.com/pages/scripts/0051/3534.js?438992" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=010425518847337099958:7y1rzbogsvm"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.catchnews.com/en/js/wire/js/jquery.min.js"></script>  <script type="text/javascript" src="http://static.catchnews.com/en/js/jquery.min.js"></script>
+    <script src="https://script.crazyegg.com/pages/scripts/0051/3534.js?438992" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=010425518847337099958:7y1rzbogsvm"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.catchnews.com/en/js/wire/js/jquery.min.js"></script>  <script type="text/javascript" src="http://static.catchnews.com/en/js/jquery.min.js"></script>
     <script type="text/javascript">
     $j = jQuery.noConflict();
     // @Author/Developer - Vinod Patidar!
@@ -13,14 +13,23 @@
       var site_url = 'http://www.catchnews.com/';  
       var cdn_site_url = 'http://static.catchnews.com/en/';  
       var api_domain = 'https://api1.catchnews.com/';
-    } else if ( window.location.hostname == 'staging.catchnews.com' ) {
-      var site_url = 'http://staging.catchnews.com/';
+    } else if ( window.location.hostname == 'stg.catchnews.com' ) {
+      var site_url = 'http://stg.catchnews.com/';
       var cdn_site_url = 'http://static.catchnews.com/en/';  
-      var api_domain = 'https://api1.patrika.com/';  
+      var api_domain = 'https://api1.catchnews.com/';  
+    }else if ( window.location.hostname == 'dev.catchnews.com' ) {
+      var site_url = 'http://dev.catchnews.com/';
+      var cdn_site_url = 'http://static.catchnews.com/en/';  
+      var api_domain = 'https://api1.catchnews.com/';  
     } else {
-      var site_url = 'http://localhost/catch-front/';  
-      var cdn_site_url = 'http://localhost/catch-front/';  
-      var api_domain = 'https://api1.patrika.com/';  
+      var site_url = 'http://localhost/~ganesh.gaur/catch-front/';  
+      var cdn_site_url = 'http://localhost/~ganesh.gaur/catch-front/';  
+      var api_domain = 'https://api1.catchnews.com/'; 
+      if ( window.location.hostname == 'arcgate2113' ) {
+        var site_url = 'http://arcgate2113/catch-front/';  
+        var cdn_site_url = 'http://static.catchnews.com/en/';  
+        var api_domain = 'https://api1.catchnews.com/';
+      } 
       if ( window.location.hostname == 'arcgate1166' ) {
         var site_url = 'http://arcgate1166/catch-front/';  
         var cdn_site_url = 'http://static.catchnews.com/en/';  
@@ -35,30 +44,35 @@
     var cslug = '';
     var story_slug = '';
     var storyid = '';
-    var ip_addr = "172.31.7.191";
+    var ip_addr = "172.31.0.161";
     var is_mobile = "";
     var __WEBROOT__ = "index.html";
   </script>
     
   <script type="text/javascript" src="http://static.catchnews.com/en/js/vendor.min.js"></script>
   <script type="text/javascript" src="http://static.catchnews.com/en/js/slick.js"></script>  <script type="text/javascript" src="http://static.catchnews.com/en/js/common.js?27062017-1"></script>
-  <script type="text/javascript" src="http://static.catchnews.com/en/js/validation.js?20022017-1"></script>                <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+  <script type="text/javascript" src="http://static.catchnews.com/en/js/validation.js?20022017-1"></script>      
+
+            <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
       <script>
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
       </script>
       <script>
         googletag.cmd.push(function() {
-          googletag.defineSlot('/62566846/Native_catch_550x440_2018', [550, 440], 'div-gpt-ad-1524658088242-0').addService(googletag.pubads());
-          googletag.defineSlot('/62566846/CNEROS_300x250_Mid', [300, 250], 'div-gpt-ad-1519285155475-0').addService(googletag.pubads());
+          googletag.defineSlot('/62566846/CNE_AD_ROS_1x1_2018', [1, 1], 'div-gpt-ad-1528700554364-0').addService(googletag.pubads());
+                    googletag.defineSlot('/62566846/CNEROS_300x250_Mid', [300, 250], 'div-gpt-ad-1519285155475-0').addService(googletag.pubads());
           googletag.defineSlot('/62566846/CNEROS_300x250_Top', [300, 250], 'div-gpt-ad-1519285155475-1').addService(googletag.pubads());
           googletag.defineSlot('/62566846/CNEROS_300x600_Bottom', [300, 600], 'div-gpt-ad-1519285155475-2').addService(googletag.pubads());
           googletag.defineSlot('/62566846/CNEROS_728x90_Bottom', [728, 90], 'div-gpt-ad-1519285155475-3').addService(googletag.pubads());
           googletag.defineSlot('/62566846/CNEROS_728x90_Top', [728, 90], 'div-gpt-ad-1519285155475-4').addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
           googletag.enableServices();
         });
       </script>
-          <!--Google Analytics code start --><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-62412089-1', 'auto'); ga('send', 'pageview');</script><!--Google Analytics code end -->
+      
+
+    <!--Google Analytics code start --><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-62412089-1', 'auto'); ga('send', 'pageview');</script><!--Google Analytics code end -->
     <!-- Facebook Pixel Code -->
   <script>
   !function(f,b,e,v,n,t,s)
@@ -90,21 +104,69 @@
   <!-- informvisitors -->
         <script src="http://adunits.datawrkz.com/tms/data/placement/placement_383.min.js"></script>
     <script src="//script.crazyegg.com/pages/scripts/0051/3534.js"></script>
-<script src="//dev.visualwebsiteoptimizer.com/j.php?a=183182&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180626082935id_%2Fhttp%3A%2F%2Fwww.catchnews.com%2Fpages%2Fprivacy-policy%2F&amp;r=0.671619937697304" type="text/javascript"></script></head>
+  
+  <!----Starts Amazon Unified Ad Marketplace ads----->
+          <script>
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+        apstag.init({
+        pubID: 'e94b4e37-6812-4150-a98d-39c00fc98909',
+        adServer: 'googletag'
+        });
+        apstag.fetchBids({
+        slots: [{
+         slotID: 'div-gpt-ad-1519285155475-1',
+         slotName: '62566846/CNEROS_300x250_Top',
+         sizes: [[300, 250]]
+        },
+        {
+         slotID: 'div-gpt-ad-1519285155475-0',
+         slotName: '62566846/CNEROS_300x250_Mid',
+         sizes: [[300, 250]]
+        },
+        {
+         slotID: 'div-gpt-ad-1519285155475-2',
+         slotName: '62566846/CNEROS_300x600_Bottom',
+         sizes: [[300, 600]]
+        },
+        {
+         slotID: 'div-gpt-ad-1519285155475-4',
+         slotName: '62566846/CNEROS_728x90_Top',
+         sizes: [[728, 90]]
+        },
+        {
+         slotID: 'div-gpt-ad-1519285155475-3',
+         slotName: '62566846/CNEROS_728x90_Bottom',
+         sizes: [[728, 90]]
+        }],
+        timeout: 2e3
+        }, function(bids) {
+        googletag.cmd.push(function(){
+         apstag.setDisplayBids();
+         googletag.pubads().refresh();
+        });
+        }); 
+        </script>
+        
+     
+ <!----Ends Amazon Unified Ad Marketplace ads-----> 
+  
+<script src="//dev.visualwebsiteoptimizer.com/j.php?a=183182&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181226162616id_%2Fhttp%3A%2F%2Fwww.catchnews.com%2Fpages%2Fprivacy-policy%2F&amp;r=0.7008608883216463" type="text/javascript"></script></head>
 <body>
-  <div id="div-gpt-ad-1467708163925-0" class="outer-ads11">
-    <script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467708163925-0'); });</script>
-  </div>
-  <!-- ABC TAG CODE STARTS HERE -->
+      <!-- /62566846/CNE_AD_ROS_1x1_2018 -->
+    <div id="div-gpt-ad-1528700554364-0" style="height:1px; width:1px;" class="outer-ads11">
+      <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1528700554364-0'); });</script>
+    </div>
+    <!-- ABC TAG CODE STARTS HERE -->
   <script language="JavaScript">
     var head    = document.getElementsByTagName('body')[0];
     var script  = document.createElement('script');
     //var timestamp   = new Date().getTime();
     script.type = 'text/javascript';
-    script.src    = 'http://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci1629&am=3&mr=1&ty=js&ep=1&at=view&rt=banner&st=image&ca=nlsn95530&cr=crtve&ce=nielsen&pc=Js_with_cache&r=1530001775';
+    script.src    = 'http://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci1629&am=3&mr=1&ty=js&ep=1&at=view&rt=banner&st=image&ca=nlsn95530&cr=crtve&ce=nielsen&pc=Js_with_cache&r=1545841587';
     head.appendChild(script);
-  </script><script type="text/javascript" src="http://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci1629&amp;am=3&amp;mr=1&amp;ty=js&amp;ep=1&amp;at=view&amp;rt=banner&amp;st=image&amp;ca=nlsn95530&amp;cr=crtve&amp;ce=nielsen&amp;pc=Js_with_cache&amp;r=1530001775"></script> 
-  <noscript><img src="http://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn95530&cr=crtve&ce=nielsen&pc=abc_image_tag&ci=nlsnci1629&am=3&at=view&rt=banner&st=image&r=1530001775" style="display:none"/>
+  </script><script type="text/javascript" src="http://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci1629&amp;am=3&amp;mr=1&amp;ty=js&amp;ep=1&amp;at=view&amp;rt=banner&amp;st=image&amp;ca=nlsn95530&amp;cr=crtve&amp;ce=nielsen&amp;pc=Js_with_cache&amp;r=1545841587"></script> 
+  <noscript><img src="http://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn95530&cr=crtve&ce=nielsen&pc=abc_image_tag&ci=nlsnci1629&am=3&at=view&rt=banner&st=image&r=1545841587" style="display:none"/>
   </noscript>
   <!-- ENDS HERE -->  
   <div class="full-width"> 
