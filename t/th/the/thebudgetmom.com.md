@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thebudgetmom.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626123256id_/https%3A//www.thebudgetmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetmom.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226203952id_/https%3A//www.thebudgetmom.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | The Budget Mom
+# PRIVACY POLICY - The Budget Mom
 
-Our Privacy Policy was last updated and posted on **May 14, 2018**. It governs the privacy terms of our Website, located at https://www.thebudgetmom.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](https://www.thebudgetmom.com/disclaimer/).
+Our Privacy Policy was last updated and posted on **May 14, 2018**. It governs the privacy terms of our Website, located at https://www.thebudgetmom.com/. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](https://www.thebudgetmom.com//disclaimer/).
 
 ## **Your Privacy**
 
-The Budget Mom, LLC and [https://www.thebudgetmom.com](https://www.thebudgetmom.com/) follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+The Budget Mom, LLC and <https://www.thebudgetmom.com/> follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
 
 ## **Definitions**
 
@@ -116,6 +116,18 @@ Our Website may contain links to other websites that are not under our direct co
 ## **Privacy Policy Updates**
 
 We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+
+## Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at kumiko@thebudgetmom.com ** ** and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
 
 ## **Questions About Our Privacy Practices or This Privacy Policy**
 
