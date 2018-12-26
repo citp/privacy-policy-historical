@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620040250id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%23EXT%3DMULTI_off_URL_privacy_20110917_pc_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226122535id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%23EXT%3DMULTI_off_URL_privacy_20110917_pc_) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : What is “personal” information?
 
@@ -24,7 +24,7 @@ We collect information during the application process, when communicating or tra
 We collect information to:
 
   * Establish and maintain a responsible commercial relationship with you. For example, we may collect information to confirm your identity or to establish credit worthiness.
-  * Understand your needs and preferences to recommend relevant offers, products, services and bundled discounts on behalf of our companies.
+  * Understand your needs and preferences, including through data analytics, and to recommend relevant offers, products, services and bundled discounts on behalf of our companies.
   * Understand who the people are that use our products and services, how they use them, and how we can improve them.
   * Manage and develop our business and operations. For example, we monitor usage volumes in order to plan and provision our communications networks. We also track product sales to determine the success of features, promotions and pricing.
   * Meet legal and regulatory requirements. For example, we may be required to collect information by a court order or to demonstrate compliance with a CRTC requirement.
@@ -47,7 +47,7 @@ The use of customer information in this way is governed by our Privacy Policy.
 
 Do we share personal information with outside organizations? 
 
-We do not provide personal information to any party outside of our family of companies except in limited circumstances in which it is necessary for us to do so. The third parties may we may provide with personal information include:
+We do not provide personal information to any party outside of our family of companies except in limited circumstances in which it is necessary for us to do so or if you have otherwise given consent. The third parties may we may provide with personal information include:
 
   * Our agents acting on our behalf, such as a company hired to perform installation work on our behalf.
   * Another communications service provider, in order to offer efficient and effective communications services (e.g., to provide mobile service while roaming in another company's coverage area) or as required by law.
@@ -65,7 +65,7 @@ If you prefer not to have your listing information provided to select organizati
 
 **Sharing information among our companies**
 
-Occasionally we may share information between our companies to help understand your information, communication and entertainment needs, and to provide you with relevant information to meet those needs.
+Occasionally we may share information between our companies to help understand your information, communication and entertainment needs, and to provide you with relevant information to meet those needs. Sensitive personal health information will not be shared between our companies.
 
 To manage your communications preferences: [bell.ca/marketingpreferences](http://www.bell.ca/marketingpreferences)
 
@@ -81,11 +81,11 @@ In certain urgent circumstances, we may collect, use or disclose personal inform
 
 * * *
 
-What is the Online Marketing Program and how does it use information? 
+What is the tailored marketing program and how does it use information? 
 
-Advertising is a reality in today’s online world, and people are finding that they receive ads that are irrelevant to them. With its online marketing program, Bell will work to ensure that the ads you do receive may be more relevant to you, rather than the random ads you may currently receive. In other words, you won't see more ads, just ads better suited to you.
+Advertising is a reality in today’s world, and people find that they receive ads that are irrelevant to them. With our tailored marketing program, Bell will work to ensure that the offers participants receive when using our services may be more relevant, rather than random marketing ads. In other words, participants won’t see more ads, just more relevant ads.
 
-If you participate, Bell will be able to customize advertising based on your usage patterns, similar to the ways that companies like Google have been doing for some time. These companies may sometimes use an individual's detailed URL and location info for marketing purposes and/or to limit the number of irrelevant ads a user might see. If you provide your express consent to participate in the Online Marketing Program and change your mind, you can opt-out at any time. [Learn more](http://www.bell.ca/online-marketing#ads-modal)
+Tailored marketing means Bell will be able to customize advertising based on participant account information and service usage patterns, similar to the ways that companies like Google and others have been doing for some time. If you provide your express consent to participate in the tailored marketing program and change your mind, you can opt-out at any time. [Read more](https://www.bell.ca/tailoredmarketing)
 
 * * *
 
@@ -282,6 +282,10 @@ Our Privacy Policy applies to all customers using our services and cannot be dec
 Additional questions or concerns about your privacy? 
 
 If you would like to view a copy of the previous version of our Privacy Policy, please [click here (PDF 78.18 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf)
+
+If you would like to view a copy of the previous version of our Privacy Policy applicable to Bell Smart Home and Bell Business Security & Automation, [please click here (PDF 555.73 KB)](https://web.archive.org/_web/guides/Common/Legal/AlarmForce-Privacy-Policy-Old.pdf).
+
+If you would like to view the previous version of our Privacy Code applicable to Bell MTS and AAA Security, [please click here (PDF 139.38 KB)](https://web.archive.org/_web/guides/Common/Legal/Privacy-Code-mar2016-RS3028.pdf).
 
 We'd be happy to discuss any questions or concerns you may still have about your privacy. To reach us, please visit our [contact us](http://support.bell.ca/Contact-us) section.
 
