@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626084835id_/https%3A//www.relix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226164447id_/https%3A//relix.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy : Relix
+# Privacy Policy - Relix Media
 
 _Last Modified May 25, 2018_
 
@@ -63,7 +63,7 @@ In general, Relix may use information that we collect about you in the following
 
 Do we share any information with outside parties?
 
-Relix shares corporate ownership with Brooklyn Bowl, The Capitol Theatre and the Lockn' Festival. Accordingly, Relix may disclose your name, email address and zip code to its affiliated companies operating these venues to enable them to market concerts and other events they think you might be interested in. If at any point you do not want to continue receive email messages from Relix or any of its affiliates, please follow the unsubscribe instructions in the relevant email.
+Relix shares corporate ownership with Brooklyn Bowl, The Capitol Theatre and the Lockn’ Festival. Accordingly, Relix may disclose your name, email address and zip code to its affiliated companies operating these venues to enable them to market concerts and other events they think you might be interested in. If at any point you do not want to continue receive email messages from Relix or any of its affiliates, please follow the unsubscribe instructions in the relevant email.
 
 Relix may also disclose your personal information to companies we engage as contractors or agents to perform services for us, such as fulfilling print or electronic magazine subscriptions, maintaining software, providing email marketing or administering a sweepstakes or contest. We share information with these contractors only to the extent reasonably necessary for them to perform these services on our behalf, and pursuant to confidentiality obligations.
 
@@ -87,4 +87,7 @@ Modification of Privacy Policy by Relix
 
 Relix reserves the right to change or update this Privacy Policy at any time by posting a notice explaining the changes. You will be deemed to have accepted such change if you continue to use our website after the revised policy has been posted.
 
-Read more: <https://www.relix.com/about#ixzz4wl2xqGi3>
+Read more: https://relix.com/about#ixzz4wl2xqGi3
+
+  
+
