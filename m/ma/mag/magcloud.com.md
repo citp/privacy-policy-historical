@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628125924id_/http%3A//www.blurb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226190047id_/http%3A//www.blurb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Book publishing services | Blurb Books | Blurb
 
@@ -20,9 +20,9 @@ Please read this Privacy Policy carefully. By accessing and using our Website an
 
 ### International Transfers
 
- **Your Personal Information will be processed by Blurb, Inc., and other third party data processors for the purposes identified and described in this Privacy Policy only.**
+**Your Personal Information will be processed by Blurb, Inc., and other third party data processors for the purposes identified and described in this Privacy Policy only.**
 
- **By accessing or using our Website or Services or otherwise providing Personal Information to us, you consent to the processing, transfer and storage of your information in and to the United States for these purposes only. Please be aware that countries, which are located outside the EEA, may not offer the same level of data protection as countries located in the EEA, although our collection, storage and use of your Personal Information will continue to be governed by this Privacy Policy.**
+**By accessing or using our Website or Services or otherwise providing Personal Information to us, you consent to the processing, transfer and storage of your information in and to the United States for these purposes only. Please be aware that countries, which are located outside the EEA, may not offer the same level of data protection as countries located in the EEA, although our collection, storage and use of your Personal Information will continue to be governed by this Privacy Policy.**
 
 Blurb, Inc. complies with the General Data Protection Regulation (the "GDPR"). Blurb also complies with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Blurb, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about GDPR, please visit <https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en>. For more information on the Privacy Shield Frameworks, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
@@ -120,25 +120,25 @@ Blurb and its partners use cookies or similar technologies to analyze trends, ad
 
 We may use Cookies to collect information about you.
 
-###  ** _What is a cookie?_**
+### **_What is a cookie?_**
 
 "Cookies" are small pieces of information that a web site sends to your computer’s hard drive while you are viewing a web site. For example, we may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website or Services. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website or Services may not work properly. We encode our Cookies so that only we can interpret the information stored in them. For more information about removing or rejecting Cookies, please see "Your Choices Regarding Your Personal Information" below.
 
 Blurb may also collect information via clear gifs or web beacons (also known as "tracking pixels") that help us better manage content on Website and Services by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to Cookies, and are used to track the online movements of Web users. In contrast to Cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages.
 
-###  ** _How do we use cookies?_**
+### **_How do we use cookies?_**
 
 Cookies do lots of different jobs on our Website, such as letting you navigate between pages efficiently, remembering your preferences, remembering your email and password, letting us analyze how well our Website is performing, and improving your experience. They also help ensure that advertisements you see whilst you are on our Website are more relevant to you and your interests
 
-###  ** _What cookies do we use?_**
+### **_What cookies do we use?_**
 
 Below we have provided a list of the categories of Cookies found on our Website, and a description of what those Cookies do. Some of these Cookies are essential to the operation of our Services. Others are not essential, but help to improve our Website by collecting [anonymous] user information, or try and improve your experience of our Website by remembering your choices. We also use cookies, which collect information about your browsing habits in order to try, and display advertising, which is relevant to you and your interests.
 
 We use the following types of Cookies:
 
- **Stricly Necessary Cookies** We use a number of Cookies, which are essential to the operation of our Website and Services. For example, these types of Cookies enable you to log into secure areas of the Services, provide the necessary security when you access our Website or Services, and help ensure the content of the pages you request load quickly. Without these cookies, services that you have asked for cannot be provided.
+**Stricly Necessary Cookies** We use a number of Cookies, which are essential to the operation of our Website and Services. For example, these types of Cookies enable you to log into secure areas of the Services, provide the necessary security when you access our Website or Services, and help ensure the content of the pages you request load quickly. Without these cookies, services that you have asked for cannot be provided.
 
- **Functional Cookies:** Functional Cookies are ones that we set to help the Services work the way you expect them to. Some Cookies are necessary to enable you to move around our Website and/or to use the Services. Without these Cookies, we can't provide the Services you have asked for, like processing payments made via our online store.
+**Functional Cookies:** Functional Cookies are ones that we set to help the Services work the way you expect them to. Some Cookies are necessary to enable you to move around our Website and/or to use the Services. Without these Cookies, we can't provide the Services you have asked for, like processing payments made via our online store.
 
 We use other Cookies to help recognize and remember you when you are logged into our Services so we can remember your settings and preferences, such as your language and region or logged in state. These Cookies also may help us provide services you have asked for.
 
@@ -146,7 +146,7 @@ As described below, you may disable any of these functional Cookies; but if you 
 
 ### Performance and Analytical Cookies:
 
-###  _Advertising and Web Analytic Tools_
+### _Advertising and Web Analytic Tools_
 
 As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
@@ -154,7 +154,7 @@ We use third-party advertising and/or web analytics companies to serve ads and/o
 
 For more information about third-party advertising and how to exercise your choices regarding advertising customization by third-party ad networks on our Services, visit the Network Advertising Initiative's website here.
 
- ** _Google Analytics_** Our Website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses Cookies to help the Website analyze how users use the Website and Services. The information generated by the Cookie about your use of the Website and Services will be transmitted to and stored by Google on servers in the United States.
+**_Google Analytics_** Our Website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses Cookies to help the Website analyze how users use the Website and Services. The information generated by the Cookie about your use of the Website and Services will be transmitted to and stored by Google on servers in the United States.
 
 In case IP-anonymization is activated on this website, your IP Address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP Address will be first transferred to a Google server in the USA and truncated there. The IP-anonymization is active on this Website.
 
@@ -173,9 +173,9 @@ For further information please visit:
 
 We offer you the following choices regarding the collection, storage, use, and sharing of your Personal Information:
 
- **Promotional Communications:** You have the right to ask us not to process Personal Information for marketing or promotional purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. When you receive promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the communication you receive or by contacting us directly (please see contact information below). Despite your indicated preferences, we may still send you non-promotional communications regarding the services we provide to you, such as transaction reports, and notices regarding changes to the Website or Services. In any case we may send updates to our Terms of Use, Privacy Policy or other policies.
+**Promotional Communications:** You have the right to ask us not to process Personal Information for marketing or promotional purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. When you receive promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the communication you receive or by contacting us directly (please see contact information below). Despite your indicated preferences, we may still send you non-promotional communications regarding the services we provide to you, such as transaction reports, and notices regarding changes to the Website or Services. In any case we may send updates to our Terms of Use, Privacy Policy or other policies.
 
- **Cookies:** Most web browsers are set to accept Cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser Cookies.
+**Cookies:** Most web browsers are set to accept Cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser Cookies.
 
 ### Managing Cookies
 
@@ -183,30 +183,30 @@ You can block cookies by activating the setting on your browser that allows you 
 
 Here’s how to do it:
 
-  * Google Chrome
+  * Google Chrome 
     * In the settings menu, select 'show advanced settings' at the bottom of the page.
     * Select the 'content settings' button in the privacy section.
     * The top section of the page that then appears tells you about cookies and allows you to set the cookies you want. It also allows you to clear any cookies currently stored.
-  * Mozilla Firefox
+  * Mozilla Firefox 
     * In the tools menu, select 'options' (MAC users, go to the Firefox menu select ‘preferences’)
     * Select the privacy tab in the options box.
     * From the dropdown choose, 'use custom settings for history'. This will bring up the options for cookies and you can choose to enable or disable them by clicking the tickbox.
-  * Internet Explorer 6+
+  * Internet Explorer 6+ 
     * In the tools menu, select 'Internet options'.
     * Click the privacy tab.
     * You will see a privacy settings slider which has six settings that allow you to control the number of cookies that will be placed: Block All Cookies, High, Medium High, Medium (default level), Low, and Accept All Cookies.
-  * Safari browser
+  * Safari browser 
     * In the settings menu / Safari menu, select the 'preferences' option.
     * Open the privacy tab.
     * Select the option you want from the 'block cookies' section.
-  * All other browsers
+  * All other browsers 
     * For information on how to manage cookies via other browsers, please consult your documentation or online help files.
 
 
 
 Please note that if you choose to remove or reject Cookies, this could affect the availability and functionality of the Services. For further information about cookies, including how to refuse Cookies, please visit www.allaboutcookies.org .You may change any of the Personal Information in your account by editing your online profile or by sending an email to us at the email address set forth below.
 
- **Behavioral Advertising Targeting:** We partner with a third party to display advertising on the Website and to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here.](http://www.youronlinechoices.eu/)
+**Behavioral Advertising Targeting:** We partner with a third party to display advertising on the Website and to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here.](http://www.youronlinechoices.eu/)
 
 If you would like to opt out of third-party advertising behavior collection and use from your use of our Website, you may do so via the Network Advertising Initiative at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
