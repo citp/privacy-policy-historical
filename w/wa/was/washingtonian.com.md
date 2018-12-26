@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtonian.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075056id_/https%3A//www.washingtonian.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonian.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226155019id_/https%3A//www.washingtonian.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Washingtonian
 
@@ -42,7 +42,7 @@ The ads appearing on this web site are delivered to you by our web advertising p
 
 Our Web advertising partners send us aggregate, anonymous information about visits to this site, such as the number of times visitors clicked on a particular advertisement – but not visitors’ names, addresses, or other personal information.
 
-You also should be aware that our Web advertising partners may place or recognize a unique cookie on your browser. Cookies enable advertisers to determine whether you have seen a particular advertisement before. For more information about DoubleClick’s privacy practices, cookies, and how to “opt-out” of receiving cookies, please visit <http://www.doubleclick.net/us/corporate/privacy>. For more information about Google’s privacy practices, please visit  <http://www.google.com/privacy.html>.
+You also should be aware that our Web advertising partners may place or recognize a unique cookie on your browser. Cookies enable advertisers to determine whether you have seen a particular advertisement before. For more information about DoubleClick’s privacy practices, cookies, and how to “opt-out” of receiving cookies, please visit [http://www.doubleclick.net/us/corporate/privacy](https://www.doubleclick.net/us/corporate/privacy). For more information about Google’s privacy practices, please visit  [http://www.google.com/privacy.html](https://www.google.com/privacy.html).
 
 ## Children
 
