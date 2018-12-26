@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognizant.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626065548id_/http%3A//www.cognizant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognizant.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226145355id_/http%3A//www.cognizant.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cognizant Technology Solutions
 
@@ -21,6 +21,10 @@ The data collected via our site is stored in a secure server with our ISP who wi
 Registration
 
 Using cognizant.com does not require registration of any kind other than voluntary registration for white papers, investor kits, alumni correspondence and registration to conferences and netsessions organized by Cognizant. The personal data collected for these purposes will not be sold to anyone outside Cognizant and will be used by Cognizant for one-on-one contact with the registrants. 
+
+Personal Information
+
+If you are applying for a job at Cognizant and you want more information about how we use your personal information for the hiring process, please read the [Global Associate Privacy Notice (APN)](https://www.cognizant.com/about-cognizant-resources/global-associate-privacy-notice.pdf). 
 
 Cookies
 
