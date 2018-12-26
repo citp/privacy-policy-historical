@@ -1,75 +1,100 @@
-> *The following text is extracted and transformed from the ozworth.com privacy policy that was archived on 2012-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120210080431id_/http%3A//www.ozworth.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozworth.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Legal Agreements - GoDaddy Respects Your Privacy
 
-Our Privacy Policy 
+**GoDaddy Respects Your Privacy**
 
-**What This Privacy Policy Covers**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-* This policy covers how Ozworth LLC, a Connecticut limited liability company ("OZ") treats personal information that OZ collects and receives, including information related to your past use of OZ products and services. Personal information is defined as information about you that is personally identifiable, such as your name, mailing address, email address, or other contact information, and that is not otherwise publicly available.
-* This policy does not apply to the practices of companies that OZ does not own or control or to people that OZ does not employ or manage.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
- **Information Collection and Use**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-* OZ collects personal information when you register with OZ, when you use OZ products or services, when you visit OZ's website, and when you enter OZ promotions or special offer codes 
-* When you register we ask for information such as your name, alternate email address, zip code, company name, and contact information. Once you register with OZ and use our services, you are not anonymous to us. 
-* OZ collects information about your transactions with us and with some of our business partners and affiliates, including information about your use of the products and services that we offer. 
-* OZ may automatically receive and record information on our server logs from your browser, including your IP address, OZ cookie information, and the page you request. 
-* OZ uses information for the following general purposes: to customize our website, advertising and content, to fulfill your requests for products and services, to improve our services and customer relations, to contact you, and to conduct research.
+**Information Collection and Use**
 
-**Children**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-* Persons under the age of 18 may not register independently for OZ products or services. For hosting and email plans, we ask that children have a parent or guardian create a DFYM account that will serve as a family account. For email only plans, we ask that a parent or guardian serve as billing contact for the account. 
-* OZ will not contact persons under the age of 18 for marketing purposes without a parent's permission. 
-* OZ does not ask persons under the age of 18 for more personal information, as a condition of participation, than is reasonably necessary to use a given product or service under the family account.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Information Sharing and Disclosure**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-* OZ does not sell, rent, or share personal information about you with other people or nonaffiliated companies except to provide products or services that you have requested, when we have your permission, and under the following circumstances:
-* We provide the information to trusted partners and affiliates who work on behalf of or with OZ under confidentiality agreements. These companies may use your personal information to help OZ communicate with you about offers from OZ and our marketing partners and affiliates. However, these companies do not have any independent right to share this information; 
-* We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or to defend against legal claims; 
-* We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of OZ's terms of service, or as otherwise required by law; 
-* We transfer information about you if OZ is acquired by or merged with another company. In this event, OZ will notify you before more information about you is transferred and becomes subject to a different privacy policy. 
-* OZ may display targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria. 
-* OZ will not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-* OZ advertisers may include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such a stores, airlines, and software companies).
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Cookies**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-* OZ may set and access OZ cookies on your computer. 
-* OZ may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to OZ's cookies.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Your Ability to Edit and Delete Your Account Information**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-* You can edit your OZ account information at any time. 
-* We reserve the right to send you certain communications relating to the OZ service, such as service announcements, administrative messages and newsletters, that are considered part of your OZ account, without offering you the opportunity to opt-out of receiving them. 
-* You can choose to have OZ delete your record after account cancellation. Some information may remain archived in our system records after your account has been deleted.
+**Security**
 
- **Confidentiality and Security**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-* We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+**Updating Your Information**
 
-We have physical, electronic and procedural safeguards to protect personal information about you. Your OZ account information is password-protected. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-* In certain areas OZ uses industry-standard SSL-encryption to protect sensitive data transmissions. 
-* OZ encourages our customers to use SSH and SCP (secure Telnet and FTP) programs in order to better safeguard customer data.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
- **Changes to this Privacy Policy**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-* OZ may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your OZ account or by placing a prominent notice on our site.
+      iii.      You may call us at: (480) 505-8800
 
- **Questions and Suggestions**
+       iv.      You may fax us at: (480) 505-8844
 
-If you have questions or suggestions, please contact us at:
+**Sending Emails**
 
-OZWORTH LLC
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-ATTN: Customer Care
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-24 East Avenue, # 1284
+**Compliance with Laws and Law Enforcement**
 
-New Canaan, CT 06840
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Tel.: (866) 456 7926
+**Third Party Service Providers**
 
-myozworth@gmail.com
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
