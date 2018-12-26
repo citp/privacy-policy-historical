@@ -1,135 +1,162 @@
-> *The following text is extracted and transformed from the mydramalist.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228203804id_/http%3A//mydramalist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydramalist.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226201112id_/https%3A//mydramalist.com/privacy) for the most accurate reproduction.*
 
-# mydramalist.com | Privacy Policy
+# Privacy Policy - MyDramaList
 
-**What information do we collect?**
+Your privacy is critically important to us. At MyDramaList run by Nexoff LLC, we have a few fundamental principles:
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
-
- **DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on mydramalist.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to mydramalist.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+  * We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
+  * We store personal information for only as long as we have a reason to keep it.
+  * We aim to make it as simple as possible for you to control what information on MyDramaList is shared publicly (or kept private), indexed by search engines, and permanently deleted.
+  * We help protect you from overreaching government demands for your personal information.
+  * We aim for full transparency on how we gather, use, and share your personal information.
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on mydramalist.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+Below is our Privacy Policy, which incorporates and clarifies these principles.
 
-mydramalist.com has no access to or control over these cookies that are used by third-party advertisers. 
+### Who We Are and What This Policy Covers
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mydramalist.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Anyoung haseyo. Konnichiwa. Ni Hao. Sawasdee! We are the folks behind [MyDramaList.com](http://mydramalist.com/), the platform that gives fans of asian films and TV shows a voice to rate & review titles, create a watchlist, socialize with other fans and so much more. This Privacy Policy applies to information that we collect about you when you use [MyDramaList.com](http://mydramalist.com/)
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+Throughout this Privacy Policy we’ll refer to our website and other services collectively as “Services.” Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+### Information We Collect
 
-**What do we use your information for?**
+We only collect information about you if we have a reason to do so–for example, to provide our Services, to communicate with you, or to make our Services better. We collect information in three ways: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.
 
-Any of the information we collect from you may be used in one of the following ways: 
+#### Information You Provide to Us
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+It’s probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * **Basic Account Information:** We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a [MyDramaList.com](http://mydramalist.com/) account to provide a username and email address–and that’s it.
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * **Public Profile Information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a MyDramaList account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.
 
-\- To process transactions
+  * **Transaction and Billing Information:** If you purchase a VIP subscription or any merchandise we may sell from us, you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * **Communications With Us (Hi There!):** You may also provide us information when you respond to surveys, communicate with our support staff via email or private message about a support question, or post in our public forums.
 
-\- To administer a contest, promotion, survey or other site feature
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-\- To send periodic emails
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+#### _Information We Collect Automatically_
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We also collect some information automatically:
 
- **How do we protect your information?**
+  * **Log Information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services.
+  * **Usage Information:** We collect information about your usage of our Services. For example, we collect information about the actions that users perform on the site –in other words, who did what, when and to what thing (e.g., user posted a comment on ‘x’ page at so and so time). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
+  * **Location Information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions.
+  * **Information from Cookies & Other Technologies:** A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on emails. MyDramaList uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
-**Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+#### _Information We Collect from Other Sources_
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We may also get information about you from other sources. For example, if you create or log into your [MyDramaList.com](http://mydramalist.com/) account through another service (like Google) or if you connect your account to a social media service (like Twitter) through our [Connected feature](https://mydramalist.com/account/apps), we will receive information from that service (such as your username, basic profile information, and friends list) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+### How And Why We Use Information
 
- **Do we disclose any information to outside parties?**
+####  _Purposes for Using Information_
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We use information about you as mentioned above and for the purposes listed below:
 
-**Third party links**
+  * To provide our Services–for example, to set up and maintain your account, charge you for any of our paid Services;
+  * To further develop and improve our Services–for example by adding new features that we think our users will enjoy;
+  * To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
+  * To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition.
+  * To monitor and prevent any problems with our Services, protect the security of our Services, fight spam, and protect the rights and property of MyDramaList and others, which may result in us declining a transaction or the use of our Services;
+  * To communicate with you, for example through an email, about offers and promotions offered by MyDramaList and others we think will be of interest to you, solicit your feedback, or keep you up to date on MyDramaList and our products.
+  * To personalize your experience using our Services, provide content recommendations (for example, target our marketing messages to groups of our users (for example, those who like a certain tv show or film), and serve relevant advertisements.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+#### _Legal Bases for Collecting and Using Information_
 
- **Childrens Online Privacy Protection Act Compliance**
+A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account–for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for compliance with a legal obligation; or (3) The use is necessary in order to protect your vital interests or those of another person; or (4) We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or (5) You have given us your consent–for example before we place certain cookies on your device and access and analyze them later on.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+### Sharing Information
 
- **Online Privacy Policy Only**
+We do not sell our users’ private personal information. We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+  * **Subsidiaries, Employees, and Independent Contractors:** We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
+  * **Third Party Vendors:** We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, email support services that help us communicate with you, registrars, registries, and data escrow services that allow us to provide domain registration services, those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers), who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them.
+  * **Legal Requests:** We may disclose information about you in response to a subpoena, court order, or other governmental request
+  * **To Protect Rights, Property, and Others:** We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of MyDramaList, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay
+  * **Business Transfers:** In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+  * **With Your Consent:** We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so, such as the social media services that you connect to your site through our Connect feature.
+  * **Aggregated or De-Identified Information:** We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
+  * **Published Support Requests:** And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
 
-**Your Consent**
 
-By using our site, you consent to our web site privacy policy. 
 
-**Changes to our Privacy Policy**
+#### _Information Shared Publicly_
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+Information that you choose to make public is–you guessed it–disclosed publicly. That means, of course, that information like your public profile, posts, other content that you make public on MyDramaList are all available to others! Public information may also be indexed by search engines or used by third parties. Please keep all of this in mind when deciding what you would like to share.
 
-**Contacting Us**
+### How Long We Keep Information
 
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+We generally discard information about you when we no longer need the information for the purposes for which we collect and use it–which are described in the section above on How and Why We Use Information–and we are not legally required to continue to keep it.
 
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
+### Security
 
-mydramalist.com 
+We take reasonable steps to protect the information provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any information via the Internet.
 
-Email:  
-contact@mydramalist.com  
+### Choices
+
+You have several choices available when it comes to information about you:
+
+  * **Limit the Information that You Provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services–for example, paid, VIP features–may not be accessible.
+  * **Opt-Out of Electronic Communications:** You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
+  * **Set Your Browser to Reject Cookies:** At this time, MyDramaList does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using the MyDramaList website, with the drawback that certain features of the site may not function properly without the aid of cookies.
+
+
+
+### Your Rights
+
+If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
+
+  * Request access to your personal data;
+  * Request correction or deletion of your personal data;
+  * Object to our use and processing of your personal data;
+  * Request that we limit our use and processing of your personal data; and
+  * Request portability of your personal data.
+
+
+
+You can usually access, correct, using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us. EU individuals also have the right to make a complaint to a government supervisory authority.
+
+### Children
+
+Our Services are for users age 13 and over and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us please contact us at [support@MyDramaList.com](mailto:support@MyDramaList.com). For residents of the EEA, where processing of personal information is based on consent, MyDramaList will not knowingly engage in that processing for users under the age of consent established by applicable data protection law. If we learn that we are engaged in that processing with such users, we will
+
+### How to Reach Us
+
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us [privacy@MyDramaList.com](mailto:privacy@MyDramaList.com)
+
+### Other Things You Should Know (Keep Reading!)
+
+####  _Transferring Information_
+
+Because MyDramaList’s Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us or third party data processors. This is required for the purposes listed in the How and Why We Use Information section above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include:
+
+  * In the case of US based entities, entering into European Commission approved standard contractual arrangements with them
+  * In the case of entities based in other countries outside the EEA, entering into European Commission approved standard contractual arrangements with them.
+
+
+
+#### _Links To Other Website_
+
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by us (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+####  _Ads and Analytics Services Provided by Others_
+
+Ads appearing on any of our Services may be delivered by advertising networks. Other parties may also provide analytics services via our Services. These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver advertisements that may be more targeted to your interests. Please note this Privacy Policy only covers the collection of information by MyDramaList and does not cover the collection of information by any third party advertisers or analytics providers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, MyDramaList may change its Privacy Policy from time to time. MyDramaList encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by updating the date, and, in some cases, we may provide additional notice (such as adding a statement to our homepage [MyDramaList.com](http://mydramalist.com/)), or sending you a notification through email). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
+
+  * Last modified: May 23, 2018
+  * Effective: May 25, 2018
+
 
