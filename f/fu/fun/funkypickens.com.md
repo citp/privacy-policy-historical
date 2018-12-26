@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614092713id_/http%3A//www.funkypickens.com/wordpress/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226022745id_/http%3A//www.funkypickens.com/wordpress/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Funky Pickens
 
-  * 
+  *   * 
 
 
 Privacy Policy  
@@ -35,5 +35,5 @@ cliffstr@hotmail.com – All Rights Reserved
 
 comments
 
-  * 
+  *   * 
 
