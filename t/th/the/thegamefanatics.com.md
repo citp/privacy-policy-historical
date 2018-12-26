@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626081747id_/https%3A//thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226161512id_/https%3A//thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Disclosure • The Game Fanatics
+# Privacy Policy & Disclosure - The Game Fanatics
 
 The Game Fanatics strives to bring you the best in independent video game journalism. We are not perfect, do not claim to be perfect, and probably will never be perfect, but we do believe that perfection is something to strive for, no matter how futile our attempts may be. The articles within, though a part of The Game Fanatics, are the expressed opinions of the individual writers. All images displayed are property of their respective owners. Most of the items and games we review are sent to us to be reviewed. We do get paid to promote certain products or services. The Game Fanatics is not owned by any company or agency, and at no time can anyone not listed on the [Staff page](https://thegamefanatics.com/fanatics/) represent The Game Fanatics.
 
