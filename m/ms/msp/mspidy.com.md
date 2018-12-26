@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspidy.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519042549id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspidy.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226144410id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy & Policy - Mspidy Share Your Stories gives Social Media News and Web Tips
 
