@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubmmedica.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628062001id_/http%3A//imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubmmedica.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226183714id_/http%3A//imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT UBM MEDICA LLC
 
@@ -76,7 +76,7 @@ To remove your name from our email marketing lists, please follow the directions
   * You may update your name, contact information, credentials, and specializations at any time by 
     * submitting updated information as you register for something you have not used before, 
     * returning to a registration page you have used and following the directions there, or 
-    * sending us an email at [user.registration@cmpmedica.com](mailto:user.registration@cmpmedica.com "mailto:user.registration@cmpmedica.com"). 
+    * sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88fdfbedfaa6faedefe1fbfcfae9fce1e7e6c8ebe5f8e5edece1ebe9a6ebe7e5 "mailto:user.registration@cmpmedica.com"). 
   * To cancel or update subscriptions to print publications call the number listed in the magazine or check the website associated with the publication. 
 
 
@@ -123,7 +123,7 @@ We may change the provisions of this policy from time to time and urge you to ch
 **Contact Us**   
 If you have questions about this policy or its use, please contact us at 
 
-_[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com)_
+_[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9c2d5c1c5d5c3c4c3f0c5d2dd9ed3dfdd)_
 
 . 
 
