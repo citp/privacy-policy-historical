@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033827id_/https%3A//yandex.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030525id_/https%3A//yandex.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Legal documents. Help
 
 Effective Date: 24 of May, 2018
 
