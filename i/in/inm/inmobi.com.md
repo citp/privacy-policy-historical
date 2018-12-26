@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023822id_/https%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226065343id_/https%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
 
-# InMobi | Monetization | Advertising | Remarketing | Video | Research Panel
+# InMobi | Enterprise Mobile Marketing & Advertising Platforms
 
 ## Privacy Policy
 
@@ -178,4 +178,4 @@ We retain information for only as long as is necessary to fulfil the purposes ou
 
 If you have any questions about this Privacy Policy, please contact us at [privacy@inmobi.com](mailto:privacy@inmobi.com).
 
-_The amendments made by InMobi to the Privacy Policy can be viewed here:_[PDF](http://resources.inmobi.com/l/74462/2017-03-06/7bv3jn/74462/117661/Privacy_Policy.pdf)
+_The amendments made by InMobi to the Privacy Policy can be viewed here:_[PDF](https://go.inmobi.net/hubfs/Privacy%20Policy_24112017%20November%202017.pdf)
