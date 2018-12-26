@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentmen.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604221057id_/https%3A//rentmen.eu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentmen.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226012245id_/https%3A//rentmen.eu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RentMen
 
