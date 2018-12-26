@@ -1,85 +1,202 @@
-> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007140837id_/https%3A//www.nanorep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083212id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Nanorep - Digital Customer Self-Service Solution
+# Privacy Policy | LogMeIn
 
-nanorep Technologies Ltd. (“nanorep”, “us” or “we”) respect your privacy. This policy explains the privacy practices for our website [nanorep.com](https://web.archive.org/) (the “ **Website** “). It describes the ways your personal information is collected and used in connection with the Website. This policy is incorporated by reference to our [Terms of Service](https://web.archive.org/terms) (Terms and Conditions of Website Usage).
+Last Updated on January 1, 2018
 
-The personal information you provide through the Website (as described below) is up to your own volition and depends on your consent to this policy. You are not legally obligated to provide or give access to this information.
+**Introduction**
 
-Note that access to and use of our products and services is subject to a separate privacy policy, not this policy.
+This privacy policy will help you understand what information we collect and use at LogMeIn, and the choices you have associated with that information. When we refer to “LogMeIn,” “we,” “our,” or “us” in this policy, we are referring to LogMeIn, Inc **. _,_** and its subsidiaries and affiliates, which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by LogMeIn. LogMeIn may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 8 below. This privacy policy covers the digital properties listed [here](https://www.logmeininc.com/legal/digital-properties-list). The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.
 
-## What we collect
+If you have any questions about this privacy policy or our practices, please [contact us](mailto:privacy@logmein.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://urldefense.proofpoint.com/v2/url?u=https-3A__feedback-2Dform.truste.com_watchdog_request&d=DwMFaQ&c=k6LEwkJiSX1kJxtgPu1uYQ&r=QLiCko_f6m3iDMi3JnmFAUELdmCYehFLL7BET60EJXQ&m=ubOy_Fe32ygOKcMzLwVerldeYhdzrSHW4Y5BmhUu0a4&s=gavYy98mxxNED4E6Ocrx3tc1tFoyH-oHdInjv5gmXr8&e=).
 
-During your use of the Website, for example when you are asked to complete our online contact forms (such as our ‘request a demo’ form), we ask that you provide us with personal information, such as your name, email address, telephone number. We will explicitly indicate the mandatory fields for completion. You must provide complete, accurate and correct details. If you do not provide the required information or provide false, incorrect, or out dated information, we may not be able to process your request or inquiry or contact you.
+**EU-U.S. and Swiss Privacy Shield**
 
-We also collect information pertaining to your activities on the Website, including the information or content that you viewed, your session durations, the web pages you accessed, the Internet Protocol (IP) address through which you accessed the Website and the city or town where the computer you used to access the Website is located. We may do so by ourselves or through third party analytics tools, such as Google Analytics.
+[](https://privacy.truste.com/privacy-seal/validation?rid=50e030ed-d894-491b-aa22-074f373242c5)
 
-## Children
+LogMeIn has self-certified to the EU-U.S. Privacy Shield and Swiss Privacy Shield with respect to Customer Data. For more information, see our [Privacy Shield Notice](https://www.logmeininc.com/legal/privacy-shield).
 
-We do not intentionally or knowingly collect personal information about children younger than 13.
+**Contents:**
 
-## What we do with the information we gather
-
-We may use the information outlined above for the following purposes:
-
-  * To facilitate the access to and use of the Website, and to manage the operational and administrative aspects of the Website;
-  * If you provided your contact details or submitted an inquiry, we may use your personal information to contact you, either directly or through others on our behalf, including by marketing and promotional e-mail messages;
-  * To develop and improve our products and services as a whole, and to improve and enhance the services and content offered on the Website;
-  * To enforce the Terms and this policy, and prevent misuse of the Website and our services;
-  * To comply with any applicable law and assist law enforcement agencies and authorities, if we believe it is necessary or justified; and
-  * Take any action in any case of dispute involving you with respect to the Website.
+  1. **Information We Collect and Receive**
+  2. **How We Use the Information We Collect and Receive**
+  3. **Analytics, Cookies and Other Web Site Technologies**
+  4. **Information Sharing**
+  5. **Communicating**
+  6. **Accessing Your Data**
+  7. **Security**
+  8. **Changes to this Statement/Contact Us**
 
 
 
-## Sharing Information with third parties
+**1\. Information We Collect and Receive**
 
-We may share personal information outlined in this policy, with others, in any of the following instances:
+We collect several different types of information to provide Services to you, including:
 
-  * With our service providers – in order to operate, maintain and enhance the Website and facilitate our email communications with you;
-  * If you have breached the Terms, abused your rights to use the Website, or violated any applicable law – your information may be shared with authorities or other third parties, if we believe it is necessary or justified;
-  * With attorneys, courts and relevant third parties, in any case of dispute, or legal proceeding of any kind involving you with respect to the Website;
-  * If the operation of the Website is organized within a different framework, or through another legal structure or entity (such as due to a merger or acquisition), provided that those entities agree to be bound by the provisions of this policy, with reasonably necessary changes taken into consideration; and
-  * We may share personal information with our corporate group entities (companies that we control, control us, or are under common control with us – whether directly or indirectly), but their use of such information must comply with the policy.
+**Customer Account and Registration Data:** This includes information you provide to create your account with us or register for events, webinars, surveys, etc. and may include, first and last name, billing information, a password and a valid email address.
+
+**Service Data (including Session and Usage data):**
+
+When you use our Services, we receive information generated through the use of the Service, either entered by you or others who use the Services with you (for example, schedules, attendee info, etc.), or from the Service infrastructure itself, (for example, duration of session, use of webcams, connection information, etc.)  We may also collect usage and log data about how the services are accessed and used, including information about the device you are using the Services on, IP addresses, location information, language settings, what operating system you are using, unique device identifiers and other diagnostic data to help us support the Services.
+
+**Third Party Data:** We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. We may also receive information from other affiliated companies that are a part of our corporate group. This helps us to update, expand and analyze our records, identify new prospects for marketing, and provide products and services that may be of interest to you. 
+
+**Location Information:** We collect your location-based information for the purpose of providing and supporting the service and for fraud prevention and security monitoring. If you wish to opt-out of the collection and use of your collection information, you may do so by turning it off on your device settings.
+
+**Device Information:** When you use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").
+
+**2\. How We Use the Information We Collect and Receive**
+
+LogMeIn may access (which may include, with your consent, limited viewing or listening) and use the data we collect as necessary (a) to provide and maintain the Services; (b) to address and respond to service, security, and customer support issues; (c) to detect, prevent, or otherwise address fraud, security, unlawful, or technical issues; (d) as required by law; (e) to fulfill our contracts; (f) to improve and enhance the Services; (g) to provide analysis or valuable information back to our Customers and users.
+
+Some specific examples of how we use the information:
+
+  * Create and administer your account
+  * Send you an order confirmation
+  * Facilitate and improve the usage of the services you have ordered
+  * Assess the needs of your business to determine suitable products
+  * Send you product updates, marketing communication, and service information
+  * Respond to customer inquiries and support requests
+  * Conduct research and analysis
+  * Display content based upon your interests
+  * Analyze data, including through automated systems and machine learning to improve our services and/or your experience
+  * Provide you information about your use of the services and benchmarks, insights and suggestions for improvements
+  * Market services of our third-party business partners
 
 
 
-In any case other than above, your personal information will not be shared with others unless you provide your explicit prior consent.
+LogMeIn also collects and stores meeting attendee information to fulfill our obligation to our customers and provide the Services. With their consent, we may also directly provide product and other LogMeIn related information to attendees. LogMeIn will retain your information as long as your account with us is active, to comply with our legal obligations, to resolve disputes, and enforce our agreements.
 
-## Statistical and Analytical Data
+If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, please [contact us](mailto:privacy@logmein.com) here.
 
-We may use the information we collect, as outlined above, to compile anonymized or aggregated information, either by ourselves or with the assistance of third parties such as Google Analytics. We may share, sell or otherwise communicate and make available such anonymized or aggregated information to any other third party, at our sole discretion.
+**3\. Analytics, Cookies and Other Web Site Technologies**
 
-## Security
+LogMeIn is continuously improving our websites and products through the use of various third party web analytics tools, which help us understand how visitors use our websites, desktop tools, and mobile applications, what they like and dislike, and where they may have problems. While we maintain ownership of this data, we do not share this type of data about individual users with third parties.
 
-We implement measures to reduce risks of damage, loss and unauthorized access or use of personal information, but they do not provide absolute security. Therefore, we cannot guarantee that the Website or our systems are immune to unauthorized access to the information stored therein and to other information security risks.
+Geolocation and Other Data:
 
-## Cookies
+We may utilize precise Geolocation data but only if you specifically opt-in to collection of that data in connection with a particular service. We also use information such as IP addresses to determine the general geographic locations areas of our visitors. The web beacons used in conjunction with these web analytics tools may gather data such as what browser or operating system a person uses, as well as, domain names, MIME types, and what content, products and services are reviewed or downloaded when visiting or registering for services at one of our websites or using one of our mobile applications.
 
-We and our third party website analytics providers may use cookies on the Website. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers. The cookies may contain a variety of information, such as the web pages you have accessed, session durations and IP addresses. Cookies are used for various purposes, such as to personalize the use of the Website and collect statistical information about the use of the Website.
+Google Analytics and Adobe Marketing Cloud:
 
-Some cookies may expire when the session ends and you close your browser. Other cookies are saved on your computer’s hard drive. If you wish to block cookies, you may do so through your browser’s settings. Please refer to the browser’s help file for further information. However, bear in mind that disabling cookies may complicate or even prevent use of the Website, or certain features in it.
+We use Google Analytics as described in [“How Google uses data when you use our partners' sites or apps.”](https://www.google.com/policies/privacy/partners/) You can prevent your data from being used by Google Analytics on websites by installing the Google Analytics opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout).  We also employ IP address masking, a technique used to truncate IP addresses collected by [Google Analytics](https://www.google.com/policies/privacy/partners/) and store them in an abbreviated form to prevent them from being traced back to individual users. Portions of our website may also use Google Analytics for Display Advertisers including DoubleClick or Dynamic Remarketing which provide interest-based ads based on your visit to this or other websites.  You can use [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated) to manage the Google ads you see and opt-out of interest-based ads.  We also use Adobe Marketing Cloud as described [here](http://www.adobe.com/privacy/marketing-cloud.html#use).  You can opt-out of use of this information as described below.
 
-## Transfer of data outside your territory
+Tracking Technologies:
 
-We may store and process the personal information in the United States and in other various locations throughout the globe, including through cloud services. You hereby provide your express and unambiguous consent to such cross-border transfer of your personal information.
+LogMeIn and our partners use cookies and similar tracking technologies to track user traffic patterns and hold certain registration information. Tracking technologies also used are beacons, tags and scripts to collect and track information and to improve and analyze our service. If you wish to not have the information these technologies collect used for the purpose of serving you targeted ads, you may [opt-out here](http://preferences-mgr.truste.com/), or if located in the European Union, [click here](http://www.youronlinechoices.eu/). The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can still review the website if you choose to set your browser to refuse all cookies; however, you must enable cookies to establish an account and to install the Services. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-## Links to other websites
+Examples of Cookies We Use:
 
-Our website may contain links to enable you to easily visit other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over those other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites which are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Cookie Type
 
-## Changes to this Privacy Policy
+| 
 
-We may change this policy from time to time. Substantial changes will take effect 30 days after we provide a notice of such changes on the Website. Other changes will take effect 7 days after we provide notice. However, if the policy is amended to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required. The most up-to-date policy will always be accessible on our Website.
+Purpose
 
-In any event, we will seek your explicit consent if we wish to have substantial changes to the policy apply to personal information we collected prior to those changes.
+| 
 
-## Commercial communications
+Description  
+  
+---|---|---  
+  
+Session Cookies
 
-By providing us your email through our ‘request a demo’ form or other forms indicating your commercial interest in our services, you give your consent to us sending you marketing messages via your email. You may opt-out of our newsletters and marketing messages by following emailing us your request, to: [support@nanorep.com](mailto:support@nanorep.com).
+| 
 
-## Controlling your personal information
+We use these cookies to operate our websites.
 
-You may ask to review the personal information about you that is stored in our systems, or have us update, correct or delete it, subject to applicable law. If you wish to exercise this right, contact us via email: [support@nanorep.com](mailto:support@nanorep.com). Note that binding requests from law enforcement agencies to deviate from our ordinary data deletion practices may cause delays in the deletion of your personal information. Finally, note that information may be forensically retrieved even after it is deleted.
+| 
 
-**_Contact us_**  
-You may send us questions and comments to [support@nanorep.com](mailto:support@nanorep.com).
+Some cookies are essential for the operation of LogMeIn websites. If a user chooses to disable these cookies, the user will not be able to access all of the content and features.  
+  
+Preference Cookies
+
+| 
+
+We use these cookies to remember your preferences.
+
+| 
+
+When you register at a LogMeIn website, we use cookies to store unique, randomly assigned user IDs that we generate for administrative purposes. These cookies enable you to enter the LogMeIn sites without having to log on each time.  
+  
+Advertising Cookies
+
+| 
+
+These cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+| 
+
+We use cookies to make advertising more engaging to users, as well as to assist in reporting on marketing program performance and analytics  
+  
+Security Cookies
+
+| 
+
+These cookies are used for general security purposes and user authentication.
+
+| 
+
+We use security cookies to authenticate users, prevent fraudulent use of login credentials, and protect user data from access by unauthorized parties.  
+  
+**Mobile Analytics**
+
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
+
+Social Media: Our sites include social media features, such as Facebook, Google and Twitter “share” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form or provide feedback. Your interactions with these features are governed by the privacy policy of the company providing them.
+
+**4\. Information Sharing**
+
+Ensuring your privacy is important to us. We do not share your personal information with third parties except as described in this privacy policy. We may share your personal information with (a) third party service providers; (b) business partners; (c) affiliated companies within our corporate structure and (d) as needed for legal purposes. Third party service providers have access to personal information only as needed to perform their functions and they must process the personal information in accordance with this Privacy Policy.
+
+Examples of how we may share information with service providers include:
+
+  * Fulfilling orders and providing the services
+  * Payment processing and fraud prevention
+  * Providing customer support
+  * Sending marketing communications
+  * Conducting research and analysis
+  * Providing cloud computing infrastructure
+
+
+
+Examples of how we may disclose data for legal reasons include:
+
+  * As part of a merger, sale of company assets, financing or acquisition of all or a portion of our business by another company where customer information will be one of the transferred assets.
+  * As required by law, for example, to comply with a valid subpoena or other legal process; when we believe in good faith that disclosure is necessary to protect our rights, or to protect your safety (or the safety of others); to investigate fraud; or to respond to a government request.
+
+
+
+We may also disclose your personal information to any third party with your prior consent.
+
+**5\. Communications**
+
+LogMeIn may need to communicate with you for a variety of different reasons, including:
+
+  * Responding to your questions and requests. If you contact us with a problem or question, we will use your information to respond.
+  * Sending you Service and administrative emails and messages. We may contact you to inform you about changes in our Services, our Service offerings, and important Service related notices, such as billing, security and fraud notices. These emails and messages are considered a necessary part of the Services and you may not opt-out of them.
+  * Sending emails about new products or other news about LogMeIn that we think you’d like to hear about either from us or from our business partners. You can always opt out of these types of messages at any time by clicking the unsubscribe link at the bottom of each communication.
+  * Conducting surveys. We may use the information gathered in the surveys to enhance and personalize our products, services, and websites.
+  * Offering referral programs and incentives, which allow you to utilize email, text, or URL links that you can share with friends or colleagues.
+
+
+
+**6\. Accessing Your Data**
+
+Our customers can always review, update or change personal information from within their account. LogMeIn will also, when you request, provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  Please [contact us here](https://support.logmeininc.com/contactus) if you need assistance in reviewing your information. LogMeIn will respond to your access request to review the information we have on file for you within a reasonable time.
+
+We may also collect information on behalf of our customers, to provide the services, and we may not have a direct relationship with the individuals whose personal data is processed. If you are a customer or end-user of one of our customers, please contact them (as the data controller) directly if: (i) you would no longer like to be contacted by them; or (ii) to access, correct, amend, or delete inaccurate data.  If requested to remove data by our customer, we will respond within a reasonable timeframe.
+
+We may transfer personal information to companies that help us provide our service, and when we do, these transfers to subsequent third parties are covered by appropriate transfer agreements. We will retain personal data we process on behalf of our customer as needed to provide services to our customer. Also, we will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+LogMeIn is headquartered in the United States of America and maintains a global infrastructure.  Information that we collect and maintain may be transferred to, or controlled and processed in, the United States and/or other countries around the world. When you provide us with information, or use our website(s) and services, you consent to this transfer.  We will protect the privacy and security of personal information we collect in accordance with this privacy policy, regardless of where it is processed or stored.
+
+**7\. Security**
+
+LogMeIn follows generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received, however, no security measure is perfect. We recommend safeguarding your password, as it is one of the easiest ways you can manage the security of your own account – remember that if you lose control over your password, you may lose control over your personal information.
+
+**8\. Changes to this Statement/Contact Us**
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide notice on this website, and we may notify you by email (sent to the e-mail address specified in your account), prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you continue to use the Services after those changes are in effect, you agree to the revised policy.
+
+If you have any other questions about this policy please contact[ LogMeIn Privacy Team](mailto:privacy@logmein.com), or call +1 805 690 6400 or write to us via postal mail at:  LogMeIn, 320 Summer Street, Boston, MA 02210. To reach our Global Customer Support department, you may [contact us](https://support.logmeininc.com/) here.
