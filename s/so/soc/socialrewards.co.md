@@ -1,100 +1,142 @@
-> *The following text is extracted and transformed from the socialrewards.co privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialrewards.co privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226165632id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy | Neustar
 
-**GoDaddy Respects Your Privacy**
+**Highlights of the Neustar Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+_Updated: December 7, 2018_
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Neustar uses personal information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These "Highlights" summarize Neustar's privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Statement](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### Our Commitment – Privacy by Design
 
-**Information Collection and Use**
+We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy-principles), including the principles of [Privacy by Design](https://web.archive.org/privacy/privacy-policy-definitions), to design, build, and deliver products and services that respect your privacy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### Personal Information: Types & Sources
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Neustar may collect, use, and disclose various types of information, including:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * [PII](https://web.archive.org/privacy/privacy-policy-definitions) (Personally Identifiable Information)
+  * [CRM Data](https://web.archive.org/privacy/privacy-policy-definitions) (Customer Relationship Management data)
+  * [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions) including information linked to [DIIs](https://web.archive.org/privacy/privacy-policy-definitions) (Device Identifiable Data) such as [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [MAID](https://web.archive.org/privacy/privacy-policy-definitions) (Mobile Advertising IDs), [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), and other third-party identifiers that do not, by themselves, identify a specific individual.
+  * [Attribute Data](https://web.archive.org/privacy/privacy-policy-definitions)
+  * [Log Data](https://web.archive.org/privacy/privacy-policy-definitions), including [Internet Log Data](https://web.archive.org/privacy/privacy-policy-definitions), [Event Data](https://web.archive.org/privacy/privacy-policy-definitions), and [Service Data](https://web.archive.org/privacy/privacy-policy-definitions)
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Neustar collects this information from a wide variety of sources, both on and offline, such as:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  * Publicly available data sources such as directory listings
+  * Reputable providers of licensed data derived from public and non-public sources
+  * Individuals, such as survey respondents, who affirmatively agree to the data uses
+  * Our customers, who provide their [CRM Data](https://web.archive.org/privacy/privacy-policy-definitions) for our use in connection with our services
+  * Information collected online via [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions), including [DIIs](https://web.archive.org/privacy/privacy-policy-definitions), [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs, [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), and other persistent third-party identifiers that do not, by themselves, identify a specific individual
+  * [Match Partners](https://web.archive.org/privacy/privacy-policy-definitions), [Coverage Partners](https://web.archive.org/privacy/privacy-policy-definitions), [Rotators](https://web.archive.org/privacy/privacy-policy-definitions), and [Cookie Sync Partners](https://web.archive.org/privacy/privacy-policy-definitions)
+  * [Log Data](https://web.archive.org/privacy/privacy-policy-definitions) and other information created in the course of providing our products and services
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Updating Your Information**
+### Personal Information Collection, Use, and Disclosure
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Read our full [Neustar Privacy Statement](https://web.archive.org/privacy/privacy-policy) to learn more about the Personal Information we collect and how we use it:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * Data collected about [Website Visitors](https://web.archive.org/privacy/privacy-policy#websitevisitors)
+  * [Data Processed to Provide Neustar Products and Services](https://web.archive.org/privacy/privacy-policy#dataprocessed)
+  * [Other Use and Disclosure of Personal Information](https://web.archive.org/privacy/privacy-policy#otheruse)
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+### Cookies, Advertising IDs and Other Technologies
 
-**Sending Emails**
+We may use [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs, [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), [Web Beacons](https://web.archive.org/privacy/privacy-policy-definitions), [Pixel Tags](https://web.archive.org/privacy/privacy-policy-definitions), [JavaScript](https://web.archive.org/privacy/privacy-policy-definitions), [HTML5 Local Storage](https://web.archive.org/privacy/privacy-policy-definitions), or similar technologies, along with other information described in our [Privacy Statement](https://web.archive.org/privacy/privacy-policy) to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. These technologies do not identify you to us unless you have voluntarily identified yourself on our websites. If you've set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. You can refuse cookies by turning them off in your browser, but some of the features on our site may not work if you do. Various browsers may offer their own management tools for removing HTML5 local storage.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+To learn more about how we use these technologies, read our full [Privacy Statement](https://web.archive.org/privacy/privacy-policy#cookies) click here:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * [Website Cookies](https://web.archive.org/privacy/privacy-policy#websitecookies)
+  * [Neustar Services Cookies](https://web.archive.org/privacy/privacy-policy#neustarcookies)
+  * [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy#maids)
+  * [Web Beacons](https://web.archive.org/privacy/privacy-policy#webbeacon)
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+### Transparency and Choice; Privacy Choices
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+#### Cookies
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * Click here to opt out of the use of Cookies on Neustar websites
+  * You can opt out of Neustar services [Cookies](https://web.archive.org/privacy/privacy-policy-definitions) by clicking on the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. This will also permit you to opt-out of the use of [Hashed eMail Addresses](https://web.archive.org/privacy/privacy-policy-definitions) and Android [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions).
+  * You can also opt out of the use of Neustar services Cookies by using the Network Advertising Initiative (NAI) Consumer [Opt-Out tool](http://optout.networkadvertising.org/?c=1#!/), the Digital Advertising Alliance (DAA) [tool here](http://www.aboutads.info/choices/), or the European Digital Advertising Alliance (EDAA) [Opt-Out tool](http://www.youronlinechoices.eu/).
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+#### Mobile Advertising IDs or MAIDs
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+You can opt-out of our use of [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs set by Android devices via the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. Because Apple does not disclose their IDFA to users, we are not able to establish a block based on an Apple MAID (IDFA) in our system. In addition:
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+  * Apple's iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: IDFA Opt-Out.
+  * Similar to IDFA for Apple devices, Android devices pass the Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile devices are used for advertising and receive instruction for how to opt out of mobile advertising on the Google Privacy & Terms webpage.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
+#### Hashed eMail Addresses
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+You can opt-out of our use of your [Hashed Email Addresses](https://web.archive.org/privacy/privacy-policy-definitions) in connection with Neustar services by clicking on the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. We will retain your email address on an internal "block" list to prevent its further use in connection with Neustar services. Please note that opting out of Neustar's processing of your data does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
 
-**Transfer of Data Abroad**
+Your choice to use any of our opt-out tools will not affect ads placed by any other organization.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+## Accountability
 
-**Changes in Our Practices**
+Neustar is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) ("NAI") and the [Digital Advertising Alliance](http://www.aboutads.info/) ("DAA") and adheres to each organization's Codes and Principles. You can also learn more about online advertising in general on the [NAI](https://www.networkadvertising.org/) website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <http://www.aboutads.info/> and <http://youradchoices.com/>.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We adhere to the European Interactive Digital Advertising Alliance's ("EDAA") principles. You may learn more about our participation in the EDAA's program and online behavioral advertising at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67&opt-out=true "TRUSTe Privacy")
 
-**Contacting Our Site**
+## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Neustar and its subsidiaries, (i.e., Administrative Services, LLC, Aggregate Knowledge, LLC., Data Solutions Services, LLC, MarketShare Holdings, Inc., Neustar Information Services, Inc., Neustar, Inc., Registry Services, LLC, and Security Services, LLC, collectively "Neustar") participate in and have certified their compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce's [Privacy Shield Framework](https://www.privacyshield.gov/) website. Information about Neustar's Privacy Shield certification is available on the [Privacy Shield List](https://www.privacyshield.gov/).
 
-* * *
+Neustar is responsible for the processing of personal data it receives, under the [Privacy Shield Framework](https://www.privacyshield.gov/), and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+With respect to personal data received or transferred pursuant to the [Privacy Shield Framework](https://www.privacyshield.gov/EU-US-Framework), Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Neustar commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Neustar at:
+
+Neustar Privacy  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+Email: [Privacy@team.neustar](mailto:Privacy@team.neustar)
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily or timely, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+European residents may also opt-out of our use of Cookies for online advertising at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+## The Fine Print
+
+[Click here](https://web.archive.org/privacy/privacy-policy) to read our full Privacy Statement and to learn more about our approach to children's privacy, data security, disclosures required by law or for other purposes, your rights under European data protection law, and your privacy rights under California law.
+
+Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+
+## Questions? Comments? Contact Us
+
+Neustar Privacy  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+[Email](mailto:privacy@team.neustar)
+
+**Data Protection Officer:**  
+J. Beckwith Burr  
+Neustar, Inc.  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+[Email](mailto:privacy@team.neustar)
+
+**EU Representative:**  
+Neustar (UK) Limited/MarketShare Partners EMEA Ltd.  
+Attn: DPO  
+21 Palmer Street  
+London  
+SW1H 0AD  
+[Email](mailto:privacy@team.neustar)
