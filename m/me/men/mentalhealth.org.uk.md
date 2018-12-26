@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626051351id_/https%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226131927id_/https%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mental Health Foundation
 
@@ -202,10 +202,14 @@ Please note that these rights may only apply in limited circumstances. For more 
 
 We may need to update this policy from time to time, including to reflect changes in the relevant law or in the way we collect, process and store your data. We will notify you when significant changes will be made to this policy.
 
-## 13\. Contact details and complaints
+## 13\. Text to donate
+
+By texting FIVER to 70300, you agree to donate £5. By texting THRIVE to 70300, you agree to donate £3. By texting ESTEEM to 70300, you agree to give £3 per month. Texts are charged at your standard network rate. By texting this number you consent to us keeping you up to date on how you can donate to us, and how you can get involved in our activities including fundraising, unless you tell us otherwise by emailing [supporter@mentalhealth.org.uk](mailto:supporter@mentalhealth.org.uk).
+
+## 14\. Contact details and complaints
 
 If you have any queries relating to this policy, please contact us either by email at [supporter@mentalhealth.org.uk](mailto:supporter@mentalhealth.org.uk) or by writing to us at Mental Health Foundation, Colechurch House, 1 London Bridge Walk, London, SE1 2SX.
 
 You are entitled to [make a complaint to the ICO](http://www.ico.org.uk/global/contact-us) at any time. We are always grateful for the opportunity to resolve your concerns before you feel it is necessary to approach the ICO.
 
-_**Last updated May 2018**_
+_**Last updated October 2018**_
