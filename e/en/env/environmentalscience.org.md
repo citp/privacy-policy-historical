@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502222939id_/https%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226210853id_/https%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EnvironmentalScience.org
 
@@ -45,7 +45,7 @@ We collect several types of information from and about users of our Website. We 
 
 
 
-**We collect this information:**
+ **We collect this information:**
 
   * Directly from you when you provide it to us.
 
@@ -57,7 +57,7 @@ We collect several types of information from and about users of our Website. We 
 
 
 
-### **Information You Provide Directly to Us**
+###  **Information You Provide Directly to Us**
 
 The information we collect on or through our Website may include:
 
@@ -79,7 +79,7 @@ The information we collect on or through our Website may include:
 
 When you provide comments to be posted in public areas of the Website, or transmitted to other users of the Website or third parties ("User Contributions"), you do so at your own risk. Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users of the Website who view your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-### **Information We Collect Through Automatic Means**
+###  **Information We Collect Through Automatic Means**
 
 As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your browsing actions and patterns, including:
 
@@ -216,7 +216,7 @@ We may disclose other information about our users, and information that does not
 
 In some instances, we may combine other information with personal information (such as combining your date of birth with your name). If we combine any other information with personal information, the combined information will be treated by us as personal information as long as it is combined.
 
-## **RETENTION OF INFORMATION**
+##  **RETENTION OF INFORMATION**
 
 We will retain your information for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required or permitted by law.
 
@@ -252,7 +252,7 @@ Some other content or applications, including advertisements, on the Website are
 
 We do not control and we are not responsible for these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about the privacy and data practices of these providers, you should contact such providers directly.
 
-## **THIRD PARTIES**
+##  **THIRD PARTIES**
 
 This policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including our vendors or any other third party operating any site or service to which the Website links. The inclusion of a link on the Website does not imply endorsement of the linked site or service by us or by our affiliates.
 
@@ -267,10 +267,10 @@ We strive to provide you with choices regarding your information. We have create
   * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable, delete or refuse cookies, please note that some parts of this Website may not function properly. When you disable or delete cookies you are also deleting any opt-out cookies you have set on that browser or device. You will need to re-set opt outs after you have disabled or deleted your cookies on that browser or device.
 
 
-  * **Targeted Advertising** \- If you do not want us to use information that we collect or receive in connection with the Facebook Pixel, which delivers advertisements according to our advertisers' target-audience preferences, you can go to Facebook.com to view your options. We do not control third parties' collection or use of your information to serve interest-based advertising. You can find and manage many online ad cookies from companies by visiting the website http://www.aboutads.info/choices/.
+  *  **Targeted Advertising** \- If you do not want us to use information that we collect or receive in connection with the Facebook Pixel, which delivers advertisements according to our advertisers' target-audience preferences, you can go to Facebook.com to view your options. We do not control third parties' collection or use of your information to serve interest-based advertising. You can find and manage many online ad cookies from companies by visiting the website http://www.aboutads.info/choices/.
 
 
-  * **Promotional Offers from the Company** \- If you do not wish to have your contact information used by the Company to promote our own or third parties' products or services, you can opt out by sending us an e-mail stating your request to [privacy@esyoh.com](mailto:privacy@esyoh.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
+  *  **Promotional Offers from the Company** \- If you do not wish to have your contact information used by the Company to promote our own or third parties' products or services, you can opt out by sending us an e-mail stating your request to [privacy@esyoh.com](mailto:privacy@esyoh.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
 
 
 
@@ -280,7 +280,7 @@ You may send us an e-mail at [privacy@esyoh.com](mailto:privacy@esyoh.com) to re
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use.
 
-## **SENSITIVE INFORMATION**
+##  **SENSITIVE INFORMATION**
 
 We ask that you not send us, and you not disclose, any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Website or otherwise to us.
 
