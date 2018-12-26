@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricespy.ie privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624032646id_/https%3A//pricespy.ie/info/privacy-policy--i6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.ie privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023449id_/https%3A//pricespy.ie/info/privacy-policy--i6) for the most accurate reproduction.*
 
 # Privacy policy - Compare prices and do more with your money!
 
@@ -32,7 +32,7 @@ In order to give you the world’s best price and product comparison site we nee
 
 ## Introduction
 
-This privacy policy applies to the handling of personal data that takes place within the framework of PriceSpy, that is, when you use the service PriceSpy at [www.pricespy.ie](http://www.pricespy.ie/) and in related digital applications ( **"the Services"** ). The service is provided by PriceSpy Ireland DAC, with company number 546910 ( **"PriceSpy"** , **"we"** or **"us"** ).
+This privacy policy applies to the handling of personal data that takes place within the framework of PriceSpy, that is, when you use the service PriceSpy at pricespy.ie and in related digital applications ( **"the Services"** ). The service is provided by PriceSpy Ireland DAC, with company number 546910 ( **"PriceSpy"** , **"we"** or **"us"** ).
 
 ## Key concepts
 
