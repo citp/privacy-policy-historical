@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406231632id_/https%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025014id_/https%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**Do we disclose any information to outside parties?**
+ **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -59,7 +59,5 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-> [Home](https://www.shoutmeloud.com/)
-
-  
+https://www.shoutmeloud.com  
 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
