@@ -1,27 +1,100 @@
-> *The following text is extracted and transformed from the internetwi.com privacy policy that was archived on 2007-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070809165328id_/http%3A//www.internetwi.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetwi.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Internet Wisconsin
+# Legal Agreements - GoDaddy Respects Your Privacy
 
-is an ISP providing valuable Internet access, products and services to its subscribers and other Internet users. Through its website portal (http://www.internetwi.com) and related products and the site/services, provides web surfers with applications, information, and links to make the Internet experience more productive and fun. respects the privacy of every individual who uses the Site/Services. This Privacy Policy provides notice of the standards and terms under which protects such privacy. This Privacy Policy provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
+**GoDaddy Respects Your Privacy**
 
-**Personally-Identifiable Information:**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-In providing services to you through the Site/Services, May collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. In other instances, collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. receives personal information from users of the Site/Services only when such information is provided voluntarily, such as when users login, register or enroll for services, send e-mail to us, post other communications, or provide credit card information for a purchase from or a third party. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-When you provide personally-identifiable information through the Site/Services, it will be used to fulfill your specific request. Absent any instructions from you, may use information you provide to inform you about additional services and products offered by and other goods and services providers with whom has relationships. will not, however, sell or trade your personally identifiable information unless authorized or legally required to do so. does not associate sensitive data, such as your race, religion, or political affiliations, with personally identifiable information. takes precautions to segregate any sensitive data you may provide that reference your race, religion, sexual orientation, ethnicity or political affiliations. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-In those instances when you may provide with credit card or other ordering information via the web, protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, will treat that portion of the information as non-confidential and non-proprietary and, except as otherwise expressed in this privacy statement, assumes no obligation to protect such information from disclosure. 
+**Information Collection and Use**
 
-Although takes commercially reasonable steps to protect your information, please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through communications services, such as chats, communities, instant messaging, or other services provided by or third parties, this information may be collected and used by others. encourages you to review the privacy statements of websites you choose to view so that you understand how those websites collect, use and share your information. is not responsible for the privacy statements or other content with respect to any third party websites.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Generic Information:**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-In general, gathers some generic information automatically. Generic information does NOT reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the parts of the Sites/Services visited or utilized. gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about services). does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Hosted Applications:**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Information that you disclose in a public space, including on any application hosted by is available to anyone else who visits that space. cannot safeguard any information you disclose in these locations. Additionally, websites contain links to sites that belong to third parties unrelated to . cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Exceptions and Limitations:**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Notwithstanding the foregoing and in compliance with applicable laws, cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to ) or purported unlawful activities of any user of the Site/Services. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, may be required to disclose personally identifiable information. In addition, may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate ; or (iii) to protect the rights or property of or others. reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to ) to a third party that may purchase ’s operations or assets, provided such acquirer agrees to adhere to the terms and conditions of this Privacy Policy. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
