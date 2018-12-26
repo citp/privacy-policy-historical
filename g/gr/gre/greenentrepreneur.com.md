@@ -1,149 +1,176 @@
-> *The following text is extracted and transformed from the greenentrepreneur.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenentrepreneur.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226114752id_/https%3A//www.greenentrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Entrepreneur.com
 
-#### Find Answers To Your Questions:
+Last Revised: May 4, 2017
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+**Your Privacy is Serious Business to Us!**
 
-### Privacy Policy
+Maintaining the privacy of our website visitors and mobile application users is very important to us. Because we gather information about you, you need to know:
 
-**Why A Privacy Policy?**  
+  * The kinds of information we collect and why we collect it;
+  * How we use that information; and
+  * How you can update that information or limit or control how it is used.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
- **This Privacy Policy protects your privacy by:**
 
- **Informing you about:**
+This privacy policy ("Privacy Policy") describes how Entrepreneur Media, Inc. ("EMI") with registered address at [18061 Fitch, Irvine CA, 92614] may collect, use and share information you provide when using our Service, including your personal information. The term "Service" includes the website [www.entrepreneur.com](http://www.entrepreneur.com/) and its respective sub-domains, the Entrepreneur mobile application, and any related content, software, applications, widgets, materials and/or services made available by or on behalf of EMI. For purposes of this Privacy Policy, the terms "we," "us" and "our" refer to EMI and "you" refers to you, as a user of the Service.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+We've tried to keep this Privacy Policy simple, but if you're not familiar with any of the terms used or have any questions, contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_. Your privacy matters to us at EMI, so whether you are new to our Service or are a regular or longtime user, it is important that you take the time to carefully read our Privacy Policy, so you can understand our practices as relates to your information.
 
+We will ask for your consent before using your information in any manner and for any purpose other than as described in this Privacy Policy.
 
+## TABLE OF CONTENTS
 
-**Empowering you to choose:**
+  1. The Kinds of Information We Collect
+  2. How We Use Information We Collect
+  3. The Advertising on Our Service
+  4. Privacy and Choice
+  5. Minors and Children Under Age 13
+  6. Where We Store the Information
+  7. The Information You Share
+  8. Updating Your Personal Information
+  9. The Information We Share
+  10. The Protection of Your Information
+  11. The Scope of Our Privacy Policy
+  12. Handling Complaints from Our Service Users and Regulatory Authorities
+  13. California Residents
+  14. Privacy Policy Revisions and Updates
+  15. Contacting Us
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
 
+## 1\. The Kinds of Information We Collect.
 
-**Assuring you that Network Solutions:**
+We collect information to provide better services to all of users of our Service, including determining what types of editorial content and the products and services offered on our Service that are of the most interest and relevance to you.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+We collect information about you from the following two sources:
 
+**a. The Information you give us ("EMI Profile").** For example, many of our services require that you create an account. When you do, we'll ask for personal information, like your name, email address, telephone number, and, if you are purchasing products or services on our Service, purchase information such as the products or services purchased, the dates of purchase and the purchase price.
 
+**b. The information we collect from your use of our Service.** This information relates generally to what editorial and advertising content you view, and the products and services you use that we and our third-party providers offer. This information includes:
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+(i) Device Information, We collect information about the devices you use to access our Service, such as hardware settings, browser type, browser language, the date and time of your request and referral URL.
 
-  
-**Third Party Advertising and Cookies**
+(ii) Log Information. When you use our Service, we automatically collect and store certain information in _server logs_ , which automatically record certain information when you use our Service, including the following:
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+(a) details about how you have used our Service, such as your search queries;
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+(b) your _IP address_ , which is the number assigned to an Internet connected device such as a tablet or smartphone and used to identify the geographic location of that device; and
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+(c) _cookies_ that may uniquely identify your browser and collect information about how our visitors interact with our Service, as well as help us identify problems such as error messages from certain pages. A _cookie_ is a small file containing a string of characters that is sent to your computer or other device when you visit our Service. When you visit our Service any time thereafter, the cookie allows our Service to recognize your browser and to store information about your user preferences and other personal information.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+(iii) Location information. When you visit our Service, we may collect and process information about your actual location. We use various technologies to determine location, including IP address.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+(iv) Local storage. We may collect and store information (including personal information) locally on your device, using mechanisms such as _browser web storage_ (including HTML 5), which allows for data to be stored on a browser even after the browser has been closed and the reopened, and _application data caches_ , which allow for data to be stored on your device, enabling an application to run without an Internet connection and to load content faster.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+(v) Collection and Storage technologies. We and our partners use various technologies to collect and store information when you access the EMI Service, and this may include using cookies or other technologies to identify your browser or device. We also use these technologies to collect and store information when you access our Service and interact with the content and products and services we offer, such as advertising services.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+c. Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+## 2\. How We Use Information We Collect.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+We use the information we collect from users of our Service in order to provide you with more meaningful editorial and advertising content and to offer you relevant products and services, as well as to maintain, protect and improve your overall experience. In particular, you may choose (i) to subscribe to any of our electronic newsletters, (ii) to receive "special offers" by EMI and its various service providers, (iii) to receive franchise and business opportunity information from selected advertisers, and we will use your information for these purposes provided you have given us your consent. You may also choose (iv) to submit questions or comments in response to editorial content on our Service, or (v) to purchase books and related publications offered on our affiliated website at bookstore.entrepreneur.com (the "Bookstore Website") in which case, we will process your information to perform our agreement or comply with your request. In each of those instances you will be asked to provide, and we will collect and store, certain personal information such as email address, zip code, telephone number, and in some instances information about your business. In the case of purchases made through the Bookstore Website, we will also collect and store additional information about those purchases, including titles purchased, quantity and dates of purchases, the method of payment, and other information provided such as billing and shipping addresses (if different). By providing that information and provided you have consented thereto, you acknowledge that it can be used by EMI and its various advertisers and other service providers to send you promotions and other communications concerning business opportunities, products or services. You can remove yourself from any such electronic newsletters and otherwise stop receiving any further promotions and other commercial communications by following the "unsubscribe" directions included with each newsletter or, in all of the above instances, by sending an email with the word "unsubscribe" in the subject line to _unsubscribe@entrepreneur.com_.
 
- **Getting to Know Our Customers**
+We may use the name you provide for your EMI Profile across all of the services we offer that require an EMI Account, which is where the information you provide is maintained. In addition, we may replace past names associated with your EMI Account, so that you are represented consistently across all our services.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+When you contact EMI, we retain a record of your communications to help solve any issues you might be facing, or to maintain a record to assist with legal claims. We will keep these records for a period of no more than 6 years. Provided you have consented thereto, we may use your email address to inform you about the products and services offered on our Service, such as letting you know about upcoming changes or improvements.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+We use information collected from cookies and other technologies, like _pixel tags_ , to improve your user experience and the overall quality of our services. You can reset your browser to reject all cookies or to indicate when a cookie is being sent. But you need to know that you may not be able to access or use some features and services on our Service without cookies. A _pixel tag_ is a type of technology which is placed on a website or within an email and used for the purpose of tracking activity on a website and is often used in combination with cookies. For further information about how we use and collect cookies, see our separate cookie policy located at [<https://www.entrepreneur.com/cookie-policy>].
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We do not track our users across third party websites and thus do not respond to Do Not Track ("DNT") signals. However, some third party websites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, certain website browsers allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+## 3\. The Advertising on Our Service.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+Advertising on our Service makes it possible for us to offer you the information and products/services free of charge. We take seriously and make every effort to make sure that advertising is safe, unobtrusive and as relevant as possible.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+Cookies are used to make that advertising as relevant as possible to the needs and interests of users of our Service, and more valuable to our advertisers in being able to show our visitors more relevant ads. Cookies are also used to avoid you seeing the same ad multiple times and to detect and prevent click fraud. We use AdSense, Google Analytics and other DoubleClick services (collectively, "Google® Services"), which help us manage and improve our Service and help our advertisers better understand and track user interaction with their ads. When you visit a location on our Service that includes one or more of these ads, various cookies may be sent to your browser.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+We may use other technologies, including Flash and HTML5, which provide the functionality for such displays as interactive advertising. We may also use your IP address to select and provide advertising targeted to that address, in order to improve the relevance of the ads you see and to measure and report to advertisers non-personal statistical information about geographical location of those website visitors who are viewing their ads.
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+The advertising you see on our Service is determined by a number of factors relating to relevance, including (i) your approximate geographical location base on you IP address and (ii) the subject matter you may be viewing on our Service. For example, if you are viewing an article about physical health, you may see ads concerning exercise equipment.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+If you wish to know more about the information collected from website users and used to tailor those advertisements for products and services which might be of the most interest and relevance to those users, or would like to know more about the user’s options in connection with the collection and use of that information, you can visit the Network Advertising Initiative ("NAI") website at [http://www.networkadvertising.org](http://www.networkadvertising.org/). The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection. 
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+## 4\. Privacy and Choice.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+People have different concerns about privacy. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how that information is used. You may set your browser in its "options" or "preferences" feature in order to warn you before accepting cookies or to disable all cookies entirely. However, it is important to understand that many of the services we provide on our Service and to our Service users may not function properly if your cookies are disabled.
 
-b. Click “Edit User Info” in the left menu;
+## 5\. Minors and Children under the Age of 16.
 
-c. Scroll to the bottom of the page;
+EMI does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register to use our Service. No one under age 16 is allowed to provide any personal information to EMI or on the Service. In the event that we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 16, please contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_.
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+## 6\. Where We Store the Information
 
-e. Click “SAVE.”
+The data that we collect from you may be transferred to, and stored at, a destination outside of your country and the European Economic Area (" **EEA** ") including, in particular, the United States. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your information, you agree to this transfer, storing or processing.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+## 7\. The Information You Share.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Our Service allows visitors to share information with others, such as comments on editorial content and information shared via social media. When you share information it may as a result become accessible to others, through such mechanisms as search engines. We cannot be responsible for how others with whom you may share information may use that information. (See Paragraph 10 below—The Scope of Our Privacy Policy.)
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+## 8\. Updating Your Personal Information.
 
-b. Click “Edit User Info” in the left menu;
+It is our policy that, whenever you visit our Service, you should be able to access your _personal information_ , which is information identifying you such as name, email address, billing information or any other information which can reasonably be expected to identify you. If that information is incorrect, we try to provide you ways to update it quickly or to delete it - unless we have to keep that information for legitimate business or legal purposes, in which case it will be retained for the periods specified in this Privacy Policy. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
-c. Scroll to the bottom of the page;
+If allowed under applicable law, we may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, requests which would be extremely impractical (for instance, requests concerning information residing on backup systems)).
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+Where we can provide information access and correction, we will do so at no cost to you, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our Service, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-e. Click “SAVE.” 
+## 9\. The Information We Share.
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+We do not share personal information with companies, organizations and individuals outside of EMI, unless one of the following circumstances applies:
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+a. We will share personal information with companies, organizations or individuals outside of EMI when we have your opt-in or other consent to do so.
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+b. We will share personal information with companies, organizations or individuals outside of EMI if we have a good-faith belief that access, use, preservation or disclosure of that information is reasonably necessary to:
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+(i)comply with applicable law, regulations, legal process or enforceable governmental request;
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+(ii)enforce any of our applicable Terms of Service, including any potential violations;
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+(iii)detect, prevent, or otherwise address fraud, security or technical issues; or
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+(iv)protect against harm to the rights, property or safety of users of our Service or service providers, as well as the general public and EMI as required or permitted by law.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+c. We may share personal information with a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of EMI’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by EMI about our Service users is among the assets transferred.
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+d. We may share your information publicly and with our partners such as third-party content providers, advertisers or connected sites, but in a manner which does _not_ reveal your personally-identifiable information and which is _aggregated with other user information_ to show usage of EMI and third-party products and services offered on our Service and trends based on such categories as age, gender, geographical origination and other demographic characteristics.
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+## 10\. The Protection of Your Information.
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+We work hard to protect the information provided by, or collected about, the users of our Service, from unauthorized access, or alteration, disclosure or destruction. In particular:
+
+a. We encrypt much of that information using SSL.
+
+b. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to our systems and the information collected and stored therein
+
+c. We restrict access to personal information to those of our employees, contractors and agents, who need to know that information in order to process it for us, who are subject to the obligation of strict confidentiality as relates to that information, and who will be subject to discipline, including termination, if they violate that obligation.
+
+## 11\. The Scope of Our Privacy Policy.
+
+Our Privacy Policy applies to all of the services offered by EMI through its Service. However, our Privacy Policy does _not_ apply to the any of the following:
+
+a. services offered by other companies or individuals on non-EMI websites or applications, including any such websites or applications which may be referenced on or linked from our Service; and
+
+b. the information collected by, and information practices of, other companies, organizations or individuals, who advertise our Service, editorial or advertising content, or any of the products or services offered on our Service, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
+
+## 12\. Handling Complaints from Our Service Users and Regulatory Authorities.
+
+We regularly review our compliance with this Privacy Policy and with any and all industry-recommended best practices, as well as applicable laws and regulations. When we receive a formal written complaint, we will contact the person who made the complaint to follow up. This is without prejudice to your right to launch a claim with your local data protection supervisory authority. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with the users of our Service directly.
+
+## 13\. California Residents.
+
+California residents may choose to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes or choose to opt out of such disclosure. Our policy is not to disclose personal information collected online to a third party for directing marketing without your approval. To make a request or to opt out at any time, please contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_ or the other contact information provided below.
+
+## 14\. Privacy Policy Revisions and Updates.
+
+Our Privacy Policy may be revised from time to time, in which case the Privacy Policy you view will be the most current version and the date of the latest such revision will be identified at the beginning of this Privacy Policy. We will provide you with 30 days’ notice of any substantial changes to the terms of this Privacy Policy. 
+
+## 15\. Contacting Us.
+
+If you have any questions, concerns or suggestions about this Privacy Policy, you may contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_ or at the following address:
+
+Entrepreneur Media, Inc.  
+Attn.: Privacy Policy Issues  
+18061 Fitch Avenue  
+Irvine, CA 92614
