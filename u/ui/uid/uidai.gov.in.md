@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406230424id_/https%3A//uidai.gov.in/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226192015id_/https%3A//uidai.gov.in/home/website-policy-en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Unique Identification Authority of India | Government of India
 
 ## Privacy Policy
 
@@ -14,7 +14,7 @@ A cookie is a piece of software code that an Internet website sends to your brow
 
 Your e-mail address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your e-mail address will not be used for any other purpose, and will not be disclosed without your consent.
 
-If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the Contact Us page.
+If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the Web Information Manager by sending email to [[webadmin-uidai@nic.in](mailto:webadmin-uidai@nic.in)](mailto:%20webadmin-uidai@nic.in).
 
 Note: The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
 
