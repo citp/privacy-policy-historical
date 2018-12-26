@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westmonster.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414124544id_/https%3A//www.westmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westmonster.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134049id_/https%3A//www.westmonster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Westmonster
 
@@ -8,7 +8,7 @@ This policy (together with our terms of use and any other documents referred to 
 
 For the purpose of the Data Protection Act 1998 (the Act), the Data Controller is: Westmonster Limited Suite B0266, 265-269 Kingston Road, Wimbledon, London, England, SW19 3NW
 
-**Information we may collect from you**
+ **Information we may collect from you**
 
 We may collect and process the following data about you:
 
@@ -19,7 +19,7 @@ We may collect and process the following data about you:
 
 
 
-**IP addresses and cookies**
+ **IP addresses and cookies**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
@@ -35,7 +35,7 @@ transferred to your computer’s hard drive. They help us to improve our site an
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-**Where we store your personal data**
+ **Where we store your personal data**
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”).
 
@@ -49,7 +49,7 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**Uses made of the information**
+ **Uses made of the information**
 
 We use information held about you in the following ways:
 
@@ -65,9 +65,9 @@ We may also use your data, or permit selected third parties to use your data, to
 
 If you are a registered we may contact you via telephone, email and SMS with information about Westmonster Limited. If you are a new registered supporter, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please advise us by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please advise us by emailing admin@westmonster.com
 
-**Disclosure of your information**
+ **Disclosure of your information**
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985. We may disclose your personal information to third parties:
 
@@ -76,16 +76,16 @@ We may disclose your personal information to any member of our group, which mean
 
 
 
-**Your rights**
+ **Your rights**
 
 You have the right to ask us not to process your personal data for marketing purposes.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**Access to information**
+ **Access to information**
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-**Changes to our privacy policy**
+ **Changes to our privacy policy**
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Contact questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Contact questions, comments and requests regarding this privacy policy are welcomed and should be addressed to admin@westmonster.com
