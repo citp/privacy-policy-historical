@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612234710id_/http%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031913id_/https%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Babbel.com
 
@@ -14,7 +14,7 @@ When you register with us, we record and save your basic data such as name and e
 
 
 
-Other data provided voluntarily are also generally accessible for other users of Babbel; however, you can disable such access at <http://www.babbel.com/users/profile/edit>. This concerns first name, surname, gender, age and any other voluntary details that you can save in your profile.
+Other data provided voluntarily are also generally accessible for other users of Babbel; however, you can disable such access at <https://www.babbel.com/users/profile/edit>. This concerns first name, surname, gender, age and any other voluntary details that you can save in your profile.
 
 #### 1.2. Cookies
 
@@ -105,7 +105,7 @@ Babbel users can upload images for general use in areas such as the forum.
 
 #### 1.10. Newsletter & emails
 
-We send you emails for a variety of reasons. These may include confirmations of an order or of a registration. However, communication may also concern information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at <http://www.babbel.com/users/settings/edit>. Any email messages we send are saved by us and any emails that may be regarded as business letters will not be deleted during the statutory retention period. We also record any email addresses to which a message could not be delivered in order to request an updated email address. Furthermore,In the case of our newsletter emails, we record (e.g. by means of a so-called “tracking pixel”) whether an email is opened and which links in the email are clicked on; we do so to optimize our offers and tailor their design to meet your needs. We use these data to enable us to send newsletter contents to match your profile. If you wish to object to this use of your data, you can do so by [canceling](http://www.babbel.com/users/settings/edit) our newsletters. We also use service providers from USA for sending our emails. We make sure that the statutory conditions for the cross-border use of personal details as defined by §§ 4b, 4c BDSG (German Federal Data Protection Act) are fulfilled.
+We send you emails for a variety of reasons. These may include confirmations of an order or of a registration. However, communication may also concern information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at <https://www.babbel.com/users/settings/edit>. Any email messages we send are saved by us and any emails that may be regarded as business letters will not be deleted during the statutory retention period. We also record any email addresses to which a message could not be delivered in order to request an updated email address. Furthermore,In the case of our newsletter emails, we record (e.g. by means of a so-called “tracking pixel”) whether an email is opened and which links in the email are clicked on; we do so to optimize our offers and tailor their design to meet your needs. We use these data to enable us to send newsletter contents to match your profile. If you wish to object to this use of your data, you can do so by [canceling](https://www.babbel.com/users/settings/edit) our newsletters. We also use service providers from USA for sending our emails. We make sure that the statutory conditions for the cross-border use of personal details as defined by §§ 4b, 4c BDSG (German Federal Data Protection Act) are fulfilled.
 
 #### 1.11. Apps
 
@@ -137,7 +137,7 @@ Every user has the right to obtain information from Lesson Nine on the personal 
 
 #### 6.2. Corrections
 
-If the user alters or corrects the details that he/she has provided and deletes old entries, the data previously entered by the user will be completely deleted automatically. An application for correction or deletion is not required. You can edit your personal data at any time at <http://www.babbel.com/users/about/edit>. This notwithstanding, the user has the right at all times to demand the correction of any inaccurate data concerning him/her stored with Babbel. However, the easiest option is for users to correct any such entries themselves.
+If the user alters or corrects the details that he/she has provided and deletes old entries, the data previously entered by the user will be completely deleted automatically. An application for correction or deletion is not required. You can edit your personal data at any time at <https://www.babbel.com/users/profile/edit>. This notwithstanding, the user has the right at all times to demand the correction of any inaccurate data concerning him/her stored with Babbel. However, the easiest option is for users to correct any such entries themselves.
 
 #### 6.3. Deletion of data
 
