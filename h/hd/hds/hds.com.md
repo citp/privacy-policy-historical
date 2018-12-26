@@ -1,107 +1,172 @@
-> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206201514id_/http%3A//www.hds.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226165122id_/https%3A//www.hitachivantara.com/en-us/company/legal.privacy.html) for the most accurate reproduction.*
 
-# Hitachi Data Systems: Privacy Policy
+# Legal Terms, Privacy, Cookie Policy, Ethics and Trademarks | Hitachi Vantara
 
-Collectively, the terms below are referred to as the "Agreement."
+## Privacy
 
-Hitachi Data Systems Corporation and its corporate affiliates worldwide (collectively "HDS") are committed to taking reasonable steps necessary to protect your privacy. Once you choose to provide your "personal data" to HDS (any information by which you can be individually identified), HDS will endeavor to make sure it is only used in connection with your business relationship with HDS.
+### HITACHI VANTARA'S GLOBAL DATA PROTECTION & PRIVACY POLICY
 
-However, by submitting personal data to HDS, you indicate that you consent to HDS' use of such data as described within the scope of this Privacy Policy. Should you have questions regarding this Privacy Policy, however, feel free to direct these to HDS at [privacy@hds.com](mailto:privacy@hds.com).
+Collectively, the terms below are referred to as the "Policy."
 
-**HDS' Privacy Mission**
+Hitachi Vantara Corporation and its subsidiaries (collectively "HITACHI", "us" or "we") respects and values your privacy. Hitachi Vantara's Global Data Protection & Privacy Policy discusses our methods and approach to earning the trust you put in HITACHI.
 
-HDS may in the course of business collect personal data that is voluntarily provided by you at our web site. When you provide personal data to HDS, HDS will usually inform you of the purposes for which it is being collected. The potential uses include, among others, providing requested information or educational materials, providing HDS services via online access, or training or educational activities. Our policy is not to share personal data with unrelated companies, except as provided for in this Policy or as necessary in connection with internal information processing activities. We recognize that your data is confidential and we will take all reasonable measures to protect your data while it is in our possession. 
+Please read this Policy and our Terms of Use carefully because, by accessing this website and any other websites owned by HITACHI (collectively, our "Site"), you agree to comply with them. Also, by submitting personal information to HITACHI, you indicate that you consent to HITACHI's collection (including via our Site), processing and use of your personal information as described within the scope of this Policy.
 
-**Collection of Personal Data by HDS**
+Please note that if you apply for a position with HITACHI, our Employee Privacy Policy and the corresponding local privacy laws of your place or residence applicable to employees and applicants will govern the collection, processing, use and international transfer of your personal data after your initial application for employment. You may obtain a copy of that policy from your recruiter or privacy@hitachivantara.com.
 
-When you submit your personal data at this web site in response to a registration form or while accessing applications located at this web site, the data controller/administrator collecting the personal data for purposes described is **Hitachi Data Systems Corporation, a Delaware, U.S.A.** company. HDS normally only requests limited business-related personal data, such as name, title, company address, e-mail address, and telephone and fax numbers, and other information necessary to respond to your request. HDS disclaims any legal duty to verify the accuracy of any personal data that you provide to HDS.
+Please contact privacy@hitachivantara.com with any questions about this Policy.
 
-Typically HDS will ask for you to submit personal data at the following times:
+### HITACHI'S PRIVACY MISSION
 
- Registration to gain access to certain areas of the site
+HITACHI may, in the course of business, collect personal information, including personal data regulated by the European Union (EU) General Data Protection Regulation 2016/679 ("GDPR"), which is voluntarily provided by you. The potential uses of your personal information by HITACHI are outlined in this Policy.
 
- When we have to respond to your request for further information
+Our policy is not to share personal information with third parties except as provided for in this Policy, to facilitate our internal information processing activities, or to comply with applicable law. We recognize that your personal information is confidential and we take steps intended to protect your personal information while it is in our possession.
 
- When we will need to distribute requested reference materials, or products
+### COLLECTION AND USE OF YOUR PERSONAL INFORMATION BY HITACHI
 
- Obtaining resumés submitted by you in connection with seeking employment
+HITACHI may invite you to provide limited business-related personal information, including but not limited to, your name, title, company address, e-mail address, telephone and fax numbers, and whether you are a current client or business partner. If you are applying for a position with HITACHI through the Site, you may be asked to submit information related to your qualifications for the position. HITACHI disclaims any legal duty to verify the accuracy of any personal information that you provide to HITACHI.
 
- Evaluating satisfactory completion of prerequisites for educational programs
+Typically, HITACHI will ask for you to submit personal information including personal data for the following purposes:
 
-It is HDS' policy to collect personal data only when its collection is necessary. In any instance where non-mandatory information is sought, you will be notified of this at the point of collection.
+  * website registration and to permit access to restricted areas of our Site;
+  * customer, supplier, and/or business partner relationship management;
+  * service and asset management;
+  * to evaluate and respond to inquiries and applications for employment sent over the Site;
+  * purchase management;
+  * marketing of products and services;
+  * occupational health and safety;
+  * workplace security and protection of personnel, assets and resources;
+  * to fulfil administrative and information technology functions, such as making updates to our Site;
+  * monitoring or demonstrating compliance with applicable legal or regulatory requirements, or internal corporate mandates;
+  * compliance with legal requirements imposed on any HITACHI entity, or to defend a legal claim.
 
-**Collection of Personal Data by HDS' Global Affiliates**
 
-When you link to the web site of an HDS affiliated, or an HDS sister company (or its subsidiary), referred to below as "HDS Affiliates", and you are asked to submit personal data, the data controller/administrator collecting the data for that web site or application shall be the applicable HDS Affiliate as described in any supplemental Privacy Policy information provided. In such instances, you may be asked to review to the appropriate supplemental Privacy Policy information and, if applicable, asked to complete and submit necessary consent forms to assure HDS' and each HDS Affiliate's compliance with the privacy laws, governing the collection and use of personal data in your country of residence.
 
-**Consent To Collection And Use**
+HITACHI collects personal information for legitimate business purposes and to comply with HITACHI's legal obligations. In any instance where non-mandatory information is sought, you will be notified of this at the point of collection.
 
-By voluntarily accessing the applications, services or information provided to you by HDS and any HDS Affiliate on their web sites you acknowledge that such access is requested by you to facilitate our mutually beneficial business purposes. HDS and each HDS Affiliate therefore reserves the right to deny access to such services or information by you, where you decline to provide requested consent, if such consent is required by law in your country of residence in order for HDS or any HDS Affiliate to process or transfer the necessary personal data. You agree that by checking an "I Agree", "I Consent" or similar box, or voluntarily disclosing your personal data at an HDS web site, you may be deemed to have granted your limited consent to the mutually beneficial uses reasonably contemplated at the time of your consent, including ordinary data processing activities by third parties on HDS' behalf, to the extent such consent is legally sufficient in your country of residence.
+### FURTHER INFORMATION ABOUT OUR SITE
 
-HDS ordinarily uses your data to better understand your needs and provide you with better service. Specifically, we use your data to update you on the benefits and features of HDS Products and Services and to provide you with information and material requested by you. From time to time, we may also use your data to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always do our best give you the opportunity to opt out of receiving such direct marketing or market research material. We will also follow internal requirements for avoiding the delivery of unwanted mail to you, such as allowing you to opt in before receiving unsolicited material, where applicable.
+HITACHI uses your personal information provided over the Site to better understand your needs and provide you with better service. Specifically, we may use your personal information to update you on the benefits and features of HITACHI's products and services and to provide you with information and material requested by you. From time to time, we may also use your personal information to contact you for market research or to provide you with marketing information we think would be of particular interest. You may control, edit or view your preferences at Hitachi Vantara's Preference Center located at [https://www.hitachivantara.com/en-us/preference-center.html](https://web.archive.org/en-us/preference-center.html).
 
-**Consent To Export of Personal Data**
+We may also collect details of your visits to our Site for system administration and to report aggregate information, such as Site traffic data, location data, logs and other communication data, the resources that you access, information about your computer and internet connection (such as IP address, operating system, browser type). This statistical data about our users' equipment, browsing actions and patterns is not intended to identify any specific individual. By providing your personal information to HITACHI, you explicitly consent to the collection of details of your visits to our system for the purpose described above.
 
-Where collection of your information may be deemed to be "exporting" your personal data under the laws of your country of residence, you agree that providing your personal information to HDS or an HDS Affiliate located in a jurisdiction other than your country of residence shall be deemed your express consent to the transfer of your personal information outside your country of residence, to that of the designated data controller/administrator, for the mutually beneficial uses reasonably contemplated at the time of your consent.
+### SENSITIVE PERSONAL INFORMATION
 
-**Sensitive Personal Data**
+HITACHI does not collect, store, or process any sensitive personal information from you for the purposes described in this Policy, including sensitive personal data as regulated by the GDPR. Depending on your location, sensitive personal information may include various types of personal information relating to: race or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; genetic data; biometric data for the purpose of uniquely identifying a natural person; data concerning health; data concerning a natural person's sex life; sexual orientation or criminal record. **We request that you do not provide sensitive personal information to us.**
 
-HDS' intention is not to seek any sensitive personal data through our web site. Sensitive personal data includes a number of types of data relating to: race or ethnic origin; political opinions; religious or other similar beliefs; trade union membership; physical or mental health; sexual life or criminal record. We suggest that you do not provide sensitive data of this nature, unless as part of an employment application. If you elect to provide sensitive personal data not requested by HDS, you expressly consent to HDS' use of that data consistent with the mutually beneficial uses reasonably contemplated at the time of your consent or as more specifically described at the point where you choose to disclose your personal data.
+### INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
 
-**Transfer of Personal Data**
+Personal information, including personal information collected in the European Economic Area ("EEA") or Switzerland collected by HITACHI may be transferred, stored and processed by member companies of the worldwide Hitachi organization and the Hitachi family of companies, our business partners or third-party service providers who are established in jurisdictions without comprehensive data protection laws. Transfer of information to third parties or to locations outside of your country of residence are managed in accordance with applicable laws, which may include the GDPR.
 
-Personal data collected by HDS may be transferred to HDS Affiliates, which are member companies of the worldwide HDS organization, where it is necessary to meet the purpose for which you have submitted the information. By submitting personal data on HDS' web site, you are providing explicit consent to worldwide transfer of such personal data to, and use by HDS or any HDS Affiliate, within the scope of the privacy policies stated by HDS or any HDS Affiliates.
+We take reasonable steps aimed to protect your personal information. These steps include implementing the European Commission's Standard Contractual Clauses for transfers of personal information from our group companies in the EEA to our other group companies. We have implemented similar appropriate safeguards with our service providers, partners and affiliates. For more information about these safeguards, please contact privacy@hitachivantara.com.
 
-**Cookies**
+**By providing your personal information to HITACHI, you explicitly consent to the transfer of your information outside of your country of residence.**
 
-Cookies may be used on some pages of our site. "Cookies" are small text files placed on your hard drive that assist HDS in providing a more customized web site experience. For example, a cookie can be used to store registration information in an area of the site so that a user does not need to re-enter it on subsequent visits to that area. The use of cookies is intended to make navigation of our web sites easier for you and to facilitate efficient registration procedures. Cookies also enable us to monitor individuals' use of our site for the purpose of continuing to improve its usefulness.
+### LEGALLY COMPELLED DISCLOSURE
 
-If you are concerned about cookies, most browsers permit individuals to decline cookies. In most cases, you may refuse a cookie and still fully navigate our web sites.
+There may be circumstances under which HITACHI may be legally compelled to disclose your personal information. These circumstances may include, among others, situations where disclosure is required by law applicable to HITACHI, or necessary to comply with an order of a court or governmental agency, export control, or necessary for matters of safety and security. In such cases, HITACHI will make good faith efforts to provide only that information which is the subject of the official order or request.
 
-**Third Parties**
+### DATA RETENTION
 
-HDS will not sell, rent, or lease your personal data to others. Unless we have specifically informed you, obtained your consent or are required by law, we will only share the personal data you provide online with HDS Affiliates and/or business partners who are acting on our behalf, and then only for the uses described in "Use of Data". If there is an instance where HDS may desire to share such information with third parties, you will be asked to consent to such disclosure at the time you submit the data. However, the sharing of such information will be made only for purposes consistent with the uses described in the Policy.
+Your personal information will be retained for as long as necessary to fulfil HITACHI's legitimate business purposes, unless a longer retention period is required by applicable law.
 
-**Legally Compelled Disclosure**
+### COOKIES
 
-Despite HDS' commitment to protecting your personal data, there may be circumstances under which HDS may be deemed to be legally compelled to disclose your personal data. These circumstances may include, among others, situations where disclosure is required by law applicable to HDS, or necessary to comply with an order of a court or governmental agency, or necessary for matters of safety and security. In such cases, HDS will make good faith efforts to provide only that information which is the subject of the official order or request.
+Our Site uses cookies. " _Cookies_ " are text files containing small amounts of information placed on your computer or device when you visit a website. Cookies help us improve the functionality and performance of our Site and deliver a better and more personalized service by enabling us to:
 
-**Third Party Links**
+  * Estimate our audience size and usage patterns;
+  * Store information about your preferences, allowing us to customize our Site according to your individual interests;
+  * Recognize you when you return to our Site; and
+  * Provide us with business and marketing information.
 
-There are several places throughout the HDS web site that may link to other web sites that do not operate under HDS' privacy practices. HDS does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. When you link to other web sites, HDS' privacy practices no longer apply and HDS assumes no responsibility for the information or other practices of a site that is accessible through HDS. We encourage you to review each site's privacy policy before disclosing any personally identifiable information.
 
-**Data Retention**
 
-HDS does not retain all of the data that we receive. Contact information about visitors will be kept as long as the information is valid or until a user with appropriate authorization requests in writing that we delete that information.
+You may also receive cookies from third parties we engage to help us provide our Site. You may refuse to accept cookies by activating the appropriate setting in your browser's software. In most cases, you may refuse cookies and still fully navigate our Site. Unless you have adjusted your browser setting, so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site.
 
-**Your Choices**
+By accessing our Site without activating the appropriate setting in your browser (as described above), you consent to HITACHI's reasonable use of cookies as described within [HITACHI's Cookies Policy](https://web.archive.org/en-us/company/legal.cookie-policy.html).
 
-HDS respects your right to make your own choices about how your personal data is handled. Should you choose to subscribe to mailing lists or any registrations, and later decide to unsubscribe we will provide instructions, on the appropriate web site area or in communications to you or you may contact HDS at [privacy@hds.com](mailto:privacy@hds.com). In addition access to certain applications or services may involve particular uses, disclosure or transfer of the personal information being collected during registration for that application or service. If required under the laws of your country of residence, you will be notified of such intended uses, transfer or disclosure and asked to provide your consent. Failure to provide your consent where so requested may mean you will not be provided access to the applications or services for which your personal information can not be lawfully processed.
+### THIRD PARTIES
 
-**Accuracy, Access & Further Notification**
+HITACHI will not sell, rent, or lease your personal information to others.
 
-HDS strives to ensure the accuracy of your personal data, as provided to HDS. Depending on the privacy laws in your country of residence, you may have the right to view, update or correct data submitted through the web sites to HDS, or to receive additional notification of changes in the use of your information. When personal data is retained, HDS undertakes to make all reasonable efforts to maintain the accuracy of the personal information submitted and verified by you. HDS does not assume responsibility for verifying the information you submit, or for establishing the ongoing accuracy of the content of personal data. When practically possible, if HDS is informed that any personal data collected through a web site is no longer accurate, HDS will make appropriate corrections based on the updated information provided by the authenticated visitor. Queries in this regard should be directed to HDS at [privacy@hds.com](mailto:privacy@hds.com).
+Unless we have specifically informed you, obtained your consent, or are permitted or required to do so by the laws of the jurisdiction we operate in, we will only share the personal information you provide with business partners and third-party service providers who are acting on our behalf, and then only for the uses described in this Policy. Specifically, we do not disclose your personal information to third parties for the third party's own direct marketing purposes unless you have provided your affirmative consent for such a disclosure. HITACHI will take appropriate steps to ensure that these third parties protect the confidentiality and security of your personal information.
 
-**Security**
+Similarly, we ask that you do not provide us with information about third parties without their permission. You represent that, when providing us information about third parties, you have obtained previous, express and informed consent of such parties to process their personal data.
 
-HDS is committed to ensuring the security of your data. To prevent unauthorized access, misuse or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate procedures to safeguard and secure the information we collect online.
+### LINKS TO THIRD PARTY WEBSITES
 
-**Sale of business assets**
+There are several places throughout the Site that may link to other websites that do not operate under HITACHI's privacy practices. HITACHI does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. When you link to other websites, HITACHI's privacy practices and this Policy no longer apply and HITACHI assumes no responsibility for the information or other practices of a website that is accessible through HITACHI. We encourage you to review other website privacy policies before disclosing any personal information to them.
 
-In the unlikely event of a sale of HDS, an HDS business unit, or an HDS affiliate, personal information held by HDS may be made available to a buyer or prospective buyers in order for them to evaluate any such purchase or to operate any parts of HDS's business.
+### YOUR CHOICES
 
-**Modifications**
+HITACHI respects your right to make your own choices about how your personal information is handled. Should you choose to subscribe to mailing lists or any registrations, and later decide to unsubscribe you may unsubscribe on our [Preference Center](https://web.archive.org/en-us/preference-center.html). You can also opt out by clicking "unsubscribe" in any marketing email communications we send you, or you may contact HITACHI at privacy@hitachivantara.com.
 
-Subject to the legal requirements of your jurisdiction of residence for notice and consent, HDS reserves the right to modify or amend this Policy at any time. The implementation date will be displayed at the bottom of this Policy.
+In addition, access to certain applications or services may involve particular uses, disclosure or transfer of the personal information being collected during registration for that application or service. If required under the laws of your country of residence, you will be notified of such intended uses, transfer or disclosure and asked to provide your consent. Failure to provide your consent where so requested may mean you will not be provided access to the applications or services for which your personal information cannot be lawfully processed.
 
-**Contact Us**
+### PRIVACY RIGHTS
 
-We welcome your inquiries or comments about this Privacy Policy and any queries or concerns that you may have about the HDS web site.
+HITACHI strives to ensure the accuracy of your personal information, as provided to HITACHI. We will also provide you with notifications as required by applicable law.
 
-Please contact HDS at [privacy@hds.com](mailto:privacy@hds.com) or at the following address:
+If you are a resident of the EEA or as permitted by the laws of your jurisdiction, you may also:
 
-Hitachi Data Systems Corporation  
-750 Central Expressway  
-Santa Clara, California 95050
+  * Request access to or a copy of your personal information.
+  * Request to correct, update or rectify your personal information.
+  * Request that HITACHI deletes or blocks your personal data. HITACHI is unable to delete information that we deem necessary to comply with our legal obligations, resolve disputes and/or enforce our agreements.
+  * Object to or seek a restriction on the processing of your personal data
+  * Refuse to consent or revoke your consent to processing. Revoking your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * Raise a concern to us at privacy@hitachivantara.com or the applicable data protection authority about our collection and use of your personal information.
 
-Attention: Data Privacy Administrator
+
+
+HITACHI will respond to your requests pursuant to applicable law and in accordance with [HITACHI's Data Subject Rights Policy](https://web.archive.org/en-us/company/legal.data-subject-request-policy.html).
+
+Requests should be directed to [online DSAR form](https://web.archive.org/en-us/company/legal/data-subject-access-request.html) or privacy@hitachivantara.com.
+
+### SECURITY
+
+We have put in place technical and organisational procedures to safeguard and secure the information we collect from you and to reduce the risk of loss, unauthorized access, misuse and alteration. Unfortunately, the transmission of information via the Internet is not completely secure. Although we work very hard to protect your personal information, we cannot guarantee the security of your personal information transmitted over our Site.
+
+### SALE OF BUSINESS ASSETS
+
+In the unlikely event of a sale of HITACHI, a HITACHI business unit, or a HITACHI affiliate, personal information held by HITACHI may be made available to a buyer or prospective buyers in order for them to evaluate any such purchase or to operate any parts of HITACHI's business.
+
+### MODIFICATIONS
+
+Subject to the legal requirements of your jurisdiction of residence for notice and consent, HITACHI reserves the right to modify or amend this Policy at any time in order to adjust to applicable laws or regulations, or changes in HITACHI's practices or procedures. Where conflicts exist between the terms and conditions of this Policy and applicable national data protection laws, the latter will take precedence. This Policy is not intended to, and does not, provide rights beyond those that are prescribed by applicable national laws. The implementation date will be displayed at the bottom of this Policy.
+
+### HITACHI CONTENT PLATFORM ANYWHERE ANDROID APPLICATION
+
+Hitachi Content Platform (hereinafter, "HCP") Anywhere is deployed by enterprises to mobilize, manage, and protect data. The data on the HCP Anywhere mobile application is stored and managed by the particular enterprise that deployed the HCP Anywhere sever, not HITACHI. In these cases, any data subjects who wish to exercise their rights should direct their query to our customers who act as "Data Controllers".
+
+When installed on a device, the HCP Anywhere mobile application has access to several permissions which allows it to enforce security policies on the device based on the enterprise's HCP Anywhere settings. Mainly, the application can enforce:
+
+  * Password requirements, such as length and alphanumeric requirements
+  * Maximum inactivity time
+  * Storage area encryption
+
+
+
+The HCP Anywhere mobile application enforces these policies using Device Administration. Although the HCP Anywhere mobile application can enforce certain policies on the device, it does not collect or process any personal information (e.g. Your device password).
+
+### PRIVACY OF CHILDREN
+
+Our Site, our products, and services are not directed to individuals under the age of thirteen. Please let us know if a person under the age of thirteen has provided HITACHI with personal information by contacting privacy@hitachivantara.com. In the event that we become aware that a child has provided us with personal information, we will implement the necessary technical and organizational measure to erase said information.
+
+### CONTACT US
+
+We welcome your inquiries or comments about this Policy and any queries or concerns that you may have about the Site.
+
+Please contact HITACHI at privacy@hitachivantara.com or at the following address:
+
+Hitachi Vantara Corporation  
+2845 Lafayette Street  
+Santa Clara, California 95050  
+U.S.A.
+
+Attention: Privacy Officer
+
+### IMPLEMENTATION DATE
+
+We review HITACHI'S Privacy Policy regularly to reflect changes introduced by the applicable legislation. If you continue using our Site after such revisions are in effect, you accept and agree to the revisions and to abide by them.
+
+This Policy was last updated on May 25, 2018.
