@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilavatar.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626015408id_/http%3A//evilavatar.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilavatar.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226095815id_/http%3A//evilavatar.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Evil Avatar - Evil Avatar Privacy Policy
 
