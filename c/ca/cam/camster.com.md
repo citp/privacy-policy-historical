@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camster.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627063403id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camster.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025213id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Camster - Free live cam girls and sex chat
 
