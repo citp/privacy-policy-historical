@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtunes.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623161319id_/http%3A//adtunes.com/forums/faq.php%3Ffaq%3Dsitefaq%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtunes.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226172121id_/http%3A//adtunes.com/forums/faq.php%3Ffaq%3Dsitefaq%23faq_privacy) for the most accurate reproduction.*
 
 # Site FAQ
 
@@ -38,4 +38,4 @@ Cookies are used to store information and make your visit more convenient and ti
 
 **Contact**
 
-If you have any questions, concerns or comments regarding our privacy policy, please [Contact Us](http://adtunes.com/forums/sendmessage.php?s=1c6ef7dc7018dea7063303ac5f7fd885). 
+If you have any questions, concerns or comments regarding our privacy policy, please [Contact Us](http://adtunes.com/forums/sendmessage.php?s=438b83fffcc5cc9baf5df22eb2a35bf1). 
