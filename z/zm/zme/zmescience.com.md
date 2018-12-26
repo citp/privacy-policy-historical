@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626034025id_/https%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226114434id_/https%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**[ultimate_gdpr_policy_accept]**
+Cookie Settings
 
 Last updated: May 24, 2018
 
