@@ -1,173 +1,230 @@
-> *The following text is extracted and transformed from the autodesk.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627091152id_/http%3A//www.autodesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodesk.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025220id_/https%3A//www.autodesk.com/company/legal-notices-trademarks/privacy-statement) for the most accurate reproduction.*
 
-# Autodesk - Legal Notices & Trademarks - Privacy Policy (Updated December 12, 2008)
+# Privacy Statement English
 
-**The privacy practices described in this document (the “Privacy Policy”) apply to Personally Identifiable Information (as defined below) that we collect in connection with all products, services and website(s) (collectively, “the Site”) offered by Autodesk and its subsidiaries (collectively “Autodesk”). By visiting the Site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access the Site. We reserve the right to change this Privacy Policy without prior notice. You can determine when this Privacy Policy was last revised by referring to the " _LAST UPDATED_ " legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.**
+### What information does Autodesk collect about you?
 
-Personally Identifiable Information may be collected by Autodesk, disclosed to affiliates and third parties, and used by Autodesk, affiliates and third parties. This Privacy Policy describes the Personally Identifiable Information we collect about you and how we may use and/or disclose that Personally Identifiable Information. 
+**Information you provide us:**
 
-We have organized our Privacy Policy in Q&A format to address the most frequently asked questions. If you have any questions after reading through our Privacy Policy, please let us know. We want to hear from you! You can e-mail us at the addresses below: 
+We collect information that identifies you, including your name, surname, and contact information, such as your address, email address and telephone number, when you:
 
-Autodesk.com: [webmaster@autodesk.com](mailto:webmaster@autodesk.com)  
-Autodesk Location Services: [locationservices@autodesk.com](mailto:locationservices@autodesk.com)  
-Autodesk Collaborative Project Management (CPM) Services (Autodesk® Buzzsaw® and Autodesk® Constructware®): [bcs.support@autodesk.com](mailto:bcs.support@autodesk.com)  
-Autodesk® Green Building Studio®: [support.gbs@autodesk.com](mailto:support.gbs@autodesk.com)  
-General Autodesk Privacy Information: [webmaster@autodesk.com](mailto:webmaster@autodesk.com)  
-One Team Web: [otwamericas@autodesk.com](mailto:otwamericas@autodesk.com)  
-Subscription Center: [subscription-team@autodesk.com](mailto:subscription-team@autodesk.com)
+  * Create an account
+  * Register a product or service
+  * Sign up for one of our events
+  * Contact us
 
-**Note Regarding the Use of the Site by Children** : The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personally Identifiable Information through the Site. 
 
-**PLEASE NOTE** : Autodesk reserves the right to change, modify or grant exceptions to this Policy where applicable law permits the Company to do so.
 
-#### 1\. What information does Autodesk collect from me?
+We collect additional information to inform your specific use of our applications. This includes your language preferences, the date of your birth, the name of your employer and your job title.
 
->  **a. Personally Identifiable Information**
+After you have created an account or registered for an application, we collect additional information, which may include:
 
-" **Personally Identifiable Information** " (or " **PII** ") is information that identifies you as an individual. Autodesk may collect Personally Identifiable Information in a number of ways, but the two most common are during Site registration or Site personalization and product or service registration or enrollment. In some instances, you may visit the Site and use some of our services without providing PII to us. The PII requested may vary depending on which product, service or Site you are using or accessing. We typically ask for PII about you, such as your name, e-mail address, postal address, telephone numbers and fax numbers. We may also ask for financial information, such as account or credit card number to verify your user identity and to allow you to pay for any purchases you make. If you contact us, we may keep a record of that correspondence or communication, including any PII contained therein. Information on how you communicated with us may also be recorded and can include PII such as your e-mail address, the return e-mail address shown in any e-mail message from you, the return address on any envelope or facsimile number on any facsimile, or the telephone number from which you called. In some cases you will be given or asked to create an ID, and you can create a confidential password to be able to take full advantage of the Site’s many offerings. 
+  * Your subscription plans and payment information
+  * Details about the applications that you purchased or have expressed interest in
+  * Training and certification details
+  * Event attendance details
+  * Your communication preferences
+  * Records of our interaction with you, where appropriate, such as service records, correspondence, details of complaints and their resolution
+  * Content you submitted to us, such as comments you posted in our forums
 
-In addition to the PII we obtain at the initial stage of registration, we may ask you for PII at other times, such as when you make a purchase or use a service on the Site; when you participate in a contest, survey, or promotion; or when you report a problem with the Site or one of our services. In most cases, the more specific information you provide, the better we are able to personalize your experience with Autodesk. 
 
-> **b. Non-Personally Identifiable Information**
 
-" **Non-Personally Identifiable Information** " (or " **Non-PII** ") is aggregated information, demographic information and any other information that does not reveal your specific identity. Autodesk and its service providers collect Non-PII which does not identify you, through "cookies," environmental variables, pixel tags and other technologies, your communications with us and other information you voluntarily provide. 
+When you make purchases through our websites, we use payment processors ([Digital River](https://www.digitalriver.com/corporate-policies/), [BlueSnap](https://home.bluesnap.com/privacy-policy/), [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full), [Stripe](https://stripe.com/us/privacy)) and do not store credit card or other financial information (other than confirmation that payment in a certain amount has been made). We collect contact information from you that we pass through to the payment processor to facilitate the transaction. For more information you can contact our providers as set forth in their privacy notices. ****
 
-**Cookies** : A cookie is a small amount of data that is sent to a browser from a web server, and gets saved on the hard drive of the computer that you are using. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer. If you choose to reject all cookies, however, you will be unable to use those Autodesk services that require registration or customization in order to participate. If you choose to accept cookies from us and our service providers, you are granting us and our service providers your consent to set cookies on your computer. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. 
+**Information we obtain from your use of our applications:**
 
-**Environmental Variables** : We and our service providers may also collect certain environmental variables, including MAC address, computer type (Windows or Macintosh), screen resolution, OS name and version, Internet browser, and Internet browser version. These environmental variables are collected by most browsers, and can be used to optimize your experience on the Site. 
+We collect information about the applications that you use and how you use them. We use this information to support our legitimate interest in improving your experience, and building better online, mobile, and desktop applications.
 
-**Pixel Tags** : We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs," or other similar technologies in connection with Site pages and HTML-formatted e-mail messages to, among other things, track the actions of Site users and e-mail recipients, to determine the success of marketing campaigns and to compile aggregate statistics about Site usage and response rates. 
+This information includes:
 
-**Communications** : We and our service providers may also collect Non-PII in connection with how you communicated with us, including country domain, the language you selected for viewing order forms or other documents, your browser type, the currency in which you viewed prices if such feature is available, and your use of a secure or insecure Web page. Additionally, in connection with your registration of an Autodesk product, service or support requests generated by the Autodesk product or service you are using, we and our service providers may collect request codes, activation codes, product release, product version, product language, graphics configuration driver name and version, list of applications running at the time of the error, list of Autodesk products and services installed on the computer, list of recent Autodesk commands and other Non-PII. 
+  * System Information and Usage Data 
 
-**Information That You Voluntarily Provide** : Autodesk also collects Non-PII, such as a mother’s family name or a keyword, company name, title, geographic location, the industry that you work in and your security questions and answers, when you voluntarily provide it to us. Such information constitutes Non-PII because, unless combined with PII, it does not personally identify you or any other user. Additionally, we may aggregate PII in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using PII to calculate the percentage of our users who have a particular telephone area code. Such aggregate information is considered Non-PII for purposes of this Privacy Policy. 
+We collect device-specific information, like unique device identifiers, operating system, and the type of device you use.
 
-> **c. IP Addresses and Serial Numbers**
+We collect information about how you use our applications. This includes your product ID, license information, which applications you use and for how long, your city and country from your IP address, and information about your browser.
 
-Your Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). Your IP address, machine name and the serial number (or old serial number) of a product or service you have purchased from us is logged automatically in our server log files when you visit the Site (along with the time(s) of your visit(s) and the page(s) that you visited), when you register for the Site and/or when you send us an error report.
 
-#### 2\. How does Autodesk use my information?
 
->  **a. Personally Identifiable Information**
+  * Social Networking Data 
 
-Autodesk may use PII about you in the following ways: 
+We have pages on social networking platforms, such as Facebook, LinkedIn, or Twitter, where you can visit and communicate with us.
 
-**Personalized Experience** : One of Autodesk’s goals in collecting PII is to provide you, the user, with a personalized experience on our Site and/or with our products and services. This includes personalization services (such as content that can be personalized by both you and Autodesk), interactive communications (such as surveys and email contact with account representatives), online commerce, and many other types of services, many of which may be free to you. Fulfill Requests: PII about you is used by us and our service providers to respond to your requests and fulfill the purpose for which the PII was provided, (e.g., to process and fulfill your product, service or support requests) and for administrative purposes (e.g., customer service). Additionally, we may use your PII to ensure that you are directed to the right Site, product and/or service for you. 
+Our applications also include buttons, tools, or content that links to another company’s services. We collect information about your use of these features through Autodesk Analytics tools and third-party analytics tools.
 
-**Communications** : If you sign up, we may use PII about you to provide you with information about products or services offered by Autodesk, to recommend Autodesk products and services and to enable you to take advantage of the many features they offer. If you later change your mind and no longer wish to receive such marketing communications from us, you may opt-out of such communications on a going-forward basis as set forth in Section 7 below. From time to time, in our sole discretion, we may use PII about you to send you important information regarding the Site or changes to our terms, conditions, and policies and/or to send you other administrative and/or operational communications. Because this information may be important to your use of the Site, products or services, you may not opt-out of receiving such operational communications. 
+If you use an Autodesk application that contains plugins, information can be transferred directly from your device to the social networking provider. We have no influence on the data collected by the plugin. If you are logged in to the social network, a link can be established between your user account there and the use of our application.
 
-**Standardization** : Autodesk may also clean-up and standardize PII when it is collected. For example, Autodesk may abbreviate the term: “street” to “St.” or correct a spelling mistake made when Autodesk collected the PII. 
+If you interact with the plugins, for example by clicking on "Like", "Follow" or "Share", or by writing a comment, this information may automatically appear in your profile on the social network. Even if you are not logged in, the plugins may send your IP address to social network providers. Please note this when using our applications.
 
-**Error Reporting** : We may also use PII collected from error reports to analyze the cause of the problem and to communicate with you regarding the error report as well as for the other purposes set forth in this Policy. 
+When you connect to a social networking service on a device that is also used by others, these other users are able to see information that is stored or displayed in connection with your profile on the social networking service page.
 
-**Verification and Delivery** : The PII you provide during product or service registration or enrollment will also be used by Autodesk to identify you as an authorized user of an Autodesk product or service and to issue your authorization code or password to enable Autodesk to provide you with the product or service as set forth in the relevant documentation. 
 
-**Promotions** : PII that we obtain from voluntary programs such as surveys, promotions, and contests (“Promotions”) may be subject to additional or different privacy terms. If different terms do apply, details of the use of this PII will be outlined in the specific terms and conditions or rules of these Promotions. For example, we may share such PII you provide in connection with Promotions with third party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. Please be sure to read those specific terms and conditions or rules because they may alter what is written in this Privacy Policy on a case-by-case basis. To the extent that such terms and conditions or rules concerning the treatment of PII about you conflict with this Privacy Policy, such terms and conditions or rules shall control. 
 
-**Purchases** : When you make a purchase through the Site, we may use your PII in order to fulfill your purchase. 
+  * Error data 
 
-**Matching** : The PII you provide to this Site may be combined with other PII and information about you that is publicly available, or with other PII and information about you that we may otherwise obtain to better target our advertising and customize the content presented to you on the Site. 
+We collect and track data on technical errors that may occur when you use our applications, if you choose to send the relevant report to us in each case. Before the report is sent to us, you will be told what information will be collected and how it will be sent to us.
 
-**Compliance with our Terms and Conditions** : We also use PII to help us to identify unregistered or illegal versions of our products and services, and to take appropriate action. Internal Business Purposes. We may also use PII about you for our internal business purposes, such as data analysis, audits, business continuity, disaster recovery, backup storage, data replicationand so forth. 
 
-**Careers** : You may be able to submit PII through the Site in connection with career opportunities. All such PII will be this Privacy Policy. 
 
-> **b. Non-Personally Identifiable Information**
+  * Automatic updates 
 
-Because Non-PII does not personally identify you, we may use such Non-PII for any purpose. For example, we may use Non-PII we collect to get a better understanding of our subscriber base by analyzing on an aggregate basis our users' demographics, interests, and behavior. In addition, we reserve the right to share such Non PII, which does not personally identify you, with third parties, for any purpose. 
+We collect information that may identify you to your system administrator in connection with the automatic update process, to help your administrator determine what updates you need. This information includes your user login name, and your computer’s name or description.
 
-In some instances, we may combine Non-PII with PII (such as combining your name with your geographic location). If we do combine any Non-PII with PII, the combined information will be treated by us as PII hereunder as long as it is so combined and used. 
 
-> **c. IP Addresses and Serial Numbers**
 
-We use IP addresses, machine names and serial numbers for purposes such as calculating Site, product and service usage levels, helping diagnose server, product and service problems, and administering and troubleshooting the Site and our products and services. Autodesk also may use IP addresses, machine names and serial numbers for system administration and to report aggregate information to our advertisers. We also use IP addresses, machine names and serial numbers to help us to identify unregistered or illegal versions of our products and services, and to take appropriate action in connection with the same. Further, we use and disclose IP addresses, machine names and serial numbers for all the purposes set forth in Section 2(a) above and Section 3 below. Please note that we treat IP addresses, machine names, serial numbers and related information as Non-PII (and may use and disclose them as we use and disclose Non-PII), except where we are required to do otherwise under applicable law. 
+  * Cookies and similar technologies 
 
-#### 3\. With whom does Autodesk share my PII?
+Autodesk uses cookies (small text files stored by your web browser when you use websites) and related technologies, such as pixels and beacons (“Cookies”) to collect and store information when you visit our websites and use our applications.
 
- **Our Business Partners, Strategic Alliance Companies** : If you submit PII to purchase a product or service from a partner or a company with which we have a relationship, we will need to share that PII with the relevant partner/company so that Autodesk or the partner/company can process your order(s) to ship, supply, maintain, renew or service the products or services that you requested and you may be contacted by the partner/company for any of these purposes. Additionally, subject to Section 7 below, if you submit PII we may share your PII with any partner or a company with which we have a relationship for any of the purposes set out in the immediately preceding sentence and/or for any of the purposes set out in Section 2 above. We shall require that any such partner or company comply with the provisions of this Privacy Policy in dealing with any PII we share with them. AUTODESK IS NOT RESPONSIBLE OR LIABLE FOR THE USE OF PII ABOUT YOU BY SUCH PARTNERS, COMPANIES AND/OR RESELLERS. 
+We also use Autodesk Analytics programs and third-party analytics tools, such as [Google Analytics](http://www.google.com/policies/privacy), to help us understand how you use our website and applications.
 
-**Marketing Relationships** : If you opt-in, we may share your PII with third parties so that they can provide you with information about their products and services. If you do not want your PII shared with such third parties for marketing purposes, you may opt-out of such sharing as described in Section 7 below. 
+To learn more about analytics within our websites and applications, see our [Cookie Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/cookie-policy-english).
 
-**Within Autodesk** : PII about you may be shared within Autodesk, Inc. and its wholly owned subsidiaries for the purposes of providing you with products or services you have ordered or for which you have registered and to provide information to you about our products or services. ( **[ **Contact List for Autodesk and its Subsidiaries**](https://web.archive.org/adsk/servlet/index?siteID=123112&id=1073074)** ) Autodesk is the party responsible for the management of the jointly-used PII. 
 
-**Special Cases** : Autodesk may also use and/or disclose PII in other special cases when we have reason to believe that using and/or disclosing this PII is necessary to identify, contact, or if Autodesk deems necessary, bring legal action (including action outside your country of residence) against someone who may be violating Autodesk's Terms of Service, end user license agreements and/or intellectual property rights. The same policy applies in cases where we believe an individual may be causing injury to or interfering with (either intentionally or unintentionally) Autodesk's rights or property, other users of an Autodesk Site or service, or anyone else that could be harmed by such activities. Autodesk may disclose or access PII when we believe in good faith that the law (including laws outside your country of residence) requires it, to comply with the legal process, to respond to requests from public authorities including public authorities outside your country of residence and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services, to protect our operations and to permit us to pursue available remedies or limit the damages that we may sustain. This includes exchanging PII with other companies and organizations for fraud protection and credit risk reduction. 
 
-**Service Providers** : We occasionally employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, sending postal mail and e-mail, removing repetitive PII from customer lists, ensuring accuracy of PII, analyzing data, providing marketing assistance, fulfilling purchases and processing credit card payments. We may share PII about you with third parties for the purpose of enabling these third parties to perform such functions. 
 
-**Assignment** : As we continue to develop and expand our products and services, we may sell or buy businesses or product or service lines. In such transactions, customer PII is generally one of the assets transferred. As such, we reserve the right to transfer any and all information that we collect from Site users to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Autodesk’s business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings). In addition, in connection with any such transaction, we reserve the right to share PII about you with our consultants and advisors (such as accountants and lawyers).
+With the exception of information essential to operate our services as described in our Cookie Statement, whether we collect this data is up to you. You can change your mind at any time by going into your Settings within the application, as well as here. Please keep in mind that you may also need to clear your Cookies on each browser on each device.
 
-#### 4\. Forums
+We associate any data we collect as set forth above with your personal account.
 
-We and our service providers may make available through the Site services (for example, public forums, chat rooms, message boards, and/or news groups, among other services) to which you are able to post information and materials. If you visit such a service on a Site, please remember that any information that is disclosed in these areas becomes public information and may be available to visitors to the Site and to the general public. In addition, when you choose to make a posting on such services, certain PII (for example, your user name), will be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose PII about you, or any other information, on the Site. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE.
+**Information we collect from other parties:**
 
-#### 5\. What about Autodesk® Hosted Solutions?
+To help keep our databases current, and to provide you with more relevant content, experiences and offerings, we combine your personal data, as described above, with information from public sources and other companies (such as our channel partners [resellers], business contact databases, and enrichment service providers), in accordance with applicable law.
 
-Please note that if you receive an invitation to participate in an Autodesk Hosted Solution (such as Buzzsaw® or Constructware® amongst others) the invitation is usually sent by an employee of one of our customers or licensees who uses the Hosted Solution service. Any PII you provide to our customers or licensees (or employees of our customers or licensees) in order to join or participate in an Autodesk Hosted Solution is available to our customers or licensees, and not to us unless the Hosted Solutions service is being administered or maintained by Autodesk itself. Autodesk does not control the PII maintained by our customers and licensees or the use and/or disclosure of that PII. AUTODESK IS NOT RESPONSIBLE OR LIABLE FOR THE USE AND/OR DISCLOSURE OF PII ABOUT YOU BY SUCH CUSTOMERS AND LICENSEES.
+These sources can tell us about the company size and industry of our business customers and also help us maintain the accuracy of our databases.
 
-#### 6\. What about Autodesk partner services, strategic alliance companies, or linked sites?
+### How does Autodesk use the information it collects about you?
 
-Certain products and services are made available through an Autodesk Site but are provided by partners, either through their own web sites or on web sites that they share with Autodesk. When ordering, using or purchasing products or services from these partners, you will be entering into an agreement with that partner, and not with Autodesk, and will be providing PII about you to such partner, not to Autodesk. In these cases, this Privacy Policy does not apply; instead, the privacy policy of the partner actually providing the goods and services will apply. We urge you to read and understand our partners' policies before entering into agreements with them. 
+We use your personal data mindfully, and in useful ways, including:
 
-Also, we may provide links to a partner's or an advertiser's site, or to other sites from the Site. These linked sites are not under Autodesk's control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on a Site does not imply endorsement of the linked site by Autodesk. If you provide any PII through any such third party web site, your transaction will occur on such third party's web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. 
+  * To validate your identity, to the extent necessary to perform our contract with you
+  * To deliver you services, products, support, or information you have requested about your application, to the extent necessary to perform our contract with you
+  * To send you important information within the scope of our contract with you
+  * To send you other information you requested, like when someone has “liked” one of your posts, to the extent necessary to perform our contract with you
+  * To send you other special offers, promotions, newsletters, surveys, or other information that you have consented to receive, as long as you want them
+  * To support our legitimate interest in gaining a better understanding of our applications, so we can improve them and your experience
+  * To correct problems in our applications, as necessary to perform the contract we have with you
+  * To support our legitimate interest in making our ads more relevant to your interests
+  * To support our legitimate interest in using automated systems to analyze your data using machine learning and advanced analytics to improve our applications
+  * To pursue our legitimate interest in preventing and reducing fraud and software piracy
+  * As further described in your applications, such as in a supplemental notice, or in our About Boxes (available via Settings in your application)
 
-If you have questions about our partners' privacy policies or the privacy policies of these other sites, we encourage you to contact them directly. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
 
-#### 7\. What are my choices regarding the use of my PII?
 
-If you do not want to receive marketing information from us, or if you would prefer that we do not share PII about you with our affiliates or our partners so that our affiliates and partners can send you such marketing information, be sure to indicate that on your registration form if the form requires you to specify your choices. 
+Unless otherwise indicated, there is no statutory or contractual requirement for you to provide this data. If you do not provide this data, we might not be able to provide our services to you.
 
-In addition, if you change your mind, and no longer wish to receive marketing information from us on a going-forward basis, or if you would prefer that we do not share PII about you on a going-forward basis with our affiliates and/or with our partners for such affiliates’ and/or partners’ marketing purposes, you may opt-out of receiving such marketing-related information and/or from such sharing by sending an e-mail to the applicable address specified below in order to change your preferences. 
+### How does Autodesk disclose your personal data?
 
-Autodesk.com: [webmaster@autodesk.com](mailto:webmaster@autodesk.com)  
-Autodesk Location Services: [locationservices@autodesk.com](mailto:locationservices@autodesk.com)  
-Autodesk Collaborative Project Management (CPM) Services (Autodesk® Buzzsaw® and Autodesk® Constructware®): [bcs.support@autodesk.com](mailto:bcs.support@autodesk.com)  
-Autodesk® Green Building Studio®: [support.gbs@autodesk.com](mailto:support.gbs@autodesk.com)  
-General Autodesk Privacy Information: [webmaster@autodesk.com](mailto:webmaster@autodesk.com)  
-One Team Web: [otwamericas@autodesk.com](mailto:otwamericas@autodesk.com)  
-Subscription Center: [subscription-team@autodesk.com](mailto:subscription-team@autodesk.com)
+To provide you the best services we can, we work with other service providers. These companies are located all over the world, and we require them to protect your privacy. They are not authorized by us to use your personal data for their own purposes. Our service providers include companies we use for:
 
-Alternatively, directly contact your local Autodesk office in writing. In all cases, please include your registered address with your request. Please specify clearly which of the following choices you are opting out of: 
+  * Marketing
+  * Sales
+  * Consulting
+  * Communications
+  * Software Maintenance & Support
+  * Social Media
+  * Market Research
+  * License Compliance
+  * Security
+  * Localization
 
-> i. Receiving marketing-related e-mails from Autodesk;  
-> ii. Allowing Autodesk to share PII about you with Autodesk’s affiliates (including its subsidiaries) for their marketing purposes; and/or  
-> iii. Allowing Autodesk to share PII about you with partners for their marketing purposes. 
 
-We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove PII about you from the databases or third parties with which we have already shared PII about you (i.e., to which we have already provided PII about you as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from such third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related e-mails. 
 
-#### 8\. I would like to update the PII I originally provided to Autodesk. What do I do?
+We may disclose your data in the following circumstances:
 
-If the Site requires registration, you can edit your profile on the Site. Just follow these instructions: 
+  * When we have your consent to do so
+  * To our service providers for the purposes indicated in this Privacy Statement. We do not disclose your personal data to them for their own purposes.
+  * To our channel partners (resellers), who are not service providers, for the purposes indicated in this Privacy Statement
+  * When we are required to do so by law, such as to respond to a subpoena or a court order
+  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud or software piracy, defend ourselves against attacks, or protect the rights, property, and safety of Autodesk, our customers, and the public
+  * If we merge with another company, or if we sell or reorganize part of, or all of our business, assets, or stock (including, if we file for bankruptcy). If this happens, your data will likely be transferred to the other company.
+  * When the data can no longer identify you. This can happen through aggregation, where your data is combined with other data to become a statistic.
 
-> **For Autodesk Hosted Solutions** : You can access and update the PII in your Autodesk profile or edit your profile at any time by logging into your account and manually changing your profile information. Remember to have your username and password handy; you won’t be able to access your profile without them. If you have forgotten your password, please visit the Site login screen to have your password e-mailed to you. If you have any problems signing in to an Autodesk Hosted Solution please contact the administrator of that Hosted Solution or the customer support number for the relevant product.
-> 
->  **For the Subscription Center** : You can access and update the PII in your Subscription Center profile at any time by logging in and selecting the "Edit Subscription Center Profile and Log-in" link. If you have any problems signing in to the Subscription Center, please submit the Subscription Customer Service form.
-> 
->  **Subscription Customers and Licensees** : You may change the contact persons for Subscription Centers by contacting autodesk-subscription-support-team@autodesk.com or using the Subscription Customer Service form.
 
-In all other cases, you may send an e-mail to the applicable address specified in Section 7, above, in order to review and edit PII about you. Alternatively, directly contact your local Autodesk office in writing. In all cases, please include your registered address with your request.
 
-#### 9\. Can I cancel my Autodesk Site accounts?
+### How does Autodesk protect your data?
 
-Yes, your Autodesk Site account can be deleted or deactivated anytime. Once you do so, however, you won't be able to access any members-only area of the Autodesk service you’ve deactivated. To delete your account, please follow the instructions below: 
+We use a combination of reasonable physical, administrative, and technological controls to protect your data from unauthorized access or malicious actions. For more information about our security practices, please visit the [Trust Center](https://www.autodesk.com/trust/overview).
 
-**Autodesk Hosted Solutions** : If you are a customer or licensee of an Autodesk Hosted Solution, your account can be deleted or deactivated at any time. Once you do so, however, you won’t be able to access that Hosted Solution. To delete a user from your account, please contact your administrator and be sure to include your username. To delete or disable an entire account (including all users), please send an e-mail to the applicable email address specified above in Section 7or the customer support number for the relevant product. In the event you send a written request to Autodesk to delete PII about you, Autodesk will, subject to any legal obligations imposed on Autodesk to maintain such records, destroy PII about you or make it unidentifiable in a commercially reasonable amount of time. 
+We limit the access employees, contractors, and agents of Autodesk have to your personal data to those who need to know this data to perform their assigned functions and develop or improve our products and services.
 
-In the event you are a participant in an Autodesk Hosted Solution who has been invited to participate in the Hosted Solution by a customer or licensee or Autodesk, please contact such customer or licensee directly to delete your account. AUTODESK IS NOT RESPONSIBLE OR LIABLE FOR ANY FAILURE BY ANY SUCH CUSTOMER OR LICENSEE TO DELETE YOUR ACCOUNT OR TO DESTROY OR MAKE UNIDENTIFIABLE PII ABOUT YOU. 
+### How do you access, update, download, and delete your personal data?
 
-**The Subscription Center** : If you are a customer or licensee of Autodesk, you can delete your Subscription Center account at any time. Deleting your Subscription Center account does not affect your subscription contract with Autodesk, and you will still receive subscription notifications pertaining to your contract. To delete your account, please contact [subscription-team@autodesk.com](mailto:subscription-team@autodesk.com) and be sure to include your Subscription Center member name 
+We have processes in place to maintain accurate, complete and up to date data. You have the right to access, update, delete, receive a copy of, or restrict our use of your personal data. When we process personal data based on your consent, you have the right to withdraw consent any time.
 
-You must deactivate your account separately at each Autodesk Site where you are registered.
+To perform these actions, log-in to your account to manage your personal data and content using our applications and services. You can also delete your personal data and close your account. We may retain certain data about you for legal and internal business purposes, such as fraud prevention, in accordance with applicable laws.
 
-#### 10\. What kinds of security precautions are in place to protect my PII?
+To request a copy of the personal data in your account, please [submit this form](https://accounts.autodesk.com/profile/download?returnurl=https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement/confirmation-en). When you contact us to assist you, we will ask you to validate your identity before fulfilling your request. If you have any questions, please [contact us](mailto:privacy.questions@autodesk.com).
 
-If you register and create a profile on the Site, your profile is password-protected. We recommend that you do not divulge your password to anyone. Also remember to sign out of your Autodesk account and close your browser window when you have finished your work. This is to prevent others from accessing PII about you. We use reasonable organizational, technical and administrative measures to protect PII you provide through the Site that is under our control. However, since no data transmission over the Internet or data storage system can be guaranteed to be 100% secure, we cannot ensure or warrant the security of any information you transmit to us, we transmit to you or that we store. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with this Privacy Policy (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
+### What are Autodesk’s storage and data retention practices?
 
-#### 11\. Where is my PII stored?
+We store your personal data and content on our servers, and the servers of our service providers. Because we and our service providers maintain servers in global locations, your personal data may be transferred across national borders and stored outside of the United States.
 
-PII about you may be processed and stored in the United States or other countries. You hereby consent to the transfer of any PII to the United States or any other country outside of your country of residence where Autodesk or its licensees, agents or service providers are providing services or processing or storing PII in accordance with the terms of this Privacy Policy, which countries may provide a different level of data security than in your country of residence. Autodesk does not represent or warrant that the Site, or any part thereof, are appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site’s availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. 
+We will retain your personal data for as long as necessary to provide you with the applications you are using, and as needed to comply with our legal obligations.
 
-#### 12\. How long is my PII retained?
+### Does Autodesk transfer your personal data across national borders?
 
-We will retain PII about you for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required by law.
+Because we are a global company, we transfer your personal data across national borders to other countries, in compliance with the laws that apply to that data.
 
-| 
+When your data is transferred from one of our entities in the European Economic Area (EEA) to the United States, or another country outside of the EEA, we rely on one or more of the following legal mechanisms which provide appropriate safeguards for the transfers: the EU-U.S. Privacy Shield, Swiss-U.S. Privacy Shield, and Standard Contractual Clauses.
+
+To learn more about Autodesk’s Privacy Shield Certification, please read our [Privacy Shield Notice](https://damassets.autodesk.net/content/dam/autodesk/www/Company/docs/pdf/legal-notices-&-trademarks/privacy-shield-statement-nov-2017-updated-1.pdf).
+
+### What are Autodesk’s marketing and advertising practices?
+
+**Ad Partners**
+
+Our websites and applications may feature ads for other companies’ products and services, as well as ads for our own applications.
+
+We work with one or more advertising networks, which are our Ad Partners, who use Cookies or other technologies to collect information in order to serve you ads and help us track results. Such information may include the websites you visit, the mobile apps you use, the preferences you may provide us as your application provider, your IP address, your device ID, and information about your browser. This information is used to display appropriate advertising in mobile apps and websites that you visit, to calculate and control the number of unique and repeat views of a given ad, deliver ads that relate to your interests and measure the effectiveness of ad campaigns. This processing is in our legitimate interest.
+
+Our Ad Partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser's activities across their network of websites.
+
+To opt out of the use of your information by Ad Partners, use the [Digital Advertising Agencies AdChoices Tool](http://optout.aboutads.info/?c=2#!/). If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool again to renew your opt out choice.
+
+You can also change your marketing preferences for our websites here.
+
+**Do-not-track signals**
+
+Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Autodesk currently does not take action in response to these signals.
+
+### How does Autodesk protect children and student data?
+
+At Autodesk, we care deeply about children’s privacy and protecting their data.
+
+Many of our applications, and features are made for the general public, and are designed for adult users. We do not knowingly collect personal data from children in connection with those websites, products, services, and features that are made for the general public.
+
+Other applications and features are appropriate for use by children, and our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english) applies to the personal data collected from those applications. If there is a conflict between our Children’s Privacy Statement and other sections of our Privacy Statement, this Children’s Privacy Statement sets the standard for how we treat children’s personal data.
+
+For more information, please refer to our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english).
+
+### Is the personal data you give us ever displayed publically?
+
+As always, we urge you to be mindful when deciding to disclose personal data, including on our applications and websites. There are various places within our applications and services that allow you to post content, including comments and “likes.”
+
+In some cases, you can limit who can view or access the information and content you post. In other cases, the information and content might be available to registered members of the application or website, or even to the general public. Your name, user name, profile image, or email address (particularly if this is your user name) may be posted along with any message or other content you post through some of our applications and websites.
+
+If you are posting information you do not want to be disclosed publicly, make sure you are using a website or application that allows you to control who sees information you have posted.
+
+### Will this Privacy Statement change?
+
+If and when the way we treat your personal data changes, we will make sure to let you know by updating this Privacy Statement. When we change it, we will make it clear at the top of our Privacy Statement, and we will tell you when we last updated it. If we have your email address, we will also send you a notice by email regarding the update.
+
+### How to contact us?
+
+If you want to contact us, please use the following contact information. When you do so, please tell us the name of the website or application about which you are contacting us:
+
+By email at:
+
+privacy.questions@autodesk.com
+
+By postal mail to:
+
+> Privacy Questions Autodesk, Inc. The Landmark @ One Market Suite 500 San Francisco, CA 94105 U.S.A. 
+
+**Data protection officer**
+
+To contact our data protection officer, please use the following contact information: [DPO@autodesk.com](mailto:DPO@autodesk.com).
+
+### Who can I contact with questions or concerns?
+
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have a right to lodge a complaint with the [data protection authority of the United States of America](https://www.ftc.gov/faq/consumer-protection/submit-consumer-complaint-ftc) and/or with a competent European supervisory authority.
