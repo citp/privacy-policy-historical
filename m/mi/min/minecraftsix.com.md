@@ -1,63 +1,108 @@
-> *The following text is extracted and transformed from the minecraftsix.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626032152id_/http%3A//minecraftsix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftsix.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226112825id_/http%3A//minecraftsix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MinecraftSix
 
-This privacy policy sets out how minecraftsix.com uses and protects any information that you give minecraftsix.com when you use this website.
+MinecraftSix  _(“us”, “we”, or “our”)_  operates the http://minecraftsix.com website (the “Service”).
 
-MinecraftSix.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
-MinecraftSix.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2015/04/28.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**What we collect**
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://minecraftsix.com.
 
-We may collect the following information:
+## Information Collection And Use
 
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name  _(“Personal Information”)_.
 
+## Log Data
 
+We may also collect information that your browser sends whenever you visit our Service  _(“Log Data”)._  This Log Data may include information such as your computer’s Internet Protocol  _(“IP”)_ address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**What we do with the information we gather**
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+## Cookies
 
-  * Internal record keeping.
-  * We may use the information to improve our reviews.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
+## DoubleClick Cookie
 
-**Ad Networks**
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page.
 
-We use the following ad networks:
+## Behavioral Remarketing
 
-  * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html))
+MinecraftSix uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-
-
-**Especially Google Adsense Privacy Policy**
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
+  * **Google**  – Google AdWords remarketing service is provided by Google Inc.
+  * **Facebook**  – Facebook remarketing service is provided by Facebook Inc.
 
 
 
-### **Security**
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-**Links to other websites**
+_For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page:_ <http://www.google.com/intl/en/policies/privacy/>
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+MinecraftSix uses Google Analytics to help analyze how users use the site. Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of MinecraftSix, to prepare reports on its activities and share them with other Google services.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google Analytics features implemented on this site include Display Advertising  _(Demographics and Interest Reporting)_.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
+We use data from Google’s Interest-based advertising or 3rd-party audience data  _(such as age, gender and interests)_  with Google Analytics only to maintain this site’s functionality, responsiveness and improve content. Google’s ability to use and share information collected by Google Analytics regarding your visits to this site is restricted by the Google Analytics Terms of Service and Privacy Policy: <http://www.google.com/policies/privacy/>.
 
-**Contacting Us**
+**Facebook:**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+Facebook provided us with certain features and tools that we could add to our website to allow us to send data about actions that people take on our website to Facebook to track conversions and to create custom audiences of people who have visited our website. Read more here: <https://www.facebook.com/customaudiences/app/tos/>
 
-<http://minecraftsix.com/contact-us/>
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Communications
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+## Compliance With Laws
+
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+## Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## International Transfer
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Norway and choose to provide information to us, please note that we transfer the information, including Personal Information, to Norway and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 13  _(“Children”)_.
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please [contact us](http://minecraftsix.com/contact-us/).
+
+Last Updated on _12/13/2018_
