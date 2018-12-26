@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235044id_/http%3A//findaccountingsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226113319id_/https%3A//softwareconnect.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Find Accounting Software
-
-[](https://web.archive.org/)
-
-Find Accounting Software is committed to protecting the privacy of our visitor's personally identifiable information. To better protect our users, we openly provide our information handling practices as listed below.
+# Privacy Policy | Software Connect
 
 ## Types of Data collected
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, First Name, Last Name, Phone number, Company name, Profession, Email and ZIP/Postal code.
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies - or of other tracking tools - by the Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies–or of other tracking tools–by the Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
 The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
@@ -38,108 +34,93 @@ The Personal Data used for each purpose is outlined in the specific sections of 
 
 Personal Data is collected for the following purposes and using the following services:
 
-  1. ### Advertising
+### Advertising
 
-These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests. This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the Userâ€™s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
+These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests. This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
-    * #### AdRoll (Semantic Sugar, Inc.)
+  * **AdRoll (Semantic Sugar, Inc.)**
+    * AdRoll is an advertising service provided by Semantic Sugar, Inc.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.adroll.com/about/privacy)
 
-AdRoll is an advertising service provided by Semantic Sugar, Inc.
 
-Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA â€“ [Privacy Policy](http://www.adroll.com/about/privacy)
-
-  2. ### Analytics
+### Analytics
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-    * #### Google Analytics (Google)
+  * **Google Analytics (Google)**
+    * Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
-Google Analytics is a web analysis service provided by Google Inc. (â€œGoogleâ€). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+### Contacting the user
 
-  3. ### Contacting the user
+By filling in the contact form with their Data, the Users authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-By filling in the contact form with their Data, the Users authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the formâ€™s header.
+  * Personal Data collected: Company name, Email, First Name, Last Name, Phone number, Profession and ZIP/Postal code.
 
-Personal Data collected: Company name, Email, First Name, Last Name, Phone number, Profession and ZIP/Postal code.
 
-  4. ### Content performance and features testing (A/B testing)
+
+### Content performance and features testing (A/B testing)
 
 The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Application.
 
-    * #### Optimizely (Optimizely, Inc.)
+  * **Optimizely (Optimizely, Inc.)**
+    * Optimizely is an A/B testing service provided by Optimizely, Inc.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.optimizely.com/privacy)
 
-Optimizely is an A/B testing service provided by Optimizely, Inc.
 
-Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA â€“ [Privacy Policy](http://www.optimizely.com/privacy)
+### Interaction with external social networks and platforms
 
-  5. ### Interaction with external social networks and platforms
+These services allow interaction with social networks or other external platforms directly from the pages of this Application. The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network. If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
-These services allow interaction with social networks or other external platforms directly from the pages of this Application. The interaction and information obtained by this Application are always subject to the Userâ€™s privacy settings for each social network. If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+  * **Facebook Like button and social widgets (Facebook)**
+    * The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+  * **Google+ +1 button and social widgets (Google)**
+    * The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+  * **LinkedIn button and social widgets (LinkedIn)**
+    * The LinkedIn button and social widgets are services allowing interaction with the Linkedin social network provided by LinkedIn Inc.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv)
+  * **Twitter Tweet button and social widgets (Twitter)**
+    * The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://twitter.com/privacy)
 
-    * #### Facebook Like button and social widgets (Facebook)
 
-The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc.
 
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA â€“ [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
-
-    * #### Google+ +1 button and social widgets (Google)
-
-The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-
-    * #### Linkedin button and social widgets (Linkedin)
-
-The Linkedin button and social widgets are services allowing interaction with the Linkedin social network provided by Linkedin Inc.
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA â€“ [Privacy Policy](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv)
-
-    * #### Twitter Tweet button and social widgets (Twitter)
-
-The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc.
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA â€“ [Privacy Policy](http://twitter.com/privacy)
-
-  6. ### Remarketing and Behavioral Targeting
+### Remarketing and Behavioral Targeting
 
 These services allow this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User. This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.
 
-    * #### AdWords Remarketing (Google)
-
-AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of this Application with the Adwords advertising network and the Doubleclick Cookie
-
-For the opt-out: <http://google.com/settings/ads/onweb/optout?hl=en>
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-
-    * #### Google Analytics for Display Advertisers (Google)
-
-Google Analytics for Display Advertisers is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network and the Doubleclick Cookie.
-
-For the opt-out: <http://google.com/settings/ads/onweb/optout?hl=en>.
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-
+  * **AdWords Remarketing (Google)**
+    * AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of this Application with the Adwords advertising network and the Doubleclick Cookie
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+    * [Opt out](http://google.com/settings/ads/onweb/optout?hl=en)
+  * **Google Analytics for Display Advertisers (Google)**
+    * Google Analytics for Display Advertisers is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network and the Doubleclick Cookie.
+    * Personal Data collected: Cookie and Usage Data.
+    * Place of processing: USA
+    * [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+    * [Opt out](http://google.com/settings/ads/onweb/optout?hl=en)
 
 
 
@@ -147,9 +128,9 @@ Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en
 
 ### Legal Action
 
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
 
-### Additional Information about User's Personal Data
+### Additional Information about User’s Personal Data
 
 In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.
 
@@ -171,7 +152,7 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 ### Information about this privacy policy
 
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda.
 
 ## Definitions and legal references
 
@@ -181,7 +162,7 @@ Any information regarding a natural person, a legal person, an institution or an
 
 ### Usage Data
 
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
 
 ### User
 
@@ -205,7 +186,7 @@ The hardware or software tool by which the User Personal Data is collected.
 
 ### Cookie
 
-Small piece of data stored in the User's device.
+Small piece of data stored in the User’s device.
 
 ### Legal information
 
@@ -213,8 +194,4 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy is solely about this Application.
 
-## Contact Us
-
-If you have any questions or would like more information on our privacy practices, please contact us at [privacy@findaccountingsoftware.com](mailto:privacy@findaccountingsoftware.com).
-
-Last Updated: July 11, 2013
+If you have any questions or would like more information on our privacy practices, please contact us at [privacy@softwareconnect.com](mailto:privacy@softwareconnect.com).
