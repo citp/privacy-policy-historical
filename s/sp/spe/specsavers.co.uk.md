@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specsavers.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626100827id_/https%3A//www.specsavers.co.uk/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specsavers.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226181010id_/https%3A//www.specsavers.co.uk/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Specsavers UK
 
