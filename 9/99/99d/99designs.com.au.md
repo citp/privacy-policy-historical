@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99designs.com.au privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616063642id_/https%3A//99designs.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.com.au privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226050201id_/https%3A//99designs.com.au/legal/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -24,7 +24,7 @@ We only collect your information with your consent or with lawful reasons; we on
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, 99designs, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, 99designs, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://www.jamsadr.com/eu-us-privacy-shield>.
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -63,7 +63,7 @@ Our Service is not offered to persons under the age of 16. Thus, we do not inten
 
 ### c. Google Analytics.
 
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20180616063642id_/https%3A//99designs.com.au/legal/www.google.com/ads/preferences/).
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20181226050201id_/https%3A//99designs.com.au/legal/www.google.com/ads/preferences/).
 
 ## 4\. Use of Your Personal Information
 
