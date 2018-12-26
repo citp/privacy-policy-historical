@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619085123id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226162333id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TubeBuddy
 
 TubeBuddy Enterprise 
 
-We offer custom plans for MCNs,  
-Media, Brands and Agencies. 
+We offer custom plans for MCNs, Media, Brands and Agencies w/ 20+ Channels. 
 
 [Learn More](https://web.archive.org/enterprisecontact)
 
