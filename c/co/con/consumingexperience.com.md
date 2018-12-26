@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumingexperience.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625140942id_/http%3A//www.consumingexperience.com/p/cookies-and-privacy-policy-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumingexperience.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226172711id_/http%3A//www.consumingexperience.com/p/cookies-and-privacy-policy-privacy.html) for the most accurate reproduction.*
 
 # A Consuming Experience: Cookies and Privacy Policy / Privacy Notice
 
