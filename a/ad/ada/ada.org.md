@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124015718id_/http%3A//www.ada.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227000210id_/https%3A//www.ada.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,8 @@
 
 
 
-**Last Updated:   November 6, 2017**
+**Last Updated:   November 29, 2018  
+**
 
 This Privacy Notice explains how the American Dental Association (“ADA”) and its subsidiaries, charities and affiliated entities (collectively, “ADA,” “we," “us” or “our”) collect information about you through our website and how this information is then used or disclosed. This Privacy Notice does not apply to websites that do not display or link to this notice or that have their own privacy notices or to information we may collect from you or about you in other ways, including through emails you may send to us.
 
@@ -75,7 +76,7 @@ The information we collect via our website may be used and disclosed to improve 
 
 
 
-We collect information such as the internet protocol (IP) address of visitors to our website, aggregate information on what pages users access or visit, user-specific information on what pages users access or visit, and information volunteered by users, including from surveys, purchases and/or registrations. We also may collect the email addresses of those who communicate with us via email. Our system can recognize the identity of individuals who sign in using their usernames and passwords.
+We collect information such as the internet protocol (IP) address of visitors to our website, aggregate information on what pages users access or visit, user-specific information on what pages users access or visit, and information volunteered by users, including from surveys, purchases and/or registrations. We may collect information about visitors to our website to help measure the effectiveness of advertising campaigns. We also may collect the email addresses of those who communicate with us via email. Our system can recognize the identity of individuals who sign in using their usernames and passwords.
 
 With respect to cookies: We use cookies for a number of purposes, including to administer our website and to record session information, such as items that users add to their shopping carts and user-specific information on what pages users access or visit.
 
@@ -83,9 +84,15 @@ Advertising on ADA.org may be served through a vendor that uses IP addresses for
 
 The ADA, its subsidiaries, charities, and affiliates may use or disclose individual's contact information and other information about you, such as your occupation, specialty, member status, graduation date and dental school, to alert you to new information, products and services, events and other opportunities. From time to time, we may also make your contact information and other information about you available to other organizations we believe to be reputable, such as companies whose products or services we think you might find interesting. If you register on ADA.org to attend an event, the ADA may provide an attendee list to other attendees and to entities that collaborate with the ADA on the event.
 
-With respect to email addresses: We generally do not knowingly disclose individual's e-mail address without the individual's express or implied consent outside the ADA, its service providers, subsidiaries and affiliated entities, ADA members, and state and local dental societies. However, we may disclose your e-mail address in certain situations; for example, if you serve in a leadership capacity or if you provide your e-mail address in connection with an event or an attendee list.
+With respect to email addresses: We generally do not knowingly disclose an individual's e-mail address without the individual's express or implied consent outside the ADA, its service providers, subsidiaries and affiliated entities, ADA members, and state and local dental societies. However, we may disclose your e-mail address in certain situations; for example, if you serve in a leadership capacity or if you provide your e-mail address in connection with an event or an attendee list.
 
 The ADA maintains directories of dentists that may include information you submit via our website. These directories are shared with ADA members and state and local dental societies. A directory containing information about ADA members is publicly accessible on MouthHealthy.org; members may elect to provide additional information, such as email address and photo, through the expanded profile option.
+
+The ADA uses an association management database to collect, maintain, use, and share information about member and nonmember dentists who have attended a U.S. dental school, as well as individuals who interact with the ADA. Information in the database is generally accessible to state and local dental societies of the ADA “tripartite.” A “person record” may be created in the database for such dentists and other individuals. For example, a person record may be created when a dentist or other individual interacts with the ADA by becoming a member, purchasing an item or service, attending a meeting, volunteering, attending a continuing education or other course, or communicating with the ADA. 
+
+A person record contains information about the individual such as name, contact information, demographics, membership history, a record of purchases and meetings attended, volunteer positions held, and communications with the ADA and state and local dental societies.
+
+Person records are retained indefinitely. ADA may use a person record for any permissible purpose under the applicable privacy notice. ADA has entered into agreements with participating state and local dental societies of the ADA tripartite that permit the society to use a person record for any permissible purpose if the individual is eligible for membership in the society; however, if the individual is not eligible for membership in the society, the society may use the person record only for registration of the individual at society sponsored meetings, for determining dues owed, for updating the data (e.g., with correct contact information), to assist with order fulfillment, to create de-identified aggregated data solely for internal use, and for any other purpose for which the ADA has provided express written permission. Person records may not be used or disclosed in a way that would violate this ADA.org Privacy Notice.
 
 The ADA may provide delegates’ names and mailing addresses in response to a request from a dental specialty organization. The Journal of the American Dental Association (JADA) publishes delegates’ names, districts, cities and states, as well as information, including ADA.org email addresses, about officers and trustees.
 
@@ -112,6 +119,20 @@ If you do not want to receive postal mail, telephone calls from us in the future
 On request we may provide you with access to information that you submitted via ADA.org, such as certain transaction information (e.g., dates on which you made purchases, amounts and types of purchases), communications that you have directed to our site (e.g., emails, user inquiries), and contact information (e.g., name, address, phone number).
 
 On request we may also offer the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information and certain other data.
+
+In addition to the other rights we note in this Privacy Notice, you also have the right to contact the ADA to obtain the following information:
+
+1\. What personal information about you the ADA holds;
+
+2\. For what purposes does ADA process your information;
+
+3\. To what third parties (and in what jurisdictions) has or may the ADA disclose your personal information;
+
+4\. How long will your data be maintained by the ADA (and how that period of time has been calculated);
+
+5\. How to request correction or deletion of specific portions of your personal data held by the ADA that you believe are incorrect; and
+
+6\. The source(s) from which the ADA has obtained your personal data.
 
 You may also contact us at [msc@ada.org](mailto:msc@ada.org) if you believe your information is being used improperly.
 
