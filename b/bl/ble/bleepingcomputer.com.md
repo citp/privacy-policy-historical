@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616041234id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025601id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Effective May 24, 2018_    
-You can view our previous privacy policy (last updated December 2nd, 2017) [here](https://www.bleepingcomputer.com/previous-policy/).
+_Effective May 24, 2018_ Â   
+You can view our previous privacy policy (last updated December 2nd, 2017)Â [here](https://www.bleepingcomputer.com/previous-policy/).
 
 ### Table of Contents
 
@@ -19,7 +19,7 @@ You can view our previous privacy policy (last updated December 2nd, 2017) [her
 
 ## About Us & Privacy Policy Overview
 
-**BleepingComputer** ® is a news and support site with technology news, tutorials, tips, reviews, and support forums to receive help from volunteers. BleepingComputer was founded in 2004 by Lawrence Abrams and the site is located at the URL https://www.bleepingcomputer.com. We are physically located in the United States of America.
+**BleepingComputer** Â®Â is a news and support site with technology news, tutorials, tips, reviews, and support forums to receive help from volunteers. BleepingComputer was founded in 2004 by Lawrence Abrams and the site is located at the URL https://www.bleepingcomputer.com. We are physically located in the United States of America.
 
 **BleepingComputer** is strongly committed to protecting the privacy of it's visitors and members. This privacy policy (" **Privacy Policy** ") is designed to inform you about the type of information that Bleeping Computer LLC (" **BleepingComputer** ", " **we** " and " **us** " ) may gather or collect from you in connection with your use of this site (" **Website** ", " **site** "). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
 
@@ -27,7 +27,7 @@ As a rule, BleepingComputer does not collect personally identifiable information
 
 We also work with third-parties to display advertisements, social sharing links, article comments, affiliate marketing, and analytics. All third party partners have assured BleepingComputer that they are working within the laws and guidelines of a BleepingComputer visitor's country. All third party partners will be outlined later in this document.
 
-We are also committed to offering [GDPR](https://www.eugdpr.org/) compliance, allowing our users to opt out of data collection, and to understand their rights. As GDPR goes live, more information becomes available, and policies are further defined, we will modify this policy accordingly.
+We are also committed to offering [GDPR](https://www.eugdpr.org/)Â compliance, allowing our users to opt out of data collection, and to understand their rights. As GDPR goes live, more information becomes available, and policies are further defined, we will modify this policy accordingly.
 
 This policy will be updated from time to time in order to list new features on the site, new third-party services that we use, or updates to comply with privacy regulations. When changes are made we will update the date at the top of this Privacy Policy and retain a link to the previous policy. It is advised that you periodically check this policy to see if anything has been changed.
 
@@ -118,7 +118,7 @@ Google specific cookie information:
 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
   * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
+  * Users may opt out of personalized advertising by visitingÂ [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visitingÂ [www.aboutads.info](http://www.aboutads.info/choices/).)
 
 
 
