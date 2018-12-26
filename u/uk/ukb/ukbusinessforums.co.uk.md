@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukbusinessforums.co.uk privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613235044id_/https%3A//www.ukbusinessforums.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbusinessforums.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226053323id_/https%3A//www.ukbusinessforums.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | UK Business Forums
 
@@ -172,9 +172,9 @@ We keep your personal information for as long as we need to for the purposes for
 
 **Your rights**
 
-You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f39b969f83b386989186809a9d968080959c81869e80dd909cdd8698cc80869199969087cea6b8d6c1c3b186809a9d968080d6c1c3b59c81869e80d6c1c3a28696818a). Please state the site(s) it is in reference to.
+You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ce4e9e0fcccf9e7eef9ffe5e2e9ffffeae3fef9e1ffa2efe3a2f9e7b3fff9eee6e9eff8b1d9c7a9bebccef9ffe5e2e9ffffa9bebccae3fef9e1ffa9bebcddf9e9fef5). Please state the site(s) it is in reference to.
 
-You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#254d40495565504e4750564c4b405656434a575048560b464a0b504e1a5650474f40465118706e0017156750564c4b405656001715634a57504856001715745040575c). Please state the site(s) it is in reference to.
+You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#84ece1e8f4c4f1efe6f1f7edeae1f7f7e2ebf6f1e9f7aae7ebaaf1efbbf7f1e6eee1e7f0b9d1cfa1b6b4c6f1f7edeae1f7f7a1b6b4c2ebf6f1e9f7a1b6b4d5f1e1f6fd). Please state the site(s) it is in reference to.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -242,6 +242,17 @@ For more details on Google Analytics please visit their website[ http://www.goog
 
 
 
+  * **Convertr**  
+_We use this service to validate data received via forms for example company name and email address. Convertr will set the following cookies:_
+
+What it does | Duration | Mandatory | Action  
+---|---|---|---  
+The PHPSESSIONID cookie is a mandatory cookie for the Convertr platform to operate. We use this cookie to give the user feedback messages around form errors and to temporarily persist application data to this user. | This cookie will last for a maximum of 24 hours or be automatically removed when you close your browser | Yes | [Opt-out](https://sift.cvtr.io/cookies/optout)  
+The cvtr cookie is used to track which data source your click came from. We use this only to attribute your click & conversion to the correct data source within our platform for reporting.  | 30 days | No | [Opt-out](https://sift.cvtr.io/cookies/optout)  
+  
+  * For more details on Convertr please visit their website <https://www.convertrmedia.com/>
+
+**Third Party Cookies**
 
 Third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
@@ -255,10 +266,10 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Complaints**
 
-If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4a222f263a0a3f21283f3923242f39392c25383f2739642925643f2175393f28202f293e771f016f787a083f3923242f39396f787a0c25383f27396f787a1b3f2f3833) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
+If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7afa2abb787b2aca5b2b4aea9a2b4b4a1a8b5b2aab4e9a4a8e9b2acf8b4b2a5ada2a4b3fa928ce2f5f785b2b4aea9a2b4b4e2f5f781a8b5b2aab4e2f5f796b2a2b5be) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b1d9d4ddc1f1c4dad3c4c2d8dfd4c2c2d7dec3c4dcc29fd2de9fc4da8ec2c4d3dbd4d2c58ce4fa948381f3c4c2d8dfd4c2c2948381f7dec3c4dcc2948381e0c4d4c3c8) and please state the website(s) it is in reference to.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8be3eee7fbcbfee0e9fef8e2e5eef8f8ede4f9fee6f8a5e8e4a5fee0b4f8fee9e1eee8ffb6dec0aeb9bbc9fef8e2e5eef8f8aeb9bbcde4f9fee6f8aeb9bbdafeeef9f2) and please state the website(s) it is in reference to.
 
 Thank you for visiting our site.
