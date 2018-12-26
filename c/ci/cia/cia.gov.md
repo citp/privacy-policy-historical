@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625205400id_/https%3A//www.cia.gov/kids-page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226050121id_/https%3A//www.cia.gov/kids-page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement — Central Intelligence Agency
 
@@ -61,8 +61,6 @@ If you have questions or comments regarding this Web site or if you would like m
 
 Office of Public Affairs  
 Central Intelligence Agency  
-Washington, D.C. 20505  
-Phone: (703) 482-0623  
-Fax: (703) 482-1739
+Washington, D.C. 20505
 
 [Top of Page]
