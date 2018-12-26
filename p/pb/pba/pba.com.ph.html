@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pba.com.ph privacy policy that was archived on 2018-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180619114806id_/https%3A//pba.ph/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pba.com.ph privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226192410id_/https%3A//pba.ph/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -66,6 +66,18 @@
                 event.preventDefault();
             }
         }, false);
+    </script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+<script>
+      googletag.cmd.push(function() {
+        googletag.defineSlot('/21729872344/Live_300x600_Right', [300, 600], 'div-gpt-ad-1544005470913-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+      });
     </script>
 </head>
 <body>
@@ -324,7 +336,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="main-links">
 <li><a class="nav-active" href="https://www.pba.ph/news">Latest News</a></li>
 <li><a class="" href="https://www.pba.ph/teams">Teams</a></li>
-<li><a class="" href="https://www.pba.ph/players">Players</a></li>
+ <li><a class="" href="https://www.pba.ph/players">Players</a></li>
 <li>
 <a class="main-sub-links" onclick="return false;" href="">Stats</a>
 <div class="main-duplex-dropdown">
@@ -355,7 +367,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a class="sub-links" onclick="return false;" href="">Live</a>
 <div class="duplex-dropdown">
 <a href="https://www.pba.ph/live">PBA Live Stream</a><br>
-<a href="https://www.pba.ph/playbyplay">PBA Play-By-Play</a>
+<a href="http://pba.ph/playbyplay">PBA Play-By-Play</a>
 </div>
 </li>
 <li>
@@ -386,6 +398,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="duplex-dropdown">
 
 <a href="https://www.pba.ph/homecourt">PBA Homecourt</a><br>
+<a href="https://www.pba.ph/outreach">PBA Outreach</a><br>
 
 </div>
 </li>
@@ -433,7 +446,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a id="drop-live" class="" href="#"><strong><i class="fas fa-tv fa-sm"> </i></strong>&nbsp;&nbsp; Live</a>
 <div id="drop-live-content" class="dropdown-m">
 <a href="https://www.pba.ph/live">PBA Live Stream</a>
-<a href="https://www.pba.ph/playbyplay">PBA Play-By-Play</a>
+<a href="http://pba.ph/playbyplay">PBA Play-By-Play</a>
 </div>
 <a id="drop-entertainment" class="" href="#"><strong><i class="fas fa-gamepad fa-sm"> </i></strong>&nbsp;&nbsp; Entertainment</a>
 <div id="drop-entertainment-content" class="dropdown-m">
@@ -456,12 +469,54 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="drop-community-content" class="dropdown-m">
 
 <a href="https://www.pba.ph/homecourt">PBA Homecourt</a>
+<a href="https://www.pba.ph/outreach">PBA Outreach</a>
 
 </div>
 <a class="" href="https://www.pba.ph/d-league"><strong><i class="fas fa-basketball-ball fa-sm"> </i></strong>&nbsp;&nbsp; D-League</a>
 </div>
 </div>
 </nav>
+<div id="requestCookies" style="visibility: hidden">
+<div class="cookies-limit">
+<div class="col-lg-11 col-md-10 col-sm-8 col-xs-12">
+<p>We use cookies to ensure the best user experience. By continuing to browse our site, you accept our use of cookies and our <a href="https://www.pba.ph/privacy-policy">Privacy Policy</a>.</p>
+</div>
+<div class="col-lg-1 col-md-2 col-sm-4 col-xs-12">
+<a id="okCookies" href="#">Accept</a>
+</div>
+
+</div>
+</div>
+<script>
+		$(document).ready(function(){
+			// console.log(getCookie("GDPR"));
+			if(!getCookie("GDPR")){
+	        	$("#requestCookies").css('visibility','visible');
+			}
+
+		    $("#okCookies").click(function(){
+		        $("#requestCookies").remove();
+			    var d = new Date();
+			    d.setTime(d.getTime() + (7*24*60*60*1000));
+			    var expires = "expires="+ d.toUTCString();
+			    document.cookie = "GDPR" + "=" + "TRUE" + ";" + expires + ";path=/";
+		    });
+			function getCookie(cname) {
+			    var name = cname + "=";
+			    var ca = document.cookie.split(';');
+			    for(var i = 0; i < ca.length; i++) {
+			        var c = ca[i];
+			        while (c.charAt(0) == ' ') {
+			            c = c.substring(1);
+			        }
+			        if (c.indexOf(name) == 0) {
+			            return c.substring(name.length, c.length);
+			        }
+			    }
+			    return "";
+			}
+		});
+	</script>
 <div style="display: none;" id="overlay-box" onclick="toggle_nav();" class="overlay-box hidden-lg hidden-md"></div>
 <div class="normal-base-limit">
 <div class="row">
@@ -684,5 +739,6 @@ If there are any questions regarding this privacy policy, please use the “Cont
 <script src="https://www.pba.ph/assets/js/owlcarousel/owl.carousel.min.js"></script>
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58589f6f30fc0106"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.30.6/js/jquery.tablesorter.min.js"></script>
 
 </div></body></html>
