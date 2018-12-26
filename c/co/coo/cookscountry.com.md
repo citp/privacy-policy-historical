@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626041044id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226121431id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporate Pages
 
-Effective: August, 2017
+Effective: September, 2018
 
 We at America's Test Kitchen and our related brands, including Cook's Illustrated and Cook's Country (collectively, “ATK”), are committed to respecting your privacy. The purpose of this privacy policy is to inform you of how we collect, use, disclose, transfer, and store your information when you visit our websites. This policy discloses the privacy practices for americastestkitchen.com, cooksillustrated.com, cookscountry.com, onlinecookingschool.com, americastestkitchenfeed.com, and the Cook’s Illustrated and Cook's Country iPad Apps, and applies only to users accessing these websites and Apps from the United States.
 
@@ -54,15 +54,20 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## KIDS AND PARENTS
 
-ATK’s sites are not intended for children under the age of 13. We will not knowingly collect personally identifiable information via any ATK site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
+ATK’s primary sites are not intended for children under the age of 13. We will not knowingly collect personally identifiable information via any ATK site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
 
-## CONTACTING AMERICA'S TEST KITCHEN
+For information about our America's Test Kitchen Kids pages, please see the [America's Test Kitchen Kids privacy policy](https://www.americastestkitchen.com/guides/corporate-pages/america-s-test-kitchen-kids-privacy-policy).  
+
+CONTACTING AMERICA'S TEST KITCHEN
 
 We are committed to privacy, and we support current industry initiatives to preserve individual privacy rights on the Internet. If you have any comments or questions regarding our privacy policy, please contact us at [customerservice@americastestkitchen.com](mailto:customerservice@americastestkitchen.com) or:
 
 America's Test Kitchen   
 Customer Service   
-21 Dry Dock, 2nd Floor  
+21 Dry D
+
+For more details about web pages for children, please see the [separate privacy policy notice](https://www.americastestkitchen.com/guides/corporate-pages/america-s-test-kitchen-kids-privacy-policy) for America's Test Kitchen Kids pages.ock, 2nd Floor
+
 Boston, MA 02110   
 617-232-1000
 
