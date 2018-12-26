@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626004912id_/http%3A//kidssoup.com/store/our-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226073143id_/http%3A//www.kidssoup.com/store/our-security-policy) for the most accurate reproduction.*
 
 # kidsSoup Privacy and Security | KidsSoup Store
 
@@ -16,7 +16,7 @@ You can visit our public  websites and access educational materials or obtain i
 
 When you access our websites, our system automatically records technical information about the computer accessing it. The data collected is information about the browser type and the version used, the operating system, the internet provider and the IP address of the user, the date and time of access, the websites from which the user’s system obtains access to our website, and the websites accessed by the user’s system via our website.
 
-We use browser cookies to make it easier to use our websites, and to obtain ideas for improving the information and services accessible via the website.  For additional information please review our [Cookie Policy.](https://web.archive.org/web/20180626004912id_/http%3A//kidssoup.com/store/kidssoup-cookie-policy)
+We use browser cookies to make it easier to use our websites, and to obtain ideas for improving the information and services accessible via the website.  For additional information please review our [Cookie Policy.](https://web.archive.org/web/20181226073143id_/http%3A//www.kidssoup.com/store/kidssoup-cookie-policy)
 
 ## Storage of customer data
 
