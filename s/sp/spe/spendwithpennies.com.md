@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spendwithpennies.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626082930id_/https%3A//www.spendwithpennies.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spendwithpennies.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226160846id_/https%3A//www.spendwithpennies.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy - Spend With Pennies
 
@@ -14,17 +14,17 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 
 This blog does not contain any content which might present a conflict of interest.
 
-**  Security**
+ **  Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**Privacy Policy**
+ **Privacy Policy**
 
 Effective as of May 25, 2018
 
 As the owner of this website (the “Site”), Spend With Pennies (“we” or “us”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
 
-**Our Use of Cookies**
+ **Our Use of Cookies**
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
@@ -50,7 +50,7 @@ Please note that blocking cookies may have a negative impact on the functions of
 
 Some of the data collected may be anonymous data, which is combined in aggregate and does not identify you as an individual.
 
-**Interest-Based Advertising**
+ **Interest-Based Advertising**
 
 Advertising Privacy Statement
 
@@ -62,7 +62,7 @@ For European Economic Area Residents
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-**Email Addresses**
+ **Email Addresses**
 
 We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion.  We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you.  You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
 
@@ -70,7 +70,7 @@ We will not share your email address with any third parties.
 
 If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
 
-**Registration or Account Data**
+ **Registration or Account Data**
 
 We may collect other information from you when you register with our Site in order to use various features.  Such information could include your name, birthday, postal code, screen name, and password (if applicable). As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post, messages through our contact page or emails that you send us).
 
@@ -80,11 +80,11 @@ We may use your personally-identifying information for a variety of our internal
 
 If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
 
-**Transactional Data**
+ **Transactional Data**
 
 We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site (“ **Transactional Data** “). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  Payment processing on our Site is handled by our payment services providers, PayPal, Inc. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at [PayPal.com](https://www.paypal.com/us/webapps/mpp/ua/privacy-full). Shopping on our Site is handles by Shopify. We will share data with our service providers only to the extent necessary to process your transaction. You can find information about Shopify’s privacy policies and practices at [Shopify](https://www.shopify.com/legal/privacy).
 
-**Other**
+ **Other**
 
 MailChimp collects and stores your name and email address for purposes of delivering communications upon your request and agreement.  MailChimp is used for delivery of emails and newsletters, including the use of MailChimp’s sub-processors who perform critical services such as helping prevent abuse and providing support. You can find information about Mail Chimp’s privacy policies and practices at [MailChimp](https://mailchimp.com/legal/privacy/).
 
@@ -100,7 +100,7 @@ Amazon Services LLC Associates Program is an affiliate advertising program where
 
 This Site is intended for users over the age of 18.
 
-**Additional Rights of EEA (European Economic Area) Residents**
+ **Additional Rights of EEA (European Economic Area) Residents**
 
 If you are a resident of a country in the EEA, you have the rights, among others, to:
 
@@ -118,14 +118,14 @@ If you believe that our processing of your personal information infringes data p
 
 You may exercise any of your rights in relation to your personal data by written notice to us addressed to Spend With Pennies, 382 Saddleback Rd NW, Edmonton, AB T6J 4R7, submissions @ spendwithpennies.com
 
-**Sale of Business or Assets**
+ **Sale of Business or Assets**
 
 In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
 
-**Changes to the Privacy Policy**
+ **Changes to the Privacy Policy**
 
 We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
-**Contacting Us**
+ **Contacting Us**
 
 If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at submissions @ spendwithpennies.com, or write to us at Spend With Pennies, 382 Saddleback Rd NW, Edmonton, AB T6J 4R7
