@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626145457id_/http%3A//wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226172905id_/http%3A//wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
 
 # West Texas A&M University: Link Policy and Privacy Statement
 
