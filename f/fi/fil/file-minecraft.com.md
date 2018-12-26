@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the file-minecraft.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509173650id_/http%3A//file-minecraft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-minecraft.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226045015id_/http%3A//file-minecraft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - File-minecraft.com
-
-Author: **Minecraft File** ❘ October 15, 2014
 
 **Log Files**  
 Like many other Web sites, http://www.File-Minecraft.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons:**  
+ **Cookies and Web Beacons:**  
 File-Minecraft.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-> **Google AdSense Privacy Policy:**
+>  **Google AdSense Privacy Policy:**
 > 
 > .:: Google, as a third party vendor, uses cookies to serve ads on your site.  
 >  .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
@@ -28,38 +26,38 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Traffic Reports**
+ **Traffic Reports**
 
 Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded.
 
-**Email Address**
+ **Email Address**
 
 You may choose to add your email address to our contact list or Feed Subscription via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. If you have any problem removing your email address please contact us via our contact form.
 
-**Legal proceedings**
+ **Legal proceedings**
 
 We will make every effort to preserve user privacy but File-Minecraft.com may need to disclose information when required by law.
 
-**Business Transitions**
+ **Business Transitions**
 
 If File-Minecraft is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
 
-**Email Address**
+ **Email Address**
 
 You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. If you have any problem removing your email address please contact us via our contact form.
 
-**Links**
+ **Links**
 
 File-Minecraft website frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by File-Minecraft.com
 
-**Notification of Changes**
+ **Notification of Changes**
 
 When File-Minecraft.com makes changes to this privacy policy we will post those changes here.
 
-**Comments/Message Boards**
+ **Comments/Message Boards**
 
 File-Minecraft.com contain comment sections (a.k.a. message boards). We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
 
-**Contact Information**
+ **Contact Information**
 
 If you have any questions regarding File-Minecraft privacy policy, please contact us.
