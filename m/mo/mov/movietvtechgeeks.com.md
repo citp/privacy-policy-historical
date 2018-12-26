@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietvtechgeeks.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626104056id_/https%3A//movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietvtechgeeks.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226184636id_/https%3A//movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy) for the most accurate reproduction.*
 
 # Movie TV Tech Geeks Privacy Policy | Movie TV Tech Geeks News
 
