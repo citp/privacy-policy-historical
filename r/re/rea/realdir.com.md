@@ -1,70 +1,100 @@
-> *The following text is extracted and transformed from the realdir.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220203532id_/http%3A//www.realdir.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdir.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy :: www.realdir.com
+# Legal Agreements - GoDaddy Respects Your Privacy
 
-RealDir is committed to safeguarding your online privacy. The following policy outlines how your personal information will be treated as you use our directory.
+**GoDaddy Respects Your Privacy**
 
-RealDir may update this privacy policy from time to time, in order to take into account new laws and technology or to reflect changes in our operations. All personal information held by Sell Local will be governed by RealDir's most recent policy which will be displayed on this site.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Personal Information**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**1\. What personal information do we collect?**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-RealDir primarily collects personal information from its users during the registration process. We collect and store users' names, email addresses, contact numbers and usernames and also other information including user's IP addresses and standard web log information. If a user contacts RealDir via email, a record of that correspondence may also be stored.
+**Information Collection and Use**
 
-RealDir may place a cookie in the browser files of a user's computer. We use cookies to save information you give us so you don't have to re-enter it each time you visit our site. This allows us to personalize the site to your taste and provide the best web experience possible to our users. We do not use cookies to track your movements on different web sites and do not exchange cookies with other entities.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**2\. How do we use your personal information?**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**RealDir uses the information collected to:**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-* Provide the products or services requested;
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-* Communicate with our users;
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-* Manage and enhance our services;
+**Security**
 
-* Resolve disputes and troubleshooting;
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-* Measure interest in our services.
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**3\. Disclosure**
+      iii.      You may call us at: (480) 505-8800
 
-RealDir may provide your information to law enforcement to aid in their investigations of illegal or fraudulent postings. If RealDir sells part or all of its business, personal information may be part of the assets transferred to the purchaser.
+       iv.      You may fax us at: (480) 505-8844
 
-**4\. How do we treat sensitive information?**
+**Sending Emails**
 
-"Sensitive Information" means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record and health.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-RealDir may use and disclose sensitive information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**5\. Management and security of personal information**
+**Compliance with Laws and Law Enforcement**
 
-RealDir protects the personal information it holds from misuse, loss, unauthorised access, modification or disclosure by various means including password access and secure servers. Only the administrators of RealDir and the user have access to that user's personal information. We recommend that users do not disclose their password to anyone.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**6\. Updating personal information**
+**Third Party Service Providers**
 
-RealDir endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. Users can update their information after logging in. Alternatively, users can email support@realdir.com to advise of their information updates. Where personal information is no longer required by RealDir, it will be destroyed or de-identified.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**7\. How to access personal information RealDir holds about you**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-You have the right to seek access to the personal information held about you and to advise RealDir of any inaccuracy. There are some exceptions to this right set out in the Privacy Act.
+**Supplementation of Information**
 
-If you make an access request, RealDir will ask you to verify your identity and specify what information you require. RealDir may charge a fee to cover the costs of meeting your request. To make an access request, please email support@realdir.com
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**8\. Other information about your online privacy**
+**Contests/Surveys**
 
-Please keep in mind that whenever you voluntarily disclose personal information online (for example in ads that you post or through email) that information can be collected and used by others. In short, if you post personal information online that is accessible to the public you may receive unsolicited messages from other parties in return.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or account information. Please be careful and responsible whenever you are online.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**9\. How to contact RealDir  
-**
+**Tell-A-Friend**
 
-If you have any enquiries or wish to provide feedback about this policy, please email support@realdir.com
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
