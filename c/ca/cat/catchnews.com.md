@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchnews.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626082935id_/http%3A//www.catchnews.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchnews.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226162616id_/http%3A//www.catchnews.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Catch News
 
