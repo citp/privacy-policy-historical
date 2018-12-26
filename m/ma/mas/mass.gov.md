@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mass.gov privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626010934id_/https%3A//www.mass.gov/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mass.gov privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023540id_/http%3A//www.mass.gov/privacypolicy) for the most accurate reproduction.*
 
 # Mass.gov® Privacy Policy | Mass.gov
 
@@ -48,6 +48,20 @@ Mass.gov uses (or may use) the following tools (each a “Tool” and collective
 
 **Special notes:** N/A
 
+#### **Tool name: Google Tag Manager™**
+
+**Purpose:** Collect information about use of the Mass.gov website
+
+**Data collected:** Google Tag Manager collects information such as how often users visit Mass.gov, what pages they visit, when they do so, and what actions they take while visiting the site such as clicking a link or filling out a form.
+
+**Privacy policy:<https://www.google.com/intl/en/policies/privacy/>**
+
+**Terms of service:<https://www.google.com/analytics/tag-manager/use-policy/> **
+
+**Express opt out:** N/A
+
+**Special notes:** N/A
+
 #### Tool Name: Google Site Search™
 
 **Purpose:** This is the tool that powers the search box on [**Mass.gov**](http://mass.gov/). It allows for better search results for users of [**Mass.gov**](http://mass.gov/).
@@ -72,7 +86,7 @@ Mass.gov uses (or may use) the following tools (each a “Tool” and collective
 
 **Express Opt Out:** <https://adssettings.google.com/authenticated?hl=en>
 
-**Special Notes:  **The pilot project will use GoogleAdWords and Facebook Pixel to track users who navigate to the Department of Fish and Wildlife's webpage to buy one or more fishing licenses. Users consent to this tracking by navigating to the Department of Fish and Wildlife’s online portal for purchasing fishing licenses. The pilot project will begin on May 17, 2018, and tracking will occur only on or after this date.”
+**Special Notes:  **Department of Fish and Game is conducting a limited pilot of Google AdWords on a small number of Fish and Wildlife pages related to buying fishing licenses. The pilot project will use Google AdWords to track users who navigate to the Department of Fish and Game’s webpage to buy a fishing license. Users consent to this tracking by navigating to the Department of Fish and Game’s online portal for purchasing fishing licenses (See the privacy policy for [Aspira](https://aspiraconnect.com/privacy-policy)). The pilot project will begin on May 17, 2018, and tracking will occur only on or after this date. 
 
 #### Tool Name: Facebook Pixel™
 
@@ -86,7 +100,7 @@ Mass.gov uses (or may use) the following tools (each a “Tool” and collective
 
 **Express Opt Out:** [www.facebook.com/ads/website_custom_audiences/](https://www.facebook.com/ads/website_custom_audiences/)
 
-**Special notes:** Department of Fish and Wildlife is conducting a limited pilot of Facebook Pixel use on a small number of Fish and Wildlife pages related to buying fishing licenses.
+**Special notes:**   Department of Fish and Game is conducting a limited pilot of Facebook Pixel on a small number of Fish and Wildlife pages related to buying fishing licenses. The pilot project will use Facebook Pixel to track users who navigate to the Department of Fish and Game’s webpage to buy one or more fishing licenses. Users consent to this tracking by navigating to the Department of Fish and Game’s online portal for purchasing fishing licenses (See the privacy policy for [Aspira](https://aspiraconnect.com/privacy-policy)). The pilot project will begin on May 17, 2018, and tracking will occur only on or after this date.
 
 #### Tool name: ForeSee™ provided by ForeSee Results
 
