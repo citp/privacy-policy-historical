@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626071124id_/https%3A//www.tomdixon.net/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226151033id_/https%3A//www.tomdixon.net/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy
 
