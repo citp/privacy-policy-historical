@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034023id_/https%3A//company.wizards.com/legal/wizards-coasts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023310id_/https%3A//company.wizards.com/legal/wizards-coasts-privacy-policy) for the most accurate reproduction.*
 
 # Wizards of the Coast’s Privacy Policy | Wizards Corporate
 
-Last Updated: May 18, 2018
+Last Updated: June 30, 2018
 
 [](http://www.esrb.org/confirm/wizards-confirmation.aspx)
 
@@ -29,10 +29,10 @@ Wizards collects information you provide directly via the Service. The data we c
   * **Name and Contact Data.** We collect your first and last name, email address, postal address, telephone number, and other similar contact data.
 
 
-  * **Credentials.** We collect passwords, password hints, and similar security information used for authentication and account access. 
+  * **Credentials.** We collect passwords, password hints, and similar security information used for authentication and account access.
 
 
-  * **Demographic Data.** We collect demographic information such as about your age, birth date, gender, country, and household data. 
+  * **Demographic Data.** We collect demographic information such as about your age, birth date, gender, country, and household data.
 
 
   * **Payment data.** We collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument.
@@ -52,6 +52,9 @@ Wizards collects data from you at various points on the Service, including as de
 
   * **Account Registration.** To register an account with Wizards, you must, at a minimum, provide your date of birth, location, a user name and password. To participate in other Wizards offerings, such as organized play, you may be required to provide your first name and last name, city, country, postal code, gender, email address, password, user name and screen name.
 
+
+
+If you register an account using your Facebook account (or other social media platform), the following information may be collected: (1) your first and last name and other information made publicly available by you, (2) your friends list, (3) the email address associated with your social media account.
 
   * **Profile.** For certain parts of our Service, your personal profile (“Your Profile”) will be automatically populated with the screen name you provided at registration. Where applicable, the information in Your Profile, including any information or content you voluntarily add to Your Profile such as first and last name and images you upload, will be made public by default. To change Your Profile privacy settings for these parts of the Service, log in to [accounts.wizards.com](https://accounts.wizards.com/) and go to Your My Account tab then click “Edit Public Profile & Settings.” In this section, you may also change Your Profile information, who can view your page and activity, and who can contact you on these parts of the Service, as well as control how we communicate with you. Your Profile for these parts of the Service will be searchable by screen name, and you can change the visibility of Your Profile by de-selecting the “Profile is visible to other users” and “Profile is searchable” boxes in Privacy Settings. Please note: The photo you selected (you are not required to upload a personal photo) as your avatar and your screen name for these parts of the Service will always display on your page, posts, and in search results. You are responsible for any information and content you choose to make public either through Your Profile, or by posting on the Service. Profile settings and data processing may differ based on the part of the Service you are using.
 
@@ -84,7 +87,7 @@ Whatever the activity may be, we will only collect information to the extent it 
 
 
 
-We automatically collect information about your device and how your device interacts with our Service. For example, we collect: 
+We automatically collect information about your device and how your device interacts with our Service. For example, we collect:
 
   * **Service Use Data.** We collect data about the features you use, the services you purchase, the time of day you browse, and the web pages you visit.
 
@@ -117,7 +120,7 @@ We use various current – and later – developed technologies to collect this 
 
 
 
-We use third party analytics provides, such as Google Analytics, to use Tracking Technologies on our Service to help us analyze your use of the Service, compile statistic reports on the Service’s activity, and provide other services relating to Service activity and internet usage. We also work with ad serving services, advertisers, and other third parties to serve advertisements on the Service and/or on Third Party Services (defined below). These third parties may use Tracking Technologies on our Service and Third Party Services to track your activities across time and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you on the Service and Third Party Services or third party devices after you have left the Service (“Interest-based Advertising”).
+We use third party analytics providers, such as Google Analytics, to use Tracking Technologies on our Service to help us analyze your use of the Service, compile statistic reports on the Service’s activity, and provide other services relating to Service activity and internet usage. We also work with ad serving services, advertisers, and other third parties to serve advertisements on the Service and/or on Third Party Services (defined below). These third parties may use Tracking Technologies on our Service and Third Party Services to track your activities across time, websites, and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you on the Service and Third Party Services or third party devices after you have left the Service (“Interest-based Advertising”).
 
 For further information on Tracking Technologies and your rights and choices regarding them, please see the sections entitled **Third Party Services, Features, and Devices** and **Your Rights and Choices** below.
 
@@ -173,13 +176,13 @@ Wizards shares information about you as follows:
   * **Partners.** We may share your information, including personal data, with our partners in connection with offering you co-branded services, selling or distributing our products, or engaging in joint marketing activities. For example, we may share information about you with a retailer for purposes of providing you with product support.
 
 
-  * **Third parties**. We may share your information, including personal data, with third parties for purposes of providing you with advertisements, including those tailored to your interests. We may share your information with third parties to which you link your Wizards account, including third party gaming platforms (such as Steam or Twitch). 
+  * **Third parties**. We may share your information, including personal data, with third parties for purposes of providing you with advertisements, including those tailored to your interests. We may share your information with third parties to which you link your Wizards account, including third party gaming platforms (such as Steam or Twitch).
 
 
   * **Tournament and Organized Play.** If you engage in organized play, your full name, DCI number, city, state, nationality and email will be accessible by authorized tournament organizers, retail locations that are part of the Wizards Play Network, members of the Wizards’ community that are adjudicating organized play events, and prize fulfillment service providers. These parties are independent of Wizards, but they are contractually prohibited from using your information for any other purpose than that for which it was provided to them, and they agree to maintain the confidentiality, security and integrity of information they receive from us. Your information may also be disclosed to members of the Wizards’ community who are engaged in investigating violations of tournament rules and the Code of Conduct. Additionally, your full name, city, and country may appear in online leaderboards and organized play event results.
 
 
-  * **Promotions.** Our Promotions may be jointly sponsored or offered by third parties. If you voluntarily choose to enter a Promotion, your information, including personal data, may be disclosed to third parties for administrative purposes and as required by law (e.g., on a winners list). By entering, you agree to the official rules that govern that Promotion, and may, except where prohibited by applicable law, allow the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials. 
+  * **Promotions.** Our Promotions may be jointly sponsored or offered by third parties. If you voluntarily choose to enter a Promotion, your information, including personal data, may be disclosed to third parties for administrative purposes and as required by law (e.g., on a winners list). By entering, you agree to the official rules that govern that Promotion, and may, except where prohibited by applicable law, allow the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials.
 
 
   * **Merger or Acquisition.** In the event of, or during negotiations of, an actual or proposed merger, acquisition, reorganization, bankruptcy, or other similar event, your information, including personal data, may be shared with Wizards' successors or assigns or other third parties involved in the event.
@@ -274,7 +277,7 @@ If you wish to review, correct, or delete content or information you have public
   * **App-Specific Technologies.** You can reset your mobile Ad ID at any time through your device settings, which will allow you to limit the use of information collected about you. For information on how to do this on Apple devices, visit Apple.com or <https://support.apple.com/en-us/HT202074>. For information on how to do this on Android devices, visit Google.com. You can stop all collection of information via an app by uninstalling the app.
 
 
-  * **Location-Identifying Technologies.** The location data collected through an app depends on your device settings and app permissions. You can exercise choice over the location data collected through our apps by (i) for GPS data, disabling location in your device settings or disabling location permissions to that app; (ii) for Bluetooth data, disabling Bluetooth and any Bluetooth scanning option in your device settings; or (iii) for WiFi data, disabling WiFi and any WiFi scanning option in your device settings. You can stop collection of all location data via an app by uninstalling the app. 
+  * **Location-Identifying Technologies.** The location data collected through an app depends on your device settings and app permissions. You can exercise choice over the location data collected through our apps by (i) for GPS data, disabling location in your device settings or disabling location permissions to that app; (ii) for Bluetooth data, disabling Bluetooth and any Bluetooth scanning option in your device settings; or (iii) for WiFi data, disabling WiFi and any WiFi scanning option in your device settings. You can stop collection of all location data via an app by uninstalling the app.
 
 
   * **Do Not Track.** Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms. For more information on “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
@@ -289,7 +292,7 @@ Please be aware that if you disable or remove Tracking Technologies some parts o
 
 You may exercise choice regarding the use of cookies from Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout> or downloading the Google Analytics Opt-out Browser Add-on.
 
-Some of the third parties that collect information from or about you on the Service in order to provide more relevant advertising to you participate in the Digital Advertising Alliance (“ **DAA** ”) Self-Regulatory Program for Online Behavioral Advertising. This program offers a centralized location where users can make choices about the use of their information for online behavioral advertising. To learn more about the DAA and your opt-out options for their members, please visit (i) for website opt-out, [http://www.aboutads.info/choices](http://www.aboutads.info/choices/); and (ii) for mobile app opt-out, <http://www.aboutads.info/appchoices>. In addition, some of these third parties may be members of the Network Advertising Initiative (" **NAI** "). To learn more about the NAI and your opt-out options for their members, please visit <http://www.networkadvertising.org/choices/>. Please note that if you opt-out of online behavioral advertising using any of these methods, the opt-out will only apply to the specific browser or device from which you opt out. Further, opting-out only means that the selected members should no longer deliver certain Interest-based Advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). We are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. 
+Some of the third parties that collect information from or about you on the Service in order to provide more relevant advertising to you participate in the Digital Advertising Alliance (“ **DAA** ”) Self-Regulatory Program for Online Behavioral Advertising. This program offers a centralized location where users can make choices about the use of their information for online behavioral advertising. To learn more about the DAA and your opt-out options for their members, please visit (i) for website opt-out, [http://www.aboutads.info/choices](http://www.aboutads.info/choices/); and (ii) for mobile app opt-out, <http://www.aboutads.info/appchoices>. In addition, some of these third parties may be members of the Network Advertising Initiative (" **NAI** "). To learn more about the NAI and your opt-out options for their members, please visit <http://www.networkadvertising.org/choices/>. Please note that if you opt-out of online behavioral advertising using any of these methods, the opt-out will only apply to the specific browser or device from which you opt out. Further, opting-out only means that the selected members should no longer deliver certain Interest-based Advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). We are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
 
 You may also limit our use of information collected from or about your mobile device for purposes of serving online behavioral advertising to you by going to your device settings and selecting "Limit Ad Tracking" (for iOS devices) or "Opt out of Interest-Based Ads" (for Android devices).
 
@@ -303,7 +306,7 @@ If you have linked your Wizards account with certain Third Party Services, such 
 
 
 
-If you do not want Wizards to send you promotional emails about products, services or events, you may opt-out of receiving such promotional emails at the time of registration. After registration, you may opt-out by following the link provided in a Wizards email or by contacting us as set forth in the section entitled **Contact Us** below. Notwithstanding the foregoing, Wizards reserves the right to contact you with updates relating to your account, transactions, the Terms of Use, the Code of Conduct or this Privacy Policy. Please note that your decision to opt-out is limited to the email address used and will not affect subsequent subscriptions. 
+If you do not want Wizards to send you promotional emails about products, services or events, you may opt-out of receiving such promotional emails at the time of registration. After registration, you may opt-out by following the link provided in a Wizards email or by contacting us as set forth in the section entitled **Contact Us** below. Notwithstanding the foregoing, Wizards reserves the right to contact you with updates relating to your account, transactions, the Terms of Use, the Code of Conduct or this Privacy Policy. Please note that your decision to opt-out is limited to the email address used and will not affect subsequent subscriptions.
 
   7. **Your California Privacy Rights**
 
@@ -321,7 +324,7 @@ If you are a data subject in Europe, you have the right to access, rectify, or e
 
 To exercise any of these rights, contact us as set forth in the section entitled **Contact Us** below and specify which right you intend to exercise. We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Please note that we store information as necessary to fulfil the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
 
-If you have any issues with our compliance, you have the right to lodge a complaint with a European supervisory authority. 
+If you have any issues with our compliance, you have the right to lodge a complaint with a European supervisory authority.
 
 ## 9\. Data Security
 
@@ -350,11 +353,11 @@ US/Canada: [(800) 324-6496](tel:\(800\)%20324-6496)
 [(425) 204-8069](tel:1%20\(425\)%20204-8069)  
 Note: We are available Monday through Friday, from 9:00 am to 6:00 pm Pacific Time, and also on weekends from 10:00 am to 4:00 pm Pacific Time.
 
-Online form:   
-Submit a help request at [http://wizards.custhelp.com](http://wizards.custhelp.com/) (requires creating an account or signing in to your account).
+Online form:  
+Submit a help request at [https://support.wizards.com](https://support.wizards.com/) (requires creating an account or signing in to your account).
 
 ESRB:  
 For complaints, you can also contact ESRB Privacy at ESRB Attn: Privacy Certified Program, 420 Lexington Avenue, Suite 2240 New York, New York 10170, by email at [privacy@esrb.org](mailto:privacy@esrb.org), or directly through their [consumer hotline](https://www.esrb.org/privacy/contact.jsp).
 
 European Requests:  
-For Europe specific requests, you can reach our DPO at: dpo@hasbo.com
+For Europe specific requests, you can reach our DPO at: dpo@hasbro.com
