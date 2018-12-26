@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904114321id_/https%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226195619id_/https%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | AsianCrush
 
 ## Privacy Policy
 
-This privacy policy sets out how Asian Crush, and its affiliated entities, Asian Media Rights, and Digital Media Rights, uses and protects any information that you give us when you use this website.  
+This privacy policy sets out how AsianCrush, and its affiliated entities, Asian Media Rights, and Digital Media Rights, uses and protects any information that you give us when you use this website.  
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
 We may change this policy from time to time by updating this page.
 
@@ -33,6 +33,10 @@ We require this information to provide you with a better service, and in particu
 ### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### How we use cookies
 
