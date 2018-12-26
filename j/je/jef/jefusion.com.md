@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jefusion.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619030656id_/http%3A//www.jefusion.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefusion.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226013539id_/http%3A//www.jefusion.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # JEFusion Privacy Policy - JEFusion
 
