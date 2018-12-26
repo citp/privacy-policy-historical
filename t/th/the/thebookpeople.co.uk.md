@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122805id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic%3Ftopic%3DpolicyPrivacy%26storeId%3D10001%26langId%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226203429id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic%3Ftopic%3DpolicyPrivacy%26storeId%3D10001%26langId%3D100) for the most accurate reproduction.*
 
 # Help - Privacy policy
 
@@ -91,7 +91,7 @@ For example, we collect notes from our conversations with you, details of any co
 
   * Copies of documents you provide to prove your age or identity where the law requires this, (including your passport and driver's licence). This will include details of your full name, address, date of birth and facial image. If you provide a passport, the data will also include your place of birth, gender and nationality. 
   * Details of your visits to our websites or apps, and which site you came from to ours.
-  * Information gathered by the use of cookies in your web browser. Learn more about how we use cookies and similar technologies here: [Cookie Policy](https://web.archive.org/web/20180626122805id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies)
+  * Information gathered by the use of cookies in your web browser. Learn more about how we use cookies and similar technologies here: [Cookie Policy](https://web.archive.org/web/20181226203429id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies)
   * Personal details which help us to recommend items of interest.
 
 
@@ -122,7 +122,7 @@ Remember, if you choose not to share your personal data with us, or refuse certa
 #### Here’s how we’ll use your personal data and why:
 
   * To process any product orders that you make by using our websites. If we don’t collect your personal data, we won’t be able to process your order and comply with our legal obligations.   
-_For example, your details may need to be passed to a third party to supply or deliver the product you ordered, and we may keep your details for a reasonable period afterwards in order to fulfill any contractual obligations such as refunds, guarantees and so on._  
+_For example, your details may need to be passed to a third party to supply or deliver the product you ordered, and we may keep your details for a reasonable period afterwards in order to fulfil any contractual obligations such as refunds, guarantees and so on._  
 
   * To respond to your queries, refund requests and complaints. Handling the information you sent enables us to respond. We may also keep a record of these to inform any future communication with us and to demonstrate how we communicated with you throughout. We do this on the basis of our contractual obligations to you, our legal obligations and our legitimate interests in providing you with the best service and understanding how we can improve our service based on your experience. 
   * To protect our business and your account from fraud and other illegal activities. This includes using your personal data to maintain, update and safeguard your account. We’ll also monitor your browsing activity with us to quickly identify and resolve any problems and protect the integrity of our websites. We’ll do all of this as part of our legitimate interest.   
@@ -135,7 +135,7 @@ _Of course, you are free to opt out of hearing from us by any of these channels 
   * To send you relevant, personalised communications by post in relation to updates, offers, services and products. We’ll do this on the basis of our legitimate business interest.   
 _You are free to opt out of hearing from us by post at any time._
   * To send you communications required by law or which are necessary to inform you about our changes to the services we provide you. For example, updates to this Privacy Policy, any changes to the service or product you have purchased and legally required information relating to your transactions. These service messages will not include any promotional content and do not require prior consent when sent by email or text message. If we do not use your personal data for these purposes, we would be unable to comply with our legal obligations.
-  * To display the most interesting content to you on our websites or apps we will use data about your favorite products and so on. We do so on the basis of your consent to receive app notifications and/or for our website to place cookies or similar technology on your device.   
+  * To display the most interesting content to you on our websites or apps we will use data about your favourite products and so on. We do so on the basis of your consent to receive app notifications and/or for our website to place cookies or similar technology on your device.   
 _For example, we might display a list of products or services you’ve recently looked at, or offer you recommendations based on your purchase history and any other data you’ve shared with us._
   * To administer any of our prize draws or competitions which you enter, based on your consent given at the time of entering.   
 _For example, by combining this data, this will help us personalise your experience and decide which content to share with you._
@@ -185,7 +185,7 @@ _For example, for fraud management, carrier services or to handle complaints and
   * IT companies who support our website and other business systems.
   * Operational companies such as delivery couriers.
   * Direct marketing companies who help us manage our electronic communications with you.
-  * Google/Facebook to show you products that might interest you while you’re browsing the internet. This is based on either your marketing consent or your acceptance of cookies on our websites. See our [Cookie Policy](https://web.archive.org/web/20180626122805id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies) for details.
+  * Google/Facebook to show you products that might interest you while you’re browsing the internet. This is based on either your marketing consent or your acceptance of cookies on our websites. See our [Cookie Policy](https://web.archive.org/web/20181226203429id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies) for details.
   * Data insight companies to ensure your details are up to date and accurate. 
   
 
@@ -206,7 +206,7 @@ We will only do this in very specific circumstances, for example:
 
 ### 9\. Cookies
 
-We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies and other such software on our website contain information that is transferred to your computer's hard drive. They help us to improve the website and to deliver a better and more personalised service. Find out more about our cookie policy here: [Cookie Policy](https://web.archive.org/web/20180626122805id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies)
+We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies and other such software on our website contain information that is transferred to your computer's hard drive. They help us to improve the website and to deliver a better and more personalised service. Find out more about our cookie policy here: [Cookie Policy](https://web.archive.org/web/20181226203429id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies)
 
 This includes, but is not limited to:
 
@@ -291,7 +291,7 @@ If you feel that your data has not been handled correctly, or you are unhappy wi
 
 You can contact them by calling [0303 123 1113](tel:303 123 1113).
 
-Or go online to [www.ico.org.uk/concerns](https://web.archive.org/web/20180626122805id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/www.ico.org.uk/concerns) (opens in a new window; please note we can't be responsible for the content of external websites)
+Or go online to [www.ico.org.uk/concerns](https://web.archive.org/web/20181226203429id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/www.ico.org.uk/concerns) (opens in a new window; please note we can't be responsible for the content of external websites)
 
 If you are based outside the UK, you have the right to lodge your complaint with the relevant data protection regulator in your country of residence. Details can be found in Section 16.
 
