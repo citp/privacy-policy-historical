@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualgdb.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625085949id_/https%3A//sysprogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualgdb.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226201401id_/https%3A//sysprogs.com/privacy) for the most accurate reproduction.*
 
 # Sysprogs - Privacy Policy
 
