@@ -1,93 +1,114 @@
-> *The following text is extracted and transformed from the impactradius.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232220id_/https%3A//www.impactradius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactradius.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226070648id_/https%3A//impact.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Impact Radius
+# Privacy Policy - Impact
 
-1\. Introduction  
-Impact Radius, Inc. (a California company, with a place of business at 223 East De La Guerra Street, Santa Barbara CA 93101) (“Impact Radius,” “we,” “us” or “our”), operates and uses the website at www.impactradius.com (the “Website”) to offer access to an advertising tracking platform (the “Platform”) related to online and offline performance advertising.
+**Last updated: April 16, 2018**
 
-2\. Who may use our Website?  
-Although certain areas of the Website can be accessed by visitors generally, access to our Platform is not provided to the general public. Only persons or entities that are eligible to enter into further agreement(s) with us may access non-public areas of our website (our “Advertisers” and “Media Partners”). All such Advertisers and Media Partners must be corporations or other legal entities or adults (at least of the legal age to be able to enter into contracts in the jurisdiction in which they reside). Further, Impact Radius reserves the right at its absolute discretion to refuse to provide access to the Platform to anyone for any or no reason.
+**We Are Impact**
 
-3\. Who uses personal data?  
-We do not gather information about or from visitors to or users of the public areas of our website solely as a result of such visits or usage. We only gather such information from Advertisers and Media Partners whom we engage in a business relationship and who enter into a user agreement with us. Accordingly, not all of this Privacy Policy applies to all visitors to this website. With respect to each of our Advertisers and Media Partners’ privacy policies, and any non-related site that is linked to from within our website, please contact the owner or operator of each such site directly for their privacy policies.
+We are Impact Tech, Inc. (US) (formerly known as “Impact Radius, Inc.”), and the following affiliated companies (“Affiliates”): Impact Radius Limited (UK), Forensiq Limited (UK), Impact Radius SA Pty Ltd (Cape Town, SA), and Impact Radius Pty Ltd (AU).  We, and our Affiliates, are referred to as “Impact”.
 
-4\. Scope and Effective Date  
-This Privacy Policy is effective as of March 1, 2010 and covers how and for what purposes personal data is collected by Impact Radius.
+Impact (“us”, “we”, or “our”) operates the website www.impact.com (“Website”) and provides Forensiq, Altitude, and Radius Software-as-a-Service products (collectively, the “Services”). This Privacy Policy informs you of our policies and practices regarding the collection, use and disclosure of any information relating to you that identifies you or by which you are identifiable (“Personal Information”) through the use of our Website, our Services, or that you otherwise provide to us. We will not use or share your Personal Information with anyone except as described in this Privacy Policy. We use your Personal Information for providing and improving the Website and Services. By using this website, the Services, or providing Personal Information to us, you agree to our collection and use of your Personal Information in accordance with this Privacy Policy.
 
-Periodically, we may alter our Privacy Policy to better reflect industry changes and/or changes in data protection and privacy law. If our Privacy Policy and/or data protection practices change at some time in the future we will post the policy changes to our website to notify you of these changes. If you are concerned about how your personal data is used, you should check our website.
+**Who may use our Website, Services?  
+**Although certain areas of the Website can be accessed by visitors generally, access to our Services is not provided to the general public. Only persons or entities that are eligible to enter into further agreement(s) with us (our “Clients”) may, with our permission, access non-public areas of our Website. All such Clients are businesses and only adults may access our Services.
 
-5\. No Personal Data of General Visitors Collected at or by This Site  
-This site neither requires general visitors to this website to submit personal data, nor does this website collect personal data about general visitors that the visitors do not voluntarily submit themselves. If you do not log into our website, purchase services at our website, or submit the Contact Us form on our website, our web server does not have access to personal data about you. We do not know your email address unless you volunteer it.
+**Personal Information Collection and Use**
 
-6\. Collection and Use of Non-Personal Data
+Our Clients that use our Services will be asked to provide us with certain Personal Information that can be used to contact or identify them (“Client Personal Information”). Such Client Personal Information will include, but is not limited to, name, postal address, email address, phone number and employer. We collect and use Client Personal Information to:
 
-(a) Passive Browser Information
+  * verify your identity;
+  * administer and support your interaction with our Website and Services;
+  * permit access to our Services;
+  * provide Services to our Clients;
+  * provide information and otherwise respond to your requests;
+  * contact you periodically about other services and products we offer and with information on upcoming Impact events;
+  * carry out marketing analysis, enhance, improve, maintain and debug our Website and the Services;
+  * prevent fraudulent use of our Website and our Services, and to prevent or take actions against such fraudulent use or violation of our Terms of Use or applicable law;
+  * tailor content and other aspects of your experience on and in connection with our Website and Services; and
+  * for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
 
-Passive Browser information is collected by the web server hosting the Website. This server logs standard information communicated by web browsers as they make requests to the server, including:
 
-IP address of the requesting computer  
-Date and time of the request  
-The URL of the actual request  
-Any cookie returned by the browser  
-Your browser offers options on the management and preference of cookies that you may change if you wish. Cookies are discussed in this Privacy Policy in more detail below.
 
-(b) Collection of Personal Data: For, site visitors who submit request forms, make purchases, or otherwise log on to our Website, and Advertisers and Media Partners
+If you submit information through our website to enquire about our Services, our organization, or an event or information posted on our Website, we will use such Personal Information to contact you in reply to your specific enquiry.  You may be asked at that time whether you would like to be on our mailing list to receive news and updates about our company and Services.  You may request to be removed from such mailing list at any time by using the “unsubscribe” function in our electronic communications or by contacting us as provided in the How to Contact Us section of this Privacy Policy.
 
-When you submit the form on the Contact Us section of our Website or make a purchase, the information we collect about you may include your name, company name, contact information, profile and preference information.
+We may also process Personal Information of our Clients’ visitors and customers, and visitors to our Clients’ websites (or our Client’s application downloads) in performance of the Services on behalf of our Clients. This Personal Information may consist of Internet Protocol (“IP”) addresses, and/or email addresses, although we request that our Clients encrypt email addresses prior to sending to us.  We take security measures to protect all Personal Information, including by hashing IP addresses and further encrypting email addresses. We do not associate Personal Information with individuals and are subject to our Clients’ instructions regarding such collection and use of such Personal Information. As a vendor of our Clients, the bases for our collection and processing of Personal Information of their customers and visitors may be through consent obtained by our Client and/or legitimate interests.
 
-This contact information (whether or not including personal data) may be used by us to:
+Impact does not rent, sell, or share personal data about you with other people or companies that are not Affiliates, except under the following circumstances:
 
-(i) verify your identity;  
-(ii) administer and support your interaction with our website;  
-(iii) deliver you with access to our Platform;  
-(iv) contact you again about other services and products we offer and information on upcoming Impact Radius events;  
-(v) carry out marketing analysis and make general improvements to our Website and the Platform.
+  * in order to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * when it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person; violations of Impact’s terms of use, any agreement with Impact or this Privacy Policy; or as otherwise required by law.
+  * if Impact sells any or all of its assets or their shareholders sell any or all of their shares to a third party in which case and subject always to compliance with applicable data protection legislation, you authorize that your Personal Information may be transferred to the buyer.
+  * In relation to Client Personal Information and in the course of providing our Services, to our other Clients that you have relationships with.
 
-We may outsource some of these activities to our business partners. To the extent we do, we shall use our reasonable efforts to ensure that our business partners will only process your personal data on terms similar to those set out in this Privacy Policy.
 
-We reserve the right to retain and use your contact information as long as we deem necessary to communicate with you and preserve or disclose your contact information as reasonably necessary to comply with our contractual obligations to you and applicable privacy and/or data protection legislation.
 
-If in the future you decide that you do not want us to contact you regarding other services and products we offer or information regarding upcoming Impact Radius events, please opt-out by letting us know in writing by email to privacy@impactradius.com.
+**Accessing and Correcting Your Personal Information**
 
-(c) Collection and use of email addresses  
-We collect the email addresses of those who communicate with us by email. Generally, the email addresses we collect are used to contact existing or potential business customers for the purpose of providing services, information and assistance. We may use the email address to contact existing or potential business customers to introduce new products or services, provide notification of website changes, or provide general business information. If you contact us through the Contact Us form, we reserve the right to retain and use the email address and contact information as long as we deem necessary to communicate with you and preserve or disclose your information as reasonably necessary to comply with our contractual obligations to you and applicable privacy and/or data protection legislation.
+Client Personal Data is accessible through our Client online accounts (“Client Portals”). Clients are able to access their Personal Information to update and correct their Personal Information.  If you no longer have access to the Client Portals, you may submit a request to remove Personal Information you provided to us by emailing a request to privacy@impact.com or contacting us by telephone or mail as further specified in the How to Contact Us clause of this Privacy Policy. To protect your privacy and security, we will also take reasonable steps to verify your identity before removing your information.
 
-If in the future you decide that you do not want us to email you regarding new products or services, provide notification of website changes, or provide general business information, please opt-out by letting us know in writing by email to privacy@impactradius.com.
+We reserve the right to retain and use Client Personal Information as reasonably necessary to comply with our contractual obligations to you, and in order to comply with applicable laws, including privacy and/or data protection legislation.
 
-7\. Cookies  
-(a) All visitors  
-“Cookies” are small text files that contain a string of alpha-numeric characters and are used to associate an action taken by a browser with subsequent actions taken by that browser. Web beacons are small strings of HTML code that are placed in a Web page, and are sometimes called “clear GIFs” (Graphics Interchange Format) or “pixel tags.” Web beacons are most often used in conjunction with cookies.
+If you are not a Client and would like to be removed from our mailing lists, you may use the “unsubscribe” instructions in our newsletters or electronic communications, or email such request to privacy@impact.com or contact us by telephone or mail as further specified in the How to Contact Us clause of this Privacy Policy.
 
-We place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor “sign on” status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver Impact Radius web content based on the visitor’s profile (as provided by the visitor) and the visitor’s past activity on the Impact Radius website.
+If you are a customer of one of our Clients, or a visitor to their website (or have downloaded one of our Client’s applications), please contact the Client in the first instance to request access to your Personal Information, or to correct or have such information deleted. If you do contact Impact, Impact does not associate the data that we process on behalf of our Clients with any particular individual, and Impact may not be able to verify that the Personal Information belongs to you.  See the section below “How to Contact Us” for information on contacting Impact if you believe that Impact has your Personal Information and you would like to request access to your Personal Information, correction of such information, or to exercise your right to be forgotten.
 
-You can remove cookies by following directions provided in your Internet browser’s “help” file. In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust. Cookies from Impact Radius may be stored under one or more of the following domains: impactradius.com, 7eer.net, evyy.net and/or ojrq.net.
+**Other Information**
 
-(b) Minors  
-Impact Radius does not knowingly collect any personal information about individuals under eighteen (18) years of age. If Impact Radius obtains actual knowledge that it has collected personal data about an individual under eighteen (18) years of age, that personal data will be immediately deleted from its database.
+_Log Data_  
+We collect information that your browser sends whenever you visit our website or use our Services (“Log Data”). This Log Data may include information such as your computer’s IP address, browser type, browser version, the pages of our website or Services that you visit, the time and date of your visit, the time spent on those pages, your activity on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Services’ functionality. These third-party service providers have their own privacy policies addressing how they use such information. When you access the Services by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device’s unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, your location information and other statistics. Please see the section regarding Location Information below regarding the use of your location information and your options.
 
-8\. Security  
-We have implemented security measures that are amongst the industry’s highest in order to protect our users’ personal data, business data and financial information (“Sensitive Information”) from loss, misuse and unauthorized access, disclosure, alteration or destruction. Users may be general website visitors, Advertisers or Media Partners.
+_Location Information_  
+We may use and store information about your location depending on the permissions you have set on your device. We use this information to provide features of our Services and to improve and customize our Services. You can enable or disable location services when you use our Service at any time, through your mobile device settings.
 
-When users submit Sensitive Information on the Website, their Sensitive Information is protected both online and offline. When our registration process asks users to submit Sensitive Information and when we transmit such Sensitive Information, that Sensitive Information is encrypted and protected with SSL encryption software. While we use SSL encryption to protect Sensitive Information online, we protect all other user information online and offline.
+_Cookies_  
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to perform and improve our Website and Services. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The “Help” feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Website or Services and we recommend that you leave them turned on.
 
-The servers that we store Sensitive Information in are kept in a secure physical environment. We have security measures in place to protect the loss, misuse and alteration of Sensitive Information under our control. Our employees are made aware of, and are accountable for compliance with, these procedures. With the exception of our technology security experts, no employee has access to back-end systems that would enable them to use (or misuse) your Sensitive Information.
+_Do Not Track Disclosure_  
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the “Preferences” or “Settings” page of your web browser.
 
-We ensure that strict procedures are followed and documented when back-end systems are accessed by our technology security experts.
+**Integrations**
 
-Please be advised that, although we take every reasonable precaution available to protect your Sensitive Information, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot warrant that your Sensitive Information will be absolutely secure. Any transmission of data at or through our Website is undertaken at your own risk. However, access to your Sensitive Information is strictly limited, and not accessible to the public. In compliance with applicable data protection legislation, we shall notify you and any applicable regulatory agencies (including the Information Commissioner) if we learn of an information security breach with respect to your Sensitive Information. You will be notified via email in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
+You may enhance the Services by enabling Impact integrations with third-party products. If you provide third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us, and that ThirdParty Account Information transmitted to our Services is covered by this Privacy Policy. Further, Impact software may request permissions to take actions on your behalf using your third-party account credentials.
 
-9\. Information Sharing and Disclosure  
-Impact Radius does not rent, sell, or share personal data about you with other people or non-affiliated companies, except under the following circumstances:
+**Service Providers**
 
-in order to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.  
-when it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person; violations of Impact Radius’ terms of use, any agreement with Impact Radius or this Privacy Policy; or as otherwise required by law.  
-where Impact Radius determines, in its sole discretion, that such disclosure is necessary to protect the rights of Impact Radius and/or a third party, or necessary to protect Impact Radius from liability of any kind.  
-if Impact Radius sells any or all of its assets or their shareholders sell any or all of their shares to a third party in which case and subject always to compliance with applicable data protection legislation, your personal data may be transferred to the buyer.  
-10\. Changes to your details  
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied to us, please contact our Data Protection Compliance Officer whose contact details are set out above.
+We may employ third-party companies and individuals (our “agents”) to facilitate our Services, to provide the Services on our behalf, to perform Service-related services and/or to assist us in analyzing how our Services are used. Examples may include processing and storing data, delivering messages, processing credit card payments, analyzing data, providing marketing assistance, supplementing the information you provide us in order to provide you with better service, and providing customer service. We do not transfer data to non-agent third parties. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are under written obligation not to disclose or use your Personal Information for any purpose other than those disclosed in this Privacy Policy.
 
-11\. Changes to this Privacy Policy  
-This privacy policy is subject to change. If we make any material or substantive changes in the way that we treat the information collected at this Website, we will post a clear and conspicuous notice of these changes on this Website and in this Privacy Policy.
+Notwithstanding such legal and contractual obligations between us and such agents, we remain potentially liable for any misuse of your Personal Information. We may be required to disclose Personal Information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-12\. More Information  
-If you have further questions or concerns relating to this Website’s privacy practices, please email privacy@impactradius.com.
+**Your Options for Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Security of Personal Information**
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+**International Transfer of Personal Information**
+
+Your Personal Information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those in your jurisdiction, and in some cases be less stringent as compared to those of your own region. Our servers are located in data centers within the United States. If you are located outside the United States and provide Personal Information to us, please note that we transfer Personal Information to the United States and South Africa and process it in those locations, and, if necessary and appropriate, to our Affiliates including those in the United Kingdom and Australia. Your consent to this Privacy Policy and your submission of Personal Information represents your agreement to those transfers.
+
+**Links to Other Sites**
+
+Our website and Services may contain links to other web sites or online locations that are not operated or controlled by us. If you click on a third-party link, you will be directed to that third party’s site. We strongly advise you to review the privacy policy of every online site or location you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+Only persons who are age 18 or older have permission to access our Services. Our Services are not for access by anyone under the age of 18 (“Children”). We do not knowingly collect Personal Information from Children. If you are a parent or guardian and you learn that your Child has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a Child without verification of parental consent, we take steps to remove that information from our servers.
+
+**Privacy Policy Changes**
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of our website and/or the Services after we post any modifications to the Privacy Policy will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**How to Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:  
+[privacy@impact.com](mailto:privacy@impact.com)  
+Impact Tech, Inc.
+
+223 E. De La Guerra Street  
+Santa Barbara, CA 93101
+
+USA  
++1 (805)-324-6021
