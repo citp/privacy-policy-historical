@@ -1,34 +1,30 @@
-> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224234018id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226214405id_/https%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # StrategyWiki:Privacy policy — StrategyWiki, the video game walkthrough and strategy guide wiki
 
-[](https://web.archive.org/wiki/File:Stop_orange_icon.png "This is a proposed policy. It is not yet binding.")Proposed!
-
-**This is a proposed policy. It is not yet binding.** While it is a good idea to follow what is written on this page, note that it is not final and thus is subject to change. Please make use of the [discussion page](https://web.archive.org/wiki/StrategyWiki_talk:Privacy_policy "StrategyWiki talk:Privacy policy") to propose changes or to finalize this policy.
-
 ## General scope
 
-This policy covers personally identifiable information collected or stored by StrategyWiki on its servers in relation to the guides and their communities. Consistent with its Data Retention Policy, StrategyWiki collects and retains the least amount of personally identifiable information needed to fulfill the site's operational needs.
+This policy covers personally identifiable information collected or stored by StrategyWiki on its servers in relation to the guides and their communities. Consistent with its Data Retention Policy, StrategyWiki collects and retains the least amount of personally identifiable information needed to fulfill the site's operational needs. 
 
 ## The public and collaborative nature of the guides
 
-All guides on StrategyWiki are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a guide, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.
+All guides on StrategyWiki are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a guide, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions. 
 
 ## Activities on StrategyWiki guides
 
-In general, this Policy only applies to private information stored or held by StrategyWiki which is not publicly available.
+In general, this Policy only applies to private information stored or held by StrategyWiki which is not publicly available. 
 
-Interactions with guides not covered by this Policy include, but are not limited to, aspects of browsing and editing pages, use of the wiki "email user" function, and subscribing and posting to StrategyWiki hosted email lists. These interactions may reveal a contributor's IP address, and possibly other personal information, indiscriminately to the general public, or to specific groups of volunteers acting independently of StrategyWiki.
+Interactions with guides not covered by this Policy include, but are not limited to, aspects of browsing and editing pages, use of the wiki "email user" function, and subscribing and posting to StrategyWiki hosted email lists. These interactions may reveal a contributor's IP address, and possibly other personal information, indiscriminately to the general public, or to specific groups of volunteers acting independently of StrategyWiki. 
 
-Users may also interact with one another outside of StrategyWiki, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication.
+Users may also interact with one another outside of StrategyWiki, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication. 
 
 ## 
 
-StrategyWiki does not require editors to register with a guide. Anyone can edit without logging in with a username, in which case they will be identified by network IP address. Users that do register are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed.
+StrategyWiki does not require editors to register with a guide. Anyone can edit without logging in with a username, in which case they will be identified by network IP address. Users that do register are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. 
 
 ## Purpose of the collection of private information
 
-StrategyWiki limits the collection of personally identifiable user data to purposes which serve the well-being of its guides, including but not limited to the following:
+StrategyWiki limits the collection of personally identifiable user data to purposes which serve the well-being of its guides, including but not limited to the following: 
 
     To enhance the public accountability of the guides. StrategyWiki recognizes that any system that is open enough to allow the greatest possible participation of the general public will also be vulnerable to certain kinds of abuse and counterproductive behavior. StrategyWiki and the guide communities have established a number of mechanisms to prevent or remedy abusive activities. For example, when investigating abuse on a guide, including the suspected use of malicious “sockpuppets” (duplicate accounts), vandalism, harassment of other users, or disruptive behavior, the IP addresses of users (derived either from those logs or from records in the database) may be used to identify the source(s) of the abusive behavior. This information may be shared by users with administrative authority who are charged by their communities with protecting the guides.
     To provide site statistics. StrategyWiki statistically samples raw log data from users' visits. These logs are used to produce the site statistics pages; the raw log data is not made public.
@@ -86,17 +82,17 @@ StrategyWiki limits the collection of personally identifiable user data to purpo
 
 ## Access to and release of personally identifiable information
 
-Access:
+Access: 
 
-Guides are developed by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, users who actively patrol edits and clean up vandalism may be promoted with Rollback privileges or Sys-op status. User group rights and group members are reachable in every guide from the Special:ListGroupRights page.
+Guides are developed by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, users who actively patrol edits and clean up vandalism may be promoted with Rollback privileges or Sysop status. User group rights and group members are reachable in every guide from the Special:ListGroupRights page. 
 
-Other users who may have access to private identifiable information include, but are not limited to, users who have access to the CheckUser and Oversight functions, StrategyWiki employees, and contractors and agents employed by the StrategyWiki, and developers and others with high levels of server access.
+Other users who may have access to private identifiable information include, but are not limited to, users who have access to the CheckUser and Oversight functions, StrategyWiki employees, and contractors and agents employed by the StrategyWiki, and developers and others with high levels of server access. 
 
-Access to and publication of this information is governed by the Access to nonpublic data policy, as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution."
+Access to and publication of this information is governed by the Access to nonpublic data policy, as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution." 
 
-Release: Policy on Release of Data
+Release: Policy on Release of Data 
 
-It is the policy of StrategyWiki that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, or through other non-publicly-available methods, may be released by StrategyWiki volunteers or staff, in any of the following situations:
+It is the policy of StrategyWiki that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, or through other non-publicly-available methods, may be released by StrategyWiki admins or staff, in any of the following situations: 
 
   1. In response to a valid subpoena or other compulsory request from law enforcement,
   2. With permission of the affected user,
@@ -107,18 +103,49 @@ It is the policy of StrategyWiki that personally identifiable data collected in 
 
 
 
-Except as described above, StrategyWiki policy does not permit distribution of personally identifiable information under any circumstances.
+Except as described above, StrategyWiki policy does not permit distribution of personally identifiable information under any circumstances. 
 
-Third-party access and notifying registered users when receiving legal process:
+Third-party access and notifying registered users when receiving legal process: 
 
-As a general principle, the access to, and retention of, personally identifiable data in all guides should be minimal and should be used only internally to serve the well-being of the guides. Occasionally, however, StrategyWiki may receive a subpoena or other compulsory request from a law-enforcement agency or a court or equivalent government body that requests the disclosure of information about a registered user, and may be compelled by law to comply with the request. In the event of such a legally compulsory request, StrategyWiki will attempt to notify the affected user within three business days after the arrival of such subpoena by sending a notice by email to the email address (if any) that the affected user has listed in his or her user preferences.
+As a general principle, the access to, and retention of, personally identifiable data in all guides should be minimal and should be used only internally to serve the well-being of the guides. Occasionally, however, StrategyWiki may receive a subpoena or other compulsory request from a law-enforcement agency or a court or equivalent government body that requests the disclosure of information about a registered user, and may be compelled by law to comply with the request. In the event of such a legally compulsory request, StrategyWiki will attempt to notify the affected user within three business days after the arrival of such subpoena by sending a notice by email to the email address (if any) that the affected user has listed in his or her user preferences. 
 
-StrategyWiki cannot advise a user receiving such a notification regarding the law or an appropriate response to a subpoena. StrategyWiki does note, however, that such users may have the legal right to resist or limit that information in court by filing a motion to quash the subpoena. Users who wish to oppose a subpoena or other compulsory request should seek legal advice concerning applicable rights and procedures that may be available.
+StrategyWiki cannot advise a user receiving such a notification regarding the law or an appropriate response to a subpoena. StrategyWiki does note, however, that such users may have the legal right to resist or limit that information in court by filing a motion to quash the subpoena. Users who wish to oppose a subpoena or other compulsory request should seek legal advice concerning applicable rights and procedures that may be available. 
 
-If StrategyWiki receives a court-filed motion to quash or otherwise limit the subpoena as a result of action by a user or their lawyer, StrategyWiki will not disclose the requested information until it receives an order from the court to do so.
+If StrategyWiki receives a court-filed motion to quash or otherwise limit the subpoena as a result of action by a user or their lawyer, StrategyWiki will not disclose the requested information until it receives an order from the court to do so. 
 
-Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, StrategyWiki will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user.
+Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, StrategyWiki will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user. 
+
+## Google Analytics Usage
+
+StrategyWiki makes use of Google Analytics, which uses cookies and collects information. Certain information such as your browser, and your IP address may be sent to Google Analytics but this information is always anonymized so that we don’t know which specific visitors are associated with what browser and we do not have access to any IP information in Google Analytics. Analytics may use several cookies including cookies stored for very long periods in order to determine if you have visited the site before, but Analytics never associates any identifiable information with your visit. So we may know many people visit a particular page, but we won’t know specifically who read it. For more information, please review the information on the following link: 
+
+  * [Google Privacy & Terms](https://policies.google.com/technologies/partner-sites)
+
+
+
+To opt out of being counted in Google Analytics, you can install a [browser add on made by Google](https://tools.google.com/dlpage/gaoptout). 
+
+## Third Party Advertising and Tools
+
+The banner ads appearing on StrategyWiki are delivered to users by our adserver and our advertising partners including Google Ads and Evolve Media ads. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+
+Our privacy statement covers the use of cookies by StrategyWiki only and does not cover the use of cookies by any advertisers, affiliates, or 3rd party sites. You can find out more about our advertising partners' privacy policy through the following links: 
+
+  * [Google Privacy & Terms](https://policies.google.com/technologies/partner-sites)
+  * [Evolve/Media Privacy Policy](http://www.evolvemediallc.com/privacy/)
+
+
+
+You can control Ad Personalisation by Google Ads and Google products by visiting the [Google Ad Settings page](https://adssettings.google.com/). 
+
+You can also learn more about other third party advertiser personalisation of ads and opt out of personalisation by [seeing this opt out page](http://www.aboutads.info/choices/). 
+
+Additionally, StrategyWiki uses AddThis to provide quick links to Facebook, Twitter, Google, and other content sharing sites. Our privacy statement does not cover the use of cookies by this service. You can find out more about AddThis's privacy policy through the following link: 
+
+  * [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy/)
+
+
 
 ## Disclaimer
 
-StrategyWiki believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by StrategyWiki, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, StrategyWiki cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, StrategyWiki can make no guarantee against unauthorized access to information provided in the course of participating in StrategyWiki guides or related communities.
+StrategyWiki believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by StrategyWiki, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, StrategyWiki cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, StrategyWiki can make no guarantee against unauthorized access to information provided in the course of participating in StrategyWiki guides or related communities. 
