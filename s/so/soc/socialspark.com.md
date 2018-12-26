@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190934id_/https%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023608id_/https%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
 
 # SocialSpark : The Creator Marketplace
 
-Updated **May 25, 2018**
+Updated **August 28, 2018**
 
-ContentMarketing.com, IZEA.com, app.izea.com, app.ebyline.com, PayPerPost.com, SocialSpark.com, SponsoredTweets.com, ZenContent.com, among others (the “Sites”) are owned and operated by IZEA, Inc. Access to the Sites and any features is made available under IZEA's Terms of Service and Privacy Policy.
+ContentMarketing.com, IZEA.com, app.izea.com, app.ebyline.com, PayPerPost.com, SocialSpark.com, SponsoredTweets.com, TapInfluence.com, ZenContent.com, among others (the “Sites”) are owned and operated by IZEA Worldwide, Inc. (“IZEA”). Access to the Sites and any features is made available under IZEA's Terms of Service and Privacy Policy.
 
 IZEA, Inc is a member of the IZEA Exchange and licenses this platform under IZEA's Terms of Service and Privacy Policy. Iterations of the IZEA Exchange licensed by unaffiliated third parties (“Partners”) will be governed by these same Terms of Service and Privacy Policy.
 
-The following details our Privacy Policy (the “Policy") for the Sites and describes the types of information we gather from those persons visiting the Sites and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by IZEA, Inc. and its subsidiaries and affiliates (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. 
+The following details our Privacy Policy (the “Policy") for the Sites and describes the types of information we gather from those persons visiting the Sites and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by IZEA Worldwide, Inc. and its subsidiaries and affiliates (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites.
 
 ## Data Controller
 
-The data controller for the information you provide or that is collected by IZEA, Inc. pursuant to this Privacy Policy is: IZEA, Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA.
+The data controller for the information you provide or that is collected by IZEA pursuant to this Privacy Policy is: IZEA Worldwide, Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA.
 
 ## Use of Information Collected by Us
 
@@ -20,11 +20,11 @@ IZEA may collect two types of information from users of our Sites: “personal i
 
 ## Collecting and Using Your Personal Information
 
-IZEA collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our Creator Marketplace - the “IZEA Exchange” (IZEAx), we ask you for personal information such as your name, address, social media connections, and email address. We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
+IZEA collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our Creator Marketplace - the “IZEA Exchange” (IZEAx), we ask you for personal information such as your name, address, social media connections, and email address. We may also request PayPal payment account information which we maintain in encrypted form on secure servers. In addition, IZEA collects supplemental data from public sites, IP addresses, and connected social media channels (via an API for which you can select the types of information IZEA may access), to create a more robust user profile and increase the odds that a marketer will locate your profile for content opportunities.
 
 ## Collecting and Using Your Aggregate Information
 
-IZEA also aggregates information that, by itself, does not identify who you are, such as frequency of visits to the Sites, search terms entered, browser type, etc. T IZEA uses the aggregated information to provide its services and remuneration, as well as to determine the use of our Sites and to monitor, audit and analyze information pertaining to our business metrics.
+IZEA also aggregates information that, by itself, does not identify who you are, such as frequency of visits to the Sites, search terms entered, browser type, etc. IZEA uses the aggregated information to provide its services and remuneration, as well as to determine the use of our Sites and to monitor, audit and analyze information pertaining to our business metrics.
 
 ## Sharing, Selling and Trading of Your Personal Information Collected Online with Third Parties
 
@@ -144,4 +144,4 @@ If you are an EEA resident, you have the right to lodge a complaint with a [data
 
 ## Contact Us
 
-If you have any questions or concerns about this Policy, please feel free to contact us any time through the Sites or at Privacy Policy Concerns Coordinator, c/o IZEA Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or Privacy@izea.com.
+If you have any questions or concerns about this Policy, please feel free to contact us any time through the Sites or at Privacy Policy Concerns Coordinator, c/o IZEA Worldwide, Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or Privacy@izea.com.
