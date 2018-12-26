@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522034000id_/https%3A//www.ebesucher.com/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024359id_/https%3A//www.ebesucher.com/privacy-statement.html) for the most accurate reproduction.*
 
 # eBesucher: Earn money with our Traffic Exchange, Emails & Clicks
 
@@ -13,6 +13,18 @@ We will use your data in order to provide you with the services that you expect 
 We employ other companies and individuals to perform functions on our behalf, for example the sending of SMS. These service providers have access to personal information needed to perform their duties. However, they may not use it for other purposes. In addition, they are obliged to treat the information in accordance with this privacy policy and the relevant data protection laws.
 
 We may disclose data of our customers when we are legally obliged to do so or if such disclosure is necessary to enforce our general terms and conditions, protect our rights, the rights of our customers and those of third parties.
+
+## Revocation & Deletion of Personal Data
+
+As a user, you have the right to revoke your consent to the storage of personal data at any time. To do so, you can delete your account at any time in the members area, see: username > profile. By deleting the user account, all user data will be deleted irrevocably after 24 hours. Revoking your consent does not affect the right of processing and use of personal data within these 24 hours.
+
+## Legal Basis Normal eBesucher Newsletter
+
+When creating an account, the user can agree to the receive an eBesucher newsletter by activating the checkbox **I would like to be informed about promotions and new features by email**. The consent can be revoked at any time in the members area. The newsletter is sent on the legal basis of Art. 6 (1) UAbs. 1 lit. a GDPR.
+
+## Legal Basis Advertising Emails
+
+When creating an account, the user has the opportunity to agree to receive advertising emails of our partners. Those advertising emails are sent by eBesucher, no user data will be shared with a third party. The agreement to receive advertising emails can be revoked at any time in the members area. The sending of an advertising email to the user is based on the legal basis of Art. 6 (1) UAbs. 1 lit. a GDPR.
 
 ## Automatically Collected Data, Cookies
 
@@ -40,9 +52,9 @@ Our website uses the Facebook “Like” –Button (Facebook-Like-Button). In ca
 
 By registering with our service, you are also entitled to publish your own posts under your username in our forum. Your username as well as all posts in our forums are public and can be read by everyone. They are recognized by the search engines like e.g. Google.
 
-## Right to Information
+## Rights of the person concerned
 
-According to the Federal Privacy Act, you have a right to free information regarding your stored data, and a right to rectification, blocking or erasure of data.
+According to Art. 15 to 20 GDPR you have the right to free information about your stored data as well as a right to correct, block or delete this data. According to Art. 77 GDPR you have the right to complain to the supervisory authority if you believe that the processing of your personal data is not legal. In addition, according to Art. 21 (1) GDPR, you are entitled to a right of objection to the processing based on Art. 6 (1) of the GDPR as well as to the processing for the purpose of direct marketing.
 
 ## Responsible Party and Contact for Privacy
 
@@ -57,4 +69,4 @@ We reserve the right to change this Privacy Policy at any time with effect for t
 
 During the ordering process, your personal data will be encrypted through SSL and sent over the Internet. We secure our website and other systems through technical and organizational measures against loss, destruction, access, modification or distribution of your data by unauthorized persons. Access to your account is only possible after entering your personal password. At any time, you should treat your access information confidential and close the browser window when you have finished communicating with us, especially if you share your computer with others.
 
-Last changed: 25.06.2014
+Last changed: 26.07.2018
