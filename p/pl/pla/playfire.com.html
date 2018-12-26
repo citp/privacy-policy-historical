@@ -1,360 +1,1208 @@
-<!--The following is the downloaded HTML source of the playfire.com privacy policy that was archived on 2016-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161109133335id_/https%3A//www.playfire.com/a/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playfire.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226204134id_/https%3A//www.greenmangaming.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-3W56"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4GWVZTGwAAVVVTBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-    
+<!DOCTYPE html><html lang="en" ng-app="gmgApp" data-tealium="" data-page-type="default_page" add-global-variables=""><head>
+<meta name="google-site-verification" content="sDUn9GFXvVm61-0ODBUk5OskAKJotVHUF_DSaHpo3Ro">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="https://impossibleexpansion.com/v2/0/vgmPzZtiVqVwkpiXGv8OLaDoeupS5NkTb2nT9qZqQTiWVhYf42yuhg-itKVbOY8pE7DPszRI12y"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"73c001910b","applicationID":"28900866","transactionName":"NgNbYkMDChJRWkMNCw9JblNTNhYAXkpWBxAICVcZcg0KFVVXQzQFBgMWf18GARk=","queueTime":0,"applicationTime":161,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4GWVZTGwEIXVFSDwcB"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script>
+<title>Get Up To Speed With GDPR Privacy Policy | Green Man Gaming</title>
+<meta name="description" content="Learn more about how GDPR will affect all our customers, regardless of location and how we're updating our current privacy policy in like with these new regulations!">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="https://images.greenmangaming.com/static/favicon.ico" type="image/x-icon">
+<script type="text/javascript">
+    var Utag_PreLoad_Wait = 'False';
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>About Playfire - Playfire</title>
+    var GMGSettings =
+    {
+      accountActivatedText: '',
+      signInUrl: '/sign-in/',
+      tealiumUrl: ' //tags.tiqcdn.com/utag/gmg/greenman/prod/utag.js',
+      apiBaseUrl: 'https://api.greenmangaming.com',
+      apiServiceUrl: 'https://api.greenmangaming.com/api/v2',
+      backendApiUrl: 'https://www.greenmangaming.com/api',
+      flippyBaseUrl: 'http://flippy.prod.gmgfarm.net:8080',
+      twitchClientId: '2s8j9aj1bnaip9t6gy41qm1t9vnkaa3',
+      googleAnalyticsTrackingId: 'UA-66606072-2',
+      showBackgroundCybersourceTags: true,
+      showImageCybersourceTags: false,
+      showObjectCybersourceTags: false,
+      cdn: 'https://images.greenmangaming.com/',
+      currentPageRequiresAuthentication: false,
+      uplayConnectBaseUrl: 'https://connect.ubi.com',
+      uplayConnectAppId: '7fd14620-fe65-4c43-80eb-882b92d40553',
+      distilBotTrafficRedirectUrl: 'https://api.greenmangaming.com/distil_r_captcha.html',
+      languageCode: 'en',
+      pageRestriction: {}
+    };
 
-    <link rel="stylesheet" href="//a.pfcdn.net/static/css/playfire.css?789819" type="text/css">
-    
-<link rel="stylesheet" href="//b.pfcdn.net/static/css/static.css" type="text/css">
+    var AvailableLanguages = [{"LanguageCode":"en","Label":"English","HiddenLanguage":false},{"LanguageCode":"de","Label":"Deutsch","HiddenLanguage":false},{"LanguageCode":"es","Label":"Español","HiddenLanguage":false},{"LanguageCode":"pt","Label":"Português","HiddenLanguage":false}];
+  </script>
+<script>
+  if (!Element.prototype.matches)
+    Element.prototype.matches = Element.prototype.msMatchesSelector ||
+      Element.prototype.webkitMatchesSelector;
+
+  if (!Element.prototype.closest)
+    Element.prototype.closest = function(s) {
+      var el = this;
+      if (!document.documentElement.contains(el)) return null;
+      do {
+        if (el.matches(s)) return el;
+        el = el.parentElement || el.parentNode;
+      } while (el !== null && el.nodeType === 1);
+      return null;
+    };
+</script>
+
+<script src="https://images.greenmangaming.com/static/scripts/mainHeader.4bb98b40.js"></script>
+
+<script type="text/javascript" async="" src=" //tags.tiqcdn.com/utag/gmg/greenman/prod/utag.js"></script>
+<script type="text/javascript">
+
+    var hasDeviceFingerprinting = false;
+  </script>
+<script type="text/javascript">
+    UserInfoHelper.getUserInfo(setUserAndTealiumTags);
+  </script>
+<link id="canonical-link" href="https://www.greenmangaming.com/privacy-policy/" rel="canonical">
+
+<link rel="stylesheet" href="https://images.greenmangaming.com/static/css/main.2613e4cb.css">
+<link rel="stylesheet" href="https://images.greenmangaming.com/static/css/video-js.min.css">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-66606072-2', 'auto', { 'name': 'gmgTracker' });
+  ga('gmgTracker.send', 'pageview');
+  </script>
+<script type="text/javascript">
+    !function (t, o, e) {
+      e = t.createElement(o), t = t.getElementsByTagName(o)[0],
+        e.async = 1,
+        e.src = "https://impossibleexpansion.com/v2/0/vgmPzZtiVqVwkpiXGv8OLaDoeupS5NkTb2nT9qZqQTiWVhYf42yuhg-itKVbOY8pE7DPszRI12y",
+        t.parentNode.insertBefore(e, t)
+    }(document, "script"), function (t, o) {
+      t[o] = t[o]
+        || function () { (t[o].q = t[o].q || []).push(arguments) }
+    }(document, window, "script", "admiral"); !function (t, e, n, a) {
+      function o(t) {
+        try {
+          return t = localStorage.getItem("v4ac1eiZr0"),
+            t && t.split(",")[4] > 0
+        } catch (e) { } return !1
+      } function r() {
+        var a = o(); if (a) {
+          var r = t[e].pubads();
+          typeof r.setTargeting === n && r.setTargeting("admiral-engaged", "true")
+        }
+      } a = t[e] = t[e] || {}, a.cmd = a.cmd || [], typeof a.pubads === n ? r() :
+        typeof a.cmd.unshift === n ? a.cmd.unshift(r) : a.cmd.push(r)
+    }(window, "googletag", "function");</script>
+<script>
+    document.addEventListener('bablicload', function () {
+      bablic.widget.hide();
+    });
+  </script>
+<script type="text/javascript" src="/omnopfddrdlevbbhxhr.js" defer=""></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#ecxzaqrqyewefssdrcxryrw{display:none!important}</style></head>
+<body data-close-mini-cart-on-click="">
+<header id="GMG_header" ng-controller="HeaderController" data-gmg-cache="1545856430">
+<nav class="navbar main-navigation {{communityPadding()}}" role="navigation">
+<div class="container">
+<div class="row header-content">
+
+<div class="col-xs-6 col-sm-3 top-content header-logo-container">
+<a href="/">
+<img src="https://images.greenmangaming.com/7ecbf522ff164d619c87e6d6aad0441c/428572ca9bc443a181c7c3e5d99ab97d.svg" alt="Green Man Gaming">
+</a>
+</div> 
+<div class="col-xs-6 col-sm-4 col-sm-push-5 col-md-3 col-md-push-6 user-actions">
+<div class="table-cell-middle" ng-cloak="">
+<ul>
+
+<li class="table-cell-middle" ng-if="!user.username">
+<div class="sign-in-btn">
+<a ng-href="/sign-in/{{returnUrl}}">
+<span>Sign In</span>
+</a>
+</div>
+<div class="register-btn">
+<a ng-href="/register/{{returnUrl}}">
+<span>Register</span>
+</a>
+</div>
+<a ng-href="/sign-in/{{returnUrl}}" class="hidden-lg">
+<div class="profile-logged-out-icon"></div>
+</a>
+</li> 
+
+<li class="table-cell-middle user-account" ng-if="user.username">
+
+<a href="/profile/" class="visible-xs">
+<img class="avatar" ng-src="{{user.avatarUrl || 'https://images.greenmangaming.com/50a747a44252487ea0afd94517c9dac1/afe781cabfd243d8982e3fcbb217e8e0.jpg'}}">
+</a>
+<div class="dropdown user-account-dropdown hidden-xs">
+<a href="/profile/">
+<span class="user-name notranslate">{{user.username}}</span>
+<img class="avatar" ng-src="{{user.avatarUrl || 'https://images.greenmangaming.com/50a747a44252487ea0afd94517c9dac1/afe781cabfd243d8982e3fcbb217e8e0.jpg'}}">
+</a>
+<ul class="dropdown-menu">
+<li>
+<a href="/profile/">My Profile</a>
+</li>
+<li>
+<a ng-click="logout()">Logout</a>
+</li>
+</ul>
+</div>
+
+<a href="/profile/" class="visible-xs">
+<div class="profile-logged-in-icon"></div>
+</a> 
+</li>
+<li class="table-cell-middle language" ng-show="currentLanguageCode">
+<div class="dropdown hidden-xs language-setting-dropdown" ng-class="{ 'logged-out': !user.username }">
+<div>
+
+<div class="globe-icon"></div>
+<span>{{currentLanguageCode | uppercase}}</span>
+</div>
+<ul class="dropdown-menu hidden-xs" aria-labelledby="language-setting">
+<li ng-click="changeLanguage('en')">
+<a>English</a>
+</li>
+<li ng-click="changeLanguage('de')">
+<a>Deutsch</a>
+</li>
+<li ng-click="changeLanguage('es')">
+<a>Español</a>
+</li>
+<li ng-click="changeLanguage('pt')">
+<a>Português</a>
+</li>
+</ul>
+</div>
+</li>
+
+<notifications ng-if="user.username &amp;&amp; user.showCommunity" href="/private-messaging/"></notifications>
 
 
-    <!--[if IE 6]><link rel="stylesheet" href="//b.pfcdn.net/static/css/ie/ie6.css" type="text/css"><![endif]-->
-    <!--[if IE 7]><link rel="stylesheet" href="//c.pfcdn.net/static/css/ie/ie7.css" type="text/css"><![endif]-->
-    <!--[if lte IE 8]>
-      <link rel="stylesheet" href="//c.pfcdn.net/static/css/ie/ie_lte_8.css" type="text/css">
-      <script type="text/javascript" src="//a.pfcdn.net/static/js/ie_shiv.js"></script>
-    <![endif]-->
+<li class="table-cell-middle cart">
 
-    <!--[if IE]>
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Kreon:400,700" type="text/css">
-    <![endif]-->
+<div class="empty-cart" ng-if="!basket.totalBasketQuantity &amp;&amp; !basket.addingToBasket">
+<a href="/your-cart---order/" class="visible-xs">
+<div class="cart-empty-icon"></div>
+</a>
+<div class="dropdown hidden-xs empty-cart-dropdown">
+<a href="/your-cart---order/">
+<div class="dropdown-toggle" type="button" id="empty-cart" aria-haspopup="true" aria-expanded="true">
+<span class="cart-empty-icon"></span>
+</div>
+</a>
+<ul class="dropdown-menu hidden-xs on-js-cart-open" aria-labelledby="empty-cart">
+<li>
+<h4>Your Shopping Cart is empty.</h4>
+</li>
+<li>
+<h4><strong>0</strong>items</h4>
+</li>
+</ul>
+</div>
+</div> 
 
-    <link rel="shortcut icon" href="//b.pfcdn.net/static/images/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="//b.pfcdn.net/static/images/misc/apple-touch-icon.png">
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Slab:400,300">
-    
-  
-    
-    
+<div class="full-cart" ng-if="basket.totalBasketQuantity || basket.addingToBasket">
+<a href="/your-cart---order/" class="visible-xs">
+<div ng-class="{'cart-full-icon': basket.totalBasketQuantity, 'cart-empty-icon': !basket.totalBasketQuantity}">
+<span class="badge" ng-if="basket.totalBasketQuantity" ng-bind="basket.totalBasketQuantity"></span>
+</div>
+</a>
+<div class="dropdown hidden-xs full-cart-dropdown" ng-class="{'open-cart': basket.open}">
+<a href="/your-cart---order/">
+<div class="dropdown-toggle" type="button" id="cart-content" aria-haspopup="true" aria-expanded="true">
+<div ng-class="{'cart-full-icon': basket.totalBasketQuantity, 'cart-empty-icon': !basket.totalBasketQuantity}">
+<span class="badge" ng-if="basket.totalBasketQuantity" ng-bind="basket.totalBasketQuantity"></span>
+</div>
+</div>
+</a>
+<ul class="dropdown-menu on-js-cart-open" ng-class="{'visible': basket.open}" aria-labelledby="cart-content">
+<li class="top">
+</li>
+<li ng-class="{'loading': basket.addingToBasket}">
+<loading-bars ng-if="basket.addingToBasket"></loading-bars>
+<div class="cart-container">
+<ul class="cart-content">
 
-  
-<style type="text/css">
-/* Playfire Grey */
+<li ng-repeat="item in basket.items | reverse" ng-if="item.quantity > 0">
+<a ng-href="{{ item.product.pageUrl }}">
+<div class="col-xs-3 prod-image">
+<img ng-src="{{ item.product.image || DEFAULT_PROD_IMG }}">
+</div>
+<div class="col-xs-5 prod-name">
+<div class="table-cell-middle">
+<p class="css-ellipsis notranslate" ellipsis="" ng-bind="item.product.name"></p>
+</div>
+</div>
+<div class="col-xs-2 prod-quantity">
+<span>x</span>
+<span class="units" ng-bind="item.quantity"></span>
+</div>
+</a>
+<div class="col-xs-2 remove-container">
+<a ng-click="basket.removeItem(item.product.id)">
+<div class="btn trash"></div>
+</a>
+</div>
+</li>
 
-body
-{
-  background: #404040 url(//a.pfcdn.net/site/t/themes/background/66.jpeg) no-repeat center top !important;
-}
+</ul>
+</div>
+</li>
+<li class="btn-container btn">
+<div>
+<a class="btn btn-success cart-btn" href="/your-cart---order/">
+VIEW CART
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
 
-#status_box,
-.theme_blurred_header
-{
-  background: url(//c.pfcdn.net/site/t/themes/header/66.jpeg) no-repeat left top !important;
-}
-</style>
+</li>
 
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-5 col-sm-pull-4 col-md-6 col-md-pull-3 search-collapse-container">
+<div class="menu-collapse-icon">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-mobile">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
 
+<div class="table-cell-middle input-container"><div class="input-group input-search-inner">
+<span class="visible-xs"></span>
+<input type="search" class="form-control input-sm search-input input-search-header" placeholder="PC, MAC AND CONSOLE GAMES" ng-model="quickSearch.query" ng-call="quickSearch.execute" data-debounce="" maxlength="150" data-on-enter="quickSearch.onEnter()" autocomplete="off" ng-focus="quickSearchResults.display=true" ng-click="$event.stopPropagation()" ng-keydown="checkKey($event)">
+<ul class="search-results hidden-xs" ng-if="(quickSearch.results.length > 0 || quickSearch.loading) &amp;&amp; quickSearchResults.display" ng-cloak="">
+<li class="row text-center" ng-show="quickSearch.loading">
+<div class="spinner">
+<div class="rect1"></div>
+<div class="rect2"></div>
+<div class="rect3"></div>
+<div class="rect4"></div>
+<div class="rect5"></div>
+</div>
+</li>
+<li ng-repeat="item in quickSearch.results" ng-hide="quickSearch.loading" ng-class="{ 'is-selected' : selectedIndex > -1 &amp;&amp; quickSearch.results[selectedIndex] == item }" ng-mouseover="hoverSearchItem($index)" ng-cloak="">
+<a ng-href="{{ item.pageUrl }}" ng-click="$event.stopPropagation()" track-search-hit="" hit-id="{{ item.searchHitId }}" track-id="{{quickSearch.trackId}}" query="{{quickSearch.query}}">
+<h5 ng-bind-html="item.name | colorMatch:quickSearch.query"></h5>
+<p ng-bind="item.availablePlatforms.join(' | ')"></p>
+</a>
+</li>
+</ul>
+<span class="input-group-btn" ng-click="isTablet &amp;&amp; !searching || quickSearch.onEnter()">
+<button class="btn btn-success btn-sm search-button" type="button">
+<span class="glyphicon glyphicon-search search-icon"></span>
+</button>
+</span></div></div>
 
+<div class="collapse navbar-collapse" id="navbar-collapse-mobile">
+<ul class="nav navbar-nav" avoid-dropdown-menu-close="">
+<li class="dropdown">
+<a href="/pc-games/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>Platforms</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/pc-games/">PC</a>
+</li>
+<li>
+<a href="/vr-titles/">VR</a>
+</li>
+<li>
+<a href="/consoles/ps4/">PlayStation</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/hot-deals/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>Hot Deals</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/holiday-sale/green-man-gaming-staff-picks/">Holiday Sale: Staff Picks</a>
+</li>
+<li>
+<a href="/holiday-sale/2018-best-sellers/">Best Sellers of 2018</a>
+</li>
+<li>
+<a href="/holiday-sale/simulation/">Best of Simulator</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/bestsellers/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>Bestsellers</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/bestsellers/">Top Picks</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/top-upcoming-games/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>Coming Soon</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/top-upcoming-games/view-all/">View All</a>
+</li>
+<li>
+<a href="/pre-order-video-games/">Pre-purchase</a>
+</li>
+<li>
+<a href="/top-upcoming-games/">Top Games Coming Soon</a>
+</li>
+</ul>
+</li>
+<li class="dropdown visible-lg">
+<a href="/new-gmg/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>New</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/new-gmg/">New Releases</a>
+</li>
+<li>
+<a href="/discover/">Discover</a>
+</li>
+<li>
+<a href="/early-access-titles/">Early Access</a>
+</li>
+</ul>
+</li>
+<li class="dropdown visible-lg">
+<a href="/add-ons/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>Add-Ons</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/extended-play/">Extended Play</a>
+</li>
+<li>
+<a href="/giftcards/">Gift Cards</a>
+</li>
+<li>
+<a href="/add-ons/">Game Currency</a>
+</li>
+<li>
+<a href="/add-ons/">Free to Play &amp; Packs</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/consoles/ps4/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>PS4</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/consoles/ps4/">Playstation</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/vip/" class="dropdown-toggle" role="button" aria-expanded="false">
+<span>VIP</span>
+</a>
+</li>
+<li class="dropdown">
+<a href="/community/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+<span>Community</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li>
+<a href="/community/">Community</a>
+</li>
+<li>
+<a href="/games-hub/">Hubs</a>
+</li>
+<li>
+<a href="/content-creator-affiliate-scheme/">Green Team</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
 
-    <!-- IE pinning and jump list -->
-    <meta name="application-name" content="Playfire">
-    <meta name="msapplication-tooltip" content="Playfire - Track your gameplay, see what your friends are playing, and follow the hottest games">
-    <meta name="msapplication-task" content="name=Buzz;action-uri=https://www.playfire.com/buzz;icon-uri=//c.pfcdn.net/static/images/favicon.png">
-    <meta name="msapplication-task" content="name=Gamercards;action-uri=https://gamercards.playfire.com/;icon-uri=//c.pfcdn.net/static/images/favicon.png">
-    
-
-    
-  </head>
-
-  <body class=" 
-  
-  
-  f_game_search_box
-  f_back_to_top
-  f_header
- f_hidden_login" data-get-buddies-url="//www.playfire.com/a/xhr/get_buddies" data-long-poll-server="https://lp.playfire.com/_poll">
-
-    
-    <script>
-        dataLayer = [{
-          'browsertype': 'Browser',
-          'usertype': 'Visitor'
-        }];
-    </script>
-
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-3W56"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-3W56');</script>
-    
-
-    
-    <div id="fb-root" data-client_id="206242476100306" data-client_id_default="206242476100306" data-update_url="//www.playfire.com/a/xhr/facebook/update_token"></div>
-    
-
-    <img id="xhrloader_mousefollow" src="//a.pfcdn.net/static/images/gaminglog/misc/xhrloading.gif" width="16" height="16" style="display: none; position: absolute; left: 0; top: 0; z-index: 9999" alt="">
-
-    <!--[if IE 6]>
-    <div id="ie6_warning">
-      <p>
-        <strong>Warning!</strong> You are using a browser which is over 10 years old and
-        not compatible with modern websites, including Playfire.
-      </p>
-      <p>
-        Please ugrade to a modern browser such as
-        <a href="http://www.google.com/chrome">Chrome</a>,
-        <a href="http://www.opera.com/">Opera</a>,
-        <a href="http://www.mozilla-europe.org/en/firefox/">Firefox</a>,
-        or even a newer version of
-        <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer</a>.
-      </p>
-    </div>
-    <![endif]-->
-
-    
-
-
-
-
-
-
-  
-    
-    
-
-  
-<style type="text/css">
-/* Playfire Grey */
-
-body
-{
-  background: #404040 url(//a.pfcdn.net/site/t/themes/background/66.jpeg) no-repeat center top !important;
-}
-
-#status_box,
-.theme_blurred_header
-{
-  background: url(//c.pfcdn.net/site/t/themes/header/66.jpeg) no-repeat left top !important;
-}
-</style>
-
-
-
-
-
-  
-    
-
-
-
-
-<header id="top-bar">
-
-  <div class="top-bar-content">
-    <a class="playfire-logo" href="//www.playfire.com/">
-      <img src="//c.pfcdn.net/static/images/layout/pf_logo_header_2013.png" alt="Playfire Logo">
-    </a>
-
-    <ul class="main-menu">
-      <li>
-        <a href="http://blog.playfire.com/">Blog</a>
-      </li>
-
-      <li>
-        <a href="//www.playfire.com/buzz">Buzz</a>
-      </li>
-
-      <li>
-        <a href="//forums.playfire.com/">Discuss</a>
-      </li>
-
-      
-        <li>
-          <a href="//www.playfire.com/charts/top_100">Charts</a>
-        </li>
-      
-
-      <li>
-        <a href="//www.playfire.com/a/rewards">Rewards</a>
-      </li>
-    </ul>
-
-    <div class="nav-tools">
-      
-        
-      
-
-      
-        <div class="login-links">
-          <a href="//www.playfire.com/a/register/user" class="sign-up">Sign Up!</a>
-          |
-          <a href="//www.playfire.com/a/login" class="login">Sign in</a>
-        </div>
-      
-    </div>
-
-  </div>
-
+<div class="col-xs-12 hidden-xs">
+<ul class="nav navbar-nav megamenu" nav-pills="">
+<li class="dropdown ">
+<a href="/pc-games/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/413111'">
+<span>Platforms</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+<li class="dropdown ">
+<a href="/hot-deals/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/150988'">
+<span>Hot Deals</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+<li class="dropdown ">
+<a href="/bestsellers/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/208046'">
+<span>Bestsellers</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+<li class="dropdown ">
+<a href="/top-upcoming-games/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/194484'">
+<span>Coming Soon</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+<li class="dropdown  visible-lg">
+<a href="/new-gmg/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/347559'">
+<span>New</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+<li class="dropdown  visible-lg">
+<a href="/add-ons/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/404829'">
+<span>Add-Ons</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+<li class="dropdown ">
+<a href="/consoles/ps4/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/413440'">
+<span>PS4</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+<li class="dropdown ">
+<a href="/vip/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/450012'">
+<span>VIP</span>
+</a>
+</li>
+<li class="dropdown ">
+<a href="/community/" class="dropdown-link " role="button" aria-expanded="false" load-megamenu-content="" heading="'/en/MenuTabPage/GetMenuTabView/335039'">
+<span>Community</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu megamenu-content" role="menu"></ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
 </header>
+<script>
+  if (window.location.href.lastIndexOf("isThirdPartyRedemption=true") !== -1) {
+    document.getElementById("GMG_header").style.display = 'none';
+    document.getElementById("GMG_footer").style.display = 'none';
+  }
+</script>
+<div class="container global-message-bar-controller" ng-controller="GlobalMessageBarController" ng-cloak="">
+<div class="row">
+<div class="col-xs-12">
+<message-bar is-error="msgBar.isError" message="msgBar.message" hide-close="msgBar.hideClose" errors="msgBar.errors" visible="msgBar.visible"></message-bar>
+</div>
+</div>
+</div>
+<div class="container main">
+<div class="row">
+<div><div>
+<div>
+<div class="container">
+<div class="design">
+<div class="row">
+<div class="col-xs-12">
+<h1 class="title">Privacy Policy</h1>
+<p dir="ltr"><span>Your Privacy Matters to Us!</span></p>
+<p dir="ltr"><span>Green Man Gaming’s mission is being the leading company offering millions of gamers a single destination for all things gaming through our eCommerce store and Community platform.Our aim is to inspire confidence when you entrust us with your data and for this we are committed to be transparent with you about the data we collect about you and how it is used and shared.</span></p>
+<p dir="ltr"><span>By using our Services, you consent to our use of your data under this Privacy Policy.</span></p>
+<h2 dir="ltr"><span>About Us and this Policy</span></h2>
+<p dir="ltr"><span>Our registered users (“</span><span>Users</span><span>”) can choose to share their gaming profiles, engage with the Community network, exchange knowledge and gaming achievements, post and view relevant content. Also, content on some of our services is available to non-members (“</span><span>Visitors</span><span>”).</span></p>
+<p dir="ltr"><span>Green Man Gaming Limited, will be the controller of your personal data provided to, or collected by or for, our Services.</span></p>
+<p dir="ltr"><span>This Privacy Policy explains when we collect data about you, what we collect, why we collect it, who we share it with, where it is processed, how we handle it and what your choices and legal rights are.</span></p>
+<p dir="ltr"><span>For further information about our Privacy Policy or our processing of data about you, please contact our Customer Service team:</span></p>
+<p dir="ltr"><span style="color: #00e205;"><a href="https://greenmangaming.zendesk.com/hc/en-us"><span style="color: #00e205;">https://greenmangaming.zendesk.com/hc/en-us</span></a></span></p>
+<p dir="ltr"><span>Or escalate your query to:</span></p>
+<p dir="ltr"><span style="color: #00e205;"><a href="/cdn-cgi/l/email-protection#f39792879283819c879690879a9c9db3948196969d9e929d94929e9a9d94dd909c9e"><span style="color: #00e205;"><span class="__cf_email__" data-cfemail="7b1f1a0f1a0b09140f1e180f1214153b1c091e1e15161a151c1a1612151c55181416">[email&nbsp;protected]</span></span></a></span></p>
+<p dir="ltr"><span>Green Man Gaming Limited of Mutual House, 70 Conduit Street, London W1S 2GF is incorporated in England and Wales under the company number 05271628.</span></p>
+<h2 dir="ltr"><span>Data Collection</span></h2>
+<p dir="ltr"><span>This section explains what data we collect about you and the sources of this information. We may combine data we receive from any of these sources. For example, we may process singularly or collectively information we have collected from you, your visits to our website, your Steam or Playfire gameplay history if you have shared it with us, etc., for the purposes explained in this Privacy Policy.</span></p>
+<h3 dir="ltr"><span>Data You Provide</span></h3>
+<p dir="ltr"><span>You may provide us with certain information directly, including:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span><b>Account information:</b> </span><span>When you create an account for Green Man Gaming, we ask you to provide information such as your username, email address and password to create the account. You can also add a profile picture, your date of birth, and other details about you to your account profile and set various </span><a href="/my-account/profile/"><span>account settings</span></a><span> (including social privacy controls)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span><b>Payment information:</b> </span><span>If you wish to purchase games or credit for your account wallet or make any other payments via Green Man Gaming using a payment method, we will ask you to provide certain data such as your billing address and payment details</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span><b>User Content:</b> </span><span>Some Green Man Gaming products and services will allow you to upload to our servers: messages, comments, forum posts, game levels, videos, images and other information</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span><b>Customer Services:</b> </span><span> If you contact us for assistance we may ask you to provide information about you (such as your name and contact details) and the nature of your query, and you may choose to send further communications about your query </span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><b>Other:</b> We may ask you to provide information if you participate in market research surveys, feedback requests, beta and other user testing research, <a href="/terms-and-conditions/#competitions" target="_blank">competitions</a>, promotions or events or agree to receive marketing information from us</p>
+</li>
+</ol>
+<p dir="ltr"><span>Please make sure that any personal details which you provide are accurate and current as we will send important information relating to your account using the contact information you provide (including account security and data protection notices). Let us know if there are any changes. You can check and update the information you have provided to us any time via Green Man Gaming Account Profile Settings. Always obtain consent first before giving us anyone else's personal information (for example, for refer-a-friend promotions).</span></p>
+<h3 dir="ltr"><span>Green Man Gaming Website</span></h3>
+<p dir="ltr"><span>Each time you sign in to Green Man Gaming and access our online services, we may automatically:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>access and store information about your use of Green Man Gaming features and services on your device; and</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>log your activity on our Green Man Gaming servers.</span></p>
+</li>
+</ol>
+<p dir="ltr"><span>For example, we may receive device and account identifiers, such as Green Man Gaming Account and details of what content, promotions and other information your devices request and receive from our servers (such as store content, gameplay activity and want lists) and when you receive and interact with them, what content and games you add to your 'basket' and what you purchase.</span></p>
+<h3 dir="ltr"><span>Accessing Green Man Gaming on your devices</span></h3>
+<p dir="ltr"><span>Each time you use a Green Man Gaming app or sign in to your Green Man Gaming account on your devices (such as a mobile or PC), we may automatically access and store information about your use of that device and app. </span></p>
+<p dir="ltr"><span>The data that we access from and store on your devices may include:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Device identifiers such as your laptop/desktop ID, mobile device IDs, cookie IDs</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Network identifiers such as your IP and MAC address</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Account authentication tokens that avoid you having to log in repeatedly</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Content and client downloaded to your device for the online services that you access</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Account creation IP address and store that against a country. If you travel out of your home country, we present you with Green Guard security check.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Achievements, scores and rankings achieved online and offline</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Some device type and setting details and error reporting</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Information about which features and services you are accessing from your Green Man Gaming device or app and when (such as Steam or Twitch if applicable)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Information about the device(s) you are using and how you have configured them.</span></p>
+</li>
+</ol>
+<h3 dir="ltr"><span>Game Tracking</span></h3>
+<p dir="ltr"><span>By linking your Steam account with your Green Man Gaming account you grant us an access to your Steam game library and your Steam game play data. Thanks to that you can track your progress, achievements and play time on your Green Man Gaming profile. If you leave your profile public other users will be able to see your stats. If you make your profile private, then only you will see your achievements, game play time and other interesting data on your gaming profile.&nbsp;&nbsp;</span></p>
+<p dir="ltr"><span>Data from all the users who linked their Steam accounts is collected and displayed as aggregated community stats.&nbsp;&nbsp;</span></p>
+<p dir="ltr"><span>Steam can be used online or offline and it updates your profile as soon as you go online. It takes us up to 24-hours to receive your data from Steam so don’t be surprised if you don’t see your new game achievement straight away displayed on your profile.</span></p>
+<h3 dir="ltr"><span>Websites, Marketing and Advertising</span></h3>
+<p dir="ltr"><span>Each time you visit our website or receive and interact with our marketing communications and advertising on our and third party websites and services, we may automatically log your activity on web, advertising and marketing servers managed by us or by a third party on our behalf</span></p>
+<p dir="ltr"><span>For example, we may receive:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Online identifiers usually stored in cookies on your device </span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Other tracking data, such as tracking pixels and browser configuration details (e.g. browser type, list of installed plugins and list of installed fonts)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>If you sign into your account, account identifiers such as Green Man Gaming Online Account </span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Information about the content, marketing communications and advertisements you view and interact with (for example, if you click on a banner on Green Man Gaming.com about Stormworks: Build and Rescue, open a marketing email about Green Man Gaming VR or click on one of our adverts on a social network about Green Man Gaming)</span></p>
+</li>
+</ol>
+<p dir="ltr"><span>Please see the Green Man Gaming </span><a href="/cookie-policy/" target="_blank"><span>Cookie Policy</span></a><span> for more details on our use of cookies and how to control them when accessing our websites.</span></p>
+<h3 dir="ltr"><span>Third Party Partners</span></h3>
+<p dir="ltr"><span>We may receive limited information about you from third party partners, including from:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Our financial and anti-fraud service providers processing your account sign in and purchase transactions, including fraud risk scores</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Other online service providers, our security service providers, government agencies, law enforcement and public security sources, including IP addresses and details of suspected unlawful or fraudulent activity and security risk scores</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Third party partners providing games and apps via Green Man Gaming, including information about accounts, IP addresses and devices reasonably suspected of breaching our or our third party partners terms of service or of being involved in fraudulent or malicious activity</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Other third parties where permitted under notices and choices that they or we have provided to you (for example, we may receive information from a Green Man Gaming partner that you visit if you've agreed that the provider of that service can send us information about your activity, such as Facebook)</span></p>
+</li>
+</ol>
+<h2 dir="ltr"><span>Data Use</span></h2>
+<p dir="ltr"><span>This section explains how we may use the data we collect about you. We may use data combined from any of the sources explained in the 'Data Collection' section of this Privacy Policy. For example, we may process together information we have collected from you, your visits to our website, your Steam or Playfire gameplay history, etc., for the purposes explained in this Privacy Policy.</span></p>
+<h3 dir="ltr"><span>Services</span></h3>
+<p dir="ltr"><span>We (and affiliates and third parties operating on our behalf in accordance with our instructions) may use your information to operate Green Man Gaming and to provide the services you have requested - for example, in order to maintain your account, process your purchases and/or complete anti-fraud checks.</span></p>
+<p dir="ltr"><span>We may personalise the services we provide to you based on the combined data we have collected about you (for instance, we may use your IP address to display content relevant for your area or we may recommend or to help you discover new games or social media that you are entitled to play and watch using information about your past activity).</span></p>
+<h3 dir="ltr"><span>Development</span></h3>
+<p dir="ltr"><span>We use the data we collect to understand, improve and enhance our existing products and services and your experiences using them, and to help develop new ones. For example, we may use the data to optimise user interfaces, for bug and error fixing, apps and websites.</span></p>
+<h3 dir="ltr"><span>Moderation and Safety</span></h3>
+<p dir="ltr">We cannot monitor the whole of Green Man Gaming and make no commitment to do so. However, we reserve the right in our sole discretion to monitor and record your online activity and communication throughout Green Man Gaming and to remove and/or delete any content. We may use the combined data we collect (including information such as the content of your voice, video (Twitch video posting), and text communications, the time and location of your activities, and your Green Man Gaming Online Account, registered account details and IP address) to detect breaches and enforce our Green Man Gaming Terms and Conditions and any other <a href="/terms-and-conditions/#forum" target="_blank">terms of service</a> you have agreed to and any rules or codes of conduct applying to your use of Green Man Gaming. Enforcement action that we may take can include suspending or banning accounts and/or devices.</p>
+<h3 dir="ltr"><span>Legal and Compliance</span></h3>
+<p dir="ltr"><span>We may use the combined data we collect for auditing, compliance and legal purposes (for example, making or defending claims or activities that are required by law).</span></p>
+<h3 dir="ltr"><span>Marketing and Advertising</span></h3>
+<p dir="ltr"><span>We might target and personalise our marketing communications (if you choose to receive them), purchase recommendations and adverts that we display on our and third party websites and services based on the combined data we have collected about you (e.g. to avoid displaying content you've already purchased from our store).</span></p>
+<p dir="ltr"><span>You may notice this personalisation when you visit Green Man Gaming (via website or app), when we send you marketing communications or when you visit our and third party websites (such as social network sites) that show purchase recommendations or adverts from us (for example, you might see an advert for a game similar to one you have played recently or a product that you have recently viewed on Green Man Gaming).</span></p>
+<p dir="ltr"><span>You can choose if you would like to receive marketing communications from us relating to Green Man Gaming and our products and services. If you later decide not to receive marketing emails from us, you can turn off marketing communications:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Via Preference Centre Settings in your Green Man Gaming Account Settings area</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>By following the instructions and/or the link "unsubscribe" attached to our marketing emails</span></p>
+</li>
+</ol>
+<p dir="ltr"><span>We will aim to process your request as soon as reasonably practicable and in any event, within 2 working days. Note that we will still send you important emails about your account even if you opt-out of marketing emails.</span></p>
+<p>If you choose not to allow us to store and access cookies that are not strictly necessary for the provision of our websites, this will also limit when we can recognise your visits to our websites and target and personalise the advertising and commercial purchase recommendations displayed on those websites. Please see the Green Man Gaming <a href="/cookie-policy/" target="_blank">Cookie Policy</a> for more details on our use of cookies and how to control them when accessing our websites.</p>
+<h2 dir="ltr"><span>Data Sharing and Transfers</span></h2>
+<p dir="ltr"><span>This section explains how we may share the combined data we collect with third party vendors and partners that provide services to us or provide games and apps on Green Man Gaming that you use.</span></p>
+<h3 dir="ltr"><span>Services</span></h3>
+<p dir="ltr"><span>We may share the combined data we collect with third party vendors and selected partners that provide services to us or provide games and apps on Green Man Gaming that you use. For example, we may share your payment details to banks and other financial and anti-fraud organisations in order to complete your purchase, obtain payment and carry out credit and anti-fraud checks.</span></p>
+<p dir="ltr"><span>Advertisements and Ad Serving Technology</span></p>
+<p dir="ltr"><span>We also use third party providers of adverts. Examples of third party providers we may use from time to time are Adroll, Dotomi, Conversant, ESV Digital.</span></p>
+<p dir="ltr"><span>Third party ad providers may collect information as a result of ad serving through the Website and/or the App. &nbsp;These entities may collect and use data for this purpose including software, applications, hardware, browser information, internet and online usage information. &nbsp;This data may be used and disclosed in accordance with our and the privacy policy of the company providing the ad serving technologies. The advertising companies who deliver ads for us may combine the information collected with other information they have independently collected from other services or products. These companies collect and use information under their own privacy policies.&nbsp;&nbsp;</span></p>
+<p dir="ltr"><span>Other Users</span></p>
+<p dir="ltr"><span>When you create an account for Green Man Gaming, certain information will form part of your public profile and we will make it accessible to all accounts on Green Man Gaming.</span></p>
+<p dir="ltr"><span>This includes:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Your Green Man Gaming Username</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>"About Me" statement, avatar, gaming activity and statistics (if you choose to link your Steam account), online/offline status, game reviews you write and the games you own or have added to your Want List.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>When you create a Green Man Gaming account, your profile will be set for 'Public' view but you can choose whether to keep your profile public or change it to private through your profile settings ('Settings' tab in 'My profile').</span></p>
+</li>
+</ol>
+<p dir="ltr"><span>Please be aware that anyone who can see your information will be able to share it with others, for example by sharing a gameplay video that you feature in. Some devices allow users to record, stream and upload online activities such as gameplay and therefore may be distributed outside Green Man Gaming without your knowledge, which means that you and we have no control over it.</span></p>
+<p dir="ltr"><span>You are responsible for any content you share on forums, communities, chat and messaging features and this content will be accessible to others.</span></p>
+<p dir="ltr"><span>We recommend you consider carefully with whom you share your information. Avoid sharing your contact information with others.</span></p>
+<h3 dir="ltr"><span>Security and Fraud</span></h3>
+<p dir="ltr"><span>We may share limited information about you with third party partners, including:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Our financial and anti-fraud service providers processing your account sign in and purchase transactions, including fraud risk scores</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Other online service providers, our security service providers, government agencies, law enforcement and public security sources, including IP addresses and details of suspected unlawful or fraudulent activity and security risk scores</span></p>
+</li>
+</ol>
+<h3 dir="ltr"><span>Legal and Corporate</span></h3>
+<p dir="ltr"><span>We may share the combined data we collect:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>To defend legal claims or exercise legal rights</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>With our service providers processing data on our behalf</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>With our professional advisors dealing with, for example, legal, tax, audit or accounting matters</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>During negotiations for and following conclusion of a sale of all or part of our business</span></p>
+</li>
+</ol>
+<h3 dir="ltr"><span>Government Authorities</span></h3>
+<p dir="ltr"><span>We may share your information with police and other government authorities if we believe that it is reasonably necessary to comply with a law, regulation, or legal process, to detect, protect and enforce the safety of any person, their property or their rights, to address fraud and security and report criminal activity. </span></p>
+<h3 dir="ltr"><span>International Transfers</span></h3>
+<p dir="ltr"><span>Your information may be processed, stored and transferred outside your country of residence and beyond the European Economic Area (EEA) where we are located for the purposes set out in this Privacy Policy, such as the United States. Data protection laws in these countries may not offer the same level of protection as in your country or the EEA and you may have fewer legal rights in relation to your information. We ensure there are adequate safeguards in place when transferring your data outside your country and the EEA, including by relying on Privacy Shield, Model Clauses or other lawful mechanisms or otherwise that the transfer only occurs where permitted by applicable law.</span></p>
+<h2 dir="ltr"><span>Data Handling and Your Choices</span></h2>
+<h3 dir="ltr"><span>Storage</span></h3>
+<p dir="ltr"><span>We keep the data that we collect about you for as long as necessary for the purposes set out in this Privacy Policy. In general, we will retain information that is associated with your account or device until you close your account. Even following account closure, please be aware that the data that we collect about you may still be retained for legal, fraud, accounting and community reasons.</span></p>
+<h3 dir="ltr"><span>Security</span></h3>
+<p dir="ltr"><span>Access to your Green Man Gaming account is restricted through the password that you set. Please keep the password for your account safe and do not disclose it to anyone else. Consider ensuring automatic account log in setting is disabled and the setting requiring a password to be entered before completing purchases is enabled, particularly if your Green Man Gaming device is shared with others. You should contact Green Man Gaming Help and Support immediately if you become aware of any unauthorised use of your account or other security breach.</span></p>
+<h3 dir="ltr"><span>Children's Data</span></h3>
+<p dir="ltr"><span>You must be at least 16 years old to create an account for Green Man Gaming. However, if you are a parent or guardian, you may create accounts (or confirm the creation of an account initiated by your child) for your children aged up to 15 to access Green Man Gaming and its services. If you do so, we will process your child's data in accordance with this Privacy Policy.</span></p>
+<h3 dir="ltr"><span>Your Choices and Rights</span></h3>
+<p dir="ltr"><span>If you are a user of our services, you can access, correct, and modify some of the personal information that you have provided to us via Green Man Gaming Account Settings.</span></p>
+<p dir="ltr"><span>You also have the right to request a copy, rectification, erasure or blocking of your personal information and to object to our processing of your personal information in certain situations. You can exercise these rights by contacting us via the information in the About Us and Complaints section of this Privacy Policy.</span></p>
+<p dir="ltr"><span>You can close your account for Green Man Gaming by contacting Green Man Gaming Help &amp; Support. Please be advised that account changes can take up to 28 days.</span></p>
+<p dir="ltr"><span>Note that this will not affect any alternative accounts that you might have; you will need to close those accounts separately.</span></p>
+<h3 dir="ltr"><span>Complaints</span></h3>
+<p dir="ltr"><span>If you have a concern about our information rights practises, please get in contact with us first so we can try to resolve your query using the details in the 'About Us and this Policy' section of this Privacy Policy.</span></p>
+<p dir="ltr"><span>If however you feel we have not dealt with your concern and that we are failing to meet our legal obligations, you can report this to your local data protection regulator or the Information Commissioner's Office ("ICO") in the United Kingdom. More information on reporting a concern to the ICO can be found at </span><a href="https://ico.org.uk/"><span>https://ico.org.uk/</span></a><span>.</span></p>
+<h2 dir="ltr"><span>Updates and Changes to this Privacy Policy</span></h2>
+<p dir="ltr"><span>We may make alterations to this Privacy Policy from time to time and these variations shall become effective immediately upon being accessible from </span><a href="/privacy-policy/" target="_blank"><span>here</span></a><span> or on the Effective Date. </span></p>
+<p dir="ltr"><span>We will use our reasonable efforts to notify you of any such changes, which will not apply to any earlier use of the Service or purchases of Games through the Service.</span></p>
+<p dir="ltr"><span>Your continued use of the our Services will be deemed acceptance of the updated or amended Privacy Policy and these variations shall become effective immediately upon being accessible. &nbsp;If you do not agree to the changes, you should cease using the Service. If there is any conflict between this Privacy Policy and any terms or specific local terms appearing elsewhere on the Service then this policy shall prevail.</span></p>
+<p dir="ltr"><span>Version 0.1 (May 2018)</span></p>
+<p dir="ltr"><span>Effective Date on May 25th, 2018</span></p>
+</div>
+</div>
+</div>
+</div></div></div><div>
+<div>
+<style><!--
+.design a{color:#00e205!important; 
+text-decoration: underline!important; }
+--></style></div></div></div>
+</div>
+</div>
+<div id="GMG_footer" class="">
+<footer>
 
-  
+<section class="footer-top" ng-controller="FooterController">
+<div class="container">
+<div class="row mid-row">
 
-
-
-
-
-
-<div id="wrapper">
-
-  
-    
-<div class="logged_out_advert">
-  <div class="joypads">
-  </div>
-  <div class="mouse">
-  </div>
-  <div class="inner">
-    <form method="GET" action="//www.playfire.com/a/register/logged_out_advert_redirect">
-      <button type="submit">Join the fun</button>
-      
-        <p><strong>Playfire</strong> is the social network for gamers. Get a gaming profile, track your stats, and meet people to play with!</p>
-      
-    </form>
-  </div>
+<div class="col-sm-4 col-lg-3 accordion-tabs" resize-accordion="">
+<div class="panel panel-heading">
+<h4 class="hidden-xs">About</h4>
+<a class="visible-xs accordion-toggle" data-toggle="collapse" data-target="#get-know" href="javascript:;">
+ About
+</a>
+<div id="get-know" class="panel-collapse collapse in">
+<ul class="links-list">
+<li>
+<a href="https://corporate.greenmangaming.com/" title="About us">About us</a>
+</li>
+<li>
+<a href="/jobs/">Careers</a>
+</li>
+<li>
+<a href="https://www.greenmangaming.com/blog/category/news/corporate-news/" title="Corporate news">Corporate news</a>
+</li>
+<li>
+<a href="/refund-policy/" title="Refund policy">Refund policy</a>
+</li>
+<li>
+<a href="/terms-and-conditions/" title="Terms &amp; conditions">Terms &amp; conditions</a>
+</li>
+<li>
+<a href="/cookie-policy/">Cookie Policy</a>
+</li>
+<li>
+<a href="/privacy-policy/">Privacy Policy</a>
+</li>
+<li>
+<a href="https://www.greenmangaming.com/zendesk/index" target="_blank" title="Help &amp; support">Help &amp; support</a>
+</li>
+<li>
+<a href="https://greenmangaming.zendesk.com/" title="+44 (0) 330 500 1515">+44 (0) 330 500 1515</a>
+</li>
+</ul>
+</div>
+</div>
 </div>
 
+<div class="co-xs-12 col-sm-4 col-lg-3 accordion-tabs support-info" resize-accordion="">
+<div class="panel panel-heading">
+<h4 class="hidden-xs">Community</h4>
+<a class="visible-xs accordion-toggle" data-toggle="collapse" data-target="#customer-support" href="javascript:;">
+Community
+</a>
+<div id="customer-support" class="panel-collapse collapse in">
+<ul class="links-list">
+<li>
+<a href="/forum/" title="Forum">Forum</a>
+</li>
+<li>
+<a href="https://www.greenmangaming.com/blog" title="News blog">Blog</a>
+</li>
+<li>
+<a href="https://www.greenmangaming.com/newsroom" title="Newsroom">Newsroom</a>
+</li>
+<li>
+<a href="/games-portal/" title="Games hub">Games hub</a>
+</li>
+<li>
+<a href="/best-games/" target="_blank" title="Best Games">Best Games</a>
+</li>
+<li>
+<a href="/content-creator-affiliate-scheme/" title="Green Team">Green Team</a>
+</li>
+<li>
+<a href="/gift-redemption/">Redeem a Gift</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-  
+<div class="col-xs-12 col-lg-3 visible-lg payment">
+<h4>Ways to pay</h4>
+<ul class="payment">
+<li class="paypal-icon">
+</li>
+<li class="visa-debit-icon">
+</li>
+<li class="visa-icon">
+</li>
+<li class="master-card-icon">
+</li>
+<li class="american-express-icon">
+</li>
+<li class="unionpay-icon">
+</li>
+<li class="sofort-icon">
+</li>
+<li class="paysafe-icon">
+</li>
+<li class="jcb-icon">
+</li>
+<li class="discover-icon">
+</li>
+</ul>
+</div>
 
-  
-  <div id="main_heading" class="theme_blurred_header small">
-    <div class="inner">
-      
-<h1 class="title no_tagline">Privacy policy</h1>
+<div class="col-sm-4 col-lg-3 hidden-xs">
+<h4>Awards</h4>
+<ul class="horizontal-list"><li> <a href="/company-info/awards-and-recognition/" title="Large eCommerce Company of the Year Award Winner &amp; Best Pureplay eCommerce Award Winner" target="_self">
+<img src="https://images.greenmangaming.com/80910fd2e0fc4626beb6b6892bd64e3a/8612ee5bd740483cb8ebbcfaa2332ff4.png" alt="Large eCommerce Company of the Year Award Winner &amp; Best Pureplay eCommerce Award Winner">
+</a>
+</li><li> <a href="/company-info/awards-and-recognition/" title="London Stock Exchange - 1,000 companies to inspire Britain" target="_self">
+<img src="https://images.greenmangaming.com/93732dd37931435cb995ab763ca6e51a/d44b0f21689745399e801e5abfa10379.png" alt="London Stock Exchange - 1,000 companies to inspire Britain">
+</a>
+</li><li> <a href="/company-info/awards-and-recognition/" title="BAFTA nominee" target="_self">
+<img src="https://images.greenmangaming.com/7add08d4f53b4544ba7aca3761a39ba6/bad24abcd5534ad89928fb83532f8bad.png" alt="BAFTA nominee">
+</a>
+</li><li> <a href="/company-info/awards-and-recognition/" title="Click to view more awards" target="_self">
+<img src="https://images.greenmangaming.com/efee7ba2468446d2897b8a0c52a34715/64d84600b0dd4a14937df4c3ebb31fe9.png" alt="Click to view more awards">
+</a>
+</li></ul>
+</div>
+</div>
+<div class="row">
 
-    </div>
-  </div>
-  
+<div class="footer-rich-text co-xs-12 col-sm-4 col-lg-3 accordion-tabs" resize-accordion="">
+<div class="panel panel-heading">
+<h4 class="hidden-xs">Reviews</h4>
+<a class="visible-xs accordion-toggle" data-toggle="collapse" data-target="#left-bottom" href="javascript:;">
+Reviews
+</a>
+<div id="left-bottom" class="panel-collapse collapse in">
 
-  
+<div class="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8807dec7e10d38f59f32" data-businessunit-id="4be84ca300006400050a0d5a" data-style-height="150px" data-style-width="100%" data-theme="dark"><a href="https://uk.trustpilot.com/review/www.greenmangaming.com" target="_blank">Trustpilot</a></div>
 
-  
+<style><!--
+    .megamenu .dropdown:nth-of-type(8) a span {
+        content: url("https://media.greenmangaming.com/misc/icon/VIP-icon.png");
+        margin-top: -3px;
+        animation: vipshine linear 4s infinite;
+    }
+    @keyframes vipshine {
+        0% {filter: brightness(1)}
+        40% {filter: brightness(1)}
+        50% {filter: brightness(1.4)}
+        70% {filter: brightness(1)}
+        100% {filter: brightness(1)}
+    }
+--></style>
+</div>
+</div>
+</div>
 
-  <div id="main_module" class="">
-    <div class="inner">
+<div class="co-xs-12 col-sm-4 col-lg-3 accordion-tabs" resize-accordion="">
+<div class="panel panel-heading">
+<h4 class="hidden-xs">Information</h4>
+<a class="visible-xs accordion-toggle" data-toggle="collapse" data-target="#find-more" href="javascript:;">
+Information
+</a>
+<div id="find-more" class="panel-collapse collapse in">
+<ul class="links-list">
+<li>
+<a href="/about-us/green-man-gaming-publishing/" title="Developers seeking publishing">Developers seeking publishing</a>
+</li>
+<li>
+<a href="/publishers-and-developers/" title="Publishers seeking retail partners">Publishers seeking retail partners</a>
+</li>
+<li>
+<a href="/content-creator-affiliate-scheme/" title="Affiliates - Influencers / Streamers">Affiliates - Influencers / Streamers</a>
+</li>
+<li>
+<a href="/affiliates/" title="Affiliates - Website / Blog">Affiliates - Website / Blog</a>
+</li>
+<li>
+<a href="/student-discount/" title="Student Discount">Student Discount</a>
+ </li>
+</ul>
+</div>
+</div>
+</div>
 
-      <div id="main_module_content">
-        
-<div id="static_page_content" class="copy">
-  
+<div class="co-xs-12 col-sm-4 col-lg-3 visible-lg visible-xs accordion-tabs social-media" resize-accordion="">
+<div class="panel panel-heading">
+<h4 class="hidden-xs">Follow us</h4>
+<a class="visible-xs accordion-toggle" data-toggle="collapse" data-target="#follow" href="javascript:;">
+Follow us
+</a>
+<div id="follow" class="panel-collapse collapse in">
+<ul>
+<li class="blogger-icon">
+<a href="https://www.greenmangaming.com/blog" class="blogger-icon">
+</a>
+</li>
+<li>
+<a href="http://twitter.com/greenmangaming" class="twitter-icon">
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/GreenManGaming" class="facebook-icon">
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCbONsRevt2_YIN6sLigGIzQ" class="youtube-icon">
+</a>
+</li>
+<li>
+<a href="https://www.twitch.tv/greenmangaming" class="twitch-icon">
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/117700879434967805412" class="gplus-icon">
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/greenmangaming/" class="instagram-icon">
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-<p>This is the website of <strong>Playfire Ltd</strong>.</p>
+<div class="co-xs-12 accordion-tabs language-setting visible-xs" resize-accordion="" ng-cloak="">
+<div class="panel panel-heading">
+<a class="visible-xs accordion-toggle" data-toggle="collapse" data-target="#language">
+<div class="globe-icon"></div>
+<span ng-if="currentLanguageCode == 'en'">English</span>
+<span ng-if="currentLanguageCode == 'de'">Deutsch</span>
+<span ng-if="currentLanguageCode == 'es'">Español</span>
+<span ng-if="currentLanguageCode == 'pt'">Português</span>
+</a>
+<div id="language" class="panel-collapse collapse in">
+<ul>
+<li>
+<a ng-click="changeLanguage('en')" ng-class="{'active': currentLanguageCode == 'en'}">
+English
+</a>
+</li>
+<li>
+<a ng-click="changeLanguage('de')" ng-class="{'active': currentLanguageCode == 'de'}">
+Deutsch
+</a>
+</li>
+<li>
+<a ng-click="changeLanguage('es')" ng-class="{'active': currentLanguageCode == 'es'}">
+Español
+</a>
+</li>
+<li>
+<a ng-click="changeLanguage('pt')" ng-class="{'active': currentLanguageCode == 'pt'}">
+Português
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="col-sm-4 col-lg-3 hidden-xs">
+<h4>Associations</h4>
+<ul class="horizontal-list"><li> <a href="http://futurefifty.com/" title="Future Fifty" target="_self">
+<img src="https://images.greenmangaming.com/13326e9dc7734c97abf94419a723693f/d5c31c84e3fa450fa8e49e925931eec0.jpg" alt="Future Fifty">
+</a>
+</li><li> <a href="http://ukie.org.uk/" title="UKIE" target="_self">
+<img src="https://images.greenmangaming.com/b696dee75e6d4db0978496c7222b7f5b/5d424d1e49e240fb8847478536f5e808.png" alt="UKIE">
+</a>
+</li><li> <a href="http://www.fairplayalliance.org/" title="Fair Play Alliance" target="_self">
+<img src="https://images.greenmangaming.com/cd0b586c27194676bc855e2f35116441/4f549f3c129548ad8aa07b9edb911273.png" alt="Fair Play Alliance">
+</a>
+</li></ul>
+</div>
+</div>
+<div class="row bottom-row">
+
+<div class="col-sm-12 hidden-lg hidden-xs social-media">
+<h4 class="hidden-xs">Follow us</h4>
+<div id="follow">
+<ul>
+<li class="blogger-icon">
+<a href="https://www.greenmangaming.com/blog" class="blogger-icon">
+</a>
+</li>
+<li>
+<a href="http://twitter.com/greenmangaming" class="twitter-icon">
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/GreenManGaming" class="facebook-icon">
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCbONsRevt2_YIN6sLigGIzQ" class="youtube-icon">
+</a>
+</li>
+<li>
+<a href="https://www.twitch.tv/greenmangaming" class="twitch-icon">
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/117700879434967805412" class="gplus-icon">
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/greenmangaming/" class="instagram-icon">
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-xs-12 col-lg-3 hidden-lg payment">
+<ul class="payment">
+<li class="paypal-icon">
+</li>
+<li class="visa-debit-icon">
+</li>
+<li class="visa-icon">
+</li>
+<li class="master-card-icon">
+</li>
+<li class="american-express-icon">
+</li>
+<li class="unionpay-icon">
+</li>
+<li class="sofort-icon">
+</li>
+<li class="paysafe-icon">
+</li>
+<li class="jcb-icon">
+</li>
+<li class="discover-icon">
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<section class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9 footer-info">
+<div class="info-int">
 <p>
-  <strong>Our postal address is:</strong><br>
-  Hamilton House<br>
-  Mabledon Place<br>
-  London<br>
-  WC1H 9BB<br>
+©2018 Green Man Gaming Limited. US Patent Pending. All rights Reserved.
 </p>
-<p>We can be reached via e-mail at <a href="mailto:privacy@playfire.com">privacy@playfire.com</a></p>
-<p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p>
-<p>We collect the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address.</p>
-<p>The information we collect is used to improve the content of our Web site and used to notify consumers about updates to our Web site.</p>
-<p>With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.</p>
-<p>If you do not want to receive e-mail from us in the future, please let us know by clicking on the settings link in the primary navigation and unchecking the box for e-mail notifications.</p>
-<p>With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.</p>
-<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
-<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
-
-
+<p>
+Trademarks are property of their respective owners.
+</p>
 </div>
-
-      </div>
-
-    </div>
-  </div>
-
-  
-    <div class="back-to-top">
-      <a href="#">
-        <span>back to top</span>
-        <img src="//b.pfcdn.net/static/images/icons/back-to-top-arrow.png" alt="Back to the top">
-      </a>
-    </div>
-  
-  
-
 </div>
-
-<div id="footer" class="no_feedback">
-  <div class="inner clearfix">
-
-    
-    
-    
-
-    <div id="footer_content">
-
-      <ul class="links clearfix">
-
-        <li>
-          <h6>Navigation</h6>
-          <ul>
-            <li><a href="//www.playfire.com/">Home</a></li>
-            
-            <li><a href="//www.playfire.com/buzz">Buzz</a></li>
-            
-          </ul>
-        </li>
-
-        <li>
-          <h6>About us</h6>
-          <ul>
-            <li><a href="//www.playfire.com/a/about">About us</a></li>
-            <li><a href="http://blog.playfire.com/">Blog</a></li>
-            <li><a href="http://www.greenmangaming.com/jobs/">Jobs</a></li>
-            <li><a href="http://github.com/playfire">Code</a></li>
-          </ul>
-        </li>
-
-        <li>
-          <h6>General</h6>
-          <ul>
-            <li><a href="http://playfire.zendesk.com">Help</a></li>
-            <li><a href="//www.playfire.com/a/terms">Terms of use</a></li>
-            <li><a href="//www.playfire.com/a/privacy">Privacy policy</a></li>
-          </ul>
-        </li>
-
-      </ul>
-
-      <div class="text">
-        <h5>Playfire</h5>
-        <p>
-          Playfire is the global community for gamers. Get a killer profile, track news &amp; discussion
-          for your favorite games, and follow your friends' progress in games.
-        </p>
-        <p>© 2007-2016 Playfire Ltd.</p>
-      </div>
-
-    </div>
-
-  </div>
+<div class="col-xs-12 col-sm-5 col-md-4 col-lg-3 logos-bottom">
+<div class="info-int">
 </div>
+</div>
+</div>
+</div>
+</section>
+</footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  if (window.location.href.lastIndexOf("isThirdPartyRedemption=true") !== -1) {
+    document.getElementById("GMG_header").style.display = 'none';
+    document.getElementById("GMG_footer").style.display = 'none';
+  }
+</script>
+
+<div class="modal fade" role="dialog" aria-labelledby="moreinfoModal" id="moreinfo-modal" ng-controller="ErrorModalController">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span>
+</button>
+<h1 class="modal-title" ng-bind="header"></h1>
+</div>
+<div class="modal-body">
+<div class="row moreinfo-content">
+<div class="col-xs-2 text-center moreinfo-icon">
+<img src="https://images.greenmangaming.com/static/img/css/icon-moreinfo.png" alt="Info">
+</div>
+<div class="col-xs-10">
+<p ng-bind="text"></p>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">
+OK
+</button>
+</div>
+</div>
+</div>
+</div> 
+<div ng-controller="CancelPendingOrderModalController">
+<ng-include ng-if="loadCancelPendingOrderModal" src="'/en/Modals/CancelPendingOrderModal/330549'" onload="openModal()">
+</ng-include>
+</div>
+<div ng-controller="GreenGuardModalController">
+<ng-include ng-if="allowGreenGuard" src="url" onload="openModal()"></ng-include>
+</div>
+<script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Open+Sans:300,400,700,800:latin' ] },
+        custom: {
+          families: ['Green Man Gaming'],
+          urls: ['https://images.greenmangaming.com/static/css/fonts.3f68da8e.css']
+        }
+      };
+    </script>
+<script type="text/javascript">
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<div id="fb-root"></div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular-animate.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular-cookies.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular-resource.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular-sanitize.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular-route.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular-scroll/1.0.2/angular-scroll.min.js"></script>
 
 
+<script src="https://images.greenmangaming.com/static/scripts/main.c8754767.js"></script>
+<script src="https://images.greenmangaming.com/static/scripts/muutio.min.js" async="" onload="window.MuutServiceHelper.notify('Muutio loaded!!!!!')"></script>
 
-
-    <script type="text/javascript" src="//b.pfcdn.net/static/js/jquery.js"></script>
-    
-      <script type="text/javascript" src="//b.pfcdn.net/static/js/jquery-ui.js?789819"></script>
-    
-    
-    <script type="text/javascript" src="//a.pfcdn.net/static/js/playfire.js?789819"></script>
-
-    
-
-    
-
-    
-
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"73c001910b","agent":"","transactionName":"NgNbYkMDChJRWkMNCw9Jf0NfARAIX1cYA1AMA0sYQhYFFVlaGRINBBFKDEIWBRVZWg==","applicationID":"3014101","errorBeacon":"bam.nr-data.net","applicationTime":31}</script>
+<script>
+    var bablic = window.bablic || {};
+    bablic.noSEO = true;
+  </script>
 
 </body></html>
