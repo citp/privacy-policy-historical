@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyreviewguide.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626164933id_/https%3A//familyreviewguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyreviewguide.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227005006id_/https%3A//familyreviewguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family Review Guide
 
@@ -71,7 +71,7 @@ You can prevent analytics software from tracking your visits to this site by ena
 
 The following services are used to track visitor information:
 
-  * Google Analytics ([privacy policy](http://www.google.com/privacypolicy.html))
+  * Google Analytics ([privacy policy](https://www.google.com/privacypolicy.html))
   * wordpress.com ([privacy policy](https://automattic.com/privacy/))
 
 
