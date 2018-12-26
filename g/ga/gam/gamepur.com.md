@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepur.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822184452id_/https%3A//www.gamepur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepur.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226015159id_/https%3A//www.gamepur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,16 +12,16 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-We also use third party advertisements on www.gamepur.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+We also use third party advertisements on www.gamepur.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites. 
+Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline  
- **  
-Disclaimer:** Whatever download provided on gamepur.com is not hosted on it, these download are hosted on some other website on internet. gamepur.com doesn't host any download it just provide you the download link which are hosted on the third party website which in turn might have a fourth party link on the internet. We want our visitor to know that we don't have any association or tie-up with these website. We are against any knid of malpractice and illegal things and if you found anything on gamepur.com please report the matter to us on webmaster(at)gamepur.com. Appropriate action will be taken after a through investigation and you will be given complete information about the action taken, bcause visitor satisfaction is our only motto. So ep us to help you.
+This online privacy policy applies only to information collected through our website and not to information collected offline
+
+ **Disclaimer:** Whatever download provided on gamepur.com is not hosted on it, these download are hosted on some other website on internet. gamepur.com doesn't host any download it just provide you the download link which are hosted on the third party website which in turn might have a fourth party link on the internet. We want our visitor to know that we don't have any association or tie-up with these website. We are against any knid of malpractice and illegal things and if you found anything on gamepur.com please report the matter to us on webmaster(at)gamepur.com. Appropriate action will be taken after a through investigation and you will be given complete information about the action taken, bcause visitor satisfaction is our only motto. So ep us to help you.
 
 By using our site, you consent to our privacy policy. If we decide to change our privacy policy, we will  post those changes on this page send an email notifying you of any changes If there are any questions regarding this privacy policy you may contact us:
 
-**By e-mail:** webmaster(at)gamepur.com
+ **By e-mail:** webmaster(at)gamepur.com
