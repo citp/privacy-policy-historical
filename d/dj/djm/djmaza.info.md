@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djmaza.info privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324205828id_/https%3A//www.djmaza.info/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmaza.info privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024107id_/https%3A//www.djmaza.us/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy Page - DJMaza.Info
 
