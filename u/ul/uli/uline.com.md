@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630164445id_/https%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024102id_/https%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
-Skip to Main Content
+  * Skip to Main Navigation
+  * Skip to Main Content
+  * Skip to My Account
+  * Skip to Footer
+
+
 
 Uline is committed to the privacy of its customers. This Privacy Policy applies to information collected through our websites and employees.
 
@@ -14,4 +19,4 @@ Please [contact Uline](https://web.archive.org/CustomerService/ContactUs_Menu) i
 
 In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined above. These changes will be posted to the website, and users are invited to occasionally review the Privacy Policy.
 
-06/30/2018 11:44:45 AM; USWEB7 -0-0/0.0-1
+12/25/2018 08:41:02 PM; USWEB6 -102175462-0/0-1
