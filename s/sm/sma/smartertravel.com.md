@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626110135id_/https%3A//www.smartertravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226191015id_/https%3A//www.smartertravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SmarterTravel
+# Privacy Policy | SmarterTravel
 
-**Privacy Policy**
+This Privacy Policy was last updated on September 19, 2017.
 
-This Privacy Policy was last changed on September 19, 2017.
-
-Thank you for using SmarterTravel.com website or mobile properties, including related applications (collectively, the “Site”), which are provided by Smarter Travel Media LLC (“SmarterTravel.). The terms “we”, “us”, “our” and “SmarterTravel” refer collectively to Smarter Travel Media LLC and/or our affiliates and subsidiaries. The term “you” refers to the customer visiting the Site and/or contributing content on this Site.”
+Thank you for using the SmarterTravel.com website or mobile websites and other platforms, including related applications (collectively, the “Site”), which are provided by Smarter Travel Media LLC (“SmarterTravel”). The terms “we”, “us”, “our” and “SmarterTravel” refer collectively to Smarter Travel Media LLC and/or our affiliates and subsidiaries. The term “you” refers to the customer visiting the Site and/or contributing content on this Site.
 
 **Overview**
 
@@ -64,16 +62,6 @@ SmarterTravel may share your information with the following entities:
   * Companies within our corporate family. We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
 
 
-
-We also may share your information if we believe, in our sole discretion, that such disclosure is necessary…
-
-  * To comply with legitimate and enforceable subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
-  * To investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of TripAdvisor, our customers, or others; and in connection with our [Terms of Use](https://www.tripadvisor.com/pages/terms.html) and other agreements.
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
-
-
-
-Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.
 
 We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our Site receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest. We also may share your information if we believe, in our sole discretion, that such disclosure is necessary:
 
@@ -189,7 +177,7 @@ California Civil Code Section 1798.83 permits California residents to request ce
 
 **Notification of Changes**
 
-SmarterTravel may change or modify this Privacy Policy in the future. We will note the date that revisions were last made to this Privacy Policy at the bottom of this page, and any revisions will take effect upon posting. We will notify our members of material changes to this Privacy Policy by either sending a notice to the email address you provided to us or by placing a notice on our Website. We encourage you to check this Privacy Policy from time to time to review the most current version.
+SmarterTravel may change or modify this Privacy Policy in the future. We will note the date that revisions were last made to this Privacy Policy at the top of this page, and any revisions will take effect upon posting. We will notify our members of material changes to this Privacy Policy by either sending a notice to the email address you provided to us or by placing a notice on our Website. We encourage you to check this Privacy Policy from time to time to review the most current version.
 
 **Business Assets**
 
