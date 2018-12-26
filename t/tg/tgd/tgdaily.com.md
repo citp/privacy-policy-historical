@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tgdaily.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618142721id_/http%3A//www.tgdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgdaily.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226232100id_/https%3A//www.tgdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# TG Daily
-
-### Privacy Policy
+# TGDaily Home
 
 #### TG Daily Privacy Policy
 
@@ -69,5 +67,3 @@ TG Daily reserves the right to transfer any information accumulated as described
 #### Privacy Policy Changes
 
 This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page. If there is a significant change, we will indicate it on our sites and provide a link to the new policy.
-
-### Get the latest tech sent directly to your inbox!
