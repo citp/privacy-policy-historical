@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626083419id_/https%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226163058id_/https%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Information
 
@@ -93,7 +93,7 @@ You can deactivate this tracking at any time by [following the instructions on t
 
 We use the “Webtrekk" tool from Webtrekk GmbH for statistical evaluations of our website. A cookie is used to transmit the relevant information to the Webtrekk tool. The evaluation takes place on an exclusively anonymized basis, in which the last 8 bits of your IP address are deleted and therefore anonymized for subsequent data processing.
 
-The data capture and storage by Webtrekk can be stopped at any time by [following the instructions on the Webtrekk website](https://www.webtrekk.com/en/legal/praeferenz-basierte-werbung/ "following the instructions on the Webtrekk website").
+The data capture and storage by Webtrekk can be stopped at any time by [clicking this link](https://www.native-instruments.com/en/company/legal-information/privacy-policy/#)
 
 **(ee) Zendesk**
 
