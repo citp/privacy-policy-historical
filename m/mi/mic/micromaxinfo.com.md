@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618191156id_/http%3A//www.micromaxinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226032101id_/http%3A//www.micromaxinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Micromax India | Smartphones, Mobile Phones, Tablets, Laptops, LED TV, Data Card
 
@@ -56,8 +56,8 @@ Due to the existing regulatory environment, we cannot ensure that all of your pr
 
 ## Warning Notice
 
-It has come out to our notice that some unscrupulous persons are sending bulk SMS messages to mobile phone users; deceptively and falsely informing the recipients that they have won huge sums of money from Micromax Company, London and for their claims they should email their particulars to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or visit their website www.micromaxawardcenter.page4.me.
+It has come out to our notice that some unscrupulous persons are sending bulk SMS messages to mobile phone users; deceptively and falsely informing the recipients that they have won huge sums of money from Micromax Company, London and for their claims they should email their particulars to micromax@w.cn or visit their website www.micromaxawardcenter.page4.me.
 
 ## Feedback
 
-At **MICROMAX** , we welcome your questions and comments regarding our privacy policy. You may contact at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b72757d745b7672786974767a6372757d7435787476)
+At **MICROMAX** , we welcome your questions and comments regarding our privacy policy. You may contact at [info@micromaxinfo.com](mailto:info@micromaxinfo.com)
