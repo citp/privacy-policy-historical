@@ -1,139 +1,172 @@
-> *The following text is extracted and transformed from the brightside.me privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119001556id_/https%3A//brightside.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightside.me privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226192725id_/https%3A//brightside.me/privacy) for the most accurate reproduction.*
 
-# Политика конфиденциальности
+# Privacy policy
 
 ## Privacy Policy
 
-Welcome to our Privacy Policy (henceforth, _“this Policy”_ ). We have compiled this Policy to help you better understand the nature of your relationship with us and enable you to make informed decisions about certain aspects of our relationship. Because of that, we encourage you to read this Policy carefully. You continued use of our website confirms your agreement with this Policy. 
+Last updated on 25 May, 2018 
 
-We understand and respect your concerns about the privacy of your personal information. Because of this and because trust is the main building block of our business, we wish to explain some of the key principles underpinning this Policy. This Policy is intended to attain the following objectives: 
+Welcome to the Privacy Policy of *Bright Side. The privacy of our website visitors is very important to us, and we are committed to safeguarding it. This policy explains what we will do with your personal information. 
 
-  * ensure that you understand what kind of information about you we collect with your permission;
-  * explain what we do with such information; and
-  * hold us accountable for protecting your rights and your privacy under this Policy.
+_*Bright Side (« _our Website_ ») is owned and operated by ADME (CY) LTD (« _we_ », « _us_ », or « _our_ »). _
 
+### 1\. Types of Personal Information That Might Be Collected
 
+When you visit our Website, the following types of *Personally Identifiable Information (as such term is explained at the end of this Section) about you may be collected: 
 
-### Personal Information We Collect
-
-As used in this Policy, “personal information” is understood as all data that relates to an identifiable human being whose identity is apparent, or can reasonably be inferred, from the data. 
-
-Our website does not collect your personal information, with the exception of your IP address and certain information collected by Google Analytics, as will be explained below. In addition, our website may be detecting non-personally identifiable geo-location information to optimize our service, however our website does not collect your precise geo-location or associate the detected geo-location data with a specific user. We do not sell your personal information to advertisers or other third parties. In certain instances, we may request your email address to communicate with you. If this happens, your email address will only be used to communicate with you and deleted upon your request. 
-
-### Use of IP Addresses and Browser Settings
-
-When you visit our website, we register the IP address and browser settings of your computer or other device. The IP address is the numerical address of your computer or other device used to visit our website. Browser settings can include the type of browser you use, browser language and time zone. We collect this information so that we can trace the computer or device used in cases of misuse or unlawful actions in connection with visits to or use of our website. Moreover, we may collect this information for various internal business purposes, such as: 
-
-  * generating statistics;
-  * measuring traffic and popularity of content areas;
-  * gathering broad demographic data for prospective advertisers;
-  * identifying usage trends and expanding our business activities;
-  * general data analysis and administering our site and affiliated sites;
-  * improving or modifying our website, developing new services and functionality; and
-  * complying with applicable legal requirements and legal process, requests from governmental authorities, relevant industry standards and our internal policies. 
+  * your IP address;
+  * your operating system and browser software used to access our Website;
+  * other information, as will be explained in Section 4 ( _With Whom We  Share Information_) below;   
+and
+  * in the event you contact us by email, we may keep a record of that correspondence; such record may include, apart from your email address, the Personally Identifiable Information that you will include in the communication.
 
 
 
-We may also use your IP address and browser settings in other manners and for other purposes for which we will provide specific notice on this website at the time of collection. We may use or disclose your IP address and browser settings for any legitimate purpose to the extent permitted by applicable law. 
+Such data are collected by Our Partners (as such term is explained in Section 4).
 
-### Google Analytics
+If you wish to register on our Website in order to receive our subscription-based services, we will ask you to provide the following data:
 
-We use a tool commonly known as “Google Analytics”, an industry standard analytics tool operated by Google, to collect information about use of our website. We also rely on Google Analytics for purposes of display advertising and personalized advertising, as such terms will be explained below. Google Analytics collects information such as how often users visit our website and what other sites they visited prior to reaching our website. We use the information we obtain from Google Analytics for the purposes of improving our website. 
-
-Google Analytics collects only the IP address assigned to your computer or other device and your browser settings on the date you visit our website, rather than your name or other identifying information. We never combine the information collected through the use of Google Analytics with any other kind of personally identifiable information. Although Google Analytics will usually plant a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, such cookie cannot be used by anyone but Google. The ability of Google to use and share information collected by Google Analytics about your visits to our website is restricted by the [ Google Analytics Terms of Use ](https://www.google.com/analytics/tos.html) and the [Google Privacy Policy](https://www.google.com/privacypolicy.html). Please note that you can prevent Google Analytics from recognizing you on return visits to our website by disabling cookies on the browser of your computer or device. 
-
-### Cookies
-
-We may use cookies in order to customize our website for return visitors. These cookies are not required for website functionality. In addition, third-party ad networks and our business partners, such as Facebook or YouTube, may install cookies depending on their configuration. You are not required to accept cookies in order to be able to use our website. Please note, further, that many web browsers contain a feature allowing you to manage your preferences with respect to cookies. More specifically, you can set your browser to refuse certain cookies or delete them entirely. You may be able to manage other technologies in the same way that you manage cookies using your browser’s preferences. On the other hand, please be mindful that if you choose to block cookies, doing so may prevent certain features on our website from functioning. 
-
-A cookie is a small file placed on your computer or other device when you visit a website that can be understood by the website that issued the cookie. We and Our Partners (as such term is explained in the next section) use the information collected by cookies to remember who you are to log you in and your preferences, to serve content tailored to your needs or interests and to assess how our website is used. You can accept or decline cookies through your browser settings. To learn more, please look at the cookie settings available in your specific web browser(s). 
-
-### Display Advertising (Also Known as Third-Party Advertising) on Our Website
-
-We may allow third parties, including carefully selected ad networks and business partners of TheSoul Publishing (henceforth, _“Our Partners”_ ), to display advertising on our website. Because of that, our website may display advertisements from Our Partners that link to websites of Our Partners. We cannot control or be held responsible for privacy practices and content of Our Partners. We encourage you to read their privacy policies to find out how they collect and process your personal information. 
-
-In addition, some of Our Partners may recognize your computer or device through cookies or other technologies each time they send you an online ad. This enables them to understand where you, or others who are using your computer or other device, saw their advertisement and to deliver ads that they believe may be of interest to you. 
-
-### Personalized Advertising (Formerly Known as Interest-Based Advertising)
-
-Our website permits Our Partners to collect certain information about you to provide personalized advertising to you. Our Partners are leading digital performance-based advertising groups which put great effort in making sure that your personal information is safe and used properly. They may be collecting from your computer or device certain information, such as: 
-
-  * your gender;
-  * your age;
-  * your location; and
-  * areas of your interests.
+  * your email address;
+  * your gender;   
+and
+  * your date of birth.
 
 
 
-In addition, they may be collecting certain information related to your PC, laptop, mobile phone or other device attributes and traffic/session information, such as: 
+In addition, when subscribing for any of the services offered on our Website you will be requested to identify your display name and choose your profile image which may be an avatar or a photo. The display name is what will be displayed next to your comments on our Website. We strongly encourage you not to use your real-life name and/or surname as your display name. 
 
-  * the model of your computer or device;
-  * the make of your computer or device;
-  * your computer or device agent details;
-  * the ID of your computer or device;
-  * session durations; and
-  * activity information.
+We never share with third parties any of the data supplied by you as part of subscription-based services/registration. 
 
+### 2\. Ways Personal Information Might Be Used
 
+_Use of  Personal Data by Us._ We collect and use your Personally Identifiable Information for the following legitimate business purposes of ADME (CY) LTD and the group of companies to which it belongs: 
 
-### __Use of Information Toward Personal Advertising__
-
-The information collected by Our Partners is used to analyze trends, understand user activities and gather demographic information to enable, manage and develop their personalized ads and related services. Our Partners may share such information with their affiliates. To do this, Our Partners use technologies such as cookies and web beacons to collect information about your interaction with our website and third-party websites. This type of information does not identify you personally and, typically, is aggregated with other data to create segments – groups of users and general interest categories that are inferred based on a range of factors (for example, “sports fan”). Our Partners use this information to form a more accurate picture of the interests of the audiences with which they interact – including you – so that their ads are more relevant to those interests. 
-
-In addition, Our Partners may use the information collected from these types of cookie or similar technologies for a variety of other purposes, including: 
-
-  * in conjunction with advertising that appears on other third-party websites;
-  * to measure the effectiveness of web-based and email advertisements; and
-  * for reporting website traffic, statistics, advertisement data and other interaction with ads and the websites on which they are served. 
+  * to carry out general data analysis and to administer our Website and affiliated sites;
+  * to generate statistics and measure web traffic and popularity of specific areas of our Website;
+  * to identify usage trends and expand our business activities;
+  * to build higher quality and develop more useful services by performing statistical analyses of the collective characteristics and behavior of our users
+  * to improve or modify our Website, develop new services and functionality;
+  * to comply with applicable legal requirements, legal process and relevant industry standards, and satisfy requests by governmental and supervisory authorities;   
+and
+  * to identify and prevent fraud.
 
 
 
-Our Partners retain your information in accordance with their legitimate business purposes for processing. Thereafter, the information is removed, archived for restricted legitimate interests, or anonymized. Non-identifying information may be kept without time and use limitations. 
+Additionally, if you choose to register on our Website in order to receive our subscription-based services, your Personally Identifiable Information will be used in order to communicate with you. 
 
-We do not have access to or control over cookies or other features that Our Partners may use, and the information practices of Our Partners and third-party websites are not covered by this Policy. Please contact them directly for more information about their privacy practices. 
+If, at any time, you decide to unsubscribe from receiving future emails, detailed unsubscribe instructions will be displayed at the bottom of each email. 
 
-### __Why Would You Want to Receive Personalized Ads?__
+_Use of  Personal Data by Our Partners._ Our Partners (as such term is explained in Section 4, With Whom We Share Information) may be collecting and using your Personally Identifiable Information to tailor the content that advertisers display to you, including building relevant data segments based on what you click and view and when or how many times you have viewed it; for these purposes, they use the information collected by technologies, such as pixel tags or cookies, to improve the services provided by third-party advertising companies, which include Google. The list of Google partners can be viewed at [partners](https://web.archive.org/partners/). 
 
-Consumers like to receive personalized ads for many different reasons. Personalized ads are helpful because they are more tailored to your particular interests. Personalized ads are more likely to help you discover new products and services that are actually relevant to you and your interests. In short, receiving personalized ads can help improve your access to new products, services and features that are most relevant to you. Moreover, you will not see the same ads over and over, because the number of times you see a particular personalized ad is limited. By opting-out of personalized ads, you lose all of these benefits. 
+### 3\. What You Agree to by Using Our Website
 
-### __Opting-Out of Receiving Personalized Ads__
+We will ask for your consent and agreement that we may collect and use your Personally Identifiable Information in accordance with this Privacy Policy, and as permitted or required by law. You are free to refuse to give consent or to withdraw the consent that you had given. Please note, however, that if you refuse or withdraw your consent some of the features available on our Website may not be available to you. Please note that we may also rely on legitimate interests or fulfillment of a contract to continue processing your Personally Identifiable Information. **Consent can be  withdrawn at any time by navigating to consent and clicking the box to remove consent.**
 
-If you do not want our website to show you personalized ads please be advised to do any of the following:
+Please understand that, if you decide to register on our Website in order to receive our subscription-based services, by submitting any Personally Identifiable Information to us, you are giving consent and agreeing that we may collect and use all Personally Identifiable Information that you submit in accordance with this Privacy Policy and as permitted or required by law. If you do not agree with these terms, please do not provide any Personally Identifiable Information to us. 
 
-  * use Google’s service enabling opt out of seeing personalized ads by clicking [ Google Ads Help for opting out of seeing personalized ads ](https://support.google.com/ads/answer/2662922) and follow the instructions; 
-  * use the general opt out mechanism from third party advertisers who are members of the Network Advertising Initiative (NAI) by clicking [ NAI Opt Out of Interest-Based Advertising ](https://optout.networkadvertising.org/#!/) and follow the instructions; or 
-  * disable and delete cookies from the browser settings of your computer or device as follows: 
-    * for Internet Explorer, click [ Microsoft Support for deleting and managing cookies ](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) and follow the instructions; 
-    * for Firefox, click [ Firefox Support for disabling cookies and changing cookie settings ](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) and [ Firefox Support for deleting cookies to remove the information websites have stored on your computer ](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored) and follow the instructions; 
-    * for Google Chrome, click [ Google Chrome Help to clear, enable, and manage cookies in Chrome ](https://support.google.com/chrome/answer/95647) and follow the instructions; or 
-    * for Safari, click [ Safari Help for managing cookies and website data ](https://help.apple.com/safari/mac/8.0/#/sfri11471) and follow the instructions. 
+Before using Personally Identifiable Information for a purpose other than any of the purposes set out in the preceding Section 2 (Ways Personal Information Might Be Used) we will request your explicit consent. 
 
+### 4\. With Whom We Share Information
 
+Except as set forth in this Policy or as explicitly agreed by you, **we  will not disclose any of your Personally Identifiable Information.** In addition to the other uses set forth in this Policy, we may disclose and otherwise use Personally Identifiable Information as described below. 
 
-Please note that if you choose to opt-out, your opt-out will be managed through the use of cookies. If you delete these cookies or use a different browser or computer, you will have to make this same selection again. 
+_Our Partners._ We allow third parties, including carefully selected ad networks and business partners (referred to as « _Our Partners_ »), to display advertising on our Website. Our Partners may, for instance, collect, use and share your information to make or help us make predictions about your interests, and may provide you with offers, promotional materials, and advertisements. In addition, Our Partners may be collecting certain information related to your PC, laptop, mobile phone or other device attributes and traffic/session information. Our Website permits Our Partners to collect your Personally Identifiable Information to provide personalized advertising to you. Our Partners are leading digital performance-based advertising groups which put great effort in making sure that your personal information is safe and used properly. 
 
-### Plugins
+_Service Providers._ Your information may be collected by entities that provide services to us, including companies that deliver web analytics, data processing, data enhancement and customer insights, advertising, email distribution, and other services. 
 
-Our website may have “plugins” (such as the Facebook “Like” button) to third party sites or offer login (such as log in with Facebook) through a third-party account. Third party plugins and login features, including their loading, operation and use, are governed by the privacy policy and terms of use of the third party providing them. 
+_Other Parties (when required by  law or as necessary to protect our services)._ We may disclose your information (including Personally Identifiable Information) to other parties in order to: 
 
-### Other Situations
-
-We may disclose your IP address and other information about you:
-
-  * as part of the sale of one of our websites to another company;
-  * to protect and defend the rights and property of TheSoul Publishing Group (including with respect to enforcing our Terms and Conditions); and 
-  * when required by law, a governmental authority or by a court order.
+  * protect our legal rights or property, the legal rights or property of our affiliates, and sites or services we work with;
+  * protect the rights, safety and security of our users, ourselves, or any other person or entity;
+  * prevent fraud (or for risk management purposes);   
+or
+  * comply with applicable legal requirements, legal process or request for cooperation by a governmental or supervisory authority, whether or not legally required. For example, we may be required to disclose your information to meet national security or law enforcement requirements.
 
 
 
-### Contact Us
+_Other Parties (in  connection with transfer of assets)._ If we make a sale or transfer of assets, or are otherwise involved in a merger or transfer (or due diligence related to such a transaction), or in the unlikely event of bankruptcy, we may transfer your Personally Identifiable Information as part of that transaction. 
 
-If you have questions or concerns regarding the privacy of your personal information or this Policy, please contact us directly as specified on the contact form for this website. 
+_Use for Analytical and Ad  Serving Purposes._ We use standard tools common within the industry, such as Google Analytics, to collect information about use of our Website. These tools collect information such as how often you visit our Website and what other sites you visited prior to reaching our Website. We use the information we obtain from analytical tools for the purposes of improving our Website. The analytical tools collect only the IP address assigned to your computer or other device and your browser settings as of the moment you visit our Website, rather than your name or other identifying information. 
 
-### Security
+We also use standard tools common within the industry, such as DoubleClick for Publishers operated by Google, enabling placement and management of personalized advertising services on our Website. These tools use cookies to target advertising based on what is relevant to you as a user to improve advertising and to avoid showing ads that you have already seen. Cookies themselves contain no Personally Identifiable Information. They relate to your web activity, rather than your identity. Tools such as DoubleClick will send a cookie to your web browser after any impression, click, or other activity by you on our servers. If your web browser accepts the cookie, the cookie will be planted on your web browser. DoubleClick will usually send a cookie to your web browser when you visit any webpage displaying DoubleClick ads. Webpages containing DoubleClick ads include ad tags that instruct web browsers to request ad content from our servers. When the server delivers the ad content, it will also send a cookie. 
 
-We seek to use reasonable organizational, technical and administrative measures to protect your IP address and other personal information within our organization and we regularly monitor our system for vulnerabilities. However, since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of information about you. Please note that electronic communication, particularly email, is not necessarily secure against interception. For these reasons, we request that you refrain from sending to us any personal data about you or any other individuals through world wide web, unless strictly necessary. 
+Finally, our Website relies on common industry tools Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting. These tools help us understand the composition of viewers of our Website in terms of gender, age and interests. We need this information in order to understand what types of creative content we need to develop to suit the interests of different demographic and interest groups. In addition, Our Partners may need this information to develop marketing content. You may, at any time, opt out of Google Analytics tracking, including Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting, by installing the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout/). You may also opt out of ad serving through [Google’s opt-out page](https://adssettings.google.com/u/0/authenticated). 
 
-### Changes to this Policy
+The personal data privacy aspects of all Google products, services and features, including Google Analytics and DoubleClick, are covered by [Google Privacy Policy](https://policies.google.com/privacy). Please be assured that we never combine the information collected through the use of Google Analytics or DoubleClick with any other Personally Identifiable Information. Moreover, permanent cookies planted on your web browser by Google products to identify you as a unique user the next time you visit our Website, cannot be used by anyone but Google. The ability of Google to use and share information collected by Google Analytics or DoubleClick about your visits to our Website is restricted by [DoubleClick Terms and Conditions](https://www.google.com/intl/en_ALL/doubleclick/tos/dfp-api-terms.html), [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and [Google Privacy Policy](https://www.google.com/privacypolicy.html). 
 
-If we decide to amend this Policy, we will post the amendments on this website prior to such amendments becoming effective. In addition, we will indicate the effective date when this Policy will be amended. You will then have an opportunity to decide whether you wish to continue using our website under the amended Privacy Policy. 
+You can opt out of ads personalization using Google’s Ads Settings by following the instructions contained on the following resource of Google — [Google Ads Settings](https://www.google.com/privacypolicy.html). If you choose to opt out of ads personalization, you will no longer receive personalized advertising. 
+
+### 5\. Cross-Border Transfer of Information
+
+We generally maintain centralized servers and systems in Europe and may maintain servers and systems elsewhere. These servers and systems are managed by us or on our behalf, or by our affiliates located in Europe. 
+
+In the event of transfer and processing of your Personally Identifiable Information outside the EEA for the purposes described above, we will ascertain that the information receives the same level of protection as if it remained within the EEA, including when entering into data transfer agreements, using the EU Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU-US Privacy Shield. 
+
+### 6\. How We Keep Your Information Secure
+
+We use commercially reasonable physical, electronic, and procedural safeguards to protect your Personally Identifiable Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction in accordance with requirements of applicable laws. 
+
+### 7\. Use of ‘Cookies’
+
+We also use (or may use) ‘cookies’ when you visit our Website. For more information on our use of cookies, please refer to our Cookie Policy. 
+
+### 8\. Use of Information for Personal Advertising
+
+The information collected by Our Partners is used to analyze trends, understand user activities and gather demographic information to enable, manage and develop their personalized ads and related services. Our Partners may share such information with their affiliates. To do this, Our Partners use technologies such as cookies and web beacons to collect information about your interaction with our Website and third-party websites. This type of information does not identify you personally and, typically, is aggregated with other data to create segments —groups of users and general interest categories that are inferred based on a range of factors (for example, «sports fan»). Our Partners use this information to form a more accurate picture of the interests of the audiences with which they interact — including you — so that their ads are more relevant to those interests. 
+
+In addition, Our Partners may use the information collected from these types of cookie or similar technologies for a variety of other purposes, including: 
+
+  * in conjunction with advertising that appears on other third-party websites;
+  * to measure the effectiveness of web-based and email advertisements;   
+and
+  * for reporting website traffic, statistics, advertisement data and other interaction with ads and the websites on which they are served.
+
+
+
+Our Partners retain your information in accordance with their legitimate business purposes for processing. Thereafter, the information is removed, archived for restricted legitimate interests, or anonymized. Non-identifying information may be kept without time and use limitations. 
+
+### 9\. Retention of Personal Information
+
+If you reside or are located in the EEA, your Personally Identifiable Information will be stored for no longer than necessary for the purpose for which the Personally Identifiable Information was collected. The length of time Personally Identifiable Information is retained depends on the purpose for which such information was collected and/or as required to comply with applicable laws and establish, exercise or defend our legal rights. 
+
+### 10\. Your Legal Rights
+
+You have certain rights in relation to your Personally Identifiable Information. Depending on the jurisdiction, you have the right to request that we: 
+
+  * provide access to any Personally Identifiable Information we, or Our Partners, hold about you;
+  * update any Personally Identifiable Information which is out of date or incorrect;
+  * delete any Personally Identifiable Information which we, or Our Partners, are holding about you;
+  * object to certain means of processing of Personally Identifiable Information (e.g., opt-out from marketing communications);
+  * restrict the way in which we process your Personally Identifiable Information;
+  * provide your Personally Identifiable Information to a third-party service provider;   
+or
+  * provide you with a copy of any Personally Identifiable Information which we hold about you.
+
+
+
+### 11\. Children’s Privacy
+
+No part of our Website is directed to children or minors under the age of 18, and we do not knowingly collect Personally Identifiable Information from anyone that we know is under 18 years of age. If you are under 16 years of age (unless a lower age threshold between 13 and 16 applies in your country), then please do not use or access this Website, or ask your parents for permission before using our Website or sending any information about yourself to anyone over the Internet. We will take appropriate steps to delete any Personally Identifiable Information of persons less than 13 years of age that has been collected on our Website without verifiable parental consent upon learning of the existence of such Personally Identifiable Information. 
+
+### 12\. Questions, Suggestions and Complaints
+
+If you have any privacy-related questions, suggestions, unresolved problems, or complaints you may contact us at [legalops@thesoul-publishing.com](mailto:legalops@thesoul-publishing.com). 
+
+If you reside or are located within the EEA, we may assist with all queries regarding our processing of Personally Identifiable Information. We request that you please attempt to resolve any issues related to your Personally Identifiable Information with us first. If you reside or are located within the EEA, you may also make a complaint to the supervisory authority for data protection in your country of residence (such as, for instance, the UK Information Commissioner’s Office for the UK) or seek a remedy through local courts if you believe that your rights have been breached. 
+
+### 13\. External Links
+
+Our Website may display links to websites of third-party content providers, other than Our Partners. We do not disclose your Personally Identifiable Information to third parties, other than Our Partners, without obtaining your consent specifically permitting such disclosure. We do not endorse and are not responsible for the privacy practices and content of such third parties. We encourage you to review their privacy policies to understand how they collect and process your Personally Identifiable Information. 
+
+### 14\. Changes to This Policy
+
+We revise and evaluate this Policy periodically in light of changing business practices, technology and legal requirements. As a result, this Policy will be updated from time to time. Any such changes will be posted on this page. Any change, update, or modification will be effective immediately upon posting on our Website. 
+
+### 15\. Contact Us
+
+If you have any questions or concerns regarding this Policy, our privacy practices, or to exercise your rights, please contact us by email at [legalops@thesoul-publishing.com](mailto:legalops@thesoul-publishing.com). You also may contact us by sending a letter or request to: 
+
+General Counsel  
+ADME (CY) LTD  
+Office 102, 28th Oktovriou Str. 359  
+Limassol 3107, Cyprus 
