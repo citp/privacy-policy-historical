@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sporcle.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626022746id_/https%3A//www.sporcle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporcle.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226103234id_/https%3A//www.sporcle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,7 +126,7 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 ### Notifications and Promotional Communications
 
-You may indicate your preferences for receiving certain notifications and communications from Sporcle through the Settings page at https://www.sporcle.com/settings/notifications/. You may also opt out of receiving promotional or certain other emails from Sporcle by following the instructions in those emails or through the same Settings page on the websites Services. If you opt out, we may still send you certain non-promotional communications, such as those about your account or our ongoing business relations.
+You may indicate your preferences for receiving certain notifications and communications from Sporcle through the Settings page at [https://www.sporcle.com/settings/notifications/](https://web.archive.org/settings/notifications/). You may also opt out of receiving promotional or certain other emails from Sporcle by following the instructions in those emails or through the same Settings page on the websites Services. If you opt out, we may still send you certain non-promotional communications, such as those about your account or our ongoing business relations.
 
 ### Mobile Push Notifications/Alerts
 
