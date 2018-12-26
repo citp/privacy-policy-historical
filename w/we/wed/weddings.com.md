@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddings.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630151608id_/https%3A//www.theknot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddings.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226032511id_/https%3A//www.theknot.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 At The Knot, we care deeply about privacy. We believe in transparency about our privacy practices, including how we treat your personal information. This privacy policy (“Policy”) applies to www.theknot.com, other The Knot web sites, online services, mobile and other applications and subsets thereof (each referred to herein as a "Site") and The Knot’s pages and other presences on various social networking platforms.
 
