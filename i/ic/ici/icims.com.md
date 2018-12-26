@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627180335id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031553id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
 
 # iCIMS Talent Platform Privacy Policy - iCIMS
 
@@ -46,6 +46,8 @@ Holmdel, NJ 07733
 
 iCIMS commits to cooperate with the panel established by the EU Data Protection authorities (DPAs) and/or the Swiss Federal Data Protection and Information Commissioner, as applicable and comply with the advice given by the panel and/or Commissioner, as applicable with regard to human resources data transferred from the EU and/or Switzerland, as applicable in the context of the employment relationship.
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste/watchdog/request.
+
 Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. Additionally, if you believe that iCIMS is not processing your information in accordance with the requirements set forth herein or applicable European Economic Area (EEA) data protection and privacy laws, you may, at any time, lodge a complaint with the appropriate supervisory authority of the EEA country in which you reside or the supervisory authority of the country or state in which iCIMS has a registered seat.
 
 ###  Links to Third Party Websites
@@ -77,6 +79,17 @@ The information we collect automatically is statistical data. It helps us to imp
   * Store information about your preferences, allowing us to customize our Website according to your individual interests.
   * Speed up your searches.
   * Recognize you when you return to our Website.
+
+
+
+###  User Data Supplementation
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data. We then combine this data with information we already have about you. This helps us to update, expand and analyze our records, to identify new customers, and to provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provide to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you may include:
+
+  * Contact information about our customers, such as your business phone number or mailing address, so we can properly communicate with you and prevent fraud.
+  * Purchased marketing data about our customers from third parties, so we can combine it with information we already have about you to create a more tailored advertising experience.
 
 
 
@@ -169,7 +182,7 @@ Our Website includes social media features, such as the Facebook Like button, an
 
 ###  Referrals
 
-If you choose to use our referral service to tell a friend about a job opening and/or about our products, we will ask you for your friend’s name, phone number, and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. iCIMS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [accounts@icims.com](mailto:accounts@icims.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about a job opening and/or about our products, we will ask you for your friend’s name, phone number, and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. iCIMS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at accounts@icims.com to request that we remove this information from our database.
 
 ###  Changes to Our Privacy Policy
 
