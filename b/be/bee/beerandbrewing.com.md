@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626065447id_/https%3A//beerandbrewing.com/cbbinfo/2VXHQ1EPEk22A0IWMams6G/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226145259id_/https%3A//beerandbrewing.com/cbbinfo/2VXHQ1EPEk22A0IWMams6G/Privacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Craft Beer & Brewing Magazine
+# Privacy Policy | Craft Beer & Brewing
 
 General Matters Unfiltered Media Group, LLC takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
