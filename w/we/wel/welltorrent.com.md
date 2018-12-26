@@ -1,25 +1,48 @@
-> *The following text is extracted and transformed from the welltorrent.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423010904id_/http%3A//www.welltorrent.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welltorrent.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226204617id_/http%3A//filmyanju.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Download Torrent HD Movies Free
+# Privacy Policy - Filmy Anju
 
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+## Who we are
 
-**Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other web sites, please review the privacy policies posted at those sites.**
+Our website address is: http://filmyanju.com . filmyanju.com Website Copy Data From Third Parties And Past Here, Not Allow To Visitors To Post Content here. Copy Data From  [1337x.to](https://1337x.to/) And Other Torrent Search Engines. Visit Our [DMCA Page](http://filmyanju.com/dmca/).
 
-##  Collection of Information
+To protect the privacy of our visitors, we do NOT log IP addresses or hostnames of our visitors. However, we may log some IP addresses of People Who Try To Create Seen (make clone or hacker) several times. Remember that all torrent submissions are anonymous. We will not distribute IP addresses or other information of visitors of this site to third parties.
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+**How do we protect visitor information?**  
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.  
+We do not use an SSL certificate  
+• We only provide articles and information. We never ask for personal or private information like email addresses, or credit card numbers.
 
-##  Cookie/Tracking Technology
+### HOW, WHEN AND WHAT WE COLLECT?
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+When visitors Come And Send Me Request Of Movies We Store Visitor Email Address And Visitor name For Contact Back Purpose These Data Store In [Google Forms](https://www.google.com/forms/about/)  We Are Not Store In Our Database. Otherwise We Are Not Store Any Kind Of Data Of My Website Visitors.
 
-##  Distribution of Information
+#### Comments
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+We Are Not Allow To Post Any Kind Of Comment Below The Post Of Visitors.
 
-##  Commitment to Data Security
+#### Media
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+We Are Not Allow To Visitors For Uploading Any Kind Of Media (Pictures, Videos).
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+### Contact forms
+
+I have No Contact Form In Our Website. Visitors Contact Through Facebook Page Visit [Contact Us Page ](http://filmyanju.com/contact-us/)
+
+### Cookies
+
+If Visitor Send Me A Request For A Movie on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you Send another Request. These cookies will last for one year.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We Are use Analytics Free Plane For Visitor Traffic Tracking. Check Analytics  [privacy policy Here](https://policies.google.com/privacy?hl=en)
+
+## Who we share your data with
+
+We Are Not Share Any Kind Of Data With Any Third Parties.
