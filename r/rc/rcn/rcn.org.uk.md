@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626060450id_/https%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226140814id_/https%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Royal College of Nursing
 
@@ -24,7 +24,7 @@ We only keep your information for as long as you have a relationship with us and
 
 ### Who we can share your information with
 
-We may share your information with other RCN Group companies, and any subcontractors, agents, or service providers who work for us or other RCN Group companies. We will only do this with your consent. We may also share your information with others outside of the RCN Group, such as regulators, or solicitors and barristers who may be supporting your case.  With your permission, we may contact you on behalf of selected third parties.
+We may share your information with other RCN Group companies, and any subcontractors, agents, or service providers who work for us or other RCN Group companies. We may also share your information with others outside of the RCN Group, such as regulators, or solicitors and barristers who may be supporting your case.  With your permission, we may contact you on behalf of selected third parties.
 
 ### Transferring your information overseas
 
