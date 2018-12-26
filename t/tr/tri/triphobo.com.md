@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626031223id_/https%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226111949id_/https%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: TripHobo
 
