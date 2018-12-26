@@ -1,29 +1,100 @@
-> *The following text is extracted and transformed from the webnug.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513232440id_/http%3A//webnug.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnug.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Webnug - Privacy Policy
+# Legal Agreements - GoDaddy Respects Your Privacy
 
-webnug.com respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site-http://www.webnug.com(the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites. INFORMATION 
+**GoDaddy Respects Your Privacy**
 
-### AUTOMATICALLY COLLECTED BY THE SITE 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Like many websites, we collect and analyze certain user behavior on the Site and store it in log files. This information is non-personally identifiable and may include, but is not limited to, Internet Protocol (IP) addresses, browser type, referring/exit pages, the date & time, and search queries. We also collect information regarding user activities on the Site. We use this information to analyze website traffic, improve the performance of our search services, improve our geo-targeted advertising services, administer the website and prevent fraud. This helps us to determine how best to provide useful information to users and to understand which parts of the Site and services are of most interest to them. On occasion we may share your non-personally identifiable information that we collect to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of webnug.com's Terms of Use, in order to diagnose a problem with our server, to administer the Site or as we otherwise deem necessary in our sole and absolute discretion. We will transfer information about you if webnug.com is acquired by or merged with another company and this may occur with or without notice to you. Also, we will provide your personal information to respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-### COOKIES AND WEB BEACONS
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We track user behavior and use of our services through the use of cookies and web beacons. A "cookie" is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the website or to make it easier to use certain website functions. The cookie transmits this information back to the website's computer. Many users do not know that "cookies" are being placed on their computers when they visit a website. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookies" on your computer. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search and which advertisements they click on. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your computer for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We use cookies on the Site to provide our service, including without limitation, in the following ways: We use cookies to track when a search user clicks on a sponsored listing, and in some cases we use cookies and web beacons to determine whether the click resulted in an actual purchase of products or services from the advertiser's site. This information is used to determine the effectiveness of our advertising services. We also use cookies to analyze how visitors, in the aggregate, use the Site, in order to make the Site as useful as possible for them. We do not use cookies to collect or store personally identifiable information. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our services may not function properly if your cookies are disabled. We also use web beacons (a small transparent image, iframe, script, object or other transparent tag embedded in a web page) on some of our web pages and advertising services. Whenever the user opens the page with a browser, the web beacon or tag is requested from the server storing it, allowing the server to take notice of the download. As a result, our servers (or the Site analytics company's servers) are informed of when the web page has been viewed. 
+**Information Collection and Use**
 
-### PERSONAL INFORMATION
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We do not collect any personally identifiable information or financial information like credit card numbers, postal address, financial statements, etc. We do however collect a user's name and email address (if and when a user voluntarily chooses to provide) when he submits his feedback on ways to improve his experience on webnug.com. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-### LINKS TO OTHER WEBSITES
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-The Site includes links to thousands of other websites whose privacy practices may differ from those of webnug.com. webnug.com does not control the websites of third parties that are linked from the Site or through our services, and is not responsible for information included in those services. If you submit personal information to any of those websites, your information is subject to their privacy statements. webnug.com's Privacy Policy applies only to our own services, and does not apply to any other website. We encourage you to carefully read the privacy statement of any website you visit. webnug.com is not responsible for the privacy practices or the content of other websites. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-### PRIVACY POLICY UPDATES
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-webnug.com may update this Privacy Policy from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Privacy Policy without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-### TERMS OF USE
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Use of the Site and our services are governed by the provisions contained in the Terms of Use located here. Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. 
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
