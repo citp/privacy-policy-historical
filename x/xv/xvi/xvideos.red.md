@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xvideos.red privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626111429id_/https%3A//info.xvideos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvideos.red privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226050848id_/https%3A//info.xvideos.com/legal/privacy) for the most accurate reproduction.*
 
 # XVideos privacy policy - Info.xvideos.com
 
 Last Updated: May 25, 2018
 
-We, **WGCZ, a.s** , a company registered and existing under the laws of the Czech Republic, with registration number 023 30 482, having its registered seat at Krakovska 1366/25, 110 00 Prague 1, Czech Republic, the provider of the website www.xvideos.com (hereinafter referred to as the “ **Website** ”). The provider of the Website is the responsible data controller in the sense of Article 4 (7) of European Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as the „ **GDPR** “).
+We, **WGCZ, a.s** , a company registered and existing under the laws of the Czech Republic, with registration number 023 30 482, having its registered seat at Krakovska 1366/25, 110 00 Prague 1, Czech Republic, the provider of the website www.xvideos.com and www.xvideos.red (hereinafter referred to as the “ **Website** ”). The provider of the Website is the responsible data controller in the sense of Article 4 (7) of European Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as the „ **GDPR** “).
 
 This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information, in conjunction with your access to and use of the Website. We are processing personal data only in accordance with this Privacy Policy.
 
@@ -146,7 +146,7 @@ You may exercise any of the rights described in this section by adjusting settin
 
 You may access and update some of your information through your account settings. You are responsible for keeping your personal information up-to-date. 
 
-##### 5.2 Rectification of Inaccurate or Incomplete Information.
+#### 5.2 Rectification of Inaccurate or Incomplete Information.
 
 You have the right to ask us to correct inaccurate or incomplete personal information concerning you (and which you cannot update yourself within your account).
 
