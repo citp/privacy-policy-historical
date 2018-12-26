@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626054200id_/https%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134704id_/https%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - This Is Anfield - This Is Anfield
+# Privacy - This Is Anfield
 
 ## Privacy Policy
 
- **This Publisher and Website**  
+**This Publisher and Website**  
 This Is Anfield is operated by Soccer Publishing Limited. Registered UK company number: 9214549. Registered office: Carlton House, Grammar School St, Bradford, West Yorkshire BD1 4NS.
 
 Commercial address: Bulloch House, 10 Rumford Place, Liverpool, L3 9DG.
@@ -27,15 +27,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Soccer Publishing Limited may collect and use Users personal information for the following purposes:
 
-  *  **To run and operate our Site**  
+  * **To run and operate our Site**  
 We may need your information display content on the Site correctly
-  *  **To personalize user experience**  
+  * **To personalize user experience**  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  **To improve our Site**  
+  * **To improve our Site**  
 We may use feedback you provide to improve our products and services.
-  *  **To run a promotion, contest, survey or other Site feature**  
+  * **To run a promotion, contest, survey or other Site feature**  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  **To send periodic emails**  
+  * **To send periodic emails**  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
@@ -62,7 +62,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 ### Compliance with children’s online privacy protection act
 
