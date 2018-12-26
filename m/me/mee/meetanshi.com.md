@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetanshi.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626055456id_/https%3A//meetanshi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetanshi.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226133214id_/https%3A//meetanshi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Meetanshi
 
@@ -102,7 +102,7 @@ We will notify the users via in-site notification
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
 To be in accordance with CAN-SPAM, we agree to the following:
 
-**If at any time, you would like to unsubscribe from receiving future emails, you can email us at support@meetanshi.com** and we will promptly remove you from **ALL**  correspondence.
+**If at any time, you would like to unsubscribe from receiving future emails, you can email us at help@meetanshi.com** and we will promptly remove you from **ALL**  correspondence.
 
 ### Changes to our Privacy Policy
 
@@ -110,7 +110,7 @@ Please note that we reserve the right to make changes to this privacy policy at 
 
 ### Contact Us
 
-If there are any questions regarding this privacy policy, you may contact us by e-mail at **support@meetanshi.com** or mail us at:
+If there are any questions regarding this privacy policy, you may contact us by e-mail at **help@meetanshi.com** or mail us at:
 
 Meetanshi,  
 #305, Eva Complex,  
