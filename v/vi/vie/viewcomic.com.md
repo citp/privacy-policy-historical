@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the viewcomic.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625202420id_/http%3A//viewcomic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewcomic.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226043345id_/http%3A//viewcomic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | View Comic
-
-**If you see any chapter that is faulty or does not show up, click the Report Error button above, it will be fixed as soon as possible. We are so sorry for the inconvenience.**
+# Privacy Policy | Reading Comics Online For Free
 
 The following webpage outlines ViewComic’s collection and use of personal information from it’s users. ViewComic.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to ViewComic with anyone. This includes your e-mail address, name, and location. Upon logging on to ViewComic such things as your IP address and hostname are logged for statistical and security reasons.  
 Cookies  
@@ -19,15 +17,12 @@ Third Party websites may collect information from users of ViewComic, this infor
 Website Policy Changes  
 ViewComic reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at policy at ViewComic.com.
 
-  * **If this website makes you happy,  
-please donate a little of your income to keep ViewComic.com alive. We need your help.  
-Thank you!**
+[](https://www.youtube.com/channel/UCm6FGvhxxqbc5-jefkG9xcQ)
 
-**June, 2018 Donation Status: $145 / $300**
+**If this website makes you happy, please donate a little of your income to keep ViewComic.com alive. We need your help. Thank you!**
 
-  
+**December, 2018 Donation Status: $11.59 / $300**
+
 [](http://viewcomic.com/donations/)
-  *   * 
-
 
 Select Chapter =>
