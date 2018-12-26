@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airspacemag.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619013534id_/https%3A//www.airspacemag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airspacemag.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226093131id_/https%3A//www.airspacemag.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Air & Space Magazine
 
