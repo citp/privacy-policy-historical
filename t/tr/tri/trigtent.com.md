@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trigtent.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626124839id_/https%3A//www.trigtent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trigtent.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226205600id_/https%3A//www.trigtent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrigTent
 
@@ -161,7 +161,7 @@ TrigTent, reserves the right, in its sole discretion, to reject, refuse to post 
 
 **Contacting TrigTent**
 
-If you have any questions about Shazzu Privacy Policy, or want to make a request with regard to your information, please contact our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#06627669466b69777376752865696b). 
+If you have any questions about Shazzu Privacy Policy, or want to make a request with regard to your information, please contact our Data Protection Officer at [gdpr@shazzu.com](mailto:dpo@moqups.com). 
 
 Shazzu Inc.  
 6303 Blue Lagoon Drive, Suite 400  
