@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugioh-cards.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626050704id_/http%3A//www.yugioh-cards.net/Merchant2/PRPO.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugioh-cards.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226200124id_/http%3A//www.yugioh-cards.net/Merchant2/PRPO.html) for the most accurate reproduction.*
 
 # YU-GI-OH Cards . Net: Privacy Policy
 
