@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624032547id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226123435id_/http%3A//famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,7 +35,7 @@ If you have any comments or questions on the above privacy statement, please fee
 
 |  | Quote of the Day  
 ---  
-It ain't those parts of the Bible that I can't understand that bother me, it's the parts that I do understand.   
+Politics is more dangerous than war, for in war you are only killed once.   
   
 Top 10 Authors  
 ---  
