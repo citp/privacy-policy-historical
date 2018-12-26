@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcfc.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626101043id_/http%3A//lcfc.com/club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcfc.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226181253id_/https%3A//www.lcfc.com/club/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leicester City
 
@@ -14,7 +14,7 @@ If you have any questions about this Policy, including if you wish to send us a 
 
 If you are under the age of 16, please specifically read the section at the end of this Policy headed “ _If you are under the age of 16”._
 
-**WHY DO WE COLLECT INFORMATION?**
+ **WHY DO WE COLLECT INFORMATION?**
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
@@ -26,81 +26,81 @@ We will only use your personal data when the law allows us to. Most commonly, we
 
 “ **Legitimate interest** ” means the interest of our business in conducting and managing our business to enable us to give you the best service or product and the secure experience. We ensure that we consider and balance any potential impact on you and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
 
-**TYPES OF PERSONAL DATA WE COLLECT**
+ **TYPES OF PERSONAL DATA WE COLLECT**
 
 “ **Personal data** ” means any information which identifies (or from which we can identify) a natural person. We may collect, use, store and transfer different kinds of personal data about you, which we have grouped together as follows:
 
-**“Identity Data”,** which comprises information such as your first name, last name, marital status, title, date of birth and gender.
+ **“Identity Data”,** which comprises information such as your first name, last name, marital status, title, date of birth and gender.
 
-**“Contact Data”** , which comprises information such as your address, delivery address, email address and telephone number(s).
+ **“Contact Data”** , which comprises information such as your address, delivery address, email address and telephone number(s).
 
-**“Financial Data”,** which comprises your bank account and payment card details.
+ **“Financial Data”,** which comprises your bank account and payment card details.
 
-**“Transaction Data”** , which comprises details about payments to and from you and details of products or services you have purchased from us.
+ **“Transaction Data”** , which comprises details about payments to and from you and details of products or services you have purchased from us.
 
-**“Technical Data”,** which comprises information such as your IP address, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the device(s) you use to access our website.
+ **“Technical Data”,** which comprises information such as your IP address, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the device(s) you use to access our website.
 
-**“Profile Data”,** which comprises information such as purchases or orders made by you, your interests, preferences, feedback and survey responses. We may also ask for details of any disability or health needs you may have at the time of booking an event or service which will take place at the stadium or any of our other premises to help to ensure your comfort and safety.
+ **“Profile Data”,** which comprises information such as purchases or orders made by you, your interests, preferences, feedback and survey responses. We may also ask for details of any disability or health needs you may have at the time of booking an event or service which will take place at the stadium or any of our other premises to help to ensure your comfort and safety.
 
-**“Usage Data”,** which comprises information such as about how you use our website, products and services.
+ **“Usage Data”,** which comprises information such as about how you use our website, products and services.
 
-**“Marketing and Communications Data”** , which comprises your preferences in receiving marketing from us and third parties, and your communication preferences.
+ **“Marketing and Communications Data”** , which comprises your preferences in receiving marketing from us and third parties, and your communication preferences.
 
-**Aggregated Data**
+ **Aggregated Data**
 
 We also collect, use and share “ **Aggregated Data** ” such as statistical or demographic data. Aggregated Data may be derived from your information but does not constitute “personal data” in law as it does not directly or indirectly reveal your identity. For example, we may aggregate (i.e. combine with information relating to others) your Usage Data to calculate the percentage of users accessing a specific feature of our website or for sponsor acquisition purposes. However, if we combine or connect Aggregated Data with your information so that it can directly or indirectly identify you, we treat the combined data as personal data which will be handled in accordance with this Policy.
 
-**Minimum Required Information**
+ **Minimum Required Information**
 
 Where we need to collect personal data by law, or under the terms of a contract we have with you, and you fail to provide the minimum required data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with the product or service you have purchased). In that event, we may have to cancel our agreement with you to provide a product or service you have ordered, and will notify you if this is the case at the time.
 
-**WHEN DO WE COLLECT INFORMATION?**
+ **WHEN DO WE COLLECT INFORMATION?**
 
 We may collect information on you in the following ways:
 
-**Information that you voluntarily provide to us**
+ **Information that you voluntarily provide to us**
 
 When you place an order with us, register for an account, consult with our customer service team, send us an email, fill in forms on our website, enter a competition or promotion, or communicate with us in any way, you are voluntarily giving us information that we collect. We also collect information you give to us when we contact you during the ordering process or in the process or managing your account. That information may include your Identity Data, Contact Data, Financial Data, Transaction Data, Profile Data and Marketing and Communications Data.
 
-**Information that we collect automatically**
+ **Information that we collect automatically**
 
 When you browse our website, or interact with our digital platforms, we may collect information about your visit to our website and your web browsing. That information may include your Technical Data and Usage Data. We may collect this information as a part of log files as well as through the use of cookies or other similar technologies. Our use of cookies and similar technologies is explained more fully in our Cookie Policy  at [www.LCFC.com/Club/Cookies](http://www.lcfc.com/Club/Cookies)
 
-**Information from other sources**
+ **Information from other sources**
 
 We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations, for example, our sponsors, affiliates and partners. From time to time we may obtain information about you from third party sources, such as public databases (for example, Companies House and the Electoral Register), and other third-party data providers. We take steps to ensure that such third parties are legally permitted or required to disclose such information to us. Examples of the information we may receive from other sources include: demographic information, device information (such as IP addresses), location, and online behavioural data (such as information about your use of social media websites, page view information and search results and links) from analytics providers and search engine providers (for example, Google based outside the EU). We use this information, alone or in combination with other information (including personal data) we collect, to enhance our ability to provide relevant marketing and content to you and to develop and provide you with more relevant products features, and services.
 
-**HOW WE USE YOUR INFORMATION**
+ **HOW WE USE YOUR INFORMATION**
 
 We have set out below a description of all the ways we intend to use any personal data, and which of the legal bases we intend to rely on in order to do so. We have also identified what our legitimate interests are where appropriate. You can obtain further information about how we assess our legitimate interests against any potential impact on you in relation to specific activities by contacting us. We may use and disclose your personal information for the following purposes:
 
-**a)**   **Processing your order**
+ **a)**   **Processing your order**
 
 In processing any order which you place with us, we will use your Identity Data, Contact Data, Financial Data, Transaction Data, Profile Data and Marketing and Communications Data in order to provide you with our products and services, which includes managing, processing and dispatching your orders as well as processing payments. We will also use this information to keep adequate records of your past purchases, as well as to contact you regarding your order. All Financial Data processed via our website will be encrypted. 
 
-**b) To manage our relationship with you**
+ **b) To manage our relationship with you**
 
 We may send you important updates about our products or services. We may also, unless you have opted-out, send you information electronically about products or services which are similar to those you have already purchased from us previously. Where you have purchased products or services from us, we may also ask you to complete a review or survey about your recent purchase. This is necessary in order to keep you updated about products and services you have purchased, develop our range of products and services, and grow our business.
 
-**c) Marketing**
+ **c) Marketing**
 
 If we have obtained your express opt-in consent, we may send you, or permit selected third parties to send you, other forms of marketing. We shall make sure it is clear when you are able to give us permission to do this, for example, we have an online form and boxes that you need to tick if you wish to receive any such marketing materials or you can manage your marketing preferences online via your account. You have the right to withdraw your consent to receiving direct marketing at any time by contacting us.
 
-**d) Advertising**
+ **d) Advertising**
 
 We may use the information that we collect in order to deliver relevant website content and advertisements to you and to measure or understand the effectiveness of the advertising we serve. We also use data analytics to improve our website, products and services, marketing, customer relationships and experiences. This is in order for us to be able to study how customers use our products or services and develop them, to grow our business and to inform our marketing strategy. For more information on how we use cookies or other similar technologies for these purposes, as well as how to opt-out of the use of cookies, please visit our Cookie Policy here. [www.LCFC.com/Club/Cookies](http://www.lcfc.com/Club/Cookies) **e)  To administer and protect our business and this website **
 
 We may also use your information in order to protect our business and our website, and to help us monitor or improve the products or services that we offer. This includes troubleshooting, statistical and data analysis, testing, system maintenance, support, reporting and hosting of data. We also use your information to improve our website so that content is presented in the most effective manner for you and for your computer, and as part of our efforts to keep our site safe and secure. This is necessary for the running of our business, provision of administration and IT services, network security and prevention of fraud. We may also need to use your information in the context of a business reorganisation or group restructuring exercise.
 
-**d) Community and Charitable Projects**
+ **d) Community and Charitable Projects**
 
 We act as agents for Leicester City Community Trust Limited and LCFC Foxes Foundation in respect of any personal data which is collected by us on their behalf from local community projects and/or charitable events or donations.
 
-**e) Other purposes**
+ **e) Other purposes**
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another lawful reason and that reason is compatible with the original purpose.  If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. Please note that we may process your personal data without your knowledge or consent where this is required or permitted by law.
 
-**WHEN WILL WE SHARE YOUR PERSONAL DATA?**
+ **WHEN WILL WE SHARE YOUR PERSONAL DATA?**
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions. We shall not share your personal data with any third parties for marketing purposes without your express consent. We shall however, share your personal data with third parties, for the following reasons:
 
@@ -108,27 +108,27 @@ We require all third parties to respect the security of your personal data and t
 
 We will share your personal data with service providers where this is necessary in order to provide you with products or services that you have ordered. Examples of Service Providers include payment processors, ticketing providers, hosting services, suppliers, sub-contractors and delivery services. We may also need to share your personal data with third party software or IT support providers for the purpose of system administration, data security, data storage, back up, disaster recovery and IT support.
 
-**  b) Community partners**
+ **  b) Community partners**
 
 We may also share your information with the Leicester City Football Club Trust Limited, LCFC Foxes Foundation and other partners (such as the Premier League and Leicestershire Police), in relation to specific Leicester City Community Trust Limited projects, programmes, charitable events or other schemes we are organising with them. The Leicester City Community Trust in particular provides a range of opportunities which creates a positive impact on the lives of children, young people and adults. We will always be clear as to who we are sharing your information with and for what purpose, and ensure that all of our community partners treat your information in accordance with this Policy and all applicable data protection legislation, and have appropriate safeguards in place when handling children or other vulnerable people’s data.
 
-**  c) Advertising partners**
+ **  c) Advertising partners**
 
 We may partner with third party advertising networks and exchanges in order to display advertising on our websites or to manage and serve our advertising on other sites, and may share personal data with them for this purpose. All third parties with which we share this information are required to use your personal data in a manner that is consistent with this Policy. We and our third-party partners may use cookies and other tracking technologies, such as pixels and web beacons, to gather information about your activities on our website and other sites in order to provide you with targeted advertising based on your browsing activities and interests. For more information about cookies and other tracking technologies, please visit our Cookie Policy. [www.LCFC.com/Club/Cookies](http://www.lcfc.com/Club/Cookies)
 
-**d)  To transfer your information in the case of a sale, merger, consolidation, liquidation, reorganisation, or acquisition**
+ **d)  To transfer your information in the case of a sale, merger, consolidation, liquidation, reorganisation, or acquisition**
 
 We may share your personal data with third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Policy.
 
-**e)  To protect the rights, property, or safety of our business and other customers**
+ **e)  To protect the rights, property, or safety of our business and other customers**
 
 We reserve the right to disclose or share your personal data in order to comply with any legal or regulatory requirements, enforce our terms and conditions (or any other agreement we enter into with you), or to protect the rights, property, or safety of our business and other customers. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. We may also share your personal data with our professional advisers including lawyers, bankers, auditors and insurers based who provide consultancy, banking, legal, insurance and accounting services.
 
-**Third Party Websites**
+ **Third Party Websites**
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website that you visit.
 
-**International Transfers**
+ **International Transfers**
 
 Some of our external third parties may be based outside the European Economic Area (“ **EEA** ”) so their processing of your personal data will involve a transfer of data outside the EEA. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
@@ -138,7 +138,7 @@ Some of our external third parties may be based outside the European Economic Ar
 
 \- Where we use providers based in the US, we may transfer personal data to them if they are part of the Privacy Shield Network, which requires the provision of a level of protection acceptable to the European Commission of personal data shared between the Europe and the US. For further details, see [European Commission: EU-US Privacy Shield.](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en)
 
-**WHERE WILL WE STORE YOUR PERSONAL DATA?**
+ **WHERE WILL WE STORE YOUR PERSONAL DATA?**
 
 All personal data that you provide to us is stored on our secure servers and copied and archived on our behalf by an outsourced IT support company. We use our best endeavours to ensure that your data is treated securely and in accordance with this Policy and comply with the relevant data protection legislation within the United Kingdom.
 
@@ -148,7 +148,7 @@ We have put in place procedures to deal with any suspected personal data breach 
 
 Please note that the transmission of information via the internet is not completely secure. Although we shall do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we shall use effective safeguarding procedures and security features to try to prevent any unauthorised access to your personal data.
 
-**HOW LONG WILL WE KEEP HOLD OF YOUR PERSONAL DATA?**
+ **HOW LONG WILL WE KEEP HOLD OF YOUR PERSONAL DATA?**
 
 We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
@@ -158,7 +158,7 @@ In some circumstances we may anonymise your personal data (so that it can no lon
 
 In some circumstances you can ask us to delete your data: see the “ _Right to be Forgotten_ ” section below for further information.
 
-**YOUR RIGHTS**
+ **YOUR RIGHTS**
 
 Under certain circumstances, you have the following rights:
 
@@ -188,17 +188,17 @@ You will not usually have to pay a fee to access your personal data (or to exerc
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-**ACCESS REQUEST**
+ **ACCESS REQUEST**
 
 You have the right to request a copy of the information that we hold about you at any time. This enables you to receive a copy of the personal data that we hold about you and to check that we are lawfully processing it. Please note that in most circumstances, we shall not make a charge for this subject to the above. However, we may charge a reasonable fee based on administrative costs for any further copies requested.
 
-**RIGHT TO RECTIFICATION**
+ **RIGHT TO RECTIFICATION**
 
 You have the right at any time to ask us to rectify any personal data that we hold for you which is incorrect or incomplete. This enables you to have corrected any incomplete or inaccurate data we hold about you, though we may need to verify the accuracy of the new data that you provide to us.
 
 If we have disclosed any incorrect or incomplete data to any third parties, we shall inform them of any necessary amendments or corrections made to your personal data under this section.
 
-**RIGHT TO BE FORGOTTEN**
+ **RIGHT TO BE FORGOTTEN**
 
 You have the right to ask us to erase the personal data that we hold about you in circumstances where:
 
@@ -214,7 +214,7 @@ You have the right to ask us to erase the personal data that we hold about you i
 
 Please note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
 
-**RESTRICTION OF PROCESSING**
+ **RESTRICTION OF PROCESSING**
 
 You can ask us to restrict how we use your data in the following circumstances:
 
@@ -226,7 +226,7 @@ You can ask us to restrict how we use your data in the following circumstances:
 
 4\. where you have objected to our use of your information but we need to verify whether we have overriding legitimate grounds to use it.
 
-**DATA PORTABILITY**
+ **DATA PORTABILITY**
 
 You have the right to obtain from us all personal data which you have provided to us in a structured, commonly used and machine-readable form, provided that such data was processed based on your consent, or for the purpose of a contract between us and the processing was carried out by automated means.  Please note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
 
@@ -234,7 +234,7 @@ This will allow you to move, copy or transfer personal data easily from one IT e
 
 Please note that we shall not be able to comply with a data portability request if this will affect the rights and freedoms of others.
 
-**RIGHT TO OBJECT**
+ **RIGHT TO OBJECT**
 
 You have the right to object, on grounds relating to your particular situation, to our processing of your personal data where we are doing this for the performance of a task carried out in the public interest (which we shall have told you about, if applicable), or where we are carrying out processing for the purposes of legitimate interests pursued by us.
 
@@ -242,11 +242,11 @@ You also have the right at any time to ask us not to process your personal data 
 
 If we process your personal data for automatic decision making or profiling purposes (i.e. to analyse or predict your personal preferences and purchase behaviour, and such profiling is automated) we shall tell you about this beforehand, and will only do this where this is a necessary condition of entering into a contract between you and us, or where you have given us your explicit consent to do this.
 
-**RIGHT TO WITHDRAW CONSENT**
+ **RIGHT TO WITHDRAW CONSENT**
 
 Where you have given us your consent to our processing of any of your personal data, you have the right to withdraw your consent at any time, for example if you no longer wish us to share your information with third parties for marketing purposes (where you have previously consented to this). However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-**IF YOU ARE UNDER THE AGE OF 16**
+ **IF YOU ARE UNDER THE AGE OF 16**
 
 If you are under 16, please read this section of the Policy and speak to your parent or guardian if you have any questions before using this website and providing us with any of your personal information. If you continue to use our website, we will assume that you have your parent or guardian's consent to do so.
 
@@ -258,4 +258,4 @@ You can send us a message to [**help@lcfc.co.uk**](mailto:help@lcfc.co.uk) if yo
 
 If you are a parent or guardian of a child who is using this website or is otherwise in contact with us, we recommend that you supervise your child while they are online and check what personal information your child is providing to us.
 
-_Updated: May 2018_
+ _Updated: May 2018_
