@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626061454id_/https%3A//www.brandwatch.com/legal/user-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226141623id_/https%3A//www.brandwatch.com/legal/user-privacy-policy) for the most accurate reproduction.*
 
 # User Privacy Statement | Brandwatch
 
@@ -78,8 +78,10 @@ d. request to receive a machine-readable copy of the data have provided to us.
 
 6.1. This Privacy Statement only addresses our collection, processing and use (including disclosure) of your personal data. Our customers and other third parties may have access to your personal data and use it in other ways in accordance with their own privacy practices. We encourage you to familiarize yourself with the privacy statements provided by any platform you use to publish any data.
 
+6.2. Please note that our Services may use the YouTube API. YouTube’s developer terms require us to notify you that our Services use YouTube API Services (i.e. data from YouTube) and to link to the YouTube privacy statement http://www.google.com/policies/privacy.
+
 ## 7\. Governing law and jurisdiction
 
 7.1. English law governs this privacy statement and any dispute or claim related to it. Each party agrees that the English courts have exclusive jurisdiction over this privacy statement and any dispute or claim related to it.
 
-**Last Updated 1 February 2018**
+**Last Updated 3 August 2018**
