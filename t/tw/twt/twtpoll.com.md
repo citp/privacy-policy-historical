@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twtpoll.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412062120id_/https%3A//www.twtpoll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtpoll.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226163749id_/https%3A//www.twtpoll.com/privacy) for the most accurate reproduction.*
 
 # Twtpoll - Privacy Policy
 
@@ -15,28 +15,28 @@ The information we collect is used to improve the content of our websites and th
 
 
 
-#### INFORMATION GATHERING AND USAGE
+##### INFORMATION GATHERING AND USAGE
 
 When you register with **Twtpoll** , you provide us with certain personal information, such as your name, your email address, links to Facebook and Twitter accounts. 
 
 You enter content on the Site at your own risk. Please be aware that no security measures are perfect or impenetrable. Therefore, we cannot and do not guarantee that content you entered on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. 
 
-#### COOKIES
+##### COOKIES
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a website's computers and stored on the client's computer hard drive. **Twtpoll** does NOT use cookies. 
 
-#### DATA STORAGE
+##### DATA STORAGE
 
 Although **Twtpoll** owns the data storage, databases and all rights to our services, our customers retain all rights to their data and we will NEVER sell or share their users data with any third parties, or use their data for our own business advantage.
 
-#### DISCLOSURE
+##### DISCLOSURE
 
 **Twtpoll** may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when our customer's actions violate the [Terms of Use](https://www.twtpoll.com/terms). 
 
-#### CHANGES
+##### CHANGES
 
 **Twtpoll** may periodically update this policy. We will notify our users about significant changes in the way we treat personal information by sending a notice to the primary e-mail address specified in their account and by placing a prominent notice on our website. 
 
-#### QUESTIONS
+##### QUESTIONS
 
 Any questions about this Privacy Policy should be addressed to hello@Twtpoll.com
