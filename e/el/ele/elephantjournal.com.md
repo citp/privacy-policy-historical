@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephantjournal.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205229id_/https%3A//www.elephantjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephantjournal.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024030id_/https%3A//www.elephantjournal.com/privacy) for the most accurate reproduction.*
 
 # Welcome to the Elephant Journal Privacy Center | elephant journal
 
@@ -56,7 +56,7 @@ We are able to deliver, personalize, and improve our Services by combining and u
 
 
 
-We provide you with controls to manage your experience with us.  You can review or edit your [account information](https://www.elephantjournal.com/my-account/edit-account/) or contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#78080a110e191b01381d141d081019160c12170d0a161914561b1715) for more options.
+We provide you with controls to manage your experience with us.  You can review or edit your [account information](https://www.elephantjournal.com/my-account/edit-account/) or contact [privacy@elephantjournal.com](mailto:privacy@elephantjournal.com) for more options.
 
 **How We Share This Information**
 
@@ -102,7 +102,7 @@ We may update this Privacy Policy from time to time, so you should check it peri
 
 **Questions & Suggestions**
 
-If you have questions, suggestions, or wish to make a complaint, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5a2a28332c3b39231a3f363f2a323b342e30352f28343b3674393537) or mail us at:
+If you have questions, suggestions, or wish to make a complaint, please contact [privacy@elephantjournal.com](mailto:privacy@elephantjournal.com) or mail us at:
 
 Elephant Journal  
 2031 16th Street  
