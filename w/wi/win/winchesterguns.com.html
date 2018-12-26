@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the winchesterguns.com privacy policy that was archived on 2018-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180521144329id_/http%3A//www.winchesterguns.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winchesterguns.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226034855id_/http%3A//www.winchesterguns.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class=""><head><div class="fit-vids-style">­<style> .fluid-width-video-wrapper { width: 100%; position: relative; padding: 0; } .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </style></div><script async="" src="http://localhost:4502/libs/wcm/stats/tracker.js?path=/content/winchester/en/privacy-policy&amp;_=1580419930961"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" class=""><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -14,27 +14,19 @@
     
 
     <link rel="stylesheet" href="/etc/clientlibs/foundation/main.css" type="text/css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<div class="fit-vids-style">­<style> .fluid-width-video-wrapper { width: 100%; position: relative; padding: 0; } .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </style></div><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/main.js"></script>
 <link rel="stylesheet" href="/etc/clientlibs/browning/main.css" type="text/css">
 <script type="text/javascript" src="/etc/clientlibs/browning/main.js"></script>
 <!--Include categories for Browning css/js -->
-<link href="http://fonts.googleapis.com/css?family=Roboto:400,300,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Roboto:400,300,700" rel="stylesheet" type="text/css">
 
-    <script type="text/javascript">
-    {
-        window.setTimeout(function() {
-            $CQ.getScript("http://localhost:4502/libs/wcm/stats/tracker.js?path=\x2Fcontent\x2Fwinchester\x2Fen\x2Fprivacy\x2Dpolicy");
-        }, 1);
-    }
-    </script>
-<script type="text/javascript">function trackMVTImpression() {
+
+<script src="//sdks.shopifycdn.com/js-buy-sdk/v0/latest/shopify-buy.umd.polyfilled.min.js"></script>
     
-    }</script>
-
 
 
     
@@ -82,9 +74,9 @@
             <nav>
                 <a href="https://www.mozilla.org/en-US/firefox/new/" target="_parent" class="firefox"><span class="firefox"></span>Firefox</a>
                 <a href="https://www.google.com/chrome/browser/" target="_parent" class="chrome"><span class="chrome"></span>Chrome</a>
-                <a href="http://support.apple.com/downloads/#safari" target="_parent" class="safari"><span class="safari"></span>Safari</a>
-                <a href="http://www.opera.com/computer" target="_parent" class="opera"><span class="opera"></span>Opera</a>
-                <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_parent" class="ie"><span class="ie"></span>Internet Explorer</a>
+                <a href="//support.apple.com/downloads/#safari" target="_parent" class="safari"><span class="safari"></span>Safari</a>
+                <a href="//www.opera.com/computer" target="_parent" class="opera"><span class="opera"></span>Opera</a>
+                <a href="//windows.microsoft.com/en-us/internet-explorer/download-ie" target="_parent" class="ie"><span class="ie"></span>Internet Explorer</a>
             </nav>
         </div>
     </section> <!-- End of Browser Rejector -->
@@ -124,56 +116,40 @@ jQuery(document).ready(function(){
         </div>
     </section> <!-- End of Browser Rejector -->
 </div>
-<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCaEGtsYIfVzOrOFnb96dMxEYrTluYQlAo&amp;sensor=false"></script>
 <script>
 
 jQuery(document).ready(function(){
 
-    // var cookie = getCookie('chosen_site');
-    var cookie;
-    if (cookie && cookie == 'EU') {
-        window.location = 'http://www.browning.eu';
-    } else if (!cookie) {
-        getOrigin();
+    //check session storage first, if there is nothing there then wait for main.js to fetch from api again.
+    var ipLocation = sessionStorage.getItem('ipLocation');
+    if (ipLocation) {
+        ipLocation = JSON.parse(ipLocation);
     }
-
-    function posSuccess(position){
-        runGeocoder(position);
-    }
-
-    function posError(err){        
-        return 'NA';
-    }
-
-    function getOrigin() {
-        if ('geolocation' in navigator) {
-            window.setTimeout(navigator.geolocation.getCurrentPosition(posSuccess, posError),250);
-        }
-    }
-
-    function runGeocoder(position){
-        var geocoder = new google.maps.Geocoder();
-        var latlng = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
-        geocoder.geocode({'latLng':latlng}, function(results,status){
-            
-            if (status == google.maps.GeocoderStatus.OK) {
-                var addr = results[0]['formatted_address'];
-                origin = addr.substring(addr.lastIndexOf(',')+2);
-            } else {
-                origin =  'NA';
+    if (ipLocation && ipLocation.continentCode) {
+        checkIp(ipLocation)
+    } else {
+        window.addEventListener('ipLocationChange', function (e) {
+            var ipLocation = sessionStorage.getItem('ipLocation');
+            if (ipLocation) {
+                ipLocation = JSON.parse(ipLocation);
             }
-            checkOriginForRedirect(origin);
+            checkIp(ipLocation)
         });
     }
 
-    function checkOriginForRedirect(origin){
+    function checkIp(locationObj){
+        if (!locationObj && !locationObj.continentCode) {
+            return;
+        }
 
-        if (origin && origin != 'NA' && origin != 'USA' && origin != 'Canada') {  
+        var continent = locationObj.continentCode.toLowerCase();
+        var declined = sessionStorage.getItem('declinedRedirect');
+        if (continent !== 'na' && !declined) {
             var redirect_container = $('#international-redirect-container');
-
                 jQuery.fancybox(redirect_container, {
                     afterClose: function() {
-                        setDestination('US');
+                        sessionStorage.setItem('declinedRedirect','true')
                     },
                     helpers: {
                         overlay : {closeClick: false}
@@ -182,15 +158,13 @@ jQuery(document).ready(function(){
         }
     }
 
-    function setDestination(region) {
-        document.cookie = 'chosen_site='+region+';path=/';
-    }
 
     $('#international-redirect-container .destination-link').click(function(e){
         e.preventDefault();
-
-        setDestination($(this).attr('data-region'));
-
+        var redirectLocation = $(this).attr('href');
+        if ( !redirectLocation) {
+            sessionStorage.setItem('declinedRedirect','true')
+        }
         window.location = $(this).attr('href');
     });
 
@@ -489,7 +463,6 @@ jQuery(document).ready(function(){
                     
                 </ul>
             </li>
-
         
 
             
@@ -511,9 +484,13 @@ jQuery(document).ready(function(){
                         <a class="vertical-center" href="/community/wallpapers.html">Wallpapers</a>
                         
                     </li>
+                
+                    <li class="vertical-center-container">
+                        <a class="vertical-center" href="/community/eblast.html">eBlast</a>
+                        
+                    </li>
                 </ul>
             </li>
-
         
 
             
@@ -530,14 +507,11 @@ jQuery(document).ready(function(){
                         <a class="vertical-center sf-with-ul" href="/news/promotions-rebates.html">Promotions and Rebates</a>
                         <ul style="display: none;">
                             <li class="vertical-center-container">
-                                <a class="vertical-center" href="/news/promotions-rebates/EXPIRED-DO-NOT-PUBLISH.html"></a>
+                                <a class="vertical-center" href="/news/promotions-rebates/black-friday-rebates-2018.html">EXPIRED - Black Friday Rebates 2018</a>
                                 
                             </li>
                         
-                            <li class="vertical-center-container">
-                                <a class="vertical-center" href="/news/promotions-rebates/double-down-rebate---sxp-turkey-models.html">Double Down Rebate</a>
-                                
-                            </li>
+                            
                         </ul>
                     </li>
                 
@@ -597,7 +571,6 @@ jQuery(document).ready(function(){
                     </li>
                 </ul>
             </li>
-
         
 
             
@@ -606,7 +579,6 @@ jQuery(document).ready(function(){
                 <a href="/videos.html">Videos</a>
                 
             </li>
-
         
 
             
@@ -712,25 +684,21 @@ jQuery(document).ready(function(){
                     </li>
                 </ul>
             </li>
-
         
 
             
 
             
-
         
 
             
 
             
-
         
 
             
 
             
-
         
 
             
@@ -744,19 +712,16 @@ jQuery(document).ready(function(){
                     </li>
                 </ul>
             </li>
-
         
 
             
 
             
-
         
 
             
 
             
-
         
     </ul>
 
@@ -768,10 +733,18 @@ jQuery(document).ready(function(){
         <form action="/search.html">
             <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
         </form>
-    </div>
-    <!-- #top-search end -->
-</nav></div>
-<!--Include content footer and main footer -->
+    </div><!-- #top-search end -->
+
+
+
+    <!--/* TODO: wrap markup in business logic so that it only shows when necessary */ -->
+    
+
+    
+
+</nav>
+</div>
+
 
         </div>
 
