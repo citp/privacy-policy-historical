@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625043038id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226075040id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -67,7 +67,7 @@ Acknowledging your application has been received and requesting additional actio
 Response to your inquiries regarding the status of your transactional requests, Thanking you for your valued business, Advertisements for our products, services, changes in services, new product availability, Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers.
 
 To ensure compliance with the Can-Spam Act, MelanieDuncan.com has implemented the following guidelines for email delivery:  
-All emails sent to you by MelanieDuncan.com will clearly identify MelanieDuncan.com as the sender. FROM / SENDER: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (NOTE: The actual sender will alter from department to department, but all from addresses will end with @MelanieDuncanc.com or @PowerofPinning.com).
+All emails sent to you by MelanieDuncan.com will clearly identify MelanieDuncan.com as the sender. FROM / SENDER: someone@melanieduncanc.com or someone@melanieduncan.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @MelanieDuncanc.com or @PowerofPinning.com).
 
 The Subject Line of any email you receive will always be related to the subject matter of the email. Any email from MelanieDuncan.com will include the ability to unsubscribe from future email messages.
 
