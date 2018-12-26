@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshoptrainingchannel.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626093242id_/http%3A//photoshoptrainingchannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshoptrainingchannel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226172924id_/https%3A//photoshoptrainingchannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
 
 We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices, and our customers’ needs.
 
-The Photoshop Training Channel (PTC) is operated by Jesus Ramirez Media. PTC understands the importance of protecting your personal information and undertakes to adhere to this privacy policy at all times to ensure your personal information is effectively safeguarded. Our website address is: https://photoshoptrainingchannel.com.
+The Photoshop Training Channel (PTC) is operated by Jesus Ramirez Media. PTC understands the importance of protecting your personal information and undertakes to adhere to this privacy policy at all times to ensure your personal information is effectively safeguarded. Our website address is: http://jr9982.wpengine.com.
 
 ### What Information Do We Collect?
 
