@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the survivalfrog.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510114110id_/http%3A//survivalfrog.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivalfrog.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226125853id_/https%3A//www.survivalfrog.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Survival Frog
 
-## Privacy Policy
-
-Effective Date: February 4, 2016
+**Effective Date: October 26, 2018**
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
@@ -62,7 +60,9 @@ Disclosure to Successors. If we are acquired by or merged with a third party ent
 
 Disclosure Incident to Legal Process and Enforcement. We reserve the right to disclose your Personal Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), or (ii) to investigate or enforce violations of our rights or the security of this site.
 
-When We Participate In a Joint Venture With Marketing Partners. We may participate with another company or individual for purposes of jointly promoting our products, services, promotions or contests or their products, services, promotions, or contests. We reserve the right to right to disclose your Personal Information to them for purposes of (i) compensation, transaction processing, fulfillment, and support, and (ii) for purposes of offering you other products, services, promotions, and contests. These joint venture marketing partners may also contact you regarding other products, services, promotions, or contests.
+When We Participate In a Joint Venture. We may participate with another company or individual for purposes of jointly promoting our products, services, promotions or contests or their products, services, promotions, or contests. We reserve the right to right to disclose your Personal Information to them for purposes of (i) compensation, transaction processing, fulfillment, and support, and (ii) for purposes of offering you other products, services, promotions, and contests. These joint venture marketing partners may also contact you regarding other products, services, promotions, or contests.
+
+Marketing Partners.  We may share your Usage Data with our marketing partners including third party service providers, advertisers, advertising networks and platforms, advertising agencies, and data brokers and aggregators to serve and offer personalized ads.  We may share Personal Information with our marketing partners to correlate and match our list with our marketing partners' lists for purposes of creating an "audience" for serving personalized ads.
 
 How We Protect Your Information
 
@@ -76,7 +76,7 @@ After a transaction, your Personal Information (credit cards, social security nu
 
 Despite all of these efforts to protect your information, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot, therefore, warrant or ensure the security of any information you transmit to us or from our online products or services, and you do so at your own risk..
 
-Specific Information About Cookies And Web Beacons
+Specific Information About Cookies, Web Beacons, And Behavioral Ads
 
 1st Party Cookies. We use 1st party cookies (passed by us) to keep track of your current shopping session to personalize your experience and so that you may retrieve your shopping cart at any time.
 
@@ -112,7 +112,7 @@ For information regarding how Google uses data when you use Google's partners' s
 
 For anther resource recommended by Google for opting out of a third party vendor's use of cookies, visit http://www.networkadvertising.org/managing/opt_out.asp
 
-Custom Audience (Facebook). We reserve the right to participate in Facebook.com's Custom Audience. A Custom Audience on Facebook.com enables us to display to persons on our email lists targeted, personalized ads when they visit Facebook.com. The ads are based on your shopping experience at our website. No personal information, including your shopping history, is shared with Facebook. The Custom Audience allows us to convert your email address to a unique number that Facebook uses to match to unique numbers that Facebook generates from email addresses of its users. You may optout of participation in our Facebook Custom Audience by sending an email, from the email address you are opting out of, to the email address provided in our contact information below. For your optout to be effective, you must: (i) place the following text in the subject line of the email - "Opting Out of Facebook.com Website Custom Audience Ads", and (ii) in the body of the email, include your name and email address. We will forward your name and email address to Facebook.com with a request to delete you from all of our Facebook Custom Audience Ads.
+Custom Audience (Facebook). We may participate in Facebook.com's Custom Audience program which enables us to display personalized ads to persons on our email lists when they visit Facebook.com.  We provide Personal Information such as your email address and phone number to Facebook to enable Facebook to determine if you are a registered account holder with Facebook. You may optout of participation in our Facebook Custom Audience by sending an email, from the email address you are opting out of, to the email address provided in our contact information below. For your optout to be effective, you must: (i) place the following text in the subject line of the email - "Opting Out of Facebook.com Website Custom Audience Ads", and (ii) in the body of the email, include your name and email address. We will forward your name and email address to Facebook.com with a request to delete you from all of our Facebook Custom Audience Ads.
 
 Other Remarketing Services. We reserve the right to participate in additional remarketing services that will be similar to the remarketing services described above. These services will allow us and our partners to display ads that are likely to be more relevant (such as behavioral or targeted ads that are based on information about your browsing history). You may access these services to opt out: http://www.networkadvertising.org/choices/ and http://www.aboutads.info/choices/ .
 
@@ -144,9 +144,8 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information found at this link: <http://survivalfrog.com/pages/about-us>
 
-4155 E. Jewell St.  
-Suite 900  
-Denver, CO 80222  
+2488 W 2nd Ave.  
+Denver, CO 80223  
 USA
 
 support@SurvivalFrog.com  
