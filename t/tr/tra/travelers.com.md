@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118221137id_/https%3A//www.travelers.com/privacy-statements/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134510id_/https%3A//www.travelers.com/privacy-statements/index.aspx) for the most accurate reproduction.*
 
 # Online Privacy Statement | Travelers Insurance
 
@@ -8,7 +8,7 @@ skip to main content
 
   * ##  [For Business](https://web.archive.org/business-insurance)
 
-  * ##  [Claim Center](https://web.archive.org/claims/report-claim/index.aspx)
+  * ##  [Claim Center](https://web.archive.org/claims/report-claim/index)
 
   * ##  [Prepare & Prevent](https://web.archive.org/resources)
 
@@ -31,7 +31,7 @@ Revised June 25, 2015
 
 The Travelers Indemnity Company and its affiliates ("Travelers") value your privacy. This Online Privacy Statement will inform you about how we use and disclose information that we and our service providers collect from your visits to [travelers.com](http://www.travelers.com/) and other websites owned or operated by us (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through use of social media pages that we control (“Social Media Pages”), and through email messages that we send to you (collectively, including the Websites, the Apps, and our Social Media Pages, the “Services”).
 
-This Online Privacy Statement only applies to information collected through the Services. If you have purchased or applied for an insurance product from us, please also see our [Privacy Statement for Individual U.S. Personal Insurance Consumers](https://web.archive.org/web/20171118221137id_/https%3A//www.travelers.com/privacy-statements/privacy-for-consumers.aspx), which applies to the information that we collect about policyholders and applicants, through the Services as well as any other medium. Travelers does business in a number of different jurisdictions. [Additional Privacy Statements](https://web.archive.org/web/20171118221137id_/https%3A//www.travelers.com/privacy-statements/additional-privacy-statements/index.aspx) may apply depending on your jurisdiction or customer relationship. 
+This Online Privacy Statement only applies to information collected through the Services. If you have purchased or applied for an insurance product from us, please also see our [Privacy Statement for Individual U.S. Personal Insurance Consumers](https://web.archive.org/web/20181226134510id_/https%3A//www.travelers.com/privacy-statements/privacy-for-consumers.aspx), which applies to the information that we collect about policyholders and applicants, through the Services as well as any other medium. Travelers does business in a number of different jurisdictions. [Additional Privacy Statements](https://web.archive.org/web/20181226134510id_/https%3A//www.travelers.com/privacy-statements/additional-privacy-statements/index.aspx) may apply depending on your jurisdiction or customer relationship. 
 
   * Personal Information
   * How We May Use Personal Information
