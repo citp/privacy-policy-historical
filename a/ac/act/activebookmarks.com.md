@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activebookmarks.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610162516id_/http%3A//www.activebookmarks.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebookmarks.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226011824id_/http%3A//www.activebookmarks.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › ActiveBookmarks.com : Free Online Bookmarks, Social Bookmarking Favorites Manager | Easy Content Submitter Service of Web Bookmarks
 
