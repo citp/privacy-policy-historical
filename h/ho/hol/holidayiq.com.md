@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616225008id_/http%3A//www.holidayiq.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226072609id_/http%3A//www.holidayiq.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HolidayIQ.com
 
