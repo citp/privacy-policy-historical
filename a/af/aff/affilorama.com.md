@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affilorama.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617025022id_/https%3A//www.affilorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affilorama.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023824id_/https%3A//www.affilorama.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Affilorama
 
@@ -157,7 +157,6 @@ Smtp2go | https://www.smtp2go.com | For email delivery and sending newsletters
 Customer IO | https://customer.io | For email delivery and sending newsletters  
 Webinarjam | https://www.webinarjam.com/ | Registration for webinars and interaction  
 One Signal | https://onesignal.com | Sending push notifications regarding new blog posts  
-Mailmunch | https://www.mailmuch.co | Registration for free supplier  
 Crazy Egg | https://app.crazyegg.com | For tracking visits, sessions and clicks  
 Hotjar | https://insights.hotjar.com | For tracking visits, sessions and clicks  
   
@@ -216,4 +215,4 @@ In addition to the other rights granted to them under this privacy policy, EU-ba
 
 
 
-Please contact our Privacy Officer using the contact details set out in this privacy policy if you wish to exercise any of these rights.
+Please contact our [Privacy Officer](https://web.archive.org/contact) using the contact details set out in this privacy policy if you wish to exercise any of these rights.
