@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620203107id_/https%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023828id_/https%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzar - Free online file conversion
 
@@ -27,7 +27,7 @@ The information we collect about all visitors to our website includes the visito
 The information we collect about all visitors to our website includes the visitor's browser type ("User Agent"), language preference, referring site, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses. 
 
 **What do we collect?**  
-If you convert a file using our services we collect your email address along with details of the filename or file URL. 
+If you convert a file using our services we may collect your email address (if you provide it) along with details of the filename or file URL. 
 
 **Why do we collect this?**  
 We collect this information in order to provide our file conversion services to you – without this information we are not able to convert your files or provide you with a link to download your converted files. 
@@ -64,7 +64,7 @@ If you ask us to convert or store any files containing special categories of per
 We use the information you provide to us in a number of ways and we have set out our legal basis for processing your information below:
 
   
-This is the most common usage of your information. We use your personal information to provide various file conversion Services to you, in accordance with our Terms of Service. In particular, we will use your data to: set-up an account; convert the files that you provide us with into different formats; and to send you links to download those files to the email address you provide us with. 
+This is the most common usage of your information. We use your personal information to provide various file conversion Services to you, in accordance with our Terms of Service. In particular, we will use your data to: set-up an account; convert the files that you provide us with into different formats; and if you provide us with an email address, send you links to download those files to that email address. 
 
 Our use of your personal information in this way is necessary to perform our obligations to provide the Services to you, under our Terms of Service.
 
@@ -290,7 +290,7 @@ We may retain certain other personal information (such as your email address) fo
 
 We will store any files you submit to us for conversion, and their converted outputs on our systems for no longer than 7 days following receipt. After this time they are permanently removed from our storage systems. 
 
-We will retain personal information such as your IP address, email address and browser details for no longer than 30 days. After this time we permanently delete your browser data and anonymise your IP address and email address so that we can no longer personally identify you.
+We will retain personal information such as your IP address, email address (if provided by you) and browser details for no longer than 30 days. After this time we permanently delete your browser data and anonymise your IP address and email address (if provided by you) so that we can no longer personally identify you.
 
 Zamzar may transfer your personal data to countries other than the one in which you live, including to our file server suppliers located in the United States. 
 
