@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928213357id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226051948id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
 
 # This Privacy Policy was last modified and is effective as of September 19, 2016 Remedy Health Media, LLC
 
