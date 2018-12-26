@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714184057id_/https%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226140119id_/https%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At High Country Gardens, we have been selling only the finest gardening products for over 20 years. We have the utmost respect for customer service, privacy and security, whether a sale is made on the phone, via the mail or on the Internet. This privacy and security policy applies to the High Country Gardens website (http://www.highcountrygardens.com) and all products and services offered by High Country Gardens and its parent company, American Meadows.
+At High Country Gardens, we have been selling only the finest gardening products for over 20 years. We have the utmost respect for customer service, privacy and security, whether a sale is made on the phone, via the mail or on the Internet. This privacy and security policy applies to the High Country Gardens website (https://www.highcountrygardens.com) and all products and services offered by High Country Gardens and its parent company, American Meadows.
 
 ## Security for your online order:
 
