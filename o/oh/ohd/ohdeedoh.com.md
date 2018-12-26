@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohdeedoh.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190602id_/https%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohdeedoh.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226203256id_/https%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apartment Therapy
 
