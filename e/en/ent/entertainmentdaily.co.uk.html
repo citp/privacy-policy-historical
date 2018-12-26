@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the entertainmentdaily.co.uk privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626071751id_/http%3A//www.entertainmentdaily.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the entertainmentdaily.co.uk privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226151759id_/http%3A//www.entertainmentdaily.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 
@@ -11,12 +11,13 @@
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,600" rel="stylesheet">
     <link rel="icon" href="/assets/img/icon.png">
+    <meta name="theme-color" content="#d60b52">
 
-            <link rel="stylesheet" href="/assets/css/all.css?cb=a9b0af4c7bd21cf62784841b42b59532">
+            <link rel="stylesheet" href="/assets/css/all.css?cb=3402e962792afc6f6aa95f93e40f74be">
     
     <!-- Quantcast Choice. Consent Manager Tag -->
-<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K5Z52BW"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script type="text/javascript" async="true">
-document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; expires=Thu, 01 Jan 1970 00:00:00 GMT';
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NV5NXDR"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script type="text/javascript" async="true">
+//document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; expires=Thu, 01 Jan 1970 00:00:00 GMT';
     var elem = document.createElement('script');
     elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
     elem.async = true;
@@ -106,7 +107,8 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
         'UI Layout': 'banner',
         'Display UI': 'inEU',
         'Initial Screen Purpose Link Text': 'Manage Settings',
-        'Consent Scope': 'service'
+        'Consent Scope': 'service',
+        'Display Persistent Consent Link': false
     });
 </script>
 <!-- End Quantcast Choice. Consent Manager Tag -->
@@ -152,16 +154,17 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
 
             <script>
             var ED = ED || {};
-            function once(e){if(!e.hasRun)return e.hasRun=!0,e()}function throttle(e,t){var n=!1;return function(){n||(e.call(),n=!0,setTimeout(function(){n=!1},t))}}function startPrebid(){var e=[],t=function(e,t){return ED.prebidConfig[e]||t},n=function(e){return{bidCpmAdjustment:function(t){return t*e}}};if(ED.trigger("registerPrebidUnits",function(n,r){var i=Object.assign({},t("units")[n],{code:r});return i.bids&&i.bids.length?(i.bids.map(function(e,t){"amazon"===e.bidder&&(useAmazon=!0,delete i.bids[t])}),void e.push(i)):void console.log("No prebid config found for unit "+n)}),0===e.length)return ED.trigger("prebidBidsBack");useAmazon&&pbjs.onEvent("requestBids",function(){pbjs.loadScript("//c.amazon-adsystem.com/aax2/amzn_ads.js",function(){amznads.getAdsCallback("3401",function(){try{amznads.setTargetingForGPTAsync("amznslots")}catch(e){}})})}),pbjs.bidderSettings={};for(var r in t("cpm_adjustments",{}))pbjs.bidderSettings[r]=n(t("cpm_adjustments")[r]);pbjs.setConfig({priceGranularity:{buckets:[{min:0,max:10,increment:.01},{min:10,max:15,increment:.02},{min:15,max:20,increment:.05}]},bidderTimeout:t("timeout_"+(ED.mobile?"mobile":"desktop"),1e3),currency:{adServerCurrency:"GBP",bidderCurrencyDefault:{appnexus:"USD",brealtime:"USD",criteo:"GBP",inskin:"GBP",pulsepoint:"USD",rubicon:"USD",sovrn:"USD"},rates:{USD:{GBP:.75}}},consentManagement:{cmpApi:"iab",allowAuctionWithoutConsent:!1}}),pbjs.addAdUnits(e),pbjs.requestBids({bidsBackHandler:function(){return ED.trigger("prebidBidsBack")}}),ED.trigger("prebidStarted")}function startDfp(){var e,t=googletag.pubads(),n=function(e){if(!e)return"";var t=document.createElement("a");return t.href=e,t.hostname};ED.trigger("defineDfpSlots",function(t,n,r){return e=r,googletag.defineSlot("/108455924/"+ED.adunitPrefix+"_"+t,n,r).addService(googletag.pubads())}),t.disableInitialLoad(),t.enableSingleRequest(),t.collapseEmptyDivs();try{pbjs.setTargetingForGPTAsync()}catch(e){console.log(e)}try{amznads.setTargetingForGPTAsync("amznslots")}catch(e){}ED.trigger("beforeDfpRequest"),t.setRequestNonPersonalizedAds(ED.consent.purposeConsents&&ED.consent.purposeConsents[1]),t.setTargeting("referrer",n(document.referrer)),t.setTargeting("width_375",screen.width>=375?"true":"false"),t.setTargeting("width_1410",screen.width>=1410?"true":"false"),googletag.enableServices(),googletag.display(e),googletag.pubads().refresh(),ED.trigger("dfpRequestSent")}"function"!=typeof Object.assign&&(Object.assign=function(e,t){"use strict";if(null==e)throw new TypeError("Cannot convert undefined or null to object");for(var n=Object(e),r=1;r<arguments.length;r++){var i=arguments[r];if(null!=i)for(var o in i)Object.prototype.hasOwnProperty.call(i,o)&&(n[o]=i[o])}return n});var googletag=googletag||{};googletag.cmd=googletag.cmd||[];var pbjs=pbjs||{};pbjs.que=pbjs.que||[];var ED=Object.assign({adunitPrefix:"ED",prebidConfig:{},articleFooter:!0,endOfArticle:!1,interscroller:11,inArticle:[1,7,14,18,22,26],outstream:4,premium:!0,postBody:".article__body",mobile:window.innerWidth<=1024,_events:{},on:function(e,t){this._events[e]=this._events[e]||[],this._events[e].push(t)},off:function(e,t){e in this._events!=!1&&this._events[e].splice(this._events[e].indexOf(t),1)},trigger:function(e){if(e in this._events!=!1)for(var t=0;t<this._events[e].length;t++)this._events[e][t].apply(this,Array.prototype.slice.call(arguments,1))}},ED||{});document.addEventListener("DOMContentLoaded",function(){ED.trigger("domready")}),ED.on("domready",function(){if(!window.__cmp)throw new Error("CMP must be loaded first");window.__cmp("getVendorConsents",null,function(e){ED.consent=e||{},pbjs.que.push(function(){setTimeout(startPrebid,1)})})}),ED.on("prebidBidsBack",function(){googletag.cmd.push(startDfp)}),ED.on("domready",function(){document.getElementById("header-nav-toggle").addEventListener("click",function(){document.getElementById("nav").classList.toggle("is-open")})});        </script>
+            function once(e){return function(){if(!e.hasRun)return e.hasRun=!0,e()}}function throttle(e,t){var n=!1;return function(){n||(e.call(),n=!0,setTimeout(function(){n=!1},t))}}function redrawGrid(){var e,t=document.querySelectorAll(".js-match-heights");for(e=0;e<t.length;++e)evenGridHeights(t[e])}function evenGridHeights(e){var t,n,r=e.children,i=0;for(t=0;t<r.length;++t)r[t].style.height="auto",n=r[t].offsetHeight,n>i&&(i=n);for(t=0;t<r.length;++t)r[t].style.height=i+"px"}function startPrebid(){var e=[],t=function(e,t){return ED.prebidConfig[e]||t},n=function(e){var t=e||1;return{bidCpmAdjustment:function(e){return e*t}}};if(ED.trigger("registerPrebidUnits",e),0===e.length)return ED.trigger("prebidBidsBack");pbjs.bidderSettings={};for(var r in t("cpm_adjustments",{}))pbjs.bidderSettings[r]=n(t("cpm_adjustments")[r]);pbjs.setConfig({priceGranularity:{buckets:[{min:0,max:10,increment:.01},{min:10,max:15,increment:.02},{min:15,max:20,increment:.05}]},bidderTimeout:t("timeout_"+(ED.mobile?"mobile":"desktop"),1e3),currency:{adServerCurrency:"GBP",rates:{USD:{GBP:.75}}},consentManagement:{cmpApi:"iab",allowAuctionWithoutConsent:!1},userSync:{syncDelay:1e3*PREBID_SYNC_DELAY}}),pbjs.addAdUnits(e),pbjs.requestBids({bidsBackHandler:function(){return ED.trigger("prebidBidsBack")}}),ED.trigger("prebidStarted")}function startDfp(){var e,t=googletag.pubads(),n="b"===ED.variant?"b":"a";ED.trigger("defineDfpSlots",function(t,r,i){return e=i,googletag.defineSlot("/108455924/EDUK/"+t+"/"+n,r,i).addService(googletag.pubads())}),t.disableInitialLoad(),t.enableSingleRequest(),t.collapseEmptyDivs();try{pbjs.setTargetingForGPTAsync()}catch(e){console.log(e)}ED.trigger("beforeDfpRequest"),t.setRequestNonPersonalizedAds(ED.consent&&ED.consent.purposeConsents&&ED.consent.purposeConsents[1]),t.setTargeting("referrer",hostname(document.referrer)),t.setTargeting("width_375",screen.width>=375?"true":"false"),t.setTargeting("width_1410",screen.width>=1410?"true":"false"),googletag.enableServices(),googletag.display(e),googletag.pubads().refresh(),ED.trigger("dfpRequestSent")}"function"!=typeof Object.assign&&(Object.assign=function(e,t){"use strict";if(null==e)throw new TypeError("Cannot convert undefined or null to object");for(var n=Object(e),r=1;r<arguments.length;r++){var i=arguments[r];if(null!=i)for(var o in i)Object.prototype.hasOwnProperty.call(i,o)&&(n[o]=i[o])}return n});var googletag=googletag||{};googletag.cmd=googletag.cmd||[];var pbjs=pbjs||{};pbjs.que=pbjs.que||[];var ED=Object.assign({adunitPrefix:"ED",prebidConfig:{},articleFooter:!0,endOfArticle:!0,interscroller:11,inArticle:[1,4,7,10,13,16,22,28,34,40,46,52],outstream:4,premium:!0,postBody:".article__body",mobile:window.innerWidth<=1024,tablet:window.innerWidth<=1024&&window.innerWidth>400,_events:{},on:function(e,t){this._events[e]=this._events[e]||[],this._events[e].push(t)},off:function(e,t){e in this._events!=!1&&this._events[e].splice(this._events[e].indexOf(t),1)},trigger:function(e){if(e in this._events!=!1)for(var t=0;t<this._events[e].length;t++)this._events[e][t].apply(this,Array.prototype.slice.call(arguments,1))}},ED||{});document.addEventListener("DOMContentLoaded",function(){ED.trigger("domready")}),window.addEventListener("resize",throttle(redrawGrid,66),!1),document.addEventListener("DOMContentLoaded",redrawGrid);var CMP_MAX_WAIT=10,PREBID_MAX_WAIT=3,PREBID_SYNC_DELAY=10,startDfpOnce=once(function(){googletag.cmd.push(startDfp)});ED.on("domready",function(){var e=setTimeout(startDfpOnce,1e3*CMP_MAX_WAIT);window.__cmp?window.__cmp("getVendorConsents",null,function(t){clearTimeout(e),setTimeout(startDfpOnce,1e3*PREBID_MAX_WAIT),ED.consent=t||{},pbjs.que.push(function(){setTimeout(startPrebid,1)})}):console.log("CPM is missing")}),ED.on("prebidBidsBack",function(){googletag.cmd.push(startDfpOnce)});var hostname=function(e){if(!e)return"";var t=document.createElement("a");return t.href=e,t.hostname};ED.on("domready",function(){document.getElementById("header-nav-toggle").addEventListener("click",function(){document.getElementById("nav").classList.toggle("is-open")})});        </script>
     
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-K5Z52BW');</script>
-    <!-- End Google Tag Manager -->
-    <script async="async" src="/assets/js/prebid.js?cb=d0eeb19960d1cebe4b889e62d5d08d00"></script>
+    <script>dataLayer = []</script>
+            <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NV5NXDR');</script>
+<!-- End Google Tag Manager -->
+        <script async="async" src="/assets/js/prebid.js?cb=b4df1433ca2e6494fb6ab47ba80fa51c"></script>
 
 
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
@@ -170,7 +173,7 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
 <script>
             var ED = ED || {};
         ED.adunitPrefix = "EDUK";
-        ED.prebidConfig = {"timeout_desktop":750,"timeout_mobile":1300,"currency_adjustment":0.9,"analytics":0,"cpm_adjustments":{"appnexus":1,"criteo":1,"rubicon":0.8,"brealtime":0.8,"pulsepoint":1,"sovrn":1},"units":{"sidebarMpu":{"sizes":[[300,250]],"bids":[{"bidder":"amazon"},{"bidder":"criteo","params":{"zoneId":1096878}},{"bidder":"appnexus","params":{"placementId":12010047}},{"bidder":"sovrn","params":{"tagid":320447}},{"bidder":"rubicon","params":{"accountId":15092,"siteId":89852,"zoneId":423280}},{"bidder":"pulsepoint","params":{"cf":"300X250","cp":558493,"ct":407107}},{"bidder":"brealtime","params":{"placementId":11400672}}]},"inArticleMpu":{"sizes":[[300,250]],"bids":[{"bidder":"amazon"},{"bidder":"criteo","params":{"zoneId":1096878}},{"bidder":"appnexus","params":{"placementId":12009488}},{"bidder":"sovrn","params":{"tagid":320447}},{"bidder":"rubicon","params":{"accountId":15092,"siteId":89854,"zoneId":423284}},{"bidder":"pulsepoint","params":{"cf":"300X250","cp":558493,"ct":407107}},{"bidder":"brealtime","params":{"placementId":11400683}}]}}};
+        ED.prebidConfig = {"timeout_desktop":750,"timeout_mobile":1500,"analytics":0,"cpm_adjustments":{"appnexus":1,"ix":1,"audienceNetwork":1,"rubicon":0.8,"brealtime":0.8,"pulsepoint":1,"sovrn":1},"units":{"sidebarMpu":{"sizes":[[300,250]],"bids":[{"bidder":"ix","params":{"siteId":297930,"size":[300,250]}},{"bidder":"appnexus","params":{"placementId":12010047}},{"bidder":"sovrn","params":{"tagid":320447}},{"bidder":"rubicon","params":{"accountId":15092,"siteId":89852,"zoneId":423280}},{"bidder":"pulsepoint","params":{"cf":"300X250","cp":558493,"ct":407107}},{"bidder":"brealtime","params":{"placementId":11400672}}]},"inArticleMpu":{"sizes":[[300,250]],"bids":[{"bidder":"audienceNetwork","params":{"placementId":"121011591784098_311334372751818"}},{"bidder":"ix","params":{"siteId":297937,"size":[300,250]}},{"bidder":"appnexus","params":{"placementId":12009488}},{"bidder":"sovrn","params":{"tagid":320447}},{"bidder":"rubicon","params":{"accountId":15092,"siteId":89854,"zoneId":423284}},{"bidder":"pulsepoint","params":{"cf":"300X250","cp":558493,"ct":407107}},{"bidder":"brealtime","params":{"placementId":11400683}}]}}};
     </script>
     <!-- Facebook Pixel Code -->
     <script type="text/plain" class="optanon-category-2">
@@ -189,17 +192,18 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
 <meta property="og:site_name" content="Entertainment Daily UK">
 <meta property="og:locale" content="en_GB">
 
+    <link rel="alternate" type="application/rss+xml" title="Entertainment Daily Feed" href="/feed/">
+
     
     <script type="text/plain" class="optanon-category-2" src="//pp.lp4.io/app/59/e8/5c/59e85c7de45a1d476ea882c9.js" async=""></script>
 </head>
 <body>
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5Z52BW"
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NV5NXDR"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<div style="display:none">
+<div style="display:none;visibility:hidden;">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="0 0 159.72 159.9" id="icon-facebook"><path d="M129.712.096q12.487 0 21.246 8.946 8.76 8.946 8.76 21.06v99.893q0 12.3-8.76 21.06-8.76 8.759-21.246 8.945H110.33V97.94h20.687l2.982-24.042h-23.67V58.429q0-5.777 2.424-8.572 2.422-2.796 9.504-2.982l12.673-.187V25.256q-6.522-.932-18.636-.932-13.978 0-22.55 8.2-8.574 8.2-8.387 23.669v17.705H64.483v24.041h20.874V160H30.005q-12.486 0-21.246-8.946Q0 142.11 0 129.994V30.103q0-12.3 8.76-21.06Q17.518.282 30.004.096h99.707z"></path></symbol><symbol viewBox="0 0 186 115" id="icon-logo"><path d="M64.2 50.9H30.1L27.7 68h40.7l-2.6 17.5H4.9L16.7 1.6h60.9l-2.4 17.5H34.5L32.3 35h34.1zm40.5 34.6H72.4L84.1 1.6h32.3c24.4 0 38.7 15.4 38.7 36.5 0 26.5-20.7 47.4-50.4 47.4M102 19.1L95.2 68h10.5c14.9 0 28.4-10.6 28.4-28.1 0-13.7-9.2-20.8-21.5-20.8H102zM166 63c6 0 10.3 4.6 10.3 10.5 0 7.3-6.6 13.1-13.7 13.1-6 0-10.2-4.5-10.2-10.3.1-7.3 6.4-13.3 13.6-13.3m7.6-7.4h-13.1l2.7-53.9H186l-12.4 53.9zM11.1 104.9H5l-.4 3.5h7.2l-.4 2.4h-10l2-13.9h10l-.4 2.5H5.8l-.4 3.2h6.1zm4.1 5.9h-2.8l1.4-9.7h1.7l.2 1.4h.2c.9-1.1 1.8-1.6 3.4-1.6 2.5 0 3.8 1.7 3.4 4.3l-.8 5.7h-2.8l.8-5.4c.2-1.2-.4-2.1-1.7-2.1s-2.1 1-2.3 2l-.7 5.4zm10.1-9.7l.4-3h2.8l-.4 3h2.4l-.3 2.2h-2.4l-.6 4.4c-.1.7.2 1.1.9 1.1.6 0 1.1-.3 1.1-.3l.5 1.9c-.4.3-1.5.8-2.6.8-2.3 0-3-1.4-2.7-3.4l.6-4.5h-1.7l.3-2.2h1.7z"></path><path d="M38.5 109.9s-1.3 1.2-3.8 1.2c-2.9 0-4.6-1.9-4.6-4.4 0-3.3 2.4-5.8 5.6-5.8 2.5 0 3.9 1.6 3.9 4.1 0 .8-.2 1.6-.2 1.6h-6.7c-.1 1.7.8 2.4 2.4 2.4 1.5 0 2.6-.8 2.6-.8l.8 1.7zm-5.4-5.1H37c0-1.2-.5-1.9-1.6-1.9s-1.9.6-2.3 1.9m13.2-1.4h-.5c-1.3 0-2.4.9-2.6 2.4l-.7 5h-2.8l1.4-9.7h1.7l.2 1.4h.1c.7-1 1.6-1.4 2.9-1.4h.5l-.2 2.3zm2.9-2.3l.4-3h2.8l-.4 3h2.4l-.3 2.2h-2.4l-.6 4.4c-.1.7.2 1.1.9 1.1.6 0 1.1-.3 1.1-.3l.5 1.9c-.4.3-1.5.8-2.6.8-2.3 0-3-1.4-2.7-3.4l.6-4.5h-1.7l.3-2.2h1.7z"></path><path d="M62.4 102.4l.6-1.3h1.8l-1.4 9.7h-1.8l-.3-1.3h-.1s-1 1.6-3.4 1.6c-2.3 0-3.9-1.7-3.9-4.3 0-3.4 2.5-5.9 5.3-5.9 2.4 0 3 1.6 3 1.6h.2zm-2.8.7c-1.5 0-2.7 1.4-2.7 3.2 0 1.4.7 2.4 1.9 2.4 1.6 0 2.8-1.3 2.8-3.3.1-1.4-.7-2.3-2-2.3m6.8-2h2.8l-1.4 9.7H65l1.4-9.7zm.2-2.9c0-1 .9-1.8 1.9-1.8.8 0 1.4.6 1.4 1.4 0 1-.9 1.8-1.9 1.8-.8 0-1.4-.6-1.4-1.4m5.5 12.6h-2.8l1.4-9.7h1.7l.2 1.4h.2c.9-1.1 1.8-1.6 3.4-1.6 2.5 0 3.8 1.7 3.4 4.3l-.8 5.7H76l.8-5.4c.2-1.2-.4-2.1-1.7-2.1s-2.1 1-2.3 2l-.7 5.4zm17.2 0h-2.8l.8-5.5c.2-1.1-.4-2-1.7-2s-2.1.9-2.2 1.9l-.8 5.7h-2.8l1.4-9.7h1.7l.2 1.4h.2c.8-1 1.8-1.6 3.3-1.6 1.6 0 2.7.6 3.2 1.7h.1c.8-1 1.8-1.7 3.4-1.7 2.5 0 3.8 1.7 3.4 4.3l-.8 5.7h-2.8l.8-5.4c.2-1.2-.4-2.1-1.6-2.1-1.3 0-2.1 1-2.2 2l-.8 5.3zm16.5-.9s-1.3 1.2-3.8 1.2c-2.9 0-4.6-1.9-4.6-4.4 0-3.3 2.4-5.8 5.6-5.8 2.5 0 3.9 1.6 3.9 4.1 0 .8-.2 1.6-.2 1.6H100c-.1 1.7.8 2.4 2.4 2.4 1.5 0 2.6-.8 2.6-.8l.8 1.7zm-5.4-5.1h3.9c0-1.2-.5-1.9-1.6-1.9s-1.9.6-2.3 1.9m9.4 6H107l1.4-9.7h1.7l.2 1.4h.2c.9-1.1 1.8-1.6 3.4-1.6 2.5 0 3.8 1.7 3.4 4.3l-.8 5.7h-2.8l.8-5.4c.2-1.2-.4-2.1-1.7-2.1s-2.1 1-2.2 2l-.8 5.4z"></path><path d="M119.4 101.1l.4-3h2.8l-.4 3h2.4l-.3 2.2h-2.4l-.6 4.4c-.1.7.2 1.1.9 1.1.6 0 1.1-.3 1.1-.3l.5 1.9c-.4.3-1.5.8-2.6.8-2.3 0-3-1.4-2.7-3.4l.6-4.5h-1.7l.3-2.2h1.7zm14.9 9.7h-5.1l1.9-13.9h5.1c4 0 6.4 2.5 6.4 6 0 4.6-3.5 7.9-8.3 7.9m-.7-11.4l-1.3 9h2.1c2.8 0 5.2-1.9 5.2-5.2 0-2.5-1.7-3.8-4-3.8h-2z"></path><path d="M151 102.4l.6-1.3h1.8l-1.4 9.7h-1.8l-.3-1.3h-.1s-1 1.6-3.4 1.6c-2.3 0-3.9-1.7-3.9-4.3 0-3.4 2.5-5.9 5.3-5.9 2.4 0 3 1.6 3 1.6h.2zm-2.9.7c-1.5 0-2.7 1.4-2.7 3.2 0 1.4.7 2.4 1.9 2.4 1.6 0 2.8-1.3 2.8-3.3.1-1.4-.7-2.3-2-2.3m6.4-2h2.8l-1.4 9.7h-2.8l1.4-9.7zm.2-2.9c0-1 .9-1.8 1.9-1.8.8 0 1.4.6 1.4 1.4 0 1-.9 1.8-1.9 1.8-.9 0-1.4-.6-1.4-1.4m4.7-1.4h2.8l-2 14h-2.8zm12.5 4.3l-1.3 9.2c-.4 2.7-2.3 4.7-5.6 4.7-2 0-3.2-.9-3.7-1.5l1.6-1.7c.3.4 1 1 2.4 1 1.5 0 2.4-.9 2.6-2.4l.1-.5c-.6.5-1.6 1.1-2.9 1.1-2.6 0-3.8-1.7-3.5-4.3l.8-5.6h2.8l-.8 5.4c-.2 1.3.3 2.2 1.6 2.2s2.2-.9 2.4-1.9l.8-5.7h2.7z"></path></symbol><symbol viewBox="0 0 100.07 83.37" id="icon-menu"><path d="M100 71.5v8.3q0 1.8-1.2 2.9-1.1 1.2-3 1.3H4.2q-1.7 0-2.9-1.3T0 79.8v-8.3q0-1.7 1.3-2.9t2.9-1.3h91.6q1.8 0 3 1.3 1.3 1.3 1.2 2.9zm0-33.4v8.4q0 1.6-1.2 2.9-1.2 1.3-3 1.2H4.2q-1.8 0-2.9-1.2Q.1 48.3 0 46.5v-8.4q0-1.6 1.3-2.9 1.3-1.3 2.9-1.2h91.6q1.8 0 3 1.2 1.3 1.2 1.2 2.9zm0-33.3v8.3q0 1.6-1.2 2.9-1.2 1.3-3 1.3H4.2q-1.8 0-2.9-1.3Q.1 14.8 0 13.2V4.9q0-1.8 1.3-3Q2.6.6 4.2.7h91.6q1.8 0 3 1.2 1.3 1.2 1.2 3z"></path></symbol><symbol viewBox="0 0 48 48" id="icon-search"><path d="M31 28h-1.59l-.55-.55C30.82 25.18 32 22.23 32 19c0-7.18-5.82-13-13-13S6 11.82 6 19s5.82 13 13 13c3.23 0 6.18-1.18 8.45-3.13l.55.55V31l10 9.98L40.98 38 31 28zm-12 0a9 9 0 1 1 .001-18.001A9 9 0 0 1 19 28z"></path></symbol><symbol viewBox="0 0 194.48 158.27" id="icon-twitter"><path d="M194.48 20.806q-8.186 11.948-19.912 20.577v5.089q0 16.151-4.646 32.081-4.647 15.93-14.16 30.754-9.514 14.824-22.79 25.887-13.275 11.062-31.86 18.142t-40.046 6.638q-33.41 0-61.066-17.921 4.204.442 9.514.442 27.878 0 49.56-17.036-13.054-.222-23.231-7.965-10.178-7.744-14.16-19.692 4.203.664 7.522.664 5.31 0 10.62-1.328-13.939-2.876-23.01-13.717-9.071-10.842-9.071-25.444v-.443q8.407 4.647 18.142 5.09-8.186-5.532-13.053-14.161-4.868-8.629-4.868-19.028 0-10.841 5.531-20.134 15.046 18.364 36.286 29.427 21.24 11.062 46.02 12.169-1.106-4.647-1.106-9.072 0-16.594 11.726-28.099Q118.15 2.221 134.522 2 152 2 163.726 14.611q13.496-2.655 25.444-9.735-4.647 14.16-17.7 22.125 11.504-1.327 23.01-6.195z"></path></symbol><symbol viewBox="0 0 1792 1792" id="icon-whatsapp" xmlns="http://www.w3.org/2000/svg"><path d="M1113 974q13 0 97.5 44t89.5 53q2 5 2 15 0 33-17 76-16 39-71 65.5t-102 26.5q-57 0-190-62-98-45-170-118T604 889q-72-107-71-194v-8q3-91 74-158 24-22 52-22 6 0 18 1.5t19 1.5q19 0 26.5 6.5T738 544q8 20 33 88t25 75q0 21-34.5 57.5T727 811q0 7 5 15 34 73 102 137 56 53 151 101 12 7 22 7 15 0 54-48.5t52-48.5zm-203 530q127 0 243.5-50t200.5-134 134-200.5 50-243.5-50-243.5T1354 432t-200.5-134T910 248t-243.5 50T466 432 332 632.5 282 876q0 203 120 368l-79 233 242-77q158 104 345 104zm0-1382q153 0 292.5 60T1443 343t161 240.5 60 292.5-60 292.5-161 240.5-240.5 161-292.5 60q-195 0-365-94l-417 134 136-405q-108-178-108-389 0-153 60-292.5T377 343t240.5-161T910 122z"></path></symbol></svg></div>
 
 <header class="header">
@@ -210,7 +214,7 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
         <svg class="icon icon-menu header-toggle" id="header-nav-toggle"><use xlink:href="#icon-menu"></use></svg>
         <h2 class="header-tagline">The Latest Celebrity News &amp; Showbiz Gossip</h2>
 
-        <h3 class="header-date">Tuesday 26th June 2018</h3>
+        <h3 class="header-date">Wednesday 26th December 2018</h3>
 
     </div>
 </header>
@@ -218,13 +222,64 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
 <nav class="nav" id="nav">
     <div class="l-wrapper">
         <ul class="nav-categories">
-                            <li><a href="/news/">News</a></li>
-                            <li><a href="/tv/">TV</a></li>
-                            <li><a href="/real-life/">Real Life</a></li>
-                            <li><a href="/style/">Style</a></li>
-                            <li><a href="/quizzes-polls/">Quizzes &amp; Polls</a></li>
-                            <li><a href="/video/">Video</a></li>
-                    </ul>
+                            <li class="nav-category">
+                                                                <a href="/news/">News</a>
+                                                        </li>
+                            <li class="nav-category">
+                                        <span class="caret">▼</span>
+                                                                <a href="/tv/" onclick="return false">TV</a>
+                                                            <ul class="nav-subcategories">
+                                                    <li>
+                                <a href="/tv/daytime-tv/">Daytime TV</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/documentary/">Documentaries</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/drama-tv/">Drama</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/entertainment/">Entertainment</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/reality-tv/">Reality TV</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/talk-shows/">Talk Shows</a>
+                            </li>
+                                            </ul>
+                                    </li>
+                            <li class="nav-category">
+                                        <span class="caret">▼</span>
+                                                                <a href="/soaps/">Soaps</a>
+                                                            <ul class="nav-subcategories">
+                                                    <li>
+                                <a href="/soaps/coronation-street/">Coronation Street</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/eastenders/">EastEnders</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/emmerdale/">Emmerdale</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/hollyoaks/">Hollyoaks</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/home-and-away/">Home and Away</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/neighbours/">Neighbours</a>
+                            </li>
+                                            </ul>
+                                    </li>
+                            <li class="nav-category">
+                                                                <a href="/style/">Style</a>
+                                                        </li>
+                        <li class="nav-category">
+                <a href="https://eddeals.co.uk/">Deals</a>
+            </li>
+        </ul>
 
         <form class="nav-search search-form" method="get" action="/">
             <input type="search" class="search-form__field" name="s" placeholder="Search Entertainment Daily">
@@ -247,226 +302,230 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
 <main class="content">
     <div class="l-wrapper wysiwyg-content">
 
-    
-        <h1>Privacy Policy and GDPR Compliance</h1>
-        <p class="is-small is-italic">Last updated: May 17, 2018</p>
-        <h2>General Principles &amp; GDPR</h2>
-        <p>
-           Digitalbox Publishing ("us", "we", or "our") operates the www.entertainmentdaily.co.uk website (the "Service"). We are GDPR compliant.
-        </p>
-        <p>
-            This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
-        </p>
-        <p>
-            We will not use or share your information with anyone except as described in this Privacy Policy.
-        </p>
-        <p>
-            We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
-            
-        </p>
-        <p>
-            We adhere to data principles set out in Article 5 of the GDPR ensuring that data is:
-        </p>
-        <ol type="a">
-            <li>
-                Processed lawfully, fairly and in a transparent manner in relation to individuals;</li><br>
-            <li>
-                Collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall not be considered to be incompatible with the initial purposes;
-            </li><br>
-            <li>
-                Adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed;
-            </li><br>
-            <li>
-                Accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay;
-            </li><br>
-            <li>
-                Kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes subject to implementation of the appropriate technical and organisational measures required by the GDPR in order to safeguard the rights and freedoms of individuals; and
-            </li><br>
-            <li>
-                Processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures.</li>
-        </ol>
+    <h1>Privacy Policy and GDPR Compliance</h1>
+    <p class="is-small is-italic">Last updated: May 17, 2018</p>
+    <h2>General Principles &amp; GDPR</h2>
+    <p>
+       Digitalbox Publishing ("us", "we", or "our") operates the www.entertainmentdaily.co.uk website (the "Service"). We are GDPR compliant.
+    </p>
+    <p>
+        This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+    </p>
+    <p>
+        We will not use or share your information with anyone except as described in this Privacy Policy.
+    </p>
+    <p>
+        We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
+        
+    </p>
+    <p>
+        We adhere to data principles set out in Article 5 of the GDPR ensuring that data is:
+    </p>
+    <ol type="a">
+        <li>
+            Processed lawfully, fairly and in a transparent manner in relation to individuals;</li><br>
+        <li>
+            Collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall not be considered to be incompatible with the initial purposes;
+        </li><br>
+        <li>
+            Adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed;
+        </li><br>
+        <li>
+            Accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay;
+        </li><br>
+        <li>
+            Kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes subject to implementation of the appropriate technical and organisational measures required by the GDPR in order to safeguard the rights and freedoms of individuals; and
+        </li><br>
+        <li>
+            Processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures.</li>
+    </ol>
 
-        <h2>Information Collection And Use</h2>
-        <p>
-            While using our Service, we may ask you to provide us with certain personally identifiable information that can
-            be used to contact or identify you.
-        </p>
+    <h2>Information Collection And Use</h2>
+    <p>
+        While using our Service, we may ask you to provide us with certain personally identifiable information that can
+        be used to contact or identify you.
+    </p>
 
-        <h2>Log Data</h2>
-        <p>
-            We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log
-            Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser
-            version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages
-            and other statistics.
-        </p>
-        <p>
-            In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this
-            type of information in order to increase our Service's functionality. These third party service providers have
-            their own privacy policies addressing how they use such information.
-        </p>
+    <h2>Log Data</h2>
+    <p>
+        We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log
+        Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser
+        version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages
+        and other statistics.
+    </p>
+    <p>
+        In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this
+        type of information in order to increase our Service's functionality. These third party service providers have
+        their own privacy policies addressing how they use such information.
+    </p>
 
-        <h2>Cookies</h2>
-        <p>
-            Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent
-            to your browser from a web site and stored on your computer's hard drive.
-        </p>
-        <p>
+    <h2>Cookies</h2>
+    <p>
+        Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent
+        to your browser from a web site and stored on your computer's hard drive.
+    </p>
+    <p>
 
-            You can find more detail about the cookies we use and how to manage your preferences by reading our <a href="/cookies">Cookie Policy</a>
-        </p>
+        You can find more detail about the cookies we use and how to manage your preferences by reading our <a href="/cookies">Cookie Policy</a>
+    </p>
 
-        <ul>
-            <li>
-                <h3>Facebook</h3>
-                <p>
-                    Facebook remarketing service is provided by Facebook Inc.
-                </p>
-                <p>
-                    You can learn more about interest-based advertising from Facebook by visiting this page:
-                    <a href="https://www.facebook.com/help/164968693837950">https://www.facebook.com/help/164968693837950</a>
-                </p>
-                <p>
-                    To opt-out from Facebook's interest-based ads follow these instructions from Facebook:
-                    <a href="https://www.facebook.com/about/ads/#568137493302217">https://www.facebook.com/about/ads/#568137493302217</a>
-                </p>
-                <p>
-                    Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by
-                    the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies
-                    through the Digital Advertising Alliance in the USA <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>,
-                    the Digital Advertising Alliance of Canada in Canada <a href="http://youradchoices.ca/">http://youradchoices.ca/</a>
-                    or the European Interactive Digital Advertising Alliance in Europe <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>,
-                    or opt-out using your mobile device settings.
-                </p>
-                <p>
-                    For more information on the privacy practices of Facebook, please visit Facebook's Data Policy:
-                    <a href="https://www.facebook.com/privacy/explanation">https://www.facebook.com/privacy/explanation</a>
-                </p>
-            </li>
-            <li>
-                <h3>Google</h3>
-                <p>
-                    <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use our services</a>
-                </p>
-            </li>
-        </ul>
+    <ul>
+        <li>
+            <h3>Facebook</h3>
+            <p>
+                Facebook remarketing service is provided by Facebook Inc.
+            </p>
+            <p>
+                You can learn more about interest-based advertising from Facebook by visiting this page:
+                <a href="https://www.facebook.com/help/164968693837950">https://www.facebook.com/help/164968693837950</a>
+            </p>
+            <p>
+                To opt-out from Facebook's interest-based ads follow these instructions from Facebook:
+                <a href="https://www.facebook.com/about/ads/#568137493302217">https://www.facebook.com/about/ads/#568137493302217</a>
+            </p>
+            <p>
+                Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by
+                the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies
+                through the Digital Advertising Alliance in the USA <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>,
+                the Digital Advertising Alliance of Canada in Canada <a href="http://youradchoices.ca/">http://youradchoices.ca/</a>
+                or the European Interactive Digital Advertising Alliance in Europe <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>,
+                or opt-out using your mobile device settings.
+            </p>
+            <p>
+                For more information on the privacy practices of Facebook, please visit Facebook's Data Policy:
+                <a href="https://www.facebook.com/privacy/explanation">https://www.facebook.com/privacy/explanation</a>
+            </p>
+        </li>
+        <li>
+            <h3>Google</h3>
+            <p>
+                <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use our services</a>
+            </p>
+        </li>
+        <li>
+            <h3>Awin</h3>
+            <p>
+                <a href="https://www.awin.com/gb/legal/privacy-policy-gb">Awin Privacy Policy</a> - see section 2.3 "When using our technologies and services via websites and online services of our clients"
+            </p>
+        </li>
+    </ul>
 
-        <h2>Service Providers or “Processors”</h2>
-        <p>
-            We may employ third party companies and individuals to facilitate our Service, to provide the Service on our
-            behalf, to perform Service- related services or to assist us in analyzing how our Service is used.
-        </p>
-        <p>
-            These third parties have access to your Personal Information only to perform these tasks on our behalf and are
-            obligated not to disclose or use it for any other purpose.
-        </p>
-        <p>
-            We will do our utmost to ensure these third-party Service Providers or “Processors” are fully GDPR compliant.
-        </p>
+    <h2>Service Providers or “Processors”</h2>
+    <p>
+        We may employ third party companies and individuals to facilitate our Service, to provide the Service on our
+        behalf, to perform Service- related services or to assist us in analyzing how our Service is used.
+    </p>
+    <p>
+        These third parties have access to your Personal Information only to perform these tasks on our behalf and are
+        obligated not to disclose or use it for any other purpose.
+    </p>
+    <p>
+        We will do our utmost to ensure these third-party Service Providers or “Processors” are fully GDPR compliant.
+    </p>
 
-        <h2>Email &amp; Push Notifications</h2>
-        <p>
-            If you sign up to receive email newsletters or push notifications from us we will use your data only to provide
-            the service you requested. Your data will only be accessed by ourselves or the relevant Service Provider/Processor
-            for the specific provision or improvement of the service. We will not send you any marketing or promotional
-            materials without your explicit consent and you can opt out of these services at any time and we will no longer
-            store or use your data.
-        </p>
-        <p>
-            To manage your email preferences, simply follow the relevant link on any email you receive from us.
-        </p>
-        <p>
-            To manage push notifications, you need to change the settings in your browser. You can find more information
-            by searching “how to manage push notifications in {name of your browser}”
-        </p>
+    <h2>Email &amp; Push Notifications</h2>
+    <p>
+        If you sign up to receive email newsletters or push notifications from us we will use your data only to provide
+        the service you requested. Your data will only be accessed by ourselves or the relevant Service Provider/Processor
+        for the specific provision or improvement of the service. We will not send you any marketing or promotional
+        materials without your explicit consent and you can opt out of these services at any time and we will no longer
+        store or use your data.
+    </p>
+    <p>
+        To manage your email preferences, simply follow the relevant link on any email you receive from us.
+    </p>
+    <p>
+        To manage push notifications, you need to change the settings in your browser. You can find more information
+        by searching “how to manage push notifications in {name of your browser}”
+    </p>
 
-        <h2>Compliance With Laws</h2>
-        <p>
-            We will disclose your Personal Information where required to do so by law or in accordance with an order of a
-            court of competent jurisdiction, or if we believe that such action is necessary to comply with the law and the
-            reasonable requests of law enforcement or to protect the security or integrity of our Service.
-        </p>
+    <h2>Compliance With Laws</h2>
+    <p>
+        We will disclose your Personal Information where required to do so by law or in accordance with an order of a
+        court of competent jurisdiction, or if we believe that such action is necessary to comply with the law and the
+        reasonable requests of law enforcement or to protect the security or integrity of our Service.
+    </p>
 
-        <h2>Security</h2>
-        <p>
-            The security of your Personal Information is important to us, but remember that no method of transmission over
-            the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable
-            means to protect your Personal Information, we cannot guarantee its absolute security. As such we make no
-            warranties as to the level of security afforded to your data, except that we will always act in accordance with
-            the relevant UK and EU legislation.
-        </p>
+    <h2>Security</h2>
+    <p>
+        The security of your Personal Information is important to us, but remember that no method of transmission over
+        the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable
+        means to protect your Personal Information, we cannot guarantee its absolute security. As such we make no
+        warranties as to the level of security afforded to your data, except that we will always act in accordance with
+        the relevant UK and EU legislation.
+    </p>
 
-        <h2>International Transfer</h2>
-        <p>
-            Your information, including Personal Information, may be transferred to — and maintained on — computers located
-            outside of your state, province, country or other governmental jurisdiction where the data protection laws may
-            differ than those from your jurisdiction.
-        </p>
-        <p>
-            If you are located outside United Kingdom and choose to provide information to us, please note that we transfer
-            the information, including Personal Information, to United Kingdom and process it there.
-        </p>
-        <p>
-            Your consent to this Privacy Policy followed by your submission of such information represents your agreement to
-            that transfer.
-        </p>
-        <p>
-            In the event that a dispute arises with regards to the international transfer of data, you agree that the courts
-            of England and Wales shall have exclusive jurisdiction over the matter.
-        </p>
+    <h2>International Transfer</h2>
+    <p>
+        Your information, including Personal Information, may be transferred to — and maintained on — computers located
+        outside of your state, province, country or other governmental jurisdiction where the data protection laws may
+        differ than those from your jurisdiction.
+    </p>
+    <p>
+        If you are located outside United Kingdom and choose to provide information to us, please note that we transfer
+        the information, including Personal Information, to United Kingdom and process it there.
+    </p>
+    <p>
+        Your consent to this Privacy Policy followed by your submission of such information represents your agreement to
+        that transfer.
+    </p>
+    <p>
+        In the event that a dispute arises with regards to the international transfer of data, you agree that the courts
+        of England and Wales shall have exclusive jurisdiction over the matter.
+    </p>
 
-        <h2>Links To Other Sites</h2>
-        <p>
-            Our Service may contain links to other sites that are not operated by us. If you click on a third party link,
-            you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every
-            site you visit.
-        </p>
-        <p>
-            We have no control over, and assume no responsibility for the content, privacy policies or practices of any
-            third party sites or services.
-        </p>
+    <h2>Links To Other Sites</h2>
+    <p>
+        Our Service may contain links to other sites that are not operated by us. If you click on a third party link,
+        you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every
+        site you visit.
+    </p>
+    <p>
+        We have no control over, and assume no responsibility for the content, privacy policies or practices of any
+        third party sites or services.
+    </p>
 
-        <h2>Children's Privacy</h2>
-        <p>
-            Our Service does not address anyone under the age of 13 ("Children").
-        </p>
-        <p>
-            We do not knowingly collect personally identifiable information from children under 13. If you are a parent or
-            guardian and you are aware that your Children has provided us with Personal Information, please contact us. If
-            we become aware that we have collected Personal Information from a child under age 13 without verification of
-            parental consent, we take steps to remove that information from our servers.
-        </p>
+    <h2>Children's Privacy</h2>
+    <p>
+        Our Service does not address anyone under the age of 13 ("Children").
+    </p>
+    <p>
+        We do not knowingly collect personally identifiable information from children under 13. If you are a parent or
+        guardian and you are aware that your Children has provided us with Personal Information, please contact us. If
+        we become aware that we have collected Personal Information from a child under age 13 without verification of
+        parental consent, we take steps to remove that information from our servers.
+    </p>
 
-        <h2>Changes To This Privacy Policy</h2>
-        <p>
-            We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new
-            Privacy Policy on this page.
-        </p>
-        <p>
-            You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are
-            effective when they are posted on this page.
-        </p>
-        <p>
-            If we make any material changes to this Privacy Policy, we will notify you either through the email address you
-            have provided us, or by placing a prominent notice on our website.
-        </p>
+    <h2>Changes To This Privacy Policy</h2>
+    <p>
+        We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new
+        Privacy Policy on this page.
+    </p>
+    <p>
+        You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are
+        effective when they are posted on this page.
+    </p>
+    <p>
+        If we make any material changes to this Privacy Policy, we will notify you either through the email address you
+        have provided us, or by placing a prominent notice on our website.
+    </p>
 
-        <h2>Jurisdiction</h2>
-        <p>
-            This Policy shall be governed and construed in accordance with the laws of England and Wales, without regard to
-            its conflict of law provisions.
-        </p>
+    <h2>Jurisdiction</h2>
+    <p>
+        This Policy shall be governed and construed in accordance with the laws of England and Wales, without regard to
+        its conflict of law provisions.
+    </p>
 
-        <h2>Contact Us</h2>
-        <p>
+    <h2>Contact Us</h2>
+    <p>
 
-            If you have questions or wish to submit a Data Access request, please email <a href="/cdn-cgi/l/email-protection#167277627738676373647f736556727f717f62777a74796e3875797b"><span class="__cf_email__" data-cfemail="2f4b4e5b4e015e5a4a5d464a5c6f4b4648465b4e434d4057014c4042">[email&nbsp;protected]</span></a> or write
-            to Data Protection Officer, Digitalbox, 2-4 Henry Street, Bath, BA1 1JT and we will respond as soon as possible.
-            We may need to establish proof of your identity before we provide information.
-        </p>
+        If you have questions or wish to submit a Data Access request, please email <a href="mailto:data.queries@digitalbox.com">data.queries@digitalbox.com</a> or write
+        to Data Protection Officer, Digitalbox, 2-4 Henry Street, Bath, BA1 1JT and we will respond as soon as possible.
+        We may need to establish proof of your identity before we provide information.
+    </p>
 
-        <br>
+    <br>
 
-    
 </div>
 </main>
 
@@ -482,14 +541,64 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
             <button type="submit" class="search-form__submit"><svg class="icon icon-search "><use xlink:href="#icon-search"></use></svg></button>
         </form>
 
+        <nav>
         <ul class="l-inline footer-category-menu">
-                            <li><a href="/news/">News</a></li>
-                            <li><a href="/tv/">TV</a></li>
-                            <li><a href="/real-life/">Real Life</a></li>
-                            <li><a href="/style/">Style</a></li>
-                            <li><a href="/quizzes-polls/">Quizzes &amp; Polls</a></li>
-                            <li><a href="/video/">Video</a></li>
+                            <li>
+                    <a href="/news/">News</a>
+                                    </li>
+                            <li>
+                    <a href="/tv/">TV</a>
+                                        <ul>
+                                                    <li>
+                                <a href="/tv/daytime-tv/">Daytime TV</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/documentary/">Documentaries</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/drama-tv/">Drama</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/entertainment/">Entertainment</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/reality-tv/">Reality TV</a>
+                            </li>
+                                                    <li>
+                                <a href="/tv/talk-shows/">Talk Shows</a>
+                            </li>
+                                            </ul>
+                                    </li>
+                            <li>
+                    <a href="/soaps/">Soaps</a>
+                                        <ul>
+                                                    <li>
+                                <a href="/soaps/coronation-street/">Coronation Street</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/eastenders/">EastEnders</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/emmerdale/">Emmerdale</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/hollyoaks/">Hollyoaks</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/home-and-away/">Home and Away</a>
+                            </li>
+                                                    <li>
+                                <a href="/soaps/neighbours/">Neighbours</a>
+                            </li>
+                                            </ul>
+                                    </li>
+                            <li>
+                    <a href="/style/">Style</a>
+                                        <ul>
+                                            </ul>
+                                    </li>
                     </ul>
+        </nav>
 
         <div class="footer-social">
             <a href="https://www.facebook.com/entertainmentdailyfix/">
@@ -524,7 +633,7 @@ document.cookie = 'euconsent=; path=/; domain=.www.entertainmentdaily.co.uk; exp
 
 </footer>
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><iframe name="__cmpLocator" style="display: none;"></iframe><script type="text/plain" class="optanon-category-2">
+<script type="text/plain" class="optanon-category-2">
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -590,4 +699,4 @@ function getConsent(w, h) {
 
 
 
-<div id="subscribe-push" title="Subscribe to notifications"><img src="/assets/img/icon.png"><p><strong>Entertainment Daily would like to send you push notifications</strong></p><p>Do you want to be notified of the latest TV and celebrity news?</p><div id="subscribe-push-options"><button class="button cancel" onclick="rejectNotifications()">No thanks</button><button class="button" onclick="getConsent(600, 400)">Yes please!</button></div></div></body></html>
+<div id="subscribe-push" title="Subscribe to notifications"><img src="/assets/img/icon.png"><p><strong>Entertainment Daily would like to send you push notifications</strong></p><p>Do you want to be notified of the latest TV and celebrity news?</p><div id="subscribe-push-options"><button class="button cancel" onclick="rejectNotifications()">No thanks</button><button class="button" onclick="getConsent(600, 400)">Yes please!</button></div></div><iframe name="__cmpLocator" style="display: none;"></iframe></body></html>
