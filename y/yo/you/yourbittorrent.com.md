@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614123857id_/https%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023823id_/https%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
 
 # YourBittorrent - Privacy Policy
 
@@ -8,10 +8,13 @@ Your IP Address is  .   Location is
 
 Your Internet Provider and Government can track your download activities! Hide your IP ADDRESS with a VPN!
 
-**We** strongly recommend using NordVPN to anonymize your Downloading. **It's FREE!**
+**We** strongly recommend using a VPN service to anonymize your torrent downloads. **It's FREE!**
 
 START YOUR FREE TRIAL NOW!
 
+|   
+---|---  
+  
 How we deal with your **private data**
 
 Our Privacy Policy has always been quite simple: We don't log almost anything, nor do we send out any spam. We just want people to be able to use torrents without any fears.We do want to point out what data gets logged, in case you want to remain completely anonymous.  
@@ -25,7 +28,7 @@ Where identification is required for purposes of user login, we use an encrypted
 We temporarily save all the search queries done through our site to be able to make statistics and present you with search clouds. This query log gets deleted 7 days after the search was performed.In some rare cases, if you trigger our anti-spam system, we also save your IP address along with your search.We manually check the IPs and searches that triggered the anti-spam system and afterwards we either block the spammer's IP or delete the log file.
 
  **COPPA**  
-The US federal law "[COPPA](http://en.wikipedia.org/wiki/Children's_Online_Privacy_Protection_Act)" doesn't apply to our website. We however ask any child under 13 years of age to obtain parental consent to use this website.
+The US federal law "[COPPA](https://en.wikipedia.org/wiki/Children's_Online_Privacy_Protection_Act)" doesn't apply to our website. We however ask any child under 13 years of age to obtain parental consent to use this website.
 
  **Third-party Advertisements**  
 We use third-party advertising companies to serve advertisements on YourBittorrent.com.There are two types of advertisements. The ones that load from our servers, and the ones that load directly from the servers of the advertisers.Advertisements that we serve ourselves, don't place any cookies on your browser, nor save any of your private data anywhere. For this reason, you might still see advertisements for a product, even while you have already bought it.When an advertisement loads directly from the advertiser's server, the advertiser can see your IP and browser data, but they can never access your personal or user data.In the course of serving advertisements, our third-party advertisers may place a unique cookie on your browser to keep track of advertisements you have seen already.Such cookie is encrypted and also contains no personal information.
