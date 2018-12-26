@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdopia.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112756id_/http%3A//chocolateplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdopia.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226091953id_/https%3A//chocolateplatform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chocolate
 
@@ -12,7 +12,7 @@ Chocolate provides an advertising platform that enables website and mobile websi
 
 #### WHAT DOES THIS PRIVACY POLICY COVER?
 
-This Privacy Policy covers the information that we may collect or receive through all digital formats, including the Internet and mobile: (1) from users who: use our software applications, use our social media pages such as LinkedIn and Twitter, receive email messages from us, and visit [www.chocolateplatform.com](http://www.chocolateplatform.com/) and other websites owned and operated by us, including our career pages and our client and user interfaces (collectively, the “ **Chocolate Pages** ”); and (2) through our technology and platform used by our clients and third parties (collectively with the Chocolate Pages, the “ **Services** ”).
+This Privacy Policy covers the information that we may collect or receive through all digital formats, including the Internet and mobile: (1) from users who: use our software applications, use our social media pages such as LinkedIn and Twitter, receive email messages from us, and visit [www.chocolateplatform.com](https://www.chocolateplatform.com/) and other websites owned and operated by us, including our career pages and our client and user interfaces (collectively, the “ **Chocolate Pages** ”); and (2) through our technology and platform used by our clients and third parties (collectively with the Chocolate Pages, the “ **Services** ”).
 
 This Privacy Policy does not cover, and we are not responsible for, the privacy, data or other practices of any third parties (except as required by applicable law), such as our publisher clients, our advertising clients such as demand side platforms, any third party data management providers, any third party ad servers, and any service providers. See “ **Third Parties** ” below for more information. 
 
