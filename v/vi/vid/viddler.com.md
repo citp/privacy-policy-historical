@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411022319id_/http%3A//www.viddler.com/viddler-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226070738id_/https%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Viddler Training
+# Privacy Policy - Viddler
 
-Last updated: February 2nd, 2017
+Last updated: May 24, 2018
 
-Thank you for visiting Viddler.com. We are committed to protecting your privacy and, for that reason, we have adopted this Privacy Policy to memorialize our data collection and disclosure practices for the Viddler Platform and its related tools and services (collectively, the “Services”). The Services are owned and operated by Viddler, Inc., a Delaware Corporation (“we”, “us” or “our”), but the content transmitted through the Services, such as (but not limited to) video content, may be owned and distributed by our customers. This Privacy Policy applies to information collected through the Services, which may be used directly on our domains or may appear from one of our customers’ domains, as well as other information provided to us online or offline by users of our Services; however, it does not apply to information collected from our employees, contractors or vendors. This Privacy also does not apply to our customer’s confidential information or information generated in connection with providing the Services to our customers, which is governed by the Business Services Agreement available here.
+Effective: May 25, 2018
+
+Thank you for visiting Viddler.com. We are committed to protecting your privacy and, for that reason, we have adopted this Privacy Policy to memorialize our data collection and disclosure practices for the Viddler Platform and its related tools and services (collectively, the “Services”). The Services are owned and operated by Viddler, Inc., a Delaware Corporation (“we”, “us” or “our”), but the content transmitted through the Services, such as (but not limited to) video content, may be owned and distributed by our customers. This Privacy Policy applies to information collected through the Services, which may be used directly on our domains or may appear from one of our customers’ domains, as well as other information provided to us online or offline by users of our Services; however, it does not apply to information collected from our employees, contractors or vendors. This Privacy also does not apply to our customers’ confidential information or information generated in connection with providing the Services to our customers, which is governed by the Business Services Agreement available here.
 
 This Privacy Policy describes, among other things:
 
@@ -23,13 +25,20 @@ By using the Services, you consent to this Privacy Policy. If you do not agree w
 
 When you use our Services, we collect Personal Information. By “Personal Information” we mean information that can identify an individual, such as:
 
-Names  
-Personal or business addresses  
-Email addresses  
-Phone numbers  
-Social Security numbers  
-Government-issued identification numbers  
-Credit card information (which you submit for payment purposes)  
+Names
+
+Personal or business addresses
+
+Email addresses
+
+Phone numbers
+
+Social Security numbers
+
+Government-issued identification numbers
+
+Credit card information (which you submit for payment purposes)
+
 Information contained in any image, photograph or profile you choose to submit to us.
 
 In particular, we collect the following additional types of Personal Information from you:
@@ -111,9 +120,9 @@ You can erase information stored in cookies, flash cookies, and local browser st
 
 When you use our Services, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request, in either case if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backups), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
-Please e-mail us at privacy@viddler.com with any questions, if you need assistance accessing or changing your Personal Information, or if you would like to have your Personal Information deleted. Please be aware that if you delete your Personal Information, you may not be able to continue to use the Services. Also, even if you request that we delete your Personal Information, we may need to retain certain information for a limited period of time to satisfy our legal, audit and/or dispute resolution requirements.
+Please email us at privacy@viddler.com with any questions, if you need assistance accessing or changing your Personal Information, or if you would like to have your Personal Information deleted. Please be aware that if you delete your Personal Information, you may not be able to continue to use the Services. Also, even if you request that we delete your Personal Information, we may need to retain certain information for a limited period of time to satisfy our legal, audit and/or dispute resolution requirements.
 
-You can opt out of receiving marketing e-mails from us by clicking on the “unsubscribe” link in the e-mails. Please note that it may take up to ten (10) business days for your opt-out request to be processed. Also, even if you opt of marketing e-mails, we may continue to send you certain account-related e-mails, such as notices about your account and confirmations of transactions you have requested.
+You can opt out of receiving marketing emails from us by clicking on the “unsubscribe” link in the emails. Please note that it may take up to ten (10) business days for your opt-out request to be processed. Also, even if you opt of marketing emails, we may continue to send you certain account-related emails, such as notices about your account and confirmations of transactions you have requested.
 
 ### 7\. CHILDREN
 
@@ -131,38 +140,89 @@ A California resident who has provided personal information to a business with w
 
 However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s Personal Information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of Personal Information to third parties for direct marketing purposes and providing a cost free means to exercise that right. To prevent disclosure of your Personal Information for use in direct marketing by a third party for its own purposes, do not opt in to or authorize such use when you provide Personal Information on Viddler.com. Please note that whenever you allow your Personal Information to be shared with a third party to communicate with you, your information will be subject to that third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California Customers may request further information about our compliance with California’s privacy law by e-mailing privacy@viddler.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+California Customers may request further information about our compliance with California’s privacy law by e-mailing privacy@viddler.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
 
-### 10\. THIRD PARTY WEBSITES
+### 10\. EU – US PRIVACY SHIELD AND DISPUTE RESOLUTION
 
-Please note that the Services may link or be integrated with third party sites, services or apps. We are not responsible for the privacy or security policies or practices or the content of such third parties. Accordingly, we encourage you to review the privacy and security policies and terms of service of those third parties so that you understand how those websites collect, use, share and protect your information.
+We comply with the US-EU Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. We certified that we adhere to the relevant Privacy Shield Principles. To learn more about the EU-US Privacy Shield program, and to view our certification, please visit the [Privacy Shield website](https://www.privacyshield.gov/).
 
-### 11\. CHANGES TO THIS POLICY
-
-We may modify or update this Privacy Policy periodically with or without prior notice by posting the updated policy on this page. You can always check the “Last Updated” date at the top of this document to see when the Privacy Policy was last changed. If we make any material changes to this Privacy Policy, we will notify you by e-mail or post a notice of the changes prior to the changes becoming effective. We encourage you to check this Privacy Policy from time to time. IF YOU DO NOT AGREE TO FUTURE CHANGES TO THIS PRIVACY POLICY, YOU MUST STOP USING THE SERVICES AND SERVICES AFTER THE EFFECTIVE DATE OF SUCH CHANGES (WHICH IS THE “LAST UPDATED” DATE).
-
-### 12\. QUESTIONS
-
-To ask questions about our Privacy Policy or to lodge a complaint, contact us at:
-
-Viddler, Inc.  
-520 Evans St  
-Suite 1  
-Bethlehem, PA 18015 USA
-
-Email: privacy@viddler.com
-
-### 13\. SAFE HARBOR AND DISPUTE RESOLUTION
-
-We comply with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. We certified that we adhere to the relevant Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view our certification, please visit the Safe Harbor website.
-
-We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. For complaints that cannot be resolved with complainants, we have agreed to participate in the dispute resolution procedures as required by the Safe Harbor program.
+We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. For complaints that cannot be resolved with complainants, we have agreed to participate in the dispute resolution procedures as required by the EU-US Privacy Shield Principles Safe Harbor program.
 
 We are also subject to the jurisdiction of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:
 
-Federal Trade Commission  
-Attn: Consumer Response Center  
-600 Pennsylvania Avenue NW  
-Washington, DC 20580  
-www.consumerline@ftc.gov  
+Federal Trade Commission
+
+Attn: Consumer Response Center
+
+600 Pennsylvania Avenue NW
+
+Washington, DC 20580
+
+www.consumerline@ftc.gov
+
 www.ftc.gov
+
+### 11\. GENERAL DATA PROTECTION REGULATION **(GDPR)**
+
+The European Union’s General Data Protection Regulation (GDPR) protects European Union data subjects’ right to privacy and the protection of personal data. Viddler will comply with the GDPR when it becomes enforceable on May 25, 2018. 
+
+**Rights**
+
+You consent to the purposes for which we process your Personal Information by visiting our Websites or communicating with us and, if we have other lawful grounds to do so, we may process your Personal Information.
+
+  1. Notwithstanding the foregoing, you will have a right to withdraw consent to processing, where consent is the basis of processing.
+  2. For the Personal Information we collect on our Websites, this means you may withdraw your consent to processing by leaving our Websites, suspend your account if you have registered on our Websites, and requesting that we delete your Personal Information by contacting us as directed below.
+  3. You will have the right to access your Personal Information that we hold and how to process it, under certain conditions.
+  4. You will have a right to demand rectification of inaccurate Personal Information about you.
+  5. You will have the right to object to unlawful data processing under certain conditions.
+  6. You will have the right to erasure of past data about you (your “right to be forgotten”) under certain conditions.
+  7. You will have the right to demand that we restrict processing of your Personal Information, under certain conditions, if you believe we have exceeded the legitimate basis for processing, processing is no longer necessary, are processing, or believe your Personal Information is inaccurate.
+  8. You will have a right to data portability of Personal Information concerning you that you provided us in a structured, commonly used, and machine-readable format, subject to certain conditions.
+  9. The Personal Information we collect on our Websites is not used for automated decision making and profiling, except for automated processes in the context of marketing.
+  10. You will have a right to complain to a data protection supervisory authority in your country.
+
+
+
+Our representative in the EU for the purposes of compliance with the GDPR is EPS, which may be contacted at:
+
+Manuel Asorey
+
+EPS
+
+Centro de Negocios Rozas Nova 
+
+Castillo de Fuensaldaña 4, Oficina 129 
+
+28232, Las Rozas – Madrid Spain
+
+Attn: GDPR
+
+Email: [masorey@eps.es](http://masorey@eps.es/), privacy@viddler.com 
+
+To learn more about your specific rights under the GDPR you can visit the [European Commission’s page on Protection of Personal Data](http://ec.europa.eu/justice/data-protection/index_en.htm).
+
+**Cross-border Personal Information Transfers**
+
+Viddler is a multinational organization that is headquartered in the United States and has systems and business functions around the world. We may share your Personal Information within Viddler entities and transfer it to countries where we do business, including outside of the European Union and other European countries pursuant to standard contractual clauses. Other countries have privacy laws that are different from privacy laws in your country. We handle Personal Information as described herein regardless of location, and we strive to ensure that our employees, agents and partners in other countries act in a manner consistent with this privacy policy.
+
+### 12\. THIRD PARTY WEBSITES
+
+Please note that the Services may link or be integrated with third party sites, services or apps. We are not responsible for the privacy or security policies or practices or the content of such third parties. Accordingly, we encourage you to review the privacy and security policies and terms of service of those third parties so that you understand how those websites collect, use, share and protect your information.
+
+### 13\. CHANGES TO THIS POLICY
+
+We may modify or update this Privacy Policy periodically with or without prior notice by posting the updated policy on this page. You can always check the “Last Updated” date at the top of this document to see when the Privacy Policy was last changed. If we make any material changes to this Privacy Policy, we will notify you by e-mail or post a notice of the changes prior to the changes becoming effective. We encourage you to check this Privacy Policy from time to time. IF YOU DO NOT AGREE TO FUTURE CHANGES TO THIS PRIVACY POLICY, YOU MUST STOP USING THE SERVICES AND SERVICES AFTER THE EFFECTIVE DATE OF SUCH CHANGES (WHICH IS THE “LAST UPDATED” DATE).
+
+### 14\. QUESTIONS
+
+To ask questions about our Privacy Policy or to lodge a complaint, contact us at:
+
+Viddler, Inc.
+
+520 Evans St
+
+Suite 1
+
+Bethlehem, PA 18015 USA
+
+Email: privacy@viddler.com
