@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626143128id_/https%3A//newtechnetwork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224110id_/https%3A//newtechnetwork.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Tech Network New Tech Network
 
@@ -6,7 +6,7 @@ _(Effective & Last Modified January 18, 2018)_
 
  **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE OR OTHER SERVICES THAT WE PROVIDE. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY.**
 
-The New Technology Networks, LLC and its subsidiaries (“NTN,” “us,” “we,” or “our”) offers you access to its interactive online websites, applications and services. This Privacy Policy, together with our [Terms of Use](https://newtechnetwork.org/terms-of-use/) and any additional terms which might apply to certain products or services, govern your use of our websites and any other online services we provide you (collectively, “Website”), as well as information that you may provide to us in response to email requests and surveys.
+The New Tech Network, Inc and its subsidiaries (“NTN,” “us,” “we,” or “our”) offers you access to its interactive online websites, applications and services. This Privacy Policy, together with our [Terms of Use](https://newtechnetwork.org/terms-of-use/) and any additional terms which might apply to certain products or services, govern your use of our websites and any other online services we provide you (collectively, “Website”), as well as information that you may provide to us in response to email requests and surveys.
 
 We respect your privacy and are committed to protecting the personally identifiable information you provide us through our Website or otherwise.  We have adopted this Privacy Policy to detail the types of information we collect when you use our Website, how we use the information we collect from you or that you provide to us, the instances in which we may share your information with others, and the choices and options you have to restrict our collection and/or sharing of your information.
 
@@ -95,7 +95,7 @@ Our Website may link to or contain links to other third party websites that we d
 
 
 
-You may contact us as at privacydirector@newtechnetwork.org, or in writing at Privacy Director, New Tech Network 1040 Main Street, Suite 302, Napa, CA 94559, if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+You may contact us as at privacydirector@newtechnetwork.org, or in writing at Privacy Director, New Tech Network 1040 Main Street, Suite 100, Napa, CA 94559, if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
