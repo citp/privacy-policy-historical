@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accenturefederal.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613033340id_/https%3A//www.accenture.com/us-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenturefederal.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024330id_/https%3A//www.accenture.com/us-en/privacy-policy) for the most accurate reproduction.*
 
 # Accenture Privacy Statement
 
@@ -69,7 +69,7 @@ Justified on the basis of our legitimate interests for ensuring the proper funct
 
 Justified on the basis of our legitimate interests for ensuring that we can conduct and increase our business.
 
-Where the above table states that we rely on our legitimate interests for a given purpose, we are of the opinion that our legitimate interests are not overridden by your interests, rights or freedoms, given (i) the transparency we provide on the processing activity, (ii) our privacy by design approach, (iii) our regular privacy reviews and (iv) the rights you have in relation to the processing activity. Please [contact us](mailto:websitedataprivacy@accenture.com?cc=ACN-websitedataprivacy@accenture.com;patrick.s.carver@accenture.com "Mail to Website Data Privacy. This opens a new window.") if you wish to obtain further information on this balancing test approach.
+Where the above table states that we rely on our legitimate interests for a given purpose, we are of the opinion that our legitimate interests are not overridden by your interests, rights or freedoms, given (i) the transparency we provide on the processing activity, (ii) our privacy by design approach, (iii) our regular privacy reviews and (iv) the rights you have in relation to the processing activity. Please [contact us](mailto:websitedataprivacy@accenture.com?cc=ACN-websitedataprivacy@accenture.com "Mail to Website Data Privacy. This opens a new window.") if you wish to obtain further information on this balancing test approach.
 
 We will process your personal data for the purposes mentioned above based on your prior consent, to the extent such consent is mandatory under applicable laws.
 
@@ -142,4 +142,4 @@ To the extent that the processing of your personal data is based on your consent
 
 If, despite our commitment and efforts to protect your personal data, you believe that your data privacy rights have been violated, we encourage and welcome individuals to come to Accenture first to seek resolution of any complaint. You have the right at all times to register a complaint directly with the relevant supervisory authority or to make a claim against Accenture with a competent court (either in the country where you live, the country where you work or the country where you deem that data privacy law has been infringed). 
 
-[Contact us](mailto:websitedataprivacy@accenture.com?cc=ACN-websitedataprivacy@accenture.com;patrick.s.carver@accenture.com "Mail to Website Data Privacy. This opens a new window.") to exercise any of your rights.
+[Contact us](mailto:websitedataprivacy@accenture.com?cc=ACN-websitedataprivacy@accenture.com "Mail to Website Data Privacy. This opens a new window.") to exercise any of your rights.
