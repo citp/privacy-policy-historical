@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentware.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623165759id_/http%3A//www.torrentware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentware.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226200532id_/http%3A//torrentware.com/privacy-policy) for the most accurate reproduction.*
 
 # Learn More | TorrentWare
 
@@ -24,7 +24,7 @@ The GDPR Owner is responsible for ensuring that this notice is made available to
 
 The Company develops and markets browser extensions. We create browser extensions and offer them to consumers. 
 
-  * [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * Gdpr-requests@tightropeinteractive.com
   * Tightrope Interactive: GDPR REQUEST
   * 588 Sutter St #551
   * San Francisco, CA 94102
@@ -201,4 +201,4 @@ If you feel that we have not followed our Privacy Policy, please let us know. Al
 
 Tightrope Interactive, Inc. 588 Sutter St #551, San Francisco, CA 94102
 
-Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Alternatively, if you would like, contact us via e-mail at webmaster@torrentware.com
