@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626025537id_/http%3A//www.ringsidenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226210050id_/http%3A//www.ringsidenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ringside News | Wrestling News & WWE News, Rumors & Spoilers
 
