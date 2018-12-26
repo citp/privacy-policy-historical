@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604200549id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226042118id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 20govt.com- Govt Job & Upcoming Sarkari Naukri 2018-19
+
+You are here: [Home](http://20govt.com/) Privacy Policy
+
+By [Leave a Comment](http://20govt.com/privacy-policy/#respond)
 
 Privacy Policy
 
@@ -31,14 +35,3 @@ You should consult the respective privacy policies of these third-party ad serve
  **Changes to Privacy Policy**
 
 We may change this privacy policy in future which will be reflected in this page. For any further questions, you may contact us at 20govt **[at]gmail.com**  (replace [at] with @).
-
-Tell others about this Job
-
-  *  __
-  *  __
-  *  __
-  *  __
-  *  _[](https://api.whatsapp.com/send?text=Privacy%20Policy%20http%3A%2F%2F20govt.com%2Fprivacy-policy%2F)_
-  *   *  __
-
-
