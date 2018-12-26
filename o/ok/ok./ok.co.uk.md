@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626111049id_/https%3A//www.ok.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226192036id_/https%3A//www.ok.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # About
 
-Express Newspapers, TM Publishing 1 Plc and TM Magazines Limited (together we/us) publish a number of publications including the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, OK!., Star and new!. This is the Privacy Policy for these online publications and for certain services provided through our websites and mobile applications (“our sites”).
+Express Newspapers, Reach Magazines Publishing Plc and Reach Magazines Limited (together we/us) publish a number of publications including the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, OK!., Star and new!. This is the Privacy Policy for these online publications and for certain services provided through our websites and mobile applications (“our sites”).
 
 This policy explains how we make use of personal data we collect. We are committed to your right to privacy and will only use your data as set out in this Privacy Policy. Please read this information carefully. By using our sites and submitting information, you consent to the collection and use of your personal data by us as described in this Privacy Policy.
 
@@ -10,11 +10,12 @@ We occasionally modify our Privacy Policy and will post those changes on this pa
 We collect different types of information about our users for three main reasons:  
 1.    To provide personalised services and marketing to users;  
 2.    To help us to monitor and improve the services we offer;  
-3.    To sell advertising space on the site and personalised adverts. This helps us to keep the site free for people who visit it;
+3.    To sell advertising space on the site and personalised adverts. This helps us to keep the site free for people who visit it;  
+4.    To respond to any enquiries you send us directly
 
 In summary we might use your information to:
 
-•    Remember when you visit our websites and track your browsing patterns by using cookies (please see our [Cookie Policy](https://www.ok.co.uk/about/cookie-policy));  
+•    Remember when you visit our websites and track your browsing patterns by using [cookies](http://www.ok.co.uk/about/cookie-policy);  
 •    Place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you;  
 •    Ensure any products or services you receive are correctly administered;  
 •    Communicate with you by email, post, telephone, sms text message, social media or mobile push message to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) but only according to the permissions you give us;  
@@ -57,10 +58,7 @@ We may also ask some other voluntary questions during registration for certain s
 **4) Use of children's data**  
 We do not knowingly collect or store any personal data about children under the age of 16.
 
-**5) Your consent**  
-By using our sites and submitting information, you consent to the collection and use of your personal data by us as described above and under certain circumstances for us to share that data with third parties in accordance with Section 7 below.
-
-**6) Who we share data with**  
+**5) Who we share data with**  
 We will not share your personal data with others for marketing purposes unless you have given us your permission. If we have your permission, we will share your information only with other organisations we have chosen carefully.
 
 We may make the services of other organisations available through our sites, although we are not necessarily operating these sites. We process any information which we collect when you access a service provided by another organisation under this privacy policy. It is important that you appreciate that information these other organisations collect is governed by their own privacy policies.
@@ -73,31 +71,35 @@ We may use service providers to help us run these sites (or services available o
 
 Those other organisations may use information about your visit to our sites on their pages. If you browse these pages while still also logged in to your account with us, information they collect may be connected to your account on their site. For more information on how these organisations use information, please read their privacy policies.
 
-**7) Why we share your information**  
+**6) Why we share your information**  
 We may share your personal data with third parties in the following circumstances:  
-•    For marketing purposes provided always that you consent to us sharing such information with third parties by notifying us via our sites or in other communications (e.g. opting in by ticking the relevant box(s) on the sites at the point of registration);  
+•    For marketing and advertising purposes provided always that you consent to us sharing such information with third parties by notifying us via our sites or in other communications (e.g. opting in by ticking the relevant box(s) on the sites at the point of registration or accepting cookies);  
 •    To other members of our group, our partners and service providers (for example people who provide technical services to our sites) for the purpose of managing or administering certain aspects of our sites, or to help us develop new services;  
 •    If we are under a duty to disclose or share your personal data in order to comply with any legal obligation and/or in order to enforce or apply any other agreements between you and us; or  
 •    To protect the rights, property or safety of ourselves or other users.
 
-**8) Advertising**  
-In the event that we use third party advertisers or sponsors on our sites, we do not disclose identifiable information about individuals, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in London). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' and sponsors' wishes by displaying their advertisement to that target audience.  
-In 2014 we launched a new advertising service that utilises online behavioural advertising. This facility allows us to deliver targeted advertising to people who visit our sites. It works by showing you adverts that are based on your browsing patterns and the way you have interacted with our sites.  
-As you browse our sites, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in. We can then display advertising on your browser that is based on these perceived interests.  
-Behavioural retargeting is another form of online behavioural advertising that allows us and some of our advertising partners to show you ads based on your browsing patterns and interactions on a site away from our sites. For example, if you have visited the website of an online clothes shop, you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This allows companies to advertise to you if you leave their website without making a purchase.  
-If you want to opt out of marketing communications, this does not mean that you will no longer receive advertising when you are using our sites. It just means that the advertising you see will not be customised for you.
+**7) Advertising**  
+When you use our site, if you’ve given the relevant Consent, you will see adverts either for our products and services, or those of our advertising partners.
 
-**9) Links**  
+Some of these adverts will be based on aggregate information (for example, women in Birmingham) and some of them will be based on your individual browsing patterns and the way you have interacted with our site.  We then display advertising on our site that is based on these perceived interests.
+
+You may also see adverts on our site based on your browsing patterns and interactions on another site. For example, if you have visited the website of an online clothes shop, you may start seeing ads on our site from that same shopping site displaying special offers or showing you the products that you were browsing. This allows companies to advertise to you if you leave their website without making a purchase.  You can opt out of this by not accepting cookies on their sites.
+
+In some instances, if you’ve given the relevant Consent, third parties will collect data directly from your web browser and the processing of this data is subject to their own privacy policies.  This will allow them to show you relevant adverts on their sites based on your behaviour on our site.  You can control which third parties are collecting data in this way by customising your [Cookie Settings](https://www.ok.co.uk/about/cookie-settings)
+
+If you opt out of marketing communications such as emails, this does not mean that you will no longer receive advertising when you are using our sites. 
+
+**8) Links**  
 Please note that our sites may from time to time contain links to and from other websites. If you follow a link to any of these websites, please note that we are not responsible for the privacy practices or the content of such websites and the information practices of those websites are not covered by this Privacy Policy. Please check the individual privacy policy of any website before you submit any personal data to them.
 
-**10) Data Storage and retention**  
+**9) Data Storage and retention**  
 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password or other data which enables you to access certain parts of a website, you are responsible for keeping this password and any other log-in details confidential and we recommend that you do not share your password or other log-in details with anyone. You will be responsible for all activity under your username/log-in details. We will keep your personal data for only so long as is necessary or as otherwise required by applicable law.
 
 The data that we collect from you maybe transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
 The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**11) Data subject rights**  
+**10) Data subject rights**  
 As a data subject you may have rights in relation to your personal data which include:  
 
 •     **Right to rectification.** You may request that we rectify any inaccurate or incomplete personal data.   
@@ -121,7 +123,7 @@ For all general enquiries regarding the Daily Express, Daily Star, Daily Star Su
 **Email:** [web.help@express.co.uk](mailto:web.help@express.co.uk)  
 **Phone General Enquiries:** 020 8612 7000  
 **Address:** Electronic Customer Relationship Management Department  
-Express Newspapers and TM Publishing 1 Plc  
+Express Newspapers and Reach Magazines Publishing Plc  
 The Northern & Shell Building,  
 10 Lower Thames Street,  
 London,  
