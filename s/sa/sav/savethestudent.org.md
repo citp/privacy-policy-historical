@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626130744id_/https%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226211554id_/https%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Save the Student
 
@@ -12,7 +12,7 @@ Grip Media Limited is the data controller and we are responsible for your person
 
 This policy is effective from 29th March 2018.
 
-###  **Contact Details**
+### **Contact Details**
 
 Grip Media Limited trading as Save the Student.
 
@@ -30,18 +30,18 @@ Personal data means any information capable of identifying an individual. It doe
 
 We may process certain types of personal data about you as follows:
 
-  *  **Identity Data** may include your first name, maiden name, last name, username, title, date of birth and gender.
-  *  **Contact Data** may include your address, email address and telephone numbers.
-  *  **Technical Data** may include your login data, internet protocol addresses, browser type and version, browser plug-in types and versions, time zone setting and location, operating system and platform and other technology on the devices you use to access this site.
-  *  **Profile Data** may include your username and password, university graduation year, university name, university course name or area, preferences, feedback and survey responses.
-  *  **Usage Data** may include information about how you use our website, products and services.
-  *  **Marketing and Communications Data** may include your preferences in receiving marketing communications from us and our third parties and your communication preferences.
+  * **Identity Data** may include your first name, maiden name, last name, username, title, date of birth and gender.
+  * **Contact Data** may include your address, email address and telephone numbers.
+  * **Technical Data** may include your login data, internet protocol addresses, browser type and version, browser plug-in types and versions, time zone setting and location, operating system and platform and other technology on the devices you use to access this site.
+  * **Profile Data** may include your username and password, university graduation year, university name, university course name or area, preferences, feedback and survey responses.
+  * **Usage Data** may include information about how you use our website, products and services.
+  * **Marketing and Communications Data** may include your preferences in receiving marketing communications from us and our third parties and your communication preferences.
 
 
 
 We may also process Aggregated Data from your personal data but this data does not reveal your identity and as such in itself is not personal data. An example of this is where we review your Usage Data to work out the percentage of website users using a specific feature of our site. If we link the Aggregated Data with your personal data so that you can be identified from it, then it is treated as personal data.
 
- **Sensitive Data**
+**Sensitive Data**
 
 We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
@@ -51,16 +51,16 @@ Where we are required to collect personal data by law, or under the terms of the
 
 We collect data about you through a variety of different methods including:
 
-  *  **Direct interactions:** You may provide data by filling in forms on our site (or otherwise) or by communicating with us by post, phone, email or otherwise, including when you:
+  * **Direct interactions:** You may provide data by filling in forms on our site (or otherwise) or by communicating with us by post, phone, email or otherwise, including when you: 
     * create an account on our site;
     * subscribe to our service or publications;
     * request resources or marketing be sent to you;
     * enter a competition, prize draw, promotion or survey; or
     * give us feedback.
-  *  **Automated technologies or interactions:** As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns.  
+  * **Automated technologies or interactions:** As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns.  
 We collect this data by using cookies, server logs and similar technologies.  
 We may also receive Technical Data about you if you visit other websites that use our cookies. Please see our cookie policy at <https://www.savethestudent.org/cookie-policy> for further details.
-  *  **Third parties or publicly available sources:** We may receive personal, identity, contact or technical data about you from various third parties and public sources as set out below:
+  * **Third parties or publicly available sources:** We may receive personal, identity, contact or technical data about you from various third parties and public sources as set out below: 
     * Analytics providers such as Google ([privacy policy](https://policies.google.com/privacy?hl=en)) and Clicky ([privacy policy](https://clicky.com/terms/privacy)) based outside the EU;
     * Search information providers such as Google and Microsoft based outside the EU;
     * Social media websites such as Facebook, Twitter and LinkedIn based outside the EU;
@@ -87,23 +87,23 @@ Generally, we do not rely on consent as a legal ground for processing your perso
 
 You have the right to withdraw consent to marketing at any time by emailing us at  or following unsubscribe links in our newsletters.
 
-###  **Purposes for processing your personal data**
+### **Purposes for processing your personal data**
 
 Set out below is a description of the ways we intend to use your personal data and the legal grounds on which we will process such data. We have also explained what our legitimate interests are where relevant.
 
 We may process your personal data for more than one lawful ground, depending on the specific purpose for which we are using your data. Please email us at  if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
- **Purpose/Activity**|  **Type of data**|  **Lawful basis for processing**  
+**Purpose/Activity** | **Type of data** | **Lawful basis for processing**  
 ---|---|---  
-To register you as a new website user| (a) Identity  
-(b) Contact| Performance of a contract with you  
-To manage our relationship with you which will include:
+To register you as a new website user | (a) Identity  
+(b) Contact | Performance of a contract with you  
+To manage our relationship with you which will include: 
 
 (a) Notifying you about changes to our terms or privacy policy
 
 (b) Asking you to leave a review or take a survey
 
-| (a) Identity
+| (a) Identity 
 
 (b) Contact
 
@@ -111,13 +111,13 @@ To manage our relationship with you which will include:
 
 (d) Marketing and Communications
 
-| (a) Performance of a contract with you
+| (a) Performance of a contract with you 
 
 (b) Necessary to comply with a legal obligation
 
 (c) Necessary for our legitimate interests to keep our records updated and to study how our audience use our products/services  
   
-To enable you to partake in a prize draw, competition or complete a survey| (a) Identity
+To enable you to partake in a prize draw, competition or complete a survey  | (a) Identity 
 
 (b) Contact
 
@@ -127,21 +127,21 @@ To enable you to partake in a prize draw, competition or complete a survey| (a) 
 
 (e) Marketing and Communications
 
-| (a) Performance of a contract with you
+| (a) Performance of a contract with you 
 
 (b) Necessary for our legitimate interests to study how our audience use our products/services, to develop them and grow our business  
   
-To administer and protect our business and our site (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)| (a) Identity
+To administer and protect our business and our site (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)  | (a) Identity 
 
 (b) Contact
 
 (c) Technical
 
-| (a) Necessary for our legitimate interests for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise
+| (a) Necessary for our legitimate interests for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise 
 
 (b) Necessary to comply with a legal obligation  
   
-To deliver relevant website content and advertisements to you and measure and understand the effectiveness of our advertising| (a) Identity
+To deliver relevant website content and advertisements to you and measure and understand the effectiveness of our advertising  | (a) Identity 
 
 (b) Contact
 
@@ -153,13 +153,13 @@ To deliver relevant website content and advertisements to you and measure and un
 
 (f) Technical
 
-| Necessary for our legitimate interests to study how our audience use our products/services, to develop them, to grow our business and to inform our marketing strategy  
-To use data analytics to improve our website, products/services, marketing, customer relationships and experiences| (a) Technical
+| Necessary for our legitimate interests to study how our audience use our products/services, to develop them, to grow our business and to inform our marketing strategy   
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences  | (a) Technical 
 
 (b) Usage
 
-| Necessary for our legitimate interests to define types of visitors for our products and services, to keep our site updated and relevant, to develop our business and to inform our marketing strategy  
-To fulfil your request to be contacted by a third-party service or organisation| (a) Identity
+| Necessary for our legitimate interests to define types of visitors for our products and services, to keep our site updated and relevant, to develop our business and to inform our marketing strategy   
+To fulfil your request to be contacted by a third-party service or organisation  | (a) Identity 
 
 (b) Contact
 
@@ -169,7 +169,7 @@ To fulfil your request to be contacted by a third-party service or organisation|
 
 | Performance of a contract with you (consent)  
    
-To make suggestions and recommendations to you about goods or services that may be of interest to you| (a) Identity
+To make suggestions and recommendations to you about goods or services that may be of interest to you  | (a) Identity 
 
 (b) Contact
 
@@ -179,9 +179,9 @@ To make suggestions and recommendations to you about goods or services that may 
 
 (e) Profile
 
-| Necessary for our legitimate interests to develop our products/services and grow our business  
+| Necessary for our legitimate interests to develop our products/services and grow our business   
   
-###  **Marketing communications  **
+### **Marketing communications  **
 
 You will receive marketing communications from us if you have:
 
@@ -191,11 +191,11 @@ You will receive marketing communications from us if you have:
 
 
 
-We have a long-standing partnership with [Graduate Recruitment Bureau](https://www.savethestudent.org/out/grb) (GRB) and we may ask you whether you would like to be contacted by them for their marketing purposes. Only with your express opt-in consent will we share your personal data with them. We may also receive monetary remuneration from them. You can find their own privacy policy [here](https://www.grb.uk.com/about-us/privacy-policy).
+We have a long-standing partnership with [Graduate Recruitment Bureau](https://www.savethestudent.org/out/grb) (GRB) and we may ask you whether you would like to be contacted by them for their marketing purposes. Only with your express opt-in consent will we share your personal data with them. We may also receive monetary remuneration from them. You can find their own privacy policy [here](https://www.grb.uk.com/about-us/privacy-policy). 
 
 You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by emailing us at  at any time.
 
-###  **Change of purpose**
+### **Change of purpose**
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to find out more about how the processing for the new purpose is compatible with the original purpose, please email us at 
 
