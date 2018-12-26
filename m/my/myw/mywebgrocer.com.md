@@ -1,83 +1,152 @@
-> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527005711id_/http%3A//mywebgrocer.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226032450id_/https%3A//mi9retail.com/privacy-policy) for the most accurate reproduction.*
 
-# MyWebGrocer - Privacy Policy
+# Privacy Policy - Mi9 Retail
 
-Last Updated: April 18, 2014
+**Last updated on December 4, 2018.**
 
-MyWebGrocer is committed to protecting your privacy. This Privacy Policy (“Privacy Policy”) explains how we collect, use, share and protect your personal information.
+Your privacy is important to Mi9 Retail, Inc. and our subsidiaries and affiliates (“Mi9 Retail,” “Publisher,” “us,” “our,” or “we”).  We respect your preferences concerning the treatment of any personal information that we may collect. This policy explains how we collect and use your Personal Information, how you can control its use, and it describes our practices regarding information collected from Mi9 Retail sites that link or refer to this policy (such as our websites, software applications, social media pages, and HTML-formatted e-mail messages), as well as through offline sales and marketing activities (collectively, the “Content”).
 
-This Privacy Policy governs the collection and use of your personal information by MyWebGrocer on this web site, any other web site hosted by MyWebGrocer and any application, product or service made available by MyWebGrocer on behalf of itself or its customers, including its grocery retailer and consumer packaged goods clients (collectively, the “Services”).  If you do not agree with any provision of this Privacy Policy, you should immediately discontinue use of the Services.
+Mi9 Retail respects the rights and data protection of personal Users (hereinafter, the “User,” “you,” or “your”) of this website, mi9retail.com (hereinafter, the “Site”), and associated software applications. This Privacy Policy (“Policy”) explains how:
 
-When you use the Services you may also be subject to the privacy policies of our customers or third party service providers with respect to their use and collection of your personal information.
+  * A User’s Personal Information, as well as information relating to a User’s navigation, are collected, processed, and used; and
+  * The User can control how his or her information is used.
 
-**Information we collect**
 
-We collect (i) information provided by you when you register for one or more of our Services such as your name, email address or telephone number; (ii) information we obtain from your use of our Services such as server log information (e.g., your queries, phone number and internet protocol address), device-specific information (e.g., your hardware model, operating system version, unique device identifiers and mobile network information including phone number), and physical location information collected from GPS location data and mobile wireless access points; (iii) information we collect during your grocery shopping sessions such as shopping list contents and ecommerce purchases; (iv) information provided by you when you participate in any promotions or contests offered by us or one of our affiliates; (v) information provided by you when offering feedback or completing profile forms; and (vi)  loyalty card purchase information provided to us by our retailer clients.
 
-**Cookies**
+The head of the collection of Personal Information is Mi9 Retail, 12000 Biscayne Boulevard, Suite 600, Miami, FL  33181.
 
-“Cookies” are small pieces of information sent by a web server to a web browser which enable the server to collect information from the browser.  MyWebGrocer uses cookies for a number of purposes such as to enable us to simplify the log in process for registered users, help ensure the security and authenticity of registered users, target advertising, provide mechanisms for online shopping and enable traffic monitoring.
+Use of the Site and software applications associated with the Site (collectively, the “Services”) is pursuant to the terms and conditions of this Policy.
 
-We use both session cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site.  A session cookie expires when you close your browser.  A persistent cookie remains on your hard drive for an extended period of time.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.  Persistent cookies also enable us to track and target the interests of our users.
+**What Information We Collect**
 
-Most browsers allow you to turn off the cookie function.  If you want to know how to do this please look at the help menu on your browser.  As noted above, this will restrict the online MyWebGrocer services you can use.
+Through your interaction with and use of the Content, Mi9 Retail may collect personal information, which is information that identifies an individual or relates to an identifiable individual. Personal information allows identification directly or indirectly (e.g., by cross-checking information) of the User as a physical person. Personal Information may include, but is not limited to:
 
-We use tracking pixels and third party cookies on our sites from Google Analytics, DoubleClick, Lotame Solutions, Inc. and other third party vendors.  This enables us to gauge the effectiveness of our services, marketing programs and ad targeting.
+  * your name
+  * physical address
+  * telephone number
+  * e-mail address
+  * company affiliation
+  * associated interests
 
-Click here to opt-out of targeting advertising through our third party partners:[ http://www.aboutads.info/choices.](file:///C:/Users/bnewton/Downloads/%20http:/www.aboutads.info/choices/.%20%20Scroll%20through%20the%20list%20of%20companies%20and%20select%20) Scroll through the list of companies and select “Google” to disable the DoubleClick cookie and/or select “Lotame Solutions, Inc.” to disable the Lotame cookie.  
-**  
-How we use information we collect**
 
-We will use your information to provide, maintain and improve our Services, to develop new Services and to protect MyWebGrocer and its users.  We also use your information to personalize our Services for you such as delivering more relevant search results and targeted ads.  We will also use your contact details to communicate with you on occasion, and we may use your information to send you offers and news from your retailer.
 
-We may combine personal information from one Service with information, including personal information, from other MyWebGrocer Services.  For example, when you download our mobile applications, MyWebGrocer obtains your consent to use information for pinpointing technology such as GPS and cell tower information.  MyWebGrocer may use and store this information, in combination with other location-based information such as your IP address, billing postal code provided by your carrier or registration location, to provide enhanced location based services, serve location-targeted advertising, search results or other content.
+(“Personal Information”)
 
-**Accessing and Updating your personal information**
+Mi9 Retail may also collect other information through your interaction with and use of the Content, which does not reveal your specific identity or does not directly relate to an individual (“Other Information”). Other Information may include, but is not limited to:
 
-After you have registered to use Services provided by MyWebGrocer on a grocery retailer’s site, you will be provided with access to a “Preferences” page that will allow you to tailor your communication preferences.
+  * data collected through automated electronic interactions
+  * navigation on the Site
+  * browser and device information
+  * application usage data
+  * demographic information
+  * geographic or geo-location information
+  * data that the Publisher collects when a User uses the Services or the pages of social networks that are related to the Site
+  * and statistical and aggregated information
 
-To change your preferences simply click “Sign In” on the top menu bar.  Once you have signed in you will see a “Preferences” link on the menu bar.  Click “Preferences” and a page will load titled “Update Registration.”  If you do not want to receive certain commercial communications from us, please select your choices by using the boxes available on that page.
 
-From time to time, we may contact you by email, telephone or SMS for customer service or satisfaction purposes.
 
-Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our Services.
+Public data, namely the data made public by the User on a social network account linked to their account for the Services, may also be identified.
 
-**Information we share**
+Statistical or aggregated information does not directly identify a specific person, but it may be derived from Personal Information. We may also combine Other Information with Personal Information, in which case we will treat the combined information as Personal Information. Likewise, information regarding navigation does not reveal the identity of the User, but it allows the Publisher to learn more about the User’s behavior regarding the use of the Services (e.g., geolocation, links that the User clicked on the Site, etc.). This, too, when associated with the collection of Personal Information, is treated as Personal Information.
 
-As a provider of eCommerce and eMarketing solutions to the grocery industry, we pass your personally identifiable information to our retailer partners on whose behalf we host or provide digital services.  In addition, we may share your personally identifiable information with third party vendors that support our Services (e.g., email services or customer support tool provider) or our retailer partners’ services.  We will never pass your personally identifiable information to anyone else, except to any successor to our business.
+**EU-U.S. Privacy Shield**
 
-We may also share aggregated, non-personally identifiable information publicly and with third parties such as our consumer packaged goods clients and advertisers.
+Mi9 Retail and its affiliated companies, Software Development, Inc. and JustEnough Software Corporation, Inc., comply with the EU-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Mi9 Retail has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  The certification can be found at https://www.privacyshield.gov/list.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, please visit https://www.privacyshield.gov/.
 
-MyWebGrocer displays targeted advertisements based on non-personally identifiable individual activity. MyWebGrocer does not provide any personally identifiable information to the advertiser when you interact with or view a targeted ad.
+Mi9 Retail sometimes provides personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
 
-**Legal Disclaimer**
+In compliance with the Privacy Shield Principles, Mi9 Retail commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should contact us at info@mi9retail.com. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud or security incidents, situations involving potential threats to the physical safety of any person, violations of these Terms of Use, or as otherwise required by law.  
-**  
-Other web sites**
+Mi9 Retail is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Our web site may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided within the Services, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+**How We Share and Use Your Information**
 
-### Notice regarding children’s privacy (Users under the Age of 13)
+**Personal Information**
 
-In response to concerns about protecting children’s privacy online, Congress enacted the Children’s Online Privacy Protection Act of 1998 (“COPPA”), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13.  In accordance with COPPA regulations, we do not (1) request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or (2) knowingly use or share personal information from users under 13 years of age with third parties.
+Mi9 Retail uses Personal Information to operate and improve Content, to fulfill your requests for information, to register your products, to process your job application, to provide service and support, to engage in and process transactions that you have requested, to obtain third-party services, and to comply with legal requirements and corporate transactions. Provided that you expressly agree at the time of the collection of your information, Mi9 Retail may provide you with promotional materials, allow you to participate in contests and surveys, tailor marketing to your needs, and send newsletters, solicitations (e.g., participation in surveys), and informational messages (e.g., information on new articles and upcoming webinars). These uses may include providing you with more effective customer service; making websites or services easier to use by eliminating the need for you to repeatedly enter the same information, by performing research and analysis aimed at improving our products, services and solutions, and for displaying content and advertising that are customized to your interests and preferences.
 
-It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13.  If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.
+Also, provided that you expressly agree at the time of the collection of your information, Mi9 Retail may transfer your information to the partners of Mi9 Retail in order to send promotional messages relating to products, services, and offers.
 
-Questions regarding children’s privacy should be directed to us at the contact information provided below.
+We also use your Personal Information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and support announcements. Some Mi9 Retail services may send periodic letters that are considered part of the service. We may also contact you to inform you of products or services available from Mi9 Retail.
 
-**Security**
+Existing Personal Information stored in the Mi9 Retail database may be processed on the basis of legitimate interest.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent, please contact us in writing at:
 
-**Safe Harbor Verification**
+info@mi9retail.com
 
-MyWebGrocer adheres to the Safe Harbor Frameworks concerning the transfer of personal data from the European Union and/or Switzerland to the United States.  Accordingly, MyWebGrocer follows the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles published by the U.S. Department of Commerce.  For more information about the Safe Harbor, visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor>. ****
+We will inform you of the implications of withdrawing consent.
 
-**Changes**
+**Other Information**
 
-We may update our Privacy Policy from time to time. When we make these updates, we will change the “last updated” date listed at the top of this Policy.  If we make material changes to this policy, we will provide a prominent notice here and/or for certain Services, email notification of changes to this Privacy Policy.
+We may use, transfer, and disclose Other Information that we collect for any purpose, except where applicable law requires otherwise. If we are required to treat Other Information as Personal Information under applicable law, then we will only use it in the same way that we are permitted to use and disclose Personal Information.
 
-**Contacting us**
+**How We Collect Information**
 
-For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please contact us at [privacy@mywebgrocer.com](mailto:privacy@mywebgrocer.com).
+Mi9 Retail and our third party service providers may collect both Personal Information and Other Information from a variety of sources that generally fall into three categories:
+
+  * _Publicly Available Data/Data from Third Parties_ : 
+    * data that you may have made publicly available, such as from personal social networks
+    * data from partners in accordance with the contractual terms binding the publishers of those sites
+    * data provided by third-party sources, such as marketing opt-in lists, or data aggregators
+  * _Direct Interactions_ : Data obtained from your use of and/or interaction with us through the Content and other activities, such as: 
+    * account creation
+    * submission of registrations and forms
+    * sales inquiries and transactions
+  * _Automated Interactions_ : Personal Information and data can be obtained through the use of technology, including: 
+    * electronic communication protocols
+    * cookies
+    * embedded URLs or pixels
+    * or widgets, buttons, and tools
+
+
+
+Although Mi9 Retail’s use of automated interactions may change over time as technology evolves, the following descriptions are designed to provide you with additional detail about Mi9 Retail’s current approach to information collected from automated interactions.
+
+_Electronic Communications Protocols_ : Mi9 Retail may automatically receive information from you as part of the communication connection, which often consists of network routing information, equipment information, your IP address, time, and date. Mi9 Retail may also automatically receive and record information about your interaction with the Content, such as clickstream information or general geo-location data.
+
+_Cookies_ : A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone browser from a website’s computer and is stored on your device during the use of the Services. Each website can send its own cookie to your browser if your browser’s preferences allow it, but, to protect your privacy, your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. The cookie, during its use, allows Mi9 Retail to recognize the relevant device at each use of the Services. After the device accesses digital content via the cookies, we can collect additional anonymous information about the behavior, and ultimately, the preferences of the User of the Services, which can allow us to tailor the websites to your interests.
+
+The implementation of cookies on your device(s) is known and accepted from the time when you browse the Site or click on “OK” if a cookie banner exists. Current versions of web browsers offer enhanced user controls regarding the placement and duration of both first- and third-party cookies. Search for “cookies” under your web browser’s Help menu for more information on the cookie management features available to you. These choices can be modified at any time.
+
+Mi9 Retail electronic Content utilizes cookies, including the use of web beacons in HTML-formatted e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) are being accessed. Some Mi9 Retail websites will not allow you to complete certain activities if cookies are disabled. We use multiple third parties to monitor web traffic, statistics, advertisement click-through, and other activities on Mi9 Retail’s Content. Where authorized by us, such third parties may use cookies, our web log files, web beacons, and other monitoring technologies to evaluate use of our website. The refusal or the deletion of cookies by you is likely to limit some features of the Site, and implies the renunciation by you of some benefits of the Services, as well as commercial information that could be provided through the Services. Where appropriate, Mi9 Retail declines all responsibility for the consequences related to the operation degradation of the Services that result from the refusal of the implementation of cookies by the User.
+
+_Embedded URLs_ : Mi9 Retail may use a tracking technique that employs embedded URLs to allow use of the electronic Content without cookies. Embedded URLs allow limited information to follow you as you navigate the electronic Content, but they are not associated with Personal Information and are not used beyond the session.
+
+_Embedded Pixels and Similar Technologies_ : On the electronic Content, Mi9 Retail and its service providers may use embedded pixel technologies for the purposes of identifying unique user visits (as opposed to aggregate hits), and for advertising purposes. In addition, embedded pixels or other technologies may be used in e-mails and our online display advertising to provide information on when an e-mail or ad was opened, in order to track marketing campaign responsiveness. Information collected using these technologies may be associated with the recipient’s e-mail address.
+
+_Widgets, Buttons, and Tools_ : Our electronic Content may include widgets, which are interactive mini-programs that run on our Site to provide specific services from another company (e.g., links to bookmarked sites), along with buttons or other tools that link to other companies’ services (e.g., a “Like” button or third-party map). The widget, button, or tool may collect and automatically send Personal Information, such as your e-mail address, or Other Information, such as your browser information or IP address, to a third party. Cookies may also be set or used by the widgets, buttons, or tools to enable them to function properly or for other purposes, which may include advertising. Information collected or used by a widget, button, or tool, including cookie settings and preferences, is governed by the privacy policy of the company that created it.
+
+_Physical Location_ : We may collect the physical location of your device and use it to provide you with personalized location-based services or content. In some instances, you may be permitted to allow or deny such use of your device’s location, but if you choose to deny such use, we may not be able to provide you with the applicable personalized services or content.
+
+**Retention**
+
+Mi9 Retail retains your Personal Information for as long as reasonably necessary to fulfill the purpose(s) for which it was collected, as well as to comply with applicable laws. Your consent to such purpose(s) remains valid after termination of our relationship with you. Personal User data is deleted when retention periods expire.
+
+Nevertheless, the personal User data will be archived beyond the durations provided, for the purposes of research or for the finding and prosecution of criminal offenses, for the sole purpose of allowing, as needed, the provision of such data to the appropriate authorities. Archiving implies that the personal User data will not be searchable in line, but will be anonymized and kept on an autonomous and secure support.
+
+Information collected through cookies are preserved for a maximum of 13 months from the first deposit in the equipment of the User’s device, following the acceptance of the User.
+
+**Sensitive Information**
+
+We ask that you not send us, and that you do not share, any sensitive personal information, such as Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership.
+
+**How You Can Contact Us or Access to Review and Correct Your Data**
+
+Mi9 Retail makes commercially reasonable efforts to keep your files complete, up-to-date, and accurate. If you wish to contact us, access, update, or correct your Personal Information, please contact us at any time at the email address below. All natural persons have the right of access to, and the appropriate ability to update and/or correct, Personal Information, including deletion, limitation, or Personal Information portability. You can contact Mi9 Retail:
+
+info@mi9retail.com
+
+When you contact us please provide us with your name, address, any email address you have provided to Mi9 Retail, and a description of the circumstances under which you provided the data (e.g., to register a product, to receive a newsletter, etc.). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections to data we maintain.
+
+**Enforcement**
+
+Mi9 Retail will regularly review its compliance with this privacy statement. Please feel free to direct any questions or concerns regarding this statement or Mi9 Retail’s treatment of Personal Information by contacting us at the link or address indicated above. When we receive written questions and concerns at this address, it is Mi9 Retail’s policy to contact the individual user regarding his or her concerns. We will investigate and attempt to resolve concerns regarding our use and disclosure of Personal Information in accordance with the principles contained in this statement.
+
+Any concern that cannot be resolved through our internal processes will be settled by arbitration administered by the American Arbitration Association (AAA) in accordance with its applicable commercial rules. The exclusive location for such arbitration shall be Miami, Florida. All decisions of the arbitrator(s) will be final and binding on the parties, which waive any right to further appeal the arbitration award, to the extent an appeal may be lawfully waived.
+
+**Changes to this Statement**
+
+The Policy can be modified at any time by Mi9 Retail in order to comply with all developments – regulatory, jurisprudential, editorial, or country-specific requirements in which the Site is accessible. If we change this statement, we will post the revised statement here, along with the date of revision. If we make significant changes to the statement, we may also post a notice on our home page.  Any changes will apply only from date of the revision.  Amended dispute resolution provisions will not apply to any dispute of which the parties had actual notice as of the date of the amendment.
+
+[_MWG Privacy Policy_](https://mi9retail.com/mwg-privacy-policy/)          [_MWG Terms of Use_](https://mi9retail.com/mwg-terms-of-use/)
