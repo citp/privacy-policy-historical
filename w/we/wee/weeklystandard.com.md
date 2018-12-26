@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the weeklystandard.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103513id_/http%3A//www.weeklystandard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklystandard.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226094355id_/https%3A//www.weeklystandard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Weekly Standard
+# Privacy Policy
 
-## The Weekly Standard Online Privacy Policy
-
-* * *
-
-#### GENERAL OVERVIEW OF THIS PRIVACY POLICY
+  * #### GENERAL OVERVIEW OF THIS PRIVACY POLICY
 
 This site or mobile application is one of several sites and mobile applications operated by The Washington Newspaper Publishing Co. LLC d/b/a MediaDC, its subsidiaries, affiliates and related companies ("MediaDC" or "we"). The purpose of this privacy policy ("Privacy Policy") is to disclose what information we may collect from you, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
@@ -18,33 +14,33 @@ Except as otherwise discussed in this Privacy Policy, this document only address
 
 Please read the following to learn more about our data collection policies and practices:
 
-  * [Types of information that may be collected](https://web.archive.org/privacy#_Types_of_information)
-  * [How information is collected.](https://web.archive.org/privacy#_How_is_information)
-  * [How we use the information we collect.](https://web.archive.org/privacy#_How_do_we)
-  * [With whom the information may be shared.](https://web.archive.org/privacy#_To_whom_may)
-  * [The choices you have about the collection and use of your information.](https://web.archive.org/privacy#_What_choices_do)
-  * [The security precautions are in place to protect against the loss, misuse, or alteration of your information.](https://web.archive.org/privacy#_What_security_precautions)
-  * [Chat Rooms, Forums, and Message Boards.](https://web.archive.org/privacy#_Forums,_Webcasts_and)
-  * <http://washingtonexaminer.com/terms>
-  * [Links to other Websites.](https://web.archive.org/privacy#_Links_to_other)
-  * [A special note for parents concerning privacy.](https://web.archive.org/privacy#_A_special_note)
-  * [International Users.](https://web.archive.org/privacy#_International_Users.)
-  * [Limitation of Liability.](https://web.archive.org/privacy#_Limitation_of_Liability.)
-  * [Notification of changes and acceptance of the Privacy Policy.](https://web.archive.org/privacy#_Notification_of_changes)
-  * [Correcting and updating personal information.](https://web.archive.org/privacy#_Correcting_and_updating)
-  * [Contact information for questions or concerns about this Privacy Policy.](https://web.archive.org/privacy#_Whom_do_I)
-
+    * [Types of information that may be collected](https://web.archive.org/privacy#_Types_of_information)
+    * [How information is collected.](https://web.archive.org/privacy#_How_is_information)
+    * [How we use the information we collect.](https://web.archive.org/privacy#_How_do_we)
+    * [With whom the information may be shared.](https://web.archive.org/privacy#_To_whom_may)
+    * [The choices you have about the collection and use of your information.](https://web.archive.org/privacy#_What_choices_do)
+    * [The security precautions are in place to protect against the loss, misuse, or alteration of your information.](https://web.archive.org/privacy#_What_security_precautions)
+    * [Chat Rooms, Forums, and Message Boards.](https://web.archive.org/privacy#_Forums,_Webcasts_and)
+    * <http://washingtonexaminer.com/terms>
+    * [Links to other Websites.](https://web.archive.org/privacy#_Links_to_other)
+    * [A special note for parents concerning privacy.](https://web.archive.org/privacy#_A_special_note)
+    * [International Users.](https://web.archive.org/privacy#_International_Users.)
+    * [Limitation of Liability.](https://web.archive.org/privacy#_Limitation_of_Liability.)
+    * [Notification of changes and acceptance of the Privacy Policy.](https://web.archive.org/privacy#_Notification_of_changes)
+    * [Correcting and updating personal information.](https://web.archive.org/privacy#_Correcting_and_updating)
+    * [Contact information for questions or concerns about this Privacy Policy.](https://web.archive.org/privacy#_Whom_do_I)
+  
 
 
 #### Types of information that may be collected
 
 The personally-identifiable information we collect through our Digital Services is used to facilitate the purchase and/or delivery of products, services, or information you may request. In the process of providing these products and/or services, we may ask our users to complete a form which will require the submission of certain personally-identifiable information. The information required may vary depending on the products or services you request, and the information collected may be subject to change, but may include the following personally-identifiable information (as well as other non-personally identifiable information described further below):
 
-  * In the case of subscriptions to one of our email newsletters, you will be required to submit your email address, and other information included on the subscription form. If you are subscribing to one of our print publications, we will also require your name, mailing address, telephone number, and if the subscription is a paid product, you will be required to provide the payment information required to complete the purchase transaction, as described below. 
-  * The personally-identifiable information that may be collected by our Digital Services (such as if you register to use a Digital Service, in an entry to a sweepstakes or promotion, or otherwise) includes, but may not be limited to: your first name, last name, zip code, phone number, age and email address. Some additional information, such as your IP address or zip code, may be automatically collected by our Digital Services from your device or otherwise (subject to the settings on your device, and as further described below) in order to better tailor the Digital Services to you.. If the information collected or how it is used may vary for a particular sweepstakes, promotion, or feature, that information will be disclosed in the sweepstakes or promotion rules or feature's terms of use.
-  * In the case of a paid transaction which is completed through our Digital Services, an online credit card transaction is required in order to complete the purchase. During this process we (or our third party services providers) may collect certain personally-identifiable information including but not limited to: customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address.
-  * We may provide subscribers or other users with the option of creating your own personal profile which may include information regarding your interests as well as certain other information about you. Providing that information is optional. However, if you create a profile, we may supplement your profile based on other information we may collect about you both online and off- line.
-
+    * In the case of subscriptions to one of our email newsletters, you will be required to submit your email address, and other information included on the subscription form. If you are subscribing to one of our print publications, we will also require your name, mailing address, telephone number, and if the subscription is a paid product, you will be required to provide the payment information required to complete the purchase transaction, as described below. 
+    * The personally-identifiable information that may be collected by our Digital Services (such as if you register to use a Digital Service, in an entry to a sweepstakes or promotion, or otherwise) includes, but may not be limited to: your first name, last name, zip code, phone number, age and email address. Some additional information, such as your IP address or zip code, may be automatically collected by our Digital Services from your device or otherwise (subject to the settings on your device, and as further described below) in order to better tailor the Digital Services to you.. If the information collected or how it is used may vary for a particular sweepstakes, promotion, or feature, that information will be disclosed in the sweepstakes or promotion rules or feature's terms of use.
+    * In the case of a paid transaction which is completed through our Digital Services, an online credit card transaction is required in order to complete the purchase. During this process we (or our third party services providers) may collect certain personally-identifiable information including but not limited to: customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address.
+    * We may provide subscribers or other users with the option of creating your own personal profile which may include information regarding your interests as well as certain other information about you. Providing that information is optional. However, if you create a profile, we may supplement your profile based on other information we may collect about you both online and off- line.
+  
 
 
 #### How is information collected?
@@ -78,6 +74,9 @@ As with many Websites and applications, our Sites use standard technology called
 **_Digital Service Analytics_**.  
 We may use third party analytics tools (such as Google Analytics or others) to collect information about use of our Sites and Mobile Applications. These analytics programs may collect information such as how often users visit our Digital Services, what pages they visit when they do so, and what other sites they used prior to coming to our Sites. We use the information we get from analytics providers primarily to improve our Sites and Mobile Applications, and to better understand our audience. The analytics providers typically collect only the IP address assigned to you on the date you visit our Digital Services, rather than your name or other identifying information. Although some analytics providers may plant a permanent cookie on your web browser to identify you as a unique user the next time you visit a particular Digital Service, the cookie cannot be used by anyone but that provider. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). Other analytics providers will have their own terms and policies. You can prevent analytics providers from recognizing you on return visits to this Site by disabling cookies on your browser.
 
+  
+
+
 #### How do we use the information we collect?
 
 We internally use personally-identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze Digital Service usage, to improve our content and product offerings and to customize each Digital Service's content and layout. We believe these uses allow us to improve our Digital Services and provide better service to our visitors. We may use a customer's email address, mailing address or phone number to contact a customer regarding administrative matters or notices, issues with a transaction, satisfaction with the Digital Services and/or our products and services, and to provide further information regarding additional events, products and/or services we believe the customer would be interested in. We may use actual or approximate location information such as your zip code to select and display advertisements we believe would be of interest based on your location. We may also use information we maintain about a subscriber or other customer to resolve disputes and troubleshoot problems.
@@ -94,6 +93,9 @@ In the event that we go through an existing or potential business transition, su
 
 We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or as we believe in good faith may be reasonably necessary to comply with any law, regulation, rule or court order; pursuant to supoenas or other requests from governmental, regulatory or administrative agencies or law enforcement authorities; to respond to any claims, or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property of our users, MediaDC, or others, if we believe that your information in any way relates to that threat.
 
+  
+
+
 #### What choices do I have about collecting, using, and disclosing my information?
 
 It is possible for you to use most of our Digital Services without giving us any personally-identifiable information. When you do register with us or give us personally-identifiable information, on some of our Digital Services, you may have an opportunity at the time we collect your information to limit e-mail communications from us or opt-out of receiving emails from third parties. You can unsubscribe from email newsletters or similar communications by clicking on the unsubscribe link in every email. 
@@ -102,40 +104,70 @@ You may opt-out of all information sharing with third parties for marketing purp
 
 To obtain a list of the kinds of personal information that MediaDC has disclosed to third parties for direct marketing purposes during the preceding calendar year, and the names and addresses of all third parties that received personal information from MediaDC for direct marketing purposes during the preceding calendar year, please write to: MediaDC, Attn: Webmaster, 1015 15th St. NW, Suite 500, Washington, DC, 20005.
 
+  
+
+
 #### What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
 We have implemented reasonable security measures to safeguard the personally-identifiable information you provide us. However, please keep in mind that "perfect security" does not exist on the Internet and mobile environments, and we cannot make any guarantees regarding the security of your information.
+
+  
+
 
 #### Forums, Webcasts and Message Boards.
 
 Our Sites may feature forums, webcasts and message boards for our users. You are not required to provide any personal information when using these areas, but you may choose to do so. We strongly recommend that you DO NOT use your personal information for any publicly available identifier such as your user name, and that you DO NOT post any personally-identifiable information online, since such information will be publicly available. We cannot ensure the security of any information you choose to make public in a chat room, forum, webcast, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
 
+  
+
+
 #### Links to other Websites.
 
 You should be aware that when you use our Digital Services, you could be directed to other sites beyond our control. For example, if you "click" on an advertisement, you will likely leave the Site or Mobile Application and move to a different website that is not operated by us. This includes links from advertisers, sponsors and partners that may use one of our trademarks or brands as part of a co-branding agreement. These other websites may install their own cookies, independently collect data or solicit personal information, and may or may not have their own published privacy policies. If you are linked to a third-party website through one of our Digital Services, you should carefully review that third-party site's privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party websites, including, without limitation, any websites that may be connected to a Digital Service by hypertext link or otherwise.
+
+  
+
 
 #### A special note for parents concerning privacy.
 
 Our Digital Services are not intended for use by children under the age of 13. We do not knowingly collect personally-identifiable information from children under the age of 13. If we learn that a child has provided us with personal information, we will delete the child's personal information (except as may be necessary for legal compliance) and remove the child from any mailing lists.
 
+  
+
+
 #### International Users.
 
 If you are accessing this Digital Service from outside of the United States, you consent to the transfer of your information to the United States, and the processing, use, and sharing of your information in accordance with this Privacy Policy. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy.
+
+  
+
 
 #### Limitation of Liability.
 
 By providing us with any personally-identifiable information, you expressly and unconditionally release and hold harmless MediaDC, its parents, subsidiaries, affiliates, related companies and their respective shareholders, owners, members, directors, officers, employees and agents (collectively, the "Releasees") from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information. In addition, while we take reasonable steps to prevent third party companies from making unauthorized use of your personal information, we cannot be held liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information by those third parties.
 
+  
+
+
 #### Notification of changes and acceptance of the Privacy Policy.
 
 By using any of our Digital Services, you signify your agreement to the terms of our Privacy Policy. We may change this Privacy Policy from time to time. If so, any such changes will be posted on this page, so that the we may keep users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of any Digital Service shall constitute your acceptance of such revised Privacy Policy.
+
+  
+
 
 #### Correcting and updating personal information.
 
 If your personally-identifiable information changes (such as your zip code), some of our Digital Services may allow you to log-in and make changes to your profile on line, or you may contact us at the address or email below. 
 
+  
+
+
 #### Whom do I contact with questions or concerns about this Privacy Policy?
 
 If you have any questions about this Privacy Policy, the practices of this Digital Service, your experience with this Digital Service, or if you wish to make changes or delete the personal information we have on file for you, please contact: MediaDC, Attn: Webmaster, 1152 15th Street, NW, Suite 200, Washington, DC, 20005 or email at[legal@mediadc.com](mailto:legal@mediadc.com). 
 
-**Effective Date of this Privacy Policy: July 12, 2014**.
+Effective Date of this Privacy Policy: July 12, 2014.
+
+
+
