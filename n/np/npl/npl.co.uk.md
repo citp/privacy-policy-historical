@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526033036id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226064808id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy : National Physical Laboratory
 
