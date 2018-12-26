@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617025823id_/https%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226193326id_/https%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Blade
 
