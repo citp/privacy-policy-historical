@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genieo.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615010524id_/http%3A//www.genieo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genieo.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226112930id_/http%3A//www.genieo.com/privacy) for the most accurate reproduction.*
 
 # We care about your privacy | Genieo - A newspaper styled startpage
 
