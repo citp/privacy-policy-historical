@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ergobaby.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321233328id_/https%3A//store.ergobaby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ergobaby.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030716id_/https%3A//ergobaby.com/privacy-policy) for the most accurate reproduction.*
 
-# Ergobaby Privacy Policy
+# Ergobaby Privacy and Cookie Policy
 
 _Last updated: March 11, 2013._
 
