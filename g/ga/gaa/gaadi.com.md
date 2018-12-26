@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226032547id_/https%3A//www.gaadi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226070340id_/https%3A//www.gaadi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaadi
 
@@ -66,6 +66,8 @@ Gaadi collect Your Information solely for the purpose of providing you the produ
 
 
 You permit us to collect Chrome Extension usage statistics to help improve user experience and if You want to opt-out of Google Analytics tracking, the same can be done by visiting [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) or user can set up a filter in Adblock Plus or similar ad blocker tools like AdBlock, uBlock or Adblock Pro.
+
+To opt-out from Colombia tracking [click here](https://www.colombiaonline.com/privacy-policy)
 
 ### Sharing, Transfer or Disclosure:
 
