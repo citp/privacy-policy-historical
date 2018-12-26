@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614152204id_/https%3A//www.liveauctioneers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226142713id_/https%3A//www.liveauctioneers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective as of May 25, 2018
 
-#### Our Commitment To Privacy
+#### Our Commitment to Privacy
 
 LiveAuctioneers is committed to maintaining user privacy on the LiveAuctioneers Online Platform, accessed via any LiveAuctioneers website, application, service, or tool, regardless of how you access or use them, including through mobile devices. This Privacy Policy explains how Live Auctioneers LLC and its affiliates (collectively "LiveAuctioneers", or "we", or "us", or "our") collects, uses, and shares your personal information in connection with your use of the Online Platform and our services, and explains your choices for how we handle your personal information.
 
 By creating an account, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree to its terms and conditions, you should not use or access our Online Platform. By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personal data in accordance with the Policy. The Privacy Policy is incorporated into and subject to the terms of any agreement you sign with LiveAuctioneers and becomes applicable upon our acceptance of you as a registered user. If you have any additional questions about our Privacy Policy, please feel free to contact us at [info@liveauctioneers.com](mailto:info@liveauctioneers.com).
 
-For the purposes of this Privacy Policy, the term "personal data" means any information that identifies you or which allows you to be identified when combined with other information.
+For the purposes of this Privacy Policy, the term “personal data” means any information that identifies you or which allows you to be identified when combined with other information.
 
   
 
@@ -138,7 +138,7 @@ You can update the personal data associated with your account by visiting your [
 
 To delete or request a downloadable copy of your personal data from LiveAuctioneers, contact us at [info@liveauctioneers.com](mailto:info@liveauctioneers.com). We may retain certain data as required by law or as necessary for our legitimate business purposes.
 
-#### Your Legal Rights
+#### For EU Individuals - Your Legal Rights Under GDPR
 
 You have the following rights under data privacy laws with respect to your personal data:
 
@@ -152,7 +152,7 @@ You have the following rights under data privacy laws with respect to your perso
 
 
 
-To exercise any of your rights, refer to the section “How You Can Access, Manage, and Correct Your Personal Data” in the Privacy Policy or contact us at [info@liveauctioneers.com](mailto:info@liveauctioneers.com)
+To exercise any of your rights, refer to the section “How You Can Access, Manage, and Correct Your Personal Data” in the Privacy Policy or contact us at [info@liveauctioneers.com](mailto:info@liveauctioneers.com). You may also have the right to make a GDPR complaint to the relevant Supervisory Authority. A list of Supervisory Authorities is available here: <http://ec.europa.eu/justice/dataprotection/bodies/authorities/index_en.htm>.
 
 #### Data Security
 
@@ -173,15 +173,23 @@ References to “personal data” in this Privacy Policy are equivalent to “pe
   
 
 
-##### E.U.-U.S. Privacy Shield
+##### Privacy Shield Frameworks for Data Transferred to the United States from the EU/Switzerland
 
-LiveAuctioneers complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. LiveAuctioneers has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Our affiliated entities as follows also adhere to the Privacy Shield principles: Jasper52. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit <https://www.privacyshield.gov/welcome>.
+Live Auctioneers LLC and its affiliated U.S.-based entity Jasper52 (collectively “LiveAuctioneers”) complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries (including Iceland, Liechtenstein, and Norway) and Switzerland transferred to the United States pursuant to Privacy Shield. LiveAuctioneers has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-We are responsible for the processing of personal data received under the Privacy Shield Framework and subsequent transfers to third parties acting as agents on our behalf. LiveAuctioneers complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, LiveAuctioneers is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. We commit to cooperate with the EU data protection authorities and comply with advice given by such authorities with respect to any human resources data transferred from the EU in the context of the employment relationship. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, LiveAuctioneers is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
-In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact LiveAuctioneers at info@liveauctioneers.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://www.jamsadr.com/eu-us-privacy-shield>.
+Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [info@liveauctioneers.com](mailto:info@liveauctioneers.com). If requested to remove data, we will respond within a reasonable timeframe.
 
-Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+We will provide an individual opt-out or opt-in choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [info@liveauctioneers.com](mailto:info@liveauctioneers.com).
+
+LiveAuctioneers’ accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, LiveAuctioneers remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless LiveAuctioneers proves that it is not responsible for the event giving rise to the damage.
+
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact LiveAuctioneers at [info@liveauctioneers.com](mailto:info@liveauctioneers.com).
+
+LiveAuctioneers has further committed to refer unresolved Privacy Shield complaints to the Better Business Bureau, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information or to file a complaint. The services of the Better Business Bureau are provided at no cost to you.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
 
 #### Changes to this Privacy Policy
 
@@ -200,5 +208,5 @@ If you have a question or complaint about this Privacy Policy, or if you would l
 LiveAuctioneers  
 220 12th Ave  
 Floor 2  
-New York, NY 10002  
+New York, NY 10001  
 
