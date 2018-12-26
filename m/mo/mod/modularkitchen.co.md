@@ -1,81 +1,142 @@
-> *The following text is extracted and transformed from the modularkitchen.co privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816020145id_/http%3A//www.modularkitchen.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modularkitchen.co privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226165632id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Modular Kitchen|Kitchen Decor|Interior Design
+# Privacy | Neustar
 
-* * *
+**Highlights of the Neustar Privacy Policy**
 
-**PRIVACY POLICY**
+_Updated: December 7, 2018_
 
-Welcome to Modularkitchen.co! Modularkitchen.co is an information and social network dedicated to homebuilding, renovation, and design. Modularkitchen.co connects you to home-related products and businesses, professional service providers, and others who can give you feedback and ideas about your design goals.
+Neustar uses personal information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These "Highlights" summarize Neustar's privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Statement](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles).
 
-This privacy policy is to help you understand what information Modularkitchen.co collects, how Modularkitchen.co uses it, how it may be shared, and what choices you have. This privacy policy governs the products and services we offer through our website and applications (collectively the “Site” or “Modularkitchen.co”). When you use the Site, you consent to our collection, use and disclosure of information about you as described in this privacy policy. Additionally, our [Terms of Use](http://www.modularkitchen.co/terms-Of-Use) are incorporated by reference into this privacy policy. The terms “we,” or “our,” refer to Modularkitchen.co.
+### Our Commitment – Privacy by Design
 
-**Collection and Use of Information**
+We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy-principles), including the principles of [Privacy by Design](https://web.archive.org/privacy/privacy-policy-definitions), to design, build, and deliver products and services that respect your privacy.
 
-We collect information that you provide us directly or automatically when you use our Site.
+### Personal Information: Types & Sources
 
-We may use the information for purposes such as to: provide the Site’s functionality, improve the Site’s quality, personalize your experience, track usage of the Site, provide feedback to businesses and professionals whose products or services are listed on the Site, display relevant advertising, evaluate the success of our advertising, provide customer support, message you (in ways described by this privacy policy and managed by you in your account settings), back up our systems and allow for disaster recovery, enhance the security of the Site, fulfill transactions authorized by you on the Site, and comply with legal obligations.
+Neustar may collect, use, and disclose various types of information, including:
 
-Of further note about the information we collect:
-
-  1. **Account and Profile Information:** When you create an account on Modularkitchen.co, then we collect your name and the contact information you provide. You also will be asked to create a profile on Modularkitchen.co. If you do, your username, any photo you submit, and information you enter into the fields indicated for public display will be displayed publicly on the social network. You can customize some of the information displayed publicly in your Modularkitchen.co profile by going to your account and profile settings. If you feel that an unauthorized account has been created depicting you or your likeness, please contact us at info@modularkitchen.co. You have an obligation to provide us accurate information.
-  2. **Public Content:** The information that you post to the Site is intended for public consumption, including your photos, comments, Ideabooks, and profile information. By posting on the Site, you agree to permit us to disclose publicly the material you post.
-  3. **Communications:** When you join Modularkitchen.co by signing up for an account or creating a profile, as permitted by law, you are opting in to receive emails from us or about Modularkitchen.co. You can manage your email and notice preferences in account settings, but note that you cannot opt out of receiving certain administrative or legal notices from us. Additionally, by joining, you are agreeing to receive feedback and communications from third-parties within the Site, including third-party providers of products or services who may comment on your postings within the Site. If you exchange messages with others through the Site, in accordance with applicable law, we may store them in order to process and deliver them, allow you to manage them, and investigate possible wrongdoing in connection with the Site. Modularkitchen.co may also enable you to connect, at your initiation, outside the Site via your personal email address to third-party providers of products and services who you wish to contact outside of the Site.
-  4. **Transactional Information:** If you purchase products within the Site, certain information collected for processing your request, such as your phone number, address, email, and credit card information, may be shared with relevant third-parties in order for them to process your request (but not for their own marketing or other purposes). When you submit credit card numbers, we encrypt that information using industry standard technology and use commercially reasonable security measures to protect it from misuse.
-  5. **Site Activity/Automatically Collected Information:** We collect and may store information about your use of the Site, such as your search activity, the pages you view, and the date and time of your visit. We also collect and may store information that your computer or mobile device provides to us in connection with your use of the Site, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.
-  6. **Linked Networks and Contacts:** You can elect to connect your Modularkitchen.co profile to another network like Facebook and, if you so choose, you will be asked to enable sharing of your contact information from that network to Modularkitchen.co and to enable sharing of your activities on Modularkitchen.co on that network
+  * [PII](https://web.archive.org/privacy/privacy-policy-definitions) (Personally Identifiable Information)
+  * [CRM Data](https://web.archive.org/privacy/privacy-policy-definitions) (Customer Relationship Management data)
+  * [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions) including information linked to [DIIs](https://web.archive.org/privacy/privacy-policy-definitions) (Device Identifiable Data) such as [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [MAID](https://web.archive.org/privacy/privacy-policy-definitions) (Mobile Advertising IDs), [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), and other third-party identifiers that do not, by themselves, identify a specific individual.
+  * [Attribute Data](https://web.archive.org/privacy/privacy-policy-definitions)
+  * [Log Data](https://web.archive.org/privacy/privacy-policy-definitions), including [Internet Log Data](https://web.archive.org/privacy/privacy-policy-definitions), [Event Data](https://web.archive.org/privacy/privacy-policy-definitions), and [Service Data](https://web.archive.org/privacy/privacy-policy-definitions)
 
 
 
-**Cookies and Other Tracking Technologies**
+Neustar collects this information from a wide variety of sources, both on and offline, such as:
 
-We, and third parties we interact with, including our third party service providers, use cookies, web beacons, local shared objects (sometimes called “flash cookies”), and similar technology in connection with your use of the Site and third party websites (collectively referred to in this policy as **“Cookies”** ). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our Site.
-
-We may use Cookies to transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. When we use Cookies, we do so in order to further Site features and processes, provide authentication and security for your transactions on the Site, store your preferences, facilitate relevant advertising, and help us learn more about how users engage with the Site. Our Cookies may be persistent or stored only during an individual session.
-
-You may opt-out of tracking by third parties for certain advertising purposes, as discussed below in the section entitled “Third Party Ad Networks,” which can help you control targeted advertising by third-parties that track your activities across sites.
-
-Please note we do not change system behavior within the Site in response to browser requests not to be tracked.
-
-It may be possible to disable Cookies through your device or browser settings. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings. However, doing so may affect your ability to use the Site. If you are not comfortable with the above uses of Cookies, please do not use this Site.
-
-For more information about our use of Cookies on the Site, please see our Cookie Policy.
-
-**Sharing Your Information**
-
-We do not rent or sell your personal contact information (such as your email address associated with your account registration) to third-parties to use for their own marketing purposes. We may share some information about you with third parties in connection with your use of the Site. Our information sharing with third-parties fall into these categories and purposes:
-
-  1. **Agents, Contractors, and Service Providers:** We may share your information with our agents and contractors or other service providers as needed to carry out the performance and functionality of the Site, fulfill your requests or authorized commercial transactions, or provide customer support.
-  2. **Analytics and Usage:** We may share user information in the aggregate, with third parties, such as advertisers, professionals, and business. For example, we may disclose to a business the number of users that have viewed their product. Business or professionals that participate on the Modularkitchen.co network may also access usage data associated with your public profile. For example, a business can see that you, as identified by your public profile username, any profile photo, and any other publicly displayed profile identifiers  
-(but not identified by your email or non-public account information), added their product to one of your Ideabooks on a particular date.
-  3. **Third Party Ad Networks:** We may use third-party advertising companies to serve advertisements on our Site and on third party sites, as well as to assist us in evaluating the effectiveness of our advertising, in accordance with applicable law. These companies use cookies, web beacons, and other tracking technologies to collect information (not including your name, address, email address or telephone number) about your visits to this Site and other sites in order to provide targeted advertisements to you. If you would like to learn more about behavioral advertising or to opt out of having this information used by companies that are part of the Network Advertising Initiative and the Digital Advertising Alliance to deliver targeted ads.
-  4. **Affiliated Entities** We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this privacy policy.
-  5. **Business Transfers:** If we are acquired by or merged with another entity, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected about you to the other company.
-  6. **Other Users:** Information that you post publicly on Modularkitchen.co (e.g., photos, comments, your profile) will be made publicly available to other users of Modularkitchen.co.
-  7. **Investigations:** We may investigate and disclose information from or about you, as permitted by applicable law, if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) helpful to protect our rights, reputation, property, or that of our users, subsidiaries, or the public.
+  * Publicly available data sources such as directory listings
+  * Reputable providers of licensed data derived from public and non-public sources
+  * Individuals, such as survey respondents, who affirmatively agree to the data uses
+  * Our customers, who provide their [CRM Data](https://web.archive.org/privacy/privacy-policy-definitions) for our use in connection with our services
+  * Information collected online via [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions), including [DIIs](https://web.archive.org/privacy/privacy-policy-definitions), [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs, [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), and other persistent third-party identifiers that do not, by themselves, identify a specific individual
+  * [Match Partners](https://web.archive.org/privacy/privacy-policy-definitions), [Coverage Partners](https://web.archive.org/privacy/privacy-policy-definitions), [Rotators](https://web.archive.org/privacy/privacy-policy-definitions), and [Cookie Sync Partners](https://web.archive.org/privacy/privacy-policy-definitions)
+  * [Log Data](https://web.archive.org/privacy/privacy-policy-definitions) and other information created in the course of providing our products and services
 
 
 
-**Account Termination and Data Retention**
+### Personal Information Collection, Use, and Disclosure
 
-You can close your account at any time by going to account settings. When you close your account, you will cease to provide ongoing or future data to us. Your public profile will be deactivated. However, unless prohibited by applicable law, postings or comments you provided to the forum associated with your public profile prior to closing your account, will remain public. We may retain information about you for the purposes authorized under this privacy policy unless prohibited by law.
+Read our full [Neustar Privacy Statement](https://web.archive.org/privacy/privacy-policy) to learn more about the Personal Information we collect and how we use it:
 
-**Children**
+  * Data collected about [Website Visitors](https://web.archive.org/privacy/privacy-policy#websitevisitors)
+  * [Data Processed to Provide Neustar Products and Services](https://web.archive.org/privacy/privacy-policy#dataprocessed)
+  * [Other Use and Disclosure of Personal Information](https://web.archive.org/privacy/privacy-policy#otheruse)
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at info@modularkitchen.co, and we will take steps to remove such information and terminate the child’s account.
 
-**Security**
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure – so we cannot guarantee its absolute security.
+### Cookies, Advertising IDs and Other Technologies
 
-**Links to Other Sites**
+We may use [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs, [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), [Web Beacons](https://web.archive.org/privacy/privacy-policy-definitions), [Pixel Tags](https://web.archive.org/privacy/privacy-policy-definitions), [JavaScript](https://web.archive.org/privacy/privacy-policy-definitions), [HTML5 Local Storage](https://web.archive.org/privacy/privacy-policy-definitions), or similar technologies, along with other information described in our [Privacy Statement](https://web.archive.org/privacy/privacy-policy) to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. These technologies do not identify you to us unless you have voluntarily identified yourself on our websites. If you've set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. You can refuse cookies by turning them off in your browser, but some of the features on our site may not work if you do. Various browsers may offer their own management tools for removing HTML5 local storage.
 
-Our Site contains links to other sites that are not controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and read the privacy policies of each and every site you visit. This privacy policy applies only to information collected by our Site.
+To learn more about how we use these technologies, read our full [Privacy Statement](https://web.archive.org/privacy/privacy-policy#cookies) click here:
 
-**Modifications and Updates to this Privacy Policy**
+  * [Website Cookies](https://web.archive.org/privacy/privacy-policy#websitecookies)
+  * [Neustar Services Cookies](https://web.archive.org/privacy/privacy-policy#neustarcookies)
+  * [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy#maids)
+  * [Web Beacons](https://web.archive.org/privacy/privacy-policy#webbeacon)
 
-We may revise this privacy policy from time to time. The most current version of the privacy policy will govern our use of information about you and will be located here: <http://www.modularkitchen.co/privacy-Policy>. If we make material changes to this privacy policy, we may notify you by email or by posting a notice on the Site. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised privacy policy.
 
-**Contact**
 
-If you have questions or comments about Modularkitchen.co privacy policy, please feel free to contact us at [info@modularkitchen.co. ](mailto:info@modularkitchen.co)
+### Transparency and Choice; Privacy Choices
+
+#### Cookies
+
+  * Click here to opt out of the use of Cookies on Neustar websites
+  * You can opt out of Neustar services [Cookies](https://web.archive.org/privacy/privacy-policy-definitions) by clicking on the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. This will also permit you to opt-out of the use of [Hashed eMail Addresses](https://web.archive.org/privacy/privacy-policy-definitions) and Android [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions).
+  * You can also opt out of the use of Neustar services Cookies by using the Network Advertising Initiative (NAI) Consumer [Opt-Out tool](http://optout.networkadvertising.org/?c=1#!/), the Digital Advertising Alliance (DAA) [tool here](http://www.aboutads.info/choices/), or the European Digital Advertising Alliance (EDAA) [Opt-Out tool](http://www.youronlinechoices.eu/).
+
+
+
+#### Mobile Advertising IDs or MAIDs
+
+You can opt-out of our use of [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs set by Android devices via the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. Because Apple does not disclose their IDFA to users, we are not able to establish a block based on an Apple MAID (IDFA) in our system. In addition:
+
+  * Apple's iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: IDFA Opt-Out.
+  * Similar to IDFA for Apple devices, Android devices pass the Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile devices are used for advertising and receive instruction for how to opt out of mobile advertising on the Google Privacy & Terms webpage.
+
+
+
+#### Hashed eMail Addresses
+
+You can opt-out of our use of your [Hashed Email Addresses](https://web.archive.org/privacy/privacy-policy-definitions) in connection with Neustar services by clicking on the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. We will retain your email address on an internal "block" list to prevent its further use in connection with Neustar services. Please note that opting out of Neustar's processing of your data does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
+
+Your choice to use any of our opt-out tools will not affect ads placed by any other organization.
+
+## Accountability
+
+Neustar is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) ("NAI") and the [Digital Advertising Alliance](http://www.aboutads.info/) ("DAA") and adheres to each organization's Codes and Principles. You can also learn more about online advertising in general on the [NAI](https://www.networkadvertising.org/) website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <http://www.aboutads.info/> and <http://youradchoices.com/>.
+
+We adhere to the European Interactive Digital Advertising Alliance's ("EDAA") principles. You may learn more about our participation in the EDAA's program and online behavioral advertising at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67&opt-out=true "TRUSTe Privacy")
+
+## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+Neustar and its subsidiaries, (i.e., Administrative Services, LLC, Aggregate Knowledge, LLC., Data Solutions Services, LLC, MarketShare Holdings, Inc., Neustar Information Services, Inc., Neustar, Inc., Registry Services, LLC, and Security Services, LLC, collectively "Neustar") participate in and have certified their compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce's [Privacy Shield Framework](https://www.privacyshield.gov/) website. Information about Neustar's Privacy Shield certification is available on the [Privacy Shield List](https://www.privacyshield.gov/).
+
+Neustar is responsible for the processing of personal data it receives, under the [Privacy Shield Framework](https://www.privacyshield.gov/), and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the [Privacy Shield Framework](https://www.privacyshield.gov/EU-US-Framework), Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Neustar commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Neustar at:
+
+Neustar Privacy  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+Email: [Privacy@team.neustar](mailto:Privacy@team.neustar)
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily or timely, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+European residents may also opt-out of our use of Cookies for online advertising at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+## The Fine Print
+
+[Click here](https://web.archive.org/privacy/privacy-policy) to read our full Privacy Statement and to learn more about our approach to children's privacy, data security, disclosures required by law or for other purposes, your rights under European data protection law, and your privacy rights under California law.
+
+Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+
+## Questions? Comments? Contact Us
+
+Neustar Privacy  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+[Email](mailto:privacy@team.neustar)
+
+**Data Protection Officer:**  
+J. Beckwith Burr  
+Neustar, Inc.  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+[Email](mailto:privacy@team.neustar)
+
+**EU Representative:**  
+Neustar (UK) Limited/MarketShare Partners EMEA Ltd.  
+Attn: DPO  
+21 Palmer Street  
+London  
+SW1H 0AD  
+[Email](mailto:privacy@team.neustar)
