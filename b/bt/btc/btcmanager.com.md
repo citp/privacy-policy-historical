@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btcmanager.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626040739id_/https%3A//btcmanager.com/privacy-policy-2018) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcmanager.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226120207id_/https%3A//btcmanager.com/privacy-policy-2018) for the most accurate reproduction.*
 
 # Privacy Policy | BTCMANAGER
 
@@ -243,7 +243,7 @@ LONDON, COVENT GARDEN WC2E 9RZ
 
 UNITED KINGDOM
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+INFO@BTCMANAGER.COM
 
 +442036957669
 
