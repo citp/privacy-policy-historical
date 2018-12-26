@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006122734id_/http%3A//cc.cc/privacy_policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226183306id_/http%3A//www.cc.cc/privacy_policy/privacy_policy.php) for the most accurate reproduction.*
 
-# CC.CC | Make your phone number Memorable.
+# CC.CC Call Forwarding
 
 Keeping your personal information safe is one of our top priorities. CC.CC will use your personal information only for the purpose and within the scope to which you consent with the goal of providing CC.CC services (each a “Service” and, collectively, the “Services”) in a seamless manner. You may rest assured that CC.CC will never disclose your personal information to a third party unless otherwise required by the relevant laws and regulations or consented by you. We have developed this privacy policy (the “Privacy Policy”) applicable to all of the Services provided by CC.CC so that you may easily understand the way in which we protect your personal information and other related details. The Privacy Policy is open to the public at all times so you may read the full text of the Privacy Policy whenever you need to do so. Any changes to the Privacy Policy will be notified to you to ensure that you understand the details of and reasons for such changes.
 
