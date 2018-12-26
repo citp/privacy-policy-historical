@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50cent.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614092927id_/https%3A//thisis50.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50cent.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023008id_/https%3A//thisis50.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Thisis50
 
@@ -76,7 +76,7 @@ If you want to view, delete or modify your personal information, you may do so:
 
 • Through your profile privacy settings – see  
 http://www.thisis50.com/profiles/profile/privacySettings  
-• Sending an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection); or  
+• Sending an email to: info@thisisfifty.com; or  
 • By mail to the following address:  
 Correct/Update Personal Information  
 Tomorrow, Today Entertainment, Inc.  
@@ -108,4 +108,4 @@ Tomorrow, Today Entertainment, Inc.
 c/o Robins Kaplan LLP  
 601 Lexington Avenue  
 New York, NY 10022 USA  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: info@thisisfifty.com
