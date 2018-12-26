@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viconsortium.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110214id_/http%3A//viconsortium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viconsortium.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226042246id_/https%3A//viconsortium.com/privacy) for the most accurate reproduction.*
 
-# Privacy ‹
+# Privacy -
 
 ### The Virgin Islands Consortium Privacy Policy
 
@@ -113,8 +113,8 @@ Please note that third parties may independently collect data about you, includi
 **Choice/Opt-Out**
 
 The Site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us.  
-You can send an email through the Site’s contact page found [here](http://viconsortium.com/contact-us/).
+You can send an email through the Site’s contact page found [here](https://viconsortium.com/contact-us/).
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](http://viconsortium.com/contact-us/).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://viconsortium.com/contact-us/).
