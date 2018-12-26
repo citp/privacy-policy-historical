@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617025329id_/https%3A//www.ig.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023942id_/https%3A//www.ig.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IG UK
-
-All trading involves risk. Losses can exceed deposits. 
-
-All trading involves risk. Losses can exceed deposits. 
 
 ### How do we use the personal information?
 
@@ -99,3 +95,5 @@ You can ask us to stop processing your personal information, and we will do so, 
 **Automated decision-making and profiling**
 
 If we have made a decision about you based solely on an automated process (e.g. through automatic profiling) that affects your ability to use the services or has another significant effect on you, you can ask to not to be subject to such a decision unless we can demonstrate to you that such decision is necessary for entering into, or the performance of, a contract between you and us. Even where a decision is necessary for entering into or performing a contract, you may contest the decision and require human intervention.
+
+Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. **79% of retail investor accounts lose money when trading spread bets and CFDs with this provider.** You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money.  Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 
