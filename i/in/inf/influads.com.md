@@ -1,57 +1,107 @@
-> *The following text is extracted and transformed from the influads.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730121120id_/https%3A//carbonads.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influads.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030343id_/https%3A//www.buysellads.com/about/privacy) for the most accurate reproduction.*
 
-# Carbon Ads
+# Privacy Policy | BuySellAds
 
-Carbon Ads (Carbon’s) provides advertising technology solutions (“Technology”) that enables media companies, online advertisers, and web publishers to buy, sell, and measure the the effectiveness of their advertising campaigns. This privacy policy (“Privacy Policy”) explains how personal information is collected, used, and disclosed by BA with respect to your use of the websites located at http://carbonads.net (the “Site”) and how personal information is collected, used, and processed through the Technology on behalf of the online advertisers, publishers, business partners, and other businesses that use Carbon’s services (“Clients”).
+BuySellAds.com Inc. ("Company", "we" or "us") provides advertising technology solutions that enables media companies, online advertisers, and web publishers to buy, sell, and measure the effectiveness of their advertising campaigns. In order to accomplish this, we have created and/or manage certain online (including without limitation via websites and their sub-domains) and mobile applications ("App" or "Apps"), ad serving technology and related support and hosting services. (Such Apps, technology and services are each referred to as a "Service" and collectively as the "Services").
 
-Use of the terms “we” and “us” in this Privacy Policy means Carbon. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
+We are committed to respecting and protecting the privacy rights of our users, and we created this Privacy Policy to give you notice of how your individual information will (and will not) be used by us. This Privacy Policy provides information on our policies and procedures regarding the collection, use, storage and disclosure of such information we receive from (1) companies and individuals who use our Services and (2) visitors who simply browse the Services.
 
-Information about the Site Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information (as explained further below). This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Site.
+By using or accessing any of the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, store, process and share your information in the following ways.
 
-Carbon may amend this Privacy Policy at any time by posting a revised Privacy Policy on the Site, and/or sending information regarding the amendment to the email address you provide to Carbon. You are responsible for regularly reviewing the Site to obtain timely notice of such amendments. You shall be deemed to have accepted such amendments by continuing your use of the Site or of your Account after such amendments have been posted or information about such amendments has been sent to you.
+Remember that your use of the Services is at all times subject to the [Terms of Use](https://web.archive.org/about/terms), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Service.
 
-Normal Site Usage:
+This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on this website. You are advised to consult this Privacy Policy regularly for any changes.
 
-You can visit many portions of the Site without telling us who you are and without revealing any personal information. Information we may collect from such a Site visit is the default information customarily logged by web server software, which may include the date and time of your visit, the originating IP address, and the pages and images requested. We may use this information to generate statistics and measure site activity to improve the usefulness of the Site to our visitors and Account holders.
+### 1\. What Information Do We Collect and How Do We Collect It?
 
-Collection and Use of Personal Information:
+At various times, you could be asked to provide information such as your name, email address, contact phone number or other information. Information collected is often defined as being either anonymous or personally identifiable: 
 
-In order to use certain functionality of the Site, including but not limited to buying and selling ads, you will need to create an Account and submit certain personal information. This information includes but is not limited to your name and contact information such as your postal address, telephone number and email address. When you create your Account, you will need to choose a password. If you are an advertiser, we need you to provide certain billing information, such as credit card, bank account or PayPal information. If you are a publisher of ads, we need you to provide information about your website and payment method, such as bank or PayPal account information.
+“Anonymous Information” refers to information that cannot be tied back to identify a specific individual. For instance, we may know that thousands of people have visited this Privacy Policy, but we do not necessarily know their names, where they live, or their date of birth. What we collect from visits such as this constitutes Anonymous Information. Some of the individuals who access our Services decline to use the personalization features that are available to them, and therefore those individuals are anonymous to us and the only data we collect about them is Anonymous Information.
 
-Carbon will use your personal information to provide you with requested services and products, to set up and administer your Account, to reply to your inquiries, to improve the Site, our products and services, for internal research, analyses and fraud prevention, and to contact you regarding general company news, new products and services, and industry trends. We use your email address to inform advertisers about the performance of their ads and to inform publishers about any ads that they have sold. By applying for an Account and providing the requested personal information, you consent to the collection and use of information in accordance with this Privacy Policy.
+“Personally Identifiable Information” refers to information that tells us specifically who you are, such as your name, email address, or phone number. Using the Services may allow us to "recognize" you to allow us to personalize the Services for you.
 
-When you use the Site, we may send one or more cookies (a small data file) to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including recognizing you as a previous visitor to the Site, to populate forms, to provide you with customized viewing options, and to maintain personalized services throughout the Site.
+#### Anonymous Information
 
-Information Sharing and Disclosure:
+As is true of most apps and web sites, we gather certain information (such as mobile provider, operating system, etc.) automatically and store it in log files. We use this information, which does not identify individual users, to analyze trends, to administer the Services, to track users movements around the Services and to gather demographic information about our user base as a whole. We may link some of this automatically-collected data to certain Personally Identifiable Information.
 
-We may disclose your personal information to third parties who work on our behalf to provide products and services requested by you and to banks, processors, card associations, and other financial institutions and payment processors that are involved in the processing or screening of transactions applicable to your Account. We share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information, however, we are not liable to you for any disclosure of your information made by such third parties.
+#### Personally Identifiable Information
 
-Depending on the types of payment processing you choose with us, you may be required to or choose to have accounts directly with one or more of these third party providers, such as PayPal. Such third party providers’ privacy policies apply for information provided to them.
+When you register with us via our Services, we may ask you for some Personally Identifiable Information, such as your first and last name, email address, home address, and other information. If you are an advertiser, we need you to provide certain billing information, such as credit card, bank account or PayPal information. If you are a publisher of ads, we need you to provide information about your website and payment method, such as bank or PayPal account information. You may review and update this Personally Identifiable Information in your profile by logging in and editing such information in your dashboard.
 
-In the event of a sale, merger, liquidation, dissolution or transfer of part of the business, trade or assets of Carbon and/or any of its individual affiliates, personal information collected about you may be sold, assigned, or transferred to the party acquiring all or substantially all of the equity or assets or business of Carbon and/or its affiliates. Subject to your consent as described below, by using this website, you consent to the sale and transfer of your information as described in this paragraph.
+Some Personally Identifiable Information may also be provided to intermediaries and other Third Party Service Providers (defined in part (4) below) who assist us with the Services, but who may make no use of any such information other than to assist us in providing the Services. Except as otherwise provided in this Privacy Policy, however, we will not rent or sell your Personally Identifiable Information to third parties.
 
-Non-personally-identifiable information, and data in an aggregate form without disclosure of personally-identifiable information, may be provided to other parties for various business, marketing, and advertising uses, including but not limited to advertisers assessing the effectiveness of their ads.
+If you choose to allow a Service to collect your location data, such location data will be available to us. In addition, if you have an account with Facebook, Twitter, Google+, LinkedIn or other similar websites (each a "Social Network"), your Social Network identity, including your public picture, may be associated with your location data.
 
-We may also disclose your personal information if required to do so by law or if Carbon reasonably believes that such action is reasonably necessary to: (a) comply with legal process; (b) enforce the Terms; (c) respond to claims that any Content or Post violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect the rights, property or personal safety of Carbon, Account holders, or any other party.
+If you send a "Do Not Track" request through your web browser, we may still collect and use your browsing data to improve security, to provide our Services and to generate reporting statistics, but in general we will not track other web sites that you may have visited.
 
-Consent:
+#### No Information Collected from Children.
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not open an Account or provide any personal information to us. If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, you may update, modify or delete that information by clicking on the “My Account” link on the Site, logging in, and changing your Account information and settings as applicable. Please note that in order to provide our services to you, we need certain personal information for billing and payment purposes. If you delete certain information such as your name, email address, billing or mailing address or bank account information or credit card number, we will need to terminate your Account. If you require further assistance, please contact us at hello@carbonads.net.
+We will never knowingly collect any individual information from children under the age of 13. If we obtain actual knowledge that we have collected individual information from a child under the age of 13, that information will be immediately removed from any access. Because we do not collect such information, we have no such information to use or to disclose to third parties. We have designed this policy in order to comply with the Children’s Online Privacy Protection Act ("COPPA").
 
-Security:
+### 2\. How Do We Use Individual Information?
 
-Carbon uses industry-standard data collection and encryption methodologies to ensure the secure collection and transmission of your personal information. We do not store any of your sensitive credit card information on our servers – it stays at the merchant processor (Authorize.net) who is PCI compliant. While we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+We use individual information mainly to provide and improve the Services, to perform our contractual obligations in our Terms of Use, and we may also contact users regarding account activities, new version and product offerings, or other communications relevant to the Services. We do not sell or share any Personally Identifiable Information or other information about our users to any third parties except as specified in this Privacy Policy. 
 
-Information about the Technology Carbon Technology may employ cookies to collect non-personally identifying information in the course of providing clients with ad-serving services and for the purpose of helping clients determine which advertisement is suitable to be delivered to a user. A cookie is a small text file that can be stored on a user’s computer when that computer’s browser views an advertisement or website of one of Carbon’s clients. The cookie is associated with and unique to the specific computer. The cookie does not contain the user’s name, address, phone number, email address, or anything that personally identifies it. Carbon collects into the cookie only non-personally identifying information such as the type of the computer’s operating system, type of internet browser software, what web pages were viewed and at what time, and geographic location of user’s internet service provider.
+If you contact us by email or by filling-out a registration form, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
 
-Removing our 3rd party ad-serving cookie from your browser
+In addition, we may use the individual information described above to send you promotional communications regarding the Services. If you decide at any time that you no longer wish to receive such promotional communications from us, email us at [support@buysellads.com](mailto:support@buysellads.com) and request to be removed from our list. 
 
-In your browser’s settings, there should be an option to remove cookies. The domain that we set cookies during your use of Carbon Technology is carbonads.net.
+### 3\. How Do We Store Your Personal Information?
 
-Questions or Comments:
+#### Storage and Security of Individual Information
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at hello@carbonads.net or by U.S. mail to 745 Atlantic Avenue, 8th Floor, Boston, MA 02111.
+The Company operates or leases secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information. Notwithstanding such measures, we cannot guarantee that our security measures will prevent our computers from being illegally accessed, and the individual information on them stolen or altered.
 
-Date last updated: July 21, 2015
+Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and individual information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
+
+#### Third Party Hosting, Serving and Storage
+
+We may contract with Third Party Service Providers from time to time, to provide for our hosting, authentication, serving, storage and telecommunication needs, etc., including without limitation storage of our users’ Personally Identifiable Information. We carefully choose such Third Party Service Providers with respect to their privacy and security practices, and unless otherwise stated in this Privacy Policy, these Third Party Service Providers do not have any right to use the Personally Identifiable Information we provide to them beyond what is necessary for them to assist us.
+
+#### Retention of Information 
+
+How long we keep your Personally Identifiable Information depends on the reasons we collected it and how we use it (as described in parts (1) and (2) above), and we do need certain information in order to provide some of the Services to you. If you decide to delete your information, we may cancel your account. We may retain an archived copy of certain records as we believe is necessary for our legal, accounting, and reasonable business purposes or is required by law.
+
+### 4\. Do We Disseminate Any Personal Information?
+
+#### Publishers and Advertisers
+
+As part of the buying and selling process and related transactions in our marketplace Services, we facilitate the sharing of information, which may include some Personally Identifiable Information, between our publisher and advertiser users who work directly with each other. By using the Services for such transactions, you are directing us to share such information in this way. We expect you to respect the rights of the users whose information you receive and you may not use such information without the express consent of that user except as needed in connection with these transactions.
+
+#### Service Providers
+
+We may use third parties to help operate and distribute our Services, authenticate users and deliver products and services, and may share limited Personally Identifiable Information with our service providers, vendors, suppliers, and other third parties that provide products or services for or through this Service (such as website or database hosting companies, authentication providers, credit card payment processors, address list hosting companies, e-mail service providers, analytics companies, distribution companies and other similar service providers that use such information on our behalf) ( “Third Party Service Providers”). Unless otherwise stated, these Third Party Service Providers do not have any right to use the Personally Identifiable Information we provide to them beyond what is necessary for them to assist us.
+
+#### Aggregate Statistics
+
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Services to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user or client. For example, aggregated data may be accessed by publishers running our serving technology and the advertisers they work with directly, and our advertisers may access aggregate geographic data for their campaigns.
+
+#### Complying with Legal Process
+
+We take reasonable steps to ensure the privacy of data uploaded. We reserve the right to use or disclose your Personally Identifiable Information and other information in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise our legal rights or defend against legal claims or in the event you violate or breach an agreement with us. We may use and disclose your Personally Identifiable Information if we believe you will harm the property or rights of Company, its owners, or others.
+
+#### Business Transitions 
+
+In the event the Company goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership, your Personally Identifiable Information may be disclosed and will likely be among the assets transferred. You may be notified thereafter via prominent notice on our web site for 30 days of any such change in ownership or control of your Personally Identifiable Information. We further reserve the right to disclose, transfer or sell your Personally Identifiable Information to companies who are affiliated with us in our sole discretion.
+
+### 5\. International Use of the Service and Transfer of Information Outside the European Union
+
+The Services are hosted and operated in the United States and may be hosted and operated elsewhere by us and our authorized Third Party Service Providers. Use of the Services is governed by United States law. If you are accessing our Services while you are domiciled outside of the United States, please note that laws in the United States may differ from laws where you reside, which may include the European Union’s General Data Protection Regulation (“GDPR”).
+
+You acknowledge that the Personally Identifiable Information you are providing us may be collected and stored in the United States and elsewhere and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States.
+
+If you are in a jurisdiction covered by the GDPR, please note the following: Our legal basis for collecting and using your information depends on what the information is and the context in which we collect it, as described in parts (1) and (2) above. You may access, correct or update certain Personally Identifiable Information as described in part (1) under “Personally Identifiable Information” above. You may remove cookies as described in part (6) below. To request deletion of, withdraw consent to use of or request other restrictions on your Personally Identifiable Information, please contact us as described under part (7) below. We will take reasonable efforts to delete your Personally Identifiable Information upon such request in accordance with the “Retention of Information” section in part (3) above. Please note that withdrawing your consent will not affect the legality of any processing based on legal grounds other than consent or conducted prior to your withdrawal. You also have the right to complain to your local data protection authority about our collection and use of your Personally Identifiable Information, but please contact us first with any concerns. If you need further assistance, please contact us as described under part (7) below.
+
+### 6\. Information About the Technology
+
+Some of the Services may employ cookies to collect non-Personally Identifiable Information in the course of providing clients with ad-serving services, for the purpose of helping clients determine which advertisement is suitable to be delivered to a user, or to maintain a user’s state (keeping them logged in, etc.). A cookie is a small text file that can be stored on a user's computer when that computer's browser views an advertisement or website of one of our clients. The cookie is associated with and unique to the specific computer. The cookie does not contain the user's name, address, phone number, email address, or anything that personally identifies it. We collect into the cookie only non-Personally Identifiable Information such as the type of the computer's operating system, type of internet browser software, what web pages were viewed and at what time, and geographic location of user's internet service provider.
+
+#### Removing Our 3rd Party Ad-Serving Cookie from Your Browser
+
+In your browser’s settings, there should be an option to remove cookies. The domain that we set cookies during your use of our Services is typically buysellads.com, syndicateads.net, or the self-service direct instance of the domain name of the Service you are using (such as selfservice.[domain name].com.
+
+### 7\. If I Have Questions Concerning This Privacy Policy?
+
+If you have any questions or concerns about this Privacy Policy, please contact us by e-mail at [support@buysellads.com](mailto:support@buysellads.com) or by U.S. mail to P.O. Box 55071 #30027, Boston, MA 02205-5071.
 
 – End –
