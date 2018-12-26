@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainnamewire.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626044433id_/https%3A//domainnamewire.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnamewire.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226124834id_/https%3A//domainnamewire.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Domain Name Wire | Domain Name News & Website Stuff
 
@@ -86,7 +86,6 @@ We have contracted with a third party to rectify any data breaches as quickly as
 
 By using this site, you agree:
 
--To not commit libel  
 -That your IP address will be tracked when you leave a comment, a standard feature of WordPress  
 -To not use profanity in comments  
 -To not impersonate another individual or company  
@@ -94,8 +93,3 @@ By using this site, you agree:
 -To not advertise domain names for sale in comments  
 -To not use automated programs to access Domain Name Wire without express written permission  
 -That you will not re-publish Domain Name Wire articles in a way that violates our copyright. Violations of the copyright include publishing full text of Domain Name Wire articles on another site or in a commercial manner. This includes publishing more than snippets from the RSS feed.
-
-**Comment Policy**  
-Domain Name Wire welcomes your comments. Please be sure to follow the Terms of Use when leaving comments. Specifically, we may delete comments that use fake email addresses and comments that impersonate another person or company. We also reserve the right to delete comments that seem promotional in nature, are considered spamming, are trolling, or do not add value to the conversation. Our goal is to create a productive comment atmosphere, and we reserve the right to delete comments or block commentors that degrade this experience.
-
-If you include your URL with your comment, please refrain from using a URL shortener.
