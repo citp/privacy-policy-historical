@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617030405id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023529id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,7 +94,7 @@ We will only disclose personal information and account data in the following cir
 
 ### Cookies
 
-We use cookies to manage your sessions, to remember your essential settings, and to help us better understand how people are using our services. This helps us provide a better experience to visitors of our website and to people using the service. In some cases where we use third-party services, such as our help system, these services may also use cookies.
+We use cookies to manage your sessions, to remember your essential settings, and to help us better understand how people are using our services. This helps us provide a better experience to visitors of our website and to people using the service. In some cases where we use third-party services, such as our help system, [these services](https://help.hushmail.com/hc/en-us/articles/360001128106) may also use cookies.
 
 We do not include any personal information in cookies. We do not share cookie information with other websites under any circumstances.
 
