@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cjr.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626023521id_/https%3A//www.cjr.org/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjr.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226104013id_/https%3A//www.cjr.org/about_us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Columbia Journalism Review
 
-[Mission Statement ](https://web.archive.org/web/20180626023521id_/https%3A//www.cjr.org/about_us/mission_statement.php)  
-[Masthead ](https://web.archive.org/web/20180626023521id_/https%3A//www.cjr.org/about_us/masthead.php)  
-[Major Funders ](https://web.archive.org/web/20180626023521id_/https%3A//www.cjr.org/about_us/masthead.php#MajorFunders)  
-[Follow Us ](https://web.archive.org/web/20180626023521id_/https%3A//www.cjr.org/about_us/follow_us.php)  
-[Privacy Policy ](https://web.archive.org/web/20180626023521id_/https%3A//www.cjr.org/about_us/privacy_policy.php)
+[Mission Statement ](https://web.archive.org/web/20181226104013id_/https%3A//www.cjr.org/about_us/mission_statement.php)  
+[Masthead ](https://web.archive.org/web/20181226104013id_/https%3A//www.cjr.org/about_us/masthead.php)  
+[Major Funders ](https://web.archive.org/web/20181226104013id_/https%3A//www.cjr.org/about_us/masthead.php#MajorFunders)  
+[Follow Us ](https://web.archive.org/web/20181226104013id_/https%3A//www.cjr.org/about_us/follow_us.php)  
+[Privacy Policy ](https://web.archive.org/web/20181226104013id_/https%3A//www.cjr.org/about_us/privacy_policy.php)
 
 * * *
 
