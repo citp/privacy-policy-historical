@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528102313id_/https%3A//www.xaxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083219id_/https%3A//www.xaxis.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | Xaxis
+# Privacy Notice | Xaxis
 
 The following chart provides information about the Mookie cookies, all of which are “persistent” cookies (meaning they are stored until they expire or are deleted/removed by a user) mapped to the mookie1.com domain:
 
