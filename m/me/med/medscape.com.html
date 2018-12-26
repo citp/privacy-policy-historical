@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medscape.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626022750id_/https%3A//www.medscape.com/public/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medscape.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226103239id_/https%3A//www.medscape.com/public/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -127,19 +127,31 @@ Phone: 866-788-3097</p>
 
 //-->
 </script>
-<script language="javascript1.2" type="text/javascript" src="https://img.medscapestatic.com/pi/scripts/omniture/bi_medscape.js?d=06/25/2018"></script>
+<script language="javascript1.2" type="text/javascript" src="https://img.medscapestatic.com/pi/scripts/omniture/bi_medscape.js?d=12/26/2018"></script>
 
 
 <!-- Communications Platform  -->
-<script type="text/javascript" src="//img.medscapestatic.com/medscape-core/shared-all/js/cp/cp.js?v=20150806"></script>
+<script type="text/javascript" src="//img.medscapestatic.com/medscape-core/shared-all/js/cp/cp.js?v=20180816"></script>
 <!-- /Communications Platform  -->
 
 
 <!-- multisite include -->
 
 
+
+
+
 	<script type="text/javascript">var isMscpApp = false;</script>
-	<script type="text/javascript" src="//img.medscapestatic.com/medscape-core/shared-all/js/gdpr/gdpr.js"></script>
+	
+			<script>
+				var isEuUser = false;
+				var gdpr = {"isgdprct": false};
+				window.top.document.cookie = 'isgdprct=false; path=/; domain=' + window.top.document.domain.match(/(medscape|webmd)\.[^.\/]+/)[0] + '; expires=Tue, 01 Jan 2030 21:59:36 GMT';
+				try {
+					window.top.document.dispatchEvent(new CustomEvent('gdprChk', { detail: false }));
+				} catch(e) { console.log(e) };
+			</script>
+		
 
 
 <script type="text/javascript" src="//img.medscapestatic.com/medscape-core/shared-all/js/medscape/medscape-site.js"></script>
