@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626073518id_/https%3A//www.coastalscents.com/pages/privacy-policy-2017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226153537id_/https%3A//www.coastalscents.com/pages/privacy-policy-2017) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We do not store your credit card information on our server and/or keep credit ca
 
 To be able to access your account, you must enter your email address and password. This is to establish your personal identity and respond with relevant account information. If there is a problem with your order, we may use your name, email address, or phone number to contact you.
 
-We may need to disclose user information in certain exceptional circumstances. This may be needed to protect against illegal hackers, our legal rights, or to address actual/threatened illegal or harmful conduct. Disclosure may also be required by legal process, such as a search warrant, subpoena or court order.
+We may need to disclose user information in certain exceptional circumstances. This may be needed to protect against illegal hackers, our legal rights, or to address actual/threatened illegal or harmful conduct. Disclosure may also be required by legal process, such as a search warrant, subpoena or court order. Transfer of ownership or operations of the site may require disclosure of customer data.
 
 You can access and manage your account information at any time once logged into our website. Certain information, such as name or address, can be updated or corrected.
 
@@ -55,7 +55,9 @@ We collect information from you in several different ways on this Site. One goal
 
 (b) **EMAIL ADDRESSES** Several locations of the Site permit you to enter your email address for purposes including, but not limited to: to register for a contest or sweepstakes; to request us to notify you of new makeup palettes, new products or product sizes; to sign up for email newsletters and special offers; or to sign up for the CoastalScents.com newsletter. Your participation in a contest or sweepstakes is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest and sweepstake winners and to award prizes. We may post on the Site, the names and cities of contest and sweepstake winners. By entering a contest or sweepstakes, you may be opting-in to receive our email newsletter and special offers; this will be disclosed in the official rules governing the contest or sweepstakes. 
 
-(c) **COOKIES & OTHER TECHNOLOGY** Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or “action tags”) to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage. 
+(c) **SMS/Text Messaging** Text Marketing and notifications (if applicable): By entering your phone number in the checkout and initializing a purchase, you agree that we may send you text notifications (for your order, including abandoned cart reminders) and text marketing offers. Text marketing messages will not exceed 10 per month. You can unsubscribe from further text messages by replying STOP. Message and data rates may apply.
+
+(d) **COOKIES & OTHER TECHNOLOGY** Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or “action tags”) to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage. 
 
 (i) Cookies are small text files that contain a string of alphanumeric characters that remain on your hard drive until you close your browser, and persistent cookies are simply cookies that remain on your hard drive after you close your browser. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the Site. We have to use cookies to enable you to select products, place them in an online shopping cart and to purchase those products. For instance, by setting a cookie on our Site, we can provide you with storage of items in your shopping cart between visits. If you do this, we keep a record of your browsing activity and purchase. THE SITE’S COOKIES DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO GATHER A USER’S CONFIDENTIAL INFORMATION. Our cookies are not “spyware.” 
 
@@ -186,7 +188,3 @@ K-Plex, LLC reserves the right, at any time, without notice, and in its sole dis
 K-Plex, LLC may access, preserve, and disclose your account information and Content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to (i) comply with legal process; (ii) enforce these Terms of Use, (iii) respond to claims that any Content violates the rights of third parties, (iv) respond to your requests for customer service or (v) protect the rights, property, or personal safety of K-Plex, LLC (and its employees), its users, and the public.
 
 © 2018 Coastal Scents. All Rights Reserved.
-
-You don't have any items in your shopping bag. 
-
-aa
