@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictionblog.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626182150id_/http%3A//addictionblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictionblog.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226233221id_/https%3A//addictionblog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ We may use the information we collect from you in the following ways:
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To administer a promotion, survey or other Website feature
   * To communicate with you about information and updates pertaining to your placement and/or consulting request.
-  * To monitor the Site for compliance with our [Terms of Use](http://addictionblog.org/user_terms_of_use/) and the law
+  * To monitor the Site for compliance with our [Terms of Use](https://addictionblog.org/user_terms_of_use/) and the law
 
 
 
