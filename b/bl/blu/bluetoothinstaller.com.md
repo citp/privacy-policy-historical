@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetoothinstaller.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622004934id_/http%3A//bluetoothinstaller.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetoothinstaller.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226203226id_/http%3A//bluetoothinstaller.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of BluetoothInstaller.com
 
@@ -32,5 +32,5 @@ Concerns or questions about this privacy policy can be directed to [info@bluetoo
 
 [Directory of Bluetooth Resources](https://web.archive.org/bluetooth-resources/) | [Bluetooth Command Line Tools](https://web.archive.org/bluetooth-command-line-tools/)
 
-[Home](https://web.archive.org/) | [Privacy policy](https://web.archive.org/web/20180622004934id_/http%3A//bluetoothinstaller.com/privacy.html) | [Terms and conditions](https://web.archive.org/web/20180622004934id_/http%3A//bluetoothinstaller.com/terms.html)  
+[Home](https://web.archive.org/) | [Privacy policy](https://web.archive.org/web/20181226203226id_/http%3A//bluetoothinstaller.com/privacy.html) | [Terms and conditions](https://web.archive.org/web/20181226203226id_/http%3A//bluetoothinstaller.com/terms.html)  
 Copyright © 2009-2017 BluetoothInstaller.com
