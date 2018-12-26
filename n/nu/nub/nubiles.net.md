@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nubiles.net privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617194944id_/http%3A//nubiles.net/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubiles.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023246id_/https%3A//nubiles.net/page/privacy_policy) for the most accurate reproduction.*
 
 # Nubiles - Privacy Policy
 
