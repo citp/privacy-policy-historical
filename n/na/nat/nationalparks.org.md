@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalparks.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626071636id_/https%3A//www.nationalparks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalparks.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226151617id_/https%3A//www.nationalparks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Park Foundation
 
@@ -16,7 +16,7 @@ The National Park Foundation protects your personal information from loss, misus
 
 **Use of Third Parties**
 
-On occasion, the National Park Foundation may supply personal information with third parties to perform services on our behalf, such as data processing, marketing support, analytics, etc. Your personal information is provided to these third parties only as needed to perform services on behalf of the National Park Foundation. These third parties are contractually obligated to maintain the confidentiality and security of all personal information supplied.
+On occasion, the National Park Foundation may supply personal information with third parties to perform services on our behalf, such as data processing, marketing support, analytics, etc. Your personal information is provided to these third parties only as needed to perform services on behalf of the National Park Foundation. These partners may also combine your email information with other information they have access to such as mailing address so that we may serve relevant marketing offers to you via email and direct mail. These third parties are contractually obligated to maintain the confidentiality and security of all personal information supplied.
 
 **Exchange with Other Organizations**
 
