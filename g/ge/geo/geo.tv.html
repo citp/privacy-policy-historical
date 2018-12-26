@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the geo.tv privacy policy that was archived on 2018-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180616040707id_/https%3A//www.geo.tv/privacy-policy-and-tos) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geo.tv privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226031327id_/https%3A//www.geo.tv/privacy-policy-and-tos) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -33,7 +33,6 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#0D3975">
 <link rel="manifest" href="https://www.geo.tv/manifest.json">
-<link rel="stylesheet" href="https://www.geo.tv/assets/front/css/notification.css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
     var OneSignal = window.OneSignal || [];
@@ -107,6 +106,13 @@ loadChartbeat : function () { oldonload(); loadChartbeat(); };
 
         var mappingbillboard = googletag.sizeMapping().
         addSize([1024, 0], [970, 90]).
+        addSize([768, 0], [970, 90]).
+        addSize([500, 0], [728, 90]).
+        addSize([0, 0], [320, 100]).
+        build();
+
+        var mappingbillboardhome = googletag.sizeMapping().
+        addSize([1024, 0], [[970, 250], [970, 90], [728, 90]]).
         addSize([768, 0], [970, 90]).
         addSize([500, 0], [728, 90]).
         addSize([0, 0], [320, 100]).
@@ -193,6 +199,13 @@ loadChartbeat : function () { oldonload(); loadChartbeat(); };
 <body>
 <div id="transparent_div"></div>
 <div class="about-page">
+<style>
+        header nav ul.menu li.election-links,
+        .sidenav .inner-scroller ul li.election-links
+        {
+            display: none;
+        }
+    </style>
 <div id="leftOverlay" class="leftOverlay" onclick="closeNav()"></div>
 <div class="loader-geonews hide">
 <div class="loader-inner">
@@ -208,6 +221,13 @@ Can't connect right now!
 </span>
 </div>
 <div id="mySidenav" class="sidenav">
+<style>
+        header nav ul.menu li.election-links,
+        .sidenav .inner-scroller ul li.election-links
+        {
+            display: none;
+        }
+    </style>
 <div class="inner-scroller">
 <div class="column-left">
 <div class="left-stick" id="leftstickmenu">
@@ -236,6 +256,10 @@ Can't connect right now!
 </div>
 <div class="menu-area" id="style-1">
 <ul>
+<li class="election-links"><a class="open-section" href="https://www.geo.tv/" title=" Election 2018">Home</a></li>
+<li class="election-links"><a class="open-section" href="https://www.geo.tv/election/constituency" title="Constituencies">Constituencies</a></li>
+<li class="election-links"><a class="open-section" href="https://www.geo.tv/election/candidates" title="Candidates">Candidates</a></li>
+<li class="election-links"><a class="open-section" href="https://www.geo.tv/election/results" title="Election Results">Results</a></li>
 <li><a class="open-section" href="https://www.geo.tv/"><img src="https://www.geo.tv//assets/front/images/geo-menus-icons/latest-icon.svg">Home</a></li>
 <li><a class="open-section" href="https://www.geo.tv/latest-news"><img src="https://www.geo.tv//assets/front/images/geo-menus-icons/latest-icon.svg">latest</a></li>
 <li><a class="open-section" href="https://www.geo.tv/category/pakistan"><img src="https://www.geo.tv//assets/front/images/geo-menus-icons/pakistan-icon.svg">pakistan</a></li>
@@ -251,7 +275,7 @@ Can't connect right now!
 <li><a class="open-section" href="https://www.geo.tv/tv-shows"><img src="https://www.geo.tv//assets/front/images/geo-menus-icons/shows-icon.svg"> shows</a></li>
 <li><a href="http://urdu.geo.tv" title="GEO Urdu" target="_blank">GEO Urdu</a></li>
 <li><a href="http://asool.geo.tv" title="Geo Asool" target="_blank">Geo Asool</a></li>
-<li><a href="#_" class="contactus">Contact us</a></li>
+ <li><a href="#_" class="contactus">Contact us</a></li>
 <li>
 <div style="display: table;margin: 0 auto;width: 150px;">
 <a href="javascript:void(0)" class="slide-bell top-head-bell-responsive"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.63 511.63" width="20" height="20" xml:space="preserve"> <g> <path d="M411.404,288.506c-18.455-45.014-27.685-92.455-27.685-142.325c0-31.405-9.131-56.337-27.398-74.802 c-18.28-18.464-43.406-29.602-75.383-33.407c1.52-3.424,2.279-6.945,2.279-10.562c0-7.614-2.663-14.091-7.991-19.416 C269.898,2.663,263.427,0,255.812,0c-7.61,0-14.083,2.663-19.414,7.994c-5.33,5.329-7.993,11.802-7.993,19.416 c0,3.617,0.76,7.135,2.285,10.562c-31.977,3.809-57.103,14.942-75.375,33.407c-18.271,18.464-27.406,43.396-27.406,74.802 c0,49.87-9.229,97.311-27.694,142.325c-18.464,45.015-45.776,82.847-81.942,113.492c0,9.896,3.617,18.463,10.85,25.693 c7.232,7.231,15.796,10.852,25.697,10.852h127.907c0,20.178,7.135,37.404,21.411,51.675c14.277,14.273,31.504,21.412,51.678,21.412 c20.177,0,37.404-7.139,51.675-21.412c14.273-14.271,21.412-31.497,21.412-51.675H456.81c9.897,0,18.47-3.613,25.694-10.852 c7.234-7.23,10.852-15.797,10.852-25.693C457.196,371.353,429.881,333.521,411.404,288.506z M255.816,488.787 c-13.894,0-25.747-4.896-35.548-14.698c-9.801-9.804-14.703-21.658-14.703-35.553c0-3.046,1.524-4.568,4.568-4.568 c3.046,0,4.57,1.522,4.57,4.568c0,11.231,4.043,20.889,12.132,28.982c8.091,8.094,17.749,12.135,28.98,12.135 c3.046,0,4.575,1.53,4.575,4.569C260.392,487.268,258.862,488.787,255.816,488.787z"></path> </g> </svg></a>
@@ -269,8 +293,8 @@ Can't connect right now!
 </div>
 </div> </div>
 <header>
-<div class="container">
 <div class="mobile-header">
+<div class="container">
 <div class="mobile-left">
 <div class="mobile-nav">
 <span class="mob-menu-icon" onclick="openNav()">
@@ -294,66 +318,83 @@ Can't connect right now!
 <li>
 <div class="live-btn"><a href="http://live.geo.tv/" target="_blank">
 <div class="icon" style="display: block">
-<img src="https://www.geo.tv/assets/front/images/live-icon.svg">
+<img src="https://www.geo.tv/assets/front/images/live_icon.png">
 </div>
-<b>Tv</b>
-<span id="text-blink" title="Tv">.</span></a>
-</div>
-<div class="live-btn radio-btn" style="margin-right: 10px;">
-<a href="http://live.geo.tv/radio.php" class="<!--play-radio-->" target="_blank">
+</a></div><a href="http://live.geo.tv/" target="_blank">
+</a><div class="live-btn radio-btn" style="margin-right: 10px;"><a href="http://live.geo.tv/" target="_blank">
+</a><a href="http://live.geo.tv/radio.php" class="<!--play-radio-->" target="_blank">
 <div class="icon" style="display: block">
 <img class="radio-icons load-img hide" style="width: 22px;" src="https://www.geo.tv/assets/front/images/loading_dots.gif">
-<img class="radio-icons play-icon" src="https://www.geo.tv/assets/front/images/radio.svg">
+<img class="radio-icons play-icon" src="https://www.geo.tv/assets/front/images/radio.png">
 <img class="radio-icons pause-icon hide" style="width: 14px;" src="https://www.geo.tv/assets/front/images/pause.svg">
 </div>
-<b>Radio</b><span id="text-blink" title="Radio">.</span></a></div>
+</a>
+</div>
 </li>
 </ul>
 </div>
 <div class="clearfix"></div>
 </div>
+</div>
 <div class="desktop-header">
-<div class="logo-white"><a href="https://www.geo.tv/"><img src="https://www.geo.tv/assets/front/images/logo.svg"></a> </div>
-<div class="logo-blck"><a href="https://www.geo.tv/"><img src="https://www.geo.tv/assets/front/images/logo-blue.svg"></a> </div>
-<nav>
-<a href="#" id="close-nav">X</a>
-<ul class="menu">
-<li><a class="open-section" href="https://www.geo.tv/" title="Home">Home</a></li>
-<li><a class="open-section" href="https://www.geo.tv/latest-news" title="Latest News">Latest</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/pakistan" title="Pakistan">Pakistan</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/world" title="World">World</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/sports" title="Sports">Sports</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/entertainment" title="Entertainment">Entertainment</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/business" title="Business">Business</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/health" title="Health">Health</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/amazing" title="Amazing">Amazing</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/sci-tech" title="Sci-Tech">Sci-Tech</a></li>
-<li><a class="open-section" href="https://www.geo.tv/category/life-style" title="Lifestyle">Lifestyle</a></li>
-<li><a class="open-section" href="https://www.geo.tv/tv-shows" title="TV Shows">TV Shows</a></li>
-<li><a class="open-section" href="https://www.geo.tv/videos" title="Videos">Videos</a></li>
-<li><a class="open-section" href="http://urdu.geo.tv" title="GEO Urdu" target="_blank">Urdu</a></li>
+<div class="header_top">
+<div class="container">
+<div class="h_top_left">
+<div class="dropdown">
+<div class="dropdown-toggle" type="button" data-toggle="dropdown">
+<span><img src="https://www.geo.tv/assets/front/images/section.png"></span>Trending</div>
+<ul class="dropdown-menu">
+<li><a class="open-section" href="https://www.geo.tv/trending/nawaz-sharif" title="Nawaz Sharif">Nawaz Sharif</a></li><li><a class="open-section" href="https://www.geo.tv/trending/FIA-money-laundering-" title="Money-Laundering Case">Money-Laundering Case</a></li><li><a class="open-section" href="https://www.geo.tv/trending/SA-vs-PAK" title="SA vs PAK">SA vs PAK</a></li><li><a class="open-section" href="https://www.geo.tv/trending/panama-leaks" title="Panama Leaks">Panama Leaks</a></li><li><a class="open-section" href="https://www.geo.tv/trending/PM-Elect-Imran-" title="PM Imran Khan">PM Imran Khan</a></li><li><a class="open-section" href="https://www.geo.tv/PTI100Days" title="PTI 100 Days">PTI 100 Days</a></li> 
 </ul>
-</nav>
+</div>
+<div class="search">
+<div id="imaginary_container">
+<form action="https://www.geo.tv/search1/" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="006074140653376922054:rmtzskztmow">
+<input type="hidden" name="cof" value="FORID:10">
+<input type="hidden" name="ie" value="UTF-8">
+
+</div>
+<div class="input-group stylish-input-group">
+<span class="input-group-addon">
+<button type="submit"><i class="glyphicon glyphicon-search"></i></button>
+<span class="search_loader"></span>
+<div class="search_results_div" id="search_results_div"></div>
+ </span>
+<input type="text" name="q" class="form-control" placeholder="Search">
+</div>
+</form>
+ </div>
+</div>
+</div>
+<div class="h_top_center">
+<div class="logo-blck"><a href="https://www.geo.tv/"><img src="https://www.geo.tv/assets/front/images/logo-blue.svg"></a> </div>
+</div>
+<div class="h_top_right">
 <div class="header-right">
 <ul>
+<li>
+<a href="javascript:void(0)" class="slide-bell top-head-bell">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.63 511.63" width="20" height="20" xml:space="preserve"> <g> <path d="M411.404,288.506c-18.455-45.014-27.685-92.455-27.685-142.325c0-31.405-9.131-56.337-27.398-74.802 c-18.28-18.464-43.406-29.602-75.383-33.407c1.52-3.424,2.279-6.945,2.279-10.562c0-7.614-2.663-14.091-7.991-19.416 C269.898,2.663,263.427,0,255.812,0c-7.61,0-14.083,2.663-19.414,7.994c-5.33,5.329-7.993,11.802-7.993,19.416 c0,3.617,0.76,7.135,2.285,10.562c-31.977,3.809-57.103,14.942-75.375,33.407c-18.271,18.464-27.406,43.396-27.406,74.802 c0,49.87-9.229,97.311-27.694,142.325c-18.464,45.015-45.776,82.847-81.942,113.492c0,9.896,3.617,18.463,10.85,25.693 c7.232,7.231,15.796,10.852,25.697,10.852h127.907c0,20.178,7.135,37.404,21.411,51.675c14.277,14.273,31.504,21.412,51.678,21.412 c20.177,0,37.404-7.139,51.675-21.412c14.273-14.271,21.412-31.497,21.412-51.675H456.81c9.897,0,18.47-3.613,25.694-10.852 c7.234-7.23,10.852-15.797,10.852-25.693C457.196,371.353,429.881,333.521,411.404,288.506z M255.816,488.787 c-13.894,0-25.747-4.896-35.548-14.698c-9.801-9.804-14.703-21.658-14.703-35.553c0-3.046,1.524-4.568,4.568-4.568 c3.046,0,4.57,1.522,4.57,4.568c0,11.231,4.043,20.889,12.132,28.982c8.091,8.094,17.749,12.135,28.98,12.135 c3.046,0,4.575,1.53,4.575,4.569C260.392,487.268,258.862,488.787,255.816,488.787z"></path> </g> </svg>
+</a>
+</li>
 <li>
 <div class="live-btn radio-btn" style="margin-right: 5px;">
 <a href="http://live.geo.tv/radio.php" class="<!--play-radio-->" target="_blank">
 <div class="icon">
 <img class="radio-icons load-img hide" style="width: 22px;" src="https://www.geo.tv/assets/front/images/loading_dots.gif">
-<img class="radio-icons play-icon" src="https://www.geo.tv/assets/front/images/radio.svg">
+<img class="radio-icons play-icon" src="https://www.geo.tv/assets/front/images/radio.png">
 <img class="radio-icons pause-icon hide" style="width: 14px;" src="https://www.geo.tv/assets/front/images/pause.svg">
 <img class="radio-icons error-icon hide" src="https://www.geo.tv/assets/front/images/warning.svg">
 </div>
-<span id="text-blink" title="Radio">.</span>
 </a>
 </div>
 </li>
 <li>
 <div class="live-btn">
 <a href="http://live.geo.tv/" target="_blank">
-<div class="icon"><img src="https://www.geo.tv/assets/front/images/live-icon.svg"></div>
-<span id="text-blink" title="Tv">.</span>
+<div class="icon"><img src="https://www.geo.tv/assets/front/images/live_icon.png"></div>
 </a>
 </div>
 </li>
@@ -361,7 +402,48 @@ Can't connect right now!
 </div>
 </div>
 </div>
+</div>
+<div class="header_bottom">
+<div class="container">
+<div class="h_b_logo">
+<a href="https://www.geo.tv/"><img src="https://www.geo.tv/assets/front/images/logo-blue.svg"></a>
+</div>
+<nav>
+<a href="#" id="close-nav">X</a>
+<ul class="menu">
+<li class=""><a class="open-section" href="https://www.geo.tv/" title="Home">Home</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/latest-news" title="Latest News">Latest</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/pakistan" title="Pakistan">Pakistan</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/world" title="World">World</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/sports" title="Sports">Sports</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/entertainment" title="Entertainment">Entertainment</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/business" title="Business">Business</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/health" title="Health">Health</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/amazing" title="Amazing">Amazing</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/sci-tech" title="Sci-Tech">Sci-Tech</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/category/life-style" title="Lifestyle">Lifestyle</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/tv-shows" title="TV Shows">TV Shows</a></li>
+<li class=""><a class="open-section" href="https://www.geo.tv/videos" title="Videos">Videos</a></li>
+<li class=""><a class="open-section" href="http://urdu.geo.tv" title="GEO Urdu" target="_blank">اردو</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
 </header>
+<div class="mob_hot_topics">
+<div class="container">
+<div class="trending">
+<div class="trending-area">
+<div class="trending-overflow">
+<ul>
+<li><a class="open-section" href="https://www.geo.tv/trending/nawaz-sharif" title="Nawaz Sharif">Nawaz Sharif</a></li><li><a class="open-section" href="https://www.geo.tv/trending/FIA-money-laundering-" title="Money-Laundering Case">Money-Laundering Case</a></li><li><a class="open-section" href="https://www.geo.tv/trending/SA-vs-PAK" title="SA vs PAK">SA vs PAK</a></li><li><a class="open-section" href="https://www.geo.tv/trending/panama-leaks" title="Panama Leaks">Panama Leaks</a></li><li><a class="open-section" href="https://www.geo.tv/trending/PM-Elect-Imran-" title="PM Imran Khan">PM Imran Khan</a></li><li><a class="open-section" href="https://www.geo.tv/PTI100Days" title="PTI 100 Days">PTI 100 Days</a></li> 
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
 <style>
     .ads-pic-desktop{
         display: inline-block;
@@ -425,64 +507,95 @@ Karachi, Pakistan 74200</strong></span>
 </section>
 <footer>
 <div class="container">
-<div class="footer-bottom">
-<div class="footer-top">
-<div class="footer-left"><img src="https://www.geo.tv/assets/front/images/geo-television-network.svg"> </div>
-<span><p>Copyright © 2018. Geo Television Network , All Rights Reserved</p></span>
-<div class="footer-right">
+<div class="ftr_inr">
+<div class="ftr_col">
+<h1>Sections</h1>
 <ul>
-<li style="margin-right: 0;">
+<li><a href="https://www.geo.tv/">Home</a> </li>
+<li><a href="https://www.geo.tv/latest-news">LATEST</a> </li>
+<li><a href="https://www.geo.tv/category/pakistan">PAKISTAN</a> </li>
+<li><a href="https://www.geo.tv/category/world">WORLD</a> </li>
+<li><a href="https://www.geo.tv/category/sports">SPORTS</a> </li>
+<li><a href="https://www.geo.tv/category/entertainment">ENTERTAINMENT</a> </li>
+<li><a href="https://www.geo.tv/category/business">BUSINESS</a> </li>
+<li><a href="https://www.geo.tv/category/health">HEALTH</a> </li>
+<li><a href="https://www.geo.tv/category/amazing">AMAZING</a> </li>
+<li><a href="https://www.geo.tv/category/sci-tech">SCI-TECH</a> </li>
+<li><a href="https://www.geo.tv/category/life-style">life style</a> </li>
+</ul>
+</div>
+<div class="ftr_col">
+<ul style="margin-top: 32px;">
+<li><a href="https://www.geo.tv/tv-shows">TV SHOWS</a> </li>
+<li><a href="https://www.geo.tv/videos">VIDEOS</a> </li>
+<li><a href="https://urdu.geo.tv/" target="_blank">URDU</a> </li>
+<h1>LIVE</h1>
+<li><a href="https://live.geo.tv/" target="_blank">TV</a> </li>
+<li><a href="https://live.geo.tv/radio.php" target="_blank">RADIO</a> </li>
+<li>
 <div class="fb-bot-btn">
 <div class="fb-messengermessageus" id="fb-messengermessageus" messenger_app_id="1678638095724206" page_id="101059326616167" color="blue" size="large" style="height: 27px;"></div>
 <script> window.fbAsyncInit = function () {
                                     FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
                                 }</script>
 </div>
-
 </li>
-<li style="width: auto;    margin-right: 0;">
-<div class="about">
-<a class="btn btn-default dropdown-toggle" href="http://asool.geo.tv/" target="_blank" title="geo asool">Geo Asool</a>
+</ul>
 </div>
-</li>
-<li style="width: auto;    margin-right: 0;">
-<div class="about">
-<a class="btn btn-default dropdown-toggle" href="http://urdu.geo.tv/" target="_blank" title="Geo Urdu">Geo Urdu</a>
+<div class="ftr_col">
+<h1>ABOUT</h1>
+<ul>
+<li><a href="https://www.geo.tv/about-us">ABOUT US</a> </li>
+<li><a href="https://www.geo.tv/schedule">Schedule</a> </li>
+<li><a href="https://www.geo.tv/privacy-policy-and-tos">PRIVACY POLICY</a> </li>
+<li><a href="https://www.geo.tv/ratecardonline">ADVERTISING GUIDE</a> </li>
+<li><a href="https://www.geo.tv/faq-distribution">FAQ DISTRIBUTION</a> </li>
+<li><a href="https://www.geo.tv/corporate-profile">CORPORATE PROFILE</a> </li>
+<li><a href="http://203.176.191.38/marketing/capping/dailycapping.aspx" target="_blank">BOOKING STATUS</a> </li>
+<li><a href="https://www.geo.tv/faq">FAQ (GENERAL)</a> </li>
+<li><a href="https://www.geo.tv/faq#_">GEO TV SATELLITE
+PARAMETERS</a> </li>
+<li><a href="http://talent.geo.tv/" target="_blank">CAREER</a> </li>
+<li><a href="http://talent.geo.tv/" target="_blank">GEO TALENT</a> </li>
+<li><a href="http://asool.geo.tv/" target="_blank">GEO ASOOL</a> </li>
+</ul>
 </div>
+<div class="ftr_col">
+<h1>GET APP</h1>
+<ul>
+<li><p>stay updated with all that's buzzing and trending with geo news app</p></li>
+<li><a class="apps" href="https://play.google.com/store/apps/details?id=com.snr" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/play_store.png" alt=""></a>
+<a class="apps" href="https://itunes.apple.com/cy/app/seenreport.geonews.iphone/id617329127" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/app_store.png" alt=""> </a> </li>
+<h1>FOLLOW US ON</h1>
+<li>
+<a class="follow" href="https://www.facebook.com/GeoEnglishdotTV/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/fb_round.png" alt=""></a>
+<a class="follow" href="https://twitter.com/geonews_english" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/twitter_round.png" alt=""></a>
+<a class="follow" href="https://www.youtube.com/user/geonews/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/youtube_round.png" alt=""></a>
 </li>
-<li style="width: auto">
-<div class="about">
-<div class="btn-group dropup">
-<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-About
-</button>
-<ul class="dropdown-menu" role="menu">
-
-
-<li><a href="https://www.geo.tv/about-us">About Us</a></li>
-<li><a href="https://www.geo.tv/schedule">Schedule</a></li>
-<li><a href="https://www.geo.tv/privacy-policy-and-tos">Privacy Policy &amp; Terms of Use</a></li>
-<li><a href="https://www.geo.tv/ratecardonline">Advertising Guide</a></li>
-<li><a href="https://www.geo.tv/faq-distribution">Faq Distribution</a></li>
-<li><a href="https://www.geo.tv/corporate-profile">Corporate Profile</a></li>
-<li><a href="http://203.176.191.38/marketing/capping/dailycapping.aspx" target="_blank">Booking Status</a></li>
-<li><a href="https://www.geo.tv/faq">Faq (General)</a></li>
-<li><a href="#_">GEO TV Satellite Parameters</a></li>
-<li class="divider"></li>
-<li><a href="http://talent.geo.tv/" target="_blank">Career</a></li>
-<li><a href="http://talent.geo.tv/" target="_blank">Geo Talent</a></li>
-<li><a href="#_" class="contactus">Contact Us</a></li>
+</ul>
+</div>
+<div class="ftr_col">
+<h1>NETWORK SITES</h1>
+<ul>
+<li>
+<ul>
+<li><a href="https://www.geo.tv/"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/g_news.png" alt=""></a> </li>
+<li><a href="http://harpalgeo.tv/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/g_eo.png" alt=""></a> </li>
+<li><a href="https://urdu.geo.tv/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/g_eo_urdu.png" alt=""></a> </li>
+<li><a href="https://live.geo.tv/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/live_geo.png" alt=""></a> </li>
+<li><a href="https://www.thenews.com.pk/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/news_new.png" alt=""></a> </li>
+<li><a href="https://jang.com.pk/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/jang_new.png" alt=""></a> </li>
+<li><a href="http://geokahani.tv/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/kahani_geo.png" alt=""></a> </li>
+<li><a href="http://geotez.tv/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/geo_taiz.png" alt=""></a> </li>
+<li><a href="http://www.geosuper.tv/" target="_blank"><img class="lazyload" data-src="https://www.geo.tv/assets/front/images/geo_super.png" alt=""></a> </li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
-</li>
-<li><a href="https://www.facebook.com/GeoEnglishdotTV/" target="_blank"><svg id="Capa_1" style="enable-background:new 0 0 96.124 96.123" version="1.1" viewBox="0 0 96.124 96.123" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M72.089,0.02L59.624,0C45.62,0,36.57,9.285,36.57,23.656v10.907H24.037c-1.083,0-1.96,0.878-1.96,1.961v15.803c0,1.083,0.878,1.96,1.96,1.96h12.533v39.876c0,1.083,0.877,1.96,1.96,1.96h16.352c1.083,0,1.96-0.878,1.96-1.96V54.287h14.654c1.083,0,1.96-0.877,1.96-1.96l0.006-15.803c0-0.52-0.207-1.018-0.574-1.386c-0.367-0.368-0.867-0.575-1.387-0.575H56.842v-9.246c0-4.444,1.059-6.7,6.848-6.7l8.397-0.003c1.082,0,1.959-0.878,1.959-1.96V1.98C74.046,0.899,73.17,0.022,72.089,0.02z"></path></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></a></li>
-<li><a href="https://twitter.com/geonews_english" target="_blank"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve"><g><g><path d="M612,116.258c-22.525,9.981-46.694,16.75-72.088,19.772c25.929-15.527,45.777-40.155,55.184-69.411c-24.322,14.379-51.169,24.82-79.775,30.48c-22.907-24.437-55.49-39.658-91.63-39.658c-69.334,0-125.551,56.217-125.551,125.513c0,9.828,1.109,19.427,3.251,28.606C197.065,206.32,104.556,156.337,42.641,80.386c-10.823,18.51-16.98,40.078-16.98,63.101c0,43.559,22.181,81.993,55.835,104.479c-20.575-0.688-39.926-6.348-56.867-15.756v1.568c0,60.806,43.291,111.554,100.693,123.104c-10.517,2.83-21.607,4.398-33.08,4.398c-8.107,0-15.947-0.803-23.634-2.333c15.985,49.907,62.336,86.199,117.253,87.194c-42.947,33.654-97.099,53.655-155.916,53.655c-10.134,0-20.116-0.612-29.944-1.721c55.567,35.681,121.536,56.485,192.438,56.485c230.948,0,357.188-191.291,357.188-357.188l-0.421-16.253C573.872,163.526,595.211,141.422,612,116.258z"></path></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></a></li>
-<li><a href="https://www.youtube.com/channel/UC_vt34wimdCzdkrzVejwX9g?sub_confirmation=1" target="_blank"><img src="https://www.geo.tv/assets/front/images/youtube_geo3.png" style="width:30px;"></a></li>
-</ul>
 </div>
-</div>
-</div>
+<div class="copyright">
+<p>Copyright © 2018. Geo Television Network. All Rights Reserved.</p>
 </div>
 </footer>
 <div class="modal fade" id="contactPopup" tabindex="-1" role="dialog" style="display:none;z-index: 9999999999;">
@@ -504,7 +617,7 @@ Name <br>
 </tr>
 <tr>
 <td>
- Email <br>
+Email <br>
 <input id="contact_email" type="text" name="contact_email" class="txtfield" maxlength="1000">
 </td>
 </tr>
