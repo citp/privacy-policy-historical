@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legion.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629175609id_/https%3A//www.legion.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legion.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226100014id_/https%3A//www.legion.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The American Legion
 
