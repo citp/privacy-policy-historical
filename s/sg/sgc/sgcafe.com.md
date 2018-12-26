@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgcafe.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605064740id_/http%3A//vr-zone.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgcafe.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226161113id_/http%3A//vr-zone.com/privacy_policy.php) for the most accurate reproduction.*
 
 # VR-Zone.com Privacy Policy
 
@@ -9,7 +9,7 @@ All graphics, articles, reviews, etc. on this website is the sole property of vr
 vr-zone.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address, unless otherwise stated (A Contest, for example). However, vr-zone.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by vr-zone.com is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
 
 Third Party Advertising  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at cs@vrmedia.com.sg. 
 
@@ -22,7 +22,7 @@ vr-zone.com does use cookies to store information about visitors preferences, re
 DoubleClick DART Cookie   
 .:: Google, as a third party vendor, uses cookies to serve ads on vr-zone.com.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to vr-zone.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, IDG TechNetwork, TribalFusion, Burst Media, Admax, Innity.  
 
