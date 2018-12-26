@@ -1,21 +1,25 @@
-<!--The following is the downloaded HTML source of the footlive.com privacy policy that was archived on 2018-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620215223id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footlive.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226112957id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths bgpositionxy csscalc bgsizecover boxsizing no-bgrepeatround no-bgrepeatspace cubicbezierrange no-display-runin display-table cssresize scriptasync scriptdefer"><head>
     <meta charset="UTF-8">
     <title>Privacy Policy - Footlive.com</title>
 	
 	    <meta name="description" content="Privacy Policy - Footlive.com.">
-		
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+	<link rel="dns-prefetch" href="//connect.facebook.net">
+	<link rel="dns-prefetch" href="//www.facebook.com">
+	<link rel="dns-prefetch" href="//google-analytics.com">
+	<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+	<link rel="dns-prefetch" href="//googlesyndication.com">
+	
 				<meta name="keywords" content="">	
 			<meta property="og:site_name" content="footlive.com">
     <meta property="og:url" content="http://www.footlive.com/privacy-policy">
     <meta property="og:title" content="Privacy Policy - Footlive.com">
         <meta property="og:description" content="Privacy Policy - Footlive.com.">
-    	
-    <link rel="stylesheet" href="/css/reset.css?v1">
-	
-	 <link rel="stylesheet" href="/css/style27.css">    <link rel="stylesheet" href="/css/flags.css">
+    
+	 <link rel="stylesheet" href="/css/style31.css">
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -34,7 +38,7 @@
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 	
-    <script id="facebook-jssdk" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.10&amp;appId=137281078174"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>	
+    <script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>	
     <script type="text/javascript" src="/js/global.js"></script>
 
 				
@@ -55,8 +59,8 @@
     var update={},game={},comp={},order=[],currentDate,addMinutes,api_error=0;
 	var myIP=false;
 	
-    var currentTime=1529531546000;
-var currentMessage="e93de52d0ffa2f2f676b76c902a06b1865b59549";var cetDifference=120;
+    var currentTime=1545823798000;
+var currentMessage="a2a04e0c4852ad672209e781a2eb9ad03368cdff";var cetDifference=60;
 var rootDir="/";
     
 	var timeZone=60;//+gmt minutes    
@@ -164,45 +168,35 @@ var rootDir="/";
 			str+="</td>";
 		}
 					
-					
-		str+="<td class='team home'>";
-		//str+="<div class='goal' id='goal1_"+id+"' style='display:"+(game[id]["goalState1"]?"":"none")+";'>GOAL!!!</div>";
-		if(game[id]["red_cards1"]>0){
-			str+="<span class='reds'>"+(game[id]["red_cards1"]>1?game[id]["red_cards1"]:"")+"</span>";
-		}
-		str+="<a href='"+rootDir+"team/"+(game[id]["slug1"]!=""?game[id]["slug1"]:generateSlug(game[id]["team1"]))+"/' title=\""+game[id]["team1"]+" results\">";
-		str+=game[id]["team1"];
-		str+="</a>";
-						
-		str+="</td>";
+		str+="<td style='width:442px;text-align:center;' >";
+		str_1="";
+		str_1+="<span class='team home team_a'>";
+		str_1+=game[id]["team1"];
+		str_1+="</span>";
+
+		str_2="";
+		str_2+="<span class='team away team_b'>";
+		str_2+=game[id]["team2"];
+		str_2+="</span>";
+		
 		var matchURL=rootDir+"score/"+game[id]["slug1"]+"-vs-"+game[id]["slug2"]+"-"+game[id]["dtb"]+"/";
 		var h2hSlug=game[id]["slug1"]+"-vs-"+game[id]["slug2"];
 				if(game[id]["isLast"]==1){
 			matchURL=rootDir+"score/"+game[id]["slug1"]+"-vs-"+game[id]["slug2"]+"/";
 		}
-		if(game[id]["status"]=="-" || game[id]["status"]=="")
-			str+="<td class='score'><a href='"+matchURL+"' title=\""+game[id]["team1"]+" - "+game[id]["team2"]+" result\">- : -</a></td>";
-		else
-			str+="<td class='score'><a href='"+matchURL+"' title=\""+game[id]["team1"]+" - "+game[id]["team2"]+" result\">"+game[id]["score1"]+" : "+game[id]["score2"]+"</a></td>";
 		
-		str+="<td class='team away'>";
-		str+="<a href='"+rootDir+"team/"+(game[id]["slug2"]!=""?game[id]["slug2"]:generateSlug(game[id]["team2"]))+"/'  title=\""+game[id]["team2"]+" results\">";
-		str+=game[id]["team2"];
-		str+="</a>";
-		if(game[id]["red_cards2"]>0){
-			str+="<span class='reds'>"+(game[id]["red_cards2"]>1?game[id]["red_cards2"]:"")+"</span>";
-		}
-		//str+="<div class='goal' id='goal2_"+id+"' style='display:"+(game[id]["goalState2"]?"":"none")+";'>GOAL!!!</div>";
-		str+="</td>";
-				
-				
+		if(game[id]["status"]=="-" || game[id]["status"]=="")
+			str+="<a href='"+matchURL+"' title=\""+game[id]["team1"]+" - "+game[id]["team2"]+" live score\">"+str_1+"<span class='score'> - : - </span>"+str_2+"</a>";
+		else
+			str+="<a href='"+matchURL+"' title=\""+game[id]["team1"]+" - "+game[id]["team2"]+" live score\">"+str_1+"<span class='score'> "+game[id]["score1"]+" : "+game[id]["score2"]+" </span>"+str_2+"</a>";
+			
+		str+="</td>";		
+		
 		str+="<td class='hh'>";
 				if(game[id]["hh"]==1){
 			str+="<a href='"+rootDir+"h2h/"+h2hSlug+"/'>H2H</a>";
 		}
 		str+="</td>";
-		
-				
 				
 		if(game[id]["status"]=="Pen")
 			str+="<td class='info finish'>Pen: "+game[id]["scoreP1"]+"-"+game[id]["scoreP2"]+"</td>";
@@ -704,6 +698,7 @@ var rootDir="/";
 				var previousCompId=0;
     	var hashvich=0;
     	var hasAtLeastOneFinishedGame=0;
+		//console.log('Taille order:'+order.length);
 		for(var i=0;i<order.length;i++){
 			if(game[order[i]]["comp_id"]!=previousCompId){				//arajnutyune poxvec
 				if(hashvich==0 && previousCompId!=0){	
@@ -1017,7 +1012,7 @@ function processNews(){
 
    
 var requestAction=["privacy-policy"];
-var utcTimestamp=1529531546000;
+var utcTimestamp=1545823798000;
 var todaysDate="";
 
 	$(document).ready(function(){
@@ -1096,55 +1091,50 @@ var todaysDate="";
 	});
     </script>
 	
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-46714568-1', 'auto');
-  ga('send', 'pageview');
-
-
+	
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id='UA-46714568-1'"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-46714568-1');
 	  
- </script>
-</head><body itemscope="" itemtype="http://schema.org/WebPage"><div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=137281078174';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
+	</script>
+		
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		 (adsbygoogle = window.adsbygoogle || []).push({
+			  google_ad_client: "ca-pub-2677083954013733",
+			  enable_page_level_ads: true
+		 });
+	</script>
+</head>
+<body itemscope="" itemtype="http://schema.org/WebPage">
     <div class="page">
 		<header>
-						<div>
+						<div><a href="http://www.footlive.com"><strong>Livescore Football</strong></a></div>
+			<div>
 				<div class="p_left">
-										<a href="http://www.footlive.com"><img src="http://www.footlive.com/logo-footlive.com.png" width="115" height="60" title="football live score, soccer live score, footlive.com" alt="football live score, soccer live score, footlive.com"></a>
+															<a href="http://www.footlive.com/#"><img src="http://www.footlive.com/logo-footlive.com.png" width="115" height="60" alt="livescores"></a>
 				</div>
-				<div class="p_left">
-									</div>
-				
+				<div class="p_left"></div>				
 				<div class="p_right">
 					<form action="http://www.footlive.com/search" id="cse-search-box">
-					<div>
-					<input type="hidden" name="cx" value="partner-pub-2677083954013733:7316131765">
-					<input type="hidden" name="cof" value="FORID:11">
-					<input type="hidden" name="ie" value="UTF-8">
-					<input type="text" name="q" size="25">
-					<input type="submit" name="sa" value="Search">
-					</div>
-					</form>
-					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-				</div>
+		<div>
+		<input type="hidden" name="cx" value="partner-pub-2677083954013733:7316131765">
+		<input type="hidden" name="cof" value="FORID:11">
+		<input type="hidden" name="ie" value="UTF-8">
+		<input type="text" name="q" size="25">
+		<input type="submit" name="sa" value="Search">
+		</div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+										</div>
 				<div class="p_clear"></div>
 			</div>
 		</header>
 		<nav>
-			<div id="navigationMenu">
+			<div id="navigationMenu" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
 				<a href="/" id="filterButtonAll" class="">Show All</a><!-- class="active" --> 
 				<a href="/livenow/" id="filterButtonLive" class="" title="Soccer live scores">Live Now</a> 
 				<a href="/results/" id="filterButtonFinished" class="" title="Latest football scores">Results</a>
@@ -1153,36 +1143,37 @@ var todaysDate="";
 				<!--<a href="youth/" id="youth" class="">Youth</a>-->
 				<a href="/team/" id="teams" class="" title="Football teams">Teams</a>
 				<a href="/competition/" id="competitions" class="" title="Football competitions">Competitions</a>
-												<a href="/partners/" id="partners">Links</a>
+												<a href="https://soccerlive.news/" target="_blank">Soccer News</a>
 				<a href="/contact/" id="contact">Contact</a>
 			</div>
 		</nav>
 		
 		<div class="ads">
-			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<!-- responsive-footlive.com-header -->
-			<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="1389104228" data-ad-format="auto"></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			</script>
-		</div>
-		<div class="breadcrumb p_left"> <ol itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://www.footlive.com"><span itemprop="name">Soccer</span></a><meta itemprop="position" content="1"></li>
+			
+		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- responsive-footlive.com-header -->
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="1389104228" data-ad-format="auto"></ins>
+		<script>
+		
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	 
+	 		</div>
+		<div class="breadcrumb p_left"> <ol itemscope="" itemtype="http://schema.org/BreadcrumbList"><li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://www.footlive.com"><span itemprop="name">Livescore</span></a><meta itemprop="position" content="1"></li>
 › <li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://www.footlive.com/privacy-policy/"><span itemprop="name">Privacy Policy</span></a><meta itemprop="position" content="2"></li>
 </ol>
-</div><h1 class="p_right"></h1>		<div class="p_clear"></div>
+</div><h1 class="p_right" itemprop="name"></h1>		<div class="p_clear"></div>
 		
 		<section class="left">
 		
 		<br>
-
-				<ul>
-			<li class="lfl"><a href="/livescore/england/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag uk"></div></div>England</a></li>
-			<li class="lfl"><a href="/livescore/italy/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag it"></div></div>Italy</a></li>
-			<li class="lfl"><a href="/livescore/france/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag fr"></div></div>France</a></li>
-			<li class="lfl"><a href="/livescore/germany/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag de"></div></div>Germany</a></li>
-			<li class="lfl"><a href="/livescore/spain/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag es"></div></div>Spain</a></li>
-			<li class="lfl"><a href="/livescore/greece/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag gr"></div></div>Greece</a></li>
-			<li class="lfl"><a href="/livescore/portugal/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag pt"></div></div>Portugal</a></li>
+		<ul>
+			<li class="lfl"><a href="/livescore/england/"><div class="f16"><div class="fdiv flag uk"></div></div>England</a></li>
+			<li class="lfl"><a href="/livescore/italy/"><div class="f16"><div class="fdiv flag it"></div></div>Italy</a></li>
+			<li class="lfl"><a href="/livescore/france/"><div class="f16"><div class="fdiv flag fr"></div></div>France</a></li>
+			<li class="lfl"><a href="/livescore/germany/"><div class="f16"><div class="fdiv flag de"></div></div>Germany</a></li>
+			<li class="lfl"><a href="/livescore/spain/"><div class="f16"><div class="fdiv flag es"></div></div>Spain</a></li>
+			<li class="lfl"><a href="/livescore/greece/"><div class="f16"><div class="fdiv flag gr"></div></div>Greece</a></li>
+			<li class="lfl"><a href="/livescore/portugal/"><div class="f16"><div class="fdiv flag pt"></div></div>Portugal</a></li>
 			<li><a href="/youth/"><div class="ballImage"></div>Youth Results</a></li>
 		</ul>
 		<ul>
@@ -1259,6 +1250,7 @@ var todaysDate="";
 			<li><a href="/livescore/colombia/">Colombia</a></li>
 			<li><a href="/livescore/costa-rica/">Costa Rica</a></li>
 			<li><a href="/livescore/ecuador/">Ecuador</a></li>
+			<li><a href="/livescore/el-salvador/">El Salvador</a></li>
 			<li><a href="/livescore/guatemala/">Guatemala</a></li>
 			<li><a href="/livescore/honduras/">Honduras</a></li>
 			<li><a href="/livescore/mexico/">Mexico</a></li>
@@ -1311,14 +1303,15 @@ var todaysDate="";
 
 		<br><br><br>
 				
+		
 		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- responsive-footlive.com-left -->
 		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="6996654120" data-ad-format="auto"></ins>
 		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
 		
-								</section>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	 
+	 				</section>
 
 		<section class="center">
 			<div id="moosh"></div>
@@ -1409,12 +1402,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 </p>
 
-				
-				
-				
-				
 			</div>
-			
 		</section>
 		<section class="right">
 						 <div class="top20">
@@ -1440,26 +1428,21 @@ If there are any questions regarding this privacy policy you may contact us usin
 						
 			<div class="top20 ads300600">
 				
-				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- responsive-footlive.com-right -->
-				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="4363763684" data-ad-format="auto"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-				
+		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- responsive-footlive.com-right -->
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="4363763684" data-ad-format="auto"></ins>
+		<script>
 		
-			</div>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	 
+	 			</div>
 			<div id="customiseContainer" style="width:100%;" class="top20">
 			
 			</div>
 			<div class="top20">
 							</div>
 			
-			
-			<div class="fb-page" data-href="https://www.facebook.com/footlivecom-273524129735805/" data-tabs="timeline" data-width="160" data-height="120" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/footlivecom-273524129735805/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/footlivecom-273524129735805/">footlive.com</a></blockquote></div>
-			
-			
-						
+									
 			
 			
 		</section>
@@ -1470,6 +1453,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 			<p style="font-size:14px;margin-top:50px;margin-bottom:20px;padding:10px;border:1px solid black;">
 			
 						<br><br> <a style="font-size:12px;" href="http://www.footlive.com/privacy-policy/">Privacy Policy</a>
+			<br><br> <a style="font-size:12px;" href="http://www.footlive.com/cookie-policy/">Cookie Policy</a>
+			<br><br> <a style="font-size:12px;" href="/partners/" id="partners">Recommended Sites</a>
+			
 			</p>
 			
 						
@@ -1480,6 +1466,129 @@ If there are any questions regarding this privacy policy you may contact us usin
 <div id="bob"></div> 	
 <div id="jquery_jplayer_1" style="display:none;"></div>    
 
+<style>
+			#top {
+				bottom:60px;
+			}
+			</style>
+			<script src="/cookies/cookiechoices.js"></script>
+			<style>
+				a#cookieChoiceDismiss {
+			  background-color: #303030;
+			  border: 1px solid rgba(0,0,0,.1);
+			  -moz-border-radius: 2px;
+			  -webkit-border-radius:2px;
+			  border-radius: 2px;
+			  color: #fff;
+			  cursor: pointer;
+			  padding: 0px 8px;
+			  text-decoration: none;
+			  white-space: nowrap;
+			}	
+		</style>
+		<script>
+		 document.addEventListener('DOMContentLoaded', function(event) {
+		  cookieChoices.showCookieConsentBar('This website uses cookies to enhance your browsing experience. By continuing to browse the site you are agreeing to accept our use of cookies.','OK','Cookies Policy.','http://www.footlive.com/cookie-policy/');
+		 });
+		 </script><!-- Quantcast Choice. Consent Manager Tag -->
+		<script type="text/javascript" async="true">
+			var elem = document.createElement('script');
+			elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+			elem.async = true;
+			elem.type = "text/javascript";
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+			(function() {
+			var gdprAppliesGlobally = true;
+			function addFrame() {
+				if (!window.frames['__cmpLocator']) {
+				if (document.body) {
+					var body = document.body,
+						iframe = document.createElement('iframe');
+					iframe.style = 'display:none';
+					iframe.name = '__cmpLocator';
+					body.appendChild(iframe);
+				} else {
+					// In the case where this stub is located in the head,
+					// this allows us to inject the iframe more quickly than
+					// relying on DOMContentLoaded or other events.
+					setTimeout(addFrame, 5);
+				}
+				}
+			}
+			addFrame();
+			function cmpMsgHandler(event) {
+				var msgIsString = typeof event.data === "string";
+				var json;
+				if(msgIsString) {
+				json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+				} else {
+				json = event.data;
+				}
+				if (json.__cmpCall) {
+				var i = json.__cmpCall;
+				window.__cmp(i.command, i.parameter, function(retValue, success) {
+					var returnMsg = {"__cmpReturn": {
+					"returnValue": retValue,
+					"success": success,
+					"callId": i.callId
+					}};
+					event.source.postMessage(msgIsString ?
+					JSON.stringify(returnMsg) : returnMsg, '*');
+				});
+				}
+			}
+			window.__cmp = function (c) {
+				var b = arguments;
+				if (!b.length) {
+				return __cmp.a;
+				}
+				else if (b[0] === 'ping') {
+				b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+					"cmpLoaded": false}, true);
+				} else if (c == '__cmp')
+				return false;
+				else {
+				if (typeof __cmp.a === 'undefined') {
+					__cmp.a = [];
+				}
+				__cmp.a.push([].slice.apply(b));
+				}
+			}
+			window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+			window.__cmp.msgHandler = cmpMsgHandler;
+			if (window.addEventListener) {
+				window.addEventListener('message', cmpMsgHandler, false);
+			}
+			else {
+				window.attachEvent('onmessage', cmpMsgHandler);
+			}
+			})();
+			window.__cmp('init', {
+					'Language': 'en',
+				'Initial Screen Reject Button Text': 'I do not accept',
+				'Initial Screen Accept Button Text': 'I accept',
+				'Purpose Screen Header Title Text': 'Privacy settings',
+				'Purpose Screen Body Text': 'You can set your consent preferences and determine how you want your data to be used based on the purposes below. You may set your preferences for us independently from those of third-party partners. Each purpose has a description so that you know how we and partners use your data.',
+				'Vendor Screen Body Text': 'You can set consent preferences for each individual third-party company below. Expand each company list item to see what purposes they use data for to help make your choices. In some cases, companies may disclose that they use your data without asking for your consent, based on their legitimate interests. You can click on their privacy policies for more information and to opt out.',
+				'Vendor Screen Accept All Button Text': 'Accept all',
+				'Vendor Screen Reject All Button Text': 'Reject all',
+				'Initial Screen Body Text': 'We and our partners use technology such as cookies on our site to personalise content and ads, provide social media features, and analyse our traffic. Click below to consent to the use of this technology across the web. You can change your mind and change your consent choices at anytime by returning to this site.',
+				'Initial Screen Body Text Option': 3,
+				'Publisher Purpose IDs': [],
+				'Consent Scope': 'service',
+				'Publisher Name': 'footlive.com',
+				'Non-Consent Display Frequency': 6,	  
+				'Default Value for Toggles': 'on',	 
+				'No Option': !1,  
+				'Display UI': 'inEU',
+				'Min Days Between UI Displays': 365,
+			});
+		</script><iframe name="__cmpLocator" style="display: none;"></iframe>
+
+    <style>
+    </style>
+	
 
 
-</body></html>
+<div id="cookieChoiceInfo" style="position: fixed; width: 100%; height: auto; background-color: rgb(238, 238, 238); margin: 0px; left: 0px; bottom: 0px; padding: 4px; z-index: 1000; text-align: center; font-size: 14px;"><div id="ffezfze" style="width: 1000px; background-color: rgb(238, 238, 238); margin: 0px auto; left: 0px; top: 0px; padding: 4px; z-index: 1000; text-align: center; font-size: 14px;"><span>This website uses cookies to enhance your browsing experience. By continuing to browse the site you are agreeing to accept our use of cookies.</span><a id="enSavoirPlus" href="http://www.footlive.com/cookie-policy/" style="margin-left: 8px;">Cookies Policy.</a><a id="cookieChoiceDismiss" href="#" style="margin-left: 24px;">OK</a></div></div></body></html>
