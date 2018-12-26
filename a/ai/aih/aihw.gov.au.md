@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626085729id_/https%3A//www.aihw.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226191237id_/https%3A//www.aihw.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Australian Institute of Health and Welfare
 
@@ -35,7 +35,7 @@ It is a criminal offence for our staff, or anyone working with or receiving info
 
 ### Our Ethics Committee
 
-Our [Ethics Committee](https://web.archive.org/our-services/committees/aihw-ethics-committee) is established under Section 16 of the AIHW Act and the Australian Institute of Health and Welfare Ethics Committee Regulations 1989. The Committee's functions and membership are prescribed in the regulations.
+Our [Ethics Committee](https://web.archive.org/our-services/committees/aihw-ethics-committee) is established under Section 16 of the AIHW Act and the [_Australian Institute of Health and Welfare (Ethics Committee) Regulations 2018_](https://www.legislation.gov.au/Details/F2018L00317). The Committee's functions and membership are prescribed in the regulations.
 
 One function is to determine, on ethical grounds, if identifiable data should be released for a specific purpose. This is data containing personal information (Privacy Act) or information concerning a person (AIHW Act). The Committee can impose conditions or restrictions on the release of such data.
 
