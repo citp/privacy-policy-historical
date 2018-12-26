@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killstar.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626054127id_/https%3A//www.killstar.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killstar.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226182225id_/https%3A//www.killstar.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | KILLSTAR
+# PRIVACY POLICY | KILLSTAR - UK Store
 
 **What is this Privacy Policy for?**
 
