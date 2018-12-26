@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626152136id_/https%3A//www.beeradvocate.com/community/threads/privacy-policy.393415) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226232929id_/https%3A//www.beeradvocate.com/community/threads/privacy-policy.393415) for the most accurate reproduction.*
 
-# General - Privacy Policy | Community | BeerAdvocate
+# Privacy Policy | Community | BeerAdvocate
 
-  1. [](https://web.archive.org/web/20180626152136id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/)
-
-### 
-
-[BeerAdvocate](https://web.archive.org/web/20180626152136id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/) _Founders (17,820)_ _Aug 23, 1996_ _Massachusetts_
-
-_**Premium Member**_
-
-> **BeerAdvocate.com Privacy Policy**
+  1. > **BeerAdvocate.com Privacy Policy**
 > 
 > This privacy policy discloses the privacy practices for BeerAdvocate.com (the "Service"), and applies solely to information collected by this Service.
 > 
