@@ -1,55 +1,100 @@
-> *The following text is extracted and transformed from the infectious.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603103917id_/http%3A//www.infectious.com/learn/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infectious.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# iPod Skins, iPhone skins, Laptop skins, Wall Vinyl, Car Decals: learn about all of our great products
+# Legal Agreements - GoDaddy Respects Your Privacy
 
-Effective as of: August 13th, 2007
+**GoDaddy Respects Your Privacy**
 
-Infectious.com, Inc. ("Infectious", "we" or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users www.infectious.com (this "Site"). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site. Unless otherwise defined in this Privacy Policy, terms used here have the same meanings as in our [Infectious Terms of Use Agreement](https://web.archive.org/learn/tou)
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-### 1\. Information Collection: The Personally Identifiable Information We Collect
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  * In the course of using this Site, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you, and information on your use of and activities at our Site that may be connected with you ("Personal Information"). Personal Information that we collect may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of our Site. 
-  * When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website. This information may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to our Site and information you search for on our Site. Like many websites, we also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site; and we use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-### 2\. How We Use Personal Information
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  * Personal Information is used for the following purposes: (i) to provide and improve our Site, services, features and content, (ii) to administer your membership and your use of our Site, (iii) to enable users to enjoy and easily navigate the Site, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide or offer software updates and product announcements, and (viii) to provide you with further information and offers that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products that we offer. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See "Changing or Deleting Information," below.) 
-  * We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes (i.e., Section 2; bullet No. 1) and in order to monitor and analyze use of the Site and our services and for the Site's technical administration, to increase our Site's functionality and user-friendliness, to better tailor it to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors to the Site meet the criteria required to process their requests. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-### 3\. Information Sharing and Disclosure 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Infectious Members. We will display your Personal Information in your profile page and elsewhere on the Site according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage Infectious Members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Service Providers, Business Partners and Others. We may employ third party companies and individuals to facilitate our service, to provide the service on our behalf, to perform Site-related services (including but not limited to maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and service are used. These third parties have access to your Personal Information only for purposes of performing these tasks on our behalf. 
+**Security**
 
-Compliance with Laws and Law Enforcement. Infectious cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Infectious or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Business Transfers. Infectious may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+**Updating Your Information**
 
-### 4\. Changing or Deleting Your Information
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-All registered users may review, update, correct or delete the Personal Information provided in their registration or account profile by changing their "user preferences" in their account. If you completely delete all such information, then your account may become deactivated. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-### 5\. Security 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Infectious is very concerned with safeguarding your information. We employ reasonable measures designed to protect your information from unauthorized access. 
+      iii.      You may call us at: (480) 505-8800
 
-### 6\. Our Policy Toward Children
+       iv.      You may fax us at: (480) 505-8844
 
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@Infectious.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+**Sending Emails**
 
-### 7\. International Transfer
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Your information may be transferred to � and maintained on � computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Infectious, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-### 8\. Links to Other Sites
+**Compliance with Laws and Law Enforcement**
 
-Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-### 9\. Contacting Us 
+**Third Party Service Providers**
 
-If you have any questions about this Privacy Policy, please contact us at _privacy AT infectious.com_ or at: 650 Harrison Street San Francisco, CA 94107
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
