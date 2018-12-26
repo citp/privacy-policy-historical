@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622170526id_/https%3A//www.smartsheet.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031703id_/https%3A//www.smartsheet.com/legal/privacy) for the most accurate reproduction.*
 
 # Smartsheet Privacy Policy | Smartsheet
 
@@ -219,7 +219,7 @@ To learn more about how to control cookie settings through your browser:
   * Click [here ](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)to learn more about the “Private Browsing” setting and managing cookie settings in Firefox.
   * Click [here ](https://support.google.com/chrome/answer/95647?hl=en)to learn more about “Incognito” and managing cookie settings in Chrome.
   * Click [here ](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)to learn more about “InPrivate” and managing cookie settings in Internet Explorer.
-  * Click [here ](https://support.apple.com/kb/ph21411?locale=en_US)to learn more about “Private Browsing” and managing cookie settings in Safari.
+  * Click [here](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)[ ](https://support.apple.com/kb/ph21411?locale=en_US)to learn more about “Private Browsing” and managing cookie settings in Safari.
 
 
 
