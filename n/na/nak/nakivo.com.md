@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakivo.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626012847id_/https%3A//www.nakivo.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakivo.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226093211id_/https%3A//www.nakivo.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -106,7 +106,9 @@ At times, we will use a feature on your web browser to send your computer a "coo
 
 NAKIVO may from time to time revise its privacy policy. You should therefore periodically visit this page, so you are aware of any such revisions. We will not, however, use your existing information in a manner not previously disclosed. You will be advised and have the opportunity to opt out of any new use of your information.
 
-Contacting Us. If you have any questions about our privacy policy and/or the practices of our Site, you can write to:
+## **Contacting Us**
+
+If you have any questions about our privacy policy and/or the practices of our Site, you can write to:
 
 ## NAKIVO Headquarters
 
