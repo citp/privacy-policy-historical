@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131428id_/http%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226151901id_/https%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,4 +94,4 @@ In general, the Lottery encourages all individuals to use appropriate safeguards
 **The Lottery will provide additional information about this privacy policy if requested.** If any individual has further questions about the Lottery's privacy policy, they are encouraged to contact the Lottery’s Privacy Coordinator via email at [privacy at calottery dot com](mailto:privacy@calottery.com) or by mail addressed to:  The California State Lottery - Attention: Privacy Coordinator, 700 North 10th Street, Sacramento, CA 95811.
 
     
-Effective Date: September 23, 2015
+Effective Date: May 4, 2018
