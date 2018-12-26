@@ -1,97 +1,114 @@
-> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208000547id_/https%3A//forensiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226070648id_/https%3A//impact.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Forensiq
+# Privacy Policy - Impact
 
-Updated October 12, 2017
+**Last updated: April 16, 2018**
 
-Forensiq LLC (“Forensiq”) is an industry leader in online fraud detection. Our technology platform provides measurements about ad impression delivery to help advertisers and advertising inventory sellers confirm accurate delivery characteristics, including viewability metrics and ad impression fraud characteristics. Additionally, advertisers use information we provide about ad impression opportunities to preemptively decide if they want their creative displayed in the available impression environment. With this advanced technology and our dedicated team of data scientists we help you eliminate impression fraud, click fraud, affiliate fraud and cookie stuffing.
+**We Are Impact**
 
-This privacy policy describes the privacy related policies and practices for Forensiq’s website and services. By using our website you agree to be bound by this Privacy Policy and consent to the collection and use of your information as described herein.
+We are Impact Tech, Inc. (US) (formerly known as “Impact Radius, Inc.”), and the following affiliated companies (“Affiliates”): Impact Radius Limited (UK), Forensiq Limited (UK), Impact Radius SA Pty Ltd (Cape Town, SA), and Impact Radius Pty Ltd (AU).  We, and our Affiliates, are referred to as “Impact”.
 
-### FORENSIQ.COM PRIVACY NOTICE
+Impact (“us”, “we”, or “our”) operates the website www.impact.com (“Website”) and provides Forensiq, Altitude, and Radius Software-as-a-Service products (collectively, the “Services”). This Privacy Policy informs you of our policies and practices regarding the collection, use and disclosure of any information relating to you that identifies you or by which you are identifiable (“Personal Information”) through the use of our Website, our Services, or that you otherwise provide to us. We will not use or share your Personal Information with anyone except as described in this Privacy Policy. We use your Personal Information for providing and improving the Website and Services. By using this website, the Services, or providing Personal Information to us, you agree to our collection and use of your Personal Information in accordance with this Privacy Policy.
 
-This section applies to the collection and use of your information by our website.
+**Who may use our Website, Services?  
+**Although certain areas of the Website can be accessed by visitors generally, access to our Services is not provided to the general public. Only persons or entities that are eligible to enter into further agreement(s) with us (our “Clients”) may, with our permission, access non-public areas of our Website. All such Clients are businesses and only adults may access our Services.
 
-### Information We Collect on our Website
+**Personal Information Collection and Use**
 
-The website may collect personally identifiable information you provide to us when you submit on our website or when you contact us. Information you may provide to us includes your email address, full name, the company you work for and your phone number.
+Our Clients that use our Services will be asked to provide us with certain Personal Information that can be used to contact or identify them (“Client Personal Information”). Such Client Personal Information will include, but is not limited to, name, postal address, email address, phone number and employer. We collect and use Client Personal Information to:
 
-The website may also collect information automatically with the use of analytics packages which gather information such as IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps, and store this anonymous information in server log files. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
-
-### Cookies
-
-Cookies are very small text files that are stored on personal computers for reference purposes. The website uses cookies to provide easier and faster access to website features such as logins and to track repeat visits. The website does not link the information we store in cookies to any personally identifiable information you have submitted while on our site.
-
-The website uses both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as tracking and targeting the interests of our users so as to enhance the overall experience of using our site.
-
-### Cookie Opt-Out
-
-We may partner with third-party providers, such as Google, to display ads to you on other websites you visit as you browse the internet. You can learn about ways to manage or opt-out of third-party tracking of this nature by visiting <http://www.networkadvertising.org/choices>.
-
-### How we use the information we collect.
-
-The website uses the information we collect to market our services, including to send you emails in response to your request to learn more about our services, to schedule a trial with you or to provide you with any other information you requested. We may share the personal information we collect as required by law or court order or other government or law enforcement authority or regulatory agency, in connection with the consolidation, sale of or other transaction related to our business or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights of property, or safety of us or others.
-
-If you no longer wish to receive emails from us, you may opt out of receiving future emails by emailing us at info@forensiq.com or by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
-
-### Access to Personally Identifiable Information and Opt-Out
-
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request to update, correct or delete your information by emailing us at info@forensiq.com.
-
-### FORENSIQ’S SERVICES PRIVACY NOTICE
-
-This section explains our collection and usage practices with respect to the information we collect via our services.
-
-### Collection and Use of Information by our Services
-
-We do not collect personally identifiable information (defined as name, email address, postal address or phone number) via our services. We do collect and store various signals from tracked and measured impressions. We collect information about the page where an ad was displayed, the dimensions and location of the ad, measurements pertaining to ad viewability, user interaction with the ad, IP address, browser type, user agent, referring URL and other information. We use this information in order to provide our services to our clients. We may share this information with our clients to help them eliminate fraud in their online advertising campaigns and for analytics, ad delivery and reporting and targeting purposes.
-
-### Use of Cookies by our Services
-
-Our services use cookies to enable our campaign performance analytics services which use statistical population-level data derived from measured impression and conversion data. Cookies are small pieces of information transferred to your computer’s hard drive through your web browser so that your computer will “remember” information about your visit. Our cookie domain is securepaths.com.
-
-We do not use any data collected for behavioral, re-targeting or other interest-based advertising.
-
-### Additional Disclosure of Information Collected by our Services
-
-In addition to the above mentioned use of information collected by our services, we may also share the information with our clients to help them ensure compliance and verification in their online advertising campaigns and for analytics, ad delivery and reporting and targeting purposes.
-
-We may also use or share the information we collect as described below.
-
-  * We may employ other companies and individuals to perform functions on our behalf. Examples may include providing technical assistance and hosting services. These other companies will have access to the information we collect information only as necessary to perform their functions and to the extent permitted by law.
-  * We may analyze the information we collect in the aggregate form in order to operate, maintain, manage, and improve our products and services. We may share this aggregate data with our affiliates and agents and disclose aggregated user statistics in order to describe our products and services to current and prospective clients and to other third parties for other lawful purposes.
-  * We may share some or all of the information we collect with our parent companies, subsidiaries, joint ventures or other companies under common control with us.
-  * In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event the information we collect information may be part of the transferred assets.
-  * We may also disclose the information we collect when required by law, court order or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights of property, or safety of us or others.
+  * verify your identity;
+  * administer and support your interaction with our Website and Services;
+  * permit access to our Services;
+  * provide Services to our Clients;
+  * provide information and otherwise respond to your requests;
+  * contact you periodically about other services and products we offer and with information on upcoming Impact events;
+  * carry out marketing analysis, enhance, improve, maintain and debug our Website and the Services;
+  * prevent fraudulent use of our Website and our Services, and to prevent or take actions against such fraudulent use or violation of our Terms of Use or applicable law;
+  * tailor content and other aspects of your experience on and in connection with our Website and Services; and
+  * for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
 
 
 
-### Security
+If you submit information through our website to enquire about our Services, our organization, or an event or information posted on our Website, we will use such Personal Information to contact you in reply to your specific enquiry.  You may be asked at that time whether you would like to be on our mailing list to receive news and updates about our company and Services.  You may request to be removed from such mailing list at any time by using the “unsubscribe” function in our electronic communications or by contacting us as provided in the How to Contact Us section of this Privacy Policy.
 
-We take commercially reasonable security measures to protect the information in our care from loss, misuse, alteration or destruction. However, no method of electronic storage or transmission over the internet can ever be 100% secure. Therefore, we are not in a position to guarantee the absolute security of your information.
+We may also process Personal Information of our Clients’ visitors and customers, and visitors to our Clients’ websites (or our Client’s application downloads) in performance of the Services on behalf of our Clients. This Personal Information may consist of Internet Protocol (“IP”) addresses, and/or email addresses, although we request that our Clients encrypt email addresses prior to sending to us.  We take security measures to protect all Personal Information, including by hashing IP addresses and further encrypting email addresses. We do not associate Personal Information with individuals and are subject to our Clients’ instructions regarding such collection and use of such Personal Information. As a vendor of our Clients, the bases for our collection and processing of Personal Information of their customers and visitors may be through consent obtained by our Client and/or legitimate interests.
 
-### Children’s Privacy
+Impact does not rent, sell, or share personal data about you with other people or companies that are not Affiliates, except under the following circumstances:
 
-We intend our services to only be used by adults. We do not collect any personally identifiable information via our services. If we discover that a child under the age of 13 has supplied personally identifiable information to us via our services without his/her parent’s consent, we will use reasonable attempts to ensure that this information is deleted from our system.
+  * in order to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * when it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person; violations of Impact’s terms of use, any agreement with Impact or this Privacy Policy; or as otherwise required by law.
+  * if Impact sells any or all of its assets or their shareholders sell any or all of their shares to a third party in which case and subject always to compliance with applicable data protection legislation, you authorize that your Personal Information may be transferred to the buyer.
+  * In relation to Client Personal Information and in the course of providing our Services, to our other Clients that you have relationships with.
 
-### We also have a zero tolerance anti-spam policy
 
-We do not send emails to prospects unless they have completed an “opt in” form indicating an interest in Forensiq services, or otherwise requested them from a Forensiq representative. Forensiq is promoted via word-of-mouth, advertisement, joint ventures, and trade shows, hence, we only build relationships with users who want to learn about our services and have chosen to subscribe to emails.
 
-### Dispute Resolution
+**Accessing and Correcting Your Personal Information**
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Client Personal Data is accessible through our Client online accounts (“Client Portals”). Clients are able to access their Personal Information to update and correct their Personal Information.  If you no longer have access to the Client Portals, you may submit a request to remove Personal Information you provided to us by emailing a request to privacy@impact.com or contacting us by telephone or mail as further specified in the How to Contact Us clause of this Privacy Policy. To protect your privacy and security, we will also take reasonable steps to verify your identity before removing your information.
 
-### Changes to This Privacy Policy
+We reserve the right to retain and use Client Personal Information as reasonably necessary to comply with our contractual obligations to you, and in order to comply with applicable laws, including privacy and/or data protection legislation.
 
-We reserve the right to change this Privacy Policy at any time by posting an updated Privacy Policy on our site. Your continued use of our website or services after any changes have been made constitutes your acceptance of such changes.
+If you are not a Client and would like to be removed from our mailing lists, you may use the “unsubscribe” instructions in our newsletters or electronic communications, or email such request to privacy@impact.com or contact us by telephone or mail as further specified in the How to Contact Us clause of this Privacy Policy.
 
-### Contact Details
+If you are a customer of one of our Clients, or a visitor to their website (or have downloaded one of our Client’s applications), please contact the Client in the first instance to request access to your Personal Information, or to correct or have such information deleted. If you do contact Impact, Impact does not associate the data that we process on behalf of our Clients with any particular individual, and Impact may not be able to verify that the Personal Information belongs to you.  See the section below “How to Contact Us” for information on contacting Impact if you believe that Impact has your Personal Information and you would like to request access to your Personal Information, correction of such information, or to exercise your right to be forgotten.
 
-If you have any questions or concerns regarding this privacy policy, or you wish to contact us by phone or postal mail, our contact information is as follows:
+**Other Information**
 
-info@forensiq.com  
-Forensiq, LLC  
-387 Park Avenue South, 8th Floor  
-New York, NY 10016  
-Tel: 1.212.685.5931
+_Log Data_  
+We collect information that your browser sends whenever you visit our website or use our Services (“Log Data”). This Log Data may include information such as your computer’s IP address, browser type, browser version, the pages of our website or Services that you visit, the time and date of your visit, the time spent on those pages, your activity on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Services’ functionality. These third-party service providers have their own privacy policies addressing how they use such information. When you access the Services by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device’s unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, your location information and other statistics. Please see the section regarding Location Information below regarding the use of your location information and your options.
+
+_Location Information_  
+We may use and store information about your location depending on the permissions you have set on your device. We use this information to provide features of our Services and to improve and customize our Services. You can enable or disable location services when you use our Service at any time, through your mobile device settings.
+
+_Cookies_  
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to perform and improve our Website and Services. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The “Help” feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Website or Services and we recommend that you leave them turned on.
+
+_Do Not Track Disclosure_  
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the “Preferences” or “Settings” page of your web browser.
+
+**Integrations**
+
+You may enhance the Services by enabling Impact integrations with third-party products. If you provide third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us, and that ThirdParty Account Information transmitted to our Services is covered by this Privacy Policy. Further, Impact software may request permissions to take actions on your behalf using your third-party account credentials.
+
+**Service Providers**
+
+We may employ third-party companies and individuals (our “agents”) to facilitate our Services, to provide the Services on our behalf, to perform Service-related services and/or to assist us in analyzing how our Services are used. Examples may include processing and storing data, delivering messages, processing credit card payments, analyzing data, providing marketing assistance, supplementing the information you provide us in order to provide you with better service, and providing customer service. We do not transfer data to non-agent third parties. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are under written obligation not to disclose or use your Personal Information for any purpose other than those disclosed in this Privacy Policy.
+
+Notwithstanding such legal and contractual obligations between us and such agents, we remain potentially liable for any misuse of your Personal Information. We may be required to disclose Personal Information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+**Your Options for Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Security of Personal Information**
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+**International Transfer of Personal Information**
+
+Your Personal Information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those in your jurisdiction, and in some cases be less stringent as compared to those of your own region. Our servers are located in data centers within the United States. If you are located outside the United States and provide Personal Information to us, please note that we transfer Personal Information to the United States and South Africa and process it in those locations, and, if necessary and appropriate, to our Affiliates including those in the United Kingdom and Australia. Your consent to this Privacy Policy and your submission of Personal Information represents your agreement to those transfers.
+
+**Links to Other Sites**
+
+Our website and Services may contain links to other web sites or online locations that are not operated or controlled by us. If you click on a third-party link, you will be directed to that third party’s site. We strongly advise you to review the privacy policy of every online site or location you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+Only persons who are age 18 or older have permission to access our Services. Our Services are not for access by anyone under the age of 18 (“Children”). We do not knowingly collect Personal Information from Children. If you are a parent or guardian and you learn that your Child has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a Child without verification of parental consent, we take steps to remove that information from our servers.
+
+**Privacy Policy Changes**
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of our website and/or the Services after we post any modifications to the Privacy Policy will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**How to Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:  
+[privacy@impact.com](mailto:privacy@impact.com)  
+Impact Tech, Inc.
+
+223 E. De La Guerra Street  
+Santa Barbara, CA 93101
+
+USA  
++1 (805)-324-6021
