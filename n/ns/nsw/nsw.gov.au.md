@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614194013id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030218id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # NSW Government Website Privacy Statement » NSW Government
 
-This website is maintained by the Communications & Engagement Branch in the New South Wales Department of Premier and Cabinet. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.nsw.gov.au](https://www.nsw.gov.au/).
+This website is maintained by the [Communications & Engagement Branch](https://communications.dpc.nsw.gov.au/about-us/) in the New South Wales Department of Premier and Cabinet. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.nsw.gov.au](https://www.nsw.gov.au/).
 
 The Department of Premier and Cabinet does not have any responsibility for the privacy policies or practices of third party sites linked to this site.  If you have any questions about this site, or the application of this Privacy Policy or a request for access to information held please contact:
 
