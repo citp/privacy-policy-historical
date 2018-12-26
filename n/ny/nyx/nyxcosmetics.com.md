@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929222208id_/http%3A//www.nyxcosmetics.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226164541id_/https%3A//www.nyxcosmetics.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NYX Professional Makeup
 
@@ -78,17 +78,17 @@ If you connect your Facebook account to a L'Oréal USA brand account, we will ma
 
 **Business Transfers:** We may share information with other entities and affiliates of the L'Oréal Group, our parent company. As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or our assets, or assets related to the Sites, Personal Information, Usage Information, and any other information that we have collected may be disclosed to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-**Legal Disclosure:** L'Oreal USA may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Use](http://www.nyxcosmetics.com/termsandconditions.html) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
+**Legal Disclosure:** L'Oreal USA may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Use](https://www.nyxcosmetics.com/termsandconditions.html) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
 
 **3\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.**
 
-You may change your preferences and unsubscribe from email services from our brands by: (i) modifying your registered user information on the Sites; (ii) sending us an e–mail by clicking [here](http://www.nyxcosmetics.com/contact-us); or (iii) following the unsubscribe instructions in the communication that you receive.
+You may change your preferences and unsubscribe from email services from our brands by: (i) modifying your registered user information on the Sites; (ii) sending us an e–mail by clicking [here](https://www.nyxcosmetics.com/contact-us); or (iii) following the unsubscribe instructions in the communication that you receive.
 
 You may at any time opt out from push notifications and allowing L'Oreal USA to access location data by adjusting the permissions in your mobile device. You can stop all further collection of information by our mobile applications by uninstalling the mobile application. Please note that if you uninstall the mobile application from your mobile device, the unique identifier associated with your mobile device will continue to be stored. If you re-install the application on the same mobile device, we will be able to re-associate this identifier to your previous transactions and activities.
 
 In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-We will retain your Personal Information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services, contact us [here](http://www.nyxcosmetics.com/contact-us). We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services, contact us [here](https://www.nyxcosmetics.com/contact-us). We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
 **4\. ADVERTISING/TARGETED ADVERTISING; HOW TO OPT–OUT**
 
@@ -110,13 +110,13 @@ Under California law, website and online service operators are required to discl
 
 California law requires website and online service operators to disclose whether third parties may collect personal information about their users' online activities over time and across different sites when the users use the operator's website or service. Third parties that have content or services on our Sites such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information. We do not knowingly permit such third parties to collect any Personal Information from our Sites unless you directly provide it to us and we provide it to them with your consent.
 
-If you are a minor under 18 and have a profile on a L'Oréal USA Site, you may ask us to remove reviews or other content that you posted on the site by writing to us [here](http://www.nyxcosmetics.com/contact-us) and providing as much detail as possible (i.e. date and caption) as to the post(s) you want removed. We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted. 
+If you are a minor under 18 and have a profile on a L'Oréal USA Site, you may ask us to remove reviews or other content that you posted on the site by writing to us [here](https://www.nyxcosmetics.com/contact-us) and providing as much detail as possible (i.e. date and caption) as to the post(s) you want removed. We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted. 
 
 **7\. CHILDREN**
 
 The Sites are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
 
-If you believe that we might have any information from or about a child under age 13, please contact us through this [help page](http://www.nyxcosmetics.com/contact-us).
+If you believe that we might have any information from or about a child under age 13, please contact us through this [help page](https://www.nyxcosmetics.com/contact-us).
 
 **Parental participation.** We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.
 
@@ -147,6 +147,6 @@ EL SEGUNDO, CA 90245
 Re: www.nyxcosmetics.com Privacy and Cookie Notice  
 Telephone: 1-844-335-3510
 
-Or send us an e–mail with your request [here](http://www.nyxcosmetics.com/contact-us).
+Or send us an e–mail with your request [here](https://www.nyxcosmetics.com/contact-us).
 
 **UPDATED: May 2017**
