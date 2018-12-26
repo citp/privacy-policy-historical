@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokestraightboys.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622011126id_/http%3A//blumedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokestraightboys.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226205455id_/http%3A//blumedia.com/privacy) for the most accurate reproduction.*
 
 # BluMedia.com
 
