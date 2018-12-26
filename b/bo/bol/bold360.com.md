@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the bold360.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617033745id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bold360.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083212id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
-Last Updated on January, 2018
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=fba27947-4f34-42a8-8c55-a11247ed7413)
+Last Updated on January 1, 2018
 
 **Introduction**
 
-This privacy policy will help you understand what information we collect and use at LogMeIn, and the choices you have associated with that information. When we refer to “LogMeIn,” “we,” “our,” or “us” in this policy, we are referring to LogMeIn, Inc **. _,_** and its subsidiaries and affiliates, which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by LogMeIn. LogMeIn may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 8 below. This privacy policy covers the digital properties listed [here](https://secure.logmein.com/home/policies/digital-properties-list). The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.
+This privacy policy will help you understand what information we collect and use at LogMeIn, and the choices you have associated with that information. When we refer to “LogMeIn,” “we,” “our,” or “us” in this policy, we are referring to LogMeIn, Inc **. _,_** and its subsidiaries and affiliates, which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by LogMeIn. LogMeIn may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 8 below. This privacy policy covers the digital properties listed [here](https://www.logmeininc.com/legal/digital-properties-list). The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.
 
 If you have any questions about this privacy policy or our practices, please [contact us](mailto:privacy@logmein.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://urldefense.proofpoint.com/v2/url?u=https-3A__feedback-2Dform.truste.com_watchdog_request&d=DwMFaQ&c=k6LEwkJiSX1kJxtgPu1uYQ&r=QLiCko_f6m3iDMi3JnmFAUELdmCYehFLL7BET60EJXQ&m=ubOy_Fe32ygOKcMzLwVerldeYhdzrSHW4Y5BmhUu0a4&s=gavYy98mxxNED4E6Ocrx3tc1tFoyH-oHdInjv5gmXr8&e=).
 
 **EU-U.S. and Swiss Privacy Shield**
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=fba27947-4f34-42a8-8c55-a11247ed7413)
+[](https://privacy.truste.com/privacy-seal/validation?rid=50e030ed-d894-491b-aa22-074f373242c5)
 
 LogMeIn has self-certified to the EU-U.S. Privacy Shield and Swiss Privacy Shield with respect to Customer Data. For more information, see our [Privacy Shield Notice](https://www.logmeininc.com/legal/privacy-shield).
 
