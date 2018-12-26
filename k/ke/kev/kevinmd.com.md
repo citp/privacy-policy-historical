@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kevinmd.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626074110id_/https%3A//www.kevinmd.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kevinmd.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226154135id_/https%3A//www.kevinmd.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,7 +85,7 @@ We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising
 
 **C. Information Collected by Third Party Advertisers**
 
-Advertisers or other third parties on the Site may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties’ use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the [NAI Opt-Out](http://www.networkadvertising.org/choices/) website and [DAA Choice Page](http://www.aboutads.info/choices/) and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
+Advertisers or other third parties on the Site may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties’ use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the [NAI Opt-Out](https://www.networkadvertising.org/choices/) website and [DAA Choice Page](http://www.aboutads.info/choices/) and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
 
 **4\. Reasons We Share Personal Data**
 
