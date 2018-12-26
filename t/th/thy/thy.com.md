@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thy.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226012617id_/https%3A//p.turkishairlines.com/en-us/legal-notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thy.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226110431id_/https%3A//www.turkishairlines.com/en-gb/legal-notice/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Notice | Turkish Airlines ®
 
@@ -10,7 +10,7 @@ Please note that if _Your_ personally identifiable information changes, or if _Y
 
 _Online Channels_ may contain links to other websites. Please be aware that _We_ are not responsible for the privacy practices of websites not operated by _Us_. _We_ encourage _You_ to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by the _Online Channels._
 
-If _You_ have any further questions or comments, contact _Us_ using the [Contact Us](https://web.archive.org/en-us/any-questions/get-in-touch/index.html "Get in touch - Contact Header") page. 
+If _You_ have any further questions or comments, contact _Us_ using the [Contact Us](https://web.archive.org/en-gb/any-questions/get-in-touch/index.html "Get in touch - Contact Header") page. 
 
 ####  What Does This Privacy Policy Cover?  Learn more >>
 
@@ -110,4 +110,4 @@ For _Your_ protection, please be aware of the following guidance: 
 
 • _You_ will only be asked for _Your_ card payment details if _You_ wish to change or claim a refund of _Your_ booking on the _Online Channels_. _We_ require this information specifically in relation to _Your_ booking. _Our_ Customer Relations team might ask for _Your_ bank details if they are going to credit _Your_ account directly, after _You_ have raised a claim with _Us_.
 
-Click [here](https://web.archive.org/en-us/legal-notice/privacy-policy/cookies/index.html "Legal Notice - Privacy Policy - Cookies Article") for _Our_ Cookie Policy 
+Click [here](https://web.archive.org/en-gb/legal-notice/privacy-policy/cookies/index.html "Legal Notice - Privacy Policy - Cookies Article") for _Our_ Cookie Policy 
