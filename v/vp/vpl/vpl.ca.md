@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpl.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626054110id_/http%3A//www.vpl.ca/policy/protection-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpl.ca privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134611id_/http%3A//www.vpl.ca/policy/protection-privacy-policy) for the most accurate reproduction.*
 
 # Protection of Privacy Policy | Vancouver Public Library
 
@@ -75,3 +75,11 @@ VPL may disclose personal information under compassionate circumstances; for exa
 VPL will not retain any personal information longer than necessary for the provision and planning of library services and programs, unless a longer period is required by law.
 
 VPL may, however, retain personal information related to library services and programs when users opt in to allow the library to do so; for example, to enhance or personalize library services and programs.
+
+VPL’s [Protection of Privacy Policy](https://web.archive.org/policy/protection-privacy-policy#ui-accordion-accordion-header-1) details the purposes for which your personal information may be collected by the library, how it is collected and used, how it is protected, how to access your personal information that has been collected as well as to whom it may be disclosed in accordance with the B.C. Freedom of Information and Protection of Privacy Act (FIPPA).
+
+To be transparent and accountable, the library must publish a Personal Information Bank (PIB) directory of ways we collect, use and share your personal information.
+
+Each listing explains why we collect that information, how we use it, and who we share it with.
+
+[Download the PIB directory](https://web.archive.org/sites/vpl/public/PersonalInformationBankDirectory2018.pdf)
