@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findicons.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421004538id_/https%3A//findicons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findicons.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023745id_/https%3A//findicons.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FindIcons.com
 
