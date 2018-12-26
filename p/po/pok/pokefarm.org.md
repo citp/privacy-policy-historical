@@ -1,84 +1,57 @@
-> *The following text is extracted and transformed from the pokefarm.org privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518210139id_/http%3A//pokefarm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokefarm.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023315id_/https%3A//pokefarm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PokéFarm
+# Privacy Policy - PokéFarm Q
 
-[](https://web.archive.org/)
+**PokéFarm Q** requires the collection of limited personal information in order to provide the service.
 
-x3 
+### What we collect
 
-50.1M 
+On registration, the user is asked to provide an account name (which may, but generally should not be, their real name), an email address and their date of birth.
 
-42.5M 
+In addition to this, the user's IP address is recorded. Additionally, in-game activity does leave a trail that may be used to identify what actions were taken.
 
-49.2k 
+Data is stored for as long as the user has an account with the service.
 
-308M 
+### Why we collect
 
-89k 
+The **account name** is used to identify the user within the game.
 
-This Privacy Policy sets out how PokéFarm uses and protects any information that you give PokéFarm when you use this website.
+The **email address** may be used to notify the user about important updates to their account.
 
-PokéFarm is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+The **date of birth** helps us to provide age-appropriate content.
 
-PokéFarm may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/Jan/2010.
+The **IP address** and other information related to activity may be used to prevent abuse of the service. This includes but is not limited to cheating or other violations of the site rules.
 
-## What we collect
+### Privacy
 
-We may collect the following information:
+Other users will see the account name attached to the user's profile and any posts they make on the site.
 
-  * name
-  * contact information including email address
-  * demographic information such as date of birth, preferences and interests
-  * other information needed for the site
+All other personal information is kept secure. Moderators may have access to certain parts of the information for the purpose of enforcing the site's rules.
 
+No information will be shared with anyone outside of PokéFarm Q, except as required by law.
 
+To comply with the EU's GDPR... we have this policy. Specifically, we don't collect anything that is unnecessary to the function of the service, and don't use it for anything except as outlined here.
 
-## What we do with the information we gather
+To comply with the USA's COPPA, parents of children under 13 may access, amend and remove their child's data on request.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+### Accuracy
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you by email for market research purposes. We may use the information to customise the website according to your interests.
+The user is responsible for ensuring that the information provided to us is accurate.
 
+The email address must be valid and belong to the user. Access to the site will be restricted if a certain time has passed without the user confirming their email address via the activation link sent there.
 
+The date of birth must be correct. We reserve the right to lock the account if we suspect the date of birth may be false.
 
-## Security
+If you are aware of inaccurate information, please contact us to have it corrected.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+### Removing information
 
-## How we use cookies
+You may contact us to request removal of your personal information from the site.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Details such as your email address and date of birth will be removed on request, however access to the service will also be terminated.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Some data, such as activity within the game, cannot be removed. However, if the personal information mentioned above is removed then activity data will become anonymous.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+### Contact
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-## Controlling your personal information
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:  
-Adam Haskell - PokéFarm  
-3, rue de la Fontaine  
-09600 Aigues-Vives  
-FRANCE
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-  
-
-
-* * *
-
-WOBBUFFET!!
-
-It looks like you've been browsing the site for a while now. But you've only seen a tiny fraction of it. Register now and join in the fun! With Raising, Hatching, Breeding, Scouring, Feeding, Growing and much more, there are months of fun to be had here!
+If you have any questions regarding what data we collect, what we use it for, or anything else related to this matter, please contact our Support Centre using the link at the bottom of any page.
