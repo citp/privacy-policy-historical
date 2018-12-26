@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626055429id_/http%3A//www.montereybayaquarium.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226135929id_/http%3A//www.montereybayaquarium.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Monterey Bay Aquarium
 
-This Privacy Policy applies to _all_ information provided by you or otherwise collected from you by the Monterey Bay Aquarium in _any_ manner, including in person or through the mail, and online or through mobile applications or platforms.
+This Privacy Policy applies to _**all**_ information provided by you or otherwise collected from you by the Monterey Bay Aquarium in _any_ manner, including in person or through the mail, and online or through mobile applications or platforms.
 
 **Effective Date: May 4, 2016**
 
