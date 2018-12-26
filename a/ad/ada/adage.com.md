@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630161350id_/http%3A//adage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024712id_/http%3A//adage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ad Age
 
@@ -12,7 +12,7 @@ _Effective starting: May 25, 2018_
             New York, NY
             
 
-**We can be reached by e-mail at[customerservice@adage.com](mailto:customerservice@adage.com) or by telephone at 877-320-1721.**
+**We can be reached by e-mail at[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8bbadabacb7b5bdaaabbdaaaeb1bbbd98b9bcb9bfbdf6bbb7b5) or by telephone at 877-320-1721.**
 
 **What this Privacy Policy covers**
 
@@ -225,7 +225,7 @@ We collect information globally and primarily store that information in the Unit
 
 **California Residents.**
 
-Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes. You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [customerservice@adage.com](mailto:customerservice@adage.com) or call [877-320-1721]. 
+Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes. You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#64071117100b090116170116120d07012405000503014a070b09) or call [877-320-1721]. 
 
 **Notice to End Users**
 
@@ -252,7 +252,7 @@ Your information is controlled by Crain Communications Inc.  If you have quest
           c/o Crain Communications Inc
           1155 Gratiot Avenue
           Detroit, MI  48207
-          E-Mail: [privacyhelp@crain.com](mailto:privacyhelp@crain.com)
+          E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4c4c6ddc2d5d7cddcd1d8c4f4d7c6d5ddda9ad7dbd9)
           313-446-6000
           
     
@@ -262,7 +262,7 @@ Your information is controlled by Crain Communications Inc.  If you have quest
           c/o Crain Communications Inc
           1155 Gratiot Avenue
           Detroit, MI  48207
-          E-Mail: [privacyhelp@crain.com](mailto:privacyhelp@crain.com)
+          E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89f9fbe0ffe8eaf0e1ece5f9c9eafbe8e0e7a7eae6e4)
             
 
 Policy Last Updated: May 2018
