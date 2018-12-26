@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightstats.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614220237id_/https%3A//www.flightstats.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightstats.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226055505id_/https%3A//www.flightstats.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FlightStats, Inc.
 
@@ -48,7 +48,7 @@ Portland, OR 97204
 USA  
 Tel: (503) 274-0938  
 Fax: (503) 274-0939  
-Email: [privacy@flightstats.com](mailto:privacy@flightstats.com)
+Email: [dataprotection@reedbusiness.com](mailto:dataprotection@reedbusiness.com)
 
 In compliance with the Privacy Shield Principles, FlightStats, Inc. commits to resolve complaints about your privacy and our collection of use of your personal information.
 
@@ -56,4 +56,4 @@ FlightStats, Inc. has further committed to refer unresolved privacy complaints u
 
 If your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. Additional information is available here: [www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](http://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
 
-Last updated: December 12, 2017
+Last updated: November 1, 2018
