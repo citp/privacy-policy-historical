@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222957id_/https%3A//devs-lab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226223613id_/https%3A//devsjournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Devs-Lab
+# Privacy Policy - DevsJournal
 
-Your privacy is important to Devs-Lab. So we’ve developed a Privacy Policy  
-that covers how we collect, use, disclose, transfer, and store your information.  
-Please take a moment to familiarize yourself with our privacy practices and  
-[let us know](https://devs-lab.com/contact-us) if you have any questions. We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or donate money to a Author.
+Your privacy is important to Devs Journal. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://devsjournal.com/contact-us) if you have any questions. We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or donate money to a Author. Our website is [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) Compliant.
 
 ### Collection and Use of Personal Information :
 
@@ -17,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 ### How we use collected information :
 
-Devs-Lab may collect and use Users personal information for the following purposes:
+Devs Journal may collect and use Users personal information for the following purposes:
 
   * To run and operate our Site
   * We may need your information to display contenst on the Site correctly.
@@ -33,7 +30,7 @@ We may use the email address to send them information and updates pertaining to 
 
 ### Web browser cookies :
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “[cookies](https://devsjournal.com/cookie-policy)” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ### How we protect your information :
 
@@ -61,7 +58,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 ### Changes to this privacy policy :
 
-Devs-Lab has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Devs Journal has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms :
 
@@ -69,6 +66,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Privacy Questions
 
-If you have any questions or concerns about Devs-Lab’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at [support@devs-lab.com](mailto:support@devs-lab.com).
+If you have any questions or concerns about Devs Journal’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at [support@devsjournal.com](mailto:support@devsjournal.com).
 
-This document was last updated on 5th May, 2017
+This document was last updated on 15th Apr, 2018
