@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205333id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023642id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
 Today, safeguarding one's personal and financial information is increasingly challenging. That's why at Merrill Lynch, we make it a priority and provide you with access to the information you need to protect yourself and to help keep your information secure.
 
-### **Privacy Information**
+###  ** Privacy Information**
 
 **U.S. Online Privacy Notice**
 
@@ -12,7 +12,7 @@ This Notice describes how Sites may collect, use and share information from or a
 
 
 **  
-U.S. Consumer Privacy  Notice**
+U.S. Consumer Privacy Notice**
 
 The Bank of America U.S. Consumer Privacy Notice explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it.
 
@@ -20,13 +20,13 @@ The Bank of America U.S. Consumer Privacy Notice explains our privacy commitmen
 
 The use of cookies and similar technologies is a common Internet practice. We have developed a Cookie Guide to provide very general information on cookies and similar technologies.
 
-### **Security Information**
+###  ** Security Information**
 
 Your personal information is a valuable part of your financial life. We strongly recommend that you protect your information in the same way you monitor your financial accounts.
 
   * [Identity Theft and Fraud](https://web.archive.org/privacy-and-security-center/identity-theft-and-fraud.html)
   * [Protecting Yourself](https://web.archive.org/privacy-and-security-center/protect-yourself.html)
-  * [Report Theft and Fraud](https://web.archive.org/privacy-and-security-center/how-to-report-identity-theft-and-fraud.html)
+  * Report Theft and Fraud
   * [How Merrill Lynch Protects Your Personal Information ](https://web.archive.org/privacy-and-security-center/protect-personal-information.html)
   * [Security Information for Credit Cardholders](https://card.ml.com/RWDapp/ns/home?_ga=2.263411461.827346755.1506341207-189970974.1449852960&mc=ml)
 
@@ -36,25 +36,27 @@ Your personal information is a valuable part of your financial life. We strongly
 **If you need to report identity theft or fraud, or if you have questions, please call:  
 **1-800-637-7455**
 
-[Forward Suspicious Email to Us Link opens in a Email popup](mailto:abuse@bankofamerica.com&subject=Fraud&body=If%20you%20believe%20you%20have%20received%20a%20hoax%20e-mail%20%28phishing%20e-mail%29%20that%20appears%20to%20be%20from%20Merrill%20Lynch,%20please%20attach%20it%20to%20this%20e-mail%20message.)  
+[Forward Suspicious Email to Us Link opens in a Email popup](mailto:abuse@bankofamerica.com&subject=Fraud&body=If%20you%20believe%20you%20have%20received%20a%20hoax%20e-mail%20%28phishing%20e-mail%29%20that%20appears%20to%20be%20from%20Merrill%20Lynch,%20please%20attach%20it%20to%20this%20e-mail%20message.)   
 
 
 Thank you for bringing this suspicious email to our attention. Bank of America takes any attempts to fraudulently use our brand or impersonate a bank representative very seriously. Our team reviews all submissions; we will only reply to your message if we require additional information.
 
-### **U.S. Online Privacy Notice**  
+###  ** U.S. Online Privacy Notice**   
 
 
-_(Last Updated  July 24, 2014)_
+_(Last Updated  May 1, 2018)_
 
-This U.S. Online Privacy Notice (Notice) applies to this Bank of America online interface ( _i.e._ , website or mobile application) and any Bank of America U.S. affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites).  The term "Bank of America" or "we" or "us" or "our" in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you and explains how information may be collected and used for advertising purposes.  
+This U.S. Online Privacy Notice (Notice) applies to this Bank of America online interface ( _i.e._ , website or mobile application) and any Bank of America U.S. affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites).
+
+The term "Bank of America" or "we" or "us" or "our" in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you, and explains how information may be collected and used for advertising purposes.
 
 Bank of America provides other online interfaces not covered by this Notice.  If you visit or access your accounts from one of these sites, please review the online privacy practices of that site to understand how your online information may be collected, used and shared.
 
-For U.S. account holders and visitors to this Site, we will use and share any information that we collect from or about you in accordance with the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go), which provides choices in the use and sharing of information. For Non-U.S. account holders utilizing this Site, we will use and share your account information in accordance with the privacy disclosure that covers your account and with the privacy and security rules applicable to the Bank of America affiliate or subsidiary that provides that account to you. 
+For visitors to this Site, we will use and share any information that we collect from or about you in accordance with the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go). 
 
 Additional information on our Privacy & Security practices may be found on our Sites and within the [Frequently Asked Questions](https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go) (FAQs). Although the additional information is provided as a resource, the terms and conditions of this Notice control, and by using the Site, you agree to the terms and conditions of this Notice.
 
-**Collecting and using information**  
+**Collecting and using information**   
 **Personal Information We Collect Online**
 
 Personal Information means personally identifiable information such as information you provide via forms, surveys, applications or other online fields including name, postal or email addresses, telephone, fax or mobile numbers, or account numbers. 
@@ -83,7 +85,7 @@ We may use Personal Information:
 **Please see the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go) for information on how Personal Information may be shared and how you may be able to limit certain types of sharing.
 
 **Other Information We Collect Online  
-**  
+**   
 Other Information is any information other than Personal Information that does not reveal your specific identity or does not directly relate to an individual, such as browser information, information collected through cookies, pixel tags and other technologies, demographic information, other information provided by you such as your date of birth or household income, and aggregated and de-identified data. 
 
 **How We Collect and Use Other Information  
@@ -125,7 +127,7 @@ Relationship-based Advertising**
 
 In order to help make our advertising informative and useful, we may use information about your relationship with us (such as types of accounts, transactional information or the state in which you bank) to help determine which advertisements or offers to present to you.
 
-**Online Behavioral Advertising**  
+**Online Behavioral Advertising**   
 We or our advertising service providers may use certain information about your activities on our Sites, such as pages visited and search keywords entered to help determine which of our advertisements or offers may be of interest to you. We limit access and collection of information for specific purposes by advertising service providers. We may use this online information for online and offline advertising.
 
 **Advertising on third-party sites and mobile apps  
