@@ -1,139 +1,146 @@
-> *The following text is extracted and transformed from the themusclemaximizer.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603121053id_/http%3A//www.themusclemaximizer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusclemaximizer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226233820id_/http%3A//www.themusclemaximizer.com/privacy) for the most accurate reproduction.*
 
 # The Muscle Maximizer
 
-The Muscle Maximizer and all its related web sites (The Muscle Maximizer) Privacy Policy PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. The Muscle Maximizer DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE.
+The Muscle Maximizer and all its related websites (" **TMM** ", “ **we** ” or “ **us** ”) is the “data controller” in respect of your personal information. We take our relationship with all our users seriously, and this includes how we handle your personal information. TMM is committed to protecting the privacy of our customers’ personal information. This Policy sets out the ways we process any personal data relating to you. Please check back frequently as it is your sole responsibility to be aware of any changes. TMM does not provide notices of changes in any manner other than by posting changes at our website.
 
-IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO The Muscle Maximizer OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED TO IN THIS PRIVACY POLICY.
+## 1\. The personal data we collect about you
 
-The information collection, use, and dissemination practices of The Muscle Maximizer This policy applies to The Muscle Maximizer's collection, use, storage and disclosure of information by The Muscle Maximizer on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various third party websites, and (c) to The Muscle Maximizer's other information collection, including the purchase of customer lists from third parties. The Muscle Maximizer is not responsible for the information collection or privacy practices of third web sites or applications.
+Through your use of our websites and our social media channels, surveys (online and offline), order form, registration pages, including registration pages operated by third parties, or where we communicate with you (e.g. by telephone, regular mail, or email), we may collect and process the following information about you:
 
-## 1\. Collection of Information.
+  * (a) your full name, age, date of birth and sex;
+  * (b) your contact details (e.g. address, phone number and e-mail);
+  * (c) where you have registered a user account with us, your user name and password;
+  * (d) your communication and shopping preferences and interests;
+  * (e) your browsing and shopping activities;
+  * (f) feedback and survey responses;
+  * (g) information about your device (e.g. IP address, operating system and browser type);
+  * (h) credit card information;
+  * (i) your location;
+  * (j) correspondence with us; and
+  * (k) other personal information (such as suggestions, inquiries, feedback, photographs, messages or other materials) (" **User Content** ") that you post, e-mail, share, reproduce or otherwise make available to us.
 
-### 1.1 Survey Information.
 
-The Muscle Maximizer collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a The Muscle Maximizer survey, order form, or a registration pages either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a "Survey"). (As used herein, "online" means using the Internet, including the Websites, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, The Muscle Maximizer or a third party (a "Third Party") may ask an individual to provide various information to The Muscle Maximizer , which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). The Muscle Maximizer may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to The Muscle Maximizer or Third Party, but an individual may receive incentives from The Muscle Maximizer or a Third Party in exchange for providing Survey Information to The Muscle Maximizer.
 
-### 1.2 Third Party List Information.
+Where lawful to do so we may also obtain personal information about you from (or combine it with information from) public sources, third party service providers, individuals who have indicated you have agreed for them to provide your personal information, government authorities and other third parties. For example, if you are on another website and you opt-in to receive information from TMM, that website may submit to us your email address and other information about you so that we may contact you as requested. You may also use a third party app or feature (such as Facebook or Twitter) through which you allow us to collect (or the third party to share) information about you (such as details of your friends/connections, "likes", comments you have shared, groups and location). In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their friends/connections or information about you is otherwise accessible through your friends’/connections´ web page, profile page, or similar page.
 
-The Muscle Maximizer collects information from individuals when an individual provides information to a third party and The Muscle Maximizer subsequently purchases, licenses, or otherwise acquires the information from the third party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, credit card information, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, The Muscle Maximizer seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to The Muscle Maximizer and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller's list.
+We may supplement the information we collect about you directly with the information we receive from third parties in order to improve our products/services, to tailor our content to you and send you details of promotions and/or offers which we believe may be of interest to you.
 
-### 1.3 Other Information.
+We will indicate where any personal information we have requested is mandatory or optional. We will also explain the consequences should you decide not to provide information which we have indicated is mandatory. In some circumstances this may mean we are unable to provide you with a certain service or product.
 
-Other occasions when The Muscle Maximizer obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by The Muscle Maximizer or by a third party, (2) when an individual requests assistance through The Muscle Maximizer's customer service department, and (3) when an individual voluntarily subscribes to a The Muscle Maximizer service or newsletter (together, "Other Information").
+## 2\. How do we use information about you?
 
-### 1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.
+We may use your personal information for the following purposes:
 
-The Muscle Maximizer currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, The Muscle Maximizer may use other new and evolving sources of information in the future (together, "Technology Information").
+  * (a) to process an order placed via our websites or over the telephone;
+  * (b) to respond and/or deal with your request or enquiry;
+  * (c) to enter you in contests and notify you of results;
+  * (d) to administer our websites and social media channels and personalise content for you; to process payments;
+  * (e) for internal record keeping;
+  * (f) to provide you with information at your request, or as a result of searches undertaken using our websites;
+  * (g) to provide marketing that you have requested or agreed to receive or which we are otherwise lawfully entitled to undertake with you as a customer or prospective customer and provided you have not opted out;
+  * (h) to record your marketing preferences;
+  * (i) to personalise offers, promotions and advertising provided to you based on our understanding of your browsing and shopping habits or purchase history;
+  * (j) to register you for certain features on our websites;
+  * (k) to improve our products and services (for example to speed up your searches, recognise you when you return to our websites, respond to your feedback, respond to problems, and tailor what we do to suit your requirements further);
+  * (l) in relation to User Content, on our websites, social media channels and marketing communications to promote our products, provided in each case that we have your permission;
+  * (m) where necessary as part of any restructuring of TMM or sale of TMM’s business or assets;
+  * (n) management analysis, audit, forecasting, business planning and transactions, ensuring our compliance with applicable laws, regulatory requirements, and TMM policies, and dealing with legal claims and related administrative activities and related records retention requirements; or
+  * (o) to establish or exercise our legal rights and to comply with law enforcement or other government agency requests or court orders.
+  * (p) We may also anonymise your personal data and use it for the purposes described above as part of aggregated non personal data for research, statistical and other purposes (such as improving our websites, products and services) or measuring the effectiveness of our advertising.
 
-### (a) Cookies.
 
-A cookie is a small amount of data stored on the hard drive of the individual's computer that allows The Muscle Maximizer to identify the individual with his or her corresponding data that resides in The Muscle Maximizer's database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites.
 
-### (b) Web Beacons.
+## 3\. Who does TMM share your personal data with?
 
-A web beacon is programming code that can be used to display an image on a web page (by using an programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows The Muscle Maximizer to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, The Muscle Maximizer might place, with the consent of a third party website, a web beacon on the third party's website where fishing products are sold. When Bill, an individual listed in The Muscle Maximizer's database, visits the fishing website, The Muscle Maximizer receives notice by means of the web beacon that Bill visited the fishing site, and The Muscle Maximizer would then update Bill's profile with the information that Bill is interested in fishing. The Muscle Maximizer may thereafter present offers of fishing related products and services to Bill. In addition to using web beacons on web pages, The Muscle Maximizer also uses web beacons in email messages sent to individuals listed in The Muscle Maximizer's database.
+We may share your personal data with third party companies (such as advertising and marketing agencies, social media agencies and platforms, software providers, and service providers such as couriers, customer services and payment services providers) for the purposes set out in this Policy including for example to complete your order, to facilitate your experience of our websites, enable offers, advertising or other promotional activity or materials about our products and services to be provided to you, to operate recognition or reward programmes, respond to your queries and / or to provide you with certain services such as aftercare services.
 
-### (c) New Technology.
+We may also share your personal data with:
 
-The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is The Muscle Maximizer's use of new and evolving technology. As a result, The Muscle Maximizer strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
+  * (a) individuals and/or companies within the TMM group of companies as required for management, analysis, planning and decision making, including in relation to taking decisions regarding the expansion and promotion of our product and/or service offering, order or customer request fulfillment and for use by those companies for the other purposes described in this policy;
+  * (b) government authorities, law enforcement and regulatory authorities where required or permitted by law and for tax or other purposes;
+  * (c) external parties in response to legal process, and when required to comply with laws, to respond to an emergency or to enforce our agreements, corporate policies and terms of use, or to protect the rights, property or safety of TMM, our employees, agents, customers and others;
+  * (d) parties to whom you authorise TMM to release your personal data; and
+  * (e) other entities (including actual or prospective buyers and our affiliates) in the event that TMM is involved in a bankruptcy, merger, reorganization or sale of any of its group company businesses and/or assets.
 
-### 1.5 Outside Information.
 
-The Muscle Maximizer may receive information about individuals from third parties or from other sources of information outside of The Muscle Maximizer including information located in public databases ("Outside Information").
 
-### 1.6 Individual Information.
+If you give us consent then we may share your personal data with our partners or subsidiary companies in order that they can contact you with information, promotions, products, services and offers that may be of interest to you.
 
-As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information The Muscle Maximizer gathers or receives about individuals.
+In certain commercial email messages sent by TMM, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to TMM. The "Subject:" line of TMM email messages will usually contain a line provided from the advertiser to TMM.
 
-### 1.7 No Information Collected from Children.
+## 4\. Legal Basis for processing your personal data
 
-The Muscle Maximizer will never knowingly collect any personal information about children under the age of 13. If The Muscle Maximizer obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, The Muscle Maximizer has no such information to use or to disclose to third parties. The Muscle Maximizer has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
+We will only process your personal information where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your personal information. In almost every case the legal basis will be one of the following:
 
-### 1.8 Credit Card Information.
+**Consent:** For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the “unsubscribe” link at the bottom of any marketing email we send you.
 
-The Muscle Maximizer may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from The Muscle Maximizer. When the Credit Card Information is submitted to The Muscle Maximizer, such information is encrypted and is protected with SSL encryption software. The Muscle Maximizer will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
+**Performance of a contract with you:** For example, where you have purchased goods from our website and we need to use your contact details and payment information in order to process your order and send the goods to you.
 
-## 2\. Use of Individual Information.
+**Compliance with law:** Where we are subject to a legal obligation and need to use your personal information in order to comply with that obligation.
 
-### 2.1 Discretion to Use Information.
+## 5\. Your rights
 
-THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION. The following paragraphs in Section 2 describe how The Muscle Maximizer currently uses Individual Information, but The Muscle Maximizer may change or broaden its use at any time. As noted below, The Muscle Maximizer may update this policy from time to time. The Muscle Maximizer may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
+You have certain rights in relation to your personal information. These include: the right to object to the processing of your information for certain purposes, the right to access your personal information, and the ability to erase, restrict or receive a machine-readable copy of your personal information.
 
-### 2.2 Email.
+We will handle any request to exercise your rights in accordance with applicable law and any relevant legal exemptions. If you wish to exercise any of these rights please contact us using the contact details below.
 
-The Muscle Maximizer uses Individual Information to provide promotional offers by email to individuals. The Muscle Maximizer may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.
+You may also have the right to complain to a data protection authority if you think we have processed your personal information in a manner which is unlawful or breaches your rights. If you have such concerns we request that you initially contact us (using the contact details below) so that we can investigate, and hopefully resolve, your concerns.
 
-### 2.2(a) Content of Email Messages.
+## 6\. Use of Cookies, Web Beacons and Other Info Collected Using Technology
 
-In certain commercial email messages sent by The Muscle Maximizer, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to The Muscle Maximizer. The "Subject:" line of The Muscle Maximizer email messages will usually contain a line provided from the advertiser to The Muscle Maximizer.
+TMM currently uses cookie and web beacon technology to associate certain internet related information about an indiviudual with information about the individual in our database. TMM uses in order to provide a better service or identify which pages on our website are of special interest.
 
-### 2.2(b) Solicited Email.
+A cookie is a small piece of information which a website stores via your web browser and which can later be retrieved. The main objective is to identify users and personalise their visit by customising web pages for them, for example by welcoming them by name next time they visit the same website. You can find more information about cookies at http://cookiecentral.com. Individuals who use our websites need to accept cookies in order to uae all of the features and functionality of the websites.
 
-The Muscle Maximizer only sends email to individuals who have agreed on the Websites to receive email from The Muscle Maximizer or to individuals who have agreed on third party websites to receive email from third parties such as The Muscle Maximizer. The Muscle Maximizer does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to The Muscle Maximizer's email messages.
+A web beacon is programming code that can be used to display an image on a web page (by using an programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows TMM to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, TMM might place, with the consent of a third party website, a web beacon on the third party's website where fishing products are sold. When Bill, an individual listed in TMM's database, visits the fishing website, TMM receives notice by means of the web beacon that Bill visited the fishing site, and TMM would then update Bill's profile with the information that Bill is interested in fishing. TMM may thereafter present offers of fishing related products and services to Bill.
 
-### 2.3 Targeted Advertising.
+In addition to using web beacons on web pages, TMM also uses web beacons in email messages sent to individuals listed in TMM's database.
 
-The Muscle Maximizer uses Individual Information to target advertising to an individual. When an individual is using the Internet, The Muscle Maximizer uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and The Muscle Maximizer attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. The Muscle Maximizer may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
+The use of technology on the internet, including cookies and web beacons, is rapidly evolving, as is TMM’s use of new and evolving technology. As a result, TMM strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
-### 2.4 Direct Mail and Telemarketing.
+## 7\. What do we do to safeguard personal data?
 
-The Muscle Maximizer uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones.
+We use appropriate physical (e.g. secure cabinets), technical (e.g. passwords, firewalls, encryption) and organisational (e.g. access controls) security measures that are proportionate to the nature and the sensitivity of the personal data and the risks of unauthorised access to, accidental loss of, destruction of, or damage to such information. We have put in place safeguards to check that our internal procedures meet our high policy standards. We also use reasonable efforts to ensure that our service providers agree to protect your personal data.
 
-### 2.5 Use of Technology Information.
+TMM may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from TMM. When the Credit Card Information is submitted to TMM, such information is encrypted and is protected with SSL encryption software. TMM will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction
 
-The Muscle Maximizer uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of The Muscle Maximizer's web sites are most frequently visited. This information helps The Muscle Maximizer to better understand the online habits of individuals so that The Muscle Maximizer can target advertising and promotions to them.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your personal data transmitted to our website(s) and/or social media channels; any transmission is at your own risk.
 
-### 2.6 Profiles of Individuals.
+Our websites are not intended for children under the age of 13 and do not knowingly collect personally information online from visitors of this age group.
 
-The Muscle Maximizer uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases.
+## 8\. How long will we store your personal data?
 
-### 2.7 Storage of Individual Information.
+We take steps to ensure that your personal information is retained for only as long as it is necessary for the purpose for which it was collected. After this period it will be deleted or in some cases anonymised.
 
-The Muscle Maximizer stores the Individual Information in a database on The Muscle Maximizer computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under The Muscle Maximizer's control. Not withstanding such measures, The Muscle Maximizer cannot guarantee that its security measures will prevent The Muscle Maximizer computers from being illegally accessed, and the Individual Information on them stolen or altered.
+Where we have collected the personal information based on your consent and we have no other lawful basis to continue with that processing, if you subsequently withdraw your consent then we will delete your personal information.
 
-## 3\. Dissemination of Individual Information.
+## 9\. Where do we store your personal data?
 
-### 3.1 Sale or Transfer to Third Parties.
+The personal information that we collect may be transferred to, and stored at, a destination outside the European Economic Area (the “ **EEA** ”) and Canada, including countries which have less strict or no data protection laws, when compared to the jurisdiction in which the personal information was collected.
 
-The Muscle Maximizer MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN The Muscle Maximizer'S SOLE DISCRETION. If you do not wish us to use personal information about you to promote or sell our products and services or to sell, transfer or otherwise provide personal information about you to third parties, please inform us by sending us an email and we will certainly honor your request.
+Whenever we transfer your information as described in the paragraph above, we will take steps which are reasonably necessary to ensure that adequate safeguards are in place to protect your personal information and to make sure it is treated securely and in accordance with this Policy. In these cases, we rely on approved data transfer mechanisms (such as the EU “Standard Contractual Clauses”) to ensure your information is subject to adequate safeguards in the recipient country. If you are located in the EEA, you may contact us for a copy of the safeguards which we have put in place to protect your personal information and privacy rights in these circumstances.
 
-### 3.2 Order Fulfillment.
+## 10\. Other Websites and Services
 
-The Muscle Maximizer will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using The Muscle Maximizer web sites or when responding to offers provided by The Muscle Maximizer.
+We may offer links to third party websites and you may see our advertising on third party websites (such as social media platforms). However, we are not responsible for the information collection policies of any such third party websites. If you visit a third party website, we advise you to review their privacy and other policies before you submit any personal data to them. We do not accept any responsibility or liability for these policies.
 
-### 3.3 Legal Process.
+## 11\. Changes to this Policy
 
-The Muscle Maximizer may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.
+We may change this Policy at any time. Any changes to this Policy will be posted on our websites. The date this Policy was last updated appears at the bottom.
 
-### 3.4 Summary Data.
+## 12\. Unsubscribe Procedures.
 
-The Muscle Maximizer may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
+If you wish to discontinue receiving email messages from TMM please just click on the unsubscribe link on the bottom of the email message.
 
-### 3.5 Access.
-
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting customer service at the number on the order page. The Muscle Maximizer may also grant advertising clients and email services providers access to an individual's email address to verify the origin of the Individual Information collected.
-
-## 4\. Privacy Practices of Third Parties.
-
-### 4.1 Advertiser cookies and web beacons.
-
-Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. The Muscle Maximizer does not control Advertisers' use of such technology and The Muscle Maximizer has no responsibility for the use of such technology to gather information about individuals.
-
-### 4.2 Links.
-
-The Websites and email messages sometimes contain hypertext links to the web sites of third parties. The Muscle Maximizer is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by third parties. Such links are provided for your convenience and reference only. The Muscle Maximizer does not operate or control in any respect any information, software, products or services available on such third party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
-
-### 4.3 Affiliated Companies.
-
-The Muscle Maximizer may disclose, transfer, and sell Individual Information to entities affiliated with The Muscle Maximizer in The Muscle Maximizer's discretion.
-
-## 5\. Unsubscribe Procedures.
-
-If you wish to discontinue receiving email messages from The Muscle Maximizer please just click on the unsubscribe link on the bottom of the email message.
-
-We reserve the right to add Individual Information to multiple lists maintained by The Muscle Maximizer
+We reserve the right to add Individual Information to multiple lists maintained by TMM.
 
 For more information about protecting your privacy, you may wish to visit: www.ftc.gov If you have questions about this policy, please feel free to contact us at the number on the order page.
+
+## 13\. Contact us
+
+If you have any questions regarding this Policy, please contact us at [privacy@themusclemaximizer.com](mailto:privacy@themusclemaximizer.com), to the attention of the Data Privacy Officer.
+
+This Policy was last updated on 15 May 2018
 
 All Rights Reserved. * These statements have not been reviewed by the Food and Drug Administration. This site or products are not intended to diagnose, treat, cure, or prevent any disease.
