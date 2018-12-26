@@ -1,48 +1,46 @@
-> *The following text is extracted and transformed from the eanswers.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311192757id_/http%3A//www.eanswers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eanswers.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226064201id_/http%3A//www.eanswers.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# eAnswers Privacy
 
-Thank you for visiting eAnswers.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at the Sites and in connection with the various services and software products we provide on or through the Sites. This Privacy Policy is hereby incorporated in our Terms of Use and by using the Sites and Services, you accept the terms of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use any of the Sites or Services. 
+## Privacy Policy
 
-**What We Track:**
+This privacy statement describes how eAnswers collects and uses the Personal Information you provide on our Web site: eAnswers.com. It also describes the choices available to you regarding our use of your Personal Information. If you have questions or concerns regarding this policy, you should first contact us at [support{{$brand}}.com](mailto:support%7B%7B$brand%7D%7D.com).
 
-Every computer connected to the Internet is given a domain name and a set of numbers known as the "Internet Protocol" IP address. Like most web servers, when a visitor requests a page from the Sites, our servers automatically recognize and log his/her domain name and IP address, along with the access times, referring web sites, platform, and browser type. The information collected is not personally identifiable (as described here) and is used only to provide statistics about usage of the Sites in the aggregate to improve the quality of the Sites and Services, to better understand how people interact with us, to deliver advertising and measure its effectiveness, to provide advertisements about goods and services that may be of interest to you, or to cooperate with law enforcement. We may use third party contractors to collect and aggregate such information. 
+### Collection and Use of Information
 
-Additionally, please note that none of the Services include "spyware", meaning the Services do not run any background processes that report information about your software or hardware configuration or your web browsing or purchasing habits. 
+eAnswers.com does not automatically collect any personally identifiable information, such as names, e-mail, age, gender, address, telephone numbers, login names and passwords or other self-identifying information ("Personal Information").
 
-**How We Track It:**
+eAnswers.com may use cookies on the Site. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier by saving preferences and browsing patterns while you are at eAnswers.com's Site. Cookies may be used to analyze Site usage, improve content, customize the Site's content and layout and for other customer service purposes. eAnswers.com's use of cookies is in no way linked to any Personal Information. 
 
-The Sites and Services use either cookies and/or registry settings on your computer to store user information. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. Additionally, some ad networks may use web beacons in conjunction with cookies to compile aggregate statistics about usage on the Sites. A web beacon is a transparent image, typically in GIF format that can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of page view, and a description of the page where the web beacon is placed. 
+eAnswers.com may automatically receive and record certain non-personally identifiable information on its server logs from your browser, including your IP address, browser type, internet service provider (ISP), cookie information, and the webpage that a user visits. eAnswers.com collects non-personally identifiable information for general purposes, including but not limited to analyzing trends, administering the site, tracking user movements, conducting research, and providing anonymous reporting to internal and external clients. eAnswers.com will not link any Personal Information, including e-mail addresses, with aggregate data of its users.
 
-You may disable cookies on your web browser, thereby also rendering some web beacons unusable. You can use the Sites and Services even if cookies are disabled, but this may impact our ability to adapt any of the Sites or Services according to your preferences. 
+### Sharing and Disclosure of Information
 
-**Personally Identifiable Information:**
+eAnswers.com does not rent, sell, or share any information about the user with any third-parties. eAnswers.com may disclose information about its users if eAnswers.com believes such action is necessary to: (a) comply with the law or legal process served on eAnswers.com; (b) protect and defend the rights or property of eAnswers.com (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of eAnswers.com services or members of the public.
 
-Personally identifiable information is information you provide to us that is uniquely associated with you, including your first and last name, a home or physical address, email address, and telephone number. Information identifying an entity other than an individual (e.g., a school or library) does not constitute personally identifiable information and is treated the same as anonymous information discussed in this privacy policy. Although you are not required to provide any personally identifiable information to use most parts of the Sites or Services, registration and full utilization of some of our Services do require that you provide certain personally identifiable information. For example, personally identifiable information you might provide could include your contact information if you participate in a promotion or sweepstakes, your email address if you are registering for eAnswers.com or requesting eAnswers highlights or newsletters or if you submit a help request to us via email or respond to employment opportunities posted on the Sites. Other personally identifiable information you might provide could include your contact information if you participate in a promotion or sweepstakes, your email address if you request eAnswers highlights or newsletters or if you submit a help request to us via email or respond to employment opportunities posted on the Sites. The amount of such personally identifiable information that you choose to disclose to us is completely up to you, although access to or use of some Services may be affected if such information is not provided. We have put in place procedures reasonably designed to safeguard and secure the information we collect online. 
+### Security
 
-In accordance with the United States Children's Online Privacy Protection Act of 1998, as amended, we do not knowingly collect personally identifiable information from anyone under the age of 13. 
+eAnswers.com takes reasonable precaution to protect Personal Information from misuse, loss and unauthorized access. Although eAnswers.com cannot guarantee that Personal Information will not be subject to unauthorized access, eAnswers.com has physical, electronic, and procedural safeguards to protect the Personal Information. Personal Information is protected by secured networks and access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however.
 
-**Information Sharing and Disclosure:**
+### Links to Other Web Sites
 
-In addition to using the anonymous identifying information that we track for internal purposes in the manner described here, this information may also, on an aggregate basis, be shared with and used by third parties with which we have contracted (e.g., our third-party content providers and licensees of eAnswers services). Furthermore, in addition to eAnswers providing its own advertising, eAnswers uses third-party advertising companies and networks to serve ads when you visit the Sites. These companies and networks include, among others, third party ad servers, ad agencies, ad technology vendors, and research firms. These companies and networks may use information (not including your name, address, email address, or telephone number) about your visits to the Sites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to the Sites, our ad networks may place or recognize a unique "cookie" on your browser or use a "web beacon". 
+Our Site includes links to other Web sites whose privacy practices may differ from those of eAnswers. If you submit Personal Information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-Certain third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. This is also known as online behavioral advertising. An example of such ad network serving advertisements on our site is AOL/Ad.com, a member of the Network Advertising Initiative. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: http://networkadvertising.org/consumer/opt_out.asp. 
+### Business Transitions
 
-Please note that ad networks' use of cookies or web beacons, and that of any other third-party that has a link available on any Site, is subject to their own privacy policies and not this privacy policy. 
+In the event that eAnswers.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, Personal Information will likely be among the assets transferred. eAnswers.com will post a notice on this website of any such change in ownership or control of the Personal Information eAnswers.com may have prior to such transfer.
 
-**Personally Identifiable Information:**
+### Changes to Policy
 
-We do not rent or sell your personally identifying information to any third parties, unless we have your consent. We may disclose your personally identifying information, however, in any of the following limited circumstances (i) if we have your consent; (ii) to our external service providers when necessary in order to facilitate, provides services to, and evaluate the Sites and Services; and (iii) if we conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of eAnswers, its users or the public. Additionally, we may transfer personally identifiable information in the event of a transfer of ownership of eAnswers or any of the Sites and/or Services, such as acquisition by or merger with another company. 
+From time to time, eAnswers.com may revise this Policy. eAnswers.com will post the revised Policy on the Site, so that users can always be aware of what information eAnswers.com collects, how the information is used and under what circumstances such information may be disclosed. 
 
-**Links and Co-Branded Sites:**
+### Contact Information
 
-This policy only addresses the Sites and Services. Other websites, such as those to which we link or with which we co-brand, may have their own policies. These other sites to which we link or with which we co-brand might independently collect data, solicit personal information, or send their own cookies to you. We are not responsible for any use of information when you use such third party sites. Additionally, in many cases, co-branded services that are jointly provided by us and selected companies will contain the Sites branding, but might not be hosted by us. In such cases, you should follow the privacy link on such site to determine which company's privacy policy protects the information you enter on such site. Even if the page is governed by a separate privacy policy, we might be entitled to receive information about what you do when using that service. We encourage you to read the privacy policies of these other companies and to contact these companies directly if you have any questions about their use of this information. 
+You can contact us about this privacy statement by writing or email us at the address below:
 
-**Changes to This Privacy Statement:**
+**eAnswers**  
+Email: support@eanswers.com  
 
-eAnswers may amend this policy from time to time by posting the new text on the Sites. Unless otherwise provided, the revised terms will take effect when they are posted. Once any changes that we make to this Privacy Policy become effective, your continued use of the Sites or Services after such time will signify your acceptance of the new terms. 
 
-**Questions or Suggestions:**
-
-If you have any questions or suggestions regarding this privacy policy, please contact eAnswers:   
-[support@eanswers.com](mailto:support@eanswers.com). 
+  
+© 2018 eAnswers.
