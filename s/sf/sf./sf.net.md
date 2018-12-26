@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224211059id_/https%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226052441id_/https%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Slashdot Media
 
@@ -122,7 +122,7 @@ Please review our [Cookie and Opt Out Choices Statement](https://slashdotmedia.c
 
 **Interest-Based Advertising**. We may also participate in interest-based advertising using cookies, web beacons and other tracking technologies. This means that you may see advertising on our Sites tailored to how you browse or shop, or you may see our advertising on other websites based on your browsing behavior. Some websites where we may advertise belong to ad networks that use your web browsing history to choose which ads to display on their network websites; these ads include advertising for SourceForge Media and our Sites. Other websites where you see our ads may use interest preferences that you have chosen on those websites, as well as registration and other information about you, to choose which ads to display to you. Some internet browsers, websites, and mobile devices offer opt-outs for interest-based advertising. Please refer to the website that you are visiting, your browser and/or your device settings, and our [Cookie and Opt Out Choices Statement] for additional information.
 
-You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website [http://www.networkadvertising.org/choices/] and DAA website [http://www.aboutads.info/choices/]. EEA users can learn more about interest-based advertising– and opt-out – at http://www.youronlinechoices.com/.
+You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the [NAI website](http://www.networkadvertising.org/choices/)[http://www.networkadvertising.org/choices/] and [DAA website](http://www.aboutads.info/choices/) [http://www.aboutads.info/choices/]. EEA users can learn more about interest-based advertising– and opt-out – at <http://www.youronlinechoices.com/>.
 
 Please review our [Cookie and Opt Out Choices Statement](https://slashdotmedia.com/opt-out-choices/) for more information. 
 
