@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualizeus.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212202054id_/http%3A//visualizeus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualizeus.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226194404id_/http%3A//vi.sualize.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VisualizeUs
 
