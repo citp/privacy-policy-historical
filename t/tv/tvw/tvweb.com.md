@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tvweb.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626160350id_/https%3A//tvweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvweb.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226234729id_/https%3A//tvweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TVweb
 
-WATCHR Media, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "TVweb.com" at https://tvweb.com. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with any questions.
+WATCHR Media, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "TVweb.com" at https://tvweb.com. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at webmaster@TVweb.com with any questions.
 
 ### Cookies
 
@@ -48,7 +48,7 @@ WATCHR Media, Inc. will not sell, rent, trade, or disclose your personally ident
 
 ### Communication
 
-We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide WATCHR Media, Inc. users free opt-in updates about the WATCHR Media, Inc. site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from WATCHR Media, Inc.. You may opt-out of receiving these secondary communications by sending an email with "remove" in the subject line to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide WATCHR Media, Inc. users free opt-in updates about the WATCHR Media, Inc. site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from WATCHR Media, Inc.. You may opt-out of receiving these secondary communications by sending an email with "remove" in the subject line to webmaster@TVweb.com.
 
 ### Demographic Information
 
@@ -84,7 +84,7 @@ TVweb site contains links to other web sites. Please note that when you click on
 
 ### Correct/Update or Cancel Subscription
 
-Users can change their information with WATCHR Media, Inc. by emailing a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to unsubscribe from any WATCHR Media, Inc. mailing list, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message.
+Users can change their information with WATCHR Media, Inc. by emailing a request to webmaster@TVweb.com. If you wish to unsubscribe from any WATCHR Media, Inc. mailing list, please email webmaster@watchrmedia.com using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message.
 
 ### Notification of Changes
 
@@ -92,4 +92,4 @@ WATCHR Media, Inc. privacy practices may change periodically. WATCHR Media, Inc.
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: WATCHR Media, Inc. Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: WATCHR Media, Inc. Email: webmaster@watchrmedia.com
