@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website2value.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531152451id_/http%3A//website2value.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website2value.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226133603id_/http%3A//website2value.com/privacy) for the most accurate reproduction.*
 
 # Website Value and Worth Calculator. Website Analysis & Statistics - Free website value and worth calculator, with analysis and statistics
 
