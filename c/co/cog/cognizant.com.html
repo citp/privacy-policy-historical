@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cognizant.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626065548id_/http%3A//www.cognizant.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cognizant.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226145355id_/http%3A//www.cognizant.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang=""  class="no-js"><head>
     
@@ -8,6 +8,10 @@
     <meta name="msvalidate.01" content="6EC39C73163C9BEF1BC0743113B9FD6B">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta name="Keywords" content="">
+    <meta name="blockchainpodcasttitle" content="">
+    <meta name="blockchainpodcastdescription" content="">
+    <meta name="blockchainpodcasturl" content="">
+    <meta name="blockchainpodcastbgimage" content="">
     <link rel="SHORTCUT ICON" href="/content/dam/Cognizant_Dotcom/images/cognizant_favicon.ico" type="image/ico">
     <link rel="canonical" href="https://www.cognizant.com/privacy">
     <link rel="alternate" href="https://www.cognizant.com/privacy" hreflang="en-us">
@@ -96,9 +100,147 @@
     </script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script>
     
     <style>[data-aload] { background-image: none !important; }</style>
+
+
+
+  <script src="/etc/designs/cognizant_dotcom/digital_clientlibs/js/jquery-1.11.1.js"></script>
+    <script src="/etc/designs/cognizant_dotcom/digital_clientlibs/js/jquery-ui.js"></script>
+    
+    <script>
+        
+        var city="";
+        var state="";
+        var country_name="";
+        
+        
+        /* Domain */
+        var mainPageURL=document.URL;
+        //console.log("mainPageURL>>>>>>>>>"+mainPageURL);
+        var domain_url = mainPageURL.split("/");
+        // console.log("domain_url>>>>>>>>>"+domain_url);
+        var domain = domain_url[0]+"//"+domain_url[2];
+        // console.log("domain>>>>>>>>>"+domain);
+        
+        /* External and Internal referral */
+        
+        var ref1 = document.referrer;
+        //console.log("ref1>>>>>>>>>1>>"+ref1);
+        if(ref1 == ""){
+            ref1="External | Bookmarked";
+        }
+        else if(ref1.indexOf('cognizant.com')>-1){
+            ref1="Internal | "+ref1;
+        }
+        else
+        {
+            ref1="External | "+ref1;
+        }
+        
+        /* Device Type */
+        var device_type="";     
+        if(navigator.userAgent.match(/mobile/i)) {
+            device_type = "Mobile";
+            
+        } else if (navigator.userAgent.match(/iPad|Android|Touch/i)) {
+            device_type = "Tablet";
+        } else {
+            device_type = "Desktop";
+        }
+        
+        /* Screen Resolution */
+        var screenreso = screen.width;
+        var screenreso = screenreso+"*";
+        var screenreso = screenreso + screen.height;
+        
+        
+        /* Brwoser and Version */
+        navigator.sayswho= (function(){
+            var ua= navigator.userAgent, tem, 
+                M= ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+            if(/trident/i.test(M[1])){
+                tem=  /\brv[ :]+(\d+)/g.exec(ua) || [];
+                return 'IE '+(tem[1] || '');
+            }
+            if(M[1]=== 'Chrome'){
+                tem= ua.match(/\b(OPR|Edge)\/(\d+)/);
+                if(tem!= null) return tem.slice(1).join(' ').replace('OPR', 'Opera');
+            }
+            M= M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+            if((tem= ua.match(/version\/(\d+)/i))!= null) M.splice(1, 1, tem[1]);
+            return M.join(' ');
+        })();
+        
+        /* Time */
+        var now = new Date();
+        var entryArray = now.toDateString().split(" ");
+        var entryArray1 = entryArray[1]+" "+entryArray[2]+" "+entryArray[3];
+        
+        
+        var ctsData="";
+        
+        ctsData = {
+            
+            "page": {
+                
+                "pageInfo": {
+                    "pageIdentifier": 'privacy' ,                 
+                    "pageID": 'CTS:US:EN:PRIVACY', 
+                    "pageTitle": 'Privacy Policy | Cognizant Technology Solutions',
+                    "url": 'https://www.cognizant.com/privacy',                
+                    "pageCreatedDate": '2018-04-15',
+                    "pagePublishDate": '2018-04-15',
+                    "hostName": domain,
+                    "UUID": '8193d78d-eecf-4bb6-a7ea-a71c5031c91c',
+                    "industry": "Uncategorized",
+                    "industry_type": "Uncategorized",
+                    "cookies_enabled": navigator.cookieEnabled,
+                    
+                },
+                
+                "sitesection":{
+                    "h1":'privacy',
+                    "h2":'',
+                    "h3":'',
+                    "h4":'',
+                    "h5":'',
+                    "breadCrumb":'PRIVACY',
+                    "lastPartOfUrl":'privacy',
+                },
+                
+                "referral":{
+                    "Referral": ref1,
+                },
+                
+                "pagetype":{
+                    "countryPage": 'US',
+                    "language": 'EN',   
+                },
+                
+                "browserinfo":{
+                    "browserName and Version": navigator.sayswho,                
+                    "screenResolution": screenreso,
+                    "device_Type": device_type,
+                },
+                
+                
+                
+                "time": {
+                    "date": entryArray1,
+                    "day": entryArray[0],
+                    "month": entryArray[1],
+                    "year": entryArray[3],
+                    "time": now.toTimeString(),
+                }
+            }
+        };
+        
+        console.log("ctsData"+ctsData);       
+    </script>
+    
+
     <script src="https://public.inpwrd.com/inpwrd-tracker-embed/0.1.5/track.js"></script>
     <!-- analytics script -->
-    <script src="https://assets.adobedtm.com/fde5e5ad80d46dc140da7d35f15534f50b15b3c2/satelliteLib-218cf82fdd545df6a2e67d9f332da08292afa4bf.js"></script>
+    <script src="//assets.adobedtm.com/launch-ENb37a42a93d0347ca90be954b4629f850.min.js"></script>
     <!-- DemadBase Coding-->
     <script src="//scripts.demandbase.com/adobeanalytics/MWk346PU.min.js"></script>
     <script src="//api.demandbase.com/api/v2/ip.json?key=adb902310b1d80413eac596ae135bbe4&amp;callback=Dmdbase_CDC.callback"></script>
@@ -119,10 +261,14 @@
         function aload(t){"use strict";t=t||window.document.querySelectorAll("[data-aload]"),void 0===t.length&&(t=[t]);var a,e=0,r=t.length;for(e;r>e;e+=1)a=t[e],a["LINK"!==a.tagName?"src":"href"]=a.getAttribute("data-aload"),a.removeAttribute("data-aload");return t}
     </script>
     
-    <script type="text/javascript" src="/etc/designs/cognizant_dotcom/common_clientlibs.min.213ce8d84d034ce47b3c7837399b90fd.js"></script>
-<link rel="stylesheet" href="/etc/designs/cognizant_dotcom/about_cognizant_clientlibs.min.e995c9ed16d27592ac3fc8307e10f670.css" type="text/css">
-<script src="/etc/designs/cognizant_dotcom/digital_clientlibs/js/jquery-1.11.1.js"></script><script src="/etc/designs/cognizant_dotcom/digital_clientlibs/js/jquery-ui.js"></script><script async="" type="text/javascript" src="//trackcmp.net/visit?actid=798707031&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180626065548id_%2Fhttp%253A%2F%2Fwww.cognizant.com%2Fprivacy"></script></head>
+    <script type="text/javascript" src="/etc/designs/cognizant_dotcom/common_clientlibs.min.0240b879f3d59c1cc0de01b7b53a1cc4.js"></script>
+<!--Japan-->
+    <!--Japan-->
 
+
+    <link rel="stylesheet" href="/etc/designs/cognizant_dotcom/about_cognizant_clientlibs.min.5fdd85663bdc348c01f532e75896d105.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/cognizant_dotcom/clientlibs/css/rfss.css" type="text/css">
+<script async="" type="text/javascript" src="//trackcmp.net/visit?actid=798707031&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181226145355id_%2Fhttp%253A%2F%2Fwww.cognizant.com%2Fprivacy"></script></head>
 
 
 
@@ -223,7 +369,7 @@
         if(queryFinal[1].indexOf("+")>-1)
         {
             queryFinal[1]=queryFinal[1].replace(/[+]/g,' ');
-
+            
         }
         // console.log("queryFinal>>>>>>>>>>>>>>>>>>"+queryFinal[1]);
         gss_new_search(queryFinal[1]);
@@ -320,35 +466,19 @@
                                 <ul>
                                     <li><span>(</span><a href="/fr-be" title="Fr">Fr</a></li>
                                     <li><span>|</span></li>
-                                    <li><a href="/nl-be" title="Nl">Nl</a><span>)</span></li>
-                                </ul>
-                            </li>
-                            <li class="country-language"><img src="/content/dam/cognizant_foundation/images/Denmark.png" alt="Denmark"><a href="/da-dk" title="Denmark">Denmark</a>
-                                <ul>
-                                    <li><span>(</span><a href="/da-dk" title="Da">Da</a></li>
+                                    <li><a href="/nl-be" title="Nl">Nl</a></li>
                                     <li><span>|</span></li>
-                                    <li><a href="/en-dk" title="En">En</a><span>)</span></li>
+                                    <li><a href="/en-be" title="En">En</a><span>)</span></li>
                                 </ul>
                             </li>
-                            <li class="country-language"><img src="/content/dam/cognizant_foundation/images/Finland.png" alt="Finland"><a href="/fi-fi" title="Finland">Finland</a>
-                                <ul>
-                                    <li><span>(</span><a href="/fi-fi" title="Fi">Fi</a></li>
-                                    <li><span>|</span></li>
-                                    <li><a href="/en-fi" title="En">En</a><span>)</span></li>
-                                </ul>
-                            </li>
+                            <li><img src="/content/dam/cognizant_foundation/images/Denmark.png" alt="Denmark"><a href="/en-dk" title="Denmark">Denmark</a></li>
+                            <li><img src="/content/dam/cognizant_foundation/images/Finland.png" alt="Finland"><a href="/en-fi" title="Finland">Finland</a></li>
                             <li><img src="/content/dam/cognizant_foundation/images/France.png" alt="France"><a href="/fr-fr" title="France">France</a></li>
                             <li><img src="/content/dam/cognizant_foundation/images/Germany.png" alt="Germany"><a href="/de-de" title="Germany">Germany</a></li>
                             <li><img src="/content/dam/cognizant_foundation/images/Hungary.png" alt="Hungary"><a href="/en-hu" title="Hungary">Hungary</a></li>
                             <li><img src="/content/dam/cognizant_foundation/images/Italy.png" alt="Italy"><a href="/it-it" title="Italy">Italy</a></li>
                             <li><img src="/content/dam/cognizant_foundation/images/Lithuania.png" alt="Lithuania"><a href="/lithuania" title="Lithuania">Lithuania</a></li>
-                            <li class="country-language"><img src="/content/dam/cognizant_foundation/images/Norway.png" alt="Norway"><a href="/nb-no" title="Norway">Norway</a>
-                                <ul>
-                                    <li><span>(</span><a href="/nb-no" title="Nb">Nb</a></li>
-                                    <li><span>|</span></li>
-                                    <li><a href="/en-no" title="En">En</a><span>)</span></li>
-                                </ul>
-                            </li>
+                            <li><img src="/content/dam/cognizant_foundation/images/Norway.png" alt="Norway"><a href="/en-no" title="Norway">Norway</a></li>
                             <li><img src="/content/dam/Cognizant_Dotcom/fr-FR_homepage/flags/Poland.png" alt="Poland"><a href="/en-pl" title="Poland">Poland</a></li>
                             <li><img src="/content/dam/Cognizant_Dotcom/fr-FR_homepage/flags/Spain.png" alt="Spain"><a href="/es-es" title="Spain">Spain</a></li>
                             <li class="country-language"><img src="/content/dam/Cognizant_Dotcom/fr-FR_homepage/flags/Sweden.png" alt="Sweden"><a href="/sv-se" title="Sweden">Sweden</a>
@@ -407,7 +537,7 @@
             <div class="search-content">                
                 <input id="tagsChk" type="text" placeholder="What can we help you find ?">
                 <h5 style="cursor:pointer" class="input-group-label"><i class="search fw900 text-white m0" onclick="gss_new_search($('#tagsChk').val())" ontouchend="gss_new_search($('#tagsChk').val())" title="Search"></i></h5>
-                <p>Type in a topic service or offering and then <span>hit enter to search</span></p>
+                <p>Type in a topic service or offering and then <span>hit Enter to search</span></p>
                 <h6>Common Searches:</h6>
                 <div id="search-results"></div>
             </div>
@@ -419,65 +549,65 @@
                 <li><a href="javascript:void(0);" title="Industries" id="Industries" data-attribute="topHeaderMenuTag">Industries</a></li>
                 <li><a href="javascript:void(0);" title="Services" id="Services" data-attribute="topHeaderMenuTag">Services</a></li>
                 <li><a href="javascript:void(0);" title="Latest Thinking" id="Latest-thinking" data-attribute="topHeaderMenuTag">Latest Thinking</a></li>
-                <li><a href="javascript:void(0);" title="About" id="about-cognizant" data-attribute="topHeaderMenuTag">About</a></li>
+                <li><a href="/about-cognizant" title="About" id="about-cognizant" data-attribute="topHeaderMenuTag">About</a></li>
             </ul>
         </div>
         <div class="header-hidden-content js-header-hidden-content hide" id="hidden-content" data-attribute="dropDownMenuTagInternal">
-         <div class="hidn-content">   
-             <ul>
-                <li><a href="/banking-financial-services" title="Banking &amp; Financial Services">Banking &amp; Financial Services</a></li>
-                <li><a href="/telecommunications" title="Communications">Communications</a></li>
-                <li><a href="/consumer-goods" title="Consumer Goods">Consumer Goods</a></li>
-                <li><a href="/education" title="Education">Education</a></li>
-                <li><a href="/energy-utility" title="Energy &amp; Utilities">Energy &amp; Utilities</a></li>
-            </ul>
-            <ul>
-                <li><a href="/healthcare" title="Healthcare">Healthcare</a></li>
-                <li><a href="/business-information-services" title="Information Services">Information Services</a></li>
-                <li><a href="/insurance" title="Insurance">Insurance</a></li>
-                <li><a href="/life-sciences" title="Life Sciences">Life Sciences</a></li>
-                <li><a href="/manufacturing" title="Manufacturing">Manufacturing</a></li>
-            </ul>
-            <ul>
-                <li><a href="/information-media-entertainment" title="Media &amp; Entertainment">Media &amp; Entertainment</a></li>
-                <li><a href="/retail" title="Retail">Retail</a></li>
-                <li><a href="/technology" title="Technology">Technology</a></li>
-                <li><a href="/transportation-logistics" title="Transportation &amp; Logistics">Transportation &amp; Logistics</a></li>
-                <li><a href="/travel-hospitality" title="Travel &amp; Hospitality">Travel &amp; Hospitality</a></li>
-            </ul>
-            <div class="sub-category">
-                <div class="left"><img src="/content/dam/cognizant_foundation/images/CBC_360x100_navIMAGE.jpg" title="COGNIZANT CONSULTING"></div>
-                <div class="right">
-                    <h5>COGNIZANT CONSULTING</h5>
-                    <h6>Helping organizations engage people and uncover insight from data to shape the products, services and experiences they offer</h6><a href="/consulting" title="Learn More">Learn More</a>
+            <div class="hidn-content">   
+                <ul>
+                    <li><a href="/banking-financial-services" title="Banking &amp; Financial Services">Banking &amp; Financial Services</a></li>
+                    <li><a href="/telecommunications" title="Communications">Communications</a></li>
+                    <li><a href="/consumer-goods" title="Consumer Goods">Consumer Goods</a></li>
+                    <li><a href="/education" title="Education">Education</a></li>
+                    <li><a href="/energy-utility" title="Energy &amp; Utilities">Energy &amp; Utilities</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/healthcare" title="Healthcare">Healthcare</a></li>
+                    <li><a href="/business-information-services" title="Information Services">Information Services</a></li>
+                    <li><a href="/insurance" title="Insurance">Insurance</a></li>
+                    <li><a href="/life-sciences" title="Life Sciences">Life Sciences</a></li>
+                    <li><a href="/manufacturing" title="Manufacturing">Manufacturing</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/information-media-entertainment" title="Media &amp; Entertainment">Media &amp; Entertainment</a></li>
+                    <li><a href="/retail" title="Retail">Retail</a></li>
+                    <li><a href="/technology" title="Technology">Technology</a></li>
+                    <li><a href="/transportation-logistics" title="Transportation &amp; Logistics">Transportation &amp; Logistics</a></li>
+                    <li><a href="/travel-hospitality" title="Travel &amp; Hospitality">Travel &amp; Hospitality</a></li>
+                </ul>
+                <div class="sub-category">
+                    <div class="left"><img src="/content/dam/cognizant_foundation/images/CBC_360x100_navIMAGE.jpg" title="COGNIZANT CONSULTING"></div>
+                    <div class="right">
+                        <h5>COGNIZANT CONSULTING</h5>
+                        <h6>Helping organizations engage people and uncover insight from data to shape the products, services and experiences they offer</h6><a href="/consulting" title="Learn More">Learn More</a>
+                    </div>
                 </div>
-            </div>
             </div>
         </div>
         <div class="header-hidden-content js-header-hidden-content hover-content hide" id="hidden-content" data-attribute="dropDownMenuTagInternal">  
             <div class="hidn-content">
-            <ul class="one">
-                <li class="image-services "><img src="/content/dam/cognizant_foundation/Dotcomimage/COG-Logo-Digital-Business-White.svg"></li>
-                <li class="js-equal-height">Working to reshape business models, modernize products and enhance customer experiences to drive growth.</li>
-                <li class="hover-link"><a href="/cognizant-digital-business" title="Learn More">Learn More</a></li>
-            </ul>
-            <ul class="two">
-                <li class="image-services "><img src="/content/dam/cognizant_foundation/Dotcomimage/COG-Logo-Digital-Operations-White.svg"></li>
-                <li class="js-equal-height">Reinventing and managing your most essential business processes with new ways of working.</li>
-                <li class="hover-link"><a href="/cognizant-digital-operations" title="Learn More">Learn More</a></li>
-            </ul>
-            <ul class="three">
-                <li class="image-services "><img src="/content/dam/cognizant_foundation/Dotcomimage/COG-Logo-Digital-Systems-Technologies-White.svg"></li>
-                <li class="js-equal-height">Simplifying, modernizing and securing the IT infrastructure and applications that are the backbone of your business.</li>
-                <li class="hover-link"><a href="/cognizant-digital-systems-technology" title="Learn More">Learn More</a></li>
-            </ul>
-            <div class="sub-category">
-                <div class="left"><img src="/content/dam/cognizant_foundation/images/CBC_360x100_navIMAGE.jpg"></div>
-                <div class="right">
-                    <h5>COGNIZANT CONSULTING</h5>
-                    <h6>Helping organizations engage people and uncover insight from data to shape the products, services and experiences they offer</h6><a href="/consulting" title="Learn More">Learn More</a>
+                <ul class="one">
+                    <li class="image-services "><img src="/content/dam/cognizant_foundation/Dotcomimage/COG-Logo-Digital-Business-White.svg"></li>
+                    <li class="js-equal-height">Working to reshape business models, modernize products and enhance customer experiences to drive growth.</li>
+                    <li class="hover-link"><a href="/cognizant-digital-business" title="Learn More">Learn More</a></li>
+                </ul>
+                <ul class="two">
+                    <li class="image-services "><img src="/content/dam/cognizant_foundation/Dotcomimage/COG-Logo-Digital-Operations-White.svg"></li>
+                    <li class="js-equal-height">Reinventing and managing your most essential business processes with new ways of working.</li>
+                    <li class="hover-link"><a href="/cognizant-digital-operations" title="Learn More">Learn More</a></li>
+                </ul>
+                <ul class="three">
+                    <li class="image-services "><img src="/content/dam/cognizant_foundation/Dotcomimage/COG-Logo-Digital-Systems-Technologies-White.svg"></li>
+                    <li class="js-equal-height">Simplifying, modernizing and securing the IT infrastructure and applications that are the backbone of your business.</li>
+                    <li class="hover-link"><a href="/cognizant-digital-systems-technology" title="Learn More">Learn More</a></li>
+                </ul>
+                <div class="sub-category">
+                    <div class="left"><img src="/content/dam/cognizant_foundation/images/CBC_360x100_navIMAGE.jpg"></div>
+                    <div class="right">
+                        <h5>COGNIZANT CONSULTING</h5>
+                        <h6>Helping organizations engage people and uncover insight from data to shape the products, services and experiences they offer</h6><a href="/consulting" title="Learn More">Learn More</a>
+                    </div>
                 </div>
-            </div>
             </div>
         </div>
         <div class="header-hidden-content js-header-hidden-content hide" id="hidden-content" style="height: 668px;">
@@ -486,80 +616,54 @@
                     <li class="subhead"><p>Our Media &amp; Publications</p></li> 
                     <li>    <a href="/latest-thinking" title="All Latest Thinking">All Latest Thinking</a></li>
                     <li>    <a href="/perspectives" title="Perspectives">Perspectives</a></li>
-                
+                    
                     <li>    <a href="/cognizanti" title="Cognizanti Journal">Cognizanti Journal</a></li>
-                
+                    
                     <li>    <a href="https://digitally.cognizant.com/" title="Digitally Cognizant Blog" target="_blank">Digitally Cognizant Blog</a></li>
-                
-                <li>    <a href="https://soundcloud.com/cognizant-worldwide/" title="Cognizant Podcasts" target="_blank">Cognizant Podcasts</a></li>
-                <li>    <a href="/case-studies" title="Browse Case Studies">Browse Case Studies</a></li>           
-        </ul>
-                 <ul>
-            
-            <li class="subhead"><p>Key Themes</p></li>
-            <li><a href="/blockchain" title="Blockchain">Blockchain</a></li>
-
-            <li><a href="/artificial-intelligence" title="Artificial Intelligence">Artificial Intelligence</a></li>
-            
-            <li><a href="/when-machines-do-everything" title="When Machines Do Everything">When Machines Do Everything</a></li>
-            
-            <li><a href="/world-economic-forum-highlights-2018" title="World Economic Forum 2018 - Davos">World Economic Forum 2018 - Davos</a></li>
-            
-            <li><a href="/code-halos" title="Code Halos">Code Halos</a></li>
-        </ul>
+                    
+                    <li>    <a href="https://soundcloud.com/cognizant-worldwide/" title="Cognizant Podcasts" target="_blank">Cognizant Podcasts</a></li>
+                    <li>    <a href="/case-studies" title="Browse Case Studies">Browse Case Studies</a></li>           
+                </ul>
                 <ul>
-            
-                <li class="subhead"><p>Center for the Future of Work</p></li>
-            
-            
-            
-            
-            <li><a href="/future-of-work" title="Explore the Future of Work">Explore the Future of Work</a></li>
-            
-            <li><a href="/digital-workforce-of-the-future" title="Digital Workforce of the Future">Digital Workforce of the Future</a></li>
-            
-            <li><a href="/the-work-ahead" title="The Work Ahead">The Work Ahead</a></li>
-            
-            <li><a href="/business-value-of-trust" title="Business Value of Trust">Business Value of Trust</a></li>
-            
-            <li><a href="http://www.futureofwork.com/whitepaper/21-jobs-of-the-future-a-guide-to-getting-and-staying-employed-over-the-next-10-years" title="21 Jobs of the Future" target="_blank">21 Jobs of the Future</a></li>
-        </ul>
-			<div class="clearfloat"></div>
-                <div class="lt-category" style="background: url(/content/dam/cognizant_foundation/Dotcomimage/perspectives-app-banner--LTmenu-desktop.png) no-repeat left center;background-size:100%;height:220px;">
+
+                    <li class="subhead"><p>Key Themes</p></li>
+					<li><a href="/enterprise-blockchain-solutions" title="Blockchain Solutions">Blockchain Solutions</a></li>
+                    <li><a href="/blockchain-adoption-primary-research" title="Blockchain Primary Research">Blockchain Primary Research</a></li>                    
+                    <li><a href="/artificial-intelligence" title="Artificial Intelligence">Artificial Intelligence</a></li>
+					<li><a href="/artificial-intelligence-adoption-for-business" title="AI Primary Research">AI Primary Research</a></li>
+                    <li><a href="/when-machines-do-everything" title="When Machines Do Everything">When Machines Do Everything</a></li>
+
+                    <li><a href="/world-economic-forum-highlights-2018" title="World Economic Forum 2018">World Economic Forum 2018</a></li>
+                    
+                    <li><a href="/code-halos" title="Code Halos">Code Halos</a></li>
+                </ul>
+                <ul>
+                    
+                    <li class="subhead"><p>Center for the Future of Work</p></li>
+                    
+                    
+                    
+                    
+                    <li><a href="/future-of-work" title="Explore the Future of Work">Explore the Future of Work</a></li>
+                    
+                    <li><a href="/digital-workforce-of-the-future" title="Digital Workforce of Future">Digital Workforce of the Future</a></li>
+                    
+                    <li><a href="/the-work-ahead" title="Work Ahead">The Work Ahead</a></li>
+                    
+                    <li><a href="/business-value-of-trust" title="Business Value of Trust">Business Value of Trust</a></li>
+                    
+                    <li><a href="http://www.futureofwork.com/whitepaper/21-jobs-of-the-future-a-guide-to-getting-and-staying-employed-over-the-next-10-years" title="21 Jobs of Future" target="_blank">21 Jobs of the Future</a></li>
+                </ul>
+                <div class="clearfloat"></div>
+                <div class="lt-category" style="background: url(/content/dam/cognizant_foundation/Dotcomimage/perspectives-app-banner-latest-thinking-apex-logo.png) no-repeat left center;background-size:100%;height:220px;">
                     <div class="lt-store">
                         <a href="https://itunes.apple.com/us/app/cognizant-perspectives/id439247923?mt=8" title="Download the iPad app" target="_blank"><img src="/content/dam/cognizant_foundation/images/app-store-logo.png"></a>
                         <a href="https://play.google.com/store/apps/details?id=com.cognizanttechnologysolutions.perspectivesapp&amp;hl=en" title="Download the Android app" target="_blank"><img src="/content/dam/cognizant_foundation/images/9DB3D190FD6DC8155EEDBCDEB4942128BE6B.png"></a>
                     </div>
                 </div>
             </div>
-            </div>
-        <div class="header-hidden-content js-header-hidden-content hover-content hide" id="hidden-content" data-attribute="dropDownMenuTagInternal">  
-            <div class="hidn-content">
-            <ul>
-                <li><a href="/about-cognizant" title="About Cognizant">About Cognizant</a></li>
-                <li><a href="/about-cognizant/board-of-directors" title="Board of Directors">Board of Directors</a></li>
-                <li><a href="/events" title="Cognizant Events">Cognizant Events</a></li>
-                <li><a href="/contactus" title="Contact Us">Contact Us</a></li>
-                <li><a href="/about-cognizant/corporate-governance" title="Corporate Governance">Corporate Governance</a></li>
-                <li><a href="/about-cognizant/corporate-integrity" title="Corporate Integrity">Corporate Integrity</a></li>
-                <li><a href="/about-cognizant/core-values" title="Culture &amp; Values">Culture &amp; Values</a></li>
-            </ul>
-            <ul>
-                <li><a href="/about-cognizant/executive-leadership" title="Executive Leadership">Executive Leadership</a></li>
-                <li><a href="http://news.cognizant.com/" title="News &amp; Press Releases">News &amp; Press Releases</a></li>
-                <li><a href="/partners" title="Partnerships">Partnerships</a></li>
-                <li><a href="/about-cognizant/sustainability" title="Sustainability">Sustainability</a></li>
-                <li><a href="/about-cognizant/talent-worldwide" title="Talent Worldwide">Talent Worldwide</a></li>
-                <li><a href="/about-cognizant/the-cognizant-growth-story" title="The Cognizant Growth Story">The Cognizant Growth Story</a></li>
-                <li><a href="/women-empowered" title="Women Empowered">Women Empowered</a></li>
-            </ul>
-            <ul>
-                <li><img src="/content/dam/cognizant_foundation/images/code-halos_header_v2_300x200.jpg" title="Stay Agile with our Industry Leading Insight"> </li> 
-                <li><a href="https://itunes.apple.com/us/app/cognizant-perspectives/id439247923?mt=8" title="Download the iPad app" target="_blank">Download the iPad app</a></li>
-                <li><a href="https://play.google.com/store/apps/details?id=com.cognizanttechnologysolutions.perspectivesapp&amp;hl=en" title="Download the Android app" target="_blank">Download the Android app</a></li>
-            </ul>
         </div>
-        </div>
+        
     </div>
 </section>
 
@@ -639,10 +743,12 @@
                                 <li><a href="https://soundcloud.com/cognizant-worldwide/" title="Cognizanti Podcasts" target="_blank">Cognizanti Podcasts</a></li>
                                 <li><a href="/case-studies" title="Browse Case Studies">Browse Case Studies</a></li>
                                 <li class="subhead"><p>Key Themes</p></li>
-                                <li><a href="/blockchain" title="Blockchain">Blockchain</a></li>
+                                <li><a href="/enterprise-blockchain-solutions" title="Blockchain Solutions">Blockchain Solutions</a></li>
+                                <li><a href="/blockchain-adoption-primary-research" title="Blockchain Primary Research">Blockchain Primary Research</a></li>
                                 <li><a href="/artificial-intelligence" title="Artificial Intelligence">Artificial Intelligence</a></li>
+								<li><a href="/artificial-intelligence-adoption-for-business" title="AI Primary Research">AI Primary Research</a></li>
                                 <li><a href="/when-machines-do-everything" title="When Machines Do Everything">When Machines Do Everything</a></li>
-                                <li><a href="/wef2017" title="World Economic Forum 2018 â Davos">World Economic Forum 2018 — Davos</a></li>
+                                <li><a href="/world-economic-forum-highlights-2018" title="World Economic Forum 2018">World Economic Forum 2018</a></li>
                                 <li><a href="/code-halos" title="Code Halos">Code Halos</a></li>
                                 <li class="subhead"><p>Center for the Future of Work</p></li>
                                 <li><a href="/future-of-work" title="Explore the Future of Work">Explore the Future of Work</a></li>
@@ -653,7 +759,7 @@
                                 
                                 
                                 <li class="lt-mob-list">
-                                    <div class="lt-mob-category" style="background: url(/content/dam/cognizant_foundation/Dotcomimage/perspectives-app-banner--LTmenu-mobile.jpg) no-repeat;">
+                                    <div class="lt-mob-category" style="background: url(/content/dam/cognizant_foundation/Dotcomimage/perspectives-app-banner-mobile.jpg) no-repeat;">
                                         <div class="lt-mob-store">
                                             <a href="https://itunes.apple.com/us/app/cognizant-perspectives/id439247923?mt=8" title="Download the iPad app" target="_blank">
                                                 <img src="/content/dam/cognizant_foundation/images/app-store-logo.png">
@@ -663,37 +769,18 @@
                                             </a>
                                         </div>
                                     </div></li>
-
                                     
+
                                 </ul>
                             
                         </li>
-                        <li><a href="javascript:void(0);">About</a>
-                            <ul class="level3">
-                                
-                                <li class="back"><a href="#" id="back">Back</a></li>
-                                <li><a href="/about-cognizant" title="About Cognizant">About Cognizant</a></li>
-                                <li><a href="/about-cognizant/board-of-directors" title="Board of Directors">Board of Directors</a></li>
-                                <li><a href="/events" title="Cognizant Events">Cognizant Events</a></li>
-                                <li><a href="/contactus" title="Contact Us">Contact Us</a></li>
-                                <li><a href="/about-cognizant/corporate-governance" title="Corporate Governance">Corporate Governance</a></li>
-                                <li><a href="/about-cognizant/corporate-integrity" title="Corporate Integrity">Corporate Integrity</a></li>
-                                <li><a href="/about-cognizant/core-values" title="Culture &amp; Values">Culture &amp; Values</a></li>
-                                <li><a href="/about-cognizant/executive-leadership" title="Executive Leadership">Executive Leadership</a></li>
-                                <li><a href="http://news.cognizant.com/" title="News &amp; Press Releases">News &amp; Press Releases</a></li>
-                                <li><a href="/partners" title="Partnerships">Partnerships</a></li>
-                                <li><a href="/about-cognizant/sustainability" title="Sustainability">Sustainability</a></li>
-                                <li><a href="/about-cognizant/talent-worldwide" title="Talent Worldwide">Talent Worldwide</a></li>
-                                <li><a href="/about-cognizant/the-cognizant-growth-story" title="The Cognizant Growth Story">The Cognizant Growth Story</a></li>
-                                <li><a href="/women-empowered" title="Women Empowered">Women Empowered</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="/about-cognizant" id="mob-about-cognizant">About</a></li>
                         <ul class="level4">
                             <li><a href="/careers" title="country language" tabindex="3">
                                 
                                 Careers</a></li>
                             <li><a href="http://news.cognizant.com" title="country language" tabindex="3">
-
+                                
                                 News</a></li>
                             <li><a href="/events" title="countries" tabindex="4">
                                 
@@ -1184,7 +1271,6 @@
         
         
         
-
         
             
     
@@ -1195,7 +1281,7 @@
 
 <script type="text/javascript" src="/etc/designs/cognizant_dotcom/continue_conversation_clientlibs.min.acb0084716e6e03a3be522dcbe688e69.js"></script>
 
-<script type="text/javascript" src="/etc/designs/cognizant_dotcom/Widget_English.min.d18d56055f867b374e7b43ba103e628f.js"></script>
+<script type="text/javascript" src="/etc/designs/cognizant_dotcom/Widget_English.min.c3c7b23331fdba826e5fbf4faa5149a1.js"></script>
  
 
 <div data-attribute="contactWidgetClickTag" class="contact-widget">
@@ -1296,7 +1382,7 @@
 </div>
         
     
-    
+
 </div>
 
 
@@ -1311,6 +1397,8 @@ console.log("PagePath",findPagePath);
 <script>
     $("ul.drpdwn-list li:last-child").addClass("drpdwn-last-li");
 </script>
+
+
 
 
 
@@ -1358,6 +1446,9 @@ console.log("PagePath",findPagePath);
                             </p>
                             <p class="legal-headngs">Registration</p>
                             <p class="aprch legal-desc">Using cognizant.com does not require registration of any kind other than voluntary registration for white papers, investor kits, alumni correspondence and registration to conferences and netsessions organized by Cognizant. The personal data collected for these purposes will not be sold to anyone outside Cognizant and will be used by Cognizant for one-on-one contact with the registrants.
+                            </p>
+                            <p class="legal-headngs">Personal Information</p>
+                            <p class="aprch legal-desc">If you are applying for a job at Cognizant and you want more information about how we use your personal information for the hiring process, please read the <a shape="rect" class="cogdc-support" target="_blank" href="https://www.cognizant.com/about-cognizant-resources/global-associate-privacy-notice.pdf">Global Associate Privacy Notice (APN)</a>.
                             </p>
                             <p class="legal-headngs">Cookies</p>
                             <p class="aprch legal-desc">Cognizant may collect certain information by automated means, such as cookies and web beacons, when a user visits our website. A "cookie" is a small piece of data that a website can send to your browser, which may then be stored on your system. For further information on the cookies we use on our site and why we use them, please read our <a shape="rect" class="cogdc-support" href="/cookiepolicy">Cookie Policy</a>.
@@ -1730,6 +1821,9 @@ console.log("PagePath",findPagePath);
 
 
 
+
+
+
 <div class="cog-ftr en-us-ftr">
     <div>
         <div class="wrapper" data-attribute="whiteFooterMenuTagInternal">
@@ -1771,7 +1865,7 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/banking-financial-services" title="Banking &amp; Financial Services" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Banking &amp; Financial Services</a>
+                        <a href="/banking-financial-technology-solutions" title="Banking &amp; Financial Services" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Banking &amp; Financial Services</a>
                     
                 
                 
@@ -1787,7 +1881,7 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/telecommunications" title="Communications" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Communications</a>
+                        <a href="/csp-technology-solutions" title="Communications" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Communications</a>
                     
                 
                 
@@ -1803,7 +1897,7 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/consumer-goods" title="Consumer Goods" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Consumer Goods</a>
+                        <a href="/consumer-goods-technology-solutions" title="Consumer Goods" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Consumer Goods</a>
                     
                 
                 
@@ -1819,7 +1913,7 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/education" title="Education" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Education</a>
+                        <a href="/education-technology-solutions" title="Education" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Education</a>
                     
                 
                 
@@ -1835,7 +1929,7 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/energy-utility" title="Energy &amp; Utilities" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Energy &amp; Utilities</a>
+                        <a href="/energy-utilities-technology-solutions" title="Energy &amp; Utilities" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Energy &amp; Utilities</a>
                     
                 
                 
@@ -1860,7 +1954,7 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/healthcare" title="Healthcare" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Healthcare</a>
+                        <a href="/healthcare-technology-solutions" title="Healthcare" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Healthcare</a>
                     
                 
             </li>
@@ -1870,7 +1964,7 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/business-information-services" title="Information Services" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Information Services</a>
+                        <a href="/information-systems-technology-solutions" title="Information Services" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Information Services</a>
                     
                 
             </li>
@@ -1880,7 +1974,7 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/insurance" title="Insurance" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Insurance</a>
+                        <a href="/insurance-technology-solutions" title="Insurance" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Insurance</a>
                     
                 
             </li>
@@ -1890,7 +1984,7 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/life-sciences" title="Life Sciences" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Life Sciences</a>
+                        <a href="/life-sciences-technology-solutions" title="Life Sciences" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Life Sciences</a>
                     
                 
             </li>
@@ -1900,7 +1994,7 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/manufacturing" title="Manufacturing" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Manufacturing</a>
+                        <a href="/manufacturing-technology-solutions" title="Manufacturing" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Manufacturing</a>
                     
                 
             </li>
@@ -1923,7 +2017,7 @@ console.log("PagePath",findPagePath);
                 
                     
                     
-                        <a href="/information-media-entertainment" title="Media &amp; Entertainment" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Media &amp; Entertainment</a>
+                        <a href="/media-entertainment-technology-solutions" title="Media &amp; Entertainment" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Media &amp; Entertainment</a>
                     
                 
             </li>
@@ -1933,7 +2027,7 @@ console.log("PagePath",findPagePath);
                 
                     
                     
-                        <a href="/retail" title="Retail" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Retail</a>
+                        <a href="/retail-technology-solutions" title="Retail" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Retail</a>
                     
                 
             </li>
@@ -1943,7 +2037,7 @@ console.log("PagePath",findPagePath);
                 
                     
                     
-                        <a href="/technology" title="Technology" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Technology</a>
+                        <a href="/technology-solutions" title="Technology" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Technology</a>
                     
                 
             </li>
@@ -1953,7 +2047,7 @@ console.log("PagePath",findPagePath);
                 
                     
                     
-                        <a href="/transportation-logistics" title="Transportation &amp; Logistics" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Transportation &amp; Logistics</a>
+                        <a href="/transportation-logistics-technology-solutions" title="Transportation &amp; Logistics" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Transportation &amp; Logistics</a>
                     
                 
             </li>
@@ -1963,7 +2057,7 @@ console.log("PagePath",findPagePath);
                 
                     
                     
-                        <a href="/travel-hospitality" title="Travel &amp; Hospitality" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Travel &amp; Hospitality</a>
+                        <a href="/travel-hospitality-technology-solutions" title="Travel &amp; Hospitality" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Travel &amp; Hospitality</a>
                     
                 
             </li>
@@ -2002,7 +2096,23 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/cognizant-digital-business/information-management-solutions" title="AI &amp; Analytics" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">AI &amp; Analytics</a>
+                        <a href="/cognizant-digital-business/applied-ai-analytics" title="AI &amp; Analytics" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">AI &amp; Analytics</a>
+                    
+                
+                
+                
+            </li>
+            
+            
+            
+            
+            
+            <li>	
+                
+                    
+                    
+                        
+                        <a href="/cognizant-digital-business/connected-products" title="Connected Products" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Connected Products</a>
                     
                 
                 
@@ -2034,7 +2144,7 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/cognizant-digital-business/digital-transformation-solutions" title="Digital Transformation" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Digital Transformation</a>
+                        <a href="/cognizant-digital-business/digital-strategy" title="Digital Strategy" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Digital Strategy</a>
                     
                 
                 
@@ -2050,39 +2160,7 @@ console.log("PagePath",findPagePath);
                     
                     
                         
-                        <a href="/cognizant-digital-business/design-thinking-solutions" title="Insight, Strategy &amp; Design" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Insight, Strategy &amp; Design</a>
-                    
-                
-                
-                
-            </li>
-            
-            
-            
-            
-            
-            <li>	
-                
-                    
-                    
-                        
-                        <a href="/cognizant-digital-business/enterprise-iot-solutions" title="Intelligent Products &amp; Solutions" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Intelligent Products &amp; Solutions</a>
-                    
-                
-                
-                
-            </li>
-            
-            
-            
-            
-            
-            <li>	
-                
-                    
-                    
-                        
-                        <a href="/cognizant-digital-business/interactive-content-solutions" title="Interactive" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Interactive</a>
+                        <a href="/cognizant-digital-business/interactive-services" title="Interactive" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Interactive</a>
                     
                 
                 
@@ -2107,7 +2185,7 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/cognizant-digital-operations/bpaas-platforms" title="BPaaS Platforms" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">BPaaS Platforms</a>
+                        <a href="/cognizant-digital-operations/enterprise-services" title="Enterprise Services" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Enterprise Services</a>
                     
                 
             </li>
@@ -2117,7 +2195,7 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/cognizant-digital-operations/business-process-services" title="Industry Solutions" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Industry Solutions</a>
+                        <a href="/cognizant-digital-operations/industry-platform-solutions" title="Industry &amp; Platform Solutions" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Industry &amp; Platform Solutions</a>
                     
                 
             </li>
@@ -2128,26 +2206,6 @@ console.log("PagePath",findPagePath);
                      
                     
                         <a href="/cognizant-digital-operations/intelligent-process-automation" title="Intelligent Process Automation" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Intelligent Process Automation</a>
-                    
-                
-            </li>
-            
-            
-            <li>
-                
-                     
-                    
-                        <a href="/cognizant-digital-operations/enterprise-business-analytics" title="Operational Analytics" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Operational Analytics</a>
-                    
-                
-            </li>
-            
-            
-            <li>
-                
-                     
-                    
-                        <a href="/cognizant-digital-operations/process-reengineering" title="Process Reimagine" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Process Reimagine</a>
                     
                 
             </li>
@@ -2181,6 +2239,16 @@ console.log("PagePath",findPagePath);
                 
                     
                     
+                        <a href="/cognizant-digital-systems-technology/cloud-enablement-services" title="Cloud Enablement" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Cloud Enablement</a>
+                    
+                
+            </li>
+            
+            
+            <li>
+                
+                    
+                    
                         <a href="/cognizant-digital-systems-technology/infrastructure-services" title="Cognizant Infrastructure Services" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Cognizant Infrastructure Services</a>
                     
                 
@@ -2192,6 +2260,26 @@ console.log("PagePath",findPagePath);
                     
                     
                         <a href="/cognizant-digital-systems-technology/cybersecurity-services" title="Cognizant Security " onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Cognizant Security </a>
+                    
+                
+            </li>
+            
+            
+            <li>
+                
+                    
+                    
+                        <a href="/cognizant-digital-systems-technology/core-application-modernization" title="Core Modernization" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Core Modernization</a>
+                    
+                
+            </li>
+            
+            
+            <li>
+                
+                    
+                    
+                        <a href="/cognizant-digital-business/digital-engineering-services" title="Digital Engineering" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Digital Engineering</a>
                     
                 
             </li>
@@ -2362,7 +2450,17 @@ console.log("PagePath",findPagePath);
                 
                      
                     
-                        <a href="/blockchain" title="Blockchain" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Blockchain</a>
+                        <a href="/enterprise-blockchain-solutions" title="Blockchain Solutions" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Blockchain Solutions</a>
+                    
+                
+            </li>
+            
+            
+            <li>
+                
+                     
+                    
+                        <a href="/blockchain-adoption-primary-research" title="Blockchain Primary Research" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Blockchain Primary Research</a>
                     
                 
             </li>
@@ -2373,6 +2471,16 @@ console.log("PagePath",findPagePath);
                      
                     
                         <a href="/artificial-intelligence" title="Artificial Intelligence" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Artificial Intelligence</a>
+                    
+                
+            </li>
+            
+            
+            <li>
+                
+                     
+                    
+                        <a href="/artificial-intelligence-adoption-for-business" title="AI Primary Research" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">AI Primary Research</a>
                     
                 
             </li>
@@ -2414,9 +2522,10 @@ console.log("PagePath",findPagePath);
     <div>
         <ul>
             
-            
-                <li class="subhead"><p>Center for the Future of Work</p>
+                <li class="subhead">
+                    <a href="https://www.cognizant.com/futureofwork" title="Center for the Future of Work" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Center for the Future of Work</a>
                 </li>
+            
             
             
             
@@ -2477,7 +2586,12 @@ console.log("PagePath",findPagePath);
             </div>
             <div class="explrmeetw" data-attribute="whiteFooterMenuTwoTagInternal">
                 
+                    
+                
                     <span class="desktop"><a href="javascript:void(0);" class="scroll-top"><span class="txt">BACK TO TOP</span></a></span>
+                
+
+                    
                 
                 <div>
                     <div>
@@ -2507,6 +2621,17 @@ console.log("PagePath",findPagePath);
         
      <ul>
 	 
+         
+         
+                
+                
+             
+                
+           <li>	<a href="https://be.cognizant.com" title="Be.Cognizant" onclick="dataLayer.push({'event':'clickTrack','eventCategory':'Footer','eventAction':document.location.href,'eventLabel':'vlink ='+this.href+'+from='+document.referrer});">Be.Cognizant</a></li>
+                     
+            
+
+           
          
          
                 
@@ -2731,7 +2856,7 @@ console.log("PagePath",findPagePath);
             </div>
             <div class="hex-link">
                 <div id="teconsent">
-                    <script src="//consent.truste.com/notice?domain=cognizant.com&amp;c=teconsent&amp;js=bb&amp;noticeType=bb&amp;cookieLink=https://www.cognizant.com/cookiepolicy"></script>
+                    <!-- <script src=//consent.truste.com/notice?domain=cognizant.com&c=teconsent&js=bb&noticeType=bb&cookieLink=https://www.cognizant.com/cookiepolicy&gtm=1></script> -->
                 </div>
             </div>
         </div>
@@ -2745,8 +2870,8 @@ console.log("PagePath",findPagePath);
 
         <input type="hidden" id="articlesSaved" value="">
     </div>
-    
-    
+
+
     
         <script>
             $(document).ready(function() {
@@ -2763,7 +2888,7 @@ console.log("PagePath",findPagePath);
                     }
                 }
             });
-            
+
         </script>
         <!--<script type="text/javascript" src="/etc/clientlibs/common/multicomposite.js"></script>-->
         
@@ -2788,8 +2913,9 @@ console.log("PagePath",findPagePath);
         
         
         
+        
+		
         		
-        		
         
         
         
@@ -2799,7 +2925,7 @@ console.log("PagePath",findPagePath);
         
         
         
-            <script type="text/javascript" src="/etc/designs/cognizant_dotcom/about_cognizant_clientlibs.min.6a5a3cd69a44a51403288c65d04a77b9.js"></script>
+            <script type="text/javascript" src="/etc/designs/cognizant_dotcom/about_cognizant_clientlibs.min.763bfc154c947d209844e014321306ba.js"></script>
 
         
         
