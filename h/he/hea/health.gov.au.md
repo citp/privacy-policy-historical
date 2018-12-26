@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625050054id_/http%3A//www.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226151933id_/http%3A//www.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Department of Health | Privacy and personal information
 
@@ -13,6 +13,22 @@ The Department’s APP privacy policy (required by APP 1.3) can be accessed at [
 ## Australian Information Commissioner
 
 The Australian Information Commissioner is the statutory office-holder responsible for the regulation of privacy laws in Australia in accordance with the _Privacy Act 1988_. [The Office of the Australian Information Commissioner’s website](http://www.oaic.gov.au/). That website contains more information about the _Privacy Act 1988_ and includes Australian privacy principles guidelines.
+
+## Privacy Impact Assessments
+
+The [Privacy (Australian Government Agencies – Governance) APP Code 2017 (Cth)](https://www.oaic.gov.au/privacy-law/privacy-registers/privacy-codes/privacy-australian-government-agencies-governance-app-code-2017) (the APP Code) requires that all agencies, including the Department of Health, must conduct a Privacy Impact Assessment (PIA) for all high privacy risk projects. A register of these PIAs is maintained by the Department, and the table below will be updated with PIAs completed since the Code came into effect on 1 July 2018.
+
+Date of Completion| Title of PIA  
+---|---  
+  
+2018
+
+| 
+
+Nil  
+  
+  
+
 
 ## Your email address
 
