@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zaxbys.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626155222id_/https%3A//www.zaxbys.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zaxbys.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226235801id_/https%3A//www.zaxbys.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" wf-loading"><head>
     <meta charset="utf-8">
@@ -30,16 +30,20 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Serif+Pro:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css">
-    <link href="/Static/css/global-style.min.css?v=20180625" rel="stylesheet" media="all">
-    <link href="/Static/css/menu.min.css?v=20180625" rel="stylesheet" media="all">
-    <link href="/Static/css/history.min.css?v=20180625" rel="stylesheet" media="all">
+    <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
+    <link href="/Static/css/global-style.css?v=20181226" rel="stylesheet" media="all">
+    <link href="/Static/css/menu.min.css?v=20181226" rel="stylesheet" media="all">
+    <link href="/Static/css/history.min.css?v=20181226" rel="stylesheet" media="all">
     <!-- CDF: No CSS dependencies were declared //-->
-    <link href="/Static/css/ordering.css?v=20180625" rel="stylesheet" media="all">
+    <link href="/Static/css/ordering.css?v=20181226" rel="stylesheet" media="all">
     
 <link href="/Static/css/history.min.css" rel="stylesheet" media="all">
 
     <noscript>
         <style type="text/css">
+
+
+
 
 
 
@@ -75,9 +79,10 @@
     </script>
     <script src="/Static/Script/jquery.min.js"></script>
     <script src="https://code.jquery.com/ui/1.10.2/jquery-ui.min.js"></script>
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
-<body class="not-logged-in has-promo">
+<body class="not-logged-in fade-out">
     <img style="display:none" src="https://t.visto1.net/e?adv=9581&amp;ca=0&amp;acc=459&amp;tag=U5535">
     
     <!-- Google Tag Manager Events -->
@@ -101,15 +106,13 @@ new Date().getTime(), event: 'gtm.js'
 j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
 '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
 })(window, document, 'script', 'dataLayer', 'GTM-NKCMCX');</script>
-<!-- End Google Tag Manager -->
-    
+<!-- End Google Tag Manager -->    
     <input type="hidden" id="gauserid" value="">
         <input type="hidden" id="gastoreid" value="999999">
     <!-- Google Tag Manager Events  END -->
     <div class="container-fluid">
 
 <!-- ==== Scripts and CSS links ==== -->
-
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCzh_TZZJrkbbuoQgNecKlGuYb1svEFy3g&amp;libraries=places" type="text/javascript"></script>
 <div id="dialog" title="Basic dialog"></div>
@@ -130,6 +133,30 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal" title="Don`t Accept Geo Location">Ok</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ==== Reorder Location Popup ==== -->
+<div id="reorderLocation" class="modal fade">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="geo-location">
+                <div class="modal-body">
+                    <p>
+                        This order was originally placed at another store.
+                    </p>
+                    <p id="reoderModalAddress" style="white-space: pre-line; padding-top:5px;"></p>
+                </div>
+                <div class="modal-footer">
+                    <p>
+                        To reorder, you will need to set the location above as your selected store.
+                    </p>
+                    <div>
+                        <a class="btn btn-secondary" id="cancelReorder">Cancel</a>
+                        <a class="btn btn-primary" id="proceedReorder">Select &amp; Add to Cart</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -200,90 +227,98 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         <button id="stateCity" class="btn btn-primary find" onclick="Zaxbys.Search.Find(searchResultsTerm.value)">find</button>
     </div>
 </div>
+
+
 <!-- ==== zaxby`s Navigation start here ==== -->
 <header>
-    <section class="ctn-wrp main-wrp">
-        <div class="row">
-            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 nopadding logo ">
-                <a href="/" title="Zaxbys Home">
-                </a>
-            </div>
-            <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12 nopadding" id="navBar">
-                <nav role="navigation" class="navbar">
-                    <div class="container-fluid">
-                        <!-- Brand and toggle get grouped for better mobile display -->
-                        <div class="navbar-header">
-                            <button type="button" data-target="#navbarCollapse" data-toggle="collapse-side" class="navbar-toggle" id="navbarToggle">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="navicon"></span>
-                            </button>
-                                <div class="cart-icon show-cart cart-mobile" data-url="/umbraco/Surface/Cart/Show" style="display: none;">
-                                    <span class=""><img src="/Static/Images/global/cart_icon.svg" width="27"></span>
-                                    <p class="cart-item-count cart-empty"></p>
-                                </div>
-                        </div>
-                        <!-- Collection of nav links and other content for toggling -->
-                        <div id="navbarCollapse" class="navbar-collapse">
-                            <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">find</button>
-                            <ul id="ulnavId" class="nav navbar-nav main-nav">
-                                <li class="">
-                                    <a style="white-space: nowrap" href="/menu/" title="Menu">MENU</a>
-                                </li>
-                                <li class="">
-                                    <a style="white-space: nowrap" href="/locations/" title="Locations">LOCATIONS</a>
-                                </li>
-                                <li class="">
-                                    <a style="white-space: nowrap" href="/catering/" title="Catering">CATERING</a>
-                                </li>
-                                <li class="last-nav-item">
-                                    <a style="white-space: nowrap" href="" title="Menu" id="more">MORE</a>
-                                </li>
-                            </ul>
-                            <div class="bottom-nav-links mobile-bottom-nav">
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <a href="/about/" title="Order Now">About</a>
-                                    </li>
-                                    <li><a href="http://www.zaxbysfranchising.com/" title="Franchising" target="_blank">Franchising</a></li>
-                                    <li><a href="/join-the-team/" title="Join the Team" target="_blank">Join the Team</a></li>
-                                    <li><a href="/gift-cards/" title="Gift Cards" target="_blank">Gift Cards</a></li>
-                                    <li><a href="/contact-us/" title="Contact Us" target="_blank">Contact Us</a></li>
-                                </ul>
-                            </div>
-                            <div id="subnavId" class="sub-nav">
-                                <input type="hidden" id="tillsterId">
-                                <!-- User Name  / Email for GA Tracking-->
-                                <div id="findYourStore" class="">
-                                    <a href="" onclick="Zaxbys.LocationPopup()" data-toggle="modal" title="Find Your Store"><span class="fa fa-map-marker your-location"></span> Select your store</a>
-                                </div>
-                                <div class="store-locater hidden" id="locaHide">
-                                    <a href="#" onclick="Zaxbys.GoToYourStore();return false;" title="Your Store" class="your-store"><span class="fa fa-map-marker your-location"></span> YOUR STORE &nbsp;&nbsp;&nbsp;<span id="getLocation"></span></a>
+        <script>$(document).ready(function () { $('body').removeClass('has-promo'); });</script>
 
+
+    <div class="header-content">
+        <section class="ctn-wrp main-wrp">
+            <div class="row">
+                <div class="logo ">
+                    <a href="/" title="Zaxbys Home">
+                        <img src="/Static/Images/global/logo.svg">
+                    </a>
+                </div>
+                <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12 nopadding" id="navBar">
+                    <nav role="navigation" class="navbar">
+                        <div class="container-fluid">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header">
+                                <button type="button" data-target="#navbarCollapse" data-toggle="collapse-side" class="navbar-toggle" id="navbarToggle">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="navicon"></span>
+                                </button>
+                                    <div class="cart-icon show-cart cart-mobile" data-url="/umbraco/Surface/Cart/Show" style="display: none;">
+                                        <span class=""><img src="/Static/Images/global/cart_icon.svg" width="27"></span>
+                                        <p class="cart-item-count cart-empty"></p>
+                                    </div>
+                            </div>
+                            <!-- Collection of nav links and other content for toggling -->
+                            <div id="navbarCollapse" class="navbar-collapse">
+                                <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">find</button>
+                                <ul id="ulnavId" class="nav navbar-nav main-nav">
+                                    <li class="">
+                                        <a style="white-space: nowrap" href="/menu/" title="Menu">MENU</a>
+                                    </li>
+                                    <li class="">
+                                        <a style="white-space: nowrap" href="/locations/" title="Locations">LOCATIONS</a>
+                                    </li>
+                                    <li class="">
+                                        <a style="white-space: nowrap" href="/catering/" title="Catering">CATERING</a>
+                                    </li>
+                                    <li class="last-nav-item">
+                                        <a style="white-space: nowrap" href="" title="Menu" id="more">MORE</a>
+                                    </li>
+                                </ul>
+                                <div class="bottom-nav-links mobile-bottom-nav">
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <a href="/about/" title="Order Now">About</a>
+                                        </li>
+                                        <li><a href="http://www.zaxbysfranchising.com/" title="Franchising" target="_blank">Franchising</a></li>
+                                        <li><a href="/join-the-team/" title="Join the Team" target="_blank">Join the Team</a></li>
+                                        <li><a href="/gift-cards/" title="Gift Cards" target="_blank">Gift Cards</a></li>
+                                        <li><a href="/contact-us/" title="Contact Us" target="_blank">Contact Us</a></li>
+                                    </ul>
                                 </div>
-                                <div class="user-info user-info-wrapper">
-                                    <div class="user-info  user-left">
-                                        <a href="#" title="Login" class="login inactive">LOG IN</a>
-                                        <a href="#" title="Logout" class="logout active hidden">SIGN OUT</a>
+                                <div id="subnavId" class="sub-nav">
+                                    <input type="hidden" id="tillsterId">
+                                    <!-- User Name  / Email for GA Tracking-->
+                                    <div id="findYourStore" class="">
+                                        <a href="" onclick="Zaxbys.LocationPopup()" data-toggle="modal" title="Find Your Store"><span class="fa fa-map-marker your-location"></span> Select your store</a>
                                     </div>
-                                    <div class="user-info user-right" style="margin: 10px 60px 0px 5px;">
-                                        <a href="/account/order-history/" class="logged-in active hidden">Hello, <span class="display-name"></span></a>
-                                        <a href="#" title="Sign up" class="signup inactive">SIGN UP</a>
+                                    <div class="store-locater hidden" id="locaHide">
+                                        <a href="#" onclick="Zaxbys.GoToYourStore();return false;" title="Your Store" class="your-store"><span class="fa fa-map-marker your-location"></span> YOUR STORE &nbsp;&nbsp;&nbsp;<span id="getLocation"></span></a>
+                                        <a href="" onclick="Zaxbys.LocationPopup()" data-toggle="modal" class="change-store">Change</a>
                                     </div>
-                                        <div class="cart-icon show-cart cart-desktop" data-url="/umbraco/Surface/Cart/Show" style="display: none;">
-                                            <span class=""><img src="/Static/Images/global/cart_icon.svg" width="27"></span>
-                                            <p class="cart-item-count cart-empty"></p>
+                                    <div class="user-info user-info-wrapper">
+                                        <div class="user-info  user-left">
+                                            <a href="#" title="Login" class="login inactive">LOG IN</a>
+                                            <a href="#" title="Logout" class="logout active hidden">SIGN OUT</a>
                                         </div>
+                                        <div class="user-info user-right" style="margin: 10px 60px 0px 5px;">
+                                            <a href="/account/order-history/" class="logged-in active hidden">Hello, <span class="display-name"></span></a>
+                                            <a href="#" title="Sign up" class="signup inactive">SIGN UP</a>
+                                        </div>
+                                            <div class="cart-icon show-cart cart-desktop" data-url="/umbraco/Surface/Cart/Show" style="display: none;">
+                                                <span class=""><img src="/Static/Images/global/cart_icon.svg" width="27"></span>
+                                                <p class="cart-item-count cart-empty"></p>
+                                            </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </nav>
+                    </nav>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
+    </div>
 </header>
 <!-- ==== Scripts ====-->
-    <script type="text/javascript" src="/Static/Script/JqueryHome.min.js?v=20180625"></script>
+    <script type="text/javascript" src="/Static/Script/JqueryHome.min.js?v=20181226"></script>
 <!--Login Modal -->
 <div class="modal fade" id="login-dialog" tabindex="-1" role="dialog" aria-labelledby="login-form-label" aria-hidden="true">
     <div class="modal-dialog" role="document">
@@ -307,7 +342,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                     <p>Check your email for instructions on how to reset your password.</p>
                     <br>
                 </form>
-                <p class="modal-no-match">Your email and password do not match. We’ve made some improvements! If you ordered from us before 6/7/2018, you’ll need to <span class="sign-instead">sign up</span> for a new account.</p>
+                <p class="modal-no-match">Sorry, we didn't recognize the username or password you entered. Please try again or <span class="sign-instead">sign up</span> if you don't have an account.</p>
             </div>
             <div class="modal-footer login-hide">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
@@ -316,7 +351,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                     <input type="checkbox" name="remember-me" class="checkbox" id="remember-me"><label for="remember-me">Remember me</label>
                 </div>
                 <a href="" title="Forgot My Password" class="forgot-my-password">Forgot my password</a>
-                <p class="login-note">We’ve made some improvements! If you ordered from us before 6/7/2018, you’ll need to <span class="sign-instead">sign up</span> for a new account.</p>
+
             </div>
             <div class="modal-footer reset-email">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
@@ -351,6 +386,8 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 </button>
             </div>
             <div class="modal-body">
+
+                <p id="promotional-text">Create a Zaxby's account to get exclusive indescribable goods like promos, deals and online ordering.</p>
                 <form class="signup-form" id="header-signup">
                     <fieldset>
                         <label for="firstname">First Name*</label>
@@ -398,6 +435,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 </form>
                 <p class="pass-hint">*Required.</p>
                 <p class="pass-hint">**Password should contain at least 8 characters including one upper case letter and one number. No special characters.</p>
+                <p id="signup-error"></p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
@@ -444,7 +482,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             </div>
             <div class="modal-body">
                 <p class="text-left">Changing your location will clear your cart!</p>
-               
+
             </div>
             <div class="modal-footer">
                 <button id="dismiss-warning" type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
@@ -453,7 +491,8 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         </div>
     </div>
 </div>
-        <div id="bodyholder">
+
+<!-- Promotional Signup Modal-->        <div id="bodyholder">
             
 <div class="container-fluid redborder">
     <!-- ==== Global Title section ==== -->
@@ -626,6 +665,15 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             </div>
         </div>
     </section>
+    <section class="app-promo">
+        <div class="container">
+            <h1>DOWNLOAD OUR NEW <span class="no-wrap">ZAXBY'S APP</span></h1>
+            <div class="app-links-container">
+                <a href="https://itunes.apple.com/us/app/zaxbys/id480603264?mt=8" class="app-link" target="_blank"><img src="/Static/Images/global/app_store.png" alt="Download our app in the Apple Store"></a>
+                <a href="https://play.google.com/store/apps/details?id=com.snapfinger.mobile.zaxbys&amp;hl=en_US" class="app-link" target="_blank"><img src="/Static/Images/global/google_play.png" alt="Download our app in the Google Play Store"></a>
+            </div>
+        </div>
+    </section>
     <section class="footer-node">
         <div class="container">
             <ul class="footernode-links">
@@ -669,6 +717,16 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             <div class="modal-body"></div>
         </div>
     </div>
+    
+    <div class="customize-button-wrapper container" id="customize-button-wrapper">
+        <div class="button-wrap-max">
+            <div class="inner-button-wrapper">
+                <button type="button" class="button-secondary" id="fakeCancel">Cancel</button>
+                <button type="button" class="button-primary" id="fakeAddToOrder">Add to Order</button>
+            </div>
+        </div>       
+    </div>
+
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="/Static/Script/slick.min.js"></script>
     <script src="/Static/css/bootstrap/dist/js/bootstrap.min.js"></script>
@@ -736,7 +794,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             }
         }
         ft_onetag_4304.ot_init();
-    </script><iframe style="position:fixed; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/1840;36823;4304;iframe/?ft_referrer=https%3A//web.archive.org/web/20180626155222id_/https%3A//www.zaxbys.com/privacy-policy/&amp;ns=&amp;cb=957123.34559073"></iframe>
+    </script><iframe style="position:fixed; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/1840;36823;4304;iframe/?ft_referrer=https%3A//web.archive.org/web/20181226235801id_/https%3A//www.zaxbys.com/privacy-policy/&amp;ns=&amp;cb=525244.7770317534"></iframe>
     <script src="/Static/Script/slick.min.js"></script>
         <script type="text/javascript" src="/Static/Script/Zaxbys.min.js"></script>
     <script>
@@ -747,8 +805,8 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         }, 500);
         Zaxbys.ShowMyLocation();
     </script>
-    <script src="/Static/Script/jquery.query-object.js?v=20180625"></script>
-    <script src="/Static/Script/Ordering.js?v=20180625"></script>
+    <script src="/Static/Script/jquery.query-object.js?v=20181226"></script>
+    <script src="/Static/Script/Ordering.js?v=20181226"></script>
     
     <!--
 
