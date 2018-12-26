@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610055944id_/http%3A//www.wabcradio.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083047id_/http%3A//www.wabcradio.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WABC-AM | Cumulus
 
