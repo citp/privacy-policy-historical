@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-gadgeteer.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626074727id_/https%3A//the-gadgeteer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-gadgeteer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226113416id_/https%3A//the-gadgeteer.com/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy - The Gadgeteer
+# Privacy and Cookie Policy – The Gadgeteer
 
 _**Last updated May 01, 2018**_
 
@@ -8,7 +8,7 @@ The Gadgeteer (“we” or “us” or “our”) respects the privacy of our us
 explains how we collect, use, disclose, and safeguard your information when you visit our website [https://thegadgeteer.](https://thegadgeteer.com/)  
 com including any other media form, media channel, mobile website, or mobile application related or  
 connected thereto (collectively, the “Site”). Please read this Privacy Policy carefully. **IF YOU DO NOT AGREE**  
- **WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE**.
+**WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE**.
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you  
 about any changes by updating the “Revised” date of this Privacy Policy. Any changes or modifications will be  
