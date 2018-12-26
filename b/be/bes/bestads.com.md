@@ -1,83 +1,154 @@
-> *The following text is extracted and transformed from the bestads.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225160954id_/http%3A//www.bestads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestads.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025708id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy) for the most accurate reproduction.*
 
-# BestAds.com Classifieds - Privacy Statement
+# Protecting your Privacy
 
-[](http://www.bestads.com/) |   |   
----|---|---  
-  
-**Privacy Statement**
+Effective Date: 01/15/2016  
+Posting Date: 01/15/2016
 
-At BestAds.com, we value your privacy and follow strict guidelines with regards to your personal information.  This statement disclosed the privacy practices of the BestAds.com Web site.  Please read this Privacy Statement to understand how your personally identifiable information will be handled as you use BestAds.com.  If you have any questions regarding this privacy policy, please contact us by email at [privacy@bestads.com](mailto:privacy@bestads.com).
+Protecting your privacy and the personal information you provide us is a top priority at Sedo.com LLC (“Sedo”). For this reason, Sedo does not sell or rent your personal information to third parties without your explicit consent or in way other than as outlined in this privacy policy.  At Sedo, we want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. 
 
-Your privacy is important to us.  At no time has BestAds.com ever sold, traded, or otherwise disseminated our users personally identifiable information.  We have made a commitment to be a trustworthy classified service and will hold your private information in the strictest confidence.
+Please read this Privacy Policy to learn more about the policies and procedures Sedo has put in place to achieve this goal.  In addition, Sedo wants our users to feel comfortable that we take all necessary steps to protect personal information. For this reason, we have created a webpage where users can learn how to report a [Privacy Complaint](https://web.archive.org/us/about-us/policies/privacy-complaints/ "Privacy Complaints"). 
 
-**Who we are.**
+If you have questions or complaints regarding our privacy policy or practices, please contact us at Sedo's Legal Department by emailing  [privacy@sedo.com](mailto:privacy@sedo.com "Email us at privacy@sedo.com"), calling 617-499-7200, or writing Sedo.com, LLC, 161 First Street, Fourth Floor, Cambridge, MA 02142. 
 
-BestAds.com is a worldwide classified marketplace which has been bringing together buyers and sellers since 1996.  A division of American Internet Classifieds, BestAds.com is dedicated to providing the best classified advertising service on the internet.
+Sedo.com LLC complies with the U.S. – E.U. Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries.
 
-**What information of yours is collected.**
+Sedo.com LLC has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Privacy Shield program, and to view Sedo.com LLC’s certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/ "Privacy Shield program")
 
-As with most websites, BestAds collects personal information from people who visit our website. This information may include a user's name, email address, phone numbers, credit card information and information about how the user accesses and uses the BestAds website. NO IDENTIFYING INFORMATION IS COLLECTED WITHOUT A USER'S KNOWLEDGE AND CONSENT. ****
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request.>
 
-Some of our services will require users to enter personal and contact information. The information we gather will not be used by the public, other members of BestAds, or anyone not employed by BestAds or the financial institutions we use to process payments to identify a specific individual. 
+[](http://privacy.truste.com/privacy-seal/validation?rid=fad2d4a5-2105-486c-8537-e8ceb33ec90b)
 
-During the account registration process, users are asked for specific information such as, but not limited to city, state, country, zip code, area code, phone number (not required) and additional information (not required).  This information is published in the users classified advertisement(s) in order for BestAds to list classifieds by geographic location and also for contact purposes.  In addition, the ad submission form requires users to submit a Ad Headline, Summary, and a Detailed Description as well as other information.  All information provided on the ad submission form is included in the classified ad.
+## Overview 
 
-_**NOTE:**_   Your email address is collected during the Account Registration process so that other site visitors may contact you.  It is important to note, however, that your email address is not published online.  Rather users send an online contact form to you using our “anonymous email” function.  In other words, site visitors can contact you via email without ever seeing your email address.  The only way a site visitor can see your email address is if you type it in the ad submission form (in either the Ad Headline, Summary, or Detailed Description spaces).
+The privacy practices of this policy apply to the services provided by Sedo available under the domain and subdomains of www.sedo.com (the "Site") and apply generally to our affiliates. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy.  If you do not agree please do not use or access our site. 
 
-**What we do with your information.**
+This Privacy Policy describes the information we collect from you and what may happen to that information as part of the normal operation of our services. Sedo strives to provide a consistent set of privacy practices across an international community, and as such, all of our affiliates operate under similar privacy practices as described in this Privacy Policy, subject to the requirements of applicable law. 
 
-BestAds will not sell, rent, share, trade, or otherwise give away any Personally Identifiable Information without a user’s permission, unless required by law or to protect members of BestAds.
+By accepting the Privacy Policy and the User Agreement at the point of registration, you expressly consent to Sedo's use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Sedo User Agreement.
 
-**What are Personally Identifiable Information and Aggregate Information?**
+## Information from Children 
 
-Personally Identifiable Information is any information that allows others to contact a user directly or allows the collection of information about a user other than what is displayed on the site.  For example, Personally Identifiable Information includes, but is not limited to, an e-mail address, IP address, first name, last name, credit card number, and a mailing or billing address. If a user voluntarily shares all or part of their Personally Identifiable Information with others, BestAds  is no longer responsible for its confidentiality and/or use. 
+If you are under the age of 18, you may only use this site in conjunction with and under the supervision of your parents or guardians, and with express permission from Sedo. For this reason, we ask that children do not submit any personal information to Sedo. 
 
-For example, when you purchase a commercial advertisement on BestAds, you have to use a credit card. To obtain authorization for the charge, you will need to provide your billing information. BestAds will be using secure servers to forward your purchase and credit card information to your credit card company.  The credit card information is not stored in any way on BestAds servers. However, this information may reside on the credit card companies' servers, and then, their security and privacy policies are effective and BestAds cannot and does not assume any liability. If you do not want your Personally Identifiable information transferred, you must simply choose to not use the service.
+## Information We Collect
 
-Aggregate Information is personal information that cannot be linked to the user individually.   Aggregate Information includes, but is not limited to, gender, age, ethnic background, and appearance, and is information that you volunteer. This information may be used for demographic purposes about visitors to the site, but cannot be used to identify a specific user by name, address, etc.
+Sedo only collects personal information about users that we consider necessary for providing our services in an efficient, customized, and user-friendly manner, including your name, address, phone number and email address. 
 
-For example, when a user placing an ad registers at BestAds, the registration form will request, among other things, city, state and zip code information.  When the ad is placed, the geographic information will be shown.  Site visitors will have access to that information but will not be able to directly identify or contact the advertiser strictly on that information.   
+## Our Use of Your Information
 
-For example, if a user registers at BestAds and provides city and state information, an employer would have access to that information, but would still not be able to identify or contact the user directly.
+In general, you can browse a large portion of the site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on the forms throughout the site. You always have the option not to provide information by choosing not to use a particular service or feature. 
 
-All Personally Identifiable information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of BestAds. 
+We provide you the opportunity to opt-out of having your personal information used for certain purposes when we ask for this information. For example, if you register for a user account but do not wish to receive any additional marketing material from us you can indicate your preference on the registration form. If you no longer wish to receive our newsletter and promotional communications you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [contact@sedo.com](mailto:contact@sedo.com "contact@sedo.com"). In addition, we offer an opportunity to opt-out of receiving our newsletter on your account data page, or you may call us at (617) 499-7280. 
 
-BestAds now provides “anonymous email.”  In other words, when users submit a classified ad, their published ad will provide a contact form which visitors can fill out and send online to the advertiser.  The contact form is sent to the email address which is provided by the advertiser during the account registration process.  The advertiser’s email address is not displayed online, except when the advertiser also submits the email address in either the Ad Headline, Summary, or Detailed Description portion of the advertisement.
+You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party. 
 
-If a user voluntarily shares all or part of their Personally Identifiable Information with others, BestAds is no longer responsible for its confidentiality and/or use.  Users should know that any information submitted during the account registration process, except email address, is published online when the user submits a classified ad. 
+Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, a credit card number and expiration date, and tracking information from checks or money orders. 
 
-Registered users can access their personal information, except credit card information, at any time by using a user ID and password.  Registered users can update or change their information at anytime by logging in at [http://BestAds.com/AccountEdit.cfm](http://bestads.com/AccountEdit.cfm) . 
+We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address. 
 
-If a user voluntarily shares all or part of their Personally Identifiable Information with others, BestAds is no longer responsible for its confidentiality and/or use. 
+Technologies such as cookies, beacons, scripts and tags are used by Sedo.com LLC and our third party advertising company. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Various browsers may offer their own management tools for removing these types of tracking technologies.
 
-**Cookies**
+We use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here:  
+[www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-A "cookie" is a small data file that is stored on a computer and is intended to enhance a user's visit and its gathered for all visitors to the site. 
+In addition, the use of clear gifs in our HTML-based emails let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please email us at [contact@sedo.com.](mailto:contact@sedo.com)
 
-If a user chooses to accept a cookie from BestAds, we will be able to "remember" the user as he/she browses our site.   This prevents the user from having to log-in each time the user selects different functions on the site.  For your security purposes, however, the cookies expire after 15 minutes during a visit to our site.  Cookies, by themselves, cannot be used to identify a user.  Once a cookie is accepted, BestAds can streamline the login process to the site and provide the user with relevant updates for information they have selected. Session information is only gathered while a user is browsing www.bestads.com. Cookies can be turned off through security options on a web browser. However, certain BestAds features will not function without their use.
+We use data collection devices such as "cookies" on certain pages of the site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We may offer certain features that are only available through the use of a "cookie." We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information targeted to your interests. Personal information you have submitted while on our site is linked with information gathered from our use of cookies in the form of log files. 
 
-**Hyperlinks**
+This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
 
-BestAds contains links to other websites as well as to other pages within the BestAds site. Please be aware that once a user clicks on a non-BestAds link, they are moving to another website, and our privacy policy no longer applies and the privacy policy from those other websites is the one defining the collection and usage of information.
+Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the site and you may be required to re-enter your password or provide other information more frequently during a session. 
 
-**Email correspondence**
+We use Google AdSense to publish ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
-E-mail addresses will only be used in private correspondence with the user for customer service issues unless further permission is granted. BestAds is an "opt-in" service, which means that a user may elect to receive communications, including correspondence updates and promotions. Otherwise, we will not contact our users. Should a user receive unwanted communications, they may
+If you choose to make bids, buy or sell through the site, we may collect information about your bidding, buying and selling behavior and transactions. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you. 
 
-remove their address from our contact list by sending an email to webmaster@bestads.com with the word "unsubscribe" in the subject of the message. It is not necessary to include any information in the body of your message.
+We use your information and other information we obtain from your current and past activities on the site to resolve disputes, troubleshoot problems, collect fees owed, pay amounts due you, verify your account data, measure user interest in Sedo's products and services, inform you about online and offline offers, products, services, and updates, customize your experience, detect and protect us against error, fraud and other criminal activity, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and we may examine your information to identify users using multiple Login Names. 
 
-**Third Party Ad Server**
+We may compare and review your information for errors, omissions and for accuracy. You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. By accepting this Agreement, you expressly agree to receive this information.
 
-BestAds receives third party display advertisements from Burst Media.  To find out more about how Burst Media manages theprivacy of information in conjunction with serving ads on this site, please go to [http://www.burstmedia.com/release/privacy.asp](http://www.burstmedia.com/release/privacy.asp).
+## Our Disclosure of Your Information
 
-**Content Partners**
+We do not share, sell or rent any of your personal information to third parties without your explicit consent or in any way other than as outlined in this privacy policy. However, the following describes some of the ways that your personal information may be disclosed in the normal course of business as part of our services. 
 
-BestAds pursues partnerships with other companies to provide additional content.  We may provide these partners with aggregated demographic information, but we do share any Personally Identifiable Information unless permission is granted by the user.
+Advertisers. We aggregate (gather up data across numerous registered user accounts) personal information and disclose such information in a non-personal manner to advertisers and other third parties for their marketing and promotional purposes.  For such purposes, we do not disclose any information that could be used to identify Sedo users personally. 
 
-**Questions**
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/ "Opt out here") (or if located in the European Union, click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-BestAds welcomes your questions or comments regarding your privacy and/or this Privacy Statement.  Please direct your correspondence to [privacy@bestads.com](mailto:privacy@bestads.com). 
+Site. Although our pages may be coded with robot exclusion headers, others may illegally attempt to automatically collect your email address from the site. If you are involved in a transaction, we have features that may allow other users to view your email address and obtain your contact and other information to help complete the transaction. Further, we may send out notices to you or other users regarding suspicious activity or policy violations on the site. 
 
-Copyright © 1996-2006 BestAds.com. All rights reserved.    
-   [Terms Of Use](http://bestads.com/terms.html)
+Affiliates for Our Operations. We may use third parties ("affiliates") to facilitate or outsource one or more aspects of the services that we provide to you (e.g., domain name search technology, advertising provisions for parked domains, and other services) and therefore we may provide some of your information directly to these affiliates. These affiliates are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced service, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the affiliate may collect information directly from you. In these cases, you will be notified of the involvement of the affiliate, and all additional information you provide them and their additional uses will be up to you. It may be necessary to disclose your stored information, such as first and last name, company name, address, email and/or phone number, to relevant domain monetization advertising partners for the purpose of providing you such services. 
+
+Agents and Business Entities. We share much of our data, including personal information about you, with our affiliates, subsidiaries, and joint ventures that are committed to serving your online needs and providing related services throughout the world. We use an outside credit card processing company to bill you for goods and services. These companies do not retain, share, store, or use personal information for any other purposes. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our affiliates, subsidiaries, and joint ventures follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. 
+
+Sedo, its affiliates, subsidiaries, joint ventures, or any combination of such, will share some or all of your information with another business entity should we plan to merge with, or be acquired by, that business entity. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your information.  You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+Legal Requests. Sedo cooperates with law enforcement authorities, as well as with other third parties, to enforce laws, intellectual property rights, and to prevent fraud. In response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can, and you authorize us to, disclose your name, city, state, telephone number, email address, login name history, fraud complaints, and site use history, with or without a subpoena. Without limiting the above, we will not disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to protect our rights or to prevent imminent physical harm, financial loss or to report suspected past, present, or future illegal activity. Further, we can, and you authorize us to, disclose to a third party your information, including your name, street address, city, state, zip code, country, phone number, email, and company name, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.
+
+## Use of Other Users' Information
+
+In order to facilitate interaction among site users, our site may allow you limited access to other users' information. By entering into our User Agreement, you agree that, with respect to other users' personal information that you obtain through the site or through a communication or transaction facilitated by Sedo.  Sedo hereby grants to you a limited, non-transferable, revocable license to use such information only for: (a) Sedo-related communications that are not unsolicited commercial messages, (b) using services offered through Sedo (e.g., escrow services and fraud complaints), and (c) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for. 
+
+In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined herein, can you disclose personal information about another site user to any third party without the written consent of Sedo and the written consent of that user, including, but not limited to, email correspondence with Sedo staff regarding Sedo users, whether in the course of providing Sedo services or otherwise. You agree that other users may use your personal information to communicate with you in accordance with this paragraph. 
+
+## Control of Your Login Name and Password
+
+You are responsible for all actions taken with your login name and password, including fees charged to your account and adherence to the Acceptable Use terms contained in the Sedo User Agreement. Your Sedo user password should be held in strict confidence and under no circumstances will Sedo personnel, its agents or affiliates ask you for your Sedo user password. If you lose control of your password, you may lose substantial control over your information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in the paragraph below.
+
+## Accessing, Deleting, Reviewing and Changing Your Personal Information 
+
+We offer you the ability to review, delete and change the information you submit to us by logging into the site and entering in the new information yourself or by emailing us at [contact@sedo.com](mailto:contact@sedo.com). Once logged in as a registered user, you can change your Password, other personal, contact, and financial information, and user preferences by going to the applicable pages available under "My Sedo." You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any bids or postings made on the site. 
+
+Generally, we will not modify your personal information based on a request not submitted through the site because it can be difficult to authenticate your identity manually. 
+
+Upon your request, we will deactivate and delete your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email [contact@sedo.com](mailto:contact@sedo.com). Your account will be deactivated and deleted as soon as reasonably possible after we receive your request but no later than 30 days. 
+
+Upon receipt of a deactivation request, we will retain some of your information in order to prevent fraud, collect fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement, and comply with legal requirements. Therefore, you should not expect that all of your information will be completely removed from our databases in response to your requests. However, your information will be deactivated from our active, registered user database, and will only be available to select Sedo personnel. 
+
+We will retain your information for as long as your account is active, as needed to provide you services, for a minimum of 5 (five) years.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Other Information Collectors 
+
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on our site or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Sedo does not control the privacy policies of third parties.
+
+## Security 
+
+Sedo follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+Your information is stored on Sedo's servers located in the United States and in European Union countries. When you enter sensitive information (such as credit card or bank information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company, but "perfect security "does not exist on the Internet or with any data, digital or physical. 
+
+Sedo personnel receive training on complying with our privacy practices and the importance of protecting your information. Disciplinary procedures are in place in should a Sedo employee violate our Privacy Policy. 
+
+If you have any questions about security on our web site, you can email us at [privacy@sedo.com](mailto:privacy@sedo.com "privacy@sedo.com"). 
+
+## Social Media Widgets 
+
+Our Web site includes Social Media Features, such as the Facebook Like and Recommend buttons, the Twitter Share button, other widgets that use the ShareThis button, and interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+## Links to 3rd Party Sites 
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Sedo. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+
+## Testimonials
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@sedo.com.
+
+## Notice and Modification
+
+If we decide to change our Privacy Policy we will post those changes to this privacy policy, the homepage, and other places we deem them appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to make changes to this Privacy Policy at any time by posting the amended terms on the site, so please check it frequently.  If we make material changes to this Policy, we will notify you by email, sent to the e-mail address specified in your account, or by means of a notice on this Site prior to the change becoming effective.  All amended terms shall automatically be effective 30 days after they are initially posted on the site. 
+
+## How to Contact Sedo
+
+Mail:  
+Attention Privacy/Legal Department  
+Sedo.com, LLC  
+222 Third Street, Suite 3120  
+Cambridge, MA 02142  
+USA 
+
+Telephone: (617) 499-7200  
+Facsimile: (617) 499-7226  
+Email: [privacy@sedo.com](mailto:privacy@sedo.com)
