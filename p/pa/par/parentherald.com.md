@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentherald.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420131257id_/http%3A//www.parentherald.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentherald.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226132517id_/https%3A//www.parentherald.com/privacypolicy) for the most accurate reproduction.*
 
 # Parent Herald
 
