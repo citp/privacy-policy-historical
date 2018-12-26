@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616043427id_/https%3A//www.mailjet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226033333id_/https%3A//www.mailjet.com/privacy-policy) for the most accurate reproduction.*
 
 # Mailjet Personal Data Protection and Privacy Policy - Email Marketing - SMTP services - Mailjet
 
