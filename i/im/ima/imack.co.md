@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imack.co privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626044212id_/https%3A//imack.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imack.co privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226124622id_/https%3A//imack.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iMack
 
@@ -18,7 +18,7 @@ http://70clacks.co uses cookies to store information about visitors’ preferenc
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://70clacks.co and other sites on the Internet. 
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**
 
