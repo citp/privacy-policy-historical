@@ -1,148 +1,230 @@
-> *The following text is extracted and transformed from the autodesk.in privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623024547id_/http%3A//www.autodesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodesk.in privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025220id_/https%3A//www.autodesk.com/company/legal-notices-trademarks/privacy-statement) for the most accurate reproduction.*
 
-# Autodesk - Legal Notices & Trademarks - Privacy Policy
+# Privacy Statement English
 
-**The privacy practices described in this Privacy Policy, including any changes we may inform you of or post to our web site, apply to our services available under the domain and sub-domains of**[ **www.autodesk.com**](http://www.autodesk.com/) **and apply generally to all of our websites and wholly owned subsidiary websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our services.**
+### What information does Autodesk collect about you?
 
-As described below, information that personally identifies you may be collected by Autodesk, disclosed to third parties, and used by third parties and Autodesk. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem lengthy, we have prepared a detailed policy because we believe you should know as much as possible about Autodesk's practices. All Autodesk controlled websites and the websites of our subsidiaries operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices globally.
+**Information you provide us:**
 
-As provided in this Privacy Policy, Autodesk is committed to safeguarding your privacy when you provide us with personal information. We strive to treat your personal information as safely and securely as reasonably possible. Please read the following privacy policy to better understand how your information will be treated as you use our numerous offerings. We've organized our privacy statement in Q&A format to address the most frequently asked questions. If you have any questions after reading through our statement, please let us know. We want to hear from you! You can e-mail us at the addresses below:
+We collect information that identifies you, including your name, surname, and contact information, such as your address, email address and telephone number, when you:
 
-Autodesk.com: [webmaster@autodesk.com](mailto:webmaster@autodesk.com)   
-Autodesk Location Services: [locationservices@autodesk.com](mailto:locationservices@autodesk.com)   
-Autodesk Buzzsaw (Autodesk Collaboration Services): [bcs.support@autodesk.com](mailto:bcs.support@autodesk.com)   
-Discreet: [discreet.support@autodesk.com](mailto:discreet.support@autodesk.com)   
-General Autodesk Privacy Information: [webmaster@autodesk.com](mailto:webmaster@autodesk.com)   
-One Team Web: [otwamericas@autodesk.com](mailto:otwamericas@autodesk.com)   
-Subscription Center: [subscription-team@autodesk.com](mailto:subscription-team@autodesk.com)
+  * Create an account
+  * Register a product or service
+  * Sign up for one of our events
+  * Contact us
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information with Autodesk partners who agree to follow appropriate customer data management practices to manage your entitlements and contractual relationship with Autodesk, or with your consent. We occasionally employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, ensuring accuracy of data, analyzing data, providing marketing assistance, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. We release account and other personal information when we believe release is appropriate to comply with the law. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of these commitments. As we continue to develop our business, we might sell or buy subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to these pre-existing commitments.
 
-#### What information does Autodesk collect from me?
 
-Autodesk may collect customer information in a number of ways, but the two most common are during website registration or site personalization and product or service registration or enrollment. In some instances, you may visit some of our sites and use some of our services without providing information to us. The information requested may vary depending on which product, service or site you are using or accessing. We typically ask for your basic contact information, such as your name, title, company name, e-mail address, postal addresses, telephone numbers and the industry that you work in. As an example, we may also ask for unique identifiers, such as a mother’s family name or a keyword, and for financial information, such as account or credit card number to verify your user identity when you make purchases. If you contact us, we may keep a record of that correspondence or communication. Information on how you communicated with us may also be recorded and can include your e-mail address including country domain, the language you selected for viewing order forms or other documents, your browser type, the currency in which you viewed prices if such feature is available, your use of a secure or insecure Web page, the return e-mail address shown in any e-mail message from you, the return address on any envelope or facsimile number on any facsimile, or the telephone number from which you called.  Autodesk may also clean-up and standardize data when it is collected. For example, Autodesk may abbreviate the term: “street” to “St.” or correct a spelling mistake made when Autodesk collected the data.
+We collect additional information to inform your specific use of our applications. This includes your language preferences, the date of your birth, the name of your employer and your job title.
 
-In addition to the information we obtain at the initial stage of registration, we may ask you for information at other times, such as when you make a purchase or use a service on an Autodesk site; when you participate in a contest, survey, or promotion; when you submit a listing for a Web site; or when you report a problem with one of our sites or services. In most cases, the more specific information you provide, the better we are able to personalize your Web experience.
+After you have created an account or registered for an application, we collect additional information, which may include:
 
-Finally, Autodesk collects information about its Web site guest visitors and members in general, which does not necessarily identify the member, using our server log files and some of the methods described under "cookies" below. 
+  * Your subscription plans and payment information
+  * Details about the applications that you purchased or have expressed interest in
+  * Training and certification details
+  * Event attendance details
+  * Your communication preferences
+  * Records of our interaction with you, where appropriate, such as service records, correspondence, details of complaints and their resolution
+  * Content you submitted to us, such as comments you posted in our forums
 
-#### Why does Autodesk gather this information?
 
-Autodesk's primary goal in collecting personal information is to provide you, the user, with a personalized experience on our web sites and/or with our products and services. We may also use your information to address, and contact you on, issues about the use of our products and services. This includes personalization services, interactive communications, online commerce, and many other types of services, many of which are completely free to you. Depending on your wishes, we may use your contact information to provide you with information about products or services offered by Autodesk or by our partners. By knowing accurate information about you, Autodesk is able to deliver better service and more relevant content to our individual users.
 
-#### How does Autodesk use my information?
+When you make purchases through our websites, we use payment processors ([Digital River](https://www.digitalriver.com/corporate-policies/), [BlueSnap](https://home.bluesnap.com/privacy-policy/), [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full), [Stripe](https://stripe.com/us/privacy)) and do not store credit card or other financial information (other than confirmation that payment in a certain amount has been made). We collect contact information from you that we pass through to the payment processor to facilitate the transaction. For more information you can contact our providers as set forth in their privacy notices. ****
 
-Autodesk uses your information to recommend Autodesk products and services and to enable you to take advantage of the many features they offer. Once you register, you are no longer anonymous to Autodesk. For some of our sites, such as Autodesk Buzzsaw.com (Autodesk Collaboration Services) and the Subscription Center, you will be given or create an ID, and you can create a confidential password to be able to take full advantage of those sites’ many offerings. As previously stated, any additional information you volunteer enables us to better personalize your experience. We may also use your contact information to reach you regarding important issues about the use of our services.
+**Information we obtain from your use of our applications:**
 
-The information you provide during product or service registration or enrollment will be used by Autodesk to register you as an authorized user of an Autodesk product or service or to issue your authorization code or password, which allows you to access products or services. We may also use this information to send you materials describing products and services offered by Autodesk or by our partners, if you have indicated that you wish to receive these materials.
+We collect information about the applications that you use and how you use them. We use this information to support our legitimate interest in improving your experience, and building better online, mobile, and desktop applications.
 
-We use other information we collect to get a better understanding of our subscriber base. The more insight we have into you-the people who use Autodesk sites on a daily basis-the better we can serve you. Therefore, we analyze our users' demographics, interests, and behavior based on the information provided to us. Our research and analysis is done on an aggregate basis and does not identify you personally.
+This information includes:
 
-Information that we obtain from voluntary programs such as surveys, promotions, and contests may be subject to additional or different terms, or may be used in a slightly different way. If different terms do apply, details of the shared use of this information will be outlined in the specific terms and conditions or rules of these special surveys, promotions, or contests. Please be sure to read those specific terms and conditions because they may alter what is written in this privacy policy on a case-by-case basis.
+  * System Information and Usage Data 
 
-#### With whom, and how, does Autodesk share my information?
+We collect device-specific information, like unique device identifiers, operating system, and the type of device you use.
 
-Our Business Partners, Strategic Alliance Companies, and Advertisers: If you wish to receive information from our partners or from companies with which we have a strategic alliance, unless you request us to, Autodesk generally will not provide your information to our partners for them to send you mailings; only Autodesk (or mailing agents working on behalf of Autodesk and under confidentiality agreements) will send you these direct mailings. However, if you submit information to Autodesk to use or purchase a product or service of a partner or a company with which we have a strategic alliance, we may need to share this information with those partners so that they may process your orders and ship, supply, maintain, or service the goods or services that you requested and you may be contacted by them. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. If you provide information directly with another company reached through an Autodesk site, that company will have control over the information you provide.
+We collect information about how you use our applications. This includes your product ID, license information, which applications you use and for how long, your city and country from your IP address, and information about your browser.
 
-From time to time, we share aggregated data regarding the subscribers and users of our services. Some of these data may include the data obtained as described in the "cookies" section, but no personally identifiable information is included in these types of statistics. Additionally, under confidentiality agreements, Autodesk may match user information with third-party data.
 
-Also, please pay attention to which services you register for when you register for an Autodesk site or service. In some instances we may offer you the choice to register with certain of our partners at the same time you register with Autodesk. If you choose to register with a partner, the information that you provide in registration is also subject to our partner's privacy policy, and our partner's policies as to the use of information may differ from Autodesk's policy. Again, we encourage you to review our partner's policies before you enter into agreements with them.
 
-2\. Ordering Products or Services: When you order a product or service from Autodesk, we (or our service provider) use your name, e-mail address, delivery address, and credit card number and expiration date (or financial information) as part of a credit check. This information allows us (or our service provider) to process the order and deliver the product or service. We ask for your telephone number to enable us to contact you if there is a problem with your order or the delivery of a product or service. In the event you have asked for the delivery of tangible goods, we may need to share your telephone number with the carrier delivering the goods. When you order a product or service from a company linked to one of our websites, it may be necessary for us to share certain limited information with that company in order to process and complete your purchase or other transaction. In such cases, we share the minimum information necessary to complete the transaction and only share that information when you make a purchase or engage in a transaction — not when you simply visit and leave our site. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+  * Social Networking Data 
 
-3\. Within Autodesk: Your information may be shared within Autodesk, Inc. and its wholly owned subsidiaries for the purposes of providing you with products or services you have ordered or for which you have registered and to provide information to you about our products or services in accordance with your wishes.
+We have pages on social networking platforms, such as Facebook, LinkedIn, or Twitter, where you can visit and communicate with us.
 
-4\. Special Cases: Autodesk® Buzzsaw® (ProjectPoint®), Site Administrators: If you receive an invitation to participate in an Autodesk Buzzsaw site (Autodesk Buzzsaw, formerly called ProjectPoint, is a service offered by Autodesk Collaboration Services), the person sending the invitation is a Site Administrator for that Autodesk Buzzsaw site. In order to send an invitation, the Site Administrator must have your e-mail address. Autodesk does not provide the Site Administrator with names or e-mail addresses to facilitate invitations. The Site Administrator may have personal information about you that you previously provided directly to the Site Administrator or the company employing the Site Administrator (e.g., your business card) or from public documents, professional directories, telephone directories, or other sources. Any information you provide in order to join or participate in an Autodesk Buzzsaw site is available to the Site Administrator and may be changed or edited by either you or the Site Administrator. Autodesk does not control the information maintained by a Site Administrator or the use of that information.
+Our applications also include buttons, tools, or content that links to another company’s services. We collect information about your use of these features through Autodesk Analytics tools and third-party analytics tools.
 
-Autodesk may also disclose account information in other special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating Autodesk's Terms of Service or intellectual property rights. The same policy applies in cases where we believe an individual may be causing injury to or interference with (either intentionally or unintentionally) Autodesk's rights or property, other users of an Autodesk site or service, or anyone else that could be harmed by such activities. Autodesk may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+If you use an Autodesk application that contains plugins, information can be transferred directly from your device to the social networking provider. We have no influence on the data collected by the plugin. If you are logged in to the social network, a link can be established between your user account there and the use of our application.
 
-We may disclose information to third parties such as Internet service providers for administrative purposes that we deem necessary to deliver or maintain services or products. An Autodesk site or service may also display entity names as part of the registration process to facilitate an individual registrant’s affiliation with the correct entity.
+If you interact with the plugins, for example by clicking on "Like", "Follow" or "Share", or by writing a comment, this information may automatically appear in your profile on the social network. Even if you are not logged in, the plugins may send your IP address to social network providers. Please note this when using our applications.
 
-As we continue to develop and expand our products and services, we may sell or buy businesses or product or service lines. In such transactions, customer information is generally one of the assets transferred.
+When you connect to a social networking service on a device that is also used by others, these other users are able to see information that is stored or displayed in connection with your profile on the social networking service page.
 
-5\. Special Cases: Autodesk Subscription Center Contract Manager and Software Coordinator: If you receive an invitation to the Autodesk Subscription Center, the person sending the invitation is a Coordinator for that contract.  In order to send an invitation, the Coordinator must have your e-mail address. Autodesk does not provide the Coordinator with names or e-mail addresses to facilitate invitations.
 
-#### What about Autodesk partner services, strategic alliance companies, or linked sites?
 
-Certain products and services are made available through an Autodesk site but are provided by partners, either through their own web sites or on web sites that they share with Autodesk. When ordering, using or purchasing products or services from these partners, you will be entering into an agreement with that partner, and not with Autodesk. In these cases, this privacy policy does not apply; instead, the privacy policy of the partner actually providing the goods and services will apply. We urge you to read and understand our partners' policies before entering into agreements with them. We are committed to partnering with companies that share our privacy concerns. Autodesk, however, can't control the way these partners collect or use information.
+  * Error data 
 
-Also, when you click through to a partner's or an advertiser's site, or another site linked from an Autodesk site, those companies may use cookies or other means to collect information about you. Again, this privacy policy does not apply to those sites; instead, the privacy policy of the site you visit will apply.
+We collect and track data on technical errors that may occur when you use our applications, if you choose to send the relevant report to us in each case. Before the report is sent to us, you will be told what information will be collected and how it will be sent to us.
 
-If you have questions about our partners' privacy policies or the privacy policies of these other sites, we encourage you to contact them directly. 
 
-#### What are my choices regarding the use of my information?
 
-When you register with Autodesk, you may choose whether you want to receive information from Autodesk or our partners about other products or services or about special promotions. If you do not want to receive this information, be sure to indicate that on your registration form if the form requires you to specify your choices. You also have choices about whether you want to receive this information when you visit and provide information to other sites, including sites accessible through an Autodesk site.
+  * Automatic updates 
 
-On other Autodesk sites, although many of our feedback forms allow you to choose not to receive certain communications from Autodesk or our partners, there are still some that do not. We are currently in the process of updating the remaining forms to have this capability. If you receive a communication from us that does not contain instructions on how to choose not to receive these communications, and you wish to be removed from our mailing database, please follow the instructions below to help facilitate a timely and accurate removal:
+We collect information that may identify you to your system administrator in connection with the automatic update process, to help your administrator determine what updates you need. This information includes your user login name, and your computer’s name or description.
 
-Also, if you visit a public forum, chat rooms, message boards, and/or news groups on an Autodesk website, please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-#### What are “cookies” and how does Autodesk use them?
 
-A cookie is a small amount of data that is sent to your browser from a Web server, and gets saved on your computer hard drive. These cookie files store and sometimes track information about what you do on Autodesk sites. This information makes it possible for us to offer and provide highly customized services. All areas on Autodesk sites where you are prompted to login or that are customizable require that you accept cookies. Autodesk also uses third-party Web metric partners subjected to strict confidentiality and non-disclosure obligations, to set cookies so that we can analyze user data. 
+  * Cookies and similar technologies 
 
-Generally, we use cookies to: 
+Autodesk uses cookies (small text files stored by your web browser when you use websites) and related technologies, such as pixels and beacons (“Cookies”) to collect and store information when you visit our websites and use our applications.
 
-  1. Remind us of who you are and to access your profile (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Log On" and is modified when you "Log Off" of our services.
-  2. Estimate our audience size. Each browser accessing an Autodesk site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior. 
-  3. Assist Autodesk partners in tracking visits to co-branded content. This information collected by cookies is sometimes called "clickstream" or "click trail" and may also describe which pages you have seen in each section of the site.
-  4. Measure certain traffic patterns, which areas of the site you have visited, and your visiting patterns in the aggregate. We measure traffic patterns as a matter of research to determine customer interest. We use this research to understand how our users' habits are similar to or different from one another so that we can make each new experience on Autodesk sites a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. This information helps us to determine which services are of most value to our customers. 
+We also use Autodesk Analytics programs and third-party analytics tools, such as [Google Analytics](http://www.google.com/policies/privacy), to help us understand how you use our website and applications.
 
+To learn more about analytics within our websites and applications, see our [Cookie Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/cookie-policy-english).
 
 
-Autodesk also collects IP Addresses for system administration and to report aggregate information to our advertisers.
 
-#### I'd rather not have cookies stored on my computer. Is there any way to work around them?
 
-Yes, you do have choices with respect to cookies. By modifying your browser preferences you can choose to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, however, you will be unable to use those Autodesk services that require registration or customization in order to participate. You may still view Autodesk sites in a non-personalized manner without cookies, though some areas of our sites may not be accessible or function properly if you choose to reject all cookies. If you choose to accept cookies from us, you are granting us your consent to set cookies on your computer.
+With the exception of information essential to operate our services as described in our Cookie Statement, whether we collect this data is up to you. You can change your mind at any time by going into your Settings within the application, as well as here. Please keep in mind that you may also need to clear your Cookies on each browser on each device.
 
-#### I would like to update the information I originally provided to Autodesk. Also, I would now like to stop getting mailings and offers sent to me. What do I do?
+We associate any data we collect as set forth above with your personal account.
 
-At those Autodesk sites requiring registration, you can edit your profile. Just follow these instructions:
+**Information we collect from other parties:**
 
-For Autodesk Buzzsaw.com (Autodesk Collaboration Services): At any time, you can access and update the personal data in your Buzzsaw profile or edit your profile. Remember to have your Autodesk Buzzsaw.com Username and password handy; you won’t be able to access your profile without them. If you have forgotten your password, please visit the site login screen to have your password e-mailed to you. If you have any problems signing in to Autodesk Buzzsaw.com, contact [bcs.support@autodesk.com](mailto:bcs.support@autodesk.com). Please note that Autodesk is not responsible for removing any information from third-party lists with which you are affiliated or from lists or databases maintained by Autodesk Buzzsaw (ProjectPoint) Site Administrators.
+To help keep our databases current, and to provide you with more relevant content, experiences and offerings, we combine your personal data, as described above, with information from public sources and other companies (such as our channel partners [resellers], business contact databases, and enrichment service providers), in accordance with applicable law.
 
-For the Subscription Center: You can access and update the personal data in your Subscription Center profile at any time by logging in and selecting the "Edit Subscription Center Profile and Log-in" link.  Contract Managers and Software Coordinators can also update their contact information for their Subscription contract by logging in and selecting Subscription Administration and the Contact Information link.  If you have any problems signing in to the Subscription Center, please submit the [Subscription Customer Service form](https://pointa.autodesk.com/local/enu/portal/vip/members/services/cschelp.jsp).
+These sources can tell us about the company size and industry of our business customers and also help us maintain the accuracy of our databases.
 
-Subscription Managers and Coordinators can expect e-mail messages from Autodesk pertaining to their assigned tasks. Your company, not Autodesk, has assigned you that role. Contract Managers can be changed by contacting [autodesk-subscription-support-team@autodesk.com](mailto:autodesk-subscription-support-team@autodesk.com) or using the [Subscription Customer Service form](https://pointa.autodesk.com/local/enu/portal/vip/members/services/cschelp.jsp). Software Coordinators can be reassigned within the Subscription Center.
+### How does Autodesk use the information it collects about you?
 
-In all other cases, you may send an e-mail to  the applicable address specified below in order to review and edit your personal information, and to change your preferences. Alternatively, directly contact your local Autodesk office in writing. In all cases, please include your registered address with your request.
+We use your personal data mindfully, and in useful ways, including:
 
-Please note that Autodesk is not responsible for removing any information from lists maintained by any third party to whom you have directly provided data or with whom you have entered into agreements. 
+  * To validate your identity, to the extent necessary to perform our contract with you
+  * To deliver you services, products, support, or information you have requested about your application, to the extent necessary to perform our contract with you
+  * To send you important information within the scope of our contract with you
+  * To send you other information you requested, like when someone has “liked” one of your posts, to the extent necessary to perform our contract with you
+  * To send you other special offers, promotions, newsletters, surveys, or other information that you have consented to receive, as long as you want them
+  * To support our legitimate interest in gaining a better understanding of our applications, so we can improve them and your experience
+  * To correct problems in our applications, as necessary to perform the contract we have with you
+  * To support our legitimate interest in making our ads more relevant to your interests
+  * To support our legitimate interest in using automated systems to analyze your data using machine learning and advanced analytics to improve our applications
+  * To pursue our legitimate interest in preventing and reducing fraud and software piracy
+  * As further described in your applications, such as in a supplemental notice, or in our About Boxes (available via Settings in your application)
 
-#### Can I cancel my Autodesk website access accounts?
 
-Yes, your Autodesk account can be deleted or deactivated anytime. Once you do so, however, you won't be able to access any members-only area of the Autodesk service you’ve deactivated. To delete your account, please follow the instructions below:
 
-Autodesk Buzzsaw.com (Autodesk Collaboration Services): Your Buzzsaw account can be deleted or deactivated at any time. Once you do so, however, you won’t be able to access any Members-only area of Autodesk Buzzsaw.com. To delete your account, please contact [bcs.support@autodesk.com](mailto:bcs.support@autodesk.com) and be sure to include your Autodesk Buzzsaw.com Username. We will provide complete instructions on deleting or deactivating your Autodesk Buzzsaw.com account. In the event you send a written request to Autodesk to delete your personal data, Autodesk will, subject to any legal obligations imposed on Autodesk to maintain such records, destroy your personal data or make it unidentifiable in a commercially reasonable amount of time.
+Unless otherwise indicated, there is no statutory or contractual requirement for you to provide this data. If you do not provide this data, we might not be able to provide our services to you.
 
-In the event you are a participant in an Autodesk Buzzsaw (ProjectPoint) site and want the corresponding Site Administrator to destroy your personal data, you must send such request directly to the Site Administrator. Autodesk is not liable for any failure by the Site Administrator to destroy or make unidentifiable your personal data.
+### How does Autodesk disclose your personal data?
 
-The Subscription Center: You can delete your Subscription Center account at any time.   Deleting your Subscription Center account does not affect your Subscription contract with Autodesk, and you will still receive Subscription notifications pertaining to your contract. To delete your account, please contact [subscriptionteam@autodesk.com](mailto:subscriptionteam@autodesk.com) and be sure to include your Subscription Center Member name.
+To provide you the best services we can, we work with other service providers. These companies are located all over the world, and we require them to protect your privacy. They are not authorized by us to use your personal data for their own purposes. Our service providers include companies we use for:
 
-You must deactivate your account separately at each Autodesk site where you are registered.
+  * Marketing
+  * Sales
+  * Consulting
+  * Communications
+  * Software Maintenance & Support
+  * Social Media
+  * Market Research
+  * License Compliance
+  * Security
+  * Localization
 
-#### What kinds of security precautions are in place to protect my information from hackers or prying eyes?
 
-For those Autodesk sites requiring registration, your profile is password-protected so that you and only you have access. However, it may on occasion be necessary for Autodesk, Inc. employees or contractors working on behalf of Autodesk, Inc. to have access to your profile to provide you with support or to perform certain maintenance tasks. This access happens on an as-needed basis only.
 
-We sometimes utilize other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for any other purpose.
+We may disclose your data in the following circumstances:
 
-We recommend that you do not divulge your password to anyone. Also remember to sign out of your Autodesk account and close your browser window when you have finished your work. This is to prevent others from accessing your personal information.
+  * When we have your consent to do so
+  * To our service providers for the purposes indicated in this Privacy Statement. We do not disclose your personal data to them for their own purposes.
+  * To our channel partners (resellers), who are not service providers, for the purposes indicated in this Privacy Statement
+  * When we are required to do so by law, such as to respond to a subpoena or a court order
+  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud or software piracy, defend ourselves against attacks, or protect the rights, property, and safety of Autodesk, our customers, and the public
+  * If we merge with another company, or if we sell or reorganize part of, or all of our business, assets, or stock (including, if we file for bankruptcy). If this happens, your data will likely be transferred to the other company.
+  * When the data can no longer identify you. This can happen through aggregation, where your data is combined with other data to become a statistic.
 
-Autodesk strives to protect your personal information. For all Autodesk sites, we use advanced security technology to ensure that your personal data remain private within our site. However, since no data transmission over the Internet can be guaranteed to be 100% secure, we cannot ensure or warrant the security of any information you transmit to us or which we transmit to you from our online products or services.
 
-#### Where is my data stored?
 
-Your data may be processed and stored on Autodesk computers in the United States or other countries. Your data may also be processed and stored in other countries where services are being provided by a licensee, agent or service provider of Autodesk. In such cases, Autodesk and Autodesk’s licensees, agents or service providers are bound to all the terms and conditions of this privacy policy. You hereby consent to the transfer of any personal data to the United States or any other country outside of your home country where Autodesk or its licensee, agent or service provider is providing services or processing or storing personal data in accordance with the terms of this privacy policy.
+### How does Autodesk protect your data?
 
-#### What else should I know about my privacy?
+We use a combination of reasonable physical, administrative, and technological controls to protect your data from unauthorized access or malicious actions. For more information about our security practices, please visit the [Trust Center](https://www.autodesk.com/trust/overview).
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+We limit the access employees, contractors, and agents of Autodesk have to your personal data to those who need to know this data to perform their assigned functions and develop or improve our products and services.
 
-As Autodesk expands its online offerings, we will update our privacy policy to apply to them. Please check this page on a regular basis for updates.
+### How do you access, update, download, and delete your personal data?
 
-You are responsible for maintaining the secrecy of your user names and passwords. Please be careful and responsible whenever you're online. 
+We have processes in place to maintain accurate, complete and up to date data. You have the right to access, update, delete, receive a copy of, or restrict our use of your personal data. When we process personal data based on your consent, you have the right to withdraw consent any time.
 
-| 
+To perform these actions, log-in to your account to manage your personal data and content using our applications and services. You can also delete your personal data and close your account. We may retain certain data about you for legal and internal business purposes, such as fraud prevention, in accordance with applicable laws.
+
+To request a copy of the personal data in your account, please [submit this form](https://accounts.autodesk.com/profile/download?returnurl=https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement/confirmation-en). When you contact us to assist you, we will ask you to validate your identity before fulfilling your request. If you have any questions, please [contact us](mailto:privacy.questions@autodesk.com).
+
+### What are Autodesk’s storage and data retention practices?
+
+We store your personal data and content on our servers, and the servers of our service providers. Because we and our service providers maintain servers in global locations, your personal data may be transferred across national borders and stored outside of the United States.
+
+We will retain your personal data for as long as necessary to provide you with the applications you are using, and as needed to comply with our legal obligations.
+
+### Does Autodesk transfer your personal data across national borders?
+
+Because we are a global company, we transfer your personal data across national borders to other countries, in compliance with the laws that apply to that data.
+
+When your data is transferred from one of our entities in the European Economic Area (EEA) to the United States, or another country outside of the EEA, we rely on one or more of the following legal mechanisms which provide appropriate safeguards for the transfers: the EU-U.S. Privacy Shield, Swiss-U.S. Privacy Shield, and Standard Contractual Clauses.
+
+To learn more about Autodesk’s Privacy Shield Certification, please read our [Privacy Shield Notice](https://damassets.autodesk.net/content/dam/autodesk/www/Company/docs/pdf/legal-notices-&-trademarks/privacy-shield-statement-nov-2017-updated-1.pdf).
+
+### What are Autodesk’s marketing and advertising practices?
+
+**Ad Partners**
+
+Our websites and applications may feature ads for other companies’ products and services, as well as ads for our own applications.
+
+We work with one or more advertising networks, which are our Ad Partners, who use Cookies or other technologies to collect information in order to serve you ads and help us track results. Such information may include the websites you visit, the mobile apps you use, the preferences you may provide us as your application provider, your IP address, your device ID, and information about your browser. This information is used to display appropriate advertising in mobile apps and websites that you visit, to calculate and control the number of unique and repeat views of a given ad, deliver ads that relate to your interests and measure the effectiveness of ad campaigns. This processing is in our legitimate interest.
+
+Our Ad Partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser's activities across their network of websites.
+
+To opt out of the use of your information by Ad Partners, use the [Digital Advertising Agencies AdChoices Tool](http://optout.aboutads.info/?c=2#!/). If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool again to renew your opt out choice.
+
+You can also change your marketing preferences for our websites here.
+
+**Do-not-track signals**
+
+Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Autodesk currently does not take action in response to these signals.
+
+### How does Autodesk protect children and student data?
+
+At Autodesk, we care deeply about children’s privacy and protecting their data.
+
+Many of our applications, and features are made for the general public, and are designed for adult users. We do not knowingly collect personal data from children in connection with those websites, products, services, and features that are made for the general public.
+
+Other applications and features are appropriate for use by children, and our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english) applies to the personal data collected from those applications. If there is a conflict between our Children’s Privacy Statement and other sections of our Privacy Statement, this Children’s Privacy Statement sets the standard for how we treat children’s personal data.
+
+For more information, please refer to our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english).
+
+### Is the personal data you give us ever displayed publically?
+
+As always, we urge you to be mindful when deciding to disclose personal data, including on our applications and websites. There are various places within our applications and services that allow you to post content, including comments and “likes.”
+
+In some cases, you can limit who can view or access the information and content you post. In other cases, the information and content might be available to registered members of the application or website, or even to the general public. Your name, user name, profile image, or email address (particularly if this is your user name) may be posted along with any message or other content you post through some of our applications and websites.
+
+If you are posting information you do not want to be disclosed publicly, make sure you are using a website or application that allows you to control who sees information you have posted.
+
+### Will this Privacy Statement change?
+
+If and when the way we treat your personal data changes, we will make sure to let you know by updating this Privacy Statement. When we change it, we will make it clear at the top of our Privacy Statement, and we will tell you when we last updated it. If we have your email address, we will also send you a notice by email regarding the update.
+
+### How to contact us?
+
+If you want to contact us, please use the following contact information. When you do so, please tell us the name of the website or application about which you are contacting us:
+
+By email at:
+
+privacy.questions@autodesk.com
+
+By postal mail to:
+
+> Privacy Questions Autodesk, Inc. The Landmark @ One Market Suite 500 San Francisco, CA 94105 U.S.A. 
+
+**Data protection officer**
+
+To contact our data protection officer, please use the following contact information: [DPO@autodesk.com](mailto:DPO@autodesk.com).
+
+### Who can I contact with questions or concerns?
+
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have a right to lodge a complaint with the [data protection authority of the United States of America](https://www.ftc.gov/faq/consumer-protection/submit-consumer-complaint-ftc) and/or with a competent European supervisory authority.
