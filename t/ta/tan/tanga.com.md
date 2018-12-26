@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614133329id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030942id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Tanga's Privacy Policy - Tanga
 
@@ -7,9 +7,9 @@ Tanga.com LLC and its affiliates (collectively, the “ **Company** ”) is comm
 * **Questions; Contacting Company; Reporting Violations.** If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
 
 Tanga.com LLC  
-Attn: Matt Verbin  
-25 S. Arizona Place, Suite 410  
-Chandler, AZ 85225  
+Attn: Matt Molen  
+2487 S. Gilbert Rd, Suite 106 - (485)  
+Gilbert, AZ 85295  
 (435) 688-9595 
 
 * **A Note About Children.** We do not intentionally gather personal information from visitors who are under the age of 13. If a child under 13 submits personal information to the Company and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any personal information from a child under 13, please contact us at: [www.tanga.com/support](http://www.tanga.com/support).
