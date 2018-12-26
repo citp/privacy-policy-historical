@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvectors.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626163733id_/https%3A//www.vexels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvectors.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227003955id_/https%3A//www.vexels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Vexels
 
@@ -6,7 +6,7 @@
 Thanks for using Vexels. When users dip into [www.vexels.com](http://www.vexels.com/), some basic information is collected. In this Privacy Policy you can learn more about the data we collect, what we do with it and how our handling procedures work. This Policy only applies to our website and you can always contact us if you have any questions. We take your privacy very seriously and we will never share or sell your information.  
 
 
-Vexels is operated by Dugson Digital SRL, with business office at Blanca del Tabare 2918, Montevideo, Uruguay (hereinafter, referred to as "Vexels",“we”, “our, “us”), which acts as the Data Controller. Vexels collects from the individual user (hereinafter, referred to as “you” or “your”) certain information through the website [http://www.vexels.com](http://www.vexels.com/) (hereinafter, referred to as “the Website”, 'the Site', 'Our Site'). This Privacy Policy applies only and exclusively to this Website.
+Vexels is operated by Dugson Digital SRL, with business office at Almirante Harwood 6169, Montevideo Uruguay postal code 11500 (hereinafter, referred to as 'Vexels',“we”, “our, “us”), which acts as the Data Controller. Vexels collects from the individual user (hereinafter, referred to as “you” or “your”) certain information through the website [http://www.vexels.com](http://www.vexels.com/) (hereinafter, referred to as “the Website”, 'the Site', 'Our Site'). This Privacy Policy applies only and exclusively to this Website.
 
 ### What type of Personal Information we collect 
 
@@ -73,16 +73,16 @@ We use 2 payment processors/gateways which work also under strict confidential r
 ** 1\. If you would like to access or modify your Personal Information stored on our servers, you can do so in your profile after login in on our site. If you want to permanently delete your account and all your information please contact us at the address mentioned in the contacts section below of these Policies.  
 
 
-2\. You can request us through email or site's contact form a report with all stored personal information associated to your account.   
+2\. You can request to contact us through email or our site’s contact form, which forms a report with all stored personal information associated to your account, so we know who’s contacting us.   
 
 
 ### **Third-parties we share data with**
 
-1\. Vexels uses third-party services, including live chat (intercom), email newsletter (mailjet) and payment processor gateways (see section "Security & Safety"). When using our site we may transfer your personal information only as necessary for the third party to provide a specific service. Those service providers are carefully selected by Vexels and they operate in compliance with relevant data law.
+1\. Vexels uses third-party services, including live chat (intercom), email newsletter (mailjet) and payment processor gateways (see section 'Security & Safety'). When using our site we may transfer your personal information only as necessary for the third party to provide a specific service. Those service providers are carefully selected by Vexels and they operate in compliance with relevant data law.
 
 2\. The present Privacy Policy does not apply to the practices of companies that we do not own or control even if you have accessed the services through our website. Our Site may feature services that are not owned or controlled by us. Once you leave our website, we neither control nor have responsibility for third-party sites, their content, or their privacy practices. 
 
-3\. We may need to share your information if it’s required by law such as in event of a court case. We will attempt to notify you about any legal demands when appropriate in our judgment, unless prohibited by law or court order, or when the request is an emergency. 
+3\. We may need to share your information if it’s required by law such as in event of a court case. We will attempt to notify you about any legal demands when appropriate in our judgment, unless prohibited by law or court order, or when the request is an emergency. 
 
 ###   
 **Amendment of this Privacy Policy**
@@ -113,7 +113,7 @@ We use 2 payment processors/gateways which work also under strict confidential r
   * email: info(at)vexels(dot)com
   * contact form in our site
   * call us: +1 650 4526034 
-  * or you can mail us to Blanca del Tabare 2918, Montevideo, Uruguay postal code 11300 
+  * or you can mail us to Almirante Harwood 6169, Montevideo Uruguay postal code 11500 
 
 
 
