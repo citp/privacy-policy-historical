@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032219id_/https%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226235009id_/https%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
 
 # Online Privacy and Security Policy | Walgreens
 
@@ -25,6 +25,7 @@
   * [Walgreens Stores](https://web.archive.org/topic/help/storeshelp/stores_help_main.jsp "Walgreens Stores")
   * [Company Info](https://web.archive.org/topic/help/companyhelp/company_help_main.jsp "Company Info")
   * [Mobile and Social Media](https://web.archive.org/topic/help/mobileandsocial.jsp "Mobile and Social Media")
+  * [Same Day Services (Gainesville, FL)](https://web.archive.org/topic/help/same-day-services.jsp "Same Day Services \(Gainesville, FL\)")
 
 
 
