@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremetracking.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190938id_/https%3A//extremetracking.com/%3Fpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetracking.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023613id_/https%3A//extremetracking.com/%3Fpolicy) for the most accurate reproduction.*
 
 # eXTReMe Tracking - Privacy Policy
 
