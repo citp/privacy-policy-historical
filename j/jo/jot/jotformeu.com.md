@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the jotformeu.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034008id_/https%3A//www.jotform.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotformeu.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023401id_/https%3A//www.jotform.com/privacy) for the most accurate reproduction.*
 
 # JotForm Privacy Policy
+
+Biggest Savings of 2018! Offer expires Dec 31 
+
+UPGRADE NOW
 
 [](https://web.archive.org/)
 
@@ -287,6 +291,20 @@ Changes to this privacy policy. JotForm Inc. may modify this privacy policy at a
   * **Accessing and correcting your personal data.** You have the right to access and correct the personal information that JotForm Inc. holds about you. This right may be exercised by contacting [customer support](https://www.jotform.com/answers/).
     * JotForm is in compliance with what was known as the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, which was set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Here's our [official certification notice](https://safeharbor.export.gov/companyinfo.aspx?id=27141).
     * However, in early Oct 2015, the Safe Harbor framework was nullified by the highest court in Europe, which meant EU users no longer had a legal safeguard guiding how their data was handled by US companies. In response to this, JotForm offers its EU users the opportunity to store their data exclusively in Europe. This ensures EU users can retain their data in their own jurisdiction, which follows their specific data privacy requirements. More information can be found here. <https://www.jotform.com/eu-safe-forms/>
+
+
+  7. **Privacy Shield (relevant to our EU users)**
+
+
+
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.**
+
+  * JotForm Inc. is located in the United States and accordingly, data (to include Respondent data) will be transferred to the United States.
+  * JotForm Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. JotForm Inc. is committed to subjecting all personal information and data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. **https://www.privacyshield.gov/**.
+  * JotForm Inc. also complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+  * When JotForm Inc. receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on JotForm Inc.’s behalf, JotForm Inc. has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) JotForm Inc. is responsible for the event giving rise to the damage. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, JotForm Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, JotForm Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+  * Please contact JotForm Inc. as described in Questions below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://www.jamsadr.com/eu-us-privacy-shield.
+  * Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 
 
