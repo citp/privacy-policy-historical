@@ -1,43 +1,89 @@
-> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516103652id_/http%3A//flingvip.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025213id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
 
-# Flingvip - Free live cam girls and sex chat
+# Camster - Free live cam girls and sex chat
 
-**Any personal information provided to or gathered by this site is controlled by Donamis Group, LLC, a Florida limited liability company, and its parent company as licensees of Donamis II, s.r.o.**
+In order to provide the social networking function of the Camster.com site (the “Site”), it is necessary that we Donamis Group, LLC, a Florida limited liability company, and its parent company as licensees of Donamis II, s.r.o. need to process your personal information. By accepting this policy and creating an account with the Site you are confirming that you have read and understand this policy including how and why we use your information. If you don’t want us to collect or process your personal information in the ways described in this policy, you must not use the Site. Please be aware that while we impose certain use restrictions in our Terms of Use, we are not and cannot be responsible for any user or third party’s(ies’) use of information you may determine to share through the Site, whether through your profile, chat, direct message or otherwise. This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email. 
 
-As noted below, please be aware that we may change our Privacy Policy in the future. If such changes are not substantial in amount or in limiting your privacy rights, such changes will be posted here with an updated effective date. All substantial changes- both in amount and in limiting your privacy rights- will be emailed to you prior to becoming effective. 
+**_Information We Collect_**  
+When you visit our Site we may collect the following information: 
 
-_Adults Only Service_
+_Information You Provide to Us_
 
-**THIS IS AN ADULTS ONLY SERVICE.** We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person. 
+  * Account creation information including email address and password
+  * Other information, images and content you may determine to provide to us
+  * Postings and responses submitted by you anywhere on the Site including in connection with video and photo content and through forums and other places where it is possible for you to submit text or other content 
 
-_What We Collect_
 
-During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password) and "Demographic Information". Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.  Please note that all financial data you may submit in connection with any purchase will be submitted directly to the third party payment processor which will be processing your purchase. The use of such data will be subject to such payment processor’s own privacy policy which you will need to review separate and apart from this Policy before making any purchase. 
 
-_How We Use the Information We Collect_
+_Information We Automatically Collect From You_
 
-Account Data will be used to maintain and administer your account. We may use "cookies" and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties for the purpose of website administration and optimization including, without limitation, analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites. 
+  * Your IP address
+  * Information on the device you use to connect to the Site including your device’s identification number and software used 
+  * Profile viewing history and your interactions and messages with other users on the Site 
+  * Data relating to your interactions with advertisements on the Site
+  * Information from cookies (or similar technology for mobile devices) stored on your device about your use of the Site and/or some third party websites 
+  * Technical information from your device
+  * Location information
+  * Purchase history and levels
 
-_You Are Responsible For Information You Provide to Third Parties_
 
-We are not responsible for the use of any information you may choose to share with third parties through our Site. You should treat the Site and service as a public forum and not share anything that you would not want to share with the public generally. 
 
-_Disclosures Made as Necessitated by Law or Safety_
+**_How We Use Information We Collect_**
 
-Although your name, physical address, phone number and email address are generally considered confidential, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system. In the event that we believe that your use of the Site or service may constitute a violation of any law, we reserve the right to proactively provide all information relating to your account, including the Account Data, to law enforcement and any and all other agencies we may deem appropriate. 
+When you access the Site, you consent to our processing and retention of your data which data we will process and retain in compliance with our internal data retention policy, as amended from time to time. This data will be retained to service your account, the service located on the Site (the “Service”), developing new services and products related to the Service, and as otherwise provided in this Policy. All information collected by us is used for maintaining and operating the service located on the Site. The information you provide to us is used to service and maintain your account. The postings and responses you submit are shared with other users of the Service as directed by you by virtue of you submitting such postings and responses. 
 
-_Emails From Us and use of Your Email Address_
+_Location based services_
 
-Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us. If you no longer wish to receive emails from us please unsubscribe by sending us an email to [help@aprosupport.com](mailto:help@aprosupport.com). We reserve the right to share your email address with third parties for the purposes of such third parties advertising websites and services you may be interested in to you. Our emails will fully comply with the federal CAN-SPAM Act and we will require that any third party with whom we share your email address agrees to comply with CAN-SPAM. Please note we will never send you an email directly or through our marketing partners without your consent.  **Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.**
+Where we provide services that utilize your device’s location, we may permit other users of the service to block individuals in certain locations, based upon their IP, from accessing such users’ content. 
 
-_Advertisements_
+**_How We May Share Your Information_**
 
-We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms of use or privacy policies for such advertisers' websites, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s). 
+Your username will be associated with all activities you undertake on the Site including, without limitation, messages sent and other content or information you may determine to post or share. Your gender information help other users find you. Your gender preference(s) will be used to help identify other users that may be of interest to you. Your IP addresses, device data, and other use information are used by us in order to optimize our site for use. Your usage history may also be used to help our internal algorithm to recommend other Site users and/or content to you. 
 
-_Changes to the Privacy Policy_
+**_Cooperation with and Reports to Law Enforcement_**
 
-We may change this privacy policy at any time. Any and all changes to this Policy will be posted here with an updated effective date. In the event that any changes are substantial and/or substantially limit your privacy rights, we will provide you with notice to the email address you have provided to us. 
+We reserve the right to share any and all account information with law enforcement or agencies authorized by applicable governmental authorities either in response to their written request or at our own election should we believe, in our sole discretion, that you or your account may be involved with illegal activity, or if we believe, in our sole discretion, that such disclosure is necessary to protect the rights or property of the Site, our users, and/or one or more third parties. 
 
-_Changes in the Ownership of the Sites_
+**_Public Information_**
 
-The Sites may have the occasion to buy or sell assets including, by way of example only, through a merger, dissolution, and/or transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us with third parties as may be necessary or appropriate to initiate, investigate, and/or complete any such transaction(s). 
+We do not and cannot control any other user or third party’s use of such public information. You should always be careful when deciding to disclose your personal information either through the Service or any other online website. The following are considered public information and are not governed by this Policy. 
+
+_Message boards, blogs and other public forums_
+
+The Site may provide message boards, blogs and other user generated content facilities. Anything that you share through any of these means, including your username by virtue of interacting with such facilities, is deemed public information. 
+
+_Third Party Information Use_
+
+Any information you may send to us or share either publically or privately through any third party website will not be controlled by this Privacy Policy. 
+
+**_Third Party Data Collection_**
+
+_Payment Processing_
+
+Payment processing for purchases you may determine to make on our Site is carried out by third parties. Each such third party payment processor has its own Privacy Policy and Terms of Use and is not governed by this Policy or our Terms of Use. When you make a purchase, you are submitting your data directly to one of such third party payment processors. As such, prior to submitting your data, you will need to review the Privacy Policy and Terms of Use for the relevant third party payment processor to learn about their data collection and retention policies. 
+
+_Fraud Prevention_
+
+We use third party services to assist with fraud prevention and enforcing protections we have placed on our Site. These third parties will receive certain information like your device identification information and IP address. 
+
+**_Questions_**
+
+For any questions about this policy or your data please contact our Data Privacy Officer as follows:  
+EU persons contact Donamis II, s.r.o. at euprivacy@camster.com  
+Non-EU persons please contact Donamis Group, LLC, a Florida limited liability company, and its parent company as licensees of Donamis II, s.r.o. at privacy@camster.com 
+
+**_Cookies_**
+
+This Site makes use of cookies. These cookies do things like track the advertiser who referred you to our Site, record when you have logged in so you don’t have to keep re-entering your login information each time you click a link, allow us to suggest content you might enjoy based upon content you have previously viewed, tailor the advertisements you see, secure your account when someone has attempted to guess your password, and for analysis purposes to learn how all our users interact with our Site in order to improve our Site and Service. If you do not wish to use cookies, please check your security settings in your internet browser or contact your internet browser’s customer support. 
+
+**_Information Security_**
+
+We have measures in place to protect the security of your personal information from unauthorized access or use, such as by using encryption technology. 
+
+**_Withdrawal of Consent_**
+
+If you would like to withdraw your consent at any time, you may do so by requesting account deletion. For fraud prevention, in order to request your account be deleted you must be able to log into your account. 
+
+**_Changes to this Privacy Policy_**
+
+We reserve the right to modify this Privacy Policy at any time in accordance with this provision. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Website and update the “Last Updated” date at the top of this Privacy Policy. We will also provide you with notice of the modification by email. If you disagree with the revised Privacy Policy, you may cancel your account. If you do not cancel your account before the date the revised Privacy Policy becomes effective, your continued access to or use of the Website will be subject to the revised Privacy Policy. 
