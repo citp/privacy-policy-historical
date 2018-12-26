@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petapixel.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622162358id_/https%3A//petapixel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petapixel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023351id_/https%3A//petapixel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ Some advertisements appearing on PetaPixel’s website are delivered by our thir
 We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement “click-throughs,” and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
 
 [Feedburner](https://www.feedburner.com/)‘s privacy policy at [http://www.feedburner.com/fb/a/privacy](https://www.feedburner.com/fb/a/privacy)  
-[Google](https://www.google.com/)‘s privacy policy at <http://www.google.com/privacy.html>  
+[Google](https://www.google.com/)‘s privacy policy at [http://www.google.com/privacy.html](https://www.google.com/privacy.html)  
 [TribalFusion](https://www.tribalfusion.com/)‘s privacy policy at [http://www.tribalfusion.com/TribalFusion/privacy.html](https://www.tribalfusion.com/TribalFusion/privacy.html)
 
 Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that PetaPixel does not employ or manage are not covered by this Privacy Policy.
@@ -40,4 +40,4 @@ If you have subscribed to our content, you may unsubscribe by following the inst
 
 You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
 
-You may also opt-out of receiving cookies from third party advertising networks by visiting [this page](https://www.networkadvertising.org/managing/opt_out.asp).
+You may also opt-out of receiving cookies from third party advertising networks by visiting [this page](https://www.networkadvertising.org/managing/opt_out.asp) and [this page](http://optout.networkadvertising.org/?c=1#!/).
