@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614095847id_/http%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030109id_/https%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | PortableApps.com - Portable software for USB, portable and cloud drives
+# Privacy and Cookie Policy | PortableApps.com
 
 This is the web site of PortableApps.com. We can be reached via email or by telephone on our [contact page](https://web.archive.org/about/contact). We are located in New York, NY in the United States of America. We think your privacy is important, so we have posted this privacy policy to explain the information we collect, how it is used, how we protect it and how you can change it.
 
