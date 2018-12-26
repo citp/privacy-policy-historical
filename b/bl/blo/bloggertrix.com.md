@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertrix.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624101347id_/http%3A//www.bloggertrix.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertrix.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226183636id_/http%3A//www.bloggertrix.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Tips | Blogger Tricks | SEO | CSS and HTML Tricks | Blogger Tips and Tricks | Free Templates
 
