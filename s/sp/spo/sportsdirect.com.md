@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614193711id_/https%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030510id_/https%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy | SportsDirect.com
 
@@ -10,7 +10,7 @@ We take appropriate technical and organisational measures to protect against una
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
 
-So you only need to look in one place to find out all you need to know about how the Group collects and processes your personal information, this policy covers our Website (being any website operated by SportsDirect.com Retail Ltd.), our App (being any app operated by SportsDirect.com Retail Ltd.), our stores and any correspondence you have with the Group in relation to our retail offering. 
+So you only need to look in one place to find out all you need to know about how the Group collects and processes your personal information, this policy covers our Website (being any website operated by SportsDirect.com Retail Ltd.), our App (being any app operated by SportsDirect.com Retail Ltd. or a Group company), our stores and any correspondence you have with the Group in relation to our retail offering. 
 
 Any changes we make to this policy will be reflected on this page and notified to you by email, where appropriate. 
 
