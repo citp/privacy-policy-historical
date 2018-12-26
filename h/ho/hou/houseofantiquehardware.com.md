@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019011817id_/http%3A//www.houseofantiquehardware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226022009id_/https%3A//www.houseofantiquehardware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | House of Antique Hardware
 
@@ -37,7 +37,7 @@ House of Antique Hardware, Inc. may offer the opportunity to subscribe to an ema
 
 5\. Product Reviews
 
-House of Antique Hardware, Inc. may use an independent service to gather, moderate and publish customer-written reviews of products on our site. Customer review submissions are voluntary and cannot be materially altered by House of Antique Hardware. Any customer information volunteered in the process of submitting a product review is subject to the House of Antique Hardware Privacy Policy and also protected by the following privacy policy, which you can read [here](http://www.powerreviews.com/legal/privacy_policy_en_US.html).
+House of Antique Hardware, Inc. may use an independent service to gather, moderate and publish customer-written reviews of products on our site. Customer review submissions are voluntary and cannot be materially altered by House of Antique Hardware. Any customer information volunteered in the process of submitting a product review is subject to the House of Antique Hardware Privacy Policy and also protected by the following privacy policy, which you can read [here](https://www.powerreviews.com/privacy-policy).
 
 **Children**
 
@@ -83,6 +83,8 @@ We give users options wherever necessary and practical. Such choices include:
   * Opting not to participate in certain interactive areas.
 
 
+
+Excepting as may be mandated by Municipal, State or Federal Governance.
 
 **Your Consent**
 
