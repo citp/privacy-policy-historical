@@ -1,142 +1,106 @@
-> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126050923id_/https%3A//www.groove3.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226170324id_/https%3A//www.groove3.com/privacy-statement) for the most accurate reproduction.*
 
 # Groove3.com - Privacy Statement
 
-##  About Us
+Groove 3 Inc. values your personal information and we want to clearly communicate what information we collect and how that information is used by us. We never resell or provide your personal information to third-parties for their use or any purpose beyond delivery of Groove3 products and services.
 
-This is a privacy policy for Groove 3 Inc. Our homepage on the Web is located at [http://www.groove3.com](http://www.groove3.com/).
+### **Your Information at Groove3**
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
-    
-    
-    Groove 3 Inc.
-    4412 Spicewood Springs, #104
-    Austin, TX  78759
-    USA
-              
-
-You may contact us by e-mail at [support@groove3.com](mailto:support@groove3.com). You may call us at 800-460-7509. 
-
-**Basic Elements**
-
-  * **Notice of Data Collected**  
-We involuntarily collect, Click-stream data, HTTP protocol elements, Search terms and Cookies, this data is not linked directly to a user or stored with identifying data. We also collect identifying user information required to complete online transactions, all of which is voluntary and soley at the users discretion.
-  * **Data Collection Methods**  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
-  * **Access to Stored User**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
-    * Change/correct any data we have about you.
-    * Have us delete any data we have about you.
-    * Express any concern you have about our use of your data.
-  * **Security of Collected Data**  
-Data collected is used only by Groovebox and is stored on secure, dedicated servers.
-  * **Redress / Privacy Policy Concerns**  
-If you feel that this Privacy Policy is not being met, please contact us at [info@groove3.com](mailto:info@groove3.com). You may call us at 800-460-7509.
+  * Your name, if you have registered for an account.
+  * Email address, if you have registered an account or signed up for our newsletter.
+  * Your Groove3 order and viewing history.
+  * Any product reviews and profile description you  _may_  have provided.
+  * Your messaging preferences, on if or when you want to be contacted by us. These can be managed from your account dashboard or by contacting us at [support@groove3.com](mailto:support@groove3.com)
 
 
 
-**Dispute Resolution and Privacy Seals**
+### **Service Providers**
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
+We use technical service providers which may operate the technical infrastructure that we need to provide the Groove 3 Service, in particular providers which host, store, manage, and maintain the Groove 3 application, its content and the data we process.
 
-  * **Disputes** : We will remedy all disputes through customer service in accordance with the rules of the BBB . Please email disputes to info@groove3.com
+### **Marketing and Advertising Providers**
 
+We use marketing and advertising partners to show you more tailored content, or to help us understand your use of the Groove 3 Service, to provide you with a better service. We also may also share personal data with certain marketing and advertising partners to send you promotional communications about Groove 3.
 
+**E-Mail Marketing Provider Notice**
 
-**Additional Information**
+We use MailChimp as our marketing automation platform. When marketing contact is authorized, the user information you've provided is transferred to MailChimp for processing in accordance with their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/terms/). Any data transferred is available to Groove3 exclusively and cannot be used by anyone else. You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us, contacting us via our [contact form](https://web.archive.org/contact-us), emailing us directly at [support@groove3.com](mailto:support@groove3.com), or calling us 800-460-7509.
 
-This policy is valid for 1 day from the time that it is loaded by a client.
+### **Facebook Login / Linking**
 
-**Data Collection**
+You can choose to link or unlink Facebook to your Groove3 account and specify what, if any, additional data you want to share with us. This is not mandatory for having a Groove 3 account. We provide logging in and account creation via Facebook signup for convenience, not to collect, track or store your social media activity.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately.
+### **Email address and contact information**
 
-* * *
+When you register for an account or sign up for our newsletter, you will provide minimal information to us. Name and/or Email Address. If you’re completing a purchase, we will know your country of origin. We do not resell this information to third-parties or provide it to third-parties for their use. 
 
-###  Group "Basic information"
+We don’t cross-reference the information you have provided to us with any other sources. We don’t know your age, gender, politics or any demographics that you do not directly provide to us when using our services.
 
-**We collect the following information:**
+### **Security Standards**
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+Our servers are PCI compliant, employ firewalls, port-scanning, redundancy, SSL encryption and multiple additional layers of security. We work hard to make our servers secure and minimize access or storage of personal data.
 
+### **Purchasing**
 
+PayPal is our merchant provider and we use them for all credit card or PayPal transactions. Regardless if you’re paying with Credit Card or PayPal, or making a one-time payment or subscription, we do not store your credit card details. We are committed to providing safe and secure shopping on Groove3.
 
-**This data will be used for the following purposes:**
+### **System Information**
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+If you submit a support request we may be given or request information about your system, such as IP address and browser type. Otherwise, we do not collect and associate information about your computer with any personal information you might have provided to us. 
 
+### **Opting Out, Retrieving and Removing**
 
-
-**This data will be used by ourselves and our agents.**
-
-**The following explanation is provided for why this data is collected:**
-
-> Data collected from all Web users: access logs, and search strings (if entered).
+You can control your email contact preferences at any time, from your user account dashboard. If you would like a list of the data we have or would like your data removed from Groove 3, contact us at [support@groove3.com](mailto:support@groove3.com) and we will assist you quickly.
 
 * * *
 
-###  **Group "Cookies"**
+### **Cookies Used**
 
-We collect the following information:
+**Required Groove3 Cookies**
 
-  * HTTP cookies
+These cookies are required for normal website functions. Groove3.com will not work without them. These cookies do not store any personally identifiable information.
 
-
-
-This data will be used for the following purposes:
-
-  * Anonymous user analysis.
-  * Anonymous user profiling and decision-making.
-
+  * g3ckey
+  * G3cn
+  * g3ptoken
+  * g3puid
+  * PHPSESSID
 
 
-This data will be used by ourselves and our agents.
 
-The following explanation is provided for why this data is collected:
+**Analytics and Marketing Cookies**
 
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+These cookies are set by our analytics and marketing channel partners in order to measure traffic, analyze the site and make you aware of content relevant to your interests based on content viewed in a specific device or browser. These cookies do not store personally identifiable information.
 
-* * *
+Google.com
 
-**Cookies**  
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-  * Pseudononymous analysis
-  * Pseudonym-based decision-making
+  * _gat
+  * _gid
+  * _ga
+  * APISID
+  * SSID
+  * PREF
+  * SID
+  * SAPISID
+  * HSID
 
 
 
 * * *
 
-**Compact Policy Summary**  
-The compact policy which corresponds to this policy is:
-    
-    
-        CP="NOI DSP COR CURa ADMa DEVa PSAa PSDa OUR IND UNI COM NAV INT"
-              
+### Contacting Us
 
-The following table explains the meaning of each field in the compact policy.
+We invite you to contact us if you have questions about this policy.
 
-**Field** | **Meaning**  
----|---  
-`CP=` |  This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`NOI` |  No identifiable information is collected, so no access is possible.  
-`DSP` |  The policy contains at least one dispute-resolution mechanism.  
-`COR` |  Violations of this policy will be corrected.  
-`CURa` |  The data is used for completion of the current activity.  
-`ADMa` |  The data is used for site administration.  
-`DEVa` |  The data is used for research and development.  
-`PSAa` |  The data is used for pseudononymous analysis.  
-`PSDa` |  The data is used for pseudononymous decision-making.  
-`OUR` |  The data is given to ourselves and our agents.  
-`IND` |  The data will be kept indefinitely.  
-`UNI` |  Unique identifiers are collected.  
-`COM` |  Computer information is collected.  
-`NAV` |  Navigation and clickstream data is collected.  
-`INT` |  Interactive data is collected.
+**Mailing Address**
+
+Groove 3 Inc.  
+4412 Spicewood Springs, #104  
+Austin, TX 78759  
+USA
+
+**Email** : [support@groove3.com](mailto:support@groove3.com)
+
+**Phone** : 800-460-7509
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. By continuing to use this site you agree to the use of cookies. [View Privacy Policy](https://web.archive.org/privacy-statement)
