@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loader.io privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624115440id_/https%3A//sendgrid.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loader.io privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226070832id_/https%3A//sendgrid.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | SendGrid
 
@@ -11,6 +11,8 @@ SendGrid respects Your preferences concerning the collection and use of Your Per
   * The [Web Site Navigational Information](https://sendgrid.com/policies/privacy/website-navigational-information) page provides information about the technologies we use to collect information as individuals navigate Our Website or use Our Services and what we use this information for.
 
 
+
+SendGrid uses cookies to enhance your experience. We use these for advertising and analytics purposes. By continuing to use our site, you agree to our [use of cookies](https://sendgrid.com/policies/privacy/website-navigational-information/). 
 
 ### Sign up for our newsletter to get The Scoop on product and email news.
 
