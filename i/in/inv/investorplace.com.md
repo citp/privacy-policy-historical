@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626164852id_/https%3A//investorplace.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227004929id_/https%3A//investorplace.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | InvestorPlace
 
@@ -108,7 +108,7 @@ We grant our users the right to download, store or output materials from our Ser
 
 **6) What Happens In the Event of a  Merger or Acquisition?**
 
-InvestorPlace is a dynamic investment advisory service publisher. As our business continues to develop and grow, it is possible that we might sell or buy other publishers, advisory services, products or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that InvestorPlace Media, LLC, or a substantial part or all of its assets (including InvestorPlace.com), are acquired, customer information will of course likely be one of the transferred assets.  Accordingly, notwithstanding anything to the contrary in this Privacy Policy, we reserve the right to disclose and transfer your Personal Information and other data (i) to a subsequent owner, co-owner or operator of the Service or applicable database; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change; including, in either case, during the course of any related due diligence process.
+InvestorPlace is a dynamic investment premium service publisher. As our business continues to develop and grow, it is possible that we might sell or buy other publishers, premium services, products or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that InvestorPlace Media, LLC, or a substantial part or all of its assets (including InvestorPlace.com), are acquired, customer information will of course likely be one of the transferred assets.  Accordingly, notwithstanding anything to the contrary in this Privacy Policy, we reserve the right to disclose and transfer your Personal Information and other data (i) to a subsequent owner, co-owner or operator of the Service or applicable database; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change; including, in either case, during the course of any related due diligence process.
 
 **7) What About Advertising?**
 
