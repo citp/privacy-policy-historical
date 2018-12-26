@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523124932id_/http%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226061402id_/https%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Savills UK | Privacy Policy
 
@@ -219,6 +219,8 @@ We’ll use one of these safeguards:
 
 
 If you would like to exercise any of your rights please contact [data@savills.com](mailto:data@savills.com).
+
+Please note that we will keep a record of the fact that you have made a request to exercise your rights, and our response to your request, in order to demonstrate compliance with our data protection obligations and so that we can handle any queries, complaints or claims in relation to your request. This record will be kept in accordance with our retention policies at section 6 above.
 
 **9\. Complaints and Contact Details**
 
