@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the yousignanimals.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125120753id_/http%3A//www.yousignanimals.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousignanimals.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226092116id_/http%3A//www.yousignanimals.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Introduction
+## Introduction to the Privacy Policy
 
-This Privacy Policy governs the manner in which YouSignAnimals.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.yousignanimals.org](http://www.yousignanimals.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by YouSignAnimals.org.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+
+  * Definition: The word "Site", is, in this privacy policy, reffering to YouSignAnimals.org
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. Or until you choose to delete it, wich you can.
+  * We will collect personal information by lawful and fair means and with the knowledge and consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+
+
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
 ## Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our Site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 ## Non-personal identification information
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-## Web browser cookies
+## Cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
-
-By continuing to use our website without changing the settings, you are agreeing to our use of cookies.
-
-For more information about your rights please read the [European ePrivacy Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:EN:HTML). 
+Please read our [Cookie Notice](https://web.archive.org/web/20181226092116id_/http%3A//www.yousignanimals.org/cookie_notice.php).
 
 ## How we use collected information
 
@@ -34,24 +41,69 @@ Information you provide helps us respond to your customer service requests and s
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-We may use the email address to send User information and updates. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
 ## How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We adopt appropriate SSL encrypted data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 ## Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We do not sell email addresses and any kind of personal data whatsoever!
+YouSignAnimals.org does NOT and will NOT share personal information of our users with third parties. Even if we will one day, we will ASK THAT YOU GIVE US YOUR CONSENT FIRST! 
+
+### For European Union Users
+
+  * We do not transfer European Union Users information outside of the European Union.
+  * We implemented systems to fully comply with GDPR.
+  * YouSignAnimals.org is buid with privacy in mind from the ground up.
+
+
+
+## How we protect your rights under GDPR
+
+Right | How we protect you  
+---|---  
+The rights in the scope of consent (the right to withdraw consent at any time). | We ask you to give consent before giving us yur personal data. If you do not have an account, we do not store any data about you or it is anonymized. The data you fill out in our contact form is not stored or used for any other means than replying to you. The only time when we ask for any of your data and store it is when you create an account. Then, we only ask for the minimal data we need to identify you as a person: name and email address. If you create an account by Facebook, we will also store your oauth_uid and access_token. Also, we store your IP number in anonymized form (last three digits are set to "0"). We use the email address for transactional, non-marketing, communications only. You can always withdraw this consent by deleting your account and all the data we hold about you.  
+Time limit for complying with the rights of data subjects | We will try to answer to any complain in 14 days or less. Usually right away.  
+Right to basic information (purposes for with the data is beeing precessed) | We only process your data when you create an account.  
+Right of access to the information we have about you. | You can chek if we hold any information about you such as an account on the [Recover account](https://web.archive.org/web/20181226092116id_/http%3A//www.yousignanimals.org/recover.php) page.   
+Right of rectification entitled to require a controller to rectify any errors in their personal data. (right of correction) | When you log in to your account, you can modify either your name (under Edit Profile) or your email address (under Change Email). You can also edit any petitions you created from the "Edit petition" button in the petition's page.  
+Right to erasure (the "right to be forgotten") | You can always delete your all your data from your account. The button is marked in red and says "Delete My Profile". There, you can delete any petitions you created. Also, and any remove your signature form any petition you signed. This applies for both account holders and non-account holders.  
+Notifying third parties regarding rectification, erasure or restriction | We do not share your data with any third parties, but if we ever do, we will notify them if you want to delete your data.  
+Right of data portability | You can always download your all your data from your account. The button is marked in red and says "Download My Profile". It will be a .zip archive with a .json with all your database info (profile, petitions you created, signatures), photos from petitions you created in .jpg format and videos you posted in .mp4 format.  
+Right to object to processing or for the purposes of direct marketing | We do not send direct marketing emails. If you subscribed to web notifications and wish to unsubscribe you can do so in the [Settings Page](https://web.archive.org/web/20181226092116id_/http%3A//www.yousignanimals.org/contact.php). You can always object to processing by terminating your account. To do this, delete your all your data from your account. The button is marked in red and says "Delete My Profile".   
+The right to lodge a complaint with a supervisory authority | You can lodge a complaint to your supervisign authority in your respective country.  
+Right to not be evaluated on the basis of automated processing  | We do not evaluate our users in such ways.  
+The period for which the personal data will be stored. | We will keep your account safe and protect your data integrity, availability, confidentiality and durability until such time that you decide to delete your account.  
+  
+## How we protect your information
+
+We adopt appropriate SSL encrypted data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+## Sharing your personal information
+
+YouSignAnimals.org does NOT and will NOT share personal information of our users with third parties. Even if we will one day, we will ASK THAT YOU GIVE US YOUR CONSENT FIRST! 
+
+### For European Union Users
+
+  * We do not transfer European Union Users information outside of the European Union.
+  * We implemented systems to fully comply with GDPR.
+  * YouSignAnimals.org is buid with privacy in mind from the ground up.
+
+
 
 ## Third party websites
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+## Notifications
+
+We send out push notifications with important petitions to users who have subscribed to them. You can unsubscribe below:
+
+## Emails
+
+We DO NOT send promotional or marketing emails of any kind. We might send transactional emails like, but not limited to: confirming your email address when registering for a new account, changing your email address or requesting a new password.
 
 ## Advertising
 
@@ -75,7 +127,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[YouSignAnimals.org](http://www.yousignanimals.org/) | [YouSignAnimals.org Contact Information](http://www.yousignanimals.org/contact.php)   
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:  
+[YouSignAnimals.org](https://www.yousignanimals.org/) | [YouSignAnimals.org Contact Information](https://www.yousignanimals.org/contact.php)   
 [contact@yousignanimals.org](mailto:contact@yousignanimals.org)  
-This document was last updated on March 20, 2016
+This document was last updated on March 24, 2018
