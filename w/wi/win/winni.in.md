@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winni.in privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626082623id_/https%3A//www.winni.in/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winni.in privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226162329id_/https%3A//www.winni.in/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Winni.in
 
@@ -34,6 +34,9 @@ Additionally, you may encounter "cookies" or other similar devices on certain pa
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you. 
 
+**Winni's Android App**  
+For a better experience while using our Service, we may require you to provide certain personally identifiable information, including but not limited to [add whatever you collect here, e.g. users name | address, device id. The information that we request is retained on your device and is not collected by us in any way. It will be retained by us and used as described in this privacy policy. The app does use third party services that may collect information used to identify you. 
+
 ## Our use of your information
 
 We use your personal information to facilitate the services you request. We save your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy. 
@@ -63,6 +66,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on Winni, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
 You hereby acknowledge that Winni is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. 
+
+## Log Data
+
+We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol ("IP") address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics. 
 
 ## Terms and modifications to this privacy policy
 
