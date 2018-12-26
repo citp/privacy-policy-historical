@@ -1,0 +1,173 @@
+<!--The following is the downloaded HTML source of the csgogem.com privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226085017id_/http%3A//www.twitlonger.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="twitlonger, twit longer, twitter longer, twitterlonger, tweet longer, tweetlonger, 140, over 140, twitter, more than 140">
+		<meta name="description" content="TwitLonger is the easy way to post more than 140 characters to Twitter">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+    <title>TwitLonger — When you talk too much for Twitter</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/tl_responsive.css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans&amp;v2" rel="stylesheet" type="text/css">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+      </head>
+
+  <body>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-6415384-2', 'twitlonger.com');
+      ga('send', 'pageview');
+
+      
+    </script>
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <span class="navbar-default">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </span>
+          <a class="navbar-brand" href="/">TwitLonger</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/ad-free">Ad-free</a></li>
+            <li><a href="/account">Account</a></li>
+            <li class="hidden-xs"><div class="navbar-form"><a href="/post" class="btn btn-primary"><i class="fa fa-pencil-square-o"></i> Write a Post</a></div></li>
+            <li class="visible-xs"><a href="/post">Write a Post</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container" id="main-container">
+  <div class="row" id="post">
+    <div class="col-xs-12 col-md-4 col-md-push-8 col-lg-3 col-lg-push-8">
+      <div id="postinfo">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12">
+            <h3>Privacy Policy</h3>
+            <hr>
+          </div>
+          <div class="col-xs-6 col-sm-12 col-md-6" id="twitter-count">
+      			<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+        			<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.twitlonger.com/privacy" data-via="twitlonger" data-count="horizontal" data-counturl="http://www.twitlonger.com/privacy" data-text="TwitLonger Privacy Policy">Tweet</a>
+          </div>
+
+          <div class="col-xs-6 col-sm-12 col-md-6" id="facebook-like">
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.twitlonger.com%2Fprivacy&amp;width=150&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=422371721221723" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:115px; height:21px;" allowtransparency="true"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-8 col-md-pull-4 col-lg-7 col-lg-pull-3 col-lg-offset-1">
+      <div id="postcontent">
+        <h4>Summary</h4>
+        <p>
+          We promise to be nice.
+        </p>
+
+        <h4>Privacy</h4>
+        <p>
+          Important. Your Twitter privacy settings are not reflected in TwitLonger. If your updates are private in Twitter it does not mean your TwitLonger posts are private. This includes Direct Messages. It is not recommended that you try to use TwitLonger for sending DMs.
+        </p>
+
+        <p>
+          OK, basic terms of privacy for the site. We store messages indefinitely (that means forever, or the closest approximation the site makes it to). Messages can be deleted in the “Account” section of the site (look up in the menu <i class="fa fa-hand-o-up"></i>, there's a link there). When a message is deleted, it is really, properly deleted, we will not be able to get it back for you. We will not “back it up” on the chance you change your mind. It may be backed up as part of our standard hosting company's service in case of hard drive failures, but not in any sinister, tracking you way.
+        </p>
+
+        <p>
+          We store your Twitter username, your Twitter display name and the link to your Twitter avatar and background. We do not store passwords since we use OAuth to access your Twitter account.
+        </p>
+
+        <h4>What we do with your information</h4>
+        <p>
+          Nothing. Really. We use it to post to Twitter and that's it. We use cookies to keep you logged in and to perform the normal working of the site. We collect statistics on visitors through Google Analytics and serve ads via a number of popular ad platforms who may set their own cookies, but we don't do any keyword processing for our own edification. If you do not wish to have third party cookies set, you should use the settings provided in your browser's preferences to block these cookies.
+        </p>
+
+        <p>
+          We will hand over information on request to any law enforcement authority, specifically IP address, but seriously, what are the chances of us ever needing to do that?
+        </p>
+
+        <p>
+          We <em>definitely</em> won't sell, pass on, redistribute or otherwise make available information to third parties, unless we get acquired, in which case the acquiring company will obviously get the messages when they take over the site. Third party Twitter clients and sites will be able to display the content of your posts via the TwitLonger API as part of their normal operation. Copyright is retained with the original author. If you post any good jokes we might use them in the pub on Friday night.
+        </p>
+
+        <h4>Guarantee/Uptime</h4>
+        <p>
+          We make no promise the service will be available at any specific time or for any specific duration. We do not guarantee your messages will be available, nor do we guarantee they won't magically disappear. If they're that important, grab a copy of them. We reserve the right to remove any and all parts of the service at any time and without warning.
+        </p>
+
+        <p>
+          But we promise to be nice.
+        </p>
+
+        <h4>Advertising</h4>
+        <p>
+          We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org">www.networkadvertising.org</a>.
+        </p>
+
+      </div>
+    </div>
+  </div>
+
+
+      <div class="row">
+        <div class="col-xs-12 col-md-8 col-lg-7 col-lg-offset-1">
+          <div id="footer">
+            <div class="row">
+              <div class="col-xs-12 col-sm-5 col-md-6 col-lg-6">
+                <ul class="list-inline text-center" id="site-links">
+                  <li><a href="/">home</a></li>
+            		  <li><a href="/about">about</a></li>
+            		  <li><a href="/privacy">privacy</a></li>
+            		  <li><a href="http://api.twitlonger.com">api</a></li>
+            		  <li><a href="/ad-free">ad-free</a></li>
+                </ul>
+                <p id="twitter-follow" class="text-center">
+                  <a href="https://twitter.com/TwitLonger" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @TwitLonger</a>
+                </p>
+              </div>
+              <div class="col-xs-12 col-sm-7 col-md-6 col-lg-6 small" id="disclaimer">
+                <p>
+            			TwitLonger is developed entirely by <a href="http://imetstuart.com">Stuart Gibson</a>
+                  (<a href="http://www.twitter.com/stuartgibson">@stuartgibson</a>).
+                  TwitLonger is in no way associated with Twitter, but they sure do a swell job over there <i class="fa fa-heart-o"></i>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"406fb7a40f","applicationID":"4591669","transactionName":"ZAAHZhYEXBEFVkZRXV1KJFEQDF0MS3hTUVwcFRdbEgRRGw==","queueTime":0,"applicationTime":3,"ttGuid":"","agentToken":"","atts":"SEcEEF4eTx8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
