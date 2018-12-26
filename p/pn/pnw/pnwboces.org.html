@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pnwboces.org privacy policy that was archived on 2018-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630225325id_/http%3A//pnwboces.org/site/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pnwboces.org privacy policy that was archived on 2018-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226022933id_/http%3A//www.pnwboces.org/site/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><title>
 	PNW BOCES
@@ -8,10 +8,16 @@
 <meta http-equiv="content-style-type" content="text/css"> 
 <meta http-equiv="content-script-type" content="text/javascript"> 
 <link href="/CMSPages/GetResource.ashx?stylesheetname=Styles.css" type="text/css" rel="stylesheet">
-<meta name="google-site-verification" content="X7sC-rD9yQEUKMdgD3zyBOXuk20xKayUpnqYJkFA6_4"> 
-<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon">
-<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fCustom%2fjquery-1.7.1.min.js" type="text/javascript"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="X7sC-rD9yQEUKMdgD3zyBOXuk20xKayUpnqYJkFA6_4">
+<link href="/CMSPages/GetResource.ashx?stylesheetfile=~/css/styles.css" type="text/css" rel="stylesheet">
+<link href="/CMSPages/GetResource.ashx?stylesheetfile=~/css/slick.css" type="text/css" rel="stylesheet">
+<link href="/CMSPages/GetResource.ashx?stylesheetfile=~/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CMSPages/GetResource.ashx?scriptfile=~/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="/CMSPages/GetResource.ashx?scriptfile=~/js/slick.min.js"></script>
+<script type="text/javascript" src="/CMSPages/GetResource.ashx?scriptfile=~/js/main.js"></script>
+
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fCustom%2fjquery-1.7.1.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 	//<![CDATA[
 $(document).ready(function() {
@@ -31,6 +37,44 @@ var toggleFx = function() {
         }
     );
 });
+//]]>
+</script><script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fCustom%2fjquery.bxslider.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+jQuery(document).ready(function ($) {
+            $('#banner-fade').bxSlider({
+                slideWidth: 695,//720,
+                mode: 'fade',
+                speed: 2000,
+                nextText: '<div class="divNxt divNav"></div>',
+                prevText: '<div class="divPrv divNav"></div>',
+				auto: true, 
+            });
+            /*$('.bx-wrapper').hover(
+              function(){$('.divNav').fadeIn(400)},
+              function(){$('.divNav').fadeOut()}
+              );*///to show main carousel next prev arrows
+            $('.slider1').bxSlider({
+                slideWidth: 145,
+                minSlides: 2,
+                maxSlides: 3,
+                slideMargin: 10,
+                //video: true
+            });
+            $('.bx-wrapper').css({
+                'max-width': '790px',
+            });
+            $('.bx-wrapper .slide').css({
+                'margin-right': '11px',
+            });
+            $(".slide img").hover(function () {
+                $(".gallery-caption").html("");
+                $(".gallery-caption").html($(this).attr('alt'));
+            });
+            $(".slide img").mouseleave(function () {
+                $(".gallery-caption").html("&nbsp;");
+            });
+        });
 //]]>
 </script>
 <script type="text/javascript">
@@ -67,13 +111,50 @@ window.onload = function() {
    //};
 };
 //]]>
-</script><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet">
-</head>
-<body class="LTR ENUS ContentBody">
+</script> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon">
+
+<script type="text/javascript">
+	//<![CDATA[
+//Use the onload event so that we can make sure the DOM is at 
+//least mostly loaded before trying to get elements
+window.onload = function() {
+   //Get the DOM element that represents the <button> element.
+   //And set the onclick event
+   //document.getElementById("LearnMoreBtn").onclick = function(){
+      //Set a variable to contain the DOM element of the overly
+      var overlay = document.getElementById("overlay");
+      //Set a variable to contain the DOM element of the popup
+      var popup = document.getElementById("popup");
+      if (overlay !== null)
+      {
+        //Changing the display css style from none to block will make it visible
+        overlay.style.display = "block";
+       }
+       if (popup !== null)
+       {
+         //Same goes for the popup
+         popup.style.display = "block";
+       }
+
+      // Get the <span> element that closes the modal
+      document.getElementById("close").onclick = function(){
+      // When the user clicks on <span> (x), close the modal
+      //Changing the display css style from none to block will make it visible
+      overlay.style.display = "none";
+      //Same goes for the popup
+      popup.style.display = "none";
+      };
+   //};
+};
+//]]>
+</script></head>
+<body class="LTR Unknown ENUS ContentBody">
     
     <form method="post" action="/site/Privacy-Policy.aspx" id="form">
-<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="UC7zvVgOBquGur08Gi9FqdzYZoDvIS0kF2cFdyVnPIaAY9Zk/qNUrfkE8YWwqTLAhFWeXGadm5Ru1+rz1UglXxWBsNIG3NC/jgnAQaaEsmw=">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="uk99Iv21iQQZW2UTstZkF/GtFzHZgfQPDmoQlc9CK2+5EjjAPoCBc6Zb9hh19xAXlAZpA40UETOAKnBEnuVGWwbG6wtONUP+XOEkGn3BiGQ02VWKe0KKuX8aPgq3LQYJF8MlRzMoRjmFcWq2GniXy4I9FWtiuXW+OPpPQkXibeMQdsbl0zbv9CMcnXPV7p6Edg9XHozQnOZWo8u60zQdUSU9cR6+3Cs7/ATpncFqsrNgfsBT3HkZbSM223DzbRuu2TpyONpyV0y9hYWmkwCuKEL1Hm8ppvcPMO7a1nFggwiluMXKpBdv+Sbc1bFjiPDBs9MCGSkyDtFxnISUnVh7f9wSu70M7bGHbWQbpsN+J0GtioBllCd71wwK3uQ99sSfLYjPkF+EM2zJnb9b5gX5vWlzFSrkkx27vuN1VwdjmELhFGQ6vGk8S0f1mX4f7YyCxmJrrgxCYXB6IVogkoFVr3zYTZXw1h3kiPxsZAPSlz+t9L+6IzkO636/ulANqk2yq8czMksM0t+pB1vBGJaP3ttrGr2vlZO1CvPCYUtyrGhopUf++rQiHT+vuzZAtBAos9cV8NI4XLSVMdbpqwgOtho96RlTaYD1yLqGSVw4+j2VmeYOs3iv4p7jaPZH8kJMdz2HuiWI8fn3sUc2/2R6AcfLijGCJpeiU46FwVm9ybgGssMpnGc0BrsJ9cSbEJ+cuPjEfuV2HFAAIlfjZqCB0VI4IUQmCABEUoWdz6cX7R1x6GR131Z8fzfUBm7a1X/wHkWg6EvqSsncNoiI/8+lYNisxDZ4L0PR6eSKjGiWwkxtyPwR0xiDfSlhzEO2NKkhG7RR5g2oAyRU0hWFCJgfVOJidbkloXA00wOBGEZYLgug74D6UL94dTZmnT+BRIFEu/wNgc2aevcx2M6aGaVkFQ==">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="cZf7kdzeYvGImUNEPrweu1KVBI4NKnQYQbau+YdYqApayHZDtwSeRsvgEw6qJy4GJHlUyyI0Po9kFdAWIsj5OtlJnmCEycFT0AI3hhOf5OY=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ZfwNc9+n4aIFxGeLnZ4TB8kh1JHvAjOjIm9EZp2bRGpGwe465BOpR2XWj1sLPiKYVVR+QVTyGI/Qv/Bsgpqho6IYmpXW5PCKl9x/QWxCcrPDrBVLn7oIWizE5gbxx9AR1FEARATmYjCFI8WVXsYzIws0oFFHZ/TryfBR0b9osPQzHVKS/pevF26f/yylh9zjBZNgfWq4ILzL9MScHD/mW0+C/bxrk/YNx0cyv6H5cbZMxd+aEQPfL8qL5C96ZN6LAkbpT/nwVHYQqI6SAFSPZz9CXO3kLIUvb08jfMnOSbzny57UR09gf04N9ut3vegqYfm5YYZ4pX8B/Fm2HneOPIqy2IQ5d3aFn5lmzp6puHRuawyDfO2I802d8g59zLwzz020K6hGuvTP1wMIF50JaKQLZlfyR4h566dupevIrBaaueIz70ubt97sCxybvTGpob6KZEFg1uNYs+kTp+W+k8SQxMqRCtwFi13CCDOR4bkeYJ3chHEjYzKktZmGBlJZ971yngcGR7yX8eahYFgV8v40ojnizWuOQRIzEGoDo3bWhSR8bNSQpfXfdUUnAVcvQjFKLY+z1ctTNxRSN2MT5LNuuXGNCvlUnjTm+L/7R6QmFoJcPEnZMFghK1YaUX/T2jJX9bLQlc/RKFT2BERUPhjkLTflhic6yMzgeaZdUyLHgnrWEL2xgtAZNE4INLxVvlK8/HV8hpLbSNoRevP8VfNYvZFKxgnHvCx5L6gCgPoAUzvapKSmokwMx4dGXlCfUZ0yHmt6AHCRyqoxv/QR3JAB4AunEJX+7whuKMeirbso/Nutb+cxU4EC9/jjNJvfZojRkNGt0SZAxJHmyuffI3G7y6YkxwGebzE1mrcASaVAUe47BdgxPfAo8UkLmYChJBdrLoqRLoRSpxcMD4yWmQ==">
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
@@ -84,19 +165,18 @@ function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { win
 function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(480); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
 //]]>
 </script>
-<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fjquery%2fjquery-core.js" type="text/javascript"></script>
-<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSWebParts%2fSmartSearch%2fSearchBox_files%2fPredictiveSearch.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=qph9tUZ6hGPLbkznkRkqTTLE1IE4p3fbwa4MoNnXRgDXvSQn2H4Lq2ppogc-UHYqJTWh64gUmzd9kg_LsKdt8O-wf9iCMH_OQYEMSa6chObXIzyUbmzJM_X6NLpF358U0&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yLC3jxkYnFFwmzrkQ47aSrxCowrvTLCF1AKpB9RGjGQ2W66iywGaLVOhfFdQuyUMkkMLSy5cZ470roiIZsuhBVSLKPhhN-Kl3mdL34wgkSKhaAIhR8LsEEZvc4mgmkx3P_tJD5044O2N3viwAtkPJhk1&amp;t=ffffffffcd368728" type="text/javascript"></script>
 <script type="text/javascript">
 	//<![CDATA[
 
 var CMS = CMS || {};
 CMS.Application = {
-  "isRTL": "false",
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
   "isDebuggingEnabled": false,
   "applicationUrl": "/",
-  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
-  "isDialog": false
+  "isDialog": false,
+  "isRTL": "false"
 };
 
 //]]>
@@ -106,388 +186,361 @@ CMS.Application = {
     <div id="ctxM">
 
 </div>
+    <section class="top_blue">
+  <div class="container">
+  	<a href="/"><img id="p_lt_WebPartZone1_Logo_EditableImage_ucEditableImage_imgImage" src="/getmedia/86c7e40b-a725-4eb7-a08d-0c74f50c9c34/pnw-logo-white.aspx?width=224&amp;height=61" alt="">
+
+</a>
+    <div id="top_search">
+  <div class="field_wrap">
+    <input type="text" search-page="/About-Us/searchresults.aspx" class="top_search_field" name="q">
+    <input type="image" name="srch_submit" class="top_search_submit" src="/PNWBOCES/media/PNWBOCES/searc_submit.gif?ext=.gif" alt="">
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".top_search_submit").click(function(){
+      var value = $(this).siblings(".top_search_field").val();
+      var page = $(this).siblings(".top_search_field").attr("search-page");
+      PerformSearch(value, page);
+      return false;
+    });
+    $(".top_search_field").keypress(function(e){
+      var key = e.which;
+      if(key == 13)  // the enter key code
+      {
+        var value = $(this).val();
+        var page = $(this).attr("search-page");
+        PerformSearch(value, page);
+        return false;
+      }
+    });
     
-<div class="wrapper">
-    <div class="container">
-        <div class="header">
-          <link rel="icon" type="image/png" href="/App_Themes/Styles.css/favicon.jpg">
-          <link rel="shortcut icon" type="image/png" href="/App_Themes/Styles.css/favicon.jpg">
-
-            <div class="logo"><a href="http://www.pnwboces.org/"><img src="/App_Themes/Styles.css/new-logo1.png" alt="PNW BOCES Logo" onmouseover="this.src='/App_Themes/Styles.css/new-logo2.png';" onmouseout="this.src='/App_Themes/Styles.css/new-logo1.png';"></a></div>
-            <div class="right-section">
-                <div class="top-row">
-                    <!-- <ul>
-                        <li><a href="/site/BOCES-Mobile-App.aspx"><img src="/App_Themes/Styles.css/tree-logo.png" alt=""/></a></li>
-                        <li><a href="https://www.linkedin.com/company/putnam-northern-westchester-boces"><img src="/App_Themes/Styles.css/in.png" alt=""/></a></li>
-                        <li><a href="https://www.pinterest.com/pnwboces/"><img src="/App_Themes/Styles.css/p.png" alt=""/></a></li>
-                        <li><a href="https://www.facebook.com/pnwboces"><img src="/App_Themes/Styles.css/fb.png" alt=""/></a></li>
-                        <li><a href="https://twitter.com/pnwboces"><img src="/App_Themes/Styles.css/tw.png" alt=""/></a></li>
-                        <li><a href="https://www.youtube.com/user/PNWBOCES"><img src="/App_Themes/Styles.css/yt.png" alt=""/></a></li>
-                    </ul> -->
-                    <div class="search-wrap">
-                    <div id="p_lt_ctl00_SmartSearchBox_pnlSearch" class="searchBox">
-	
-    <label for="p_lt_ctl00_SmartSearchBox_txtWord" id="p_lt_ctl00_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
-    <input name="p$lt$ctl00$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl00_SmartSearchBox_txtWord" class="gsc-input form-control" autocomplete="off">
     
-    <input type="image" name="p$lt$ctl00$SmartSearchBox$btnImageButton" id="p_lt_ctl00_SmartSearchBox_btnImageButton" class="search-btn" src="/App_Themes/Styles.css/search-btn.png" alt="Search">
-    <div id="p_lt_ctl00_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder"><div id="results_p_lt_ctl00_SmartSearchBox" class="predictiveSearchResults" style="display: none;"></div></div>
-
-</div>
-
-                    </div>
-                    <div class="clear"></div>
-                  </div>
-                  <div class="clear"></div>
-              </div>
-              <div class="clear"></div>
+    function PerformSearch(value, page){
+      if(value != "" && value != null)
+      {
+        var q = page + "?searchtext=" + encodeURIComponent(value) + "&searchmode=anyword";
+        window.location.href = q;
+      }
+      
+    }
+  });
+</script>
+    <section class="mod mbl-hmbrgr">
+      <div class="menu">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <p class="menu_desc">menu</p>
       </div>
-      <!-- top nav -->
-      <div class="main-nav">
-          <ul class="qmmc" id="qm0">
-	<li><a href="/"><img alt="Back to Home Page Link" height="16" id="Image12" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','../images/PNW_web_HOMEicon_rollover.png',1)" src="http://www.pnwboces.org/images/PNW_web_HOMEicon.png" width="15"></a></li>
-	<li><a class="qmparent" href="http://www.pnwboces.org/" style="padding-right: 10px;">Welcome<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/site/Superintendent-s-Welcome.aspx">District Superintendent's Desk</a></li>
-		<li><a href="/About-Us/A-Brief-History.aspx">About Us</a></li>
-		<li><a href="/site/BOCES-CAMPUS-SCHOOL-CALENDAR.aspx">BOCES School Calendar</a></li>
-		<li style="z-index: 100;"><a href="/Contact/Contact-Home.aspx">Contact<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/Board-of-Education/Board-Members.aspx">Board Members</a></li>
-			<li><a href="/Contact/Central-Administration.aspx">Central Administration</a></li>
-			<li><a href="/Contact/Contact-Home.aspx">Main Office</a></li>
-			<li><a href="http://www.pnwboces.org/site/contacts.aspx" target="_blank">Personnel Listing</a></li>
-			<li><a href="mailto:info@pnwboces.org">Send an Email</a></li>
-		</ul>
-		</li>
-		<li><a href="/site/Directions.aspx">Directions</a></li>
-		<li><a href="/site/Frequently-Asked-Questions.aspx">FAQ</a></li>
-		<li><a href="/site/Links.aspx">Links</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 10px;">Schools<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/Tech/Home.aspx">Tech Center</a></li>
-		<li><a href="/Special-Education/Walden.aspx">The Walden School</a></li>
-		<li><a href="/Special-Education/Pines-Bridge.aspx">Pinesbridge</a></li>
-		<li><a href="/foxmeadow/welcome.aspx">Fox Meadow Middle/HS</a></li>
-		<li><a href="/site/In-District-Programs.aspx">In District Programs</a></li>
-		<li><a href="http://www.pnwboces.org/OC/">OC21</a></li>
-		<li><a href="http://www.rocklandboces.org/PTECH/index.cfm">Hudson Valley P-Tech</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 10px;">Departments &amp; Services<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/adulted">Adult &amp; Continuing Education</a></li>
-		<li><a href="/Tech/Home.aspx">Career &amp; Tech</a></li>
-		<li><a href="/cel/Center-for-Educational-Leadership-and-HR-Services.aspx">CEL &amp; HR Services</a></li>
-		<li><a href="/School-Communications/School-Communications.aspx">Communications</a></li>
-		<li><a href="/Curriculum-Center/Curriculum-and-Instructional-Services.aspx">Curriculum &amp; Instructional Services</a></li>
-		<li><a href="/Dignity-Act/Dignity-Act.aspx">Dignity for All Students Act</a></li>
-		<li><a href="/Curriculum-Center/Environmental/Welcome.aspx">Environmental Education</a></li>
-		<li><a href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Guidance &amp; Child Study Center</a></li>
-		<li><a href="/Health-Benefits-Consortium/Health-Benefits-Consortium-Home.aspx">Health Benefits Consortium</a></li>
-		<li><a href="/Internal-Departments/Internal-Departments-Home.aspx">Internal Administrative Departments<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/Internal-Departments/Business-Office.aspx">Business Office</a></li>
-			<li><a href="/EPS/Department-Home.aspx">Educational Printing Services</a></li>
-			<li><a href="/Internal-Departments/HR/Home.aspx">Human Resources &amp; Professional Development</a></li>
-			<li><a href="/IT/Department-Home.aspx">Information Technology</a></li>
-			<li><a href="/Internal-Departments/Operations-Maintenance/Operation-And-Maintenance.aspx">Operations &amp; Maintenance</a></li>
-		</ul>
-		</li>
-		<li><a href="/Regional-Safety-Services/Department-Home.aspx">Regional Safety Services</a></li>
-		<li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
-		<li><a href="/Special-Education/Department-Home.aspx">Special Education</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 10px;">Professional Development<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/Adult-Continuing-Education-top/Adult-Continuing-Education.aspx">Adult &amp; Continuing Education</a></li>
-		<li><a href="/Tech/Home.aspx">Career &amp; Tech</a></li>
-		<li><a href="/cel/Professional-Development.aspx">Center for Educational Leadership</a></li>
-		<li><a href="/Curriculum-Center/Curriculum-and-Instructional-Services.aspx">Curriculum &amp; Instruction</a></li>
-		<li><a href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Guidance &amp; Child Study Center</a></li>
-		<li><a href="/Curriculum-Center/Hudson-River-Teacher-Center/Professional-Development/Professional-Development.aspx">Hudson River Teacher Center</a></li>
-		<li><a href="/getdoc/8e64d1d7-2b7c-40ee-b921-30df71efb386/MicrosoftOfficeTraining.aspx">Information Technology</a></li>
-		<li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
-		<li><a href="/Dignity-Act/Dignity-Act.aspx">The Dignity Act</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 10px;">Employment<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="http://olasjobs.org/" target="_blank">Jobs in NYS (OLAS)</a></li>
-		<li><a href="/site/Employment.aspx">Jobs at PNW/BOCES<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/Internal-Departments/HR/HiringForms.aspx">Applicant Hiring Forms</a></li>
-			<li><a href="/site/Employment.aspx">Current Job Openings</a></li>
-		</ul>
-		</li>
-		<li><a href="http://humanresources.westchestergov.com/local-agencies/local-job-descriptions" target="_blank">Civil Service Job Descriptions</a></li>
-		<li><a href="/site/Non-Discrimination-Statement.aspx">Non-Discrimination Statement</a></li>
-	</ul>
-	</li>
-	<li><a href="/site/site-map.aspx">A - Z Index</a></li>
-</ul>
-      </div>
-      <!-- end top nav -->
-      <!-- main content -->
-      <div class="main-content">
-        
-
-      <!-- main content -->
-      <div style="width: 100%;">
-        <div id="smoothcontainer2" style="margin-top: 17px; margin-left: 15px;">
-          <div class="ddsmoothmenu-v" id="smoothmenu2" style="display: block;">
-            <div id="smoothcontainer2" style="margin-top: 0px; margin-left: 15px;">
-<div class="ddsmoothmenu-v" id="smoothmenu2" style="display: block;">
-<ul class="qmmc" id="qm1"><br>
-	<li style="z-index: 1000;"><a href="/site/Superintendent-s-Welcome.aspx" style="padding-right: 6px;">District Superintendent's Welcome</a></li>
-	<li style="z-index: 1000;"><a href="/site/School-Calendar-Update.aspx" style="padding-right: 6px;">** School Calendar Update **</a></li>
-	<li><a href="/site/Directions.aspx">Directions</a></li>
-	<li><a href="/About-Us/Component-Districts.aspx">Component Districts</a></li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 6px;">Students &amp; Parents<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/Adult-Continuing-Education-top/Adult-Continuing-Education.aspx">Adult &amp; Continuing Education</a></li>
-		<li><a href="/Dignity-Act/Dignity-Act.aspx">Dignity for All Students Act</a></li>
-		<li><a class="qmparent" href="javascript:void(0)">K - 12 Students<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/Career-Tech/Home.aspx">Career &amp; Technical Education</a></li>
-			<li><a href="/Curriculum-Center/Destination-Imagination.aspx">Destination Imagination</a></li>
-			<li><a href="/Curriculum-Center/Environmental/Welcome.aspx">Environmental Education</a></li>
-			<li><a href="/foxmeadow/welcome.aspx">Fox Meadow High School</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/National_Honor_Society.aspx">National Technical Honor Society</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/Regional-Youth-Leadership.aspx">Regional Youth Leadership Organization (RYLO)</a></li>
-			<li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
-			<li><a href="/Special-Education/Department-Home.aspx">Special Education Programs</a></li>
-		</ul>
-		</li>
-		<li><a class="qmparent" href="javascript:void(0)">Parent Programs &amp; Resources<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="http://www.pnwboces.org/artsined/index.aspx">Arts in Education</a></li>
-			<li><a href="/Food-Service/Food-Service-Home.aspx">Food Service Department</a></li>
-			<li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
-			<li><a href="http://pnwboces.schoolwires.net/pnwboces/site/default.asp">Teacher Websites</a></li>
-		</ul>
-		</li>
-		<li><a href="javascript:void(0)">Policies, Procedures &amp; Forms<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/pdf/2016-17-CTE-Welcome-Back-Packet.aspx" target="_blank">2017-18 Tech Center Welcome Back Packet</a></li>
-			<li><a href="/pdf/HR/2016-17-PNW-BOCES-Code-of-Conduct.aspx" target="_blank">Code of Conduct</a></li>
-			<li><a href="/pdf/HR/SexualHarassmentHandbook.aspx" target="_blank">Sexual Harrassment Handbook for Employees and Students</a></li>
-		</ul>
-		</li>
-		<li><a href="/SchoolHealth/Department-Home.aspx">School Health Information</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 6px;">Educators<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/Dignity-Act/Dignity-Act.aspx">Dignity for All Students Act</a></li>
-		<li><a href="/site/Employment.aspx">Employment Opportunities</a></li>
-		<li><a href="/getdoc/5da73f0e-c61b-400c-978e-543a43b6cace/2017-18-Services-Guide.aspx" target="_blank">2017-18 BOCES Services Guide</a></li>
-		<li><a href="https://issuu.com/pnwboces/docs/services_guide_2018_printer_file_20_3d7661a4f8fb90?e=32535596/59669999" target="_blank">2018-19 BOCES Services Guide</a></li>
-		<li><a class="qmparent" href="javascript:void(0)">Instructional Programs<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="http://www.pnwboces.org/artsined/index.aspx">Arts In Education</a></li>
-			<li><a href="/Adult-Continuing-Education-top/Career-and-Technical-Education.aspx">Career &amp; Technical Education</a></li>
-			<li><a href="/Curriculum-Center/Destination-Imagination.aspx">Destination Imagination</a></li>
-			<li><a href="/Curriculum-Center/Environmental/Welcome.aspx">Environmental Education</a></li>
-			<li><a href="/foxmeadow/welcome.aspx">Fox Meadow High School</a></li>
-			<li><a href="/Adult-Continuing-Education-top/Continuing-Education.aspx">Programs for English Learners</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/Regional-Youth-Leadership.aspx">Regional Youth Leadership Organization (RYLO)</a></li>
-			<li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
-			<li><a href="http://www.pnwboces.org/Science21/">Science 21</a></li>
-			<li><a href="/Special-Education/Department-Home.aspx">Special Education Programs</a></li>
-			<li><a href="/Curriculum-Center/Curriculum/Young-Authors-Conference.aspx">Young Author's Conference</a></li>
-		</ul>
-		</li>
-		<li><a class="qmparent" href="javascript:void(0)">Professional Development<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/cel/Center-for-Educational-Leadership/Center-for-Educational-Leadership.aspx">Center for Educational Leadership (CEL)</a></li>
-			<li><a href="/cel/Center-for-Educational-Leadership/College-and-University-Oppurtunities.aspx">College Offerings</a></li>
-			<li><a href="/Curriculum-Center/Curriculum/Professional-Development.aspx">Curriculum &amp; Instruction</a></li>
-			<li><a href="/site/edcamp.aspx">Edcamp</a></li>
-			<li><a href="/Curriculum-Center/Environmental/ProfessionalDevelopment.aspx">Environmental Education</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Guidance &amp; Child Study Center</a></li>
-			<li><a href="/Curriculum-Center/Hudson-River-Teacher-Center/Professional-Development/Professional-Development.aspx">Hudson River Teacher Center</a></li>
-			<li><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064">My Learning Plan</a></li>
-			<li><a href="/Curriculum-Center/Curriculum/Onsite-Programs.aspx">On-Site Staff Development Service</a></li>
-			<li><a href="/Professional-Library/Department-Home.aspx">Professional Library</a></li>
-			<li><a href="/Curriculum-Center/Violence_Prevention.aspx">School Violence/Prevention Intervention</a></li>
-			<li><a href="http://www.pnwboces.org/Science21/index.html">Science 21</a></li>
-			<li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
-			<li><a href="/cel/HR-Programs-and-Services/Supporting-Professional-Office-Staff.aspx">Training for Office Support Staff</a></li>
-		</ul>
-		</li>
-		<li><a class="qmparent" href="javascript:void(0)">School Support Services<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="http://pnwboces.myprintdesk.net/DSF">Educational Printing Services</a></li>
-			<li><a href="/Professional-Library/Department-Home.aspx">Professional Library</a></li>
-			<li><a href="/cel/Fingerprinting-Office.aspx">Regional Fingerprinting Office</a></li>
-			<li><a href="/pdf/Science21Alive.aspx">Science 21 Alive!</a></li>
-		</ul>
-		</li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 6px;">School Districts<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/site/Shared-Services-Management-Partnerships.aspx">Cooperative Bidding Cooperation</a></li>
-		<li><a href="/Dignity-Act/Dignity-Act.aspx">Dignity for All Students Act</a></li>
-		<li><a href="http://pnwboces.myprintdesk.net/DSF">Educational Printing Services</a></li>
-		<li><a href="/cel/Regional-Consortium-for-Employee-Assistance-(EAP).aspx">Employee Assistance Program</a></li>
-		<li><a class="qmparent" href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Guidance &amp; Child Study Center<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/Guidance-and-Child-Study-Center/Assessments.aspx">Assessment Services</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/Consultation-Services.aspx">Consultation Services</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/Coordinating-Services.aspx">Coordinating Services</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/Professional-Development.aspx">Professional Development</a></li>
-			<li><a href="/Guidance-and-Child-Study-Center/Regional-Forums.aspx">Regional Forums</a></li>
-		</ul>
-		</li>
-		<li><a class="qmparent" href="/Health-Benefits-Consortium/Health-Benefits-Consortium-Home.aspx">Health Benefits Consortium<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/Health-Benefits-Consortium/Health-Benefits-Consortium-Home.aspx">Main Page</a></li>
-			<li><a href="http://www.aetna.com/docfind/disclaimer.jsp?site_id=docfind" target="_blank">Aetna's Doc Finder</a></li>
-			<li><a href="/Health-Benefits-Consortium/Newsletters.aspx">Newsletters</a></li>
-			<li><a href="/Health-Benefits-Consortium/Participating-Districts.aspx">Participating Districts</a></li>
-			<li><a href="/Health-Benefits-Consortium/Printable-Forms.aspx">Printable Forms</a></li>
-			<li><a href="/pdf/HBC/PlanDocumentApril2010.aspx" target="_blank">Printable Plan Document</a></li>
-		</ul>
-		</li>
-		<li><a href="/cel/Human-Resources-Audit.aspx">Human Resources Audits</a></li>
-		<li><a href="/site/Shared-Services-Management-Partnerships.aspx">Management Partnerships</a></li>
-		<li><a class="qmparent" href="/site/Management-Services.aspx">Management Services<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/site/Management-Services.aspx">Coordination of Regional Services</a></li>
-			<li><a href="/site/Management-Services.aspx">Coordination/Intersession with SED</a></li>
-			<li><a href="http://pnwboces.myprintdesk.net/DSF">Educational Printing Services</a></li>
-			<li><a href="/site/Management-Services.aspx">Management Coordination</a></li>
-			<li><a href="/site/Management-Services.aspx">School Board Development</a></li>
-			<li><a href="/site/Management-Services.aspx">School Business Administrators Association</a></li>
-			<li><a href="/site/Management-Services.aspx">Superintendent Recruitment Services</a></li>
-		</ul>
-		</li>
-		<li><a href="http://pnwboces.org/LaborNegotiations/login.aspx?ReturnUrl=%2fLaborNegotiations%2fLaborNegotiations.aspx">Negotiations Clearinghouse</a></li>
-		<li><a href="/pdf/CEL/PrivateInvestigationBrochure.aspx" target="_blank">Private Investigation Service</a></li>
-		<li><a href="/Professional-Library/Department-Home.aspx">Professional Library</a></li>
-		<li><a href="/Regional-Safety-Services/Department-Home.aspx">Safety/Risk Management</a></li>
-		<li><a href="/School-Communications/School-Communications.aspx">School Communication Service</a></li>
-		<li><a href="/cel/HR-Programs-and-Services/Recruiting-Educators.aspx">Teacher Recruitment</a></li>
-		<li><a href="/cel/HR-Programs-and-Services/Supporting-Professional-Office-Staff.aspx">Training for Office Support Staff</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 6px;">BOCES Board<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="/Board-of-Education/Board-Members.aspx">About the Board</a></li>
-		<li><a href="/files/Board-of-Education/Board-Meeting-Schedule-2018-2019.aspx" target="_blank">2018-19 Board Meeting Schedule</a></li>
-		<li><a href="/pdf/Board-of-Education/Board-Meeting-Schedule-2017-2018.aspx" target="_blank">2017-18 Board Meeting Schedule</a></li>
-		<li><a href="/pdf/2017-2018-Budget.aspx" target="_blank">2017 - 2018 Budget</a></li>
-		<li><a href="/pdf/2018-2019-Budget.aspx" target="_blank">2018 - 2019 Budget</a></li>
-		<li><a href="/pdf/BusinessOffice/2016-2017-Audited-Financial-Statement.aspx" target="_blank">2016-2017 Audited Financial Statement</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 6px;">Employees<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a class="qmparent" href="javascript:void(0)">Affordable Care Act (ACA) Information<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/pdf/HR/ACA_EmployeeNotice_Sept2013.aspx" target="_blank">Employee Notice of Health Insurance Marketplace</a></li>
-			<li><a href="/pdf/HR/ACA_PartA_B_Information.aspx" target="_blank">Employee Notice of Health Insurance Marketplace Part A &amp; B Information</a></li>
-		</ul>
-		</li>
-		<li><a href="/site/Annual-Professional-Performance-Review-(APPR).aspx">Annual Professional Performance Review (APPR)</a></li>
-		<li><a href="/Internal-Departments/HR/HiringForms.aspx">Applicant Hiring Forms</a></li>
-		<li><a class="qmparent" href="/Internal-Departments/HR/Benefits.aspx">Benefits</a></li>
-		<li><a class="qmparent" href="/Internal-Departments/HR/Calendars.aspx">Calendars<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/getdoc/b2c9d913-5c8e-4a39-819d-90904b784dd4/BOCES-Campus-Calendar-2018-2019-Adopted-2-13-18.aspx" target="_blank">2018-19 BOCES School Calendar</a></li>
-			<li><a href="/pdf/HR/2017-2018-PNW-BOCES-Campus-Calendar.aspx" target="_blank">2017-18 BOCES School Calendar</a></li>
-			<li><a href="/pdf/HR/2017-2018-BOCES-Holiday-Schedule.aspx" target="_blank">2017-18 BOCES Holiday Schedule</a></li>
-			<li><a href="/files/HR/2018-2019-Holiday-Schedule-Adopted-3-20-18.aspx" target="_blank">2018-19 BOCES Holiday Schedule</a></li>
-		</ul>
-		</li>
-		<li><a class="qmparent" href="/IT/Computer-Applications.aspx">Computer Applications<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="https://www.aesoponline.com/login2.asp" target="_blank">Aesop</a></li>
-			<li><a href="/IT/Computer-Applications.aspx">Instructional Sites<span style="display: block;" class="rightarrowclass"></span></a>
-			<ul>
-				<li><a href="http://pnwboces.rubiconatlas.org/" target="_blank">Atlas</a></li>
-				<li><a href="http://www.blackboardconnect.com" target="_blank">Blackboard Connect</a></li>
-				<li><a href="http://www.iepdirect.com/" target="_blank">BOCES/IEP Direct</a></li>
-				<li><a href="https://eschooldata.lhric.org" target="_blank">eSchool Data</a></li>
-				<li><a href="http://www.highered.nysed.gov/tcert/teach/" target="_blank">NYS Education Department: TEACH </a></li>
-				<li><a href="http://office.microsoft.com/en-us/training/default.aspx" target="_blank">Microsoft Office Online Training</a></li>
-				<li><a href="http://pnwboces.schoolwires.net/site/default.aspx?PageID=1" target="_blank">SchoolWires</a></li>
-				<li><a href="http://pnwboces.xenegrade.com/" target="_blank">XenDirect</a></li>
-			</ul>
-			</li>
-			<li><a href="/IT/Computer-Applications.aspx">Internal Support Applications<span style="display: block;" class="rightarrowclass"></span></a>
-			<ul>
-				<li><a href="http://helpdesk.pnwboces.org" target="_blank">Helpdesk Requests</a></li>
-				<li><a href="https://www.myschoolbuilding.com/myschoolbuilding/myorganization.asp" target="_blank">Maintenance Direct</a></li>
-				<li><a href="https://www.pnwboces.org/webforms" target="_blank">Workshop Equipment Request</a></li>
-			</ul>
-			</li>
-			<li><a href="/IT/Computer-Applications.aspx">Professional Development<span style="display: block;" class="rightarrowclass"></span></a>
-			<ul>
-				<li><a href="http://mylearningplan.com" target="_blank">My Learning Plan Website</a></li>
-				<li><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064" target="_blank">Professional Development Catalog &amp; Registration</a></li>
-			</ul>
-			</li>
-			<li><a href="/IT/Computer-Applications.aspx">WinCapWeb<span style="display: block;" class="rightarrowclass"></span></a>
-			<ul>
-				<li><a href="/pdf/HR/WinCapWebEmployeeSelf-ServiceInstructionsAug2010.aspx" target="_blank">WinCapWeb Instructions</a></li>
-				<li><a href="https://wincapweb.com/EmailLinksHandler.ashx?TypeID=9&amp;siteid=1a9ec19a-9d1e-452b-b2d6-781f7897113f" target="_blank">Create Your WinCapWeb Account</a></li>
-				<li><a href="http://www.wincapweb.com/" target="_blank">Login to WinCapWeb</a></li>
-			</ul>
-			</li>
-		</ul>
-		</li>
-		<li><a class="qmparent" href="/Internal-Departments/HR/Telephone_Directories.aspx">Directories<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="http://www.pnwboces.org/site/contacts.aspx">P/NW Employee Search Listings</a></li>
-			<li><a href="/pdf/HR/ContactDirectory.aspx" target="_blank">Phone Directory</a></li>
-			<li><a href="/pdf/HR/DirectoryofPublicSchools.aspx" target="_blank">Directory of Public Schools</a></li>
-		</ul>
-		</li>
-		<li><a class="qmparent" href="/Internal-Departments/District-Plans.aspx">District Plans/Policies/Procedures<span style="display: block;" class="rightarrowclass"></span></a>
-		<ul>
-			<li><a href="/pdf/HR/2017-18-PNW-BOCES-Code-of-Conduct.aspx" target="_blank">2018-2019 Code of Conduct</a></li>
-			<li><a href="/Regional-Safety-Services/Emergency-Plans.aspx">Emergency Response Plans</a></li>
-			<li><a href="/pdf/Policy-Manual-Revised-January-17,-2017.aspx" target="_blank">Policy Manual</a></li>
-			<li><a href="/pdf/HR/2015-16-Professional-Development-Plan.aspx" target="_blank">Professional Development Plan</a></li>
-			<li><a href="/pdf/HR/SexualHarassmentHandbook.aspx" target="_blank">Sexual Harrassment Handbook</a></li>
-			<li><a href="/pdf/IT/2014-16-PNW-BOCES-Technology-Plan.aspx" target="_blank">Technology Plan</a></li>
-		</ul>
-		</li>
-		<li><a href="/ResourceManual/index.html">Employee Resource Area (ERA)</a></li>
-		<li><a href="/pdf/HR/MTIPThreeYrPlan.aspx" target="_blank">Mentor Teacher/Intern Program</a></li>
-		<li><a href="http://www.highered.nysed.gov/tcert/" target="_blank">NYS Education Deparment Certification Information</a></li>
-		<li><a href="/Internal-Departments/HR/Home.aspx">HR Staff Directory</a></li>
-		<li><a href="/Internal-Departments/HR/Publications.aspx">Publications</a></li>
-		<li><a href="/SuggestionBox.aspx">Suggestion Box</a></li>
-	</ul>
-	</li>
-	<li><a class="qmparent" href="javascript:void(0)" style="padding-right: 6px;">BOCES Services Guide<span style="display: block;" class="rightarrowclass"></span></a>
-	<ul>
-		<li><a href="https://issuu.com/pnwboces/docs/services_guide_2018_printer_file_20_3d7661a4f8fb90?e=32535596/59669999" target="_blank">2018-19 Services Guide</a></li>
-		<li><a href="/files/general/2017-18-Services-Guide.aspx" target="_blank">2017-18 Services Guide</a></li>
-	</ul>
-	</li>
-	<li><a href="http://www.boarddocs.com/ny/pnwboces/Board.nsf" target="_blank">Board Agendas and Minutes</a></li>
-	<li><a href="http://pnwboces.org/events.aspx">Calendar Events</a></li>
-	<li><a href="https://mail.pnwboces.org">Employee WebMail</a></li>
-	<li><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064" target="_blank">Professional Development Catalog</a></li>
-</ul>
-</div>
+    </section>
+  </div>
+</section>
+<div id="mbl_search">
+  <div id="mbl_top_search">
+  <div class="field_wrap">
+    <input type="text" search-page="/About-Us/searchresults.aspx" class="top_search_field" name="q">
+    <input type="image" name="srch_submit" class="top_search_submit" src="/PNWBOCES/media/PNWBOCES/searc_submit.gif?ext=.gif" alt="">
+  </div>
 </div>
 
-          </div>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("#mbl_top_search .top_search_submit").click(function(){
+      var value = $(this).siblings("#mbl_top_search .top_search_field").val();
+      var page = $(this).siblings("#mbl_top_search .top_search_field").attr("search-page");
+      PerformSearch(value, page);
+      return false;
+    });
+    $("#mbl_top_search .top_search_field").keypress(function(e){
+      var key = e.which;
+      if(key == 13)  // the enter key code
+      {
+        var value = $(this).val();
+        var page = $(this).attr("search-page");
+        PerformSearch(value, page);
+        return false;
+      }
+    });
+    
+    
+    function PerformSearch(value, page){
+      if(value != "" && value != null)
+      {
+        var q = page + "?searchtext=" + encodeURIComponent(value) + "&searchmode=anyword";
+        window.location.href = q;
+      }
+      
+    }
+  });
+</script>
+</div>
+<section class="top_nav">
+  <ul class="lvl_0">
+  <li class="hasChild"><span class="li-top-ttl">About Us</span>
+    <div class="nav_wrap">
+      <div class="nav_wrap_inner five_clm">
+        <div class="nav_column">
+          <div class="nav_column_head">About Us</div>
+          <a href="/site/Superintendent-s-Welcome.aspx">District Superintendent's Desk</a>
+          <a href="/About-Us/Mission-Vision,-and-Values.aspx">Mission, Vision, and Values</a>
+          <a href="/Contact/Central-Administration.aspx">Leadership Team</a>
+          <a href="/About-Us/A-Brief-History.aspx">Our History</a>
+          <a href="https://www.boces.org/services/">Why BOCES Matters</a>
+          <a href="/About-Us/Component-Districts.aspx">Component Districts</a>
+          <a href="/site/contacts.aspx">Employee Directory</a>
         </div>
-        <div class="content">
-          
+        <div class="nav_column">
+          <div class="nav_column_head">Governance</div>
+          <a href="/Board-of-Education/Board-Members.aspx">BOCES Board</a>
+          <a href="http://www.boarddocs.com/ny/pnwboces/Board.nsf">Board Agendas &amp; Minutes</a>
+          <a href="/files/Board-of-Education/Board-Meeting-Schedule-2018-2019.aspx">Board Meeting Schedule</a>
+          <a href="/pdf/2018-2019-Budget.aspx">Budget</a>
+          <a href="/pdf/BusinessOffice/2016-2017-Audited-Financial-Statement.aspx">Audited Financial Statements</a>
+          <a href="/pdf/Policy-Manual-Revised-January-17,-2017.aspx">Policy Manual</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">PNW BOCES News</div>
+          <a href="/files/HR/BOCES-Campus-Calendar-2018-2019-Adopted-2-13-18.aspx">BOCES School Calendar</a>
+          <a href="/Food-Service/Food-Service-Home.aspx">Cafeteria Menus</a>
+          <a href="/events.aspx">Events</a>
+          <a href="/site/News.aspx">News Articles</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Internal Departments</div>
+          <a href="/Internal-Departments/Business-Office.aspx">Business Office</a>
+          <a href="/Internal-Departments/Operations-Maintenance/Operation-And-Maintenance.aspx">Facilities (O&amp;M)</a>
+          <a href="/Internal-Departments/HR/Home.aspx">Human Resources</a>
+          <a href="/Internal-Departments/IT/Department-Home.aspx">Information Technology</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Careers</div>
+          <a href="http://olasjobs.org/">Jobs Across NY State (OLAS)</a>
+          <a href="/site/Employment.aspx">Open Positions at PNW BOCES</a>
+        </div>
+        <div class="bttm_row">
+          <a href="/site/Directions.aspx">Visitor Information</a>
+          <a href="/Contact/Contact-Home.aspx">Contact Us</a>
+          <a href="/Contact/Contact-Home.aspx">Partner With Us</a>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="hasChild"><span class="li-top-ttl">Programs for Students</span>
+    <div class="nav_wrap">
+      <div class="nav_wrap_inner">
+        <div class="nav_column">
+          <div class="nav_column_head">Educational Programs</div>
+          <a href="https://issuu.com/pnwboces/docs/services_guide_2018_printer_file_20_3d7661a4f8fb90?e=32535596/59669999">18-19 Services Guide</a>
+          <a href="/adulted">Adult &amp; Continuing Education</a>
+          <a href="/Tech/Home.aspx">Career &amp; Technical Education</a>
+          <a href="/Curriculum-Center/Environmental/Welcome.aspx">Environmental Education</a>
+          <a href="/Special-Education/Department-Home.aspx">Special Education</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Our Schools</div>
+          <a href="/Schools/Fox-Meadow/Welcome.aspx">Fox Meadow MS | HS</a>
+          <a href="/Schools/Pines-Bridge/Welcome.aspx">Pines Bridge</a>
+          <a href="/Schools/Walden/Welcome.aspx">The Walden School</a>
+          <a href="/Tech/Home.aspx">Tech Center</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">At Your Local School</div>
+          <a href="/artsined/">Arts In Education</a>
+          <a href="/Tech/Home.aspx">Career &amp; Technical Education</a>
+          <a href="/Curriculum-Center/Environmental/StudentPrograms.aspx">Environmental Education</a>
+          <a href="/Science21/index.html">Science 21 Curriculum &amp; Kits</a>
+          <a href="/SSELA">Social Studies | ELA Curriculum</a>
+          <a href="/Special-Education/Department-Home.aspx">Special Education</a>
+          <a href="/OC/">OC21</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">For Adult Learners</div>
+          <a href="/Adult-Continuinged/Adult-Continuing-Education.aspx">Adult &amp; Continuing Education</a>
+          <a href="/Adult-Continuinged/Adult-Literacy.aspx">Adult Literacy</a>
+          <a href="/cel/Professional-Development/College-and-University-Oppurtunities.aspx">Post-Graduate</a>
+          <a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064">Professional Development</a>
+        </div>
+        <div class="bttm_row">
+          <a href="/site/Directions.aspx">Visitor Information</a>
+          <a href="/Contact/Contact-Home.aspx">Contact Us</a>
+          <a href="/Contact/Contact-Home.aspx">Partner With Us</a>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="hasChild"><span class="li-top-ttl">Services for Schools</span>
+    <div class="nav_wrap">
+      <div class="nav_wrap_inner">
+        <div class="nav_column">
+          <div class="nav_column_head">General</div>
+          <a href="https://issuu.com/pnwboces/docs/services_guide_2018_printer_file_20_3d7661a4f8fb90?e=32535596/59669999">18-19 Services Guide</a>
+          <a href="/Internal-Departments/Business-Office/Cooperative-Bidding.aspx">Cooperative Bidding</a>
+          <a href="/site/Translation-Services.aspx">Document Translation</a>
+          <a href="/site/Translation-Services.aspx">Interpreters</a>
+          <a href="/EPS/Department-Home.aspx">Printing &amp; Lamination (EPS)</a>
+          <a href="/Curriculum-Center/August-Regents-Administration.aspx">Regents Administration</a>
+          <a href="/Guidance-and-Child-Study-Center/Regional-Forums.aspx">Regional Crisis Teams</a>
+          <a href="/Regional-Safety-Services/Department-Home.aspx">School Safety</a>
+          <a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064">Staff Development</a>
+          <a href="/Guidance-and-Child-Study-Center/Assessments.aspx">Student Evaluations (GCSC)</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Curricular &amp; Instructional</div>
+          <a href="/artsined/">Arts in Education</a>
+          <a href="/Tech/Home.aspx">Career &amp; Technical Programs</a>
+          <a href="/Education-Technology/Distance-Learning.aspx">Distance Learning</a>
+          <a href="/Curriculum-Center/Environmental/StudentPrograms.aspx">Environmental Education</a>
+          <a href="/Curriculum-Center/Hudson-River-Teacher-Center/Literacy-Partnerships.aspx">Literacy</a>
+          <!--<a href="/Instructional-Technology/Model-Schools.aspx">Model Schools</a>-->
+          <a href="/library/Home.aspx">Professional Library</a>
+          <a href="/Science21/index.html">Science 21 Curriculum &amp; Kits</a>
+          <a href="/SSELA">Social Studies | ELA Curriculum</a>
+          <a href="/Special-Education/Department-Home.aspx">Special Education Programs</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Employee &amp; Management</div>
+          <a href="/LaborNegotiations/login.aspx?ReturnUrl=%2fLaborNegotiations%2fLaborNegotiations.aspx">Contract Negotiations</a>
+          <a href="/cel/HR-Programs-and-Services/Employee-Assistant-Program-(EAP).aspx">Employee Assistance Program</a>
+          <a href="/Health-Benefits-Consortium/Health-Benefits-Consortium-Home.aspx">Health Benefits Consortium</a>
+          <a href="/cel/Professional-Development.aspx">Leadership Development</a>
+          <a href="/cel/HR-Programs-and-Services/Recruiting-Educators.aspx">OLAS Jobs</a>
+          <a href="">Recruitment of School Leaders</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Media &amp; Public Relations</div>
+          <a href="/Creative-Services/Department-Home.aspx">Creative Services</a>
+          <a href="/School-Communications/School-Communications.aspx">School Communications</a>
+        </div>
+        <div class="bttm_row">
+          <a href="/site/Directions.aspx">Visitor Information</a>
+          <a href="/Contact/Contact-Home.aspx">Contact Us</a>
+          <a href="/Contact/Contact-Home.aspx">Partner With Us</a>
+        </div>
+    </div>
+  </div></li>
+  <li class="hasChild"><span class="li-top-ttl">Opportunities for Learning</span>
+    <div class="nav_wrap">
+      <div class="nav_wrap_inner">
+        <div class="nav_column">
+          <div class="nav_column_head">Professional Development</div>
+          <a href="/Curriculum-Center/Curriculum/Professional-Development.aspx">Curriculum &amp; Instruction</a>
+          <a href="/cel/Professional-Development.aspx">Educational Leadership</a>
+          <a href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Guidance &amp; Child Study</a>
+          <a href="/Curriculum-Center/Hudson-River-Teacher-Center/Department-Home.aspx">Hudson River Teacher Center</a>
+          <a href="/Education-Technology/Department-Home.aspx">Education Technology</a>
+          <!--<a href="/Instructional-Technology/Model-Schools.aspx">Model Schools</a>-->
+          <a href="/library/Home.aspx">Professional Library</a>
+          <a href="http://rsetasc.pnwboces.org/">RSE-TASC</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Mandated Training</div>
+          <a href="/Curriculum-Center/Hudson-River-Teacher-Center/Professional-Development/NYS-Workshops.aspx">Child Abuse</a>
+          <a href="/Dignity-Act/Dignity-Act.aspx">DASA</a>
+          <a href="/Curriculum-Center/Hudson-River-Teacher-Center/Professional-Development/NYS-Workshops.aspx">School Violence</a>
+          <a href="/Files/CEL/Preventing-Workplace-Harassment-Title-IX.aspx">Sexual Harassment</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Post-Graduate</div>
+          <a href="/cel/Professional-Development/College-and-University-Oppurtunities.aspx">Doctoral Program</a>
+          <a href="/cel/Professional-Development/College-and-University-Oppurtunities.aspx">Future School Leaders Academy</a>
+          <a href="/cel/Professional-Development/College-and-University-Oppurtunities.aspx">School District Business Leader</a>
+          <a href="/cel/Professional-Development/College-and-University-Oppurtunities.aspx">School District Leader</a>
+          <a href="/cel/Professional-Development/College-and-University-Oppurtunities.aspx">Other Unique Programs</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">Networking</div>
+          <!--<a href="/">ACTION Network</a>-->
+          <!--<a href="/Internal-Departments/Business-Office.aspx">Business Administrators Association</a>-->
+          <a href="/Curriculum-Center/Curriculum/Curriculum-Council.aspx">Curriculum Council</a>
+          <!--<a href="/Guidance-and-Child-Study-Center/Regional-Forums.aspx">Regional Forums</a>
+          <a href="/Instructional-Technology/Technology-Leaders-Cohort.aspx">Technology Leaders Cohort</a>-->
+        </div>
+        <div class="bttm_row">
+          <a href="/site/Directions.aspx">Visitor Information</a>
+          <a href="/Contact/Contact-Home.aspx">Contact Us</a>
+          <a href="/Contact/Contact-Home.aspx">Partner With Us</a>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="hasChild"><span class="li-top-ttl">Resources</span>
+    <div class="nav_wrap">
+      <div class="nav_wrap_inner">
+        <div class="nav_column">
+          <div class="nav_column_head">For School Leaders &amp; Educators</div>
+          <a href="https://issuu.com/pnwboces/docs/services_guide_2018_printer_file_20_3d7661a4f8fb90?e=32535596/59669999">18-19 Services Guide</a>
+          <a href="/cel/Professional-Development.aspx">Center for Educational Leadership</a>
+          <a href="http://www.nysed.gov/">Certification Information</a>
+          <!--<a href="/Resources/Collegial-Circles.aspx">Collegial Circles</a>-->
+          <a href="/Guidance-and-Child-Study-Center/Professional-Development.aspx">Guidance &amp; Child Study Center</a>
+          <a href="/Curriculum-Center/Hudson-River-Teacher-Center/Professional-Development/Professional-Development.aspx">Hudson River Teacher Center</a>
+          <a href="/library/School-Library-System.aspx">Professional Library</a>
+          <a href="/Guidance-and-Child-Study-Center/Regional-Forums.aspx">Regional Crisis Teams</a>
+          <!--<a href="/Guidance-and-Child-Study-Center/Regional-Forums.aspx">Regional Forums</a>-->
+          <a href="http://rsetasc.pnwboces.org/">Special Education TAC</a>
+          <a href="http://www.highered.nysed.gov/tcert/teach/">TEACH</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">For Students &amp; Parents</div>
+          <a href="/files/HR/BOCES-Campus-Calendar-2018-2019-Adopted-2-13-18.aspx">BOCES School Calendar</a>
+          <a href="/Food-Service/Food-Service-Home.aspx">Cafeteria Menus</a>
+          <a href="/events.aspx">Events</a>
+          <a href="/Schools/Forms.aspx">School Forms</a>
+          <a href="/SchoolHealth/Department-Home.aspx">School Nurse</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">For Current Employees</div>
+          <a href="/Internal-Departments/HR/Benefits.aspx">Benefits</a>
+          <a href="/Education-Technology/Department-Home.aspx">Education Technology</a>
+          <a href="https://mail.pnwboces.org">Employee Email</a>
+          <a href="/ResourceManual/index.html">Employee Portal</a>
+          <a href="/files/HR/2018-2019-Holiday-Schedule-Adopted-3-20-18.aspx">Holiday Schedule</a>
+          <a href="/Internal-Departments/HR/Home.aspx">Human Resources Dept</a>
+          <a href="/IT/Computer-Applications.aspx">Links to Applications</a>
+        </div>
+        <div class="nav_column">
+          <div class="nav_column_head">For Job Seekers</div>
+          <a href="/pdf/EForms/Fingerprinting-Process-Memo.aspx">Fingerprinting Information</a>
+          <a href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Internship Program</a>
+          <a href="http://olasjobs.org/">Jobs Across NY State (OLAS)</a>
+          <a href="/site/Employment.aspx">Open Positions at PNW BOCES</a>
+          <a href="http://humanresources.westchestergov.com/local-agencies/local-job-descriptions">Westchester Civil Service</a>
+        </div>
+        <div class="bttm_row">
+          <a href="/site/Directions.aspx">Visitor Information</a>
+          <a href="/Contact/Contact-Home.aspx">Contact Us</a>
+          <a href="/Contact/Contact-Home.aspx">Partner With Us</a>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+<div class="clear"></div>
+</section>
 
-<div>
-  <h1></h1><h1>Putnam | Northern Westchester BOCES’ Privacy Policy</h1>
+<section class="bc_header">
+  <div class="container">
+    <h1>Information</h1>
+  </div>
+</section>
+<section class="bread_crumb">
+  <div class="container">
+    <div class="container">
+    <a href="/homepage.aspx" class="bc_home"><i class="fa fa-home" aria-hidden="true"></i></a>
+  <span class="bc_seperator"></span>
+<a href="/site.aspx">Information</a><span class="bc_seperator"></span>
+<a href="/site/Privacy-Policy.aspx">Putnam | Northern Westchester BOCES’ Privacy Policy</a>
+</div>
+  </div>
+</section>
+<section class="content">
+  <div class="container cnt_w_nav">
+    <div class="content_left">
+      
+      <h1></h1><h1>Putnam | Northern Westchester BOCES’ Privacy Policy</h1>
 &nbsp;
 
 
@@ -526,123 +579,361 @@ CMS.Application = {
 
 
 
+
       
-</div><h1>
-
-
-
-</h1>
-
-
-
-
-
-
-
-
-        </div>
-        <div class="clear">&nbsp;</div>
-      </div>
-      <!-- main content -->
-
-
-
-      </div>
-      <!-- main content -->
-      <!-- footer -->
-      <div class="footer">
-          <div class="contect-info">
-              <h4>CONTACT INFORMATION</h4>
-              <div class="address">
-                  <div class="address-img"><img src="/App_Themes/Styles.css/location-icon.png" alt="Location Icon"></div>
-                  <div class="address-text">
-                      <a href="https://www.google.com/maps/dir//200+Boces+Dr,+Yorktown+Heights,+NY+10598/@41.2772879,-73.7688789,17z/data=!4m13!1m4!3m3!1s0x89c2b6dfadb1614d:0xcddb2e93e4285b62!2s200+Boces+Dr,+Yorktown+Heights,+NY+10598!3b1!4m7!1m0!1m5!1m1!1s0x89c2b6dfadb1614d:0xcddb2e93e4285b62!2m2!1d-73.7688789!2d41.2772879" target="_blank">
-                      200 BOCES Drive<br>
-                      Yorktown Heights, NY 10598</a>
-                  </div>
-                  <div class="clear"></div>
-              </div>
-              <div class="address">
-                  <div class="address-img"><img src="/App_Themes/Styles.css/phone-icon.png" alt="Phone Icon"></div>
-                  <div class="phone-text">914.245.2700</div>
-                  <div class="clear"></div>
-              </div>
-              <div class="address">
-                  <div class="address-img"><img src="/App_Themes/Styles.css/mail-icon.png" alt="E-mail Icon"></div>
-                  <div class="phone-text">
-                      <a href="/Contact/Contact-Home.aspx">Email us</a>
-                  </div>
-                  <div class="clear"></div>
-              </div>
-          </div>
-          <div class="link-listing">
-              <h4>BOCES SCHOOLS</h4>
-              <ul>
-                  <li><a href="/Tech/Home.aspx">Tech Center</a></li>
-                  <li><a href="/Special-Education/Walden.aspx">The Walden School</a></li>
-                  <li><a href="/Special-Education/Pines-Bridge.aspx">Pines Bridge</a></li>
-                  <li><a href="/foxmeadow/welcome.aspx">Fox Meadow Middle/HS</a></li>
-                  <li><a href="/site/In-District-Programs.aspx">In District Programs</a></li>
-                  <li><a href="http://www.pnwboces.org/OC/">OC21</a></li>
-                  <li><a href="http://www.rocklandboces.org/PTECH/index.cfm">Hudson Valley P-Tech</a></li>
-              </ul>
-          </div>
-          <div class="link-listing">
-              <h4>PROGRAMS</h4>
-              <ul>
-                  <li><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064" target="_blank">Workshops &amp; Training</a></li>
-                  <li><a href="/Adult-Continuinged/Career-and-Technical-Education.aspx">Career &amp; Technical Education</a></li>
-                  <li><a href="/Special-Education/Department-Home.aspx">Special Education</a></li>
-                  <li><a href="/Adult-Continuing-Education-top/Adult-Continuing-Education.aspx">Adult Education</a></li>
-                  <li><a href="/cel/Center-for-Educational-Leadership/College-and-University-Oppurtunities.aspx">College Partnerships</a></li>
-                  <li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
-              </ul>
-          </div>
-          <div class="link-listing">
-              <h4>SERVICES FOR DISTRICTS</h4>
-              <ul>
-                  <li><a href="/pdf/Services-Guide.aspx" target="_blank">Services Guide</a></li>
-                  <li><a href="http://olasjobs.org/" target="_blank">OLAS</a></li>
-                  <li><a href="http://www.pnwboces.org/Science21/index.html">Science 21</a></li>
-                  <li><a href="http://pnwboces.org/SSELA">SS/ELA</a></li>
-                  <li><a href="/site/Translation-Services.aspx">Translation Services</a></li>
-                  <li><a href="http://www.pnwboces.org/epsd">Printing Service</a></li>
-              </ul>
-          </div>
-          <div class="link-social-listing">
-              <h4>STAY IN THE KNOW</h4>
-              <ul>
-                  <li><a href="https://www.linkedin.com/company/putnam-northern-westchester-boces"><img src="/App_Themes/Styles.css/in.png" alt="Linked In Link"></a></li>
-                  <li><a href="https://www.pinterest.com/pnwboces/"><img src="/App_Themes/Styles.css/p.png" alt="Pinterest Link"></a></li>
-                  <li><a href="https://www.facebook.com/pnwboces"><img src="/App_Themes/Styles.css/fb.png" alt="Facebook Link"></a></li>
-                  <li><a href="https://twitter.com/pnwboces"><img src="/App_Themes/Styles.css/tw.png" alt="Twitter Link"></a></li>
-                  <li><a href="https://www.youtube.com/user/PNWBOCES"><img src="/App_Themes/Styles.css/yt.png" alt="You Tube Link"></a></li>
-              </ul>
-              <a href="/site/BOCES-Mobile-App.aspx" class="download-app"><img src="/App_Themes/Styles.css/download-app.png" alt="Download PNW BOCES Mobile App"></a>
-            <ul>
-                  <li><a href="/shareyournews">Share your news</a></li>
-              </ul>
-          </div>
-          <div class="clear"></div>
-          <div class="copy-right">
-              <div class="left-text">© <span style="font-size: 12px">Copyright 2018 <strong>PNW BOCES</strong>.  All rights reserved.</span></div>
-              <ul>
-                  <li><a href="/site/Employment.aspx">Work at PNW BOCES</a></li>
-                  <li>|</li>
-                  <li><a href="/site/Privacy-Policy.aspx">Privacy Policy</a></li>
-                  <li>|</li>
-                  <li><a href="/site/Terms-of-Use-html.aspx">Terms of Use</a></li>
-                  <li>|</li>
-                  <li><a href="/site/NonDiscriminationStmt.aspx">Non-Discrimination Statement</a></li>
-              </ul>
-          </div>
-          <div class="clear"></div>
-      </div>
-      <!-- end footer -->
     </div>
+    <div class="content_nav">
+      <ul class="side_nav">
+  <li class="cntr-out-hvr hvr-blue"><a href="/site/Superintendent-s-Welcome.aspx">District Superintendent's Welcome</a></li>
+  <li class="cntr-out-hvr hvr-blue"><a href="/site/Directions.aspx">Directions</a></li>
+  <li class="cntr-out-hvr hvr-blue"><a href="/About-Us/Component-Districts.aspx">Component Districts</a></li>
+  <!--<li class="cntr-out-hvr hvr-blue side-nav-has-subs">Students &amp; Parents
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/Adult-Continuing-Education-top/Adult-Continuing-Education.aspx">Adult &amp; Continuing Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Dignity-Act/Dignity-Act.aspx">Dignity for All Students Act</a></li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs">SK - 12 Students
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/Career-Tech/Home.aspx">Career &amp; Technical Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Destination-Imagination.aspx">Destination Imagination</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Environmental/Welcome.aspx">Environmental Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/foxmeadow/welcome.aspx">Fox Meadow High School</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/National_Honor_Society.aspx">National Technical Honor Society</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Regional-Youth-Leadership.aspx">Regional Youth Leadership Organization (RYLO)</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Special-Education/Department-Home.aspx">Special Education Programs</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs">Parent Programs &amp; Resources
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="http://www.pnwboces.org/artsined/index.aspx">Arts in Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Food-Service/Food-Service-Home.aspx">Food Service Department</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.schoolwires.net/pnwboces/site/default.asp">Teacher Websites</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs">Policies, Procedures &amp; Forms
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/pdf/2016-17-CTE-Welcome-Back-Packet.aspx" target="_blank">2018-19 Tech Center Welcome Back Packet</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/2016-17-PNW-BOCES-Code-of-Conduct.aspx" target="_blank">Code of Conduct</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/SexualHarassmentHandbook.aspx" target="_blank">Sexual Harrassment Handbook for Employees and Students</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark"><a href="/SchoolHealth/Department-Home.aspx">School Health Information</a></li>
+</ul>
+</li> -->
+  <!--<li class="cntr-out-hvr hvr-blue side-nav-has-subs">Educators
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/Dignity-Act/Dignity-Act.aspx">Dignity for All Students Act</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Employment.aspx">Employment Opportunities</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/getdoc/5da73f0e-c61b-400c-978e-543a43b6cace/2017-18-Services-Guide.aspx" target="_blank">2017-18 BOCES Services Guide</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="https://issuu.com/pnwboces/docs/services_guide_2018_printer_file_20_3d7661a4f8fb90?e=32535596/59669999" target="_blank">2018-19 BOCES Services Guide</a></li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs">Instructional Programs
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="http://www.pnwboces.org/artsined/index.aspx">Arts In Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Adult-Continuing-Education-top/Career-and-Technical-Education.aspx">Career &amp; Technical Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Destination-Imagination.aspx">Destination Imagination</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Environmental/Welcome.aspx">Environmental Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/foxmeadow/welcome.aspx">Fox Meadow High School</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Adult-Continuing-Education-top/Continuing-Education.aspx">Programs for English Learners</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Regional-Youth-Leadership.aspx">Regional Youth Leadership Organization (RYLO)</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://www.pnwboces.org/Science21/">Science 21</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Special-Education/Department-Home.aspx">Special Education Programs</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Curriculum/Young-Authors-Conference.aspx">Young Author&#39;s Conference</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs">Professional Development
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/Center-for-Educational-Leadership/Center-for-Educational-Leadership.aspx">Center for Educational Leadership (CEL)</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/Center-for-Educational-Leadership/College-and-University-Oppurtunities.aspx">College Offerings</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Curriculum/Professional-Development.aspx">Curriculum &amp; Instruction</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/edcamp.aspx">Edcamp</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Environmental/ProfessionalDevelopment.aspx">Environmental Education</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Guidance &amp; Child Study Center</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Hudson-River-Teacher-Center/Professional-Development/Professional-Development.aspx">Hudson River Teacher Center</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064">My Learning Plan</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Curriculum/Onsite-Programs.aspx">On-Site Staff Development Service</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Professional-Library/Department-Home.aspx">Professional Library</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Curriculum-Center/Violence_Prevention.aspx">School Violence/Prevention Intervention</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://www.pnwboces.org/Science21/index.html">Science 21</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://rsetasc.pnwboces.orgx">RSE-TASC</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/HR-Programs-and-Services/Supporting-Professional-Office-Staff.aspx">Training for Office Support Staff</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs">School Support Services
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.myprintdesk.net/DSF">Educational Printing Services</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Professional-Library/Department-Home.aspx">Professional Library</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/Fingerprinting-Office.aspx">Regional Fingerprinting Office</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/pdf/Science21Alive.aspx">Science 21 Alive!</a></li>
+</ul>
+</li>
+</ul>
+</li>-->
+  <!--<li class="cntr-out-hvr hvr-blue side-nav-has-subs">School Districts
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Shared-Services-Management-Partnerships.aspx">Cooperative Bidding Cooperation</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Dignity-Act/Dignity-Act.aspx">Dignity for All Students Act</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.myprintdesk.net/DSF">Educational Printing Services</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/Regional-Consortium-for-Employee-Assistance-(EAP).aspx">Employee Assistance Program</a></li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/Guidance-and-Child-Study-Center/Department-Home.aspx">Guidance &amp; Child Study Center</a>
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Assessments.aspx">Assessment Services</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Consultation-Services.aspx">Consultation Services</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Coordinating-Services.aspx">Coordinating Services</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Professional-Development.aspx">Professional Development</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Guidance-and-Child-Study-Center/Regional-Forums.aspx">Regional Forums</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/Health-Benefits-Consortium/Health-Benefits-Consortium-Home.aspx">Health Benefits Consortium</a>
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="Health-Benefits-Consortium/Health-Benefits-Consortium-Home.aspx">Main Page</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://www.aetna.com/docfind/disclaimer.jsp?site_id=docfind" target="_blank">Aetna&#39;s Doc Finder</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Health-Benefits-Consortium/Newsletters.aspx">Newsletters</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Health-Benefits-Consortium/Participating-Districts.aspx">Participating Districts</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Health-Benefits-Consortium/Printable-Forms.aspx">Printable Forms</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/pdf/HBC/PlanDocumentApril2010.aspx" target="_blank">Printable Plan Document</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/Human-Resources-Audit.aspx">Human Resources Audits</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Shared-Services-Management-Partnerships.aspx">Management Partnerships</a></li>
+<li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/site/Management-Services.aspx">Management Services</a>
+<ul>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Management-Services.aspx">Coordination of Regional Services</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Management-Services.aspx">Coordination/Intersession with SED</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.myprintdesk.net/DSF">Educational Printing Services</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Management-Services.aspx">Management Coordination</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Management-Services.aspx">School Board Development</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Management-Services.aspx">School Business Administrators Association</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/site/Management-Services.aspx">Superintendent Recruitment Services</a></li>
+</ul>
+</li>
+<li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.org/LaborNegotiations/login.aspx?ReturnUrl=%2fLaborNegotiations%2fLaborNegotiations.aspx">Negotiations Clearinghouse</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/pdf/CEL/PrivateInvestigationBrochure.aspx" target="_blank">Private Investigation Service</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Professional-Library/Department-Home.aspx">Professional Library</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/Regional-Safety-Services/Department-Home.aspx">Safety/Risk Management</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/School-Communications/School-Communications.aspx">School Communication Service</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/HR-Programs-and-Services/Recruiting-Educators.aspx">Teacher Recruitment</a></li>
+<li class="cntr-out-hvr hvr-dark"><a href="/cel/HR-Programs-and-Services/Supporting-Professional-Office-Staff.aspx">Training for Office Support Staff</a></li>
+</ul>
+</li>-->
+  <li class="cntr-out-hvr hvr-blue side-nav-has-subs"><a class="main_link">BOCES Board</a>
+    <ul>
+      <li class="cntr-out-hvr hvr-dark"><a href="/Board-of-Education/Board-Members.aspx">About the Board</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/files/Board-of-Education/Board-Meeting-Schedule-2018-2019.aspx" target="_blank">2018-19 Board Meeting Schedule</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/pdf/Board-of-Education/Board-Meeting-Schedule-2017-2018.aspx" target="_blank">2017-18 Board Meeting Schedule</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/pdf/2017-2018-Budget.aspx" target="_blank">2017 - 2018 Budget</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/pdf/2018-2019-Budget.aspx" target="_blank">2018 - 2019 Budget</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/pdf/BusinessOffice/2016-2017-Audited-Financial-Statement.aspx" target="_blank">2016-2017 Audited Financial Statement</a></li>
+    </ul>
+  </li>
+  <li class="cntr-out-hvr hvr-blue side-nav-has-subs"><a class="main_link">Employees</a>
+    <ul>
+      <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/ACA_EmployeeNotice_Sept2013.aspx" target="_blank">Employee Notice of Health Insurance Marketplace</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/ACA_PartA_B_Information.aspx" target="_blank">Employee Notice of Health Insurance Marketplace Part A &amp; B Information</a></li>
+      <!--<li class="cntr-out-hvr hvr-dark side-nav-has-subs">Affordable Care Act (ACA) Information
+        <ul>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/ACA_EmployeeNotice_Sept2013.aspx" target="_blank">Employee Notice of Health Insurance Marketplace</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/ACA_PartA_B_Information.aspx" target="_blank">Employee Notice of Health Insurance Marketplace Part A &amp; B Information</a></li>
+        </ul>
+      </li>-->
+      <li class="cntr-out-hvr hvr-dark"><a href="/site/Annual-Professional-Performance-Review-(APPR).aspx">Annual Professional Performance Review (APPR)</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/Internal-Departments/HR/HiringForms.aspx">Applicant Hiring Forms</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/Internal-Departments/HR/Benefits.aspx">Benefits</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/files/HR/BOCES-Campus-Calendar-2018-2019-Adopted-2-13-18.aspx" target="_blank">2018-19 BOCES School Calendar</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/files/HR/2018-2019-Holiday-Schedule-Adopted-3-20-18.aspx" target="_blank">2018-19 BOCES Holiday Schedule</a></li>
+      <!--<li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/Internal-Departments/HR/Calendars.aspx">Calendars</a>
+        <ul>
+          <li class="cntr-out-hvr hvr-dark"><a href="/files/HR/BOCES-Campus-Calendar-2018-2019-Adopted-2-13-18.aspx" target="_blank">2018-19 BOCES School Calendar</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/files/HR/2018-2019-Holiday-Schedule-Adopted-3-20-18.aspx" target="_blank">2018-19 BOCES Holiday Schedule</a></li>
+        </ul>
+      </li>-->
+      <!--<li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/IT/Computer-Applications.aspx">Computer Applications</a>
+        <ul>
+          <li class="cntr-out-hvr hvr-dark"><a href="https://www.aesoponline.com/login2.asp" target="_blank">Aesop</a></li>
+          <li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/IT/Computer-Applications.aspx">Instructional Sites</a>
+            <ul>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.rubiconatlas.org/" target="_blank">Atlas</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://www.blackboardconnect.com" target="_blank">Blackboard Connect</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://www.iepdirect.com/" target="_blank">BOCES/IEP Direct</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="https://eschooldata.lhric.org" target="_blank">eSchool Data</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://www.highered.nysed.gov/tcert/teach/" target="_blank">NYS Education Department: TEACH</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://office.microsoft.com/en-us/training/default.aspx" target="_blank">Microsoft Office Online Training</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.schoolwires.net/site/default.aspx?PageID=1" target="_blank">SchoolWires</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://pnwboces.xenegrade.com/" target="_blank">XenDirect</a></li>
+            </ul>
+          </li>
+          <li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/IT/Computer-Applications.aspx">Internal Support Applications</a>
+            <ul>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://helpdesk.pnwboces.org" target="_blank">Helpdesk Requests</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="https://www.myschoolbuilding.com/myschoolbuilding/myorganization.asp" target="_blank">Maintenance Direct</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="https://www.pnwboces.org/webforms" target="_blank">Workshop Equipment Request</a></li>
+            </ul>
+          </li>
+          <li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/IT/Computer-Applications.aspx">Professional Development</a>
+            <ul>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://mylearningplan.com" target="_blank">My Learning Plan Website</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064" target="_blank">Professional Development Catalog &amp; Registration</a></li>
+            </ul>
+          </li>
+          <li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/IT/Computer-Applications.aspx">WinCapWeb</a>
+            <ul>
+              <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/WinCapWebEmployeeSelf-ServiceInstructionsAug2010.aspx" target="_blank">WinCapWeb Instructions</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="https://wincapweb.com/EmailLinksHandler.ashx?TypeID=9&amp;siteid=1a9ec19a-9d1e-452b-b2d6-781f7897113f" target="_blank">Create Your WinCapWeb Account</a></li>
+              <li class="cntr-out-hvr hvr-dark"><a href="http://www.wincapweb.com/" target="_blank">Login to WinCapWeb</a></li>
+            </ul>
+          </li>
+          <li class="cntr-out-hvr hvr-dark"><a href="https://portal.office.com" target="_blank">Office 365</a></li>
+        </ul>
+      </li>-->
+      <!--<li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/Internal-Departments/HR/Telephone_Directories.aspx">Directories</a>
+        <ul>
+          <li class="cntr-out-hvr hvr-dark"><a href="http://www.pnwboces.org/site/contacts.aspx">P/NW Employee Search Listings</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/ContactDirectory.aspx" target="_blank">Phone Directory</a></li>
+        </ul>
+      </li>-->
+      <!--<li class="cntr-out-hvr hvr-dark side-nav-has-subs"><a href="/Internal-Departments/District-Plans.aspx">District Plans/Policies/Procedures</a>
+        <ul>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/2017-18-PNW-BOCES-Code-of-Conduct.aspx" target="_blank">2018-2019 Code of Conduct</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/files/HR/2018-19-PNW-BOCES-Code-of-Conduct-(Spanish).aspx" target="_blank">2018-2019 Code of Conduct (Spanish)</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/Regional-Safety-Services/Emergency-Plans.aspx">Emergency Response Plans</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/Policy-Manual-Revised-January-17,-2017.aspx" target="_blank">Policy Manual</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/2015-16-Professional-Development-Plan.aspx" target="_blank">Professional Development Plan</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/SexualHarassmentHandbook.aspx" target="_blank">Sexual Harrassment Handbook</a></li>
+          <li class="cntr-out-hvr hvr-dark"><a href="/pdf/IT/2014-16-PNW-BOCES-Technology-Plan.aspx" target="_blank">Technology Plan</a></li>
+        </ul>
+      </li>-->
+      <li class="cntr-out-hvr hvr-dark"><a href="/ResourceManual/index.html">Employee Resource Area / Employee Portal</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/pdf/HR/MTIPThreeYrPlan.aspx" target="_blank">Mentor Teacher/Intern Program</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="http://www.highered.nysed.gov/tcert/" target="_blank">NYS Education Deparment Certification Information</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/Internal-Departments/HR/Home.aspx">HR Staff Directory</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/Internal-Departments/HR/Publications.aspx">Publications</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/SuggestionBox.aspx">Suggestion Box</a></li>
+    </ul>
+  </li>
+  <li class="cntr-out-hvr hvr-blue side-nav-has-subs"><a class="main_link">BOCES Services Guide</a>
+    <ul>
+      <li class="cntr-out-hvr hvr-dark"><a href="https://issuu.com/pnwboces/docs/services_guide_2018_printer_file_20_3d7661a4f8fb90?e=32535596/59669999" target="_blank">2018-19 Services Guide</a></li>
+      <li class="cntr-out-hvr hvr-dark"><a href="/files/general/2017-18-Services-Guide.aspx" target="_blank">2017-18 Services Guide</a></li>
+    </ul>
+  </li>
+  <li class="cntr-out-hvr hvr-blue"><a href="http://www.boarddocs.com/ny/pnwboces/Board.nsf" target="_blank">Board Agendas and Minutes</a></li>
+  <li class="cntr-out-hvr hvr-blue"><a href="http://pnwboces.org/events.aspx">Calendar Events</a></li>
+  <li class="cntr-out-hvr hvr-blue"><a href="https://mail.pnwboces.org">Employee WebMail</a></li>
+  <li class="cntr-out-hvr hvr-blue"><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064" target="_blank">Professional Development Catalog</a></li>
+</ul>
+    </div>
+  </div>
+</section>
+<footer class="faft">
+  <div class="container">
+    <div class="contect-info">
+<h4>CONTACT INFORMATION</h4>
+
+<div class="address">
+<div class="address-img">&nbsp;</div>
+
+<div class="address-text"><a href="https://www.google.com/maps/dir//200+Boces+Dr,+Yorktown+Heights,+NY+10598/@41.2772879,-73.7688789,17z/data=!4m13!1m4!3m3!1s0x89c2b6dfadb1614d:0xcddb2e93e4285b62!2s200+Boces+Dr,+Yorktown+Heights,+NY+10598!3b1!4m7!1m0!1m5!1m1!1s0x89c2b6dfadb1614d:0xcddb2e93e4285b62!2m2!1d-73.7688789!2d41.2772879" target="_blank">200 BOCES Drive<br>
+Yorktown Heights, NY 10598</a></div>
+
+<div class="clear">&nbsp;</div>
 </div>
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+
+<div class="address">
+<div class="address-img">&nbsp;</div>
+
+<div class="phone-text">914.245.2700</div>
+
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="address">
+<div class="address-img">&nbsp;</div>
+
+<div class="phone-text"><a href="/Contact/Contact-Home.aspx">Email us</a></div>
+
+<div class="clear">&nbsp;</div>
+</div>
+</div>
+
+<div class="link-listing">
+<h4>BOCES SCHOOLS</h4>
+
+<ul>
+	<li><a href="/Tech/Home.aspx">Tech Center</a></li>
+	<li><a href="/Schools/Walden/Welcome.aspx">The Walden School</a></li>
+	<li><a href="/Schools/Pines-Bridge/Welcome.aspx">Pines Bridge</a></li>
+	<li><a href="/Schools/Fox-Meadow/Welcome.aspx">Fox Meadow Middle/HS</a></li>
+	<li><a href="/site/In-District-Programs.aspx">In District Programs</a></li>
+	<li><a href="http://www.pnwboces.org/OC/">OC21</a></li>
+	<li><a href="http://www.rocklandboces.org/PTECH/index.cfm">Hudson Valley P-Tech</a></li>
+</ul>
+</div>
+
+<div class="link-listing">
+<h4>PROGRAMS</h4>
+
+<ul>
+	<li><a href="https://www.mylearningplan.com/WebReg/Catalog.asp?H=1&amp;D=13064" target="_blank">Workshops &amp; Training</a></li>
+	<li><a href="/Adult-Continuinged/Career-and-Technical-Education.aspx">Career &amp; Technical Education</a></li>
+	<li><a href="/Special-Education/Department-Home.aspx">Special Education</a></li>
+	<li><a href="/Adult-Continuing-Education-top/Adult-Continuing-Education.aspx">Adult Education</a></li>
+	<li><a href="/cel/Center-for-Educational-Leadership/College-and-University-Oppurtunities.aspx">College Partnerships</a></li>
+	<li><a href="http://rsetasc.pnwboces.org">RSE-TASC</a></li>
+</ul>
+</div>
+
+<div class="link-listing">
+<h4>SERVICES FOR DISTRICTS</h4>
+
+<ul>
+	<li><a href="/pdf/Services-Guide.aspx" target="_blank">Services Guide</a></li>
+	<li><a href="http://olasjobs.org/" target="_blank">OLAS</a></li>
+	<li><a href="http://www.pnwboces.org/Science21/index.html">Science 21</a></li>
+	<li><a href="http://pnwboces.org/SSELA">SS/ELA</a></li>
+	<li><a href="/site/Translation-Services.aspx">Translation Services</a></li>
+	<li><a href="http://www.pnwboces.org/epsd">Printing Service</a></li>
+</ul>
+</div>
+
+<div class="link-social-listing">
+<h4>STAY IN THE KNOW</h4>
+
+<ul class="bt_nav_social">
+	<li><a href="https://www.linkedin.com/company/putnam-northern-westchester-boces"><img alt="Linked In Link" src="/App_Themes/Styles.css/in.png"></a></li>
+	<li><a href="https://www.pinterest.com/pnwboces/"><img alt="Pinterest Link" src="/App_Themes/Styles.css/p.png"></a></li>
+	<li><a href="https://www.facebook.com/pnwboces"><img alt="Facebook Link" src="/App_Themes/Styles.css/fb.png"></a></li>
+	<li><a href="https://twitter.com/pnwboces"><img alt="Twitter Link" src="/App_Themes/Styles.css/tw.png"></a></li>
+	<li><a href="https://www.youtube.com/user/PNWBOCES"><img alt="You Tube Link" src="/App_Themes/Styles.css/yt.png"></a></li>
+</ul>
+<a class="download-app" href="/site/BOCES-Mobile-App.aspx"><img alt="Download PNW BOCES Mobile App" src="images/download-app.png"></a>
+
+<ul>
+	<li><a href="/shareyournews">Share your news</a></li>
+</ul>
+</div>
+
+<div class="clear">&nbsp;</div>
+
+<div class="copy-right">
+<div class="left-text">© <span style="font-size: 12px">Copyright 2018 <strong>PNW BOCES</strong>. All rights reserved.</span></div>
+
+<ul>
+	<li><a href="/site/Employment.aspx">Work at PNW BOCES</a></li>
+	<li>|</li>
+	<li><a href="/site/Privacy-Policy.aspx">Privacy Policy</a></li>
+	<li>|</li>
+	<li><a href="/site/Terms-of-Use-html.aspx">Terms of Use</a></li>
+	<li>|</li>
+	<li><a href="/site/NonDiscriminationStmt.aspx">Non-Discrimination Statement</a></li>
+</ul>
+</div>
+
+<div class="clear">&nbsp;</div>
+
+
+  </div>
+</footer>
     
     
 
@@ -670,13 +961,6 @@ _gaq.push(['_trackPageview']);
 <script type="text/javascript">
 	//<![CDATA[
 WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/site/Privacy-Policy","DocumentCultureCode":"en-US","UrlReferrer":""}')
-//]]>
-</script>
-<script type="text/javascript">
-	//<![CDATA[
-var predictiveSearchObject_p_lt_ctl00_SmartSearchBox = new PredictiveSearchExtender('p_lt_ctl00_SmartSearchBox', 'p_lt_ctl00_SmartSearchBox_txtWord', 'p_lt_ctl00_SmartSearchBox_pnlPredictiveResultsHolder', 1, true, 'selectedResult', 'predictiveSearchResults');
-predictiveSearchObject_p_lt_ctl00_SmartSearchBox.CallPredictiveSearch = function(arg, context) { WebForm_DoCallback('p$lt$ctl00$SmartSearchBox',arg,predictiveSearchObject_p_lt_ctl00_SmartSearchBox.RecieveSearchResults,context,null,false); }
-
 //]]>
 </script></form>
 
