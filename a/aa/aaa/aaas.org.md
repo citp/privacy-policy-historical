@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the aaas.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626042113id_/https%3A//www.aaas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaas.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226122523id_/https%3A//www.aaas.org/privacy-policy) for the most accurate reproduction.*
 
-# AAAS Privacy Policy | AAAS - The World's Largest General Scientific Society
+# AAAS Privacy Policy | American Association for the Advancement of Science
 
-Posted: May 16, 2018
+Web Site Policies
 
-Effective: May 25, 2018
+Posted: October 10, 2018
+
+Effective: October 10, 2018
 
 The AAAS and _Science_ Websites are maintained by the American Association for the Advancement of Science (AAAS), 1200 New York Avenue, NW, Washington, DC 20005.
 
@@ -202,7 +204,7 @@ The registration forms and other sections of the AAAS and _Science_ Websites whe
 
 **_E-mail_**
 
-**E-mail to Members** : AAAS members may opt in for first- or third-party informational e-mails or opt out of all e-mail communication, except transactional emails, such as subscription renewal and association election information. Members can provide data privacy instructions to us at the members-only website, [_aaas.org/membercentral_](https://www.aaas.org/membercentral), or contact AAAS MemberCentral Support at **[membership@aaas.org.](mailto:membership@aaas.org)**
+**E-mail to Members** : AAAS members may opt in for first- or third-party informational e-mails or opt out of all e-mail communication, except transactional emails, such as subscription renewal and association election information. Members can manage their email preferences by logging into My Profile and going to the Edit My Contact Information section, or by contacting AAAS MemberCentral Support at **[membership@aaas.org.](mailto:membership@aaas.org)**
 
 **E-mail to Subscribers** : Paid subscribers to AAAS publications, including _Science, Science Signaling, Science Translational Medicine, Science Immunology, and Science Robotics_ , may also opt in for first- or third-party informational e-mails or opt out of all e-mail communication (with the exception of subscription renewal information) by contacting AAAS MemberCentral Support at **[membership@aaas.org.](mailto:membership@aaas.org)**
 
@@ -257,15 +259,19 @@ Please note: It is not our practice to restrict access to our resume database to
 
 We reserve the right to remove from our database any resumes we consider to be illegal or offensive.
 
+**_Virtual Career Fairs_**
+
+If you register to participate in a _Science_ _Careers_ Virtual Career Fair, we will collect and retain information about you, including Personal Information. 
+
+Information you provide when registering for a _Science_ _Careers_ Virtual Career Fair is collected through our Virtual Career Fair platform provider and is shared with the career fair sponsor as well as the employers you interact with during the career fair.  This information includes Personal Information such as your name, email address, resume and information from other questions you answer during the registration process.  This information may also include chat history from conversations/interactions that you have with employers participating in the career fair; for clarity, if you participate in private chats, the conversation/interaction between you and an employer will be shared only with that employer.  If you participate in public chats, all participants will see your conversation/interaction during the chat and the chat history may be shared with all participating employers.  This information may become subject to the policies of the employers with whom you interacted at the career fair.  We are not responsible for these policies or any actions or results that may occur as a result of any employer’s access to and/or use of your information.
+
 **_Additional Terms and Rules for Social Networking_**
 
 Social networking services provided on the AAAS and _Science_ Websites (e.g., the _Science_ Careers Community pages) may have additional terms of conduct, privacy policies, and privacy settings that you will be required to agree to and set when you register for such services.
 
 **_Updating Your Information_**
 
-It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of publications and products.
-
-Members and customers with a AAAS ID can change their personal information or update their account information at any time by visiting the members-only website, [_aaas.org/membercentral_.](https://www.aaas.org/membercentral) Other registrants or users may also update their personal information at any time by sending an e-mail to **[membership@aaas.org](mailto:membership@aaas.org)**.
+It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of publications and products.Members and customers with a AAAS ID can change their personal information or update their account information at any time logging into My Profile. Other registrants or users may also update their personal information at any time by sending an e-mail to **[membership@aaas.org](mailto:membership@aaas.org)**.
 
 **_Where to address your questions or complaints_**
 
