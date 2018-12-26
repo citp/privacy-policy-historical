@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122024001id_/https%3A//www.photoephemeris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226171358id_/http%3A//www.photoephemeris.com/privacy) for the most accurate reproduction.*
 
-# The Photographer's Ephemeris: Privacy Policy
+# Privacy Policy — The Photographer's Ephemeris
 
-The Photographer’s Ephemeris™ applications for iOS, Android, Windows, Mac, web browser, and other devices and platforms, our web-site [photoephemeris.com](http://photoephemeris.com/) (also accessible via [thephotographersephemeris.com](http://thephotographersephemeris.com/) and [photoephemeris.co.uk](http://photoephemeris.co.uk/)) and our supporting services including Location Synchronization and Crookneck Photo Apps accounts (“Backend Services”), collectively, our “Services”, are developed, published and maintained by Crookneck Consulting LLC (referred to as “we”, “us” and “our” below).
+The Photographer’s Ephemeris® applications for iOS, Android, Windows, Mac, web browser, and other devices and platforms, our web-site [photoephemeris.com](http://photoephemeris.com/) (also accessible via [thephotographersephemeris.com](http://thephotographersephemeris.com/) and [photoephemeris.co.uk](http://photoephemeris.co.uk/)) and our supporting services including Location Synchronization and Crookneck Photo Apps accounts (“Backend Services”), collectively, our “Services”, are developed, published and maintained by Crookneck Consulting LLC (referred to as “we”, “us” and “our” below).
 
-## Your Privacy
+### Your Privacy
 
 We understand that privacy is important to our users and community and we aim to respect your privacy in your interactions with our Services. This policy is provided to clarify how your information may be collected and used by us.
 
-## What We Collect
+### What We Collect
 
 We reserve the right to collect information about your use and interaction with our Services to meet our operational, technical and business requirements.
 
@@ -22,7 +22,7 @@ We reserve the right to collect information about your use and interaction with 
 
 
 
-## How We Use This Information
+### How We Use This Information
 
 We use this information to monitor and improve our Services, to enable us to provide the Services to you, and for internal analysis. For web sites, we use IP addresses to analyze trends, administer the site, understand how you use the site, and gather information for aggregate use. For applications, we use diagnostics and usage information to understand how users are utilizing the software and to help us improve usability and functionality.
 
@@ -46,22 +46,22 @@ If you indicate interest in our Services by contacting us, donating, or signing 
 
 Your contact information is not used for any other purpose and is not intentionally shared with outside parties without your consent.
 
-## Third Party Services
+### Third Party Services
 
-We rely on services provided by third parties to collect the information described in this policy (for example, Google Analytics and HockeyApp). We make reasonable efforts to ensure that such third party services are trustworthy. However, we cannot be held responsible for collection or use of your information by such third parties. 
+We rely on services provided by third parties to collect the information described in this policy (for example, Google Analytics and HockeyApp). We make reasonable efforts to ensure that such third party services are trustworthy. However, we cannot be held responsible for collection or use of your information by such third parties. 
 
-## Data Security
+### Data Security
 
 We use reasonable efforts to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, and have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect through our Services. However, we cannot guarantee that the information will be completely protected at all times. For example, our Services may affected by actions outside our control, such as hacking. You acknowledge that you provide personal information to us at your own risk.
 
-## Children’s Privacy
+### Children’s Privacy
 
 Protecting the privacy of children is especially important. For that reason, we never collect or maintain information from those we actually know are under 13, and no part of our Services is structured to attract anyone under 13.
 
-## Questions
+### Questions
 
 If you have questions or concerns about this privacy policy, please email us at [support@photoephemeris.com](mailto:support@photoephemeris.com).
 
-## Changes To This Policy
+### Changes To This Policy
 
 Crookneck Consulting LLC reserves the right to change this policy at any time without notice to you. Please revisit this page from time to time to check for updates. Your continued use of our Services following the posting of changes to this policy constitutes your acceptance of those changes.
