@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228012843id_/https%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226124630id_/https%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center | Sweetwater
 
@@ -43,7 +43,7 @@ In order to protect your information, we have put in place appropriate electroni
 
 ### How You Can Review or Correct Your Information
 
-To review or correct your personal information, or to change your communication preferences, please call us at 800-222-4700. Your Sales Engineer will be glad to help. You may choose to stop receiving promotional communications at any time. If you have subscribed to any of our email newsletters, you may unsubscribe anytime.
+To review or correct your personal information, or to change your communication preferences, please call us at (800) 222-4700. Your Sales Engineer will be glad to help. You may choose to stop receiving promotional communications at any time. If you have subscribed to any of our email newsletters, you may unsubscribe anytime.
 
 ### Links to Other Websites
 
@@ -53,7 +53,7 @@ Sweetwater is not responsible for the content or practices employed by other web
 
 By using our website you consent to our collection and use of your personal information as described in this Policy. If we change our policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
-This policy was last updated on January 16, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-222-4700 or [contact us](https://web.archive.org/about/contact/). 
+This policy was last updated on January 16, 2006. If you have any questions or concerns about this privacy policy, please call us at (800) 222-4700 or [contact us](https://web.archive.org/about/contact/). 
 
 #### Still have questions?
 
