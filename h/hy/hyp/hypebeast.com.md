@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628212434id_/https%3A//hypebeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023647id_/https%3A//hypebeast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HYPEBEAST
+
+Privacy Policy
 
 _For website visitors, app users, account holders and customers from the European Union (“EU”), please click _here_ for details to see to how we are complaint with the EU’s General Data Protection Regulation Policy (“GDPR”). _
 
@@ -45,20 +47,20 @@ Our servers may automatically collect automatic and/or aggregate information abo
 
 We may collect, use, store and provide your personal data for any of the following purposes, including:
 
-  * To enhance or improve user experience, the 101 Sites and/or our products and/or services, or to facilitate our performance of our services or any services offered on the 101 Sites.
+  * To enhance or improve user experience, the 101 Sites and/or our products and/or services, or to facilitate our performance of our services or any services offered on the 101 Sites. 
   * To register, verify, process and maintain your account on the 101 Sites.
-  * To process, verify, operate, manage, administer and maintain membership programs for our users, including but not limited to the HBX VIP Membership Program, HBX Referral Program, etc.
+  * To process, verify, operate, manage, administer and maintain membership programs for our users, including but not limited to the HBX VIP Membership Program, HBX Referral Program, etc. 
   * To process your orders and/or transactions on the 101 Sites and/or for our products and/or services.
-  * To conduct and process any contests, raffle sweepstakes, giveaways and/or surveys that we may from time to time organize in relation to the 101 Sites, our business, products and/or services, and to announce the winners of the relevant contests and/or sweepstakes (as the case may be) on the 101 Sites or any other medium/channels as may be required under the applicable laws.
-  * To communicate with you about changes/revisions to our Privacy Policy, Terms & Conditions, our websites or respond to inquiries.
-  * To send e-mails and/or other marketing communications about our websites and/or other news, product, or promotional sale alerts, related products and/or services, or updates for 101 Sites, provided that we have obtained your explicit consent to do so.
-  * To detect, investigate, identify and protect against and/or preventing fraudulent transactions and other misuses of our websites and/or other activities on the 101 Sites which may violate our Privacy Policy, Terms & Conditions or may be illegal.
+  * To conduct and process any contests, raffle sweepstakes, giveaways and/or surveys that we may from time to time organize in relation to the 101 Sites, our business, products and/or services, and to announce the winners of the relevant contests and/or sweepstakes (as the case may be) on the 101 Sites or any other medium/channels as may be required under the applicable laws. 
+  * To communicate with you about changes/revisions to our Privacy Policy, Terms & Conditions, our websites or respond to inquiries. 
+  * To send e-mails and/or other marketing communications about our websites and/or other news, product, or promotional sale alerts, related products and/or services, or updates for 101 Sites, provided that we have obtained your explicit consent to do so. 
+  * To detect, investigate, identify and protect against and/or preventing fraudulent transactions and other misuses of our websites and/or other activities on the 101 Sites which may violate our Privacy Policy, Terms & Conditions or may be illegal. 
   * To enforce our Terms & Conditions and Privacy Policy.
-  * To provide third party service provider(s) engaged by us to provide services for or in relation to the 101 Sites, to process data on our behalf, to provide information technology support to us and/or conduct maintenance of our servers, data banks and databases, including but not limited to IT contractor(s), website analytic service provider(s), data processor(s) and service provider(s) for database management systems.
-  * To provide third party content provider(s) engaged by us, including interactive and social media providers, to provide services for or in relation to the 101 Sites, to allow the provider to host the content on our sites
-  * To provide our third-party advertising and promotional agencies and consultants and those organisations or online platforms selected by us to carry out marketing campaigns on our behalf and to measure the delivery and effectiveness of such advertisements (for example, client campaign tracking)
+  * To provide third party service provider(s) engaged by us to provide services for or in relation to the 101 Sites, to process data on our behalf, to provide information technology support to us and/or conduct maintenance of our servers, data banks and databases, including but not limited to IT contractor(s), website analytic service provider(s), data processor(s) and service provider(s) for database management systems. 
+  * To provide third party content provider(s) engaged by us, including interactive and social media providers, to provide services for or in relation to the 101 Sites, to allow the provider to host the content on our sites 
+  * To provide our third-party advertising and promotional agencies and consultants and those organisations or online platforms selected by us to carry out marketing campaigns on our behalf and to measure the delivery and effectiveness of such advertisements (for example, client campaign tracking) 
   * To purchaser(s)/assignee(s) as part of any re-organization, merger, transfer or sale of our business.
-  * To comply with or as permitted by any applicable laws or regulations, court order or lawful request from any government authority.
+  * To comply with or as permitted by any applicable laws or regulations, court order or lawful request from any government authority. 
 
 
 
@@ -135,5 +137,3 @@ Severance of any provision of this Privacy Policy is held to be invalid or unenf
 ### 16\. Contact
 
 Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be directed to info@hypebeast.com. You have the right to request access to and/or correction of your personal data held by us. If you wish to make such request, please contact us by email marking “Attention: Personal Data Access / Correction Request” on your correspondence.
-
-Last Updated Date: May 25, 2018
