@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodmantra.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626070756id_/https%3A//www.bollywoodmantra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodmantra.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226150620id_/https%3A//www.bollywoodmantra.com/privacy) for the most accurate reproduction.*
 
 # Bollywood News, Pictures and Reviews | Bollywood Mantra
 
@@ -81,11 +81,11 @@ Advertisements may appear on this Site may be delivered to you by Bollywood Mant
 
 **6) Accessing and Updating Your Personal Information and Preferences**
 
-We provide mechanisms for updating and correcting your personal information for many of our services. If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We provide mechanisms for updating and correcting your personal information for many of our services. If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to hello@bollywoodmantra.com 
 
 **7) Email Choice/Opt-out**
 
-If any user who receives an email from the Site and would prefer not to receive such communications in the future, [he or she] can do so by following the instructions in the emails. In addition, you may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will make commercially reasonable efforts to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
+If any user who receives an email from the Site and would prefer not to receive such communications in the future, [he or she] can do so by following the instructions in the emails. In addition, you may send an email to hello@bollywoodmantra.com. We will make commercially reasonable efforts to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
 
 **8) Children's Privacy and Parental Controls**
 
@@ -101,7 +101,7 @@ Bollywood Mantra reserves the right to change this Privacy Policy from time to t
 
 **11) CONTACT INFORMATION:**
 
-If you have any questions or concerns regarding this Privacy Policy please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or concerns regarding this Privacy Policy please contact: hello@bollywoodmantra.com 
 
   
 
