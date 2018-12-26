@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familydollar.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817010846id_/https%3A//www.familydollar.com/legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familydollar.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226163924id_/https%3A//www.familydollar.com/legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
