@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114143725id_/https%3A//www.lowes.ca/articles/lowes-companies-canada-ulc-privacy-statement_a757.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226043257id_/https%3A//www.lowes.ca/articles/lowes-companies-canada-ulc-privacy-statement_a757.html) for the most accurate reproduction.*
 
 # Lowe's Companies Canada, ULC Privacy Statement | Lowe's Canada
 
-Last updated March 17, 2016
+Effective Date: November 14, 2017
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Lowe's Companies Canada, ULC and its subsidiaries and affiliates ("Lowe's") valu
 
 **A. Scope**
 
-Lowe's is a global organization with legal entities, business processes, management structures, and technical systems that cross international borders. This Privacy Statement applies only to personal information collected by Lowe's operations at physical locations in Canada and on Lowe's Canadian websites and domains, such as [www.lowes.ca](https://web.archive.org/), unless a statement posted on a specific Lowe's Canadian website or at a Lowe's physical location in Canada states that a different privacy statement applies. This Privacy Statement applies to information that constitutes "personal information" under applicable privacy legislation.
+Lowe's is a global organization with legal entities, business processes, management structures, and technical systems that cross international borders. This Privacy Statement applies only to personal information collected by Lowe's operations at physical locations in Canada and on Lowe's Canadian websites and domains, such as [www.lowes.ca](https://web.archive.org/), unless a statement posted on a specific Lowe's Canadian website or at a Lowe's physical location in Canada states that a different privacy statement applies. This Privacy Statement does not apply to non-Lowe’s Canada branded stores, such as RONA, Réno-Dépôt, or Marcil, and does not apply to other Lowe’s entities or websites, such as [www.lowes.com](https://web.archive.org/) or [www.rona.ca](https://web.archive.org/), [www.renodepot.com](https://web.archive.org/), [www.dickslumber.com](https://web.archive.org/), [www.marcilcdr.com/en](https://web.archive.org/), which are governed by their own privacy statements.
 
 **B. Lowe's Accountability**
 
@@ -28,7 +28,7 @@ Lowe's may collect personal information that you provide when you:
   * Request delivery, warranty or repair services;
   * Contact Lowe's customer service representatives or other employees by phone or in one or our stores;
   * Visit our website at [www.lowes.ca](https://web.archive.org/);
-  * Use any Lowe's mobile app; 
+  * Use any Lowe's mobile app;
   * Enter into a contest or respond to one of our surveys;
   * Make a credit application;
   * Apply for employment or accept employment;
@@ -41,7 +41,7 @@ Lowe's may also collect personal information from public sources and from third-
 
 **A. Collection of Personal Information in Stores or over the Telephone**
 
-At the point-of-sale, we may ask for your telephone number and/or postal code. You may decline to provide this information. Telephone numbers are collected primarily to assist in returning products without a receipt, but may also be used to perform customer analysis and to otherwise assist us in enhancing our customers' shopping experience. Postal codes are collected to help understand what neighbourhoods Lowe's stores are serving and the purchasing interests of those neighbourhoods.
+At the point-of-sale, we may ask for your telephone number, postal code, and/or your Air Miles® card or collector number (if applicable). You may decline to provide this information. Telephone numbers are collected primarily to assist in returning products without a receipt, but may also be used to perform customer analysis and to otherwise assist us in enhancing our customers' shopping experience. Postal codes are collected to help understand what neighbourhoods Lowe's stores are serving and the purchasing interests of those neighbourhoods. We may use your Air Miles® information to report your purchases to that program. We may also use the data to perform customer analytics and to otherwise assist us in enhancing our customers' shopping experience.
 
 If you use a debit or credit card for any of your purchases, Lowe's collects the payment card information necessary to complete each transaction. Lowe's retains this information for accounting and auditing purposes and to comply with our obligations to your credit or debit card company. Lowe's may also use this information to process a request to return an item or to provide a refund or exchange, as well as for analysis and to comply with laws requiring Lowe's to retain financial records of its activities.
 
@@ -55,7 +55,7 @@ If you rent a truck/van or other equipment, Lowe's may collect, on its behalf or
 
 Lowe's may conduct video surveillance and recording of its stores and other premises for security, loss prevention, and safety purposes, and to monitor in-store traffic patterns, customer counts and interests, and perform similar analytics. Where video surveillance is used, recordings are kept in a secure area. Lowe's policies limit access to any video surveillance to appropriate personnel, including loss prevention employees and senior management. Video surveillance recordings are routinely destroyed unless they are needed for investigations of an incident or legal proceedings.
 
-If you telephone Lowe's to make an inquiry, request information, provide a compliment, make a complaint, or for any other reason, Lowe's may ask for personal information in order to assist you. For example, Lowe's may collect your contact information so that it can later respond to you. Lowe's may also ask for information about the product or service that that you purchased or about which you have expressed an interest so that it can process your inquiry and provide you with an opportunity to learn about other products or services that may be of interest to you. Calls to or from customer service centers or other phone support lines may be monitored or recorded for quality control, training, security, and analytics purposes.
+If you telephone Lowe's to make an inquiry, request information, provide a compliment, make a complaint, or for any other reason, Lowe's may ask for personal information in order to assist you. For example, Lowe's may collect your contact information so that it can later respond to you. Lowe's may also ask for information about the product or service that that you purchased or about which you have expressed an interest so that it can process your inquiry and provide you with an opportunity to learn about other products or services that may be of interest to you. Calls to or from customer service centres or other phone support lines may be monitored or recorded for quality control, training, security, and analytics purposes.
 
 **B. Collection of Personal Information Online**
 
@@ -73,7 +73,7 @@ If you choose to purchase products online from Lowe's websites you will need to 
 
 
 
-Your order information will also be used to track and analyze shopping trends. Lowe's requests a phone number in case one of our Customer Care representatives need to reach you, such as in order to arrange a delivery. Lowe's requests an email address because we send transactional e-mails acknowledging receipt of your order and providing updates on the processing of your order. You may also be given the choice of receiving future marketing e-mails or newsletters at the e-mail address you provide.
+You may also choose to provide your Air Miles® Information if you would like to earn miles on your purchase under our [Air Miles® Reward Program](https://www.lowes.ca/articles/air-miles-reward-program_a3379.html). Your order information will also be used to track and analyze shopping trends. Lowe's requests a phone number in case one of our Customer Care representatives need to reach you, such as in order to arrange a delivery. Lowe's requests an email address because we send transactional e-mails acknowledging receipt of your order and providing updates on the processing of your order. You may also be given the choice of receiving future marketing e-mails or newsletters at the e-mail address you provide.
 
 If you choose to apply on-line for employment with Lowe's, the information you provide will be directed to Lowe's third-party career portal (operated by IBM) which collects the information on Lowe's behalf. Lowe's collects your personal information during the employment application process in order to evaluate your application and to make hiring decisions.
 
@@ -83,7 +83,7 @@ When you visit Lowe's websites, such as [www.lowes.ca](https://web.archive.org/)
 
 Lowe's websites may use HTTP cookies, HTML5 cookies, Flash cookies and other types of local storage (such as browser-based or plugin-based local storage). Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings. Lowe's may use "session" cookies (which do not remain on your computer after you close your browser) and "persistent" cookies (which do remain on your computer until you delete them or they expire.) Your browser may provide the ability to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. These settings generally do not work for Flash Cookies, but you may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)  and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). Please note, however, that if you disable cookies, you may not be able to use all of the features and functions of our websites.
 
-Lowe's websites, e-mails, and electronic newsletters may contain tags known as "Web beacons" or "single-pixel gifs," which are small electronic images used to help deliver cookies on our sites, count visitors to our webpages, determine whether e-mails are opened, and for other operational purposes. We may work with other companies by sharing information about the use of our beacons or to place beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement or product on one website results in a purchase or other action on other sites. Our webpages may also contain Web beacons from third parties, which help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other website operations. These Web beacons may allow the third parties to set or read a cookie on your computer. 
+Lowe's websites, e-mails, and electronic newsletters may contain tags known as "Web beacons" or "single-pixel gifs," which are small electronic images used to help deliver cookies on our sites, count visitors to our webpages, determine whether e-mails are opened, and for other operational purposes. We may work with other companies by sharing information about the use of our beacons or to place beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement or product on one website results in a purchase or other action on other sites. Our webpages may also contain Web beacons from third parties, which help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other website operations. These Web beacons may allow the third parties to set or read a cookie on your computer.
 
 E-mails from Lowe's often use links designed to lead you to Lowe's materials or third-party materials on the Web, after redirection through Lowe's servers. The redirection system allows Lowe's to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives. Such web links may also allow Lowe's to determine whether you have clicked a link in an e-mail, and this information about the interaction may be connected to your personal information. If you do not want Lowe's to collect information about the links that you click, you can change your choice about how you receive communications from Lowe's (i.e. choose a text-based version of the message where available) or choose not to click links in an e-mail that Lowe's sends.
 
@@ -101,7 +101,7 @@ Lowe's may also collect information from commercially available sources to whom 
 
 In the event you apply for a Lowe's Consumer Card ("LCC"), Lowe's Project Card ("LPC"), Lowe's Business Account ("LBA"), or Lowe's Account Receivable Account ("LAR") (collectively "Lowe's Private Label Credit Products"), you are providing your information directly to Synchrony Financial Canada, who is the merchant that issues the Lowe's Private Label Credit Products in Canada. The personal information that may be required includes your name, current address, prior address (if applicable), telephone number(s), e-mail address, your monthly income, and other information necessary to confirm your identity and that of the other Authorized Users of your Lowe's Private Label Credit Products. This information may be used by Synchrony Financial Canada in determining whether to extend you credit and manage your credit account.
 
-If you choose to manage any of your Lowe's Private Label Credit Products using Synchrony Financial Canada's Online Credit Center or if you choose to apply online, you will be providing your information directly to Synchrony Financial Canada. Lowe's does not access or use the information you provide in your application to Synchrony Financial Canada outside of what is required to service your account.
+If you choose to manage any of your Lowe's Private Label Credit Products using Synchrony Financial Canada's Online Credit Centre or if you choose to apply online, you will be providing your information directly to Synchrony Financial Canada. Lowe's does not access or use the information you provide in your application to Synchrony Financial Canada outside of what is required to service your account.
 
 Please refer to Synchrony Financial Canada's Privacy Policies on how Synchrony Financial Canada may use your personal information and the personal information of your Authorized Users.
 
@@ -115,9 +115,9 @@ We may use the personal information we collect for a range of business purposes,
   * Conduct and administer contests, surveys, and sweepstakes;
   * Provide customers with information about other "Lowe's products" and services, or those of companies with whom we are working, that may be of interest to them;
   * Customize experiences in Lowe's stores and online, including customized advertisements and offers;
-  * With respect to information collected through Lowe's Careers website, evaluate applications for employment and contact applicants regarding possible employment; 
-  * Operate, evaluate, and improve Lowe's business, products, and services (including developing new products and services; managing communications; performing market research and data analytics; determining and managing the effectiveness of advertising and marketing; analyzing products, services, websites, and applications; administering websites and applications; and perform accounting, auditing, billing, reconciliation and collection activities); 
-  * Protect against and prevent fraud and unauthorized transactions, investigate and manage claims, reduce risk exposure, and generally improve and provide security; and 
+  * With respect to information collected through Lowe's Careers website, evaluate applications for employment and contact applicants regarding possible employment;
+  * Operate, evaluate, and improve Lowe's business, products, and services (including developing new products and services; managing communications; performing market research and data analytics; determining and managing the effectiveness of advertising and marketing; analyzing products, services, websites, and applications; administering websites and applications; and perform accounting, auditing, billing, reconciliation and collection activities);
+  * Protect against and prevent fraud and unauthorized transactions, investigate and manage claims, reduce risk exposure, and generally improve and provide security; and
   * Comply with and enforce applicable legal and audit requirements.
 
 
@@ -132,7 +132,7 @@ With your consent we may disclose limited information about you to a third party
 
 **B. Legal, Enforcement, Security, and Investigation**
 
-We may disclose personal information about you (1) if we believe we are required to do so by law, regulation or legal process, such as a court order or subpoena; (2) as we deem appropriate or necessary in response to requests by government agencies, such as law enforcement or Police Services authorities, or tax authorities; (3) when we believe disclosure is appropriate or necessary to protect the rights, property, or safety of Lowe's, our customers, or others, including to prevent physical, financial or other harm, injury or loss, or to collect debt you owe; or (4) in connection with an investigation of suspected or actual unlawful activity. 
+We may disclose personal information about you (1) if we believe we are required to do so by law, regulation or legal process, such as a court order or subpoena; (2) as we deem appropriate or necessary in response to requests by government agencies, such as law enforcement or Police Services authorities, or tax authorities; (3) when we believe disclosure is appropriate or necessary to protect the rights, property, or safety of Lowe's, our customers, or others, including to prevent physical, financial or other harm, injury or loss, or to collect debt you owe; or (4) in connection with an investigation of suspected or actual unlawful activity.
 
 **C. Sale or Transfer of Business or Assets**
 
@@ -214,7 +214,7 @@ Lowe's websites and applications may provide links to third-party websites for y
 
 **E. Children**
 
-Generally, Lowe's does not knowingly collect personal information from persons under the age of 18. Nor does Lowe's target its websites to children under 13. Lowe's encourages parents and guardians to take an active role in their children's online activities and interests. If Lowe's determines that personal information has been provided by a person under the age of 18, Lowe's will delete that information as soon as practical unless such deletion is inappropriate given the context (for example, employment applications, loss prevention, fraud and other investigative purposes). If you become aware that such personal information has been provided by a person under the age of 18, please submit a written request to Lowe's Privacy Officer at the How to Contact Us address below so the information can be deleted. 
+Generally, Lowe's does not knowingly collect personal information from persons under the age of 18. Nor does Lowe's target its websites to children under 13. Lowe's encourages parents and guardians to take an active role in their children's online activities and interests. If Lowe's determines that personal information has been provided by a person under the age of 18, Lowe's will delete that information as soon as practical unless such deletion is inappropriate given the context (for example, employment applications, loss prevention, fraud and other investigative purposes). If you become aware that such personal information has been provided by a person under the age of 18, please submit a written request to Lowe's Privacy Officer at the How to Contact Us address below so the information can be deleted.
 
 **F. Changes to this Privacy Statement**
 
@@ -226,7 +226,7 @@ Lowe's values your opinions. If you have a privacy inquiry, compliment or compla
 
 Lowe's Companies Canada, ULC  
 Attn: Lowe's Privacy Officer  
-5160 Yonge St.  
-Suite 200, Box 25  
-North York, Ontario  
-M2N 6L9
+5150 Spectrum Way  
+Suite 200  
+Mississauga, Ontario  
+L4W 5G2
