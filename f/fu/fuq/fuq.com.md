@@ -1,26 +1,17 @@
-> *The following text is extracted and transformed from the fuq.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616045226id_/https%3A//www.fuq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuq.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226053547id_/http%3A//fuq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## for fuq.com
 
-Last Modified: June 4, 2018  
+Last Modified: December 19, 2018  
 
 
 This website fuq.com ('site') is operated by PB Web Media B.V.('we', 'us', 'our'). We process personal and non-personal (anonymous) data about our site's visitors ('you', 'your'). This Privacy Policy is intended to explain to you what personal data we process through your use of the site and what we do with that data. By visiting our site and using our services, you agree to the terms stated in this Privacy Policy. 
 
 ### 1\. Who we are
 
-PB Web Media B.V. Is a Dutch company, based in Haarlem. Our services mainly consist of providing website traffic to our clients. Our contact information: 
-
-PB Web Media B.V.  
-Wagenweg 40  
-2012 NE, Haarlem  
-The Netherlands  
-+31 (0)23 5477007  
-
-
-If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20fuq.com%20site). 
+PB Web Media B.V. is a company based in The Netherlands. Our services mainly consist of providing website traffic to our clients. If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact our Data Protection Officer at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20fuq.com%20site). 
 
 ### 2\. General
 
@@ -69,7 +60,7 @@ We only retain this personal data for as long as necessary for the purposes ment
 
 ### 5\. Personal data we process
 
-**Passive personal data obtained through cookies and other technical information provided by you, your browser or your device.**
+###### Passively provided personal data obtained through cookies and other technical information provided by you, your browser or your device.
 
 #### A. Cookies
 
@@ -96,6 +87,7 @@ You can easily withdraw your consent to our use of cookies by clearing your cook
 
   * **Analytical cookies** \- This website uses first party analytical cookies to collect information about your visit to this site. 
     * _First Party Analytics_ \- We place our own analytical cookie. The information in this persistent cookie has a retention period of 12 months. We consider the data we process through analytical cookies anonymous, since this information does not relate to an identified or identifiable natural person. We may disclose aggregated, anonymous information to third parties to operate our services properly. 
+    * _Third Party Analytics by Google Analytics_ \- A third party analytical cookie is placed by Google as part of our use of the service Google Analytics. Google may transfer this information to third parties only when required by law or in cases where third parties process the information on Google's behalf. We have no influence on this. We have not allowed Google to use the information acquired through the analytical cookies for other Google services or advertisements. The information Google collects is anonymized as much as possible. We have asked them to anonymize any IP-addresses by changing the last octet of each IP. The information is transmitted to Google and stored on its servers in the United States. Google is part of the Privacy Shield Framework, to comply with the rules of the GDPR for companies that process personal data from residents of European Union member countries and Switzerland. We have also executed a Data Processing Agreement (or Data Processing Amendment) with Google regarding their Google Analytics service. Please note that Google offers a browser Add-on which enables you opt-out of Google Analytics' use of your (personal) data. You can find the add-on here: <https://tools.google.com/dlpage/gaoptout>. 
   * **Orientation filter cookie** \- We store your orientation setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
   * **Language filter cookie** \- We store your language setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
 
@@ -105,8 +97,12 @@ For an overview of cookies that are placed through our site see the table below:
 
 Name | Type | Purpose  
 ---|---|---  
-ta (referrer, trackerId, isReturningVisitor, clickCount, longTermTrackerId, longTermFirstVisit, utmSource, hasMultipleSessions) | Persistent cookie | First party analytics  
+ta | Persistent cookie | First party analytics  
 variation | Persistent cookie | First party analytics  
+_gid | Persistent cookie | Third party analytics by Google  
+_ga | Session based cookie | Third party analytics by Google  
+_gat | Persistent cookie | Third party analytics by Google  
+_utma | Persistent cookie | Third party analytics by Google  
 session | Session based cookie | First party cookie, stores user session  
 tag | Persistent cookie | First party cookie, stores orientation setting  
 locale | Persistent cookie | First party cookie, stores language setting  
@@ -115,17 +111,17 @@ locale | Persistent cookie | First party cookie, stores language setting
 
 When you visit and interact with our site, your browser or device automatically transmits certain technical information to our website. Such information enables us to know e.g. which browser type you use, what your browser settings are, what country you are in, what your referrer is, etc. With this information we can optimize your user experience by showing the site in your language, optimize rankings, customize the user interface etc. But mainly we use this information for analytical, statistical and research purposes, such as tracking referrals and incoming and outgoing traffic. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
 
-#### C. Active personal data obtained from your interactions with us, such as using specific website features or sending (e-mail) messages.
+###### Actively provided personal data obtained through your interactions with us, such as using specific website features or sending (e-mail) messages.
 
-We may temporarily collect your personal data when you decide to provide this to us when using one of our website features. For example, you may voluntarily provide us with your e-mail address when reporting malware through our report tool or other data by sending us a (e-mail) message. 
+We may temporarily process your personal data if you decide to provide this to us when using one of our website features. For example, you may voluntarily provide us with your e-mail address when reporting malware through our report tool or provide us with other (personal) data by sending us a (e-mail) message. 
 
-##### E-mails and other messages /mediums
+##### E-mails and other messages/mediums
 
 The data processed by sending us an e-mail is limited to your e-mail-address, the contents of the message and the standard technical information included in e-mails. We will process whatever personal data you included in the message. However, we will only process this data to handle your request or feedback. The period for which we store any personal data in your e-mail depends on the extent of your request and our legal obligation to retain such data to comply with laws and regulations, if any. The same goes for any other messages your send to us directly via other mediums, such as Skype or social media. 
 
 ##### Report tool
 
-If there is an issue with content on our site, you can notify us by using our Report Tool. The information we process with such a report is stored temporarily and limited to information about your browser settings and your IP-address. We will mask this IP-address as soon as possible and the browser information is limited to technical data, which we consider anonymous information since this does not relate to an identified or identifiable natural person. Any personal (contact) information you voluntarily provide will be temporarily processed by us, depending on the extent of your request and our legal obligation to retain such data, if any. We will solely use this information to process your report and for fraud prevention. 
+If there is an issue with content on our site, you can notify us by using our Report Tool. The information we process with such a report is stored temporarily and limited to technical data, which we consider anonymous information since this does not relate to an identified or identifiable natural person. Any personal (contact) information you voluntarily provide will be temporarily processed by us, depending on the extent of your request and our legal obligation to retain such data, if any. We will solely use this information to process your report and for fraud prevention. 
 
 ##### No memberships, subscriptions, accounts, profiles etc.
 
@@ -133,19 +129,16 @@ We do not provide memberships, subscriptions, accounts, profiles or any other me
 
 ##### Overview
 
-Below you will find an overview of the information that you might have chosen to actively provide to us. 
+Below you will find an overview of the information (including personal data) that we process, if you chose to actively provide this information to us. 
 
-Name | Purpose | Storage period  
+E-mails (or other messages) | Purpose of storage | Storage period  
 ---|---|---  
-Name | Process your request | Deleted after your request is processed*  
-Contact info | Process your request | Deleted after your request is processed*  
-Other personal data you include in your message | Process your request | Deleted after your request is processed*  
-IP-address | Process your report | Masked as soon as possible  
-Browser info | Process your report | n/a, Anonymous data.  
-Country | Process your report | n/a, Anonymous data.  
-Language | Process your report | n/a, Anonymous data.  
-Date and time of report | Process your report | n/a, Anonymous data.  
-|  | * Statutory storage obligations might require a longer storage period.  
+E-mail address and/or username/account-name | To process your request | Deleted after 5 years *  
+Personal data included in your message (if you chose to provide this to us) | To process your request | Deleted after 5 years *  
+Report Tool | Purpose of storage | Storage period  
+E-mail address (if you chose to provide this to us) | To process your report | Masked after 1 month  
+Any other (technical) information included in your report | To process your report | Deleted after 1 year  
+|  | * The extent of your request might result in a longer storage period. This will be communicated to you if applicable.  
   
 ### 6\. What we do with your personal data
 
@@ -202,4 +195,4 @@ We reserve the right to make changes to this Privacy Policy. We recommend that y
 
 ### 11\. Any Questions
 
-If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20fuq.com%20site). 
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact our Data Protection Officer at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20fuq.com%20site). 
