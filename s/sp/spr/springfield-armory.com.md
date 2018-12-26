@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the springfield-armory.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220014249id_/https%3A//www.springfield-armory.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springfield-armory.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226053551id_/https%3A//www.springfield-armory.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Springfield Armory Privacy Policy - Springfield Armory
+# Springfield Armory Privacy Policy | Springfield Armory
 
 * * *
 
